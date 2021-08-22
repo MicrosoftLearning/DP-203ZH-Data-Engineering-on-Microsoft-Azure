@@ -66,7 +66,7 @@
 
     ![图中突出显示了“管理”、“新建”和“Azure Cosmos DB 链接服务”选项。](media/create-cosmos-db-linked-service-step1.png "New linked service")
 
-3. 将链接服务命名为 `asacosmosdb01` **(1)**，选择 **Cosmos DB 帐户名称** (`asacosmosdbSUFFIX`)，然后将 **“数据库名称”** 值设置为 `CustomerProfile` **(2)***。选择 **“测试连接”** 以确保成功 **(3)**，然后选择 **“创建”(4)**。
+3. 将链接服务命名为 `asacosmosdb01` **(1)**，选择 **Cosmos DB 帐户名称** (`asacosmosdbSUFFIX`)，然后将 **“数据库名称”** 值设置为 `CustomerProfile` **(2)**。选择 **“测试连接”** 以确保成功 **(3)**，然后选择 **“创建”(4)**。
 
     ![新建 Azure Cosmos DB 链接服务。](media/create-cosmos-db-linked-service.png "New linked service")
 
@@ -158,7 +158,7 @@ Tailwind Traders 有一个名为 `OnlineUserProfile01` 的 Azure Cosmos DB 容�
 
     ![图中突出显示了按钮。](media/new-container-button.png "New Container")
 
-3. 对于 **“数据库 ID”**，请选择 **“使用现有项”**，然后选择 **`CustomerProfile` (1)**。在 **“容器 ID”(2)** 中输入 `UserProfileHTAP`，然后在 **“分区键”(3)** 中输入 **`/userId`**。对于 **“吞吐量”**，请选择 **“自动缩放”(4)**，然后输入 **`4000`** 作为 **“最大 RU/s”** 值。最后，将 **“分析存储”** 设为 **“开启”(6)**，然后选择 **“确定”**。
+3. 对于 **“数据库 ID”**，请选择 **“使用现有项”**，然后选择 **`CustomerProfile` (1)**。在 **“容器 ID” (2)** 中输入 **`UserProfileHTAP`**，然后在 **“分区键” (3)** 中输入 **`/userId`**。对于 **“吞吐量”**，请选择 **“自动缩放” (4)**，然后输入 **`4000`** 作为 **“最大 RU/s”** 值。最后，展开 **“高级”** 并将 **“分析存储”** 设为 **“开启” (6)**，然后选择 **“确定”**。
 
     ![已按照描述配置表单。](media/new-container.png "New container")
 
@@ -204,7 +204,7 @@ Tailwind Traders 有一个名为 `OnlineUserProfile01` 的 Azure Cosmos DB 容�
 
     ![已选择 Azure Cosmos DB。](media/dataset-type.png "New dataset")
 
-7. 对于 **“名称”**，请输入 **`cosmos_db_htap` (1)**。选择 **`asacosmosdb01` (2)**、 **“链接服务”**。选择 **`UserProfileHTAP` (3)**、 **“集合”**。在 **“导入架构”(4)** 下选择 **“从连接/存储”**，然后选择 **“确定”**。
+7. 对于 **“名称”**，请输入 **`cosmos_db_htap` (1)**。选择 **`asacosmosdb01` (2)**、 **“链接服务”**。选择 **`UserProfileHTAP` (3)**、 **“集合”**。在 **“导入架构”(4)** 下选择 **“从连接/存储”**，然后选择 **“确定”(5)**。
 
     ![已按照描述配置表单。](media/dataset-properties.png "Set properties")
 
@@ -238,7 +238,7 @@ Tailwind Traders 正在尝试解决如何使用每个用户标识的首选产品
 
 ### 任务 1：创建笔记本
 
-1. 导航到 **“数据”**中心。
+1. 导航到 **“数据”** 中心。
 
     ![“数据”中心。](media/data-hub.png "Data hub")
 
@@ -260,7 +260,7 @@ Tailwind Traders 正在尝试解决如何使用每个用户标识的首选产品
 
     请注意，在“单元格 1”的生成代码中，`spark.read` 格式已设置为 **`cosmos.olap` (2)**。这表示 Synapse Link 将使用容器的分析存储。如果希望连接到事务存储，以便读取更改源中的数据或写入容器，则可改为使用 `cosmos.oltp`。
 
-    > **备注：**不能写入分析存储，而只能从分析存储中读取数据。如果希望将数据加载到容器，则需要连接到事务存储。
+    > **备注：** 不能写入分析存储，而只能从分析存储中读取数据。如果希望将数据加载到容器，则需要连接到事务存储。
 
     第一个 `option` 配置 Azure Cosmos DB 链接服务的名称 **(3)**。第二个 `option` 定义要从中读取数据的 Azure Cosmos DB 容器 **(4)**。
 

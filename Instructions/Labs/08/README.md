@@ -31,6 +31,8 @@
     - [练习 1：创建、触发和监视管道](#exercise-1-create-trigger-and-monitor-pipeline)
       - [任务 1：创建管道](#task-1-create-pipeline)
       - [任务 2：触发、监视和分析用户配置文件数据管道](#task-2-trigger-monitor-and-analyze-the-user-profile-data-pipeline)
+    - [练习 2：清理](#exercise-2-cleanup)
+      - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
 
 ## 实验室设置和先决条件
 
@@ -183,7 +185,7 @@ Azure Cosmos DB 是可以在映射数据流中使用的一种数据源。Tailwin
 
     ![图中突出显示了“数据”菜单项。](media/data-hub.png "Data hub")
 
-2. 在工具栏中选择 **“+”** **(1)**，然后选择 **“集成数据集”(2)** 以创建新数据集。
+2. 在工具栏中选择 “+” **(1)**，然后选择 **“集成数据集”(2)** 以创建新数据集。
 
     ![创建新的数据集。](media/new-dataset.png "New Dataset")
 
@@ -791,7 +793,7 @@ Tailwind Traders 需要将经常购买的产品（从电商系统以 JSON 文件
 
     - **输出流名称**：输入 `DerivedColumnsForMerge`。
     - **传入流**：选择 `JoinTopProductsWithPreferredProducts`。
-    - **列**：提供以下信息（**键入前两个列名称_**）___：
+    - **列**：提供以下信息（***键入前两*个列名称**）：
 
         | 列 | 表达式 | 描述 |
         | --- | --- | --- |
@@ -949,7 +951,7 @@ Tailwind Traders 熟悉 Azure 数据工厂 (ADF) 管道，并且想知道 Azure 
 
     ![图中显示了按照说明在“常规”选项卡上设置名称。](media/pipeline-data-flow-general.png "Name on the General tab")
 
-7. 选择 **“设置”** 选项卡 **(1)**。为 **“数据流”** 选择 `write_user_profile_to_asa` **(2)**，然后确保为 **“在 (Azure IR) 上运行”** 选择 `AutoResolveIntegrationRuntime` **(3)**。选择`General purpose` **计算类型 (4)**，并为 **“内核计数”** 选择`8(+ 8 个内核)` **(5)**。
+7. 选择 **“设置”** 选项卡 **(1)**。为 **“数据流”** 选择 `write_user_profile_to_asa` **(2)**，然后确保为 **“在 (Azure IR) 上运行”** 选择 `AutoResolveIntegrationRuntime` **(3)**。选择`General purpose` **计算类型 (4)**，并为 **“内核计数”** 选择`8 (+ 8 cores)` **(5)**。
 
     ![图中显示了按照说明配置设置。](media/data-flow-activity-settings1.png "Settings")
 
@@ -1007,3 +1009,23 @@ Tailwind Traders 想监视所有管道运行，并查看统计信息以进行性
 8. 选择 `UserTopProductPurchasesASA` 接收器 **(1)** 以查看其详细信息。我们可以看到计算出 **1,622,203 行**，共有 30 个分区。在将数据写入 SQL 表之前，在 ADLS Gen2 中暂存数据大约需要 **8 秒** **(3)**。在本例中，总的接收器处理时间大约为 **44 秒 (4)**。很明显，我们有一个比其他分区大得多的**热分区 (5)**。如果我们需要从此管道中挤出额外的性能，则可以重新评估数据分区，以更均匀地分布分区，从而更好地促进并行数据加载和筛选。我们也可以尝试禁用暂存，以查看处理时间是否有差异。最后，专用 SQL 池的大小会影响将数据引入到接收器所需的时间。
 
     ![图中显示了接收器详细信息。](media/pipeline-user-profiles-data-flow-sink-details.png "Sink details")
+
+### 练习 2：清理
+
+完成以下步骤，释放不再需要的资源。
+
+#### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

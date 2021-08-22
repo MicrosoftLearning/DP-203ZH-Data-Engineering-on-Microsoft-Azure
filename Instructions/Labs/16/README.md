@@ -30,6 +30,8 @@
   - [练习 3：通过 SQL 无服务器可视化数据](#exercise-3-visualize-data-with-sql-serverless)
     - [任务 1：了解 SQL 无服务器的数据湖](#task-1-explore-the-data-lake-with-sql-serverless)
     - [任务 2：通过 SQL 无服务器可视化数据并创建 Power BI 报表](#task-2-visualize-data-with-sql-serverless-and-create-a-power-bi-report)
+  - [练习 4：清理](#exercise-4-cleanup)
+    - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
 
 ## 整个实验室的资源命名
 
@@ -189,29 +191,26 @@
 3. 连接到 **SQLPool01**，然后执行以下查询以获得执行时间的近似值（可能为约 1 分钟）。这将是我们用于在此练习稍后创建的 Power BI 报表中引入数据的查询。
 
     ```sql
-    SELECT count(*) FROM
-    (
-        SELECT
-            FS.CustomerID
-            ,P.Seasonality
-            ,D.Year
-            ,D.Quarter
-            ,D.Month
-            ,avg(FS.TotalAmount) as AvgTotalAmount
-            ,avg(FS.ProfitAmount) as AvgProfitAmount
-            ,sum(FS.TotalAmount) as TotalAmount
-            ,sum(FS.ProfitAmount) as ProfitAmount
-        FROM
-            wwi.SaleSmall FS
-            JOIN wwi.Product P ON P.ProductId = FS.ProductId
-            JOIN wwi.Date D ON FS.TransactionDateId = D.DateId
-        GROUP BY
-            FS.CustomerID
-            ,P.Seasonality
-            ,D.Year
-            ,D.Quarter
-            ,D.Month
-    ) T
+    SELECT
+        FS.CustomerID
+        ,P.Seasonality
+        ,D.Year
+        ,D.Quarter
+        ,D.Month
+        ,avg(FS.TotalAmount) as AvgTotalAmount
+        ,avg(FS.ProfitAmount) as AvgProfitAmount
+        ,sum(FS.TotalAmount) as TotalAmount
+        ,sum(FS.ProfitAmount) as ProfitAmount
+    FROM
+        wwi.SaleSmall FS
+        JOIN wwi.Product P ON P.ProductId = FS.ProductId
+        JOIN wwi.Date D ON FS.TransactionDateId = D.DateId
+    GROUP BY
+        FS.CustomerID
+        ,P.Seasonality
+        ,D.Year
+        ,D.Quarter
+        ,D.Month
     ```
 
     应会看到查询结果 194683820。
@@ -757,3 +756,23 @@
 22. 选择 **`synapse-sql-serverless`** 报表。应也能够查看和编辑此报表。
 
     ![报表嵌入在 Synapse Studio 中。](media/data-synapse-sql-serverless-report.png "Report")
+
+## 练习 4：清理
+
+完成以下步骤，释放不再需要的资源。
+
+### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

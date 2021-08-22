@@ -31,10 +31,12 @@
   - [练习 5 - 避免广泛的记录](#exercise-5---avoid-extensive-logging)
     - [任务 1 - 探索最小日志记录操作的规则](#task-1---explore-rules-for-minimally-logged-operations)
     - [任务 2 - 优化删除操作](#task-2---optimizing-a-delete-operation)
+  - [练习 6：清理](#exercise-6-cleanup)
+    - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
 
 ## 实验室设置和先决条件
 
-> **备注：**如果**不**使用托管实验室环境，而是使用自己的 Azure 订阅，则仅完成`Lab setup and pre-requisites`步骤。否则，请跳转到练习 0。
+> **备注：** 如果**不**使用托管实验室环境，而是使用自己的 Azure 订阅，则仅完成`Lab setup and pre-requisites`步骤。否则，请跳转到练习 0。
 
 **完成此模块的[实验室设置说明](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/blob/main/setup/04/README.md)**。
 
@@ -571,11 +573,9 @@ FROM
 
 3. 分析结果：
 
-    ![数据类型选择对表存储的影响](./media/lab4_data_type_selection.png)
-
     对于数量较少的行（约 3.4 亿），可以看到 `BIGINT` 列类型与 `SMALLINT` 和 `TINYINT` 导致的一些空间差异。
     
-    我们在加载 29 亿行后运行这同一个查询，结果更显著。这里可以得出两个重要的结论：
+    在此实验室之外的试验中，我们在加载了 29 亿行之后运行了同一查询，结果更加显著。从该试验中得出的两个重要结论是：
 
     - 对于 `HEAP` 表，使用 `BIGINT` 而不是 `SMALLINT`（对于 `ProductId`）和 `TINYINT`（对于 `QUANTITY`）的存储影响是约 1 GB (0.8941 GB)。我们在这里只探讨两个列以及中等数量的行（29 亿）。
     - 即使对于 `CLUSTERED COLUMNSTORE` 表（压缩将抵消一些差异），仍存在 12.7 MB 的差异。
@@ -1015,7 +1015,7 @@ CTAS 和 INSERT...SELECT 都是批量加载操作。但两者都受目标表定�
         CustomerId >= 900000
     ```
 
-    查询应在大约 90 秒内执行。所有将保留以完成过程的内容是删除 `Sale_Heap` 表和重命名 `Sale_Heap_v2` to `Sale_Heap`。
+    查询应在大约 90 秒内执行。若要完成该过程，还需首先删除原始的 `Sale_Hash` 表，然后将 `Sale_Hash_v2` 重命名为 `Sale_Hash`。
 
 3. 将前一个操作与经典删除作比较：
 
@@ -1029,3 +1029,23 @@ CTAS 和 INSERT...SELECT 都是批量加载操作。但两者都受目标表定�
     >**备注**
     >
     >查询可能运行较长时间（>12 分钟）。如果时间显著超过运行前一个 CTAS 查询的时间，可以将其取消（因为你已经看到基于 CTAS 的方法的好处）。
+
+## 练习 6：清理
+
+完成以下步骤，释放不再需要的资源。
+
+### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

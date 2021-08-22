@@ -25,6 +25,8 @@
     - [任务 3：在 Synapse 管道中集成基于机器学习的扩充过程](#task-3-integrate-a-machine-learning-based-enrichment-procedure-in-a-synapse-pipeline)
   - [练习 4：使用 Power BI 提供预测结果](#exercise-4-serve-prediction-results-using-power-bi)
     - [任务 1：在 Power BI 报表中显示预测结果](#task-1-display-prediction-results-in-a-power-bi-report)
+  - [练习 5：清理](#exercise-5-cleanup)
+    - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
   - [资源](#resources)
 
 ## 先决条件
@@ -643,6 +645,26 @@ Synapse Analytics 链接服务使用服务主体向 Azure 机器学习进行身�
 8. 在 Synapse Studio 中，选择左侧的 `Data` 中心，导航到 `Linked` 部分的主数据湖帐户，然后打开 `wwi-02 > sale-small-product-quantity-forecast` 路径。删除现有 `ProductQuantity-20201209-11.csv` 文件，然后上传 `ProductQuantity-20201209-12.csv` 文件。这将触发 `Product Quantity Forecast` 管道，从 CSV 文件导入预测请求，并运行预测存储过程。
 
 9. 在 Synapse Studio 中，选择左侧的 `Monitor` 中心，然后选择 `Trigger runs`，以查看最新激活的管道运行。完成管道后，在 Synapse Studio 中刷新 Power BI 报表，以查看更新后的数据。 -->
+
+## 练习 5：清理
+
+完成以下步骤，释放不再需要的资源。
+
+### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")
 
 ## 资源
 

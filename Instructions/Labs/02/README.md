@@ -13,28 +13,30 @@
   - [实验室详细信息](#lab-details)
     - [实验室设置和先决条件](#lab-setup-and-pre-requisites)
   - [练习 0：启动专用 SQL 池](#exercise-0-start-the-dedicated-sql-pool)
-    - [练习 1：实现星型架构](#exercise-1-implementing-a-star-schema)
-      - [任务 1：在 SQL 数据库中创建星型架构](#task-1-create-star-schema-in-sql-database)
-    - [练习 2：实现雪花型架构](#exercise-2-implementing-a-snowflake-schema)
-      - [任务 1：在 SQL 数据库中创建产品雪花型架构](#task-1-create-product-snowflake-schema-in-sql-database)
-      - [任务 2：在 SQL 数据库中创建经销商雪花型架构](#task-2-create-reseller-snowflake-schema-in-sql-database)
-    - [练习 3：实现时间维度表](#exercise-3-implementing-a-time-dimension-table)
-      - [任务 1：创建时间维度表](#task-1-create-time-dimension-table)
-      - [任务 2：填充时间维度表](#task-2-populate-the-time-dimension-table)
-      - [任务 3：将数据加载到其他表](#task-3-load-data-into-other-tables)
-      - [任务 4：查询数据](#task-4-query-data)
-    - [练习 4：在 Synapse Analytics 中实现星型架构](#exercise-4-implementing-a-star-schema-in-synapse-analytics)
-      - [任务 1：在 Synapse 专用 SQL 中创建星型架构](#task-1-create-star-schema-in-synapse-dedicated-sql)
-      - [任务 2：将数据加载到 Synapse 表](#task-2-load-data-into-synapse-tables)
-      - [任务 3：从 Synapse 查询数据](#task-3-query-data-from-synapse)
-    - [练习 5：使用映射数据流更新缓慢变化维度](#exercise-5-updating-slowly-changing-dimensions-with-mapping-data-flows)
-      - [任务 1：创建 Azure SQL 数据库链接服务](#task-1-create-the-azure-sql-database-linked-service)
-      - [任务 2：创建映射数据流](#task-2-create-a-mapping-data-flow)
-      - [任务 3：创建管道并运行数据流](#task-3-create-a-pipeline-and-run-the-data-flow)
-      - [任务 4：查看插入数据](#task-4-view-inserted-data)
-      - [任务 5：更新源客户记录](#task-5-update-a-source-customer-record)
-      - [任务 6：重新运行映射数据流](#task-6-re-run-mapping-data-flow)
-      - [任务 7：验证记录是否已更新](#task-7-verify-record-updated)
+  - [练习 1：实现星型架构](#exercise-1-implementing-a-star-schema)
+    - [任务 1：在 SQL 数据库中创建星型架构](#task-1-create-star-schema-in-sql-database)
+  - [练习 2：实现雪花型架构](#exercise-2-implementing-a-snowflake-schema)
+    - [任务 1：在 SQL 数据库中创建产品雪花型架构](#task-1-create-product-snowflake-schema-in-sql-database)
+    - [任务 2：在 SQL 数据库中创建经销商雪花型架构](#task-2-create-reseller-snowflake-schema-in-sql-database)
+  - [练习 3：实现时间维度表](#exercise-3-implementing-a-time-dimension-table)
+    - [任务 1：创建时间维度表](#task-1-create-time-dimension-table)
+    - [任务 2：填充时间维度表](#task-2-populate-the-time-dimension-table)
+    - [任务 3：将数据加载到其他表](#task-3-load-data-into-other-tables)
+    - [任务 4：查询数据](#task-4-query-data)
+  - [练习 4：在 Synapse Analytics 中实现星型架构](#exercise-4-implementing-a-star-schema-in-synapse-analytics)
+    - [任务 1：在 Synapse 专用 SQL 中创建星型架构](#task-1-create-star-schema-in-synapse-dedicated-sql)
+    - [任务 2：将数据加载到 Synapse 表](#task-2-load-data-into-synapse-tables)
+    - [任务 3：从 Synapse 查询数据](#task-3-query-data-from-synapse)
+  - [练习 5：使用映射数据流更新缓慢变化维度](#exercise-5-updating-slowly-changing-dimensions-with-mapping-data-flows)
+    - [任务 1：创建 Azure SQL 数据库链接服务](#task-1-create-the-azure-sql-database-linked-service)
+    - [任务 2：创建映射数据流](#task-2-create-a-mapping-data-flow)
+    - [任务 3：创建管道并运行数据流](#task-3-create-a-pipeline-and-run-the-data-flow)
+    - [任务 4：查看插入数据](#task-4-view-inserted-data)
+    - [任务 5：更新源客户记录](#task-5-update-a-source-customer-record)
+    - [任务 6：重新运行映射数据流](#task-6-re-run-mapping-data-flow)
+    - [任务 7：验证记录是否已更新](#task-7-verify-record-updated)
+  - [练习 6：清理](#exercise-6-cleanup)
+    - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
 
 ### 实验室设置和先决条件
 
@@ -64,7 +66,7 @@
 
 > 恢复专用 SQL 池后，请**继续下一个练习**。
 
-### 练习 1：实现星型架构
+## 练习 1：实现星型架构
 
 星型架构是关系数据仓库广泛采用的一种成熟的建模方法。它要求建模者将他们的模型表按维度或事实分类。
 
@@ -80,7 +82,7 @@
 
 ![示例星型架构。](media/star-schema.png "Star schema")
 
-#### 任务 1：在 SQL 数据库中创建星型架构
+### 任务 1：在 SQL 数据库中创建星型架构
 
 在本任务中，你将使用外键约束在 SQL 数据库中创建一个星型架构。第一步是创建基本维度表和事实数据表。
 
@@ -105,7 +107,7 @@
     - **服务器**：将 SourceDB 服务器名称值粘贴到这里。
     - **身份验证类型**：选择 `SQL Login`。
     - **用户名**：输入 `sqladmin`。
-    - **密码**：输入你在部署实验室环境时提供的密码。
+    - **密码**：输入你在部署实验室环境时提供的密码，或者托管实验室环境向你提供的密码。
     - **记住密码**：已选中。
     - **数据库**：选择 `SourceDB`。
 
@@ -340,7 +342,7 @@
 
     ![星型架构与关系键一起显示。](media/star-schema-relationships.png "Star schema with relationships")
 
-### 练习 2：实现雪花型架构
+## 练习 2：实现雪花型架构
 
 **雪花型**架构是针对单个业务实体的一组规范化表。例如，Adventure Works 按类别和子类别对产品进行分类。类别被分配到子类别，而产品进而被分配到子类别。在 Adventure Works 关系数据仓库中，产品维度已规范化并存储在三个相关表中：`DimProductCategory`、`DimProductSubcategory` 和 `DimProduct`。
 
@@ -348,7 +350,7 @@
 
 ![示例雪花型架构。](media/snowflake-schema.png "Snowflake schema")
 
-#### 任务 1：在 SQL 数据库中创建产品雪花型架构
+### 任务 1：在 SQL 数据库中创建产品雪花型架构
 
 在此任务中，你需要添加两个新的维度表: `DimProductCategory` 和 `DimProductSubcategory`。在这两个表和 `DimProduct` 表之间创建一个关系，以创建一个规范化的产品维度，称之为雪花型维度。执行此操作将更新星型架构以包含规范化的产品维度，从而将其转换为雪花型架构。
 
@@ -443,7 +445,7 @@
 
     ![显示了雪花型架构。](media/snowflake-schema-completed.png "Snowflake schema")
 
-#### 任务 2：在 SQL 数据库中创建经销商雪花型架构
+### 任务 2：在 SQL 数据库中创建经销商雪花型架构
 
 在此任务中，你需要添加两个新的维度表: `DimCustomer` 和 `DimGeography`。在这两个表和 `DimReseller` 表之间创建一个关系，以创建一个规范化的经销商维度或雪花型维度。
 
@@ -552,7 +554,7 @@
 
     ![最终的雪花型架构。](media/snowflake-schema-final.png "Snowflake schema")
 
-### 练习 3：实现时间维度表
+## 练习 3：实现时间维度表
 
 时间维度表是最常用的维度表之一。这种类型的表支持用于时间分析和报告的一致粒度，通常包含时间层次结构，如 `Year` > `Quarter` > `Month` > `Day`。
 
@@ -574,7 +576,7 @@
 | FiscalYear | `int` |
 | FiscalQuarter | `int` |
 
-#### 任务 1：创建时间维度表
+### 任务 1：创建时间维度表
 
 在此任务中，你将添加时间维度表并为 `FactRetailerSales` 表创建外键关系。
 
@@ -631,7 +633,7 @@
 
     ![时间维度表在雪花型架构中突出显示。](media/snowflake-schema-time-dimension.png "Time dimension added to snowflake schema")
 
-#### 任务 2：填充时间维度表
+### 任务 2：填充时间维度表
 
 你可以通过多种方式填充时间维度表，包括使用日期/时间函数的 T-SQL 脚本、Microsoft Excel 函数、从平面文件导入或通过 BI（商业智能）工具自动生成。在此任务中，你将使用 T-SQL 填充时间维度表，并在此过程中与生成方法进行比较。
 
@@ -732,7 +734,7 @@
 
     > 在我们的环境中，执行 CTE 查询只花费了**不到一秒**钟的时间。
 
-#### 任务 3：将数据加载到其他表
+### 任务 3：将数据加载到其他表
 
 在此任务中，你将使用公共数据源中的数据加载维度表和事实数据表。
 
@@ -858,7 +860,7 @@
     GO
     ```
 
-#### 任务 4：查询数据
+### 任务 4：查询数据
 
 1. 粘贴**并执行**以下查询，通过雪花型架构在经销商、产品和月份粒度级别检索经销商销售数据：
 
@@ -951,7 +953,7 @@
 
     > 请注意使用**时间维度表**是如何使按特定日期部分和逻辑日期（例如会计年度）进行筛选比动态计算日期函数更容易且性能更高。
 
-### 练习 4：在 Synapse Analytics 中实现星型架构
+## 练习 4：在 Synapse Analytics 中实现星型架构
 
 对于较大的数据集，你可以在 Azure Synapse 而不是 SQL Server 中实现数据仓库。星型架构模型仍然是在 Synapse 专用 SQL 池中进行数据建模的最佳做法。你可能会注意到在 Synapse Analytics 中创建表与在 SQL 数据库中创建表有一些不同，但应用相同的数据建模原则。
 
@@ -967,7 +969,7 @@
 
 对于本练习中的维度表，每个表存储的数据量都完全符合使用复制分布的标准。
 
-#### 任务 1：在 Synapse 专用 SQL 中创建星型架构
+### 任务 1：在 Synapse 专用 SQL 中创建星型架构
 
 在此任务中，你将在 Azure Synapse 专用池中创建星型架构。第一步是创建基本维度表和事实数据表。
 
@@ -1212,7 +1214,7 @@
     你将在脚本窗口的左上角找到 `Run`。
     ![脚本和“Run”按钮已突出显示。](media/synapse-create-table-script.png "Create table script")
 
-#### 任务 2：将数据加载到 Synapse 表
+### 任务 2：将数据加载到 Synapse 表
 
 在此任务中，你将使用公共数据源中的数据加载 Synapse 维度表和事实数据表。使用 T-SQL 从 Azure 存储文件加载此数据有两种方法：COPY 命令或使用 Polybase 从外部表中选择。对于此任务，你将使用 COPY，因为它是一种从 Azure 存储加载分隔数据的简单而灵活的语法。如果源是一个专用存储帐户，你可以包含一个 CREDENTIAL 选项来授权 COPY 命令读取数据，但对于这个示例，这不是必需的。
 
@@ -1290,7 +1292,7 @@
     GO
     ```
 
-#### 任务 3：从 Synapse 查询数据
+### 任务 3：从 Synapse 查询数据
 
 1. 粘贴**并执行**以下查询，从 Synapse 星型架构中的经销商位置、产品和月份粒度级别检索经销商销售数据：
 
@@ -1369,7 +1371,7 @@
 
     > 请注意使用**时间维度表是**如何使按特定日期部分和逻辑日期（例如会计年度）进行筛选比动态计算日期函数更容易且性能更高。
 
-### 练习 5：使用映射数据流更新缓慢变化维度
+## 练习 5：使用映射数据流更新缓慢变化维度
 
 **缓慢变化维度** (SCD) 是指随着时间的推移适当地管理维度成员变化的维度。当业务实体值随时间变化时，它将以临时方式应用。缓慢变化维度的一个很好的示例是客户维度，特别是它的联系人详细信息列，如电子邮件地址和电话号码。相反，当维度属性经常发生变化时，一些维度被认为是快速变化的，例如股票的市场价格。在这些情况下，常用的设计方法是在事实数据表度量中存储快速变化的属性值。
 
@@ -1389,7 +1391,7 @@
 
 在此练习中，你将创建一个 类型 1 SCD，其中 Azure SQL 数据库作为源，Synapse 专用 SQL 池作为目标。
 
-#### 任务 1：创建 Azure SQL 数据库链接服务
+### 任务 1：创建 Azure SQL 数据库链接服务
 
 借助 Synapse Analytics 中的链接服务，你能够管理到外部资源的连接。在此任务中，你将为用作 `DimCustomer` 维度表的数据源的 Azure SQL 数据库创建链接服务。
 
@@ -1420,7 +1422,7 @@
 
 5. 选择 **“创建”**。
 
-#### 任务 2：创建映射数据流
+### 任务 2：创建映射数据流
 
 映射数据流是管道活动，通过无代码体验提供一种直观方式来指定数据转换方式。此功能提供数据清理、转换、聚合、转化、联接、数据复制操作等。
 
@@ -1675,7 +1677,7 @@
 
     ![突出显示了“发布”按钮。](media/publish-all.png "Publish all")
 
-#### 任务 3：创建管道并运行数据流
+### 任务 3：创建管道并运行数据流
 
 在此任务中，您将创建一个新的 Synapse 集成管道来执行映射数据流，然后运行它来更新插入客户记录。
 
@@ -1711,19 +1713,15 @@
 
     ![“添加触发器”按钮和“立即触发”菜单项已突出显示。](media/pipeline-trigger.png "Pipeline trigger")
 
-8. 选择`Pipeline run`对话框中的 **“确定”** 以触发管道。
-
-    ![图中突出显示了“确定”按钮。](media/pipeline-run.png "Pipeline run")
-
-9. 导航到 **“监视”** 中心。
+8. 导航到 **“监视”** 中心。
 
     ![“监视”中心。](media/monitor-hub.png "Monitor hub")
 
-10. 选择左侧菜单 **(1)** 中的 **“管道运行”** 并等待管道运行成功完成 **(2)**。在管道运行完成之前，可能必须多次选择 **“刷新”(3)**。
+9. 选择左侧菜单 **(1)** 中的 **“管道运行”** 并等待管道运行成功完成 **(2)**。在管道运行完成之前，可能必须多次选择 **“刷新”(3)**。
 
     ![管道运行已成功完成。](media/pipeline-runs.png "Pipeline runs")
 
-#### 任务 4：查看插入数据
+### 任务 4：查看插入数据
 
 1. 导航到 **“数据”** 中心。
 
@@ -1741,7 +1739,7 @@
 
     ![脚本与客户表输出一起显示。](media/first-customer-script-run.png "Customer list output")
 
-#### 任务 5：更新源客户记录
+### 任务 5：更新源客户记录
 
 1. 打开 Azure Data Studio，或者如果它仍然处于打开状态，则切换回它。
 
@@ -1770,7 +1768,7 @@
 
     ![客户的姓氏已更改为 Smith。](media/customer-record-updated.png "Customer record updated")
 
-#### 任务 6：重新运行映射数据流
+### 任务 6：重新运行映射数据流
 
 1. 切换回 Synapse Studio。
 
@@ -1798,7 +1796,7 @@
 
     ![管道运行已成功完成。](media/pipeline-runs2.png "Pipeline runs")
 
-#### 任务 7：验证记录是否已更新
+### 任务 7：验证记录是否已更新
 
 1. 导航到 **“数据”** 中心。
 
@@ -1817,3 +1815,23 @@
     ![脚本与更新的客户表输出一起显示。](media/second-customer-script-run.png "Updated customer output")
 
     如我们所见，客户记录已成功更新，以修改 `LastName` 值以匹配源记录。
+
+## 练习 6：清理
+
+完成以下步骤，释放不再需要的资源。
+
+### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

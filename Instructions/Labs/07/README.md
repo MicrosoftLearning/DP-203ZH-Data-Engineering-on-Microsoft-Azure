@@ -24,6 +24,8 @@
   - [练习 2：使用 Azure Synapse 管道执行 PB 级的引入。](#exercise-2-petabyte-scale-ingestion-with-azure-synapse-pipelines)
     - [任务 1：配置工作负载管理分类](#task-1-configure-workload-management-classification)
     - [任务 2：通过复制活动创建管道](#task-2-create-pipeline-with-copy-activity)
+  - [练习 3：清理](#exercise-3-cleanup)
+    - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
 
 ## 实验室设置和先决条件
 
@@ -224,7 +226,7 @@ PolyBase 需要以下元素：
         )
     WITH
         (
-            LOCATION = '/sale-small%2FYear%3D2019',  
+            LOCATION = '/sale-small/Year=2019',  
             DATA_SOURCE = ABSS,
             FILE_FORMAT = [ParquetFormat]  
         )  
@@ -245,6 +247,12 @@ PolyBase 需要以下元素：
 
     > 在此过程中，请阅读其余的实验室说明，以熟悉内容。
 
+6. 在查询窗口中，将脚本替换为以下内容，以查看导入了多少行：
+
+    ```sql
+    SELECT COUNT(1) FROM wwi_staging.SaleHeap(nolock)
+    ```
+
 ### 任务 3：配置并运行 COPY 语句
 
 现在让我们看看如何使用 COPY 语句执行相同的加载操作。
@@ -257,7 +265,7 @@ PolyBase 需要以下元素：
 
     -- Replace <PrimaryStorage> with the workspace default storage account name.
     COPY INTO wwi_staging.SaleHeap
-    FROM 'https://asadatalakeSUFFIX.dfs.core.windows.net/wwi-02/sale-small%2FYear%3D2019'
+    FROM 'https://asadatalakeSUFFIX.dfs.core.windows.net/wwi-02/sale-small/Year=2019'
     WITH (
         FILE_TYPE = 'PARQUET',
         COMPRESSION = 'SNAPPY'
@@ -288,7 +296,7 @@ PolyBase 需要以下元素：
     ```sql
     -- Replace SUFFIX with the workspace default storage account name.
     COPY INTO wwi_staging.Sale
-    FROM 'https://asadatalakeSUFFIX.dfs.core.windows.net/wwi-02/sale-small%2FYear%3D2019'
+    FROM 'https://asadatalakeSUFFIX.dfs.core.windows.net/wwi-02/sale-small/Year=2019'
     WITH (
         FILE_TYPE = 'PARQUET',
         COMPRESSION = 'SNAPPY'
@@ -300,7 +308,7 @@ PolyBase 需要以下元素：
 
 在本例中，结果如下：
 
-PolyBase 对比 COPY (DW500)（插入 2019 个小数据集（339,507,246 行））**：
+PolyBase 对比 COPY (DW500) *（插入 2019 个小数据集（339,507,246 行））*：
 
 - COPY（堆： **5:08**，聚集列存储： **6:52**）
 - PolyBase（堆： **5:59**）
@@ -430,7 +438,7 @@ Tailwind Traders 需要将大量销售数据引入数据仓库。他们需要一
 
     ![图中突出显示了“开发”菜单项。](media/develop-hub.png "Develop hub")
 
-2. 在 **“开发”**菜单中，选择 **+** 按钮 **(1)**，然后在上下文菜单 **(2)** 中选择 **“SQL 脚本”**。
+2. 在 **“开发”** 菜单中，选择 **+** 按钮 **(1)**，然后在上下文菜单 **(2)** 中选择 **“SQL 脚本”**。
 
     ![图中突出显示了“SQL 脚本”上下文菜单项。](media/synapse-studio-new-sql-script.png "New SQL script")
 
@@ -546,7 +554,7 @@ Tailwind Traders 需要将大量销售数据引入数据仓库。他们需要一
 
     加载数据的最快且最可缩放的方式是通过 PolyBase 或 COPY 语句 **(1)**，并且使用 COPY 语句可更灵活地将高吞吐量数据引入到 SQL 池。
 
-14. 选择 **“映射”** 选项卡 **(1)**，然后选择 **“导入架构”(2)**，为每个源和目标字段创建映射。在源列 **(3)** 中选择 **`TransactionDate`**，将其映射到目标列 **`TransactionDateId`**。
+14. 选择 **“映射”** 选项卡 **(1)**，然后选择 **“导入架构”(2)**，为每个源和目标字段创建映射。在源列 **(3)** 中选择 **`TransactionDate`**，将其映射到目标列 `TransactionDateId`。
 
     ![映射已显示。](media/pipeline-copy-sales-sink-mapping.png "Mapping")
 
@@ -569,3 +577,23 @@ Tailwind Traders 需要将大量销售数据引入数据仓库。他们需要一
 19. 选择 **“管道运行”(1)**。可以在这里看到管道运行的状态 **(2)**。注意，可能需要刷新视图 **(3)**。管道运行完成后，可以查询 `wwi_perf.Sale_Heap` 表以查看导入的数据。
 
     ![显示已完成的管道运行。](media/pipeline-copy-sales-pipeline-run.png "Pipeline runs")
+
+## 练习 3：清理
+
+完成以下步骤，释放不再需要的资源。
+
+### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

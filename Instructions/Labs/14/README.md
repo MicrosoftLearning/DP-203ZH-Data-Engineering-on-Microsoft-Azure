@@ -19,6 +19,7 @@
     - [Power BI](#power-bi)
   - [方案概述](#scenario-overview)
   - [实验室设置和先决条件](#lab-setup-and-pre-requisites)
+  - [练习 0：启动专用 SQL 池](#exercise-0-start-the-dedicated-sql-pool)
   - [练习 1：配置服务](#exercise-1-configure-services)
     - [任务 1：配置事件中心](#task-1-configure-event-hubs)
     - [任务 2：Azure Synapse Analytics](#task-2-configure-synapse-analytics)
@@ -27,6 +28,10 @@
     - [任务 1：运行数据生成器](#task-1-run-data-generator)
     - [任务 2：创建 Power BI 仪表板](#task-2-create-power-bi-dashboard)
     - [任务 3：在 Synapse Analytics 中查看聚合数据](#task-3-view-aggregate-data-in-synapse-analytics)
+  - [练习 3：清理](#exercise-3-cleanup)
+    - [任务 1：停止数据生成器](#task-1-stop-the-data-generator)
+    - [任务 2：停止流分析作业](#task-2-stop-the-stream-analytics-job)
+    - [任务 3：暂停专用 SQL 池](#task-3-pause-the-dedicated-sql-pool)
 
 ## 技术概述
 
@@ -58,11 +63,31 @@ Contoso Auto 正在收集车辆遥测数据，并希望使用事件中心快速�
 
 ## 实验室设置和先决条件
 
-> **备注：** 如果**不**使用托管实验室环境，而是使用自己的 Azure 订阅，则仅完成`Lab setup and pre-requisites`步骤。否则，请跳转到练习 1。
+> **备注：** 如果**不**使用托管实验室环境，而是使用自己的 Azure 订阅，则仅完成`Lab setup and pre-requisites`步骤。否则，请跳转到练习 0。
 
 - Azure 订阅
 - Power BI 帐户（请在此处注册：<https://powerbi.microsoft.com>）
 - [实验室环境设置](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/tree/main/setup/14)
+
+## 练习 0：启动专用 SQL 池
+
+本实验室使用专用 SQL 池。第一步是确保它没有暂停。如果暂停，请按照以下说明启动它：
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。如果专用 SQL 池已暂停，请将鼠标悬停在池名称上并选择 **“恢复” (2)**。
+
+    ![图中突出显示了专用 SQL 池上的“恢复”按钮。](media/resume-dedicated-sql-pool.png "Resume")
+
+4. 出现提示时，选择 **“恢复”**。恢复池可能需要一到两分钟。
+
+    ![图中突出显示了“恢复”按钮。](media/resume-dedicated-sql-pool-confirm.png "Resume")
+
+> 恢复专用 SQL 池后， **请继续下一个练习**。
 
 ## 练习 1：配置服务
 
@@ -248,11 +273,11 @@ Azure 流分析是一个事件处理引擎，你可以使用它来检查从设�
 
 16. 在 **“新建输出”** 边栏选项卡中，进行以下配置：
 
-    - **输出别名：** 输入“powerBIAlerts”。
+    - **输出别名：** 输入 `powerBIAlerts`。
     - **身份验证模式：** 选择“用户令牌”。
     - **组工作区：** 选择“我的工作区”（如果未显示此选项，请先选择“用户令牌”身份验证模式）。
-    - **数据集名称：** 输入“ContosoAutoVehicleAnomalies”。
-    - **表名称：** 输入“Alerts”。
+    - **数据集名称：** 输入 `ContosoAutoVehicleAnomalies`。
+    - **表名称：** 输入 `Alerts`。
 
     ![“新建输出”表单已使用前面提到的设置填写到相应字段中。](media/stream-analytics-new-output.png 'New Output')
 
@@ -271,7 +296,7 @@ Azure 流分析是一个事件处理引擎，你可以使用它来检查从设�
     - **表：** 输入 `dbo.VehicleAverages`
     - **身份验证模式：** 选择“连接字符串”。
     - **用户名：** 输入 `asa.sql.admin`
-    - **密码：** 输入你在部署实验室环境时输入的 SQL 管理员密码值。
+    - **密码：** 输入密码 `P4ssw.rd`、你在部署实验室环境时输入的 SQL 管理员密码值，或者托管实验室环境向你提供的密码。 **备注**： 此密码很可能与用于登录 Azure 门户的密码不同。
 
     ![“新建输出”表单已使用前面提到的设置填写到相应字段中。](media/synapse-new-output.png "New Output")
 
@@ -403,7 +428,7 @@ Azure 流分析是一个事件处理引擎，你可以使用它来检查从设�
 
    1. Windows：
 
-      * 只需在 `win-x64` 文件夹中执行 **DataGenerator.exe** 即可。
+      * 只需在 `win-x64` 文件夹中执行 **TransactionGenerator.exe** 即可。
 
    2. Linux：
 
@@ -416,6 +441,12 @@ Azure 流分析是一个事件处理引擎，你可以使用它来检查从设�
       * 打开新的终端。
       * 导航到 `osx-x64` 目录。
       * 运行 `./DataGenerator`。
+
+6. 若使用的是 Windows 并在尝试执行数据生成器后收到对话框，请选择 **“详细信息”**，然后选择 **“仍要运行”**。
+
+    ![突出显示了“详细信息”。](media/microsoft-defender-moreinfo.png "Windows protected your PC")
+
+    ![突出显示了“仍要运行”按钮。](media/microsoft-defender-runanyway.png "Run anyway")
 
 6.  随即将打开一个新的控制台窗口，你应该会看到它在几秒钟后开始发送数据。你看到该窗口向事件中心发送数据后，将其最小化并让其在后台运行__。
 
@@ -562,3 +593,35 @@ Azure 流分析是一个事件处理引擎，你可以使用它来检查从设�
 9. 在“结果”输出中选择 **“图表”** 视图，然后将图表类型设置为 **“区域”**。此可视化效果显示一段时间内平均引擎温度与平均速度的关系。请随意尝试图表设置。
 
 ![显示了图表视图。](media/synapse-vehicleaverage-chart.png "VehicleAverages chart")
+
+## 练习 3：清理
+
+完成以下步骤，停止数据生成器并释放不再需要的资源。
+
+### 任务 1：停止数据生成器
+
+1. 返回运行数据生成器的控制台/终端窗口。关闭窗口以停止生成器。
+
+### 任务 2：停止流分析作业
+
+1. 导航到 Azure 门户中的流分析作业。
+
+2. 在 **“概览”** 窗格中，选择 **“停止”**，然后在出现提示时选择 **“是”**。
+
+    ![突出显示了“停止”按钮。](media/asa-stop.png "Stop")
+
+### 任务 3：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

@@ -25,10 +25,12 @@
     - [任务 1：使用适用于 Azure Synapse 的 Apache Spark 查询和转换 JSON 数据](#task-1-query-and-transform-json-data-with-apache-spark-for-azure-synapse)
   - [练习 4：在 Azure Synapse Analytics 中集成 SQL 和 Spark 池](#exercise-4-integrating-sql-and-spark-pools-in-azure-synapse-analytics)
     - [任务 1：更新笔记本](#task-1-update-notebook)
+  - [练习 5：清理](#exercise-5-cleanup)
+    - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
 
 ## 实验室设置和先决条件
 
-> **备注：**如果**不**使用托管实验室环境，而是使用自己的 Azure 订阅，则仅完成`Lab setup and pre-requisites`步骤。否则，请跳转到练习 0。
+> **备注：** 如果**不**使用托管实验室环境，而是使用自己的 Azure 订阅，则仅完成`Lab setup and pre-requisites`步骤。否则，请跳转到练习 0。
 
 **完成此模块的[实验室设置说明](https://github.com/solliancenet/microsoft-data-engineering-ilt-deploy/blob/main/setup/04/README.md)**。
 
@@ -305,9 +307,9 @@ Tailwind Traders 在其 Data Lake 中存储了 Parquet 文件。他们想知道�
 
     ![Parquet 文件如所述方式显示。](media/2010-sale-parquet-new-notebook.png "New notebook")
 
-    这将生成一个包含 PySpark 代码的笔记本，用于将数据加载到 Spark 数据帧中，并显示带有标题的 100 行内容。
+    这将生成一个包含 PySpark 代码的笔记本，用于将数据加载到 Spark 数据帧中，并显示带有标题的 10 行内容。
 
-4. 确保将 Spark 池已附加到该笔记本。
+4. 确保将 Spark 池已附加到该笔记本。**不要在此阶段运行/执行单元格**，因为需要先为数据湖的名称创建变量。
 
     ![突出显示了 Spark 池。](media/2010-sale-parquet-notebook-sparkpool.png "Notebook")
 
@@ -333,7 +335,7 @@ Tailwind Traders 在其 Data Lake 中存储了 Parquet 文件。他们想知道�
 
     > **备注：** 首次在 Spark 池中运行笔记本时，Azure Synapse 会创建一个新的会话。这大约需要 3-5 分钟时间。
 
-    > **备注：** 若要仅运行单元格，请将鼠标悬停在单元格上，然后选择单元格左侧的“运行单元格”图标，或者选中单元格，再在键盘上按下 **Ctrl+Enter**__。
+    > **备注：** 若要仅运行单元格，请将鼠标悬停在单元格上，然后选择单元格左侧的 *“运行单元格”* 图标，或者选中单元格，再在键盘上按下 **Ctrl+Enter**。
 
 7. 单元格运行完成后，在单元格输出中将视图更改为 **“图表”**。
 
@@ -353,7 +355,7 @@ Tailwind Traders 在其 Data Lake 中存储了 Parquet 文件。他们想知道�
 
     ![已显示配置的图表。](media/2010-sale-parquet-chart.png "Chart view")
 
-11. 通过先后选择 **“+”** 以及图表下方的 **“</> 代码单元格”**，在下方创建一个新单元格*。
+11. 通过先后选择 **“+”** 以及图表下方的 **“</> 代码单元格”**，在下方创建一个新单元格。
 
     ![“添加代码”按钮在图表下方突出显示。](media/chart-add-code.png "Add code")
 
@@ -732,3 +734,23 @@ Apache Spark 池到 Synapse SQL 的连接器是适用于 Apache Spark 的一个�
     > **备注**： 可随意单击表视图中的列标题来对结果集进行排序。
 
     ![显示单元内容和输出。](media/join-output.png "Join output")
+
+## 练习 5：清理
+
+完成以下步骤，释放不再需要的资源。
+
+### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

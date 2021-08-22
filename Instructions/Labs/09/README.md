@@ -23,7 +23,7 @@
     - [任务 1：创建笔记本](#task-1-create-notebook)
     - [任务 2：将笔记本添加到管道](#task-2-add-the-notebook-to-the-pipeline)
 
-> **待办事项：**在模块 10 的设置中包括来自模块 9 的数据源、映射数据流和管道。
+> **待办事项：** 在模块 10 的设置中包括来自模块 9 的数据源、映射数据流和管道。
 
 ## 实验室设置和先决条件
 
@@ -231,7 +231,7 @@
 
     ![链接服务名称被替换。](media/data-flow-linked-service-name-replaced.png "Linked service name replaced")
 
-7. 选择 v“确定”**。
+7. 选择 **“确定”**。
 
 8. 数据流应如下所示：
 
@@ -261,7 +261,7 @@
 
     ![图中显示了按照说明在“常规”选项卡上设置名称。](media/pipeline-data-flow-general.png "Name on the General tab")
 
-6. 选择 **“设置”** 选项卡 **(1)**。为 **“数据流”(2)** 选择 `user_profiles_to_datalake`，然后确保为 **“在 (Azure IR) 上运行” (3)** 选择 `AutoResolveIntegrationRuntime`。选择`General purpose` **计算类型 (4)**，并为 **“内核计数”** 选择`8(+ 8 个内核)` **(5)**。
+6. 选择 **“设置”** 选项卡 **(1)**。为 **“数据流”(2)** 选择 `user_profiles_to_datalake`，然后确保为 **“在 (Azure IR) 上运行” (3)** 选择 `AutoResolveIntegrationRuntime`。选择`General purpose` **计算类型 (4)**，并为 **“内核计数”** 选择`8 (+ 8 cores)` **(5)**。
 
     ![图中显示了按照说明配置设置。](media/data-flow-activity-settings1.png "Settings")
 
@@ -303,7 +303,7 @@ Tailwind Traders 使用 Synapse Analytics 中的映射数据流来处理、联�
 
     ![图中突出显示了“数据”菜单项。](media/data-hub.png "Data hub")
 
-2. 选择 **“链接”** 选项卡 **(1)** 并展开 **Azure Data Lake Storage Gen2** 下的 **“Data Lake Storage 主帐户”**(2)**。选择 **wwi-02** 容器 **(3)**，然后打开 **top-products** 文件夹 **(4)**。右键单击任意 Parquet 文件 **(5)**，选择 **“新建笔记本”** 菜单项 **(6)**，然后选择 **“加载到 DataFrame”(7)**。如果未看到文件夹，请选择上方的 `Refresh`。
+2. 选择 **“链接”** 选项卡 **(1)** 并展开 **Azure Data Lake Storage Gen2** 下的 **“Data Lake Storage 主帐户”(2)**。选择 **wwi-02** 容器 **(3)**，然后打开 **top-products** 文件夹 **(4)**。右键单击任意 Parquet 文件 **(5)**，选择 **“新建笔记本”** 菜单项 **(6)**，然后选择 **“加载到 DataFrame”(7)**。如果未看到文件夹，请选择上方的 `Refresh`。
 
     ![Parquet 文件和“新建笔记本”选项突出显示。](media/synapse-studio-top-products-folder.png "New notebook")
 
@@ -321,7 +321,7 @@ Tailwind Traders 使用 Synapse Analytics 中的映射数据流来处理、联�
 
     > **备注：** 首次在 Spark 池中运行笔记本时，Synapse 会创建一个新的会话。这大约需要 3-5 分钟时间。
 
-    > **备注：** 若要仅运行单元格，请将鼠标悬停在单元格上，然后选择单元格左侧的“运行单元格”图标，或者选中单元格，再在键盘上按下 **Ctrl+Enter**__。
+    > **备注：** 若要仅运行单元格，请将鼠标悬停在单元格上，然后选择单元格左侧的 *“运行单元格”* 图标，或者选中单元格，再在键盘上按下 **Ctrl+Enter**。
 
 6. 通过选择 **“+”** 按钮并选择 **“</> 代码单元格”** 项，在下面创建一个新单元格。+ 按钮位于左侧笔记本单元格的下方。
 
@@ -400,7 +400,7 @@ Tailwind Traders 使用 Synapse Analytics 中的映射数据流来处理、联�
         order by a.UserId
     ```
 
-    *请注意，上述查询没有输出。*该查询使用 `top_purchases` 临时视图作为源，并应用 `row_number()over` 方法为每个用户的记录应用一个行号，其中 `ItemsPurchasedLast12Months` 是最大值。`where` 子句对结果进行筛选，这样最多只能检索五个产品，其中 `IsTopProduct` 和 `IsPreferredProduct` 都设置为 true。这就为我们提供了每个用户购买最多的五个产品，根据他们存储在 Azure Cosmos DB 中的用户配置文件，这些产品也被标识为他们最喜欢的产品__。
+    *请注意，上述查询没有输出*。该查询使用 `top_purchases` 临时视图作为源，并应用 `row_number()over` 方法为每个用户的记录应用一个行号，其中 `ItemsPurchasedLast12Months` 是最大值。`where` 子句对结果进行筛选，这样最多只能检索五个产品，其中 `IsTopProduct` 和 `IsPreferredProduct` 都设置为 true。这就为我们提供了每个用户购买最多的五个产品，根据他们存储在 Azure Cosmos DB 中的用户配置文件，这些产品*也*被标识为他们最喜欢的产品。
 
 10. 在新单元格中执行以下操作，创建并显示新的 DataFrame，该 DataFrame 存储了前一个单元格中创建的 `top_5_products` 临时视图的结果：
 
@@ -467,7 +467,7 @@ Tailwind Traders 使用 Synapse Analytics 中的映射数据流来处理、联�
 
     ![单元格被配置为接受参数。](media/parameters-tag.png "Parameters")
 
-15. 将以下代码粘贴到新单元格中，以将 `runId` 变量用作主 Data Lake 帐户中 `/top5-products/` 路径内的 Parquet 文件名。将路**径中的 `YOUR_DATALAKE_NAME`** 替换为主 Data Lake 帐户的名称。要找到它，请向上滚动到页面 **(1)** 顶部的 **“单元格 1”**。从路径 **(2)** 复制 Data Lake Storage 帐户。将此值作为 **`YOUR_DATALAKE_NAME`** 的替换值粘贴到新单元格内的路径 **(3)** 中，然后执行该单元格。
+15. 将以下代码粘贴到新单元格中，以将 `runId` 变量用作主 Data Lake 帐户中 `/top5-products/` 路径内的 Parquet 文件名。将路径中的 **`YOUR_DATALAKE_NAME` 替换**为主 Data Lake 帐户的名称。要找到它，请向上滚动到页面 **(1)** 顶部的 **“单元格 1”**。从路径 **(2)** 复制 Data Lake Storage 帐户。将此值作为 **`YOUR_DATALAKE_NAME`** 的替换值粘贴到新单元格内的路径 **(3)** 中，然后执行该单元格。
 
     ```python
     %%pyspark
@@ -503,7 +503,7 @@ Tailwind Traders 希望在映射数据流运行后执行此笔记本，作为其
 
     ![“添加到管道”按钮突出显示。](media/add-to-pipeline.png "Add to pipeline")
 
-3. 选择**“用户配置文件到 Data Lake”** 管道 **(1)**，然后选择 **“添加”(2)**。
+3. 选择 **“用户配置文件到 Data Lake”** 管道 **(1)**，然后选择 **“添加”(2)**。
 
     ![已选择管道。](media/add-to-pipeline-selection.png "Add to pipeline")
 

@@ -39,6 +39,8 @@
     - [任务 3：创建和更新统计信息](#task-3-create-and-update-statistics)
     - [任务 4：创建和更新索引](#task-4-create-and-update-indexes)
     - [任务 5：有序聚集列存储索引](#task-5-ordered-clustered-columnstore-indexes)
+  - [练习 5：清理](#exercise-5-cleanup)
+    - [任务 1：暂停专用 SQL 池](#task-1-pause-the-dedicated-sql-pool)
 
 ## 实验室设置和先决条件
 
@@ -91,7 +93,7 @@
 
     ![图中突出显示了“开发”中心。](media/develop-hub.png "Develop hub")
 
-3. 在 **“开发”** 菜单中选择 **“+”按钮 (1)**，然后在上下文菜单中选择 **“SQL 脚本”(2)**。
+3. 在 **“开发”** 菜单中选择 “+”按钮 **(1)**，然后在上下文菜单中选择 **“SQL 脚本”(2)**。
 
     ![图中突出显示了“SQL 脚本”上下文菜单项。](media/synapse-studio-new-sql-script.png "New SQL script")
 
@@ -172,7 +174,7 @@
     GO
 
     COPY INTO Category 
-    FROM 'https://solliancepublicdata.blob.core.windows.net/cdp/csv/Category.csv'
+    FROM 'https://solliancepublicdata.blob.core.windows.net/dataengineering/dp-203/books/Category.csv'
     WITH (
         FILE_TYPE = 'CSV',
         FIRSTROW = 2
@@ -180,7 +182,7 @@
     GO
 
     COPY INTO Books 
-    FROM 'https://solliancepublicdata.blob.core.windows.net/cdp/csv/Books.csv'
+    FROM 'https://solliancepublicdata.blob.core.windows.net/dataengineering/dp-203/books/Books.csv'
     WITH (
         FILE_TYPE = 'CSV',
         FIRSTROW = 2
@@ -188,7 +190,7 @@
     GO
 
     COPY INTO BookConsumption 
-    FROM 'https://solliancepublicdata.blob.core.windows.net/cdp/csv/BookConsumption.csv'
+    FROM 'https://solliancepublicdata.blob.core.windows.net/dataengineering/dp-203/books/BookConsumption.csv'
     WITH (
         FILE_TYPE = 'CSV',
         FIRSTROW = 2
@@ -196,7 +198,7 @@
     GO
 
     COPY INTO BookList 
-    FROM 'https://solliancepublicdata.blob.core.windows.net/cdp/csv/BookList.csv'
+    FROM 'https://solliancepublicdata.blob.core.windows.net/dataengineering/dp-203/books/BookList.csv'
     WITH (
         FILE_TYPE = 'CSV',
         FIRSTROW = 2
@@ -224,7 +226,7 @@ Tailwind Traders 正在寻找更高效的销售数据分析方法，以避免依
 
     ![图中突出显示了“开发”中心。](media/develop-hub.png "Develop hub")
 
-2. 在 **“开发”** 菜单中选择 **“+”按钮 (1)**，然后在上下文菜单中选择 **“SQL 脚本”(2)**。
+2. 在 **“开发”** 菜单中选择 “+”按钮 **(1)**，然后在上下文菜单中选择 **“SQL 脚本”(2)**。
 
     ![图中突出显示了“SQL 脚本”上下文菜单项。](media/synapse-studio-new-sql-script.png "New SQL script")
 
@@ -385,7 +387,7 @@ Tailwind Traders 希望按国家/地区分类找到下载量最低的书籍，�
 
     在本查询中，我们使用 `FIRST_VALUE` 分析函数来检索下载次数最少的书籍的名称，如针对 `Country` 分区的 **`ROWS UNBOUNDED PRECEDING`** 子句所示 **(1)**。`UNBOUNDED PRECEDING` 选项将窗口设置为先显示分区的第一行，并给出分区内国家/地区下载次数最少的书籍的名称。
 
-    在结果集中，可以滚动查看按国家/地区列出的书籍，并按下载次数的升序排序。可以看出，在德国，`Harry Potter - The Ultimate Quiz Book`（请勿与 `Harry Potter - The Ultimate Quiz` 混淆，后者下载次数最多）的下载次数最少；在瑞典，`Burn for Me` 的下载次数最少 **(2)**。
+    在结果集中，可以滚动查看按国家/地区列出的书籍，并按下载次数的升序排序。这里可以看到德国的 `Fallen Kitten of the Sword - The Ultimate Quiz` 下载量最多，而 `Notebooks for Burning` 在瑞典的下载量最少 **(2)**。
 
 ### 任务 3：使用 HyperLogLog 函数进行近似执行
 
@@ -721,7 +723,7 @@ Tailwind Traders 询问你是否可以将 CEO 执行的查询标记为比其他�
 
     > 如果脚本在 45 秒后仍在运行，请单击“取消”。
 
-    > **备注**： 请勿提前执行此查询__。如果这样做，后续执行过程中查询的运行速度可能会更快。
+    > **备注**： *请勿*提前执行此查询。如果这样做，后续执行过程中查询的运行速度可能会更快。
 
     ![图中显示了 COUNT_BIG 结果。](media/count-big1.png "SQL script")
 
@@ -894,7 +896,7 @@ Tailwind Traders 询问你是否可以将 CEO 执行的查询标记为比其他�
     ---|---|---
     1 | RND_ID | 标识将要创建的对象。在本例中为 `TEMP_ID_76` 内部表。
     2 | ON | 指定操作将发生的位置（节点或分布）。`AllDistributions` 表示将在 SQL 池的 60 个分布中的每一个分布上执行操作。操作将是 SQL 操作（通过 `<sql_operations>` 指定），该操作将创建 `TEMP_ID_76` 表。
-    3 | SHUFFLE_MOVE | 无序移动列的列表仅包含 `CustomerId` 列（通过 `<suffle_columns>` 指定）。值将分发到拥有哈希的分布，并本地保存到 `TEMP_ID_76` 表。操作将输出预估行数 41265.25 行（通过 `<operation_cost>` 指定）。根据上述章节，平均结果行大小为 13 字节。
+    3 | SHUFFLE_MOVE | 无序移动列的列表仅包含 `CustomerId` 列（通过 `<shuffle_columns>` 指定）。值将分发到拥有哈希的分布，并本地保存到 `TEMP_ID_76` 表。操作将输出预估行数 41265.25 行（通过 `<operation_cost>` 指定）。根据上述章节，平均结果行大小为 13 字节。
     4 | RETURN | 将通过查询内部临时表 `TEMP_ID_76` 从所有分布（请参阅 `<location>`）中收集无序移动操作生成的数据。
     5 | ON | 将从所有分布中删除 `TEMP_ID_76`。
 
@@ -1981,3 +1983,23 @@ Tailwind Trader 的下游报告可供许多用户使用，这通常意味着针�
     结果显示段之间的重叠显著减少：
 
     ![图中显示了使用有序 CCI 的每个分布上的 CCI 段结构](./media/lab3_ordered_cci_2.png)
+
+## 练习 5：清理
+
+完成以下步骤，释放不再需要的资源。
+
+### 任务 1：暂停专用 SQL 池
+
+1. 打开 Synapse Studio (<https://web.azuresynapse.net/>)。
+
+2. 选择 **“管理”** 中心。
+
+    ![图中突出显示了“管理”中心。](media/manage-hub.png "Manage hub")
+
+3. 在左侧菜单中，选择 **“SQL 池” (1)**。将鼠标悬停在专用 SQL 池的名称上，并选择 **“暂停” (2)**。
+
+    ![突出显示了专用 SQL 池上的“暂停”按钮。](media/pause-dedicated-sql-pool.png "Pause")
+
+4. 出现提示时，选择 **“暂停”**。
+
+    ![突出显示了“暂停”按钮。](media/pause-dedicated-sql-pool-confirm.png "Pause")

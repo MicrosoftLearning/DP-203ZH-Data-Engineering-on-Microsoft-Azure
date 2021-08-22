@@ -25,11 +25,11 @@
     - [练习 3：完成“显示功能”笔记本](#exercise-3-complete-the-display-function-notebook)
     - [练习 4：完成“不同的文章”练习笔记本](#exercise-4-complete-the-distinct-articles-exercise-notebook)
   - [实验室 2 - 使用 DataFrame 高级方法](#lab-2---working-with-dataframes-advanced-methods)
-    - [练习 2：完成实验室笔记本](#exercise-2-complete-the-lab-notebook)
+    - [练习 1：运行并完成实验室笔记本](#exercise-1-run-and-complete-the-lab-notebook)
       - [任务 1：克隆 Databricks 存档](#task-1-clone-the-databricks-archive-1)
       - [任务 2：完成“日期和时间操作”笔记本](#task-2-complete-the-date-and-time-manipulation-notebook)
-    - [练习 3：完成“使用聚合函数”笔记本](#exercise-3-complete-the-use-aggregate-functions-notebook)
-    - [练习 4：完成“删除重复数据”练习笔记本](#exercise-4-complete-the-de-duping-data-exercise-notebook)
+    - [练习 2：完成“使用聚合函数”笔记本](#exercise-2-complete-the-use-aggregate-functions-notebook)
+    - [练习 3：完成“删除重复数据”练习笔记本](#exercise-3-complete-the-de-duping-data-exercise-notebook)
 
 ## 实验室 1 - 使用 DataFrame
 
@@ -37,7 +37,7 @@ Azure Databricks 中的数据处理是通过定义用于读取和处理数据的
 
 ### 动手实验室准备工作
 
-> **备注：** 如果**不**使用托管实验室环境，而使用你自己的 Azure 订阅，则仅完成`Before the hands-on lab`步骤。否则，请跳转到练习 1。
+> **备注：** 如果**不**使用托管实验室环境，而使用你自己的 Azure 订阅，则仅完成 `Before the hands-on lab` 步骤。否则，请跳转到练习 1。
 
 在分步完成此实验室中的练习时，请确保可访问具有可用群集的 Azure Databricks 工作区。执行以下步骤以配置工作区。
 
@@ -129,7 +129,7 @@ Azure Databricks 中的数据处理是通过定义用于读取和处理数据的
 
 此实验室以在上一个实验室中学到的 Azure Databricks DataFrame 概念为基础，探索了数据工程师可以通过使用 DataFrame 读取、写入和转换数据的一些高级方法。
 
-### 练习 2：完成实验室笔记本
+### 练习 1：运行并完成实验室笔记本
 
 #### 任务 1：克隆 Databricks 存档
 
@@ -159,7 +159,7 @@ Azure Databricks 中的数据处理是通过定义用于读取和处理数据的
 
 完成笔记本后，返回到此屏幕，并继续执行下一步。
 
-### 练习 3：完成“使用聚合函数”笔记本
+### 练习 2：完成“使用聚合函数”笔记本
 
 在 Azure Databricks 工作区中，打开在用户文件夹中导入的 **07-Dataframe-Advanced-Methods** 文件夹。
 
@@ -169,7 +169,7 @@ Azure Databricks 中的数据处理是通过定义用于读取和处理数据的
 
 完成笔记本后，返回到此屏幕，并继续执行下一步。
 
-### 练习 4：完成“删除重复数据”练习笔记本
+### 练习 3：完成“删除重复数据”练习笔记本
 
 在 Azure Databricks 工作区中，打开在用户文件夹中导入的 **07-Dataframe-Advanced-Methods** 文件夹。
 

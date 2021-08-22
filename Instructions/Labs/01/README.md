@@ -96,7 +96,7 @@
 
 #### 任务 1：使用 Hyperspace 为 Data Lake Storage 创建索引
 
-从 Azure Data Lake Gen 2 加载数据时，在最消耗资源的操作之一中搜索数据。[Hyperspace](https://github.com/microsoft/hyperspace) 为 Apache Spark 用户引入了在其数据集（如 CSV、JSON 和 Parquet）上创建索引的能力，并将它们用于潜在的查询和工作负载加速。
+从 Azure Data Lake Gen 2 加载数据时，搜索数据是最消耗资源的操作之一。[Hyperspace](https://github.com/microsoft/hyperspace) 为 Apache Spark 用户引入了在其数据集（如 CSV、JSON 和 Parquet）上创建索引的能力，并将它们用于潜在的查询和工作负载加速。
 
 通过 Hyperspace 可以对从持久数据文件扫描的记录创建索引。成功创建后，对应于索引的条目将添加到 Hyperspace 的元数据中。Apache Spark 的优化器稍后会在查询处理期间使用此元数据来查找并使用正确的索引。如果基础数据发生变化，可以刷新现有索引以捕获该数据。
 
