@@ -229,7 +229,7 @@
 
     ![已选择 DirectQuery。](media/pbi-connection-settings-directquery.png "Connection settings")
 
-7. 在 Power Query 编辑器中，打开查询中 **“源”**步骤的“设置”页面。展开 **“高级选项”** 部分，粘贴以下查询并单击 **“确定”**。
+7. 在 Power Query 编辑器中，打开查询中 **“源”** 步骤的“设置”页面。展开 **“高级选项”** 部分，粘贴以下查询并单击 **“确定”**。
 
     ![“数据源更改”对话框。](media/pbi-source-query.png "Advanced options")
 
