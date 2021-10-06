@@ -1,0 +1,33 @@
+{
+  "userId": 33122,
+  "cartId": "86f68c27-539f-45c8-a890-e73c6054e5ae",
+  "preferredProducts": [
+    1819,
+    2790,
+    4551,
+    1147,
+    5000
+  ],
+  "productReviews": [
+    {
+      "productId": 4883,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-02-23T19:42:23.9406934+02:00"
+    },
+    {
+      "productId": 4761,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-02-07T04:29:21.928824+02:00"
+    },
+    {
+      "productId": 4069,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-10-29T02:19:24.4247086+02:00"
+    },
+    {
+      "productId": 692,
+      "reviewText": "This functionalities works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2019-06-15T23:26:36.3999937+03:00"
+    }
+  ]
+}

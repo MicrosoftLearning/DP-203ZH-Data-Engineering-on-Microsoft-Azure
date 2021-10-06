@@ -1,0 +1,39 @@
+{
+  "userId": 15849,
+  "cartId": "b14c08ed-354d-4372-8730-7ff45f70ef8f",
+  "preferredProducts": [
+    2731,
+    1982,
+    3137,
+    3861,
+    2475,
+    3919
+  ],
+  "productReviews": [
+    {
+      "productId": 1769,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-07-07T07:00:43.0977647+03:00"
+    },
+    {
+      "productId": 4126,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-12-31T22:57:42.6438486+02:00"
+    },
+    {
+      "productId": 2000,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-01-10T19:04:15.1158809+02:00"
+    },
+    {
+      "productId": 4449,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-11-16T23:56:02.5905182+02:00"
+    },
+    {
+      "productId": 4681,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-08-07T09:42:30.9030339+03:00"
+    }
+  ]
+}

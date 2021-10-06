@@ -1,0 +1,22 @@
+{
+  "userId": 3496,
+  "cartId": "36a8adbf-3b7e-42ff-9c5c-e1633c7302ab",
+  "preferredProducts": [
+    1835,
+    2642,
+    1217,
+    2044
+  ],
+  "productReviews": [
+    {
+      "productId": 1737,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-08-06T00:01:52.2057801+03:00"
+    },
+    {
+      "productId": 2044,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-12-14T01:38:08.4797519+02:00"
+    }
+  ]
+}

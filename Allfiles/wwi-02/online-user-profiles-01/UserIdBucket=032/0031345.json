@@ -1,0 +1,32 @@
+{
+  "userId": 31345,
+  "cartId": "feb6607d-2adb-4d30-bac5-8be272665e68",
+  "preferredProducts": [
+    3114,
+    4043,
+    570,
+    904,
+    1183,
+    281,
+    3637,
+    680,
+    4592
+  ],
+  "productReviews": [
+    {
+      "productId": 4799,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-11-14T05:53:05.8965485+02:00"
+    },
+    {
+      "productId": 2740,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-08-18T06:20:41.6178978+03:00"
+    },
+    {
+      "productId": 215,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-06-09T14:00:59.3575947+03:00"
+    }
+  ]
+}

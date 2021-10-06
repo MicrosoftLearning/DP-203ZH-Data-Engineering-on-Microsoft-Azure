@@ -1,0 +1,27 @@
+{
+  "userId": 19402,
+  "cartId": "820ba61c-f451-469a-9add-adea42fed23e",
+  "preferredProducts": [
+    3700,
+    4442,
+    3906,
+    4913
+  ],
+  "productReviews": [
+    {
+      "productId": 3611,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-07-24T03:04:02.0612231+03:00"
+    },
+    {
+      "productId": 4732,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-24T19:04:57.9840649+03:00"
+    },
+    {
+      "productId": 2798,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-06T09:30:25.6203991+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 23739,
+  "cartId": "479c4983-4d5d-44c4-ad11-9712b317a045",
+  "preferredProducts": [
+    2356,
+    2143
+  ],
+  "productReviews": [
+    {
+      "productId": 216,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-10-10T01:54:54.1034281+03:00"
+    },
+    {
+      "productId": 2765,
+      "reviewText": "This card works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-12-20T12:35:37.2954968+02:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-12-20T21:54:28.1657847+02:00"
+    }
+  ]
+}

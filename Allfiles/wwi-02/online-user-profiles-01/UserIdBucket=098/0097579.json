@@ -1,0 +1,30 @@
+{
+  "userId": 97579,
+  "cartId": "d2d7dda1-2e43-4aeb-9aaa-8f6605273305",
+  "preferredProducts": [
+    1982,
+    2275,
+    395,
+    2061,
+    3932,
+    388,
+    2790
+  ],
+  "productReviews": [
+    {
+      "productId": 918,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-02-22T07:01:35.4613944+02:00"
+    },
+    {
+      "productId": 2191,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-08-08T14:22:59.5008263+03:00"
+    },
+    {
+      "productId": 1674,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-11-23T20:40:42.3669753+02:00"
+    }
+  ]
+}

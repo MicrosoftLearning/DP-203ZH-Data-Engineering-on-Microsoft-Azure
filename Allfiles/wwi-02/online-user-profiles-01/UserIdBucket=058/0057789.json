@@ -1,0 +1,31 @@
+{
+  "userId": 57789,
+  "cartId": "8b36b8ff-33c8-43a1-b18b-845b53885779",
+  "preferredProducts": [
+    3727,
+    826,
+    2642,
+    2182,
+    1810,
+    4324,
+    3206,
+    1669
+  ],
+  "productReviews": [
+    {
+      "productId": 2126,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-04-30T23:41:53.1615636+03:00"
+    },
+    {
+      "productId": 4782,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-08-06T05:17:26.7426591+03:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-18T12:24:25.6761845+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 16686,
+  "cartId": "a0fa6187-6cdc-4b9d-a896-6c253f5820c8",
+  "preferredProducts": [
+    641,
+    2489,
+    3856
+  ],
+  "productReviews": [
+    {
+      "productId": 4400,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-10-01T01:13:16.6027094+03:00"
+    },
+    {
+      "productId": 4073,
+      "reviewText": "This View works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2020-03-07T23:27:49.6762649+02:00"
+    },
+    {
+      "productId": 3360,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-04-12T11:31:49.1585145+03:00"
+    },
+    {
+      "productId": 3382,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-08-03T06:55:34.141835+03:00"
+    }
+  ]
+}

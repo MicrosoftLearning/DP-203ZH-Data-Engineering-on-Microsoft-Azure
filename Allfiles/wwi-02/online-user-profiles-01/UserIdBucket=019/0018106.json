@@ -1,0 +1,30 @@
+{
+  "userId": 18106,
+  "cartId": "85cc5e94-24c7-4ff7-9002-641aafba70ca",
+  "preferredProducts": [
+    2157,
+    4355
+  ],
+  "productReviews": [
+    {
+      "productId": 3146,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-01-02T06:02:58.1081135+02:00"
+    },
+    {
+      "productId": 4034,
+      "reviewText": "this Viaduct is mellow.",
+      "reviewDate": "2016-09-01T00:05:13.5111207+03:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-02-16T00:51:18.3559963+02:00"
+    },
+    {
+      "productId": 4405,
+      "reviewText": "this benchmark is gracious.",
+      "reviewDate": "2016-05-23T22:11:46.4126641+03:00"
+    }
+  ]
+}

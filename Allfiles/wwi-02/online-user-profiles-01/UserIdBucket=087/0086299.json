@@ -1,0 +1,33 @@
+{
+  "userId": 86299,
+  "cartId": "75d91aac-1384-49db-9d92-b2f87bb964e4",
+  "preferredProducts": [
+    32,
+    694,
+    752,
+    1854,
+    2538
+  ],
+  "productReviews": [
+    {
+      "productId": 689,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-03-14T22:25:42.998647+02:00"
+    },
+    {
+      "productId": 2282,
+      "reviewText": "This protocol works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-09-29T12:17:02.4963044+03:00"
+    },
+    {
+      "productId": 3152,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-03-08T05:21:57.7126117+02:00"
+    },
+    {
+      "productId": 4622,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-06-19T21:20:55.8508022+03:00"
+    }
+  ]
+}

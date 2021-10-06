@@ -1,0 +1,36 @@
+{
+  "userId": 5674,
+  "cartId": "9cc2b4e1-49c2-4fdb-acb7-9d30b575d111",
+  "preferredProducts": [
+    3783,
+    2982,
+    2678,
+    1983,
+    1598,
+    4747,
+    1030,
+    2854
+  ],
+  "productReviews": [
+    {
+      "productId": 2214,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-04-17T08:11:45.3371737+03:00"
+    },
+    {
+      "productId": 1303,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-04-08T03:31:58.7886798+03:00"
+    },
+    {
+      "productId": 2428,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-12-11T07:55:33.4173755+02:00"
+    },
+    {
+      "productId": 3282,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-04-07T14:06:21.2427225+03:00"
+    }
+  ]
+}

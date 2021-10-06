@@ -1,0 +1,36 @@
+{
+  "userId": 1084,
+  "cartId": "59523419-98d4-4e6e-9226-76f88433f8ec",
+  "preferredProducts": [
+    3000,
+    1017,
+    4449,
+    117,
+    1835,
+    4534,
+    3363,
+    560
+  ],
+  "productReviews": [
+    {
+      "productId": 3807,
+      "reviewText": "this cross-platform is smooth.",
+      "reviewDate": "2018-09-09T19:46:46.1358392+03:00"
+    },
+    {
+      "productId": 884,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-08-13T20:32:22.5770535+03:00"
+    },
+    {
+      "productId": 2745,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-04-26T02:20:44.0564531+03:00"
+    },
+    {
+      "productId": 3238,
+      "reviewText": "this transmitting is vertical.",
+      "reviewDate": "2016-08-24T02:41:15.9122576+03:00"
+    }
+  ]
+}

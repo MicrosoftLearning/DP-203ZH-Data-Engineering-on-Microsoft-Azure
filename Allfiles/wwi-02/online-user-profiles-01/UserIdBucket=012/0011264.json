@@ -1,0 +1,26 @@
+{
+  "userId": 11264,
+  "cartId": "fcf60970-de84-4912-adcb-9de65678edd2",
+  "preferredProducts": [
+    1243,
+    4840,
+    4127,
+    290,
+    1695,
+    4107,
+    1084,
+    439
+  ],
+  "productReviews": [
+    {
+      "productId": 1776,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-04-22T01:45:41.0234652+03:00"
+    },
+    {
+      "productId": 539,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-09-06T13:36:02.3067035+03:00"
+    }
+  ]
+}

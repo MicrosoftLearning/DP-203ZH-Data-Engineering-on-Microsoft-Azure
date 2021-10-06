@@ -1,0 +1,39 @@
+{
+  "userId": 99232,
+  "cartId": "11b63fd9-3487-4eee-95f4-90bab3e65950",
+  "preferredProducts": [
+    2975,
+    3409,
+    1119,
+    1486,
+    4309,
+    2424
+  ],
+  "productReviews": [
+    {
+      "productId": 4364,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-01-12T07:11:24.9316913+02:00"
+    },
+    {
+      "productId": 1067,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-09-26T09:31:09.7590964+03:00"
+    },
+    {
+      "productId": 4368,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2020-03-14T14:53:31.9391291+02:00"
+    },
+    {
+      "productId": 4370,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-05-12T17:24:47.1524361+03:00"
+    },
+    {
+      "productId": 3011,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-03-28T21:33:59.1440491+02:00"
+    }
+  ]
+}

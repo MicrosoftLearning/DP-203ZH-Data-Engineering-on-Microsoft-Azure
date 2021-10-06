@@ -1,0 +1,31 @@
+{
+  "userId": 70546,
+  "cartId": "70810f19-6143-46ea-a851-c1f0f4962264",
+  "preferredProducts": [
+    2896,
+    2163,
+    4750,
+    4686,
+    515,
+    1546,
+    1425,
+    1130
+  ],
+  "productReviews": [
+    {
+      "productId": 1573,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-01-10T23:45:16.8212667+02:00"
+    },
+    {
+      "productId": 4947,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-06-22T11:31:22.9094491+03:00"
+    },
+    {
+      "productId": 102,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-10-14T01:11:36.5790925+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 79438,
+  "cartId": "14de0531-32e4-4d5e-a093-46fc0d78cc92",
+  "preferredProducts": [
+    2123,
+    432,
+    524,
+    2180,
+    115,
+    3783,
+    204,
+    2689,
+    724
+  ],
+  "productReviews": [
+    {
+      "productId": 1863,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-06-21T06:18:33.6132445+03:00"
+    },
+    {
+      "productId": 3909,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-12-09T07:10:03.943586+02:00"
+    },
+    {
+      "productId": 4335,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-11-17T20:10:08.883502+02:00"
+    },
+    {
+      "productId": 2593,
+      "reviewText": "this middleware is brown.",
+      "reviewDate": "2018-04-05T02:27:38.1935351+03:00"
+    }
+  ]
+}

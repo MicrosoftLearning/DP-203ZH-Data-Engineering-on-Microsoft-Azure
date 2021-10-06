@@ -1,0 +1,26 @@
+{
+  "userId": 67421,
+  "cartId": "36d3888d-1243-40bc-80ac-48fff8ab2cee",
+  "preferredProducts": [
+    4384,
+    206,
+    1910
+  ],
+  "productReviews": [
+    {
+      "productId": 4134,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-08-29T06:01:26.6470916+03:00"
+    },
+    {
+      "productId": 4128,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-10-27T17:56:58.1776462+03:00"
+    },
+    {
+      "productId": 755,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-03-30T14:54:09.376791+03:00"
+    }
+  ]
+}

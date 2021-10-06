@@ -1,0 +1,39 @@
+{
+  "userId": 15880,
+  "cartId": "d815f664-b706-4286-9117-ba83e782aa5a",
+  "preferredProducts": [
+    2624,
+    329,
+    2690,
+    3849,
+    3889,
+    489
+  ],
+  "productReviews": [
+    {
+      "productId": 2425,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-01-05T06:30:38.3037812+02:00"
+    },
+    {
+      "productId": 3964,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-04-16T05:55:20.4006131+03:00"
+    },
+    {
+      "productId": 806,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-12-06T20:28:45.6503317+02:00"
+    },
+    {
+      "productId": 3350,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-12-16T09:36:00.8865264+02:00"
+    },
+    {
+      "productId": 1669,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-04-04T06:10:41.5901186+03:00"
+    }
+  ]
+}

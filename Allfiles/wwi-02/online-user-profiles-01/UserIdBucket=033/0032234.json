@@ -1,0 +1,24 @@
+{
+  "userId": 32234,
+  "cartId": "c8047f6a-2d9a-48a7-b3a9-efda88928edf",
+  "preferredProducts": [
+    3949,
+    4560,
+    3084,
+    493,
+    1850,
+    3407
+  ],
+  "productReviews": [
+    {
+      "productId": 4117,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-01-31T13:56:38.8181516+02:00"
+    },
+    {
+      "productId": 575,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-08-05T03:51:49.7199049+03:00"
+    }
+  ]
+}

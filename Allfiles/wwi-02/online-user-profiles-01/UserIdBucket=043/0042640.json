@@ -1,0 +1,31 @@
+{
+  "userId": 42640,
+  "cartId": "131ae51d-6dcb-4353-be69-3ef6785df619",
+  "preferredProducts": [
+    4801,
+    1006,
+    2753
+  ],
+  "productReviews": [
+    {
+      "productId": 3577,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-07-23T14:58:29.9185786+03:00"
+    },
+    {
+      "productId": 1164,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-09-25T15:14:26.7299347+03:00"
+    },
+    {
+      "productId": 3154,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-02-23T22:29:49.1287961+02:00"
+    },
+    {
+      "productId": 3619,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2020-04-29T11:59:22.7131934+03:00"
+    }
+  ]
+}

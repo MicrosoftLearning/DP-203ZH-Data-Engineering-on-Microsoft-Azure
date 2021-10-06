@@ -1,0 +1,29 @@
+{
+  "userId": 15243,
+  "cartId": "09feff9a-45b5-4127-9eb8-06b2f470028f",
+  "preferredProducts": [
+    722,
+    284,
+    4848,
+    687,
+    459,
+    2196
+  ],
+  "productReviews": [
+    {
+      "productId": 3650,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-04-24T01:16:19.821318+03:00"
+    },
+    {
+      "productId": 2405,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-03-05T13:14:05.2464073+02:00"
+    },
+    {
+      "productId": 1622,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-12-19T00:31:25.2719866+02:00"
+    }
+  ]
+}

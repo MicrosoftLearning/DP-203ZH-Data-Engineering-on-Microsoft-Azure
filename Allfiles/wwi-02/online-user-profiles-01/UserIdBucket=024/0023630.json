@@ -1,0 +1,35 @@
+{
+  "userId": 23630,
+  "cartId": "ec85efcf-2078-4509-b4a1-e40f4f9db4b3",
+  "preferredProducts": [
+    808,
+    3477,
+    4331,
+    2138,
+    2836,
+    1985,
+    3642
+  ],
+  "productReviews": [
+    {
+      "productId": 937,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-03-01T13:40:26.9275406+02:00"
+    },
+    {
+      "productId": 4644,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-08-18T01:02:54.5726579+03:00"
+    },
+    {
+      "productId": 2719,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-04-15T06:53:44.6920486+03:00"
+    },
+    {
+      "productId": 4496,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-08-04T05:40:03.153409+03:00"
+    }
+  ]
+}

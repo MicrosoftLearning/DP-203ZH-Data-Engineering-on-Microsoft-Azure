@@ -1,0 +1,42 @@
+{
+  "userId": 23777,
+  "cartId": "8370bf69-1062-42e4-a39a-94142b93700b",
+  "preferredProducts": [
+    2447,
+    843,
+    2863,
+    1520,
+    4081,
+    2694,
+    162,
+    840,
+    4331
+  ],
+  "productReviews": [
+    {
+      "productId": 3185,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-01-03T10:38:22.2743708+02:00"
+    },
+    {
+      "productId": 3593,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-01-19T09:13:09.3341387+02:00"
+    },
+    {
+      "productId": 4508,
+      "reviewText": "This Buckinghamshire works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2016-11-09T20:27:22.4880262+02:00"
+    },
+    {
+      "productId": 2188,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-06-23T05:07:37.0357741+03:00"
+    },
+    {
+      "productId": 4509,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-03-29T11:34:16.3110012+02:00"
+    }
+  ]
+}

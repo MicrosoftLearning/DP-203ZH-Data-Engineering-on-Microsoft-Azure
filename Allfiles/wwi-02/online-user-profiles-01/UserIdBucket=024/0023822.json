@@ -1,0 +1,32 @@
+{
+  "userId": 23822,
+  "cartId": "08216f0d-4368-4be2-9a4d-88c132f2474b",
+  "preferredProducts": [
+    1774,
+    1297,
+    1539,
+    4363
+  ],
+  "productReviews": [
+    {
+      "productId": 2575,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-09-07T10:53:04.288931+03:00"
+    },
+    {
+      "productId": 1119,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-08-17T22:37:07.1916959+03:00"
+    },
+    {
+      "productId": 4060,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-09-03T13:13:56.1806813+03:00"
+    },
+    {
+      "productId": 4059,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-10-19T16:15:56.7585915+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 66266,
+  "cartId": "38c1a2a8-ec02-458f-b196-c13e3119e8da",
+  "preferredProducts": [
+    1004,
+    931,
+    882,
+    1316,
+    3682
+  ],
+  "productReviews": [
+    {
+      "productId": 2665,
+      "reviewText": "This frame works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-12-15T20:05:39.9903215+02:00"
+    },
+    {
+      "productId": 1298,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-02-02T03:13:24.1196135+02:00"
+    },
+    {
+      "productId": 3885,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-07-12T12:45:18.2792048+03:00"
+    },
+    {
+      "productId": 165,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-11-20T14:12:08.1168593+02:00"
+    }
+  ]
+}

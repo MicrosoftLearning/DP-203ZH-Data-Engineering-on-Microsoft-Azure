@@ -1,0 +1,30 @@
+{
+  "userId": 3616,
+  "cartId": "f29e3207-3811-431a-a180-924891e523c0",
+  "preferredProducts": [
+    4545,
+    1177,
+    3035,
+    3763,
+    3860,
+    649,
+    406
+  ],
+  "productReviews": [
+    {
+      "productId": 3035,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-03-10T23:16:33.7129348+02:00"
+    },
+    {
+      "productId": 3200,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-03-04T16:05:47.7001172+02:00"
+    },
+    {
+      "productId": 3026,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-01-01T01:05:49.4730892+02:00"
+    }
+  ]
+}

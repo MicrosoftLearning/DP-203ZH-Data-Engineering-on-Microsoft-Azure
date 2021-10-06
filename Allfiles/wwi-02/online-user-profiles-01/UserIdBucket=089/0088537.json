@@ -1,0 +1,29 @@
+{
+  "userId": 88537,
+  "cartId": "bd840833-4f8d-4faa-a42c-ceff69417a5f",
+  "preferredProducts": [
+    4283,
+    3571,
+    3836,
+    4232,
+    2797,
+    1773
+  ],
+  "productReviews": [
+    {
+      "productId": 299,
+      "reviewText": "this non-volatile is slurpee.",
+      "reviewDate": "2017-12-17T14:21:27.8023639+02:00"
+    },
+    {
+      "productId": 2899,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-01-14T10:33:44.2757206+02:00"
+    },
+    {
+      "productId": 3001,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-12-02T15:44:34.1879721+02:00"
+    }
+  ]
+}

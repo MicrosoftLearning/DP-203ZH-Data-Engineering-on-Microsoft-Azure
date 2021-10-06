@@ -1,0 +1,29 @@
+{
+  "userId": 5669,
+  "cartId": "99c85f6a-50c1-4bba-b3ed-7e3120ab58bd",
+  "preferredProducts": [
+    3807,
+    3312,
+    2337,
+    342,
+    1760,
+    2069
+  ],
+  "productReviews": [
+    {
+      "productId": 2498,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-11-14T11:03:36.572098+02:00"
+    },
+    {
+      "productId": 4704,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-01-26T14:10:15.6626036+02:00"
+    },
+    {
+      "productId": 436,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-04-22T13:16:22.6751952+03:00"
+    }
+  ]
+}

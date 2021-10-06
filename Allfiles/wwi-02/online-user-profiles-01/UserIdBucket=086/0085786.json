@@ -1,0 +1,38 @@
+{
+  "userId": 85786,
+  "cartId": "3dd5e284-0225-4ded-a602-2885f46f6634",
+  "preferredProducts": [
+    3234,
+    3727,
+    2833,
+    60,
+    1947
+  ],
+  "productReviews": [
+    {
+      "productId": 2941,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-09-25T01:16:57.3431457+03:00"
+    },
+    {
+      "productId": 972,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-02-11T00:42:41.3125428+02:00"
+    },
+    {
+      "productId": 4254,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-06-09T12:10:27.8719966+03:00"
+    },
+    {
+      "productId": 4350,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-05-17T16:58:56.0174358+03:00"
+    },
+    {
+      "productId": 3070,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2020-01-10T06:48:40.3633618+02:00"
+    }
+  ]
+}

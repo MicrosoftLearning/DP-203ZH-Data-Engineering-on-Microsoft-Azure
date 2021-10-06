@@ -1,0 +1,27 @@
+{
+  "userId": 99879,
+  "cartId": "de983eec-27c1-4567-9dc9-7c9a5377006c",
+  "preferredProducts": [
+    876,
+    2602,
+    3532,
+    4812,
+    317,
+    4992,
+    944,
+    4814,
+    493
+  ],
+  "productReviews": [
+    {
+      "productId": 517,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-12-26T23:30:05.7490369+02:00"
+    },
+    {
+      "productId": 1090,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-02-24T23:32:45.5419457+02:00"
+    }
+  ]
+}

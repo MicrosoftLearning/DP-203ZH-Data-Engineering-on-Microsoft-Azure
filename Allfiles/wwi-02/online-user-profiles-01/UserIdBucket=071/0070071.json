@@ -1,0 +1,27 @@
+{
+  "userId": 70071,
+  "cartId": "59f06cf9-0f23-4e5b-be40-edddaf01cfcc",
+  "preferredProducts": [
+    4546,
+    3855,
+    4916,
+    4962
+  ],
+  "productReviews": [
+    {
+      "productId": 963,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-06-05T11:17:26.7572245+03:00"
+    },
+    {
+      "productId": 354,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2020-04-10T22:47:08.2119972+03:00"
+    },
+    {
+      "productId": 423,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-10-30T06:21:50.1974583+02:00"
+    }
+  ]
+}

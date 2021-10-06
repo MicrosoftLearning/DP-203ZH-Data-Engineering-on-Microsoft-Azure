@@ -1,0 +1,33 @@
+{
+  "userId": 12020,
+  "cartId": "d8ca5d71-8aac-46fb-9639-a4b476941d2d",
+  "preferredProducts": [
+    2198,
+    1934,
+    4911,
+    4718,
+    584
+  ],
+  "productReviews": [
+    {
+      "productId": 3828,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-10-25T00:10:39.086324+03:00"
+    },
+    {
+      "productId": 2713,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-08-02T11:36:18.1035662+03:00"
+    },
+    {
+      "productId": 3410,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-10-27T07:10:48.2690243+03:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "This olive works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2018-11-06T12:55:47.1698408+02:00"
+    }
+  ]
+}

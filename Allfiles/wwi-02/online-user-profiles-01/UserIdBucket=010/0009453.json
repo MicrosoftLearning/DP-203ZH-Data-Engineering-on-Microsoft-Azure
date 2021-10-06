@@ -1,0 +1,38 @@
+{
+  "userId": 9453,
+  "cartId": "02f958fd-db03-4e19-b393-06e390ba5cb1",
+  "preferredProducts": [
+    1198,
+    3453,
+    1995,
+    3834,
+    60,
+    4850,
+    4893,
+    3942,
+    1925,
+    3600
+  ],
+  "productReviews": [
+    {
+      "productId": 3786,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-04-27T22:06:51.9672344+03:00"
+    },
+    {
+      "productId": 4708,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2017-02-13T11:53:06.4064382+02:00"
+    },
+    {
+      "productId": 292,
+      "reviewText": "this override is vertical.",
+      "reviewDate": "2017-07-06T17:15:32.8035471+03:00"
+    },
+    {
+      "productId": 432,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-02-14T02:51:41.6871149+02:00"
+    }
+  ]
+}

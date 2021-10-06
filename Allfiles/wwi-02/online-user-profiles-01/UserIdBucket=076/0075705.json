@@ -1,0 +1,43 @@
+{
+  "userId": 75705,
+  "cartId": "a134a359-4523-4329-b90c-8056db94cce2",
+  "preferredProducts": [
+    1982,
+    4336,
+    2415,
+    4369,
+    1117,
+    731,
+    4750,
+    4792,
+    3428,
+    3870
+  ],
+  "productReviews": [
+    {
+      "productId": 2794,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-01-23T13:36:26.8252887+02:00"
+    },
+    {
+      "productId": 4135,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-01-10T23:06:15.5793617+02:00"
+    },
+    {
+      "productId": 3725,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-09-15T08:33:15.9475407+03:00"
+    },
+    {
+      "productId": 145,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2020-03-01T10:20:11.1483972+02:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-06-21T18:35:29.5597428+03:00"
+    }
+  ]
+}

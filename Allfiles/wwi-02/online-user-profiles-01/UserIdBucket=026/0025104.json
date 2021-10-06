@@ -1,0 +1,37 @@
+{
+  "userId": 25104,
+  "cartId": "e72db8a8-1250-4f8a-9e23-420eaa25765d",
+  "preferredProducts": [
+    1124,
+    3855,
+    3936,
+    896,
+    633,
+    1559,
+    225,
+    3392,
+    3053
+  ],
+  "productReviews": [
+    {
+      "productId": 1066,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-01-14T00:26:42.0779477+02:00"
+    },
+    {
+      "productId": 4147,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-01-27T17:42:57.3914014+02:00"
+    },
+    {
+      "productId": 4864,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-12-03T18:21:32.5256998+02:00"
+    },
+    {
+      "productId": 101,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-03-13T21:53:47.2159987+02:00"
+    }
+  ]
+}

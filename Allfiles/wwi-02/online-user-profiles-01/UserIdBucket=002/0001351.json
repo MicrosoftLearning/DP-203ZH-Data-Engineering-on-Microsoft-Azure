@@ -1,0 +1,36 @@
+{
+  "userId": 1351,
+  "cartId": "5af4b72f-24ea-4f38-bd29-c8cd85babd98",
+  "preferredProducts": [
+    4325,
+    3859,
+    2634,
+    4813,
+    2522,
+    1034,
+    3341,
+    248
+  ],
+  "productReviews": [
+    {
+      "productId": 4436,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-07-29T04:12:38.8048733+03:00"
+    },
+    {
+      "productId": 64,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-12-14T15:20:45.5218888+02:00"
+    },
+    {
+      "productId": 3197,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-02-24T21:29:52.906501+02:00"
+    },
+    {
+      "productId": 973,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-06-07T20:12:26.5239391+03:00"
+    }
+  ]
+}

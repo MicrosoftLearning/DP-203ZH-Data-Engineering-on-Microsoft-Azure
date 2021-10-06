@@ -1,0 +1,28 @@
+{
+  "userId": 47293,
+  "cartId": "1a9dddc7-3c31-4cc9-be21-3b8753c56606",
+  "preferredProducts": [
+    1426,
+    4838,
+    2908,
+    4986,
+    3497
+  ],
+  "productReviews": [
+    {
+      "productId": 152,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-09-16T13:40:41.9223199+03:00"
+    },
+    {
+      "productId": 2794,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-03-23T21:59:56.0132284+02:00"
+    },
+    {
+      "productId": 1800,
+      "reviewText": "this index is revolting.",
+      "reviewDate": "2017-02-08T07:40:31.8719733+02:00"
+    }
+  ]
+}

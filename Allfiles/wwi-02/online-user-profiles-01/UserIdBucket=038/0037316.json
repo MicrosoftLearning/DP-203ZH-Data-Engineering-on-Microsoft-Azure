@@ -1,0 +1,39 @@
+{
+  "userId": 37316,
+  "cartId": "dce68033-4dea-44cc-a6d6-500cdbfa1e2b",
+  "preferredProducts": [
+    1221,
+    3831,
+    4502,
+    4818,
+    2989,
+    4709
+  ],
+  "productReviews": [
+    {
+      "productId": 2866,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-01-28T14:01:59.9829347+02:00"
+    },
+    {
+      "productId": 4876,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-06-26T09:22:01.5917385+03:00"
+    },
+    {
+      "productId": 3840,
+      "reviewText": "This Liberia works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-06-16T08:51:18.3189792+03:00"
+    },
+    {
+      "productId": 4150,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-11-09T01:07:34.2388685+02:00"
+    },
+    {
+      "productId": 3005,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-10-08T12:22:22.3812998+03:00"
+    }
+  ]
+}

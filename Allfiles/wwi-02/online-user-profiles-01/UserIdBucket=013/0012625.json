@@ -1,0 +1,33 @@
+{
+  "userId": 12625,
+  "cartId": "7e2876e6-70b3-4b0c-a3b0-adfed17e1646",
+  "preferredProducts": [
+    2153,
+    1774,
+    572,
+    1972,
+    1354,
+    510,
+    2913,
+    48,
+    4550,
+    1773
+  ],
+  "productReviews": [
+    {
+      "productId": 537,
+      "reviewText": "This protocol works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-03-31T05:22:29.1878442+03:00"
+    },
+    {
+      "productId": 902,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-01-16T05:30:53.9472944+02:00"
+    },
+    {
+      "productId": 2529,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-06-04T07:12:22.5580893+03:00"
+    }
+  ]
+}

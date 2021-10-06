@@ -1,0 +1,32 @@
+{
+  "userId": 7336,
+  "cartId": "c87d0299-6cef-48ff-afee-d26eb6a0803d",
+  "preferredProducts": [
+    555,
+    4854,
+    3797,
+    1125
+  ],
+  "productReviews": [
+    {
+      "productId": 4036,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-06-11T07:19:56.2503391+03:00"
+    },
+    {
+      "productId": 2864,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-09-08T13:02:04.2301004+03:00"
+    },
+    {
+      "productId": 1066,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-07-27T04:31:35.7275847+03:00"
+    },
+    {
+      "productId": 36,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-09-27T22:28:35.5197436+03:00"
+    }
+  ]
+}

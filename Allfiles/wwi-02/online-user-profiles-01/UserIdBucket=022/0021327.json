@@ -1,0 +1,32 @@
+{
+  "userId": 21327,
+  "cartId": "23744202-55e4-4db2-bb07-e40380d8cfef",
+  "preferredProducts": [
+    433,
+    1603,
+    485,
+    1290,
+    1393,
+    1836,
+    3569,
+    1519,
+    15
+  ],
+  "productReviews": [
+    {
+      "productId": 4879,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-04-09T22:12:12.9034882+03:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-10-23T07:42:42.0149416+03:00"
+    },
+    {
+      "productId": 902,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-10-14T02:41:10.9696318+03:00"
+    }
+  ]
+}

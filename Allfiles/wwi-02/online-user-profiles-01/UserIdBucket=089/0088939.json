@@ -1,0 +1,27 @@
+{
+  "userId": 88939,
+  "cartId": "32061ed9-5fef-449c-a252-e3692d8717b6",
+  "preferredProducts": [
+    682,
+    2900,
+    4254,
+    3025
+  ],
+  "productReviews": [
+    {
+      "productId": 4163,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-29T18:00:59.3642414+03:00"
+    },
+    {
+      "productId": 3751,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-11-21T20:35:17.3687942+02:00"
+    },
+    {
+      "productId": 1047,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-12-29T16:53:18.0542723+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 2169,
+  "cartId": "644e0dca-4af8-4eb7-9438-52d46e8f2477",
+  "preferredProducts": [
+    393,
+    2598,
+    805
+  ],
+  "productReviews": [
+    {
+      "productId": 3600,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-09-23T07:39:40.0463375+03:00"
+    },
+    {
+      "productId": 3379,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-03-23T17:29:34.2483118+02:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-07-06T07:40:08.1092485+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 21898,
+  "cartId": "078413b2-eb35-4263-8499-eeb7a973e64d",
+  "preferredProducts": [
+    945,
+    745,
+    560,
+    2149,
+    1040,
+    4131,
+    4527,
+    567
+  ],
+  "productReviews": [
+    {
+      "productId": 709,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-11-18T23:48:40.3086232+02:00"
+    },
+    {
+      "productId": 4626,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-04-22T07:40:13.3487449+03:00"
+    },
+    {
+      "productId": 2245,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-12-22T20:20:59.5477727+02:00"
+    },
+    {
+      "productId": 3501,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-01-04T19:55:02.3581522+02:00"
+    },
+    {
+      "productId": 4883,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-01-03T00:30:47.7420067+02:00"
+    }
+  ]
+}

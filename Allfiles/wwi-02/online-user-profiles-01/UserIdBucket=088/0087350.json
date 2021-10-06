@@ -1,0 +1,27 @@
+{
+  "userId": 87350,
+  "cartId": "69fe133f-bafe-46cc-af49-5b673c6fe61a",
+  "preferredProducts": [
+    4064,
+    4595,
+    4791,
+    4971
+  ],
+  "productReviews": [
+    {
+      "productId": 3122,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2018-01-23T06:52:08.3521899+02:00"
+    },
+    {
+      "productId": 4251,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-11-01T10:42:02.7043816+02:00"
+    },
+    {
+      "productId": 426,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-10-10T03:04:16.713176+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 31100,
+  "cartId": "3e9241af-537c-4db7-bcf8-3526fc10d01e",
+  "preferredProducts": [
+    1049,
+    2146,
+    43,
+    1260,
+    2849,
+    2927,
+    4547,
+    1621
+  ],
+  "productReviews": [
+    {
+      "productId": 542,
+      "reviewText": "this Steel is slurpee.",
+      "reviewDate": "2017-01-29T23:54:08.2978837+02:00"
+    },
+    {
+      "productId": 895,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-03-27T10:53:16.8107396+02:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-04-20T13:58:14.1338989+03:00"
+    },
+    {
+      "productId": 3427,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-06-21T01:58:48.4230956+03:00"
+    },
+    {
+      "productId": 4977,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-10-10T05:01:09.2933131+03:00"
+    }
+  ]
+}

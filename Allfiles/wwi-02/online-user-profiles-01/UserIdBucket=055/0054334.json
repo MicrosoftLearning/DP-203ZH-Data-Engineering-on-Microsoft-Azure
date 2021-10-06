@@ -1,0 +1,32 @@
+{
+  "userId": 54334,
+  "cartId": "5335acbc-81a4-4a17-82f2-033e8d0578bc",
+  "preferredProducts": [
+    1212,
+    253,
+    4739,
+    2534
+  ],
+  "productReviews": [
+    {
+      "productId": 1935,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-12-07T05:12:32.1127478+02:00"
+    },
+    {
+      "productId": 637,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-12-15T19:58:45.5476522+02:00"
+    },
+    {
+      "productId": 1793,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2020-04-07T04:44:56.0883185+03:00"
+    },
+    {
+      "productId": 4659,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-03-20T11:18:13.7286748+02:00"
+    }
+  ]
+}

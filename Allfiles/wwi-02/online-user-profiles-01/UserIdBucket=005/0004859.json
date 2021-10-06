@@ -1,0 +1,30 @@
+{
+  "userId": 4859,
+  "cartId": "c89e1760-bcb0-4b5e-bac6-355b395d398f",
+  "preferredProducts": [
+    1244,
+    3980,
+    4987,
+    552,
+    3133,
+    434,
+    2874
+  ],
+  "productReviews": [
+    {
+      "productId": 4295,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-03-09T19:05:45.4734155+02:00"
+    },
+    {
+      "productId": 3235,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-09-05T10:50:22.5676823+03:00"
+    },
+    {
+      "productId": 2593,
+      "reviewText": "This 24/365 works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2018-06-20T20:07:57.3851944+03:00"
+    }
+  ]
+}

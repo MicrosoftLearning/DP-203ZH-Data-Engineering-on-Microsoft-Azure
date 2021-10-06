@@ -1,0 +1,30 @@
+{
+  "userId": 304,
+  "cartId": "7cfb4927-bc93-4be6-8b99-fe3e2eabb13c",
+  "preferredProducts": [
+    4834,
+    743
+  ],
+  "productReviews": [
+    {
+      "productId": 3713,
+      "reviewText": "this project is light-hearted.",
+      "reviewDate": "2020-02-04T13:26:19.652839+02:00"
+    },
+    {
+      "productId": 1690,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-08-09T14:58:08.565081+03:00"
+    },
+    {
+      "productId": 3374,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-06-02T23:00:00.9325188+03:00"
+    },
+    {
+      "productId": 4297,
+      "reviewText": "this CFA Franc BEAC is light-hearted.",
+      "reviewDate": "2017-01-03T06:01:59.6634391+02:00"
+    }
+  ]
+}

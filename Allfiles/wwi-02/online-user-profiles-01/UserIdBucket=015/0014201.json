@@ -1,0 +1,25 @@
+{
+  "userId": 14201,
+  "cartId": "b3c48ff5-e70d-4d1a-bcd2-479d4761be55",
+  "preferredProducts": [
+    3770,
+    3662,
+    3760,
+    551,
+    1246,
+    329,
+    4440
+  ],
+  "productReviews": [
+    {
+      "productId": 2727,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-02-27T04:32:15.560328+02:00"
+    },
+    {
+      "productId": 3097,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-08-21T07:43:32.9179614+03:00"
+    }
+  ]
+}

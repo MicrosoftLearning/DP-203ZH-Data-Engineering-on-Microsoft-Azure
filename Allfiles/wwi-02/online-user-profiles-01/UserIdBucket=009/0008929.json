@@ -1,0 +1,36 @@
+{
+  "userId": 8929,
+  "cartId": "1f906332-5432-4e18-82ba-7bd5fda33c2f",
+  "preferredProducts": [
+    2662,
+    2240,
+    2505,
+    740,
+    1828,
+    3737,
+    4545,
+    3943
+  ],
+  "productReviews": [
+    {
+      "productId": 3144,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-01-25T04:16:09.4200987+02:00"
+    },
+    {
+      "productId": 1208,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-07-27T09:13:18.1645757+03:00"
+    },
+    {
+      "productId": 2206,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-10-28T01:40:32.7608773+03:00"
+    },
+    {
+      "productId": 4578,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-09-17T18:43:30.0111413+03:00"
+    }
+  ]
+}

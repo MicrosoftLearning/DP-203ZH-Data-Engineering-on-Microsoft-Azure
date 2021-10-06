@@ -1,0 +1,30 @@
+{
+  "userId": 2765,
+  "cartId": "bd3a6dc0-e930-483c-917e-aab067052ea6",
+  "preferredProducts": [
+    1580,
+    1093,
+    85,
+    2776,
+    76,
+    390,
+    1638
+  ],
+  "productReviews": [
+    {
+      "productId": 541,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-01-08T03:11:33.200959+02:00"
+    },
+    {
+      "productId": 4903,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-02-15T00:02:31.6026559+02:00"
+    },
+    {
+      "productId": 4247,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-07-02T07:23:15.7726948+03:00"
+    }
+  ]
+}

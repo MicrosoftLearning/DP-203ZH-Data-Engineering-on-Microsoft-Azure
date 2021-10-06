@@ -1,0 +1,31 @@
+{
+  "userId": 22806,
+  "cartId": "12ea1d46-f899-43de-8708-8e0cecafeab1",
+  "preferredProducts": [
+    115,
+    195,
+    2517,
+    1750,
+    1854,
+    2372,
+    364,
+    4901
+  ],
+  "productReviews": [
+    {
+      "productId": 1974,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-07-27T02:22:50.077212+03:00"
+    },
+    {
+      "productId": 2959,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-01-04T14:30:30.6796106+02:00"
+    },
+    {
+      "productId": 1526,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-10-16T03:34:52.0632782+03:00"
+    }
+  ]
+}

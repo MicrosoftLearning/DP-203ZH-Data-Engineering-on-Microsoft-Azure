@@ -1,0 +1,41 @@
+{
+  "userId": 205,
+  "cartId": "9b2add5c-9a75-46f4-a496-e8f7ab40f8f5",
+  "preferredProducts": [
+    3007,
+    3046,
+    2223,
+    4427,
+    4616,
+    1238,
+    3501,
+    905
+  ],
+  "productReviews": [
+    {
+      "productId": 4977,
+      "reviewText": "this Investment Account is mellow.",
+      "reviewDate": "2019-08-08T17:16:24.8551213+03:00"
+    },
+    {
+      "productId": 4203,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-12-20T19:36:57.4745312+02:00"
+    },
+    {
+      "productId": 1482,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-12-25T02:33:22.639247+02:00"
+    },
+    {
+      "productId": 1631,
+      "reviewText": "This channels works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-07-30T06:45:04.3929906+03:00"
+    },
+    {
+      "productId": 677,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-09-14T10:04:34.7338243+03:00"
+    }
+  ]
+}

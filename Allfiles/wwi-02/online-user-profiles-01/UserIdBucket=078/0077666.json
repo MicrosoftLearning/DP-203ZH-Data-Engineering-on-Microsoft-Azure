@@ -1,0 +1,27 @@
+{
+  "userId": 77666,
+  "cartId": "9b69eea3-b271-43ee-a8e4-57ee573c2c47",
+  "preferredProducts": [
+    4919,
+    1369,
+    4437,
+    3557
+  ],
+  "productReviews": [
+    {
+      "productId": 1507,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2020-02-17T14:11:12.0112516+02:00"
+    },
+    {
+      "productId": 3570,
+      "reviewText": "This Spring works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-11-02T16:52:39.4444738+02:00"
+    },
+    {
+      "productId": 4218,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2020-04-13T00:03:33.3750292+03:00"
+    }
+  ]
+}

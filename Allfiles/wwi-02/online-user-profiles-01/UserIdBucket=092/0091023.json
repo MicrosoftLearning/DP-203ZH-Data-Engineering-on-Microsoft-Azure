@@ -1,0 +1,35 @@
+{
+  "userId": 91023,
+  "cartId": "f5655654-5eee-42bd-a752-7142c81b2481",
+  "preferredProducts": [
+    4484,
+    2590,
+    208,
+    1832,
+    483,
+    2804,
+    2197
+  ],
+  "productReviews": [
+    {
+      "productId": 628,
+      "reviewText": "this Awesome Rubber Chair is smooth.",
+      "reviewDate": "2016-06-10T12:39:53.6133124+03:00"
+    },
+    {
+      "productId": 4751,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-07-13T06:34:53.578922+03:00"
+    },
+    {
+      "productId": 2890,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-01-17T20:37:13.5426393+02:00"
+    },
+    {
+      "productId": 3002,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-09-11T14:37:39.2002279+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 66284,
+  "cartId": "ec2a9626-be5e-4f26-9f6d-ab98dce10225",
+  "preferredProducts": [
+    3714,
+    2605,
+    1272,
+    333
+  ],
+  "productReviews": [
+    {
+      "productId": 1342,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-12-27T11:36:31.6589835+02:00"
+    },
+    {
+      "productId": 634,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-01-23T22:07:57.632307+02:00"
+    },
+    {
+      "productId": 875,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-08-23T00:07:35.7091053+03:00"
+    },
+    {
+      "productId": 3041,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-10-13T02:14:44.0133836+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 10235,
+  "cartId": "0f8bc9f6-3f88-4820-bac5-e2a2785658f1",
+  "preferredProducts": [
+    1709,
+    1779,
+    173,
+    2179,
+    4496,
+    678,
+    1075,
+    271,
+    1329
+  ],
+  "productReviews": [
+    {
+      "productId": 919,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-10-24T11:15:55.980368+03:00"
+    },
+    {
+      "productId": 3239,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-08-03T10:15:55.9692141+03:00"
+    },
+    {
+      "productId": 1940,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-08-08T23:35:01.3593124+03:00"
+    },
+    {
+      "productId": 2848,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-05-05T23:45:29.8388275+03:00"
+    }
+  ]
+}

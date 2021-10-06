@@ -1,0 +1,30 @@
+{
+  "userId": 51113,
+  "cartId": "54077b9b-4d3d-4c42-b5ea-60a13045d745",
+  "preferredProducts": [
+    4284,
+    3559
+  ],
+  "productReviews": [
+    {
+      "productId": 3615,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-03-03T20:34:42.9184968+02:00"
+    },
+    {
+      "productId": 2217,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-11-29T15:47:24.7912409+02:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-07-04T03:51:02.3082905+03:00"
+    },
+    {
+      "productId": 4725,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-07-21T09:17:10.2782468+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 51843,
+  "cartId": "6409ad2e-8d96-4ea4-927f-e7fbff850aef",
+  "preferredProducts": [
+    2888,
+    2923,
+    2428,
+    1347,
+    1715,
+    601,
+    514
+  ],
+  "productReviews": [
+    {
+      "productId": 2062,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-03-24T12:52:07.5169662+02:00"
+    },
+    {
+      "productId": 3607,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-04-27T17:31:29.4991736+03:00"
+    },
+    {
+      "productId": 38,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-12-07T15:40:12.6597073+02:00"
+    }
+  ]
+}

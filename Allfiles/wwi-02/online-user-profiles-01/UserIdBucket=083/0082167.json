@@ -1,0 +1,30 @@
+{
+  "userId": 82167,
+  "cartId": "85c5a750-96b3-44a5-a3ab-8af60fa1cfe2",
+  "preferredProducts": [
+    472,
+    1319,
+    2505,
+    4988,
+    1224,
+    3490,
+    48
+  ],
+  "productReviews": [
+    {
+      "productId": 2754,
+      "reviewText": "this feed is ratty.",
+      "reviewDate": "2017-01-28T03:17:01.2283674+02:00"
+    },
+    {
+      "productId": 2747,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2020-04-20T04:36:29.7980868+03:00"
+    },
+    {
+      "productId": 4458,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-01-17T05:14:44.8741185+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 9575,
+  "cartId": "0db0c201-8907-405a-a48c-efde067ac9ba",
+  "preferredProducts": [
+    2863,
+    2227,
+    1346,
+    2712,
+    503,
+    2517,
+    2110,
+    1185
+  ],
+  "productReviews": [
+    {
+      "productId": 4028,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-05-14T02:43:43.3787502+03:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-12-03T06:26:40.1993079+02:00"
+    }
+  ]
+}

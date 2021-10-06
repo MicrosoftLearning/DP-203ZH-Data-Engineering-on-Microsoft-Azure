@@ -1,0 +1,32 @@
+{
+  "userId": 2878,
+  "cartId": "1294926c-8feb-428e-b258-c8234f60ad15",
+  "preferredProducts": [
+    87,
+    3484,
+    4396,
+    4386
+  ],
+  "productReviews": [
+    {
+      "productId": 3835,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-06-16T20:10:09.2614648+03:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-05-22T19:46:55.451654+03:00"
+    },
+    {
+      "productId": 1621,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-01-02T19:11:18.490043+02:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-07-09T20:02:38.4921704+03:00"
+    }
+  ]
+}

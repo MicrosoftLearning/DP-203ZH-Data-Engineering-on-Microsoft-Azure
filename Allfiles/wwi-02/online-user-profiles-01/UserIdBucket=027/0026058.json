@@ -1,0 +1,29 @@
+{
+  "userId": 26058,
+  "cartId": "3ce78d3b-fe16-49b1-b0cd-0aac211f0b69",
+  "preferredProducts": [
+    511,
+    1603,
+    2499,
+    2597,
+    3749,
+    2672
+  ],
+  "productReviews": [
+    {
+      "productId": 4476,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-10-02T09:02:40.7769028+03:00"
+    },
+    {
+      "productId": 725,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-08-31T12:44:11.5047871+03:00"
+    },
+    {
+      "productId": 4094,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-04-21T17:31:12.1768731+03:00"
+    }
+  ]
+}

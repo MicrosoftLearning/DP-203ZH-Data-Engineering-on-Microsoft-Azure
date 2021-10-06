@@ -1,0 +1,30 @@
+{
+  "userId": 21307,
+  "cartId": "5567964a-41b1-4822-a3c1-f3a2f4d3a8f4",
+  "preferredProducts": [
+    3643,
+    887
+  ],
+  "productReviews": [
+    {
+      "productId": 3757,
+      "reviewText": "this adapter is standard.",
+      "reviewDate": "2019-12-15T04:03:53.7911173+02:00"
+    },
+    {
+      "productId": 3966,
+      "reviewText": "This Orchestrator works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-07-20T17:34:26.4364346+03:00"
+    },
+    {
+      "productId": 2917,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-10-25T12:55:53.8883754+03:00"
+    },
+    {
+      "productId": 1645,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-09-10T16:55:17.6999136+03:00"
+    }
+  ]
+}

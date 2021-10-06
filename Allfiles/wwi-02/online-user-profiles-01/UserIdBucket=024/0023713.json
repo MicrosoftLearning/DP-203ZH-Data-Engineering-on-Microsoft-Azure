@@ -1,0 +1,26 @@
+{
+  "userId": 23713,
+  "cartId": "e30954dd-b367-49d1-9eba-311d1dda7a73",
+  "preferredProducts": [
+    1472,
+    1429,
+    3712
+  ],
+  "productReviews": [
+    {
+      "productId": 2789,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-05-17T08:06:14.6321795+03:00"
+    },
+    {
+      "productId": 3143,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-11-07T15:15:10.781561+02:00"
+    },
+    {
+      "productId": 4300,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-10-15T07:02:57.401286+03:00"
+    }
+  ]
+}

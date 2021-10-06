@@ -1,0 +1,28 @@
+{
+  "userId": 41231,
+  "cartId": "0ee65f57-ee10-4ee9-902e-be9fdc753663",
+  "preferredProducts": [
+    498,
+    3732,
+    3244,
+    3688,
+    3996
+  ],
+  "productReviews": [
+    {
+      "productId": 486,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-09-08T19:45:04.1979027+03:00"
+    },
+    {
+      "productId": 292,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-05-12T21:17:46.7290577+03:00"
+    },
+    {
+      "productId": 4131,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-08-29T08:27:50.4672044+03:00"
+    }
+  ]
+}

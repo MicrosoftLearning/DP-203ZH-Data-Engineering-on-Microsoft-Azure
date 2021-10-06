@@ -1,0 +1,28 @@
+{
+  "userId": 31858,
+  "cartId": "afb6eb59-c8dd-4403-99ed-89f2b41b7661",
+  "preferredProducts": [
+    1482,
+    1923,
+    616,
+    4773,
+    1478
+  ],
+  "productReviews": [
+    {
+      "productId": 485,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-05-21T13:14:10.5775015+03:00"
+    },
+    {
+      "productId": 4280,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-04-18T06:49:28.7290523+03:00"
+    },
+    {
+      "productId": 2403,
+      "reviewText": "this iterate is vertical.",
+      "reviewDate": "2019-02-01T21:54:00.9349271+02:00"
+    }
+  ]
+}

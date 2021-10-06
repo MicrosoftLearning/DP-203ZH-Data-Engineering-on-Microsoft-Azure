@@ -1,0 +1,30 @@
+{
+  "userId": 32551,
+  "cartId": "150a5d1e-8aff-4c5e-9e72-478ad72a5d9f",
+  "preferredProducts": [
+    1169,
+    3271
+  ],
+  "productReviews": [
+    {
+      "productId": 461,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-08-22T18:28:41.4697864+03:00"
+    },
+    {
+      "productId": 2296,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-08-13T22:56:21.2001556+03:00"
+    },
+    {
+      "productId": 3269,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-09-10T14:06:59.1984944+03:00"
+    },
+    {
+      "productId": 3050,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-06-24T22:11:00.0938173+03:00"
+    }
+  ]
+}

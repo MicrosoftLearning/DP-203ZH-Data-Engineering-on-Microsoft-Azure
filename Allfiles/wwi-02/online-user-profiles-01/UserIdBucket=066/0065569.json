@@ -1,0 +1,35 @@
+{
+  "userId": 65569,
+  "cartId": "7c2299ae-ac82-43a1-86d7-18fc107ef286",
+  "preferredProducts": [
+    3115,
+    2918,
+    3879,
+    1778,
+    2213,
+    1699,
+    2119
+  ],
+  "productReviews": [
+    {
+      "productId": 276,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-01-12T19:37:52.6259207+02:00"
+    },
+    {
+      "productId": 2067,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-02-23T08:38:59.0684388+02:00"
+    },
+    {
+      "productId": 2416,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-11-10T19:46:27.5533894+02:00"
+    },
+    {
+      "productId": 2875,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-07-20T00:10:38.9696133+03:00"
+    }
+  ]
+}

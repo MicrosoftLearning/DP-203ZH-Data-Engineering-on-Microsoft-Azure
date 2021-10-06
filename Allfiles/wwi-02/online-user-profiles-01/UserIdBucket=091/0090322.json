@@ -1,0 +1,32 @@
+{
+  "userId": 90322,
+  "cartId": "1c66e204-008e-4016-87e6-3cdae608b396",
+  "preferredProducts": [
+    3677,
+    4238,
+    44,
+    1519,
+    4487,
+    176,
+    320,
+    3305,
+    2198
+  ],
+  "productReviews": [
+    {
+      "productId": 1421,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-07-12T15:16:53.5343105+03:00"
+    },
+    {
+      "productId": 4859,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-10-05T07:42:04.2385578+03:00"
+    },
+    {
+      "productId": 1485,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-03-06T16:49:23.7390001+02:00"
+    }
+  ]
+}

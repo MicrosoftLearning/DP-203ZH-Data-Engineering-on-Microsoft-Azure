@@ -1,0 +1,33 @@
+{
+  "userId": 43470,
+  "cartId": "3e437b69-17de-44f4-b3cd-fad09a80f350",
+  "preferredProducts": [
+    3621,
+    1452,
+    4974,
+    4942,
+    267
+  ],
+  "productReviews": [
+    {
+      "productId": 3733,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-11-15T08:03:28.3828929+02:00"
+    },
+    {
+      "productId": 2487,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-04-27T06:48:42.4560338+03:00"
+    },
+    {
+      "productId": 4506,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-22T17:26:20.9210396+03:00"
+    },
+    {
+      "productId": 700,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-09-26T05:28:21.2618334+03:00"
+    }
+  ]
+}

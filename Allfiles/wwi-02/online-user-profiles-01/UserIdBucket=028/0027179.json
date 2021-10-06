@@ -1,0 +1,25 @@
+{
+  "userId": 27179,
+  "cartId": "a1c868aa-8dfc-416e-91a5-0f5c96f24971",
+  "preferredProducts": [
+    1800,
+    952,
+    3870,
+    4950,
+    2939,
+    1890,
+    4400
+  ],
+  "productReviews": [
+    {
+      "productId": 965,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-08-05T16:03:46.4708626+03:00"
+    },
+    {
+      "productId": 246,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-12-29T10:05:02.9830653+02:00"
+    }
+  ]
+}

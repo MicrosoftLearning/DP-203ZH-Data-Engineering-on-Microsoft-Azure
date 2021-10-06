@@ -1,0 +1,36 @@
+{
+  "userId": 63795,
+  "cartId": "5293e6e0-9fa8-4e74-b259-caf9a2eb9108",
+  "preferredProducts": [
+    4801,
+    542,
+    3790,
+    1990,
+    3728,
+    4686,
+    4803,
+    1954
+  ],
+  "productReviews": [
+    {
+      "productId": 4262,
+      "reviewText": "this blue is slurpee.",
+      "reviewDate": "2016-08-01T05:52:00.3069222+03:00"
+    },
+    {
+      "productId": 3466,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-06-15T20:05:58.8028451+03:00"
+    },
+    {
+      "productId": 4294,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-09-09T00:09:50.2522813+03:00"
+    },
+    {
+      "productId": 4121,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-03-10T04:30:43.8253237+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 2948,
+  "cartId": "a80cb270-9dcd-4105-8f9b-7ad2a3428eb4",
+  "preferredProducts": [
+    1773,
+    4598,
+    519,
+    1901
+  ],
+  "productReviews": [
+    {
+      "productId": 1226,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-12-20T01:46:59.4716512+02:00"
+    },
+    {
+      "productId": 4913,
+      "reviewText": "This National works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-11-13T08:35:32.6829049+02:00"
+    },
+    {
+      "productId": 4859,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-03-02T18:01:27.2141461+02:00"
+    },
+    {
+      "productId": 981,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-10-25T14:20:07.5425396+03:00"
+    }
+  ]
+}

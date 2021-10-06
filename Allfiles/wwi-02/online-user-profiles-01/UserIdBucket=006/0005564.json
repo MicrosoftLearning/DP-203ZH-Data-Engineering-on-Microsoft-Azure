@@ -1,0 +1,28 @@
+{
+  "userId": 5564,
+  "cartId": "6c7b3d71-a003-4bbd-8a7b-5edc3fe8aa3e",
+  "preferredProducts": [
+    4351,
+    1773,
+    849,
+    1186,
+    4595,
+    664,
+    4647,
+    2237,
+    956,
+    2464
+  ],
+  "productReviews": [
+    {
+      "productId": 3223,
+      "reviewText": "This Baby, does exactly what it's suppose to do.",
+      "reviewDate": "2018-11-22T22:38:35.6095734+02:00"
+    },
+    {
+      "productId": 1947,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-01-17T02:12:14.9329357+02:00"
+    }
+  ]
+}

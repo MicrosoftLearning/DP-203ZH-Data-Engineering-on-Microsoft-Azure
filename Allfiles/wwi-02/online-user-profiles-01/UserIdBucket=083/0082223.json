@@ -1,0 +1,32 @@
+{
+  "userId": 82223,
+  "cartId": "56bd4239-ddd3-4910-a4aa-c033830a0512",
+  "preferredProducts": [
+    4052,
+    3125,
+    4616,
+    4310
+  ],
+  "productReviews": [
+    {
+      "productId": 182,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-06-17T16:35:16.829682+03:00"
+    },
+    {
+      "productId": 4570,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-07-27T18:06:12.1070461+03:00"
+    },
+    {
+      "productId": 4039,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-01-17T21:34:57.0371906+02:00"
+    },
+    {
+      "productId": 2817,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-06-09T01:45:12.7991732+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 98329,
+  "cartId": "8d99a195-ca6e-49fc-90c7-6b288df337b1",
+  "preferredProducts": [
+    729,
+    1901,
+    3681,
+    2941,
+    639,
+    4889,
+    254,
+    518
+  ],
+  "productReviews": [
+    {
+      "productId": 2701,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-06-26T17:59:45.7646043+03:00"
+    },
+    {
+      "productId": 3740,
+      "reviewText": "This Chief works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-10-12T23:53:12.7475241+03:00"
+    },
+    {
+      "productId": 4183,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-05-04T22:34:04.4978885+03:00"
+    }
+  ]
+}

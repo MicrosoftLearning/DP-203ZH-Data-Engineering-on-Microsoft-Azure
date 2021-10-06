@@ -1,0 +1,27 @@
+{
+  "userId": 7271,
+  "cartId": "bd985ed9-2d0b-47d4-91f3-cba23c26c087",
+  "preferredProducts": [
+    3535,
+    4397,
+    224,
+    2953
+  ],
+  "productReviews": [
+    {
+      "productId": 2650,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-03-02T00:08:03.958566+02:00"
+    },
+    {
+      "productId": 919,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-01-17T07:47:33.6359226+02:00"
+    },
+    {
+      "productId": 954,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-10-26T20:40:34.1526342+03:00"
+    }
+  ]
+}

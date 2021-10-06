@@ -1,0 +1,29 @@
+{
+  "userId": 27,
+  "cartId": "ed475d8e-ffcc-4f00-88ef-d313124889cc",
+  "preferredProducts": [
+    2434,
+    1048,
+    4974,
+    2867,
+    980,
+    1296
+  ],
+  "productReviews": [
+    {
+      "productId": 628,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-10-22T22:29:10.0969494+03:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-04-25T11:38:27.2548166+03:00"
+    },
+    {
+      "productId": 4785,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-12-15T15:29:57.3698714+02:00"
+    }
+  ]
+}

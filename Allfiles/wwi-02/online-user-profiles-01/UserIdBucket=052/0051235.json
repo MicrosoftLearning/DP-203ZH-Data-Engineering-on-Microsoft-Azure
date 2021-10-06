@@ -1,0 +1,25 @@
+{
+  "userId": 51235,
+  "cartId": "153e6c2b-6c80-4d02-af53-36b0a6b3657f",
+  "preferredProducts": [
+    4899,
+    3375,
+    1268,
+    3085,
+    2645,
+    1585,
+    1296
+  ],
+  "productReviews": [
+    {
+      "productId": 2005,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-04-01T07:13:29.3679186+03:00"
+    },
+    {
+      "productId": 4484,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-07-22T08:09:27.9244926+03:00"
+    }
+  ]
+}

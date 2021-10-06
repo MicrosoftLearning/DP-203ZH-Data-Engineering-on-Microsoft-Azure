@@ -1,0 +1,31 @@
+{
+  "userId": 69458,
+  "cartId": "234f018e-6518-4c54-bc25-2dbaaa97d8f2",
+  "preferredProducts": [
+    1318,
+    3351,
+    2933,
+    3034,
+    4253,
+    2509,
+    2733,
+    3034
+  ],
+  "productReviews": [
+    {
+      "productId": 3585,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-12-16T10:35:32.7235888+02:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-03-10T13:47:37.5052678+02:00"
+    },
+    {
+      "productId": 3507,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-09-28T00:41:08.7720659+03:00"
+    }
+  ]
+}

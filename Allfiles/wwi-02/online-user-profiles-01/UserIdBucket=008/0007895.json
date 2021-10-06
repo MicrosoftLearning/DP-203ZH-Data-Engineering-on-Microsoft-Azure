@@ -1,0 +1,34 @@
+{
+  "userId": 7895,
+  "cartId": "3dbece51-4885-4045-a20c-4e3ceb58b224",
+  "preferredProducts": [
+    183,
+    3656,
+    767,
+    2161,
+    77,
+    2048
+  ],
+  "productReviews": [
+    {
+      "productId": 4545,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-29T20:12:12.1991494+03:00"
+    },
+    {
+      "productId": 36,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-03-28T18:12:19.9671694+03:00"
+    },
+    {
+      "productId": 4553,
+      "reviewText": "this cross-platform is nifty.",
+      "reviewDate": "2017-12-09T03:05:59.8041354+02:00"
+    },
+    {
+      "productId": 1830,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-01-06T23:45:03.4518658+02:00"
+    }
+  ]
+}

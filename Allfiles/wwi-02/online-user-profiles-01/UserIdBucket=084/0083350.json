@@ -1,0 +1,35 @@
+{
+  "userId": 83350,
+  "cartId": "fdaf06d0-5344-4ba5-9942-2a928d05bcb9",
+  "preferredProducts": [
+    269,
+    2202,
+    308,
+    998,
+    1293,
+    1216,
+    2679
+  ],
+  "productReviews": [
+    {
+      "productId": 132,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-01-23T19:46:45.1761847+02:00"
+    },
+    {
+      "productId": 2639,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-08-16T22:46:46.4665142+03:00"
+    },
+    {
+      "productId": 4649,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-05-20T18:30:54.3282966+03:00"
+    },
+    {
+      "productId": 4657,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-02-19T20:29:10.5468226+02:00"
+    }
+  ]
+}

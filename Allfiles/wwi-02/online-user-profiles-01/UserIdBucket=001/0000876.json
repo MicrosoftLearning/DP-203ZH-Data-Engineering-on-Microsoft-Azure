@@ -1,0 +1,32 @@
+{
+  "userId": 876,
+  "cartId": "9570b2f1-e294-48cd-89fd-5e635a4d2ca8",
+  "preferredProducts": [
+    3471,
+    3079,
+    3700,
+    1878,
+    3930,
+    2659,
+    3833,
+    4254,
+    4135
+  ],
+  "productReviews": [
+    {
+      "productId": 1784,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-10-11T18:35:04.3309155+03:00"
+    },
+    {
+      "productId": 1881,
+      "reviewText": "this Russian Ruble is gracious.",
+      "reviewDate": "2016-12-09T12:05:02.0974815+02:00"
+    },
+    {
+      "productId": 272,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-02-03T09:52:33.8358688+02:00"
+    }
+  ]
+}

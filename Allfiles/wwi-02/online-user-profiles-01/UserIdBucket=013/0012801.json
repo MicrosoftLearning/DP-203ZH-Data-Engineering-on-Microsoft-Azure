@@ -1,0 +1,35 @@
+{
+  "userId": 12801,
+  "cartId": "98e58039-7018-4537-bacc-f7c29dcd36f5",
+  "preferredProducts": [
+    2704,
+    3295,
+    884,
+    3564,
+    848,
+    4063,
+    3332
+  ],
+  "productReviews": [
+    {
+      "productId": 2931,
+      "reviewText": "this Dominica is awesome.",
+      "reviewDate": "2018-09-15T03:03:37.4037059+03:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-03-24T07:03:52.3385365+02:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-05-05T18:53:24.2645588+03:00"
+    },
+    {
+      "productId": 3077,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-09-23T08:23:27.6728192+03:00"
+    }
+  ]
+}

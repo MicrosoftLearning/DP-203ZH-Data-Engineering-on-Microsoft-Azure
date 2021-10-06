@@ -1,0 +1,32 @@
+{
+  "userId": 3363,
+  "cartId": "717db537-acee-4708-b5fe-ea2d2c46c3bb",
+  "preferredProducts": [
+    51,
+    4151,
+    2553,
+    4069
+  ],
+  "productReviews": [
+    {
+      "productId": 1433,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-09-16T20:08:27.924649+03:00"
+    },
+    {
+      "productId": 3261,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-01-08T16:38:43.4222847+02:00"
+    },
+    {
+      "productId": 3678,
+      "reviewText": "this firewall is smooth.",
+      "reviewDate": "2019-08-05T13:11:25.5428196+03:00"
+    },
+    {
+      "productId": 3959,
+      "reviewText": "This Spurs works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2017-11-30T06:13:46.3589056+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 58243,
+  "cartId": "12bf922a-638d-4328-b22c-aebc11126d8c",
+  "preferredProducts": [
+    4813,
+    1653,
+    642,
+    2308
+  ],
+  "productReviews": [
+    {
+      "productId": 2260,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-02-05T18:15:20.7025016+02:00"
+    },
+    {
+      "productId": 1575,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-12-01T03:06:14.8580941+02:00"
+    },
+    {
+      "productId": 1521,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-09-24T07:37:31.8042583+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 4456,
+  "cartId": "abdb3543-8507-4757-99b5-7af2a8323d86",
+  "preferredProducts": [
+    4450,
+    1761,
+    4925,
+    4885,
+    396,
+    2911,
+    2937,
+    4713,
+    2094,
+    973
+  ],
+  "productReviews": [
+    {
+      "productId": 1054,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2020-03-27T08:49:12.6141881+02:00"
+    },
+    {
+      "productId": 1731,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-09-23T17:54:17.3245317+03:00"
+    },
+    {
+      "productId": 3970,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-05-15T08:46:18.8231133+03:00"
+    },
+    {
+      "productId": 428,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-08-10T01:47:46.6292004+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 58703,
+  "cartId": "d41c1d7d-6c30-4082-b848-98ef37f7f6c1",
+  "preferredProducts": [
+    2395,
+    2221,
+    1839,
+    4356,
+    460
+  ],
+  "productReviews": [
+    {
+      "productId": 2603,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-04-10T20:28:47.6442759+03:00"
+    },
+    {
+      "productId": 4275,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-01-31T13:50:48.1187212+02:00"
+    },
+    {
+      "productId": 695,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-09-01T18:32:40.4470352+03:00"
+    }
+  ]
+}

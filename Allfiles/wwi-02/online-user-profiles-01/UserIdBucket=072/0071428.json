@@ -1,0 +1,23 @@
+{
+  "userId": 71428,
+  "cartId": "0039ba95-5cc3-4006-b489-4cc627709e3c",
+  "preferredProducts": [
+    2550,
+    2717,
+    4865,
+    4465,
+    4517
+  ],
+  "productReviews": [
+    {
+      "productId": 3917,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-01-21T02:55:59.7950614+02:00"
+    },
+    {
+      "productId": 232,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-02-08T09:01:36.185812+02:00"
+    }
+  ]
+}

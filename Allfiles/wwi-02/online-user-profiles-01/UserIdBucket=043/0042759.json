@@ -1,0 +1,24 @@
+{
+  "userId": 42759,
+  "cartId": "4b2b4b1b-73ac-4fe5-999d-6f1df7cefc79",
+  "preferredProducts": [
+    3467,
+    358,
+    2491,
+    4503,
+    4683,
+    3895
+  ],
+  "productReviews": [
+    {
+      "productId": 2415,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-08-25T05:31:34.8873327+03:00"
+    },
+    {
+      "productId": 1635,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-02-17T04:05:42.521079+02:00"
+    }
+  ]
+}

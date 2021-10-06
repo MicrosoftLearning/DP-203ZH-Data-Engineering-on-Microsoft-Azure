@@ -1,0 +1,38 @@
+{
+  "userId": 78616,
+  "cartId": "4d7d0717-8664-47bc-83b5-f1dd9964257a",
+  "preferredProducts": [
+    1358,
+    4299,
+    2921,
+    1228,
+    2556,
+    2125,
+    2212,
+    2188,
+    3525,
+    248
+  ],
+  "productReviews": [
+    {
+      "productId": 1440,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2020-02-26T18:29:30.7692266+02:00"
+    },
+    {
+      "productId": 3865,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-05-15T23:26:42.2381695+03:00"
+    },
+    {
+      "productId": 221,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-02-03T15:53:52.0555469+02:00"
+    },
+    {
+      "productId": 2527,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-02-21T20:54:18.6114124+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 98431,
+  "cartId": "30e74656-fc0b-4bc5-94cc-e7b867ba112f",
+  "preferredProducts": [
+    4858,
+    1254,
+    2518,
+    3287,
+    4239,
+    2177,
+    1205,
+    1507,
+    104,
+    2070
+  ],
+  "productReviews": [
+    {
+      "productId": 3365,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-11-21T00:24:33.268574+02:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "this bandwidth is awesome.",
+      "reviewDate": "2017-03-31T06:40:03.32603+03:00"
+    },
+    {
+      "productId": 4102,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-05-13T20:33:05.8523391+03:00"
+    }
+  ]
+}

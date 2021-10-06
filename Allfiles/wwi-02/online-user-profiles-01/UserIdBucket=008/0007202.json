@@ -1,0 +1,32 @@
+{
+  "userId": 7202,
+  "cartId": "3d0ed80c-4eea-4055-af7d-4c253a7561a9",
+  "preferredProducts": [
+    88,
+    2911,
+    2305,
+    3314
+  ],
+  "productReviews": [
+    {
+      "productId": 1501,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2016-06-01T11:53:32.4806067+03:00"
+    },
+    {
+      "productId": 3563,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-05-10T09:50:55.0211219+03:00"
+    },
+    {
+      "productId": 693,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-04-06T00:03:33.3605254+03:00"
+    },
+    {
+      "productId": 1954,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-03-25T08:41:42.5065802+02:00"
+    }
+  ]
+}

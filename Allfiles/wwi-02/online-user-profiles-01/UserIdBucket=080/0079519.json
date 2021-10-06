@@ -1,0 +1,37 @@
+{
+  "userId": 79519,
+  "cartId": "bb8761e1-8bbe-43f1-a47a-66d0acd1a1e6",
+  "preferredProducts": [
+    4336,
+    567,
+    3886,
+    2774,
+    3677,
+    3046,
+    3957,
+    1543,
+    4062
+  ],
+  "productReviews": [
+    {
+      "productId": 4165,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-11-20T07:34:09.5791064+02:00"
+    },
+    {
+      "productId": 4103,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-07-01T06:54:28.4367685+03:00"
+    },
+    {
+      "productId": 757,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-09-22T12:16:13.4251304+03:00"
+    },
+    {
+      "productId": 402,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-04-29T04:34:47.4529011+03:00"
+    }
+  ]
+}

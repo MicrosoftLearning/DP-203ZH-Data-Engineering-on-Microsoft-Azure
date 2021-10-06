@@ -1,0 +1,27 @@
+{
+  "userId": 498,
+  "cartId": "1516fcf4-7dfe-44a9-be34-42682b6b0d28",
+  "preferredProducts": [
+    4230,
+    3862,
+    4951,
+    4688
+  ],
+  "productReviews": [
+    {
+      "productId": 656,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-09-07T08:16:18.7091936+03:00"
+    },
+    {
+      "productId": 3911,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-05-20T15:15:28.300828+03:00"
+    },
+    {
+      "productId": 531,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-11-10T15:05:56.5626408+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 78,
+  "cartId": "d2af4c17-9c0b-40d1-bd22-164f5c25efef",
+  "preferredProducts": [
+    944,
+    2541,
+    2103,
+    689,
+    802,
+    2079,
+    3203
+  ],
+  "productReviews": [
+    {
+      "productId": 2796,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-03-22T23:07:22.6365265+02:00"
+    },
+    {
+      "productId": 4525,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-09-22T07:26:49.518302+03:00"
+    },
+    {
+      "productId": 227,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-08-20T14:10:52.9974842+03:00"
+    },
+    {
+      "productId": 3568,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2019-08-20T16:06:18.5128122+03:00"
+    }
+  ]
+}

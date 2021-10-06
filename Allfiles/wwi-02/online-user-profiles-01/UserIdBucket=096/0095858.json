@@ -1,0 +1,29 @@
+{
+  "userId": 95858,
+  "cartId": "3e6f30b1-6aff-48fd-8e8e-037622eecc7f",
+  "preferredProducts": [
+    4222,
+    2733,
+    3906,
+    2777,
+    928,
+    458
+  ],
+  "productReviews": [
+    {
+      "productId": 1605,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-12-04T17:47:25.2687287+02:00"
+    },
+    {
+      "productId": 3829,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-04-12T03:08:40.2251444+03:00"
+    },
+    {
+      "productId": 1567,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-11-04T22:58:11.7179616+02:00"
+    }
+  ]
+}

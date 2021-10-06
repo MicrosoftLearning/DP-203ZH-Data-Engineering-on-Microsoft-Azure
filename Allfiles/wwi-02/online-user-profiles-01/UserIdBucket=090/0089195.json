@@ -1,0 +1,31 @@
+{
+  "userId": 89195,
+  "cartId": "321f4af6-e045-47fe-bf08-966e287d8ced",
+  "preferredProducts": [
+    3900,
+    3821,
+    1872
+  ],
+  "productReviews": [
+    {
+      "productId": 4752,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-03-07T16:39:25.505386+02:00"
+    },
+    {
+      "productId": 192,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2020-01-06T01:02:04.7027991+02:00"
+    },
+    {
+      "productId": 2374,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-06-03T12:01:13.8964323+03:00"
+    },
+    {
+      "productId": 1533,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-08T17:58:30.9154534+03:00"
+    }
+  ]
+}

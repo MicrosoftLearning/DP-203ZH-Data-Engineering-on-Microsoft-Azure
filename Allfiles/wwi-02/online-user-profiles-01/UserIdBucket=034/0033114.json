@@ -1,0 +1,38 @@
+{
+  "userId": 33114,
+  "cartId": "34d6ddfc-8446-42d6-be8a-70825b08243c",
+  "preferredProducts": [
+    4222,
+    3703,
+    238,
+    3242,
+    1726
+  ],
+  "productReviews": [
+    {
+      "productId": 1555,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-04-22T04:31:43.3048397+03:00"
+    },
+    {
+      "productId": 2783,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-02-02T21:04:29.6816874+02:00"
+    },
+    {
+      "productId": 4142,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-09-08T16:43:39.338451+03:00"
+    },
+    {
+      "productId": 4785,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-05-25T16:16:13.5333385+03:00"
+    },
+    {
+      "productId": 4427,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-11-05T15:01:04.8745922+02:00"
+    }
+  ]
+}

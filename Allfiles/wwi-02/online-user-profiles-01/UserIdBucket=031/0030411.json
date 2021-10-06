@@ -1,0 +1,38 @@
+{
+  "userId": 30411,
+  "cartId": "5c98a7d0-1424-4859-abc5-ac78405f0d2a",
+  "preferredProducts": [
+    1233,
+    2633,
+    4095,
+    3374,
+    4581,
+    1410,
+    2624,
+    181,
+    1918,
+    4608
+  ],
+  "productReviews": [
+    {
+      "productId": 3873,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-06-24T04:33:30.0868418+03:00"
+    },
+    {
+      "productId": 2926,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-08-27T00:23:29.0154062+03:00"
+    },
+    {
+      "productId": 3971,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-05-09T23:29:15.9761231+03:00"
+    },
+    {
+      "productId": 190,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-06-12T16:41:34.0529937+03:00"
+    }
+  ]
+}

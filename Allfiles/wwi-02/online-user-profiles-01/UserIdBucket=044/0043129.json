@@ -1,0 +1,30 @@
+{
+  "userId": 43129,
+  "cartId": "f3a91969-de20-4982-ab2c-bc11d796bda1",
+  "preferredProducts": [
+    4297,
+    975,
+    3293,
+    1624,
+    552,
+    3724,
+    4198
+  ],
+  "productReviews": [
+    {
+      "productId": 4721,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-05-29T09:00:31.9416753+03:00"
+    },
+    {
+      "productId": 3967,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-03-14T19:32:36.6455927+02:00"
+    },
+    {
+      "productId": 2435,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-06-30T02:46:44.6708967+03:00"
+    }
+  ]
+}

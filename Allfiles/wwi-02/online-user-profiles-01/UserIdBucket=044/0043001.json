@@ -1,0 +1,38 @@
+{
+  "userId": 43001,
+  "cartId": "d71e4723-9486-46b6-a80e-636d5ab1d001",
+  "preferredProducts": [
+    795,
+    3503,
+    43,
+    4089,
+    896
+  ],
+  "productReviews": [
+    {
+      "productId": 2424,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-03-20T21:50:40.1986869+02:00"
+    },
+    {
+      "productId": 3319,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-08-26T17:30:18.5294088+03:00"
+    },
+    {
+      "productId": 3549,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-11-18T08:45:26.6234897+02:00"
+    },
+    {
+      "productId": 1513,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-02-26T12:33:34.8528562+02:00"
+    },
+    {
+      "productId": 3489,
+      "reviewText": "this Corner is flirty.",
+      "reviewDate": "2019-04-09T09:34:39.1133803+03:00"
+    }
+  ]
+}

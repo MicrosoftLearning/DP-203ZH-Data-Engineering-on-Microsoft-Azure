@@ -1,0 +1,41 @@
+{
+  "userId": 75678,
+  "cartId": "2dc8dcaa-7e86-46d3-b114-4710849e4a77",
+  "preferredProducts": [
+    4323,
+    3692,
+    2061,
+    3828,
+    1288,
+    3880,
+    214,
+    3909
+  ],
+  "productReviews": [
+    {
+      "productId": 4581,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-13T21:00:35.7157466+02:00"
+    },
+    {
+      "productId": 3947,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-09-08T02:13:13.283847+03:00"
+    },
+    {
+      "productId": 3018,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-05-07T10:58:26.2130815+03:00"
+    },
+    {
+      "productId": 30,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-12-17T16:45:45.9557057+02:00"
+    },
+    {
+      "productId": 1610,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-07-30T16:50:07.9645904+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 53681,
+  "cartId": "d5a3f9a1-f994-4fbf-8b73-677b83b5f91b",
+  "preferredProducts": [
+    1850,
+    3782,
+    4019,
+    1893,
+    897
+  ],
+  "productReviews": [
+    {
+      "productId": 4566,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2020-03-15T02:21:15.3862335+02:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-04-04T16:45:25.080731+03:00"
+    },
+    {
+      "productId": 428,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-10-28T12:26:05.1005507+03:00"
+    }
+  ]
+}

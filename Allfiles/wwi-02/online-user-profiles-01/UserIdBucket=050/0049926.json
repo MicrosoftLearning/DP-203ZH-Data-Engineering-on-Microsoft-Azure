@@ -1,0 +1,37 @@
+{
+  "userId": 49926,
+  "cartId": "85bf3c33-f16b-41a2-8b03-2ec163b1fac8",
+  "preferredProducts": [
+    945,
+    311,
+    690,
+    214,
+    832,
+    3590,
+    312,
+    2111,
+    1085
+  ],
+  "productReviews": [
+    {
+      "productId": 2087,
+      "reviewText": "this SCSI is smooth.",
+      "reviewDate": "2019-07-16T20:00:02.778205+03:00"
+    },
+    {
+      "productId": 393,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-01-16T01:21:41.738243+02:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-08-03T10:21:58.233005+03:00"
+    },
+    {
+      "productId": 4235,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-04-14T15:28:12.1350052+03:00"
+    }
+  ]
+}

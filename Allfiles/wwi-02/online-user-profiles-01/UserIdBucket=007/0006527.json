@@ -1,0 +1,30 @@
+{
+  "userId": 6527,
+  "cartId": "a162e850-cc92-4d71-bcc0-5a680b89a47d",
+  "preferredProducts": [
+    2805,
+    1580,
+    3606,
+    1607,
+    1491,
+    4931,
+    2085
+  ],
+  "productReviews": [
+    {
+      "productId": 2368,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-09-21T18:06:25.7669933+03:00"
+    },
+    {
+      "productId": 777,
+      "reviewText": "This copy works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-07-31T18:33:22.5835847+03:00"
+    },
+    {
+      "productId": 4691,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-20T18:02:16.7321523+03:00"
+    }
+  ]
+}

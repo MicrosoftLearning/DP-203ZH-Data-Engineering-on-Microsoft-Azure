@@ -1,0 +1,30 @@
+{
+  "userId": 42391,
+  "cartId": "33335f79-0d6f-480a-ad17-223514c80a8f",
+  "preferredProducts": [
+    3993,
+    2711
+  ],
+  "productReviews": [
+    {
+      "productId": 1386,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-11-21T17:46:47.6679867+02:00"
+    },
+    {
+      "productId": 576,
+      "reviewText": "this Handcrafted Granite Gloves is honest.",
+      "reviewDate": "2017-10-18T18:58:44.2364189+03:00"
+    },
+    {
+      "productId": 3872,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2020-02-16T03:34:32.2822975+02:00"
+    },
+    {
+      "productId": 4594,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-04-30T06:03:40.3855306+03:00"
+    }
+  ]
+}

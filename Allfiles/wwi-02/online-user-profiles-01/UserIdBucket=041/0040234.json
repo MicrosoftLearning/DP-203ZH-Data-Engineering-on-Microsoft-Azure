@@ -1,0 +1,34 @@
+{
+  "userId": 40234,
+  "cartId": "d21160d9-f5f0-4266-ae6a-ed47390f1963",
+  "preferredProducts": [
+    189,
+    4615,
+    89,
+    3927,
+    3779,
+    3914
+  ],
+  "productReviews": [
+    {
+      "productId": 3233,
+      "reviewText": "This Tasty Metal Chicken works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-12-23T13:59:41.6900021+02:00"
+    },
+    {
+      "productId": 4820,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2020-02-26T00:44:26.4035177+02:00"
+    },
+    {
+      "productId": 526,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-10-26T15:13:31.1405855+03:00"
+    },
+    {
+      "productId": 2014,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-10-27T11:33:58.4544008+03:00"
+    }
+  ]
+}

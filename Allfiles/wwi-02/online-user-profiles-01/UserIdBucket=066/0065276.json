@@ -1,0 +1,32 @@
+{
+  "userId": 65276,
+  "cartId": "b4301414-fea9-4aa2-ad28-3d06c957028f",
+  "preferredProducts": [
+    4528,
+    1866,
+    1525,
+    2266
+  ],
+  "productReviews": [
+    {
+      "productId": 4496,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-03-28T17:35:27.644457+02:00"
+    },
+    {
+      "productId": 3974,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-08-18T00:31:10.1533236+03:00"
+    },
+    {
+      "productId": 4404,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-04-23T01:14:12.7486936+03:00"
+    },
+    {
+      "productId": 2414,
+      "reviewText": "this optical is ratty.",
+      "reviewDate": "2017-11-12T09:12:36.0631481+02:00"
+    }
+  ]
+}

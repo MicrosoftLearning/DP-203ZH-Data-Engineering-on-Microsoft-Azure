@@ -1,0 +1,35 @@
+{
+  "userId": 64771,
+  "cartId": "6a9f5a63-30ae-4490-8de9-35a2320a049d",
+  "preferredProducts": [
+    3567,
+    3667,
+    1039,
+    3547,
+    1399,
+    3519,
+    3511
+  ],
+  "productReviews": [
+    {
+      "productId": 1423,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-03-26T08:58:56.5982863+02:00"
+    },
+    {
+      "productId": 4667,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-06-09T07:52:33.8600558+03:00"
+    },
+    {
+      "productId": 1090,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-10T10:06:34.3515956+02:00"
+    },
+    {
+      "productId": 3841,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2018-06-23T02:50:36.4840132+03:00"
+    }
+  ]
+}

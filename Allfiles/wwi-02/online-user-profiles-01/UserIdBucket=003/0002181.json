@@ -1,0 +1,28 @@
+{
+  "userId": 2181,
+  "cartId": "7a7d9540-ff1e-4d3e-95db-cd93fd3a5884",
+  "preferredProducts": [
+    3659,
+    786,
+    3076,
+    767,
+    4185
+  ],
+  "productReviews": [
+    {
+      "productId": 3030,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-01-23T11:19:11.6476351+02:00"
+    },
+    {
+      "productId": 1164,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-11-04T08:19:32.1199917+02:00"
+    },
+    {
+      "productId": 1650,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-03-18T11:08:24.1507034+02:00"
+    }
+  ]
+}

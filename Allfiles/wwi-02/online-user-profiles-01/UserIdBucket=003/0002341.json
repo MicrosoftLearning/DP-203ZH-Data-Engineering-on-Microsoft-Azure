@@ -1,0 +1,32 @@
+{
+  "userId": 2341,
+  "cartId": "7c91ba67-e750-49e5-8813-52d04a1e7556",
+  "preferredProducts": [
+    1040,
+    1155,
+    2126,
+    1628
+  ],
+  "productReviews": [
+    {
+      "productId": 4006,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-08-26T18:31:18.5194329+03:00"
+    },
+    {
+      "productId": 4088,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-05-12T05:22:11.2598406+03:00"
+    },
+    {
+      "productId": 1921,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-12-26T15:18:56.4516498+02:00"
+    },
+    {
+      "productId": 1211,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2016-05-15T13:26:53.9408587+03:00"
+    }
+  ]
+}

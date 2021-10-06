@@ -1,0 +1,37 @@
+{
+  "userId": 41731,
+  "cartId": "9ad00f00-74a9-43f7-971b-01bac6c9c964",
+  "preferredProducts": [
+    4978,
+    2222,
+    4007,
+    4084,
+    3792,
+    4524,
+    4033,
+    1117,
+    2182
+  ],
+  "productReviews": [
+    {
+      "productId": 780,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-06-20T16:17:41.9138082+03:00"
+    },
+    {
+      "productId": 1738,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-09-19T18:55:52.8782357+03:00"
+    },
+    {
+      "productId": 1724,
+      "reviewText": "this revolutionary is awesome.",
+      "reviewDate": "2016-10-01T00:16:11.2616753+03:00"
+    },
+    {
+      "productId": 51,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2018-08-20T23:39:51.4477114+03:00"
+    }
+  ]
+}

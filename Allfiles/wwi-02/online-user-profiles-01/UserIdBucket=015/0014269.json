@@ -1,0 +1,25 @@
+{
+  "userId": 14269,
+  "cartId": "61fb7974-0c60-4f23-9e76-b8b0f4eb3b2b",
+  "preferredProducts": [
+    4761,
+    3965
+  ],
+  "productReviews": [
+    {
+      "productId": 3110,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-01-07T21:58:09.7092594+02:00"
+    },
+    {
+      "productId": 1493,
+      "reviewText": "This application works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-06-02T23:02:20.2989681+03:00"
+    },
+    {
+      "productId": 3411,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2020-02-26T21:22:44.8833011+02:00"
+    }
+  ]
+}

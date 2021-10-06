@@ -1,0 +1,31 @@
+{
+  "userId": 52146,
+  "cartId": "b59faad3-c427-43bd-9ef5-299e8636a917",
+  "preferredProducts": [
+    1241,
+    2632,
+    2523,
+    2622,
+    4498,
+    1423,
+    2861,
+    3495
+  ],
+  "productReviews": [
+    {
+      "productId": 3242,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-04-05T09:03:28.1970111+03:00"
+    },
+    {
+      "productId": 2273,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-08-12T09:21:23.7318533+03:00"
+    },
+    {
+      "productId": 2523,
+      "reviewText": "this Integration is complimentary.",
+      "reviewDate": "2016-12-27T04:24:09.1783747+02:00"
+    }
+  ]
+}

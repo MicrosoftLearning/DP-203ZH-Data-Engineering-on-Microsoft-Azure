@@ -1,0 +1,37 @@
+{
+  "userId": 26767,
+  "cartId": "68c55f2b-ba70-4ccc-af27-7ea72827ff60",
+  "preferredProducts": [
+    1400,
+    3338,
+    1060,
+    691
+  ],
+  "productReviews": [
+    {
+      "productId": 2376,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-07-30T12:36:53.5325378+03:00"
+    },
+    {
+      "productId": 1960,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-18T20:08:23.2125908+03:00"
+    },
+    {
+      "productId": 1643,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-04-23T15:24:10.5957259+03:00"
+    },
+    {
+      "productId": 68,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-09-19T15:49:10.9237837+03:00"
+    },
+    {
+      "productId": 1680,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2016-08-08T05:33:19.2632833+03:00"
+    }
+  ]
+}

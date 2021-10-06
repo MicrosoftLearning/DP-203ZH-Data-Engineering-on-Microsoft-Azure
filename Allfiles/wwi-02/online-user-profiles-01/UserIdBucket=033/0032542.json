@@ -1,0 +1,32 @@
+{
+  "userId": 32542,
+  "cartId": "65bd13c2-6604-4a83-92df-792359c88bae",
+  "preferredProducts": [
+    3791,
+    3178,
+    3897,
+    4410
+  ],
+  "productReviews": [
+    {
+      "productId": 3380,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-07-01T00:01:26.8410413+03:00"
+    },
+    {
+      "productId": 394,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-11-28T02:25:27.1059549+02:00"
+    },
+    {
+      "productId": 4845,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-10-15T02:57:18.2451403+03:00"
+    },
+    {
+      "productId": 308,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-02-18T16:25:49.8330519+02:00"
+    }
+  ]
+}

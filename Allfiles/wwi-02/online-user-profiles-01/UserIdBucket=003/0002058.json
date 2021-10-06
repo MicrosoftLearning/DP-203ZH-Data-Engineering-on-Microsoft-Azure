@@ -1,0 +1,43 @@
+{
+  "userId": 2058,
+  "cartId": "fe90e9d3-4560-4d37-ac80-1cd1a68de385",
+  "preferredProducts": [
+    1553,
+    2462,
+    2884,
+    3200,
+    568,
+    680,
+    1194,
+    2645,
+    810,
+    1978
+  ],
+  "productReviews": [
+    {
+      "productId": 2465,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-02-05T11:57:24.1489075+02:00"
+    },
+    {
+      "productId": 4233,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-10-14T06:22:43.7420339+03:00"
+    },
+    {
+      "productId": 3066,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2016-09-19T11:54:39.6193365+03:00"
+    },
+    {
+      "productId": 1200,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-12-21T15:32:44.0674657+02:00"
+    },
+    {
+      "productId": 1513,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-10-22T18:38:16.2649883+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 3633,
+  "cartId": "b1b2a0d4-6524-43ad-8dc9-8659d619b6fd",
+  "preferredProducts": [
+    4444,
+    2596,
+    3954,
+    4918,
+    2071,
+    4602,
+    4605
+  ],
+  "productReviews": [
+    {
+      "productId": 3890,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-03-14T06:39:42.1122751+02:00"
+    },
+    {
+      "productId": 4361,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-05-04T16:24:44.6877832+03:00"
+    },
+    {
+      "productId": 2522,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2020-01-13T10:42:30.260473+02:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-07-11T13:28:05.4408717+03:00"
+    }
+  ]
+}

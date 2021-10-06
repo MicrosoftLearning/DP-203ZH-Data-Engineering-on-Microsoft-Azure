@@ -1,0 +1,31 @@
+{
+  "userId": 79174,
+  "cartId": "b6ae2b52-b2e2-4ad8-b638-7e85f6e93401",
+  "preferredProducts": [
+    3541,
+    4750,
+    3306
+  ],
+  "productReviews": [
+    {
+      "productId": 2463,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-11-03T05:54:08.8759655+02:00"
+    },
+    {
+      "productId": 3070,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-11-19T13:02:24.18441+02:00"
+    },
+    {
+      "productId": 980,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-05-17T18:42:05.7373611+03:00"
+    },
+    {
+      "productId": 4608,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-03-05T12:24:29.4940787+02:00"
+    }
+  ]
+}

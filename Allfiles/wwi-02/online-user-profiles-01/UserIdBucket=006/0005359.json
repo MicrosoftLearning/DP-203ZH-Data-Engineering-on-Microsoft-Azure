@@ -1,0 +1,33 @@
+{
+  "userId": 5359,
+  "cartId": "3f3f3a71-6f8c-4039-8a05-c9e30098569d",
+  "preferredProducts": [
+    1764,
+    285,
+    4051,
+    3270,
+    2467
+  ],
+  "productReviews": [
+    {
+      "productId": 1178,
+      "reviewText": "this Metal is gracious.",
+      "reviewDate": "2018-09-04T12:18:01.0491804+03:00"
+    },
+    {
+      "productId": 2625,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-04-21T08:28:13.3287769+03:00"
+    },
+    {
+      "productId": 3560,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-10-28T08:10:20.8496677+02:00"
+    },
+    {
+      "productId": 1070,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-10-18T18:06:20.5710831+03:00"
+    }
+  ]
+}

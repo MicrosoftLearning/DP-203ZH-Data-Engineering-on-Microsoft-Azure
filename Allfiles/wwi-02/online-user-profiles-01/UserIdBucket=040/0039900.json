@@ -1,0 +1,32 @@
+{
+  "userId": 39900,
+  "cartId": "26c51b7e-444e-45ba-a89f-911467e0db6a",
+  "preferredProducts": [
+    648,
+    2877,
+    3492,
+    1782
+  ],
+  "productReviews": [
+    {
+      "productId": 4007,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-06-09T19:30:34.5388433+03:00"
+    },
+    {
+      "productId": 1148,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-01-05T05:17:32.2701941+02:00"
+    },
+    {
+      "productId": 1675,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-01-05T14:22:26.6711114+02:00"
+    },
+    {
+      "productId": 3036,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-04-24T04:44:52.7837867+03:00"
+    }
+  ]
+}

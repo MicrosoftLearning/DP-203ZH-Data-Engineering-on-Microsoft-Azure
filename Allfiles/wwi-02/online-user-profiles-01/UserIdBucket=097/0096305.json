@@ -1,0 +1,27 @@
+{
+  "userId": 96305,
+  "cartId": "7d7fca59-f96d-410b-815b-e1324874e120",
+  "preferredProducts": [
+    1612,
+    4262,
+    2997,
+    4599,
+    3430,
+    3632,
+    430,
+    4411,
+    2307
+  ],
+  "productReviews": [
+    {
+      "productId": 666,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-05-15T15:28:42.9502204+03:00"
+    },
+    {
+      "productId": 2843,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2020-04-08T04:10:54.7913639+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 22436,
+  "cartId": "8edc9fb6-6768-45da-8d05-94a27ace6e24",
+  "preferredProducts": [
+    3992,
+    4738,
+    576,
+    2809,
+    4064,
+    1500,
+    35,
+    3928
+  ],
+  "productReviews": [
+    {
+      "productId": 2822,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-08-18T08:26:11.2558935+03:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "this Berkshire is flirty.",
+      "reviewDate": "2018-02-27T06:46:10.3924982+02:00"
+    },
+    {
+      "productId": 403,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-05-01T05:02:23.8656204+03:00"
+    }
+  ]
+}

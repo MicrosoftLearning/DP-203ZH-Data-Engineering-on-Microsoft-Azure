@@ -1,0 +1,31 @@
+{
+  "userId": 67981,
+  "cartId": "a6d9cf57-1ef1-4004-b2d6-1f46bad575e8",
+  "preferredProducts": [
+    4920,
+    3890,
+    2741
+  ],
+  "productReviews": [
+    {
+      "productId": 2302,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-03-21T11:04:18.3234932+02:00"
+    },
+    {
+      "productId": 1909,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-03-15T04:48:45.7634741+02:00"
+    },
+    {
+      "productId": 2745,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-06-28T20:24:20.3394045+03:00"
+    },
+    {
+      "productId": 2281,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-07-01T03:01:46.5604353+03:00"
+    }
+  ]
+}

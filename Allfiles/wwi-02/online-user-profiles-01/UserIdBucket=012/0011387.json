@@ -1,0 +1,41 @@
+{
+  "userId": 11387,
+  "cartId": "588afe5c-7419-4167-a4ce-b24545807752",
+  "preferredProducts": [
+    377,
+    3028,
+    715,
+    28,
+    4200,
+    3505,
+    2198,
+    564
+  ],
+  "productReviews": [
+    {
+      "productId": 1856,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-03-08T15:03:13.3823557+02:00"
+    },
+    {
+      "productId": 1598,
+      "reviewText": "This application works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-12-26T22:25:48.7152334+02:00"
+    },
+    {
+      "productId": 764,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-04-26T19:13:29.0675836+03:00"
+    },
+    {
+      "productId": 2060,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-01-22T23:22:56.5429571+02:00"
+    },
+    {
+      "productId": 162,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-05-05T12:47:54.1127593+03:00"
+    }
+  ]
+}

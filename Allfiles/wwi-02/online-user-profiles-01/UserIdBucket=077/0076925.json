@@ -1,0 +1,27 @@
+{
+  "userId": 76925,
+  "cartId": "d3dd3bab-bd50-4a5f-84ac-7fc15b77f9fc",
+  "preferredProducts": [
+    2508,
+    2619,
+    2368,
+    1945
+  ],
+  "productReviews": [
+    {
+      "productId": 1496,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-12-11T12:14:11.4124839+02:00"
+    },
+    {
+      "productId": 2811,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-07-28T13:30:57.560841+03:00"
+    },
+    {
+      "productId": 2247,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-03-11T10:17:44.0982352+02:00"
+    }
+  ]
+}

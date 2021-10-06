@@ -1,0 +1,25 @@
+{
+  "userId": 93265,
+  "cartId": "da8eeb95-d5bf-402e-8fb2-989b6ea78004",
+  "preferredProducts": [
+    809,
+    3459,
+    1404,
+    327,
+    113,
+    4004,
+    3677
+  ],
+  "productReviews": [
+    {
+      "productId": 3344,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-04-27T04:12:45.7989991+03:00"
+    },
+    {
+      "productId": 4439,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-03-19T05:38:23.4079161+02:00"
+    }
+  ]
+}

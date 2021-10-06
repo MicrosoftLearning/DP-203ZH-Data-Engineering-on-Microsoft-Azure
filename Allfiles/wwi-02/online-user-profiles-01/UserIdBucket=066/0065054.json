@@ -1,0 +1,33 @@
+{
+  "userId": 65054,
+  "cartId": "960d7794-ea05-4cba-83b4-70a002df96eb",
+  "preferredProducts": [
+    1861,
+    105,
+    1698,
+    1512,
+    1638
+  ],
+  "productReviews": [
+    {
+      "productId": 3070,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-03-19T01:18:08.6256615+02:00"
+    },
+    {
+      "productId": 2736,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-10-26T19:13:18.5989907+03:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-11-23T00:15:21.0665479+02:00"
+    },
+    {
+      "productId": 1060,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-02-01T16:43:32.6132144+02:00"
+    }
+  ]
+}

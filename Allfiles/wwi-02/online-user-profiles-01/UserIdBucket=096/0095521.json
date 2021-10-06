@@ -1,0 +1,37 @@
+{
+  "userId": 95521,
+  "cartId": "d7d21fe8-d13c-40f9-96ef-bd3db39b7f58",
+  "preferredProducts": [
+    1496,
+    3676,
+    3381,
+    1807,
+    2405,
+    4924,
+    1699,
+    1808,
+    3503
+  ],
+  "productReviews": [
+    {
+      "productId": 1861,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-02-16T02:19:22.3570153+02:00"
+    },
+    {
+      "productId": 3033,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-12-15T07:44:10.3186837+02:00"
+    },
+    {
+      "productId": 2816,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-05-31T13:15:18.894308+03:00"
+    },
+    {
+      "productId": 1354,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-11-16T17:33:59.7357036+02:00"
+    }
+  ]
+}

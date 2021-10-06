@@ -1,0 +1,25 @@
+{
+  "userId": 4696,
+  "cartId": "7e4fa609-85b0-4ee9-8a97-c3985f953fe8",
+  "preferredProducts": [
+    4017,
+    1743
+  ],
+  "productReviews": [
+    {
+      "productId": 2407,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-07-03T04:27:23.2755366+03:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-06-05T10:41:18.3337499+03:00"
+    },
+    {
+      "productId": 1574,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-08-04T15:19:28.997766+03:00"
+    }
+  ]
+}

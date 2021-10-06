@@ -1,0 +1,27 @@
+{
+  "userId": 91055,
+  "cartId": "f1eb9583-36a7-480a-8f1b-570f6280d72d",
+  "preferredProducts": [
+    1508,
+    4002,
+    2350,
+    4206
+  ],
+  "productReviews": [
+    {
+      "productId": 2748,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-01-20T03:04:14.3918313+02:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "this copying is perplexed.",
+      "reviewDate": "2018-04-11T06:34:09.647485+03:00"
+    },
+    {
+      "productId": 736,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-01-20T15:28:40.4471573+02:00"
+    }
+  ]
+}

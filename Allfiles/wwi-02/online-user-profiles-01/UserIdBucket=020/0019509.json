@@ -1,0 +1,40 @@
+{
+  "userId": 19509,
+  "cartId": "6062705f-25e5-4b27-abcd-109309769749",
+  "preferredProducts": [
+    3964,
+    864,
+    409,
+    4987,
+    2607,
+    3754,
+    1205
+  ],
+  "productReviews": [
+    {
+      "productId": 1004,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-08-20T11:48:19.2067258+03:00"
+    },
+    {
+      "productId": 851,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-11-21T20:57:00.3424617+02:00"
+    },
+    {
+      "productId": 1166,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-09-28T00:20:19.6340588+03:00"
+    },
+    {
+      "productId": 1569,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-08-23T15:12:22.9099795+03:00"
+    },
+    {
+      "productId": 3479,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-06-26T00:43:00.0558186+03:00"
+    }
+  ]
+}

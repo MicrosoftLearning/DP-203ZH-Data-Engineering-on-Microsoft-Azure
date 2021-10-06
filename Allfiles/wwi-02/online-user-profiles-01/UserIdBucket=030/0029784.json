@@ -1,0 +1,32 @@
+{
+  "userId": 29784,
+  "cartId": "51465e3d-ec81-46cd-9f42-695f50b261c2",
+  "preferredProducts": [
+    1986,
+    1911,
+    2374,
+    1517
+  ],
+  "productReviews": [
+    {
+      "productId": 1024,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-11-13T02:35:35.7870925+02:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-09-25T16:25:55.0779172+03:00"
+    },
+    {
+      "productId": 4718,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-04-23T02:09:04.4091006+03:00"
+    },
+    {
+      "productId": 1571,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-04-03T23:29:25.0810172+03:00"
+    }
+  ]
+}

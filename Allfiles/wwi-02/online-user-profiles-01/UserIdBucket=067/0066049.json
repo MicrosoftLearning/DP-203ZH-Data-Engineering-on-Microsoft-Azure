@@ -1,0 +1,30 @@
+{
+  "userId": 66049,
+  "cartId": "b891523b-4915-49ee-8cde-f9d8109c34db",
+  "preferredProducts": [
+    2544,
+    640,
+    4269,
+    3628,
+    4032,
+    562,
+    4704
+  ],
+  "productReviews": [
+    {
+      "productId": 206,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-10-28T15:15:57.4867652+03:00"
+    },
+    {
+      "productId": 2420,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-06-14T07:29:21.3809237+03:00"
+    },
+    {
+      "productId": 777,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-02-16T15:26:20.1636706+02:00"
+    }
+  ]
+}

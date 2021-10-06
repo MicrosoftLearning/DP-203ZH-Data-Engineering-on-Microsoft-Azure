@@ -1,0 +1,30 @@
+{
+  "userId": 16155,
+  "cartId": "d288b46d-06e6-4934-96e4-ad86299e4ac5",
+  "preferredProducts": [
+    2773,
+    1684,
+    2402,
+    2280,
+    1038,
+    3845,
+    2468
+  ],
+  "productReviews": [
+    {
+      "productId": 3862,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2020-04-06T05:54:26.6264553+03:00"
+    },
+    {
+      "productId": 1683,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-06-13T01:24:36.5418312+03:00"
+    },
+    {
+      "productId": 2401,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-09-28T21:17:03.3035026+03:00"
+    }
+  ]
+}

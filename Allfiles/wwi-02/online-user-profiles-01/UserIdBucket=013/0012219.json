@@ -1,0 +1,31 @@
+{
+  "userId": 12219,
+  "cartId": "c0acccf4-1d3c-453f-9301-5fbfb95f102c",
+  "preferredProducts": [
+    1390,
+    1075,
+    3350
+  ],
+  "productReviews": [
+    {
+      "productId": 515,
+      "reviewText": "this Principal is hyper.",
+      "reviewDate": "2018-09-20T19:39:16.3961997+03:00"
+    },
+    {
+      "productId": 674,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-02-25T03:44:06.9138886+02:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "this Incredible Frozen Pizza is revolting.",
+      "reviewDate": "2019-03-12T21:08:47.1477108+02:00"
+    },
+    {
+      "productId": 540,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-09-09T18:32:07.9439075+03:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 45141,
+  "cartId": "7f9d7d7f-ed9f-405d-8786-62356dbdff66",
+  "preferredProducts": [
+    1615,
+    1322,
+    2613,
+    3231,
+    2208,
+    204
+  ],
+  "productReviews": [
+    {
+      "productId": 3600,
+      "reviewText": "This is a really good quantify.",
+      "reviewDate": "2018-07-04T01:15:32.7629713+03:00"
+    },
+    {
+      "productId": 2801,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-03-12T17:13:26.4305855+02:00"
+    },
+    {
+      "productId": 2006,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-02-25T06:27:41.1749511+02:00"
+    },
+    {
+      "productId": 3517,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-06-17T20:14:01.3143392+03:00"
+    },
+    {
+      "productId": 2633,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-05-24T11:17:44.4200169+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 38253,
+  "cartId": "d3362434-f601-4149-9d4a-2364810204d8",
+  "preferredProducts": [
+    723,
+    913,
+    882,
+    2035
+  ],
+  "productReviews": [
+    {
+      "productId": 3612,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-09-11T23:48:52.5813767+03:00"
+    },
+    {
+      "productId": 2131,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-12-28T19:54:58.6859845+02:00"
+    },
+    {
+      "productId": 3300,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-11-20T12:50:29.145835+02:00"
+    },
+    {
+      "productId": 683,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-12-08T13:06:49.4472604+02:00"
+    }
+  ]
+}

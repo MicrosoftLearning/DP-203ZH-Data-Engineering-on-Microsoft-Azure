@@ -1,0 +1,24 @@
+{
+  "userId": 45313,
+  "cartId": "93d10661-45c2-47f2-9d89-9a36b96413e4",
+  "preferredProducts": [
+    2093,
+    2324,
+    2687,
+    3321,
+    1552,
+    1588
+  ],
+  "productReviews": [
+    {
+      "productId": 518,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-03-05T17:48:22.0548824+02:00"
+    },
+    {
+      "productId": 2444,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-06-14T12:07:29.5947524+03:00"
+    }
+  ]
+}

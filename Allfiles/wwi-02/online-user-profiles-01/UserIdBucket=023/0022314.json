@@ -1,0 +1,33 @@
+{
+  "userId": 22314,
+  "cartId": "02fade06-d487-4c69-ae48-f50a556bfe84",
+  "preferredProducts": [
+    3235,
+    2463,
+    671,
+    4158,
+    3033
+  ],
+  "productReviews": [
+    {
+      "productId": 2158,
+      "reviewText": "This back-end, does exactly what it's suppose to do.",
+      "reviewDate": "2017-12-10T12:00:11.0222189+02:00"
+    },
+    {
+      "productId": 4966,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-03-22T12:08:47.1532095+02:00"
+    },
+    {
+      "productId": 2988,
+      "reviewText": "This Station works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-07-23T16:25:27.2482051+03:00"
+    },
+    {
+      "productId": 934,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-11-21T01:21:28.1519151+02:00"
+    }
+  ]
+}

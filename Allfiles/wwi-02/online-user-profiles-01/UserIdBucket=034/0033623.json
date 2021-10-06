@@ -1,0 +1,26 @@
+{
+  "userId": 33623,
+  "cartId": "7123ba37-6c44-44ae-862c-43dd2f1590ad",
+  "preferredProducts": [
+    1135,
+    3490,
+    1989,
+    3633,
+    209,
+    2544,
+    1956,
+    2312
+  ],
+  "productReviews": [
+    {
+      "productId": 2524,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-12-10T07:34:34.3984194+02:00"
+    },
+    {
+      "productId": 3242,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-03-14T09:36:44.3110061+02:00"
+    }
+  ]
+}

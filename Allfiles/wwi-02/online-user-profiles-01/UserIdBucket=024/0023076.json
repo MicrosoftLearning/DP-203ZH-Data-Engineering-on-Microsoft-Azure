@@ -1,0 +1,31 @@
+{
+  "userId": 23076,
+  "cartId": "4b8a2eb2-908d-42e8-aee6-80bdd4e6c878",
+  "preferredProducts": [
+    4062,
+    950,
+    4157
+  ],
+  "productReviews": [
+    {
+      "productId": 4424,
+      "reviewText": "this transmitter is snowy.",
+      "reviewDate": "2019-07-15T14:37:43.2483217+03:00"
+    },
+    {
+      "productId": 114,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-12-19T00:05:45.6571994+02:00"
+    },
+    {
+      "productId": 1828,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-08-25T04:58:01.1105737+03:00"
+    },
+    {
+      "productId": 1716,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-01-19T23:29:19.4522715+02:00"
+    }
+  ]
+}

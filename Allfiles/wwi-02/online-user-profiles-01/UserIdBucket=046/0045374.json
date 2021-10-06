@@ -1,0 +1,24 @@
+{
+  "userId": 45374,
+  "cartId": "61d7b475-a1bb-403c-a1b8-ebf1c3f4392a",
+  "preferredProducts": [
+    1742,
+    1662,
+    3987,
+    3856,
+    3889,
+    4490
+  ],
+  "productReviews": [
+    {
+      "productId": 1991,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-11-21T00:37:50.0997646+02:00"
+    },
+    {
+      "productId": 3456,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-06-18T15:27:51.9069043+03:00"
+    }
+  ]
+}

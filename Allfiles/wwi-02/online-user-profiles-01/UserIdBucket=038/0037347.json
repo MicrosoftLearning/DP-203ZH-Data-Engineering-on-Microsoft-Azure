@@ -1,0 +1,31 @@
+{
+  "userId": 37347,
+  "cartId": "bf2a9b56-8116-4fec-929c-099192723d7b",
+  "preferredProducts": [
+    4732,
+    3629,
+    4199,
+    4709,
+    4898,
+    4425,
+    4958,
+    4088
+  ],
+  "productReviews": [
+    {
+      "productId": 3089,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-08-20T09:02:29.6063497+03:00"
+    },
+    {
+      "productId": 2973,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-02-01T07:24:54.4713087+02:00"
+    },
+    {
+      "productId": 4521,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-06-29T17:01:02.194674+03:00"
+    }
+  ]
+}

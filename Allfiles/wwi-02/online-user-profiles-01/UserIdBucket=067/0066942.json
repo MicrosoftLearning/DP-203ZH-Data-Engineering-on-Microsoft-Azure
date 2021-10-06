@@ -1,0 +1,33 @@
+{
+  "userId": 66942,
+  "cartId": "c5d09b3c-48fb-4ad1-869a-256d1e604903",
+  "preferredProducts": [
+    2457,
+    3180,
+    1814,
+    823,
+    3243
+  ],
+  "productReviews": [
+    {
+      "productId": 1833,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-09-21T07:13:38.1881909+03:00"
+    },
+    {
+      "productId": 1747,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-12-10T07:14:57.3897829+02:00"
+    },
+    {
+      "productId": 4714,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-05-16T19:39:29.7868904+03:00"
+    },
+    {
+      "productId": 274,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-11-12T19:30:54.101057+02:00"
+    }
+  ]
+}

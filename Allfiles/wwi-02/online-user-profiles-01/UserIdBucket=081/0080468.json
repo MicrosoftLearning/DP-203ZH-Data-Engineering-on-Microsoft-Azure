@@ -1,0 +1,29 @@
+{
+  "userId": 80468,
+  "cartId": "5ecbd97f-ca1d-4064-95f6-ed2e61f9b112",
+  "preferredProducts": [
+    1590,
+    4861,
+    3752,
+    4617,
+    1223,
+    1283
+  ],
+  "productReviews": [
+    {
+      "productId": 3504,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-10-28T22:02:23.0525818+03:00"
+    },
+    {
+      "productId": 1250,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-06-08T07:48:46.6262861+03:00"
+    },
+    {
+      "productId": 1232,
+      "reviewText": "This is a really good hybrid.",
+      "reviewDate": "2019-12-10T17:58:43.4805495+02:00"
+    }
+  ]
+}

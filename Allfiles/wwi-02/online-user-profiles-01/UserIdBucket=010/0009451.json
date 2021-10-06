@@ -1,0 +1,38 @@
+{
+  "userId": 9451,
+  "cartId": "56b12c00-1657-4f29-97c3-d41160942f77",
+  "preferredProducts": [
+    3460,
+    3792,
+    3210,
+    2151,
+    1695
+  ],
+  "productReviews": [
+    {
+      "productId": 1073,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-02-05T13:03:17.670177+02:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-05-01T13:30:13.542857+03:00"
+    },
+    {
+      "productId": 290,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-11-11T09:11:35.9333992+02:00"
+    },
+    {
+      "productId": 4126,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-10-05T06:26:55.9678767+03:00"
+    },
+    {
+      "productId": 2882,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-11-07T19:16:44.3142352+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 46378,
+  "cartId": "470a5a90-f49f-4978-8269-99e2513a6009",
+  "preferredProducts": [
+    4692,
+    79,
+    4193,
+    2614,
+    308,
+    3500,
+    47,
+    1447
+  ],
+  "productReviews": [
+    {
+      "productId": 3837,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-12-04T01:49:41.9477848+02:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-11-08T10:05:06.7320999+02:00"
+    },
+    {
+      "productId": 3446,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-10-13T13:07:52.6513472+03:00"
+    },
+    {
+      "productId": 355,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-11-06T05:05:31.1663567+02:00"
+    },
+    {
+      "productId": 2428,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2020-01-21T07:54:58.2517538+02:00"
+    }
+  ]
+}

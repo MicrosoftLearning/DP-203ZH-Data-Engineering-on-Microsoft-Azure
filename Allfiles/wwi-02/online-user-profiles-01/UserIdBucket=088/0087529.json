@@ -1,0 +1,30 @@
+{
+  "userId": 87529,
+  "cartId": "c2a9524c-aca5-4ee9-8333-263810ac90fe",
+  "preferredProducts": [
+    3234,
+    3268
+  ],
+  "productReviews": [
+    {
+      "productId": 862,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-08-21T09:07:17.8326283+03:00"
+    },
+    {
+      "productId": 1423,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-06-26T10:29:57.3728303+03:00"
+    },
+    {
+      "productId": 457,
+      "reviewText": "This Savings Account works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-02-01T05:32:30.8369985+02:00"
+    },
+    {
+      "productId": 2376,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-03-09T08:02:51.9478837+02:00"
+    }
+  ]
+}

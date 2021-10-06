@@ -1,0 +1,32 @@
+{
+  "userId": 5823,
+  "cartId": "ed4a1adf-8fbf-4937-943c-23db2be447be",
+  "preferredProducts": [
+    4019,
+    3006,
+    4346,
+    916,
+    1432,
+    1810,
+    1530,
+    874,
+    4666
+  ],
+  "productReviews": [
+    {
+      "productId": 4344,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-09-12T15:45:56.809435+03:00"
+    },
+    {
+      "productId": 3837,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-02-12T05:47:56.7158986+02:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-12-24T07:42:29.9358776+02:00"
+    }
+  ]
+}

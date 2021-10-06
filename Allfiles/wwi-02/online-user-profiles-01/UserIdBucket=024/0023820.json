@@ -1,0 +1,30 @@
+{
+  "userId": 23820,
+  "cartId": "4ace64ad-7db5-4313-ade2-6138359a4b85",
+  "preferredProducts": [
+    4314,
+    1397,
+    3083,
+    3477,
+    1851,
+    3614,
+    2578
+  ],
+  "productReviews": [
+    {
+      "productId": 3043,
+      "reviewText": "this Burundi Franc is perplexed.",
+      "reviewDate": "2019-08-20T18:17:34.6131333+03:00"
+    },
+    {
+      "productId": 2792,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-06-20T20:18:30.2557502+03:00"
+    },
+    {
+      "productId": 4582,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2020-02-12T10:52:28.294908+02:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 65558,
+  "cartId": "19b8705a-5842-4b9c-af8e-a13209e71d76",
+  "preferredProducts": [
+    2774,
+    1436,
+    3475,
+    4235,
+    266,
+    1852
+  ],
+  "productReviews": [
+    {
+      "productId": 482,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-02-08T06:40:31.5221455+02:00"
+    },
+    {
+      "productId": 2891,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-03-25T02:04:21.311504+02:00"
+    },
+    {
+      "productId": 1749,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-12-16T01:28:18.8379839+02:00"
+    },
+    {
+      "productId": 104,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-09-15T06:38:30.0656343+03:00"
+    },
+    {
+      "productId": 538,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-10-04T13:54:18.2746211+03:00"
+    }
+  ]
+}

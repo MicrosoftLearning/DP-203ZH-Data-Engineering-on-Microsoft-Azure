@@ -1,0 +1,37 @@
+{
+  "userId": 60104,
+  "cartId": "9f4398f4-63ff-4185-9ae1-611aba6c7361",
+  "preferredProducts": [
+    3720,
+    3400,
+    1055,
+    2277
+  ],
+  "productReviews": [
+    {
+      "productId": 4366,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-01-11T09:39:47.4999152+02:00"
+    },
+    {
+      "productId": 4451,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-10-31T18:59:35.7190047+02:00"
+    },
+    {
+      "productId": 4109,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-05-02T05:49:59.6561006+03:00"
+    },
+    {
+      "productId": 333,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-04-25T10:23:22.3723333+03:00"
+    },
+    {
+      "productId": 992,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-04-02T14:22:23.2350519+03:00"
+    }
+  ]
+}

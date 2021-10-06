@@ -1,0 +1,27 @@
+{
+  "userId": 73306,
+  "cartId": "f23df67e-f871-4846-abcf-d2f03e607380",
+  "preferredProducts": [
+    3152,
+    2434,
+    1770,
+    2939,
+    4279,
+    120,
+    951,
+    1686,
+    4962
+  ],
+  "productReviews": [
+    {
+      "productId": 990,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-04-18T23:46:04.0248815+03:00"
+    },
+    {
+      "productId": 1983,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-08-15T20:59:58.788535+03:00"
+    }
+  ]
+}

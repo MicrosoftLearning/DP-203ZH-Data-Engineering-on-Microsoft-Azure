@@ -1,0 +1,32 @@
+{
+  "userId": 52803,
+  "cartId": "4785e639-0ad1-49b9-8f34-3d76acdf8da3",
+  "preferredProducts": [
+    4567,
+    1653,
+    3943,
+    783,
+    3264,
+    3529,
+    1390,
+    4844,
+    187
+  ],
+  "productReviews": [
+    {
+      "productId": 4763,
+      "reviewText": "this invoice is tasty.",
+      "reviewDate": "2016-06-09T02:32:14.8471633+03:00"
+    },
+    {
+      "productId": 3327,
+      "reviewText": "this Kip is light-hearted.",
+      "reviewDate": "2018-08-20T06:51:50.383172+03:00"
+    },
+    {
+      "productId": 4098,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-04-18T10:36:32.590134+03:00"
+    }
+  ]
+}

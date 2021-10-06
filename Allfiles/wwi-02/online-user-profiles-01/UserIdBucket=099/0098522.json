@@ -1,0 +1,29 @@
+{
+  "userId": 98522,
+  "cartId": "c3561049-6a08-41e1-ae01-2fcb607fc2e9",
+  "preferredProducts": [
+    2284,
+    2183,
+    1544,
+    1251,
+    3984,
+    4442
+  ],
+  "productReviews": [
+    {
+      "productId": 3147,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-08-02T08:32:32.1408951+03:00"
+    },
+    {
+      "productId": 2646,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-06-05T15:05:45.6038927+03:00"
+    },
+    {
+      "productId": 2505,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-01-29T08:03:29.0196468+02:00"
+    }
+  ]
+}

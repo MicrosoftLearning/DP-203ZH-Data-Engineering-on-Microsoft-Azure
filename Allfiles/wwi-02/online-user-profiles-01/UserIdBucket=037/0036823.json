@@ -1,0 +1,36 @@
+{
+  "userId": 36823,
+  "cartId": "af4cb781-5383-43c0-8e9b-aba2695074a0",
+  "preferredProducts": [
+    2111,
+    1328,
+    840
+  ],
+  "productReviews": [
+    {
+      "productId": 1589,
+      "reviewText": "This is a really good scalable.",
+      "reviewDate": "2016-05-25T06:33:13.0420111+03:00"
+    },
+    {
+      "productId": 770,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-12-15T20:17:21.7760846+02:00"
+    },
+    {
+      "productId": 4626,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-10-09T04:42:57.008263+03:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-04-09T21:58:32.2683359+03:00"
+    },
+    {
+      "productId": 2562,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-02-05T04:40:35.9142077+02:00"
+    }
+  ]
+}

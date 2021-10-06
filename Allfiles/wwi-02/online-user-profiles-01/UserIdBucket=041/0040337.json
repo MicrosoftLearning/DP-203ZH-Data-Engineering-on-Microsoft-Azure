@@ -1,0 +1,33 @@
+{
+  "userId": 40337,
+  "cartId": "3ad7f4a7-004a-4e3a-9865-bf659977b554",
+  "preferredProducts": [
+    1712,
+    315,
+    659,
+    2444,
+    1545
+  ],
+  "productReviews": [
+    {
+      "productId": 2860,
+      "reviewText": "This Handmade works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-05-30T19:08:17.2011052+03:00"
+    },
+    {
+      "productId": 3343,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-06-19T04:12:52.1202629+03:00"
+    },
+    {
+      "productId": 2877,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-04-29T11:01:19.7261142+03:00"
+    },
+    {
+      "productId": 4873,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-10-26T18:46:37.3810225+03:00"
+    }
+  ]
+}

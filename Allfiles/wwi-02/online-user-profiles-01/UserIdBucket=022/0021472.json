@@ -1,0 +1,28 @@
+{
+  "userId": 21472,
+  "cartId": "1d80d70a-cbfb-4fb3-9c4a-f737c1fd8646",
+  "preferredProducts": [
+    1795,
+    3253,
+    2709,
+    242,
+    325
+  ],
+  "productReviews": [
+    {
+      "productId": 4724,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-06-07T03:05:59.8147062+03:00"
+    },
+    {
+      "productId": 2946,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-11-06T12:11:20.1344248+02:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-11-19T02:49:21.6414652+02:00"
+    }
+  ]
+}

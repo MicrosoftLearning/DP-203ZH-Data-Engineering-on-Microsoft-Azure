@@ -1,0 +1,25 @@
+{
+  "userId": 44577,
+  "cartId": "f85987e1-6267-4c8b-92d2-2aae027ee60a",
+  "preferredProducts": [
+    4321,
+    880,
+    481,
+    3818,
+    1635,
+    1005,
+    3965
+  ],
+  "productReviews": [
+    {
+      "productId": 4692,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-12-24T21:32:43.7649065+02:00"
+    },
+    {
+      "productId": 3466,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-08-20T22:59:08.4198397+03:00"
+    }
+  ]
+}

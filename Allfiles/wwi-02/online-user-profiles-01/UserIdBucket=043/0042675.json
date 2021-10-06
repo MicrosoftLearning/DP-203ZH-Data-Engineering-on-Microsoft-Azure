@@ -1,0 +1,38 @@
+{
+  "userId": 42675,
+  "cartId": "44a3d362-b75d-4427-bc08-60ca02400902",
+  "preferredProducts": [
+    4717,
+    363,
+    378,
+    828,
+    1771
+  ],
+  "productReviews": [
+    {
+      "productId": 3180,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-09-21T23:45:08.6525943+03:00"
+    },
+    {
+      "productId": 4012,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-03-18T20:35:44.1760785+02:00"
+    },
+    {
+      "productId": 3556,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-09-01T12:13:56.0121302+03:00"
+    },
+    {
+      "productId": 4947,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-01-15T21:04:36.1773663+02:00"
+    },
+    {
+      "productId": 3990,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-01-01T03:21:55.508299+02:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 17733,
+  "cartId": "d97a8356-3678-4b49-8f11-a2bfa4450daf",
+  "preferredProducts": [
+    1580,
+    603,
+    553,
+    2190,
+    4569,
+    3168
+  ],
+  "productReviews": [
+    {
+      "productId": 1683,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-05-16T15:12:58.2105157+03:00"
+    },
+    {
+      "productId": 4370,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2017-03-21T06:09:34.2792078+02:00"
+    },
+    {
+      "productId": 1439,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-08-22T10:14:10.8922281+03:00"
+    },
+    {
+      "productId": 2461,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-06-27T06:07:07.4490311+03:00"
+    },
+    {
+      "productId": 2740,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-03-17T17:45:54.1731196+02:00"
+    }
+  ]
+}

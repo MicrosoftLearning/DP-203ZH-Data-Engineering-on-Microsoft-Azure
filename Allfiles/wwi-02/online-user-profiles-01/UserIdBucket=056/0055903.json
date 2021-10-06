@@ -1,0 +1,24 @@
+{
+  "userId": 55903,
+  "cartId": "56da6d44-c6b9-4bd8-b422-3eed8b5b717e",
+  "preferredProducts": [
+    1783,
+    3286,
+    2842,
+    3151,
+    2077,
+    2732
+  ],
+  "productReviews": [
+    {
+      "productId": 3570,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-12-07T16:09:12.7175346+02:00"
+    },
+    {
+      "productId": 2530,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-11-08T15:28:04.8136916+02:00"
+    }
+  ]
+}

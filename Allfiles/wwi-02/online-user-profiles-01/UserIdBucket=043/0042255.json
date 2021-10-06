@@ -1,0 +1,40 @@
+{
+  "userId": 42255,
+  "cartId": "bacb749d-f7be-4f10-894a-5d37474551fc",
+  "preferredProducts": [
+    1592,
+    1658,
+    4666,
+    751,
+    4535,
+    3824,
+    1314
+  ],
+  "productReviews": [
+    {
+      "productId": 1814,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-11-18T17:42:04.972009+02:00"
+    },
+    {
+      "productId": 4618,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-09-09T00:12:18.1660585+03:00"
+    },
+    {
+      "productId": 3738,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-04-17T12:00:21.868981+03:00"
+    },
+    {
+      "productId": 4393,
+      "reviewText": "this JBOD is snowy.",
+      "reviewDate": "2019-03-30T06:22:22.1935383+02:00"
+    },
+    {
+      "productId": 2391,
+      "reviewText": "This is a really good SMTP.",
+      "reviewDate": "2019-10-31T19:59:56.7062869+02:00"
+    }
+  ]
+}

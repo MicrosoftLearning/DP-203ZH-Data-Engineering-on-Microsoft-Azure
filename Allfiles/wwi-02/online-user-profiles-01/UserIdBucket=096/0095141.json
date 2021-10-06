@@ -1,0 +1,33 @@
+{
+  "userId": 95141,
+  "cartId": "14f35d78-e841-4d16-814a-7a7e017948a8",
+  "preferredProducts": [
+    2289,
+    3310,
+    4433,
+    4019,
+    3312
+  ],
+  "productReviews": [
+    {
+      "productId": 1493,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-11-20T06:57:08.3785396+02:00"
+    },
+    {
+      "productId": 1483,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-02-16T08:14:06.2530351+02:00"
+    },
+    {
+      "productId": 2799,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-31T08:27:00.4566525+02:00"
+    },
+    {
+      "productId": 1103,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-01-30T04:54:04.9509947+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 9838,
+  "cartId": "3c510d93-d56e-4865-8661-47e865993d26",
+  "preferredProducts": [
+    3750,
+    1115,
+    4677,
+    3629,
+    3128,
+    4379
+  ],
+  "productReviews": [
+    {
+      "productId": 2050,
+      "reviewText": "This Product works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-11-21T00:43:18.0405092+02:00"
+    },
+    {
+      "productId": 4226,
+      "reviewText": "this red is tasty.",
+      "reviewDate": "2016-08-21T05:04:45.1841229+03:00"
+    },
+    {
+      "productId": 217,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2016-09-16T18:53:53.8214112+03:00"
+    },
+    {
+      "productId": 3721,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-04-16T16:04:28.673974+03:00"
+    }
+  ]
+}

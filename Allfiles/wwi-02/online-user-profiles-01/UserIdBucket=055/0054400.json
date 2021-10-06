@@ -1,0 +1,31 @@
+{
+  "userId": 54400,
+  "cartId": "e267bd41-cc67-4096-9bd3-b8a6b351459f",
+  "preferredProducts": [
+    4117,
+    2041,
+    4596,
+    2357,
+    2579,
+    2004,
+    2281,
+    2244
+  ],
+  "productReviews": [
+    {
+      "productId": 4541,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-12-05T00:01:11.9560282+02:00"
+    },
+    {
+      "productId": 2806,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-10-10T21:51:47.5300755+03:00"
+    },
+    {
+      "productId": 1598,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-06-28T07:23:36.4410883+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 64161,
+  "cartId": "339bdb5f-b538-4105-8095-f000d733a8c4",
+  "preferredProducts": [
+    2235,
+    2413,
+    1610,
+    2843,
+    2069
+  ],
+  "productReviews": [
+    {
+      "productId": 330,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-02-26T14:27:32.1597284+02:00"
+    },
+    {
+      "productId": 4548,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-05-11T19:59:12.9504171+03:00"
+    },
+    {
+      "productId": 293,
+      "reviewText": "This impactful works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-01-17T03:04:38.4207519+02:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "This copy works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2018-12-01T02:43:26.2199709+02:00"
+    }
+  ]
+}

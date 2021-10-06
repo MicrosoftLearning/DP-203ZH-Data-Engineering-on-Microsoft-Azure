@@ -1,0 +1,31 @@
+{
+  "userId": 73444,
+  "cartId": "1b2dc1f1-15b8-4045-aa70-49283bba966a",
+  "preferredProducts": [
+    2546,
+    3231,
+    4342
+  ],
+  "productReviews": [
+    {
+      "productId": 3797,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-11-29T20:20:28.4705981+02:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-03-05T17:07:00.0618715+02:00"
+    },
+    {
+      "productId": 4486,
+      "reviewText": "this Harbors is light-hearted.",
+      "reviewDate": "2018-01-31T15:07:10.8659426+02:00"
+    },
+    {
+      "productId": 939,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-07-22T08:56:09.7604488+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 20648,
+  "cartId": "7b8d09ab-4f9f-4ce7-8f6a-085a7a62517d",
+  "preferredProducts": [
+    3556,
+    1608,
+    4327,
+    4792,
+    1067,
+    500,
+    2777,
+    1935
+  ],
+  "productReviews": [
+    {
+      "productId": 2567,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-01-20T11:27:33.2069705+02:00"
+    },
+    {
+      "productId": 4207,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-07-14T23:27:09.8685646+03:00"
+    },
+    {
+      "productId": 1402,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-07-16T09:11:54.4654516+03:00"
+    }
+  ]
+}

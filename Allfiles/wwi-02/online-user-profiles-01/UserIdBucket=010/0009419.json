@@ -1,0 +1,38 @@
+{
+  "userId": 9419,
+  "cartId": "9de883bd-7e7f-465e-9244-45cbeca02c6f",
+  "preferredProducts": [
+    3366,
+    386,
+    1662,
+    1193,
+    3362,
+    3906,
+    4946,
+    1744,
+    4087,
+    1365
+  ],
+  "productReviews": [
+    {
+      "productId": 381,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-02-14T17:08:59.3520769+02:00"
+    },
+    {
+      "productId": 3542,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-05-20T12:11:55.3478856+03:00"
+    },
+    {
+      "productId": 2659,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-07-22T09:14:53.8160399+03:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-10-04T08:50:01.8788132+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 4144,
+  "cartId": "5e76b3f6-79fe-4e83-9142-162a3928b2d8",
+  "preferredProducts": [
+    144,
+    1732,
+    2861,
+    644,
+    2675,
+    2810,
+    2454,
+    4096,
+    3632
+  ],
+  "productReviews": [
+    {
+      "productId": 2234,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-02-19T08:07:33.4336118+02:00"
+    },
+    {
+      "productId": 4913,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-05-26T23:09:38.4787178+03:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-10-15T10:34:30.9917613+03:00"
+    }
+  ]
+}

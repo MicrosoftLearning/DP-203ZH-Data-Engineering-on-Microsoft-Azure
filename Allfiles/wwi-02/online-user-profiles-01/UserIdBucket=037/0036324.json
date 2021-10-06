@@ -1,0 +1,32 @@
+{
+  "userId": 36324,
+  "cartId": "bc3b55b2-f4c2-41d5-b548-8106454ef2d6",
+  "preferredProducts": [
+    1133,
+    1587,
+    2606,
+    2307,
+    589,
+    1153,
+    126,
+    346,
+    2626
+  ],
+  "productReviews": [
+    {
+      "productId": 943,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2016-06-19T12:49:02.0388533+03:00"
+    },
+    {
+      "productId": 1967,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-03-04T22:30:24.2787226+02:00"
+    },
+    {
+      "productId": 2839,
+      "reviewText": "this back-end is nifty.",
+      "reviewDate": "2017-12-10T21:54:05.8867588+02:00"
+    }
+  ]
+}

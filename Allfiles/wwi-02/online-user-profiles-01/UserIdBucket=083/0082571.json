@@ -1,0 +1,30 @@
+{
+  "userId": 82571,
+  "cartId": "abbf5e56-dc04-45a8-adce-71e92d7702ba",
+  "preferredProducts": [
+    2746,
+    4491,
+    1356,
+    4094,
+    243,
+    4720,
+    4144
+  ],
+  "productReviews": [
+    {
+      "productId": 3724,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-24T20:21:25.0347706+02:00"
+    },
+    {
+      "productId": 1775,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2020-02-27T03:46:40.4757646+02:00"
+    },
+    {
+      "productId": 2835,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-01-22T19:37:30.5295396+02:00"
+    }
+  ]
+}

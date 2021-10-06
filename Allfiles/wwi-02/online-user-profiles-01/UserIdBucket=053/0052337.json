@@ -1,0 +1,26 @@
+{
+  "userId": 52337,
+  "cartId": "71231f10-9538-4f6f-bf10-9608956b49e9",
+  "preferredProducts": [
+    2632,
+    2686,
+    2166,
+    4915,
+    3065,
+    823,
+    4885,
+    4829
+  ],
+  "productReviews": [
+    {
+      "productId": 77,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-09-05T00:25:26.7207186+03:00"
+    },
+    {
+      "productId": 3354,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-07-07T22:35:04.2297589+03:00"
+    }
+  ]
+}

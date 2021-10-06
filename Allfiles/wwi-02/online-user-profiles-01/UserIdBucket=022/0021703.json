@@ -1,0 +1,31 @@
+{
+  "userId": 21703,
+  "cartId": "0708cc1a-a8d9-4eb3-8a0c-818312543263",
+  "preferredProducts": [
+    4003,
+    4066,
+    4962
+  ],
+  "productReviews": [
+    {
+      "productId": 4792,
+      "reviewText": "this copying is ratty.",
+      "reviewDate": "2019-10-17T15:39:47.3773746+03:00"
+    },
+    {
+      "productId": 4589,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-10-19T09:39:46.2894274+03:00"
+    },
+    {
+      "productId": 4873,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-05-23T04:02:04.055976+03:00"
+    },
+    {
+      "productId": 2495,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-06-04T15:57:21.8522612+03:00"
+    }
+  ]
+}

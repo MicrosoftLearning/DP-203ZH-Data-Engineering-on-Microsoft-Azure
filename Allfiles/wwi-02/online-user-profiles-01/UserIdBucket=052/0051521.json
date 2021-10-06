@@ -1,0 +1,33 @@
+{
+  "userId": 51521,
+  "cartId": "47304fd7-4ef5-4ac4-8187-b3c9c9444c09",
+  "preferredProducts": [
+    4295,
+    4742,
+    3217,
+    1093,
+    1364
+  ],
+  "productReviews": [
+    {
+      "productId": 81,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2020-01-10T08:19:30.7482335+02:00"
+    },
+    {
+      "productId": 301,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-12-10T04:35:26.5585595+02:00"
+    },
+    {
+      "productId": 3070,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-05-06T15:21:07.8816185+03:00"
+    },
+    {
+      "productId": 1321,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-07-12T02:15:23.6761176+03:00"
+    }
+  ]
+}

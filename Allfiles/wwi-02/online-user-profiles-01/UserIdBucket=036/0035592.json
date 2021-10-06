@@ -1,0 +1,31 @@
+{
+  "userId": 35592,
+  "cartId": "58f9d8dd-38e9-42c2-a21d-073120732c26",
+  "preferredProducts": [
+    345,
+    2352,
+    2571,
+    2913,
+    4316,
+    4773,
+    104,
+    4038
+  ],
+  "productReviews": [
+    {
+      "productId": 2994,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-10-04T05:35:31.9780709+03:00"
+    },
+    {
+      "productId": 2151,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-05-31T20:08:37.5646516+03:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "this logistical is light-hearted.",
+      "reviewDate": "2019-07-05T10:40:42.0138803+03:00"
+    }
+  ]
+}

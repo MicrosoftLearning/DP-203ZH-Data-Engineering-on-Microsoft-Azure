@@ -1,0 +1,26 @@
+{
+  "userId": 89257,
+  "cartId": "2c4414c2-4396-46fb-88fd-14e418c5a9bb",
+  "preferredProducts": [
+    2321,
+    1096,
+    4690,
+    4444,
+    1905,
+    2910,
+    125,
+    4899
+  ],
+  "productReviews": [
+    {
+      "productId": 1758,
+      "reviewText": "This is a really good AI.",
+      "reviewDate": "2018-01-24T10:27:30.6512116+02:00"
+    },
+    {
+      "productId": 181,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-11-07T21:06:00.6184565+02:00"
+    }
+  ]
+}

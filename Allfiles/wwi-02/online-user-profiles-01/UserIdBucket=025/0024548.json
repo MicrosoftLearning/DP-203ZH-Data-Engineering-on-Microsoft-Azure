@@ -1,0 +1,31 @@
+{
+  "userId": 24548,
+  "cartId": "f1dd4040-7e9d-46f1-9f19-1f8ce10888e2",
+  "preferredProducts": [
+    335,
+    2682,
+    4510,
+    2481,
+    4833,
+    3136,
+    1220,
+    1441
+  ],
+  "productReviews": [
+    {
+      "productId": 992,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-09-18T08:32:45.7941631+03:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "This Circle works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-10-30T19:08:07.0286991+02:00"
+    },
+    {
+      "productId": 2795,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-05-27T15:54:51.6679343+03:00"
+    }
+  ]
+}

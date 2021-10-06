@@ -1,0 +1,32 @@
+{
+  "userId": 59150,
+  "cartId": "03fe8f5d-acd9-4b69-a45a-8d658a3b1bd4",
+  "preferredProducts": [
+    2413,
+    3072,
+    1500,
+    2257
+  ],
+  "productReviews": [
+    {
+      "productId": 1324,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-05-26T23:55:36.4870792+03:00"
+    },
+    {
+      "productId": 2522,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2017-06-04T09:14:10.4741449+03:00"
+    },
+    {
+      "productId": 377,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-01T09:27:33.5184752+03:00"
+    },
+    {
+      "productId": 1292,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-06-07T18:46:47.9183886+03:00"
+    }
+  ]
+}

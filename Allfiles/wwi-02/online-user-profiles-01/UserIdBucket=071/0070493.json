@@ -1,0 +1,35 @@
+{
+  "userId": 70493,
+  "cartId": "6f579ce8-7f33-4a02-a322-9c07ed16e5eb",
+  "preferredProducts": [
+    1924,
+    3599,
+    2187,
+    2255,
+    4853,
+    4104,
+    3463
+  ],
+  "productReviews": [
+    {
+      "productId": 4401,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-09-01T04:52:23.5052397+03:00"
+    },
+    {
+      "productId": 4849,
+      "reviewText": "this olive is revolting.",
+      "reviewDate": "2017-05-26T00:41:38.545412+03:00"
+    },
+    {
+      "productId": 1579,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-01-08T01:12:23.5434955+02:00"
+    },
+    {
+      "productId": 2358,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-08T18:26:03.9597708+02:00"
+    }
+  ]
+}

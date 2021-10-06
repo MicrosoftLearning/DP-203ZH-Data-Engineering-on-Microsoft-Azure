@@ -1,0 +1,32 @@
+{
+  "userId": 78407,
+  "cartId": "2f55db74-f8d4-4739-8892-6e0d65e84de2",
+  "preferredProducts": [
+    2107,
+    1252,
+    1658,
+    4120
+  ],
+  "productReviews": [
+    {
+      "productId": 4461,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-02-10T10:36:20.6586452+02:00"
+    },
+    {
+      "productId": 1343,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-12-28T05:31:23.6117336+02:00"
+    },
+    {
+      "productId": 4702,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-02-05T10:02:03.3352877+02:00"
+    },
+    {
+      "productId": 3258,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-08-06T01:22:36.5223514+03:00"
+    }
+  ]
+}

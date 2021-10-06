@@ -1,0 +1,39 @@
+{
+  "userId": 21526,
+  "cartId": "9ff3bf41-84c4-4c2b-8105-856ea17b852f",
+  "preferredProducts": [
+    1200,
+    3312,
+    3544,
+    2018,
+    307,
+    461
+  ],
+  "productReviews": [
+    {
+      "productId": 4271,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-05-06T22:14:24.7350889+03:00"
+    },
+    {
+      "productId": 2034,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-09-16T15:47:15.8353349+03:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-08-17T03:42:22.479637+03:00"
+    },
+    {
+      "productId": 3632,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-10-17T08:06:51.0116809+03:00"
+    },
+    {
+      "productId": 804,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-09-23T21:54:46.6628444+03:00"
+    }
+  ]
+}

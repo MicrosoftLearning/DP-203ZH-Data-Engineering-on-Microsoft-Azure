@@ -1,0 +1,31 @@
+{
+  "userId": 7492,
+  "cartId": "614e34b3-c6d4-4dc4-afe4-991255c9e192",
+  "preferredProducts": [
+    1377,
+    380,
+    1609,
+    206,
+    4404,
+    3604,
+    154,
+    1892
+  ],
+  "productReviews": [
+    {
+      "productId": 910,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-01-10T01:27:48.524231+02:00"
+    },
+    {
+      "productId": 4159,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-10-09T17:56:29.2731577+03:00"
+    },
+    {
+      "productId": 1938,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-01-25T03:13:57.4621401+02:00"
+    }
+  ]
+}

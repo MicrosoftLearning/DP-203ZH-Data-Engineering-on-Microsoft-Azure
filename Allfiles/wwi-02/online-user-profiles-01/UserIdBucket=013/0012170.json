@@ -1,0 +1,32 @@
+{
+  "userId": 12170,
+  "cartId": "2b622878-56b6-4bdd-b227-1cd06bde27c9",
+  "preferredProducts": [
+    812,
+    2138,
+    3355,
+    1475
+  ],
+  "productReviews": [
+    {
+      "productId": 612,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-08-11T23:13:43.7160019+03:00"
+    },
+    {
+      "productId": 3425,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-10-13T03:51:42.3147927+03:00"
+    },
+    {
+      "productId": 1073,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-08-14T00:16:29.2455036+03:00"
+    },
+    {
+      "productId": 123,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2020-01-17T23:54:21.021169+02:00"
+    }
+  ]
+}

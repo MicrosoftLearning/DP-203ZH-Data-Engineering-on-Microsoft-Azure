@@ -1,0 +1,32 @@
+{
+  "userId": 23995,
+  "cartId": "1848836c-30fc-4f53-aa9e-41ee96875ef6",
+  "preferredProducts": [
+    1705,
+    3593,
+    1277,
+    604
+  ],
+  "productReviews": [
+    {
+      "productId": 4777,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-05-03T15:11:41.2300114+03:00"
+    },
+    {
+      "productId": 4638,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-02-14T05:28:02.1717238+02:00"
+    },
+    {
+      "productId": 961,
+      "reviewText": "this Internal is amiable.",
+      "reviewDate": "2020-02-02T13:55:57.8458316+02:00"
+    },
+    {
+      "productId": 2961,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-11-25T16:51:05.9504124+02:00"
+    }
+  ]
+}

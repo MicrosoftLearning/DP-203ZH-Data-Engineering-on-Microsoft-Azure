@@ -1,0 +1,27 @@
+{
+  "userId": 80618,
+  "cartId": "e2cb5f3d-f85d-4d66-b079-268de40487a2",
+  "preferredProducts": [
+    2162,
+    4342,
+    397,
+    1491
+  ],
+  "productReviews": [
+    {
+      "productId": 2998,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-02-06T19:30:56.2383891+02:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-05-14T21:45:49.1617145+03:00"
+    },
+    {
+      "productId": 3187,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-01-10T18:22:09.4555132+02:00"
+    }
+  ]
+}

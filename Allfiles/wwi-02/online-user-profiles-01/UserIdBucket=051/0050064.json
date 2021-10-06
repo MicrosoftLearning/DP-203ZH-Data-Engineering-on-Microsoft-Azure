@@ -1,0 +1,33 @@
+{
+  "userId": 50064,
+  "cartId": "5998f9e0-e425-4778-ae46-bdbfcd7178ce",
+  "preferredProducts": [
+    2681,
+    3333,
+    3108,
+    3536,
+    3149
+  ],
+  "productReviews": [
+    {
+      "productId": 373,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-04-28T06:58:19.1891699+03:00"
+    },
+    {
+      "productId": 1660,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-07-06T19:12:28.9123744+03:00"
+    },
+    {
+      "productId": 1264,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-03-14T07:37:21.1365323+02:00"
+    },
+    {
+      "productId": 4793,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-06-12T15:58:55.2015613+03:00"
+    }
+  ]
+}

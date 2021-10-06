@@ -1,0 +1,37 @@
+{
+  "userId": 5703,
+  "cartId": "c4aedf1b-0fdc-4d87-a992-1d5f42830111",
+  "preferredProducts": [
+    939,
+    49,
+    4015,
+    124,
+    4706,
+    1898,
+    1986,
+    3850,
+    330
+  ],
+  "productReviews": [
+    {
+      "productId": 864,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-10-24T01:55:40.255347+03:00"
+    },
+    {
+      "productId": 27,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-11-08T21:47:38.0739255+02:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-01-11T06:29:41.6540733+02:00"
+    },
+    {
+      "productId": 4700,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-04-29T18:55:54.3290116+03:00"
+    }
+  ]
+}

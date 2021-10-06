@@ -1,0 +1,33 @@
+{
+  "userId": 82813,
+  "cartId": "5e81f2e3-c538-4ab0-9b8b-7f6effa45810",
+  "preferredProducts": [
+    4669,
+    3963,
+    1170,
+    3468,
+    2712,
+    4127,
+    358,
+    2766,
+    4687,
+    1237
+  ],
+  "productReviews": [
+    {
+      "productId": 2712,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-04-15T03:50:32.0437681+03:00"
+    },
+    {
+      "productId": 3327,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-06-23T21:06:21.2199708+03:00"
+    },
+    {
+      "productId": 2654,
+      "reviewText": "this calculating is tasty.",
+      "reviewDate": "2019-03-20T17:40:37.8180005+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 7910,
+  "cartId": "bca119b3-769f-4247-b26f-e5587681181c",
+  "preferredProducts": [
+    1333,
+    2298,
+    2959,
+    1588
+  ],
+  "productReviews": [
+    {
+      "productId": 4057,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-02-25T10:02:31.5068465+02:00"
+    },
+    {
+      "productId": 3234,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-07-24T11:36:03.9875889+03:00"
+    },
+    {
+      "productId": 506,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2020-05-03T11:20:03.4348073+03:00"
+    },
+    {
+      "productId": 2263,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-12-15T11:45:46.9197871+02:00"
+    },
+    {
+      "productId": 2991,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-07-13T11:59:19.6067542+03:00"
+    }
+  ]
+}

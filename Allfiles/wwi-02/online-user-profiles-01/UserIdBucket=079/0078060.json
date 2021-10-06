@@ -1,0 +1,32 @@
+{
+  "userId": 78060,
+  "cartId": "a6dec9bc-7453-4746-ab02-0965cf768304",
+  "preferredProducts": [
+    1840,
+    2697,
+    677,
+    1443
+  ],
+  "productReviews": [
+    {
+      "productId": 4025,
+      "reviewText": "this SAS is perplexed.",
+      "reviewDate": "2017-10-01T09:27:20.3923338+03:00"
+    },
+    {
+      "productId": 3976,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-06-13T09:42:11.3911712+03:00"
+    },
+    {
+      "productId": 534,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-07-30T14:55:45.9598234+03:00"
+    },
+    {
+      "productId": 3394,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-03-27T17:15:02.8603882+03:00"
+    }
+  ]
+}

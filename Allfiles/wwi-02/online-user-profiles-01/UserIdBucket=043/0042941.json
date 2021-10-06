@@ -1,0 +1,33 @@
+{
+  "userId": 42941,
+  "cartId": "4fe8d630-89f5-41e2-a5dd-cb51f456838a",
+  "preferredProducts": [
+    39,
+    3510,
+    2576,
+    1906,
+    2140
+  ],
+  "productReviews": [
+    {
+      "productId": 1241,
+      "reviewText": "this productivity is standard.",
+      "reviewDate": "2018-07-05T15:10:23.8779885+03:00"
+    },
+    {
+      "productId": 1845,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-05-30T18:48:16.084912+03:00"
+    },
+    {
+      "productId": 2368,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-01-15T17:36:21.3837589+02:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "this networks is papery.",
+      "reviewDate": "2017-10-24T22:26:35.3496675+03:00"
+    }
+  ]
+}

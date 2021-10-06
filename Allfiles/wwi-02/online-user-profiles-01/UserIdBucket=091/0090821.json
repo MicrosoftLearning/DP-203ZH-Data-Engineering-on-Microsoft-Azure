@@ -1,0 +1,31 @@
+{
+  "userId": 90821,
+  "cartId": "81f48c4a-6b9d-4f37-9865-acad74ab33ae",
+  "preferredProducts": [
+    402,
+    1863,
+    409,
+    761,
+    3307,
+    2449,
+    2556,
+    3775
+  ],
+  "productReviews": [
+    {
+      "productId": 3865,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-05-02T03:16:43.7872735+03:00"
+    },
+    {
+      "productId": 4604,
+      "reviewText": "This Identity, does exactly what it's suppose to do.",
+      "reviewDate": "2017-12-24T11:55:57.4798341+02:00"
+    },
+    {
+      "productId": 1815,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-05-30T19:59:32.7633882+03:00"
+    }
+  ]
+}

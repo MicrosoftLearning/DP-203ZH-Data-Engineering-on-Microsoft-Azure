@@ -1,0 +1,31 @@
+{
+  "userId": 39008,
+  "cartId": "2c87ac67-969a-4c16-8e0f-baaca96972b4",
+  "preferredProducts": [
+    1020,
+    3586,
+    2276,
+    742,
+    3759,
+    72,
+    324,
+    2990
+  ],
+  "productReviews": [
+    {
+      "productId": 3106,
+      "reviewText": "This orange works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-08-13T21:35:23.9434415+03:00"
+    },
+    {
+      "productId": 4705,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-09-15T02:41:19.8358886+03:00"
+    },
+    {
+      "productId": 3798,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2020-01-22T09:01:12.9517001+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 17833,
+  "cartId": "3a3b62ab-4248-4aeb-b061-3c22611eff7e",
+  "preferredProducts": [
+    4821,
+    4151,
+    1728,
+    879,
+    561,
+    1156,
+    969,
+    625,
+    1274
+  ],
+  "productReviews": [
+    {
+      "productId": 3510,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-10-13T10:34:38.2250959+03:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-10-18T05:41:04.8147798+03:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-08-14T13:54:04.6745518+03:00"
+    },
+    {
+      "productId": 902,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-09-14T16:19:09.2285538+03:00"
+    }
+  ]
+}

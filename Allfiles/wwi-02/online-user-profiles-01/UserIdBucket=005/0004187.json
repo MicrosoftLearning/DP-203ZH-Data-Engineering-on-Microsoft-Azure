@@ -1,0 +1,32 @@
+{
+  "userId": 4187,
+  "cartId": "807d0857-50cc-4308-a5bb-d9cee37e8ce4",
+  "preferredProducts": [
+    4363,
+    357,
+    1736,
+    675
+  ],
+  "productReviews": [
+    {
+      "productId": 920,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-01-03T07:10:55.5009663+02:00"
+    },
+    {
+      "productId": 4239,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-03-25T20:49:50.1786944+02:00"
+    },
+    {
+      "productId": 638,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-03-09T12:16:05.615401+02:00"
+    },
+    {
+      "productId": 4813,
+      "reviewText": "this benchmark is mellow.",
+      "reviewDate": "2017-04-14T15:17:02.5998118+03:00"
+    }
+  ]
+}

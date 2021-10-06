@@ -1,0 +1,31 @@
+{
+  "userId": 98150,
+  "cartId": "d23e0868-a57d-4cf3-93db-88c696954240",
+  "preferredProducts": [
+    1296,
+    1728,
+    3353
+  ],
+  "productReviews": [
+    {
+      "productId": 1354,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-07-21T17:08:50.5006412+03:00"
+    },
+    {
+      "productId": 837,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-08-09T07:09:43.8718751+03:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "this Refined Fresh Fish is hyper.",
+      "reviewDate": "2019-01-18T05:03:44.5521447+02:00"
+    },
+    {
+      "productId": 3538,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-07-31T06:49:25.5715444+03:00"
+    }
+  ]
+}

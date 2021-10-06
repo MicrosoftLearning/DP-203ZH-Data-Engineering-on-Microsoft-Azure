@@ -1,0 +1,31 @@
+{
+  "userId": 47747,
+  "cartId": "467ead62-bc92-4aca-acf4-42f2be42ed9b",
+  "preferredProducts": [
+    2061,
+    2215,
+    4602
+  ],
+  "productReviews": [
+    {
+      "productId": 62,
+      "reviewText": "this orchid is vertical.",
+      "reviewDate": "2018-05-29T23:52:36.430408+03:00"
+    },
+    {
+      "productId": 1227,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-09-14T12:39:50.8200141+03:00"
+    },
+    {
+      "productId": 1709,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-13T13:00:10.3965854+02:00"
+    },
+    {
+      "productId": 2469,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-08-05T09:44:16.4114545+03:00"
+    }
+  ]
+}

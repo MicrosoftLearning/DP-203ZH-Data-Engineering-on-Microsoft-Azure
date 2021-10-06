@@ -1,0 +1,26 @@
+{
+  "userId": 48080,
+  "cartId": "1a571343-3cde-480d-8bda-55e7c82058a0",
+  "preferredProducts": [
+    564,
+    2379,
+    4160
+  ],
+  "productReviews": [
+    {
+      "productId": 2317,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-05-02T01:47:45.3557807+03:00"
+    },
+    {
+      "productId": 437,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-10-30T02:36:47.5356547+02:00"
+    },
+    {
+      "productId": 234,
+      "reviewText": "This bandwidth works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2016-08-23T02:32:42.9142548+03:00"
+    }
+  ]
+}

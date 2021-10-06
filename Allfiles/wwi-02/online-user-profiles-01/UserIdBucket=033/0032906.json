@@ -1,0 +1,32 @@
+{
+  "userId": 32906,
+  "cartId": "07daaa4a-bfd1-4e94-9070-594efac5f2c8",
+  "preferredProducts": [
+    3303,
+    3574,
+    1663,
+    3038
+  ],
+  "productReviews": [
+    {
+      "productId": 4447,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-01-09T09:16:39.0124749+02:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-07-01T00:24:49.6687106+03:00"
+    },
+    {
+      "productId": 3941,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-06-30T18:20:37.3139275+03:00"
+    },
+    {
+      "productId": 870,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-04-01T08:22:05.3153414+03:00"
+    }
+  ]
+}

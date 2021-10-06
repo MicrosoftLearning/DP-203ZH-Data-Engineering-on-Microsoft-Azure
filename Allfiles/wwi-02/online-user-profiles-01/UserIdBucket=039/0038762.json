@@ -1,0 +1,32 @@
+{
+  "userId": 38762,
+  "cartId": "333a80aa-8902-4ed0-b17e-36b759bd4f2f",
+  "preferredProducts": [
+    554,
+    877,
+    4988,
+    2225
+  ],
+  "productReviews": [
+    {
+      "productId": 3773,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-09-19T10:39:11.4940271+03:00"
+    },
+    {
+      "productId": 216,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-03-13T09:20:35.0873531+02:00"
+    },
+    {
+      "productId": 939,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-02-03T20:52:58.0721836+02:00"
+    },
+    {
+      "productId": 2101,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-03-22T04:25:46.2148819+02:00"
+    }
+  ]
+}

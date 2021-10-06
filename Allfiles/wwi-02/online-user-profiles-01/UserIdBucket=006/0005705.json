@@ -1,0 +1,23 @@
+{
+  "userId": 5705,
+  "cartId": "e6778919-cca2-42de-9c45-86829c4068cb",
+  "preferredProducts": [
+    391,
+    3623,
+    2187,
+    3667,
+    3419
+  ],
+  "productReviews": [
+    {
+      "productId": 4780,
+      "reviewText": "This circuit, does exactly what it's suppose to do.",
+      "reviewDate": "2020-01-07T21:02:08.6217448+02:00"
+    },
+    {
+      "productId": 4224,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-02-13T22:23:06.8002401+02:00"
+    }
+  ]
+}

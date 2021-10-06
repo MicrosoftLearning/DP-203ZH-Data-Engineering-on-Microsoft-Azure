@@ -1,0 +1,29 @@
+{
+  "userId": 59257,
+  "cartId": "c72e3c55-4112-4b4b-9809-417d8200f785",
+  "preferredProducts": [
+    3850,
+    1912,
+    2054,
+    387,
+    1335,
+    2419
+  ],
+  "productReviews": [
+    {
+      "productId": 3015,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-12-08T01:53:36.3468204+02:00"
+    },
+    {
+      "productId": 672,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-08-26T19:27:59.1120253+03:00"
+    },
+    {
+      "productId": 3993,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-08-31T15:07:58.4136592+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 14577,
+  "cartId": "01be648f-5070-41a1-9824-b343a6dc1949",
+  "preferredProducts": [
+    3871,
+    4278,
+    1402,
+    4074,
+    3711,
+    3396,
+    4188,
+    2674,
+    3034,
+    3870
+  ],
+  "productReviews": [
+    {
+      "productId": 1728,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-10-25T10:28:18.4487138+03:00"
+    },
+    {
+      "productId": 3295,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-25T12:57:05.1278075+03:00"
+    },
+    {
+      "productId": 4030,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-09-11T05:18:54.8905055+03:00"
+    },
+    {
+      "productId": 2247,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-01-29T08:17:00.786566+02:00"
+    }
+  ]
+}

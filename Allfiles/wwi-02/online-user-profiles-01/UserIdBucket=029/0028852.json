@@ -1,0 +1,21 @@
+{
+  "userId": 28852,
+  "cartId": "99a01a04-bf0a-4668-8bd8-e192f782f7d3",
+  "preferredProducts": [
+    2729,
+    1188,
+    184
+  ],
+  "productReviews": [
+    {
+      "productId": 2480,
+      "reviewText": "this array is nifty.",
+      "reviewDate": "2017-05-11T13:10:13.4821851+03:00"
+    },
+    {
+      "productId": 1076,
+      "reviewText": "This Object-based works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-07-08T12:35:59.944593+03:00"
+    }
+  ]
+}

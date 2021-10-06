@@ -1,0 +1,23 @@
+{
+  "userId": 32640,
+  "cartId": "1d74816f-ff14-461c-a593-9e98d43c84b4",
+  "preferredProducts": [
+    1367,
+    1653,
+    4583,
+    4970,
+    4163
+  ],
+  "productReviews": [
+    {
+      "productId": 4982,
+      "reviewText": "This invoice works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-08-05T14:54:29.4758321+03:00"
+    },
+    {
+      "productId": 4041,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-10-21T09:18:27.4621165+03:00"
+    }
+  ]
+}

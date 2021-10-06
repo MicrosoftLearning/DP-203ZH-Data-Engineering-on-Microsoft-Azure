@@ -1,0 +1,38 @@
+{
+  "userId": 64683,
+  "cartId": "6a9c8794-e730-463d-92f7-7589e322c2ed",
+  "preferredProducts": [
+    1833,
+    3881,
+    8,
+    2511,
+    3808,
+    683,
+    4896,
+    4677,
+    3510,
+    2965
+  ],
+  "productReviews": [
+    {
+      "productId": 2644,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-11-15T04:46:13.0126695+02:00"
+    },
+    {
+      "productId": 3612,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-04-09T05:53:53.6518516+03:00"
+    },
+    {
+      "productId": 2997,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-02-10T18:39:22.3574155+02:00"
+    },
+    {
+      "productId": 1571,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-04-11T17:58:52.4103908+03:00"
+    }
+  ]
+}

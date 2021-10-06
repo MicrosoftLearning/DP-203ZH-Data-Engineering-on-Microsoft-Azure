@@ -1,0 +1,25 @@
+{
+  "userId": 69080,
+  "cartId": "4238ef58-00c8-47cb-8c70-009b53c4742c",
+  "preferredProducts": [
+    1291,
+    2073,
+    2604,
+    3274,
+    3955,
+    1736,
+    231
+  ],
+  "productReviews": [
+    {
+      "productId": 1556,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-07-24T09:24:09.2263701+03:00"
+    },
+    {
+      "productId": 1443,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-03-30T12:53:52.6859986+03:00"
+    }
+  ]
+}

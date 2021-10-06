@@ -1,0 +1,30 @@
+{
+  "userId": 69091,
+  "cartId": "d40a7d73-ea20-4fa4-88c0-035a3a4f931a",
+  "preferredProducts": [
+    275,
+    3455
+  ],
+  "productReviews": [
+    {
+      "productId": 2876,
+      "reviewText": "this payment is awesome.",
+      "reviewDate": "2019-10-29T15:39:33.2716845+02:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2016-11-10T23:43:24.5764069+02:00"
+    },
+    {
+      "productId": 275,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-03-01T06:59:27.4387393+02:00"
+    },
+    {
+      "productId": 199,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-10-30T10:07:30.9255644+02:00"
+    }
+  ]
+}

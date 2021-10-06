@@ -1,0 +1,33 @@
+{
+  "userId": 41133,
+  "cartId": "c9e67dbf-4bd3-4058-98bf-d903c58cd854",
+  "preferredProducts": [
+    3827,
+    4158,
+    227,
+    1272,
+    2312,
+    4049,
+    343,
+    4173,
+    3758,
+    3163
+  ],
+  "productReviews": [
+    {
+      "productId": 969,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-11-13T10:07:09.5053469+02:00"
+    },
+    {
+      "productId": 1694,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-04-04T02:52:15.77676+03:00"
+    },
+    {
+      "productId": 2047,
+      "reviewText": "This transparent works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-09-01T18:15:34.4303202+03:00"
+    }
+  ]
+}

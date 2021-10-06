@@ -1,0 +1,42 @@
+{
+  "userId": 4937,
+  "cartId": "f1332db3-fe35-4819-8691-64da90d95884",
+  "preferredProducts": [
+    2369,
+    4456,
+    3840,
+    3099,
+    51,
+    956,
+    921,
+    1874,
+    3550
+  ],
+  "productReviews": [
+    {
+      "productId": 1005,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-03-20T14:09:43.3153604+02:00"
+    },
+    {
+      "productId": 1560,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This e-commerce keeps them away.",
+      "reviewDate": "2020-02-04T13:28:00.4046622+02:00"
+    },
+    {
+      "productId": 3482,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-05-04T13:08:07.6292808+03:00"
+    },
+    {
+      "productId": 1518,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-05-14T05:44:10.675663+03:00"
+    },
+    {
+      "productId": 1170,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-09-07T02:16:39.691415+03:00"
+    }
+  ]
+}

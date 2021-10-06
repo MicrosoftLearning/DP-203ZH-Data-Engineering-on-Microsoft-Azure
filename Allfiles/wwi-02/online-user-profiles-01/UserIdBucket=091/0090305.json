@@ -1,0 +1,31 @@
+{
+  "userId": 90305,
+  "cartId": "3459895a-2a6d-4974-9643-3600b1627e4d",
+  "preferredProducts": [
+    4544,
+    3202,
+    2440,
+    2907,
+    2176,
+    833,
+    3293,
+    4310
+  ],
+  "productReviews": [
+    {
+      "productId": 1923,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-05-17T21:40:17.1888384+03:00"
+    },
+    {
+      "productId": 3595,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-03-27T10:40:15.7643245+03:00"
+    },
+    {
+      "productId": 2211,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-11-27T22:11:26.6914518+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 53095,
+  "cartId": "c2a07827-b8b6-46cf-aef0-0eb83a194241",
+  "preferredProducts": [
+    2593,
+    3688,
+    2027
+  ],
+  "productReviews": [
+    {
+      "productId": 2810,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-02-21T04:41:04.6586183+02:00"
+    },
+    {
+      "productId": 2577,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-06-22T23:08:57.7718533+03:00"
+    },
+    {
+      "productId": 2999,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-08-10T01:43:19.764633+03:00"
+    },
+    {
+      "productId": 3596,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-02-28T08:02:08.9005857+02:00"
+    }
+  ]
+}

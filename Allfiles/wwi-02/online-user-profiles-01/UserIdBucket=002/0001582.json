@@ -1,0 +1,35 @@
+{
+  "userId": 1582,
+  "cartId": "63bead34-cbcf-4bba-aca8-0aa4deb52fe6",
+  "preferredProducts": [
+    2846,
+    2502,
+    1675,
+    2530,
+    4369,
+    4032,
+    394
+  ],
+  "productReviews": [
+    {
+      "productId": 1368,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-09-08T09:09:09.8518021+03:00"
+    },
+    {
+      "productId": 771,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-07-03T13:47:06.5172733+03:00"
+    },
+    {
+      "productId": 4157,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-07-08T07:10:23.47116+03:00"
+    },
+    {
+      "productId": 2157,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-10-12T22:43:26.7152739+03:00"
+    }
+  ]
+}

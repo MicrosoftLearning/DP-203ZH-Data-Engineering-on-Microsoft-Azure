@@ -1,0 +1,31 @@
+{
+  "userId": 5693,
+  "cartId": "c1237a61-093e-437b-92d1-97046898e9f4",
+  "preferredProducts": [
+    2228,
+    1201,
+    4844
+  ],
+  "productReviews": [
+    {
+      "productId": 3681,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-02-03T08:48:50.1349746+02:00"
+    },
+    {
+      "productId": 3914,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-07-05T12:56:27.5298268+03:00"
+    },
+    {
+      "productId": 2817,
+      "reviewText": "This Expanded works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-10-12T15:37:55.5349485+03:00"
+    },
+    {
+      "productId": 2265,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-04-03T12:24:55.0113191+03:00"
+    }
+  ]
+}

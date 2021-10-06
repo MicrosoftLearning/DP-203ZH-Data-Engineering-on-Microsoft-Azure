@@ -1,0 +1,26 @@
+{
+  "userId": 23265,
+  "cartId": "1ba5f9a5-54c9-4141-923e-c5b2861f9f52",
+  "preferredProducts": [
+    3193,
+    3482,
+    2226
+  ],
+  "productReviews": [
+    {
+      "productId": 741,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-01-31T22:56:07.1726617+02:00"
+    },
+    {
+      "productId": 2130,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-04-17T07:41:18.8071515+03:00"
+    },
+    {
+      "productId": 3928,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-03-06T04:28:17.8251384+02:00"
+    }
+  ]
+}

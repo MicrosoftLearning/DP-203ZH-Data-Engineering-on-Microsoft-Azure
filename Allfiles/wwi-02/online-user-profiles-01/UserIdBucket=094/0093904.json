@@ -1,0 +1,37 @@
+{
+  "userId": 93904,
+  "cartId": "2bafe132-aa88-44ba-ae6f-b6e75f073981",
+  "preferredProducts": [
+    3109,
+    4198,
+    2900,
+    86,
+    2035,
+    2556,
+    3469,
+    3767,
+    4377
+  ],
+  "productReviews": [
+    {
+      "productId": 1699,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-10-02T02:37:40.1985463+03:00"
+    },
+    {
+      "productId": 1251,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-11-13T09:41:30.5605355+02:00"
+    },
+    {
+      "productId": 738,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-03-15T11:24:56.891718+02:00"
+    },
+    {
+      "productId": 539,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-04-11T12:08:16.105385+03:00"
+    }
+  ]
+}

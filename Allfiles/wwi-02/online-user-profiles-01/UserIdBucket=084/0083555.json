@@ -1,0 +1,31 @@
+{
+  "userId": 83555,
+  "cartId": "f3303003-c3fc-4303-9b9d-f7011feafb36",
+  "preferredProducts": [
+    682,
+    4317,
+    887,
+    3926,
+    2268,
+    4137,
+    1492,
+    2768
+  ],
+  "productReviews": [
+    {
+      "productId": 415,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-07-16T15:11:39.3912033+03:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-01-03T05:57:11.6964483+02:00"
+    },
+    {
+      "productId": 4296,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-10-13T14:54:26.9693367+03:00"
+    }
+  ]
+}

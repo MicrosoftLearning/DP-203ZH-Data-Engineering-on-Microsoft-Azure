@@ -1,0 +1,25 @@
+{
+  "userId": 63267,
+  "cartId": "5f555da3-97a3-4e57-9c03-7cb945cd2854",
+  "preferredProducts": [
+    3614,
+    2752,
+    2811,
+    1547,
+    3512,
+    86,
+    3592
+  ],
+  "productReviews": [
+    {
+      "productId": 310,
+      "reviewText": "this productize is papery.",
+      "reviewDate": "2017-03-24T01:43:41.6068083+02:00"
+    },
+    {
+      "productId": 1313,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-01-16T11:59:42.3867206+02:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 33034,
+  "cartId": "087c1fb4-3d88-4274-8f93-4b6049be31c1",
+  "preferredProducts": [
+    3554,
+    2363,
+    179,
+    3563,
+    2244,
+    2456,
+    182,
+    4265,
+    2596,
+    1115
+  ],
+  "productReviews": [
+    {
+      "productId": 1678,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-12-07T08:12:35.7900321+02:00"
+    },
+    {
+      "productId": 4479,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-01-15T18:38:14.2563776+02:00"
+    },
+    {
+      "productId": 1021,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-12-26T12:15:43.9690254+02:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2020-04-18T04:10:25.6990725+03:00"
+    },
+    {
+      "productId": 999,
+      "reviewText": "this engineer is light-hearted.",
+      "reviewDate": "2020-02-16T08:59:28.4947759+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 11875,
+  "cartId": "9ced7263-3b3c-49dc-bb38-ba6deae185cc",
+  "preferredProducts": [
+    274,
+    4731,
+    3799
+  ],
+  "productReviews": [
+    {
+      "productId": 347,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-01-07T18:25:38.9904544+02:00"
+    },
+    {
+      "productId": 3220,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-01-14T06:40:59.0083876+02:00"
+    },
+    {
+      "productId": 1848,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-06-07T05:18:39.8546944+03:00"
+    },
+    {
+      "productId": 3725,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-11-05T20:48:43.9880513+02:00"
+    }
+  ]
+}

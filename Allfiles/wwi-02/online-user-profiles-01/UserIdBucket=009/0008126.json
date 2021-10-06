@@ -1,0 +1,33 @@
+{
+  "userId": 8126,
+  "cartId": "9d047612-219d-4a94-9c6b-df181c16f02a",
+  "preferredProducts": [
+    3246,
+    1496,
+    3621,
+    2756,
+    4667
+  ],
+  "productReviews": [
+    {
+      "productId": 2202,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2020-04-17T17:47:44.4596641+03:00"
+    },
+    {
+      "productId": 1202,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-04-10T22:32:07.052104+03:00"
+    },
+    {
+      "productId": 2822,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-05-30T15:32:46.3612529+03:00"
+    },
+    {
+      "productId": 3502,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-06-13T22:09:08.2908938+03:00"
+    }
+  ]
+}

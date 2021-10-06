@@ -1,0 +1,32 @@
+{
+  "userId": 13414,
+  "cartId": "9991fab6-543f-432d-84ce-e53b88d2c103",
+  "preferredProducts": [
+    1646,
+    416,
+    3605,
+    3077
+  ],
+  "productReviews": [
+    {
+      "productId": 44,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-05-23T23:33:00.5589856+03:00"
+    },
+    {
+      "productId": 123,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-11-09T19:42:49.0426473+02:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-02-20T19:20:57.4604666+02:00"
+    },
+    {
+      "productId": 3455,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-02-27T19:33:17.3826699+02:00"
+    }
+  ]
+}

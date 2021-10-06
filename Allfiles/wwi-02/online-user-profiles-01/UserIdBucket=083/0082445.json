@@ -1,0 +1,38 @@
+{
+  "userId": 82445,
+  "cartId": "0b0d5151-078a-46b7-a5ab-f7628458b2d2",
+  "preferredProducts": [
+    1701,
+    4207,
+    3602,
+    4730,
+    2379
+  ],
+  "productReviews": [
+    {
+      "productId": 4610,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-10-31T01:01:25.8286925+02:00"
+    },
+    {
+      "productId": 4210,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-07-25T11:35:59.474635+03:00"
+    },
+    {
+      "productId": 3449,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-02-07T08:51:36.1707426+02:00"
+    },
+    {
+      "productId": 2326,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-06-10T13:04:42.7796288+03:00"
+    },
+    {
+      "productId": 4428,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-02-22T16:28:26.7774658+02:00"
+    }
+  ]
+}

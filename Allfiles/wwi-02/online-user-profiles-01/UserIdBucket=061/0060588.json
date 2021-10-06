@@ -1,0 +1,35 @@
+{
+  "userId": 60588,
+  "cartId": "74d80bff-a100-40e5-9586-ab05cb3f27a4",
+  "preferredProducts": [
+    1065,
+    2783,
+    3094,
+    4727,
+    1362,
+    612,
+    4994
+  ],
+  "productReviews": [
+    {
+      "productId": 4848,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-05-17T15:50:29.8838216+03:00"
+    },
+    {
+      "productId": 2260,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-04-10T10:08:31.1568148+03:00"
+    },
+    {
+      "productId": 2738,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-08-17T03:17:00.1147111+03:00"
+    },
+    {
+      "productId": 2281,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-12-05T23:47:48.3572007+02:00"
+    }
+  ]
+}

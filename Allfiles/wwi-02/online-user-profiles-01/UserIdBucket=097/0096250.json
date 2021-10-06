@@ -1,0 +1,28 @@
+{
+  "userId": 96250,
+  "cartId": "b96f650e-d786-408e-a792-2ebb5cf3871f",
+  "preferredProducts": [
+    1200,
+    3376,
+    2406,
+    1812,
+    1030
+  ],
+  "productReviews": [
+    {
+      "productId": 2222,
+      "reviewText": "this Awesome is dominant.",
+      "reviewDate": "2016-12-05T13:39:09.8403063+02:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-05-23T02:55:19.7657806+03:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-06-14T19:52:09.9542689+03:00"
+    }
+  ]
+}

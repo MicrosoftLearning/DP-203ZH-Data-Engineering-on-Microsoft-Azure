@@ -1,0 +1,29 @@
+{
+  "userId": 85251,
+  "cartId": "3c9c345b-536e-476d-b7df-978070ebf802",
+  "preferredProducts": [
+    3368,
+    4622,
+    3246,
+    2442,
+    1609,
+    253
+  ],
+  "productReviews": [
+    {
+      "productId": 1162,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-03-19T01:39:51.0295981+02:00"
+    },
+    {
+      "productId": 596,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-06-17T11:02:10.806949+03:00"
+    },
+    {
+      "productId": 1669,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-08-02T22:50:02.7380183+03:00"
+    }
+  ]
+}

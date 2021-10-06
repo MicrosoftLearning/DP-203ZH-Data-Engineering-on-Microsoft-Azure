@@ -1,0 +1,38 @@
+{
+  "userId": 15719,
+  "cartId": "16c54526-bab9-4c2f-a4c3-3d2e56549408",
+  "preferredProducts": [
+    87,
+    367,
+    2160,
+    3043,
+    503,
+    2261,
+    1769,
+    1143,
+    2877,
+    2844
+  ],
+  "productReviews": [
+    {
+      "productId": 147,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-03-30T14:09:08.1664193+03:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-07-16T10:29:05.7440514+03:00"
+    },
+    {
+      "productId": 3144,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-04-25T07:04:53.5371234+03:00"
+    },
+    {
+      "productId": 3258,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-10-01T20:33:16.4162922+03:00"
+    }
+  ]
+}

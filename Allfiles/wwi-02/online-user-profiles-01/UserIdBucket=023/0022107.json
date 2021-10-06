@@ -1,0 +1,38 @@
+{
+  "userId": 22107,
+  "cartId": "09ef2311-924d-4370-a059-9fbc40bef64e",
+  "preferredProducts": [
+    2925,
+    3715,
+    718,
+    960,
+    256
+  ],
+  "productReviews": [
+    {
+      "productId": 3459,
+      "reviewText": "this Prairie is slurpee.",
+      "reviewDate": "2016-05-29T18:10:07.1752622+03:00"
+    },
+    {
+      "productId": 4902,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-12-24T02:16:06.2441617+02:00"
+    },
+    {
+      "productId": 1314,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2016-08-22T23:40:01.5983556+03:00"
+    },
+    {
+      "productId": 479,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-08-23T12:50:52.1712644+03:00"
+    },
+    {
+      "productId": 4704,
+      "reviewText": "this transition is mellow.",
+      "reviewDate": "2017-01-24T10:55:42.1715698+02:00"
+    }
+  ]
+}

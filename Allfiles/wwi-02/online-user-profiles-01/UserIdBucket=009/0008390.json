@@ -1,0 +1,42 @@
+{
+  "userId": 8390,
+  "cartId": "6106ad86-e30f-44e8-a1fb-dc8d4ba77f42",
+  "preferredProducts": [
+    4753,
+    4325,
+    1927,
+    2744,
+    2126,
+    4545,
+    4676,
+    4415,
+    3940
+  ],
+  "productReviews": [
+    {
+      "productId": 2064,
+      "reviewText": "this Wooden is vertical.",
+      "reviewDate": "2017-01-31T05:15:17.9860962+02:00"
+    },
+    {
+      "productId": 4065,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-11-11T18:53:43.155499+02:00"
+    },
+    {
+      "productId": 1815,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-11-14T02:46:07.0118816+02:00"
+    },
+    {
+      "productId": 3356,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-02-03T15:00:19.0477648+02:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-06-27T07:28:32.9028879+03:00"
+    }
+  ]
+}

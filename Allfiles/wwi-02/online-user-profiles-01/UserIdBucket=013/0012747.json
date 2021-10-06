@@ -1,0 +1,38 @@
+{
+  "userId": 12747,
+  "cartId": "c23cf090-2087-46c2-8e26-aa4dce0f2596",
+  "preferredProducts": [
+    1489,
+    3447,
+    621,
+    1555,
+    3802
+  ],
+  "productReviews": [
+    {
+      "productId": 4656,
+      "reviewText": "this maroon is tasty.",
+      "reviewDate": "2017-07-14T06:27:57.8881185+03:00"
+    },
+    {
+      "productId": 332,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-03-23T13:01:24.337733+02:00"
+    },
+    {
+      "productId": 777,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-02-06T16:47:20.4337593+02:00"
+    },
+    {
+      "productId": 1858,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-09-21T09:37:56.5479481+03:00"
+    },
+    {
+      "productId": 938,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-11-03T06:47:16.6391354+02:00"
+    }
+  ]
+}

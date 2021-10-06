@@ -1,0 +1,35 @@
+{
+  "userId": 51642,
+  "cartId": "1bfcfa2c-5724-4d0c-8954-4bcad23d7214",
+  "preferredProducts": [
+    642,
+    1586,
+    2226,
+    4078,
+    567,
+    1461,
+    401
+  ],
+  "productReviews": [
+    {
+      "productId": 3875,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-10-13T02:28:14.0737444+03:00"
+    },
+    {
+      "productId": 4193,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-10-09T15:50:49.7616445+03:00"
+    },
+    {
+      "productId": 607,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-01-05T05:40:14.8370656+02:00"
+    },
+    {
+      "productId": 3891,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-01-11T20:41:36.0148473+02:00"
+    }
+  ]
+}

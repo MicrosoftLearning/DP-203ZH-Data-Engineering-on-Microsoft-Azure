@@ -1,0 +1,30 @@
+{
+  "userId": 59574,
+  "cartId": "a172d648-40d4-4f58-97ae-ba19f548c194",
+  "preferredProducts": [
+    3459,
+    2249,
+    485,
+    1792,
+    3610,
+    1751,
+    1047
+  ],
+  "productReviews": [
+    {
+      "productId": 917,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-11-10T10:11:10.1993372+02:00"
+    },
+    {
+      "productId": 1166,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-07-30T16:40:55.8567824+03:00"
+    },
+    {
+      "productId": 1708,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-06-25T07:04:55.6023031+03:00"
+    }
+  ]
+}

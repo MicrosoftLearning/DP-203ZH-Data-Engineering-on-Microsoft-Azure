@@ -1,0 +1,39 @@
+{
+  "userId": 12185,
+  "cartId": "e9a0ebad-3c6e-40cc-a0b0-1bb9498c555d",
+  "preferredProducts": [
+    435,
+    4641,
+    730,
+    702,
+    4791,
+    3114
+  ],
+  "productReviews": [
+    {
+      "productId": 669,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-06-14T02:12:28.5757479+03:00"
+    },
+    {
+      "productId": 1608,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-08-24T03:12:26.9532747+03:00"
+    },
+    {
+      "productId": 1848,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-08-18T04:32:34.3285736+03:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2020-04-05T17:45:40.1225936+03:00"
+    },
+    {
+      "productId": 1098,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2020-03-13T10:53:11.6816467+02:00"
+    }
+  ]
+}

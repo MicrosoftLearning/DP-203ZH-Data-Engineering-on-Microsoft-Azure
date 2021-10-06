@@ -1,0 +1,38 @@
+{
+  "userId": 46881,
+  "cartId": "328b3f66-689c-41d6-bbcb-bbad7625b828",
+  "preferredProducts": [
+    4677,
+    4084,
+    1464,
+    3592,
+    2072
+  ],
+  "productReviews": [
+    {
+      "productId": 1776,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-07-23T01:23:32.5546066+03:00"
+    },
+    {
+      "productId": 1013,
+      "reviewText": "this HTTP is mellow.",
+      "reviewDate": "2019-08-20T00:09:37.4125466+03:00"
+    },
+    {
+      "productId": 3331,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-02-03T00:54:36.7433937+02:00"
+    },
+    {
+      "productId": 388,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-09-10T18:01:19.4165712+03:00"
+    },
+    {
+      "productId": 3852,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-04-28T21:56:18.0355834+03:00"
+    }
+  ]
+}

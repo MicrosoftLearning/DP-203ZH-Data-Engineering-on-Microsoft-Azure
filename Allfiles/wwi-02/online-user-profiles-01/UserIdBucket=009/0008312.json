@@ -1,0 +1,31 @@
+{
+  "userId": 8312,
+  "cartId": "ca20fa51-a2b9-4fab-bf02-967b2da418cc",
+  "preferredProducts": [
+    237,
+    1750,
+    556
+  ],
+  "productReviews": [
+    {
+      "productId": 2154,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-07-11T07:36:16.0764612+03:00"
+    },
+    {
+      "productId": 1286,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-12-27T16:50:17.6870895+02:00"
+    },
+    {
+      "productId": 1925,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-08-18T00:14:01.0607108+03:00"
+    },
+    {
+      "productId": 2937,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-04-14T11:32:37.0238756+03:00"
+    }
+  ]
+}

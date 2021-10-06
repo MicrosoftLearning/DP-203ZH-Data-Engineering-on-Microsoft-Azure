@@ -1,0 +1,29 @@
+{
+  "userId": 20945,
+  "cartId": "86b4fa5a-f311-46ca-b556-14bca20dfb4c",
+  "preferredProducts": [
+    3469,
+    3412,
+    1593,
+    810,
+    268,
+    1162
+  ],
+  "productReviews": [
+    {
+      "productId": 2325,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-11-20T20:30:03.2794262+02:00"
+    },
+    {
+      "productId": 3667,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-05-27T21:21:53.0721854+03:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2020-01-24T04:16:16.3861513+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 10155,
+  "cartId": "5ce2a546-6ed6-4071-a904-b5b2d7c6d9a6",
+  "preferredProducts": [
+    1794,
+    3503,
+    131,
+    2570,
+    2792,
+    2149,
+    2560,
+    4432,
+    1427
+  ],
+  "productReviews": [
+    {
+      "productId": 3731,
+      "reviewText": "this navigate is vertical.",
+      "reviewDate": "2019-10-18T09:11:19.4755273+03:00"
+    },
+    {
+      "productId": 2266,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-12-02T09:42:31.392602+02:00"
+    },
+    {
+      "productId": 1918,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-08-03T14:33:24.9737038+03:00"
+    },
+    {
+      "productId": 155,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-05-27T14:59:17.3769151+03:00"
+    }
+  ]
+}

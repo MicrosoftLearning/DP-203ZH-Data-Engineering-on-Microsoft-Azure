@@ -1,0 +1,38 @@
+{
+  "userId": 94253,
+  "cartId": "1cafcf4c-ec1e-4ca9-8765-34b4e65ca2ff",
+  "preferredProducts": [
+    4812,
+    3862,
+    1989,
+    2047,
+    3291,
+    1610,
+    1654,
+    2525,
+    1367,
+    2353
+  ],
+  "productReviews": [
+    {
+      "productId": 580,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-08-14T11:01:29.5172094+03:00"
+    },
+    {
+      "productId": 4085,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-03-14T02:04:42.5174434+02:00"
+    },
+    {
+      "productId": 661,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-10-26T01:38:15.5984338+03:00"
+    },
+    {
+      "productId": 931,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-07-11T23:23:39.7022655+03:00"
+    }
+  ]
+}

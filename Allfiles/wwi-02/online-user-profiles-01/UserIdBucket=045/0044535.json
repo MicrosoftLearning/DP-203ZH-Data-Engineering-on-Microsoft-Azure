@@ -1,0 +1,37 @@
+{
+  "userId": 44535,
+  "cartId": "0bda0e00-3d72-443d-ba02-2e1f78d64efe",
+  "preferredProducts": [
+    3622,
+    4243,
+    1020,
+    1813,
+    945,
+    4101,
+    3073,
+    1463,
+    2101
+  ],
+  "productReviews": [
+    {
+      "productId": 923,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-06-23T09:14:18.0454957+03:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-04-10T22:44:23.1762211+03:00"
+    },
+    {
+      "productId": 1225,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-03-13T20:07:30.1030436+02:00"
+    },
+    {
+      "productId": 33,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-12-24T02:35:53.094471+02:00"
+    }
+  ]
+}

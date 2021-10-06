@@ -1,0 +1,28 @@
+{
+  "userId": 21276,
+  "cartId": "84d8ac7a-891d-4a3c-851b-16378a8cbd74",
+  "preferredProducts": [
+    3528,
+    4509,
+    3557,
+    620,
+    1104
+  ],
+  "productReviews": [
+    {
+      "productId": 694,
+      "reviewText": "this Steel is brown.",
+      "reviewDate": "2020-02-23T15:33:55.4917688+02:00"
+    },
+    {
+      "productId": 3191,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-03-08T12:59:20.5630566+02:00"
+    },
+    {
+      "productId": 105,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-07-25T23:52:47.5268869+03:00"
+    }
+  ]
+}

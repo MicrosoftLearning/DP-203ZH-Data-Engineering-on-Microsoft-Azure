@@ -1,0 +1,34 @@
+{
+  "userId": 16582,
+  "cartId": "0af2faa1-bd1f-4c82-ad5e-6e67e09132d8",
+  "preferredProducts": [
+    3399,
+    3424,
+    2028,
+    777,
+    3616,
+    90
+  ],
+  "productReviews": [
+    {
+      "productId": 4083,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-05-01T14:23:47.1297633+03:00"
+    },
+    {
+      "productId": 2822,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-01-27T05:59:56.0775593+02:00"
+    },
+    {
+      "productId": 1407,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-07-14T21:06:10.9025522+03:00"
+    },
+    {
+      "productId": 29,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-08-11T18:12:42.5873301+03:00"
+    }
+  ]
+}

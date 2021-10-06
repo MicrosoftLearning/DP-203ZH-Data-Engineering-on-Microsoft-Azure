@@ -1,0 +1,36 @@
+{
+  "userId": 5205,
+  "cartId": "8399004b-61cc-49d6-a4ea-999f3871fbdc",
+  "preferredProducts": [
+    2194,
+    1655,
+    4897,
+    1478,
+    129,
+    1757,
+    2596,
+    3433
+  ],
+  "productReviews": [
+    {
+      "productId": 2786,
+      "reviewText": "this Avon is dominant.",
+      "reviewDate": "2020-04-21T16:27:18.3753511+03:00"
+    },
+    {
+      "productId": 3315,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-08-15T08:34:26.0578375+03:00"
+    },
+    {
+      "productId": 2790,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-10-05T08:04:24.6752184+03:00"
+    },
+    {
+      "productId": 2794,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-11-29T16:41:43.9731009+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 33255,
+  "cartId": "25edb51e-06bb-41d3-968e-f079361a7833",
+  "preferredProducts": [
+    1503,
+    824,
+    4918,
+    4225
+  ],
+  "productReviews": [
+    {
+      "productId": 1496,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-09-20T12:45:00.6487965+03:00"
+    },
+    {
+      "productId": 4269,
+      "reviewText": "This National works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-05-29T20:49:48.6305335+03:00"
+    },
+    {
+      "productId": 394,
+      "reviewText": "This functionalities works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2020-02-04T10:27:58.1571807+02:00"
+    },
+    {
+      "productId": 3932,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-05-11T23:31:31.7263823+03:00"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "userId": 23251,
+  "cartId": "169b3097-a7ed-4dd5-986f-8f02791ff26e",
+  "preferredProducts": [
+    3372,
+    1480,
+    2997,
+    3217
+  ],
+  "productReviews": [
+    {
+      "productId": 4343,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-01-21T21:43:56.6289698+02:00"
+    },
+    {
+      "productId": 3874,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-04-03T14:59:34.5202935+03:00"
+    }
+  ]
+}

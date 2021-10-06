@@ -1,0 +1,31 @@
+{
+  "userId": 28039,
+  "cartId": "df9c0322-fa5b-4f07-8dd3-b16dfeb6995a",
+  "preferredProducts": [
+    4931,
+    3636,
+    828,
+    3355,
+    3438,
+    2072,
+    4774,
+    1258
+  ],
+  "productReviews": [
+    {
+      "productId": 973,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-03-06T12:27:03.3057004+02:00"
+    },
+    {
+      "productId": 913,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-01-29T16:06:54.3670282+02:00"
+    },
+    {
+      "productId": 691,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-08-14T12:39:49.8105243+03:00"
+    }
+  ]
+}

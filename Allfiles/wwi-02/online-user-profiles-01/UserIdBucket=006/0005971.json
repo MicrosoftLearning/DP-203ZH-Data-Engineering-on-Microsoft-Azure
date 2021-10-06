@@ -1,0 +1,31 @@
+{
+  "userId": 5971,
+  "cartId": "b217f599-5207-4ad2-8fa0-228aa3f192b5",
+  "preferredProducts": [
+    228,
+    1076,
+    188,
+    3349,
+    1293,
+    4457,
+    1228,
+    1132
+  ],
+  "productReviews": [
+    {
+      "productId": 3577,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-09-07T04:59:22.9450589+03:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-11-08T02:05:58.0197691+02:00"
+    },
+    {
+      "productId": 2336,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-04-09T02:30:49.5104557+03:00"
+    }
+  ]
+}

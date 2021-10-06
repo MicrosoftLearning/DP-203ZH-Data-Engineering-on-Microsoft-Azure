@@ -1,0 +1,32 @@
+{
+  "userId": 40351,
+  "cartId": "dc1f9427-f018-4780-b62e-4503a22967bc",
+  "preferredProducts": [
+    3368,
+    4204,
+    200,
+    4194,
+    2232,
+    3492,
+    1643,
+    1232,
+    1487
+  ],
+  "productReviews": [
+    {
+      "productId": 2510,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-07-27T17:51:45.7385358+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-03-06T12:55:44.0667004+02:00"
+    },
+    {
+      "productId": 2961,
+      "reviewText": "this engineer is nifty.",
+      "reviewDate": "2019-01-04T01:08:58.1513741+02:00"
+    }
+  ]
+}

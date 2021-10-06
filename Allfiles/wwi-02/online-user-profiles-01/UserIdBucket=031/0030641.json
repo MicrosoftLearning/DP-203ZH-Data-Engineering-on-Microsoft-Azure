@@ -1,0 +1,41 @@
+{
+  "userId": 30641,
+  "cartId": "21eb7921-aaa4-4322-b742-56a28b177d6d",
+  "preferredProducts": [
+    4161,
+    3778,
+    2185,
+    4547,
+    4331,
+    4520,
+    186,
+    3834
+  ],
+  "productReviews": [
+    {
+      "productId": 1617,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-05-12T23:58:33.4608481+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-03-09T00:06:36.3893606+02:00"
+    },
+    {
+      "productId": 3929,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-05-01T10:46:22.023099+03:00"
+    },
+    {
+      "productId": 3220,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-11-01T11:43:29.7054567+02:00"
+    },
+    {
+      "productId": 1071,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-04-02T08:51:40.2031386+03:00"
+    }
+  ]
+}

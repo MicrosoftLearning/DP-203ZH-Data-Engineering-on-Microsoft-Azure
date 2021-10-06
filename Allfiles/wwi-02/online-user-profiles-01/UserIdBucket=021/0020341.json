@@ -1,0 +1,35 @@
+{
+  "userId": 20341,
+  "cartId": "998cab7e-66d8-433e-b53c-919ec4ea070d",
+  "preferredProducts": [
+    704,
+    4837,
+    246,
+    3379,
+    4334,
+    1850,
+    4019
+  ],
+  "productReviews": [
+    {
+      "productId": 1694,
+      "reviewText": "this Wooden is revolting.",
+      "reviewDate": "2017-02-11T04:17:55.3788499+02:00"
+    },
+    {
+      "productId": 1844,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2020-02-12T17:44:39.0742943+02:00"
+    },
+    {
+      "productId": 3503,
+      "reviewText": "this Security is vertical.",
+      "reviewDate": "2017-09-21T06:48:24.8725581+03:00"
+    },
+    {
+      "productId": 2606,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-09-24T16:26:37.4037761+03:00"
+    }
+  ]
+}

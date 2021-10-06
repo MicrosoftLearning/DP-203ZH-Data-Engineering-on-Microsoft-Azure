@@ -1,0 +1,28 @@
+{
+  "userId": 20263,
+  "cartId": "b7986498-c470-43d5-bc81-510adc9cd22f",
+  "preferredProducts": [
+    4726,
+    2313,
+    3580,
+    3258,
+    178
+  ],
+  "productReviews": [
+    {
+      "productId": 465,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-02-19T05:48:34.2293067+02:00"
+    },
+    {
+      "productId": 3543,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-10-21T23:24:00.8831347+03:00"
+    },
+    {
+      "productId": 2397,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-08-17T02:55:48.1101872+03:00"
+    }
+  ]
+}

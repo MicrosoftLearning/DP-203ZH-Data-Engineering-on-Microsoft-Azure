@@ -1,0 +1,36 @@
+{
+  "userId": 42389,
+  "cartId": "7cb7eba8-4434-446f-8f5b-ba42da045087",
+  "preferredProducts": [
+    2498,
+    587,
+    2807,
+    3089,
+    4519,
+    800,
+    4230,
+    388
+  ],
+  "productReviews": [
+    {
+      "productId": 2499,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-05-08T02:20:55.1526261+03:00"
+    },
+    {
+      "productId": 1292,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-05-22T01:25:41.9672635+03:00"
+    },
+    {
+      "productId": 912,
+      "reviewText": "This Jewelery works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-02-03T15:08:44.2669292+02:00"
+    },
+    {
+      "productId": 414,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-12-05T02:35:08.6870577+02:00"
+    }
+  ]
+}

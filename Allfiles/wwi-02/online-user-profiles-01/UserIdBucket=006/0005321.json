@@ -1,0 +1,43 @@
+{
+  "userId": 5321,
+  "cartId": "9e9b5f43-8016-42a0-93c1-4ff9d75d811c",
+  "preferredProducts": [
+    2316,
+    2960,
+    819,
+    2828,
+    4295,
+    617,
+    3002,
+    2695,
+    1018,
+    3784
+  ],
+  "productReviews": [
+    {
+      "productId": 1368,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-09-30T00:25:50.0835448+03:00"
+    },
+    {
+      "productId": 1535,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-10-20T04:59:47.5917596+03:00"
+    },
+    {
+      "productId": 1806,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-06-09T12:02:44.7090072+03:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-03-02T01:20:55.6236905+02:00"
+    },
+    {
+      "productId": 2204,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-06-21T16:40:38.5221184+03:00"
+    }
+  ]
+}

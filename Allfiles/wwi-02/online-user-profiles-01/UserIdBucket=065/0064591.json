@@ -1,0 +1,39 @@
+{
+  "userId": 64591,
+  "cartId": "a6ddb38f-8f49-4ed5-a8be-b85e2561f8f5",
+  "preferredProducts": [
+    259,
+    3679,
+    1386,
+    882,
+    3893,
+    3716
+  ],
+  "productReviews": [
+    {
+      "productId": 940,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-02-27T18:21:15.6543534+02:00"
+    },
+    {
+      "productId": 2098,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-01-30T03:48:33.0159732+02:00"
+    },
+    {
+      "productId": 4861,
+      "reviewText": "this feed is tasty.",
+      "reviewDate": "2017-03-06T18:26:29.5509223+02:00"
+    },
+    {
+      "productId": 1137,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-05-22T03:12:52.2937356+03:00"
+    },
+    {
+      "productId": 2968,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-12-26T10:57:41.1815167+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 12417,
+  "cartId": "04d7ed33-d7be-4c69-b319-119366b16240",
+  "preferredProducts": [
+    1400,
+    3054,
+    3559,
+    4694
+  ],
+  "productReviews": [
+    {
+      "productId": 2045,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-02-28T01:36:42.0953258+02:00"
+    },
+    {
+      "productId": 4164,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-08-07T02:15:36.5830584+03:00"
+    },
+    {
+      "productId": 2534,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2017-10-28T22:32:55.7378833+03:00"
+    }
+  ]
+}

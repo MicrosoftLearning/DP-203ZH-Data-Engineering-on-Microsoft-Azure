@@ -1,0 +1,25 @@
+{
+  "userId": 42740,
+  "cartId": "485340ba-2497-4b83-9b69-dea64fb41077",
+  "preferredProducts": [
+    881,
+    875
+  ],
+  "productReviews": [
+    {
+      "productId": 1666,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-07-25T00:49:06.1564505+03:00"
+    },
+    {
+      "productId": 179,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-03-31T03:33:49.6512892+02:00"
+    },
+    {
+      "productId": 3790,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-06-04T11:51:56.2917752+03:00"
+    }
+  ]
+}

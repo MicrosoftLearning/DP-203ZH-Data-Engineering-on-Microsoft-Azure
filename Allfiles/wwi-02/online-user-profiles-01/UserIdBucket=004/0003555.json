@@ -1,0 +1,38 @@
+{
+  "userId": 3555,
+  "cartId": "32791109-1980-4faf-a12e-a8602434945b",
+  "preferredProducts": [
+    3798,
+    1601,
+    65,
+    2470,
+    922,
+    4941,
+    2547,
+    4502,
+    916,
+    1234
+  ],
+  "productReviews": [
+    {
+      "productId": 3551,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-09-14T13:20:12.4991983+03:00"
+    },
+    {
+      "productId": 1008,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-01-24T15:56:59.0484746+02:00"
+    },
+    {
+      "productId": 133,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-12-06T12:08:37.4626021+02:00"
+    },
+    {
+      "productId": 539,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-10-15T18:59:39.4151905+03:00"
+    }
+  ]
+}

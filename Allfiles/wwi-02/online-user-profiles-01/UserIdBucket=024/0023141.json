@@ -1,0 +1,27 @@
+{
+  "userId": 23141,
+  "cartId": "2afdc810-d04d-4a98-a428-bcdc17195090",
+  "preferredProducts": [
+    3123,
+    1287,
+    153,
+    3986
+  ],
+  "productReviews": [
+    {
+      "productId": 866,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-07-21T13:11:33.3507685+03:00"
+    },
+    {
+      "productId": 3959,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-02-15T10:12:14.7745685+02:00"
+    },
+    {
+      "productId": 948,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-12-24T22:40:56.8804026+02:00"
+    }
+  ]
+}

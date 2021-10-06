@@ -1,0 +1,43 @@
+{
+  "userId": 80567,
+  "cartId": "3f70b3af-3334-4bc8-a306-c4509337c70a",
+  "preferredProducts": [
+    389,
+    1293,
+    1948,
+    1961,
+    3216,
+    4197,
+    1352,
+    2565,
+    3170,
+    3943
+  ],
+  "productReviews": [
+    {
+      "productId": 3261,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-01-16T04:26:04.5433351+02:00"
+    },
+    {
+      "productId": 4203,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2016-11-02T09:32:24.8655054+02:00"
+    },
+    {
+      "productId": 1199,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-11-21T23:41:15.6528499+02:00"
+    },
+    {
+      "productId": 4614,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-02-02T23:22:09.580734+02:00"
+    },
+    {
+      "productId": 1341,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-06-28T11:58:26.5232878+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 27716,
+  "cartId": "82cb5e33-2818-4142-8c2e-d0bdf399b5c6",
+  "preferredProducts": [
+    4642,
+    2837,
+    4666,
+    3266,
+    1773
+  ],
+  "productReviews": [
+    {
+      "productId": 4489,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-05-28T16:25:09.9086729+03:00"
+    },
+    {
+      "productId": 4549,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-04-06T23:25:17.2703391+03:00"
+    },
+    {
+      "productId": 10,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-11-30T07:40:58.9674964+02:00"
+    }
+  ]
+}

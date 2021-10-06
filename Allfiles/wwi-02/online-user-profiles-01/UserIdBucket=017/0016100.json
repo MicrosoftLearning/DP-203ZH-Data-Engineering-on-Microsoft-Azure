@@ -1,0 +1,30 @@
+{
+  "userId": 16100,
+  "cartId": "b24f3462-9029-49da-a4f8-1482373b9de8",
+  "preferredProducts": [
+    4066,
+    2937
+  ],
+  "productReviews": [
+    {
+      "productId": 4587,
+      "reviewText": "this Bedfordshire is top-notch.",
+      "reviewDate": "2017-05-21T13:30:06.446924+03:00"
+    },
+    {
+      "productId": 2249,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-09-02T03:04:08.4001824+03:00"
+    },
+    {
+      "productId": 2895,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-12-02T16:57:12.097914+02:00"
+    },
+    {
+      "productId": 241,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-05-09T00:59:12.0129641+03:00"
+    }
+  ]
+}

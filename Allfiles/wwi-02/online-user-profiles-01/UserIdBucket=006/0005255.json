@@ -1,0 +1,32 @@
+{
+  "userId": 5255,
+  "cartId": "f8942dc8-2c30-4ba9-acfd-bb2f4026be3a",
+  "preferredProducts": [
+    1772,
+    2369,
+    2706,
+    1128,
+    1828,
+    3983,
+    4040,
+    2201,
+    1748
+  ],
+  "productReviews": [
+    {
+      "productId": 3351,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-06-14T20:27:59.9597176+03:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "This Incredible works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-09-04T15:27:43.0699626+03:00"
+    },
+    {
+      "productId": 748,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-09-25T21:07:49.2422929+03:00"
+    }
+  ]
+}

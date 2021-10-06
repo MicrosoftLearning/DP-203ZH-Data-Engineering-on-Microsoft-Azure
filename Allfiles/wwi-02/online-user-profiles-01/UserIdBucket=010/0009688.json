@@ -1,0 +1,37 @@
+{
+  "userId": 9688,
+  "cartId": "0e40650a-a97b-482d-9162-0110dbd16b97",
+  "preferredProducts": [
+    3507,
+    77,
+    667,
+    962,
+    983,
+    432,
+    3090,
+    3307,
+    976
+  ],
+  "productReviews": [
+    {
+      "productId": 379,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-09-30T10:37:16.3845425+03:00"
+    },
+    {
+      "productId": 3342,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-05-25T11:59:29.0358483+03:00"
+    },
+    {
+      "productId": 2119,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-28T05:32:40.7344054+02:00"
+    },
+    {
+      "productId": 4755,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-05-22T18:26:47.6604115+03:00"
+    }
+  ]
+}

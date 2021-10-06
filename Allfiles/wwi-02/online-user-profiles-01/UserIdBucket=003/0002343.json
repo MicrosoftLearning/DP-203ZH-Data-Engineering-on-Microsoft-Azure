@@ -1,0 +1,26 @@
+{
+  "userId": 2343,
+  "cartId": "dc4c7519-8ef5-4667-9631-f88873ad0a43",
+  "preferredProducts": [
+    4200,
+    103,
+    882
+  ],
+  "productReviews": [
+    {
+      "productId": 3733,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-10-15T08:07:36.5111088+03:00"
+    },
+    {
+      "productId": 2610,
+      "reviewText": "this deposit is awesome.",
+      "reviewDate": "2017-03-31T20:27:14.3890414+03:00"
+    },
+    {
+      "productId": 2899,
+      "reviewText": "this object-oriented is smooth.",
+      "reviewDate": "2018-09-07T03:05:39.0572634+03:00"
+    }
+  ]
+}

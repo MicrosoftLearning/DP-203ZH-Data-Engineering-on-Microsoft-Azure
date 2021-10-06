@@ -1,0 +1,38 @@
+{
+  "userId": 60576,
+  "cartId": "20ab2b09-615f-4428-9241-c2162b97a14d",
+  "preferredProducts": [
+    2202,
+    1278,
+    1508,
+    4077,
+    576
+  ],
+  "productReviews": [
+    {
+      "productId": 879,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-04-20T15:31:23.1278896+03:00"
+    },
+    {
+      "productId": 1744,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-04-14T05:55:28.9115232+03:00"
+    },
+    {
+      "productId": 3791,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-04T19:26:14.2501889+02:00"
+    },
+    {
+      "productId": 3188,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-02-10T00:22:04.9274084+02:00"
+    },
+    {
+      "productId": 3727,
+      "reviewText": "this instruction set is perplexed.",
+      "reviewDate": "2017-04-05T02:49:16.6967719+03:00"
+    }
+  ]
+}

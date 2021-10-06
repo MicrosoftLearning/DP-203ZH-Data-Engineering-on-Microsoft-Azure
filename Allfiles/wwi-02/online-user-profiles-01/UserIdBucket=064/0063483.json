@@ -1,0 +1,41 @@
+{
+  "userId": 63483,
+  "cartId": "ef2f49a1-72f1-49ec-be8e-ff77bacbca35",
+  "preferredProducts": [
+    4454,
+    3005,
+    3686,
+    1326,
+    815,
+    4387,
+    2305,
+    1736
+  ],
+  "productReviews": [
+    {
+      "productId": 3299,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-07-14T10:36:05.9925775+03:00"
+    },
+    {
+      "productId": 3441,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-01-20T13:56:57.2039939+02:00"
+    },
+    {
+      "productId": 4567,
+      "reviewText": "this Programmable is mellow.",
+      "reviewDate": "2019-01-26T10:48:59.5955591+02:00"
+    },
+    {
+      "productId": 3645,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2019-07-10T14:17:49.6247679+03:00"
+    },
+    {
+      "productId": 4881,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-02-08T06:02:04.074212+02:00"
+    }
+  ]
+}

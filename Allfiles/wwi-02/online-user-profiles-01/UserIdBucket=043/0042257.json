@@ -1,0 +1,32 @@
+{
+  "userId": 42257,
+  "cartId": "71646ea9-98f2-48c9-8f37-80aec8ad6269",
+  "preferredProducts": [
+    4630,
+    2698,
+    1829,
+    4651,
+    2215,
+    4737,
+    329,
+    2598,
+    661
+  ],
+  "productReviews": [
+    {
+      "productId": 1843,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-12-21T23:31:25.0776727+02:00"
+    },
+    {
+      "productId": 1723,
+      "reviewText": "This Consultant works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2018-11-02T08:39:10.0468958+02:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2017-04-17T22:00:27.640221+03:00"
+    }
+  ]
+}

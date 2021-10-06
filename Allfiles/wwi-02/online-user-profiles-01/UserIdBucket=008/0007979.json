@@ -1,0 +1,33 @@
+{
+  "userId": 7979,
+  "cartId": "b7656ba0-0fc4-47f0-bcb2-3f4cdd109a06",
+  "preferredProducts": [
+    289,
+    3555,
+    1579,
+    1556,
+    1955,
+    1850,
+    4537,
+    4514,
+    4369,
+    3468
+  ],
+  "productReviews": [
+    {
+      "productId": 261,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-07-04T15:16:14.6555271+03:00"
+    },
+    {
+      "productId": 1344,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-09-08T20:44:03.4999841+03:00"
+    },
+    {
+      "productId": 2454,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-08-07T12:53:09.7168732+03:00"
+    }
+  ]
+}

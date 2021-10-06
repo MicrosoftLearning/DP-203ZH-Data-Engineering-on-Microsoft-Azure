@@ -1,0 +1,35 @@
+{
+  "userId": 88541,
+  "cartId": "6cec55cc-c69b-4e10-96aa-6bc598f72afb",
+  "preferredProducts": [
+    1800,
+    2428,
+    4730,
+    2446,
+    691,
+    4409,
+    4913
+  ],
+  "productReviews": [
+    {
+      "productId": 1908,
+      "reviewText": "This parse works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2016-06-16T13:43:07.4211281+03:00"
+    },
+    {
+      "productId": 3932,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-11-02T02:48:13.9000712+02:00"
+    },
+    {
+      "productId": 3546,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-09-13T14:49:07.4817806+03:00"
+    },
+    {
+      "productId": 1192,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-12-01T02:47:04.9503428+02:00"
+    }
+  ]
+}

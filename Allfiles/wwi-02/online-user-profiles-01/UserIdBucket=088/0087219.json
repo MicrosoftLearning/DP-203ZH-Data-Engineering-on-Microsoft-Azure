@@ -1,0 +1,33 @@
+{
+  "userId": 87219,
+  "cartId": "f61dda1e-34c5-4625-b158-a9487dc39b1e",
+  "preferredProducts": [
+    2244,
+    1854,
+    313,
+    1709,
+    1360
+  ],
+  "productReviews": [
+    {
+      "productId": 1349,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-01-01T15:39:40.2513537+02:00"
+    },
+    {
+      "productId": 1423,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-10-05T19:46:17.0835641+03:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-02-06T09:39:43.5252498+02:00"
+    },
+    {
+      "productId": 438,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-06-10T03:01:55.7572979+03:00"
+    }
+  ]
+}

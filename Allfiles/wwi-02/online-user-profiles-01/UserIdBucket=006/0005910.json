@@ -1,0 +1,27 @@
+{
+  "userId": 5910,
+  "cartId": "b9bebe7d-3538-4542-b003-e2c07e58f9a9",
+  "preferredProducts": [
+    120,
+    1086,
+    2705,
+    4006
+  ],
+  "productReviews": [
+    {
+      "productId": 2280,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-10-09T17:17:22.237477+03:00"
+    },
+    {
+      "productId": 1366,
+      "reviewText": "This lime works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-07-08T08:11:47.6501488+03:00"
+    },
+    {
+      "productId": 3681,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-06-13T12:32:02.3789025+03:00"
+    }
+  ]
+}

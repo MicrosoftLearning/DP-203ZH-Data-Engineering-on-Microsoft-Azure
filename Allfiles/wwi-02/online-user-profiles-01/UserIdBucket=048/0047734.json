@@ -1,0 +1,30 @@
+{
+  "userId": 47734,
+  "cartId": "958f8283-1abc-4ae9-99db-4eb5b608d81e",
+  "preferredProducts": [
+    82,
+    1746,
+    4416,
+    2109,
+    1533,
+    3594,
+    4379
+  ],
+  "productReviews": [
+    {
+      "productId": 4270,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-03-30T04:18:44.2861743+03:00"
+    },
+    {
+      "productId": 3485,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-09-24T07:16:30.0234252+03:00"
+    },
+    {
+      "productId": 1453,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-10-09T12:41:03.7407028+03:00"
+    }
+  ]
+}

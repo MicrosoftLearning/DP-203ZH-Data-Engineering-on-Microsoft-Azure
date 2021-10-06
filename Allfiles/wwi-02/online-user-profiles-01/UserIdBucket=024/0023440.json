@@ -1,0 +1,32 @@
+{
+  "userId": 23440,
+  "cartId": "a38050c7-a6ef-4f25-a2a2-810133bcdca8",
+  "preferredProducts": [
+    3999,
+    1305,
+    4261,
+    4767,
+    877,
+    1696,
+    465,
+    4733,
+    4591
+  ],
+  "productReviews": [
+    {
+      "productId": 4602,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-05-22T05:39:01.7566903+03:00"
+    },
+    {
+      "productId": 89,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-03-01T09:06:01.9844104+02:00"
+    },
+    {
+      "productId": 2909,
+      "reviewText": "This value-added works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-12-13T15:44:07.4675022+02:00"
+    }
+  ]
+}

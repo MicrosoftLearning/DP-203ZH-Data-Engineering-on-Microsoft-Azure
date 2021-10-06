@@ -1,0 +1,36 @@
+{
+  "userId": 1180,
+  "cartId": "59c7ab74-fc10-45ca-8ac1-3b6ceb1670b8",
+  "preferredProducts": [
+    1685,
+    486,
+    4007,
+    3574,
+    2506,
+    3810,
+    1907,
+    4602
+  ],
+  "productReviews": [
+    {
+      "productId": 131,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-08-10T11:45:43.6069834+03:00"
+    },
+    {
+      "productId": 2932,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-01-31T22:38:05.5622008+02:00"
+    },
+    {
+      "productId": 4467,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-11-29T21:45:56.7059697+02:00"
+    },
+    {
+      "productId": 3936,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-08-18T12:46:01.423658+03:00"
+    }
+  ]
+}

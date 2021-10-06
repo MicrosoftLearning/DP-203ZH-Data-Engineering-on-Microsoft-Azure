@@ -1,0 +1,33 @@
+{
+  "userId": 65465,
+  "cartId": "02230b27-bf38-4495-b644-965d8506e80c",
+  "preferredProducts": [
+    2606,
+    4849,
+    3529,
+    4362,
+    3888,
+    1766,
+    281,
+    4005,
+    113,
+    3299
+  ],
+  "productReviews": [
+    {
+      "productId": 120,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-08-29T21:00:37.71526+03:00"
+    },
+    {
+      "productId": 2986,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-06-23T21:40:19.4916093+03:00"
+    },
+    {
+      "productId": 4224,
+      "reviewText": "This Granite works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-08-23T22:55:36.1732924+03:00"
+    }
+  ]
+}

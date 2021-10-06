@@ -1,0 +1,30 @@
+{
+  "userId": 91336,
+  "cartId": "e632cca8-2a45-48fb-afaf-f44026f26903",
+  "preferredProducts": [
+    1812,
+    1654
+  ],
+  "productReviews": [
+    {
+      "productId": 3601,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-04-19T17:22:37.0215547+03:00"
+    },
+    {
+      "productId": 1043,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-11-22T12:36:41.1619643+02:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-09-06T07:23:59.2446137+03:00"
+    },
+    {
+      "productId": 4026,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-10-27T03:47:32.0293572+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 8631,
+  "cartId": "e58516e9-dbbe-4ffd-80b5-7ef722081b7e",
+  "preferredProducts": [
+    4320,
+    2035,
+    4860,
+    1150,
+    578,
+    4841,
+    2078,
+    1803,
+    3493,
+    4981
+  ],
+  "productReviews": [
+    {
+      "productId": 3196,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-06-22T01:48:47.9335173+03:00"
+    },
+    {
+      "productId": 4742,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-10-13T00:58:04.7424252+03:00"
+    },
+    {
+      "productId": 44,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-02-09T00:33:54.3690433+02:00"
+    }
+  ]
+}

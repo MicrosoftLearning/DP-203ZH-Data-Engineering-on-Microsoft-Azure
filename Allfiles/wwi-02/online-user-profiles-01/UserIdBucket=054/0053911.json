@@ -1,0 +1,27 @@
+{
+  "userId": 53911,
+  "cartId": "3c95bd60-c555-4ddf-9fad-d717cd16c550",
+  "preferredProducts": [
+    1802,
+    1387,
+    2507,
+    3272,
+    4568,
+    1265,
+    666,
+    726,
+    3946
+  ],
+  "productReviews": [
+    {
+      "productId": 1555,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-09-15T12:24:39.5308607+03:00"
+    },
+    {
+      "productId": 1532,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-12-09T18:17:16.2533831+02:00"
+    }
+  ]
+}

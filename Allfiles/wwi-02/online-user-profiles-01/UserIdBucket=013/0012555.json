@@ -1,0 +1,32 @@
+{
+  "userId": 12555,
+  "cartId": "a6ea7885-bc4a-4c82-a48d-ce8541592eee",
+  "preferredProducts": [
+    2019,
+    1486,
+    1038,
+    699
+  ],
+  "productReviews": [
+    {
+      "productId": 3159,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-02-25T19:56:18.7718448+02:00"
+    },
+    {
+      "productId": 974,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-09-20T12:22:12.7147599+03:00"
+    },
+    {
+      "productId": 4295,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-01-11T01:38:26.0182447+02:00"
+    },
+    {
+      "productId": 3661,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-10-20T07:55:02.6330909+03:00"
+    }
+  ]
+}

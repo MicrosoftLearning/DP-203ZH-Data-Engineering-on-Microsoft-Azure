@@ -1,0 +1,31 @@
+{
+  "userId": 9191,
+  "cartId": "c208e5d8-c393-4a89-8c33-10b70e62eef5",
+  "preferredProducts": [
+    53,
+    2857,
+    3818
+  ],
+  "productReviews": [
+    {
+      "productId": 3510,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-08-19T02:00:21.0586909+03:00"
+    },
+    {
+      "productId": 2612,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-04-25T08:49:52.6687055+03:00"
+    },
+    {
+      "productId": 1312,
+      "reviewText": "This back-end works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-08-10T07:42:38.3007288+03:00"
+    },
+    {
+      "productId": 1238,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-01-24T16:42:07.149841+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 17029,
+  "cartId": "d9d3a24f-cc9e-4678-97f6-aca93ce5879d",
+  "preferredProducts": [
+    915,
+    4051,
+    2663,
+    393,
+    1600,
+    4938,
+    39,
+    1424,
+    2769,
+    1230
+  ],
+  "productReviews": [
+    {
+      "productId": 3246,
+      "reviewText": "this matrix is ghetto.",
+      "reviewDate": "2018-04-27T00:56:30.6433847+03:00"
+    },
+    {
+      "productId": 1380,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-08-12T03:50:09.8400277+03:00"
+    },
+    {
+      "productId": 4534,
+      "reviewText": "this Developer is hyper.",
+      "reviewDate": "2019-09-21T09:48:21.1946068+03:00"
+    },
+    {
+      "productId": 2770,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-03-22T12:27:22.465875+02:00"
+    }
+  ]
+}

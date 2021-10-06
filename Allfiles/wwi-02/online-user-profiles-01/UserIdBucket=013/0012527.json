@@ -1,0 +1,25 @@
+{
+  "userId": 12527,
+  "cartId": "1e7eb7ff-7cf8-4047-af55-4799e4ebb94c",
+  "preferredProducts": [
+    1158,
+    1736
+  ],
+  "productReviews": [
+    {
+      "productId": 1350,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-07-09T04:43:09.5623474+03:00"
+    },
+    {
+      "productId": 3262,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-01-09T05:59:37.4776926+02:00"
+    },
+    {
+      "productId": 271,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-06-02T00:22:06.9204968+03:00"
+    }
+  ]
+}

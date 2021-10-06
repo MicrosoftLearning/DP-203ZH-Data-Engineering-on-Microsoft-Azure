@@ -1,0 +1,35 @@
+{
+  "userId": 83361,
+  "cartId": "4c607170-3123-4126-af58-3011a906f4ef",
+  "preferredProducts": [
+    1773,
+    2354,
+    1214,
+    4277,
+    1393,
+    453,
+    3654
+  ],
+  "productReviews": [
+    {
+      "productId": 2184,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-10-29T19:14:10.9006034+02:00"
+    },
+    {
+      "productId": 4473,
+      "reviewText": "this Senior is complimentary.",
+      "reviewDate": "2017-07-11T13:52:05.3989104+03:00"
+    },
+    {
+      "productId": 223,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-04-20T15:01:23.5253462+03:00"
+    },
+    {
+      "productId": 475,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-01-11T17:31:17.9431133+02:00"
+    }
+  ]
+}

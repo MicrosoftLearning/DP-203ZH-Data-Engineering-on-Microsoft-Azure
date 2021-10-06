@@ -1,0 +1,36 @@
+{
+  "userId": 52579,
+  "cartId": "31e77437-66bf-422b-a6f9-a582cc542daa",
+  "preferredProducts": [
+    1262,
+    2290,
+    480
+  ],
+  "productReviews": [
+    {
+      "productId": 3350,
+      "reviewText": "this Lock is revolting.",
+      "reviewDate": "2020-04-13T13:09:29.902712+03:00"
+    },
+    {
+      "productId": 1273,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-02-20T15:16:56.6583071+02:00"
+    },
+    {
+      "productId": 3531,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-12-21T13:08:57.7936198+02:00"
+    },
+    {
+      "productId": 1013,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-12-13T04:18:24.4830704+02:00"
+    },
+    {
+      "productId": 1940,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-12-06T14:08:35.4005345+02:00"
+    }
+  ]
+}

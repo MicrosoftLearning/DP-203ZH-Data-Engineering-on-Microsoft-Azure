@@ -1,0 +1,31 @@
+{
+  "userId": 68231,
+  "cartId": "d82d047b-06b2-4f02-83fe-605588b422af",
+  "preferredProducts": [
+    953,
+    746,
+    4789,
+    3019,
+    2683,
+    4354,
+    410,
+    754
+  ],
+  "productReviews": [
+    {
+      "productId": 162,
+      "reviewText": "This input works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-09-03T09:47:31.2895723+03:00"
+    },
+    {
+      "productId": 3907,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-09-30T06:20:08.4061507+03:00"
+    },
+    {
+      "productId": 2716,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-27T00:39:26.46046+02:00"
+    }
+  ]
+}

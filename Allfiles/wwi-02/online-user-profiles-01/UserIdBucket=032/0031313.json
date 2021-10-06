@@ -1,0 +1,32 @@
+{
+  "userId": 31313,
+  "cartId": "2a498f9c-5f42-450f-a3d2-1c54895ff3db",
+  "preferredProducts": [
+    93,
+    1205,
+    730,
+    1732,
+    787,
+    4307,
+    2788,
+    3529,
+    3942
+  ],
+  "productReviews": [
+    {
+      "productId": 414,
+      "reviewText": "This invoice works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-04-30T17:22:22.2102885+03:00"
+    },
+    {
+      "productId": 1456,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-07-29T15:45:57.8250167+03:00"
+    },
+    {
+      "productId": 2799,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-02-21T00:42:09.0363796+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 69474,
+  "cartId": "86ac0cb6-de41-4a9b-8e99-bc5d2326ba7b",
+  "preferredProducts": [
+    1284,
+    3766,
+    32,
+    2949,
+    1703
+  ],
+  "productReviews": [
+    {
+      "productId": 1212,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-10-24T08:13:52.7877369+03:00"
+    },
+    {
+      "productId": 3252,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-01-19T07:15:04.7164764+02:00"
+    },
+    {
+      "productId": 1083,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-11-05T12:08:41.41466+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 89509,
+  "cartId": "b202b641-e705-4ded-9367-adb054ac2c06",
+  "preferredProducts": [
+    4429,
+    4147,
+    1624,
+    1531,
+    2526,
+    3666,
+    3037,
+    996,
+    818
+  ],
+  "productReviews": [
+    {
+      "productId": 3007,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-03-29T10:01:13.2310132+03:00"
+    },
+    {
+      "productId": 4498,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2020-04-12T13:10:20.7690751+03:00"
+    },
+    {
+      "productId": 4177,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-12-21T01:56:03.401739+02:00"
+    }
+  ]
+}

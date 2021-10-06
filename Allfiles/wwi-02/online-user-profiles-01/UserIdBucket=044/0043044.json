@@ -1,0 +1,26 @@
+{
+  "userId": 43044,
+  "cartId": "8ea8277d-4f72-4ffb-96d5-5bfbfcd2fd93",
+  "preferredProducts": [
+    3351,
+    3599,
+    658
+  ],
+  "productReviews": [
+    {
+      "productId": 2277,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-03-15T16:19:46.2844348+02:00"
+    },
+    {
+      "productId": 3820,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-08-17T13:28:30.5606941+03:00"
+    },
+    {
+      "productId": 550,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2020-01-10T02:33:48.8251235+02:00"
+    }
+  ]
+}

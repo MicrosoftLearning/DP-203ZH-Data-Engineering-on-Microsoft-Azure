@@ -1,0 +1,42 @@
+{
+  "userId": 94706,
+  "cartId": "36b5c310-701a-4e9e-a647-c24e6454abf0",
+  "preferredProducts": [
+    1101,
+    140,
+    4030,
+    46,
+    18,
+    3578,
+    1022,
+    527,
+    2964
+  ],
+  "productReviews": [
+    {
+      "productId": 1123,
+      "reviewText": "this Executive is revolting.",
+      "reviewDate": "2019-06-03T06:20:49.5029294+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-03-20T07:49:43.741218+02:00"
+    },
+    {
+      "productId": 1160,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-04-25T09:02:51.8231577+03:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-11-15T07:04:43.5386955+02:00"
+    },
+    {
+      "productId": 3175,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-03-06T15:03:37.2997385+02:00"
+    }
+  ]
+}

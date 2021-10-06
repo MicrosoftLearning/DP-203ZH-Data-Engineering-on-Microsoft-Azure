@@ -1,0 +1,37 @@
+{
+  "userId": 23162,
+  "cartId": "6872bae2-be7e-42ed-aafe-1995e7de6968",
+  "preferredProducts": [
+    3453,
+    1224,
+    2509,
+    1338,
+    339,
+    3399,
+    4176,
+    4649,
+    1570
+  ],
+  "productReviews": [
+    {
+      "productId": 2508,
+      "reviewText": "this secured line is ratty.",
+      "reviewDate": "2019-01-12T05:20:53.3265572+02:00"
+    },
+    {
+      "productId": 2326,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-02-10T12:57:59.9854185+02:00"
+    },
+    {
+      "productId": 4855,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-02-26T15:10:35.2468025+02:00"
+    },
+    {
+      "productId": 283,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-10-26T20:12:05.9499393+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 12742,
+  "cartId": "1137a947-fe9c-4914-a14d-30429e2b5aa0",
+  "preferredProducts": [
+    3054,
+    4569,
+    4518,
+    3015,
+    4781,
+    1465,
+    2796,
+    4728
+  ],
+  "productReviews": [
+    {
+      "productId": 3918,
+      "reviewText": "this withdrawal is vertical.",
+      "reviewDate": "2018-06-26T00:42:45.8474245+03:00"
+    },
+    {
+      "productId": 3835,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-05-29T00:52:52.9660869+03:00"
+    },
+    {
+      "productId": 3279,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-10-03T16:26:51.6037411+03:00"
+    },
+    {
+      "productId": 1908,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-01-19T22:38:40.7982091+02:00"
+    },
+    {
+      "productId": 616,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-11-17T08:10:56.3144378+02:00"
+    }
+  ]
+}

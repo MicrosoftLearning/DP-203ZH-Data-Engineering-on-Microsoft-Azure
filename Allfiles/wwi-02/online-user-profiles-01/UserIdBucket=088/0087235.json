@@ -1,0 +1,32 @@
+{
+  "userId": 87235,
+  "cartId": "d579429b-2d7d-4fc3-815d-0d0f0583b17b",
+  "preferredProducts": [
+    2850,
+    1530,
+    1127,
+    1241
+  ],
+  "productReviews": [
+    {
+      "productId": 2976,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-04-25T06:45:00.5019894+03:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-10-25T19:19:44.2163653+03:00"
+    },
+    {
+      "productId": 4793,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-01-27T10:40:59.5007275+02:00"
+    },
+    {
+      "productId": 1405,
+      "reviewText": "this back-end is flirty.",
+      "reviewDate": "2019-04-02T15:57:45.8339797+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 83817,
+  "cartId": "78454d2e-c7a9-43f8-a28f-cb2890164953",
+  "preferredProducts": [
+    1800,
+    3843,
+    3893
+  ],
+  "productReviews": [
+    {
+      "productId": 1216,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-01-09T17:33:38.8940635+02:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-08-13T09:21:09.0464537+03:00"
+    },
+    {
+      "productId": 1942,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-06-15T12:35:37.0479269+03:00"
+    }
+  ]
+}

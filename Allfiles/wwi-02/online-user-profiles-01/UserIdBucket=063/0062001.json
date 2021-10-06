@@ -1,0 +1,27 @@
+{
+  "userId": 62001,
+  "cartId": "c05d53ef-1eb8-477e-95a7-e437822e540c",
+  "preferredProducts": [
+    4394,
+    3773,
+    3371,
+    1717
+  ],
+  "productReviews": [
+    {
+      "productId": 1804,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-03-17T08:36:37.6617101+02:00"
+    },
+    {
+      "productId": 2429,
+      "reviewText": "This mint green works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-07-06T06:55:08.6884262+03:00"
+    },
+    {
+      "productId": 2242,
+      "reviewText": "this Drive is honest.",
+      "reviewDate": "2019-07-17T05:29:18.5329813+03:00"
+    }
+  ]
+}

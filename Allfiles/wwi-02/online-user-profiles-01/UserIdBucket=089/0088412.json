@@ -1,0 +1,29 @@
+{
+  "userId": 88412,
+  "cartId": "7d05f5cd-b377-4c95-a580-b0e469179ba5",
+  "preferredProducts": [
+    3979,
+    221,
+    4218,
+    2982,
+    1510,
+    3351
+  ],
+  "productReviews": [
+    {
+      "productId": 1524,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-12-08T00:05:28.4694423+02:00"
+    },
+    {
+      "productId": 4013,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-03-29T22:51:08.7294893+03:00"
+    },
+    {
+      "productId": 1380,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-12-28T15:40:56.7458094+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 41011,
+  "cartId": "51395e25-9a61-4b8d-94d6-05c305c443d8",
+  "preferredProducts": [
+    4464,
+    1250,
+    3683,
+    1309,
+    1238,
+    4063,
+    2926
+  ],
+  "productReviews": [
+    {
+      "productId": 3450,
+      "reviewText": "this SMTP is awesome.",
+      "reviewDate": "2016-12-25T12:41:03.615673+02:00"
+    },
+    {
+      "productId": 1783,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-06-11T00:56:32.0711816+03:00"
+    }
+  ]
+}

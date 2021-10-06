@@ -1,0 +1,30 @@
+{
+  "userId": 87276,
+  "cartId": "f7fb59e7-5732-491f-af49-f4cd4e969ffa",
+  "preferredProducts": [
+    2998,
+    3177,
+    233,
+    1639,
+    738,
+    1988,
+    1435
+  ],
+  "productReviews": [
+    {
+      "productId": 2833,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-07-23T09:49:00.4599326+03:00"
+    },
+    {
+      "productId": 1518,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-04-17T06:00:02.7920222+03:00"
+    },
+    {
+      "productId": 4776,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-04-20T23:33:39.9077019+03:00"
+    }
+  ]
+}

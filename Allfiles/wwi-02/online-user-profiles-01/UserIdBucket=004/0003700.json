@@ -1,0 +1,37 @@
+{
+  "userId": 3700,
+  "cartId": "e384204d-99d9-460a-9d8f-4519632960ad",
+  "preferredProducts": [
+    3566,
+    3813,
+    113,
+    4674
+  ],
+  "productReviews": [
+    {
+      "productId": 4009,
+      "reviewText": "this SCSI is tasty.",
+      "reviewDate": "2019-06-01T17:22:23.7200185+03:00"
+    },
+    {
+      "productId": 2972,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-04-09T04:58:31.01265+03:00"
+    },
+    {
+      "productId": 2955,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-12-09T20:24:36.9900287+02:00"
+    },
+    {
+      "productId": 2977,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-10-15T04:14:49.7870879+03:00"
+    },
+    {
+      "productId": 2121,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2017-10-18T10:54:19.5380392+03:00"
+    }
+  ]
+}

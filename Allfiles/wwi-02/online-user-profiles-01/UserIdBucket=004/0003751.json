@@ -1,0 +1,39 @@
+{
+  "userId": 3751,
+  "cartId": "8312b211-4a51-46d1-b237-f9a84351ce1a",
+  "preferredProducts": [
+    489,
+    1625,
+    4250,
+    3137,
+    226,
+    1462
+  ],
+  "productReviews": [
+    {
+      "productId": 3017,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-06-20T00:57:55.5682255+03:00"
+    },
+    {
+      "productId": 1588,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-07-15T14:51:47.10546+03:00"
+    },
+    {
+      "productId": 2442,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-11-24T03:50:31.6898287+02:00"
+    },
+    {
+      "productId": 18,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-06-04T18:47:01.8757068+03:00"
+    },
+    {
+      "productId": 46,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-04-18T22:37:09.546671+03:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 87680,
+  "cartId": "d887e5c3-7070-4866-950d-0131730ce253",
+  "preferredProducts": [
+    364,
+    1385,
+    3270,
+    1196,
+    2174,
+    2113
+  ],
+  "productReviews": [
+    {
+      "productId": 201,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-11-15T08:58:17.8662184+02:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-01-19T17:25:11.6512241+02:00"
+    },
+    {
+      "productId": 1198,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2020-04-17T11:10:01.2746221+03:00"
+    },
+    {
+      "productId": 3211,
+      "reviewText": "this Overpass is revolting.",
+      "reviewDate": "2019-04-07T23:48:25.4598663+03:00"
+    },
+    {
+      "productId": 2222,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-07-07T21:26:22.7909922+03:00"
+    }
+  ]
+}

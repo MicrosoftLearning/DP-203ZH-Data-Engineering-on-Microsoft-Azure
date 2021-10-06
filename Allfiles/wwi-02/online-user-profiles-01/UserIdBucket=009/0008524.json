@@ -1,0 +1,36 @@
+{
+  "userId": 8524,
+  "cartId": "a7f794d4-a363-4327-8d03-58f84696d0e4",
+  "preferredProducts": [
+    947,
+    1484,
+    2306,
+    2336,
+    4504,
+    1684,
+    4391,
+    4853
+  ],
+  "productReviews": [
+    {
+      "productId": 4513,
+      "reviewText": "this harness is awesome.",
+      "reviewDate": "2019-03-03T19:40:28.5720361+02:00"
+    },
+    {
+      "productId": 539,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-08-12T19:47:05.2028958+03:00"
+    },
+    {
+      "productId": 765,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-08-30T09:49:39.2541626+03:00"
+    },
+    {
+      "productId": 2393,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-03-18T22:29:10.9569933+02:00"
+    }
+  ]
+}

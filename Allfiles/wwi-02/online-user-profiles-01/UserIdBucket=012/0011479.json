@@ -1,0 +1,29 @@
+{
+  "userId": 11479,
+  "cartId": "2cfb2e4e-dea8-4145-b1d5-68be157af1f2",
+  "preferredProducts": [
+    1541,
+    2631,
+    1499,
+    3627,
+    1511,
+    1732
+  ],
+  "productReviews": [
+    {
+      "productId": 2403,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-11-26T10:50:54.4144568+02:00"
+    },
+    {
+      "productId": 637,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-05-13T12:21:14.5720757+03:00"
+    },
+    {
+      "productId": 4833,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-05-27T03:09:09.9609096+03:00"
+    }
+  ]
+}

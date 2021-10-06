@@ -1,0 +1,30 @@
+{
+  "userId": 11507,
+  "cartId": "d3179ea3-e3e1-4a0f-b729-996a362f0bf0",
+  "preferredProducts": [
+    2603,
+    1919,
+    4540,
+    1629,
+    1097,
+    261,
+    313
+  ],
+  "productReviews": [
+    {
+      "productId": 4660,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-08-28T07:48:20.5437094+03:00"
+    },
+    {
+      "productId": 2893,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-04-09T19:11:42.4208923+03:00"
+    },
+    {
+      "productId": 4477,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-06-25T07:41:45.2848476+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 83052,
+  "cartId": "c5ef4ced-3598-4308-84e4-efa6521b82bf",
+  "preferredProducts": [
+    2854,
+    3790,
+    347,
+    4673,
+    4876,
+    209,
+    3041,
+    3631
+  ],
+  "productReviews": [
+    {
+      "productId": 3155,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-01-07T13:40:17.5007082+02:00"
+    },
+    {
+      "productId": 268,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-11-19T10:23:11.032528+02:00"
+    },
+    {
+      "productId": 1374,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-06-11T07:13:07.1131302+03:00"
+    }
+  ]
+}

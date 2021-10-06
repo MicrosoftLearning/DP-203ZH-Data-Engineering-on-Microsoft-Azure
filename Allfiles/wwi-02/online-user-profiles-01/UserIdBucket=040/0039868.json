@@ -1,0 +1,32 @@
+{
+  "userId": 39868,
+  "cartId": "25e4f73e-dd18-4d08-bb0f-ba7b9ad471f6",
+  "preferredProducts": [
+    776,
+    3651,
+    111,
+    2124
+  ],
+  "productReviews": [
+    {
+      "productId": 2499,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-06-26T12:37:10.0326222+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-07-04T10:40:56.9130999+03:00"
+    },
+    {
+      "productId": 285,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-05-26T18:50:51.8692682+03:00"
+    },
+    {
+      "productId": 424,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-10-20T16:20:54.2681015+03:00"
+    }
+  ]
+}

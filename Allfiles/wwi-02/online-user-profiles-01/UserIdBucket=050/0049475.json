@@ -1,0 +1,29 @@
+{
+  "userId": 49475,
+  "cartId": "7f4b67f8-c557-4ff4-8ffb-ea31dc055b1d",
+  "preferredProducts": [
+    3483,
+    3524,
+    4284,
+    3931,
+    3397,
+    1658
+  ],
+  "productReviews": [
+    {
+      "productId": 1228,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-01-12T04:08:52.4622697+02:00"
+    },
+    {
+      "productId": 4963,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-09-08T10:52:25.9291435+03:00"
+    },
+    {
+      "productId": 4803,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-01-20T23:23:33.1313571+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 7383,
+  "cartId": "8e020215-3d5f-439d-a95c-e842cf84eeff",
+  "preferredProducts": [
+    3567,
+    3503,
+    1687,
+    4790,
+    917,
+    1558,
+    2465,
+    2449,
+    562
+  ],
+  "productReviews": [
+    {
+      "productId": 4584,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-05-06T05:12:26.5814116+03:00"
+    },
+    {
+      "productId": 4970,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-10-10T04:20:17.5867351+03:00"
+    },
+    {
+      "productId": 1595,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-03-10T10:50:09.1134327+02:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-08-31T22:52:25.9785353+03:00"
+    }
+  ]
+}

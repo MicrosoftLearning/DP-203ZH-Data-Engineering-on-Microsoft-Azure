@@ -1,0 +1,38 @@
+{
+  "userId": 22002,
+  "cartId": "e602023e-fdac-431c-8dae-86ee8ddab4de",
+  "preferredProducts": [
+    1412,
+    172,
+    3544,
+    754,
+    1904,
+    1430,
+    3616,
+    3297,
+    4605,
+    3269
+  ],
+  "productReviews": [
+    {
+      "productId": 456,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2016-08-02T03:10:31.699664+03:00"
+    },
+    {
+      "productId": 3853,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-09-02T07:03:59.6617667+03:00"
+    },
+    {
+      "productId": 1979,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2017-01-28T00:43:25.8965166+02:00"
+    },
+    {
+      "productId": 4006,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-03-20T14:10:47.262173+02:00"
+    }
+  ]
+}

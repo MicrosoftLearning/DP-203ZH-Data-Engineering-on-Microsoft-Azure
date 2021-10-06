@@ -1,0 +1,26 @@
+{
+  "userId": 22999,
+  "cartId": "ce2b0027-c2dd-4875-b4fc-d12016e43c29",
+  "preferredProducts": [
+    2510,
+    2728,
+    3481
+  ],
+  "productReviews": [
+    {
+      "productId": 4920,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-08-05T00:25:07.5638432+03:00"
+    },
+    {
+      "productId": 340,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-09-29T14:12:35.3925263+03:00"
+    },
+    {
+      "productId": 1712,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-11-14T18:56:41.3215744+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 10520,
+  "cartId": "a6e00a96-0002-4e29-93f6-f5575f07b4c3",
+  "preferredProducts": [
+    1834
+  ],
+  "productReviews": [
+    {
+      "productId": 1403,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-16T04:18:49.8057294+03:00"
+    },
+    {
+      "productId": 3706,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-02-19T09:06:13.0495344+02:00"
+    },
+    {
+      "productId": 2174,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-11-18T09:24:33.0731836+02:00"
+    },
+    {
+      "productId": 1917,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-01-13T00:56:01.6015724+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 5755,
+  "cartId": "468f81c2-c13a-44a8-a53e-923777981127",
+  "preferredProducts": [
+    4476,
+    957,
+    4366,
+    2839,
+    4999,
+    4480,
+    3065,
+    1504
+  ],
+  "productReviews": [
+    {
+      "productId": 4610,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-09-22T16:36:27.0017064+03:00"
+    },
+    {
+      "productId": 3871,
+      "reviewText": "this CSS is awesome.",
+      "reviewDate": "2017-08-02T06:11:01.2381148+03:00"
+    },
+    {
+      "productId": 4400,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-07-10T01:54:40.8982006+03:00"
+    }
+  ]
+}

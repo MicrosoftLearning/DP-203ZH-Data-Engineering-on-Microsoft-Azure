@@ -1,0 +1,33 @@
+{
+  "userId": 10218,
+  "cartId": "c77c31ee-5fcd-4d58-991b-8af9c7e73547",
+  "preferredProducts": [
+    1401,
+    1927,
+    3348,
+    2422,
+    1300
+  ],
+  "productReviews": [
+    {
+      "productId": 920,
+      "reviewText": "this Architect is vertical.",
+      "reviewDate": "2017-08-24T10:15:36.6483337+03:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-10-22T08:59:20.8826936+03:00"
+    },
+    {
+      "productId": 2218,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-12-24T18:58:06.011734+02:00"
+    },
+    {
+      "productId": 3149,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-01-14T04:46:49.4787808+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 8611,
+  "cartId": "48c04589-f4b8-43b3-b149-30800958df1e",
+  "preferredProducts": [
+    4330,
+    2993
+  ],
+  "productReviews": [
+    {
+      "productId": 4836,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-07-20T20:36:35.4334841+03:00"
+    },
+    {
+      "productId": 3707,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-06-15T11:43:29.0056082+03:00"
+    },
+    {
+      "productId": 1527,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-01-31T10:49:47.5863156+02:00"
+    },
+    {
+      "productId": 2659,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-12-09T12:09:58.0436735+02:00"
+    }
+  ]
+}

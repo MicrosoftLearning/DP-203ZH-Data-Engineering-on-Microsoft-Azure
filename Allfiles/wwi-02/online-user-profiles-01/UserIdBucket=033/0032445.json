@@ -1,0 +1,33 @@
+{
+  "userId": 32445,
+  "cartId": "5fbce299-00c4-48ae-a972-066b46f3b08b",
+  "preferredProducts": [
+    921,
+    1509,
+    3027,
+    4456,
+    4791
+  ],
+  "productReviews": [
+    {
+      "productId": 2001,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-01-16T16:14:25.2027502+02:00"
+    },
+    {
+      "productId": 2298,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-05-22T00:16:56.8259834+03:00"
+    },
+    {
+      "productId": 398,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-09-30T22:52:30.6910012+03:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-07-29T23:29:23.2450498+03:00"
+    }
+  ]
+}

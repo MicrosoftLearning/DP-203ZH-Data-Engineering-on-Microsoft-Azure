@@ -1,0 +1,32 @@
+{
+  "userId": 32630,
+  "cartId": "ae5c605b-1db1-4eb9-84fd-0542bfc9fa66",
+  "preferredProducts": [
+    2892,
+    3495,
+    2232,
+    4284
+  ],
+  "productReviews": [
+    {
+      "productId": 811,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-01-01T00:55:56.2582622+02:00"
+    },
+    {
+      "productId": 3451,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-08-01T11:50:19.8012649+03:00"
+    },
+    {
+      "productId": 1952,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-02-08T06:51:13.7499437+02:00"
+    },
+    {
+      "productId": 1490,
+      "reviewText": "This Platinum works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-12-08T06:10:19.4873366+02:00"
+    }
+  ]
+}

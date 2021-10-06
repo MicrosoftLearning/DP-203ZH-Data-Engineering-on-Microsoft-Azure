@@ -1,0 +1,31 @@
+{
+  "userId": 49147,
+  "cartId": "b74bb954-859f-40cf-bf5f-257891f5194e",
+  "preferredProducts": [
+    4903,
+    940,
+    2330
+  ],
+  "productReviews": [
+    {
+      "productId": 3564,
+      "reviewText": "this bus is awesome.",
+      "reviewDate": "2018-08-18T15:59:49.9105963+03:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-04-21T05:38:39.8874392+03:00"
+    },
+    {
+      "productId": 1555,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-05-17T03:51:56.4492703+03:00"
+    },
+    {
+      "productId": 4097,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-08-25T07:53:13.1191785+03:00"
+    }
+  ]
+}

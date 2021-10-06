@@ -1,0 +1,34 @@
+{
+  "userId": 27294,
+  "cartId": "c0d662e5-e2ed-4cff-9529-c55f3eda31c6",
+  "preferredProducts": [
+    2225,
+    3283,
+    1526,
+    2025,
+    3274,
+    4575
+  ],
+  "productReviews": [
+    {
+      "productId": 1749,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-19T21:56:20.7756709+03:00"
+    },
+    {
+      "productId": 2931,
+      "reviewText": "This Investor works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-11-28T21:55:13.8140943+02:00"
+    },
+    {
+      "productId": 1695,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-02-24T00:47:00.1497124+02:00"
+    },
+    {
+      "productId": 2304,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-01-11T10:51:58.1224343+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 8497,
+  "cartId": "b1d6a204-1ca9-4a5f-934c-e137a6ce7abe",
+  "preferredProducts": [
+    3284,
+    4946,
+    2434
+  ],
+  "productReviews": [
+    {
+      "productId": 3405,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-01-21T01:39:39.8061627+02:00"
+    },
+    {
+      "productId": 120,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-10-26T17:37:35.4925238+03:00"
+    },
+    {
+      "productId": 765,
+      "reviewText": "This Mountain works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2016-10-11T22:36:28.3187432+03:00"
+    },
+    {
+      "productId": 2079,
+      "reviewText": "this withdrawal is awesome.",
+      "reviewDate": "2017-04-28T21:00:03.8237067+03:00"
+    }
+  ]
+}

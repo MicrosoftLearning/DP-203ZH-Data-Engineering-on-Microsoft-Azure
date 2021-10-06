@@ -1,0 +1,43 @@
+{
+  "userId": 88545,
+  "cartId": "7105dc5d-0227-4c09-bdf8-64e38b65e05f",
+  "preferredProducts": [
+    3488,
+    1030,
+    4937,
+    4456,
+    1957,
+    1682,
+    1724,
+    4365,
+    3197,
+    3845
+  ],
+  "productReviews": [
+    {
+      "productId": 551,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-03-26T07:28:37.8233174+03:00"
+    },
+    {
+      "productId": 4522,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2020-04-12T19:28:29.5017739+03:00"
+    },
+    {
+      "productId": 1103,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-12-23T16:21:44.7816181+02:00"
+    },
+    {
+      "productId": 1138,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-08-23T15:12:51.0172851+03:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-04-27T06:51:27.7841885+03:00"
+    }
+  ]
+}

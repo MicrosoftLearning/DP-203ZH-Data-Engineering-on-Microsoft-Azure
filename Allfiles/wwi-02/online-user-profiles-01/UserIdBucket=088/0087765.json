@@ -1,0 +1,38 @@
+{
+  "userId": 87765,
+  "cartId": "f75f4bf2-1388-4b69-91e2-4b6952818eb7",
+  "preferredProducts": [
+    1656,
+    3497,
+    4585,
+    4160,
+    4110,
+    3540,
+    2539,
+    939,
+    425,
+    1266
+  ],
+  "productReviews": [
+    {
+      "productId": 2812,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-08-31T12:31:12.6477609+03:00"
+    },
+    {
+      "productId": 3874,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-01-13T14:57:13.450472+02:00"
+    },
+    {
+      "productId": 786,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-08-20T20:43:22.8257152+03:00"
+    },
+    {
+      "productId": 3041,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-09-22T22:52:00.160367+03:00"
+    }
+  ]
+}

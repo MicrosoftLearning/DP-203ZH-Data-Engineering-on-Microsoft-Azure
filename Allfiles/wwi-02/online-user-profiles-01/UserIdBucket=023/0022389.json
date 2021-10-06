@@ -1,0 +1,36 @@
+{
+  "userId": 22389,
+  "cartId": "61964ffb-a1dc-4931-bfcf-57f3341eb2a8",
+  "preferredProducts": [
+    4250,
+    2030,
+    2741,
+    3310,
+    2188,
+    3676,
+    2034,
+    2545
+  ],
+  "productReviews": [
+    {
+      "productId": 788,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-11-08T03:17:53.3936755+02:00"
+    },
+    {
+      "productId": 2129,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-02-15T00:56:03.215661+02:00"
+    },
+    {
+      "productId": 1284,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2020-01-28T23:07:06.3405556+02:00"
+    },
+    {
+      "productId": 3865,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-06-05T20:36:28.8152433+03:00"
+    }
+  ]
+}

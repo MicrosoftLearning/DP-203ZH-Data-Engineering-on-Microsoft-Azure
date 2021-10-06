@@ -1,0 +1,28 @@
+{
+  "userId": 21797,
+  "cartId": "4ac8bbe6-5366-43ad-b658-28b7313b0513",
+  "preferredProducts": [
+    4057,
+    3082,
+    4232,
+    1564,
+    4427
+  ],
+  "productReviews": [
+    {
+      "productId": 1110,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-05-09T01:17:01.4338922+03:00"
+    },
+    {
+      "productId": 2327,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-06-16T07:08:34.6775374+03:00"
+    },
+    {
+      "productId": 1164,
+      "reviewText": "This Global works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-07-13T06:40:22.4201727+03:00"
+    }
+  ]
+}

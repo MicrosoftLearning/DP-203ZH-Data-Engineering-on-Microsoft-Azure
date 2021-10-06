@@ -1,0 +1,27 @@
+{
+  "userId": 34413,
+  "cartId": "c5d2f066-aa6b-44a0-be23-953d6ef28b9d",
+  "preferredProducts": [
+    3563,
+    1972,
+    3964,
+    3315
+  ],
+  "productReviews": [
+    {
+      "productId": 1190,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-08-21T22:59:02.9531801+03:00"
+    },
+    {
+      "productId": 231,
+      "reviewText": "This mint green works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-12-02T20:37:04.0989334+02:00"
+    },
+    {
+      "productId": 2997,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-04-06T12:33:19.9782596+03:00"
+    }
+  ]
+}

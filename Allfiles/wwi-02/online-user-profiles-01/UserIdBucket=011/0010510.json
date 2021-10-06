@@ -1,0 +1,41 @@
+{
+  "userId": 10510,
+  "cartId": "646191e6-169a-473c-85c9-4257890a14cc",
+  "preferredProducts": [
+    2298,
+    2387,
+    1875,
+    947,
+    4647,
+    4333,
+    4163,
+    1746
+  ],
+  "productReviews": [
+    {
+      "productId": 3941,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-09-24T07:48:55.7061676+03:00"
+    },
+    {
+      "productId": 3983,
+      "reviewText": "This virtual works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2018-12-06T19:58:45.7862896+02:00"
+    },
+    {
+      "productId": 3389,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-08-05T09:29:41.2363874+03:00"
+    },
+    {
+      "productId": 1647,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-07-19T00:34:28.1109024+03:00"
+    },
+    {
+      "productId": 3548,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2017-08-30T11:59:24.8729828+03:00"
+    }
+  ]
+}

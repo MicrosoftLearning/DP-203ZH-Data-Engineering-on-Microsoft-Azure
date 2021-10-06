@@ -1,0 +1,26 @@
+{
+  "userId": 89719,
+  "cartId": "b95b0d21-1bb6-4e66-9607-c9f0f39972e0",
+  "preferredProducts": [
+    2307,
+    122,
+    2493
+  ],
+  "productReviews": [
+    {
+      "productId": 4795,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-10-28T03:25:01.2285052+02:00"
+    },
+    {
+      "productId": 3708,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-10-17T12:29:57.2925481+03:00"
+    },
+    {
+      "productId": 2933,
+      "reviewText": "this Avon is revolting.",
+      "reviewDate": "2017-09-08T23:30:19.7597721+03:00"
+    }
+  ]
+}

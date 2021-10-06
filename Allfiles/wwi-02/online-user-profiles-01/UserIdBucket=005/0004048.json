@@ -1,0 +1,25 @@
+{
+  "userId": 4048,
+  "cartId": "f2902447-3e57-436b-b6f0-bf84412793f7",
+  "preferredProducts": [
+    4229,
+    321
+  ],
+  "productReviews": [
+    {
+      "productId": 763,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-04-08T08:11:08.2730345+03:00"
+    },
+    {
+      "productId": 4924,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-08-16T00:04:00.6021903+03:00"
+    },
+    {
+      "productId": 1068,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-10-13T11:58:53.342605+03:00"
+    }
+  ]
+}

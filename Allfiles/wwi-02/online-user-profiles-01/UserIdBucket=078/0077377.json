@@ -1,0 +1,33 @@
+{
+  "userId": 77377,
+  "cartId": "6670af5b-714c-401a-9c07-0557325df5ca",
+  "preferredProducts": [
+    3364,
+    2238,
+    4323,
+    2063,
+    3554
+  ],
+  "productReviews": [
+    {
+      "productId": 2747,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-11T16:45:33.1031826+02:00"
+    },
+    {
+      "productId": 3379,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-08-14T16:46:15.0862401+03:00"
+    },
+    {
+      "productId": 3166,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-04-27T17:42:08.9186745+03:00"
+    },
+    {
+      "productId": 395,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-02-26T23:19:40.3877602+02:00"
+    }
+  ]
+}

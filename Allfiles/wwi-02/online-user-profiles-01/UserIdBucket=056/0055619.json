@@ -1,0 +1,32 @@
+{
+  "userId": 55619,
+  "cartId": "f17561ba-4a4d-4307-b85f-caf16343b089",
+  "preferredProducts": [
+    2700,
+    4232,
+    945,
+    3739
+  ],
+  "productReviews": [
+    {
+      "productId": 571,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2017-06-08T09:58:06.189187+03:00"
+    },
+    {
+      "productId": 3925,
+      "reviewText": "This Missouri, does exactly what it's suppose to do.",
+      "reviewDate": "2020-01-10T05:52:02.3154283+02:00"
+    },
+    {
+      "productId": 1187,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-01-07T08:01:47.3522719+02:00"
+    },
+    {
+      "productId": 1623,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-12-20T16:04:16.6520357+02:00"
+    }
+  ]
+}

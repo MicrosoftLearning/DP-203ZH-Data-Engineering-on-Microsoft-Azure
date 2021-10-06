@@ -1,0 +1,23 @@
+{
+  "userId": 12186,
+  "cartId": "c367669d-848b-4e30-bae9-d0ac142a0e99",
+  "preferredProducts": [
+    861,
+    1987,
+    1033,
+    1026,
+    432
+  ],
+  "productReviews": [
+    {
+      "productId": 3603,
+      "reviewText": "this Optional is awesome.",
+      "reviewDate": "2018-05-18T13:59:52.5530611+03:00"
+    },
+    {
+      "productId": 216,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-06-07T13:38:17.5969269+03:00"
+    }
+  ]
+}

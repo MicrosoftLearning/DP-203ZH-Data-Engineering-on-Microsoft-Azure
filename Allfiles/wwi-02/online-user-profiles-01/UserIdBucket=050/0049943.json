@@ -1,0 +1,26 @@
+{
+  "userId": 49943,
+  "cartId": "3b65880c-0e63-4bf9-b87e-d0e64e96202e",
+  "preferredProducts": [
+    3032,
+    1236,
+    4185
+  ],
+  "productReviews": [
+    {
+      "productId": 1724,
+      "reviewText": "this Awesome Wooden Car is papery.",
+      "reviewDate": "2018-04-10T20:46:47.1676462+03:00"
+    },
+    {
+      "productId": 2723,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-11-25T18:05:44.8092385+02:00"
+    },
+    {
+      "productId": 2790,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-04-05T09:54:22.1916737+03:00"
+    }
+  ]
+}

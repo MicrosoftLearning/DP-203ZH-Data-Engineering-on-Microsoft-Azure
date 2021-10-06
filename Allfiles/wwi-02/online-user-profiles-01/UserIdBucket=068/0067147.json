@@ -1,0 +1,30 @@
+{
+  "userId": 67147,
+  "cartId": "08d87be9-807e-4e54-94ef-27bcdca56a25",
+  "preferredProducts": [
+    1817,
+    1780,
+    2142,
+    4328,
+    1010,
+    2765,
+    3959
+  ],
+  "productReviews": [
+    {
+      "productId": 4439,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-01-15T01:45:22.0637565+02:00"
+    },
+    {
+      "productId": 4490,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-12-26T11:31:39.8311202+02:00"
+    },
+    {
+      "productId": 314,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-01-14T23:03:56.6651118+02:00"
+    }
+  ]
+}

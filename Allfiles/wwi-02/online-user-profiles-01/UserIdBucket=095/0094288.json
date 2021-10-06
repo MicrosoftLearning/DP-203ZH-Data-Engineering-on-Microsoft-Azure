@@ -1,0 +1,25 @@
+{
+  "userId": 94288,
+  "cartId": "5954b735-ad82-4963-82be-49f46f59c44a",
+  "preferredProducts": [
+    3588,
+    4333
+  ],
+  "productReviews": [
+    {
+      "productId": 3247,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-21T09:55:11.8789559+03:00"
+    },
+    {
+      "productId": 1651,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-09-16T18:56:40.1743859+03:00"
+    },
+    {
+      "productId": 1489,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-12-03T12:40:31.7347327+02:00"
+    }
+  ]
+}

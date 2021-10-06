@@ -1,0 +1,25 @@
+{
+  "userId": 59873,
+  "cartId": "41ea5b4e-b040-4619-a82f-6c30672b0282",
+  "preferredProducts": [
+    1755,
+    4082,
+    2461,
+    4255,
+    225,
+    449,
+    756
+  ],
+  "productReviews": [
+    {
+      "productId": 3846,
+      "reviewText": "This JSON works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2016-11-17T09:13:15.3150292+02:00"
+    },
+    {
+      "productId": 2557,
+      "reviewText": "This Self-enabling works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-11-22T20:13:13.2544083+02:00"
+    }
+  ]
+}

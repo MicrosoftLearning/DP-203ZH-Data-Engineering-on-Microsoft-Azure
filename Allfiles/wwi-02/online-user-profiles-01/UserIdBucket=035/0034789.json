@@ -1,0 +1,32 @@
+{
+  "userId": 34789,
+  "cartId": "1549eeb7-15de-487a-9b26-8696279fab65",
+  "preferredProducts": [
+    3601,
+    1067,
+    4228,
+    3215
+  ],
+  "productReviews": [
+    {
+      "productId": 4988,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-11-12T13:22:44.6403667+02:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-11-14T02:57:05.681391+02:00"
+    },
+    {
+      "productId": 2449,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-11-09T05:45:45.6219237+02:00"
+    },
+    {
+      "productId": 4089,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-05-09T16:19:49.8139419+03:00"
+    }
+  ]
+}

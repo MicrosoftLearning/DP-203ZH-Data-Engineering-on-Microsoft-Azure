@@ -1,0 +1,33 @@
+{
+  "userId": 18265,
+  "cartId": "33b2eb9b-9c3d-4016-9703-a8d19aaf0649",
+  "preferredProducts": [
+    3808,
+    1085,
+    2256,
+    41,
+    4325
+  ],
+  "productReviews": [
+    {
+      "productId": 2828,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-06-03T00:33:35.7676389+03:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-07-29T09:00:25.2637205+03:00"
+    },
+    {
+      "productId": 504,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-07-25T19:56:29.0181256+03:00"
+    },
+    {
+      "productId": 4005,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-02-17T16:02:18.8767147+02:00"
+    }
+  ]
+}

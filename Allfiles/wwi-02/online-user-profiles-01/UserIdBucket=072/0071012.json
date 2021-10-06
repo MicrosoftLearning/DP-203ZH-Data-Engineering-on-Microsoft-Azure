@@ -1,0 +1,23 @@
+{
+  "userId": 71012,
+  "cartId": "93afc7a5-2b04-4ead-a24b-3a99642b2a71",
+  "preferredProducts": [
+    3468,
+    4200,
+    2435,
+    3461,
+    3459
+  ],
+  "productReviews": [
+    {
+      "productId": 546,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-10-26T16:49:19.6631974+03:00"
+    },
+    {
+      "productId": 2893,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-01-08T04:57:07.1482423+02:00"
+    }
+  ]
+}

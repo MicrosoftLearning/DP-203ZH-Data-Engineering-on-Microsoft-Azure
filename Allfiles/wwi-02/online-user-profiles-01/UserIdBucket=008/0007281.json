@@ -1,0 +1,35 @@
+{
+  "userId": 7281,
+  "cartId": "2123cc00-1e3c-4ddc-b744-a8e3b001832a",
+  "preferredProducts": [
+    1076,
+    2542,
+    4204,
+    2213,
+    683,
+    4920,
+    1389
+  ],
+  "productReviews": [
+    {
+      "productId": 2670,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-08-09T16:19:23.6511506+03:00"
+    },
+    {
+      "productId": 2761,
+      "reviewText": "This Turkey works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-08-02T02:22:49.9179249+03:00"
+    },
+    {
+      "productId": 313,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-06-05T02:06:19.2296799+03:00"
+    },
+    {
+      "productId": 1787,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-01-19T13:03:04.482569+02:00"
+    }
+  ]
+}

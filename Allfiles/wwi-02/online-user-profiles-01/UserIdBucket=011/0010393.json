@@ -1,0 +1,30 @@
+{
+  "userId": 10393,
+  "cartId": "93ab620d-6bb9-4fed-b917-d74490844561",
+  "preferredProducts": [
+    943,
+    1622
+  ],
+  "productReviews": [
+    {
+      "productId": 4634,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-01-09T01:19:57.3309421+02:00"
+    },
+    {
+      "productId": 698,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-07-09T00:05:38.4927773+03:00"
+    },
+    {
+      "productId": 4595,
+      "reviewText": "This Agent works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2020-04-17T19:50:40.5897938+03:00"
+    },
+    {
+      "productId": 2417,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-09-18T15:05:41.1526658+03:00"
+    }
+  ]
+}

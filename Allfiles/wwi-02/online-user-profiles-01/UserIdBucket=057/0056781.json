@@ -1,0 +1,26 @@
+{
+  "userId": 56781,
+  "cartId": "d3b6bee9-f3ce-4457-8100-cbad1729ec4a",
+  "preferredProducts": [
+    1681,
+    2488,
+    2504
+  ],
+  "productReviews": [
+    {
+      "productId": 4345,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-12-07T07:32:33.5720832+02:00"
+    },
+    {
+      "productId": 543,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-07-24T07:06:26.4580766+03:00"
+    },
+    {
+      "productId": 3825,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-12-24T00:32:18.9247773+02:00"
+    }
+  ]
+}

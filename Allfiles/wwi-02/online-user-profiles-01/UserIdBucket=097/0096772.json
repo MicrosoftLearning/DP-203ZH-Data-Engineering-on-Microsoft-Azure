@@ -1,0 +1,26 @@
+{
+  "userId": 96772,
+  "cartId": "0b7a8cd8-47b7-448c-85d9-90ecf31c009b",
+  "preferredProducts": [
+    2987,
+    2074,
+    2200
+  ],
+  "productReviews": [
+    {
+      "productId": 3457,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-03-31T05:04:38.1128019+03:00"
+    },
+    {
+      "productId": 2764,
+      "reviewText": "This JSON works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-07-28T19:23:29.0012706+03:00"
+    },
+    {
+      "productId": 3852,
+      "reviewText": "This Croatian Kuna works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-12-16T16:42:34.3271444+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 51114,
+  "cartId": "8a2e738a-ed93-4f18-9f5d-6914fe9a9e79",
+  "preferredProducts": [
+    4318,
+    1620,
+    1889,
+    1202,
+    3913,
+    9,
+    3976,
+    456
+  ],
+  "productReviews": [
+    {
+      "productId": 4385,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-03-19T22:34:42.1167198+02:00"
+    },
+    {
+      "productId": 4117,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-08-13T06:33:25.0590036+03:00"
+    },
+    {
+      "productId": 2202,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2020-04-28T14:08:30.1003893+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 3666,
+  "cartId": "2d5855aa-9762-4c5f-b9b0-2a5edcacaffe",
+  "preferredProducts": [
+    4487,
+    2497,
+    3516,
+    1874,
+    1817,
+    4410,
+    3978,
+    1171,
+    4603,
+    46
+  ],
+  "productReviews": [
+    {
+      "productId": 4221,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-05-24T02:30:21.6437229+03:00"
+    },
+    {
+      "productId": 462,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-07-03T04:37:19.1607723+03:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-12-04T02:40:06.1008308+02:00"
+    }
+  ]
+}

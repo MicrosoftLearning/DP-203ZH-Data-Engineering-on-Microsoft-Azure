@@ -1,0 +1,28 @@
+{
+  "userId": 21979,
+  "cartId": "d5d74b16-9da1-486b-bc98-ccb5c5e31d4f",
+  "preferredProducts": [
+    1988,
+    2693,
+    4737,
+    1503,
+    2336
+  ],
+  "productReviews": [
+    {
+      "productId": 2956,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-02-14T07:30:46.1360271+02:00"
+    },
+    {
+      "productId": 3608,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-28T21:44:23.003134+03:00"
+    },
+    {
+      "productId": 138,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-10-22T19:16:50.0014237+03:00"
+    }
+  ]
+}

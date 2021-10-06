@@ -1,0 +1,28 @@
+{
+  "userId": 35272,
+  "cartId": "3538bca0-27a2-471c-b99e-47baf155a320",
+  "preferredProducts": [
+    2819,
+    1529,
+    1285,
+    3928,
+    3572
+  ],
+  "productReviews": [
+    {
+      "productId": 1117,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-01-27T06:07:30.3349069+02:00"
+    },
+    {
+      "productId": 3230,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-11-30T06:05:56.1472549+02:00"
+    },
+    {
+      "productId": 2703,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-08-06T13:54:51.9783678+03:00"
+    }
+  ]
+}

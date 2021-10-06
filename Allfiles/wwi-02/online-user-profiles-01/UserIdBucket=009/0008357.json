@@ -1,0 +1,29 @@
+{
+  "userId": 8357,
+  "cartId": "1e7a6299-d02b-4586-8243-ddd429feba4c",
+  "preferredProducts": [
+    3178,
+    4260,
+    1985,
+    2355,
+    166,
+    3358
+  ],
+  "productReviews": [
+    {
+      "productId": 1575,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-03-01T19:06:43.9260506+02:00"
+    },
+    {
+      "productId": 716,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-01-13T10:24:38.1182878+02:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-11-07T07:19:08.3858561+02:00"
+    }
+  ]
+}

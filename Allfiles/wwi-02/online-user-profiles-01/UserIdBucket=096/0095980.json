@@ -1,0 +1,26 @@
+{
+  "userId": 95980,
+  "cartId": "456db251-be2c-4867-b5bb-70dee802f09a",
+  "preferredProducts": [
+    1307,
+    1007,
+    301
+  ],
+  "productReviews": [
+    {
+      "productId": 1111,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-01-20T14:50:24.9721044+02:00"
+    },
+    {
+      "productId": 3065,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-04-01T01:37:45.9964235+03:00"
+    },
+    {
+      "productId": 3014,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-06-19T09:33:37.4403709+03:00"
+    }
+  ]
+}

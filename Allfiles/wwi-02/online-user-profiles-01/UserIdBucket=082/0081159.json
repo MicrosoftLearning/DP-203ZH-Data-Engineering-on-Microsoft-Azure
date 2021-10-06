@@ -1,0 +1,39 @@
+{
+  "userId": 81159,
+  "cartId": "5bb0c9d3-ce20-492b-b212-a438c2b4a6af",
+  "preferredProducts": [
+    1230,
+    3725,
+    3956,
+    1279,
+    778,
+    4741
+  ],
+  "productReviews": [
+    {
+      "productId": 557,
+      "reviewText": "this Park is snowy.",
+      "reviewDate": "2019-02-11T14:08:56.3205555+02:00"
+    },
+    {
+      "productId": 595,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-11-20T04:17:53.3652842+02:00"
+    },
+    {
+      "productId": 4150,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-02-22T22:09:34.8937928+02:00"
+    },
+    {
+      "productId": 4795,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-05-15T10:45:40.7725939+03:00"
+    },
+    {
+      "productId": 1841,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-03-14T23:04:07.3299258+02:00"
+    }
+  ]
+}

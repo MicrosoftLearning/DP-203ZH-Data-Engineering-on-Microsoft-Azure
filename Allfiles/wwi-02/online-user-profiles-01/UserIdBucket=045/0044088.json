@@ -1,0 +1,36 @@
+{
+  "userId": 44088,
+  "cartId": "5eed1b6f-de25-40cf-ab35-fca8cb8c369b",
+  "preferredProducts": [
+    1233,
+    2278,
+    3026,
+    1811,
+    3591,
+    3327,
+    4597,
+    1623
+  ],
+  "productReviews": [
+    {
+      "productId": 3003,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-01-19T10:51:20.4398933+02:00"
+    },
+    {
+      "productId": 1533,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-10-10T13:45:42.6409329+03:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-04-19T15:51:14.6550844+03:00"
+    },
+    {
+      "productId": 4776,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-12-27T23:51:08.514854+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 23944,
+  "cartId": "33ff8f81-cd53-4766-9aea-ebd7fce7e86f",
+  "preferredProducts": [
+    643,
+    4724,
+    3367,
+    780,
+    1509,
+    2015
+  ],
+  "productReviews": [
+    {
+      "productId": 4984,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-12-24T23:29:30.4422735+02:00"
+    },
+    {
+      "productId": 206,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-10-15T16:22:39.5551976+03:00"
+    },
+    {
+      "productId": 2200,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-11-28T17:38:17.0604841+02:00"
+    }
+  ]
+}

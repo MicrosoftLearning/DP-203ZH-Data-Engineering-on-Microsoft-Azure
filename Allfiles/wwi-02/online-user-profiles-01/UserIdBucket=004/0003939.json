@@ -1,0 +1,38 @@
+{
+  "userId": 3939,
+  "cartId": "2b66ced1-fa46-4a06-9f44-c1712883bcb2",
+  "preferredProducts": [
+    1151,
+    525,
+    2535,
+    485,
+    2709
+  ],
+  "productReviews": [
+    {
+      "productId": 1230,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-12-28T08:02:42.8242173+02:00"
+    },
+    {
+      "productId": 2481,
+      "reviewText": "this Aruban Guilder is ratty.",
+      "reviewDate": "2016-07-16T08:55:15.558333+03:00"
+    },
+    {
+      "productId": 654,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-10-16T04:22:50.6759146+03:00"
+    },
+    {
+      "productId": 817,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-11-20T19:41:53.1588231+02:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-04-29T21:21:03.0655629+03:00"
+    }
+  ]
+}

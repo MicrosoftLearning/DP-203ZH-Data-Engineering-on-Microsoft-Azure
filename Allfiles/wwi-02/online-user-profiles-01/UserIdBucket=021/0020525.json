@@ -1,0 +1,32 @@
+{
+  "userId": 20525,
+  "cartId": "8e4c933a-2dc9-47e2-bad3-50b9de5a889d",
+  "preferredProducts": [
+    4887,
+    1925,
+    1856,
+    2824,
+    2246,
+    74,
+    356,
+    4929,
+    2752
+  ],
+  "productReviews": [
+    {
+      "productId": 4384,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-03-02T08:40:52.637479+02:00"
+    },
+    {
+      "productId": 2133,
+      "reviewText": "this RAM is nifty.",
+      "reviewDate": "2018-09-29T08:06:00.3441072+03:00"
+    },
+    {
+      "productId": 749,
+      "reviewText": "This experiences works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-11-23T07:29:53.5345794+02:00"
+    }
+  ]
+}

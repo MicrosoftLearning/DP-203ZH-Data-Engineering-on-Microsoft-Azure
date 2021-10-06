@@ -1,0 +1,32 @@
+{
+  "userId": 56283,
+  "cartId": "baa1e8ed-5458-4bfb-ba79-7160a343a336",
+  "preferredProducts": [
+    1107,
+    1353,
+    4850,
+    1576,
+    169,
+    2156,
+    2083,
+    84,
+    22
+  ],
+  "productReviews": [
+    {
+      "productId": 1121,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-05-09T11:56:05.5242416+03:00"
+    },
+    {
+      "productId": 2328,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-07-29T03:38:22.4067576+03:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-07-03T22:24:17.4353006+03:00"
+    }
+  ]
+}

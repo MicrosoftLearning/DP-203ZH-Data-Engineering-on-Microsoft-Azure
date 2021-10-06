@@ -1,0 +1,32 @@
+{
+  "userId": 70626,
+  "cartId": "419a5c3b-ef50-40a1-9e4f-01c568272011",
+  "preferredProducts": [
+    4380,
+    2715,
+    1128,
+    3903
+  ],
+  "productReviews": [
+    {
+      "productId": 4276,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-10-07T20:11:20.45674+03:00"
+    },
+    {
+      "productId": 2697,
+      "reviewText": "This program works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-03-14T11:31:43.658266+02:00"
+    },
+    {
+      "productId": 3644,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-04-13T22:15:53.2139697+03:00"
+    },
+    {
+      "productId": 518,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-03-14T08:30:50.9941405+02:00"
+    }
+  ]
+}

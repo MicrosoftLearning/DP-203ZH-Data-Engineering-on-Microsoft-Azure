@@ -1,0 +1,36 @@
+{
+  "userId": 60326,
+  "cartId": "7e685b6b-534e-483d-b59b-960d0c5e6b40",
+  "preferredProducts": [
+    2270,
+    1857,
+    2906,
+    3568,
+    3650,
+    3682,
+    1827,
+    889
+  ],
+  "productReviews": [
+    {
+      "productId": 3715,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-03-14T01:33:15.489566+02:00"
+    },
+    {
+      "productId": 4087,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-11-03T21:35:53.6696614+02:00"
+    },
+    {
+      "productId": 845,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-08-06T23:45:11.0798559+03:00"
+    },
+    {
+      "productId": 503,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-08-25T20:47:53.3246799+03:00"
+    }
+  ]
+}

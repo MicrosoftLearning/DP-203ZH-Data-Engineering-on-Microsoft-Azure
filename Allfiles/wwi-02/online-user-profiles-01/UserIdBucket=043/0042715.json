@@ -1,0 +1,27 @@
+{
+  "userId": 42715,
+  "cartId": "846e517e-0aff-40bf-8322-a41179f572d2",
+  "preferredProducts": [
+    2608,
+    4782,
+    3701,
+    807,
+    2180,
+    2064,
+    3009,
+    3839,
+    3057
+  ],
+  "productReviews": [
+    {
+      "productId": 3568,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-01-01T09:10:33.0023054+02:00"
+    },
+    {
+      "productId": 2158,
+      "reviewText": "This AI, does exactly what it's suppose to do.",
+      "reviewDate": "2018-10-18T09:13:06.9479288+03:00"
+    }
+  ]
+}

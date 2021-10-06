@@ -1,0 +1,40 @@
+{
+  "userId": 42434,
+  "cartId": "ef365696-de49-433a-a679-6c95153d0467",
+  "preferredProducts": [
+    1804,
+    4641,
+    2787,
+    1306,
+    548,
+    2225,
+    2247
+  ],
+  "productReviews": [
+    {
+      "productId": 2155,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-05-17T03:12:16.4730865+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2019-02-07T20:20:56.3556929+02:00"
+    },
+    {
+      "productId": 2581,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-06-14T11:05:32.1404567+03:00"
+    },
+    {
+      "productId": 1501,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-12-17T21:05:25.9542966+02:00"
+    },
+    {
+      "productId": 3291,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-06-28T09:14:41.6646436+03:00"
+    }
+  ]
+}

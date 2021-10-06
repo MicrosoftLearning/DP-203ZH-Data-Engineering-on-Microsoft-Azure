@@ -1,0 +1,37 @@
+{
+  "userId": 28793,
+  "cartId": "bf0971dd-7d26-411f-a129-4cf2cb5d2b34",
+  "preferredProducts": [
+    673,
+    3648,
+    513,
+    45,
+    1153,
+    4334,
+    695,
+    1593,
+    3971
+  ],
+  "productReviews": [
+    {
+      "productId": 2284,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-07-24T21:58:04.877643+03:00"
+    },
+    {
+      "productId": 3568,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-01-28T01:06:11.2773101+02:00"
+    },
+    {
+      "productId": 4404,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-01-27T10:38:34.1267393+02:00"
+    },
+    {
+      "productId": 2702,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-03-08T05:01:48.2795816+02:00"
+    }
+  ]
+}

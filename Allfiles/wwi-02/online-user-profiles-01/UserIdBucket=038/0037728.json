@@ -1,0 +1,40 @@
+{
+  "userId": 37728,
+  "cartId": "9936b859-c015-45fb-b512-1838a7e4d9b7",
+  "preferredProducts": [
+    1115,
+    1172,
+    3769,
+    2199,
+    4163,
+    4560,
+    4638
+  ],
+  "productReviews": [
+    {
+      "productId": 55,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-11-23T10:08:45.5745285+02:00"
+    },
+    {
+      "productId": 764,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-08-22T12:37:55.8075094+03:00"
+    },
+    {
+      "productId": 2359,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-12-19T21:38:20.993913+02:00"
+    },
+    {
+      "productId": 357,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-01-01T15:36:23.5669442+02:00"
+    },
+    {
+      "productId": 3841,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-08-04T01:08:37.2824875+03:00"
+    }
+  ]
+}

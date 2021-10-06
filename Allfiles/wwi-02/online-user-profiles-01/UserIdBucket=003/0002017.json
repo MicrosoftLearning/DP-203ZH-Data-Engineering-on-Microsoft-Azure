@@ -1,0 +1,30 @@
+{
+  "userId": 2017,
+  "cartId": "1b8fa51f-b2c4-41b8-ba36-88950464ff8b",
+  "preferredProducts": [
+    318,
+    4467,
+    1622,
+    408,
+    957,
+    730,
+    1571
+  ],
+  "productReviews": [
+    {
+      "productId": 4993,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-03-22T01:46:21.7318843+02:00"
+    },
+    {
+      "productId": 950,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-12-25T13:10:00.9795873+02:00"
+    },
+    {
+      "productId": 1154,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-11-02T20:28:15.4136454+02:00"
+    }
+  ]
+}

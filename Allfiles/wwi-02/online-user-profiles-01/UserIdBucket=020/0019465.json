@@ -1,0 +1,42 @@
+{
+  "userId": 19465,
+  "cartId": "3e304488-9d16-4d1f-bd70-215240c00306",
+  "preferredProducts": [
+    3125,
+    3383,
+    4257,
+    2344,
+    3297,
+    2451,
+    2706,
+    1052,
+    2088
+  ],
+  "productReviews": [
+    {
+      "productId": 2455,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-05-06T08:26:40.4722979+03:00"
+    },
+    {
+      "productId": 4011,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-11-07T16:33:06.2033421+02:00"
+    },
+    {
+      "productId": 1894,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-06-22T08:10:55.1796389+03:00"
+    },
+    {
+      "productId": 2689,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-01-06T06:44:19.9652963+02:00"
+    },
+    {
+      "productId": 1499,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-04-18T18:20:33.2987853+03:00"
+    }
+  ]
+}

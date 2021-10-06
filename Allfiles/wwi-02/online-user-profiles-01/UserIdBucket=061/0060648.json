@@ -1,0 +1,30 @@
+{
+  "userId": 60648,
+  "cartId": "0d13a4fc-70e5-4976-b6f5-72b561b6193f",
+  "preferredProducts": [
+    1935,
+    4950,
+    441,
+    638,
+    3394,
+    1326,
+    1279
+  ],
+  "productReviews": [
+    {
+      "productId": 3982,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-09-12T01:32:09.2018688+03:00"
+    },
+    {
+      "productId": 2002,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-09-29T08:42:20.4956019+03:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-10-04T10:55:30.9574786+03:00"
+    }
+  ]
+}

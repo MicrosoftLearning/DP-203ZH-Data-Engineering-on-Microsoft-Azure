@@ -1,0 +1,27 @@
+{
+  "userId": 403,
+  "cartId": "4642fddb-098e-4095-9dc2-6ad85ba31371",
+  "preferredProducts": [
+    4724,
+    924,
+    4385,
+    2331,
+    4530,
+    2378,
+    981,
+    4417,
+    2903
+  ],
+  "productReviews": [
+    {
+      "productId": 3667,
+      "reviewText": "This is a really good extranet.",
+      "reviewDate": "2019-04-27T23:33:10.4940842+03:00"
+    },
+    {
+      "productId": 4114,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-05-23T06:31:22.9840349+03:00"
+    }
+  ]
+}

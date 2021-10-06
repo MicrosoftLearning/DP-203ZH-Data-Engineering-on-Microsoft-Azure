@@ -1,0 +1,32 @@
+{
+  "userId": 14456,
+  "cartId": "b284a325-ee2e-4753-935c-0ccad25c9c64",
+  "preferredProducts": [
+    4030,
+    2362,
+    994,
+    4261,
+    1002,
+    2280,
+    4435,
+    1368,
+    160
+  ],
+  "productReviews": [
+    {
+      "productId": 220,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-09-25T19:53:46.6896341+03:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "This Orchestrator works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-03-08T16:25:19.2829642+02:00"
+    },
+    {
+      "productId": 2350,
+      "reviewText": "This is a really good Dynamic.",
+      "reviewDate": "2019-07-05T23:40:45.7742598+03:00"
+    }
+  ]
+}

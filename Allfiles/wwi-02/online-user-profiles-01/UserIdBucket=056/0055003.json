@@ -1,0 +1,30 @@
+{
+  "userId": 55003,
+  "cartId": "9620d283-09ca-4e16-a6e8-7c76fc59725b",
+  "preferredProducts": [
+    3455,
+    370
+  ],
+  "productReviews": [
+    {
+      "productId": 2862,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-10-17T21:31:00.2107645+03:00"
+    },
+    {
+      "productId": 4196,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-10-31T00:26:19.3800768+02:00"
+    },
+    {
+      "productId": 1027,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-06-09T10:31:16.6537948+03:00"
+    },
+    {
+      "productId": 135,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-06-01T02:51:03.9887189+03:00"
+    }
+  ]
+}

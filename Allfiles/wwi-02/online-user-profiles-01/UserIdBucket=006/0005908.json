@@ -1,0 +1,32 @@
+{
+  "userId": 5908,
+  "cartId": "d851aaa8-2f68-4c5a-b01f-4f80c1064576",
+  "preferredProducts": [
+    39,
+    234,
+    1993,
+    184
+  ],
+  "productReviews": [
+    {
+      "productId": 3600,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-05-28T22:20:04.5424451+03:00"
+    },
+    {
+      "productId": 4899,
+      "reviewText": "This Buckinghamshire works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-11-06T23:34:53.3456294+02:00"
+    },
+    {
+      "productId": 1317,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-05-23T01:50:29.3700639+03:00"
+    },
+    {
+      "productId": 3628,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2020-01-03T09:08:58.1093403+02:00"
+    }
+  ]
+}

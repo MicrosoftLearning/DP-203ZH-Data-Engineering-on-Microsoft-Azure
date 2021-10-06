@@ -1,0 +1,31 @@
+{
+  "userId": 34609,
+  "cartId": "b1a5abae-a3bf-4c65-84dc-6f3821c91f68",
+  "preferredProducts": [
+    1103,
+    4478,
+    1442
+  ],
+  "productReviews": [
+    {
+      "productId": 4180,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-06-30T13:43:59.4403832+03:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-10-10T02:39:17.6136859+03:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-06-20T16:12:25.3353246+03:00"
+    },
+    {
+      "productId": 1224,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-02-19T20:52:15.0745623+02:00"
+    }
+  ]
+}

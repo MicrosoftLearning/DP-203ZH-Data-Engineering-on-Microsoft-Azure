@@ -1,0 +1,31 @@
+{
+  "userId": 20483,
+  "cartId": "b29f0bb0-2558-4221-8e0f-737d80129556",
+  "preferredProducts": [
+    4303,
+    4539,
+    4907
+  ],
+  "productReviews": [
+    {
+      "productId": 4108,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-04-24T22:55:42.2489379+03:00"
+    },
+    {
+      "productId": 2768,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-09-10T15:24:12.4005037+03:00"
+    },
+    {
+      "productId": 573,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-11-01T11:50:53.8872223+02:00"
+    },
+    {
+      "productId": 3079,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-03-09T17:22:25.3569725+02:00"
+    }
+  ]
+}

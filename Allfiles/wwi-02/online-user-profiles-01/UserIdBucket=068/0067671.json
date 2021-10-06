@@ -1,0 +1,31 @@
+{
+  "userId": 67671,
+  "cartId": "d7103b95-7cdd-4ec5-a0b2-87f80b286e80",
+  "preferredProducts": [
+    3521,
+    2957,
+    2522,
+    3485,
+    450,
+    1237,
+    4652,
+    4421
+  ],
+  "productReviews": [
+    {
+      "productId": 2013,
+      "reviewText": "this programming is snowy.",
+      "reviewDate": "2019-10-28T14:26:05.697825+02:00"
+    },
+    {
+      "productId": 4675,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-08-19T01:51:55.1131179+03:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "this IB is light-hearted.",
+      "reviewDate": "2020-04-16T23:26:41.3287975+03:00"
+    }
+  ]
+}

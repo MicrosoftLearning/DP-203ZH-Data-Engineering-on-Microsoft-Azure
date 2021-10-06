@@ -1,0 +1,30 @@
+{
+  "userId": 49914,
+  "cartId": "0fbb480e-7783-4552-8b74-c1020296bec3",
+  "preferredProducts": [
+    3016,
+    4478,
+    1337,
+    1239,
+    381,
+    4285,
+    1870
+  ],
+  "productReviews": [
+    {
+      "productId": 2644,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-08-24T15:25:57.1829587+03:00"
+    },
+    {
+      "productId": 4364,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-11-11T09:41:50.7203058+02:00"
+    },
+    {
+      "productId": 1489,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-05-09T10:15:30.0172298+03:00"
+    }
+  ]
+}

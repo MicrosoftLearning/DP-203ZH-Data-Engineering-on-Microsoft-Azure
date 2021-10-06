@@ -1,0 +1,31 @@
+{
+  "userId": 75914,
+  "cartId": "007224ec-d4de-4608-a422-a59c4a6ee76b",
+  "preferredProducts": [
+    948,
+    1340,
+    858
+  ],
+  "productReviews": [
+    {
+      "productId": 1615,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-01-29T14:09:20.5628657+02:00"
+    },
+    {
+      "productId": 589,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-07-17T21:35:58.4755512+03:00"
+    },
+    {
+      "productId": 2557,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-01-07T21:55:45.6721335+02:00"
+    },
+    {
+      "productId": 463,
+      "reviewText": "This Optimization works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-07-11T22:16:05.8598055+03:00"
+    }
+  ]
+}

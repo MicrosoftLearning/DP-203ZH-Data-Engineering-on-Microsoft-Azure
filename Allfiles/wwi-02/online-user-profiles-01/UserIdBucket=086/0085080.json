@@ -1,0 +1,25 @@
+{
+  "userId": 85080,
+  "cartId": "ca9f0b1f-9a8c-47f3-a014-bde9fb176cfb",
+  "preferredProducts": [
+    4459,
+    596,
+    416,
+    4235,
+    4095,
+    1063,
+    510
+  ],
+  "productReviews": [
+    {
+      "productId": 4010,
+      "reviewText": "this Moroccan Dirham is awesome.",
+      "reviewDate": "2018-05-05T04:39:08.2576009+03:00"
+    },
+    {
+      "productId": 4311,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-05-02T00:37:02.6110317+03:00"
+    }
+  ]
+}

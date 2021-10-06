@@ -1,0 +1,33 @@
+{
+  "userId": 22710,
+  "cartId": "6e77f86c-fd15-4dc5-bfc4-228ac7745e2f",
+  "preferredProducts": [
+    4053,
+    1080,
+    1519,
+    4901,
+    427
+  ],
+  "productReviews": [
+    {
+      "productId": 3620,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-11-16T01:37:22.767158+02:00"
+    },
+    {
+      "productId": 4039,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-08-29T02:35:52.6194668+03:00"
+    },
+    {
+      "productId": 980,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-04-16T04:02:18.6709683+03:00"
+    },
+    {
+      "productId": 114,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-10-06T08:51:21.1680657+03:00"
+    }
+  ]
+}

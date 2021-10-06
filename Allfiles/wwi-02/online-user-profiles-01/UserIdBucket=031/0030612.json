@@ -1,0 +1,28 @@
+{
+  "userId": 30612,
+  "cartId": "10a07ee9-2500-488e-b09d-ff1b37e71ac9",
+  "preferredProducts": [
+    1572,
+    1628,
+    624,
+    2195,
+    2994
+  ],
+  "productReviews": [
+    {
+      "productId": 3608,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-03-06T14:24:54.6959173+02:00"
+    },
+    {
+      "productId": 1519,
+      "reviewText": "this extend is top-notch.",
+      "reviewDate": "2019-01-11T10:03:24.891417+02:00"
+    },
+    {
+      "productId": 552,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-07-15T11:34:02.491633+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 56234,
+  "cartId": "a744ae30-4428-4294-ac52-4c9608de79c8",
+  "preferredProducts": [
+    652,
+    714,
+    3487,
+    3108,
+    1674
+  ],
+  "productReviews": [
+    {
+      "productId": 1208,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-04-14T13:47:12.1796244+03:00"
+    },
+    {
+      "productId": 1820,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-01-14T22:34:08.3721141+02:00"
+    },
+    {
+      "productId": 2121,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-09-18T18:35:36.8159818+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 55821,
+  "cartId": "ac264a00-d7ae-4fcf-b4ca-97fe14c54f2e",
+  "preferredProducts": [
+    1747,
+    4174,
+    2892,
+    51
+  ],
+  "productReviews": [
+    {
+      "productId": 458,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-10-19T03:09:37.9934897+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-09-12T12:06:04.4094427+03:00"
+    },
+    {
+      "productId": 2619,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-06-14T11:47:14.4740737+03:00"
+    },
+    {
+      "productId": 4148,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-12-16T20:08:52.7902965+02:00"
+    }
+  ]
+}

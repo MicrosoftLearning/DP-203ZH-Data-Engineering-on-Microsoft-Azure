@@ -1,0 +1,27 @@
+{
+  "userId": 99862,
+  "cartId": "d261b391-ced7-4dba-ad8d-2559be480061",
+  "preferredProducts": [
+    1802,
+    4565,
+    4587,
+    3180
+  ],
+  "productReviews": [
+    {
+      "productId": 564,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-02-23T00:47:45.9940269+02:00"
+    },
+    {
+      "productId": 2119,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-02-21T01:10:34.4218603+02:00"
+    },
+    {
+      "productId": 3856,
+      "reviewText": "this neural is papery.",
+      "reviewDate": "2019-12-01T04:18:47.3975905+02:00"
+    }
+  ]
+}

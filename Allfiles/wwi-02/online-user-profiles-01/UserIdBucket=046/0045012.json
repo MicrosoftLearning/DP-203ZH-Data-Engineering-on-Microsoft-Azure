@@ -1,0 +1,23 @@
+{
+  "userId": 45012,
+  "cartId": "ac38564f-413e-41a2-828e-861a8ac8c0c5",
+  "preferredProducts": [
+    1852,
+    4195,
+    2680,
+    2907,
+    4145
+  ],
+  "productReviews": [
+    {
+      "productId": 4502,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-10-26T07:21:07.3008628+03:00"
+    },
+    {
+      "productId": 2521,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2020-03-09T13:17:35.7719752+02:00"
+    }
+  ]
+}

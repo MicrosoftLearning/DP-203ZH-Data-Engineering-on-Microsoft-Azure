@@ -1,0 +1,31 @@
+{
+  "userId": 61853,
+  "cartId": "fcd995df-8bef-42d4-942f-b18b839caae2",
+  "preferredProducts": [
+    2889,
+    275,
+    4012,
+    3633,
+    4082,
+    3297,
+    4466,
+    457
+  ],
+  "productReviews": [
+    {
+      "productId": 1020,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-12-01T15:39:34.4084085+02:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-06-13T09:50:13.9921326+03:00"
+    },
+    {
+      "productId": 3726,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-08-04T02:13:41.6589106+03:00"
+    }
+  ]
+}

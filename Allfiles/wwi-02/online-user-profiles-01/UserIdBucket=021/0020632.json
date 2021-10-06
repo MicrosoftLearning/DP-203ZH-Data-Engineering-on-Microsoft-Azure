@@ -1,0 +1,30 @@
+{
+  "userId": 20632,
+  "cartId": "550bbba1-be0e-4c18-b03e-fbd61fcac403",
+  "preferredProducts": [
+    4143,
+    613
+  ],
+  "productReviews": [
+    {
+      "productId": 513,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-08-24T01:58:42.7322448+03:00"
+    },
+    {
+      "productId": 2819,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-09-13T14:18:51.3304666+03:00"
+    },
+    {
+      "productId": 454,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-08-31T14:39:49.4017799+03:00"
+    },
+    {
+      "productId": 4989,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-12-27T07:14:29.7780031+02:00"
+    }
+  ]
+}

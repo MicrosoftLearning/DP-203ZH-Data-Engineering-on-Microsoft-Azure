@@ -1,0 +1,37 @@
+{
+  "userId": 42176,
+  "cartId": "4345148b-a459-4a30-aa64-5bf8b0e1bac4",
+  "preferredProducts": [
+    1203,
+    3067,
+    100,
+    1359,
+    805,
+    2830,
+    3585,
+    4091,
+    2759
+  ],
+  "productReviews": [
+    {
+      "productId": 2906,
+      "reviewText": "this Senior is revolting.",
+      "reviewDate": "2017-09-05T20:56:31.5768372+03:00"
+    },
+    {
+      "productId": 652,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-10-13T14:37:51.6718256+03:00"
+    },
+    {
+      "productId": 2595,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-10-28T21:57:18.3024757+02:00"
+    },
+    {
+      "productId": 3412,
+      "reviewText": "This parse works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2019-02-02T13:04:18.976637+02:00"
+    }
+  ]
+}

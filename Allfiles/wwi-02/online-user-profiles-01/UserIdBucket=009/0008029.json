@@ -1,0 +1,30 @@
+{
+  "userId": 8029,
+  "cartId": "624d3025-e629-4846-a011-4147584f59ea",
+  "preferredProducts": [
+    1339,
+    4259,
+    2989,
+    4525,
+    647,
+    1657,
+    4768
+  ],
+  "productReviews": [
+    {
+      "productId": 452,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2020-02-22T17:18:54.3511001+02:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "this installation is snowy.",
+      "reviewDate": "2017-10-15T13:01:58.169503+03:00"
+    },
+    {
+      "productId": 2341,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-05-31T14:42:09.0031709+03:00"
+    }
+  ]
+}

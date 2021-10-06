@@ -1,0 +1,30 @@
+{
+  "userId": 49567,
+  "cartId": "b6989061-8f87-4c5d-a592-46c41abea13c",
+  "preferredProducts": [
+    4661,
+    3730
+  ],
+  "productReviews": [
+    {
+      "productId": 2411,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-11-17T14:54:18.3816625+02:00"
+    },
+    {
+      "productId": 2941,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-02-01T04:42:59.2551133+02:00"
+    },
+    {
+      "productId": 4842,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-03-29T13:13:04.234209+03:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-07-04T07:04:44.7320218+03:00"
+    }
+  ]
+}

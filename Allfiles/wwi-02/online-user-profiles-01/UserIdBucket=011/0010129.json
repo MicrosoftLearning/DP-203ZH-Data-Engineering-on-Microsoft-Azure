@@ -1,0 +1,24 @@
+{
+  "userId": 10129,
+  "cartId": "9a187ee7-9f11-4903-af98-1d33ca0e2c9c",
+  "preferredProducts": [
+    699,
+    4968,
+    4641,
+    1465,
+    3090,
+    4443
+  ],
+  "productReviews": [
+    {
+      "productId": 3462,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-07-05T21:16:20.95105+03:00"
+    },
+    {
+      "productId": 2710,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-08-03T01:53:25.3471282+03:00"
+    }
+  ]
+}

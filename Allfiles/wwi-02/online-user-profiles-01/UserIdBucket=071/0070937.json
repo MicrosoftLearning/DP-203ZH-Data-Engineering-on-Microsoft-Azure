@@ -1,0 +1,42 @@
+{
+  "userId": 70937,
+  "cartId": "e65be541-8d40-4fbb-95d8-dabbbaa7fad3",
+  "preferredProducts": [
+    4109,
+    789,
+    1930,
+    1095,
+    1095,
+    1507,
+    624,
+    930,
+    4846
+  ],
+  "productReviews": [
+    {
+      "productId": 1709,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-01-01T19:46:19.3937842+02:00"
+    },
+    {
+      "productId": 1776,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2016-11-27T03:59:02.5010097+02:00"
+    },
+    {
+      "productId": 3944,
+      "reviewText": "this input is top-notch.",
+      "reviewDate": "2018-09-30T12:45:41.1777933+03:00"
+    },
+    {
+      "productId": 4445,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-11-10T08:30:18.7335608+02:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-07-19T14:34:28.3746259+03:00"
+    }
+  ]
+}

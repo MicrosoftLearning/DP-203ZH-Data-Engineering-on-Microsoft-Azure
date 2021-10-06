@@ -1,0 +1,24 @@
+{
+  "userId": 38295,
+  "cartId": "6d84ea54-9ace-422c-9a66-6ec06ecbaeea",
+  "preferredProducts": [
+    3172,
+    2854,
+    2612,
+    3541,
+    4049,
+    4655
+  ],
+  "productReviews": [
+    {
+      "productId": 2744,
+      "reviewText": "This is a really good Glens.",
+      "reviewDate": "2018-08-15T02:25:42.3730466+03:00"
+    },
+    {
+      "productId": 1091,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-04-02T02:11:59.5715659+03:00"
+    }
+  ]
+}

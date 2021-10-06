@@ -1,0 +1,29 @@
+{
+  "userId": 2230,
+  "cartId": "9298a271-a13d-4c55-a348-c15da9d44228",
+  "preferredProducts": [
+    3029
+  ],
+  "productReviews": [
+    {
+      "productId": 1975,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-07-17T04:05:44.6359341+03:00"
+    },
+    {
+      "productId": 2420,
+      "reviewText": "this indexing is perplexed.",
+      "reviewDate": "2019-08-07T22:10:25.4455577+03:00"
+    },
+    {
+      "productId": 1944,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-06-02T10:56:39.5804454+03:00"
+    },
+    {
+      "productId": 2142,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-07-22T18:29:25.1965821+03:00"
+    }
+  ]
+}

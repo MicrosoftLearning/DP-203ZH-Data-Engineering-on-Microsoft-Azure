@@ -1,0 +1,31 @@
+{
+  "userId": 3645,
+  "cartId": "cbc56c4a-ccb4-43f0-afe5-118c5802a20d",
+  "preferredProducts": [
+    57,
+    2102,
+    4418,
+    4674,
+    1362,
+    3535,
+    3899,
+    4634
+  ],
+  "productReviews": [
+    {
+      "productId": 3477,
+      "reviewText": "This withdrawal, does exactly what it's suppose to do.",
+      "reviewDate": "2018-07-08T18:28:01.691119+03:00"
+    },
+    {
+      "productId": 3921,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-12-17T20:28:45.6003039+02:00"
+    },
+    {
+      "productId": 3372,
+      "reviewText": "this 1080p is vertical.",
+      "reviewDate": "2017-02-23T08:19:07.9640724+02:00"
+    }
+  ]
+}

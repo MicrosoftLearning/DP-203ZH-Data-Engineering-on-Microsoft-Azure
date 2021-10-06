@@ -1,0 +1,31 @@
+{
+  "userId": 88437,
+  "cartId": "4786f609-8b3a-4b90-a01a-3c091bbc3d3a",
+  "preferredProducts": [
+    3115,
+    4065,
+    1354
+  ],
+  "productReviews": [
+    {
+      "productId": 2889,
+      "reviewText": "works okay.",
+      "reviewDate": "2020-03-21T21:02:41.2368113+02:00"
+    },
+    {
+      "productId": 4225,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-08-31T10:00:53.0539469+03:00"
+    },
+    {
+      "productId": 3045,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-08-05T05:32:36.257446+03:00"
+    },
+    {
+      "productId": 1144,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-10-11T01:21:04.5476066+03:00"
+    }
+  ]
+}

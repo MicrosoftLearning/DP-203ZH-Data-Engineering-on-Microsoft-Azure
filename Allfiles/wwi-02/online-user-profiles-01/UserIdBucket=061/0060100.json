@@ -1,0 +1,36 @@
+{
+  "userId": 60100,
+  "cartId": "3c7b99d1-c499-4d4a-b293-23233d45c079",
+  "preferredProducts": [
+    2746,
+    340,
+    3703
+  ],
+  "productReviews": [
+    {
+      "productId": 4378,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-06-08T07:06:26.5707701+03:00"
+    },
+    {
+      "productId": 4567,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-01-22T08:54:59.7384697+02:00"
+    },
+    {
+      "productId": 1416,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-09-03T04:22:40.4672019+03:00"
+    },
+    {
+      "productId": 4315,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-06-02T18:44:42.8229344+03:00"
+    },
+    {
+      "productId": 361,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-07-27T10:26:37.8989212+03:00"
+    }
+  ]
+}

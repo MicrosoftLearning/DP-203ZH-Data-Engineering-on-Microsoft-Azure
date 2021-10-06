@@ -1,0 +1,42 @@
+{
+  "userId": 42999,
+  "cartId": "50ce13d3-520b-4362-a93c-c067b5be5a3d",
+  "preferredProducts": [
+    2429,
+    4467,
+    460,
+    692,
+    525,
+    128,
+    530,
+    4179,
+    1241
+  ],
+  "productReviews": [
+    {
+      "productId": 4312,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-04-27T01:45:25.9055569+03:00"
+    },
+    {
+      "productId": 1012,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-01-04T22:12:57.7180761+02:00"
+    },
+    {
+      "productId": 515,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-09-07T20:44:29.2191701+03:00"
+    },
+    {
+      "productId": 1917,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-01-16T06:32:20.3154268+02:00"
+    },
+    {
+      "productId": 2845,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-03-04T07:14:23.1537684+02:00"
+    }
+  ]
+}

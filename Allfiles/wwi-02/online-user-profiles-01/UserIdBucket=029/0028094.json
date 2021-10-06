@@ -1,0 +1,30 @@
+{
+  "userId": 28094,
+  "cartId": "b04b4077-f2a4-4baa-91e6-85240bb61e20",
+  "preferredProducts": [
+    3617,
+    777
+  ],
+  "productReviews": [
+    {
+      "productId": 1389,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-03-03T22:41:39.3479218+02:00"
+    },
+    {
+      "productId": 4616,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-03-21T17:52:20.9430619+02:00"
+    },
+    {
+      "productId": 3638,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-08-12T22:02:33.9271405+03:00"
+    },
+    {
+      "productId": 3761,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-10-19T12:29:07.8863488+03:00"
+    }
+  ]
+}

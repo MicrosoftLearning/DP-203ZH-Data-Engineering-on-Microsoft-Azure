@@ -1,0 +1,37 @@
+{
+  "userId": 76398,
+  "cartId": "6f05ec6c-45af-4eb6-beff-8feeb1e82e05",
+  "preferredProducts": [
+    2144,
+    1632,
+    4805,
+    2453,
+    920,
+    315,
+    2825,
+    3071,
+    2720
+  ],
+  "productReviews": [
+    {
+      "productId": 392,
+      "reviewText": "this Alaska is nifty.",
+      "reviewDate": "2018-12-26T21:45:49.0805282+02:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-01-30T06:24:58.2211914+02:00"
+    },
+    {
+      "productId": 2996,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-11-05T18:55:50.8291917+02:00"
+    },
+    {
+      "productId": 1419,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-01-12T18:39:58.3034014+02:00"
+    }
+  ]
+}

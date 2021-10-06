@@ -1,0 +1,36 @@
+{
+  "userId": 65333,
+  "cartId": "ce96f9e2-e429-4994-9abe-d62ffa3a45e3",
+  "preferredProducts": [
+    1456,
+    3388,
+    3885
+  ],
+  "productReviews": [
+    {
+      "productId": 903,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-02-13T01:05:51.0365934+02:00"
+    },
+    {
+      "productId": 410,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-08-07T12:37:46.1466652+03:00"
+    },
+    {
+      "productId": 1244,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-01-25T06:24:02.8117564+02:00"
+    },
+    {
+      "productId": 668,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-05-10T05:00:43.671544+03:00"
+    },
+    {
+      "productId": 1042,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-01-25T11:10:42.5636634+02:00"
+    }
+  ]
+}

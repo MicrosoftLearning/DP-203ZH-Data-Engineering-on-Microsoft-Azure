@@ -1,0 +1,26 @@
+{
+  "userId": 60772,
+  "cartId": "5ad5ad75-0b29-49a1-9f62-94a169b6a633",
+  "preferredProducts": [
+    1594,
+    386,
+    4024
+  ],
+  "productReviews": [
+    {
+      "productId": 580,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-11-18T00:23:46.5055639+02:00"
+    },
+    {
+      "productId": 198,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-05-21T22:45:29.9108861+03:00"
+    },
+    {
+      "productId": 687,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2020-04-16T12:53:34.819104+03:00"
+    }
+  ]
+}

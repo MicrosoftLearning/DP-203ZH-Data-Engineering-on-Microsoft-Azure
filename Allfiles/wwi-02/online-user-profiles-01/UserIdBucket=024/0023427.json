@@ -1,0 +1,28 @@
+{
+  "userId": 23427,
+  "cartId": "587f90a0-f378-4876-a218-a5aaeb3753de",
+  "preferredProducts": [
+    3849,
+    1879,
+    2456,
+    4478,
+    3584
+  ],
+  "productReviews": [
+    {
+      "productId": 4880,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-12-10T21:54:55.3345988+02:00"
+    },
+    {
+      "productId": 596,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-09-03T06:00:29.0851086+03:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-11-24T11:24:30.6046143+02:00"
+    }
+  ]
+}

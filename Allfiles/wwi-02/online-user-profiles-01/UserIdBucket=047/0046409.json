@@ -1,0 +1,23 @@
+{
+  "userId": 46409,
+  "cartId": "290e4aba-6e2d-456b-9d8d-9a012d414b1e",
+  "preferredProducts": [
+    3500,
+    570,
+    3792,
+    2715,
+    1740
+  ],
+  "productReviews": [
+    {
+      "productId": 4000,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-01-10T17:45:50.5510451+02:00"
+    },
+    {
+      "productId": 2585,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2020-01-21T17:19:58.805741+02:00"
+    }
+  ]
+}

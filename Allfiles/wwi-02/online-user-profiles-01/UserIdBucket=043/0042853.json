@@ -1,0 +1,23 @@
+{
+  "userId": 42853,
+  "cartId": "387bda83-9a8d-4d29-9544-731d5a4e1898",
+  "preferredProducts": [
+    3570,
+    4769,
+    476,
+    4913,
+    2106
+  ],
+  "productReviews": [
+    {
+      "productId": 1728,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-12-13T18:24:18.9028998+02:00"
+    },
+    {
+      "productId": 3108,
+      "reviewText": "this withdrawal is awesome.",
+      "reviewDate": "2017-07-27T03:06:40.4380534+03:00"
+    }
+  ]
+}

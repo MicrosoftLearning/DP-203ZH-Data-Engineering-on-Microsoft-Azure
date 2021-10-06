@@ -1,0 +1,26 @@
+{
+  "userId": 92004,
+  "cartId": "03ba824c-61e5-4dda-b1d4-55b34b0cb797",
+  "preferredProducts": [
+    3422,
+    2017,
+    220
+  ],
+  "productReviews": [
+    {
+      "productId": 276,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-05-01T05:10:31.3372031+03:00"
+    },
+    {
+      "productId": 3394,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-05-26T23:16:49.3072737+03:00"
+    },
+    {
+      "productId": 998,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2017-02-14T18:38:48.0705745+02:00"
+    }
+  ]
+}

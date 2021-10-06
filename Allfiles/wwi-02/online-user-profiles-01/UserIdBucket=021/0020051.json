@@ -1,0 +1,22 @@
+{
+  "userId": 20051,
+  "cartId": "7ff1e577-ad57-4cd6-b846-852bdfd7b2da",
+  "preferredProducts": [
+    3796,
+    381,
+    1283,
+    3531
+  ],
+  "productReviews": [
+    {
+      "productId": 4844,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-08-08T06:31:51.3740541+03:00"
+    },
+    {
+      "productId": 4116,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-10-14T00:26:50.9933038+03:00"
+    }
+  ]
+}

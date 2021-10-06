@@ -1,0 +1,33 @@
+{
+  "userId": 57281,
+  "cartId": "f9c784db-d8c2-4d44-bf16-4366dc83efee",
+  "preferredProducts": [
+    1133,
+    4442,
+    4573,
+    1012,
+    667,
+    209,
+    3400,
+    108,
+    2936,
+    4982
+  ],
+  "productReviews": [
+    {
+      "productId": 1000,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-07-18T11:09:39.3473091+03:00"
+    },
+    {
+      "productId": 417,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-12-16T02:26:31.6947015+02:00"
+    },
+    {
+      "productId": 4902,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-11-05T03:46:18.7887576+02:00"
+    }
+  ]
+}

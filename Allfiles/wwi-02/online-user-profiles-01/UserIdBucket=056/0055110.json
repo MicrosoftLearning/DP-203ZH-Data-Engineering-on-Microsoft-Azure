@@ -1,0 +1,31 @@
+{
+  "userId": 55110,
+  "cartId": "d43e17bf-f45f-4e79-aace-dffde52759f2",
+  "preferredProducts": [
+    2451,
+    2145,
+    4099
+  ],
+  "productReviews": [
+    {
+      "productId": 4590,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-12-26T04:37:10.4215631+02:00"
+    },
+    {
+      "productId": 1919,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-10-13T04:42:48.5238136+03:00"
+    },
+    {
+      "productId": 2067,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-04-05T19:12:46.8010958+03:00"
+    },
+    {
+      "productId": 4963,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-03-13T09:14:28.7951513+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 42398,
+  "cartId": "5e72bc57-a4c8-4b8a-8953-af245902e969",
+  "preferredProducts": [
+    4599,
+    3240,
+    1466,
+    2888,
+    2850
+  ],
+  "productReviews": [
+    {
+      "productId": 1485,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-10-16T09:00:53.5022134+03:00"
+    },
+    {
+      "productId": 4056,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-10-10T18:33:32.5518039+03:00"
+    },
+    {
+      "productId": 74,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-10-12T23:32:51.5201468+03:00"
+    },
+    {
+      "productId": 715,
+      "reviewText": "This Regional works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-05-10T02:25:09.1875201+03:00"
+    }
+  ]
+}

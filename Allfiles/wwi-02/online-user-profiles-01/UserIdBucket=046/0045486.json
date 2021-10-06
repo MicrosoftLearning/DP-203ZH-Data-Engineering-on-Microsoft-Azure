@@ -1,0 +1,28 @@
+{
+  "userId": 45486,
+  "cartId": "e50dad50-2fa1-4bfd-8e37-08223bc3d1f5",
+  "preferredProducts": [
+    1956,
+    2506,
+    4769,
+    4411,
+    3864,
+    1099,
+    2704,
+    2328,
+    302,
+    4616
+  ],
+  "productReviews": [
+    {
+      "productId": 1000,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-06-17T16:20:58.0596585+03:00"
+    },
+    {
+      "productId": 4583,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-11-25T16:11:53.6230767+02:00"
+    }
+  ]
+}

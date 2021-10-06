@@ -1,0 +1,29 @@
+{
+  "userId": 12401,
+  "cartId": "afae04ac-e39a-497d-8a04-521361bf212b",
+  "preferredProducts": [
+    4507,
+    2077,
+    2825,
+    1195,
+    3806,
+    1308
+  ],
+  "productReviews": [
+    {
+      "productId": 471,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2016-10-11T11:20:57.2355098+03:00"
+    },
+    {
+      "productId": 476,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-10-14T11:30:33.2064434+03:00"
+    },
+    {
+      "productId": 3621,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-05-22T08:36:10.7871899+03:00"
+    }
+  ]
+}

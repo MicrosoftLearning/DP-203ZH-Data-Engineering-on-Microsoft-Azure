@@ -1,0 +1,33 @@
+{
+  "userId": 97961,
+  "cartId": "5b354a45-c3cc-48d7-bffe-8f2ea1aced1b",
+  "preferredProducts": [
+    1293,
+    1053,
+    592,
+    4486,
+    1311,
+    1235,
+    3367,
+    2809,
+    4287,
+    1328
+  ],
+  "productReviews": [
+    {
+      "productId": 2671,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-11-05T04:43:33.1975241+02:00"
+    },
+    {
+      "productId": 1117,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-04-12T03:55:36.7729871+03:00"
+    },
+    {
+      "productId": 2707,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-04-18T10:16:30.2649353+03:00"
+    }
+  ]
+}

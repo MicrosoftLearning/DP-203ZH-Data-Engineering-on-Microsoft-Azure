@@ -1,0 +1,38 @@
+{
+  "userId": 6199,
+  "cartId": "4feacc66-8086-43d0-bfd3-a7439e06de6d",
+  "preferredProducts": [
+    4535,
+    2012,
+    3938,
+    657,
+    3151,
+    2578,
+    1245,
+    1466,
+    1343,
+    3584
+  ],
+  "productReviews": [
+    {
+      "productId": 2620,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-04-26T10:33:59.4500237+03:00"
+    },
+    {
+      "productId": 3150,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-09-11T20:13:08.3210731+03:00"
+    },
+    {
+      "productId": 4144,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-02-06T22:00:11.1563681+02:00"
+    },
+    {
+      "productId": 4138,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-06-04T06:09:57.6355342+03:00"
+    }
+  ]
+}

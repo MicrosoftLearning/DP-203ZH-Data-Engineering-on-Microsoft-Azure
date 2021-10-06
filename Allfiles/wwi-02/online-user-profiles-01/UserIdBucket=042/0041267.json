@@ -1,0 +1,37 @@
+{
+  "userId": 41267,
+  "cartId": "d8c47ff5-fd68-46a3-8f64-b46e80514aa1",
+  "preferredProducts": [
+    4220,
+    1027,
+    4826,
+    1706,
+    255,
+    2818,
+    4526,
+    1810,
+    1549
+  ],
+  "productReviews": [
+    {
+      "productId": 882,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-09-17T19:14:24.1386194+03:00"
+    },
+    {
+      "productId": 1772,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-02T18:25:49.3282064+02:00"
+    },
+    {
+      "productId": 1835,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2020-04-30T08:50:09.5917072+03:00"
+    },
+    {
+      "productId": 2156,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-11-18T04:09:50.7426776+02:00"
+    }
+  ]
+}

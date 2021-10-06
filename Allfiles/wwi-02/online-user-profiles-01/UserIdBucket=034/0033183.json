@@ -1,0 +1,35 @@
+{
+  "userId": 33183,
+  "cartId": "8298f9cf-3e60-4c52-abc5-048e54f42262",
+  "preferredProducts": [
+    2676,
+    3405,
+    2030,
+    390,
+    753,
+    3823,
+    4121
+  ],
+  "productReviews": [
+    {
+      "productId": 368,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-01-31T01:54:28.0590856+02:00"
+    },
+    {
+      "productId": 4939,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-04-24T22:09:06.3425408+03:00"
+    },
+    {
+      "productId": 3486,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-09-03T15:13:35.9467978+03:00"
+    },
+    {
+      "productId": 2220,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-12-21T07:16:00.129407+02:00"
+    }
+  ]
+}

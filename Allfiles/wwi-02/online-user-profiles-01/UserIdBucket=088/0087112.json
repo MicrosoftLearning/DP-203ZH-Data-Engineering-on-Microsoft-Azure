@@ -1,0 +1,27 @@
+{
+  "userId": 87112,
+  "cartId": "0e3f5e7a-1d62-4549-8d51-b2917016e6db",
+  "preferredProducts": [
+    3899,
+    3589,
+    3996,
+    3720,
+    1825,
+    2766,
+    3153,
+    3249,
+    3561
+  ],
+  "productReviews": [
+    {
+      "productId": 2160,
+      "reviewText": "this payment is standard.",
+      "reviewDate": "2018-12-31T03:56:58.7182829+02:00"
+    },
+    {
+      "productId": 1773,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-12-02T11:00:54.5742997+02:00"
+    }
+  ]
+}

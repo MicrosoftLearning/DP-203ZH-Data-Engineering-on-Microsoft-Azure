@@ -1,0 +1,29 @@
+{
+  "userId": 59748,
+  "cartId": "e34b1db6-8bd1-40da-9774-112a5756599f",
+  "preferredProducts": [
+    3933,
+    1026,
+    3966,
+    2210,
+    2308,
+    3083
+  ],
+  "productReviews": [
+    {
+      "productId": 1946,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-03-01T14:41:16.4353844+02:00"
+    },
+    {
+      "productId": 62,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-11-22T04:50:11.6093119+02:00"
+    },
+    {
+      "productId": 3639,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-08-02T18:09:51.0600577+03:00"
+    }
+  ]
+}

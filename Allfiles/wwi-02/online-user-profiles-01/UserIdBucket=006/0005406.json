@@ -1,0 +1,39 @@
+{
+  "userId": 5406,
+  "cartId": "012433cd-1dfb-4852-b3b8-3e4f7f651ae9",
+  "preferredProducts": [
+    1882,
+    330,
+    580,
+    2873,
+    598,
+    3494
+  ],
+  "productReviews": [
+    {
+      "productId": 4634,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-05-07T21:05:03.5455403+03:00"
+    },
+    {
+      "productId": 3775,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-02-09T18:57:44.7541176+02:00"
+    },
+    {
+      "productId": 678,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2020-03-24T01:56:45.2262187+02:00"
+    },
+    {
+      "productId": 509,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-03-18T09:00:39.5244865+02:00"
+    },
+    {
+      "productId": 4379,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-03-23T19:39:08.6939046+02:00"
+    }
+  ]
+}

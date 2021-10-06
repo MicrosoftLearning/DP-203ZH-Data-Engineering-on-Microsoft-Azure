@@ -1,0 +1,32 @@
+{
+  "userId": 30677,
+  "cartId": "f32c54f9-6e20-4cfc-829d-0d9011bfa945",
+  "preferredProducts": [
+    2646,
+    470,
+    948,
+    2343,
+    4959,
+    4769,
+    772,
+    4111,
+    4875
+  ],
+  "productReviews": [
+    {
+      "productId": 1932,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-08-03T17:37:29.8699402+03:00"
+    },
+    {
+      "productId": 1207,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-10-11T12:12:23.3356308+03:00"
+    },
+    {
+      "productId": 3715,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-12-15T22:46:22.0827785+02:00"
+    }
+  ]
+}

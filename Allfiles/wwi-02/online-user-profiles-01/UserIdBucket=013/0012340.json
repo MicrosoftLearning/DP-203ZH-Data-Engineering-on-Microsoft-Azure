@@ -1,0 +1,26 @@
+{
+  "userId": 12340,
+  "cartId": "b25eb18f-5d6b-4afb-85c1-122e9361f7aa",
+  "preferredProducts": [
+    2223,
+    4194,
+    1186,
+    1719,
+    3173,
+    680,
+    4468,
+    793
+  ],
+  "productReviews": [
+    {
+      "productId": 516,
+      "reviewText": "This Refined Concrete Salad works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-09-28T13:12:19.7966195+03:00"
+    },
+    {
+      "productId": 1931,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-11-22T06:08:44.9617073+02:00"
+    }
+  ]
+}

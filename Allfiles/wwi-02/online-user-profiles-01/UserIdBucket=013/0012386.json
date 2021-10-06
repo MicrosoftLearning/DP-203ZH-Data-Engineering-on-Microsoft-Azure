@@ -1,0 +1,23 @@
+{
+  "userId": 12386,
+  "cartId": "b4ea1d8e-8974-49dd-8879-a97fa78b3dc7",
+  "preferredProducts": [
+    3537,
+    688,
+    188,
+    588,
+    204
+  ],
+  "productReviews": [
+    {
+      "productId": 1999,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-09-19T21:10:57.5530978+03:00"
+    },
+    {
+      "productId": 342,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-10-01T07:16:24.7761225+03:00"
+    }
+  ]
+}

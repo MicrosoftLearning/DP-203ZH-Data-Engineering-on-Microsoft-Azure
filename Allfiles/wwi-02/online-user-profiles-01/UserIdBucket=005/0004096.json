@@ -1,0 +1,26 @@
+{
+  "userId": 4096,
+  "cartId": "7c9d091c-37bc-4b4a-9da0-8ec8806ab462",
+  "preferredProducts": [
+    909,
+    4556,
+    3064
+  ],
+  "productReviews": [
+    {
+      "productId": 640,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-04-24T05:49:07.1297524+03:00"
+    },
+    {
+      "productId": 3120,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-10-02T00:58:56.9276381+03:00"
+    },
+    {
+      "productId": 4663,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-02-13T23:29:07.655362+02:00"
+    }
+  ]
+}

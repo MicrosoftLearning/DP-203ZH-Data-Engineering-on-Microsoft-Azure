@@ -1,0 +1,25 @@
+{
+  "userId": 94233,
+  "cartId": "21bc99ed-a6a3-49c3-87d8-325e1eac057d",
+  "preferredProducts": [
+    1137,
+    2409,
+    3963,
+    3723,
+    4722,
+    678,
+    240
+  ],
+  "productReviews": [
+    {
+      "productId": 3673,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-03-14T04:47:22.8560709+02:00"
+    },
+    {
+      "productId": 3705,
+      "reviewText": "this back-end is ratty.",
+      "reviewDate": "2020-02-18T03:52:12.9858381+02:00"
+    }
+  ]
+}

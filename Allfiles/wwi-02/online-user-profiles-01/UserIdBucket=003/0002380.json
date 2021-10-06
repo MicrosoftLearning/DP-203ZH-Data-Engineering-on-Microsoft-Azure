@@ -1,0 +1,37 @@
+{
+  "userId": 2380,
+  "cartId": "4b91b125-3624-4429-8270-af4412efccb1",
+  "preferredProducts": [
+    1914,
+    2943,
+    2633,
+    1101
+  ],
+  "productReviews": [
+    {
+      "productId": 3070,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-11-12T02:24:35.9286645+02:00"
+    },
+    {
+      "productId": 1157,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-06-22T12:08:35.3135288+03:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-05-22T19:37:49.370362+03:00"
+    },
+    {
+      "productId": 1525,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-05-23T21:51:38.9730446+03:00"
+    },
+    {
+      "productId": 3830,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-07-26T21:05:25.9519575+03:00"
+    }
+  ]
+}

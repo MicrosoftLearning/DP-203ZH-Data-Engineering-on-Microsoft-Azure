@@ -1,0 +1,33 @@
+{
+  "userId": 46086,
+  "cartId": "756ae80f-3408-478a-9d2c-95623380fba5",
+  "preferredProducts": [
+    1274,
+    3225,
+    2868,
+    1015,
+    245,
+    1237,
+    3515,
+    3388,
+    4632,
+    3960
+  ],
+  "productReviews": [
+    {
+      "productId": 815,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-03-15T08:41:42.0887783+02:00"
+    },
+    {
+      "productId": 1249,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-06-29T02:18:10.0530626+03:00"
+    },
+    {
+      "productId": 8,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-07-23T12:48:53.264477+03:00"
+    }
+  ]
+}

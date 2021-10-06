@@ -1,0 +1,40 @@
+{
+  "userId": 80887,
+  "cartId": "66a85297-8902-47cd-94f2-c2c02e966e8c",
+  "preferredProducts": [
+    3150,
+    3464,
+    4347,
+    277,
+    176,
+    3620,
+    1856
+  ],
+  "productReviews": [
+    {
+      "productId": 1297,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-08-15T02:39:17.0004888+03:00"
+    },
+    {
+      "productId": 1483,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-05-07T01:40:39.3025009+03:00"
+    },
+    {
+      "productId": 3323,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-09-08T05:39:22.0877506+03:00"
+    },
+    {
+      "productId": 786,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-06-27T07:55:14.7823036+03:00"
+    },
+    {
+      "productId": 3508,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-11-13T16:32:17.2940388+02:00"
+    }
+  ]
+}

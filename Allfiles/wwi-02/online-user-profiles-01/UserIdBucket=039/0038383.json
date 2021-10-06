@@ -1,0 +1,31 @@
+{
+  "userId": 38383,
+  "cartId": "8d160948-b953-48ff-aa68-514964d0dcc1",
+  "preferredProducts": [
+    3427,
+    724,
+    1307,
+    2680,
+    519,
+    761,
+    3674,
+    1550
+  ],
+  "productReviews": [
+    {
+      "productId": 508,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-03-15T14:59:08.6751411+02:00"
+    },
+    {
+      "productId": 769,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-12-05T18:17:10.3427946+02:00"
+    },
+    {
+      "productId": 3990,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-01-19T01:04:51.674867+02:00"
+    }
+  ]
+}

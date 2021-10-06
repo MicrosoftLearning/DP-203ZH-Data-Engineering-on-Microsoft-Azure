@@ -1,0 +1,40 @@
+{
+  "userId": 96080,
+  "cartId": "61f100e8-4a6f-442a-b189-b37f9bb8b192",
+  "preferredProducts": [
+    3324,
+    3093,
+    287,
+    849,
+    1242,
+    2799,
+    4160
+  ],
+  "productReviews": [
+    {
+      "productId": 2329,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-09-03T18:04:40.6184614+03:00"
+    },
+    {
+      "productId": 3862,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-05-19T04:08:15.9438079+03:00"
+    },
+    {
+      "productId": 2118,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-08-28T15:57:13.4192397+03:00"
+    },
+    {
+      "productId": 1100,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-08-28T20:03:29.4702309+03:00"
+    },
+    {
+      "productId": 968,
+      "reviewText": "This Islands works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-08-29T19:51:51.7881625+03:00"
+    }
+  ]
+}

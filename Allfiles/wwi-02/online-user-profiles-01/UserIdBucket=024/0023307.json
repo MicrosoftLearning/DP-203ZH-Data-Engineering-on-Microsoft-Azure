@@ -1,0 +1,36 @@
+{
+  "userId": 23307,
+  "cartId": "923f92d7-6813-45c6-b2ff-5111768c349e",
+  "preferredProducts": [
+    3858,
+    1457,
+    3550
+  ],
+  "productReviews": [
+    {
+      "productId": 1122,
+      "reviewText": "this Metrics is ratty.",
+      "reviewDate": "2018-11-02T10:39:22.9117962+02:00"
+    },
+    {
+      "productId": 3522,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-12-02T01:58:34.03345+02:00"
+    },
+    {
+      "productId": 2667,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-12-09T23:02:54.9293973+02:00"
+    },
+    {
+      "productId": 4300,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-05-12T22:19:05.5901708+03:00"
+    },
+    {
+      "productId": 3885,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-10-15T15:04:58.4357268+03:00"
+    }
+  ]
+}

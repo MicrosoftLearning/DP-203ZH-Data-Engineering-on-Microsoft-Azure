@@ -1,0 +1,31 @@
+{
+  "userId": 37107,
+  "cartId": "b1c58286-043c-4ea5-bfbf-e8a395f275e4",
+  "preferredProducts": [
+    4568,
+    1084,
+    3374
+  ],
+  "productReviews": [
+    {
+      "productId": 3652,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-11-16T05:54:09.0712121+02:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-06-16T05:21:14.0025902+03:00"
+    },
+    {
+      "productId": 2856,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-08-07T17:04:36.3627211+03:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-01-02T03:57:19.3079547+02:00"
+    }
+  ]
+}

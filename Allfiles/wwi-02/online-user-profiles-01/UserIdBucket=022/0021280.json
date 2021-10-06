@@ -1,0 +1,38 @@
+{
+  "userId": 21280,
+  "cartId": "5a81bc6e-c0ba-4c3c-b5e0-d2cdbfcd848c",
+  "preferredProducts": [
+    518,
+    3888,
+    2509,
+    4291,
+    1494,
+    2417,
+    3728,
+    3875,
+    3737,
+    3347
+  ],
+  "productReviews": [
+    {
+      "productId": 839,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-03-23T04:53:42.9584371+02:00"
+    },
+    {
+      "productId": 3386,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-11-18T09:37:13.5030086+02:00"
+    },
+    {
+      "productId": 3114,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-07-01T05:24:01.3627176+03:00"
+    },
+    {
+      "productId": 3097,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-09-22T13:22:22.2178453+03:00"
+    }
+  ]
+}

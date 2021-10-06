@@ -1,0 +1,36 @@
+{
+  "userId": 32443,
+  "cartId": "c1a5dbc0-b47f-4d1c-8c04-d1e9c116f0bd",
+  "preferredProducts": [
+    4422,
+    1622,
+    1322
+  ],
+  "productReviews": [
+    {
+      "productId": 3424,
+      "reviewText": "this open architecture is awesome.",
+      "reviewDate": "2019-10-29T02:07:07.1183543+02:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-07-21T23:57:41.6881855+03:00"
+    },
+    {
+      "productId": 4545,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-09-05T15:13:52.0117789+03:00"
+    },
+    {
+      "productId": 2908,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-01-01T13:50:12.2334551+02:00"
+    },
+    {
+      "productId": 566,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-04-27T00:58:34.1341673+03:00"
+    }
+  ]
+}

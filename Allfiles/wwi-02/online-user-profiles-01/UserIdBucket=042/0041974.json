@@ -1,0 +1,33 @@
+{
+  "userId": 41974,
+  "cartId": "28238a49-c1cd-4861-b3ba-5ff31a17f12e",
+  "preferredProducts": [
+    2497,
+    3895,
+    2078,
+    902,
+    2502,
+    4165,
+    1236,
+    2425,
+    4757,
+    3092
+  ],
+  "productReviews": [
+    {
+      "productId": 1210,
+      "reviewText": "This is a really good Dynamic.",
+      "reviewDate": "2019-03-06T15:06:07.6470025+02:00"
+    },
+    {
+      "productId": 1159,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-03-11T01:04:01.4019559+02:00"
+    },
+    {
+      "productId": 3331,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-10-15T23:47:55.4735143+03:00"
+    }
+  ]
+}

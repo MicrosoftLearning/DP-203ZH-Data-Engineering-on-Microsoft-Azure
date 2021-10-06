@@ -1,0 +1,30 @@
+{
+  "userId": 79230,
+  "cartId": "a3c9da47-236f-43ba-a8a0-7cfb29395ad0",
+  "preferredProducts": [
+    291,
+    1280
+  ],
+  "productReviews": [
+    {
+      "productId": 1920,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-09-11T22:18:48.3546614+03:00"
+    },
+    {
+      "productId": 2911,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-03-16T21:19:36.6097526+02:00"
+    },
+    {
+      "productId": 869,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-01-05T20:01:20.3766472+02:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-03-28T22:06:58.7850209+02:00"
+    }
+  ]
+}

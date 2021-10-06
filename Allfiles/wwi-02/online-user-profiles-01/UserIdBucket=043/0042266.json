@@ -1,0 +1,37 @@
+{
+  "userId": 42266,
+  "cartId": "7904f6fa-b6a2-44ad-9dfc-80cf83ce8c72",
+  "preferredProducts": [
+    4515,
+    2602,
+    1891,
+    2748,
+    3186,
+    1776,
+    1062,
+    2339,
+    3327
+  ],
+  "productReviews": [
+    {
+      "productId": 470,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-25T04:14:37.9466213+02:00"
+    },
+    {
+      "productId": 3381,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-02-22T16:34:40.8419176+02:00"
+    },
+    {
+      "productId": 1860,
+      "reviewText": "this payment is top-notch.",
+      "reviewDate": "2019-12-02T01:05:30.3629168+02:00"
+    },
+    {
+      "productId": 3784,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-08-11T07:43:14.683057+03:00"
+    }
+  ]
+}

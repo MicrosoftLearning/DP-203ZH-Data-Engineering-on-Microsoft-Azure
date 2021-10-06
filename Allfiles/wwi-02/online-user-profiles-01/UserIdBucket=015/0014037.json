@@ -1,0 +1,33 @@
+{
+  "userId": 14037,
+  "cartId": "abd2c9c6-7789-45ca-a1c1-02dff0b7ea21",
+  "preferredProducts": [
+    4110,
+    4010,
+    3051,
+    84,
+    779
+  ],
+  "productReviews": [
+    {
+      "productId": 539,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-01-09T02:59:44.3029538+02:00"
+    },
+    {
+      "productId": 2025,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2016-07-29T12:36:37.1737339+03:00"
+    },
+    {
+      "productId": 1731,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-05-21T15:06:29.9192106+03:00"
+    },
+    {
+      "productId": 2788,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-04-30T10:16:46.3259469+03:00"
+    }
+  ]
+}

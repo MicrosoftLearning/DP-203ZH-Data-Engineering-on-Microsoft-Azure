@@ -1,0 +1,31 @@
+{
+  "userId": 88434,
+  "cartId": "5964f7fd-e097-42f9-ae7e-4d1f203ac048",
+  "preferredProducts": [
+    32,
+    3498,
+    4264,
+    835,
+    2939,
+    3757,
+    2114,
+    3459
+  ],
+  "productReviews": [
+    {
+      "productId": 3047,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-04-27T22:34:17.5740717+03:00"
+    },
+    {
+      "productId": 2409,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-03-31T05:01:43.2219745+03:00"
+    },
+    {
+      "productId": 4876,
+      "reviewText": "this reboot is brown.",
+      "reviewDate": "2017-06-18T08:43:34.3606062+03:00"
+    }
+  ]
+}

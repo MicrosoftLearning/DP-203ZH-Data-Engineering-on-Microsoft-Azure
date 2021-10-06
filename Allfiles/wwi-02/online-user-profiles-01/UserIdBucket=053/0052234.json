@@ -1,0 +1,35 @@
+{
+  "userId": 52234,
+  "cartId": "0021c782-1e8d-4d2c-8a38-63e793ea8232",
+  "preferredProducts": [
+    1810,
+    1034,
+    1621,
+    1751,
+    4712,
+    297,
+    4534
+  ],
+  "productReviews": [
+    {
+      "productId": 1626,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-02-13T01:04:53.8246421+02:00"
+    },
+    {
+      "productId": 2763,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-01-19T05:49:11.4412511+02:00"
+    },
+    {
+      "productId": 2597,
+      "reviewText": "this Valleys is brown.",
+      "reviewDate": "2017-10-06T10:10:00.976461+03:00"
+    },
+    {
+      "productId": 1513,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2020-03-13T18:18:35.42204+02:00"
+    }
+  ]
+}

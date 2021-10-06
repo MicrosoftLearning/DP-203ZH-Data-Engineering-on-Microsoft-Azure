@@ -1,0 +1,28 @@
+{
+  "userId": 78753,
+  "cartId": "5b1c780c-e64f-4beb-85d1-12f5da660d98",
+  "preferredProducts": [
+    654,
+    1427,
+    311,
+    4809,
+    1196
+  ],
+  "productReviews": [
+    {
+      "productId": 2367,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-01-04T06:37:52.4506944+02:00"
+    },
+    {
+      "productId": 4568,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2020-01-30T00:50:06.9037204+02:00"
+    },
+    {
+      "productId": 4809,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-02-12T21:19:56.6405135+02:00"
+    }
+  ]
+}

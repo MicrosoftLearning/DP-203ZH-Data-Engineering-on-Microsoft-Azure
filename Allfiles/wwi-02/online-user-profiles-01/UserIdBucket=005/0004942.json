@@ -1,0 +1,28 @@
+{
+  "userId": 4942,
+  "cartId": "53a33620-dc8c-47e1-8ff6-a0a79ec29288",
+  "preferredProducts": [
+    2990,
+    1979,
+    111,
+    3523,
+    1057
+  ],
+  "productReviews": [
+    {
+      "productId": 4637,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-02-07T13:40:50.1562191+02:00"
+    },
+    {
+      "productId": 779,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-08-15T02:38:01.8934189+03:00"
+    },
+    {
+      "productId": 4176,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-08-26T23:30:00.8726537+03:00"
+    }
+  ]
+}

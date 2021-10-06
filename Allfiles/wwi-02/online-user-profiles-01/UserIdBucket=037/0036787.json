@@ -1,0 +1,29 @@
+{
+  "userId": 36787,
+  "cartId": "caf09dd9-c04a-4479-94ec-8bd9d69789b5",
+  "preferredProducts": [
+    4691,
+    918,
+    2536,
+    4362,
+    4175,
+    702
+  ],
+  "productReviews": [
+    {
+      "productId": 4025,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2020-01-23T10:54:13.0014676+02:00"
+    },
+    {
+      "productId": 520,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-05-10T17:05:43.0546346+03:00"
+    },
+    {
+      "productId": 4360,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-02-11T19:30:01.8604224+02:00"
+    }
+  ]
+}

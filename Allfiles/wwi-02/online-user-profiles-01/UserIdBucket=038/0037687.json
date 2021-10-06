@@ -1,0 +1,33 @@
+{
+  "userId": 37687,
+  "cartId": "a33260e5-2ab2-428f-b0e2-b8d82f894c0b",
+  "preferredProducts": [
+    2035,
+    4633,
+    3622,
+    4322,
+    1891
+  ],
+  "productReviews": [
+    {
+      "productId": 3945,
+      "reviewText": "This Awesome works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-12-04T23:35:54.9586367+02:00"
+    },
+    {
+      "productId": 1433,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-07-11T01:52:56.3192952+03:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-11-28T01:05:52.6726937+02:00"
+    },
+    {
+      "productId": 2044,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-12-19T20:12:57.0379872+02:00"
+    }
+  ]
+}

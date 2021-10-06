@@ -1,0 +1,32 @@
+{
+  "userId": 7294,
+  "cartId": "333e216e-b6a7-4f36-921f-d171d7a31167",
+  "preferredProducts": [
+    2230,
+    1326,
+    707,
+    774,
+    2180,
+    859,
+    779,
+    1638,
+    1148
+  ],
+  "productReviews": [
+    {
+      "productId": 3130,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-08-22T22:55:15.9946413+03:00"
+    },
+    {
+      "productId": 2190,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2020-04-04T07:58:55.6766792+03:00"
+    },
+    {
+      "productId": 854,
+      "reviewText": "This programming works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-03-25T03:19:03.596725+02:00"
+    }
+  ]
+}

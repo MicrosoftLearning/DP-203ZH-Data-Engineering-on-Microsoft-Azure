@@ -1,0 +1,27 @@
+{
+  "userId": 6177,
+  "cartId": "9e0b3b4e-7b85-4994-bb30-245f6f8b0bd6",
+  "preferredProducts": [
+    4991,
+    2252,
+    1118,
+    4580
+  ],
+  "productReviews": [
+    {
+      "productId": 4716,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-06-25T07:47:05.2910342+03:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-09-23T22:54:46.5055077+03:00"
+    },
+    {
+      "productId": 1343,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2016-09-08T07:51:50.5115906+03:00"
+    }
+  ]
+}

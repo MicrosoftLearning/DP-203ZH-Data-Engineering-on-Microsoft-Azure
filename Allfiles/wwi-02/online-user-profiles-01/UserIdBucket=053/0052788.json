@@ -1,0 +1,38 @@
+{
+  "userId": 52788,
+  "cartId": "dd58c6a8-455d-4108-afb8-c4fa73e6897a",
+  "preferredProducts": [
+    4052,
+    4633,
+    4765,
+    2958,
+    2391,
+    4382,
+    4896,
+    715,
+    546,
+    3137
+  ],
+  "productReviews": [
+    {
+      "productId": 1983,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-27T01:43:39.8771057+03:00"
+    },
+    {
+      "productId": 4058,
+      "reviewText": "This Square works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-07-25T05:19:52.7859139+03:00"
+    },
+    {
+      "productId": 634,
+      "reviewText": "This modular, does exactly what it's suppose to do.",
+      "reviewDate": "2019-11-16T11:14:13.7902209+02:00"
+    },
+    {
+      "productId": 1995,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-01-17T19:50:39.1781571+02:00"
+    }
+  ]
+}

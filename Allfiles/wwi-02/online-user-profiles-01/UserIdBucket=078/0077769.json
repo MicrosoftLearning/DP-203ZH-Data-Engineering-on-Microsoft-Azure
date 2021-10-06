@@ -1,0 +1,28 @@
+{
+  "userId": 77769,
+  "cartId": "57d50f9f-5f8c-4c0d-9232-2799b87ec96d",
+  "preferredProducts": [
+    384,
+    2767,
+    4122,
+    4784,
+    1040
+  ],
+  "productReviews": [
+    {
+      "productId": 4956,
+      "reviewText": "this invoice is standard.",
+      "reviewDate": "2016-07-18T22:12:46.2388305+03:00"
+    },
+    {
+      "productId": 3544,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-06-20T23:33:13.4952808+03:00"
+    },
+    {
+      "productId": 4646,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-07-03T08:30:09.9875045+03:00"
+    }
+  ]
+}

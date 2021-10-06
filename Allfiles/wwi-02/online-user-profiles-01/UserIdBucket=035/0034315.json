@@ -1,0 +1,42 @@
+{
+  "userId": 34315,
+  "cartId": "ef0548f4-3c4c-406a-96aa-6a60f449f610",
+  "preferredProducts": [
+    4555,
+    4321,
+    3691,
+    3186,
+    521,
+    4245,
+    2518,
+    1193,
+    2612
+  ],
+  "productReviews": [
+    {
+      "productId": 1189,
+      "reviewText": "this Grocery & Home is papery.",
+      "reviewDate": "2018-10-08T23:35:08.9730312+03:00"
+    },
+    {
+      "productId": 226,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-06-03T00:48:17.1446952+03:00"
+    },
+    {
+      "productId": 857,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-09-30T01:44:01.6982854+03:00"
+    },
+    {
+      "productId": 3008,
+      "reviewText": "This Unbranded Concrete Bacon works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-08-02T05:44:14.0464364+03:00"
+    },
+    {
+      "productId": 2335,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-01-09T08:49:29.9297073+02:00"
+    }
+  ]
+}

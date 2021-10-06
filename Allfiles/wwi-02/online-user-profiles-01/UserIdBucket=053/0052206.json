@@ -1,0 +1,30 @@
+{
+  "userId": 52206,
+  "cartId": "dff75def-85e6-4fb2-be68-9607742be509",
+  "preferredProducts": [
+    2865,
+    1613
+  ],
+  "productReviews": [
+    {
+      "productId": 2601,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-05-27T05:23:08.3731666+03:00"
+    },
+    {
+      "productId": 1245,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-10-28T13:01:30.9529197+03:00"
+    },
+    {
+      "productId": 971,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-02-27T13:02:17.3700141+02:00"
+    },
+    {
+      "productId": 1645,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-12-19T05:38:29.7546285+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 15739,
+  "cartId": "a19a533d-a56d-4dbb-be33-e0c5099a1b9a",
+  "preferredProducts": [
+    917,
+    519,
+    3773,
+    4191,
+    1496,
+    4004,
+    1500,
+    3752,
+    2546
+  ],
+  "productReviews": [
+    {
+      "productId": 2329,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-08-18T19:46:02.5388407+03:00"
+    },
+    {
+      "productId": 1683,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-12-15T13:37:51.1990036+02:00"
+    },
+    {
+      "productId": 1996,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-05-05T16:28:35.8452374+03:00"
+    },
+    {
+      "productId": 4236,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-03-02T06:30:37.5694265+02:00"
+    }
+  ]
+}

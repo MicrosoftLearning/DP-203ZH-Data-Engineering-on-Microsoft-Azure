@@ -1,0 +1,40 @@
+{
+  "userId": 5580,
+  "cartId": "3c83b5f0-55a7-4c74-9bfe-4e796c64c6a0",
+  "preferredProducts": [
+    4604,
+    1777,
+    3910,
+    3401,
+    395,
+    3387,
+    4547
+  ],
+  "productReviews": [
+    {
+      "productId": 1194,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-02-04T05:22:04.4627725+02:00"
+    },
+    {
+      "productId": 1126,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-02-20T08:10:57.6582775+02:00"
+    },
+    {
+      "productId": 1206,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2016-11-06T07:09:46.9361256+02:00"
+    },
+    {
+      "productId": 1041,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-11-16T23:04:06.2598998+02:00"
+    },
+    {
+      "productId": 711,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-01-01T18:33:47.4946121+02:00"
+    }
+  ]
+}

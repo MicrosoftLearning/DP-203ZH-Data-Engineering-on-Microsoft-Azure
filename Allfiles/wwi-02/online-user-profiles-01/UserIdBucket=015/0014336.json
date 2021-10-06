@@ -1,0 +1,30 @@
+{
+  "userId": 14336,
+  "cartId": "11fbc935-d4a6-4bdc-8f2e-d060dd91c609",
+  "preferredProducts": [
+    3155,
+    3036
+  ],
+  "productReviews": [
+    {
+      "productId": 329,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-11-04T11:24:22.8668857+02:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-28T12:34:56.8772864+03:00"
+    },
+    {
+      "productId": 2039,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-08-08T22:13:13.0516953+03:00"
+    },
+    {
+      "productId": 825,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-12-10T15:27:16.8432221+02:00"
+    }
+  ]
+}

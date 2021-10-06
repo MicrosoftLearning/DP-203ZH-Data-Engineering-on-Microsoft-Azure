@@ -1,0 +1,27 @@
+{
+  "userId": 17266,
+  "cartId": "795af4a2-e073-4080-a224-74e30e0d4260",
+  "preferredProducts": [
+    913,
+    4656,
+    1251,
+    511
+  ],
+  "productReviews": [
+    {
+      "productId": 402,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-06-22T06:34:31.38198+03:00"
+    },
+    {
+      "productId": 3096,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-11-03T22:48:41.8123915+02:00"
+    },
+    {
+      "productId": 3734,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-07-30T02:57:55.8097891+03:00"
+    }
+  ]
+}

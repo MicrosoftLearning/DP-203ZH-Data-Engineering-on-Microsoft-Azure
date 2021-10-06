@@ -1,0 +1,30 @@
+{
+  "userId": 1863,
+  "cartId": "ea278ab5-8669-42a2-bd87-3dadc3163256",
+  "preferredProducts": [
+    598,
+    3017
+  ],
+  "productReviews": [
+    {
+      "productId": 4010,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-01-15T22:00:10.0266159+02:00"
+    },
+    {
+      "productId": 3846,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-10-01T19:32:37.8098634+03:00"
+    },
+    {
+      "productId": 4042,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-10-28T05:56:12.9656639+02:00"
+    },
+    {
+      "productId": 4848,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-12-23T01:01:01.9712836+02:00"
+    }
+  ]
+}

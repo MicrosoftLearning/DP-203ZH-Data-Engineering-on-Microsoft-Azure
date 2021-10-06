@@ -1,0 +1,29 @@
+{
+  "userId": 35382,
+  "cartId": "b5f94b8b-155a-46f4-b8e2-c3751c85183e",
+  "preferredProducts": [
+    925,
+    2433,
+    2901,
+    1313,
+    457,
+    2928
+  ],
+  "productReviews": [
+    {
+      "productId": 3292,
+      "reviewText": "This payment, does exactly what it's suppose to do.",
+      "reviewDate": "2017-09-05T20:16:44.8287238+03:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-04-04T05:11:16.1839822+03:00"
+    },
+    {
+      "productId": 882,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-09-28T10:16:29.438799+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 8000,
+  "cartId": "2cd84602-fcd9-465e-a354-dbe9d853a685",
+  "preferredProducts": [
+    1120,
+    3910,
+    1881,
+    4929,
+    4536,
+    2512,
+    148,
+    857
+  ],
+  "productReviews": [
+    {
+      "productId": 4009,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-02-23T14:34:08.6123772+02:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-11-30T00:47:18.7400667+02:00"
+    },
+    {
+      "productId": 1340,
+      "reviewText": "This scalable works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-07-26T20:51:04.2998667+03:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-11-20T01:45:53.3412482+02:00"
+    },
+    {
+      "productId": 623,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-02-05T09:37:44.7566006+02:00"
+    }
+  ]
+}

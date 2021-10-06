@@ -1,0 +1,32 @@
+{
+  "userId": 50295,
+  "cartId": "16541bed-ccdd-4d84-968a-6d280875091a",
+  "preferredProducts": [
+    1251,
+    1983,
+    1792,
+    2261
+  ],
+  "productReviews": [
+    {
+      "productId": 2922,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-02-18T12:52:18.6156989+02:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-11-28T05:46:36.568019+02:00"
+    },
+    {
+      "productId": 483,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-11-27T08:41:05.7900249+02:00"
+    },
+    {
+      "productId": 1838,
+      "reviewText": "this Ohio is ratty.",
+      "reviewDate": "2018-06-24T00:00:38.1593537+03:00"
+    }
+  ]
+}

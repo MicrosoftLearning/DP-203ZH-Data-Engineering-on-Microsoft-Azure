@@ -1,0 +1,39 @@
+{
+  "userId": 55633,
+  "cartId": "24b39e74-528e-4b85-816a-c5ba5137218f",
+  "preferredProducts": [
+    1291,
+    3292,
+    4848,
+    4031,
+    42,
+    4445
+  ],
+  "productReviews": [
+    {
+      "productId": 1936,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-12-03T13:01:36.9621553+02:00"
+    },
+    {
+      "productId": 1296,
+      "reviewText": "this Legacy is dominant.",
+      "reviewDate": "2019-03-09T20:03:11.6085589+02:00"
+    },
+    {
+      "productId": 1219,
+      "reviewText": "this XSS is top-notch.",
+      "reviewDate": "2019-10-07T07:53:01.123702+03:00"
+    },
+    {
+      "productId": 4961,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-09-21T15:14:11.3735025+03:00"
+    },
+    {
+      "productId": 4298,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-08-23T10:13:49.0833779+03:00"
+    }
+  ]
+}

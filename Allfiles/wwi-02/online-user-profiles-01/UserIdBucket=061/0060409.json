@@ -1,0 +1,30 @@
+{
+  "userId": 60409,
+  "cartId": "f52ffad6-2343-443d-b540-4e929d48f1de",
+  "preferredProducts": [
+    1753,
+    2936,
+    544,
+    4970,
+    4021,
+    4462,
+    4971
+  ],
+  "productReviews": [
+    {
+      "productId": 136,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-09-21T10:22:15.2717189+03:00"
+    },
+    {
+      "productId": 432,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-05-10T03:17:12.9406716+03:00"
+    },
+    {
+      "productId": 4004,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-09-04T07:04:03.2117034+03:00"
+    }
+  ]
+}

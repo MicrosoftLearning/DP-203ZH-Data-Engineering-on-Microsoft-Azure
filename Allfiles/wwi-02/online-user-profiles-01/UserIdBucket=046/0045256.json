@@ -1,0 +1,23 @@
+{
+  "userId": 45256,
+  "cartId": "5625ab1c-c9bf-4765-9288-d801f3a0d193",
+  "preferredProducts": [
+    343,
+    1647,
+    3648,
+    4856,
+    2120
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-02-01T10:02:55.6069538+02:00"
+    },
+    {
+      "productId": 2801,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-07-22T02:59:33.2869303+03:00"
+    }
+  ]
+}

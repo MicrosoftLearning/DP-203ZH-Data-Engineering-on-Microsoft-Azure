@@ -1,0 +1,31 @@
+{
+  "userId": 56907,
+  "cartId": "148f5b8b-cf8d-48ae-b61a-895ead851f88",
+  "preferredProducts": [
+    1305,
+    1746,
+    1502
+  ],
+  "productReviews": [
+    {
+      "productId": 3720,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-02-03T21:47:20.8590183+02:00"
+    },
+    {
+      "productId": 4883,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-06-01T19:22:05.346092+03:00"
+    },
+    {
+      "productId": 3750,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-11-22T23:54:44.7536871+02:00"
+    },
+    {
+      "productId": 210,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-10-09T06:45:04.8037867+03:00"
+    }
+  ]
+}

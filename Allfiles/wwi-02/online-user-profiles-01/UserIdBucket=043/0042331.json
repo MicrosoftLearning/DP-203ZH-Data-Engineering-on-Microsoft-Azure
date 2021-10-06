@@ -1,0 +1,33 @@
+{
+  "userId": 42331,
+  "cartId": "9ca2b659-0068-4e08-bb0a-d4eb4b1069c4",
+  "preferredProducts": [
+    2404,
+    4737,
+    3816,
+    236,
+    1567
+  ],
+  "productReviews": [
+    {
+      "productId": 3418,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-08-20T17:19:30.1437801+03:00"
+    },
+    {
+      "productId": 900,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-06-01T06:41:01.8502106+03:00"
+    },
+    {
+      "productId": 1764,
+      "reviewText": "This portals works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-12-14T09:45:28.1468638+02:00"
+    },
+    {
+      "productId": 2240,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-06-25T18:03:41.6845961+03:00"
+    }
+  ]
+}

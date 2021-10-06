@@ -1,0 +1,33 @@
+{
+  "userId": 12315,
+  "cartId": "b9e14ef9-6f36-4262-842b-646cb5cbab1c",
+  "preferredProducts": [
+    27,
+    926,
+    1407,
+    4877,
+    2766,
+    3344,
+    2195,
+    4916,
+    2118,
+    1173
+  ],
+  "productReviews": [
+    {
+      "productId": 3955,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-03-24T12:23:22.1902624+02:00"
+    },
+    {
+      "productId": 4210,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-01-16T17:49:20.7190765+02:00"
+    },
+    {
+      "productId": 3073,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-06-07T04:10:48.8922212+03:00"
+    }
+  ]
+}

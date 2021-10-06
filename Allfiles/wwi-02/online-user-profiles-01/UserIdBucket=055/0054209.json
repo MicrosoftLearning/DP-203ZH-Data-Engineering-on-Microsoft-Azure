@@ -1,0 +1,33 @@
+{
+  "userId": 54209,
+  "cartId": "56546d26-0ab0-4baa-ae0e-2c1c121aa002",
+  "preferredProducts": [
+    1238,
+    1224,
+    703,
+    4770,
+    4412
+  ],
+  "productReviews": [
+    {
+      "productId": 3019,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-05-10T19:28:55.1690504+03:00"
+    },
+    {
+      "productId": 1507,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2017-08-04T12:01:31.0095365+03:00"
+    },
+    {
+      "productId": 861,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-01-11T16:51:44.466012+02:00"
+    },
+    {
+      "productId": 3126,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-09-14T09:49:27.8685679+03:00"
+    }
+  ]
+}

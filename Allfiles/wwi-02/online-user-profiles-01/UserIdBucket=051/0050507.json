@@ -1,0 +1,34 @@
+{
+  "userId": 50507,
+  "cartId": "400d670d-bab1-4e14-baf3-66ee3879bed2",
+  "preferredProducts": [
+    2619,
+    3037,
+    2234,
+    3444,
+    593,
+    921
+  ],
+  "productReviews": [
+    {
+      "productId": 345,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-12-08T00:08:05.4682053+02:00"
+    },
+    {
+      "productId": 2911,
+      "reviewText": "this USB is ghetto.",
+      "reviewDate": "2016-12-14T00:01:37.0003173+02:00"
+    },
+    {
+      "productId": 19,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-01-22T11:44:20.2875972+02:00"
+    },
+    {
+      "productId": 4423,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-10-16T01:59:15.0336597+03:00"
+    }
+  ]
+}

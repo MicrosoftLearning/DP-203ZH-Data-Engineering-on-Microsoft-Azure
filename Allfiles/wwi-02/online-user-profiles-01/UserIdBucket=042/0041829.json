@@ -1,0 +1,35 @@
+{
+  "userId": 41829,
+  "cartId": "f47b6b98-ff4c-4ca4-9fa4-d76edfacaabd",
+  "preferredProducts": [
+    1965,
+    696,
+    1590,
+    2732,
+    3486,
+    864,
+    1195
+  ],
+  "productReviews": [
+    {
+      "productId": 1562,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-07-09T00:45:32.8784661+03:00"
+    },
+    {
+      "productId": 4684,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-09-18T06:19:33.1221199+03:00"
+    },
+    {
+      "productId": 3214,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-11-25T12:28:36.3163122+02:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-09-23T09:09:49.3120439+03:00"
+    }
+  ]
+}

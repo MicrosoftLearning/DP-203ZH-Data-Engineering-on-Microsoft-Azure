@@ -1,0 +1,32 @@
+{
+  "userId": 15505,
+  "cartId": "52523b76-28a1-42c4-bee9-4c01207dc290",
+  "preferredProducts": [
+    3319,
+    1887,
+    4826,
+    1340
+  ],
+  "productReviews": [
+    {
+      "productId": 2459,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-05-26T16:55:21.4902711+03:00"
+    },
+    {
+      "productId": 1040,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-12-20T07:45:46.7073028+02:00"
+    },
+    {
+      "productId": 4131,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-02-13T05:04:37.883503+02:00"
+    },
+    {
+      "productId": 4266,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-06-07T09:59:31.7813858+03:00"
+    }
+  ]
+}

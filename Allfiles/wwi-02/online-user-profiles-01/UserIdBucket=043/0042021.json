@@ -1,0 +1,29 @@
+{
+  "userId": 42021,
+  "cartId": "b5a46ead-4912-4d69-b37b-683298a606e5",
+  "preferredProducts": [
+    4274
+  ],
+  "productReviews": [
+    {
+      "productId": 2326,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2020-03-11T01:20:45.4037685+02:00"
+    },
+    {
+      "productId": 4633,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-08-22T13:10:05.575361+03:00"
+    },
+    {
+      "productId": 403,
+      "reviewText": "This parse works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-05-24T07:14:14.7896955+03:00"
+    },
+    {
+      "productId": 550,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-02-28T19:50:47.128341+02:00"
+    }
+  ]
+}

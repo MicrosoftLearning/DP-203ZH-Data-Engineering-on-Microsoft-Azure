@@ -1,0 +1,42 @@
+{
+  "userId": 1519,
+  "cartId": "9b312a24-9052-4956-8415-90d45ab13d9e",
+  "preferredProducts": [
+    982,
+    2408,
+    4446,
+    4413,
+    3159,
+    3488,
+    4851,
+    511,
+    1849
+  ],
+  "productReviews": [
+    {
+      "productId": 427,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-12-27T02:33:06.9123981+02:00"
+    },
+    {
+      "productId": 440,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-06-01T01:54:17.0289658+03:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-07-23T06:35:21.1839749+03:00"
+    },
+    {
+      "productId": 1548,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-07-22T17:35:50.627744+03:00"
+    },
+    {
+      "productId": 365,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-04-22T19:34:37.8662242+03:00"
+    }
+  ]
+}

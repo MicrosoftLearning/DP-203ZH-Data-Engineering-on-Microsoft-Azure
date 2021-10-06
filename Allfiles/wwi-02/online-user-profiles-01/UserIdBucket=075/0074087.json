@@ -1,0 +1,27 @@
+{
+  "userId": 74087,
+  "cartId": "292a04c8-4599-4414-af31-2d66cd746497",
+  "preferredProducts": [
+    2444,
+    2293,
+    1510,
+    1336
+  ],
+  "productReviews": [
+    {
+      "productId": 2769,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-03-23T22:18:05.6453775+02:00"
+    },
+    {
+      "productId": 355,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-05-12T09:01:58.5569993+03:00"
+    },
+    {
+      "productId": 2457,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-05-03T08:55:18.6370636+03:00"
+    }
+  ]
+}

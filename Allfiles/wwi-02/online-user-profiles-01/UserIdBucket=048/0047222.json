@@ -1,0 +1,29 @@
+{
+  "userId": 47222,
+  "cartId": "ae8868b9-79b6-4355-afba-951b387389c8",
+  "preferredProducts": [
+    204,
+    2550,
+    2372,
+    1646,
+    3469,
+    3962
+  ],
+  "productReviews": [
+    {
+      "productId": 2649,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-11-18T22:22:35.7035123+02:00"
+    },
+    {
+      "productId": 4499,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-11-11T20:04:49.7419955+02:00"
+    },
+    {
+      "productId": 3752,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-05-11T19:27:28.3486434+03:00"
+    }
+  ]
+}

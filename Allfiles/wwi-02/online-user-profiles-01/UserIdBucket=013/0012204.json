@@ -1,0 +1,25 @@
+{
+  "userId": 12204,
+  "cartId": "b53854a9-606f-43fd-8983-9c95da4f4fb6",
+  "preferredProducts": [
+    3445,
+    1271
+  ],
+  "productReviews": [
+    {
+      "productId": 4355,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-07-24T15:47:00.483694+03:00"
+    },
+    {
+      "productId": 1611,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-01-05T18:43:43.6682818+02:00"
+    },
+    {
+      "productId": 2460,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-07-30T21:22:55.8493481+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 27886,
+  "cartId": "c7fa11e8-927e-4128-a573-09281ee2a09a",
+  "preferredProducts": [
+    2404,
+    4926,
+    1654,
+    4235,
+    1428,
+    4118,
+    1188
+  ],
+  "productReviews": [
+    {
+      "productId": 2817,
+      "reviewText": "this whiteboard is standard.",
+      "reviewDate": "2016-06-05T16:58:25.2128397+03:00"
+    },
+    {
+      "productId": 1271,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-02-05T13:48:35.2871784+02:00"
+    },
+    {
+      "productId": 1779,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-04-23T14:16:04.522936+03:00"
+    },
+    {
+      "productId": 3212,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-04-06T13:21:22.3089563+03:00"
+    }
+  ]
+}

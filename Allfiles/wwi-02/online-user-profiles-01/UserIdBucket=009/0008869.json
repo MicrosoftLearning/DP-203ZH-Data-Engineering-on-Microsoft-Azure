@@ -1,0 +1,36 @@
+{
+  "userId": 8869,
+  "cartId": "edf0368a-849b-472f-a9fc-c1740276b611",
+  "preferredProducts": [
+    1047,
+    591,
+    613
+  ],
+  "productReviews": [
+    {
+      "productId": 4213,
+      "reviewText": "this bypass is standard.",
+      "reviewDate": "2018-08-05T16:51:03.1217835+03:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-11-24T01:04:24.5697718+02:00"
+    },
+    {
+      "productId": 4874,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2020-02-29T13:45:49.4782656+02:00"
+    },
+    {
+      "productId": 3429,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-07-04T08:01:03.6121874+03:00"
+    },
+    {
+      "productId": 1248,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-02-17T03:22:28.0446706+02:00"
+    }
+  ]
+}

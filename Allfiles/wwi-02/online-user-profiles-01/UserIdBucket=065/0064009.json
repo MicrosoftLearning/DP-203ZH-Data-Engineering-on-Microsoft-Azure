@@ -1,0 +1,42 @@
+{
+  "userId": 64009,
+  "cartId": "e33ea283-3c5c-49c6-9dd1-4e85718dcc38",
+  "preferredProducts": [
+    1346,
+    2597,
+    3515,
+    4103,
+    3972,
+    1509,
+    3512,
+    661,
+    1745
+  ],
+  "productReviews": [
+    {
+      "productId": 4676,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-11-04T02:52:36.5164242+02:00"
+    },
+    {
+      "productId": 3218,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-06-06T02:20:42.5056498+03:00"
+    },
+    {
+      "productId": 561,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-06-01T02:42:29.3678874+03:00"
+    },
+    {
+      "productId": 4741,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-09-14T10:14:47.4226542+03:00"
+    },
+    {
+      "productId": 4331,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-03-20T18:25:35.8452485+02:00"
+    }
+  ]
+}

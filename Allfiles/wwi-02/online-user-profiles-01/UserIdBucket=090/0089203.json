@@ -1,0 +1,41 @@
+{
+  "userId": 89203,
+  "cartId": "ada3a20f-5fdc-48b0-941c-e95267361c30",
+  "preferredProducts": [
+    4564,
+    3869,
+    895,
+    229,
+    1435,
+    965,
+    3496,
+    4759
+  ],
+  "productReviews": [
+    {
+      "productId": 1524,
+      "reviewText": "this parsing is smooth.",
+      "reviewDate": "2020-03-11T17:32:56.1215097+02:00"
+    },
+    {
+      "productId": 3954,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-07-17T13:25:46.2210606+03:00"
+    },
+    {
+      "productId": 3180,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2020-02-14T20:02:05.860751+02:00"
+    },
+    {
+      "productId": 3615,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-04-21T15:15:20.9501637+03:00"
+    },
+    {
+      "productId": 3309,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-10-29T20:04:46.0574733+03:00"
+    }
+  ]
+}

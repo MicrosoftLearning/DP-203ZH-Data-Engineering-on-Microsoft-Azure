@@ -1,0 +1,28 @@
+{
+  "userId": 91192,
+  "cartId": "77234bd8-2ee1-4c4d-96f8-516af3fddfc4",
+  "preferredProducts": [
+    3251,
+    3712,
+    990,
+    3937,
+    4271,
+    4909,
+    1980,
+    4486,
+    1730,
+    1573
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "This Adaptive works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-10-11T09:10:10.996037+03:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-08-11T20:18:48.9596223+03:00"
+    }
+  ]
+}

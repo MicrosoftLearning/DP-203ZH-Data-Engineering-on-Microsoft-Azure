@@ -1,0 +1,28 @@
+{
+  "userId": 11425,
+  "cartId": "82296cdc-3862-478b-9f06-b8687e0279c3",
+  "preferredProducts": [
+    4074,
+    4182,
+    3414,
+    4139,
+    2033
+  ],
+  "productReviews": [
+    {
+      "productId": 4306,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-08-10T14:09:33.8070192+03:00"
+    },
+    {
+      "productId": 4564,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-08-30T06:00:22.2614227+03:00"
+    },
+    {
+      "productId": 3396,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-04-20T01:52:57.3250015+03:00"
+    }
+  ]
+}

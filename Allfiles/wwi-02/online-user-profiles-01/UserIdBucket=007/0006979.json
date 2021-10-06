@@ -1,0 +1,31 @@
+{
+  "userId": 6979,
+  "cartId": "970a4746-f3dd-476a-91be-429a35ad126b",
+  "preferredProducts": [
+    3614,
+    4399,
+    2184,
+    2499,
+    2498,
+    3145,
+    2877,
+    3315
+  ],
+  "productReviews": [
+    {
+      "productId": 710,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-12-20T15:07:30.7388007+02:00"
+    },
+    {
+      "productId": 38,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-06-13T15:41:00.3036623+03:00"
+    },
+    {
+      "productId": 4871,
+      "reviewText": "this Luxembourg is light-hearted.",
+      "reviewDate": "2020-01-08T06:30:55.1686137+02:00"
+    }
+  ]
+}

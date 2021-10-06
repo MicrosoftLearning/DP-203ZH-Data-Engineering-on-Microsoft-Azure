@@ -1,0 +1,37 @@
+{
+  "userId": 1583,
+  "cartId": "7e55f016-1445-4635-9aa5-93e01c54d36e",
+  "preferredProducts": [
+    321,
+    3188,
+    769,
+    1817,
+    4632,
+    888,
+    4965,
+    103,
+    3023
+  ],
+  "productReviews": [
+    {
+      "productId": 1063,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-07-26T01:51:45.7882268+03:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "this hard drive is brown.",
+      "reviewDate": "2019-04-14T01:02:27.9208375+03:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2016-07-23T09:10:28.9577692+03:00"
+    },
+    {
+      "productId": 1061,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-09-11T15:28:04.059967+03:00"
+    }
+  ]
+}

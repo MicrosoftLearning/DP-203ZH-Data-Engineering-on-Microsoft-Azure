@@ -1,0 +1,31 @@
+{
+  "userId": 43299,
+  "cartId": "d3f6691d-d48c-4ccc-8718-6c5228183b39",
+  "preferredProducts": [
+    316,
+    2049,
+    2161,
+    4987,
+    4770,
+    4804,
+    1285,
+    4792
+  ],
+  "productReviews": [
+    {
+      "productId": 1256,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-01-28T14:40:45.6214402+02:00"
+    },
+    {
+      "productId": 3076,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-07-30T23:18:34.0356471+03:00"
+    },
+    {
+      "productId": 3407,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-05T10:07:12.0981217+03:00"
+    }
+  ]
+}

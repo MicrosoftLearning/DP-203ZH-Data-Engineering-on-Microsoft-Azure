@@ -1,0 +1,36 @@
+{
+  "userId": 28225,
+  "cartId": "d44a1be5-72c3-4f56-9ec5-153dc76ebdb6",
+  "preferredProducts": [
+    1350,
+    1850,
+    4696,
+    3876,
+    2401,
+    3417,
+    3729,
+    1022
+  ],
+  "productReviews": [
+    {
+      "productId": 3366,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-08-07T08:25:32.326819+03:00"
+    },
+    {
+      "productId": 1052,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-03-03T04:22:47.5308287+02:00"
+    },
+    {
+      "productId": 4046,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-01-31T06:22:54.5405146+02:00"
+    },
+    {
+      "productId": 3312,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2017-05-29T17:02:19.9829358+03:00"
+    }
+  ]
+}

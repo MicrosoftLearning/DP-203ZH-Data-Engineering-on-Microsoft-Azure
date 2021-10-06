@@ -1,0 +1,42 @@
+{
+  "userId": 80754,
+  "cartId": "96f4e602-ddeb-4c49-a23e-e940862636aa",
+  "preferredProducts": [
+    3552,
+    4813,
+    3300,
+    1984,
+    4427,
+    2110,
+    2583,
+    1671,
+    1942
+  ],
+  "productReviews": [
+    {
+      "productId": 3321,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-09-17T00:07:43.4326649+03:00"
+    },
+    {
+      "productId": 3435,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-04-14T12:05:42.0126386+03:00"
+    },
+    {
+      "productId": 4343,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-08-16T11:19:54.4332582+03:00"
+    },
+    {
+      "productId": 741,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2016-12-27T11:56:22.73976+02:00"
+    },
+    {
+      "productId": 955,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-10-03T07:26:39.0170354+03:00"
+    }
+  ]
+}

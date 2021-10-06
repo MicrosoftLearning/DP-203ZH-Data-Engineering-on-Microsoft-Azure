@@ -1,0 +1,27 @@
+{
+  "userId": 56418,
+  "cartId": "bae3979e-cae8-4576-a0ca-f3ec2ac4a495",
+  "preferredProducts": [
+    3114,
+    2098,
+    131,
+    297
+  ],
+  "productReviews": [
+    {
+      "productId": 3720,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-12-09T13:05:09.9010727+02:00"
+    },
+    {
+      "productId": 4636,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-07-04T10:26:14.5007389+03:00"
+    },
+    {
+      "productId": 2579,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-12-02T08:07:02.5366651+02:00"
+    }
+  ]
+}

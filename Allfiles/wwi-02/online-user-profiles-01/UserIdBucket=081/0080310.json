@@ -1,0 +1,32 @@
+{
+  "userId": 80310,
+  "cartId": "59348c30-c02a-422d-a368-6731d0d4f92e",
+  "preferredProducts": [
+    4295,
+    3662,
+    4773,
+    783
+  ],
+  "productReviews": [
+    {
+      "productId": 3497,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-08-08T07:15:55.6208971+03:00"
+    },
+    {
+      "productId": 4237,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2020-01-29T22:22:42.622957+02:00"
+    },
+    {
+      "productId": 2118,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-02-28T14:52:18.2858037+02:00"
+    },
+    {
+      "productId": 2600,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-02-06T21:25:34.1293072+02:00"
+    }
+  ]
+}

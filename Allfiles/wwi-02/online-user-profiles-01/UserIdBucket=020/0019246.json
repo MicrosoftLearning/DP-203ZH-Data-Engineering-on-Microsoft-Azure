@@ -1,0 +1,33 @@
+{
+  "userId": 19246,
+  "cartId": "2a21bd92-f05e-4332-b3ca-46f76669f6d3",
+  "preferredProducts": [
+    3163,
+    2260,
+    3114,
+    3765,
+    560,
+    2625,
+    151,
+    2869,
+    3460,
+    3492
+  ],
+  "productReviews": [
+    {
+      "productId": 3542,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-03-15T12:01:17.6722143+02:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "this back-end is hyper.",
+      "reviewDate": "2018-03-25T13:27:18.3888767+03:00"
+    },
+    {
+      "productId": 2473,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-09-18T22:23:30.2469022+03:00"
+    }
+  ]
+}

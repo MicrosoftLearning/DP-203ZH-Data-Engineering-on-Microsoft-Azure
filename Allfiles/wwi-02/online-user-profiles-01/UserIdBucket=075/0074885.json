@@ -1,0 +1,33 @@
+{
+  "userId": 74885,
+  "cartId": "6d2bdfeb-a81f-4998-a1f5-e8badc8ceec0",
+  "preferredProducts": [
+    1692,
+    726,
+    4367,
+    1727,
+    704,
+    3405,
+    1356,
+    3881,
+    2032,
+    109
+  ],
+  "productReviews": [
+    {
+      "productId": 3266,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-12-06T15:04:06.6011999+02:00"
+    },
+    {
+      "productId": 1904,
+      "reviewText": "This JSON works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-03-07T22:41:30.2221551+02:00"
+    },
+    {
+      "productId": 4017,
+      "reviewText": "This frictionless works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2017-03-19T10:54:58.2274927+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 27313,
+  "cartId": "a15ccf0d-cbb6-41c1-af66-ceb88283f9a4",
+  "preferredProducts": [
+    3172,
+    4836,
+    4456,
+    702,
+    195,
+    2077,
+    4120,
+    4317
+  ],
+  "productReviews": [
+    {
+      "productId": 1416,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-10-16T09:42:28.3232121+03:00"
+    },
+    {
+      "productId": 3339,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-05-15T16:02:36.3407033+03:00"
+    },
+    {
+      "productId": 420,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-01-04T12:50:29.8585852+02:00"
+    }
+  ]
+}

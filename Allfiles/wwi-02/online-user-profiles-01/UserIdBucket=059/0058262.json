@@ -1,0 +1,27 @@
+{
+  "userId": 58262,
+  "cartId": "f3fada58-911c-4a72-8259-ad73f9fe5510",
+  "preferredProducts": [
+    4159,
+    1881,
+    654,
+    2532
+  ],
+  "productReviews": [
+    {
+      "productId": 1391,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-12-18T18:02:52.5839272+02:00"
+    },
+    {
+      "productId": 1756,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-30T07:51:23.4260931+03:00"
+    },
+    {
+      "productId": 929,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-12-01T09:12:11.8315842+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 55989,
+  "cartId": "18cde123-7ae1-45fd-aa79-619fc7b44206",
+  "preferredProducts": [
+    787,
+    4222,
+    2501
+  ],
+  "productReviews": [
+    {
+      "productId": 247,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-09-08T16:43:23.1938157+03:00"
+    },
+    {
+      "productId": 4970,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2020-03-05T06:34:36.5550347+02:00"
+    },
+    {
+      "productId": 4310,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-02-25T12:48:16.6362969+02:00"
+    },
+    {
+      "productId": 3335,
+      "reviewText": "This Unbranded Concrete Fish works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2018-05-01T05:40:10.7142936+03:00"
+    }
+  ]
+}

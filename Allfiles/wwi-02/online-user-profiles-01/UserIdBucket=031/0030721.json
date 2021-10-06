@@ -1,0 +1,40 @@
+{
+  "userId": 30721,
+  "cartId": "0ccca886-c4fa-48c6-b854-c16da7fbafa3",
+  "preferredProducts": [
+    2140,
+    1490,
+    3707,
+    3087,
+    3372,
+    162,
+    579
+  ],
+  "productReviews": [
+    {
+      "productId": 1841,
+      "reviewText": "this frictionless is smooth.",
+      "reviewDate": "2018-10-08T03:12:56.0204578+03:00"
+    },
+    {
+      "productId": 3081,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-08-11T21:02:46.4621501+03:00"
+    },
+    {
+      "productId": 993,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-10-23T08:23:56.0590424+03:00"
+    },
+    {
+      "productId": 2899,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-10-23T17:09:56.2505797+03:00"
+    },
+    {
+      "productId": 3201,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-11-27T00:51:57.8828503+02:00"
+    }
+  ]
+}

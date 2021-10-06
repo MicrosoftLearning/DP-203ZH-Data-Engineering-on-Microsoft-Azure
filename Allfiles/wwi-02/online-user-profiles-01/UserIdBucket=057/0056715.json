@@ -1,0 +1,35 @@
+{
+  "userId": 56715,
+  "cartId": "e6c5327f-0480-4ed8-b54c-ac04a0b7d870",
+  "preferredProducts": [
+    1084,
+    123,
+    888,
+    1955,
+    701,
+    473,
+    1166
+  ],
+  "productReviews": [
+    {
+      "productId": 3605,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-06-21T09:48:58.0478935+03:00"
+    },
+    {
+      "productId": 121,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-01-22T02:46:38.8631872+02:00"
+    },
+    {
+      "productId": 872,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-04-07T18:45:46.2148083+03:00"
+    },
+    {
+      "productId": 1789,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-10-24T16:24:15.9844159+03:00"
+    }
+  ]
+}

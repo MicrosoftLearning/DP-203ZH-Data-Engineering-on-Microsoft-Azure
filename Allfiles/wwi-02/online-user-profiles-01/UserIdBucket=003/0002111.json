@@ -1,0 +1,32 @@
+{
+  "userId": 2111,
+  "cartId": "991bcb7d-f094-47ec-bf72-839cac5733a5",
+  "preferredProducts": [
+    2137,
+    4336,
+    4364,
+    3137
+  ],
+  "productReviews": [
+    {
+      "productId": 932,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-12-03T10:32:39.8473971+02:00"
+    },
+    {
+      "productId": 3952,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-12-14T17:47:34.1302644+02:00"
+    },
+    {
+      "productId": 43,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-03-31T13:50:10.296879+03:00"
+    },
+    {
+      "productId": 4397,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-11-27T02:29:50.2380113+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 11177,
+  "cartId": "fa62eead-91d0-422e-862b-eae0c9489bab",
+  "preferredProducts": [
+    794,
+    4083
+  ],
+  "productReviews": [
+    {
+      "productId": 3814,
+      "reviewText": "this Plastic is slurpee.",
+      "reviewDate": "2017-04-11T01:06:25.0052629+03:00"
+    },
+    {
+      "productId": 1666,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-04-02T12:15:56.4033918+03:00"
+    },
+    {
+      "productId": 975,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-09-05T14:28:50.1356938+03:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-08-03T20:07:49.6205616+03:00"
+    }
+  ]
+}

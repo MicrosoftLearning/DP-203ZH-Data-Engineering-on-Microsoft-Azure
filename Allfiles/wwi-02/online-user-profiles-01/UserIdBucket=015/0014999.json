@@ -1,0 +1,39 @@
+{
+  "userId": 14999,
+  "cartId": "79a2ecc0-7f4c-48af-8ead-a5f9d48fe257",
+  "preferredProducts": [
+    1975,
+    4269,
+    4595,
+    867,
+    4858,
+    3742
+  ],
+  "productReviews": [
+    {
+      "productId": 195,
+      "reviewText": "this index is brown.",
+      "reviewDate": "2019-08-24T11:32:49.1146949+03:00"
+    },
+    {
+      "productId": 877,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-08-25T22:22:27.8418986+03:00"
+    },
+    {
+      "productId": 1879,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-02-07T16:01:59.4052239+02:00"
+    },
+    {
+      "productId": 1398,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-12-14T04:14:37.689446+02:00"
+    },
+    {
+      "productId": 791,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-11-16T17:30:02.9553698+02:00"
+    }
+  ]
+}

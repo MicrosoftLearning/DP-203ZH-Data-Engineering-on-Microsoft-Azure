@@ -1,0 +1,35 @@
+{
+  "userId": 9010,
+  "cartId": "b7a41461-aa87-47cb-b301-13105706cbe8",
+  "preferredProducts": [
+    4992,
+    4880,
+    521,
+    4304,
+    795,
+    54,
+    917
+  ],
+  "productReviews": [
+    {
+      "productId": 45,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-12-30T18:59:38.1127393+02:00"
+    },
+    {
+      "productId": 4813,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-02-09T10:36:38.1638187+02:00"
+    },
+    {
+      "productId": 1948,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-10-08T14:24:25.0432699+03:00"
+    },
+    {
+      "productId": 89,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-04-23T03:45:30.7577608+03:00"
+    }
+  ]
+}

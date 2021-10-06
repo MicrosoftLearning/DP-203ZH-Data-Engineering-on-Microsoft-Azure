@@ -1,0 +1,30 @@
+{
+  "userId": 60696,
+  "cartId": "9e52df2c-0cf0-4a23-bff6-13b8749fcd07",
+  "preferredProducts": [
+    789,
+    2982
+  ],
+  "productReviews": [
+    {
+      "productId": 388,
+      "reviewText": "this Communications is top-notch.",
+      "reviewDate": "2020-04-23T12:27:51.7412997+03:00"
+    },
+    {
+      "productId": 447,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-06-05T21:51:38.0103941+03:00"
+    },
+    {
+      "productId": 4158,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-12-16T22:07:31.4496083+02:00"
+    },
+    {
+      "productId": 2740,
+      "reviewText": "this array is tasty.",
+      "reviewDate": "2016-09-24T08:40:23.0574296+03:00"
+    }
+  ]
+}

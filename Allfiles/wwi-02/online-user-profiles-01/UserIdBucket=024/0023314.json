@@ -1,0 +1,30 @@
+{
+  "userId": 23314,
+  "cartId": "4fcb53c9-73a9-4fcd-a72d-5a0323b4470e",
+  "preferredProducts": [
+    2625,
+    3930,
+    1991,
+    3179,
+    1380,
+    4282,
+    2153
+  ],
+  "productReviews": [
+    {
+      "productId": 2717,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-01-24T12:50:10.6322783+02:00"
+    },
+    {
+      "productId": 2188,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-09-24T23:52:52.4117659+03:00"
+    },
+    {
+      "productId": 3801,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-06-12T22:42:20.1645191+03:00"
+    }
+  ]
+}

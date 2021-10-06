@@ -1,0 +1,38 @@
+{
+  "userId": 95408,
+  "cartId": "9658d006-0598-499a-8598-1dcda1397a2b",
+  "preferredProducts": [
+    3556,
+    915,
+    2774,
+    4129,
+    236,
+    4310,
+    1005,
+    723,
+    2123,
+    4366
+  ],
+  "productReviews": [
+    {
+      "productId": 769,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-08-11T05:44:37.1908635+03:00"
+    },
+    {
+      "productId": 1054,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-04-23T17:32:55.6497557+03:00"
+    },
+    {
+      "productId": 3413,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-12-11T17:05:54.0055281+02:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-07-31T18:47:56.2031108+03:00"
+    }
+  ]
+}

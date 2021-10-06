@@ -1,0 +1,32 @@
+{
+  "userId": 89738,
+  "cartId": "21dbc826-9190-423d-bf12-a2df372a7ec4",
+  "preferredProducts": [
+    94,
+    983,
+    1542,
+    4849
+  ],
+  "productReviews": [
+    {
+      "productId": 797,
+      "reviewText": "this black is nifty.",
+      "reviewDate": "2017-04-17T16:47:39.6551501+03:00"
+    },
+    {
+      "productId": 3479,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2016-05-23T19:33:44.7025796+03:00"
+    },
+    {
+      "productId": 3871,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-01-05T02:01:18.3358291+02:00"
+    },
+    {
+      "productId": 4758,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-02-03T09:16:28.2877247+02:00"
+    }
+  ]
+}

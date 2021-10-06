@@ -1,0 +1,31 @@
+{
+  "userId": 37265,
+  "cartId": "b134fd90-b9d8-4ec8-b0f5-0a6956552525",
+  "preferredProducts": [
+    283,
+    2190,
+    1098,
+    3677,
+    1937,
+    286,
+    4142,
+    3587
+  ],
+  "productReviews": [
+    {
+      "productId": 1451,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-04-28T03:54:50.3652069+03:00"
+    },
+    {
+      "productId": 3722,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-02-07T07:08:32.6147128+02:00"
+    },
+    {
+      "productId": 3387,
+      "reviewText": "this interfaces is amiable.",
+      "reviewDate": "2020-04-01T15:47:01.2838569+03:00"
+    }
+  ]
+}

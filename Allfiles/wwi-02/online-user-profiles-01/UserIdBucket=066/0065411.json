@@ -1,0 +1,27 @@
+{
+  "userId": 65411,
+  "cartId": "4eb8e7c1-9d44-42f3-b2f4-2bc0c2f7e763",
+  "preferredProducts": [
+    23,
+    2297,
+    2633,
+    720
+  ],
+  "productReviews": [
+    {
+      "productId": 4730,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-11-08T23:56:25.0301177+02:00"
+    },
+    {
+      "productId": 3993,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-12-13T09:27:36.0568874+02:00"
+    },
+    {
+      "productId": 4362,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-08-18T16:59:44.2545627+03:00"
+    }
+  ]
+}

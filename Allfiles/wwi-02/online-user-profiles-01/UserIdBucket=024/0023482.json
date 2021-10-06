@@ -1,0 +1,33 @@
+{
+  "userId": 23482,
+  "cartId": "a7797fd5-1e28-44b8-9bfe-284ab7b2c316",
+  "preferredProducts": [
+    2513,
+    553,
+    2771,
+    4257,
+    4740
+  ],
+  "productReviews": [
+    {
+      "productId": 3997,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-03-05T13:25:08.3753874+02:00"
+    },
+    {
+      "productId": 331,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-04-09T14:35:10.5018589+03:00"
+    },
+    {
+      "productId": 399,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-03-08T12:24:59.5732744+02:00"
+    },
+    {
+      "productId": 4448,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-11-12T17:02:23.5649627+02:00"
+    }
+  ]
+}

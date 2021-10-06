@@ -1,0 +1,36 @@
+{
+  "userId": 15214,
+  "cartId": "c4ba5341-7a4e-4b33-987c-1d0a7cb96384",
+  "preferredProducts": [
+    2201,
+    2227,
+    4306,
+    2575,
+    2181,
+    672,
+    2682,
+    2236
+  ],
+  "productReviews": [
+    {
+      "productId": 853,
+      "reviewText": "this Intelligent Soft Bike is awesome.",
+      "reviewDate": "2020-03-12T17:33:41.743136+02:00"
+    },
+    {
+      "productId": 4011,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-01-25T18:38:22.988482+02:00"
+    },
+    {
+      "productId": 2809,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-05-28T21:17:26.2260048+03:00"
+    },
+    {
+      "productId": 2594,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-03-07T07:56:45.8557817+02:00"
+    }
+  ]
+}

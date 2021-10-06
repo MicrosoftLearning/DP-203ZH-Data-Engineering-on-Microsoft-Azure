@@ -1,0 +1,31 @@
+{
+  "userId": 90320,
+  "cartId": "86570a8f-1299-46c3-9e5e-fa4e59084d16",
+  "preferredProducts": [
+    464,
+    1371,
+    3672,
+    1374,
+    4125,
+    1704,
+    1251,
+    4023
+  ],
+  "productReviews": [
+    {
+      "productId": 346,
+      "reviewText": "this Associate is awesome.",
+      "reviewDate": "2018-01-28T08:58:14.1982901+02:00"
+    },
+    {
+      "productId": 668,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-12-09T00:59:00.6716149+02:00"
+    },
+    {
+      "productId": 2064,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-02-11T15:39:47.4726278+02:00"
+    }
+  ]
+}

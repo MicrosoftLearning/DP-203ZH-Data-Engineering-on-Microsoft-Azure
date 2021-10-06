@@ -1,0 +1,33 @@
+{
+  "userId": 20477,
+  "cartId": "410e0f69-67d7-4c10-8c5c-a54c34c1052e",
+  "preferredProducts": [
+    2296,
+    2381,
+    2545,
+    1871,
+    2884,
+    2049,
+    863,
+    4607,
+    1667,
+    2655
+  ],
+  "productReviews": [
+    {
+      "productId": 3641,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-12-25T10:58:32.3158806+02:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-09-20T18:09:49.2638158+03:00"
+    },
+    {
+      "productId": 1479,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-06-29T04:38:10.8760912+03:00"
+    }
+  ]
+}

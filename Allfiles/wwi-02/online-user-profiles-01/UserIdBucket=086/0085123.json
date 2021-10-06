@@ -1,0 +1,23 @@
+{
+  "userId": 85123,
+  "cartId": "5dfa9165-fcbc-4111-a30b-91e8ad9dfbe4",
+  "preferredProducts": [
+    4657,
+    435,
+    4698,
+    6,
+    586
+  ],
+  "productReviews": [
+    {
+      "productId": 2653,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-05-22T07:57:25.0816518+03:00"
+    },
+    {
+      "productId": 2908,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-05-17T02:05:58.4923036+03:00"
+    }
+  ]
+}

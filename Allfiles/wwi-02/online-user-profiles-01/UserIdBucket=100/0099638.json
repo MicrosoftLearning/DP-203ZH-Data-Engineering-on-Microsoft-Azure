@@ -1,0 +1,27 @@
+{
+  "userId": 99638,
+  "cartId": "e5b310a0-27de-4042-b680-fc76e8e0d13e",
+  "preferredProducts": [
+    4266,
+    3010,
+    409,
+    2378
+  ],
+  "productReviews": [
+    {
+      "productId": 2252,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-07-24T06:54:46.9519566+03:00"
+    },
+    {
+      "productId": 1635,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-09-13T01:27:39.9377239+03:00"
+    },
+    {
+      "productId": 2585,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-01-16T11:51:45.4767424+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 3225,
+  "cartId": "dc36cb29-d5d0-46be-9768-8abe48eeb938",
+  "preferredProducts": [
+    1322,
+    1766,
+    2318,
+    1670,
+    2673,
+    4055,
+    3736,
+    2377,
+    4596
+  ],
+  "productReviews": [
+    {
+      "productId": 1432,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-11-11T07:02:42.9779141+02:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2016-05-20T06:35:36.2087948+03:00"
+    },
+    {
+      "productId": 3077,
+      "reviewText": "this Generic Metal Bike is light-hearted.",
+      "reviewDate": "2018-08-16T14:48:05.0613734+03:00"
+    }
+  ]
+}

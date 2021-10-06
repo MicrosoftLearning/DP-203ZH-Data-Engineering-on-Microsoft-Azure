@@ -1,0 +1,42 @@
+{
+  "userId": 2625,
+  "cartId": "ef440559-68cb-4caa-9e7c-1205d21195ba",
+  "preferredProducts": [
+    518,
+    2104,
+    3535,
+    3919,
+    1002,
+    4306,
+    4039,
+    1067,
+    4036
+  ],
+  "productReviews": [
+    {
+      "productId": 1345,
+      "reviewText": "This Outdoors, Kids & Beauty, does exactly what it's suppose to do.",
+      "reviewDate": "2019-04-12T12:18:39.6027986+03:00"
+    },
+    {
+      "productId": 4033,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-04-15T02:28:38.9766926+03:00"
+    },
+    {
+      "productId": 3277,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-10-31T06:21:42.5185606+02:00"
+    },
+    {
+      "productId": 35,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-01-21T05:26:02.0892055+02:00"
+    },
+    {
+      "productId": 4150,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-11-16T14:29:10.3882626+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 19775,
+  "cartId": "a41ceab3-d7c1-4ee4-ab3c-470f10bca272",
+  "preferredProducts": [
+    4830,
+    882,
+    275,
+    1002,
+    4193,
+    3746
+  ],
+  "productReviews": [
+    {
+      "productId": 2364,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-03-05T19:58:53.901501+02:00"
+    },
+    {
+      "productId": 2438,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-03-20T13:57:08.4505773+02:00"
+    },
+    {
+      "productId": 4739,
+      "reviewText": "this XML is ghetto.",
+      "reviewDate": "2016-05-27T03:13:16.5490645+03:00"
+    }
+  ]
+}

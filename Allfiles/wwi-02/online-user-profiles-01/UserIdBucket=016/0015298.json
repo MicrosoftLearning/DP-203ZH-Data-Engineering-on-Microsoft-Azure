@@ -1,0 +1,32 @@
+{
+  "userId": 15298,
+  "cartId": "28d04f67-ca24-46f3-9c08-84fbbedff056",
+  "preferredProducts": [
+    3248,
+    2366,
+    748,
+    509,
+    2654,
+    3515,
+    3859,
+    2375,
+    4038
+  ],
+  "productReviews": [
+    {
+      "productId": 3363,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-03-13T01:38:03.9708448+02:00"
+    },
+    {
+      "productId": 1392,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-03-11T18:34:41.2509826+02:00"
+    },
+    {
+      "productId": 3707,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-03-26T16:55:11.7647541+02:00"
+    }
+  ]
+}

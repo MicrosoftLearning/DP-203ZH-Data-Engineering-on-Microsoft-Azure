@@ -1,0 +1,28 @@
+{
+  "userId": 53368,
+  "cartId": "7afd4861-84bf-4eef-b089-7dbf55dc6dee",
+  "preferredProducts": [
+    4617,
+    2922,
+    4374,
+    3770,
+    2421
+  ],
+  "productReviews": [
+    {
+      "productId": 4974,
+      "reviewText": "this white is slurpee.",
+      "reviewDate": "2018-04-13T13:53:39.9242718+03:00"
+    },
+    {
+      "productId": 3708,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-05-08T05:31:52.2269003+03:00"
+    },
+    {
+      "productId": 1308,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-07-19T18:32:08.1240696+03:00"
+    }
+  ]
+}

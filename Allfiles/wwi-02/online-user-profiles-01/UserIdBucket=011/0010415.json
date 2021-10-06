@@ -1,0 +1,22 @@
+{
+  "userId": 10415,
+  "cartId": "8e662223-c157-4f56-84ef-2ed6b5a151ec",
+  "preferredProducts": [
+    4194,
+    1414,
+    4770,
+    4174
+  ],
+  "productReviews": [
+    {
+      "productId": 1226,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-10-23T08:42:20.6035396+03:00"
+    },
+    {
+      "productId": 120,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-05-28T16:10:01.0121527+03:00"
+    }
+  ]
+}

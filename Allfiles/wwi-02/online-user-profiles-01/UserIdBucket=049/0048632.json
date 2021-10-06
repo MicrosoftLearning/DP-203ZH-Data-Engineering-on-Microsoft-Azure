@@ -1,0 +1,29 @@
+{
+  "userId": 48632,
+  "cartId": "d0a6963a-0fcd-4472-b05b-93a25405fcab",
+  "preferredProducts": [
+    2303,
+    2821,
+    2132,
+    4163,
+    3419,
+    4561
+  ],
+  "productReviews": [
+    {
+      "productId": 4356,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-11-07T18:35:50.7510383+02:00"
+    },
+    {
+      "productId": 3436,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-09-02T05:45:04.0447728+03:00"
+    },
+    {
+      "productId": 140,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-07-15T03:38:39.5006375+03:00"
+    }
+  ]
+}

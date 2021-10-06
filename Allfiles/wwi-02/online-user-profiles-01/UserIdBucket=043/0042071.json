@@ -1,0 +1,28 @@
+{
+  "userId": 42071,
+  "cartId": "b7e7fb28-8668-453b-88de-250de9a7c43e",
+  "preferredProducts": [
+    4279,
+    3401,
+    4114,
+    3204,
+    4235
+  ],
+  "productReviews": [
+    {
+      "productId": 2378,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-06-25T05:42:54.6170244+03:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-02-07T02:01:39.0088116+02:00"
+    },
+    {
+      "productId": 1910,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-11-30T14:44:41.010161+02:00"
+    }
+  ]
+}

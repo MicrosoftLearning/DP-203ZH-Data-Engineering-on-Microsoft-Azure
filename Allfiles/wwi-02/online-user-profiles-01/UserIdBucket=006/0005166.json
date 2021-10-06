@@ -1,0 +1,28 @@
+{
+  "userId": 5166,
+  "cartId": "1f1f5518-2811-4a70-94ea-128555030b15",
+  "preferredProducts": [
+    4194,
+    4057,
+    2297,
+    3703,
+    3664
+  ],
+  "productReviews": [
+    {
+      "productId": 237,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-01-07T08:00:20.0959356+02:00"
+    },
+    {
+      "productId": 4477,
+      "reviewText": "this Mall is snowy.",
+      "reviewDate": "2018-06-26T14:38:04.8938433+03:00"
+    },
+    {
+      "productId": 1087,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-11-18T14:07:27.7804571+02:00"
+    }
+  ]
+}

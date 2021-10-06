@@ -1,0 +1,30 @@
+{
+  "userId": 17964,
+  "cartId": "737fd703-7948-4193-b3e5-2d4faa66702e",
+  "preferredProducts": [
+    456,
+    1124,
+    728,
+    784,
+    4910,
+    420,
+    513
+  ],
+  "productReviews": [
+    {
+      "productId": 411,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-06-24T08:11:47.3267884+03:00"
+    },
+    {
+      "productId": 4184,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-06-26T03:11:14.617157+03:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-03-30T19:39:22.119548+03:00"
+    }
+  ]
+}

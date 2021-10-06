@@ -1,0 +1,41 @@
+{
+  "userId": 55153,
+  "cartId": "ea5b1383-b9ba-4e3c-bb2f-016eca876137",
+  "preferredProducts": [
+    195,
+    3169,
+    2943,
+    2283,
+    725,
+    4760,
+    259,
+    1606
+  ],
+  "productReviews": [
+    {
+      "productId": 1046,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-12-21T03:11:56.4052704+02:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-08-01T08:41:21.7558986+03:00"
+    },
+    {
+      "productId": 1957,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-02-15T17:43:20.2988704+02:00"
+    },
+    {
+      "productId": 2705,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-08-10T14:37:04.2881959+03:00"
+    },
+    {
+      "productId": 3582,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-12-04T14:20:02.2319062+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 52364,
+  "cartId": "62556115-ba09-4a22-9989-e45c5d5f0b4f",
+  "preferredProducts": [
+    3467,
+    389,
+    3836,
+    4608,
+    1789,
+    4028,
+    752
+  ],
+  "productReviews": [
+    {
+      "productId": 796,
+      "reviewText": "this invoice is top-notch.",
+      "reviewDate": "2019-12-15T07:09:06.2740923+02:00"
+    },
+    {
+      "productId": 4085,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-01-08T14:25:06.7915314+02:00"
+    },
+    {
+      "productId": 4529,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-01-13T08:39:38.2865357+02:00"
+    }
+  ]
+}

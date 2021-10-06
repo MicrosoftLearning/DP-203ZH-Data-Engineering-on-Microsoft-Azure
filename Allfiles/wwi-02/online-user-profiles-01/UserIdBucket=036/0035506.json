@@ -1,0 +1,32 @@
+{
+  "userId": 35506,
+  "cartId": "03dfdb1c-4bab-424c-a8b3-64c1e9b2b0fa",
+  "preferredProducts": [
+    4510,
+    4793,
+    2596,
+    2411,
+    4764,
+    3581,
+    4889,
+    4264,
+    3510
+  ],
+  "productReviews": [
+    {
+      "productId": 373,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-03-31T15:58:51.2269784+03:00"
+    },
+    {
+      "productId": 1282,
+      "reviewText": "this cross-platform is hyper.",
+      "reviewDate": "2018-09-29T07:04:10.7545889+03:00"
+    },
+    {
+      "productId": 187,
+      "reviewText": "this programming is awesome.",
+      "reviewDate": "2019-08-23T20:45:19.072374+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 92788,
+  "cartId": "7ac83ec6-21ad-4484-b2b1-5b709f927c62",
+  "preferredProducts": [
+    75,
+    3498,
+    1078,
+    161,
+    1466,
+    4327
+  ],
+  "productReviews": [
+    {
+      "productId": 321,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2020-02-16T08:16:32.5241169+02:00"
+    },
+    {
+      "productId": 2253,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-11-25T12:44:54.4267415+02:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-10-18T04:47:47.5610841+03:00"
+    },
+    {
+      "productId": 1966,
+      "reviewText": "This Plain, does exactly what it's suppose to do.",
+      "reviewDate": "2016-05-25T11:08:52.6575549+03:00"
+    }
+  ]
+}

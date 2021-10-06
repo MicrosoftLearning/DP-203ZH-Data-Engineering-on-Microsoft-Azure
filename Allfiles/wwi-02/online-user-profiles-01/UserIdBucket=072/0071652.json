@@ -1,0 +1,30 @@
+{
+  "userId": 71652,
+  "cartId": "e961f9b4-012e-4ebd-b49a-53646fced569",
+  "preferredProducts": [
+    3265,
+    315
+  ],
+  "productReviews": [
+    {
+      "productId": 4247,
+      "reviewText": "this Path is slurpee.",
+      "reviewDate": "2018-03-23T06:10:07.7283073+02:00"
+    },
+    {
+      "productId": 2299,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-02-13T22:51:30.0751572+02:00"
+    },
+    {
+      "productId": 548,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-08-22T21:24:53.3082145+03:00"
+    },
+    {
+      "productId": 3541,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-06-07T07:29:06.1253576+03:00"
+    }
+  ]
+}

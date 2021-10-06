@@ -1,0 +1,40 @@
+{
+  "userId": 499,
+  "cartId": "59629ab2-c86d-406a-b397-ab9a0f438d1a",
+  "preferredProducts": [
+    2854,
+    3161,
+    2524,
+    566,
+    2448,
+    2768,
+    3532
+  ],
+  "productReviews": [
+    {
+      "productId": 3451,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-04-26T05:16:25.6989204+03:00"
+    },
+    {
+      "productId": 4330,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-06-22T05:57:26.4740382+03:00"
+    },
+    {
+      "productId": 2909,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-12-22T21:30:23.5621634+02:00"
+    },
+    {
+      "productId": 4145,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-05-14T16:37:59.4781231+03:00"
+    },
+    {
+      "productId": 2201,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-01-06T22:48:16.1666456+02:00"
+    }
+  ]
+}

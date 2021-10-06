@@ -1,0 +1,30 @@
+{
+  "userId": 63654,
+  "cartId": "16c2b1d9-dad1-4d9a-b394-2e6495739c67",
+  "preferredProducts": [
+    315,
+    3013,
+    3732,
+    3584,
+    1891,
+    4906,
+    2888
+  ],
+  "productReviews": [
+    {
+      "productId": 4419,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-06-18T10:30:49.9958355+03:00"
+    },
+    {
+      "productId": 4553,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-03-07T05:47:52.717694+02:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-03-15T01:25:32.9616232+02:00"
+    }
+  ]
+}

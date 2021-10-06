@@ -1,0 +1,41 @@
+{
+  "userId": 66574,
+  "cartId": "ef4ff1ab-a5fe-42f4-96dd-73ffc8345bce",
+  "preferredProducts": [
+    231,
+    3548,
+    930,
+    3519,
+    2752,
+    3180,
+    3641,
+    2216
+  ],
+  "productReviews": [
+    {
+      "productId": 178,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-08-29T22:19:48.1278539+03:00"
+    },
+    {
+      "productId": 2675,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-10-30T23:08:29.8841658+02:00"
+    },
+    {
+      "productId": 2806,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2020-02-17T23:06:18.2021288+02:00"
+    },
+    {
+      "productId": 4185,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-10-29T14:54:31.4922787+03:00"
+    },
+    {
+      "productId": 157,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-04-19T05:48:34.8361435+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 41920,
+  "cartId": "730f58cb-dd56-4c15-9e02-84ef309a60db",
+  "preferredProducts": [
+    3529,
+    1631,
+    1244,
+    1752
+  ],
+  "productReviews": [
+    {
+      "productId": 1403,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-10-13T19:26:32.9415106+03:00"
+    },
+    {
+      "productId": 814,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-05-18T19:46:24.263772+03:00"
+    },
+    {
+      "productId": 2729,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-06-19T08:54:17.1701708+03:00"
+    },
+    {
+      "productId": 242,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-04-08T09:27:53.5915857+03:00"
+    }
+  ]
+}

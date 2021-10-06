@@ -1,0 +1,26 @@
+{
+  "userId": 83125,
+  "cartId": "abc86a73-364f-4e94-a3ef-a3c71d74ea73",
+  "preferredProducts": [
+    1253,
+    2990,
+    1042
+  ],
+  "productReviews": [
+    {
+      "productId": 2368,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-09-14T14:23:23.3851631+03:00"
+    },
+    {
+      "productId": 671,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-04-28T15:58:06.7672596+03:00"
+    },
+    {
+      "productId": 1826,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-08-12T20:07:02.889716+03:00"
+    }
+  ]
+}

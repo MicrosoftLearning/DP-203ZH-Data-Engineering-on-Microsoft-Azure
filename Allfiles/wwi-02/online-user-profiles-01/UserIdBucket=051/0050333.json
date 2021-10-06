@@ -1,0 +1,39 @@
+{
+  "userId": 50333,
+  "cartId": "28349fc2-b6df-45f4-972b-af08a54d546f",
+  "preferredProducts": [
+    1008,
+    1388,
+    1423,
+    1609,
+    2174,
+    3360
+  ],
+  "productReviews": [
+    {
+      "productId": 993,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-12-09T07:56:16.4536393+02:00"
+    },
+    {
+      "productId": 1611,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-07-17T00:36:38.2810835+03:00"
+    },
+    {
+      "productId": 2043,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-12-11T17:03:54.3508059+02:00"
+    },
+    {
+      "productId": 4143,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-11-10T09:36:56.9631426+02:00"
+    },
+    {
+      "productId": 1219,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-01-06T19:43:18.5429026+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 14127,
+  "cartId": "924d7a54-62a9-42f1-86c2-e2d94b29ef2d",
+  "preferredProducts": [
+    3345,
+    1218,
+    2147,
+    43,
+    3707,
+    4966,
+    3197,
+    3889,
+    269
+  ],
+  "productReviews": [
+    {
+      "productId": 1051,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-03-31T23:45:35.6116862+03:00"
+    },
+    {
+      "productId": 2382,
+      "reviewText": "this 24 hour is nifty.",
+      "reviewDate": "2017-07-10T04:08:30.5902308+03:00"
+    },
+    {
+      "productId": 3718,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-01-24T02:39:40.8858477+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 111,
+  "cartId": "5cb45c13-7eb0-495d-a9f2-557ebdc31d76",
+  "preferredProducts": [
+    1068,
+    551,
+    300,
+    2492,
+    2081,
+    2695,
+    3807,
+    4542,
+    4962,
+    2978
+  ],
+  "productReviews": [
+    {
+      "productId": 3251,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-04-10T23:48:43.3724923+03:00"
+    },
+    {
+      "productId": 2385,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-12-08T06:59:13.3497283+02:00"
+    }
+  ]
+}

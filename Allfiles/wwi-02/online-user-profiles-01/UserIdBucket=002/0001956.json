@@ -1,0 +1,30 @@
+{
+  "userId": 1956,
+  "cartId": "17132214-d420-45cd-b136-c56d8d979627",
+  "preferredProducts": [
+    4216,
+    4035
+  ],
+  "productReviews": [
+    {
+      "productId": 2121,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-08-15T00:50:46.5822515+03:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-07-27T14:52:40.4945759+03:00"
+    },
+    {
+      "productId": 4702,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-11-05T05:33:35.8318524+02:00"
+    },
+    {
+      "productId": 1112,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-12-17T02:11:17.3893805+02:00"
+    }
+  ]
+}

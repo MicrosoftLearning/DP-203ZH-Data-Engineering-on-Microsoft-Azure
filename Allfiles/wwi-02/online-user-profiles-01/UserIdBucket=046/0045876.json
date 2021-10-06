@@ -1,0 +1,33 @@
+{
+  "userId": 45876,
+  "cartId": "fd3fdd7b-b4e9-4fac-aa3a-a676cfe49b32",
+  "preferredProducts": [
+    2088,
+    3201,
+    3861,
+    4153,
+    4847,
+    2108,
+    667,
+    1015,
+    2866,
+    1457
+  ],
+  "productReviews": [
+    {
+      "productId": 3823,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-09-16T03:41:38.8723018+03:00"
+    },
+    {
+      "productId": 1666,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2020-03-12T16:24:05.5407721+02:00"
+    },
+    {
+      "productId": 3031,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-04-20T01:15:22.2475521+03:00"
+    }
+  ]
+}

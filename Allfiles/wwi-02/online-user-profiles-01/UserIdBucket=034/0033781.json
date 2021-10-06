@@ -1,0 +1,32 @@
+{
+  "userId": 33781,
+  "cartId": "52c32629-9bda-49e3-84f8-8dde8169d2e5",
+  "preferredProducts": [
+    2603,
+    4098,
+    1236,
+    1300
+  ],
+  "productReviews": [
+    {
+      "productId": 1111,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2020-02-17T20:03:10.7368578+02:00"
+    },
+    {
+      "productId": 2908,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-11-08T12:18:19.6475405+02:00"
+    },
+    {
+      "productId": 2498,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2020-05-04T16:04:36.4519616+03:00"
+    },
+    {
+      "productId": 815,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-03-10T16:32:48.3942266+02:00"
+    }
+  ]
+}

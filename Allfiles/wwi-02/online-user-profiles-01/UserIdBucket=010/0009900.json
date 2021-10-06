@@ -1,0 +1,32 @@
+{
+  "userId": 9900,
+  "cartId": "158a63bf-36de-47ba-9041-4c2b0d90551b",
+  "preferredProducts": [
+    3841,
+    1792,
+    4101,
+    1079
+  ],
+  "productReviews": [
+    {
+      "productId": 3533,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2018-03-21T19:23:01.6577672+02:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "This is a really good 1080p.",
+      "reviewDate": "2019-02-01T01:03:15.0077208+02:00"
+    },
+    {
+      "productId": 347,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-05-24T05:00:30.0132806+03:00"
+    },
+    {
+      "productId": 1604,
+      "reviewText": "this Terrace is awesome.",
+      "reviewDate": "2019-10-19T01:54:36.7244884+03:00"
+    }
+  ]
+}

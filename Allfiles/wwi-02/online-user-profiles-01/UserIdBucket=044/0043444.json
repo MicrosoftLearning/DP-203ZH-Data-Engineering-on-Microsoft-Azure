@@ -1,0 +1,33 @@
+{
+  "userId": 43444,
+  "cartId": "221b44a5-28dd-4dac-ba3b-9d31d8f88c72",
+  "preferredProducts": [
+    3550,
+    4318,
+    2606,
+    2184,
+    3880,
+    2423,
+    2668,
+    4733,
+    1445,
+    2606
+  ],
+  "productReviews": [
+    {
+      "productId": 98,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-05-14T14:57:51.428523+03:00"
+    },
+    {
+      "productId": 1986,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-01-01T05:09:58.770553+02:00"
+    },
+    {
+      "productId": 3202,
+      "reviewText": "this Representative is mellow.",
+      "reviewDate": "2019-10-26T00:21:06.0804139+03:00"
+    }
+  ]
+}

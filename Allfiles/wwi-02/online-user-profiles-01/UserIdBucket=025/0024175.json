@@ -1,0 +1,33 @@
+{
+  "userId": 24175,
+  "cartId": "d96826ee-7c81-43a3-87ed-9ffca6d8e8ca",
+  "preferredProducts": [
+    24,
+    853,
+    4668,
+    321,
+    2175,
+    4962,
+    2195,
+    3690,
+    4292,
+    235
+  ],
+  "productReviews": [
+    {
+      "productId": 5,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-02-21T22:41:58.5176614+02:00"
+    },
+    {
+      "productId": 4199,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-03-31T17:07:35.6776615+03:00"
+    },
+    {
+      "productId": 4809,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-06-02T08:34:18.7967765+03:00"
+    }
+  ]
+}

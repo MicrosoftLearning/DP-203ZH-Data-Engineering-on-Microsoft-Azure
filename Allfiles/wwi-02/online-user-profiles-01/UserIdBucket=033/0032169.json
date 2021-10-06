@@ -1,0 +1,23 @@
+{
+  "userId": 32169,
+  "cartId": "a52bd3db-eefd-4e7d-9d90-121477fdcbaa",
+  "preferredProducts": [
+    4715,
+    732,
+    693,
+    1020,
+    2354
+  ],
+  "productReviews": [
+    {
+      "productId": 4224,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-04-14T07:57:48.3879501+03:00"
+    },
+    {
+      "productId": 246,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-03-12T13:43:25.6315557+02:00"
+    }
+  ]
+}

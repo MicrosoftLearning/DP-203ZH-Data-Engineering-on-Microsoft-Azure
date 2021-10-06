@@ -1,0 +1,33 @@
+{
+  "userId": 23846,
+  "cartId": "52d31be9-5005-4cca-b3e3-fa93d0f70c09",
+  "preferredProducts": [
+    4735,
+    4395,
+    3823,
+    3588,
+    3737,
+    833,
+    2989,
+    876,
+    471,
+    3833
+  ],
+  "productReviews": [
+    {
+      "productId": 3820,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-11-15T11:14:36.4376261+02:00"
+    },
+    {
+      "productId": 3418,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-03-29T18:42:29.3250847+02:00"
+    },
+    {
+      "productId": 1719,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2020-04-01T22:50:03.395162+03:00"
+    }
+  ]
+}

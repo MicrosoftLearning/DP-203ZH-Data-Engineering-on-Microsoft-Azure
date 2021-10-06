@@ -1,0 +1,32 @@
+{
+  "userId": 42201,
+  "cartId": "2a86451a-e49f-403c-a3f2-22c2f304f4c0",
+  "preferredProducts": [
+    3375,
+    4273,
+    3087,
+    1165
+  ],
+  "productReviews": [
+    {
+      "productId": 3858,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-06-24T18:23:09.4745053+03:00"
+    },
+    {
+      "productId": 2131,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-03-15T02:56:00.2858996+02:00"
+    },
+    {
+      "productId": 4000,
+      "reviewText": "This Centers works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2016-10-08T16:10:57.5675496+03:00"
+    },
+    {
+      "productId": 345,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-01-05T08:53:28.8991729+02:00"
+    }
+  ]
+}

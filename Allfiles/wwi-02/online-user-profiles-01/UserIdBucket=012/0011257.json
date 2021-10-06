@@ -1,0 +1,29 @@
+{
+  "userId": 11257,
+  "cartId": "43039d9b-afc1-4836-a101-42ad14ce4787",
+  "preferredProducts": [
+    795,
+    1512,
+    4085,
+    3397,
+    3995,
+    2704
+  ],
+  "productReviews": [
+    {
+      "productId": 718,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-07-07T06:03:25.6892639+03:00"
+    },
+    {
+      "productId": 305,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-05-17T23:00:47.8921046+03:00"
+    },
+    {
+      "productId": 2958,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-09-28T19:44:58.9367993+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 88079,
+  "cartId": "78b3155e-5726-4d9d-a88f-20df51bd508f",
+  "preferredProducts": [
+    4250,
+    3642,
+    2772
+  ],
+  "productReviews": [
+    {
+      "productId": 142,
+      "reviewText": "this front-end is complimentary.",
+      "reviewDate": "2017-07-24T15:31:47.7008088+03:00"
+    },
+    {
+      "productId": 1161,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-10-29T03:23:27.4836381+02:00"
+    },
+    {
+      "productId": 4301,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-06-20T16:14:25.8472788+03:00"
+    },
+    {
+      "productId": 1509,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-08-11T18:18:45.7349661+03:00"
+    }
+  ]
+}

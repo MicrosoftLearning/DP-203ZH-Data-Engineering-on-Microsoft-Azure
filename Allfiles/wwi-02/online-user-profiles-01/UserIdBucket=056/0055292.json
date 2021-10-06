@@ -1,0 +1,35 @@
+{
+  "userId": 55292,
+  "cartId": "2ea49405-2816-419f-ba1d-a26bec36f8e4",
+  "preferredProducts": [
+    1039,
+    1256,
+    2308,
+    3962,
+    1035,
+    2029,
+    4326
+  ],
+  "productReviews": [
+    {
+      "productId": 1119,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-12-30T18:19:40.7740988+02:00"
+    },
+    {
+      "productId": 4806,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-04-18T04:01:31.6334747+03:00"
+    },
+    {
+      "productId": 3593,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-07-05T17:14:12.0853811+03:00"
+    },
+    {
+      "productId": 416,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-02-14T05:05:21.912313+02:00"
+    }
+  ]
+}

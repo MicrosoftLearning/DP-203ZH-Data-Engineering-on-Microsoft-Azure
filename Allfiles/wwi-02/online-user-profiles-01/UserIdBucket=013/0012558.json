@@ -1,0 +1,38 @@
+{
+  "userId": 12558,
+  "cartId": "4d54bbe3-b6b1-4af3-9d38-cf1c617138d6",
+  "preferredProducts": [
+    67,
+    3485,
+    3520,
+    4154,
+    2794,
+    4932,
+    4998,
+    3714,
+    1353,
+    4301
+  ],
+  "productReviews": [
+    {
+      "productId": 2626,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-04-04T16:55:44.5917519+03:00"
+    },
+    {
+      "productId": 1247,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-04-02T20:01:28.502766+03:00"
+    },
+    {
+      "productId": 3737,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-07-06T15:36:02.6845403+03:00"
+    },
+    {
+      "productId": 3536,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-05-26T14:06:06.1979396+03:00"
+    }
+  ]
+}

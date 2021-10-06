@@ -1,0 +1,27 @@
+{
+  "userId": 79552,
+  "cartId": "3a706d6f-dd5f-4c7f-9658-a7bf01e52b4a",
+  "preferredProducts": [
+    2579,
+    1987,
+    1976,
+    1422
+  ],
+  "productReviews": [
+    {
+      "productId": 3454,
+      "reviewText": "This bus, does exactly what it's suppose to do.",
+      "reviewDate": "2018-10-27T06:21:59.9667599+03:00"
+    },
+    {
+      "productId": 1365,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-05-23T07:10:50.7532496+03:00"
+    },
+    {
+      "productId": 2515,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-07-06T05:46:24.506076+03:00"
+    }
+  ]
+}

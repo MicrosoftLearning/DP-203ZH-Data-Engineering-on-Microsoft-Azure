@@ -1,0 +1,31 @@
+{
+  "userId": 35900,
+  "cartId": "a2772cc0-773f-4dc6-b6c8-538b2de1b12d",
+  "preferredProducts": [
+    2388,
+    927,
+    186,
+    2497,
+    803,
+    3495,
+    1074,
+    1710
+  ],
+  "productReviews": [
+    {
+      "productId": 11,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-05-20T03:12:04.1731853+03:00"
+    },
+    {
+      "productId": 4389,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-08-08T12:37:47.1034462+03:00"
+    },
+    {
+      "productId": 870,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-03-01T04:35:44.3446437+02:00"
+    }
+  ]
+}

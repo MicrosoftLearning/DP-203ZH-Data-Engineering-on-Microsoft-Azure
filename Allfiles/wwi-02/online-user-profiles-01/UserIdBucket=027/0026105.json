@@ -1,0 +1,31 @@
+{
+  "userId": 26105,
+  "cartId": "bc70016a-c703-486c-9cae-6e38029c89af",
+  "preferredProducts": [
+    1722,
+    4140,
+    3408
+  ],
+  "productReviews": [
+    {
+      "productId": 4960,
+      "reviewText": "this International is slurpee.",
+      "reviewDate": "2017-05-10T01:31:19.7133867+03:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-11-25T05:00:40.8607647+02:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-09-27T14:42:30.7344779+03:00"
+    },
+    {
+      "productId": 4830,
+      "reviewText": "This Mall works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-08-12T21:09:51.3526298+03:00"
+    }
+  ]
+}

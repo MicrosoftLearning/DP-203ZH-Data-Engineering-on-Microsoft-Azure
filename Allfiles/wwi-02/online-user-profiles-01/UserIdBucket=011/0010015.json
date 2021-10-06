@@ -1,0 +1,32 @@
+{
+  "userId": 10015,
+  "cartId": "f720e0d3-5f5d-42aa-8574-f7f61f6e5aec",
+  "preferredProducts": [
+    3385,
+    761,
+    1436,
+    4740,
+    2888,
+    519,
+    2732,
+    949,
+    3525
+  ],
+  "productReviews": [
+    {
+      "productId": 2310,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-04-18T12:01:53.8869321+03:00"
+    },
+    {
+      "productId": 663,
+      "reviewText": "This generate works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-02-18T10:34:31.1532454+02:00"
+    },
+    {
+      "productId": 1102,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-12-31T11:44:39.1964935+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 92270,
+  "cartId": "45ef41c4-7218-43a0-9fc9-88614ea316d5",
+  "preferredProducts": [
+    4669,
+    3109,
+    3379,
+    397,
+    2318,
+    3665,
+    2746
+  ],
+  "productReviews": [
+    {
+      "productId": 4487,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-05-11T14:18:07.5812643+03:00"
+    },
+    {
+      "productId": 1820,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-08-14T22:46:52.4139181+03:00"
+    },
+    {
+      "productId": 2499,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-09-06T18:10:59.7756745+03:00"
+    }
+  ]
+}

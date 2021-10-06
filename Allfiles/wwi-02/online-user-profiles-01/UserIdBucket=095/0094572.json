@@ -1,0 +1,34 @@
+{
+  "userId": 94572,
+  "cartId": "411ecddd-8031-46d4-8cdd-c173d0705f55",
+  "preferredProducts": [
+    182,
+    3188,
+    312,
+    2439,
+    2120,
+    4815
+  ],
+  "productReviews": [
+    {
+      "productId": 631,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-10-28T18:25:13.6653065+02:00"
+    },
+    {
+      "productId": 1873,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-07-29T11:27:15.6274827+03:00"
+    },
+    {
+      "productId": 3965,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-01-26T04:10:51.9722309+02:00"
+    },
+    {
+      "productId": 4925,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-01-31T17:54:59.7359536+02:00"
+    }
+  ]
+}

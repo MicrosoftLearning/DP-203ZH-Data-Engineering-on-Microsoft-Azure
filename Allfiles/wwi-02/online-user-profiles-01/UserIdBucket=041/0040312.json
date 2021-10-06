@@ -1,0 +1,37 @@
+{
+  "userId": 40312,
+  "cartId": "9d004c98-fa04-410f-abaf-0b70e619629c",
+  "preferredProducts": [
+    652,
+    1056,
+    1769,
+    597,
+    2895,
+    3302,
+    1570,
+    1885,
+    689
+  ],
+  "productReviews": [
+    {
+      "productId": 4404,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-23T03:37:55.9325794+02:00"
+    },
+    {
+      "productId": 621,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-09-01T21:38:33.5547185+03:00"
+    },
+    {
+      "productId": 1794,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-03-24T21:58:25.6574489+02:00"
+    },
+    {
+      "productId": 394,
+      "reviewText": "this tangible is flirty.",
+      "reviewDate": "2018-02-09T14:54:38.8650034+02:00"
+    }
+  ]
+}

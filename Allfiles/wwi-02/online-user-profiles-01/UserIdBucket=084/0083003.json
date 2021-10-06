@@ -1,0 +1,25 @@
+{
+  "userId": 83003,
+  "cartId": "c674c3ff-a7d3-486b-b944-aaf3f1642775",
+  "preferredProducts": [
+    4070,
+    3232,
+    1627,
+    2383,
+    2366,
+    4489,
+    1574
+  ],
+  "productReviews": [
+    {
+      "productId": 720,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-02-17T23:19:31.6463007+02:00"
+    },
+    {
+      "productId": 2213,
+      "reviewText": "this Orchestrator is snowy.",
+      "reviewDate": "2020-03-01T08:21:12.7968196+02:00"
+    }
+  ]
+}

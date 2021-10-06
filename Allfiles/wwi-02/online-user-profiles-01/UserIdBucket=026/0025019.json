@@ -1,0 +1,33 @@
+{
+  "userId": 25019,
+  "cartId": "b7c3ad09-d484-416f-bca1-be343f65d3b9",
+  "preferredProducts": [
+    4875,
+    4567,
+    3717,
+    4154,
+    2335
+  ],
+  "productReviews": [
+    {
+      "productId": 4882,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-10-09T18:03:08.622384+03:00"
+    },
+    {
+      "productId": 4665,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-07-23T17:18:27.3805363+03:00"
+    },
+    {
+      "productId": 2735,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-04-13T04:04:17.4028083+03:00"
+    },
+    {
+      "productId": 865,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-12-19T17:11:40.6679695+02:00"
+    }
+  ]
+}

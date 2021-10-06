@@ -1,0 +1,31 @@
+{
+  "userId": 4001,
+  "cartId": "eb660410-00a9-4cc3-8d74-1f1e735d7028",
+  "preferredProducts": [
+    4272,
+    3770,
+    4328
+  ],
+  "productReviews": [
+    {
+      "productId": 568,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-01-11T00:01:04.8551617+02:00"
+    },
+    {
+      "productId": 551,
+      "reviewText": "This vortals works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-11-21T10:35:34.6974693+02:00"
+    },
+    {
+      "productId": 4883,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-01-13T16:46:16.9795935+02:00"
+    },
+    {
+      "productId": 2529,
+      "reviewText": "This Mobility works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-10-10T03:31:00.2453175+03:00"
+    }
+  ]
+}

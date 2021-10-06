@@ -1,0 +1,24 @@
+{
+  "userId": 10050,
+  "cartId": "a16b7ad2-1d0c-4aea-9849-50004bcf9073",
+  "preferredProducts": [
+    2728,
+    105,
+    662,
+    2967,
+    384,
+    4468
+  ],
+  "productReviews": [
+    {
+      "productId": 4238,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-10-01T06:08:23.7443088+03:00"
+    },
+    {
+      "productId": 4373,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-01-03T07:15:38.8323156+02:00"
+    }
+  ]
+}

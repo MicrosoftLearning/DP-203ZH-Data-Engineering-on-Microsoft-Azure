@@ -1,0 +1,32 @@
+{
+  "userId": 10421,
+  "cartId": "b4c7af51-69ee-446c-80a4-b4986b041d94",
+  "preferredProducts": [
+    1291,
+    1673,
+    1838,
+    1156
+  ],
+  "productReviews": [
+    {
+      "productId": 102,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-05-12T18:31:45.905384+03:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-12-02T03:42:49.8969392+02:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-10-17T03:06:58.739549+03:00"
+    },
+    {
+      "productId": 4639,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-04-14T15:02:59.6296762+03:00"
+    }
+  ]
+}

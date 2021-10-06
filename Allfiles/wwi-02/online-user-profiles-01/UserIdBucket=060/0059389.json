@@ -1,0 +1,33 @@
+{
+  "userId": 59389,
+  "cartId": "128d2c62-40aa-4385-a043-24a73344c8a6",
+  "preferredProducts": [
+    1626,
+    3912,
+    3092,
+    639,
+    179
+  ],
+  "productReviews": [
+    {
+      "productId": 1417,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-01-11T09:44:32.9306522+02:00"
+    },
+    {
+      "productId": 1991,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-09-25T19:13:28.4854986+03:00"
+    },
+    {
+      "productId": 3335,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-12-20T11:49:22.4916208+02:00"
+    },
+    {
+      "productId": 3507,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-11-26T16:01:26.380993+02:00"
+    }
+  ]
+}

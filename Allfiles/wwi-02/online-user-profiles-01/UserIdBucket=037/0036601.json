@@ -1,0 +1,37 @@
+{
+  "userId": 36601,
+  "cartId": "3a9f57f8-3f0f-4b13-9f4b-006cc7fabfc3",
+  "preferredProducts": [
+    4889,
+    1425,
+    3727,
+    759
+  ],
+  "productReviews": [
+    {
+      "productId": 2154,
+      "reviewText": "this neural-net is revolting.",
+      "reviewDate": "2018-03-31T14:31:19.3347631+03:00"
+    },
+    {
+      "productId": 3879,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-05-29T19:33:01.9729051+03:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-07-16T08:40:55.099178+03:00"
+    },
+    {
+      "productId": 4875,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-07-30T10:33:25.2931888+03:00"
+    },
+    {
+      "productId": 174,
+      "reviewText": "This projection works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-08-01T16:33:11.2816125+03:00"
+    }
+  ]
+}

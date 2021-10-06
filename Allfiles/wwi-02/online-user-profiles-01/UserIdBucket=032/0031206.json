@@ -1,0 +1,27 @@
+{
+  "userId": 31206,
+  "cartId": "c183a568-470c-4e95-b7c6-76a944960059",
+  "preferredProducts": [
+    3082,
+    3348,
+    2852,
+    2774
+  ],
+  "productReviews": [
+    {
+      "productId": 23,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-09-03T15:13:05.6314657+03:00"
+    },
+    {
+      "productId": 3412,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-07-29T02:18:23.4824097+03:00"
+    },
+    {
+      "productId": 1029,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-06-24T13:33:35.6488926+03:00"
+    }
+  ]
+}

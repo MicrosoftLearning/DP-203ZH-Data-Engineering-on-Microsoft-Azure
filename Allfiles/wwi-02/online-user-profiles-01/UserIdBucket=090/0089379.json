@@ -1,0 +1,33 @@
+{
+  "userId": 89379,
+  "cartId": "6479d0e4-3c98-4fb0-a8e1-6f42effbc439",
+  "preferredProducts": [
+    3037,
+    2709,
+    4026,
+    3834,
+    1483,
+    826,
+    856,
+    3846,
+    470,
+    42
+  ],
+  "productReviews": [
+    {
+      "productId": 3727,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-11-08T06:04:31.6308123+02:00"
+    },
+    {
+      "productId": 4694,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-03-25T15:57:14.5758252+02:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2020-03-28T15:13:45.9683308+02:00"
+    }
+  ]
+}

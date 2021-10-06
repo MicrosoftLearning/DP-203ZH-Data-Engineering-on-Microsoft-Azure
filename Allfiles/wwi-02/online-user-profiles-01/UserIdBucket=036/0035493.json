@@ -1,0 +1,31 @@
+{
+  "userId": 35493,
+  "cartId": "3f8989c4-a666-4b83-8a07-15acd266ad82",
+  "preferredProducts": [
+    3914,
+    952,
+    2065
+  ],
+  "productReviews": [
+    {
+      "productId": 3133,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-04-27T21:32:48.5322733+03:00"
+    },
+    {
+      "productId": 4791,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-12-20T15:18:24.8820293+02:00"
+    },
+    {
+      "productId": 4238,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-08-26T05:48:21.1717046+03:00"
+    },
+    {
+      "productId": 2256,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-12-27T20:04:40.4295804+02:00"
+    }
+  ]
+}

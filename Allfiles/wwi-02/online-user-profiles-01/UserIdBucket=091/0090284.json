@@ -1,0 +1,27 @@
+{
+  "userId": 90284,
+  "cartId": "b07140df-3d02-483f-8a7e-18b1f18282b8",
+  "preferredProducts": [
+    4625,
+    1841,
+    2699,
+    3410
+  ],
+  "productReviews": [
+    {
+      "productId": 1566,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-02-15T13:49:50.5374311+02:00"
+    },
+    {
+      "productId": 1846,
+      "reviewText": "this Home, Outdoors & Kids is honest.",
+      "reviewDate": "2019-07-21T21:52:20.6681298+03:00"
+    },
+    {
+      "productId": 3049,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-11-10T00:30:21.0114573+02:00"
+    }
+  ]
+}

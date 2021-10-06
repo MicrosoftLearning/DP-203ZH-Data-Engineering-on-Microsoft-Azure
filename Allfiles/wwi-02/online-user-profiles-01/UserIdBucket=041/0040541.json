@@ -1,0 +1,26 @@
+{
+  "userId": 40541,
+  "cartId": "ab4dad06-7ac2-4a4b-b111-217f60934974",
+  "preferredProducts": [
+    1751,
+    1843,
+    4141,
+    3517,
+    3404,
+    2229,
+    4162,
+    2326
+  ],
+  "productReviews": [
+    {
+      "productId": 3573,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-04-29T15:06:01.7701309+03:00"
+    },
+    {
+      "productId": 766,
+      "reviewText": "this enable is vertical.",
+      "reviewDate": "2020-02-25T17:46:09.4965871+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 3800,
+  "cartId": "5fed117f-9859-4fe7-95bd-4ffbd465dbc5",
+  "preferredProducts": [
+    2695
+  ],
+  "productReviews": [
+    {
+      "productId": 4370,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-08-07T21:57:20.1159244+03:00"
+    },
+    {
+      "productId": 1286,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-06-06T20:27:32.5670771+03:00"
+    },
+    {
+      "productId": 3557,
+      "reviewText": "this database is revolting.",
+      "reviewDate": "2017-11-17T22:34:15.8294841+02:00"
+    },
+    {
+      "productId": 4907,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-04-16T14:57:13.7783331+03:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-02-11T05:09:37.7167311+02:00"
+    }
+  ]
+}

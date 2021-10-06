@@ -1,0 +1,39 @@
+{
+  "userId": 84365,
+  "cartId": "b9cb142f-a79b-47f9-845c-5ad7207df9f5",
+  "preferredProducts": [
+    3185,
+    1204,
+    3221,
+    1966,
+    2403,
+    3226
+  ],
+  "productReviews": [
+    {
+      "productId": 851,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-12-07T21:10:22.3086834+02:00"
+    },
+    {
+      "productId": 3204,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-10-06T08:57:55.7961297+03:00"
+    },
+    {
+      "productId": 2834,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-06-27T22:41:42.0768512+03:00"
+    },
+    {
+      "productId": 4460,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-08-15T16:52:35.0203567+03:00"
+    },
+    {
+      "productId": 18,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-07-22T11:03:22.9940645+03:00"
+    }
+  ]
+}

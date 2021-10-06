@@ -1,0 +1,26 @@
+{
+  "userId": 26267,
+  "cartId": "16283f43-b20d-4ee2-beac-86ef3e7eb8ba",
+  "preferredProducts": [
+    609,
+    615,
+    538
+  ],
+  "productReviews": [
+    {
+      "productId": 3791,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-12-07T09:24:48.1684779+02:00"
+    },
+    {
+      "productId": 2802,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-04-01T07:48:27.4331856+03:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-07-13T12:06:58.1351104+03:00"
+    }
+  ]
+}

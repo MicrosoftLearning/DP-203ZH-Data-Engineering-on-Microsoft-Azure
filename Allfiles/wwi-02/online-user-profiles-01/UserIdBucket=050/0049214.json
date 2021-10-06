@@ -1,0 +1,32 @@
+{
+  "userId": 49214,
+  "cartId": "068afa0d-9f61-42d3-b9b6-27619a3789d1",
+  "preferredProducts": [
+    1123,
+    2880,
+    3852,
+    2302
+  ],
+  "productReviews": [
+    {
+      "productId": 4855,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-06-15T06:34:53.0185325+03:00"
+    },
+    {
+      "productId": 1819,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-05-02T14:21:24.254946+03:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-01-17T14:33:05.5546682+02:00"
+    },
+    {
+      "productId": 1052,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-07-12T06:04:39.0648881+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 43767,
+  "cartId": "4401b05f-d1f3-44e9-93fa-e9af9b132a08",
+  "preferredProducts": [
+    4861,
+    4778,
+    2985
+  ],
+  "productReviews": [
+    {
+      "productId": 3890,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-12-22T11:48:03.2636345+02:00"
+    },
+    {
+      "productId": 615,
+      "reviewText": "this pink is honest.",
+      "reviewDate": "2018-05-17T04:53:07.7247639+03:00"
+    },
+    {
+      "productId": 4396,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-08-20T21:06:08.1009597+03:00"
+    },
+    {
+      "productId": 4493,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-09-04T07:53:00.80432+03:00"
+    }
+  ]
+}

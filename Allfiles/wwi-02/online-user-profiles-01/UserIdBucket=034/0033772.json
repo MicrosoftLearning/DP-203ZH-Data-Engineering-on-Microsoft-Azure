@@ -1,0 +1,25 @@
+{
+  "userId": 33772,
+  "cartId": "b140fbb0-a334-4bca-ab7c-da3846dba9dc",
+  "preferredProducts": [
+    4685,
+    3343,
+    1819,
+    3388,
+    2386,
+    1424,
+    2301
+  ],
+  "productReviews": [
+    {
+      "productId": 3902,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-04-27T13:51:27.3840223+03:00"
+    },
+    {
+      "productId": 4762,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2020-03-21T23:57:12.293053+02:00"
+    }
+  ]
+}

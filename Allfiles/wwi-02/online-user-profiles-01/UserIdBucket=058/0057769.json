@@ -1,0 +1,33 @@
+{
+  "userId": 57769,
+  "cartId": "7b2d6399-4cf7-4205-a2ea-df24caacea94",
+  "preferredProducts": [
+    3764,
+    4568,
+    4554,
+    4920,
+    4226,
+    4044,
+    3168,
+    2993,
+    246,
+    204
+  ],
+  "productReviews": [
+    {
+      "productId": 3207,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-10-03T10:26:50.3256299+03:00"
+    },
+    {
+      "productId": 39,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-08-12T15:20:15.8635458+03:00"
+    },
+    {
+      "productId": 2922,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-07-04T12:47:32.091122+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 10132,
+  "cartId": "9fd698e7-9b40-4daf-b4c0-5f4c98818d9f",
+  "preferredProducts": [
+    3520,
+    3759,
+    3260
+  ],
+  "productReviews": [
+    {
+      "productId": 2680,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-11-27T07:33:30.4864559+02:00"
+    },
+    {
+      "productId": 2220,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-10-21T14:13:40.1455024+03:00"
+    },
+    {
+      "productId": 1746,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-07-19T04:29:09.1515331+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 80997,
+  "cartId": "43f6760b-c8f1-4530-87fc-9f86472b2ced",
+  "preferredProducts": [
+    4846,
+    4565,
+    3777,
+    2506,
+    3053,
+    1362,
+    1742,
+    2571
+  ],
+  "productReviews": [
+    {
+      "productId": 567,
+      "reviewText": "this transform is brown.",
+      "reviewDate": "2017-06-23T19:18:17.6797043+03:00"
+    },
+    {
+      "productId": 3381,
+      "reviewText": "this Fresh is vertical.",
+      "reviewDate": "2017-02-01T03:51:24.0897686+02:00"
+    },
+    {
+      "productId": 4989,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-05-10T23:25:11.868294+03:00"
+    }
+  ]
+}

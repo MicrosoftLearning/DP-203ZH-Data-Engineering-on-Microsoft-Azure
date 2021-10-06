@@ -1,0 +1,35 @@
+{
+  "userId": 93094,
+  "cartId": "6f1a6af4-8d8f-450f-bdaa-0eeb73ff1ced",
+  "preferredProducts": [
+    3394,
+    4548,
+    783,
+    2711,
+    1197,
+    1443,
+    1001
+  ],
+  "productReviews": [
+    {
+      "productId": 3330,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-05-25T19:10:13.6382402+03:00"
+    },
+    {
+      "productId": 3818,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-02-28T10:37:29.6840422+02:00"
+    },
+    {
+      "productId": 3150,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-08-01T01:10:35.8272497+03:00"
+    },
+    {
+      "productId": 2079,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-10-06T10:38:17.12041+03:00"
+    }
+  ]
+}

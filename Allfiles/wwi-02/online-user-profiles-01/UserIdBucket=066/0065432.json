@@ -1,0 +1,27 @@
+{
+  "userId": 65432,
+  "cartId": "59b8ac62-60cb-4a19-868a-f639895e4eed",
+  "preferredProducts": [
+    4033,
+    4081,
+    2973,
+    2879
+  ],
+  "productReviews": [
+    {
+      "productId": 27,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-01-11T14:13:09.2293633+02:00"
+    },
+    {
+      "productId": 4479,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-07-14T11:57:06.9623976+03:00"
+    },
+    {
+      "productId": 1914,
+      "reviewText": "This JSON works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-07-15T22:49:36.2334372+03:00"
+    }
+  ]
+}

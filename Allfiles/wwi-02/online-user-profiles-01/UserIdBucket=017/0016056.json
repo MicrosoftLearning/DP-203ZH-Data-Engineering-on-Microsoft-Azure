@@ -1,0 +1,41 @@
+{
+  "userId": 16056,
+  "cartId": "73d82124-b13f-4f1b-9af9-b475d623848f",
+  "preferredProducts": [
+    613,
+    2104,
+    4063,
+    746,
+    296,
+    4752,
+    1304,
+    1598
+  ],
+  "productReviews": [
+    {
+      "productId": 405,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-01-24T08:41:17.4679805+02:00"
+    },
+    {
+      "productId": 3552,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-08-19T00:48:02.4264342+03:00"
+    },
+    {
+      "productId": 1283,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-10-26T00:27:03.5685429+03:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-03-18T23:48:00.3054554+02:00"
+    },
+    {
+      "productId": 2706,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-10-31T18:04:21.138874+02:00"
+    }
+  ]
+}

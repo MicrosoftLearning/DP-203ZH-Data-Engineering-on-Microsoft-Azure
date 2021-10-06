@@ -1,0 +1,28 @@
+{
+  "userId": 14321,
+  "cartId": "81cecfb3-8723-44d0-8e7b-e63e32fc9e0c",
+  "preferredProducts": [
+    4536,
+    4605,
+    3774,
+    3435,
+    1560,
+    827,
+    1716,
+    3527,
+    1244,
+    1917
+  ],
+  "productReviews": [
+    {
+      "productId": 217,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-09-30T14:24:22.6542191+03:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-11-26T23:12:44.8859101+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 67534,
+  "cartId": "184c5e67-7db5-43fa-8b0c-593116c1172b",
+  "preferredProducts": [
+    2367,
+    2636,
+    3721,
+    2732
+  ],
+  "productReviews": [
+    {
+      "productId": 4452,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-10-24T03:28:28.3519351+03:00"
+    },
+    {
+      "productId": 1951,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-07-19T13:21:34.6537712+03:00"
+    },
+    {
+      "productId": 2498,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-11-07T19:13:40.9268429+02:00"
+    },
+    {
+      "productId": 950,
+      "reviewText": "This Lead works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-06-24T05:03:47.1959329+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 41016,
+  "cartId": "77cce13e-fc18-4fd9-86c0-c6d8cdda493f",
+  "preferredProducts": [
+    1582,
+    4826,
+    2898
+  ],
+  "productReviews": [
+    {
+      "productId": 1527,
+      "reviewText": "this schemas is complimentary.",
+      "reviewDate": "2018-07-14T19:04:57.1662395+03:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-09-19T18:14:39.3837006+03:00"
+    },
+    {
+      "productId": 1703,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-08-16T08:17:46.8407406+03:00"
+    },
+    {
+      "productId": 2865,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-07-27T09:12:07.8907715+03:00"
+    }
+  ]
+}

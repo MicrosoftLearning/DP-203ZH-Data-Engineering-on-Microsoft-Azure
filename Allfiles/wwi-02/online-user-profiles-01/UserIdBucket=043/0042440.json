@@ -1,0 +1,35 @@
+{
+  "userId": 42440,
+  "cartId": "56facd29-a586-4e23-80fb-61a6804b19c5",
+  "preferredProducts": [
+    807,
+    824
+  ],
+  "productReviews": [
+    {
+      "productId": 4941,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-06-05T08:48:41.971198+03:00"
+    },
+    {
+      "productId": 3400,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-02-04T16:07:05.1759235+02:00"
+    },
+    {
+      "productId": 2241,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-01-06T02:02:11.0302459+02:00"
+    },
+    {
+      "productId": 1556,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-02-14T04:16:12.7608896+02:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-03-10T09:35:46.775066+02:00"
+    }
+  ]
+}

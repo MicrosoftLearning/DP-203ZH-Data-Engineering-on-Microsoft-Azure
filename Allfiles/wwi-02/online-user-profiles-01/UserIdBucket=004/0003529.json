@@ -1,0 +1,34 @@
+{
+  "userId": 3529,
+  "cartId": "5e59bd11-5f9a-49a0-851b-0ea2b9eb0df6",
+  "preferredProducts": [
+    2193,
+    1297,
+    2822,
+    4596,
+    4622,
+    2346
+  ],
+  "productReviews": [
+    {
+      "productId": 345,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-04-30T21:51:09.2641946+03:00"
+    },
+    {
+      "productId": 4033,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-07-31T20:55:55.7867457+03:00"
+    },
+    {
+      "productId": 1607,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-06-03T00:16:38.9185391+03:00"
+    },
+    {
+      "productId": 1017,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-08-07T02:21:58.3661541+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 10107,
+  "cartId": "26c46ce3-0f36-4e71-abb7-de01232f01d4",
+  "preferredProducts": [
+    1841,
+    388,
+    2111,
+    4375,
+    2625,
+    4068,
+    3900
+  ],
+  "productReviews": [
+    {
+      "productId": 3650,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-05-11T20:17:23.2671739+03:00"
+    },
+    {
+      "productId": 3956,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-01-31T02:03:10.1884675+02:00"
+    },
+    {
+      "productId": 4380,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-11-03T00:41:06.0360154+02:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "This Credit Card Account works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-09-29T08:00:00.7094071+03:00"
+    }
+  ]
+}

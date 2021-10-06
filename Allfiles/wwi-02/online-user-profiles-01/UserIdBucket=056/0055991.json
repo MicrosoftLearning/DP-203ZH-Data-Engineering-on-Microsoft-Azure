@@ -1,0 +1,30 @@
+{
+  "userId": 55991,
+  "cartId": "4cfd26eb-c0c0-4a8e-99cb-ae2072794de4",
+  "preferredProducts": [
+    476,
+    2512,
+    2808,
+    230,
+    2505,
+    1019,
+    2139
+  ],
+  "productReviews": [
+    {
+      "productId": 267,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-04-27T05:50:09.1001116+03:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "This invoice works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-03-10T09:40:46.9305987+02:00"
+    },
+    {
+      "productId": 4706,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-03-03T10:32:07.8443702+02:00"
+    }
+  ]
+}

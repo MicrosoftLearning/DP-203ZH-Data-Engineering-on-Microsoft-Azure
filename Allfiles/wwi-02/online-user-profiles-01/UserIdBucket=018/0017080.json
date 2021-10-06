@@ -1,0 +1,30 @@
+{
+  "userId": 17080,
+  "cartId": "598c34c9-a544-4321-9d4f-75a2f00c9494",
+  "preferredProducts": [
+    344,
+    4607,
+    3286,
+    2980,
+    1808,
+    2396,
+    1803
+  ],
+  "productReviews": [
+    {
+      "productId": 2178,
+      "reviewText": "This Computers works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-04-17T04:48:08.698968+03:00"
+    },
+    {
+      "productId": 1185,
+      "reviewText": "this Gardens is gracious.",
+      "reviewDate": "2016-05-20T04:37:50.7879913+03:00"
+    },
+    {
+      "productId": 4607,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2020-04-08T05:11:27.3643863+03:00"
+    }
+  ]
+}

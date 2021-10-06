@@ -1,0 +1,35 @@
+{
+  "userId": 99402,
+  "cartId": "6055d92b-bc2e-42fd-a606-d2a8b2e41573",
+  "preferredProducts": [
+    382,
+    3105,
+    2144,
+    1281,
+    3625,
+    3037,
+    3554
+  ],
+  "productReviews": [
+    {
+      "productId": 1125,
+      "reviewText": "This implementation works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2017-03-26T21:44:03.546743+03:00"
+    },
+    {
+      "productId": 4681,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-04-21T02:49:15.2817988+03:00"
+    },
+    {
+      "productId": 1280,
+      "reviewText": "this Rustic is revolting.",
+      "reviewDate": "2017-11-01T06:52:53.5522678+02:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-04-09T19:51:58.2658807+03:00"
+    }
+  ]
+}

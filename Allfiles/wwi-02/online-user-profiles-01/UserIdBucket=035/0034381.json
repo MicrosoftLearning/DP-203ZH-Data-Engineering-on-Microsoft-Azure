@@ -1,0 +1,29 @@
+{
+  "userId": 34381,
+  "cartId": "4b013def-1d6e-4038-ac61-faf0d4817961",
+  "preferredProducts": [
+    683,
+    2119,
+    1796,
+    2902,
+    2423,
+    4090
+  ],
+  "productReviews": [
+    {
+      "productId": 766,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-02-27T21:02:35.1119434+02:00"
+    },
+    {
+      "productId": 3632,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-06-28T16:53:20.6427122+03:00"
+    },
+    {
+      "productId": 2369,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-01-24T21:20:56.5741522+02:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 777,
+  "cartId": "65cefa55-6cf9-4f0e-996b-db4fe26028b2",
+  "preferredProducts": [
+    1913,
+    4770,
+    3011,
+    4790,
+    299,
+    1596,
+    69,
+    3993,
+    2006
+  ],
+  "productReviews": [
+    {
+      "productId": 2947,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-01-10T23:46:31.6328471+02:00"
+    },
+    {
+      "productId": 856,
+      "reviewText": "This benchmark works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-09-05T03:17:03.9402033+03:00"
+    },
+    {
+      "productId": 643,
+      "reviewText": "this Costa Rica is honest.",
+      "reviewDate": "2018-07-21T15:06:13.5774727+03:00"
+    },
+    {
+      "productId": 4072,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-11-18T13:17:36.0326997+02:00"
+    },
+    {
+      "productId": 2405,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-03-31T09:12:49.3826051+03:00"
+    }
+  ]
+}

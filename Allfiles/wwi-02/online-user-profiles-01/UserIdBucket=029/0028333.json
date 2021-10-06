@@ -1,0 +1,26 @@
+{
+  "userId": 28333,
+  "cartId": "bbdf740d-2d9a-4ea2-badb-deac66dcf15a",
+  "preferredProducts": [
+    1113,
+    2332,
+    4558,
+    2453,
+    2438,
+    4619,
+    3341,
+    3523
+  ],
+  "productReviews": [
+    {
+      "productId": 1720,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-01-31T22:18:34.3486244+02:00"
+    },
+    {
+      "productId": 928,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-08-27T05:12:49.2714013+03:00"
+    }
+  ]
+}

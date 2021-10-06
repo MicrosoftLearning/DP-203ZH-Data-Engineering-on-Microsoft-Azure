@@ -1,0 +1,27 @@
+{
+  "userId": 15228,
+  "cartId": "4672c1a6-23d0-4849-a8d1-5a46059eb6ec",
+  "preferredProducts": [
+    1941,
+    652,
+    1007,
+    4233,
+    505,
+    3825,
+    275,
+    2478,
+    3367
+  ],
+  "productReviews": [
+    {
+      "productId": 771,
+      "reviewText": "this invoice is top-notch.",
+      "reviewDate": "2020-02-12T15:34:53.8727886+02:00"
+    },
+    {
+      "productId": 131,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-10-07T02:09:10.8778172+03:00"
+    }
+  ]
+}

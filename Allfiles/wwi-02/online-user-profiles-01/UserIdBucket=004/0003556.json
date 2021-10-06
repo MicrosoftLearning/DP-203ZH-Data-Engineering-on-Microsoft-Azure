@@ -1,0 +1,28 @@
+{
+  "userId": 3556,
+  "cartId": "805b9fef-8f98-487d-952c-2003abbd55b7",
+  "preferredProducts": [
+    4024,
+    2287,
+    3660,
+    3333,
+    3019
+  ],
+  "productReviews": [
+    {
+      "productId": 1408,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-05-17T04:28:50.7799386+03:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "This compress works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-07-01T14:52:33.9795318+03:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-03-16T01:52:21.2758769+02:00"
+    }
+  ]
+}

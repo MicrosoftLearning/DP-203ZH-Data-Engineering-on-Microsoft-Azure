@@ -1,0 +1,38 @@
+{
+  "userId": 10051,
+  "cartId": "77cf1712-7858-4498-84e7-1a13d96e5852",
+  "preferredProducts": [
+    4034,
+    2552,
+    2791,
+    4316,
+    1861,
+    4420,
+    3531,
+    2838,
+    2346,
+    1039
+  ],
+  "productReviews": [
+    {
+      "productId": 4156,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-01-15T23:15:59.591369+02:00"
+    },
+    {
+      "productId": 134,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-04-12T09:53:56.9653762+03:00"
+    },
+    {
+      "productId": 2341,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2016-12-31T09:36:15.1152148+02:00"
+    },
+    {
+      "productId": 1436,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2017-04-09T14:11:35.677156+03:00"
+    }
+  ]
+}

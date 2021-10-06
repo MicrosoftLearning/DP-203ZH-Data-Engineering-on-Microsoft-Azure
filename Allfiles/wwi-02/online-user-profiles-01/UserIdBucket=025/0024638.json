@@ -1,0 +1,32 @@
+{
+  "userId": 24638,
+  "cartId": "a3f64248-ec57-4096-920b-0704ba84762f",
+  "preferredProducts": [
+    2341,
+    901,
+    4625,
+    3891,
+    2410,
+    2503,
+    2010,
+    1591,
+    4613
+  ],
+  "productReviews": [
+    {
+      "productId": 3061,
+      "reviewText": "This is a really good Point.",
+      "reviewDate": "2016-07-01T18:24:18.667748+03:00"
+    },
+    {
+      "productId": 2263,
+      "reviewText": "This Unbranded works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-01-20T08:38:47.4197926+02:00"
+    },
+    {
+      "productId": 2847,
+      "reviewText": "This Greece works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-06-19T12:34:51.3574615+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 42832,
+  "cartId": "0c17bd9a-613e-4d87-92c2-999b35cdee49",
+  "preferredProducts": [
+    3682,
+    2110,
+    4760,
+    45,
+    638,
+    3586,
+    912
+  ],
+  "productReviews": [
+    {
+      "productId": 1808,
+      "reviewText": "This Oregon works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-12-05T20:50:39.8228663+02:00"
+    },
+    {
+      "productId": 3831,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-04-07T22:05:49.3027456+03:00"
+    },
+    {
+      "productId": 1452,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-02-12T15:43:41.7615587+02:00"
+    }
+  ]
+}

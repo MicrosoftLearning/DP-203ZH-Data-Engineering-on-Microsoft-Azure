@@ -1,0 +1,27 @@
+{
+  "userId": 13023,
+  "cartId": "db884060-b46e-41ad-9b8b-95c355d958fe",
+  "preferredProducts": [
+    4777,
+    4866,
+    4737,
+    1663,
+    4756,
+    574,
+    1151,
+    4455,
+    3258
+  ],
+  "productReviews": [
+    {
+      "productId": 1338,
+      "reviewText": "this Dam is hyper.",
+      "reviewDate": "2018-12-04T06:44:51.8145726+02:00"
+    },
+    {
+      "productId": 1625,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-05-24T05:13:45.2163085+03:00"
+    }
+  ]
+}

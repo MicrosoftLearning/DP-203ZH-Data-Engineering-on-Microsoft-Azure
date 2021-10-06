@@ -1,0 +1,24 @@
+{
+  "userId": 3134,
+  "cartId": "4b82f67d-d9ee-454c-bda2-c8133bfb4ee8",
+  "preferredProducts": [
+    1027,
+    2401,
+    4790,
+    2812,
+    4424,
+    4874
+  ],
+  "productReviews": [
+    {
+      "productId": 4716,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-04-14T16:19:29.0841435+03:00"
+    },
+    {
+      "productId": 2172,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2020-01-04T18:25:40.3746924+02:00"
+    }
+  ]
+}

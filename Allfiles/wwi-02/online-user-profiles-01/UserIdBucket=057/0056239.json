@@ -1,0 +1,29 @@
+{
+  "userId": 56239,
+  "cartId": "c94dcec0-e629-4960-95b1-c557ee71f796",
+  "preferredProducts": [
+    1093,
+    118,
+    4949,
+    1805,
+    1755,
+    2687
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-09-10T00:53:44.2219656+03:00"
+    },
+    {
+      "productId": 905,
+      "reviewText": "this XSS is revolting.",
+      "reviewDate": "2016-07-29T23:11:44.8564916+03:00"
+    },
+    {
+      "productId": 2580,
+      "reviewText": "this primary is brown.",
+      "reviewDate": "2017-06-21T07:06:50.9748325+03:00"
+    }
+  ]
+}

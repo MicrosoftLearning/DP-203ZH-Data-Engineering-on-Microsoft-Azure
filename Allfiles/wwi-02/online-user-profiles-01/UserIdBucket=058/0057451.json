@@ -1,0 +1,25 @@
+{
+  "userId": 57451,
+  "cartId": "5b219fc2-3872-4fad-90eb-df270f2ab490",
+  "preferredProducts": [
+    4459,
+    1188
+  ],
+  "productReviews": [
+    {
+      "productId": 4361,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-09-06T06:20:22.2421399+03:00"
+    },
+    {
+      "productId": 2496,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-04-25T03:25:36.7636373+03:00"
+    },
+    {
+      "productId": 3466,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-09-18T12:46:45.5490488+03:00"
+    }
+  ]
+}

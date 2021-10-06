@@ -1,0 +1,31 @@
+{
+  "userId": 98342,
+  "cartId": "f42896a4-4543-4b94-837f-064f5171e487",
+  "preferredProducts": [
+    111,
+    553,
+    2966,
+    3905,
+    415,
+    171,
+    4731,
+    1489
+  ],
+  "productReviews": [
+    {
+      "productId": 2619,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-07-08T23:23:26.7188479+03:00"
+    },
+    {
+      "productId": 441,
+      "reviewText": "this primary is perplexed.",
+      "reviewDate": "2017-05-20T07:09:51.0914187+03:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-05-20T01:22:38.2062693+03:00"
+    }
+  ]
+}

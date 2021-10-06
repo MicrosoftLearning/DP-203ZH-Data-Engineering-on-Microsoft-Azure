@@ -1,0 +1,32 @@
+{
+  "userId": 19254,
+  "cartId": "038b94e7-c50c-455d-8c5d-7e8ae64bccf9",
+  "preferredProducts": [
+    1337,
+    2359,
+    2220,
+    992
+  ],
+  "productReviews": [
+    {
+      "productId": 391,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-09-28T01:24:14.3208488+03:00"
+    },
+    {
+      "productId": 631,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-06-09T01:18:43.5535525+03:00"
+    },
+    {
+      "productId": 1885,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-07-31T21:50:19.2433046+03:00"
+    },
+    {
+      "productId": 468,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-02-08T17:20:21.1834225+02:00"
+    }
+  ]
+}

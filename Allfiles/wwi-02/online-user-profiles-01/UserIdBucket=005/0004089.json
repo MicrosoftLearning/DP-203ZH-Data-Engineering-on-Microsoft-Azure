@@ -1,0 +1,31 @@
+{
+  "userId": 4089,
+  "cartId": "348efb53-bc71-4532-9975-415e09871cae",
+  "preferredProducts": [
+    2533,
+    3157,
+    2394,
+    1362,
+    622,
+    4363,
+    3152,
+    3135
+  ],
+  "productReviews": [
+    {
+      "productId": 3009,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-12-07T03:48:12.1091357+02:00"
+    },
+    {
+      "productId": 868,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-04-30T15:52:48.9035973+03:00"
+    },
+    {
+      "productId": 2250,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-10-23T15:14:44.7696603+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 38973,
+  "cartId": "3ae30dc2-3804-42e7-9bd9-9e8f49c9f2b2",
+  "preferredProducts": [
+    3604,
+    3183,
+    4415
+  ],
+  "productReviews": [
+    {
+      "productId": 4142,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-09-11T17:45:11.6118823+03:00"
+    },
+    {
+      "productId": 3753,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-04-24T08:48:05.5185154+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "this Small Steel Salad is perplexed.",
+      "reviewDate": "2018-04-12T13:35:32.557432+03:00"
+    },
+    {
+      "productId": 2326,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-06-13T09:22:03.6955267+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 2603,
+  "cartId": "c4a0cdb8-1f8e-4881-b5cf-659cfbbda3e2",
+  "preferredProducts": [
+    1265,
+    2872,
+    743
+  ],
+  "productReviews": [
+    {
+      "productId": 4837,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-02-22T06:15:12.6501844+02:00"
+    },
+    {
+      "productId": 1423,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-10-16T03:49:23.8518962+03:00"
+    },
+    {
+      "productId": 1773,
+      "reviewText": "this Summit is ratty.",
+      "reviewDate": "2017-03-25T15:16:27.1000587+02:00"
+    },
+    {
+      "productId": 4588,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-05-06T14:37:51.0952418+03:00"
+    }
+  ]
+}

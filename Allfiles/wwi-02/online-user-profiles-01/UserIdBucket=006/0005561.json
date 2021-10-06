@@ -1,0 +1,26 @@
+{
+  "userId": 5561,
+  "cartId": "f4ba7521-d1c1-4f12-8c96-fe91fbbe5c08",
+  "preferredProducts": [
+    4665,
+    3627,
+    2021,
+    3949,
+    1449,
+    4713,
+    827,
+    3638
+  ],
+  "productReviews": [
+    {
+      "productId": 2492,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-02-17T18:08:55.4159294+02:00"
+    },
+    {
+      "productId": 1767,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-11-10T11:15:14.8341736+02:00"
+    }
+  ]
+}

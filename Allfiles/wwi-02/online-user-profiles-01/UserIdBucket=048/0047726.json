@@ -1,0 +1,29 @@
+{
+  "userId": 47726,
+  "cartId": "2960c577-f05b-485b-8ef7-bf3dbbc6f10c",
+  "preferredProducts": [
+    3044,
+    845,
+    2354,
+    1568,
+    1201,
+    686
+  ],
+  "productReviews": [
+    {
+      "productId": 4773,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-10-14T22:43:56.9608361+03:00"
+    },
+    {
+      "productId": 2519,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-01-26T21:16:54.2293322+02:00"
+    },
+    {
+      "productId": 4016,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-01-31T20:07:17.0460393+02:00"
+    }
+  ]
+}

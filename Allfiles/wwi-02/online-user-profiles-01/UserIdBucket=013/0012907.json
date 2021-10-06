@@ -1,0 +1,33 @@
+{
+  "userId": 12907,
+  "cartId": "49cc6c76-e383-4f5a-8fb7-95e64ba32000",
+  "preferredProducts": [
+    513,
+    2133,
+    1397,
+    3257,
+    1444
+  ],
+  "productReviews": [
+    {
+      "productId": 3401,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2020-02-23T00:54:56.3393558+02:00"
+    },
+    {
+      "productId": 908,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-01-10T10:03:26.3527481+02:00"
+    },
+    {
+      "productId": 2724,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-09-14T06:20:19.4318367+03:00"
+    },
+    {
+      "productId": 3338,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-11-02T18:14:15.135829+02:00"
+    }
+  ]
+}

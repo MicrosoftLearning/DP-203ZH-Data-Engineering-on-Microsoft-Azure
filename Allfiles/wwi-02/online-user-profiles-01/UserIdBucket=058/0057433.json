@@ -1,0 +1,28 @@
+{
+  "userId": 57433,
+  "cartId": "d6149d8f-29df-46ca-a9c2-ae93e427ba07",
+  "preferredProducts": [
+    453,
+    1281,
+    1448,
+    4473,
+    3241
+  ],
+  "productReviews": [
+    {
+      "productId": 4326,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-03-09T17:24:10.5317038+02:00"
+    },
+    {
+      "productId": 3401,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2020-02-13T17:16:21.4108321+02:00"
+    },
+    {
+      "productId": 3778,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-10-26T23:13:43.6130693+03:00"
+    }
+  ]
+}

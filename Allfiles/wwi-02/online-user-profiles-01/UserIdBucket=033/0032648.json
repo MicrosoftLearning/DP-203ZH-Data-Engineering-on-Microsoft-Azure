@@ -1,0 +1,32 @@
+{
+  "userId": 32648,
+  "cartId": "5348737e-31a9-4ff7-97d5-58f17dd707fe",
+  "preferredProducts": [
+    2138,
+    3265,
+    1107,
+    4126,
+    699,
+    2064,
+    2017,
+    4332,
+    3406
+  ],
+  "productReviews": [
+    {
+      "productId": 3966,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-05-28T10:39:53.0062879+03:00"
+    },
+    {
+      "productId": 2736,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-10-24T08:23:32.1039347+03:00"
+    },
+    {
+      "productId": 2287,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-05-04T10:51:38.5733449+03:00"
+    }
+  ]
+}

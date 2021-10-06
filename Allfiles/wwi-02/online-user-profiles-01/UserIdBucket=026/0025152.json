@@ -1,0 +1,27 @@
+{
+  "userId": 25152,
+  "cartId": "da8c35f2-2fa8-48fb-881c-9772a7a5eb1c",
+  "preferredProducts": [
+    1043,
+    4517,
+    3147,
+    2675
+  ],
+  "productReviews": [
+    {
+      "productId": 3317,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-10-23T22:42:40.96635+03:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-07-16T02:26:00.7447264+03:00"
+    },
+    {
+      "productId": 4131,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-04-16T10:46:37.7961062+03:00"
+    }
+  ]
+}

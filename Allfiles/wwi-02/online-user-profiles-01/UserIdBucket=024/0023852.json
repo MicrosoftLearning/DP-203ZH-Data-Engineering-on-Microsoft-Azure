@@ -1,0 +1,33 @@
+{
+  "userId": 23852,
+  "cartId": "42ad6fd0-2e58-4317-8593-23e721362e4a",
+  "preferredProducts": [
+    682,
+    4738,
+    4433,
+    48,
+    690,
+    2499,
+    2624,
+    4758,
+    2828,
+    3437
+  ],
+  "productReviews": [
+    {
+      "productId": 496,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2016-07-11T03:23:11.6779032+03:00"
+    },
+    {
+      "productId": 4534,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-01-03T18:02:31.8714819+02:00"
+    },
+    {
+      "productId": 4246,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-08-15T19:29:24.9387695+03:00"
+    }
+  ]
+}

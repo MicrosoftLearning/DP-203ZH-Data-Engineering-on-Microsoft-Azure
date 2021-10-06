@@ -1,0 +1,33 @@
+{
+  "userId": 77931,
+  "cartId": "b2a3cd5d-afb2-4b43-98c3-ab82d1406a52",
+  "preferredProducts": [
+    3123,
+    4932,
+    4639,
+    1218,
+    2155,
+    2414,
+    4561,
+    3159,
+    3946,
+    3155
+  ],
+  "productReviews": [
+    {
+      "productId": 4370,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-11-27T13:01:46.2363962+02:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-11-23T14:05:49.3593598+02:00"
+    },
+    {
+      "productId": 467,
+      "reviewText": "This cross-platform works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-09-07T14:00:07.6232963+03:00"
+    }
+  ]
+}

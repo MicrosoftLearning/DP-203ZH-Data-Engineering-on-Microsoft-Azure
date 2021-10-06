@@ -1,0 +1,31 @@
+{
+  "userId": 65665,
+  "cartId": "1df80610-f746-45f7-b7ee-7b61eed5d2da",
+  "preferredProducts": [
+    447,
+    64,
+    4370
+  ],
+  "productReviews": [
+    {
+      "productId": 1333,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2020-02-09T17:56:45.616842+02:00"
+    },
+    {
+      "productId": 4002,
+      "reviewText": "this Handmade is brown.",
+      "reviewDate": "2016-08-27T17:57:49.9425572+03:00"
+    },
+    {
+      "productId": 4958,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-11-28T11:56:11.3171084+02:00"
+    },
+    {
+      "productId": 869,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-04-02T09:05:30.417917+03:00"
+    }
+  ]
+}

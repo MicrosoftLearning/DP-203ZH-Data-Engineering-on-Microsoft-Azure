@@ -1,0 +1,32 @@
+{
+  "userId": 15267,
+  "cartId": "e27973e5-e064-4876-bc4e-01f908c451a6",
+  "preferredProducts": [
+    110,
+    3415,
+    3186,
+    4807
+  ],
+  "productReviews": [
+    {
+      "productId": 464,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-09-04T10:14:17.3672196+03:00"
+    },
+    {
+      "productId": 4296,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-05-08T17:34:45.3266907+03:00"
+    },
+    {
+      "productId": 3738,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-07-11T02:38:55.0399832+03:00"
+    },
+    {
+      "productId": 1847,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-02-13T16:09:14.6036489+02:00"
+    }
+  ]
+}

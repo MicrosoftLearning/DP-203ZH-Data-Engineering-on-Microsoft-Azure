@@ -1,0 +1,36 @@
+{
+  "userId": 55978,
+  "cartId": "1ea984a1-7676-40e1-b38d-16970feb914c",
+  "preferredProducts": [
+    3001,
+    1124,
+    1001,
+    4833,
+    4847,
+    2189,
+    2434,
+    3745
+  ],
+  "productReviews": [
+    {
+      "productId": 484,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-01-30T21:13:57.1777294+02:00"
+    },
+    {
+      "productId": 4698,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-02-04T12:59:08.1939588+02:00"
+    },
+    {
+      "productId": 3284,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-07-25T09:32:32.9112793+03:00"
+    },
+    {
+      "productId": 2564,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-12-29T18:29:01.3110373+02:00"
+    }
+  ]
+}

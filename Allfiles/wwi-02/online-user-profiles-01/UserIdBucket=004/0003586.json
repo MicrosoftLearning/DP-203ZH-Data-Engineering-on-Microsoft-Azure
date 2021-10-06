@@ -1,0 +1,33 @@
+{
+  "userId": 3586,
+  "cartId": "24ed8e43-814e-449f-9ed7-1f0de6331a8c",
+  "preferredProducts": [
+    1360,
+    3710,
+    1079,
+    1293,
+    2476
+  ],
+  "productReviews": [
+    {
+      "productId": 2618,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-01-08T10:56:30.6938386+02:00"
+    },
+    {
+      "productId": 2172,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-01-26T09:48:48.8319904+02:00"
+    },
+    {
+      "productId": 1082,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2017-03-20T12:48:12.1798533+02:00"
+    },
+    {
+      "productId": 4561,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-07-02T20:34:55.7838071+03:00"
+    }
+  ]
+}

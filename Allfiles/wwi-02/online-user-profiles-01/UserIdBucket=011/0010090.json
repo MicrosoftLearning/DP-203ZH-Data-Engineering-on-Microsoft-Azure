@@ -1,0 +1,40 @@
+{
+  "userId": 10090,
+  "cartId": "a5e3daeb-c906-4ac8-90af-16b5d7c8914d",
+  "preferredProducts": [
+    4516,
+    4132,
+    467,
+    3509,
+    2919,
+    177,
+    2769
+  ],
+  "productReviews": [
+    {
+      "productId": 2548,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2020-03-08T05:16:07.6884933+02:00"
+    },
+    {
+      "productId": 1531,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-05-22T17:28:41.601313+03:00"
+    },
+    {
+      "productId": 4745,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-06-18T05:36:06.2035916+03:00"
+    },
+    {
+      "productId": 4509,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-02-08T18:31:49.2366627+02:00"
+    },
+    {
+      "productId": 3054,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-11-23T16:05:30.0729736+02:00"
+    }
+  ]
+}

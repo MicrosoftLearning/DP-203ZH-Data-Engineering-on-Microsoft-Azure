@@ -1,0 +1,29 @@
+{
+  "userId": 4444,
+  "cartId": "224659a7-4b01-4e74-b8d2-65f1ea73cd68",
+  "preferredProducts": [
+    4612
+  ],
+  "productReviews": [
+    {
+      "productId": 4340,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-05-15T14:42:21.5111529+03:00"
+    },
+    {
+      "productId": 1389,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-08-02T10:45:49.2183149+03:00"
+    },
+    {
+      "productId": 3362,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-03-23T03:01:31.0614247+02:00"
+    },
+    {
+      "productId": 2097,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-01-02T01:52:03.6097131+02:00"
+    }
+  ]
+}

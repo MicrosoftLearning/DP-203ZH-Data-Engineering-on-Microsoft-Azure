@@ -1,0 +1,33 @@
+{
+  "userId": 54599,
+  "cartId": "7698ed1d-5fee-400e-929e-e925db95d6c8",
+  "preferredProducts": [
+    1809,
+    4329,
+    1122,
+    4572,
+    3289,
+    1691,
+    513,
+    2163,
+    4036,
+    1247
+  ],
+  "productReviews": [
+    {
+      "productId": 431,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-09-16T18:03:32.8750876+03:00"
+    },
+    {
+      "productId": 651,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-08-24T09:36:21.3108795+03:00"
+    },
+    {
+      "productId": 2157,
+      "reviewText": "this metrics is hyper.",
+      "reviewDate": "2017-05-08T11:24:26.0124685+03:00"
+    }
+  ]
+}

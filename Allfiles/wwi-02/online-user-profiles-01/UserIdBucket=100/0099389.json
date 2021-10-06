@@ -1,0 +1,36 @@
+{
+  "userId": 99389,
+  "cartId": "43b5b398-59e7-47a1-b176-f076a6db6321",
+  "preferredProducts": [
+    1799,
+    2528,
+    4550,
+    3156,
+    2456,
+    503,
+    3618,
+    2890
+  ],
+  "productReviews": [
+    {
+      "productId": 3151,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2018-12-29T22:51:56.4178719+02:00"
+    },
+    {
+      "productId": 1433,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-11-11T07:02:55.8472799+02:00"
+    },
+    {
+      "productId": 2649,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-11-07T14:09:38.296598+02:00"
+    },
+    {
+      "productId": 3775,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-06-15T04:47:33.5469827+03:00"
+    }
+  ]
+}

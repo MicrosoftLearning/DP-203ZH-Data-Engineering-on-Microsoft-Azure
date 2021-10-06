@@ -1,0 +1,35 @@
+{
+  "userId": 89996,
+  "cartId": "2ed76de4-5949-41ba-9cdb-55528ae87596",
+  "preferredProducts": [
+    2350,
+    2243,
+    1718,
+    3679,
+    2323,
+    2031,
+    4592
+  ],
+  "productReviews": [
+    {
+      "productId": 763,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-12-24T15:26:10.4689309+02:00"
+    },
+    {
+      "productId": 551,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-03-27T08:32:14.4820549+02:00"
+    },
+    {
+      "productId": 4801,
+      "reviewText": "This is a really good Architect.",
+      "reviewDate": "2018-10-26T11:54:57.6096532+03:00"
+    },
+    {
+      "productId": 2679,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-01-04T01:25:08.6281668+02:00"
+    }
+  ]
+}

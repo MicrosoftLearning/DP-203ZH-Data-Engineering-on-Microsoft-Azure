@@ -1,0 +1,30 @@
+{
+  "userId": 20717,
+  "cartId": "d19c1f7e-e25a-4fcb-9ff0-fa70d5bd4b5c",
+  "preferredProducts": [
+    737,
+    1250,
+    4083,
+    233,
+    1092,
+    627,
+    4474
+  ],
+  "productReviews": [
+    {
+      "productId": 1884,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-09-26T20:26:07.1928018+03:00"
+    },
+    {
+      "productId": 4805,
+      "reviewText": "This compress, does exactly what it's suppose to do.",
+      "reviewDate": "2019-05-03T05:02:37.1905462+03:00"
+    },
+    {
+      "productId": 3380,
+      "reviewText": "This Mauritania works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-01-04T11:59:52.9900313+02:00"
+    }
+  ]
+}

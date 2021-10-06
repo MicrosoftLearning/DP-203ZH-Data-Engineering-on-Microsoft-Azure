@@ -1,0 +1,36 @@
+{
+  "userId": 41062,
+  "cartId": "3291aeae-35ca-4726-a3d3-97531dc478de",
+  "preferredProducts": [
+    2722,
+    2898,
+    4961,
+    1481,
+    4595,
+    1243,
+    4300,
+    521
+  ],
+  "productReviews": [
+    {
+      "productId": 676,
+      "reviewText": "this rich is whole-grain.",
+      "reviewDate": "2019-06-09T17:28:34.5899169+03:00"
+    },
+    {
+      "productId": 4383,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-12-15T14:38:02.424539+02:00"
+    },
+    {
+      "productId": 2400,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-11-16T05:20:12.0233717+02:00"
+    },
+    {
+      "productId": 3022,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-09-07T08:28:43.9041271+03:00"
+    }
+  ]
+}

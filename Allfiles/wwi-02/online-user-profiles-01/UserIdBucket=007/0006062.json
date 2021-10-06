@@ -1,0 +1,27 @@
+{
+  "userId": 6062,
+  "cartId": "3ed47027-4517-4660-85fe-1ce8d7dea160",
+  "preferredProducts": [
+    4372,
+    2647,
+    1061,
+    4941
+  ],
+  "productReviews": [
+    {
+      "productId": 2945,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-04-22T06:16:31.4507711+03:00"
+    },
+    {
+      "productId": 4942,
+      "reviewText": "this parse is mellow.",
+      "reviewDate": "2020-04-15T04:45:15.7085638+03:00"
+    },
+    {
+      "productId": 2505,
+      "reviewText": "This is a really good Rapids.",
+      "reviewDate": "2019-02-17T07:50:41.1523911+02:00"
+    }
+  ]
+}

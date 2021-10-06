@@ -1,0 +1,36 @@
+{
+  "userId": 16093,
+  "cartId": "0155e6d9-bf12-47c0-8cd5-204098df6f3a",
+  "preferredProducts": [
+    3756,
+    1113,
+    3475,
+    4830,
+    4143,
+    4348,
+    117,
+    3440
+  ],
+  "productReviews": [
+    {
+      "productId": 1024,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-10-23T15:50:47.7493913+03:00"
+    },
+    {
+      "productId": 3022,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-10-22T05:05:50.266137+03:00"
+    },
+    {
+      "productId": 4366,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-04-26T15:25:23.8656129+03:00"
+    },
+    {
+      "productId": 3073,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-06-08T18:43:33.9749767+03:00"
+    }
+  ]
+}

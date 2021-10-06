@@ -1,0 +1,25 @@
+{
+  "userId": 61819,
+  "cartId": "06e29f5a-0222-44a2-9ca9-494dbd233fe5",
+  "preferredProducts": [
+    3440,
+    123,
+    4735,
+    3176,
+    225,
+    730,
+    2833
+  ],
+  "productReviews": [
+    {
+      "productId": 797,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-07-30T06:38:26.0206774+03:00"
+    },
+    {
+      "productId": 200,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-09-07T00:14:31.4579863+03:00"
+    }
+  ]
+}

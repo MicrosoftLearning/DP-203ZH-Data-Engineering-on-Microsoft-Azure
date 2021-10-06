@@ -1,0 +1,38 @@
+{
+  "userId": 67231,
+  "cartId": "ac59536d-6351-4c64-aa44-0f7fa1c0412c",
+  "preferredProducts": [
+    4202,
+    345,
+    757,
+    3577,
+    988
+  ],
+  "productReviews": [
+    {
+      "productId": 118,
+      "reviewText": "this wireless is smooth.",
+      "reviewDate": "2017-06-04T03:31:32.0466436+03:00"
+    },
+    {
+      "productId": 513,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-12-18T15:43:07.4318792+02:00"
+    },
+    {
+      "productId": 4088,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-03-25T09:37:00.8113702+03:00"
+    },
+    {
+      "productId": 1138,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-09-15T03:46:32.8121281+03:00"
+    },
+    {
+      "productId": 4093,
+      "reviewText": "this Architect is papery.",
+      "reviewDate": "2017-11-22T21:22:11.2214195+02:00"
+    }
+  ]
+}

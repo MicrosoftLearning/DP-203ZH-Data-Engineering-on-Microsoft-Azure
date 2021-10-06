@@ -1,0 +1,33 @@
+{
+  "userId": 78318,
+  "cartId": "d98fe983-e93b-4e9d-8a55-e2f85939d979",
+  "preferredProducts": [
+    3032,
+    455,
+    3477,
+    2440,
+    4705
+  ],
+  "productReviews": [
+    {
+      "productId": 344,
+      "reviewText": "this hack is tasty.",
+      "reviewDate": "2020-02-25T16:36:02.2384052+02:00"
+    },
+    {
+      "productId": 1333,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-11-08T20:33:23.5543784+02:00"
+    },
+    {
+      "productId": 2538,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2016-08-22T04:35:16.2704742+03:00"
+    },
+    {
+      "productId": 2150,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2020-04-03T04:41:21.4281824+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 6122,
+  "cartId": "bb08021c-6cc0-4c8a-8521-5fdb1f6c9699",
+  "preferredProducts": [
+    2031,
+    583,
+    2600,
+    2830,
+    1597,
+    2515,
+    701,
+    1973,
+    3992
+  ],
+  "productReviews": [
+    {
+      "productId": 2123,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-03-27T07:41:35.1942918+02:00"
+    },
+    {
+      "productId": 4022,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-05-09T16:55:42.9770465+03:00"
+    },
+    {
+      "productId": 2829,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-09-27T13:09:45.9007492+03:00"
+    },
+    {
+      "productId": 4158,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-03-18T05:13:28.7436531+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 92520,
+  "cartId": "b3a09bf4-9cd4-46f8-8feb-47184149a4b7",
+  "preferredProducts": [
+    2495,
+    1204,
+    4782,
+    876,
+    1430,
+    45,
+    3620,
+    2160,
+    418,
+    2665
+  ],
+  "productReviews": [
+    {
+      "productId": 4079,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-07-26T05:34:21.226714+03:00"
+    },
+    {
+      "productId": 3819,
+      "reviewText": "this Armenian Dram is amiable.",
+      "reviewDate": "2017-11-28T11:37:42.6001314+02:00"
+    },
+    {
+      "productId": 2051,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-10-25T06:50:27.0438455+03:00"
+    }
+  ]
+}

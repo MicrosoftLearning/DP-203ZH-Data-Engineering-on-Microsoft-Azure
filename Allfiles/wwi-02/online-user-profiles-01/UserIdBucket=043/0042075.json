@@ -1,0 +1,33 @@
+{
+  "userId": 42075,
+  "cartId": "ad710c13-8b57-4245-b11f-b06e3df08467",
+  "preferredProducts": [
+    3241,
+    1139,
+    500,
+    4209,
+    1212,
+    1434,
+    4600,
+    4895,
+    2447,
+    3603
+  ],
+  "productReviews": [
+    {
+      "productId": 1151,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-04-22T08:58:42.1583078+03:00"
+    },
+    {
+      "productId": 520,
+      "reviewText": "this Berkshire is smooth.",
+      "reviewDate": "2018-03-07T04:42:55.0903167+02:00"
+    },
+    {
+      "productId": 4384,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-12-02T18:15:01.1571306+02:00"
+    }
+  ]
+}

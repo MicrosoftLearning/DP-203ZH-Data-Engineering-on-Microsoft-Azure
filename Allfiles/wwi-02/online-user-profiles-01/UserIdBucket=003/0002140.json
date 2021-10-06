@@ -1,0 +1,37 @@
+{
+  "userId": 2140,
+  "cartId": "698a786a-fdad-4f1d-b014-44555a07ca19",
+  "preferredProducts": [
+    2326,
+    3795,
+    597,
+    1848,
+    3065,
+    1527,
+    1746,
+    2836,
+    4357
+  ],
+  "productReviews": [
+    {
+      "productId": 2666,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-07-30T02:31:12.1782662+03:00"
+    },
+    {
+      "productId": 825,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-12-04T02:37:40.9944353+02:00"
+    },
+    {
+      "productId": 2741,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-10-28T08:51:02.613598+03:00"
+    },
+    {
+      "productId": 2761,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-12-11T04:16:18.9432008+02:00"
+    }
+  ]
+}

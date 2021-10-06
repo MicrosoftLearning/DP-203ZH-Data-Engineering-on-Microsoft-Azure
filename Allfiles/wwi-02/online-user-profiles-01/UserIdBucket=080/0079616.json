@@ -1,0 +1,31 @@
+{
+  "userId": 79616,
+  "cartId": "c1cdb82a-d6f0-45cd-8b89-0d0301d8f20f",
+  "preferredProducts": [
+    4322,
+    4282,
+    1888
+  ],
+  "productReviews": [
+    {
+      "productId": 379,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-01-03T23:31:16.8284417+02:00"
+    },
+    {
+      "productId": 2396,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-06-30T17:05:12.1230674+03:00"
+    },
+    {
+      "productId": 3430,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-01-29T17:20:41.9445819+02:00"
+    },
+    {
+      "productId": 3944,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-12-22T12:03:22.613045+02:00"
+    }
+  ]
+}

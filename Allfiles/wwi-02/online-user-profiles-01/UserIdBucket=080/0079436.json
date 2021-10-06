@@ -1,0 +1,43 @@
+{
+  "userId": 79436,
+  "cartId": "82ade8fa-3f19-4a89-8446-b2bf77b5d211",
+  "preferredProducts": [
+    366,
+    449,
+    3522,
+    3580,
+    3715,
+    4847,
+    3332,
+    3388,
+    1902,
+    4702
+  ],
+  "productReviews": [
+    {
+      "productId": 2584,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-01-31T23:32:18.405994+02:00"
+    },
+    {
+      "productId": 1868,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-02-12T18:15:25.9715221+02:00"
+    },
+    {
+      "productId": 153,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-03-30T02:44:50.1104107+03:00"
+    },
+    {
+      "productId": 3279,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-11-10T04:05:30.1133744+02:00"
+    },
+    {
+      "productId": 1545,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-10-13T20:42:06.4266446+03:00"
+    }
+  ]
+}

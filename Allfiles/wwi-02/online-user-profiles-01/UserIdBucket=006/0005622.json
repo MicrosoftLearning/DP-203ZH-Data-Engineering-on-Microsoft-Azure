@@ -1,0 +1,29 @@
+{
+  "userId": 5622,
+  "cartId": "7fcee43b-840b-4f97-a72a-2d52615546ba",
+  "preferredProducts": [
+    218,
+    488,
+    4161,
+    4145,
+    1079,
+    2645
+  ],
+  "productReviews": [
+    {
+      "productId": 4108,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-06-15T13:46:29.0739659+03:00"
+    },
+    {
+      "productId": 572,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-05-16T09:30:58.8232632+03:00"
+    },
+    {
+      "productId": 1746,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-04-24T14:54:23.2141673+03:00"
+    }
+  ]
+}

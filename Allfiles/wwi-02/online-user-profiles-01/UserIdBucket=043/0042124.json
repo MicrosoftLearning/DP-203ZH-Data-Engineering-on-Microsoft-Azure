@@ -1,0 +1,22 @@
+{
+  "userId": 42124,
+  "cartId": "f9932b65-3940-41a2-9522-c83d0a60de7e",
+  "preferredProducts": [
+    3529,
+    916,
+    370,
+    1552
+  ],
+  "productReviews": [
+    {
+      "productId": 3096,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-09-21T13:45:53.4347815+03:00"
+    },
+    {
+      "productId": 4367,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-02-14T14:03:16.6250345+02:00"
+    }
+  ]
+}

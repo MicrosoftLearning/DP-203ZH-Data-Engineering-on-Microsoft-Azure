@@ -1,0 +1,30 @@
+{
+  "userId": 73788,
+  "cartId": "b278edf2-079c-4daa-95ca-91d7ae3b58cd",
+  "preferredProducts": [
+    4606,
+    4668,
+    3260,
+    1356,
+    4396,
+    187,
+    4132
+  ],
+  "productReviews": [
+    {
+      "productId": 4354,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-01-15T02:56:52.014885+02:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-08-21T01:37:44.4975813+03:00"
+    },
+    {
+      "productId": 1164,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-05-10T10:57:01.4805319+03:00"
+    }
+  ]
+}

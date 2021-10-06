@@ -1,0 +1,41 @@
+{
+  "userId": 5,
+  "cartId": "fec391d6-f8f0-40f2-8ea4-30a589168519",
+  "preferredProducts": [
+    3509,
+    1921,
+    1092,
+    1399,
+    3584,
+    1267,
+    3334,
+    2939
+  ],
+  "productReviews": [
+    {
+      "productId": 4356,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-10-06T21:20:45.8273551+03:00"
+    },
+    {
+      "productId": 384,
+      "reviewText": "this User-friendly is hyper.",
+      "reviewDate": "2019-03-07T18:07:19.1758545+02:00"
+    },
+    {
+      "productId": 4218,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2019-04-30T06:49:39.9098703+03:00"
+    },
+    {
+      "productId": 1064,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-07-09T23:37:02.4984958+03:00"
+    },
+    {
+      "productId": 2581,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-10-26T19:08:20.4756431+03:00"
+    }
+  ]
+}

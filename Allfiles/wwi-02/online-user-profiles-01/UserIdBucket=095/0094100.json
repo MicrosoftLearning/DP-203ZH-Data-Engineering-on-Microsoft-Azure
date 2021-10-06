@@ -1,0 +1,32 @@
+{
+  "userId": 94100,
+  "cartId": "9586ff68-07ba-4d82-a303-1193b13d1282",
+  "preferredProducts": [
+    459,
+    1910,
+    4445,
+    2228,
+    1155,
+    2676,
+    4574,
+    1717,
+    4864
+  ],
+  "productReviews": [
+    {
+      "productId": 4271,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-05-13T16:26:04.2250198+03:00"
+    },
+    {
+      "productId": 952,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-10-10T20:08:31.8763527+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-30T14:07:26.1477547+02:00"
+    }
+  ]
+}

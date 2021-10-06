@@ -1,0 +1,32 @@
+{
+  "userId": 42864,
+  "cartId": "421f60a9-4f5f-4b68-8fb7-642d6d8d31b6",
+  "preferredProducts": [
+    610,
+    2599,
+    4182,
+    3619,
+    1017,
+    3088,
+    4657,
+    4294,
+    2916
+  ],
+  "productReviews": [
+    {
+      "productId": 1453,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-04-29T19:10:30.4374878+03:00"
+    },
+    {
+      "productId": 1705,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-09-04T06:13:17.8967692+03:00"
+    },
+    {
+      "productId": 696,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-04-12T23:05:52.3768813+03:00"
+    }
+  ]
+}

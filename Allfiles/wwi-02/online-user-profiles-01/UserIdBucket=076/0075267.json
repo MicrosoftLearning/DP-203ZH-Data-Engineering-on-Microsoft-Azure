@@ -1,0 +1,36 @@
+{
+  "userId": 75267,
+  "cartId": "8ed192c7-321d-4d06-a74a-9a002c15c420",
+  "preferredProducts": [
+    562,
+    3440,
+    2930,
+    4317,
+    2310,
+    3622,
+    1666,
+    4838
+  ],
+  "productReviews": [
+    {
+      "productId": 2825,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2020-01-26T17:56:27.3245265+02:00"
+    },
+    {
+      "productId": 2073,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2016-12-24T15:08:32.8985513+02:00"
+    },
+    {
+      "productId": 3137,
+      "reviewText": "This withdrawal works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-02-28T20:04:47.0250083+02:00"
+    },
+    {
+      "productId": 696,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-05-08T01:30:47.0087674+03:00"
+    }
+  ]
+}

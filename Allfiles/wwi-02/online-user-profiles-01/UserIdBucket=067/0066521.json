@@ -1,0 +1,36 @@
+{
+  "userId": 66521,
+  "cartId": "af6707fe-3f3c-4738-9a2a-6a7a5f13feae",
+  "preferredProducts": [
+    720,
+    2406,
+    4202,
+    4917,
+    2424,
+    2950,
+    2186,
+    541
+  ],
+  "productReviews": [
+    {
+      "productId": 3037,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-04-05T20:19:32.8743273+03:00"
+    },
+    {
+      "productId": 886,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-08-08T05:24:05.0051615+03:00"
+    },
+    {
+      "productId": 3663,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-11-29T01:43:20.4978786+02:00"
+    },
+    {
+      "productId": 4554,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-08-22T06:04:29.3577001+03:00"
+    }
+  ]
+}

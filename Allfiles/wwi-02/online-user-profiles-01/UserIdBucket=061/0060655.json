@@ -1,0 +1,35 @@
+{
+  "userId": 60655,
+  "cartId": "0ec866bc-aa2a-4811-b096-510de955019a",
+  "preferredProducts": [
+    4249,
+    3805,
+    899,
+    582,
+    4916,
+    4925,
+    3494
+  ],
+  "productReviews": [
+    {
+      "productId": 3463,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-03-22T12:48:59.2750659+02:00"
+    },
+    {
+      "productId": 2194,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-01-17T03:24:19.1761866+02:00"
+    },
+    {
+      "productId": 717,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-02-03T12:36:17.9953595+02:00"
+    },
+    {
+      "productId": 2903,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-06-27T23:06:07.6268984+03:00"
+    }
+  ]
+}

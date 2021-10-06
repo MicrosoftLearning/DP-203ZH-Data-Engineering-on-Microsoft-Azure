@@ -1,0 +1,35 @@
+{
+  "userId": 88440,
+  "cartId": "ca17c7be-69e9-4b1e-9a4d-419cf70a5187",
+  "preferredProducts": [
+    4217,
+    4265,
+    2146,
+    2233,
+    2253,
+    725,
+    944
+  ],
+  "productReviews": [
+    {
+      "productId": 431,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-05-04T15:59:58.4666641+03:00"
+    },
+    {
+      "productId": 67,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-01-14T09:01:46.335748+02:00"
+    },
+    {
+      "productId": 4548,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2016-09-25T20:23:50.2221056+03:00"
+    },
+    {
+      "productId": 485,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-01-23T05:07:22.9763417+02:00"
+    }
+  ]
+}

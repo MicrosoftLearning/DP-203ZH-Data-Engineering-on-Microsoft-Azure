@@ -1,0 +1,32 @@
+{
+  "userId": 98527,
+  "cartId": "c014aaf7-b937-47e5-9b7a-b5ee03b1106b",
+  "preferredProducts": [
+    4605,
+    3824,
+    4667,
+    4803,
+    3785,
+    4,
+    2204,
+    4030,
+    553
+  ],
+  "productReviews": [
+    {
+      "productId": 1841,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-07-24T13:58:12.6794537+03:00"
+    },
+    {
+      "productId": 862,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-06-05T09:32:44.9968768+03:00"
+    },
+    {
+      "productId": 1639,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-06-30T14:58:39.7817102+03:00"
+    }
+  ]
+}

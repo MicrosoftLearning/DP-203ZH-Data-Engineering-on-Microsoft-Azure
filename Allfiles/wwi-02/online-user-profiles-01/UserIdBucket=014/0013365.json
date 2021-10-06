@@ -1,0 +1,41 @@
+{
+  "userId": 13365,
+  "cartId": "7ad99d67-4ebb-4987-9a28-9f8c37eac1f2",
+  "preferredProducts": [
+    653,
+    2145,
+    3242,
+    2789,
+    4094,
+    4099,
+    1629,
+    2081
+  ],
+  "productReviews": [
+    {
+      "productId": 913,
+      "reviewText": "this Optional is revolting.",
+      "reviewDate": "2019-06-02T21:13:03.2715352+03:00"
+    },
+    {
+      "productId": 3778,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-08-28T13:20:13.6700276+03:00"
+    },
+    {
+      "productId": 3824,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-02-11T01:40:30.8183888+02:00"
+    },
+    {
+      "productId": 1994,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-12-29T14:08:56.3085381+02:00"
+    },
+    {
+      "productId": 858,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-08-13T16:45:49.898041+03:00"
+    }
+  ]
+}

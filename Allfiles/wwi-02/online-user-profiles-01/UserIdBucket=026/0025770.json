@@ -1,0 +1,30 @@
+{
+  "userId": 25770,
+  "cartId": "483d5c46-4381-427f-a233-95ec433d42cd",
+  "preferredProducts": [
+    275,
+    366
+  ],
+  "productReviews": [
+    {
+      "productId": 1774,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-07-29T11:53:51.9561897+03:00"
+    },
+    {
+      "productId": 1616,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-08-05T11:24:23.7898057+03:00"
+    },
+    {
+      "productId": 2376,
+      "reviewText": "this Creative is mellow.",
+      "reviewDate": "2020-01-10T07:46:11.1238666+02:00"
+    },
+    {
+      "productId": 2364,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-10-16T17:48:32.1747681+03:00"
+    }
+  ]
+}

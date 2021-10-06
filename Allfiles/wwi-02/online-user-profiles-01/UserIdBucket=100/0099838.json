@@ -1,0 +1,31 @@
+{
+  "userId": 99838,
+  "cartId": "8691ecfb-a9eb-406b-8c81-c601af554e96",
+  "preferredProducts": [
+    3367,
+    2194,
+    3301
+  ],
+  "productReviews": [
+    {
+      "productId": 3193,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-03-10T19:12:35.6681552+02:00"
+    },
+    {
+      "productId": 1044,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-05-04T17:12:27.9723218+03:00"
+    },
+    {
+      "productId": 838,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-03-05T19:49:39.2991678+02:00"
+    },
+    {
+      "productId": 4227,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2018-01-13T13:44:41.376462+02:00"
+    }
+  ]
+}

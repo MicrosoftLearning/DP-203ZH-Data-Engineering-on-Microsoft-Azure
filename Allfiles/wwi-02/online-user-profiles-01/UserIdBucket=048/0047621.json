@@ -1,0 +1,26 @@
+{
+  "userId": 47621,
+  "cartId": "a0cd5346-ef92-4eff-bbe9-192a5965237c",
+  "preferredProducts": [
+    2626,
+    253,
+    1721
+  ],
+  "productReviews": [
+    {
+      "productId": 2422,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-04-10T10:53:57.6690741+03:00"
+    },
+    {
+      "productId": 3120,
+      "reviewText": "This TCP works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-08-03T17:00:02.1658073+03:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-10-19T16:01:53.1958382+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 92312,
+  "cartId": "355c8019-6ca8-4136-a831-19b7ea182185",
+  "preferredProducts": [
+    4123,
+    2652,
+    3397
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-03-21T06:40:04.8474042+02:00"
+    },
+    {
+      "productId": 1671,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-12-19T01:01:50.989828+02:00"
+    },
+    {
+      "productId": 1472,
+      "reviewText": "this Graphical User Interface is complimentary.",
+      "reviewDate": "2020-01-14T18:59:21.8689241+02:00"
+    },
+    {
+      "productId": 4925,
+      "reviewText": "This Zambian Kwacha works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-06-19T23:41:05.7816325+03:00"
+    },
+    {
+      "productId": 1142,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-07-25T17:33:28.5844289+03:00"
+    }
+  ]
+}

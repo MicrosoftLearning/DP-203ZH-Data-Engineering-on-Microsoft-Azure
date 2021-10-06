@@ -1,0 +1,36 @@
+{
+  "userId": 32383,
+  "cartId": "5ec1ee4e-6a23-42c7-ab7a-76659e4b5e74",
+  "preferredProducts": [
+    1424,
+    688,
+    2488,
+    1698,
+    3891,
+    1271,
+    4585,
+    4415
+  ],
+  "productReviews": [
+    {
+      "productId": 2629,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-05-01T02:37:33.2282008+03:00"
+    },
+    {
+      "productId": 3645,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-01-18T13:27:16.7959759+02:00"
+    },
+    {
+      "productId": 2591,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-09-14T09:05:44.3039419+03:00"
+    },
+    {
+      "productId": 4395,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2020-02-18T23:28:59.9572549+02:00"
+    }
+  ]
+}

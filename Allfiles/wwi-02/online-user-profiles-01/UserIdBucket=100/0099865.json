@@ -1,0 +1,36 @@
+{
+  "userId": 99865,
+  "cartId": "f1fe2dd6-c06a-41cb-8673-84176893bb6d",
+  "preferredProducts": [
+    3572,
+    2363,
+    3989,
+    1628,
+    4563,
+    3270,
+    4638,
+    2832
+  ],
+  "productReviews": [
+    {
+      "productId": 3920,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-03-31T02:46:10.720363+03:00"
+    },
+    {
+      "productId": 4990,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-09-22T21:53:10.6422314+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2016-06-29T10:41:57.3057647+03:00"
+    },
+    {
+      "productId": 214,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-05-24T07:08:48.0638457+03:00"
+    }
+  ]
+}

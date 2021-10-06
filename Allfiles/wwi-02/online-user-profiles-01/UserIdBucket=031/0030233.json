@@ -1,0 +1,29 @@
+{
+  "userId": 30233,
+  "cartId": "258e14bb-2aeb-4ca2-af68-7c47d5440403",
+  "preferredProducts": [
+    2211,
+    1722,
+    2615,
+    3820,
+    1741,
+    4221
+  ],
+  "productReviews": [
+    {
+      "productId": 2416,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-02-24T17:04:12.4567001+02:00"
+    },
+    {
+      "productId": 1600,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2017-12-01T04:26:38.5549763+02:00"
+    },
+    {
+      "productId": 4616,
+      "reviewText": "this Handcrafted is ratty.",
+      "reviewDate": "2019-02-02T23:08:25.064934+02:00"
+    }
+  ]
+}

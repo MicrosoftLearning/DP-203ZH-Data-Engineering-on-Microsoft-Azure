@@ -1,0 +1,37 @@
+{
+  "userId": 8010,
+  "cartId": "bdbf870f-37cd-4417-abcd-e90878e35c1b",
+  "preferredProducts": [
+    1904,
+    2657,
+    1165,
+    2106,
+    3348,
+    715,
+    3014,
+    4135,
+    962
+  ],
+  "productReviews": [
+    {
+      "productId": 4238,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-12-08T20:37:29.1183803+02:00"
+    },
+    {
+      "productId": 3837,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-12-05T09:26:11.5637026+02:00"
+    },
+    {
+      "productId": 3681,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-08-05T05:48:10.1560413+03:00"
+    },
+    {
+      "productId": 810,
+      "reviewText": "this transparent is vertical.",
+      "reviewDate": "2017-12-04T03:48:28.6792042+02:00"
+    }
+  ]
+}

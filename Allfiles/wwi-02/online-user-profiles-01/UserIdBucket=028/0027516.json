@@ -1,0 +1,40 @@
+{
+  "userId": 27516,
+  "cartId": "e3f8ef2c-4c95-47c2-a918-5246d93b950b",
+  "preferredProducts": [
+    661,
+    4396,
+    4109,
+    262,
+    3430,
+    380,
+    860
+  ],
+  "productReviews": [
+    {
+      "productId": 2503,
+      "reviewText": "This yellow, does exactly what it's suppose to do.",
+      "reviewDate": "2019-12-10T02:28:05.5483236+02:00"
+    },
+    {
+      "productId": 3786,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-03-08T23:56:32.3062029+02:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "this Small Wooden Bacon is nifty.",
+      "reviewDate": "2019-06-12T06:31:55.1692153+03:00"
+    },
+    {
+      "productId": 889,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-09-04T01:44:06.2100138+03:00"
+    },
+    {
+      "productId": 315,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2020-03-26T11:28:14.8275313+02:00"
+    }
+  ]
+}

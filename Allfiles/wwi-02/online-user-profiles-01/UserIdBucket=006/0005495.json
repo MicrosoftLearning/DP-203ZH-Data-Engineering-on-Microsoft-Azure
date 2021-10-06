@@ -1,0 +1,42 @@
+{
+  "userId": 5495,
+  "cartId": "a08a0f7d-3eaa-4558-a2bd-19f6e56d838a",
+  "preferredProducts": [
+    2103,
+    1222,
+    4319,
+    291,
+    2785,
+    2594,
+    19,
+    3307,
+    2715
+  ],
+  "productReviews": [
+    {
+      "productId": 125,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-01-16T13:53:26.7398723+02:00"
+    },
+    {
+      "productId": 4702,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-07T00:50:30.7909545+02:00"
+    },
+    {
+      "productId": 3893,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-09-04T20:43:02.8800983+03:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-11-24T16:40:19.142432+02:00"
+    },
+    {
+      "productId": 2363,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-09-19T23:28:34.3506805+03:00"
+    }
+  ]
+}

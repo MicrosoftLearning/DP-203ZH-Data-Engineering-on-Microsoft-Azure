@@ -1,0 +1,33 @@
+{
+  "userId": 5666,
+  "cartId": "060ade2f-3e78-402a-b8d0-f866e3ff6504",
+  "preferredProducts": [
+    2011,
+    2305,
+    3465,
+    4552,
+    4833
+  ],
+  "productReviews": [
+    {
+      "productId": 2857,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-03-24T22:35:21.5973788+02:00"
+    },
+    {
+      "productId": 4263,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-09-03T06:28:32.3815278+03:00"
+    },
+    {
+      "productId": 4955,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-05-24T01:12:35.5811878+03:00"
+    },
+    {
+      "productId": 4484,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-11-13T21:36:33.0027718+02:00"
+    }
+  ]
+}

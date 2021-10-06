@@ -1,0 +1,33 @@
+{
+  "userId": 43551,
+  "cartId": "68b7c9ec-f264-4f20-ad89-c43b78596ae2",
+  "preferredProducts": [
+    2454,
+    4728,
+    3294,
+    4594,
+    2103
+  ],
+  "productReviews": [
+    {
+      "productId": 3987,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-12-17T16:04:45.2924383+02:00"
+    },
+    {
+      "productId": 603,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-08-10T06:51:56.1857622+03:00"
+    },
+    {
+      "productId": 1851,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-01-06T20:19:45.7272325+02:00"
+    },
+    {
+      "productId": 3661,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-03-24T06:02:06.4836977+02:00"
+    }
+  ]
+}

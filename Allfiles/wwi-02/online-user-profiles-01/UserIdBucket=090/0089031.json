@@ -1,0 +1,31 @@
+{
+  "userId": 89031,
+  "cartId": "8ba908f2-3e9d-4fcf-a06f-befc0192a404",
+  "preferredProducts": [
+    3750,
+    2263,
+    726
+  ],
+  "productReviews": [
+    {
+      "productId": 2675,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-08-17T10:39:24.448847+03:00"
+    },
+    {
+      "productId": 3020,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-04-01T07:44:41.1706753+03:00"
+    },
+    {
+      "productId": 2330,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-05-30T12:01:50.1327479+03:00"
+    },
+    {
+      "productId": 4,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-06-08T12:04:09.755939+03:00"
+    }
+  ]
+}

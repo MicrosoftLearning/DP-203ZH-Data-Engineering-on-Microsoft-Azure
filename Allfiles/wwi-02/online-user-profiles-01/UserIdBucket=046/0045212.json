@@ -1,0 +1,35 @@
+{
+  "userId": 45212,
+  "cartId": "ddc15e8b-469c-4ef0-9559-b817e67fc30b",
+  "preferredProducts": [
+    33,
+    3738
+  ],
+  "productReviews": [
+    {
+      "productId": 3927,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-03-25T09:55:56.6312424+02:00"
+    },
+    {
+      "productId": 1851,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2016-12-28T01:45:27.9424606+02:00"
+    },
+    {
+      "productId": 3589,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-04-16T04:45:38.6450462+03:00"
+    },
+    {
+      "productId": 4090,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-11-07T12:23:53.0460491+02:00"
+    },
+    {
+      "productId": 779,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-08-12T01:15:47.0798774+03:00"
+    }
+  ]
+}

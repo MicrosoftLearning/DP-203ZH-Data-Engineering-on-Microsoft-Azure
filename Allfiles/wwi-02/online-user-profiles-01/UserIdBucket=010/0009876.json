@@ -1,0 +1,26 @@
+{
+  "userId": 9876,
+  "cartId": "1c03bfd5-832c-4bea-8d03-a992583a7e1f",
+  "preferredProducts": [
+    2301,
+    476,
+    713
+  ],
+  "productReviews": [
+    {
+      "productId": 4376,
+      "reviewText": "This Intelligent Granite Mouse, does exactly what it's suppose to do.",
+      "reviewDate": "2017-02-23T13:06:13.5015568+02:00"
+    },
+    {
+      "productId": 3809,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-04-03T17:55:44.0683909+03:00"
+    },
+    {
+      "productId": 3403,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-05-17T17:43:05.6382726+03:00"
+    }
+  ]
+}

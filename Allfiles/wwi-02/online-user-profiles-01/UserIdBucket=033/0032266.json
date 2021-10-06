@@ -1,0 +1,22 @@
+{
+  "userId": 32266,
+  "cartId": "dbecc976-2ab9-41f5-aa12-3bf2e9584d9a",
+  "preferredProducts": [
+    3761,
+    2748,
+    2579,
+    3214
+  ],
+  "productReviews": [
+    {
+      "productId": 2325,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-09-23T22:10:29.2418913+03:00"
+    },
+    {
+      "productId": 1426,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-06-25T22:41:44.5990188+03:00"
+    }
+  ]
+}

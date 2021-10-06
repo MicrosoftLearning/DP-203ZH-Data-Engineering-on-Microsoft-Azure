@@ -1,0 +1,40 @@
+{
+  "userId": 6205,
+  "cartId": "f60dcc26-212f-424a-a038-cf7a94026132",
+  "preferredProducts": [
+    4081,
+    2816,
+    3947,
+    485,
+    1566,
+    439,
+    3590
+  ],
+  "productReviews": [
+    {
+      "productId": 1411,
+      "reviewText": "this Lilangeni is smooth.",
+      "reviewDate": "2019-11-09T09:07:43.4013604+02:00"
+    },
+    {
+      "productId": 154,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-01-22T14:51:19.0980502+02:00"
+    },
+    {
+      "productId": 3444,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-12-09T03:10:29.1215709+02:00"
+    },
+    {
+      "productId": 4988,
+      "reviewText": "This parse works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-09-07T14:54:05.9046375+03:00"
+    },
+    {
+      "productId": 4949,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-06-14T12:25:30.0892264+03:00"
+    }
+  ]
+}

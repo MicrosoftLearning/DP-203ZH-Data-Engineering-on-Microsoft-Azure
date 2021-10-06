@@ -1,0 +1,32 @@
+{
+  "userId": 44432,
+  "cartId": "079e8986-068d-4f92-9c0b-6ca586025974",
+  "preferredProducts": [
+    2462,
+    1746,
+    3500,
+    2440
+  ],
+  "productReviews": [
+    {
+      "productId": 3344,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-02-25T04:52:48.8198489+02:00"
+    },
+    {
+      "productId": 4421,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-09-19T19:20:23.8872028+03:00"
+    },
+    {
+      "productId": 4454,
+      "reviewText": "this Functionality is tasty.",
+      "reviewDate": "2017-01-16T21:55:03.3426981+02:00"
+    },
+    {
+      "productId": 1045,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-04-24T18:27:13.3551344+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 63355,
+  "cartId": "d42a4280-a355-4220-8e82-5f0086b085e4",
+  "preferredProducts": [
+    1380,
+    2780,
+    1213,
+    1138,
+    3758,
+    2046,
+    304,
+    3632
+  ],
+  "productReviews": [
+    {
+      "productId": 4217,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-05-16T16:11:56.382724+03:00"
+    },
+    {
+      "productId": 3379,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-12-01T01:02:51.1750492+02:00"
+    },
+    {
+      "productId": 3452,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-09-23T18:44:47.4720895+03:00"
+    }
+  ]
+}

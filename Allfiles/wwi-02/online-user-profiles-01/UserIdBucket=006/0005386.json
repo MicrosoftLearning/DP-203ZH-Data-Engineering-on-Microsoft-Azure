@@ -1,0 +1,35 @@
+{
+  "userId": 5386,
+  "cartId": "21db6a95-57a2-4ead-ab88-99f61bda9456",
+  "preferredProducts": [
+    2055,
+    737,
+    2147,
+    1265,
+    2313,
+    2678,
+    3970
+  ],
+  "productReviews": [
+    {
+      "productId": 2987,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-04-12T23:59:06.3020475+03:00"
+    },
+    {
+      "productId": 3244,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-08-20T00:57:50.5408375+03:00"
+    },
+    {
+      "productId": 4931,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-07-25T13:23:12.1236374+03:00"
+    },
+    {
+      "productId": 2436,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-08-04T02:09:20.2637063+03:00"
+    }
+  ]
+}

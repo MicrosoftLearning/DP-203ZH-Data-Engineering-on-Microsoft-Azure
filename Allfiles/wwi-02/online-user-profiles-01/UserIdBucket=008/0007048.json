@@ -1,0 +1,33 @@
+{
+  "userId": 7048,
+  "cartId": "f4130c65-81ae-474d-a58c-4b5080df7ebe",
+  "preferredProducts": [
+    3260,
+    3044,
+    4456,
+    971,
+    3684,
+    4514,
+    4348,
+    1487,
+    2180,
+    1713
+  ],
+  "productReviews": [
+    {
+      "productId": 1356,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-02-09T07:02:02.6109939+02:00"
+    },
+    {
+      "productId": 2459,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-02-17T22:30:42.3043777+02:00"
+    },
+    {
+      "productId": 610,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2020-05-02T19:22:26.8730683+03:00"
+    }
+  ]
+}

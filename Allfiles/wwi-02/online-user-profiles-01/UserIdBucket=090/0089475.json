@@ -1,0 +1,36 @@
+{
+  "userId": 89475,
+  "cartId": "8ca41c65-905f-4382-a336-c49e91de1273",
+  "preferredProducts": [
+    2612,
+    4369,
+    743,
+    518,
+    982,
+    4521,
+    1621,
+    458
+  ],
+  "productReviews": [
+    {
+      "productId": 5000,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2017-08-12T10:26:00.0604283+03:00"
+    },
+    {
+      "productId": 3556,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-06-12T13:48:08.7332253+03:00"
+    },
+    {
+      "productId": 4790,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-12-26T14:20:55.299831+02:00"
+    },
+    {
+      "productId": 3121,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-08-19T11:46:54.3102069+03:00"
+    }
+  ]
+}

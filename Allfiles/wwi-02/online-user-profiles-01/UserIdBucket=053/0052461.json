@@ -1,0 +1,28 @@
+{
+  "userId": 52461,
+  "cartId": "a11e2c95-bc95-47ec-8a7e-60305bf6c606",
+  "preferredProducts": [
+    3335,
+    1243,
+    1118,
+    4177,
+    2098
+  ],
+  "productReviews": [
+    {
+      "productId": 1739,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-03-28T09:15:13.7843503+02:00"
+    },
+    {
+      "productId": 2856,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-03-14T13:07:32.2066189+02:00"
+    },
+    {
+      "productId": 2166,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-12-05T21:30:23.0872864+02:00"
+    }
+  ]
+}

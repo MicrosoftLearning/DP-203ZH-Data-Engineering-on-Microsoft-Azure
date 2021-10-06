@@ -1,0 +1,25 @@
+{
+  "userId": 32414,
+  "cartId": "f284ced3-fea1-4ef0-9962-477ef15fce88",
+  "preferredProducts": [
+    4444,
+    912
+  ],
+  "productReviews": [
+    {
+      "productId": 2231,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-02-25T00:33:03.3561308+02:00"
+    },
+    {
+      "productId": 839,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-09-04T21:57:15.0808832+03:00"
+    },
+    {
+      "productId": 4994,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-07-07T21:20:25.0902183+03:00"
+    }
+  ]
+}

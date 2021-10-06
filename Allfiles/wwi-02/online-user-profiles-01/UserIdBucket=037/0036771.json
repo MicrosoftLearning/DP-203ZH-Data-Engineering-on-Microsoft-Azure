@@ -1,0 +1,32 @@
+{
+  "userId": 36771,
+  "cartId": "59c4749e-d3d9-4e38-ba01-4e73959747f7",
+  "preferredProducts": [
+    340,
+    265,
+    1469,
+    4016,
+    3856,
+    1442,
+    1274,
+    2921,
+    3243
+  ],
+  "productReviews": [
+    {
+      "productId": 1157,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-02-01T03:17:35.0040187+02:00"
+    },
+    {
+      "productId": 3092,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-08-04T11:54:30.6018225+03:00"
+    },
+    {
+      "productId": 283,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-05-07T09:02:40.3380502+03:00"
+    }
+  ]
+}

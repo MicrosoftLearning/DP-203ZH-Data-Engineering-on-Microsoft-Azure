@@ -1,0 +1,42 @@
+{
+  "userId": 26330,
+  "cartId": "cb395588-292f-4d1d-9a82-f35398d242df",
+  "preferredProducts": [
+    2530,
+    4901,
+    2687,
+    2996,
+    386,
+    986,
+    4603,
+    3982,
+    4222
+  ],
+  "productReviews": [
+    {
+      "productId": 729,
+      "reviewText": "this Isle is snowy.",
+      "reviewDate": "2016-06-07T16:02:09.2210824+03:00"
+    },
+    {
+      "productId": 256,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-07-12T10:53:05.6663069+03:00"
+    },
+    {
+      "productId": 2868,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-03-17T14:37:12.2866822+02:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-04-07T05:50:15.0535779+03:00"
+    },
+    {
+      "productId": 316,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-08-28T07:24:16.3773603+03:00"
+    }
+  ]
+}

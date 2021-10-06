@@ -1,0 +1,42 @@
+{
+  "userId": 5181,
+  "cartId": "63683fb6-ecf0-4eac-8025-321f8f862ea2",
+  "preferredProducts": [
+    1240,
+    3097,
+    2089,
+    2317,
+    4648,
+    2228,
+    2292,
+    2175,
+    534
+  ],
+  "productReviews": [
+    {
+      "productId": 4552,
+      "reviewText": "this payment is revolting.",
+      "reviewDate": "2019-01-24T15:25:31.2606555+02:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "This Secured works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-06-08T17:56:09.0001284+03:00"
+    },
+    {
+      "productId": 413,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-09-18T20:37:44.2686977+03:00"
+    },
+    {
+      "productId": 584,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-06-02T10:29:38.8957131+03:00"
+    },
+    {
+      "productId": 4318,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-03-17T14:21:18.9749459+02:00"
+    }
+  ]
+}

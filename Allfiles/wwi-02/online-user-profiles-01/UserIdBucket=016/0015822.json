@@ -1,0 +1,32 @@
+{
+  "userId": 15822,
+  "cartId": "b7e77a8b-b65c-4aed-a3ba-6c6beb2944a5",
+  "preferredProducts": [
+    2600,
+    2791,
+    538,
+    4811,
+    3027,
+    4609,
+    2927,
+    1801,
+    3242
+  ],
+  "productReviews": [
+    {
+      "productId": 311,
+      "reviewText": "this invoice is mellow.",
+      "reviewDate": "2016-11-05T17:06:45.2730133+02:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-09-01T03:15:26.2138363+03:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-11-21T08:22:28.9417236+02:00"
+    }
+  ]
+}

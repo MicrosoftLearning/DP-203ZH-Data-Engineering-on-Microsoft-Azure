@@ -1,0 +1,33 @@
+{
+  "userId": 15038,
+  "cartId": "a4825192-5c81-4f60-95cb-d248207bea17",
+  "preferredProducts": [
+    3449,
+    3588,
+    1291,
+    3122,
+    958
+  ],
+  "productReviews": [
+    {
+      "productId": 3518,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-07-06T17:02:06.9792522+03:00"
+    },
+    {
+      "productId": 717,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-06-27T20:03:09.3493124+03:00"
+    },
+    {
+      "productId": 2531,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-04-09T14:54:21.8429732+03:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-04-15T18:36:27.0729383+03:00"
+    }
+  ]
+}

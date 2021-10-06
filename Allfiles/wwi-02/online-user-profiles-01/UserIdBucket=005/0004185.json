@@ -1,0 +1,33 @@
+{
+  "userId": 4185,
+  "cartId": "f0b601d2-c48b-41f1-ba6e-ed054bdbd3b3",
+  "preferredProducts": [
+    985,
+    3931,
+    1638,
+    3672,
+    4637
+  ],
+  "productReviews": [
+    {
+      "productId": 747,
+      "reviewText": "this Handcrafted Steel Shirt is papery.",
+      "reviewDate": "2016-12-07T06:43:27.2727667+02:00"
+    },
+    {
+      "productId": 2703,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-09-28T13:07:59.1389645+03:00"
+    },
+    {
+      "productId": 2323,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-08-02T07:13:26.8425551+03:00"
+    },
+    {
+      "productId": 3836,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-09-22T07:27:09.715225+03:00"
+    }
+  ]
+}

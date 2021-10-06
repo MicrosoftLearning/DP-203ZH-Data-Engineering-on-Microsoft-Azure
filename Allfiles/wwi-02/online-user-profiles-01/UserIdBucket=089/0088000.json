@@ -1,0 +1,36 @@
+{
+  "userId": 88000,
+  "cartId": "ec1bc771-8a4c-40c0-9466-33c67fc5ac02",
+  "preferredProducts": [
+    2076,
+    4102,
+    344,
+    1933,
+    3558,
+    837,
+    1818,
+    1137
+  ],
+  "productReviews": [
+    {
+      "productId": 972,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-07-11T20:17:47.4517444+03:00"
+    },
+    {
+      "productId": 690,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-09-01T08:23:57.4918651+03:00"
+    },
+    {
+      "productId": 4215,
+      "reviewText": "this wireless is hyper.",
+      "reviewDate": "2016-09-06T07:46:41.7733585+03:00"
+    },
+    {
+      "productId": 4191,
+      "reviewText": "this Web is whole-grain.",
+      "reviewDate": "2017-02-07T03:15:11.9590753+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 8154,
+  "cartId": "fb3fb2f3-151f-4276-b2b3-fe36b508ba47",
+  "preferredProducts": [
+    4811,
+    1007,
+    2907,
+    3879,
+    3168,
+    1794,
+    626
+  ],
+  "productReviews": [
+    {
+      "productId": 3899,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-01-14T11:34:15.3535753+02:00"
+    },
+    {
+      "productId": 1364,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-07-05T04:11:06.8996119+03:00"
+    },
+    {
+      "productId": 2592,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-04-27T13:18:53.8177603+03:00"
+    }
+  ]
+}

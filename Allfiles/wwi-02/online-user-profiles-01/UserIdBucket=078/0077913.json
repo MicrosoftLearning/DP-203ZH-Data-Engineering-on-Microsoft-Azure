@@ -1,0 +1,21 @@
+{
+  "userId": 77913,
+  "cartId": "2e6d2b66-f108-4ae9-b4ac-96a9a7933a93",
+  "preferredProducts": [
+    3583,
+    1572,
+    4791
+  ],
+  "productReviews": [
+    {
+      "productId": 1370,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-03-29T11:40:31.4784365+02:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "This superstructure works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2020-04-17T23:53:08.4064477+03:00"
+    }
+  ]
+}

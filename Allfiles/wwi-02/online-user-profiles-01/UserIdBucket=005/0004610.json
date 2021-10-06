@@ -1,0 +1,29 @@
+{
+  "userId": 4610,
+  "cartId": "179cef62-2fb2-492a-8185-edda7d54f5c3",
+  "preferredProducts": [
+    3066,
+    4647,
+    2739,
+    1846,
+    2404,
+    4696
+  ],
+  "productReviews": [
+    {
+      "productId": 589,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2020-02-12T04:10:14.1685907+02:00"
+    },
+    {
+      "productId": 4035,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-05-21T01:56:06.3000797+03:00"
+    },
+    {
+      "productId": 13,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-01-06T08:48:17.6474635+02:00"
+    }
+  ]
+}

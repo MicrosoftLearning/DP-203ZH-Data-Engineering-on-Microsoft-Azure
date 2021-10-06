@@ -1,0 +1,30 @@
+{
+  "userId": 17679,
+  "cartId": "03eb6719-96de-4ce9-9699-e468e1afea74",
+  "preferredProducts": [
+    898,
+    312,
+    2662,
+    3330,
+    4902,
+    1842,
+    4648
+  ],
+  "productReviews": [
+    {
+      "productId": 2580,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-06-22T18:14:21.6183468+03:00"
+    },
+    {
+      "productId": 1642,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2016-06-09T10:04:24.6982524+03:00"
+    },
+    {
+      "productId": 461,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-05-27T18:30:36.5120882+03:00"
+    }
+  ]
+}

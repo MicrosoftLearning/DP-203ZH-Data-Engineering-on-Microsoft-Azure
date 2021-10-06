@@ -1,0 +1,29 @@
+{
+  "userId": 85918,
+  "cartId": "89c74572-eb81-4cbb-9530-cf270d3f141b",
+  "preferredProducts": [
+    206,
+    140,
+    1818,
+    141,
+    2865,
+    1580
+  ],
+  "productReviews": [
+    {
+      "productId": 2331,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-03-08T14:21:15.8195154+02:00"
+    },
+    {
+      "productId": 3655,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-05-15T16:27:24.7989121+03:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-12-08T21:43:51.1615613+02:00"
+    }
+  ]
+}

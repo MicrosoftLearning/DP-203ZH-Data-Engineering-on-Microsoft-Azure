@@ -1,0 +1,32 @@
+{
+  "userId": 2484,
+  "cartId": "0b98e6da-73a7-474a-a942-8d413711fb6a",
+  "preferredProducts": [
+    1366,
+    2548,
+    4427,
+    2443,
+    3063,
+    1801,
+    3387,
+    3423,
+    802
+  ],
+  "productReviews": [
+    {
+      "productId": 123,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-06-16T13:18:43.5433193+03:00"
+    },
+    {
+      "productId": 4583,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-10-21T05:12:12.9782519+03:00"
+    },
+    {
+      "productId": 1115,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-12-07T16:11:30.4389485+02:00"
+    }
+  ]
+}

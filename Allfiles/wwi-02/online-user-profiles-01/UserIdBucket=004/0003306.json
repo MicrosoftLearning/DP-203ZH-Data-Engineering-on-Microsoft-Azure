@@ -1,0 +1,32 @@
+{
+  "userId": 3306,
+  "cartId": "ab04ce7a-9e51-49bb-ad49-b0e00a0b8ad5",
+  "preferredProducts": [
+    3194,
+    4759,
+    4421,
+    4439,
+    1039,
+    2918,
+    3341,
+    1786,
+    4991
+  ],
+  "productReviews": [
+    {
+      "productId": 2544,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-19T09:23:27.0574624+02:00"
+    },
+    {
+      "productId": 3055,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-09-08T20:39:52.2427508+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2020-04-20T07:22:28.1087186+03:00"
+    }
+  ]
+}

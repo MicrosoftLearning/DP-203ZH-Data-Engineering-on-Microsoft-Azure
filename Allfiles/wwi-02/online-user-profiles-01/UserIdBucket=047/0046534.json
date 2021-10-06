@@ -1,0 +1,30 @@
+{
+  "userId": 46534,
+  "cartId": "d29d68cb-ca67-434a-99ae-986058a3661e",
+  "preferredProducts": [
+    3774,
+    1277,
+    545,
+    1841,
+    2233,
+    1929,
+    4652
+  ],
+  "productReviews": [
+    {
+      "productId": 4075,
+      "reviewText": "this input is snowy.",
+      "reviewDate": "2018-04-05T03:04:31.2285255+03:00"
+    },
+    {
+      "productId": 1292,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-01-31T00:20:19.0136108+02:00"
+    },
+    {
+      "productId": 3742,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-04-30T01:44:24.8220595+03:00"
+    }
+  ]
+}

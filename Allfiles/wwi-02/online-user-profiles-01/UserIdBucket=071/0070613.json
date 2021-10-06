@@ -1,0 +1,27 @@
+{
+  "userId": 70613,
+  "cartId": "f2c30ad1-3d01-48d1-93a0-7db2b95fc6be",
+  "preferredProducts": [
+    1292,
+    2574,
+    1435,
+    4484
+  ],
+  "productReviews": [
+    {
+      "productId": 4765,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-05-17T00:25:32.261144+03:00"
+    },
+    {
+      "productId": 4256,
+      "reviewText": "This Investor, does exactly what it's suppose to do.",
+      "reviewDate": "2018-03-25T10:13:37.97503+03:00"
+    },
+    {
+      "productId": 4068,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-11-06T10:29:43.1500041+02:00"
+    }
+  ]
+}

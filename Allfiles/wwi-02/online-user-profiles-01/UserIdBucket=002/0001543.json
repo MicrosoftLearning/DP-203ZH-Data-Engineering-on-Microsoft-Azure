@@ -1,0 +1,25 @@
+{
+  "userId": 1543,
+  "cartId": "f8c6cc19-175c-4edd-86e8-46e24bcd2c41",
+  "preferredProducts": [
+    1926,
+    2841,
+    4586,
+    4150,
+    2942,
+    2038,
+    438
+  ],
+  "productReviews": [
+    {
+      "productId": 991,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-03-09T01:40:58.6387742+02:00"
+    },
+    {
+      "productId": 3206,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-05-09T03:13:39.205324+03:00"
+    }
+  ]
+}

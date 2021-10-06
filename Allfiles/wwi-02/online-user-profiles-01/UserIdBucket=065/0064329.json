@@ -1,0 +1,27 @@
+{
+  "userId": 64329,
+  "cartId": "b95284af-6397-4328-9580-253dd8ea246a",
+  "preferredProducts": [
+    1799,
+    3524,
+    1556,
+    4073
+  ],
+  "productReviews": [
+    {
+      "productId": 2706,
+      "reviewText": "this invoice is awesome.",
+      "reviewDate": "2019-10-10T09:33:18.1333992+03:00"
+    },
+    {
+      "productId": 4889,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-12-14T02:07:51.8320909+02:00"
+    },
+    {
+      "productId": 3493,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-08-14T16:11:56.189005+03:00"
+    }
+  ]
+}

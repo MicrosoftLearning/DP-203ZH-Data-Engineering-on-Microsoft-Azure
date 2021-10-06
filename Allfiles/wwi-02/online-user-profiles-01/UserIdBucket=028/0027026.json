@@ -1,0 +1,26 @@
+{
+  "userId": 27026,
+  "cartId": "5ab8e6db-86c1-4995-907f-9f8430928d55",
+  "preferredProducts": [
+    4847,
+    4117,
+    1298
+  ],
+  "productReviews": [
+    {
+      "productId": 2694,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-02-22T09:25:33.6519145+02:00"
+    },
+    {
+      "productId": 3348,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-12-15T01:15:18.612345+02:00"
+    },
+    {
+      "productId": 1045,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-02-19T18:16:17.8328703+02:00"
+    }
+  ]
+}

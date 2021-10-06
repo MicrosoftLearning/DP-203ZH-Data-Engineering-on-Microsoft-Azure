@@ -1,0 +1,28 @@
+{
+  "userId": 20715,
+  "cartId": "a0d7da63-a428-4fda-8ec6-5bd96106dbdb",
+  "preferredProducts": [
+    1480,
+    2347,
+    1899,
+    1918,
+    3860
+  ],
+  "productReviews": [
+    {
+      "productId": 4565,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-09-16T05:48:51.8599167+03:00"
+    },
+    {
+      "productId": 3727,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-10-16T21:23:35.4508318+03:00"
+    },
+    {
+      "productId": 1426,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-09-25T08:15:23.3961229+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 10125,
+  "cartId": "5c95a484-8312-4657-b8ea-5a6c94179cd8",
+  "preferredProducts": [
+    45,
+    3585,
+    3108,
+    996,
+    763,
+    4954,
+    1170,
+    377,
+    3526,
+    1831
+  ],
+  "productReviews": [
+    {
+      "productId": 2942,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-09-06T03:30:20.0388511+03:00"
+    },
+    {
+      "productId": 1361,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-08-25T17:46:07.3558266+03:00"
+    },
+    {
+      "productId": 1772,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-08-21T21:35:56.5482733+03:00"
+    },
+    {
+      "productId": 4516,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-02-01T08:30:30.6749597+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 66292,
+  "cartId": "02264b67-c380-439b-8667-db63f0a7ae6e",
+  "preferredProducts": [
+    1938,
+    3484,
+    2414,
+    2351,
+    2375
+  ],
+  "productReviews": [
+    {
+      "productId": 4784,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-11-06T17:20:35.6841584+02:00"
+    },
+    {
+      "productId": 3073,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-05-23T19:11:37.7908639+03:00"
+    },
+    {
+      "productId": 1383,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-04-20T13:56:34.4472425+03:00"
+    },
+    {
+      "productId": 553,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-01-02T09:39:37.4720394+02:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 3176,
+  "cartId": "735e4528-21c2-4db6-96ac-17b6790f96a2",
+  "preferredProducts": [
+    3713,
+    2035,
+    4492,
+    1167,
+    3356,
+    4185
+  ],
+  "productReviews": [
+    {
+      "productId": 257,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-11-08T07:38:53.0742384+02:00"
+    },
+    {
+      "productId": 3335,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-06-16T14:57:02.6440723+03:00"
+    },
+    {
+      "productId": 3815,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-02-03T13:09:23.6161053+02:00"
+    },
+    {
+      "productId": 3393,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-12-28T01:18:53.8570519+02:00"
+    },
+    {
+      "productId": 717,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-06-05T12:10:09.7583005+03:00"
+    }
+  ]
+}

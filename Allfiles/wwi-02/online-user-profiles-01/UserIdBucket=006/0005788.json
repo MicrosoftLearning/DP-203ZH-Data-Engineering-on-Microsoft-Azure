@@ -1,0 +1,41 @@
+{
+  "userId": 5788,
+  "cartId": "8f258081-051c-48f5-b9cb-7c9c1879d130",
+  "preferredProducts": [
+    1216,
+    1963,
+    961,
+    1375,
+    4557,
+    2659,
+    874,
+    4055
+  ],
+  "productReviews": [
+    {
+      "productId": 2574,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-10-27T11:55:33.0273588+03:00"
+    },
+    {
+      "productId": 3008,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-04-26T20:48:38.664351+03:00"
+    },
+    {
+      "productId": 2275,
+      "reviewText": "This is a really good channels.",
+      "reviewDate": "2018-09-16T02:32:14.9040599+03:00"
+    },
+    {
+      "productId": 869,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-08-25T12:47:57.7030569+03:00"
+    },
+    {
+      "productId": 2940,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-10-26T14:17:45.7221577+03:00"
+    }
+  ]
+}

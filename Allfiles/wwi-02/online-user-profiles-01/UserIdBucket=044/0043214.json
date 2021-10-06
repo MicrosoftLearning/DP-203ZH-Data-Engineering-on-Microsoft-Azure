@@ -1,0 +1,35 @@
+{
+  "userId": 43214,
+  "cartId": "66a89bd9-ccfd-4c2b-ab73-b5250232262b",
+  "preferredProducts": [
+    97,
+    1483,
+    4558,
+    3732,
+    3641,
+    808,
+    4633
+  ],
+  "productReviews": [
+    {
+      "productId": 4825,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-11-18T10:26:54.4164085+02:00"
+    },
+    {
+      "productId": 1112,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-02-14T06:36:20.0255102+02:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-09-28T16:22:30.1670622+03:00"
+    },
+    {
+      "productId": 1307,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-10-16T23:26:45.4238255+03:00"
+    }
+  ]
+}

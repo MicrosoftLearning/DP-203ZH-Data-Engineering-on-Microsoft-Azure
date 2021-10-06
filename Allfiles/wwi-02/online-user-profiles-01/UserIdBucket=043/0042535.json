@@ -1,0 +1,21 @@
+{
+  "userId": 42535,
+  "cartId": "d5115103-c29c-4e60-9d43-29368eb247a4",
+  "preferredProducts": [
+    2342,
+    2869,
+    1780
+  ],
+  "productReviews": [
+    {
+      "productId": 536,
+      "reviewText": "this markets is honest.",
+      "reviewDate": "2018-01-11T08:13:22.0714711+02:00"
+    },
+    {
+      "productId": 2113,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-06-08T19:34:26.4863414+03:00"
+    }
+  ]
+}

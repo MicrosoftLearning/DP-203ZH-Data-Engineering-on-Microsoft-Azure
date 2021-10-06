@@ -1,0 +1,22 @@
+{
+  "userId": 7244,
+  "cartId": "8c669b47-e092-4f86-90d3-b1728339c2bd",
+  "preferredProducts": [
+    4144,
+    4876,
+    889,
+    3414
+  ],
+  "productReviews": [
+    {
+      "productId": 3910,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-11-10T19:50:02.6462503+02:00"
+    },
+    {
+      "productId": 3450,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2020-02-12T01:28:44.1043835+02:00"
+    }
+  ]
+}

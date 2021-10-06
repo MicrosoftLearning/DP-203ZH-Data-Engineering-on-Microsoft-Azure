@@ -1,0 +1,36 @@
+{
+  "userId": 48818,
+  "cartId": "a4fdcc80-6232-4562-81fc-190f6a0bce5c",
+  "preferredProducts": [
+    264,
+    3894,
+    2136,
+    1435,
+    2486,
+    1671,
+    950,
+    3230
+  ],
+  "productReviews": [
+    {
+      "productId": 670,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-05-05T13:34:14.6711227+03:00"
+    },
+    {
+      "productId": 1658,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-04-05T15:18:51.9377568+03:00"
+    },
+    {
+      "productId": 678,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-02-20T22:42:21.7915882+02:00"
+    },
+    {
+      "productId": 697,
+      "reviewText": "this one-to-one is flirty.",
+      "reviewDate": "2016-07-14T00:13:05.393613+03:00"
+    }
+  ]
+}

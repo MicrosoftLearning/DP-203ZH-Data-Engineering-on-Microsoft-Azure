@@ -1,0 +1,33 @@
+{
+  "userId": 54285,
+  "cartId": "d3302c1f-c92e-4698-8d1c-c37a2697221f",
+  "preferredProducts": [
+    1743,
+    3034,
+    1833,
+    1395,
+    1572
+  ],
+  "productReviews": [
+    {
+      "productId": 4122,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-03-22T05:51:01.3029324+02:00"
+    },
+    {
+      "productId": 1704,
+      "reviewText": "this Automotive is smooth.",
+      "reviewDate": "2017-09-29T12:08:27.8481979+03:00"
+    },
+    {
+      "productId": 10,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-03-15T13:53:10.8940314+02:00"
+    },
+    {
+      "productId": 2187,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-09-06T04:39:41.1153906+03:00"
+    }
+  ]
+}

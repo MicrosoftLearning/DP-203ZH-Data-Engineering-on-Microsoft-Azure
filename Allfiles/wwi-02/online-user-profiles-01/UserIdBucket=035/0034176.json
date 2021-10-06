@@ -1,0 +1,28 @@
+{
+  "userId": 34176,
+  "cartId": "5cef6ece-e089-4035-a136-551bf80972b7",
+  "preferredProducts": [
+    4151,
+    2643,
+    901,
+    3001,
+    1296
+  ],
+  "productReviews": [
+    {
+      "productId": 4574,
+      "reviewText": "this Road is vertical.",
+      "reviewDate": "2019-07-15T10:28:11.4993202+03:00"
+    },
+    {
+      "productId": 238,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-06-12T13:53:59.1723717+03:00"
+    },
+    {
+      "productId": 869,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2020-01-06T16:25:12.0087037+02:00"
+    }
+  ]
+}

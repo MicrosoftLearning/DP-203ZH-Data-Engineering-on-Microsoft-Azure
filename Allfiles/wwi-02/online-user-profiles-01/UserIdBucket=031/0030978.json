@@ -1,0 +1,29 @@
+{
+  "userId": 30978,
+  "cartId": "c776cccd-f232-4e75-9ab7-b64edc732029",
+  "preferredProducts": [
+    3557,
+    4486,
+    1500,
+    1804,
+    432,
+    1378
+  ],
+  "productReviews": [
+    {
+      "productId": 3694,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-05-14T17:51:07.6564514+03:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2016-11-12T17:19:08.2178451+02:00"
+    },
+    {
+      "productId": 4056,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-07-07T15:19:54.3513588+03:00"
+    }
+  ]
+}

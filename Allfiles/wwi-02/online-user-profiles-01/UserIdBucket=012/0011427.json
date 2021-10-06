@@ -1,0 +1,33 @@
+{
+  "userId": 11427,
+  "cartId": "c4dcef2b-7081-4a3f-83be-9173a20e3a3d",
+  "preferredProducts": [
+    2090,
+    4876,
+    1783,
+    890,
+    2226,
+    2596,
+    900,
+    877,
+    195,
+    4431
+  ],
+  "productReviews": [
+    {
+      "productId": 376,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-03-08T01:46:49.2639065+02:00"
+    },
+    {
+      "productId": 2018,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-04-15T20:59:57.4922876+03:00"
+    },
+    {
+      "productId": 3735,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-11T17:48:55.8846894+02:00"
+    }
+  ]
+}

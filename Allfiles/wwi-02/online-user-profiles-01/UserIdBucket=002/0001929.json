@@ -1,0 +1,36 @@
+{
+  "userId": 1929,
+  "cartId": "ba5175ca-0704-497b-b14e-5dcc3494d22c",
+  "preferredProducts": [
+    2828,
+    1100,
+    4416,
+    4978,
+    2967,
+    3820,
+    911,
+    2646
+  ],
+  "productReviews": [
+    {
+      "productId": 618,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-11-15T13:27:54.5947585+02:00"
+    },
+    {
+      "productId": 4747,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-06-02T12:00:50.5941319+03:00"
+    },
+    {
+      "productId": 3788,
+      "reviewText": "This reintermediate works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2017-02-10T17:30:55.1249853+02:00"
+    },
+    {
+      "productId": 1128,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-01-08T09:50:29.8555848+02:00"
+    }
+  ]
+}

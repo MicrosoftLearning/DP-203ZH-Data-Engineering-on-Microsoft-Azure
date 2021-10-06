@@ -1,0 +1,33 @@
+{
+  "userId": 98863,
+  "cartId": "8e0111b6-1821-4e84-8b5b-31c66abaf93a",
+  "preferredProducts": [
+    2371,
+    3128,
+    1934,
+    2254,
+    3910
+  ],
+  "productReviews": [
+    {
+      "productId": 896,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-05-22T08:08:16.3173202+03:00"
+    },
+    {
+      "productId": 774,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-05-27T18:45:56.4424293+03:00"
+    },
+    {
+      "productId": 3019,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-01-15T12:15:34.2605932+02:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2020-02-25T17:07:04.8841806+02:00"
+    }
+  ]
+}

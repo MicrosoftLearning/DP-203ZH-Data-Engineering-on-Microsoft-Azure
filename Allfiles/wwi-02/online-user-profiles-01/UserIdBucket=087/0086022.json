@@ -1,0 +1,33 @@
+{
+  "userId": 86022,
+  "cartId": "ff1de295-deb3-48e9-adfe-241cb878fa33",
+  "preferredProducts": [
+    2864,
+    777,
+    767,
+    2188,
+    2561
+  ],
+  "productReviews": [
+    {
+      "productId": 2749,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-10-16T17:09:07.5950158+03:00"
+    },
+    {
+      "productId": 3554,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-12-31T04:01:13.9525736+02:00"
+    },
+    {
+      "productId": 2742,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-07-10T09:32:16.8030869+03:00"
+    },
+    {
+      "productId": 1623,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-01-22T11:22:54.0445812+02:00"
+    }
+  ]
+}

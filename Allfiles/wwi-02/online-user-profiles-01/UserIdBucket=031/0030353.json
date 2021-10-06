@@ -1,0 +1,33 @@
+{
+  "userId": 30353,
+  "cartId": "84cce986-f2d2-4321-b5d6-3d15586bcab1",
+  "preferredProducts": [
+    369,
+    1214,
+    1231,
+    990,
+    2707,
+    189,
+    1273,
+    4902,
+    1126,
+    1568
+  ],
+  "productReviews": [
+    {
+      "productId": 2697,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-01-23T13:16:11.8927537+02:00"
+    },
+    {
+      "productId": 4026,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-01-21T00:48:17.9669157+02:00"
+    },
+    {
+      "productId": 801,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-07-19T14:58:19.2966252+03:00"
+    }
+  ]
+}

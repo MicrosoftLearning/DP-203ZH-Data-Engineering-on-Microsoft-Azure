@@ -1,0 +1,35 @@
+{
+  "userId": 12193,
+  "cartId": "b7e6a94c-6bee-459c-bf84-8935cb88c8aa",
+  "preferredProducts": [
+    3868,
+    793
+  ],
+  "productReviews": [
+    {
+      "productId": 600,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-09-29T05:25:07.5093614+03:00"
+    },
+    {
+      "productId": 4367,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-12-11T17:02:04.5432906+02:00"
+    },
+    {
+      "productId": 2380,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-02-06T05:00:04.728998+02:00"
+    },
+    {
+      "productId": 3754,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-05-17T01:32:39.9806066+03:00"
+    },
+    {
+      "productId": 3331,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2020-02-07T10:27:31.4751566+02:00"
+    }
+  ]
+}

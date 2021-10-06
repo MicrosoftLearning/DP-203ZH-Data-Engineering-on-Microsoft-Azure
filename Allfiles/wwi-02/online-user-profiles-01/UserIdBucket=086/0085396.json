@@ -1,0 +1,33 @@
+{
+  "userId": 85396,
+  "cartId": "3b8188f9-88f2-4319-91cf-3d8698836ca8",
+  "preferredProducts": [
+    3173,
+    1609,
+    783,
+    1197,
+    4168
+  ],
+  "productReviews": [
+    {
+      "productId": 4262,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-08-26T20:36:36.1644214+03:00"
+    },
+    {
+      "productId": 4330,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2016-11-11T00:36:50.0638068+02:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-02-12T05:47:13.6360233+02:00"
+    },
+    {
+      "productId": 411,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-06-06T22:29:58.9350996+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 14901,
+  "cartId": "3b2e3933-a2a5-42d6-bae2-1f48bf23bc3a",
+  "preferredProducts": [
+    1212,
+    4692,
+    3374
+  ],
+  "productReviews": [
+    {
+      "productId": 2630,
+      "reviewText": "this fresh-thinking is papery.",
+      "reviewDate": "2019-05-14T07:18:17.9261799+03:00"
+    },
+    {
+      "productId": 3883,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-05-16T08:36:44.9609284+03:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-01-11T15:45:01.6551587+02:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-06-22T04:00:50.7193596+03:00"
+    }
+  ]
+}

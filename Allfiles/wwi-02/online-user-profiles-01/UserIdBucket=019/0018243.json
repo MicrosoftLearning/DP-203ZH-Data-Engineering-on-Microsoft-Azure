@@ -1,0 +1,30 @@
+{
+  "userId": 18243,
+  "cartId": "16b190e9-de23-4b61-8e48-edf1cc9a7a25",
+  "preferredProducts": [
+    3789,
+    436,
+    4052,
+    2472,
+    3875,
+    232,
+    4912
+  ],
+  "productReviews": [
+    {
+      "productId": 1790,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-04-26T07:17:44.4579283+03:00"
+    },
+    {
+      "productId": 1447,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-11-10T02:37:27.2000403+02:00"
+    },
+    {
+      "productId": 3399,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-05-25T12:48:55.9648489+03:00"
+    }
+  ]
+}

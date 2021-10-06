@@ -1,0 +1,35 @@
+{
+  "userId": 42960,
+  "cartId": "d9c650ff-f17b-4fed-99d0-7e9498bf41e3",
+  "preferredProducts": [
+    3943,
+    2967
+  ],
+  "productReviews": [
+    {
+      "productId": 1842,
+      "reviewText": "This monitor works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-03-06T12:54:47.3355051+02:00"
+    },
+    {
+      "productId": 3920,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-07-19T12:24:13.8361436+03:00"
+    },
+    {
+      "productId": 1235,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-06-06T20:40:29.7210844+03:00"
+    },
+    {
+      "productId": 139,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-03-12T16:08:52.0440388+02:00"
+    },
+    {
+      "productId": 76,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-09-25T00:04:17.3039377+03:00"
+    }
+  ]
+}

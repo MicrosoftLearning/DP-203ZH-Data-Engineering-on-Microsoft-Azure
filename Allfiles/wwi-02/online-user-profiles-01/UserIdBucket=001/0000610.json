@@ -1,0 +1,30 @@
+{
+  "userId": 610,
+  "cartId": "dd054f61-a3ad-4115-a33c-701b32452e30",
+  "preferredProducts": [
+    2673,
+    152,
+    3265,
+    4747,
+    473,
+    4744,
+    3472
+  ],
+  "productReviews": [
+    {
+      "productId": 2128,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-12-18T21:46:24.1026517+02:00"
+    },
+    {
+      "productId": 4878,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-06-24T09:21:50.2928514+03:00"
+    },
+    {
+      "productId": 421,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-04-25T16:03:38.3152309+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 7464,
+  "cartId": "f3ae2643-f990-4a2d-959d-3f27cf52ec68",
+  "preferredProducts": [
+    3173,
+    3502,
+    2130,
+    3319,
+    4541
+  ],
+  "productReviews": [
+    {
+      "productId": 2279,
+      "reviewText": "this Quality is papery.",
+      "reviewDate": "2017-08-16T14:42:55.0480295+03:00"
+    },
+    {
+      "productId": 3609,
+      "reviewText": "this architectures is standard.",
+      "reviewDate": "2019-05-03T14:30:59.4998+03:00"
+    },
+    {
+      "productId": 624,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2017-01-26T06:28:46.376178+02:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2020-04-10T11:32:13.2860073+03:00"
+    }
+  ]
+}

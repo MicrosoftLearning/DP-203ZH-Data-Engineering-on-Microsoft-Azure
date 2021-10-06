@@ -1,0 +1,38 @@
+{
+  "userId": 3009,
+  "cartId": "46f67f9d-f3df-429a-87bf-f47e38c752da",
+  "preferredProducts": [
+    2436,
+    3608,
+    368,
+    3181,
+    64,
+    654,
+    4614,
+    1357,
+    203,
+    3767
+  ],
+  "productReviews": [
+    {
+      "productId": 3460,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-01-22T19:51:03.2999777+02:00"
+    },
+    {
+      "productId": 2943,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-01-13T08:37:00.0670709+02:00"
+    },
+    {
+      "productId": 285,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-12-26T11:39:08.2896784+02:00"
+    },
+    {
+      "productId": 684,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-03-24T12:50:20.1013995+02:00"
+    }
+  ]
+}

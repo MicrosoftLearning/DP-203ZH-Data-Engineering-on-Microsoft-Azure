@@ -1,0 +1,29 @@
+{
+  "userId": 5566,
+  "cartId": "36506f8e-dd11-4e2e-868a-d9d447a41d63",
+  "preferredProducts": [
+    3130
+  ],
+  "productReviews": [
+    {
+      "productId": 2257,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-03-26T02:36:58.9526967+03:00"
+    },
+    {
+      "productId": 496,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-23T19:47:49.3439553+03:00"
+    },
+    {
+      "productId": 655,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-02-10T10:58:17.2101828+02:00"
+    },
+    {
+      "productId": 1602,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-04-15T00:23:04.9383955+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 32645,
+  "cartId": "002e94f2-20f9-45ef-ac7e-6bc0137195f5",
+  "preferredProducts": [
+    4451,
+    255
+  ],
+  "productReviews": [
+    {
+      "productId": 2751,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-07-24T07:48:31.3797068+03:00"
+    },
+    {
+      "productId": 350,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-07-15T16:21:26.2481382+03:00"
+    },
+    {
+      "productId": 1073,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-02-19T04:40:52.8105746+02:00"
+    }
+  ]
+}

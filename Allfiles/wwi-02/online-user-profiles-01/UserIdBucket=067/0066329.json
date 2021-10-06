@@ -1,0 +1,33 @@
+{
+  "userId": 66329,
+  "cartId": "3248e513-8fa3-476e-886d-90da774f8cae",
+  "preferredProducts": [
+    3708,
+    3266,
+    4129,
+    1738,
+    1563
+  ],
+  "productReviews": [
+    {
+      "productId": 2685,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-09-24T15:45:13.8689224+03:00"
+    },
+    {
+      "productId": 241,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-12-25T17:54:47.6877941+02:00"
+    },
+    {
+      "productId": 1666,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-03-11T08:01:07.5902234+02:00"
+    },
+    {
+      "productId": 2515,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-09-28T10:11:55.1903534+03:00"
+    }
+  ]
+}

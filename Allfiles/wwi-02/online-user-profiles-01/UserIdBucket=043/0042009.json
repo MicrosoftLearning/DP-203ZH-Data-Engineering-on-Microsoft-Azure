@@ -1,0 +1,29 @@
+{
+  "userId": 42009,
+  "cartId": "40ac996a-7c86-4b93-9d34-32f7fa620ace",
+  "preferredProducts": [
+    2381,
+    3978,
+    4162,
+    3837,
+    893,
+    90
+  ],
+  "productReviews": [
+    {
+      "productId": 301,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-06T16:07:25.7978539+02:00"
+    },
+    {
+      "productId": 4108,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-03-07T17:40:39.4204027+02:00"
+    },
+    {
+      "productId": 4550,
+      "reviewText": "this Upgradable is whole-grain.",
+      "reviewDate": "2018-09-29T10:11:58.4890061+03:00"
+    }
+  ]
+}

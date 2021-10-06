@@ -1,0 +1,30 @@
+{
+  "userId": 53942,
+  "cartId": "98d39a80-d57c-4a77-8ed5-6e315cf97bfe",
+  "preferredProducts": [
+    192,
+    562,
+    663,
+    3696,
+    3976,
+    4795,
+    2069
+  ],
+  "productReviews": [
+    {
+      "productId": 500,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-07-11T12:02:02.6943514+03:00"
+    },
+    {
+      "productId": 950,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-05-31T09:54:36.7062196+03:00"
+    },
+    {
+      "productId": 3733,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2016-07-27T06:58:00.1166207+03:00"
+    }
+  ]
+}

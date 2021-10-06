@@ -1,0 +1,37 @@
+{
+  "userId": 10568,
+  "cartId": "376f7756-af30-429c-bf01-f883b0f02ac1",
+  "preferredProducts": [
+    2955,
+    1575,
+    2011,
+    757,
+    821,
+    2642,
+    3879,
+    4189,
+    797
+  ],
+  "productReviews": [
+    {
+      "productId": 1478,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-11-30T16:16:47.7615136+02:00"
+    },
+    {
+      "productId": 2901,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-05-31T00:01:54.4730932+03:00"
+    },
+    {
+      "productId": 505,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-11-15T06:17:01.3312744+02:00"
+    },
+    {
+      "productId": 2769,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-08-25T12:59:51.0226817+03:00"
+    }
+  ]
+}

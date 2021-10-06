@@ -1,0 +1,37 @@
+{
+  "userId": 11437,
+  "cartId": "b1c406db-7877-4a6a-b073-d5264b59babe",
+  "preferredProducts": [
+    4253,
+    1241,
+    17,
+    775
+  ],
+  "productReviews": [
+    {
+      "productId": 1758,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-11-13T19:45:19.0369049+02:00"
+    },
+    {
+      "productId": 393,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-08-10T22:39:02.5572453+03:00"
+    },
+    {
+      "productId": 169,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-01-01T15:46:20.5294993+02:00"
+    },
+    {
+      "productId": 3010,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-10-03T12:26:58.6532042+03:00"
+    },
+    {
+      "productId": 3022,
+      "reviewText": "This Fords works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2018-10-08T08:04:35.823328+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 4997,
+  "cartId": "bed2141b-8789-484f-bc75-005014a513d9",
+  "preferredProducts": [
+    4868,
+    2540,
+    2215,
+    1107,
+    706,
+    4946,
+    3623
+  ],
+  "productReviews": [
+    {
+      "productId": 2189,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-09-10T09:56:46.2365376+03:00"
+    },
+    {
+      "productId": 1766,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-05-21T21:48:13.9841038+03:00"
+    },
+    {
+      "productId": 2411,
+      "reviewText": "This reboot works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-08-14T08:42:50.342644+03:00"
+    },
+    {
+      "productId": 2588,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-11-13T15:30:04.9091402+02:00"
+    }
+  ]
+}

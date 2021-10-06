@@ -1,0 +1,39 @@
+{
+  "userId": 88282,
+  "cartId": "8c2cfffe-5f38-4754-b801-2249c0ba3781",
+  "preferredProducts": [
+    4412,
+    666,
+    856,
+    1368,
+    4821,
+    622
+  ],
+  "productReviews": [
+    {
+      "productId": 4909,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-03-18T21:35:19.6483921+02:00"
+    },
+    {
+      "productId": 2023,
+      "reviewText": "this frictionless is awesome.",
+      "reviewDate": "2018-02-25T02:51:08.2005473+02:00"
+    },
+    {
+      "productId": 288,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-03-19T10:08:40.9599571+02:00"
+    },
+    {
+      "productId": 304,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-12-08T03:36:42.8379455+02:00"
+    },
+    {
+      "productId": 4881,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-06-01T23:35:44.4592646+03:00"
+    }
+  ]
+}

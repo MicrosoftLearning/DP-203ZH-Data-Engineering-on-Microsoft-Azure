@@ -1,0 +1,24 @@
+{
+  "userId": 10002,
+  "cartId": "36bdc337-612a-4b6f-bc4f-9895c4f3263e",
+  "preferredProducts": [
+    3956,
+    1715,
+    368,
+    2569,
+    2758,
+    658
+  ],
+  "productReviews": [
+    {
+      "productId": 1441,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-07-21T19:28:13.2238343+03:00"
+    },
+    {
+      "productId": 69,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-02-01T05:41:57.6908008+02:00"
+    }
+  ]
+}

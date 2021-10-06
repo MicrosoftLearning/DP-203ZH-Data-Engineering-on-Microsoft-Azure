@@ -1,0 +1,33 @@
+{
+  "userId": 67999,
+  "cartId": "7120a8f0-d6b4-4e0f-8a55-0d711c982be4",
+  "preferredProducts": [
+    3728,
+    3299,
+    252,
+    1513,
+    2996,
+    41,
+    78,
+    4294,
+    2861,
+    536
+  ],
+  "productReviews": [
+    {
+      "productId": 3870,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-12-18T14:22:27.7568883+02:00"
+    },
+    {
+      "productId": 2292,
+      "reviewText": "This Cotton works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2020-04-17T19:04:31.7807807+03:00"
+    },
+    {
+      "productId": 3888,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-07-05T19:00:29.7615382+03:00"
+    }
+  ]
+}

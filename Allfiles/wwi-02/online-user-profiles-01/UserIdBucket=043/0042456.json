@@ -1,0 +1,37 @@
+{
+  "userId": 42456,
+  "cartId": "b8e36066-6b25-43a6-b0db-8da7f87078e9",
+  "preferredProducts": [
+    3454,
+    3554,
+    1149,
+    1326,
+    4060,
+    2182,
+    2505,
+    2501,
+    4486
+  ],
+  "productReviews": [
+    {
+      "productId": 1317,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-10-05T00:55:02.2507607+03:00"
+    },
+    {
+      "productId": 2484,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-01-04T20:11:04.46251+02:00"
+    },
+    {
+      "productId": 1502,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-02-19T22:34:33.9256566+02:00"
+    },
+    {
+      "productId": 1069,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-07-26T18:56:30.5896169+03:00"
+    }
+  ]
+}

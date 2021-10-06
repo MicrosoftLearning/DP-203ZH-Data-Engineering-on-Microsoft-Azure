@@ -1,0 +1,28 @@
+{
+  "userId": 69194,
+  "cartId": "6ddaf06d-708f-4ccd-8d68-9e73d10690db",
+  "preferredProducts": [
+    3974,
+    2068,
+    507,
+    273,
+    2528
+  ],
+  "productReviews": [
+    {
+      "productId": 3767,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-06-06T21:43:41.7166802+03:00"
+    },
+    {
+      "productId": 4234,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-04-15T06:51:50.2184225+03:00"
+    },
+    {
+      "productId": 3910,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-06-20T13:20:45.8297858+03:00"
+    }
+  ]
+}

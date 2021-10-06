@@ -1,0 +1,28 @@
+{
+  "userId": 3332,
+  "cartId": "a6b92a6a-437c-45a7-8d68-3102d85712a3",
+  "preferredProducts": [
+    312,
+    325,
+    4851,
+    4480,
+    3016
+  ],
+  "productReviews": [
+    {
+      "productId": 4042,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-09-01T03:16:30.7818409+03:00"
+    },
+    {
+      "productId": 2406,
+      "reviewText": "This Health works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-09-14T19:18:40.8805486+03:00"
+    },
+    {
+      "productId": 1979,
+      "reviewText": "this silver is ratty.",
+      "reviewDate": "2019-06-06T10:52:46.5046059+03:00"
+    }
+  ]
+}

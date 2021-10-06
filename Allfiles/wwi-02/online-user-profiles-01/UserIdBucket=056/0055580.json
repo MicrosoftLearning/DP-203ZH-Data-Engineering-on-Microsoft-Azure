@@ -1,0 +1,25 @@
+{
+  "userId": 55580,
+  "cartId": "bcd3af47-dbd2-497a-8e14-0498ae5d272e",
+  "preferredProducts": [
+    1478,
+    2397
+  ],
+  "productReviews": [
+    {
+      "productId": 4669,
+      "reviewText": "this Rubber is papery.",
+      "reviewDate": "2018-06-29T18:07:01.3255825+03:00"
+    },
+    {
+      "productId": 1463,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-07-09T16:02:57.5932861+03:00"
+    },
+    {
+      "productId": 4158,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-04-17T03:26:52.8890994+03:00"
+    }
+  ]
+}

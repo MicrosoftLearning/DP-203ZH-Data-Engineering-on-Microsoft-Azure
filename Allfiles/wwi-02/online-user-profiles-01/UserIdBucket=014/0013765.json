@@ -1,0 +1,27 @@
+{
+  "userId": 13765,
+  "cartId": "1ff02d7b-2293-4b54-af99-37269aa7dbe7",
+  "preferredProducts": [
+    895,
+    153,
+    2158,
+    3133
+  ],
+  "productReviews": [
+    {
+      "productId": 4369,
+      "reviewText": "this HDD is complimentary.",
+      "reviewDate": "2016-10-13T05:32:24.8622159+03:00"
+    },
+    {
+      "productId": 2921,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-02-28T23:33:57.2370928+02:00"
+    },
+    {
+      "productId": 3700,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-12-10T18:26:48.1771228+02:00"
+    }
+  ]
+}

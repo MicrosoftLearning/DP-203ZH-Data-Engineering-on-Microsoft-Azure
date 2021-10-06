@@ -1,0 +1,30 @@
+{
+  "userId": 95264,
+  "cartId": "7837f78a-da6d-487e-8c41-8d227d256984",
+  "preferredProducts": [
+    3990,
+    765,
+    630,
+    4410,
+    4162,
+    2746,
+    1492
+  ],
+  "productReviews": [
+    {
+      "productId": 1028,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-21T08:54:03.2905807+02:00"
+    },
+    {
+      "productId": 3577,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-02-13T06:46:49.9949992+02:00"
+    },
+    {
+      "productId": 1744,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-05-05T15:36:14.4256218+03:00"
+    }
+  ]
+}

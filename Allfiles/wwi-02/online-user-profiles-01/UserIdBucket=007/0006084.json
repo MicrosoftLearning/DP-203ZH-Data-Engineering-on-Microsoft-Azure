@@ -1,0 +1,38 @@
+{
+  "userId": 6084,
+  "cartId": "675ed33d-35c5-4140-b610-85e495f5270b",
+  "preferredProducts": [
+    231,
+    1720,
+    860,
+    1690,
+    863
+  ],
+  "productReviews": [
+    {
+      "productId": 3458,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-08-28T09:36:21.2232684+03:00"
+    },
+    {
+      "productId": 1402,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-09-06T23:45:55.061358+03:00"
+    },
+    {
+      "productId": 3746,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-10-05T22:12:38.1853814+03:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-05-03T12:37:33.5630274+03:00"
+    },
+    {
+      "productId": 2398,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-07-01T10:56:12.4259464+03:00"
+    }
+  ]
+}

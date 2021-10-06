@@ -1,0 +1,25 @@
+{
+  "userId": 32253,
+  "cartId": "f32e9078-174e-491b-aad9-6747ecb4ebbc",
+  "preferredProducts": [
+    1986,
+    4651
+  ],
+  "productReviews": [
+    {
+      "productId": 2034,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-09-15T01:32:13.1267756+03:00"
+    },
+    {
+      "productId": 2040,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-05-16T11:09:09.753328+03:00"
+    },
+    {
+      "productId": 2758,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-03-25T18:31:02.1621087+02:00"
+    }
+  ]
+}

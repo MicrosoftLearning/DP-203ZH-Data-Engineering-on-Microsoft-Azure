@@ -1,0 +1,29 @@
+{
+  "userId": 31207,
+  "cartId": "5e644294-6f08-4508-835e-3cef04a7e348",
+  "preferredProducts": [
+    999,
+    3689,
+    2985,
+    3612,
+    2400,
+    4275
+  ],
+  "productReviews": [
+    {
+      "productId": 3994,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-11-30T19:59:40.2313121+02:00"
+    },
+    {
+      "productId": 4783,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2016-12-18T04:38:39.4958716+02:00"
+    },
+    {
+      "productId": 2828,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2020-03-03T04:12:12.1850721+02:00"
+    }
+  ]
+}

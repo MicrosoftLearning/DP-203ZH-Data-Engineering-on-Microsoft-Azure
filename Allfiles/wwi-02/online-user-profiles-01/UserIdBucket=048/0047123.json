@@ -1,0 +1,33 @@
+{
+  "userId": 47123,
+  "cartId": "659cd051-150c-41a6-a120-3f108ece86a3",
+  "preferredProducts": [
+    3857,
+    3311,
+    2974,
+    4504,
+    345,
+    3158,
+    4728,
+    4555,
+    4704,
+    2579
+  ],
+  "productReviews": [
+    {
+      "productId": 1795,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-10-07T17:30:04.2384818+03:00"
+    },
+    {
+      "productId": 2350,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-11-29T01:03:14.4847086+02:00"
+    },
+    {
+      "productId": 4587,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-06-19T14:57:56.1734649+03:00"
+    }
+  ]
+}

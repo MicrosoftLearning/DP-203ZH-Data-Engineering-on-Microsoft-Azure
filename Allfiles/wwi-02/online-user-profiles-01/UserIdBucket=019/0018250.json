@@ -1,0 +1,32 @@
+{
+  "userId": 18250,
+  "cartId": "8597853d-17fb-4ca6-9b6e-32d9a9530f0a",
+  "preferredProducts": [
+    517,
+    3664,
+    3422,
+    3341
+  ],
+  "productReviews": [
+    {
+      "productId": 1003,
+      "reviewText": "this User-centric is revolting.",
+      "reviewDate": "2020-01-09T08:25:36.5704044+02:00"
+    },
+    {
+      "productId": 3856,
+      "reviewText": "this mobile is nifty.",
+      "reviewDate": "2020-04-19T12:02:48.2152833+03:00"
+    },
+    {
+      "productId": 802,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-10-10T06:15:05.3342396+03:00"
+    },
+    {
+      "productId": 2059,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-08-22T10:34:47.5057053+03:00"
+    }
+  ]
+}

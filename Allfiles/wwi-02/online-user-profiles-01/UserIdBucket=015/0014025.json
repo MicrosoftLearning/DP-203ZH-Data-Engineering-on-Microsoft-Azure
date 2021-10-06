@@ -1,0 +1,37 @@
+{
+  "userId": 14025,
+  "cartId": "fdda92d3-b289-458a-9ea7-ffb00de17bdc",
+  "preferredProducts": [
+    2797,
+    3975,
+    4887,
+    3207,
+    2752,
+    3810,
+    4458,
+    3282,
+    1115
+  ],
+  "productReviews": [
+    {
+      "productId": 1984,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-09-13T04:21:34.5193456+03:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-07-18T21:46:30.9504671+03:00"
+    },
+    {
+      "productId": 1902,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-10-31T16:39:36.765613+02:00"
+    },
+    {
+      "productId": 4283,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-11-26T02:06:22.3358825+02:00"
+    }
+  ]
+}

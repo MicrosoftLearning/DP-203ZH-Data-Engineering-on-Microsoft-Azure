@@ -1,0 +1,22 @@
+{
+  "userId": 55276,
+  "cartId": "cf9b0708-5180-4638-9ccf-cd88fb3bf1e9",
+  "preferredProducts": [
+    334,
+    4400,
+    4820,
+    2131
+  ],
+  "productReviews": [
+    {
+      "productId": 1058,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-04-25T01:03:55.2766441+03:00"
+    },
+    {
+      "productId": 169,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-02-07T07:04:38.2105454+02:00"
+    }
+  ]
+}

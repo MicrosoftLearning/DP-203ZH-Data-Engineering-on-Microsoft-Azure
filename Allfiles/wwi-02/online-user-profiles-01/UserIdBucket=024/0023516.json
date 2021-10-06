@@ -1,0 +1,39 @@
+{
+  "userId": 23516,
+  "cartId": "9d954745-e6ac-40bf-8032-569acd90def8",
+  "preferredProducts": [
+    1230,
+    3704,
+    2817,
+    1026,
+    3760,
+    3853
+  ],
+  "productReviews": [
+    {
+      "productId": 3062,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-08-28T04:22:51.6938439+03:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-01-19T00:58:46.3453886+02:00"
+    },
+    {
+      "productId": 3341,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-03-25T12:01:29.5979693+02:00"
+    },
+    {
+      "productId": 771,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-06-29T09:53:49.4828497+03:00"
+    },
+    {
+      "productId": 2895,
+      "reviewText": "this back-end is amiable.",
+      "reviewDate": "2017-04-25T05:25:42.6061911+03:00"
+    }
+  ]
+}

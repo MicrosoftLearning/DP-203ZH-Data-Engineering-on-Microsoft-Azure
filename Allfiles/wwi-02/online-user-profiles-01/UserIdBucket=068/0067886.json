@@ -1,0 +1,26 @@
+{
+  "userId": 67886,
+  "cartId": "87d0bcc1-3141-459f-9fe1-11a960471b97",
+  "preferredProducts": [
+    4899,
+    966,
+    747
+  ],
+  "productReviews": [
+    {
+      "productId": 2702,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-10-28T01:20:12.9532111+03:00"
+    },
+    {
+      "productId": 4463,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-03-15T03:04:43.5001465+02:00"
+    },
+    {
+      "productId": 230,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-02-21T14:08:13.9375951+02:00"
+    }
+  ]
+}

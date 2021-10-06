@@ -1,0 +1,38 @@
+{
+  "userId": 94323,
+  "cartId": "e4d40621-046d-4d45-8d26-e3dc93e562d8",
+  "preferredProducts": [
+    763,
+    3758,
+    1365,
+    1877,
+    829,
+    407,
+    553,
+    2704,
+    2827,
+    4300
+  ],
+  "productReviews": [
+    {
+      "productId": 1124,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-02-20T12:32:58.7947143+02:00"
+    },
+    {
+      "productId": 2775,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-03-24T10:56:21.8518435+02:00"
+    },
+    {
+      "productId": 3721,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-12-16T23:35:57.0255894+02:00"
+    },
+    {
+      "productId": 473,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-01-01T12:37:29.9792318+02:00"
+    }
+  ]
+}

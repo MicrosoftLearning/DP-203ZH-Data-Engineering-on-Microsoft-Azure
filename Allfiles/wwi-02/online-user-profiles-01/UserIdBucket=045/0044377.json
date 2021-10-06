@@ -1,0 +1,24 @@
+{
+  "userId": 44377,
+  "cartId": "6d361b81-1fe5-4cd6-aa73-8a8b44c5b40e",
+  "preferredProducts": [
+    2598,
+    4303,
+    3511,
+    2775,
+    4527,
+    2795
+  ],
+  "productReviews": [
+    {
+      "productId": 1885,
+      "reviewText": "this Mongolia is standard.",
+      "reviewDate": "2019-09-01T10:28:48.0079435+03:00"
+    },
+    {
+      "productId": 1810,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-06-12T06:57:50.1884544+03:00"
+    }
+  ]
+}

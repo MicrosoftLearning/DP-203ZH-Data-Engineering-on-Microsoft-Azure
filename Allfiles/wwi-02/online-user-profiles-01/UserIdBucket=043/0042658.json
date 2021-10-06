@@ -1,0 +1,36 @@
+{
+  "userId": 42658,
+  "cartId": "332a3277-fd20-45c0-a17b-5d2a2284fb87",
+  "preferredProducts": [
+    678,
+    2712,
+    1793
+  ],
+  "productReviews": [
+    {
+      "productId": 159,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-11-22T16:31:59.6853224+02:00"
+    },
+    {
+      "productId": 2436,
+      "reviewText": "this Bedfordshire is hyper.",
+      "reviewDate": "2019-04-30T19:01:44.2100061+03:00"
+    },
+    {
+      "productId": 4296,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-04-05T15:24:25.0369551+03:00"
+    },
+    {
+      "productId": 4679,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-06-28T22:36:07.9674429+03:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-01-11T00:58:42.9800696+02:00"
+    }
+  ]
+}

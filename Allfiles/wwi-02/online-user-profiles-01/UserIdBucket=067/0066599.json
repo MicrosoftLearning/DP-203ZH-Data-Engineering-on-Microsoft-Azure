@@ -1,0 +1,33 @@
+{
+  "userId": 66599,
+  "cartId": "4a8d9787-bc46-47a4-a9a0-67d2a5cbedf3",
+  "preferredProducts": [
+    1529,
+    4863,
+    2170,
+    1199,
+    2193
+  ],
+  "productReviews": [
+    {
+      "productId": 247,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-02-09T19:18:33.4276241+02:00"
+    },
+    {
+      "productId": 3130,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-08-25T19:53:12.5378508+03:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-10-23T21:24:20.8877629+03:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-05-13T10:10:49.9491488+03:00"
+    }
+  ]
+}

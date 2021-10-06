@@ -1,0 +1,32 @@
+{
+  "userId": 43175,
+  "cartId": "eb986527-aba5-4f76-81d3-3e06e6a5d155",
+  "preferredProducts": [
+    926,
+    1868,
+    2432,
+    208
+  ],
+  "productReviews": [
+    {
+      "productId": 4295,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-02-20T07:23:41.9157147+02:00"
+    },
+    {
+      "productId": 1979,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-06-14T16:38:55.2700715+03:00"
+    },
+    {
+      "productId": 4878,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-12-30T21:41:42.9546426+02:00"
+    },
+    {
+      "productId": 1036,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-03-14T17:34:24.2119113+02:00"
+    }
+  ]
+}

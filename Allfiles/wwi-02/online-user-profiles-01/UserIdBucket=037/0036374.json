@@ -1,0 +1,28 @@
+{
+  "userId": 36374,
+  "cartId": "b21cae61-ac16-4777-96a2-42d55ddeb44d",
+  "preferredProducts": [
+    4237,
+    1879,
+    440,
+    601,
+    3309
+  ],
+  "productReviews": [
+    {
+      "productId": 267,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-08-01T18:05:33.8535427+03:00"
+    },
+    {
+      "productId": 2619,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-04-13T20:06:23.1135302+03:00"
+    },
+    {
+      "productId": 435,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-11-11T00:03:21.4778191+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 42584,
+  "cartId": "b64a7caf-72f7-423c-b30e-6f7cf387d5a4",
+  "preferredProducts": [
+    1870,
+    2112,
+    1181,
+    4468,
+    694,
+    1947,
+    4333
+  ],
+  "productReviews": [
+    {
+      "productId": 377,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-05-26T15:22:37.2197049+03:00"
+    },
+    {
+      "productId": 2401,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-06-09T17:50:01.0564445+03:00"
+    },
+    {
+      "productId": 628,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-05-05T07:50:45.1739292+03:00"
+    }
+  ]
+}

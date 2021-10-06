@@ -1,0 +1,33 @@
+{
+  "userId": 50186,
+  "cartId": "34e9c8a4-8585-4083-849d-ca686f892704",
+  "preferredProducts": [
+    4158,
+    1377,
+    1819,
+    3974,
+    2784,
+    2156,
+    3888,
+    2049,
+    2621,
+    1040
+  ],
+  "productReviews": [
+    {
+      "productId": 3186,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-03-25T05:34:24.9847638+02:00"
+    },
+    {
+      "productId": 458,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-04-29T10:27:13.8970515+03:00"
+    },
+    {
+      "productId": 4177,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-05-16T09:09:31.9327998+03:00"
+    }
+  ]
+}

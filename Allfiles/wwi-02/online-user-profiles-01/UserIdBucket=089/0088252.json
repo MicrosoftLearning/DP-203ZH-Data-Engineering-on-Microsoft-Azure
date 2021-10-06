@@ -1,0 +1,38 @@
+{
+  "userId": 88252,
+  "cartId": "f313aae2-ee77-449f-9c46-a6dcef8820be",
+  "preferredProducts": [
+    2975,
+    861,
+    1220,
+    4793,
+    616,
+    4281,
+    2734,
+    2308,
+    3210,
+    3493
+  ],
+  "productReviews": [
+    {
+      "productId": 1566,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2020-01-28T12:31:01.313157+02:00"
+    },
+    {
+      "productId": 3988,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-03-08T12:15:47.262404+02:00"
+    },
+    {
+      "productId": 3964,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-06-30T01:03:37.6439649+03:00"
+    },
+    {
+      "productId": 2061,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-06-01T11:26:22.3620979+03:00"
+    }
+  ]
+}

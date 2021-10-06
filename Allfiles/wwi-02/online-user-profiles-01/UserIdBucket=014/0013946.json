@@ -1,0 +1,31 @@
+{
+  "userId": 13946,
+  "cartId": "6b91f2e7-f245-4108-b38d-448a0fc6c10b",
+  "preferredProducts": [
+    2465,
+    2703,
+    3251,
+    4507,
+    1990,
+    4484,
+    4859,
+    4345
+  ],
+  "productReviews": [
+    {
+      "productId": 2273,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-06-19T13:01:49.3728985+03:00"
+    },
+    {
+      "productId": 3723,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-10-22T15:30:44.4135377+03:00"
+    },
+    {
+      "productId": 3779,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-01-07T05:01:25.4284036+02:00"
+    }
+  ]
+}

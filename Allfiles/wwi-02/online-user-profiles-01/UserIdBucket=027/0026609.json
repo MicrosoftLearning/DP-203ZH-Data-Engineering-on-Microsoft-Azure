@@ -1,0 +1,33 @@
+{
+  "userId": 26609,
+  "cartId": "dbcd8a2d-f882-4387-8d88-e21c2db9987c",
+  "preferredProducts": [
+    2289,
+    557,
+    855,
+    4991,
+    2539,
+    2773,
+    4567,
+    3267,
+    4625,
+    2588
+  ],
+  "productReviews": [
+    {
+      "productId": 1911,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-05-30T08:14:04.4187904+03:00"
+    },
+    {
+      "productId": 3106,
+      "reviewText": "This Investment Account works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-06-08T08:25:56.7201956+03:00"
+    },
+    {
+      "productId": 3572,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-01-26T21:00:27.2108213+02:00"
+    }
+  ]
+}

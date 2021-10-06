@@ -1,0 +1,36 @@
+{
+  "userId": 38000,
+  "cartId": "9456ab63-8eff-435a-b8be-c101e6671d81",
+  "preferredProducts": [
+    4314,
+    4320,
+    2767
+  ],
+  "productReviews": [
+    {
+      "productId": 4939,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-05-03T21:26:29.0027232+03:00"
+    },
+    {
+      "productId": 1694,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-02-01T17:24:33.5305+02:00"
+    },
+    {
+      "productId": 3666,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-06-18T20:23:03.4506116+03:00"
+    },
+    {
+      "productId": 1638,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-06-07T06:56:04.9759399+03:00"
+    },
+    {
+      "productId": 218,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-12-29T01:15:05.8821968+02:00"
+    }
+  ]
+}

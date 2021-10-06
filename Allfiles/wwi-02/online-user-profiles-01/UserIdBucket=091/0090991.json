@@ -1,0 +1,41 @@
+{
+  "userId": 90991,
+  "cartId": "d2991cec-655b-4d9a-8aaf-fa6b80d9c622",
+  "preferredProducts": [
+    4554,
+    4002,
+    686,
+    536,
+    3325,
+    3973,
+    22,
+    391
+  ],
+  "productReviews": [
+    {
+      "productId": 3226,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-09-10T12:58:03.1528322+03:00"
+    },
+    {
+      "productId": 2283,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-10-13T12:08:00.7101095+03:00"
+    },
+    {
+      "productId": 3616,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-11-09T07:34:24.6151599+02:00"
+    },
+    {
+      "productId": 684,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-01-15T14:42:59.1852566+02:00"
+    },
+    {
+      "productId": 2007,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-04-28T01:24:16.3635799+03:00"
+    }
+  ]
+}

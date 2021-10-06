@@ -1,0 +1,25 @@
+{
+  "userId": 61010,
+  "cartId": "e988917a-9fdf-4e8e-b266-14ccbbd1737f",
+  "preferredProducts": [
+    1978,
+    4634
+  ],
+  "productReviews": [
+    {
+      "productId": 1145,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-04-14T13:03:16.0503958+03:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-12-26T19:53:09.3423284+02:00"
+    },
+    {
+      "productId": 3729,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-08-17T23:01:05.4035654+03:00"
+    }
+  ]
+}

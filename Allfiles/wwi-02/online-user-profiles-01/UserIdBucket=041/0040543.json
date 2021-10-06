@@ -1,0 +1,31 @@
+{
+  "userId": 40543,
+  "cartId": "9bc09beb-2bfc-4561-af5b-31a706911c80",
+  "preferredProducts": [
+    451,
+    4449,
+    4051,
+    1756,
+    1757,
+    4522,
+    1772,
+    239
+  ],
+  "productReviews": [
+    {
+      "productId": 811,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-06-18T12:24:43.9729555+03:00"
+    },
+    {
+      "productId": 4286,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-02-02T00:29:41.7883493+02:00"
+    },
+    {
+      "productId": 4456,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-11-28T21:28:05.260889+02:00"
+    }
+  ]
+}

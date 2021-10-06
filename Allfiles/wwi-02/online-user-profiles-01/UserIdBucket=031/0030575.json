@@ -1,0 +1,31 @@
+{
+  "userId": 30575,
+  "cartId": "bbf44e5c-f4a5-4137-8bc3-347a473ec79e",
+  "preferredProducts": [
+    3605,
+    4801,
+    958
+  ],
+  "productReviews": [
+    {
+      "productId": 1823,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-12-12T02:33:47.2915199+02:00"
+    },
+    {
+      "productId": 126,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-08-09T11:05:23.7043635+03:00"
+    },
+    {
+      "productId": 779,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-08-18T13:41:32.3749384+03:00"
+    },
+    {
+      "productId": 1704,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-08-25T18:51:12.6401318+03:00"
+    }
+  ]
+}

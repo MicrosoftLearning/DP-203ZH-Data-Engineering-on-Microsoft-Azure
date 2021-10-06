@@ -1,0 +1,29 @@
+{
+  "userId": 11973,
+  "cartId": "8047a177-dd5f-4a7c-8783-4b4f9cb5cb9d",
+  "preferredProducts": [
+    3235,
+    2576,
+    3343,
+    3802,
+    1125,
+    3481
+  ],
+  "productReviews": [
+    {
+      "productId": 2113,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-06-17T15:39:09.6204394+03:00"
+    },
+    {
+      "productId": 3169,
+      "reviewText": "this Dynamic is dominant.",
+      "reviewDate": "2019-06-05T13:11:08.6029562+03:00"
+    },
+    {
+      "productId": 3442,
+      "reviewText": "This Fully-configurable works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-10-29T16:50:19.5034309+02:00"
+    }
+  ]
+}

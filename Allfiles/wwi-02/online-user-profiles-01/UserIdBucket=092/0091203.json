@@ -1,0 +1,33 @@
+{
+  "userId": 91203,
+  "cartId": "9df52a6b-3507-4ddc-8bad-beba372bdf1e",
+  "preferredProducts": [
+    4437,
+    238,
+    416,
+    4298,
+    2799
+  ],
+  "productReviews": [
+    {
+      "productId": 4305,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-04-12T09:33:01.5447904+03:00"
+    },
+    {
+      "productId": 2063,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-09-26T17:39:44.9728911+03:00"
+    },
+    {
+      "productId": 819,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-11-08T01:29:41.8868896+02:00"
+    },
+    {
+      "productId": 2275,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-01-25T13:55:26.3897834+02:00"
+    }
+  ]
+}

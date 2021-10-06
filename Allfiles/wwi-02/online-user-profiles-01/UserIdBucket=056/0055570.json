@@ -1,0 +1,40 @@
+{
+  "userId": 55570,
+  "cartId": "123d88e9-bd28-426c-910a-cded710bcd94",
+  "preferredProducts": [
+    4242,
+    828,
+    617,
+    4816,
+    1821,
+    2912,
+    187
+  ],
+  "productReviews": [
+    {
+      "productId": 570,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-02-12T03:43:27.8795472+02:00"
+    },
+    {
+      "productId": 992,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-06-07T15:41:46.2019536+03:00"
+    },
+    {
+      "productId": 4976,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-10-13T17:48:01.9206762+03:00"
+    },
+    {
+      "productId": 1964,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-01-11T02:29:36.9637824+02:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-02-21T14:46:10.8444742+02:00"
+    }
+  ]
+}

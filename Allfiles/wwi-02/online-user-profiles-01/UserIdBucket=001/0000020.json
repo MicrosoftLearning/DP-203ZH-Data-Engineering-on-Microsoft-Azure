@@ -1,0 +1,31 @@
+{
+  "userId": 20,
+  "cartId": "41c8f0bc-d16c-4ab3-954a-ca5e656a052d",
+  "preferredProducts": [
+    2995,
+    1899,
+    1115
+  ],
+  "productReviews": [
+    {
+      "productId": 3310,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-01-08T14:09:40.1484129+02:00"
+    },
+    {
+      "productId": 2602,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-11-03T09:34:35.7053841+02:00"
+    },
+    {
+      "productId": 448,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-10-20T00:47:28.4614365+03:00"
+    },
+    {
+      "productId": 2672,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-11-19T07:54:58.1398766+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 43321,
+  "cartId": "a4e68de9-fb20-4284-950d-eb209305ce2b",
+  "preferredProducts": [
+    1070,
+    3870,
+    3289,
+    1507,
+    2139,
+    3786,
+    3521,
+    2747,
+    628
+  ],
+  "productReviews": [
+    {
+      "productId": 2618,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2018-05-17T12:23:13.2007142+03:00"
+    },
+    {
+      "productId": 2224,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-01-21T19:43:37.5167904+02:00"
+    },
+    {
+      "productId": 3840,
+      "reviewText": "this XSS is revolting.",
+      "reviewDate": "2018-02-05T07:22:14.9319371+02:00"
+    },
+    {
+      "productId": 4745,
+      "reviewText": "this PCI is papery.",
+      "reviewDate": "2018-04-13T19:19:05.584204+03:00"
+    }
+  ]
+}

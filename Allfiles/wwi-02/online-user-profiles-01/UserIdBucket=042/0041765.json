@@ -1,0 +1,30 @@
+{
+  "userId": 41765,
+  "cartId": "e5c88ce9-186d-4a83-ad14-d03f868d4122",
+  "preferredProducts": [
+    633,
+    1499
+  ],
+  "productReviews": [
+    {
+      "productId": 1726,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-08-06T02:32:25.1237789+03:00"
+    },
+    {
+      "productId": 2555,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-08-27T16:43:54.8599722+03:00"
+    },
+    {
+      "productId": 4408,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-08-10T19:12:22.5852308+03:00"
+    },
+    {
+      "productId": 3232,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-06-03T07:14:04.9053286+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 99004,
+  "cartId": "e1ab6935-5b5f-4abf-8f3b-d4f8a944d886",
+  "preferredProducts": [
+    3641,
+    2525,
+    1138,
+    2042,
+    2159,
+    2292,
+    2010,
+    2927
+  ],
+  "productReviews": [
+    {
+      "productId": 472,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-06-06T12:59:38.1537712+03:00"
+    },
+    {
+      "productId": 381,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-08-24T12:38:24.0220048+03:00"
+    },
+    {
+      "productId": 860,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2020-01-20T14:38:05.870041+02:00"
+    },
+    {
+      "productId": 3172,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-12-21T15:21:05.777476+02:00"
+    }
+  ]
+}

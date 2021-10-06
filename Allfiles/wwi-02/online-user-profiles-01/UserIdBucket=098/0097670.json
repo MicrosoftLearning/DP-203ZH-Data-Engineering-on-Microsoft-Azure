@@ -1,0 +1,35 @@
+{
+  "userId": 97670,
+  "cartId": "59cc6d4b-23a0-4ee4-933e-6bcbdf7420f3",
+  "preferredProducts": [
+    1432,
+    1292,
+    803,
+    2670,
+    925,
+    1353,
+    4918
+  ],
+  "productReviews": [
+    {
+      "productId": 3210,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-08-17T17:27:29.1296555+03:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-09-15T21:32:34.3175079+03:00"
+    },
+    {
+      "productId": 356,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-04-11T02:22:23.1995069+03:00"
+    },
+    {
+      "productId": 1963,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2016-09-27T09:25:25.1460572+03:00"
+    }
+  ]
+}

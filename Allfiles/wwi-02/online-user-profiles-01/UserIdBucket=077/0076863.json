@@ -1,0 +1,37 @@
+{
+  "userId": 76863,
+  "cartId": "2dc1ab0c-243a-40da-9f8a-afb315ba1ba2",
+  "preferredProducts": [
+    1260,
+    2567,
+    63,
+    251
+  ],
+  "productReviews": [
+    {
+      "productId": 1566,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-11-30T12:33:25.9077216+02:00"
+    },
+    {
+      "productId": 799,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-07-05T23:29:59.4592353+03:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-07-20T11:25:02.6090084+03:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-04-25T10:49:12.5807205+03:00"
+    },
+    {
+      "productId": 3938,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-01-13T03:51:07.0575881+02:00"
+    }
+  ]
+}

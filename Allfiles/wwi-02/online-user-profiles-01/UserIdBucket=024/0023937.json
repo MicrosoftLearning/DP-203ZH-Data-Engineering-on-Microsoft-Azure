@@ -1,0 +1,26 @@
+{
+  "userId": 23937,
+  "cartId": "35b70b9a-36f5-4e10-9b26-761a77a740a8",
+  "preferredProducts": [
+    3829,
+    3564,
+    3323
+  ],
+  "productReviews": [
+    {
+      "productId": 2104,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-03-16T14:35:00.4216734+02:00"
+    },
+    {
+      "productId": 594,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-05-13T01:53:56.7629635+03:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-03-08T07:04:28.4715313+02:00"
+    }
+  ]
+}

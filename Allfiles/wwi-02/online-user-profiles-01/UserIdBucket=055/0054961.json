@@ -1,0 +1,36 @@
+{
+  "userId": 54961,
+  "cartId": "4cf4eaf4-db88-4791-a1de-481b01ea6bef",
+  "preferredProducts": [
+    1680,
+    3936,
+    4652
+  ],
+  "productReviews": [
+    {
+      "productId": 3571,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-10-05T08:45:17.3646237+03:00"
+    },
+    {
+      "productId": 3914,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-05-01T13:41:21.4756904+03:00"
+    },
+    {
+      "productId": 1405,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-10-29T10:37:59.1262319+02:00"
+    },
+    {
+      "productId": 579,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-08-09T10:03:07.2816151+03:00"
+    },
+    {
+      "productId": 2851,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-12-05T06:20:35.1916124+02:00"
+    }
+  ]
+}

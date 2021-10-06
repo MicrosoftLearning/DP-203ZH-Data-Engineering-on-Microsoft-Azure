@@ -1,0 +1,35 @@
+{
+  "userId": 32895,
+  "cartId": "747ada81-6470-43b7-b3a5-6990e8e27205",
+  "preferredProducts": [
+    2978,
+    3274
+  ],
+  "productReviews": [
+    {
+      "productId": 321,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-07-20T21:55:02.3962461+03:00"
+    },
+    {
+      "productId": 4315,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-08-02T18:15:20.1865624+03:00"
+    },
+    {
+      "productId": 3336,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-03-11T15:53:57.4932041+02:00"
+    },
+    {
+      "productId": 2266,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-06-14T12:14:18.0601649+03:00"
+    },
+    {
+      "productId": 1012,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-02-06T01:05:02.3438175+02:00"
+    }
+  ]
+}

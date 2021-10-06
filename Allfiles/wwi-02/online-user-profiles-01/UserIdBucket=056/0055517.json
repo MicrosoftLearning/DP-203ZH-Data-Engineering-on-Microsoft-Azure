@@ -1,0 +1,28 @@
+{
+  "userId": 55517,
+  "cartId": "ae3353ab-4597-4e93-b478-206bf354fa5f",
+  "preferredProducts": [
+    2584,
+    2982,
+    1023,
+    2017,
+    4490
+  ],
+  "productReviews": [
+    {
+      "productId": 1656,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-01-09T19:55:29.3049604+02:00"
+    },
+    {
+      "productId": 1767,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-06-06T03:04:42.5656601+03:00"
+    },
+    {
+      "productId": 272,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-06-01T22:01:49.853976+03:00"
+    }
+  ]
+}

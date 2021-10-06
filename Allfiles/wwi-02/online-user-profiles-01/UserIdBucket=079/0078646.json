@@ -1,0 +1,28 @@
+{
+  "userId": 78646,
+  "cartId": "e8178555-87eb-49f8-b630-a973b3adb1c6",
+  "preferredProducts": [
+    4205,
+    1455,
+    4035,
+    3699,
+    4549
+  ],
+  "productReviews": [
+    {
+      "productId": 3586,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-12-21T20:41:43.0543926+02:00"
+    },
+    {
+      "productId": 4587,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-03-05T10:13:24.292069+02:00"
+    },
+    {
+      "productId": 4170,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-02-21T19:38:35.0249944+02:00"
+    }
+  ]
+}

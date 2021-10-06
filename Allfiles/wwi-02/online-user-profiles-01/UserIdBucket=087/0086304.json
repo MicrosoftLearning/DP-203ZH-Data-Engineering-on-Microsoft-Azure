@@ -1,0 +1,30 @@
+{
+  "userId": 86304,
+  "cartId": "985dda1e-6732-41e5-8a50-7bd829a0f03b",
+  "preferredProducts": [
+    3854,
+    4590
+  ],
+  "productReviews": [
+    {
+      "productId": 2247,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-08-19T13:08:27.1976048+03:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-09-19T23:11:50.3205165+03:00"
+    },
+    {
+      "productId": 4419,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-12-24T01:25:28.607669+02:00"
+    },
+    {
+      "productId": 416,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-08-26T13:52:40.1773578+03:00"
+    }
+  ]
+}

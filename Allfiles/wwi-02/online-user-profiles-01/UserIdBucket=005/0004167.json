@@ -1,0 +1,33 @@
+{
+  "userId": 4167,
+  "cartId": "65d6f0a8-a2db-4776-a9c9-c577b8bb03f4",
+  "preferredProducts": [
+    2562,
+    151,
+    1959,
+    2944,
+    4390,
+    4387,
+    1977,
+    967,
+    3553,
+    4335
+  ],
+  "productReviews": [
+    {
+      "productId": 3594,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-08-09T01:58:58.3078141+03:00"
+    },
+    {
+      "productId": 4145,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-11-07T13:32:11.0784611+02:00"
+    },
+    {
+      "productId": 3725,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-04-08T05:17:05.1715425+03:00"
+    }
+  ]
+}

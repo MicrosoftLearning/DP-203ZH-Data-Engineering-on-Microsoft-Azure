@@ -1,0 +1,38 @@
+{
+  "userId": 30294,
+  "cartId": "7d4e7dfc-cb84-4f7a-9b50-743b9a47c105",
+  "preferredProducts": [
+    2132,
+    1557,
+    157,
+    4908,
+    3700,
+    2778,
+    579,
+    1494,
+    291,
+    1554
+  ],
+  "productReviews": [
+    {
+      "productId": 1067,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-11-23T07:16:46.2836544+02:00"
+    },
+    {
+      "productId": 3100,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-02-05T15:11:37.3102876+02:00"
+    },
+    {
+      "productId": 3685,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-11-16T16:16:57.6803011+02:00"
+    },
+    {
+      "productId": 1811,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-02-19T07:28:08.2834524+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 6455,
+  "cartId": "6fbf1a9c-8735-4acb-87b1-9116410ea370",
+  "preferredProducts": [
+    205,
+    1137,
+    2516,
+    3401,
+    3175,
+    3558,
+    4744
+  ],
+  "productReviews": [
+    {
+      "productId": 47,
+      "reviewText": "this Awesome Metal Computer is light-hearted.",
+      "reviewDate": "2018-10-02T02:55:40.6019636+03:00"
+    },
+    {
+      "productId": 2538,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-03-03T08:31:46.3987372+02:00"
+    },
+    {
+      "productId": 1888,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-12-14T07:53:11.9154579+02:00"
+    },
+    {
+      "productId": 1664,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-10-05T04:46:09.4637137+03:00"
+    }
+  ]
+}

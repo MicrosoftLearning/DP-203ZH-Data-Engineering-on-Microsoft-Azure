@@ -1,0 +1,26 @@
+{
+  "userId": 81426,
+  "cartId": "d012761a-f35e-4098-a889-28e5122f7245",
+  "preferredProducts": [
+    4647,
+    2763,
+    1906
+  ],
+  "productReviews": [
+    {
+      "productId": 1894,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-08-16T09:09:33.885462+03:00"
+    },
+    {
+      "productId": 889,
+      "reviewText": "this Awesome Concrete Table is standard.",
+      "reviewDate": "2018-08-23T08:25:44.8983222+03:00"
+    },
+    {
+      "productId": 3469,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-02-20T20:18:26.4106842+02:00"
+    }
+  ]
+}

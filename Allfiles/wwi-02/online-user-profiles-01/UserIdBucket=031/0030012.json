@@ -1,0 +1,37 @@
+{
+  "userId": 30012,
+  "cartId": "4e32d233-e50b-44c9-9ea7-258516cbd0ec",
+  "preferredProducts": [
+    3642,
+    4639,
+    1059,
+    4555,
+    2196,
+    2312,
+    2921,
+    3662,
+    495
+  ],
+  "productReviews": [
+    {
+      "productId": 1378,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-03-01T20:06:07.9305257+02:00"
+    },
+    {
+      "productId": 1232,
+      "reviewText": "This Avon works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2019-08-05T13:40:56.7662518+03:00"
+    },
+    {
+      "productId": 2694,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-05-29T12:05:39.5950142+03:00"
+    },
+    {
+      "productId": 3196,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-01-02T09:31:28.504297+02:00"
+    }
+  ]
+}

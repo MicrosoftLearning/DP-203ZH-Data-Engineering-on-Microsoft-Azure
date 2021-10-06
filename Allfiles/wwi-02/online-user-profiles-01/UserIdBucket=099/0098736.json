@@ -1,0 +1,37 @@
+{
+  "userId": 98736,
+  "cartId": "d8aa25bd-f7a7-437f-bb6b-3d8e05132b83",
+  "preferredProducts": [
+    1274,
+    2145,
+    4076,
+    2398
+  ],
+  "productReviews": [
+    {
+      "productId": 2361,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-12-02T01:40:24.1187824+02:00"
+    },
+    {
+      "productId": 224,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-05-22T20:16:55.2836449+03:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-09-28T22:00:01.1885414+03:00"
+    },
+    {
+      "productId": 1835,
+      "reviewText": "This Crest works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2019-02-20T07:14:23.5749527+02:00"
+    },
+    {
+      "productId": 888,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-05-13T02:43:34.6458231+03:00"
+    }
+  ]
+}

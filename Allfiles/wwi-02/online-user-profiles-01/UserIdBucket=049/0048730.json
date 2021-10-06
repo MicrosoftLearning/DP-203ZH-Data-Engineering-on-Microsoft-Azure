@@ -1,0 +1,31 @@
+{
+  "userId": 48730,
+  "cartId": "09abd407-4dbb-4c04-891a-117e2ef073c8",
+  "preferredProducts": [
+    4786,
+    4918,
+    1610
+  ],
+  "productReviews": [
+    {
+      "productId": 4082,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-09-11T18:49:11.1493231+03:00"
+    },
+    {
+      "productId": 4103,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-06-17T16:27:34.9963092+03:00"
+    },
+    {
+      "productId": 2969,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-04-08T15:25:19.6660612+03:00"
+    },
+    {
+      "productId": 4127,
+      "reviewText": "this interface is snowy.",
+      "reviewDate": "2017-12-17T10:15:56.0776301+02:00"
+    }
+  ]
+}

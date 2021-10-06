@@ -1,0 +1,29 @@
+{
+  "userId": 99918,
+  "cartId": "1fa64bb6-14f5-48d8-bc42-1d679dc948d7",
+  "preferredProducts": [
+    776,
+    2711,
+    1095,
+    1595,
+    313,
+    3290
+  ],
+  "productReviews": [
+    {
+      "productId": 4566,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-01-20T06:26:21.6392998+02:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-07-13T17:52:20.1750421+03:00"
+    },
+    {
+      "productId": 2225,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2020-04-16T12:37:39.4367707+03:00"
+    }
+  ]
+}

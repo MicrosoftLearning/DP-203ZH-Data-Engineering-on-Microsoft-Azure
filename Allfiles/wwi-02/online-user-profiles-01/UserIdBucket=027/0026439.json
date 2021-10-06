@@ -1,0 +1,32 @@
+{
+  "userId": 26439,
+  "cartId": "89a34b64-01b3-4cb7-8b55-75a735358d34",
+  "preferredProducts": [
+    2220,
+    1450,
+    4657,
+    2098
+  ],
+  "productReviews": [
+    {
+      "productId": 3157,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-09-01T22:21:16.9815235+03:00"
+    },
+    {
+      "productId": 1796,
+      "reviewText": "This blue works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2018-02-16T04:33:15.5169492+02:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-04-06T11:43:47.3047558+03:00"
+    },
+    {
+      "productId": 3257,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-11-22T04:07:58.8710297+02:00"
+    }
+  ]
+}

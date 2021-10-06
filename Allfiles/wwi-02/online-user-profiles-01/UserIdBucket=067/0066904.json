@@ -1,0 +1,31 @@
+{
+  "userId": 66904,
+  "cartId": "7c8bde38-9bf6-4616-bff4-314996eb5f5c",
+  "preferredProducts": [
+    1956,
+    3180,
+    4498
+  ],
+  "productReviews": [
+    {
+      "productId": 1146,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-01-28T09:49:40.6618597+02:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-05-05T06:24:09.5297846+03:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-10-17T16:06:46.4143522+03:00"
+    },
+    {
+      "productId": 4507,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2017-11-05T01:22:04.3984554+02:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 90077,
+  "cartId": "4c06ba78-779e-4e8e-96c9-fd59efa9444b",
+  "preferredProducts": [
+    2170,
+    1079,
+    4753,
+    2504,
+    896,
+    4180,
+    1547,
+    4092,
+    3579,
+    146
+  ],
+  "productReviews": [
+    {
+      "productId": 4736,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-10-15T17:03:09.8091818+03:00"
+    },
+    {
+      "productId": 4003,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-05-17T15:28:36.2280576+03:00"
+    },
+    {
+      "productId": 2391,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-07-18T01:17:27.2290386+03:00"
+    },
+    {
+      "productId": 1958,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-11-29T22:12:05.4202815+02:00"
+    },
+    {
+      "productId": 699,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-09-01T08:05:05.3018279+03:00"
+    }
+  ]
+}

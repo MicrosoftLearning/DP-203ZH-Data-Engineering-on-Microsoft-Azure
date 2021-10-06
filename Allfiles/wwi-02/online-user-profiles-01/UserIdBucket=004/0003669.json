@@ -1,0 +1,41 @@
+{
+  "userId": 3669,
+  "cartId": "18e77545-1f97-4a24-8d8a-76515106dc13",
+  "preferredProducts": [
+    4213,
+    84,
+    1578,
+    1399,
+    2601,
+    210,
+    1836,
+    2921
+  ],
+  "productReviews": [
+    {
+      "productId": 3764,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-08-13T03:38:59.0182287+03:00"
+    },
+    {
+      "productId": 1096,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-12-22T21:11:37.1330391+02:00"
+    },
+    {
+      "productId": 3928,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-12-30T11:01:37.9229722+02:00"
+    },
+    {
+      "productId": 1467,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-02-01T17:04:49.5106815+02:00"
+    },
+    {
+      "productId": 645,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-09-01T17:49:27.1250096+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 40219,
+  "cartId": "b4a2d429-76dd-4d84-b357-246b78beb95f",
+  "preferredProducts": [
+    2262,
+    2928,
+    3876,
+    3235,
+    3730,
+    4451,
+    4331,
+    3069,
+    4184,
+    3241
+  ],
+  "productReviews": [
+    {
+      "productId": 391,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-12-30T09:46:52.3151122+02:00"
+    },
+    {
+      "productId": 4831,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-09-08T01:05:00.1790929+03:00"
+    },
+    {
+      "productId": 2600,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-01-10T03:45:57.71855+02:00"
+    },
+    {
+      "productId": 2195,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-08-05T08:05:08.0981047+03:00"
+    }
+  ]
+}

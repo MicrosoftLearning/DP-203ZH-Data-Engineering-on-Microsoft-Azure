@@ -1,0 +1,41 @@
+{
+  "userId": 12341,
+  "cartId": "c562cb19-9030-497a-a57b-4efaba5700b1",
+  "preferredProducts": [
+    3432,
+    938,
+    385,
+    48,
+    4663,
+    4090,
+    52,
+    4780
+  ],
+  "productReviews": [
+    {
+      "productId": 4091,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-08-21T10:22:24.8851186+03:00"
+    },
+    {
+      "productId": 3464,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-03-09T19:09:43.3921549+02:00"
+    },
+    {
+      "productId": 30,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-10-04T09:39:36.5625139+03:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-07-29T21:03:18.6924342+03:00"
+    },
+    {
+      "productId": 1288,
+      "reviewText": "This gold works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-03-01T00:07:11.4050407+02:00"
+    }
+  ]
+}

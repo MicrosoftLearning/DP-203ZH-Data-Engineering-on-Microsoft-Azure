@@ -1,0 +1,33 @@
+{
+  "userId": 5681,
+  "cartId": "a26034f1-9e37-498f-9bb5-5a45225dff57",
+  "preferredProducts": [
+    987,
+    1735,
+    1831,
+    3392,
+    1295
+  ],
+  "productReviews": [
+    {
+      "productId": 4946,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-08-11T16:38:26.4264012+03:00"
+    },
+    {
+      "productId": 1239,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-05-30T04:08:14.4686854+03:00"
+    },
+    {
+      "productId": 4657,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-06-03T18:26:37.6616567+03:00"
+    },
+    {
+      "productId": 1680,
+      "reviewText": "this deposit is mellow.",
+      "reviewDate": "2018-09-21T12:38:33.0097314+03:00"
+    }
+  ]
+}

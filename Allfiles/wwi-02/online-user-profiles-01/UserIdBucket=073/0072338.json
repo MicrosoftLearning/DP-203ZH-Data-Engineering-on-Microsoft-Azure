@@ -1,0 +1,30 @@
+{
+  "userId": 72338,
+  "cartId": "a214a4cc-b6f7-4d07-9c5f-4342b50639eb",
+  "preferredProducts": [
+    1996,
+    2441
+  ],
+  "productReviews": [
+    {
+      "productId": 1270,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-12-20T12:46:47.6822335+02:00"
+    },
+    {
+      "productId": 4053,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-09-09T16:53:49.0047515+03:00"
+    },
+    {
+      "productId": 187,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-08-25T02:04:45.9533745+03:00"
+    },
+    {
+      "productId": 1494,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-07-21T14:03:14.4807433+03:00"
+    }
+  ]
+}

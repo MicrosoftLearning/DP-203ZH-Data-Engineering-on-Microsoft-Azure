@@ -1,0 +1,36 @@
+{
+  "userId": 10622,
+  "cartId": "c705fe05-5198-4d36-9ac1-f9110fef5b25",
+  "preferredProducts": [
+    3924,
+    210,
+    3396,
+    4102,
+    1886,
+    3560,
+    4465,
+    3941
+  ],
+  "productReviews": [
+    {
+      "productId": 3957,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-03-09T18:10:39.2011059+02:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-11-12T15:01:20.7403011+02:00"
+    },
+    {
+      "productId": 2587,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-07-12T02:06:31.8317094+03:00"
+    },
+    {
+      "productId": 3474,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-09-01T21:53:47.8640358+03:00"
+    }
+  ]
+}

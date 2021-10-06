@@ -1,0 +1,30 @@
+{
+  "userId": 42668,
+  "cartId": "d1b0fe8c-dc41-404a-9254-b40f3c47515a",
+  "preferredProducts": [
+    4500,
+    4987,
+    950,
+    356,
+    1162,
+    641,
+    1391
+  ],
+  "productReviews": [
+    {
+      "productId": 345,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-08-05T03:38:02.6649546+03:00"
+    },
+    {
+      "productId": 3432,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-01-20T15:56:44.9099942+02:00"
+    },
+    {
+      "productId": 4670,
+      "reviewText": "this Borders is flirty.",
+      "reviewDate": "2019-10-11T21:22:08.2222165+03:00"
+    }
+  ]
+}

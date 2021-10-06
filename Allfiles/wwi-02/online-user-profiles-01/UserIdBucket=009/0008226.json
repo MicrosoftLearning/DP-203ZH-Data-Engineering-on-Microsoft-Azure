@@ -1,0 +1,28 @@
+{
+  "userId": 8226,
+  "cartId": "5ead7575-9be9-4c80-9f0a-664e62dafcf4",
+  "preferredProducts": [
+    563,
+    3534,
+    667,
+    4061,
+    4151,
+    223,
+    3638,
+    3540,
+    3877,
+    1849
+  ],
+  "productReviews": [
+    {
+      "productId": 1362,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-12-20T05:56:57.0235704+02:00"
+    },
+    {
+      "productId": 4424,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-01-14T01:46:05.7231998+02:00"
+    }
+  ]
+}

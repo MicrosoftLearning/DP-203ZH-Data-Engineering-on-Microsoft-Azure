@@ -1,0 +1,30 @@
+{
+  "userId": 14569,
+  "cartId": "968e569b-e9dd-4c2c-88e9-c99e64aafab2",
+  "preferredProducts": [
+    2114,
+    4670,
+    2498,
+    3397,
+    4907,
+    1519,
+    1431
+  ],
+  "productReviews": [
+    {
+      "productId": 1893,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-12-23T15:15:32.4393667+02:00"
+    },
+    {
+      "productId": 2711,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-05-09T13:39:20.5863995+03:00"
+    },
+    {
+      "productId": 520,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-11-11T10:22:32.4844845+02:00"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "userId": 42503,
+  "cartId": "92bb246c-20a6-4a81-adb5-69b54c88fe0a",
+  "preferredProducts": [
+    155,
+    115
+  ],
+  "productReviews": [
+    {
+      "productId": 439,
+      "reviewText": "This Program works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-08-23T10:34:21.2838838+03:00"
+    },
+    {
+      "productId": 916,
+      "reviewText": "this XSS is slurpee.",
+      "reviewDate": "2017-05-07T08:01:56.6700837+03:00"
+    }
+  ]
+}

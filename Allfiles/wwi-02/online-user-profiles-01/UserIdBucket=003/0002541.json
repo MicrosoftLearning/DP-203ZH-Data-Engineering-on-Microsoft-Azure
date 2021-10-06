@@ -1,0 +1,36 @@
+{
+  "userId": 2541,
+  "cartId": "5eac6a12-b743-4c2c-9895-abc1987d741d",
+  "preferredProducts": [
+    263,
+    212,
+    4682
+  ],
+  "productReviews": [
+    {
+      "productId": 1012,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-01-23T17:59:37.1180121+02:00"
+    },
+    {
+      "productId": 4832,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-09-16T20:21:06.8080453+03:00"
+    },
+    {
+      "productId": 423,
+      "reviewText": "this withdrawal is flirty.",
+      "reviewDate": "2020-04-22T04:18:46.9612781+03:00"
+    },
+    {
+      "productId": 4652,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-02-18T17:11:19.724367+02:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-07-28T10:19:26.1540021+03:00"
+    }
+  ]
+}

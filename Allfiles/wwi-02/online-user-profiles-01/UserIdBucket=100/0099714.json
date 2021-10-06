@@ -1,0 +1,30 @@
+{
+  "userId": 99714,
+  "cartId": "0f69c370-cffc-4218-b7f2-2049188dcc7c",
+  "preferredProducts": [
+    4818,
+    912
+  ],
+  "productReviews": [
+    {
+      "productId": 2370,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-01-11T06:07:29.1625013+02:00"
+    },
+    {
+      "productId": 3383,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-09-20T20:27:37.1829128+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-11-01T23:21:00.9333302+02:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-03-02T12:12:10.1190003+02:00"
+    }
+  ]
+}

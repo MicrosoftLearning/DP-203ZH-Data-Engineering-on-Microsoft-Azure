@@ -1,0 +1,38 @@
+{
+  "userId": 60564,
+  "cartId": "fdcf7047-df20-4656-a0bd-6bb2aaa854fc",
+  "preferredProducts": [
+    3045,
+    50,
+    946,
+    3600,
+    2478,
+    1125,
+    93,
+    857,
+    2032,
+    3747
+  ],
+  "productReviews": [
+    {
+      "productId": 2542,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-08-09T04:06:34.3600366+03:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-05-06T04:19:26.6757136+03:00"
+    },
+    {
+      "productId": 4465,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-08-22T11:38:40.2537698+03:00"
+    },
+    {
+      "productId": 101,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-12-17T04:19:42.6340363+02:00"
+    }
+  ]
+}

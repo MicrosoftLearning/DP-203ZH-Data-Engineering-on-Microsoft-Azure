@@ -1,0 +1,34 @@
+{
+  "userId": 23423,
+  "cartId": "c03bc63c-5ebb-4f91-a914-4be74a9f6a27",
+  "preferredProducts": [
+    3921,
+    3661,
+    4176,
+    2796,
+    2384,
+    4956
+  ],
+  "productReviews": [
+    {
+      "productId": 28,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-04-10T05:10:29.5893989+03:00"
+    },
+    {
+      "productId": 3232,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-12-10T14:23:02.1885592+02:00"
+    },
+    {
+      "productId": 4557,
+      "reviewText": "this indigo is brown.",
+      "reviewDate": "2018-05-13T05:20:29.0887139+03:00"
+    },
+    {
+      "productId": 2782,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-07-01T22:41:44.9229977+03:00"
+    }
+  ]
+}

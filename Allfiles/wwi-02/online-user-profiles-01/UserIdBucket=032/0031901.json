@@ -1,0 +1,34 @@
+{
+  "userId": 31901,
+  "cartId": "f549f0f6-de52-4a0c-9eb8-3711f78fc7c2",
+  "preferredProducts": [
+    4288,
+    1393,
+    4832,
+    4589,
+    4141,
+    1129
+  ],
+  "productReviews": [
+    {
+      "productId": 3328,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-04-12T20:50:55.8520313+03:00"
+    },
+    {
+      "productId": 2844,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-03-06T19:59:24.7906342+02:00"
+    },
+    {
+      "productId": 2442,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-09-03T22:03:01.5644132+03:00"
+    },
+    {
+      "productId": 1728,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2020-02-17T23:42:01.6304502+02:00"
+    }
+  ]
+}

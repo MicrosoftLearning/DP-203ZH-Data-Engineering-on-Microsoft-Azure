@@ -1,0 +1,28 @@
+{
+  "userId": 88571,
+  "cartId": "2bb5a223-22a1-45db-a130-335dfbfcf8c0",
+  "preferredProducts": [
+    2929,
+    243,
+    4207,
+    4047,
+    2556
+  ],
+  "productReviews": [
+    {
+      "productId": 582,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-08-01T19:46:48.1988218+03:00"
+    },
+    {
+      "productId": 3949,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-09-25T10:37:54.8160771+03:00"
+    },
+    {
+      "productId": 247,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-10-31T16:28:44.0107537+02:00"
+    }
+  ]
+}

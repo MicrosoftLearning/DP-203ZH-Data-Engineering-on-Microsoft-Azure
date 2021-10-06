@@ -1,0 +1,30 @@
+{
+  "userId": 42128,
+  "cartId": "5442ca74-9628-4ecd-997a-612ffd3e4be0",
+  "preferredProducts": [
+    165,
+    4144
+  ],
+  "productReviews": [
+    {
+      "productId": 228,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-10-25T22:09:04.7477227+03:00"
+    },
+    {
+      "productId": 231,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-11-02T13:14:29.0694746+02:00"
+    },
+    {
+      "productId": 2803,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-05-10T22:56:35.3321555+03:00"
+    },
+    {
+      "productId": 3622,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-12-30T02:50:32.8740497+02:00"
+    }
+  ]
+}

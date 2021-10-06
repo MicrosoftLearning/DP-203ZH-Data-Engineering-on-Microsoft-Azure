@@ -1,0 +1,24 @@
+{
+  "userId": 3333,
+  "cartId": "03ffd663-e75f-4189-a6af-c6f2976f5821",
+  "preferredProducts": [
+    970,
+    2887,
+    3932,
+    4133,
+    300,
+    509
+  ],
+  "productReviews": [
+    {
+      "productId": 532,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-12-18T06:43:33.7546822+02:00"
+    },
+    {
+      "productId": 98,
+      "reviewText": "This architect works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-09-07T19:04:29.7738474+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 88602,
+  "cartId": "9f307f18-40de-4977-ab66-0bfb752f18d5",
+  "preferredProducts": [
+    1154,
+    3129,
+    1775,
+    4048,
+    2801,
+    2486,
+    4521
+  ],
+  "productReviews": [
+    {
+      "productId": 4044,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-10-14T14:19:19.99653+03:00"
+    },
+    {
+      "productId": 4501,
+      "reviewText": "this bluetooth is mellow.",
+      "reviewDate": "2019-07-26T03:36:43.3812427+03:00"
+    }
+  ]
+}

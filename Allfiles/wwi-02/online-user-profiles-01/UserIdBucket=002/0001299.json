@@ -1,0 +1,27 @@
+{
+  "userId": 1299,
+  "cartId": "f59c3da4-5d22-46de-a418-9ee12e072406",
+  "preferredProducts": [
+    285,
+    1201,
+    474,
+    4199,
+    4162,
+    4569,
+    1539,
+    2334,
+    2918
+  ],
+  "productReviews": [
+    {
+      "productId": 3930,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-08-16T23:13:55.3729015+03:00"
+    },
+    {
+      "productId": 4897,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-12-13T03:12:34.4904755+02:00"
+    }
+  ]
+}

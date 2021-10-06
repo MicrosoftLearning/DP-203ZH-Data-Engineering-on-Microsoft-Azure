@@ -1,0 +1,30 @@
+{
+  "userId": 62098,
+  "cartId": "06190cf6-37bc-4953-9eb9-2625d0ce15ff",
+  "preferredProducts": [
+    3974,
+    723,
+    4972,
+    4178,
+    1778,
+    4265,
+    404
+  ],
+  "productReviews": [
+    {
+      "productId": 17,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-12-16T04:04:45.0786348+02:00"
+    },
+    {
+      "productId": 1594,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-07-02T09:48:43.8463744+03:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2020-02-17T14:20:27.7214126+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 72497,
+  "cartId": "fc2b33e4-faea-443a-a064-35a1c040dc16",
+  "preferredProducts": [
+    452,
+    1426,
+    3846,
+    602
+  ],
+  "productReviews": [
+    {
+      "productId": 2140,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-09-26T12:21:04.9849272+03:00"
+    },
+    {
+      "productId": 2417,
+      "reviewText": "this Circles is mellow.",
+      "reviewDate": "2018-05-24T08:59:30.6253568+03:00"
+    },
+    {
+      "productId": 3423,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-07-03T16:45:32.8809469+03:00"
+    }
+  ]
+}

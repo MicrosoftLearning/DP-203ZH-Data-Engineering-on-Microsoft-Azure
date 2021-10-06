@@ -1,0 +1,33 @@
+{
+  "userId": 48108,
+  "cartId": "5ab83842-6739-411b-8973-9a72476d26f6",
+  "preferredProducts": [
+    3129,
+    4327,
+    1796,
+    880,
+    1001
+  ],
+  "productReviews": [
+    {
+      "productId": 3464,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-07-02T00:08:36.4690062+03:00"
+    },
+    {
+      "productId": 3634,
+      "reviewText": "this Practical Concrete Cheese is nifty.",
+      "reviewDate": "2020-04-30T12:34:58.5878331+03:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-12-05T14:10:31.1561456+02:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-08-22T01:23:59.217298+03:00"
+    }
+  ]
+}

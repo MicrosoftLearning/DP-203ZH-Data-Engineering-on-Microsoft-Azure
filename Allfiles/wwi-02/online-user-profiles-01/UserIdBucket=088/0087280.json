@@ -1,0 +1,31 @@
+{
+  "userId": 87280,
+  "cartId": "dd4489ec-65a1-4f79-a0d2-743e34821a12",
+  "preferredProducts": [
+    235,
+    4444,
+    3825,
+    4926,
+    4239,
+    2689,
+    561,
+    652
+  ],
+  "productReviews": [
+    {
+      "productId": 2869,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-10-29T10:00:28.4145951+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-10-20T11:16:37.6311486+03:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-12-29T00:05:59.04778+02:00"
+    }
+  ]
+}

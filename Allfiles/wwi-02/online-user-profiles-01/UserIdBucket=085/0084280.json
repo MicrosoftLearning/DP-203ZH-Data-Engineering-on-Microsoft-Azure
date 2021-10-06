@@ -1,0 +1,30 @@
+{
+  "userId": 84280,
+  "cartId": "9d5f7bba-fe6b-4811-8a11-2d05d68876b1",
+  "preferredProducts": [
+    1258,
+    3358,
+    4461,
+    2133,
+    1236,
+    4743,
+    741
+  ],
+  "productReviews": [
+    {
+      "productId": 2702,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-12-31T13:06:00.5457172+02:00"
+    },
+    {
+      "productId": 804,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-05-21T03:20:04.6891256+03:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-10-22T01:08:48.9716345+03:00"
+    }
+  ]
+}

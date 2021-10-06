@@ -1,0 +1,36 @@
+{
+  "userId": 37654,
+  "cartId": "66d59320-cd8b-4366-889f-7f9ba2739a65",
+  "preferredProducts": [
+    384,
+    1571,
+    3045,
+    1133,
+    3005,
+    3751,
+    4513,
+    4183
+  ],
+  "productReviews": [
+    {
+      "productId": 3934,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-04-23T10:57:06.5528817+03:00"
+    },
+    {
+      "productId": 305,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-05-03T12:25:41.7399233+03:00"
+    },
+    {
+      "productId": 1418,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-07-15T08:00:56.6273273+03:00"
+    },
+    {
+      "productId": 932,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-08-08T09:31:37.3159883+03:00"
+    }
+  ]
+}

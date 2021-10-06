@@ -1,0 +1,33 @@
+{
+  "userId": 44773,
+  "cartId": "97e486b8-1b72-4162-8714-c3c436117273",
+  "preferredProducts": [
+    3300,
+    3388,
+    2100,
+    4845,
+    281,
+    3742,
+    3902,
+    1529,
+    2008,
+    4898
+  ],
+  "productReviews": [
+    {
+      "productId": 1371,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-12-11T13:38:16.2972775+02:00"
+    },
+    {
+      "productId": 3144,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-06-30T19:20:00.6134786+03:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-05-04T23:02:53.4113321+03:00"
+    }
+  ]
+}

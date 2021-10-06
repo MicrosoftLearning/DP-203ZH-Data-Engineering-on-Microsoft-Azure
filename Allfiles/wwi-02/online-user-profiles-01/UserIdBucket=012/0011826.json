@@ -1,0 +1,33 @@
+{
+  "userId": 11826,
+  "cartId": "4c67eea8-2ba7-4dda-b5dc-0533b2d577da",
+  "preferredProducts": [
+    3274,
+    2608,
+    1664,
+    361,
+    1383,
+    3065,
+    2362,
+    4695,
+    4076,
+    846
+  ],
+  "productReviews": [
+    {
+      "productId": 1917,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-06-19T17:37:33.1952944+03:00"
+    },
+    {
+      "productId": 4851,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-07-05T16:44:20.6500381+03:00"
+    },
+    {
+      "productId": 4040,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-09-20T13:59:50.0242417+03:00"
+    }
+  ]
+}

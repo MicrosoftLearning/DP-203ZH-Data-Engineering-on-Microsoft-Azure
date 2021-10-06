@@ -1,0 +1,25 @@
+{
+  "userId": 57907,
+  "cartId": "c3d9ddd8-aa5d-48dc-9cf6-a129f3bfa3be",
+  "preferredProducts": [
+    255,
+    3955
+  ],
+  "productReviews": [
+    {
+      "productId": 310,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-03-20T11:26:49.7628896+02:00"
+    },
+    {
+      "productId": 4254,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-01-22T10:53:17.2274479+02:00"
+    },
+    {
+      "productId": 646,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-08-22T16:52:53.0969143+03:00"
+    }
+  ]
+}

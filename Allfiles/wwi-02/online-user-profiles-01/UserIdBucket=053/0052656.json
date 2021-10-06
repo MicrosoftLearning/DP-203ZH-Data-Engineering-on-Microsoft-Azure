@@ -1,0 +1,33 @@
+{
+  "userId": 52656,
+  "cartId": "d23f2dcf-7d10-4ad6-b34d-6d476a6025bb",
+  "preferredProducts": [
+    1648,
+    3213,
+    5000,
+    3072,
+    4229,
+    1315,
+    1210,
+    3288,
+    482,
+    1349
+  ],
+  "productReviews": [
+    {
+      "productId": 1979,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-12-20T08:29:06.2780622+02:00"
+    },
+    {
+      "productId": 4867,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-06-24T00:52:08.178847+03:00"
+    },
+    {
+      "productId": 234,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-02-18T12:27:14.9530558+02:00"
+    }
+  ]
+}

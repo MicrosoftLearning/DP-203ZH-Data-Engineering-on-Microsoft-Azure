@@ -1,0 +1,26 @@
+{
+  "userId": 11438,
+  "cartId": "62e11325-ee46-47f6-8ab5-5a10ce3eea48",
+  "preferredProducts": [
+    2253,
+    1991,
+    1528
+  ],
+  "productReviews": [
+    {
+      "productId": 1971,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-04-11T10:21:52.5716836+03:00"
+    },
+    {
+      "productId": 4306,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-11-03T14:05:40.0834185+02:00"
+    },
+    {
+      "productId": 4070,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-11-02T21:05:20.5852415+02:00"
+    }
+  ]
+}

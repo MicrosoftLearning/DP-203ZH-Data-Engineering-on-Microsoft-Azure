@@ -1,0 +1,35 @@
+{
+  "userId": 97394,
+  "cartId": "b5a6d021-a573-4075-92ae-dbe10e61a9f2",
+  "preferredProducts": [
+    3561,
+    3302,
+    1590,
+    1679,
+    1548,
+    2739,
+    2486
+  ],
+  "productReviews": [
+    {
+      "productId": 836,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-09-13T08:26:24.5269167+03:00"
+    },
+    {
+      "productId": 3095,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-04-09T00:35:54.6111296+03:00"
+    },
+    {
+      "productId": 2827,
+      "reviewText": "this Idaho is revolting.",
+      "reviewDate": "2019-06-07T17:11:45.0965657+03:00"
+    },
+    {
+      "productId": 3554,
+      "reviewText": "this circuit is light-hearted.",
+      "reviewDate": "2016-09-12T00:55:59.1044632+03:00"
+    }
+  ]
+}

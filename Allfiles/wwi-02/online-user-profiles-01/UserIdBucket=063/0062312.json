@@ -1,0 +1,39 @@
+{
+  "userId": 62312,
+  "cartId": "b59ccfa8-73aa-4e02-a9cd-b1aea37ce0ba",
+  "preferredProducts": [
+    1409,
+    2105,
+    3985,
+    4468,
+    3272,
+    855
+  ],
+  "productReviews": [
+    {
+      "productId": 3545,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-03-17T02:02:55.7360037+02:00"
+    },
+    {
+      "productId": 3300,
+      "reviewText": "this generate is smooth.",
+      "reviewDate": "2019-01-06T06:03:47.0729624+02:00"
+    },
+    {
+      "productId": 510,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-05-22T20:58:56.9119816+03:00"
+    },
+    {
+      "productId": 4187,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-06-19T03:54:04.0565204+03:00"
+    },
+    {
+      "productId": 1174,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2016-09-08T08:43:06.3329348+03:00"
+    }
+  ]
+}

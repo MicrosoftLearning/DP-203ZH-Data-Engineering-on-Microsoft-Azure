@@ -1,0 +1,39 @@
+{
+  "userId": 26216,
+  "cartId": "2da835ee-6707-47b4-802d-f659f56836d1",
+  "preferredProducts": [
+    1300,
+    1633,
+    4652,
+    2199,
+    2637,
+    3477
+  ],
+  "productReviews": [
+    {
+      "productId": 3763,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-11-19T08:04:25.5023295+02:00"
+    },
+    {
+      "productId": 3307,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-03-03T06:20:11.5025024+02:00"
+    },
+    {
+      "productId": 1643,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-06-22T07:14:50.1387163+03:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-04-20T13:34:58.697132+03:00"
+    },
+    {
+      "productId": 275,
+      "reviewText": "this parsing is perplexed.",
+      "reviewDate": "2016-06-08T13:23:55.3760507+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 56450,
+  "cartId": "3c22d12a-d750-47a7-96b4-868e031c2e38",
+  "preferredProducts": [
+    2754,
+    1739
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "this program is papery.",
+      "reviewDate": "2018-06-15T02:10:49.005071+03:00"
+    },
+    {
+      "productId": 3449,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2016-11-15T08:45:13.2373057+02:00"
+    },
+    {
+      "productId": 3887,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-10-22T11:06:34.2123134+03:00"
+    },
+    {
+      "productId": 1339,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-07-25T06:08:19.3830697+03:00"
+    }
+  ]
+}

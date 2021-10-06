@@ -1,0 +1,35 @@
+{
+  "userId": 17789,
+  "cartId": "8950d075-c9c5-42b3-b768-7aa8ec33a572",
+  "preferredProducts": [
+    551,
+    416,
+    86,
+    4899,
+    7,
+    84,
+    3310
+  ],
+  "productReviews": [
+    {
+      "productId": 4203,
+      "reviewText": "this Up-sized is awesome.",
+      "reviewDate": "2017-08-06T12:51:48.1678544+03:00"
+    },
+    {
+      "productId": 4895,
+      "reviewText": "this circuit is nifty.",
+      "reviewDate": "2019-07-14T13:31:15.6178318+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-05-19T19:08:37.9617266+03:00"
+    },
+    {
+      "productId": 635,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-02-18T19:33:28.5409732+02:00"
+    }
+  ]
+}

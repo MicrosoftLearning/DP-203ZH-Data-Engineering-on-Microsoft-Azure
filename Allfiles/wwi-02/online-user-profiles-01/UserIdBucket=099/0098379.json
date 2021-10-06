@@ -1,0 +1,38 @@
+{
+  "userId": 98379,
+  "cartId": "8cbb555b-7212-4c78-9b7c-79edddc862a9",
+  "preferredProducts": [
+    4653,
+    3797,
+    4418,
+    153,
+    193,
+    71,
+    3292,
+    746,
+    1633,
+    4107
+  ],
+  "productReviews": [
+    {
+      "productId": 4101,
+      "reviewText": "this Lodge is gracious.",
+      "reviewDate": "2018-08-17T07:51:58.6304457+03:00"
+    },
+    {
+      "productId": 3643,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-07-11T06:31:00.9978611+03:00"
+    },
+    {
+      "productId": 3657,
+      "reviewText": "this Zloty is tasty.",
+      "reviewDate": "2017-08-08T03:22:31.7096538+03:00"
+    },
+    {
+      "productId": 1736,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-16T23:15:14.1721061+03:00"
+    }
+  ]
+}

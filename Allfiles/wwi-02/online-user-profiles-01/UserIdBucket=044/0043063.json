@@ -1,0 +1,36 @@
+{
+  "userId": 43063,
+  "cartId": "30b9967f-6be4-4bfb-abab-9820f2efc275",
+  "preferredProducts": [
+    419,
+    1242,
+    2868,
+    3716,
+    4045,
+    2425,
+    2891,
+    320
+  ],
+  "productReviews": [
+    {
+      "productId": 3090,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-31T18:35:55.1792487+03:00"
+    },
+    {
+      "productId": 1830,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-27T23:01:49.3417334+02:00"
+    },
+    {
+      "productId": 599,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-09-16T18:08:06.9992525+03:00"
+    },
+    {
+      "productId": 4237,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-07-18T02:36:08.2181265+03:00"
+    }
+  ]
+}

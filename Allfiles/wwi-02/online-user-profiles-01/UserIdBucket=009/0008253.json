@@ -1,0 +1,33 @@
+{
+  "userId": 8253,
+  "cartId": "43dd43f1-5373-455b-9630-0ac04f45e813",
+  "preferredProducts": [
+    1797,
+    4375,
+    2209,
+    4995,
+    4843,
+    1152,
+    2013,
+    2037,
+    2654,
+    1236
+  ],
+  "productReviews": [
+    {
+      "productId": 3925,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-06-24T03:10:59.6380695+03:00"
+    },
+    {
+      "productId": 1294,
+      "reviewText": "this data-warehouse is papery.",
+      "reviewDate": "2017-04-11T01:13:11.4189806+03:00"
+    },
+    {
+      "productId": 547,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-07-20T21:25:33.9414598+03:00"
+    }
+  ]
+}

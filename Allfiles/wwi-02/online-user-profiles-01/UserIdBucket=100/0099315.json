@@ -1,0 +1,24 @@
+{
+  "userId": 99315,
+  "cartId": "1bf3cc8d-a7d4-464a-b593-92019a0c0142",
+  "preferredProducts": [
+    4506,
+    2026,
+    2216,
+    3929,
+    3401,
+    1867
+  ],
+  "productReviews": [
+    {
+      "productId": 1092,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-11-19T00:45:58.2628003+02:00"
+    },
+    {
+      "productId": 2973,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-02-11T16:27:33.8509232+02:00"
+    }
+  ]
+}

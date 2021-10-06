@@ -1,0 +1,23 @@
+{
+  "userId": 31451,
+  "cartId": "ef0352d1-6aca-4e94-a0b3-8be5299f33e2",
+  "preferredProducts": [
+    3338,
+    4636,
+    3797,
+    3961,
+    3564
+  ],
+  "productReviews": [
+    {
+      "productId": 3333,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-12-19T11:15:32.5442379+02:00"
+    },
+    {
+      "productId": 703,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2016-12-25T14:50:42.3077839+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 80104,
+  "cartId": "3db3a42b-d92a-4a7a-ac89-b1ce0814437c",
+  "preferredProducts": [
+    2912,
+    4567,
+    3465,
+    1629,
+    3755,
+    4742,
+    44
+  ],
+  "productReviews": [
+    {
+      "productId": 4316,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-08-10T05:19:46.6992115+03:00"
+    },
+    {
+      "productId": 867,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-09-03T08:00:55.6535515+03:00"
+    },
+    {
+      "productId": 1975,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-09-02T06:03:31.9192778+03:00"
+    }
+  ]
+}

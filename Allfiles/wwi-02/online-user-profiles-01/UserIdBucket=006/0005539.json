@@ -1,0 +1,26 @@
+{
+  "userId": 5539,
+  "cartId": "a97bc6a9-5383-4586-abf4-6e8ff9e2c4ea",
+  "preferredProducts": [
+    4852,
+    4491,
+    4584
+  ],
+  "productReviews": [
+    {
+      "productId": 4318,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-03-10T11:36:12.1489191+02:00"
+    },
+    {
+      "productId": 3096,
+      "reviewText": "This deposit works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2018-02-21T00:14:31.7336203+02:00"
+    },
+    {
+      "productId": 4444,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-03-12T10:36:40.1910772+02:00"
+    }
+  ]
+}

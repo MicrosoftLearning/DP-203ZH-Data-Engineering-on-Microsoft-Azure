@@ -1,0 +1,19 @@
+{
+  "userId": 82533,
+  "cartId": "c49413e4-3855-4218-abae-5c3eaf66c122",
+  "preferredProducts": [
+    4160,
+    4276,
+    4365,
+    3759,
+    2493,
+    1717
+  ],
+  "productReviews": [
+    {
+      "productId": 2354,
+      "reviewText": "this XSS is tasty.",
+      "reviewDate": "2020-02-05T16:54:23.8684913+02:00"
+    }
+  ]
+}

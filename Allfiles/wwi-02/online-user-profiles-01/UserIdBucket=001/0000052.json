@@ -1,0 +1,25 @@
+{
+  "userId": 52,
+  "cartId": "39a08901-14aa-4de1-bdba-3db2a2df9e26",
+  "preferredProducts": [
+    2132,
+    1793
+  ],
+  "productReviews": [
+    {
+      "productId": 718,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-05-23T13:59:46.0489298+03:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "this Plastic is standard.",
+      "reviewDate": "2018-07-18T22:12:53.3218307+03:00"
+    },
+    {
+      "productId": 475,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-12-17T03:20:59.4515065+02:00"
+    }
+  ]
+}

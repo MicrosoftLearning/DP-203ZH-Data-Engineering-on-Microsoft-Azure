@@ -1,0 +1,32 @@
+{
+  "userId": 24099,
+  "cartId": "1da5a0ef-96f7-456c-91fc-10f6eced1427",
+  "preferredProducts": [
+    4456,
+    1730,
+    2991,
+    1422
+  ],
+  "productReviews": [
+    {
+      "productId": 3830,
+      "reviewText": "this back-end is hyper.",
+      "reviewDate": "2017-06-11T03:25:58.5887626+03:00"
+    },
+    {
+      "productId": 2273,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-09-05T14:59:31.6853467+03:00"
+    },
+    {
+      "productId": 4631,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-08-09T06:14:04.3370494+03:00"
+    },
+    {
+      "productId": 2977,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-05-16T13:52:59.2386906+03:00"
+    }
+  ]
+}

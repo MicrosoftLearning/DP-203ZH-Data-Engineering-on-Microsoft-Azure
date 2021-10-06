@@ -1,0 +1,32 @@
+{
+  "userId": 2304,
+  "cartId": "2b249e39-fe3b-45cb-b489-259e1615617b",
+  "preferredProducts": [
+    1372,
+    3765,
+    3177,
+    4316
+  ],
+  "productReviews": [
+    {
+      "productId": 3367,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-12-01T03:23:44.7926393+02:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-06-22T00:53:38.2293037+03:00"
+    },
+    {
+      "productId": 280,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-11-22T14:35:01.856883+02:00"
+    },
+    {
+      "productId": 3811,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2020-04-24T14:04:46.3990594+03:00"
+    }
+  ]
+}

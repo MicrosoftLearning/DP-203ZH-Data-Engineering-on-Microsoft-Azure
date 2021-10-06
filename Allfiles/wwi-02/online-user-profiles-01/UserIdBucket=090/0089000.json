@@ -1,0 +1,28 @@
+{
+  "userId": 89000,
+  "cartId": "c6732d6f-a764-4d61-a1eb-4f924ac5e394",
+  "preferredProducts": [
+    488,
+    3243,
+    86,
+    3502,
+    1141
+  ],
+  "productReviews": [
+    {
+      "productId": 4921,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-03-28T15:59:49.0895009+02:00"
+    },
+    {
+      "productId": 4892,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-06-21T23:30:46.3323494+03:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2019-05-01T06:24:08.300358+03:00"
+    }
+  ]
+}

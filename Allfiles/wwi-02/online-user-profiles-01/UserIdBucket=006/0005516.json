@@ -1,0 +1,39 @@
+{
+  "userId": 5516,
+  "cartId": "33c0c4e9-c839-4a49-a79d-d6f9d14eb6d8",
+  "preferredProducts": [
+    4992,
+    4616,
+    159,
+    865,
+    3737,
+    4141
+  ],
+  "productReviews": [
+    {
+      "productId": 892,
+      "reviewText": "this benchmark is papery.",
+      "reviewDate": "2017-11-16T14:38:25.1618127+02:00"
+    },
+    {
+      "productId": 4068,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-09-18T10:10:31.1814107+03:00"
+    },
+    {
+      "productId": 4762,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-01-14T06:12:29.8287373+02:00"
+    },
+    {
+      "productId": 3231,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-05-16T00:14:02.4326947+03:00"
+    },
+    {
+      "productId": 846,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-07-12T19:49:50.616319+03:00"
+    }
+  ]
+}

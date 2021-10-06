@@ -1,0 +1,30 @@
+{
+  "userId": 25426,
+  "cartId": "eac49049-f291-4267-81c2-af28fe6c2323",
+  "preferredProducts": [
+    1706,
+    1983
+  ],
+  "productReviews": [
+    {
+      "productId": 1217,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-07-20T12:01:08.5033258+03:00"
+    },
+    {
+      "productId": 714,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-12-27T12:25:45.1417638+02:00"
+    },
+    {
+      "productId": 4027,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-11-20T16:27:30.7665769+02:00"
+    },
+    {
+      "productId": 68,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-05-17T00:02:45.25135+03:00"
+    }
+  ]
+}

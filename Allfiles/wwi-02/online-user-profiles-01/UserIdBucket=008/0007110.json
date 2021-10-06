@@ -1,0 +1,36 @@
+{
+  "userId": 7110,
+  "cartId": "e6633b64-1447-4957-9dee-6a55fd6e7fcb",
+  "preferredProducts": [
+    815,
+    1371,
+    3396,
+    3767,
+    3105,
+    2953,
+    1025,
+    1324
+  ],
+  "productReviews": [
+    {
+      "productId": 1538,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-06-26T05:55:00.8960416+03:00"
+    },
+    {
+      "productId": 4997,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-02-27T03:03:57.2342396+02:00"
+    },
+    {
+      "productId": 1318,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-12-01T04:32:54.0538213+02:00"
+    },
+    {
+      "productId": 1929,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-01-04T22:28:37.5174071+02:00"
+    }
+  ]
+}

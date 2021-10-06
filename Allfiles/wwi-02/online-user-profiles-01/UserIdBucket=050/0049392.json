@@ -1,0 +1,27 @@
+{
+  "userId": 49392,
+  "cartId": "543cbf2d-ab29-4555-89cd-30a2128c202d",
+  "preferredProducts": [
+    479,
+    1949,
+    3930,
+    1191
+  ],
+  "productReviews": [
+    {
+      "productId": 1602,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-02-22T04:43:28.0891331+02:00"
+    },
+    {
+      "productId": 3587,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-11-05T23:32:11.6753656+02:00"
+    },
+    {
+      "productId": 219,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-05-23T21:13:18.998292+03:00"
+    }
+  ]
+}

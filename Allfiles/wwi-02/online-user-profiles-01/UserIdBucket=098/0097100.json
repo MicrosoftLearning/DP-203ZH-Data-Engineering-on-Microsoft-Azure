@@ -1,0 +1,32 @@
+{
+  "userId": 97100,
+  "cartId": "764b5910-1dcb-4f34-87d0-6da464d3c6d0",
+  "preferredProducts": [
+    192,
+    4713,
+    2095,
+    1482
+  ],
+  "productReviews": [
+    {
+      "productId": 660,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-08-18T19:45:16.7931204+03:00"
+    },
+    {
+      "productId": 4345,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-09-03T18:32:52.1904579+03:00"
+    },
+    {
+      "productId": 463,
+      "reviewText": "This SAS works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2019-11-19T13:44:20.3933859+02:00"
+    },
+    {
+      "productId": 3269,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-11-09T05:12:14.4396158+02:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 23601,
+  "cartId": "f6dde230-cb31-4772-b13a-6b323965586f",
+  "preferredProducts": [
+    3373,
+    220,
+    2851,
+    4604,
+    4844,
+    1442
+  ],
+  "productReviews": [
+    {
+      "productId": 4185,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-07-18T07:22:28.4631773+03:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-03-11T18:00:08.2400348+02:00"
+    },
+    {
+      "productId": 2695,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-10-17T21:32:39.6946382+03:00"
+    },
+    {
+      "productId": 565,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-02-03T23:44:44.8621953+02:00"
+    },
+    {
+      "productId": 1222,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-02-02T02:55:15.0985459+02:00"
+    }
+  ]
+}

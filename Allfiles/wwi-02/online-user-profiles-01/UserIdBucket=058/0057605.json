@@ -1,0 +1,27 @@
+{
+  "userId": 57605,
+  "cartId": "10fc3d1e-d3b9-443e-9ce5-0b1bbc094d48",
+  "preferredProducts": [
+    3565,
+    3702,
+    2506,
+    3963
+  ],
+  "productReviews": [
+    {
+      "productId": 4182,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-02-24T08:55:47.5425793+02:00"
+    },
+    {
+      "productId": 3615,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-05-24T02:00:33.1515016+03:00"
+    },
+    {
+      "productId": 1094,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-12-31T01:04:33.8724398+02:00"
+    }
+  ]
+}

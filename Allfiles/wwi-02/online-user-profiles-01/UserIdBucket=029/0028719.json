@@ -1,0 +1,35 @@
+{
+  "userId": 28719,
+  "cartId": "1dc00a4a-df45-49b8-9123-31b6ae4f0bdd",
+  "preferredProducts": [
+    3106,
+    1499,
+    631,
+    1779,
+    3586,
+    1966,
+    1389
+  ],
+  "productReviews": [
+    {
+      "productId": 280,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-03-15T13:08:50.2243887+02:00"
+    },
+    {
+      "productId": 69,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-04-30T22:21:37.8952462+03:00"
+    },
+    {
+      "productId": 4145,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-01-11T18:17:34.3654565+02:00"
+    },
+    {
+      "productId": 3594,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-08-20T04:07:53.0930168+03:00"
+    }
+  ]
+}

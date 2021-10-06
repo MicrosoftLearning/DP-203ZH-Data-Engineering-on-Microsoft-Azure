@@ -1,0 +1,25 @@
+{
+  "userId": 25954,
+  "cartId": "450e258b-651b-48da-9f70-a7efc2657d5d",
+  "preferredProducts": [
+    3420,
+    2403,
+    2720,
+    348,
+    1630,
+    2912,
+    4266
+  ],
+  "productReviews": [
+    {
+      "productId": 4444,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-09-02T09:58:06.2859292+03:00"
+    },
+    {
+      "productId": 1716,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-12-23T15:03:52.348747+02:00"
+    }
+  ]
+}

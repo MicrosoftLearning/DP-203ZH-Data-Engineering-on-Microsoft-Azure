@@ -1,0 +1,23 @@
+{
+  "userId": 25380,
+  "cartId": "cf262c51-3d4a-4d1d-b086-03abba5f659a",
+  "preferredProducts": [
+    773,
+    2337,
+    989,
+    1844,
+    3204
+  ],
+  "productReviews": [
+    {
+      "productId": 1831,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-03-05T07:34:29.2201444+02:00"
+    },
+    {
+      "productId": 2330,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-01-30T07:43:09.1753131+02:00"
+    }
+  ]
+}

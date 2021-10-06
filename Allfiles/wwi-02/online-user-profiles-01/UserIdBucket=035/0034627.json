@@ -1,0 +1,30 @@
+{
+  "userId": 34627,
+  "cartId": "0bf54c9a-ff53-45ff-b4c9-559b63db9fb8",
+  "preferredProducts": [
+    3129,
+    2406
+  ],
+  "productReviews": [
+    {
+      "productId": 2373,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-01-09T08:52:34.8171606+02:00"
+    },
+    {
+      "productId": 3245,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-08-13T01:32:19.9111297+03:00"
+    },
+    {
+      "productId": 2950,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-11-24T16:27:25.5910158+02:00"
+    },
+    {
+      "productId": 4314,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-01-13T20:57:54.7542969+02:00"
+    }
+  ]
+}

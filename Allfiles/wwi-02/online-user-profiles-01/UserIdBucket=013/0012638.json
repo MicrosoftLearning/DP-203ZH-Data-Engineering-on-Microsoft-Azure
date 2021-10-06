@@ -1,0 +1,32 @@
+{
+  "userId": 12638,
+  "cartId": "245dcbd4-02f7-4a83-a749-5017296046cf",
+  "preferredProducts": [
+    420,
+    1645,
+    4718,
+    4536,
+    4210,
+    2616,
+    4403,
+    4631,
+    1883
+  ],
+  "productReviews": [
+    {
+      "productId": 1313,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-03-25T08:04:50.319099+02:00"
+    },
+    {
+      "productId": 3661,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-10-06T13:39:28.5752069+03:00"
+    },
+    {
+      "productId": 2906,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-09-19T02:39:58.5414607+03:00"
+    }
+  ]
+}

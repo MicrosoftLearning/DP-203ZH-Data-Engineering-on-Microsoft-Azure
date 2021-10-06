@@ -1,0 +1,34 @@
+{
+  "userId": 1666,
+  "cartId": "717438ae-ef12-403f-b9a1-7f3470520e45",
+  "preferredProducts": [
+    3100,
+    2314,
+    4683,
+    3701,
+    3299,
+    4811
+  ],
+  "productReviews": [
+    {
+      "productId": 727,
+      "reviewText": "this technologies is complimentary.",
+      "reviewDate": "2019-06-07T05:12:38.9541059+03:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2016-07-17T06:30:15.1414966+03:00"
+    },
+    {
+      "productId": 509,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-03-03T21:52:54.2324438+02:00"
+    },
+    {
+      "productId": 3548,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-09-17T03:43:23.292287+03:00"
+    }
+  ]
+}

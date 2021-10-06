@@ -1,0 +1,28 @@
+{
+  "userId": 90089,
+  "cartId": "dd8dbc53-3f19-465a-9388-6aa98255820a",
+  "preferredProducts": [
+    413,
+    3725,
+    3145,
+    1216,
+    384
+  ],
+  "productReviews": [
+    {
+      "productId": 3271,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-12-26T09:24:10.2629542+02:00"
+    },
+    {
+      "productId": 3512,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-03-20T18:50:53.6697285+02:00"
+    },
+    {
+      "productId": 4787,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-02-24T07:01:43.4884372+02:00"
+    }
+  ]
+}

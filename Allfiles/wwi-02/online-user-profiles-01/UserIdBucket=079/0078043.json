@@ -1,0 +1,25 @@
+{
+  "userId": 78043,
+  "cartId": "59944fd7-71cd-4c70-aa7d-20ef85a01e42",
+  "preferredProducts": [
+    3843,
+    3083
+  ],
+  "productReviews": [
+    {
+      "productId": 76,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-11-26T15:28:22.6673794+02:00"
+    },
+    {
+      "productId": 4217,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-06-28T06:54:34.3895563+03:00"
+    },
+    {
+      "productId": 1975,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-05-31T07:35:51.8109673+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 13243,
+  "cartId": "3a5dafe0-e781-45fd-95a9-64a1611ffcb5",
+  "preferredProducts": [
+    469,
+    1203,
+    2901,
+    4102,
+    2650
+  ],
+  "productReviews": [
+    {
+      "productId": 2392,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-09-02T19:14:26.0491036+03:00"
+    },
+    {
+      "productId": 2984,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-11-27T04:55:25.1998268+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 86672,
+  "cartId": "6dd7c6db-cdc1-429a-a792-678ea3c772cb",
+  "preferredProducts": [
+    3677,
+    3199
+  ],
+  "productReviews": [
+    {
+      "productId": 2810,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-08-18T01:24:38.5029713+03:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "this function is awesome.",
+      "reviewDate": "2018-06-01T13:36:33.5379094+03:00"
+    },
+    {
+      "productId": 4686,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-08-19T05:21:12.0543301+03:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-07-27T15:44:11.1169433+03:00"
+    }
+  ]
+}

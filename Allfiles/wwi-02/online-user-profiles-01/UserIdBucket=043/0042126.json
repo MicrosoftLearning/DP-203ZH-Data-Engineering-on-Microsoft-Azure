@@ -1,0 +1,23 @@
+{
+  "userId": 42126,
+  "cartId": "5ec2f32a-e9b2-4d00-935b-3634c6b8af69",
+  "preferredProducts": [
+    270,
+    84,
+    2289,
+    2031,
+    4250
+  ],
+  "productReviews": [
+    {
+      "productId": 530,
+      "reviewText": "this Avon is snowy.",
+      "reviewDate": "2019-01-06T01:04:20.802257+02:00"
+    },
+    {
+      "productId": 2496,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-05-09T04:11:05.8051437+03:00"
+    }
+  ]
+}

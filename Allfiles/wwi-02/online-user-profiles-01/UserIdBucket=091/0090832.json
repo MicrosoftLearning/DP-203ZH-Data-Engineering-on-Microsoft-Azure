@@ -1,0 +1,33 @@
+{
+  "userId": 90832,
+  "cartId": "23bf655f-cf0d-49c4-8239-66b88ea778eb",
+  "preferredProducts": [
+    1236,
+    4789,
+    765,
+    2369,
+    1991,
+    914,
+    1714,
+    594,
+    2870,
+    370
+  ],
+  "productReviews": [
+    {
+      "productId": 1539,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-05-19T20:45:49.5988854+03:00"
+    },
+    {
+      "productId": 619,
+      "reviewText": "This Product works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-02-22T18:48:51.130382+02:00"
+    },
+    {
+      "productId": 2179,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-02-08T00:09:07.9491149+02:00"
+    }
+  ]
+}

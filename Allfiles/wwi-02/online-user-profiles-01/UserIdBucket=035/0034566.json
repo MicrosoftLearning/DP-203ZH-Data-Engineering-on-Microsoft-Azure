@@ -1,0 +1,31 @@
+{
+  "userId": 34566,
+  "cartId": "764f9f38-64da-402d-91c7-becad4eccd34",
+  "preferredProducts": [
+    3624,
+    2615,
+    4734,
+    2216,
+    4873,
+    1720,
+    4403,
+    2264
+  ],
+  "productReviews": [
+    {
+      "productId": 1954,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-08-24T04:36:01.7898731+03:00"
+    },
+    {
+      "productId": 2305,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-12-22T06:17:43.3304426+02:00"
+    },
+    {
+      "productId": 1355,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-05-22T18:26:01.3619235+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 1954,
+  "cartId": "27ab37fb-d15f-4da6-a526-2e5806a3c6a1",
+  "preferredProducts": [
+    1377,
+    3310,
+    2294,
+    1284,
+    1187,
+    94
+  ],
+  "productReviews": [
+    {
+      "productId": 1656,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-04-29T10:44:18.9508011+03:00"
+    },
+    {
+      "productId": 4283,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-07-03T07:06:46.216416+03:00"
+    }
+  ]
+}

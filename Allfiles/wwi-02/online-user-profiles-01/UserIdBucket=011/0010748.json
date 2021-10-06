@@ -1,0 +1,33 @@
+{
+  "userId": 10748,
+  "cartId": "5785d377-6f5d-4e6e-a8fd-67e255adf7a8",
+  "preferredProducts": [
+    2738,
+    2038,
+    3199,
+    3022,
+    3877,
+    989,
+    4380,
+    84,
+    3484,
+    1936
+  ],
+  "productReviews": [
+    {
+      "productId": 2698,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-06-06T05:09:00.4981847+03:00"
+    },
+    {
+      "productId": 1032,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2019-08-07T19:37:32.3267271+03:00"
+    },
+    {
+      "productId": 3461,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-12-18T02:21:55.5577609+02:00"
+    }
+  ]
+}

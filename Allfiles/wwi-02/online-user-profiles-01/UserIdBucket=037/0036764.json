@@ -1,0 +1,33 @@
+{
+  "userId": 36764,
+  "cartId": "a2395994-e5a1-47c9-b054-f160a62ac31e",
+  "preferredProducts": [
+    1159,
+    635,
+    3590,
+    2424,
+    1664
+  ],
+  "productReviews": [
+    {
+      "productId": 4521,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-01-05T01:00:30.909079+02:00"
+    },
+    {
+      "productId": 3717,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-01-30T12:57:19.2214008+02:00"
+    },
+    {
+      "productId": 2772,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-05-09T04:09:09.6099002+03:00"
+    },
+    {
+      "productId": 4982,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-10-13T16:55:16.238492+03:00"
+    }
+  ]
+}

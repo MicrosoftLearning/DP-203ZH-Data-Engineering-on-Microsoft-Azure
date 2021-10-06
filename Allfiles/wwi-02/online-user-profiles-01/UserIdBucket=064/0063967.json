@@ -1,0 +1,28 @@
+{
+  "userId": 63967,
+  "cartId": "e2b228a7-f532-4b9f-9430-ed307a1239ec",
+  "preferredProducts": [
+    123,
+    2897,
+    3169,
+    2835,
+    1471,
+    4136,
+    4965,
+    2796,
+    4901,
+    81
+  ],
+  "productReviews": [
+    {
+      "productId": 3957,
+      "reviewText": "this pixel is ratty.",
+      "reviewDate": "2019-09-05T06:03:21.6325075+03:00"
+    },
+    {
+      "productId": 30,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-08-02T15:41:02.9432232+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 13033,
+  "cartId": "333ccc1c-0205-490e-8b06-b01e916105cd",
+  "preferredProducts": [
+    1394,
+    365,
+    754,
+    3556
+  ],
+  "productReviews": [
+    {
+      "productId": 351,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-09-27T09:33:22.5709195+03:00"
+    },
+    {
+      "productId": 77,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-01-10T14:55:44.0964629+02:00"
+    },
+    {
+      "productId": 3278,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-09-04T10:15:55.0622825+03:00"
+    },
+    {
+      "productId": 3944,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-10-10T08:35:49.9470549+03:00"
+    }
+  ]
+}

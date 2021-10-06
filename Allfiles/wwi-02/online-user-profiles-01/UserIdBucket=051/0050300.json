@@ -1,0 +1,37 @@
+{
+  "userId": 50300,
+  "cartId": "34ec7e26-b26d-4eec-8955-ad3525ba942a",
+  "preferredProducts": [
+    1877,
+    153,
+    2264,
+    1770
+  ],
+  "productReviews": [
+    {
+      "productId": 3239,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-12-19T11:53:59.6396752+02:00"
+    },
+    {
+      "productId": 3897,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-12-31T01:53:55.8484973+02:00"
+    },
+    {
+      "productId": 2733,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-01-22T16:31:13.9734604+02:00"
+    },
+    {
+      "productId": 1430,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-06-05T14:19:07.8314042+03:00"
+    },
+    {
+      "productId": 4046,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-09-13T14:28:42.304178+03:00"
+    }
+  ]
+}

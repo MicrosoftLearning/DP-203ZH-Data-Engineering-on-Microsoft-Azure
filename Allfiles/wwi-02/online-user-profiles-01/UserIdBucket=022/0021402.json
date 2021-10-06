@@ -1,0 +1,31 @@
+{
+  "userId": 21402,
+  "cartId": "484b1879-3c1f-452c-8bf0-cc812f9ada46",
+  "preferredProducts": [
+    4502,
+    1849,
+    1627
+  ],
+  "productReviews": [
+    {
+      "productId": 1323,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-11-05T14:41:59.3198332+02:00"
+    },
+    {
+      "productId": 384,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-04-22T05:01:40.1737122+03:00"
+    },
+    {
+      "productId": 1993,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-01-26T04:51:36.8821982+02:00"
+    },
+    {
+      "productId": 2229,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-02-24T14:58:03.1594097+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 5751,
+  "cartId": "e54a2f70-187c-4c2a-9a7d-40e6d717e1b3",
+  "preferredProducts": [
+    4981,
+    4653,
+    3462,
+    2543
+  ],
+  "productReviews": [
+    {
+      "productId": 1350,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-05-31T08:48:18.6619891+03:00"
+    },
+    {
+      "productId": 764,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-03-09T05:11:21.1953682+02:00"
+    },
+    {
+      "productId": 1661,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-09-01T04:21:45.3362768+03:00"
+    }
+  ]
+}

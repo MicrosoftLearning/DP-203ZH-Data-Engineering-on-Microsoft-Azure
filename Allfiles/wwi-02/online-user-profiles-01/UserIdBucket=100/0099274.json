@@ -1,0 +1,33 @@
+{
+  "userId": 99274,
+  "cartId": "476817b0-e100-407e-b823-b38d8f7bb53c",
+  "preferredProducts": [
+    846,
+    2749,
+    1230,
+    2546,
+    2523,
+    3594,
+    203,
+    143,
+    3920,
+    3252
+  ],
+  "productReviews": [
+    {
+      "productId": 3307,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-11-11T03:51:03.8261466+02:00"
+    },
+    {
+      "productId": 4124,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-01-13T00:36:56.9577624+02:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "this Operations is top-notch.",
+      "reviewDate": "2019-03-31T21:06:32.8667488+03:00"
+    }
+  ]
+}

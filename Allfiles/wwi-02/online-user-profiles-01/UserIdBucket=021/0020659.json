@@ -1,0 +1,27 @@
+{
+  "userId": 20659,
+  "cartId": "a52a54a2-7391-4a32-a22f-4c607e0cf642",
+  "preferredProducts": [
+    1933,
+    824,
+    3512,
+    89
+  ],
+  "productReviews": [
+    {
+      "productId": 1474,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-31T00:36:19.5094532+03:00"
+    },
+    {
+      "productId": 273,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-06-21T14:23:59.2258899+03:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-12-04T19:05:00.8895024+02:00"
+    }
+  ]
+}

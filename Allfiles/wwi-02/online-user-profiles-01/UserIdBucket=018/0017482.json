@@ -1,0 +1,24 @@
+{
+  "userId": 17482,
+  "cartId": "8abc8857-9b3a-46a7-86bd-5f2b0c8cbeef",
+  "preferredProducts": [
+    4942,
+    3834,
+    1418,
+    489,
+    1960,
+    1576
+  ],
+  "productReviews": [
+    {
+      "productId": 3101,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-07-04T23:07:11.2395706+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Frozen keeps them away.",
+      "reviewDate": "2019-12-11T19:59:29.1254852+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 60614,
+  "cartId": "312c39ef-fe5a-4a60-be16-8ab7c94ce18f",
+  "preferredProducts": [
+    1324,
+    2431,
+    3879,
+    1803,
+    1505,
+    408,
+    4979
+  ],
+  "productReviews": [
+    {
+      "productId": 2349,
+      "reviewText": "this Frozen is flirty.",
+      "reviewDate": "2016-10-09T20:00:16.4357719+03:00"
+    },
+    {
+      "productId": 669,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-12-22T17:44:06.8610647+02:00"
+    },
+    {
+      "productId": 4794,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-11-07T21:53:01.1272851+02:00"
+    }
+  ]
+}

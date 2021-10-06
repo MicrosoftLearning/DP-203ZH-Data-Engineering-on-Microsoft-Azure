@@ -1,0 +1,30 @@
+{
+  "userId": 32999,
+  "cartId": "834b77a8-f35f-4106-8147-29135d0418bd",
+  "preferredProducts": [
+    3234,
+    4033,
+    3352,
+    2030,
+    3700,
+    4090,
+    1822
+  ],
+  "productReviews": [
+    {
+      "productId": 1831,
+      "reviewText": "this Refined Steel Chair is awesome.",
+      "reviewDate": "2016-10-11T22:16:10.8311531+03:00"
+    },
+    {
+      "productId": 4442,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-05-22T22:24:01.5105018+03:00"
+    },
+    {
+      "productId": 4928,
+      "reviewText": "This Virtual works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-09-17T11:51:20.2925842+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 25891,
+  "cartId": "ec0f94c1-d101-4b73-be12-d16063208840",
+  "preferredProducts": [
+    2500,
+    1240,
+    428,
+    3494,
+    4375,
+    3952,
+    3646,
+    2318
+  ],
+  "productReviews": [
+    {
+      "productId": 4123,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-08-28T03:36:49.1279499+03:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-04-17T09:52:59.1558647+03:00"
+    },
+    {
+      "productId": 2922,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-05-24T23:10:49.1688661+03:00"
+    },
+    {
+      "productId": 2566,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-12-11T02:36:47.1228055+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 80425,
+  "cartId": "de613851-abca-44b6-b3d8-5efe7e964b08",
+  "preferredProducts": [
+    102,
+    4827,
+    3077,
+    3297,
+    2202,
+    3409
+  ],
+  "productReviews": [
+    {
+      "productId": 1894,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-06-13T10:35:12.461416+03:00"
+    },
+    {
+      "productId": 2032,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-12-04T10:23:09.694564+02:00"
+    },
+    {
+      "productId": 1642,
+      "reviewText": "this Squares is whole-grain.",
+      "reviewDate": "2020-03-01T05:14:09.6005927+02:00"
+    }
+  ]
+}

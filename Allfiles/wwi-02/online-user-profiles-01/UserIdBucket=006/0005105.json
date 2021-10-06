@@ -1,0 +1,23 @@
+{
+  "userId": 5105,
+  "cartId": "c3bd77ef-872e-4f47-8dfc-ec0a1cd5d0c4",
+  "preferredProducts": [
+    4469,
+    2209,
+    3203,
+    4702,
+    4406
+  ],
+  "productReviews": [
+    {
+      "productId": 4016,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-10-18T06:57:41.3912482+03:00"
+    },
+    {
+      "productId": 4344,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-06-19T13:18:35.8413034+03:00"
+    }
+  ]
+}

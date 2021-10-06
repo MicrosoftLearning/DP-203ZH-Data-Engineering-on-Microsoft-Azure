@@ -1,0 +1,32 @@
+{
+  "userId": 55629,
+  "cartId": "44dc3cac-5e34-4a41-8282-f1ddd4d52396",
+  "preferredProducts": [
+    432,
+    2391,
+    2123,
+    2649
+  ],
+  "productReviews": [
+    {
+      "productId": 1212,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2020-04-01T01:23:02.1995372+03:00"
+    },
+    {
+      "productId": 3872,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2016-09-13T01:12:53.9393609+03:00"
+    },
+    {
+      "productId": 4294,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-01-29T05:20:54.5576421+02:00"
+    },
+    {
+      "productId": 2753,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-02-24T05:14:59.1264199+02:00"
+    }
+  ]
+}

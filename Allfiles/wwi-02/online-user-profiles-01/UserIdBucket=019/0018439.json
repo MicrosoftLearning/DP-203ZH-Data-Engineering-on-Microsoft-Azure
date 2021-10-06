@@ -1,0 +1,38 @@
+{
+  "userId": 18439,
+  "cartId": "444a6362-78c1-4b10-bb86-042714b35798",
+  "preferredProducts": [
+    466,
+    558,
+    4924,
+    3034,
+    3444,
+    1848,
+    2261,
+    3859,
+    3003,
+    4093
+  ],
+  "productReviews": [
+    {
+      "productId": 4976,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-02-09T15:37:55.431049+02:00"
+    },
+    {
+      "productId": 3364,
+      "reviewText": "This scale works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2016-12-11T22:27:25.2288396+02:00"
+    },
+    {
+      "productId": 3528,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-04-15T15:42:34.8657951+03:00"
+    },
+    {
+      "productId": 65,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-12-15T07:29:33.6556045+02:00"
+    }
+  ]
+}

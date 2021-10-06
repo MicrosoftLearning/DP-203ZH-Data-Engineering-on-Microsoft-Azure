@@ -1,0 +1,30 @@
+{
+  "userId": 44201,
+  "cartId": "c28f95ff-3d15-4ace-b7a8-4312882db84c",
+  "preferredProducts": [
+    3211,
+    1118,
+    3373,
+    2215,
+    3548,
+    1722,
+    1035
+  ],
+  "productReviews": [
+    {
+      "productId": 2322,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-05-21T21:34:45.2290468+03:00"
+    },
+    {
+      "productId": 3469,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-05-23T17:06:45.6602605+03:00"
+    },
+    {
+      "productId": 1988,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-06-17T23:49:01.201863+03:00"
+    }
+  ]
+}

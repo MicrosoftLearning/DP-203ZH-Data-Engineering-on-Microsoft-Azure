@@ -1,0 +1,24 @@
+{
+  "userId": 1009,
+  "cartId": "47fb84fd-7b94-4671-857a-a5416a0b6547",
+  "preferredProducts": [
+    85
+  ],
+  "productReviews": [
+    {
+      "productId": 32,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-08-21T18:17:08.6506708+03:00"
+    },
+    {
+      "productId": 424,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-12-15T23:09:32.7390711+02:00"
+    },
+    {
+      "productId": 4744,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-03-08T11:51:28.2135282+02:00"
+    }
+  ]
+}

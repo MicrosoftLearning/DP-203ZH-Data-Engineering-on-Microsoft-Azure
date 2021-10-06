@@ -1,0 +1,30 @@
+{
+  "userId": 78760,
+  "cartId": "fa50fb16-65fd-4eb1-91cc-92d4e9cb96a8",
+  "preferredProducts": [
+    2552,
+    4781,
+    4659,
+    3976,
+    1586,
+    3803,
+    1420
+  ],
+  "productReviews": [
+    {
+      "productId": 3590,
+      "reviewText": "this Prairie is tasty.",
+      "reviewDate": "2019-06-24T00:37:07.702071+03:00"
+    },
+    {
+      "productId": 3907,
+      "reviewText": "This bus works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2019-11-14T08:01:53.8576862+02:00"
+    },
+    {
+      "productId": 4877,
+      "reviewText": "This dynamic works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-07-17T23:46:20.9415378+03:00"
+    }
+  ]
+}

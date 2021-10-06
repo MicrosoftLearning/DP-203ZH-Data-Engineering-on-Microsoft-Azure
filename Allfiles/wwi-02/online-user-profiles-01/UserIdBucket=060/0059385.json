@@ -1,0 +1,30 @@
+{
+  "userId": 59385,
+  "cartId": "66ed29f0-581d-4ff2-9080-262db23a9312",
+  "preferredProducts": [
+    688,
+    3047,
+    3509,
+    4263,
+    4287,
+    1563,
+    3750
+  ],
+  "productReviews": [
+    {
+      "productId": 1643,
+      "reviewText": "this Lead is tasty.",
+      "reviewDate": "2016-12-17T08:40:15.1662798+02:00"
+    },
+    {
+      "productId": 4621,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-12-07T00:40:08.8210849+02:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-11-12T21:58:01.6901848+02:00"
+    }
+  ]
+}

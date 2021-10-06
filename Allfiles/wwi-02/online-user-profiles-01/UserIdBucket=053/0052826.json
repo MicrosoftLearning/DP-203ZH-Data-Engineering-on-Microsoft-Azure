@@ -1,0 +1,29 @@
+{
+  "userId": 52826,
+  "cartId": "97f70cb2-129c-44d0-8825-172e870f7574",
+  "preferredProducts": [
+    1989,
+    3562,
+    2089,
+    104,
+    4102,
+    4818
+  ],
+  "productReviews": [
+    {
+      "productId": 2202,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-01-25T05:07:16.2582511+02:00"
+    },
+    {
+      "productId": 3316,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-01-09T12:04:22.9363288+02:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-12-15T01:38:10.2272161+02:00"
+    }
+  ]
+}

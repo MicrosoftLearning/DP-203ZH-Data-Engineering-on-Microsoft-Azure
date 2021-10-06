@@ -1,0 +1,36 @@
+{
+  "userId": 15782,
+  "cartId": "ab9a4bbf-3ee2-4ba2-acf9-16db013cdac0",
+  "preferredProducts": [
+    1035,
+    788,
+    2518,
+    458,
+    2099,
+    1924,
+    3364,
+    4940
+  ],
+  "productReviews": [
+    {
+      "productId": 1359,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-12-15T16:58:43.8327866+02:00"
+    },
+    {
+      "productId": 1226,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-01-24T14:04:52.2931108+02:00"
+    },
+    {
+      "productId": 2880,
+      "reviewText": "This 24/365 works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-03-15T22:00:04.6693141+02:00"
+    },
+    {
+      "productId": 932,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-12-30T00:30:15.7036893+02:00"
+    }
+  ]
+}

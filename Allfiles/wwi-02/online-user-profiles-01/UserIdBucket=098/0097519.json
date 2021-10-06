@@ -1,0 +1,40 @@
+{
+  "userId": 97519,
+  "cartId": "c97dac4d-05d9-4394-bef5-ca53d1ebc763",
+  "preferredProducts": [
+    2032,
+    1342,
+    279,
+    747,
+    564,
+    1868,
+    1885
+  ],
+  "productReviews": [
+    {
+      "productId": 3857,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-03-21T10:14:46.0587607+02:00"
+    },
+    {
+      "productId": 295,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-08-01T06:00:48.7944804+03:00"
+    },
+    {
+      "productId": 2548,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-05-08T10:05:42.1525324+03:00"
+    },
+    {
+      "productId": 2330,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-02-19T11:48:44.1663228+02:00"
+    },
+    {
+      "productId": 3157,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-02-21T05:26:38.9914079+02:00"
+    }
+  ]
+}

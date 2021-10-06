@@ -1,0 +1,35 @@
+{
+  "userId": 4847,
+  "cartId": "fc940395-312b-449b-937b-2ada7ba0bb68",
+  "preferredProducts": [
+    607,
+    1349
+  ],
+  "productReviews": [
+    {
+      "productId": 110,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-06-13T06:27:44.5838409+03:00"
+    },
+    {
+      "productId": 1924,
+      "reviewText": "this white is snowy.",
+      "reviewDate": "2020-04-10T13:32:05.6173158+03:00"
+    },
+    {
+      "productId": 1007,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-09-08T00:04:33.4832006+03:00"
+    },
+    {
+      "productId": 1043,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-09-29T13:26:04.168789+03:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-07-01T02:09:42.1783912+03:00"
+    }
+  ]
+}

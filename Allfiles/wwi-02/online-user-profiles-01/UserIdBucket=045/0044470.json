@@ -1,0 +1,36 @@
+{
+  "userId": 44470,
+  "cartId": "2bf4e7e2-c404-40d3-abf3-02aba5d4a720",
+  "preferredProducts": [
+    2323,
+    913,
+    1519,
+    596,
+    1802,
+    4958,
+    3625,
+    2350
+  ],
+  "productReviews": [
+    {
+      "productId": 3747,
+      "reviewText": "This parse works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2018-12-11T06:56:46.6777646+02:00"
+    },
+    {
+      "productId": 3436,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-02-08T13:07:34.5407838+02:00"
+    },
+    {
+      "productId": 1785,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-03-07T23:58:22.5905226+02:00"
+    },
+    {
+      "productId": 4795,
+      "reviewText": "This Supervisor, does exactly what it's suppose to do.",
+      "reviewDate": "2020-04-23T02:39:20.9723809+03:00"
+    }
+  ]
+}

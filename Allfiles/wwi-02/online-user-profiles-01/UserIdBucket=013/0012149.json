@@ -1,0 +1,38 @@
+{
+  "userId": 12149,
+  "cartId": "a481d9aa-3288-460a-8e8b-f6cebd407781",
+  "preferredProducts": [
+    2807,
+    239,
+    110,
+    562,
+    3291,
+    1074,
+    1516,
+    2775,
+    4857,
+    177
+  ],
+  "productReviews": [
+    {
+      "productId": 2131,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-08-07T06:07:15.6673048+03:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-11-01T18:19:27.9903836+02:00"
+    },
+    {
+      "productId": 276,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-08-12T00:34:05.4042279+03:00"
+    },
+    {
+      "productId": 2723,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-02-23T14:59:05.7782673+02:00"
+    }
+  ]
+}

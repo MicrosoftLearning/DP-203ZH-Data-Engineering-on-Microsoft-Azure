@@ -1,0 +1,36 @@
+{
+  "userId": 64423,
+  "cartId": "9fb4a2b2-5bac-440b-89f1-1a35b993bc1e",
+  "preferredProducts": [
+    2927,
+    1786,
+    2825,
+    1842,
+    4688,
+    4704,
+    1885,
+    4236
+  ],
+  "productReviews": [
+    {
+      "productId": 1185,
+      "reviewText": "This indigo, does exactly what it's suppose to do.",
+      "reviewDate": "2017-03-19T23:27:02.7797664+02:00"
+    },
+    {
+      "productId": 307,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-11-27T12:58:04.7585438+02:00"
+    },
+    {
+      "productId": 4541,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-03-22T03:18:34.7602419+02:00"
+    },
+    {
+      "productId": 1281,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-10-26T02:15:06.0699786+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 37507,
+  "cartId": "61926eb7-546d-4c1e-b235-bcd074259733",
+  "preferredProducts": [
+    2966,
+    1790,
+    3674,
+    2230
+  ],
+  "productReviews": [
+    {
+      "productId": 2523,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-07-24T02:53:49.5567372+03:00"
+    },
+    {
+      "productId": 4704,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-06-12T19:32:44.7899356+03:00"
+    },
+    {
+      "productId": 1498,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-08-23T03:17:25.2238459+03:00"
+    },
+    {
+      "productId": 2976,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2020-01-24T15:35:33.6913516+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 34380,
+  "cartId": "b4bd4db2-e154-4645-b6a6-0f5cda2cf910",
+  "preferredProducts": [
+    1678,
+    3089,
+    2878,
+    248,
+    3605,
+    789,
+    3227,
+    1191,
+    3323
+  ],
+  "productReviews": [
+    {
+      "productId": 74,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-11-24T13:20:01.5800714+02:00"
+    },
+    {
+      "productId": 530,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-10-14T12:25:48.5608725+03:00"
+    },
+    {
+      "productId": 3862,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-07-05T16:03:45.6812197+03:00"
+    },
+    {
+      "productId": 4916,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-03-24T13:44:13.8043993+02:00"
+    }
+  ]
+}

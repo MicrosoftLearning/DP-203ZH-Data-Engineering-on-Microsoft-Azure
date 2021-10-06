@@ -1,0 +1,26 @@
+{
+  "userId": 13614,
+  "cartId": "acdb5a75-5108-40c5-aa2b-0eb94ac0e3a4",
+  "preferredProducts": [
+    3203,
+    133,
+    642,
+    1687,
+    4680,
+    4597,
+    1283,
+    2523
+  ],
+  "productReviews": [
+    {
+      "productId": 1123,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-09-16T16:17:08.7239642+03:00"
+    },
+    {
+      "productId": 3566,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-07-29T13:14:56.6880017+03:00"
+    }
+  ]
+}

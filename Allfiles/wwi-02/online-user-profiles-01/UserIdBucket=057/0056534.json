@@ -1,0 +1,26 @@
+{
+  "userId": 56534,
+  "cartId": "af013d27-f227-40cc-b69f-4186b1ab2fcf",
+  "preferredProducts": [
+    3514,
+    4811,
+    609,
+    2209,
+    3242,
+    4131,
+    1896,
+    4548
+  ],
+  "productReviews": [
+    {
+      "productId": 47,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-08-31T22:16:59.8502037+03:00"
+    },
+    {
+      "productId": 3221,
+      "reviewText": "this harness is brown.",
+      "reviewDate": "2019-09-05T13:42:30.4343142+03:00"
+    }
+  ]
+}

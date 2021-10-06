@@ -1,0 +1,29 @@
+{
+  "userId": 43811,
+  "cartId": "33a9eb4d-ae73-4a60-80f6-3f5e139bf03b",
+  "preferredProducts": [
+    3366,
+    3391,
+    2865,
+    1299,
+    640,
+    780
+  ],
+  "productReviews": [
+    {
+      "productId": 3333,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-01-10T16:22:18.7745643+02:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-09-06T01:53:56.7068443+03:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-12-10T22:12:59.5607656+02:00"
+    }
+  ]
+}

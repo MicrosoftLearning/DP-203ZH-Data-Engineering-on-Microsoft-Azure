@@ -1,0 +1,32 @@
+{
+  "userId": 51372,
+  "cartId": "3dd891ee-d74b-47bd-8581-e48cb7833bf8",
+  "preferredProducts": [
+    3640,
+    2883,
+    839,
+    4851,
+    4854,
+    3312,
+    4198,
+    269,
+    1747
+  ],
+  "productReviews": [
+    {
+      "productId": 4749,
+      "reviewText": "This is a really good Alley.",
+      "reviewDate": "2018-04-16T04:47:22.9301512+03:00"
+    },
+    {
+      "productId": 4148,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-12-13T21:41:42.0366594+02:00"
+    },
+    {
+      "productId": 510,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-10-10T08:48:42.6523976+03:00"
+    }
+  ]
+}

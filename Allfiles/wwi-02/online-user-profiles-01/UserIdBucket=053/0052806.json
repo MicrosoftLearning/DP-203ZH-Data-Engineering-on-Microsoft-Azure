@@ -1,0 +1,33 @@
+{
+  "userId": 52806,
+  "cartId": "44f65bba-7978-4628-9c63-0573bcb6c621",
+  "preferredProducts": [
+    4878,
+    3966,
+    1338,
+    281,
+    1956,
+    1392,
+    3131,
+    1710,
+    4648,
+    884
+  ],
+  "productReviews": [
+    {
+      "productId": 3770,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-08-30T10:51:22.973323+03:00"
+    },
+    {
+      "productId": 3232,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-12-31T03:02:42.8660202+02:00"
+    },
+    {
+      "productId": 301,
+      "reviewText": "this override is standard.",
+      "reviewDate": "2016-08-02T19:35:41.8170424+03:00"
+    }
+  ]
+}

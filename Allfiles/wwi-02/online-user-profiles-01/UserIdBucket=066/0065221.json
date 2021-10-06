@@ -1,0 +1,32 @@
+{
+  "userId": 65221,
+  "cartId": "1723d71a-9cdc-4db9-9836-d4555c1ba258",
+  "preferredProducts": [
+    3606,
+    1161,
+    686,
+    470,
+    1614,
+    3863,
+    986,
+    1408,
+    2575
+  ],
+  "productReviews": [
+    {
+      "productId": 4001,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-05-19T07:55:36.5070773+03:00"
+    },
+    {
+      "productId": 799,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-12-12T15:50:30.8473343+02:00"
+    },
+    {
+      "productId": 1670,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-08-11T09:43:58.1278319+03:00"
+    }
+  ]
+}

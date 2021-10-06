@@ -1,0 +1,38 @@
+{
+  "userId": 53601,
+  "cartId": "db811263-5986-46aa-982e-fda02ce0cbab",
+  "preferredProducts": [
+    4259,
+    57,
+    3119,
+    1169,
+    269,
+    2125,
+    1932,
+    1196,
+    3427,
+    1913
+  ],
+  "productReviews": [
+    {
+      "productId": 605,
+      "reviewText": "this blue is brown.",
+      "reviewDate": "2018-09-10T04:24:30.4043183+03:00"
+    },
+    {
+      "productId": 1371,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-09-09T14:40:54.9182454+03:00"
+    },
+    {
+      "productId": 1210,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-01-21T03:25:40.982+02:00"
+    },
+    {
+      "productId": 3330,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-10-28T08:22:38.1393235+02:00"
+    }
+  ]
+}

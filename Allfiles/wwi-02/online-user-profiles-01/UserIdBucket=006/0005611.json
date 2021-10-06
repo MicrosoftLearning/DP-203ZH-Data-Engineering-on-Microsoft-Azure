@@ -1,0 +1,43 @@
+{
+  "userId": 5611,
+  "cartId": "44fe2c32-a547-437a-a6a8-803b50d9a5fb",
+  "preferredProducts": [
+    872,
+    3900,
+    4355,
+    1714,
+    2651,
+    441,
+    2695,
+    1161,
+    2707,
+    4734
+  ],
+  "productReviews": [
+    {
+      "productId": 2862,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-08-26T07:32:26.3713621+03:00"
+    },
+    {
+      "productId": 3371,
+      "reviewText": "this quantifying is honest.",
+      "reviewDate": "2017-08-25T03:32:51.2256637+03:00"
+    },
+    {
+      "productId": 4189,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-07-10T12:55:09.5693408+03:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2016-06-05T13:21:50.302283+03:00"
+    },
+    {
+      "productId": 94,
+      "reviewText": "This Mills works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2019-11-27T17:11:27.1036895+02:00"
+    }
+  ]
+}

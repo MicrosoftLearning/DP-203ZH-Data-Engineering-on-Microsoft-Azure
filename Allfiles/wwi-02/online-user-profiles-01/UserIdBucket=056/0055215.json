@@ -1,0 +1,38 @@
+{
+  "userId": 55215,
+  "cartId": "3ae844a4-ae0d-4fae-86a0-d09e8b4ef842",
+  "preferredProducts": [
+    214,
+    72,
+    1746,
+    1873,
+    4227
+  ],
+  "productReviews": [
+    {
+      "productId": 1978,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-10-28T14:23:25.4469314+03:00"
+    },
+    {
+      "productId": 1004,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-04-08T07:51:25.8345099+03:00"
+    },
+    {
+      "productId": 3266,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-28T07:52:57.9456987+02:00"
+    },
+    {
+      "productId": 2797,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-12-31T02:59:26.8848315+02:00"
+    },
+    {
+      "productId": 4276,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-01-03T05:24:52.2533258+02:00"
+    }
+  ]
+}

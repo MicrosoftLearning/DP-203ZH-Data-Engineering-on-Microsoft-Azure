@@ -1,0 +1,30 @@
+{
+  "userId": 45963,
+  "cartId": "430af39c-6639-4aa9-ab66-b923c6c59ffc",
+  "preferredProducts": [
+    1859,
+    4294
+  ],
+  "productReviews": [
+    {
+      "productId": 3935,
+      "reviewText": "this Well is papery.",
+      "reviewDate": "2017-11-25T08:33:22.4349326+02:00"
+    },
+    {
+      "productId": 1245,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-04-28T18:19:02.8334676+03:00"
+    },
+    {
+      "productId": 456,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-07-25T07:49:30.1088263+03:00"
+    },
+    {
+      "productId": 4074,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-11-15T08:43:12.6044891+02:00"
+    }
+  ]
+}

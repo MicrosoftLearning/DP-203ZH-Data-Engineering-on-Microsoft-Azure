@@ -1,0 +1,36 @@
+{
+  "userId": 98516,
+  "cartId": "4eccbd33-77ba-49e0-ba77-050a27368ca4",
+  "preferredProducts": [
+    3771,
+    1421,
+    1635,
+    1890,
+    2939,
+    3291,
+    3966,
+    1690
+  ],
+  "productReviews": [
+    {
+      "productId": 4064,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-01-25T07:07:16.8526388+02:00"
+    },
+    {
+      "productId": 2983,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-12-06T15:33:47.141938+02:00"
+    },
+    {
+      "productId": 469,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-04-09T04:39:25.2985939+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-14T02:11:03.8656035+03:00"
+    }
+  ]
+}

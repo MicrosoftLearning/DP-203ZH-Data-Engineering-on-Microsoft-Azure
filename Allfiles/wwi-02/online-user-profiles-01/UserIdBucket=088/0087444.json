@@ -1,0 +1,32 @@
+{
+  "userId": 87444,
+  "cartId": "13eef53e-0ac7-46b5-8aa3-c6bdc48183ff",
+  "preferredProducts": [
+    2702,
+    2206,
+    3221,
+    1602,
+    4923,
+    3504,
+    713,
+    1325,
+    1127
+  ],
+  "productReviews": [
+    {
+      "productId": 66,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-03-28T05:56:44.0560679+03:00"
+    },
+    {
+      "productId": 298,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-03-23T15:50:20.3590661+02:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-10-21T19:00:03.8895651+03:00"
+    }
+  ]
+}

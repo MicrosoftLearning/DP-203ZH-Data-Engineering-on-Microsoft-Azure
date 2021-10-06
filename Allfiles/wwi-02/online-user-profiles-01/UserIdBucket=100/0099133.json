@@ -1,0 +1,24 @@
+{
+  "userId": 99133,
+  "cartId": "cdaf7f45-e89f-4c8a-8ac0-a9d32ac43fb9",
+  "preferredProducts": [
+    1745,
+    1035,
+    347,
+    3112,
+    2620,
+    2934
+  ],
+  "productReviews": [
+    {
+      "productId": 3982,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-01-20T00:22:45.7267449+02:00"
+    },
+    {
+      "productId": 538,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-03-01T06:09:50.0288191+02:00"
+    }
+  ]
+}

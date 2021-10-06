@@ -1,0 +1,26 @@
+{
+  "userId": 54789,
+  "cartId": "65661029-317c-4527-a695-73415b806624",
+  "preferredProducts": [
+    193,
+    3467,
+    3863
+  ],
+  "productReviews": [
+    {
+      "productId": 595,
+      "reviewText": "This Implementation works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-09-21T14:01:38.2127389+03:00"
+    },
+    {
+      "productId": 4190,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-05-03T09:37:25.2924196+03:00"
+    },
+    {
+      "productId": 975,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-12-29T12:17:46.0774672+02:00"
+    }
+  ]
+}

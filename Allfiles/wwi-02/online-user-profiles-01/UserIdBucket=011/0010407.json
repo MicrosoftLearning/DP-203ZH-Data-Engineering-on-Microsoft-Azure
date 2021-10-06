@@ -1,0 +1,33 @@
+{
+  "userId": 10407,
+  "cartId": "f58ab4a7-a68a-40b2-a4de-2e16892cac9e",
+  "preferredProducts": [
+    1192,
+    4218,
+    783,
+    3536,
+    3958
+  ],
+  "productReviews": [
+    {
+      "productId": 2590,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-11-18T19:10:46.7016308+02:00"
+    },
+    {
+      "productId": 2963,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-03-06T08:28:57.0626623+02:00"
+    },
+    {
+      "productId": 4403,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-12-05T07:55:49.1330737+02:00"
+    },
+    {
+      "productId": 297,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-09-09T13:14:25.9989291+03:00"
+    }
+  ]
+}

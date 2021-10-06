@@ -1,0 +1,36 @@
+{
+  "userId": 22744,
+  "cartId": "b9ad392d-f7ed-46ec-aa68-71cfd4fbc4ce",
+  "preferredProducts": [
+    561,
+    3067,
+    1575,
+    340,
+    1453,
+    2487,
+    47,
+    4905
+  ],
+  "productReviews": [
+    {
+      "productId": 1321,
+      "reviewText": "this solid state is hyper.",
+      "reviewDate": "2019-06-11T15:25:50.6110768+03:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-03-18T23:51:26.6602691+02:00"
+    },
+    {
+      "productId": 1050,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-08-07T06:32:50.1645571+03:00"
+    },
+    {
+      "productId": 115,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-08-20T10:20:53.9055601+03:00"
+    }
+  ]
+}

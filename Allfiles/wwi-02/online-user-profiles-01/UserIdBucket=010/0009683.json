@@ -1,0 +1,22 @@
+{
+  "userId": 9683,
+  "cartId": "7988182e-d3ad-4354-ab77-658fd8230d06",
+  "preferredProducts": [
+    1385,
+    2403,
+    606,
+    2972
+  ],
+  "productReviews": [
+    {
+      "productId": 2607,
+      "reviewText": "this array is standard.",
+      "reviewDate": "2017-05-03T03:40:11.5361218+03:00"
+    },
+    {
+      "productId": 4778,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-09-05T20:01:32.6966877+03:00"
+    }
+  ]
+}

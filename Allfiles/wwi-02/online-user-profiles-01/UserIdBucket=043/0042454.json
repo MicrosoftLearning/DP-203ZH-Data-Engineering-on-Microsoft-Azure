@@ -1,0 +1,34 @@
+{
+  "userId": 42454,
+  "cartId": "9b1834bd-cecc-4cef-87ca-854911a79841",
+  "preferredProducts": [
+    2369,
+    3773,
+    1859,
+    2949,
+    4934,
+    2537
+  ],
+  "productReviews": [
+    {
+      "productId": 259,
+      "reviewText": "This cohesive works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2019-03-24T09:07:58.9284574+02:00"
+    },
+    {
+      "productId": 2137,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-07-06T07:51:51.3017837+03:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-11-06T17:47:45.1125403+02:00"
+    },
+    {
+      "productId": 4233,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2020-02-10T15:26:42.2306213+02:00"
+    }
+  ]
+}

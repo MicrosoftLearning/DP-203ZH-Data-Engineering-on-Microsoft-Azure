@@ -1,0 +1,35 @@
+{
+  "userId": 22004,
+  "cartId": "6b5c86c4-6e25-40ea-98c3-a2178460da06",
+  "preferredProducts": [
+    12,
+    665,
+    306,
+    4676,
+    4964,
+    4595,
+    2275
+  ],
+  "productReviews": [
+    {
+      "productId": 4429,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-05-06T00:00:56.3154182+03:00"
+    },
+    {
+      "productId": 1439,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-05-26T15:16:16.6289537+03:00"
+    },
+    {
+      "productId": 3405,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-05-04T02:42:15.3010429+03:00"
+    },
+    {
+      "productId": 1019,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2020-02-22T00:00:32.3970024+02:00"
+    }
+  ]
+}

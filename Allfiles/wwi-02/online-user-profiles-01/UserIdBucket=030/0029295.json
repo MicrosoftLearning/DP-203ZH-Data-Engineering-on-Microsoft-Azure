@@ -1,0 +1,43 @@
+{
+  "userId": 29295,
+  "cartId": "0b736bc9-62c4-4ca3-b41b-ee767796916f",
+  "preferredProducts": [
+    3203,
+    2330,
+    591,
+    418,
+    3484,
+    17,
+    2053,
+    1285,
+    770,
+    1334
+  ],
+  "productReviews": [
+    {
+      "productId": 3418,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-07-20T09:51:53.2129337+03:00"
+    },
+    {
+      "productId": 2853,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-03-01T03:27:46.0321659+02:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-04-26T00:51:16.411198+03:00"
+    },
+    {
+      "productId": 3127,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-06-30T14:55:11.2765513+03:00"
+    },
+    {
+      "productId": 1940,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-05-24T18:33:01.6501237+03:00"
+    }
+  ]
+}

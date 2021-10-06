@@ -1,0 +1,31 @@
+{
+  "userId": 50868,
+  "cartId": "58792c7b-ea27-4aeb-8141-6e5460e54d59",
+  "preferredProducts": [
+    197,
+    140,
+    3101
+  ],
+  "productReviews": [
+    {
+      "productId": 266,
+      "reviewText": "this Light is mellow.",
+      "reviewDate": "2019-12-06T08:10:39.7049819+02:00"
+    },
+    {
+      "productId": 2322,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-12-15T02:45:57.21718+02:00"
+    },
+    {
+      "productId": 238,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-08-03T18:25:10.4493859+03:00"
+    },
+    {
+      "productId": 2514,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-09-04T15:18:37.6815687+03:00"
+    }
+  ]
+}

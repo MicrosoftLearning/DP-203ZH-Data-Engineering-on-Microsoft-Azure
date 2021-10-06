@@ -1,0 +1,33 @@
+{
+  "userId": 77671,
+  "cartId": "f64210f8-09f2-467b-bc93-69381b95f59a",
+  "preferredProducts": [
+    2618,
+    925,
+    2716,
+    3076,
+    3228
+  ],
+  "productReviews": [
+    {
+      "productId": 1488,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-09-22T23:19:08.720615+03:00"
+    },
+    {
+      "productId": 4807,
+      "reviewText": "this Rustic is mellow.",
+      "reviewDate": "2018-06-26T16:37:44.8828363+03:00"
+    },
+    {
+      "productId": 649,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-05-01T01:22:49.6180676+03:00"
+    },
+    {
+      "productId": 3553,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-12-29T11:21:01.5163817+02:00"
+    }
+  ]
+}

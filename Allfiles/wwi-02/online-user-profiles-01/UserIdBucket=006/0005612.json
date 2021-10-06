@@ -1,0 +1,26 @@
+{
+  "userId": 5612,
+  "cartId": "21fb5018-a89c-4e53-9de9-e159a01b3a26",
+  "preferredProducts": [
+    1559,
+    4299,
+    3066
+  ],
+  "productReviews": [
+    {
+      "productId": 298,
+      "reviewText": "this Inlet is awesome.",
+      "reviewDate": "2018-07-11T15:42:44.1212093+03:00"
+    },
+    {
+      "productId": 4376,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-10-11T13:03:10.5462569+03:00"
+    },
+    {
+      "productId": 2027,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-01-06T08:58:10.5145858+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 73673,
+  "cartId": "735ab00c-b86a-48ab-a430-11c6f97c402b",
+  "preferredProducts": [
+    2483,
+    3055,
+    1137,
+    1486,
+    4154,
+    4627,
+    4998,
+    4732
+  ],
+  "productReviews": [
+    {
+      "productId": 3615,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-07-04T11:16:02.7990074+03:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "this transparent is tasty.",
+      "reviewDate": "2017-12-24T11:58:44.6389573+02:00"
+    },
+    {
+      "productId": 195,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-05-12T04:52:32.2707548+03:00"
+    }
+  ]
+}

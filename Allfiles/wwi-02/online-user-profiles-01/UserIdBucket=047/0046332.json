@@ -1,0 +1,33 @@
+{
+  "userId": 46332,
+  "cartId": "2957c989-d1cd-4dc6-abe3-c33db885f77c",
+  "preferredProducts": [
+    3620,
+    625,
+    1987,
+    2456,
+    1346,
+    4391,
+    631,
+    154,
+    3167,
+    4462
+  ],
+  "productReviews": [
+    {
+      "productId": 3746,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-06-24T21:23:55.9222941+03:00"
+    },
+    {
+      "productId": 4757,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-02-19T23:20:43.9092114+02:00"
+    },
+    {
+      "productId": 3862,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-04-04T09:34:25.1254063+03:00"
+    }
+  ]
+}

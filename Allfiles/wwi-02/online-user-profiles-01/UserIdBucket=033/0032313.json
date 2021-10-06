@@ -1,0 +1,25 @@
+{
+  "userId": 32313,
+  "cartId": "78d95ce8-528a-4afc-a07a-62c24a1a17ad",
+  "preferredProducts": [
+    2725,
+    2536,
+    4703,
+    376,
+    1455,
+    413,
+    36
+  ],
+  "productReviews": [
+    {
+      "productId": 3530,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-06-26T04:50:48.2523215+03:00"
+    },
+    {
+      "productId": 2229,
+      "reviewText": "this generate is top-notch.",
+      "reviewDate": "2017-11-16T22:02:02.0847541+02:00"
+    }
+  ]
+}

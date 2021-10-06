@@ -1,0 +1,23 @@
+{
+  "userId": 99132,
+  "cartId": "77e43e32-1f49-427b-88c2-4621ff121cd0",
+  "preferredProducts": [
+    4606,
+    3635,
+    2180,
+    2490,
+    3451
+  ],
+  "productReviews": [
+    {
+      "productId": 3849,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-10-31T19:35:49.9658244+02:00"
+    },
+    {
+      "productId": 156,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-03-22T10:07:13.639261+02:00"
+    }
+  ]
+}

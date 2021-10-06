@@ -1,0 +1,32 @@
+{
+  "userId": 23561,
+  "cartId": "db5d6674-e3a8-46e7-a7f0-08fd59adfe5f",
+  "preferredProducts": [
+    4279,
+    3566,
+    2829,
+    4542,
+    3137,
+    2381,
+    1942,
+    511,
+    596
+  ],
+  "productReviews": [
+    {
+      "productId": 1062,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-01-23T16:38:39.2951524+02:00"
+    },
+    {
+      "productId": 534,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-04-30T23:07:19.9447371+03:00"
+    },
+    {
+      "productId": 3716,
+      "reviewText": "this Borders is whole-grain.",
+      "reviewDate": "2016-07-14T00:53:01.8119746+03:00"
+    }
+  ]
+}

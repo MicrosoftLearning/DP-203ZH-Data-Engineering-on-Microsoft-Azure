@@ -1,0 +1,41 @@
+{
+  "userId": 34638,
+  "cartId": "5c38ec09-3937-421d-bfdc-21c2842cb5a4",
+  "preferredProducts": [
+    4173,
+    627,
+    2041,
+    4871,
+    1131,
+    2884,
+    2152,
+    835
+  ],
+  "productReviews": [
+    {
+      "productId": 888,
+      "reviewText": "this Metal is amiable.",
+      "reviewDate": "2018-12-04T18:35:57.3242343+02:00"
+    },
+    {
+      "productId": 2192,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-07-12T14:11:31.0646119+03:00"
+    },
+    {
+      "productId": 2384,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-06-28T03:42:52.3109891+03:00"
+    },
+    {
+      "productId": 856,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-11-14T19:40:56.3577444+02:00"
+    },
+    {
+      "productId": 344,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-05-15T21:27:31.3005351+03:00"
+    }
+  ]
+}

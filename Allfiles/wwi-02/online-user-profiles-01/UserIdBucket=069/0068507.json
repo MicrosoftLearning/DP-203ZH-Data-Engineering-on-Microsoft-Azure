@@ -1,0 +1,33 @@
+{
+  "userId": 68507,
+  "cartId": "e35fd2c4-d103-4986-8cd8-809f255002f6",
+  "preferredProducts": [
+    1238,
+    1397,
+    4076,
+    2122,
+    4532
+  ],
+  "productReviews": [
+    {
+      "productId": 1007,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-10-09T19:19:17.0003172+03:00"
+    },
+    {
+      "productId": 767,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-07-27T21:58:31.8202042+03:00"
+    },
+    {
+      "productId": 247,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-02-10T06:06:23.2310369+02:00"
+    },
+    {
+      "productId": 3316,
+      "reviewText": "This Sleek Soft Hat works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-07-09T05:04:14.9224339+03:00"
+    }
+  ]
+}

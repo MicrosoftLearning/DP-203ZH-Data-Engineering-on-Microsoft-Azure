@@ -1,0 +1,38 @@
+{
+  "userId": 96528,
+  "cartId": "dd4dee86-80cd-4038-836e-74cb7d709e64",
+  "preferredProducts": [
+    2425,
+    4349,
+    2336,
+    1544,
+    1030
+  ],
+  "productReviews": [
+    {
+      "productId": 3594,
+      "reviewText": "this aggregate is ratty.",
+      "reviewDate": "2016-06-17T23:25:44.6642359+03:00"
+    },
+    {
+      "productId": 3644,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-07-13T22:56:13.0368386+03:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-11-25T11:48:13.7832035+02:00"
+    },
+    {
+      "productId": 3921,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-11-25T17:15:05.5224651+02:00"
+    },
+    {
+      "productId": 2323,
+      "reviewText": "This Orchestrator works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-11-22T00:07:44.1173366+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 6363,
+  "cartId": "c9c54a25-7ce1-45bf-97bc-8cec01defd58",
+  "preferredProducts": [
+    4101,
+    2405,
+    353,
+    554,
+    4824,
+    3542,
+    4617,
+    3894,
+    4915,
+    4478
+  ],
+  "productReviews": [
+    {
+      "productId": 345,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-06-20T04:04:08.3609528+03:00"
+    },
+    {
+      "productId": 371,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-03-17T21:58:35.6189661+02:00"
+    },
+    {
+      "productId": 1450,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-03-07T16:33:36.863171+02:00"
+    },
+    {
+      "productId": 145,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-04-09T23:51:21.8742544+03:00"
+    }
+  ]
+}

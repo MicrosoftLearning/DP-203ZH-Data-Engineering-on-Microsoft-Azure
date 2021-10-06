@@ -1,0 +1,33 @@
+{
+  "userId": 78424,
+  "cartId": "35d13fa4-8309-45bc-8773-f2a36772d7af",
+  "preferredProducts": [
+    508,
+    2541,
+    1588,
+    2083,
+    896,
+    4150,
+    3024,
+    4937,
+    2239,
+    1509
+  ],
+  "productReviews": [
+    {
+      "productId": 2738,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-11-22T10:39:29.3610554+02:00"
+    },
+    {
+      "productId": 3953,
+      "reviewText": "This incremental works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-11-12T20:08:12.3406389+02:00"
+    },
+    {
+      "productId": 2388,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-08-08T20:35:45.0560809+03:00"
+    }
+  ]
+}

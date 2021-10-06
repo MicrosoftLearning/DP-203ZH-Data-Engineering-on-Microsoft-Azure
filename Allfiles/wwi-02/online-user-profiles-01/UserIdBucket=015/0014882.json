@@ -1,0 +1,42 @@
+{
+  "userId": 14882,
+  "cartId": "ffdea5a1-7fc4-474f-8a30-d8dffd54688e",
+  "preferredProducts": [
+    1928,
+    4762,
+    4767,
+    2624,
+    1098,
+    2643,
+    2632,
+    2272,
+    1613
+  ],
+  "productReviews": [
+    {
+      "productId": 2239,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-02-18T00:32:22.3353127+02:00"
+    },
+    {
+      "productId": 188,
+      "reviewText": "This mobile works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2016-09-08T13:45:27.2375704+03:00"
+    },
+    {
+      "productId": 600,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-08-24T21:39:01.6509978+03:00"
+    },
+    {
+      "productId": 3222,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-12-16T13:21:04.8709759+02:00"
+    },
+    {
+      "productId": 3974,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-04-08T05:45:01.1860371+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 67652,
+  "cartId": "9441e337-1f59-43e6-a618-00babf9a9dba",
+  "preferredProducts": [
+    1094,
+    4125,
+    1333
+  ],
+  "productReviews": [
+    {
+      "productId": 306,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-03-03T10:46:42.7769165+02:00"
+    },
+    {
+      "productId": 100,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2020-01-29T11:04:34.6718578+02:00"
+    },
+    {
+      "productId": 3435,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2016-12-24T04:19:52.6986699+02:00"
+    },
+    {
+      "productId": 1927,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-01-06T17:02:39.1371171+02:00"
+    }
+  ]
+}

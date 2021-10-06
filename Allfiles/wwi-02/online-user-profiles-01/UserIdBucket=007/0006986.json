@@ -1,0 +1,23 @@
+{
+  "userId": 6986,
+  "cartId": "e519d9cc-7ba8-4795-b9cd-f6ef0f057a63",
+  "preferredProducts": [
+    4786,
+    56,
+    4072,
+    3393,
+    4382
+  ],
+  "productReviews": [
+    {
+      "productId": 4216,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-10-05T05:56:16.4549266+03:00"
+    },
+    {
+      "productId": 4988,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-08-04T05:40:03.4900679+03:00"
+    }
+  ]
+}

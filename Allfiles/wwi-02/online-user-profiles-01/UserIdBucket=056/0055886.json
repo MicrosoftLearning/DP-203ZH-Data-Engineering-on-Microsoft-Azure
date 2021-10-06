@@ -1,0 +1,33 @@
+{
+  "userId": 55886,
+  "cartId": "3f827659-1f62-4090-9430-99f6e854ee71",
+  "preferredProducts": [
+    4034,
+    1996,
+    4769,
+    2774,
+    4630,
+    4552,
+    2112,
+    2010,
+    3257,
+    3917
+  ],
+  "productReviews": [
+    {
+      "productId": 3505,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-10-07T03:19:26.3582243+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-06-18T01:45:24.2499465+03:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-08-09T19:06:37.5363864+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 3033,
+  "cartId": "2d24e38f-bfda-4dae-9654-798086c8ba7a",
+  "preferredProducts": [
+    1189,
+    806,
+    3430,
+    307,
+    3352,
+    4737,
+    4524,
+    2464,
+    2753
+  ],
+  "productReviews": [
+    {
+      "productId": 194,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-12-09T05:56:57.1503763+02:00"
+    },
+    {
+      "productId": 2510,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-08T10:23:48.1895283+03:00"
+    },
+    {
+      "productId": 2209,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-10-27T22:26:49.9773829+03:00"
+    }
+  ]
+}

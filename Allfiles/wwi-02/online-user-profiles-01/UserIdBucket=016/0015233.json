@@ -1,0 +1,27 @@
+{
+  "userId": 15233,
+  "cartId": "4e0a8ac4-32bd-4ba2-9355-74bf00252345",
+  "preferredProducts": [
+    2348,
+    483,
+    4849,
+    1714,
+    2434,
+    1853,
+    2933,
+    931,
+    3273
+  ],
+  "productReviews": [
+    {
+      "productId": 297,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-10-27T04:37:34.1771471+03:00"
+    },
+    {
+      "productId": 1479,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-11-14T15:59:19.5199003+02:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 9845,
+  "cartId": "be210241-b226-46e1-8fa2-4a6a3ae2c803",
+  "preferredProducts": [
+    3208,
+    901,
+    298,
+    1559,
+    3234,
+    4326
+  ],
+  "productReviews": [
+    {
+      "productId": 101,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-06-25T07:38:42.9840833+03:00"
+    },
+    {
+      "productId": 3626,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-11-30T19:23:05.446085+02:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-11-02T06:12:38.246667+02:00"
+    },
+    {
+      "productId": 2046,
+      "reviewText": "This is a really good open-source.",
+      "reviewDate": "2017-07-03T10:33:08.8160566+03:00"
+    },
+    {
+      "productId": 1860,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-12-10T03:49:18.4061772+02:00"
+    }
+  ]
+}

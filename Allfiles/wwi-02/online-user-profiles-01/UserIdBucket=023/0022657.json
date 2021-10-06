@@ -1,0 +1,25 @@
+{
+  "userId": 22657,
+  "cartId": "5d5cdc1f-4ad2-4e92-b3ca-9c7be82d304d",
+  "preferredProducts": [
+    3850,
+    1645
+  ],
+  "productReviews": [
+    {
+      "productId": 1700,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-08-24T14:43:40.7764+03:00"
+    },
+    {
+      "productId": 256,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2016-09-27T08:14:11.1571521+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "This turn-key works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-12-21T22:03:05.3879612+02:00"
+    }
+  ]
+}

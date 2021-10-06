@@ -1,0 +1,26 @@
+{
+  "userId": 1885,
+  "cartId": "8d68510a-b9c3-43b6-8d30-3be357118ad1",
+  "preferredProducts": [
+    3822,
+    4426,
+    4721
+  ],
+  "productReviews": [
+    {
+      "productId": 113,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-07-22T23:43:08.1137357+03:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-03-17T05:37:17.2470588+02:00"
+    },
+    {
+      "productId": 3655,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-10-26T20:09:20.1198323+03:00"
+    }
+  ]
+}

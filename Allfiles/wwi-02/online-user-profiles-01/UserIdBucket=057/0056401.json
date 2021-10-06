@@ -1,0 +1,33 @@
+{
+  "userId": 56401,
+  "cartId": "3eb32e50-2f7b-485d-98bd-2d5256f9e05c",
+  "preferredProducts": [
+    3373,
+    2428,
+    3358,
+    2638,
+    758
+  ],
+  "productReviews": [
+    {
+      "productId": 309,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-01-13T15:29:24.5926298+02:00"
+    },
+    {
+      "productId": 3102,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-10-21T14:15:19.4014192+03:00"
+    },
+    {
+      "productId": 2267,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-06-26T00:03:17.4821065+03:00"
+    },
+    {
+      "productId": 1445,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-05-18T00:09:50.8116602+03:00"
+    }
+  ]
+}

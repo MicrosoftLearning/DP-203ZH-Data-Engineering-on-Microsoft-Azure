@@ -1,0 +1,28 @@
+{
+  "userId": 20194,
+  "cartId": "de33323e-a791-4da7-a218-8fb5fa7c51ea",
+  "preferredProducts": [
+    3710,
+    477,
+    4637,
+    1949,
+    3211
+  ],
+  "productReviews": [
+    {
+      "productId": 518,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-11-26T04:36:24.8514931+02:00"
+    },
+    {
+      "productId": 4040,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-02-08T17:47:31.397475+02:00"
+    },
+    {
+      "productId": 2150,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-04-24T05:14:48.1816347+03:00"
+    }
+  ]
+}

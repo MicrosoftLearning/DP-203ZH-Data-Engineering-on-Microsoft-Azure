@@ -1,0 +1,31 @@
+{
+  "userId": 81532,
+  "cartId": "761e2ca8-f5e0-4424-a84d-1a54054ad42e",
+  "preferredProducts": [
+    4078,
+    4201,
+    2862
+  ],
+  "productReviews": [
+    {
+      "productId": 2393,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-11-05T23:01:22.6127758+02:00"
+    },
+    {
+      "productId": 2887,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-11-09T20:41:57.7538709+02:00"
+    },
+    {
+      "productId": 1760,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-07-08T21:12:23.5093713+03:00"
+    },
+    {
+      "productId": 3731,
+      "reviewText": "this Enhanced is tasty.",
+      "reviewDate": "2019-04-01T11:05:56.1966055+03:00"
+    }
+  ]
+}

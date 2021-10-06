@@ -1,0 +1,31 @@
+{
+  "userId": 44526,
+  "cartId": "6779f13b-52d6-44f2-b9f2-c85706cdefeb",
+  "preferredProducts": [
+    3342,
+    1896,
+    1088
+  ],
+  "productReviews": [
+    {
+      "productId": 3405,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-11-05T01:06:08.6124412+02:00"
+    },
+    {
+      "productId": 4515,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-08-19T01:16:05.3513971+03:00"
+    },
+    {
+      "productId": 2504,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-02-12T20:30:06.7312465+02:00"
+    },
+    {
+      "productId": 22,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-03-20T11:03:53.9614144+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 27793,
+  "cartId": "7fe94377-1431-4522-afa0-8a9492585455",
+  "preferredProducts": [
+    2341,
+    4413,
+    363,
+    1672
+  ],
+  "productReviews": [
+    {
+      "productId": 3275,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-10-01T22:41:39.4220691+03:00"
+    },
+    {
+      "productId": 2635,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-11-24T13:08:51.91505+02:00"
+    },
+    {
+      "productId": 4537,
+      "reviewText": "This scale works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-12-08T22:30:43.0051908+02:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-07-20T15:53:02.4396177+03:00"
+    },
+    {
+      "productId": 270,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-03-03T18:52:34.9456315+02:00"
+    }
+  ]
+}

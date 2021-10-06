@@ -1,0 +1,23 @@
+{
+  "userId": 53789,
+  "cartId": "4b928bca-ad7f-432e-9d38-ec191733bd2a",
+  "preferredProducts": [
+    751,
+    2893,
+    1241,
+    4173,
+    3795
+  ],
+  "productReviews": [
+    {
+      "productId": 2634,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-07-24T10:48:39.7860172+03:00"
+    },
+    {
+      "productId": 3073,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-12-15T12:32:49.4465577+02:00"
+    }
+  ]
+}

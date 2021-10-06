@@ -1,0 +1,32 @@
+{
+  "userId": 50085,
+  "cartId": "d75dd433-5fd1-42d9-b334-469f2721bf50",
+  "preferredProducts": [
+    3020,
+    2626,
+    3699,
+    1332,
+    654,
+    3760,
+    2124,
+    2525,
+    4421
+  ],
+  "productReviews": [
+    {
+      "productId": 820,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-01-02T15:18:02.822121+02:00"
+    },
+    {
+      "productId": 4811,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-06-06T16:11:22.7884837+03:00"
+    },
+    {
+      "productId": 3509,
+      "reviewText": "This Functionality works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2019-09-06T01:53:36.9027009+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 15427,
+  "cartId": "2fcdd0e7-ed3b-437a-a659-0b3ef765cb27",
+  "preferredProducts": [
+    1950,
+    3707,
+    2579,
+    1754,
+    3905,
+    2935,
+    765
+  ],
+  "productReviews": [
+    {
+      "productId": 3041,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-05-09T15:13:10.6791192+03:00"
+    },
+    {
+      "productId": 4728,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2020-03-22T03:41:52.284297+02:00"
+    },
+    {
+      "productId": 3618,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-01-05T10:35:27.0949182+02:00"
+    },
+    {
+      "productId": 7,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-06-19T09:35:44.0868764+03:00"
+    }
+  ]
+}

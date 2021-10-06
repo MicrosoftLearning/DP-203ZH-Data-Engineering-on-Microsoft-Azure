@@ -1,0 +1,27 @@
+{
+  "userId": 37364,
+  "cartId": "19ec8abd-7533-4adb-9fb0-03a06742b7e8",
+  "preferredProducts": [
+    1678,
+    2650,
+    2843,
+    4479
+  ],
+  "productReviews": [
+    {
+      "productId": 2570,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-02-10T20:00:17.7464843+02:00"
+    },
+    {
+      "productId": 4254,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-03-17T01:59:29.6380138+02:00"
+    },
+    {
+      "productId": 4715,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-05-09T22:57:46.4903123+03:00"
+    }
+  ]
+}

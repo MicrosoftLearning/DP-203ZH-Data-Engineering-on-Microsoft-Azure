@@ -1,0 +1,37 @@
+{
+  "userId": 3159,
+  "cartId": "160cc54b-b16a-446c-ab9f-13d648123bc0",
+  "preferredProducts": [
+    307,
+    1933,
+    1459,
+    1450,
+    4272,
+    4541,
+    2765,
+    1399,
+    2968
+  ],
+  "productReviews": [
+    {
+      "productId": 1517,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-03-26T22:45:42.5070815+03:00"
+    },
+    {
+      "productId": 2934,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-08-17T23:49:36.0068438+03:00"
+    },
+    {
+      "productId": 2554,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-03-10T15:24:02.1982025+02:00"
+    },
+    {
+      "productId": 3261,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-08-03T18:50:25.0552467+03:00"
+    }
+  ]
+}

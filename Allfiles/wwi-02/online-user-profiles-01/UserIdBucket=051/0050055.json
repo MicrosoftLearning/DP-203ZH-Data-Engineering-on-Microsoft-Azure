@@ -1,0 +1,33 @@
+{
+  "userId": 50055,
+  "cartId": "89f37b68-f7f5-4a62-9d09-73a62bec61a7",
+  "preferredProducts": [
+    3696,
+    3780,
+    4674,
+    2144,
+    1989,
+    1575,
+    3284,
+    1957,
+    2566,
+    3778
+  ],
+  "productReviews": [
+    {
+      "productId": 1588,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-07-26T15:23:41.9760962+03:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-10-08T06:23:33.8639223+03:00"
+    },
+    {
+      "productId": 3979,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-01-29T02:54:56.7879795+02:00"
+    }
+  ]
+}

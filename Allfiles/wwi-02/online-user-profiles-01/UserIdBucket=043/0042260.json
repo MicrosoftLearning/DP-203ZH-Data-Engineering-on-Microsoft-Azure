@@ -1,0 +1,28 @@
+{
+  "userId": 42260,
+  "cartId": "6e64537a-885c-40d0-8e16-ccc7b95c20df",
+  "preferredProducts": [
+    4374,
+    4183,
+    4811,
+    3891,
+    37
+  ],
+  "productReviews": [
+    {
+      "productId": 3518,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-01-18T16:40:27.4843471+02:00"
+    },
+    {
+      "productId": 3742,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-11-30T20:04:27.4328671+02:00"
+    },
+    {
+      "productId": 786,
+      "reviewText": "this Avon is mellow.",
+      "reviewDate": "2018-09-02T21:22:50.0309427+03:00"
+    }
+  ]
+}

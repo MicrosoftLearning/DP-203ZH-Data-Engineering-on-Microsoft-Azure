@@ -1,0 +1,35 @@
+{
+  "userId": 99139,
+  "cartId": "666f4a91-709e-4155-b826-5f42ed3e5bb1",
+  "preferredProducts": [
+    1200,
+    3695,
+    3965,
+    2977,
+    2510,
+    1122,
+    4723
+  ],
+  "productReviews": [
+    {
+      "productId": 3895,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-11-06T04:11:25.5947875+02:00"
+    },
+    {
+      "productId": 3182,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-06-26T19:54:03.5497301+03:00"
+    },
+    {
+      "productId": 2691,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-09-08T15:00:09.2173742+03:00"
+    },
+    {
+      "productId": 1873,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-02-09T09:59:24.3154066+02:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 15329,
+  "cartId": "c0360fb2-a68a-4d8d-a43f-304ee705091a",
+  "preferredProducts": [
+    4841,
+    628,
+    2928,
+    2830,
+    4049
+  ],
+  "productReviews": [
+    {
+      "productId": 3443,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-09-12T13:12:11.476886+03:00"
+    },
+    {
+      "productId": 1359,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-02-09T23:00:31.0999285+02:00"
+    }
+  ]
+}

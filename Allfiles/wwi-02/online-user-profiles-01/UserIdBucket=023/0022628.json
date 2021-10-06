@@ -1,0 +1,27 @@
+{
+  "userId": 22628,
+  "cartId": "132082b3-552e-4ad1-8b00-265d527996a7",
+  "preferredProducts": [
+    4501,
+    4772,
+    4445,
+    2861
+  ],
+  "productReviews": [
+    {
+      "productId": 2669,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-06-19T01:41:12.0215059+03:00"
+    },
+    {
+      "productId": 2962,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-10-30T19:28:19.8065802+02:00"
+    },
+    {
+      "productId": 1521,
+      "reviewText": "this Prairie is tasty.",
+      "reviewDate": "2018-11-24T21:13:29.7394286+02:00"
+    }
+  ]
+}

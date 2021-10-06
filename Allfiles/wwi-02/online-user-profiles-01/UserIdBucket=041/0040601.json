@@ -1,0 +1,33 @@
+{
+  "userId": 40601,
+  "cartId": "20f21484-a24f-48aa-ab5d-b928ea6145b2",
+  "preferredProducts": [
+    3795,
+    625,
+    1824,
+    3642,
+    1565,
+    855,
+    1212,
+    2645,
+    3369,
+    1216
+  ],
+  "productReviews": [
+    {
+      "productId": 4525,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-10-21T16:51:06.6241098+03:00"
+    },
+    {
+      "productId": 2082,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-03-12T01:52:57.7183193+02:00"
+    },
+    {
+      "productId": 728,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-03-07T14:18:42.0785446+02:00"
+    }
+  ]
+}

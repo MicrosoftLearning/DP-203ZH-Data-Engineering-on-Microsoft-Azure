@@ -1,0 +1,34 @@
+{
+  "userId": 34403,
+  "cartId": "2a7f5250-fb86-40a4-b1d4-959cae9e670a",
+  "preferredProducts": [
+    3660,
+    2535,
+    1796,
+    4906,
+    4863,
+    508
+  ],
+  "productReviews": [
+    {
+      "productId": 4412,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-02-22T05:31:15.1230865+02:00"
+    },
+    {
+      "productId": 3654,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-11-21T15:27:40.4469621+02:00"
+    },
+    {
+      "productId": 4144,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-10-08T21:51:11.5653409+03:00"
+    },
+    {
+      "productId": 1787,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-09-14T11:37:05.8659681+03:00"
+    }
+  ]
+}

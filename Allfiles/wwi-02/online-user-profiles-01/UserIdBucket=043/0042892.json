@@ -1,0 +1,28 @@
+{
+  "userId": 42892,
+  "cartId": "ab67ca18-4fc2-4c56-8b45-0054b1b5f0a2",
+  "preferredProducts": [
+    3745,
+    1211,
+    4917,
+    4630,
+    369
+  ],
+  "productReviews": [
+    {
+      "productId": 990,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-09-14T09:09:01.9779114+03:00"
+    },
+    {
+      "productId": 2833,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-10-23T15:17:10.1583849+03:00"
+    },
+    {
+      "productId": 1151,
+      "reviewText": "this online is flirty.",
+      "reviewDate": "2016-10-12T13:08:33.7459239+03:00"
+    }
+  ]
+}

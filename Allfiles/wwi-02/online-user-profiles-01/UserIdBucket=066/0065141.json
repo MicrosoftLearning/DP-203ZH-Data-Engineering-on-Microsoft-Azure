@@ -1,0 +1,33 @@
+{
+  "userId": 65141,
+  "cartId": "a71c99a1-050b-4c15-b677-a4517af15362",
+  "preferredProducts": [
+    2545,
+    2683,
+    894,
+    1436,
+    2928
+  ],
+  "productReviews": [
+    {
+      "productId": 3556,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-01-15T22:58:14.6579869+02:00"
+    },
+    {
+      "productId": 3352,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-07-27T07:50:09.3295235+03:00"
+    },
+    {
+      "productId": 2671,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-05-17T20:47:00.5003047+03:00"
+    },
+    {
+      "productId": 2932,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-10-18T14:28:48.2593499+03:00"
+    }
+  ]
+}

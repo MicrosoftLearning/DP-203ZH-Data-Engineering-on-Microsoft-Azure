@@ -1,0 +1,31 @@
+{
+  "userId": 24633,
+  "cartId": "f3bf2823-4508-416b-8adf-a382cc06ee5d",
+  "preferredProducts": [
+    148,
+    429,
+    1711
+  ],
+  "productReviews": [
+    {
+      "productId": 2747,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-02-24T05:02:37.8126968+02:00"
+    },
+    {
+      "productId": 1558,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-04-28T18:12:17.711884+03:00"
+    },
+    {
+      "productId": 4237,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-12-15T09:28:35.2528184+02:00"
+    },
+    {
+      "productId": 2967,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-01-17T12:00:49.8305574+02:00"
+    }
+  ]
+}

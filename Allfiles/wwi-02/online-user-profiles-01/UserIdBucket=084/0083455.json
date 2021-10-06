@@ -1,0 +1,33 @@
+{
+  "userId": 83455,
+  "cartId": "ae68c4b0-d333-48d8-91ef-8c61b5351bd7",
+  "preferredProducts": [
+    1604,
+    2929,
+    4896,
+    459,
+    4322,
+    664,
+    2136,
+    3807,
+    3709,
+    1838
+  ],
+  "productReviews": [
+    {
+      "productId": 928,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-08-03T00:20:13.7387422+03:00"
+    },
+    {
+      "productId": 409,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-01-17T02:39:55.2201849+02:00"
+    },
+    {
+      "productId": 3449,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-07-21T11:42:21.8877009+03:00"
+    }
+  ]
+}

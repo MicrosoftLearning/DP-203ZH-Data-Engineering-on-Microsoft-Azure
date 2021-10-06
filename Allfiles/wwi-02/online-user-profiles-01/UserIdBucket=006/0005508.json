@@ -1,0 +1,36 @@
+{
+  "userId": 5508,
+  "cartId": "a710fd7c-ed7d-412d-99f2-a7a9ad15d322",
+  "preferredProducts": [
+    450,
+    4309,
+    1165
+  ],
+  "productReviews": [
+    {
+      "productId": 1032,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-08-12T18:34:26.5404594+03:00"
+    },
+    {
+      "productId": 999,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2017-09-17T04:45:43.110819+03:00"
+    },
+    {
+      "productId": 4741,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-01-05T09:01:07.3363021+02:00"
+    },
+    {
+      "productId": 2515,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2020-03-01T00:25:51.9243372+02:00"
+    },
+    {
+      "productId": 1272,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-07-14T22:59:44.5650805+03:00"
+    }
+  ]
+}

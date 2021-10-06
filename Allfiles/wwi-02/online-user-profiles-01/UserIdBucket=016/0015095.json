@@ -1,0 +1,30 @@
+{
+  "userId": 15095,
+  "cartId": "f308188d-d11e-4fed-ae7b-3eb554b50583",
+  "preferredProducts": [
+    1243,
+    3249
+  ],
+  "productReviews": [
+    {
+      "productId": 4647,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-07-20T23:41:52.0353465+03:00"
+    },
+    {
+      "productId": 3706,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-10-14T04:26:44.388763+03:00"
+    },
+    {
+      "productId": 4919,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-01-23T01:57:13.5156745+02:00"
+    },
+    {
+      "productId": 1174,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-10-14T21:28:09.9319316+03:00"
+    }
+  ]
+}

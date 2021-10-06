@@ -1,0 +1,31 @@
+{
+  "userId": 8235,
+  "cartId": "7b95143c-0171-47e8-95d4-30b768170834",
+  "preferredProducts": [
+    3130,
+    3827,
+    1264,
+    2148,
+    2751,
+    959,
+    4351,
+    1834
+  ],
+  "productReviews": [
+    {
+      "productId": 726,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-09-03T11:36:38.0552942+03:00"
+    },
+    {
+      "productId": 3395,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-05-23T00:17:35.461112+03:00"
+    },
+    {
+      "productId": 3002,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-01-21T12:57:34.0776313+02:00"
+    }
+  ]
+}

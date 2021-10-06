@@ -1,0 +1,26 @@
+{
+  "userId": 23008,
+  "cartId": "a95c5327-1823-4189-9b84-e49d3e2ae065",
+  "preferredProducts": [
+    4761,
+    3183,
+    898,
+    4270,
+    817,
+    3510,
+    1136,
+    1903
+  ],
+  "productReviews": [
+    {
+      "productId": 4312,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-10-03T16:53:35.3457753+03:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-07-28T21:00:50.7886786+03:00"
+    }
+  ]
+}

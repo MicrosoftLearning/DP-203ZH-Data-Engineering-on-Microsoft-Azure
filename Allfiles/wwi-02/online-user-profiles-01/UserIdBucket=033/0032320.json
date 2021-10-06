@@ -1,0 +1,25 @@
+{
+  "userId": 32320,
+  "cartId": "ef44af23-32c8-4311-9ce6-5a2321de83da",
+  "preferredProducts": [
+    468,
+    560,
+    2318,
+    1829,
+    562,
+    1306,
+    2867
+  ],
+  "productReviews": [
+    {
+      "productId": 1364,
+      "reviewText": "this Dynamic is awesome.",
+      "reviewDate": "2016-12-19T23:35:02.3831499+02:00"
+    },
+    {
+      "productId": 509,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-07-31T12:21:34.7655756+03:00"
+    }
+  ]
+}

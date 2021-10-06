@@ -1,0 +1,38 @@
+{
+  "userId": 10611,
+  "cartId": "9b512a88-3a68-4e44-bc6c-918b327d42c5",
+  "preferredProducts": [
+    4826,
+    1169,
+    4986,
+    3991,
+    4329
+  ],
+  "productReviews": [
+    {
+      "productId": 4140,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-02-26T08:39:41.805444+02:00"
+    },
+    {
+      "productId": 139,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-10-03T13:25:08.5836577+03:00"
+    },
+    {
+      "productId": 1394,
+      "reviewText": "This Executive works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2020-03-09T17:22:56.8062169+02:00"
+    },
+    {
+      "productId": 493,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-08-27T06:34:59.4477336+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-06-09T00:04:55.9346769+03:00"
+    }
+  ]
+}

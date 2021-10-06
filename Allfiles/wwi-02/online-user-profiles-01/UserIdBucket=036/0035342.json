@@ -1,0 +1,38 @@
+{
+  "userId": 35342,
+  "cartId": "8c26ede3-1693-4b39-aef7-40e8fb894a90",
+  "preferredProducts": [
+    2769,
+    2181,
+    616,
+    4404,
+    116,
+    1085,
+    723,
+    3523,
+    409,
+    3034
+  ],
+  "productReviews": [
+    {
+      "productId": 2101,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-02-03T12:14:29.1321042+02:00"
+    },
+    {
+      "productId": 4599,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-08-14T11:21:24.3940469+03:00"
+    },
+    {
+      "productId": 2884,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-10-30T18:07:29.4768304+02:00"
+    },
+    {
+      "productId": 4081,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-02-14T13:06:40.5556125+02:00"
+    }
+  ]
+}

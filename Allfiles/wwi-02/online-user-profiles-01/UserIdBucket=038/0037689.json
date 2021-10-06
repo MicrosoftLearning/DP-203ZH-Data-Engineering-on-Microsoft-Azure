@@ -1,0 +1,33 @@
+{
+  "userId": 37689,
+  "cartId": "bd8ba285-e895-48aa-997d-c4c0baf158c2",
+  "preferredProducts": [
+    234,
+    2827,
+    4992,
+    3696,
+    973
+  ],
+  "productReviews": [
+    {
+      "productId": 4008,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-02-17T19:24:57.7886769+02:00"
+    },
+    {
+      "productId": 4106,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-04-02T04:07:11.7497436+03:00"
+    },
+    {
+      "productId": 4437,
+      "reviewText": "this Fantastic is vertical.",
+      "reviewDate": "2017-02-11T04:10:00.2019441+02:00"
+    },
+    {
+      "productId": 4480,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-10-26T21:45:55.9297075+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 30103,
+  "cartId": "3e224cdc-8a0a-4eb5-b0e7-7275e3bcb034",
+  "preferredProducts": [
+    1404,
+    2573,
+    2577,
+    3766,
+    3885,
+    1107,
+    3345,
+    1325,
+    482
+  ],
+  "productReviews": [
+    {
+      "productId": 1348,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-02-16T21:57:42.8125137+02:00"
+    },
+    {
+      "productId": 2324,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-02-04T09:28:34.2849921+02:00"
+    },
+    {
+      "productId": 197,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-05-30T14:05:46.1033828+03:00"
+    },
+    {
+      "productId": 448,
+      "reviewText": "this withdrawal is mellow.",
+      "reviewDate": "2019-03-15T07:04:25.865281+02:00"
+    }
+  ]
+}

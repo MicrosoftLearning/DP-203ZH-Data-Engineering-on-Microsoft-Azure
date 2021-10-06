@@ -1,0 +1,28 @@
+{
+  "userId": 62345,
+  "cartId": "cecfaf1e-e055-4618-b97b-c665e54a9b21",
+  "preferredProducts": [
+    2156,
+    2937,
+    4000,
+    1323,
+    849
+  ],
+  "productReviews": [
+    {
+      "productId": 351,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-12-29T04:37:40.0689407+02:00"
+    },
+    {
+      "productId": 671,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-11-21T14:51:26.1073995+02:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-05-04T11:28:13.7009485+03:00"
+    }
+  ]
+}

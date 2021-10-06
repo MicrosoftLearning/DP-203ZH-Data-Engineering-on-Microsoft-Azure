@@ -1,0 +1,37 @@
+{
+  "userId": 41943,
+  "cartId": "3cfce9eb-f2d1-4ea7-9756-11aa870ef8d0",
+  "preferredProducts": [
+    2679,
+    1583,
+    2431,
+    3167,
+    3711,
+    3682,
+    2564,
+    2872,
+    1045
+  ],
+  "productReviews": [
+    {
+      "productId": 4299,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-07-27T04:01:56.4127698+03:00"
+    },
+    {
+      "productId": 3954,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-11-05T23:26:11.8192758+02:00"
+    },
+    {
+      "productId": 3985,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-03-25T01:41:09.9840899+02:00"
+    },
+    {
+      "productId": 1120,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-11-04T20:09:53.4669498+02:00"
+    }
+  ]
+}

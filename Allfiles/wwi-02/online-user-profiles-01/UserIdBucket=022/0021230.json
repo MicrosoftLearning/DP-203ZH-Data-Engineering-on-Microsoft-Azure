@@ -1,0 +1,39 @@
+{
+  "userId": 21230,
+  "cartId": "7103b27d-a77d-4e7e-a813-6bfc8850ebd1",
+  "preferredProducts": [
+    1258,
+    755,
+    4143,
+    2746,
+    2757,
+    3234
+  ],
+  "productReviews": [
+    {
+      "productId": 2871,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-12-02T07:34:51.9584342+02:00"
+    },
+    {
+      "productId": 3248,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-03-21T20:28:40.9807822+02:00"
+    },
+    {
+      "productId": 2592,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2017-06-07T09:47:30.2110804+03:00"
+    },
+    {
+      "productId": 1470,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-06-04T21:28:14.2599796+03:00"
+    },
+    {
+      "productId": 4730,
+      "reviewText": "this cyan is slurpee.",
+      "reviewDate": "2020-02-22T19:31:00.6575371+02:00"
+    }
+  ]
+}

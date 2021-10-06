@@ -1,0 +1,40 @@
+{
+  "userId": 27367,
+  "cartId": "db00e34f-bde9-4525-869d-57fdb56a44ef",
+  "preferredProducts": [
+    961,
+    2921,
+    3462,
+    1770,
+    3597,
+    2143,
+    423
+  ],
+  "productReviews": [
+    {
+      "productId": 4029,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-09-08T12:41:32.6587351+03:00"
+    },
+    {
+      "productId": 1074,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-07-14T09:14:35.4373401+03:00"
+    },
+    {
+      "productId": 1164,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-01-13T04:03:32.4146054+02:00"
+    },
+    {
+      "productId": 4792,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2020-01-01T07:27:58.9510997+02:00"
+    },
+    {
+      "productId": 4094,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-10-13T00:32:46.8415686+03:00"
+    }
+  ]
+}

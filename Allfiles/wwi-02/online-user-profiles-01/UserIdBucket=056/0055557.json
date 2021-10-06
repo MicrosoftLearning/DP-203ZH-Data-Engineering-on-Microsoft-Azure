@@ -1,0 +1,34 @@
+{
+  "userId": 55557,
+  "cartId": "d46a14e9-b726-45f3-8fb6-b8d43943a4aa",
+  "preferredProducts": [
+    1452,
+    1234,
+    4352,
+    3517,
+    315,
+    1818
+  ],
+  "productReviews": [
+    {
+      "productId": 719,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-11-01T11:56:14.6461893+02:00"
+    },
+    {
+      "productId": 717,
+      "reviewText": "This Optimization, does exactly what it's suppose to do.",
+      "reviewDate": "2020-05-01T15:11:33.8991945+03:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-10-05T15:09:52.6025437+03:00"
+    },
+    {
+      "productId": 2759,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-09-12T18:29:02.3237351+03:00"
+    }
+  ]
+}

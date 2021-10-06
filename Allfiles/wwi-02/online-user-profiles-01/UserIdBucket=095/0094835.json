@@ -1,0 +1,30 @@
+{
+  "userId": 94835,
+  "cartId": "97f60c11-2f30-4fdf-b4a1-6184b3081132",
+  "preferredProducts": [
+    1066,
+    725,
+    1624,
+    4427,
+    4530,
+    2337,
+    2464
+  ],
+  "productReviews": [
+    {
+      "productId": 2227,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-10-22T19:20:55.3730336+03:00"
+    },
+    {
+      "productId": 3235,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-01-31T16:08:46.3839904+02:00"
+    },
+    {
+      "productId": 1908,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-02-04T23:44:42.1869455+02:00"
+    }
+  ]
+}

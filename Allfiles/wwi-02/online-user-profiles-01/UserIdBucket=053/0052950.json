@@ -1,0 +1,35 @@
+{
+  "userId": 52950,
+  "cartId": "cd4c1cf6-403f-406b-a328-b291c3fe7088",
+  "preferredProducts": [
+    3496,
+    489,
+    1041,
+    3781,
+    4603,
+    2793,
+    4561
+  ],
+  "productReviews": [
+    {
+      "productId": 753,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-01-19T07:39:07.639098+02:00"
+    },
+    {
+      "productId": 4418,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-12-24T13:32:26.1569644+02:00"
+    },
+    {
+      "productId": 521,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-05-15T06:36:37.0405821+03:00"
+    },
+    {
+      "productId": 1964,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-11-09T01:25:24.980097+02:00"
+    }
+  ]
+}

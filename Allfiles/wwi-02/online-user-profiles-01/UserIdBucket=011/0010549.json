@@ -1,0 +1,24 @@
+{
+  "userId": 10549,
+  "cartId": "120697f1-eba7-4eea-9a0e-3155140c1d8f",
+  "preferredProducts": [
+    3584,
+    3650,
+    1659,
+    1963,
+    2387,
+    4354
+  ],
+  "productReviews": [
+    {
+      "productId": 1288,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-06-18T17:58:07.2649698+03:00"
+    },
+    {
+      "productId": 369,
+      "reviewText": "This Buckinghamshire works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2017-04-20T00:03:36.6002431+03:00"
+    }
+  ]
+}

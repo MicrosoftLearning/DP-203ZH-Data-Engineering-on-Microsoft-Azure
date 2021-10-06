@@ -1,0 +1,41 @@
+{
+  "userId": 45164,
+  "cartId": "ab4637ed-8ebe-4311-bec7-7a27c7f0739b",
+  "preferredProducts": [
+    192,
+    1742,
+    3194,
+    3306,
+    250,
+    3937,
+    3501,
+    3712
+  ],
+  "productReviews": [
+    {
+      "productId": 230,
+      "reviewText": "this mission-critical is mellow.",
+      "reviewDate": "2017-12-24T17:54:45.5884176+02:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-09-01T04:15:54.5106184+03:00"
+    },
+    {
+      "productId": 2238,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2019-01-26T00:31:12.5153867+02:00"
+    },
+    {
+      "productId": 4773,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-01-12T02:25:28.6219989+02:00"
+    },
+    {
+      "productId": 254,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-07-14T20:01:23.2219847+03:00"
+    }
+  ]
+}

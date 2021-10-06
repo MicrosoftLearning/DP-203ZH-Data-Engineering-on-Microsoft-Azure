@@ -1,0 +1,25 @@
+{
+  "userId": 81031,
+  "cartId": "a7a6c8b0-b20a-4ba1-8472-5ab4208f6971",
+  "preferredProducts": [
+    2445,
+    2298,
+    2611,
+    2376,
+    2942,
+    3048,
+    2205
+  ],
+  "productReviews": [
+    {
+      "productId": 4665,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-27T11:01:02.6263038+02:00"
+    },
+    {
+      "productId": 4542,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-08-15T16:00:00.6721732+03:00"
+    }
+  ]
+}

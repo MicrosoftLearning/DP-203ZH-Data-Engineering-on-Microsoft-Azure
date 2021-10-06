@@ -1,0 +1,33 @@
+{
+  "userId": 27588,
+  "cartId": "d7df763d-3067-4a2c-80e8-d9479d09796c",
+  "preferredProducts": [
+    4172,
+    3178,
+    2729,
+    4330,
+    4005,
+    1375,
+    958,
+    2918,
+    3258,
+    3034
+  ],
+  "productReviews": [
+    {
+      "productId": 617,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-02-02T12:27:55.1594537+02:00"
+    },
+    {
+      "productId": 1184,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-07-23T06:29:10.7939246+03:00"
+    },
+    {
+      "productId": 2647,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-09-08T19:08:57.6220414+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 25161,
+  "cartId": "80689e82-0c56-4a4b-a951-4d5c82f32dac",
+  "preferredProducts": [
+    1120,
+    3703,
+    4324,
+    2839,
+    1371,
+    2954
+  ],
+  "productReviews": [
+    {
+      "productId": 176,
+      "reviewText": "this wireless is nifty.",
+      "reviewDate": "2018-05-07T06:03:13.6068163+03:00"
+    },
+    {
+      "productId": 2555,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-03-31T00:39:25.1587961+03:00"
+    },
+    {
+      "productId": 751,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-03-21T07:50:25.3053695+02:00"
+    }
+  ]
+}

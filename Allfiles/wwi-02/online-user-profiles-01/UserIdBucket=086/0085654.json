@@ -1,0 +1,25 @@
+{
+  "userId": 85654,
+  "cartId": "08cf10af-0c47-44f9-8994-68dffe3e39f5",
+  "preferredProducts": [
+    846,
+    3917
+  ],
+  "productReviews": [
+    {
+      "productId": 2880,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-05-04T12:42:30.6719454+03:00"
+    },
+    {
+      "productId": 1131,
+      "reviewText": "this Refined Frozen Pizza is light-hearted.",
+      "reviewDate": "2019-08-20T00:41:35.2516779+03:00"
+    },
+    {
+      "productId": 2902,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-01-12T01:15:29.8407715+02:00"
+    }
+  ]
+}

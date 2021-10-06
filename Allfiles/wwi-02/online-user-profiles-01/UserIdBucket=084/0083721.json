@@ -1,0 +1,35 @@
+{
+  "userId": 83721,
+  "cartId": "fe422243-8163-4fd1-97fc-d259e259b271",
+  "preferredProducts": [
+    1269,
+    1966,
+    3403,
+    4919,
+    4253,
+    1946,
+    3202
+  ],
+  "productReviews": [
+    {
+      "productId": 4290,
+      "reviewText": "this front-end is flirty.",
+      "reviewDate": "2017-11-04T01:18:05.6188662+02:00"
+    },
+    {
+      "productId": 3298,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-05-18T05:38:32.7345192+03:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-04-08T08:23:34.9071711+03:00"
+    },
+    {
+      "productId": 3680,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-04-06T00:58:34.9306403+03:00"
+    }
+  ]
+}

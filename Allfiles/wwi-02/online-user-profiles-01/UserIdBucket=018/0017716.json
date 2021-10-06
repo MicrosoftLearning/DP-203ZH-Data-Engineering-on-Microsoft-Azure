@@ -1,0 +1,37 @@
+{
+  "userId": 17716,
+  "cartId": "ec4ca56c-a739-4d5c-8431-22d9a9df6b3a",
+  "preferredProducts": [
+    42,
+    3886,
+    3205,
+    3987,
+    3881,
+    3279,
+    4247,
+    2970,
+    1333
+  ],
+  "productReviews": [
+    {
+      "productId": 88,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-10-25T23:23:34.6390195+03:00"
+    },
+    {
+      "productId": 3382,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-03-06T11:46:50.9913252+02:00"
+    },
+    {
+      "productId": 929,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-02-08T06:47:18.7193804+02:00"
+    },
+    {
+      "productId": 4259,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-10-29T15:04:45.3064174+02:00"
+    }
+  ]
+}

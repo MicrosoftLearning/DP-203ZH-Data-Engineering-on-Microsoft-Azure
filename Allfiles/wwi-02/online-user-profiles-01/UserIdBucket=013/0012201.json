@@ -1,0 +1,27 @@
+{
+  "userId": 12201,
+  "cartId": "5a5cd495-f273-44bf-8b95-0916d7eef2bd",
+  "preferredProducts": [
+    3332,
+    2705,
+    4509,
+    4687,
+    2639,
+    1312,
+    4587,
+    3389,
+    2090
+  ],
+  "productReviews": [
+    {
+      "productId": 2789,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2020-04-22T21:52:28.7160208+03:00"
+    },
+    {
+      "productId": 2756,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-11-27T19:06:24.5100852+02:00"
+    }
+  ]
+}

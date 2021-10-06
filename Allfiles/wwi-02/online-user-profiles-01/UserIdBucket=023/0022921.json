@@ -1,0 +1,31 @@
+{
+  "userId": 22921,
+  "cartId": "df56bfef-8e59-45ec-a13e-3ded28cccbf5",
+  "preferredProducts": [
+    4159,
+    3693,
+    4361
+  ],
+  "productReviews": [
+    {
+      "productId": 1728,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-04-22T10:49:51.5874629+03:00"
+    },
+    {
+      "productId": 276,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-06-08T10:36:42.5336517+03:00"
+    },
+    {
+      "productId": 3142,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-07-18T12:52:03.0363836+03:00"
+    },
+    {
+      "productId": 2340,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-11-11T09:56:47.5425919+02:00"
+    }
+  ]
+}

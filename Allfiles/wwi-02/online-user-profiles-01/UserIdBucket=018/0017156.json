@@ -1,0 +1,34 @@
+{
+  "userId": 17156,
+  "cartId": "c0ff5a14-6e6e-49f7-af3d-c59b2d75a62d",
+  "preferredProducts": [
+    3651,
+    3592,
+    1027,
+    1887,
+    1234,
+    4343
+  ],
+  "productReviews": [
+    {
+      "productId": 3250,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-11-18T04:55:18.1172698+02:00"
+    },
+    {
+      "productId": 3543,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-08-15T11:04:03.0562738+03:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-07-10T00:10:19.4633451+03:00"
+    },
+    {
+      "productId": 3689,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-03-18T04:23:54.5419619+02:00"
+    }
+  ]
+}

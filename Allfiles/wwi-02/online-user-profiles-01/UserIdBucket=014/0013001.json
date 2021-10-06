@@ -1,0 +1,38 @@
+{
+  "userId": 13001,
+  "cartId": "c80faf04-4cbe-4b28-a22b-a5e7bdcbd62a",
+  "preferredProducts": [
+    2918,
+    2022,
+    673,
+    1382,
+    1241
+  ],
+  "productReviews": [
+    {
+      "productId": 3448,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-01-05T17:59:24.3341937+02:00"
+    },
+    {
+      "productId": 3371,
+      "reviewText": "this Yemeni Rial is hyper.",
+      "reviewDate": "2019-06-03T14:57:45.4427786+03:00"
+    },
+    {
+      "productId": 3499,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-07-25T01:28:19.2757291+03:00"
+    },
+    {
+      "productId": 1980,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-10-20T11:28:24.5155848+03:00"
+    },
+    {
+      "productId": 4897,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-09-14T20:49:38.7224939+03:00"
+    }
+  ]
+}

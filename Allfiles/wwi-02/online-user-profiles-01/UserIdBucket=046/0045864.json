@@ -1,0 +1,42 @@
+{
+  "userId": 45864,
+  "cartId": "1284482f-6ac2-49bb-80ba-6d0398b95717",
+  "preferredProducts": [
+    2862,
+    2384,
+    4032,
+    4104,
+    2745,
+    2542,
+    303,
+    2455,
+    3053
+  ],
+  "productReviews": [
+    {
+      "productId": 3247,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-06-14T18:01:51.7497811+03:00"
+    },
+    {
+      "productId": 3672,
+      "reviewText": "This XSS works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-09-06T14:29:14.1436642+03:00"
+    },
+    {
+      "productId": 4893,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-01-24T07:13:48.9387493+02:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-06-21T01:49:59.1635838+03:00"
+    },
+    {
+      "productId": 3222,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2020-03-30T23:53:16.7492605+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 42505,
+  "cartId": "56f7e548-6d40-4db3-ba4d-b91762b99ed0",
+  "preferredProducts": [
+    2807,
+    3974,
+    4331,
+    581,
+    1125
+  ],
+  "productReviews": [
+    {
+      "productId": 577,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-03-01T22:00:10.4755599+02:00"
+    },
+    {
+      "productId": 3206,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-10-26T17:10:26.8278674+03:00"
+    },
+    {
+      "productId": 3416,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-04-20T08:23:55.6219803+03:00"
+    },
+    {
+      "productId": 1268,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-04-15T07:17:43.4188638+03:00"
+    }
+  ]
+}

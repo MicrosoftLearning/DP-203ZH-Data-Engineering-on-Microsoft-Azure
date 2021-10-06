@@ -1,0 +1,43 @@
+{
+  "userId": 1715,
+  "cartId": "6beddc9b-37ba-4776-9714-be60f029b7e6",
+  "preferredProducts": [
+    3090,
+    625,
+    1416,
+    2430,
+    4054,
+    1704,
+    4187,
+    373,
+    37,
+    714
+  ],
+  "productReviews": [
+    {
+      "productId": 3902,
+      "reviewText": "this Producer is awesome.",
+      "reviewDate": "2017-03-18T21:25:19.7303897+02:00"
+    },
+    {
+      "productId": 4188,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-12-15T05:39:13.7697633+02:00"
+    },
+    {
+      "productId": 1006,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-07-19T14:33:53.8052729+03:00"
+    },
+    {
+      "productId": 159,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-03-19T15:37:47.1273949+02:00"
+    },
+    {
+      "productId": 3375,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-10-21T13:52:23.540129+03:00"
+    }
+  ]
+}

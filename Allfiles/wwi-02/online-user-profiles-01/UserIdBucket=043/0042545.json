@@ -1,0 +1,25 @@
+{
+  "userId": 42545,
+  "cartId": "0d5d1760-c90d-445b-bcc6-1afd434747c9",
+  "preferredProducts": [
+    1811,
+    4303,
+    907,
+    662,
+    2642,
+    1409,
+    2482
+  ],
+  "productReviews": [
+    {
+      "productId": 466,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-12-03T09:46:41.2246772+02:00"
+    },
+    {
+      "productId": 2347,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2016-12-30T17:48:37.2230862+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 59814,
+  "cartId": "dea2cc03-7a1b-470e-9b12-a9d5f55d9b98",
+  "preferredProducts": [
+    917,
+    4566,
+    680,
+    2272,
+    45
+  ],
+  "productReviews": [
+    {
+      "productId": 819,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-01-06T05:25:49.1820425+02:00"
+    },
+    {
+      "productId": 3190,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-07-28T18:41:59.6171959+03:00"
+    },
+    {
+      "productId": 3346,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-01-16T12:48:11.8961312+02:00"
+    },
+    {
+      "productId": 3667,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-07-26T01:34:58.5451073+03:00"
+    }
+  ]
+}

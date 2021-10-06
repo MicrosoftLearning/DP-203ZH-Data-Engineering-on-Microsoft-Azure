@@ -1,0 +1,32 @@
+{
+  "userId": 93697,
+  "cartId": "68d1d660-4be0-4cd4-8c5a-932c1f788b16",
+  "preferredProducts": [
+    2513,
+    342,
+    418,
+    3190
+  ],
+  "productReviews": [
+    {
+      "productId": 3085,
+      "reviewText": "this Ranch is mellow.",
+      "reviewDate": "2016-11-12T10:31:21.5634693+02:00"
+    },
+    {
+      "productId": 4166,
+      "reviewText": "this Divide is light-hearted.",
+      "reviewDate": "2020-01-23T14:58:11.098024+02:00"
+    },
+    {
+      "productId": 3464,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-05-19T10:09:02.7595691+03:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-01-23T13:30:58.4855742+02:00"
+    }
+  ]
+}

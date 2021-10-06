@@ -1,0 +1,29 @@
+{
+  "userId": 4681,
+  "cartId": "10bc3c8f-9af9-473b-85bd-442053ea2a3a",
+  "preferredProducts": [
+    3360
+  ],
+  "productReviews": [
+    {
+      "productId": 301,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-04-05T21:46:13.0585852+03:00"
+    },
+    {
+      "productId": 2781,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-01T16:44:08.0869699+02:00"
+    },
+    {
+      "productId": 772,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-12-22T00:33:54.2461543+02:00"
+    },
+    {
+      "productId": 1564,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-09-05T05:55:59.2832891+03:00"
+    }
+  ]
+}

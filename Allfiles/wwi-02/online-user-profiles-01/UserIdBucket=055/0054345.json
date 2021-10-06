@@ -1,0 +1,28 @@
+{
+  "userId": 54345,
+  "cartId": "6a3da0e4-da45-40f9-83d1-1a92a2fc0f62",
+  "preferredProducts": [
+    1299,
+    1800,
+    322,
+    2650,
+    2168
+  ],
+  "productReviews": [
+    {
+      "productId": 4568,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-02-01T08:10:59.8397417+02:00"
+    },
+    {
+      "productId": 1304,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-01-17T04:10:37.2366234+02:00"
+    },
+    {
+      "productId": 3961,
+      "reviewText": "This EXE works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-09-28T05:05:11.3027557+03:00"
+    }
+  ]
+}

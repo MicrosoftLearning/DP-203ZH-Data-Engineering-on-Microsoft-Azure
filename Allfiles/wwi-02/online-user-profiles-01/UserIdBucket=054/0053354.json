@@ -1,0 +1,32 @@
+{
+  "userId": 53354,
+  "cartId": "545766bf-1d65-455c-8e83-e769a6c3b86d",
+  "preferredProducts": [
+    3601,
+    3184,
+    4164,
+    4270,
+    534,
+    4486,
+    3835,
+    3193,
+    2722
+  ],
+  "productReviews": [
+    {
+      "productId": 2174,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-02-29T09:03:23.3281485+02:00"
+    },
+    {
+      "productId": 2944,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-02-16T01:11:19.6406566+02:00"
+    },
+    {
+      "productId": 2246,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-11-30T20:09:49.5481972+02:00"
+    }
+  ]
+}

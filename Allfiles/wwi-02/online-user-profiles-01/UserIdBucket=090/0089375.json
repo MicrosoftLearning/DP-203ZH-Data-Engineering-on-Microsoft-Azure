@@ -1,0 +1,27 @@
+{
+  "userId": 89375,
+  "cartId": "34501e3d-b215-4222-a533-d9dcdc86a159",
+  "preferredProducts": [
+    1720,
+    4040,
+    2809,
+    1702
+  ],
+  "productReviews": [
+    {
+      "productId": 2161,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-10-15T19:21:44.0870868+03:00"
+    },
+    {
+      "productId": 4629,
+      "reviewText": "this auxiliary is vertical.",
+      "reviewDate": "2019-06-21T00:55:42.2100821+03:00"
+    },
+    {
+      "productId": 3587,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-01-06T10:18:16.3326293+02:00"
+    }
+  ]
+}

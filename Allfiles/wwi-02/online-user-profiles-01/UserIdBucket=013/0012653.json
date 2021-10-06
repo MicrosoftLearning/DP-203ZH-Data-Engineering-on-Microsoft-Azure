@@ -1,0 +1,32 @@
+{
+  "userId": 12653,
+  "cartId": "f406bca5-4ed6-4c55-b416-51d963caf71f",
+  "preferredProducts": [
+    1858,
+    2687,
+    2275,
+    1881
+  ],
+  "productReviews": [
+    {
+      "productId": 379,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-06-17T18:25:52.9737115+03:00"
+    },
+    {
+      "productId": 2425,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-11-26T09:34:38.5041056+02:00"
+    },
+    {
+      "productId": 3966,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-02-21T11:03:17.5025388+02:00"
+    },
+    {
+      "productId": 3177,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-02-23T00:15:02.1971797+02:00"
+    }
+  ]
+}

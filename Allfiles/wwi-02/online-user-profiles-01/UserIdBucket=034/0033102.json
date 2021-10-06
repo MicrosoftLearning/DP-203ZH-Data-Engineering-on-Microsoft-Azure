@@ -1,0 +1,36 @@
+{
+  "userId": 33102,
+  "cartId": "fd2b44a7-572e-4184-ad94-bcba8aa83250",
+  "preferredProducts": [
+    267,
+    860,
+    1262
+  ],
+  "productReviews": [
+    {
+      "productId": 4456,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-09-07T18:05:25.2477097+03:00"
+    },
+    {
+      "productId": 3450,
+      "reviewText": "This Iowa, does exactly what it's suppose to do.",
+      "reviewDate": "2020-04-24T16:54:54.0200965+03:00"
+    },
+    {
+      "productId": 3311,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-06-12T08:12:40.5685554+03:00"
+    },
+    {
+      "productId": 2691,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-03-10T00:41:20.0344424+02:00"
+    },
+    {
+      "productId": 2123,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-01-13T01:16:46.5731861+02:00"
+    }
+  ]
+}

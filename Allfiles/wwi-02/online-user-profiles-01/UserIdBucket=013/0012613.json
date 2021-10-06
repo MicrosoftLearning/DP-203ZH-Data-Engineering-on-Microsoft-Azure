@@ -1,0 +1,32 @@
+{
+  "userId": 12613,
+  "cartId": "7be51e5b-3a5c-4f06-be5d-83b8fb482b1a",
+  "preferredProducts": [
+    9,
+    775,
+    1455,
+    678
+  ],
+  "productReviews": [
+    {
+      "productId": 2359,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-06-22T10:17:06.4091499+03:00"
+    },
+    {
+      "productId": 967,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-11-01T13:59:55.7333504+02:00"
+    },
+    {
+      "productId": 644,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-10-12T06:55:39.5961411+03:00"
+    },
+    {
+      "productId": 2607,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-06-06T10:58:52.3543355+03:00"
+    }
+  ]
+}

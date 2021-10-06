@@ -1,0 +1,33 @@
+{
+  "userId": 88375,
+  "cartId": "bde89742-60bf-4c15-9cbc-56af88d9753d",
+  "preferredProducts": [
+    2399,
+    3727,
+    2135,
+    2855,
+    3262,
+    3362,
+    4880,
+    1538,
+    923,
+    4214
+  ],
+  "productReviews": [
+    {
+      "productId": 2940,
+      "reviewText": "this Fresh is snowy.",
+      "reviewDate": "2019-06-16T20:41:43.9365085+03:00"
+    },
+    {
+      "productId": 3713,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-07-02T06:53:46.0385396+03:00"
+    },
+    {
+      "productId": 2633,
+      "reviewText": "this Buckinghamshire is honest.",
+      "reviewDate": "2016-12-24T14:37:58.4773837+02:00"
+    }
+  ]
+}

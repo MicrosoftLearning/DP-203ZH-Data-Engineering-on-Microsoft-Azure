@@ -1,0 +1,24 @@
+{
+  "userId": 55356,
+  "cartId": "1f2754f7-4e2f-4d1c-af54-cdf8d420ece4",
+  "preferredProducts": [
+    722,
+    3436,
+    4278,
+    586,
+    1250,
+    3203
+  ],
+  "productReviews": [
+    {
+      "productId": 4631,
+      "reviewText": "this one-to-one is ghetto.",
+      "reviewDate": "2016-09-26T16:32:16.822351+03:00"
+    },
+    {
+      "productId": 4733,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-05-28T05:02:02.5300142+03:00"
+    }
+  ]
+}

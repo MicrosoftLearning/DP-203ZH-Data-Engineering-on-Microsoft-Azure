@@ -1,0 +1,30 @@
+{
+  "userId": 44466,
+  "cartId": "f41bc34e-0bc6-4297-ae05-2ca8ab3f21f4",
+  "preferredProducts": [
+    4013,
+    1927,
+    4390,
+    959,
+    4638,
+    3883,
+    3530
+  ],
+  "productReviews": [
+    {
+      "productId": 536,
+      "reviewText": "this Infrastructure is snowy.",
+      "reviewDate": "2018-10-28T22:44:15.8893628+02:00"
+    },
+    {
+      "productId": 3935,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-01-22T05:14:14.8357741+02:00"
+    },
+    {
+      "productId": 3986,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-09-11T14:35:32.6194509+03:00"
+    }
+  ]
+}

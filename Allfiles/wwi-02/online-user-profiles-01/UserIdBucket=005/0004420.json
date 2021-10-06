@@ -1,0 +1,35 @@
+{
+  "userId": 4420,
+  "cartId": "cdbce0f7-65bd-4067-bb1b-bd00f2fb5aa8",
+  "preferredProducts": [
+    3601,
+    872,
+    2064,
+    1223,
+    2910,
+    4138,
+    2690
+  ],
+  "productReviews": [
+    {
+      "productId": 3502,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-06-08T23:54:31.7929559+03:00"
+    },
+    {
+      "productId": 387,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-05-14T12:39:53.9859476+03:00"
+    },
+    {
+      "productId": 2341,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-12-05T15:11:55.9405814+02:00"
+    },
+    {
+      "productId": 419,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-03-01T11:10:07.9502294+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 23181,
+  "cartId": "40f6adec-8854-4663-b8c4-e313a30fc2a5",
+  "preferredProducts": [
+    3585,
+    1409,
+    1151,
+    1041,
+    3729,
+    3128
+  ],
+  "productReviews": [
+    {
+      "productId": 2057,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-02-03T03:13:57.4193846+02:00"
+    },
+    {
+      "productId": 4750,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-06-29T13:12:21.9952512+03:00"
+    }
+  ]
+}

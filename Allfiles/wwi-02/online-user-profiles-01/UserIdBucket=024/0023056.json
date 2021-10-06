@@ -1,0 +1,30 @@
+{
+  "userId": 23056,
+  "cartId": "1b993fbe-adb3-4f04-a045-6a062fe1c542",
+  "preferredProducts": [
+    1192,
+    1651,
+    3123,
+    4940,
+    1067,
+    4299,
+    4363
+  ],
+  "productReviews": [
+    {
+      "productId": 3995,
+      "reviewText": "this Multi-tiered is light-hearted.",
+      "reviewDate": "2019-05-24T23:52:54.4476379+03:00"
+    },
+    {
+      "productId": 3966,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-07-23T16:15:34.4088617+03:00"
+    },
+    {
+      "productId": 327,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-12-10T01:31:44.2817187+02:00"
+    }
+  ]
+}

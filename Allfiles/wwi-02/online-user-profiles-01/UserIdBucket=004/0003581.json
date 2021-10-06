@@ -1,0 +1,32 @@
+{
+  "userId": 3581,
+  "cartId": "a930cb57-e801-4945-a131-4b6d6e1e7a0b",
+  "preferredProducts": [
+    1237,
+    1905,
+    3319,
+    4039,
+    4867,
+    1845,
+    768,
+    4711,
+    3991
+  ],
+  "productReviews": [
+    {
+      "productId": 737,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-10-07T20:52:44.1445724+03:00"
+    },
+    {
+      "productId": 2144,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-09-12T20:51:07.6177661+03:00"
+    },
+    {
+      "productId": 1982,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-11-28T17:03:24.1892797+02:00"
+    }
+  ]
+}

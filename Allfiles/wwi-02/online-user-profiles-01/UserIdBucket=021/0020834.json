@@ -1,0 +1,27 @@
+{
+  "userId": 20834,
+  "cartId": "b87c1bf6-8855-4ea7-990a-2f1d2ca609fb",
+  "preferredProducts": [
+    2382,
+    970,
+    297,
+    3235,
+    3515,
+    2876,
+    4107,
+    3948,
+    4426
+  ],
+  "productReviews": [
+    {
+      "productId": 3937,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-08-08T17:40:14.0780315+03:00"
+    },
+    {
+      "productId": 1208,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-08-28T10:31:48.20217+03:00"
+    }
+  ]
+}

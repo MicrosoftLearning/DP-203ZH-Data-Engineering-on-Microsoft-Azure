@@ -1,0 +1,31 @@
+{
+  "userId": 45158,
+  "cartId": "37d5de6b-9b54-4e6a-80e3-4cb38c3e0db8",
+  "preferredProducts": [
+    596,
+    2119,
+    3475,
+    3928,
+    2127,
+    1446,
+    3576,
+    1675
+  ],
+  "productReviews": [
+    {
+      "productId": 347,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-10-20T18:22:40.7757079+03:00"
+    },
+    {
+      "productId": 4008,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-06-12T05:45:39.2672855+03:00"
+    },
+    {
+      "productId": 1394,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-04-27T00:25:51.9444369+03:00"
+    }
+  ]
+}

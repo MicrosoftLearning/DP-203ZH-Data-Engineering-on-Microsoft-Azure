@@ -1,0 +1,36 @@
+{
+  "userId": 4634,
+  "cartId": "9cb93cf6-846d-42a9-aacb-09ff9d80e8a5",
+  "preferredProducts": [
+    1137,
+    2229,
+    2370,
+    4453,
+    4148,
+    1973,
+    4971,
+    2891
+  ],
+  "productReviews": [
+    {
+      "productId": 864,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-01-30T00:17:12.8636364+02:00"
+    },
+    {
+      "productId": 4621,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-03-02T07:42:20.8018354+02:00"
+    },
+    {
+      "productId": 4174,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-05-05T22:35:35.6286844+03:00"
+    },
+    {
+      "productId": 931,
+      "reviewText": "this Shoal is revolting.",
+      "reviewDate": "2016-10-01T16:57:39.498866+03:00"
+    }
+  ]
+}

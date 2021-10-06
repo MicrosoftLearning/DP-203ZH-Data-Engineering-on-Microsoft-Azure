@@ -1,0 +1,41 @@
+{
+  "userId": 42425,
+  "cartId": "5f4ab3be-d0bc-44fa-8ff2-c1e932f831f4",
+  "preferredProducts": [
+    997,
+    2524,
+    2118,
+    3927,
+    1278,
+    2111,
+    1909,
+    1387
+  ],
+  "productReviews": [
+    {
+      "productId": 196,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-01-09T11:03:57.1973261+02:00"
+    },
+    {
+      "productId": 4209,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-10-16T00:04:08.8576689+03:00"
+    },
+    {
+      "productId": 3203,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-11-06T12:42:26.4741183+02:00"
+    },
+    {
+      "productId": 2702,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-07-15T03:41:56.5335722+03:00"
+    },
+    {
+      "productId": 3701,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-03-06T15:41:10.6931707+02:00"
+    }
+  ]
+}

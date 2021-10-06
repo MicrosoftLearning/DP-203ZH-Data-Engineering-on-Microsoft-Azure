@@ -1,0 +1,27 @@
+{
+  "userId": 23390,
+  "cartId": "a3ec34b0-9cc9-431e-ab55-102923d12630",
+  "preferredProducts": [
+    3085,
+    2203,
+    3208,
+    2363
+  ],
+  "productReviews": [
+    {
+      "productId": 2430,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-06-14T23:16:50.7543486+03:00"
+    },
+    {
+      "productId": 1193,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-06-23T06:37:27.2356423+03:00"
+    },
+    {
+      "productId": 1087,
+      "reviewText": "This cross-platform works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-03-17T20:35:11.0072953+02:00"
+    }
+  ]
+}

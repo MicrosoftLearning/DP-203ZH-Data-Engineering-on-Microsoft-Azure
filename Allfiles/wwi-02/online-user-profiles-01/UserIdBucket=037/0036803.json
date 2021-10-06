@@ -1,0 +1,32 @@
+{
+  "userId": 36803,
+  "cartId": "03657b0d-4375-4d9c-9b4b-1f13cf15bc23",
+  "preferredProducts": [
+    2170,
+    550,
+    990,
+    4859
+  ],
+  "productReviews": [
+    {
+      "productId": 713,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-10-13T20:51:30.1616805+03:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-10-06T03:11:12.7754006+03:00"
+    },
+    {
+      "productId": 3503,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-01-05T22:21:53.0031756+02:00"
+    },
+    {
+      "productId": 3176,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-05-03T10:25:29.8637805+03:00"
+    }
+  ]
+}

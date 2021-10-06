@@ -1,0 +1,30 @@
+{
+  "userId": 10209,
+  "cartId": "560f406f-da4a-41a6-a66c-87d0e656be74",
+  "preferredProducts": [
+    3002,
+    727,
+    4787,
+    4434,
+    4211,
+    140,
+    3462
+  ],
+  "productReviews": [
+    {
+      "productId": 2173,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2016-06-13T09:57:57.5302226+03:00"
+    },
+    {
+      "productId": 191,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2020-05-01T06:24:51.3530426+03:00"
+    },
+    {
+      "productId": 3382,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-12-27T15:38:33.0660473+02:00"
+    }
+  ]
+}

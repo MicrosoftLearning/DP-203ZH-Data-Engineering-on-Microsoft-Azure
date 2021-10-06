@@ -1,0 +1,33 @@
+{
+  "userId": 91676,
+  "cartId": "05fe0892-b43e-4b8d-b25c-86d319d28039",
+  "preferredProducts": [
+    1911,
+    3897,
+    852,
+    725,
+    4531
+  ],
+  "productReviews": [
+    {
+      "productId": 3139,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-08-12T02:08:30.2239933+03:00"
+    },
+    {
+      "productId": 2666,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-07-10T02:46:30.1354857+03:00"
+    },
+    {
+      "productId": 832,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-06-08T20:49:21.1075977+03:00"
+    },
+    {
+      "productId": 4501,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-12-29T10:52:48.9790938+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 2578,
+  "cartId": "28bb1959-dc80-44e1-ad0e-ef86dd6a794d",
+  "preferredProducts": [
+    3772,
+    3557,
+    1634,
+    161,
+    2754,
+    2705,
+    374,
+    3815
+  ],
+  "productReviews": [
+    {
+      "productId": 2220,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-11-19T19:23:15.5904778+02:00"
+    },
+    {
+      "productId": 187,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-07-13T18:10:36.4268405+03:00"
+    },
+    {
+      "productId": 1569,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2020-02-26T17:32:34.2619127+02:00"
+    }
+  ]
+}

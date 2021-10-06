@@ -1,0 +1,27 @@
+{
+  "userId": 64499,
+  "cartId": "600bd5dd-0b0f-4693-989a-950cb973eb1a",
+  "preferredProducts": [
+    501,
+    4064,
+    114,
+    4974
+  ],
+  "productReviews": [
+    {
+      "productId": 4121,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-06-11T10:05:01.3435711+03:00"
+    },
+    {
+      "productId": 4394,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-10-13T17:20:20.2592543+03:00"
+    },
+    {
+      "productId": 3180,
+      "reviewText": "this executive is snowy.",
+      "reviewDate": "2019-07-11T11:06:28.8650441+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 11678,
+  "cartId": "139d8c7f-1364-4a97-9f46-69c15d944b57",
+  "preferredProducts": [
+    1083,
+    2343,
+    1697,
+    2494,
+    2628,
+    329,
+    2100
+  ],
+  "productReviews": [
+    {
+      "productId": 3300,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-04-01T08:02:29.5849728+03:00"
+    },
+    {
+      "productId": 3826,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-09-29T22:41:28.4756176+03:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-11-17T11:07:52.8845507+02:00"
+    }
+  ]
+}

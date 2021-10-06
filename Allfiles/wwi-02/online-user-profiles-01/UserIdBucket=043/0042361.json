@@ -1,0 +1,38 @@
+{
+  "userId": 42361,
+  "cartId": "c7173bca-d692-49d8-a9d8-cadf65b417ad",
+  "preferredProducts": [
+    768,
+    881,
+    2344,
+    1693,
+    4294,
+    4891,
+    4237,
+    4387,
+    1826,
+    1024
+  ],
+  "productReviews": [
+    {
+      "productId": 3601,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-09-11T07:49:58.3793722+03:00"
+    },
+    {
+      "productId": 4108,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-06-21T13:18:11.0080799+03:00"
+    },
+    {
+      "productId": 318,
+      "reviewText": "This is a really good incubate.",
+      "reviewDate": "2019-12-25T00:54:41.4343356+02:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-11-29T13:05:04.1674405+02:00"
+    }
+  ]
+}

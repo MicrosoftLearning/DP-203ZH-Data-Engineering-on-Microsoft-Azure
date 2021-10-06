@@ -1,0 +1,35 @@
+{
+  "userId": 15605,
+  "cartId": "b352df1b-324c-4b4e-a275-1b7a3c5754a2",
+  "preferredProducts": [
+    783,
+    545
+  ],
+  "productReviews": [
+    {
+      "productId": 3241,
+      "reviewText": "this Route is ghetto.",
+      "reviewDate": "2020-01-23T09:35:00.3524646+02:00"
+    },
+    {
+      "productId": 928,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-07-16T17:41:05.2873603+03:00"
+    },
+    {
+      "productId": 3468,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-05-12T10:41:51.3677429+03:00"
+    },
+    {
+      "productId": 654,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-11-14T00:54:20.7090405+02:00"
+    },
+    {
+      "productId": 1595,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-08-23T21:20:20.4659499+03:00"
+    }
+  ]
+}

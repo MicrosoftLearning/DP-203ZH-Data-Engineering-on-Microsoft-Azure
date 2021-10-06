@@ -1,0 +1,33 @@
+{
+  "userId": 67304,
+  "cartId": "f61c4a36-fd2e-4a8d-b317-a56dc70c386e",
+  "preferredProducts": [
+    1450,
+    4996,
+    3691,
+    534,
+    1994
+  ],
+  "productReviews": [
+    {
+      "productId": 3116,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-11-14T23:43:12.1968875+02:00"
+    },
+    {
+      "productId": 3838,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-06-28T20:33:21.8101496+03:00"
+    },
+    {
+      "productId": 853,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-10-01T23:12:21.0243179+03:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "this Handmade Frozen Sausages is snowy.",
+      "reviewDate": "2016-12-09T03:31:19.490036+02:00"
+    }
+  ]
+}

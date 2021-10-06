@@ -1,0 +1,32 @@
+{
+  "userId": 42664,
+  "cartId": "e7ac0bd2-4325-4e78-9fad-6a5242c5946f",
+  "preferredProducts": [
+    3199,
+    2373,
+    1801,
+    2390
+  ],
+  "productReviews": [
+    {
+      "productId": 1074,
+      "reviewText": "This Park works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-06-11T04:58:55.0219037+03:00"
+    },
+    {
+      "productId": 574,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-08-13T04:07:03.6962733+03:00"
+    },
+    {
+      "productId": 4036,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-11-24T05:04:48.2900399+02:00"
+    },
+    {
+      "productId": 1802,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-07-06T06:41:26.5821518+03:00"
+    }
+  ]
+}

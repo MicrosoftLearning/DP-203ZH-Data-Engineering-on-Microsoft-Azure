@@ -1,0 +1,31 @@
+{
+  "userId": 31648,
+  "cartId": "4766673b-33a4-4788-967f-9578cfcf04d8",
+  "preferredProducts": [
+    109,
+    229,
+    2816
+  ],
+  "productReviews": [
+    {
+      "productId": 2685,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-04-30T01:56:57.5861444+03:00"
+    },
+    {
+      "productId": 1141,
+      "reviewText": "this invoice is papery.",
+      "reviewDate": "2016-08-18T11:38:43.4927128+03:00"
+    },
+    {
+      "productId": 1309,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-05-28T07:07:38.6111862+03:00"
+    },
+    {
+      "productId": 2758,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-02-20T15:14:38.0911775+02:00"
+    }
+  ]
+}

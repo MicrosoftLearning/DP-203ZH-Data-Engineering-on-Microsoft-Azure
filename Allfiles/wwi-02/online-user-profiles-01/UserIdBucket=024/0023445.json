@@ -1,0 +1,31 @@
+{
+  "userId": 23445,
+  "cartId": "3f40eca9-5da4-417a-a7cb-75f7990844a9",
+  "preferredProducts": [
+    76,
+    848,
+    2061,
+    4760,
+    345,
+    3558,
+    4554,
+    1935
+  ],
+  "productReviews": [
+    {
+      "productId": 3309,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2019-12-06T12:31:41.4080965+02:00"
+    },
+    {
+      "productId": 4069,
+      "reviewText": "This tan works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-10-17T16:10:42.0519085+03:00"
+    },
+    {
+      "productId": 3257,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2019-11-23T18:16:09.3073512+02:00"
+    }
+  ]
+}

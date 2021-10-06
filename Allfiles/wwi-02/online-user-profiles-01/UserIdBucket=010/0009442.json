@@ -1,0 +1,27 @@
+{
+  "userId": 9442,
+  "cartId": "dfaea044-0847-4bd4-bcd4-498600203d6d",
+  "preferredProducts": [
+    1988,
+    1389,
+    3286,
+    495,
+    4100,
+    1827,
+    356,
+    2397,
+    633
+  ],
+  "productReviews": [
+    {
+      "productId": 1329,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-06-16T23:30:18.0188995+03:00"
+    },
+    {
+      "productId": 2196,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-06-29T02:17:13.8224434+03:00"
+    }
+  ]
+}

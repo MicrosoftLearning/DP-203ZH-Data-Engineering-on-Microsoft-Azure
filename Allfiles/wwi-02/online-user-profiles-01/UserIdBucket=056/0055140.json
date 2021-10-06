@@ -1,0 +1,31 @@
+{
+  "userId": 55140,
+  "cartId": "3bf9e552-0174-49c3-bfb6-6e6a21e84187",
+  "preferredProducts": [
+    749,
+    3792,
+    2908
+  ],
+  "productReviews": [
+    {
+      "productId": 2273,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-06-25T04:06:25.54064+03:00"
+    },
+    {
+      "productId": 3363,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-02-16T11:28:44.9739791+02:00"
+    },
+    {
+      "productId": 4531,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-02-24T16:23:55.4361355+02:00"
+    },
+    {
+      "productId": 1340,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-02-20T08:36:34.0374296+02:00"
+    }
+  ]
+}

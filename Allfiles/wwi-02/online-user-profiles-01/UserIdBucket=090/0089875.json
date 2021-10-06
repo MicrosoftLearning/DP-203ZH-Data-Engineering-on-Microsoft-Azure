@@ -1,0 +1,26 @@
+{
+  "userId": 89875,
+  "cartId": "1813ef9f-0cf1-4c09-824f-35f18d579d4c",
+  "preferredProducts": [
+    2015,
+    3739,
+    336
+  ],
+  "productReviews": [
+    {
+      "productId": 2020,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-09-09T18:04:58.8302958+03:00"
+    },
+    {
+      "productId": 2350,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-10-19T04:34:54.2266865+03:00"
+    },
+    {
+      "productId": 3776,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-04-04T15:56:27.0821924+03:00"
+    }
+  ]
+}

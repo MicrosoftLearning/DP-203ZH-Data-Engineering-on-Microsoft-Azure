@@ -1,0 +1,33 @@
+{
+  "userId": 82097,
+  "cartId": "a42f86af-b9a5-451c-b86d-fa245056e0a7",
+  "preferredProducts": [
+    892,
+    1005,
+    1326,
+    447,
+    4132,
+    3738,
+    4300,
+    261,
+    4260,
+    2418
+  ],
+  "productReviews": [
+    {
+      "productId": 341,
+      "reviewText": "this infomediaries is snowy.",
+      "reviewDate": "2016-12-28T10:10:47.8993867+02:00"
+    },
+    {
+      "productId": 2463,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-12-08T13:22:17.7271643+02:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-02-15T00:19:38.8042238+02:00"
+    }
+  ]
+}

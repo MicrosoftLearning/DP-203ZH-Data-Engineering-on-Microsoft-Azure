@@ -1,0 +1,30 @@
+{
+  "userId": 24336,
+  "cartId": "90512fbe-3847-427b-a0a8-780d1f22d274",
+  "preferredProducts": [
+    196,
+    3126,
+    4710,
+    4656,
+    526,
+    3382,
+    2837
+  ],
+  "productReviews": [
+    {
+      "productId": 813,
+      "reviewText": "this Hawaii is awesome.",
+      "reviewDate": "2019-08-18T02:57:29.1048969+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2020-04-30T11:38:07.0158332+03:00"
+    },
+    {
+      "productId": 2931,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-08-15T16:13:39.8122288+03:00"
+    }
+  ]
+}

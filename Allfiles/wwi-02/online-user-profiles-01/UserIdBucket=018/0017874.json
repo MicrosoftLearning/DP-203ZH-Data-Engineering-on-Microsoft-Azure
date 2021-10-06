@@ -1,0 +1,30 @@
+{
+  "userId": 17874,
+  "cartId": "6f1142e2-c042-4b49-9acb-514488a31049",
+  "preferredProducts": [
+    268,
+    3710,
+    3941,
+    2661,
+    2058,
+    4670,
+    3349
+  ],
+  "productReviews": [
+    {
+      "productId": 1242,
+      "reviewText": "This extensible works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-09-06T15:07:51.9350875+03:00"
+    },
+    {
+      "productId": 2167,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Canyon keeps them away.",
+      "reviewDate": "2019-12-01T16:45:14.1073146+02:00"
+    },
+    {
+      "productId": 814,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-04-01T22:47:50.7101812+03:00"
+    }
+  ]
+}

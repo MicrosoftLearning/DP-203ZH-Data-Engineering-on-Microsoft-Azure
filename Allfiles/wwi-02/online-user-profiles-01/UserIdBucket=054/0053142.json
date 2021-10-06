@@ -1,0 +1,30 @@
+{
+  "userId": 53142,
+  "cartId": "73c246cd-4153-4ddc-989b-d15abd71fd32",
+  "preferredProducts": [
+    3143,
+    928,
+    292,
+    290,
+    3949,
+    233,
+    2198
+  ],
+  "productReviews": [
+    {
+      "productId": 1107,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-10-11T12:22:25.5830586+03:00"
+    },
+    {
+      "productId": 3078,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2018-09-03T03:16:38.2604523+03:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-11-08T20:27:07.0387444+02:00"
+    }
+  ]
+}

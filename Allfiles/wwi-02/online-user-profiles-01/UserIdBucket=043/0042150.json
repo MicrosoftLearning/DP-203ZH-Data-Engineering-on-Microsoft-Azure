@@ -1,0 +1,42 @@
+{
+  "userId": 42150,
+  "cartId": "332c7f6f-aaa3-49e3-ad5b-1f776aab4978",
+  "preferredProducts": [
+    4150,
+    1767,
+    2544,
+    1032,
+    1687,
+    2293,
+    2388,
+    1150,
+    938
+  ],
+  "productReviews": [
+    {
+      "productId": 456,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-09-19T00:09:06.0462779+03:00"
+    },
+    {
+      "productId": 3683,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2020-01-23T05:35:49.1211382+02:00"
+    },
+    {
+      "productId": 1840,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-01-06T23:46:35.3080921+02:00"
+    },
+    {
+      "productId": 1917,
+      "reviewText": "this array is ratty.",
+      "reviewDate": "2017-06-08T00:43:17.344965+03:00"
+    },
+    {
+      "productId": 2750,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2020-03-27T09:58:29.8079885+02:00"
+    }
+  ]
+}

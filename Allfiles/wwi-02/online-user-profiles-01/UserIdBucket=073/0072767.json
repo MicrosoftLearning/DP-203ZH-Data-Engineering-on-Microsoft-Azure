@@ -1,0 +1,38 @@
+{
+  "userId": 72767,
+  "cartId": "a4f0d683-e872-4537-b83e-ff18ac55d48e",
+  "preferredProducts": [
+    1306,
+    947,
+    1416,
+    4905,
+    2048,
+    3485,
+    1507,
+    1812,
+    3070,
+    1476
+  ],
+  "productReviews": [
+    {
+      "productId": 570,
+      "reviewText": "this zero tolerance is standard.",
+      "reviewDate": "2018-07-17T07:50:12.9399033+03:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-10-15T16:28:33.3077102+03:00"
+    },
+    {
+      "productId": 2716,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-02-07T07:39:14.3086889+02:00"
+    },
+    {
+      "productId": 101,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-01-29T15:50:46.1889331+02:00"
+    }
+  ]
+}

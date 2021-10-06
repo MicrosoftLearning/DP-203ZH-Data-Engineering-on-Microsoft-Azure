@@ -1,0 +1,32 @@
+{
+  "userId": 9477,
+  "cartId": "96853c7e-0456-4b46-b071-58f0bcb1edbc",
+  "preferredProducts": [
+    3348,
+    426,
+    796,
+    322,
+    917,
+    577,
+    1303,
+    962,
+    1345
+  ],
+  "productReviews": [
+    {
+      "productId": 3518,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-12-16T15:13:23.2827208+02:00"
+    },
+    {
+      "productId": 2303,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-05-29T05:57:44.4127719+03:00"
+    },
+    {
+      "productId": 4741,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-01-04T05:56:02.5463794+02:00"
+    }
+  ]
+}

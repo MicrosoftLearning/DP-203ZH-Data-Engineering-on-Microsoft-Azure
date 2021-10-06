@@ -1,0 +1,31 @@
+{
+  "userId": 7654,
+  "cartId": "9116b12c-fac4-4391-8378-450f13e48556",
+  "preferredProducts": [
+    534,
+    1442,
+    3801
+  ],
+  "productReviews": [
+    {
+      "productId": 1164,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-10-18T11:41:17.8885422+03:00"
+    },
+    {
+      "productId": 2624,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-01-29T15:19:48.8558267+02:00"
+    },
+    {
+      "productId": 867,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-03-27T16:23:16.9038148+03:00"
+    },
+    {
+      "productId": 1741,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-11-20T02:15:15.6820098+02:00"
+    }
+  ]
+}

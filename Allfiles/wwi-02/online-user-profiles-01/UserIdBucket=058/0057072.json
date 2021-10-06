@@ -1,0 +1,32 @@
+{
+  "userId": 57072,
+  "cartId": "4dad4855-76c9-4351-9b9f-06102a43d9fd",
+  "preferredProducts": [
+    1246,
+    4651,
+    2209,
+    173
+  ],
+  "productReviews": [
+    {
+      "productId": 4631,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-02-14T08:39:05.9600945+02:00"
+    },
+    {
+      "productId": 3441,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-04-10T07:25:12.2763272+03:00"
+    },
+    {
+      "productId": 2392,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-06-03T15:29:47.4413911+03:00"
+    },
+    {
+      "productId": 987,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-05-22T11:34:09.3749227+03:00"
+    }
+  ]
+}

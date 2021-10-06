@@ -1,0 +1,33 @@
+{
+  "userId": 47541,
+  "cartId": "e599b616-bae0-46b1-913e-4fe142d727ef",
+  "preferredProducts": [
+    4515,
+    3233,
+    2486,
+    3572,
+    1147
+  ],
+  "productReviews": [
+    {
+      "productId": 487,
+      "reviewText": "this content-based is hyper.",
+      "reviewDate": "2019-07-11T21:16:57.4550425+03:00"
+    },
+    {
+      "productId": 2414,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-04-02T14:28:46.2473863+03:00"
+    },
+    {
+      "productId": 1149,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-11-24T22:50:08.9572209+02:00"
+    },
+    {
+      "productId": 3209,
+      "reviewText": "This Rubber works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-01-04T12:33:30.8527167+02:00"
+    }
+  ]
+}

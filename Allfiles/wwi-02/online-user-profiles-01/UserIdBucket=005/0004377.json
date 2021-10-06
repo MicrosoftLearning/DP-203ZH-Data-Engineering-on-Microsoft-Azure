@@ -1,0 +1,39 @@
+{
+  "userId": 4377,
+  "cartId": "0c25d8c2-00cf-45e0-b176-9beb295c4c44",
+  "preferredProducts": [
+    4036,
+    2566,
+    3317,
+    2060,
+    2534,
+    3541
+  ],
+  "productReviews": [
+    {
+      "productId": 1157,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-06-29T00:06:30.0864854+03:00"
+    },
+    {
+      "productId": 4593,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-05-03T05:30:24.4584624+03:00"
+    },
+    {
+      "productId": 4206,
+      "reviewText": "This pixel works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-11-30T20:57:02.0639485+02:00"
+    },
+    {
+      "productId": 42,
+      "reviewText": "this Practical Soft Soap is whole-grain.",
+      "reviewDate": "2019-02-28T01:36:18.9310659+02:00"
+    },
+    {
+      "productId": 2409,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-09-03T00:41:17.2500033+03:00"
+    }
+  ]
+}

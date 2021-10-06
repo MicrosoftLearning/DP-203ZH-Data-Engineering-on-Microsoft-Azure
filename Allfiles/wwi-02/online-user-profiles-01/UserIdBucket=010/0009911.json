@@ -1,0 +1,31 @@
+{
+  "userId": 9911,
+  "cartId": "6b396f61-82fd-474b-ae73-512a5292748f",
+  "preferredProducts": [
+    2232,
+    2473,
+    269,
+    2564,
+    818,
+    365,
+    1715,
+    2805
+  ],
+  "productReviews": [
+    {
+      "productId": 1972,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-12-04T18:14:10.272131+02:00"
+    },
+    {
+      "productId": 131,
+      "reviewText": "This synergies works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2019-02-07T19:38:06.6666322+02:00"
+    },
+    {
+      "productId": 3611,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-08-19T09:19:30.2444434+03:00"
+    }
+  ]
+}

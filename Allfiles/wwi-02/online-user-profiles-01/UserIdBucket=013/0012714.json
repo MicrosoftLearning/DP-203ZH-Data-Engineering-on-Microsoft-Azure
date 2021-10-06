@@ -1,0 +1,33 @@
+{
+  "userId": 12714,
+  "cartId": "a3712ba5-dd09-4ee8-948c-d670b72587cd",
+  "preferredProducts": [
+    1619,
+    556,
+    3423,
+    98,
+    3531,
+    2382,
+    1152,
+    2045,
+    4826,
+    3906
+  ],
+  "productReviews": [
+    {
+      "productId": 1604,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-08-15T14:05:53.2482033+03:00"
+    },
+    {
+      "productId": 2783,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-03-05T07:01:17.9337133+02:00"
+    },
+    {
+      "productId": 1997,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-09-17T05:53:03.7917564+03:00"
+    }
+  ]
+}

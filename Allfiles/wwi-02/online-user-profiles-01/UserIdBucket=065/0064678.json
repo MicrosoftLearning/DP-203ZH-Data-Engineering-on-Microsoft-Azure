@@ -1,0 +1,31 @@
+{
+  "userId": 64678,
+  "cartId": "8843b175-f9eb-4c1d-ac36-9fc9db6f6c43",
+  "preferredProducts": [
+    914,
+    4700,
+    3735
+  ],
+  "productReviews": [
+    {
+      "productId": 3347,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-08-08T18:56:43.2014591+03:00"
+    },
+    {
+      "productId": 3401,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-02-16T00:30:46.9037025+02:00"
+    },
+    {
+      "productId": 4501,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-03-25T21:20:00.5532733+02:00"
+    },
+    {
+      "productId": 3327,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-04-07T18:59:04.6786383+03:00"
+    }
+  ]
+}

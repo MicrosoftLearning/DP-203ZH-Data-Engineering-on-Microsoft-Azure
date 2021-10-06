@@ -1,0 +1,28 @@
+{
+  "userId": 26365,
+  "cartId": "acef73be-57a7-40c3-a7d1-2e0bb83965f4",
+  "preferredProducts": [
+    4286,
+    591,
+    2496,
+    4440,
+    2177
+  ],
+  "productReviews": [
+    {
+      "productId": 4964,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-04-15T02:55:39.5727152+03:00"
+    },
+    {
+      "productId": 2165,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-10-30T11:09:53.7628954+02:00"
+    },
+    {
+      "productId": 4913,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-02-29T07:29:29.9068392+02:00"
+    }
+  ]
+}

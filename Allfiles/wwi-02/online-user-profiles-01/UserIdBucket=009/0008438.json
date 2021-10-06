@@ -1,0 +1,36 @@
+{
+  "userId": 8438,
+  "cartId": "61445b64-73ac-4243-8841-f892d7130649",
+  "preferredProducts": [
+    2657,
+    2369,
+    3575,
+    1801,
+    2403,
+    4631,
+    2119,
+    4580
+  ],
+  "productReviews": [
+    {
+      "productId": 4830,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-02-22T18:13:56.0245483+02:00"
+    },
+    {
+      "productId": 2778,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-11-13T05:00:06.5399761+02:00"
+    },
+    {
+      "productId": 1570,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-11-24T13:30:00.8363303+02:00"
+    },
+    {
+      "productId": 1535,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-03-27T12:35:54.9787818+03:00"
+    }
+  ]
+}

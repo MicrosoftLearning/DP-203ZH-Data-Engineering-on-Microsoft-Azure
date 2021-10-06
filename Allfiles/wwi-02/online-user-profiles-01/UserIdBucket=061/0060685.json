@@ -1,0 +1,32 @@
+{
+  "userId": 60685,
+  "cartId": "abdc2eb0-43ba-41e3-a7d3-2235863a0283",
+  "preferredProducts": [
+    1171,
+    3243,
+    2895,
+    2947
+  ],
+  "productReviews": [
+    {
+      "productId": 1613,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-07-01T12:12:48.682996+03:00"
+    },
+    {
+      "productId": 485,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-04-28T21:55:21.9621575+03:00"
+    },
+    {
+      "productId": 1611,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-09-18T16:37:05.0007993+03:00"
+    },
+    {
+      "productId": 557,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-06-02T13:01:26.3337009+03:00"
+    }
+  ]
+}

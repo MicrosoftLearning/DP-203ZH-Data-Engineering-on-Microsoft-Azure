@@ -1,0 +1,35 @@
+{
+  "userId": 5236,
+  "cartId": "24d70378-899e-4e23-a13d-242563caa542",
+  "preferredProducts": [
+    4160,
+    1475,
+    3611,
+    823,
+    510,
+    2791,
+    3940
+  ],
+  "productReviews": [
+    {
+      "productId": 2539,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-03-04T15:18:40.9508603+02:00"
+    },
+    {
+      "productId": 4073,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-04-10T15:10:44.5795237+03:00"
+    },
+    {
+      "productId": 4202,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-12-26T21:35:11.858973+02:00"
+    },
+    {
+      "productId": 1099,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-07-28T14:54:50.9307998+03:00"
+    }
+  ]
+}

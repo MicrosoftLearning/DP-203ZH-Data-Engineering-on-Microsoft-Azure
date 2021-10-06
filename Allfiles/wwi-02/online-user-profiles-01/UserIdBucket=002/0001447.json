@@ -1,0 +1,35 @@
+{
+  "userId": 1447,
+  "cartId": "db42ddb1-46c5-4f92-ab9d-e51ca5e49852",
+  "preferredProducts": [
+    3868,
+    3388
+  ],
+  "productReviews": [
+    {
+      "productId": 122,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-01-03T14:57:27.4209281+02:00"
+    },
+    {
+      "productId": 2171,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2020-02-24T12:35:24.0589574+02:00"
+    },
+    {
+      "productId": 3319,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-04-04T17:56:00.8619325+03:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-04-07T10:54:33.4067688+03:00"
+    },
+    {
+      "productId": 2268,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-04-24T20:25:07.7856543+03:00"
+    }
+  ]
+}

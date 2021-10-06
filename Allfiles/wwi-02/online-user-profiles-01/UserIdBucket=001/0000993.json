@@ -1,0 +1,30 @@
+{
+  "userId": 993,
+  "cartId": "813e9e26-9c2c-4491-a64a-b40e4da7518b",
+  "preferredProducts": [
+    851,
+    2481,
+    1997,
+    4628,
+    1059,
+    2404,
+    883
+  ],
+  "productReviews": [
+    {
+      "productId": 4597,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-05T01:41:10.6412448+02:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-12-24T02:54:54.4770487+02:00"
+    },
+    {
+      "productId": 4274,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-06-14T17:30:14.4383129+03:00"
+    }
+  ]
+}

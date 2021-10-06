@@ -1,0 +1,30 @@
+{
+  "userId": 12994,
+  "cartId": "b44e3056-855c-4f28-80e4-012baef16940",
+  "preferredProducts": [
+    1201,
+    1176,
+    2157,
+    3154,
+    3970,
+    2458,
+    2037
+  ],
+  "productReviews": [
+    {
+      "productId": 539,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-05-21T12:01:01.1541072+03:00"
+    },
+    {
+      "productId": 161,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-02-24T00:54:52.1775872+02:00"
+    },
+    {
+      "productId": 2902,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-05-02T00:58:52.5455082+03:00"
+    }
+  ]
+}

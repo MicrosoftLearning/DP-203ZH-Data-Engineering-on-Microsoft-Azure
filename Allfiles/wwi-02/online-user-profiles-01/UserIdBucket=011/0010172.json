@@ -1,0 +1,33 @@
+{
+  "userId": 10172,
+  "cartId": "02865712-8f07-4290-a524-502b7f263404",
+  "preferredProducts": [
+    1996,
+    3076,
+    1868,
+    4682,
+    2168
+  ],
+  "productReviews": [
+    {
+      "productId": 661,
+      "reviewText": "This Turnpike works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2020-02-25T07:22:43.2995397+02:00"
+    },
+    {
+      "productId": 3524,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-03-17T21:26:13.8566533+02:00"
+    },
+    {
+      "productId": 2180,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-12-01T01:26:22.195692+02:00"
+    },
+    {
+      "productId": 3369,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-06-01T15:18:39.1271162+03:00"
+    }
+  ]
+}

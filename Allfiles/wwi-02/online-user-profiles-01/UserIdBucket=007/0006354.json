@@ -1,0 +1,35 @@
+{
+  "userId": 6354,
+  "cartId": "d1867c77-a24a-41a1-8b0f-859c533c9b9d",
+  "preferredProducts": [
+    3517,
+    2156,
+    2917,
+    2410,
+    1363,
+    964,
+    2225
+  ],
+  "productReviews": [
+    {
+      "productId": 3516,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-02-24T01:17:17.6701818+02:00"
+    },
+    {
+      "productId": 3615,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-01-17T04:40:22.1662503+02:00"
+    },
+    {
+      "productId": 3719,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2020-02-09T09:33:16.7701553+02:00"
+    },
+    {
+      "productId": 3309,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-12-22T01:10:27.8124385+02:00"
+    }
+  ]
+}

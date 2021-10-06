@@ -1,0 +1,27 @@
+{
+  "userId": 23672,
+  "cartId": "4cc49ca3-59c8-4ed2-ad67-5357ea496b34",
+  "preferredProducts": [
+    482,
+    4550,
+    4620,
+    4833
+  ],
+  "productReviews": [
+    {
+      "productId": 3605,
+      "reviewText": "this panel is tasty.",
+      "reviewDate": "2017-03-08T05:32:01.4713635+02:00"
+    },
+    {
+      "productId": 502,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-01-03T05:49:20.9304035+02:00"
+    },
+    {
+      "productId": 754,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-07-26T03:33:32.2488018+03:00"
+    }
+  ]
+}

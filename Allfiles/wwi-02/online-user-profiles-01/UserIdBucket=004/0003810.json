@@ -1,0 +1,37 @@
+{
+  "userId": 3810,
+  "cartId": "c9b0b4e4-c542-468b-a022-6f04e7ef86c7",
+  "preferredProducts": [
+    1527,
+    4392,
+    1409,
+    3270
+  ],
+  "productReviews": [
+    {
+      "productId": 3516,
+      "reviewText": "this e-commerce is snowy.",
+      "reviewDate": "2018-12-19T13:34:54.2445046+02:00"
+    },
+    {
+      "productId": 281,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-11-13T06:03:03.1280997+02:00"
+    },
+    {
+      "productId": 4452,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-03-29T08:18:09.1863323+03:00"
+    },
+    {
+      "productId": 3906,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-10-29T08:42:57.2635243+02:00"
+    },
+    {
+      "productId": 2385,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-04-21T02:02:48.851675+03:00"
+    }
+  ]
+}

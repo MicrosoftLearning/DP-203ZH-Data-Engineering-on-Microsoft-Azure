@@ -1,0 +1,33 @@
+{
+  "userId": 25483,
+  "cartId": "e5dc69e8-dbd7-4a04-8916-7d8247813f40",
+  "preferredProducts": [
+    3177,
+    4065,
+    1009,
+    1398,
+    2393
+  ],
+  "productReviews": [
+    {
+      "productId": 30,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-07-19T00:20:35.3805989+03:00"
+    },
+    {
+      "productId": 1720,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-12-28T00:48:07.5865714+02:00"
+    },
+    {
+      "productId": 438,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-02-18T03:17:44.0727949+02:00"
+    },
+    {
+      "productId": 577,
+      "reviewText": "This Cotton works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2018-11-09T02:01:57.2915035+02:00"
+    }
+  ]
+}

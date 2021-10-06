@@ -1,0 +1,26 @@
+{
+  "userId": 88103,
+  "cartId": "6c0ccb13-e31a-45d7-b3f8-d6ac5c9ffe28",
+  "preferredProducts": [
+    3003,
+    3572,
+    3274
+  ],
+  "productReviews": [
+    {
+      "productId": 4577,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-11-27T21:26:59.9457114+02:00"
+    },
+    {
+      "productId": 1418,
+      "reviewText": "this primary is tasty.",
+      "reviewDate": "2018-05-22T18:16:33.1181768+03:00"
+    },
+    {
+      "productId": 2596,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-04-26T16:59:30.0830246+03:00"
+    }
+  ]
+}

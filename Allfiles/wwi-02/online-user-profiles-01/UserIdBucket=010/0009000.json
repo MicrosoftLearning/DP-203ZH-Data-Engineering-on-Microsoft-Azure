@@ -1,0 +1,42 @@
+{
+  "userId": 9000,
+  "cartId": "5dc971b0-8ee6-48a6-96bb-212872a0dd57",
+  "preferredProducts": [
+    1857,
+    3324,
+    3846,
+    2887,
+    3552,
+    3455,
+    3953,
+    2617,
+    3451
+  ],
+  "productReviews": [
+    {
+      "productId": 3273,
+      "reviewText": "This Licensed Cotton Tuna works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2020-03-31T16:10:45.1005721+03:00"
+    },
+    {
+      "productId": 1474,
+      "reviewText": "this Shoes & Toys is snowy.",
+      "reviewDate": "2016-11-01T13:54:59.3194567+02:00"
+    },
+    {
+      "productId": 3939,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-06-01T10:26:50.6707612+03:00"
+    },
+    {
+      "productId": 3410,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-11-29T03:16:45.4876469+02:00"
+    },
+    {
+      "productId": 417,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-12-04T14:44:33.8067765+02:00"
+    }
+  ]
+}

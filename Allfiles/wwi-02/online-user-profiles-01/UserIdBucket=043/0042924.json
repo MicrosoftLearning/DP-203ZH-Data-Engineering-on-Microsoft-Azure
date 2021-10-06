@@ -1,0 +1,25 @@
+{
+  "userId": 42924,
+  "cartId": "c0dc6b67-fa1f-4edb-a89a-774d3c023904",
+  "preferredProducts": [
+    3798,
+    3286,
+    3801,
+    3370,
+    165,
+    2525,
+    362
+  ],
+  "productReviews": [
+    {
+      "productId": 1144,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-08-03T11:48:58.2303265+03:00"
+    },
+    {
+      "productId": 4880,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-10-24T09:08:09.8560391+03:00"
+    }
+  ]
+}

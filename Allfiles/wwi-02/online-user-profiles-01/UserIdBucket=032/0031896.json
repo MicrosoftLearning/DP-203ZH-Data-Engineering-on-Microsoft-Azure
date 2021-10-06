@@ -1,0 +1,31 @@
+{
+  "userId": 31896,
+  "cartId": "576f1d2e-1e69-4633-b0a1-71cabca66cbc",
+  "preferredProducts": [
+    2931,
+    1314,
+    755,
+    4071,
+    2743,
+    4796,
+    2710,
+    4321
+  ],
+  "productReviews": [
+    {
+      "productId": 2270,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-06-10T19:15:32.3205459+03:00"
+    },
+    {
+      "productId": 970,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-12-13T15:24:06.730443+02:00"
+    },
+    {
+      "productId": 1650,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-12-10T18:08:38.2652035+02:00"
+    }
+  ]
+}

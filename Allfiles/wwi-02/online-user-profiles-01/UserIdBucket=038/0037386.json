@@ -1,0 +1,37 @@
+{
+  "userId": 37386,
+  "cartId": "97cb4349-d94b-445a-8109-333668df100d",
+  "preferredProducts": [
+    1028,
+    2322,
+    4969,
+    4255
+  ],
+  "productReviews": [
+    {
+      "productId": 1149,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-05-07T04:17:56.118617+03:00"
+    },
+    {
+      "productId": 1094,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-08-04T22:49:29.7220735+03:00"
+    },
+    {
+      "productId": 4627,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2020-01-04T06:40:39.4303503+02:00"
+    },
+    {
+      "productId": 440,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-03-27T11:11:48.2451161+02:00"
+    },
+    {
+      "productId": 234,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-09-11T00:10:51.2834581+03:00"
+    }
+  ]
+}

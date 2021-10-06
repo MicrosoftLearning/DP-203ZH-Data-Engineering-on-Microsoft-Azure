@@ -1,0 +1,33 @@
+{
+  "userId": 7779,
+  "cartId": "654f3ae9-ea14-4769-9418-438c63e64508",
+  "preferredProducts": [
+    3338,
+    2737,
+    3174,
+    2918,
+    1273,
+    4977,
+    793,
+    4261,
+    2084,
+    4702
+  ],
+  "productReviews": [
+    {
+      "productId": 1287,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-11-25T21:39:49.8101259+02:00"
+    },
+    {
+      "productId": 2948,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-11-18T17:55:57.4920388+02:00"
+    },
+    {
+      "productId": 4513,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-01T12:11:37.2308907+03:00"
+    }
+  ]
+}

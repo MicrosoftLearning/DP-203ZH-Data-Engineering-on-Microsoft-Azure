@@ -1,0 +1,25 @@
+{
+  "userId": 25409,
+  "cartId": "55e82633-bbd6-4185-81bf-ad644fe61715",
+  "preferredProducts": [
+    3805,
+    627
+  ],
+  "productReviews": [
+    {
+      "productId": 2595,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-06-03T10:12:29.8422476+03:00"
+    },
+    {
+      "productId": 4712,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-05-24T14:55:00.1363725+03:00"
+    },
+    {
+      "productId": 3420,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-01-20T01:25:13.2778629+02:00"
+    }
+  ]
+}

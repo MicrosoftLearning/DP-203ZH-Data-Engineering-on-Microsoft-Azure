@@ -1,0 +1,28 @@
+{
+  "userId": 46738,
+  "cartId": "45594d49-bc34-4780-bcc3-bc282b7c9ef5",
+  "preferredProducts": [
+    1234,
+    2534,
+    4661,
+    2671,
+    4968
+  ],
+  "productReviews": [
+    {
+      "productId": 2036,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-07-03T05:40:08.5437256+03:00"
+    },
+    {
+      "productId": 1999,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-05-21T22:57:21.1795738+03:00"
+    },
+    {
+      "productId": 4396,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2016-07-11T12:12:42.7390617+03:00"
+    }
+  ]
+}

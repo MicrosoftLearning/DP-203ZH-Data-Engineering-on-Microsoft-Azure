@@ -1,0 +1,35 @@
+{
+  "userId": 4050,
+  "cartId": "681e80e1-bba9-4b5c-8bc5-4668afd532a0",
+  "preferredProducts": [
+    2865,
+    1490,
+    432,
+    1674,
+    4356,
+    83,
+    2096
+  ],
+  "productReviews": [
+    {
+      "productId": 713,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-10-07T15:41:01.2594042+03:00"
+    },
+    {
+      "productId": 2969,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-02-22T04:15:45.854606+02:00"
+    },
+    {
+      "productId": 209,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-11-21T09:07:34.8971652+02:00"
+    },
+    {
+      "productId": 536,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-09-06T18:43:48.3846924+03:00"
+    }
+  ]
+}

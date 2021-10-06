@@ -1,0 +1,30 @@
+{
+  "userId": 3060,
+  "cartId": "45e6ecb5-d742-4a53-b5c8-fbd4a1e73bcc",
+  "preferredProducts": [
+    4525,
+    1155,
+    4136,
+    811,
+    982,
+    1378,
+    3393
+  ],
+  "productReviews": [
+    {
+      "productId": 4377,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-04-26T06:05:50.4911123+03:00"
+    },
+    {
+      "productId": 60,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-09-21T19:25:53.4047428+03:00"
+    },
+    {
+      "productId": 2582,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-03-18T09:14:58.7093598+02:00"
+    }
+  ]
+}

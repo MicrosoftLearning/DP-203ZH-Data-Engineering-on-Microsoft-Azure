@@ -1,0 +1,28 @@
+{
+  "userId": 5445,
+  "cartId": "6b7b7a30-f71e-493b-abc4-cbf2b08430bf",
+  "preferredProducts": [
+    4401,
+    2496,
+    2143,
+    887,
+    1843
+  ],
+  "productReviews": [
+    {
+      "productId": 40,
+      "reviewText": "this Fresh is dominant.",
+      "reviewDate": "2017-02-12T02:39:15.0655066+02:00"
+    },
+    {
+      "productId": 3618,
+      "reviewText": "This navigating works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-06-16T16:10:32.4887383+03:00"
+    },
+    {
+      "productId": 2889,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-12-24T04:13:44.404882+02:00"
+    }
+  ]
+}

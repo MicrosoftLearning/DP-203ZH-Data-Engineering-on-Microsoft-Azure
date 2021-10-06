@@ -1,0 +1,24 @@
+{
+  "userId": 2937,
+  "cartId": "b72abc00-abc4-4cf6-b379-19027655cf9e",
+  "preferredProducts": [
+    2814,
+    4861,
+    567,
+    2193,
+    800,
+    2657
+  ],
+  "productReviews": [
+    {
+      "productId": 1202,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-02-01T15:46:23.1577896+02:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-01-30T00:19:13.8071682+02:00"
+    }
+  ]
+}

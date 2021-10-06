@@ -1,0 +1,29 @@
+{
+  "userId": 65653,
+  "cartId": "332356f6-ed23-4561-b591-d47994b8aebf",
+  "preferredProducts": [
+    3310
+  ],
+  "productReviews": [
+    {
+      "productId": 4320,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-04-30T23:26:00.6026457+03:00"
+    },
+    {
+      "productId": 1097,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-09-06T10:11:29.9537926+03:00"
+    },
+    {
+      "productId": 4991,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-06-15T12:15:08.3518647+03:00"
+    },
+    {
+      "productId": 1773,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-12-23T02:18:53.8261598+02:00"
+    }
+  ]
+}

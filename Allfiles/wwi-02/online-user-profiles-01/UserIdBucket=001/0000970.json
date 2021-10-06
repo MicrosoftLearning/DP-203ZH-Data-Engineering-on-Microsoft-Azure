@@ -1,0 +1,36 @@
+{
+  "userId": 970,
+  "cartId": "7dc364f0-ce9e-406a-a7d2-6dacb18b3d1c",
+  "preferredProducts": [
+    1381,
+    637,
+    3749,
+    2011,
+    1416,
+    1599,
+    2203,
+    721
+  ],
+  "productReviews": [
+    {
+      "productId": 261,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-12-15T19:44:36.9974467+02:00"
+    },
+    {
+      "productId": 359,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-12-11T20:49:17.1522315+02:00"
+    },
+    {
+      "productId": 868,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-01-24T19:26:34.4764355+02:00"
+    },
+    {
+      "productId": 661,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-10-20T04:50:26.5885009+03:00"
+    }
+  ]
+}

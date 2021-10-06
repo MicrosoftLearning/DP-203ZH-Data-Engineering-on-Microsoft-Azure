@@ -1,0 +1,26 @@
+{
+  "userId": 3049,
+  "cartId": "ac52a3df-ca27-4ce4-868f-afa14a13281e",
+  "preferredProducts": [
+    2493,
+    4807,
+    2392,
+    239,
+    1203,
+    2151,
+    4310,
+    846
+  ],
+  "productReviews": [
+    {
+      "productId": 2050,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-08-10T23:06:56.7582776+03:00"
+    },
+    {
+      "productId": 1752,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-02-08T20:26:20.5188544+02:00"
+    }
+  ]
+}

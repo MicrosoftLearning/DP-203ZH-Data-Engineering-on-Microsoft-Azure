@@ -1,0 +1,27 @@
+{
+  "userId": 7952,
+  "cartId": "708d210b-aaaa-44f8-9802-4928c4bd91e2",
+  "preferredProducts": [
+    2860,
+    2868,
+    3262,
+    2348,
+    4011,
+    386,
+    3005,
+    3198,
+    2256
+  ],
+  "productReviews": [
+    {
+      "productId": 660,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-07-19T07:35:43.8383423+03:00"
+    },
+    {
+      "productId": 2171,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-10-19T10:38:59.3411808+03:00"
+    }
+  ]
+}

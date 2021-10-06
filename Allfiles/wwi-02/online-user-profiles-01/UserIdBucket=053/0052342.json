@@ -1,0 +1,33 @@
+{
+  "userId": 52342,
+  "cartId": "f0daef80-22a8-4828-99e9-8301afaf089e",
+  "preferredProducts": [
+    1411,
+    2418,
+    4893,
+    2358,
+    351
+  ],
+  "productReviews": [
+    {
+      "productId": 1433,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-02-16T11:10:45.0756681+02:00"
+    },
+    {
+      "productId": 4993,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-02-28T10:18:20.7185226+02:00"
+    },
+    {
+      "productId": 4064,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-08-21T17:25:04.5101806+03:00"
+    },
+    {
+      "productId": 4549,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-12-29T20:48:46.9861595+02:00"
+    }
+  ]
+}

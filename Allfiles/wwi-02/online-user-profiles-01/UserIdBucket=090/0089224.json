@@ -1,0 +1,30 @@
+{
+  "userId": 89224,
+  "cartId": "94fd53ad-cd10-4b3a-a6ae-858f9c36f19c",
+  "preferredProducts": [
+    1280,
+    4677
+  ],
+  "productReviews": [
+    {
+      "productId": 3264,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-04-10T04:54:54.1592185+03:00"
+    },
+    {
+      "productId": 3164,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-03T17:35:17.8304477+03:00"
+    },
+    {
+      "productId": 2430,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-03-21T10:17:40.391208+02:00"
+    },
+    {
+      "productId": 4624,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-04-07T04:43:16.0422271+03:00"
+    }
+  ]
+}

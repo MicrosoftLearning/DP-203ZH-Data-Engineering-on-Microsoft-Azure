@@ -1,0 +1,32 @@
+{
+  "userId": 33862,
+  "cartId": "f3603ce2-23f0-4ed8-82d9-9efa8848cbc8",
+  "preferredProducts": [
+    2455,
+    3140,
+    3656,
+    3128,
+    897,
+    4978,
+    4200,
+    4542,
+    1861
+  ],
+  "productReviews": [
+    {
+      "productId": 981,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-10-10T02:14:29.4453608+03:00"
+    },
+    {
+      "productId": 3402,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-11-17T08:51:07.8314859+02:00"
+    },
+    {
+      "productId": 2012,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-31T16:27:54.4963657+03:00"
+    }
+  ]
+}

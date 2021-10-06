@@ -1,0 +1,38 @@
+{
+  "userId": 80838,
+  "cartId": "53eea543-f573-49b0-8760-37b3b6baa727",
+  "preferredProducts": [
+    4658,
+    155,
+    1249,
+    2926,
+    3346,
+    4580,
+    4064,
+    1827,
+    1210,
+    2601
+  ],
+  "productReviews": [
+    {
+      "productId": 2679,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-10-20T08:53:09.1007647+03:00"
+    },
+    {
+      "productId": 2771,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-01-28T10:27:20.3960974+02:00"
+    },
+    {
+      "productId": 473,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-08-08T19:30:37.4466663+03:00"
+    },
+    {
+      "productId": 784,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-09-07T04:11:36.4888417+03:00"
+    }
+  ]
+}

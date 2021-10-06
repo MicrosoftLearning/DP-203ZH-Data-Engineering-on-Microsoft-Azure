@@ -1,0 +1,23 @@
+{
+  "userId": 36090,
+  "cartId": "78fcc303-9489-4ff2-b0b7-eb15cd3a38ab",
+  "preferredProducts": [
+    520,
+    2314,
+    502,
+    4820,
+    2340
+  ],
+  "productReviews": [
+    {
+      "productId": 4988,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-11-13T18:06:42.7603245+02:00"
+    },
+    {
+      "productId": 1795,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-03-13T00:25:54.8868289+02:00"
+    }
+  ]
+}

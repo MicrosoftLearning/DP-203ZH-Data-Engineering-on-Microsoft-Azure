@@ -1,0 +1,36 @@
+{
+  "userId": 65122,
+  "cartId": "9c6b46cb-eec9-4dea-b5a1-a5f319364484",
+  "preferredProducts": [
+    2181,
+    4285,
+    38
+  ],
+  "productReviews": [
+    {
+      "productId": 3652,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-08-28T02:35:06.9365399+03:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-08-28T21:30:26.8081728+03:00"
+    },
+    {
+      "productId": 3608,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2016-11-21T16:02:25.6376316+02:00"
+    },
+    {
+      "productId": 1756,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-07-05T06:13:11.6891278+03:00"
+    },
+    {
+      "productId": 144,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-01-03T16:57:35.6000529+02:00"
+    }
+  ]
+}

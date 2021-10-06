@@ -1,0 +1,38 @@
+{
+  "userId": 20878,
+  "cartId": "afbee808-fdb6-451b-98c3-1ac999ff9aba",
+  "preferredProducts": [
+    1150,
+    960,
+    3134,
+    1175,
+    1255
+  ],
+  "productReviews": [
+    {
+      "productId": 4862,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-09-24T03:06:26.6375827+03:00"
+    },
+    {
+      "productId": 4816,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-02-12T19:06:00.6460341+02:00"
+    },
+    {
+      "productId": 2848,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-05T03:20:00.4344288+02:00"
+    },
+    {
+      "productId": 1543,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Dynamic keeps them away.",
+      "reviewDate": "2016-09-14T01:11:09.7914281+03:00"
+    },
+    {
+      "productId": 3929,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-01T22:32:13.3197983+03:00"
+    }
+  ]
+}

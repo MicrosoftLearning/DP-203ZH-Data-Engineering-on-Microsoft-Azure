@@ -1,0 +1,26 @@
+{
+  "userId": 89628,
+  "cartId": "a1165cfe-0cf9-49a4-ad71-314ec7dbedb4",
+  "preferredProducts": [
+    2584,
+    796,
+    416
+  ],
+  "productReviews": [
+    {
+      "productId": 3763,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-11-19T16:03:44.6010302+02:00"
+    },
+    {
+      "productId": 4083,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-11-14T21:57:42.5363069+02:00"
+    },
+    {
+      "productId": 2286,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-05-14T15:33:44.6054948+03:00"
+    }
+  ]
+}

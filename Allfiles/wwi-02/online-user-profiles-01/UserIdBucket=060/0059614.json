@@ -1,0 +1,31 @@
+{
+  "userId": 59614,
+  "cartId": "e245fdc3-421b-42b5-8136-045f635a5c48",
+  "preferredProducts": [
+    1198,
+    49,
+    793,
+    2323,
+    4082,
+    440,
+    1897,
+    2447
+  ],
+  "productReviews": [
+    {
+      "productId": 961,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-03-02T21:36:58.4691629+02:00"
+    },
+    {
+      "productId": 3259,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-09-10T21:54:38.5354245+03:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-09-16T05:58:53.8307521+03:00"
+    }
+  ]
+}

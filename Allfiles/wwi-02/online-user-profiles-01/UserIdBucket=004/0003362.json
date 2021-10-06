@@ -1,0 +1,31 @@
+{
+  "userId": 3362,
+  "cartId": "f3d5ada1-6169-4786-821f-415b023824e0",
+  "preferredProducts": [
+    2553,
+    4032,
+    289
+  ],
+  "productReviews": [
+    {
+      "productId": 3348,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-10-06T03:24:42.4909998+03:00"
+    },
+    {
+      "productId": 2202,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-05-12T22:16:06.1764664+03:00"
+    },
+    {
+      "productId": 4059,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-01-17T03:49:24.5749073+02:00"
+    },
+    {
+      "productId": 4831,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-08-27T15:30:42.4301422+03:00"
+    }
+  ]
+}

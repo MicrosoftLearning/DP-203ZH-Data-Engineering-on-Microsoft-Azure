@@ -1,0 +1,35 @@
+{
+  "userId": 24607,
+  "cartId": "1a98aa82-96fc-4f8c-9784-bcf42b7496b8",
+  "preferredProducts": [
+    1851,
+    11,
+    4814,
+    3298,
+    181,
+    4642,
+    1697
+  ],
+  "productReviews": [
+    {
+      "productId": 768,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-06-05T19:32:16.3282514+03:00"
+    },
+    {
+      "productId": 1857,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2020-04-01T23:51:43.6120475+03:00"
+    },
+    {
+      "productId": 1851,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-07-10T09:37:53.83478+03:00"
+    },
+    {
+      "productId": 1979,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-06-13T06:22:03.9870623+03:00"
+    }
+  ]
+}

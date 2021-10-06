@@ -1,0 +1,32 @@
+{
+  "userId": 2384,
+  "cartId": "cb9d7075-6673-403f-84f5-a48af4b0ff9f",
+  "preferredProducts": [
+    2800,
+    4203,
+    4470,
+    133
+  ],
+  "productReviews": [
+    {
+      "productId": 2489,
+      "reviewText": "this Customer is smooth.",
+      "reviewDate": "2020-04-03T06:42:29.2239935+03:00"
+    },
+    {
+      "productId": 2243,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-12-08T12:47:51.6557386+02:00"
+    },
+    {
+      "productId": 4015,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-02-14T02:41:13.9251661+02:00"
+    },
+    {
+      "productId": 4747,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-30T02:19:34.7816612+02:00"
+    }
+  ]
+}

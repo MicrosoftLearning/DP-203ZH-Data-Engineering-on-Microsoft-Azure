@@ -1,0 +1,31 @@
+{
+  "userId": 21458,
+  "cartId": "3ccecf7b-ac43-4995-949a-43fe8666dd20",
+  "preferredProducts": [
+    3290,
+    641,
+    301,
+    1651,
+    4402,
+    4898,
+    3515,
+    1611
+  ],
+  "productReviews": [
+    {
+      "productId": 2409,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-07-19T09:16:43.9612924+03:00"
+    },
+    {
+      "productId": 524,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-03-15T15:26:34.1407738+02:00"
+    },
+    {
+      "productId": 2446,
+      "reviewText": "This Infrastructure works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2020-02-29T02:57:55.5102874+02:00"
+    }
+  ]
+}

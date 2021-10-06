@@ -1,0 +1,25 @@
+{
+  "userId": 96843,
+  "cartId": "e45c79b2-03b5-4fb9-8781-be0b71b4eca0",
+  "preferredProducts": [
+    1851,
+    1396,
+    164,
+    2605,
+    913,
+    4136,
+    1517
+  ],
+  "productReviews": [
+    {
+      "productId": 392,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-02-15T04:22:39.5163684+02:00"
+    },
+    {
+      "productId": 2940,
+      "reviewText": "This JSON works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-07-27T02:38:29.2783401+03:00"
+    }
+  ]
+}

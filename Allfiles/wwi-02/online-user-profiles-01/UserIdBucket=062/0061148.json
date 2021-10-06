@@ -1,0 +1,35 @@
+{
+  "userId": 61148,
+  "cartId": "d359ae74-04e1-41be-930b-6773bf930891",
+  "preferredProducts": [
+    2076,
+    4816,
+    3103,
+    1227,
+    3689,
+    936,
+    4668
+  ],
+  "productReviews": [
+    {
+      "productId": 1213,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-07-31T07:11:03.8412778+03:00"
+    },
+    {
+      "productId": 330,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-10-19T01:43:35.5645869+03:00"
+    },
+    {
+      "productId": 2535,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-10-20T18:11:35.2174968+03:00"
+    },
+    {
+      "productId": 2536,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-12-14T16:58:08.9467707+02:00"
+    }
+  ]
+}

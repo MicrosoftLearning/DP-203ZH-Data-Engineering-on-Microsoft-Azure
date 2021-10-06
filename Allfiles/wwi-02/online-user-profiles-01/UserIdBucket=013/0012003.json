@@ -1,0 +1,33 @@
+{
+  "userId": 12003,
+  "cartId": "8df2e156-f610-407f-a7d5-3bddeec6a6de",
+  "preferredProducts": [
+    350,
+    708,
+    3676,
+    2138,
+    2107
+  ],
+  "productReviews": [
+    {
+      "productId": 3185,
+      "reviewText": "this extend is ratty.",
+      "reviewDate": "2018-09-04T17:30:20.0688609+03:00"
+    },
+    {
+      "productId": 3122,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-08-10T23:25:21.976753+03:00"
+    },
+    {
+      "productId": 1290,
+      "reviewText": "this Facilitator is mellow.",
+      "reviewDate": "2019-03-09T16:46:33.6108186+02:00"
+    },
+    {
+      "productId": 3989,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-02-18T04:29:17.4860656+02:00"
+    }
+  ]
+}

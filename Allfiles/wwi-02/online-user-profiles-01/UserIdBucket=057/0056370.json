@@ -1,0 +1,29 @@
+{
+  "userId": 56370,
+  "cartId": "e78daa02-59a4-4479-8757-15c7122592f9",
+  "preferredProducts": [
+    4487,
+    3285,
+    2411,
+    1039,
+    1214,
+    4353
+  ],
+  "productReviews": [
+    {
+      "productId": 1001,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-03-04T23:22:43.699294+02:00"
+    },
+    {
+      "productId": 229,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-08-06T13:27:50.6730126+03:00"
+    },
+    {
+      "productId": 1287,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-10-23T21:13:32.8235013+03:00"
+    }
+  ]
+}

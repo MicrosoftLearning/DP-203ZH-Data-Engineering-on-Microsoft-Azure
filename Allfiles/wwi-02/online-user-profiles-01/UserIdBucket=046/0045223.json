@@ -1,0 +1,25 @@
+{
+  "userId": 45223,
+  "cartId": "527f08dc-28b4-4926-a4b9-ed2ad03c2fe8",
+  "preferredProducts": [
+    2048,
+    3637
+  ],
+  "productReviews": [
+    {
+      "productId": 67,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-01-10T23:06:17.4013874+02:00"
+    },
+    {
+      "productId": 2420,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-12-02T10:21:17.2594385+02:00"
+    },
+    {
+      "productId": 3839,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-03-13T03:20:19.3534203+02:00"
+    }
+  ]
+}

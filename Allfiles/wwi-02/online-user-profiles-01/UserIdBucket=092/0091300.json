@@ -1,0 +1,24 @@
+{
+  "userId": 91300,
+  "cartId": "ac0d7c99-23cb-4cc2-9cf5-830b919fcae7",
+  "preferredProducts": [
+    1950
+  ],
+  "productReviews": [
+    {
+      "productId": 1945,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-02-01T21:44:55.6210738+02:00"
+    },
+    {
+      "productId": 3207,
+      "reviewText": "this function is top-notch.",
+      "reviewDate": "2018-05-06T07:39:12.0324604+03:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-12-29T00:51:40.2028232+02:00"
+    }
+  ]
+}

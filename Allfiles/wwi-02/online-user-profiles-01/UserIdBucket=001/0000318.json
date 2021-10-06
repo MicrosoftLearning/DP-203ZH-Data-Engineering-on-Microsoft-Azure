@@ -1,0 +1,38 @@
+{
+  "userId": 318,
+  "cartId": "0b7a7d79-b97b-4a30-9bb9-be24fca7b9e8",
+  "preferredProducts": [
+    1349,
+    2852,
+    1566,
+    3499,
+    334,
+    2595,
+    2003,
+    985,
+    3269,
+    2387
+  ],
+  "productReviews": [
+    {
+      "productId": 3336,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-05-08T09:39:54.5317911+03:00"
+    },
+    {
+      "productId": 2361,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-09-14T05:34:50.1016003+03:00"
+    },
+    {
+      "productId": 4667,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-07-17T02:30:00.3592162+03:00"
+    },
+    {
+      "productId": 3048,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-10-09T16:59:19.8455909+03:00"
+    }
+  ]
+}

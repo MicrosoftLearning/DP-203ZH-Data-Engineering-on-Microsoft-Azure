@@ -1,0 +1,28 @@
+{
+  "userId": 24163,
+  "cartId": "95b0dc88-6aa4-4162-940a-b9f7a4bc4a83",
+  "preferredProducts": [
+    1341,
+    3043,
+    2564,
+    3401,
+    858
+  ],
+  "productReviews": [
+    {
+      "productId": 2205,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-08-23T19:38:24.0063677+03:00"
+    },
+    {
+      "productId": 4987,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-08-29T04:27:45.4272419+03:00"
+    },
+    {
+      "productId": 194,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-03-17T07:00:34.2178728+02:00"
+    }
+  ]
+}

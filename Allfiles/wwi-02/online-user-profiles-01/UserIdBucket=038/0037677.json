@@ -1,0 +1,27 @@
+{
+  "userId": 37677,
+  "cartId": "8eaced3f-3218-4271-82a4-853b41ed721c",
+  "preferredProducts": [
+    4849,
+    4523,
+    1122,
+    666
+  ],
+  "productReviews": [
+    {
+      "productId": 59,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-05-28T07:36:21.9297672+03:00"
+    },
+    {
+      "productId": 506,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-06-04T10:15:57.090556+03:00"
+    },
+    {
+      "productId": 3997,
+      "reviewText": "This cutting-edge, does exactly what it's suppose to do.",
+      "reviewDate": "2019-01-22T02:58:21.4157394+02:00"
+    }
+  ]
+}

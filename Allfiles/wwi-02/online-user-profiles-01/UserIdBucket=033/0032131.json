@@ -1,0 +1,36 @@
+{
+  "userId": 32131,
+  "cartId": "6168c8b1-72e1-4649-974a-89342823bf17",
+  "preferredProducts": [
+    3520,
+    2282,
+    4723,
+    1733,
+    1718,
+    114,
+    4209,
+    3041
+  ],
+  "productReviews": [
+    {
+      "productId": 3514,
+      "reviewText": "This motivating works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-11-19T10:55:29.955516+02:00"
+    },
+    {
+      "productId": 3879,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-06-07T02:42:49.943967+03:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "This XSS, does exactly what it's suppose to do.",
+      "reviewDate": "2017-08-03T14:25:02.1109158+03:00"
+    },
+    {
+      "productId": 1102,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-12-16T21:35:29.1848843+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 5731,
+  "cartId": "15bad193-5349-4aeb-874e-c8b530aca89b",
+  "preferredProducts": [
+    3548,
+    15,
+    3266,
+    2602,
+    2338
+  ],
+  "productReviews": [
+    {
+      "productId": 2205,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-09-05T00:56:17.6856424+03:00"
+    },
+    {
+      "productId": 4525,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-01-24T09:45:59.3287081+02:00"
+    },
+    {
+      "productId": 520,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-06-29T10:15:04.0209258+03:00"
+    },
+    {
+      "productId": 2370,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-02-23T07:52:21.1041459+02:00"
+    }
+  ]
+}

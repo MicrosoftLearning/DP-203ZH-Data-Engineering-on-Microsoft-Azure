@@ -1,0 +1,41 @@
+{
+  "userId": 99123,
+  "cartId": "af5e6d1d-ad42-4612-a70a-8eb1c2f7ef6a",
+  "preferredProducts": [
+    46,
+    2762,
+    3461,
+    1276,
+    2730,
+    3140,
+    2723,
+    4207
+  ],
+  "productReviews": [
+    {
+      "productId": 638,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-04-11T09:32:21.7822298+03:00"
+    },
+    {
+      "productId": 1289,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-08-08T00:39:41.5305927+03:00"
+    },
+    {
+      "productId": 4389,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-07-26T00:07:35.2798891+03:00"
+    },
+    {
+      "productId": 992,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-02-14T21:26:59.1924231+02:00"
+    },
+    {
+      "productId": 4243,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2020-03-09T01:14:53.7778061+02:00"
+    }
+  ]
+}

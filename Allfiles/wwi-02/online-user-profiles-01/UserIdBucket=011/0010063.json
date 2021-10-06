@@ -1,0 +1,31 @@
+{
+  "userId": 10063,
+  "cartId": "515e94e0-bfe6-4a9f-9424-67a1105d7305",
+  "preferredProducts": [
+    3810,
+    53,
+    2991,
+    4687,
+    2708,
+    2848,
+    1858,
+    2013
+  ],
+  "productReviews": [
+    {
+      "productId": 2170,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-06-20T13:39:46.2329394+03:00"
+    },
+    {
+      "productId": 3247,
+      "reviewText": "This invoice works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2020-04-21T22:52:17.4495748+03:00"
+    },
+    {
+      "productId": 54,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-03-28T11:41:52.1221376+03:00"
+    }
+  ]
+}

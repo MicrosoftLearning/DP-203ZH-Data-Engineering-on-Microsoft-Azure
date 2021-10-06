@@ -1,0 +1,32 @@
+{
+  "userId": 67861,
+  "cartId": "91d53228-183d-47be-b3f1-8eb92958b1b0",
+  "preferredProducts": [
+    3066,
+    3726,
+    227,
+    3701,
+    1351,
+    3783,
+    649,
+    2078,
+    758
+  ],
+  "productReviews": [
+    {
+      "productId": 170,
+      "reviewText": "this Assistant is hyper.",
+      "reviewDate": "2016-09-21T21:13:01.8824728+03:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-01-06T12:18:44.1735935+02:00"
+    },
+    {
+      "productId": 2308,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-06-12T20:22:06.370356+03:00"
+    }
+  ]
+}

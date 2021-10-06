@@ -1,0 +1,37 @@
+{
+  "userId": 2070,
+  "cartId": "26db7dbd-9cfd-478d-9f9c-e4e7085aab4f",
+  "preferredProducts": [
+    4195,
+    310,
+    3300,
+    412,
+    1818,
+    2045,
+    1428,
+    331,
+    578
+  ],
+  "productReviews": [
+    {
+      "productId": 3699,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-01-16T05:17:21.9436057+02:00"
+    },
+    {
+      "productId": 4303,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-08-21T20:49:38.4162585+03:00"
+    },
+    {
+      "productId": 1830,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-10-01T21:43:01.5094511+03:00"
+    },
+    {
+      "productId": 4719,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-07-23T18:51:46.6812132+03:00"
+    }
+  ]
+}

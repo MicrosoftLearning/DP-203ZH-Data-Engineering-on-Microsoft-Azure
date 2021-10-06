@@ -1,0 +1,31 @@
+{
+  "userId": 90246,
+  "cartId": "c7763929-98ff-49f0-ae6c-5785c0b4075f",
+  "preferredProducts": [
+    3459,
+    2752,
+    1937,
+    506,
+    2240,
+    423,
+    2750,
+    79
+  ],
+  "productReviews": [
+    {
+      "productId": 3235,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-05-27T21:47:08.7951547+03:00"
+    },
+    {
+      "productId": 2099,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2016-08-22T16:49:50.8492801+03:00"
+    },
+    {
+      "productId": 2949,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-08-15T17:02:34.6529671+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 25729,
+  "cartId": "30a7792a-9a94-4e66-8d03-4a5aa7c4eb6c",
+  "preferredProducts": [
+    3745,
+    1235,
+    4728,
+    4105,
+    2855,
+    2315
+  ],
+  "productReviews": [
+    {
+      "productId": 4555,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-08-27T10:17:20.5430973+03:00"
+    },
+    {
+      "productId": 1442,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-04-08T20:39:49.4779383+03:00"
+    }
+  ]
+}

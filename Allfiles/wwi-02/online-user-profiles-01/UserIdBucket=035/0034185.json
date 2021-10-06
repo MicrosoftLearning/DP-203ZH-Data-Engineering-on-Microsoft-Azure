@@ -1,0 +1,31 @@
+{
+  "userId": 34185,
+  "cartId": "4f3930e0-5cb3-4b5f-94bd-48b20d0e66a7",
+  "preferredProducts": [
+    481,
+    1666,
+    3446,
+    3205,
+    4305,
+    1656,
+    3000,
+    4888
+  ],
+  "productReviews": [
+    {
+      "productId": 656,
+      "reviewText": "This programming works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-08-07T04:00:19.1244155+03:00"
+    },
+    {
+      "productId": 3553,
+      "reviewText": "This Rustic Fresh Fish, does exactly what it's suppose to do.",
+      "reviewDate": "2016-07-11T03:17:06.3553491+03:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "This sky blue works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-08-13T04:51:14.0084927+03:00"
+    }
+  ]
+}

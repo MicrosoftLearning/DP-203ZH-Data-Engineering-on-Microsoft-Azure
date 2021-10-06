@@ -1,0 +1,33 @@
+{
+  "userId": 80087,
+  "cartId": "5678de28-7c37-45e4-83a3-f09486c25fde",
+  "preferredProducts": [
+    1402,
+    4303,
+    3868,
+    1735,
+    1318,
+    4995,
+    1624,
+    281,
+    3484,
+    4396
+  ],
+  "productReviews": [
+    {
+      "productId": 2767,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-09-15T15:05:05.010266+03:00"
+    },
+    {
+      "productId": 2978,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-02-19T01:41:31.6622289+02:00"
+    },
+    {
+      "productId": 1355,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-05-25T06:41:42.5731208+03:00"
+    }
+  ]
+}

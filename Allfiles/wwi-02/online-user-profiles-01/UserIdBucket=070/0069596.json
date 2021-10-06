@@ -1,0 +1,29 @@
+{
+  "userId": 69596,
+  "cartId": "b1f9b7e4-d0f0-4ad7-96ff-5681dc73e64d",
+  "preferredProducts": [
+    1592,
+    2736,
+    3891,
+    3240,
+    1891,
+    4839
+  ],
+  "productReviews": [
+    {
+      "productId": 3159,
+      "reviewText": "this XSS is complimentary.",
+      "reviewDate": "2017-06-22T06:42:13.8342217+03:00"
+    },
+    {
+      "productId": 851,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-06-28T09:30:20.05494+03:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-09-10T12:50:05.4111028+03:00"
+    }
+  ]
+}

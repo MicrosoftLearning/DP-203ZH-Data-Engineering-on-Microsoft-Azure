@@ -1,0 +1,32 @@
+{
+  "userId": 15998,
+  "cartId": "2f217f4f-9c82-4882-8ede-6f2969da36a0",
+  "preferredProducts": [
+    224,
+    3277,
+    1342,
+    57,
+    1047,
+    2714,
+    3619,
+    185,
+    1581
+  ],
+  "productReviews": [
+    {
+      "productId": 1171,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-11-07T21:11:59.8373649+02:00"
+    },
+    {
+      "productId": 1613,
+      "reviewText": "this Mission is dominant.",
+      "reviewDate": "2018-05-23T16:43:13.0641799+03:00"
+    },
+    {
+      "productId": 835,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-04-12T04:32:43.6932056+03:00"
+    }
+  ]
+}

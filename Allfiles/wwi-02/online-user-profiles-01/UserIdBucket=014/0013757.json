@@ -1,0 +1,29 @@
+{
+  "userId": 13757,
+  "cartId": "72c9973f-6855-4ebb-978e-c8cd636f260c",
+  "preferredProducts": [
+    2658,
+    4262,
+    348,
+    1305,
+    3485,
+    2358
+  ],
+  "productReviews": [
+    {
+      "productId": 170,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-09-17T16:39:46.7232356+03:00"
+    },
+    {
+      "productId": 3771,
+      "reviewText": "this ubiquitous is complimentary.",
+      "reviewDate": "2020-01-12T21:34:44.9718924+02:00"
+    },
+    {
+      "productId": 2365,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-11-03T09:38:40.1462186+02:00"
+    }
+  ]
+}

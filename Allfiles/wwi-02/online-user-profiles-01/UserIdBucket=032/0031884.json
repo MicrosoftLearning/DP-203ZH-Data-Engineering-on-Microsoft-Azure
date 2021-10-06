@@ -1,0 +1,25 @@
+{
+  "userId": 31884,
+  "cartId": "8aad4925-816a-4c07-bcd8-fc257ea37e71",
+  "preferredProducts": [
+    1060,
+    2899
+  ],
+  "productReviews": [
+    {
+      "productId": 1325,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-01-02T05:08:31.1551579+02:00"
+    },
+    {
+      "productId": 4672,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-23T11:46:09.8900986+03:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-02-25T23:58:01.6650995+02:00"
+    }
+  ]
+}

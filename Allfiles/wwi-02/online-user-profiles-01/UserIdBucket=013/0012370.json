@@ -1,0 +1,27 @@
+{
+  "userId": 12370,
+  "cartId": "94661e57-ed8d-4889-a705-adcbf3a5f18c",
+  "preferredProducts": [
+    1052,
+    235,
+    3099,
+    3719
+  ],
+  "productReviews": [
+    {
+      "productId": 567,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2020-02-19T06:51:51.1932439+02:00"
+    },
+    {
+      "productId": 654,
+      "reviewText": "this Buckinghamshire is amiable.",
+      "reviewDate": "2018-06-07T05:21:16.2708109+03:00"
+    },
+    {
+      "productId": 576,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-08-14T16:55:04.1041448+03:00"
+    }
+  ]
+}

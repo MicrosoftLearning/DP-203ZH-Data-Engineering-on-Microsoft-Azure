@@ -1,0 +1,27 @@
+{
+  "userId": 89981,
+  "cartId": "52cbb1b6-029b-42aa-a5ee-69ca1711406c",
+  "preferredProducts": [
+    3415,
+    3116,
+    1097,
+    1638
+  ],
+  "productReviews": [
+    {
+      "productId": 51,
+      "reviewText": "this Executive is slurpee.",
+      "reviewDate": "2016-12-28T13:56:08.9641173+02:00"
+    },
+    {
+      "productId": 3275,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-07-22T22:47:10.3692386+03:00"
+    },
+    {
+      "productId": 3792,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-03-09T16:27:20.1154597+02:00"
+    }
+  ]
+}

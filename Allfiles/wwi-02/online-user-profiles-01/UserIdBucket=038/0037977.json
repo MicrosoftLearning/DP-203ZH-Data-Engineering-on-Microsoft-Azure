@@ -1,0 +1,33 @@
+{
+  "userId": 37977,
+  "cartId": "ca45889f-355d-4f46-98c2-4d8f1f281d74",
+  "preferredProducts": [
+    2484,
+    1722,
+    2823,
+    4307,
+    2624
+  ],
+  "productReviews": [
+    {
+      "productId": 2351,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-06-17T14:27:32.158177+03:00"
+    },
+    {
+      "productId": 3839,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-02-07T01:56:37.2319952+02:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-06-15T21:37:36.9202256+03:00"
+    },
+    {
+      "productId": 968,
+      "reviewText": "This port, does exactly what it's suppose to do.",
+      "reviewDate": "2018-05-26T15:59:50.8707385+03:00"
+    }
+  ]
+}

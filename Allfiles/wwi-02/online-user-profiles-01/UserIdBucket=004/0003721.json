@@ -1,0 +1,30 @@
+{
+  "userId": 3721,
+  "cartId": "0a95e326-4c1b-40a9-a0cd-54858ceda578",
+  "preferredProducts": [
+    1207,
+    3327,
+    1967,
+    4137,
+    3611,
+    2760,
+    3186
+  ],
+  "productReviews": [
+    {
+      "productId": 319,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-12-30T14:07:40.5284726+02:00"
+    },
+    {
+      "productId": 852,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-08-04T22:23:40.0929713+03:00"
+    },
+    {
+      "productId": 3123,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-01-30T02:51:36.1526798+02:00"
+    }
+  ]
+}

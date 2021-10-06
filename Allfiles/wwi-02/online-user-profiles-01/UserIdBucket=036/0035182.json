@@ -1,0 +1,25 @@
+{
+  "userId": 35182,
+  "cartId": "9569cbd8-4b05-4b32-b6f7-af6e277fc989",
+  "preferredProducts": [
+    4342,
+    488,
+    3127,
+    398,
+    2350,
+    1566,
+    2878
+  ],
+  "productReviews": [
+    {
+      "productId": 3103,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-03-16T14:07:33.8723173+02:00"
+    },
+    {
+      "productId": 125,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-09-26T15:48:54.3327288+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 50074,
+  "cartId": "2117c07e-887f-47ae-a064-39bbad3b1b8c",
+  "preferredProducts": [
+    3559,
+    3301,
+    295,
+    68,
+    2627
+  ],
+  "productReviews": [
+    {
+      "productId": 1357,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-01-02T19:53:47.1011262+02:00"
+    },
+    {
+      "productId": 1259,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-10-21T16:12:11.3224726+03:00"
+    }
+  ]
+}

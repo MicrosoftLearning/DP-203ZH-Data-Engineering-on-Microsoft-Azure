@@ -1,0 +1,29 @@
+{
+  "userId": 20001,
+  "cartId": "ede10c0c-c86a-4d14-a0d6-7e5b2bd5c09b",
+  "preferredProducts": [
+    3388
+  ],
+  "productReviews": [
+    {
+      "productId": 4741,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-07-05T17:26:14.0070726+03:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-07-29T02:29:42.5704551+03:00"
+    },
+    {
+      "productId": 4192,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-04-29T09:40:00.7126002+03:00"
+    },
+    {
+      "productId": 1313,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-01-13T10:55:40.2898003+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 66723,
+  "cartId": "fcc47ec4-9eac-4c23-bb62-1be1ea5b2460",
+  "preferredProducts": [
+    3924,
+    1513,
+    2881,
+    1001,
+    3068,
+    3314,
+    1970,
+    2187,
+    1521,
+    3031
+  ],
+  "productReviews": [
+    {
+      "productId": 2015,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-01-06T15:45:31.2377826+02:00"
+    },
+    {
+      "productId": 4225,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-09-26T21:12:48.6908158+03:00"
+    },
+    {
+      "productId": 4547,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-05-18T00:55:08.8007661+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 60172,
+  "cartId": "872773ae-00c8-4326-b71c-21e7a5cca453",
+  "preferredProducts": [
+    3253,
+    1818,
+    392
+  ],
+  "productReviews": [
+    {
+      "productId": 1818,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-11-21T03:49:47.2592824+02:00"
+    },
+    {
+      "productId": 3940,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-05-14T00:18:09.7652198+03:00"
+    },
+    {
+      "productId": 4297,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-09-25T07:17:05.4292202+03:00"
+    },
+    {
+      "productId": 4978,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-11-06T19:38:00.1194816+02:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 35173,
+  "cartId": "f61ca688-ca7f-4d41-bbcb-f4706ff3da46",
+  "preferredProducts": [
+    1085,
+    1866,
+    4175,
+    1112,
+    4581,
+    4675,
+    1112,
+    2023,
+    4160
+  ],
+  "productReviews": [
+    {
+      "productId": 3540,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-09-01T16:29:47.2006826+03:00"
+    },
+    {
+      "productId": 2707,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-07-31T03:41:03.7217788+03:00"
+    },
+    {
+      "productId": 4345,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-06-05T04:21:49.6642194+03:00"
+    },
+    {
+      "productId": 4469,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-12-05T07:30:50.8301917+02:00"
+    },
+    {
+      "productId": 783,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-06-28T15:54:54.622038+03:00"
+    }
+  ]
+}

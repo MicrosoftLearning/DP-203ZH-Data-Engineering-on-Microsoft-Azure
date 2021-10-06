@@ -1,0 +1,34 @@
+{
+  "userId": 23481,
+  "cartId": "f60dc36b-895a-42bc-a122-4bceeb2a1d5a",
+  "preferredProducts": [
+    1162,
+    1857,
+    4811,
+    2399,
+    3241,
+    3618
+  ],
+  "productReviews": [
+    {
+      "productId": 3209,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-05-11T00:30:07.9059324+03:00"
+    },
+    {
+      "productId": 3366,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-12-30T18:28:16.2398725+02:00"
+    },
+    {
+      "productId": 3474,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-10-02T21:44:15.6853713+03:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-11-28T17:23:10.8551865+02:00"
+    }
+  ]
+}

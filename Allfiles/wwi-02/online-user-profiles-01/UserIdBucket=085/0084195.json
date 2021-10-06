@@ -1,0 +1,28 @@
+{
+  "userId": 84195,
+  "cartId": "5cfd27b5-1d56-4f10-bc06-dd106c76e380",
+  "preferredProducts": [
+    923,
+    4335,
+    3975,
+    2473,
+    4497
+  ],
+  "productReviews": [
+    {
+      "productId": 3894,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-11-19T12:47:38.6453429+02:00"
+    },
+    {
+      "productId": 4198,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-12-30T22:42:44.9636316+02:00"
+    },
+    {
+      "productId": 2374,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-03-25T19:00:54.1843323+02:00"
+    }
+  ]
+}

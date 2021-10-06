@@ -1,0 +1,30 @@
+{
+  "userId": 82333,
+  "cartId": "4d94ffb8-fce8-4f6c-94be-9244472a3b40",
+  "preferredProducts": [
+    4539,
+    342
+  ],
+  "productReviews": [
+    {
+      "productId": 4399,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-07-10T12:14:47.3298059+03:00"
+    },
+    {
+      "productId": 1658,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-08-19T02:43:26.6792902+03:00"
+    },
+    {
+      "productId": 4333,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-02-22T23:04:00.7624884+02:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-05-01T00:22:02.4595701+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 23891,
+  "cartId": "c12f92b0-50f3-4cd4-956c-b95c043107a1",
+  "preferredProducts": [
+    3709,
+    3253,
+    4749,
+    3603,
+    780,
+    904,
+    3371,
+    1602,
+    379
+  ],
+  "productReviews": [
+    {
+      "productId": 1024,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-04-19T14:13:50.5673003+03:00"
+    },
+    {
+      "productId": 4592,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-03-31T10:50:07.0096671+03:00"
+    },
+    {
+      "productId": 2438,
+      "reviewText": "This array works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-08-23T18:17:39.4617008+03:00"
+    }
+  ]
+}

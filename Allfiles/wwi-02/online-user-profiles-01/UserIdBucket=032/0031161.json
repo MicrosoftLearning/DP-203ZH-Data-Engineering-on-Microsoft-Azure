@@ -1,0 +1,35 @@
+{
+  "userId": 31161,
+  "cartId": "b367db81-f567-4eb0-acef-ea86d439ce02",
+  "preferredProducts": [
+    737,
+    4993,
+    1394,
+    4389,
+    1596,
+    53,
+    4544
+  ],
+  "productReviews": [
+    {
+      "productId": 4814,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-05-25T13:45:35.4480531+03:00"
+    },
+    {
+      "productId": 2633,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-05-15T18:23:52.0663361+03:00"
+    },
+    {
+      "productId": 2261,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-01-07T16:18:05.4865889+02:00"
+    },
+    {
+      "productId": 3768,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-02-28T10:35:16.9143818+02:00"
+    }
+  ]
+}

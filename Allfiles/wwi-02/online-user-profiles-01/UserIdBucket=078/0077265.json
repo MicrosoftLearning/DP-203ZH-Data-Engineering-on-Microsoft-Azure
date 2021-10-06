@@ -1,0 +1,31 @@
+{
+  "userId": 77265,
+  "cartId": "c037266d-a62b-499c-aae6-e70885373715",
+  "preferredProducts": [
+    1813,
+    3802,
+    3428
+  ],
+  "productReviews": [
+    {
+      "productId": 1284,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-04-26T17:37:06.2858732+03:00"
+    },
+    {
+      "productId": 3195,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-06-07T16:46:23.4375407+03:00"
+    },
+    {
+      "productId": 3473,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-03-02T23:53:17.1385371+02:00"
+    },
+    {
+      "productId": 1678,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-06-10T23:56:45.9533391+03:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 5536,
+  "cartId": "c4f6d25e-67af-4e6e-a6b5-7439788b396a",
+  "preferredProducts": [
+    2683,
+    2890,
+    3346,
+    4221,
+    4695,
+    1695
+  ],
+  "productReviews": [
+    {
+      "productId": 1208,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-09-02T00:17:50.2209888+03:00"
+    },
+    {
+      "productId": 1175,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-11-11T12:11:16.9430479+02:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-05-07T22:42:57.9496604+03:00"
+    },
+    {
+      "productId": 1517,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-05-27T12:49:22.4857785+03:00"
+    },
+    {
+      "productId": 3284,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-03-24T00:16:25.2399978+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 26666,
+  "cartId": "6631f8fe-d41b-401e-9803-9e2454611798",
+  "preferredProducts": [
+    2817,
+    2011,
+    4175,
+    4041,
+    3138,
+    4408,
+    849
+  ],
+  "productReviews": [
+    {
+      "productId": 3080,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2020-04-11T02:01:50.3017607+03:00"
+    },
+    {
+      "productId": 337,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-09-01T18:02:29.8779537+03:00"
+    },
+    {
+      "productId": 3166,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-07-05T15:36:05.0945822+03:00"
+    }
+  ]
+}

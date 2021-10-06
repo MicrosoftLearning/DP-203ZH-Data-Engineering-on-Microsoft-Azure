@@ -1,0 +1,28 @@
+{
+  "userId": 86456,
+  "cartId": "6fb14526-62aa-4a37-85b0-d0e158c7b60a",
+  "preferredProducts": [
+    12,
+    2922,
+    349,
+    1992,
+    4291
+  ],
+  "productReviews": [
+    {
+      "productId": 4341,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-07-08T00:01:08.9432325+03:00"
+    },
+    {
+      "productId": 1200,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-05-31T17:46:06.2479872+03:00"
+    },
+    {
+      "productId": 1995,
+      "reviewText": "This Research works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-04-11T00:06:58.0253198+03:00"
+    }
+  ]
+}

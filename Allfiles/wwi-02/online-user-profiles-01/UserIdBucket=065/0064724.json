@@ -1,0 +1,35 @@
+{
+  "userId": 64724,
+  "cartId": "39f7ff02-635f-48d6-aea9-ca42d66b66ad",
+  "preferredProducts": [
+    156,
+    516,
+    3424,
+    1835,
+    2122,
+    3083,
+    3401
+  ],
+  "productReviews": [
+    {
+      "productId": 1354,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-10-30T10:04:37.4861718+02:00"
+    },
+    {
+      "productId": 2624,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-03-30T13:58:28.8472183+03:00"
+    },
+    {
+      "productId": 648,
+      "reviewText": "This cross-platform works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2017-02-11T10:39:43.243506+02:00"
+    },
+    {
+      "productId": 1070,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-02-22T17:33:59.3766541+02:00"
+    }
+  ]
+}

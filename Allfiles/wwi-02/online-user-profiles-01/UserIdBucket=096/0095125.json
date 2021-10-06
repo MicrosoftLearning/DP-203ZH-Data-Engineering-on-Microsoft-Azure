@@ -1,0 +1,36 @@
+{
+  "userId": 95125,
+  "cartId": "ffbe6375-102a-4720-991d-d33f3037b52a",
+  "preferredProducts": [
+    989,
+    807,
+    401
+  ],
+  "productReviews": [
+    {
+      "productId": 3483,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-09-19T20:55:00.0940185+03:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-12-20T03:46:59.3887268+02:00"
+    },
+    {
+      "productId": 941,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-12-08T13:47:23.3646642+02:00"
+    },
+    {
+      "productId": 2337,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-12-28T18:04:07.0445514+02:00"
+    },
+    {
+      "productId": 995,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-10-28T17:51:08.002994+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 2333,
+  "cartId": "00e5d4d1-e1e1-4dad-85f1-80e62ea9f4a0",
+  "preferredProducts": [
+    2270,
+    3172,
+    3919,
+    677,
+    1526,
+    3838,
+    1461,
+    3540,
+    3216,
+    1963
+  ],
+  "productReviews": [
+    {
+      "productId": 2028,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-08-18T08:13:13.4485119+03:00"
+    },
+    {
+      "productId": 474,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-12-16T18:18:24.6160176+02:00"
+    },
+    {
+      "productId": 4343,
+      "reviewText": "this synergistic is gracious.",
+      "reviewDate": "2017-09-18T21:47:18.8112471+03:00"
+    }
+  ]
+}

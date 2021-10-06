@@ -1,0 +1,34 @@
+{
+  "userId": 49046,
+  "cartId": "b2fc1ae1-2b66-4aab-b784-0e0e1832a454",
+  "preferredProducts": [
+    2886,
+    2167,
+    1589,
+    3601,
+    2731,
+    2094
+  ],
+  "productReviews": [
+    {
+      "productId": 2720,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-10-04T04:28:25.3515172+03:00"
+    },
+    {
+      "productId": 2191,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-11-09T17:43:36.5119505+02:00"
+    },
+    {
+      "productId": 3872,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-02-16T17:29:57.5579157+02:00"
+    },
+    {
+      "productId": 4877,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2020-02-14T12:51:37.2162268+02:00"
+    }
+  ]
+}

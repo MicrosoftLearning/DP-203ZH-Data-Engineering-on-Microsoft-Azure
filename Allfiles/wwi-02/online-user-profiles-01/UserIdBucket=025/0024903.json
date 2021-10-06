@@ -1,0 +1,42 @@
+{
+  "userId": 24903,
+  "cartId": "1679e67f-73c3-4a77-960a-d59150a62bd3",
+  "preferredProducts": [
+    1431,
+    2503,
+    1777,
+    4403,
+    1995,
+    2893,
+    4141,
+    1458,
+    1815
+  ],
+  "productReviews": [
+    {
+      "productId": 3007,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-09-30T21:13:03.4362872+03:00"
+    },
+    {
+      "productId": 2379,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-01-09T02:10:13.5826131+02:00"
+    },
+    {
+      "productId": 4441,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-11-16T06:47:50.2028427+02:00"
+    },
+    {
+      "productId": 960,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-04-17T13:02:55.6817533+03:00"
+    },
+    {
+      "productId": 4272,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-11-24T10:32:09.9238578+02:00"
+    }
+  ]
+}

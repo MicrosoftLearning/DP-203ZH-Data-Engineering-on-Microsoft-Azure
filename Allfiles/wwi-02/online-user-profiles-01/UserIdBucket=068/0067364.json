@@ -1,0 +1,30 @@
+{
+  "userId": 67364,
+  "cartId": "4b2fab67-0fe1-46e3-937d-051880fa846d",
+  "preferredProducts": [
+    3540,
+    251,
+    658,
+    1029,
+    3716,
+    90,
+    1509
+  ],
+  "productReviews": [
+    {
+      "productId": 83,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-12-24T23:31:56.7710671+02:00"
+    },
+    {
+      "productId": 1798,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-04-07T11:34:22.2457024+03:00"
+    },
+    {
+      "productId": 987,
+      "reviewText": "this Station is revolting.",
+      "reviewDate": "2019-06-19T21:38:56.1504803+03:00"
+    }
+  ]
+}

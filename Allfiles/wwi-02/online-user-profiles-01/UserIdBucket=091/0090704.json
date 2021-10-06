@@ -1,0 +1,25 @@
+{
+  "userId": 90704,
+  "cartId": "eb10980e-99ff-4c4e-82e7-e7b3b0475d84",
+  "preferredProducts": [
+    1135,
+    652,
+    4242,
+    4983,
+    1240,
+    713,
+    3359
+  ],
+  "productReviews": [
+    {
+      "productId": 130,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-07-10T11:14:23.1882297+03:00"
+    },
+    {
+      "productId": 3163,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-02-13T18:18:35.7585518+02:00"
+    }
+  ]
+}

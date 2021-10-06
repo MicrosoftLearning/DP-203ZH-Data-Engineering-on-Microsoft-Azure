@@ -1,0 +1,27 @@
+{
+  "userId": 50529,
+  "cartId": "0cc1134d-afb2-4d85-9e9f-f5893b235df8",
+  "preferredProducts": [
+    741,
+    3935,
+    110,
+    1259
+  ],
+  "productReviews": [
+    {
+      "productId": 241,
+      "reviewText": "this Tasty Cotton Fish is honest.",
+      "reviewDate": "2018-12-14T20:29:26.6798455+02:00"
+    },
+    {
+      "productId": 982,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-09-19T18:53:47.5713412+03:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-10-20T17:06:19.7558237+03:00"
+    }
+  ]
+}

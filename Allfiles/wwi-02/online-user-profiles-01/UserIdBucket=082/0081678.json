@@ -1,0 +1,32 @@
+{
+  "userId": 81678,
+  "cartId": "7799ca9e-0c84-406d-9bc3-3c5e4286cbe0",
+  "preferredProducts": [
+    2890,
+    3010,
+    1251,
+    1251
+  ],
+  "productReviews": [
+    {
+      "productId": 3380,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-02-17T12:31:53.6054187+02:00"
+    },
+    {
+      "productId": 1311,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-09-20T15:30:58.5980942+03:00"
+    },
+    {
+      "productId": 2339,
+      "reviewText": "this payment is tasty.",
+      "reviewDate": "2019-11-05T02:54:37.2312733+02:00"
+    },
+    {
+      "productId": 1547,
+      "reviewText": "this Jewelery is dominant.",
+      "reviewDate": "2019-06-17T18:26:16.6640112+03:00"
+    }
+  ]
+}

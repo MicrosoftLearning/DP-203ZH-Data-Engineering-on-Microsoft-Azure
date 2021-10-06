@@ -1,0 +1,42 @@
+{
+  "userId": 20318,
+  "cartId": "c53956bf-2031-4151-8da4-2bb36ff4722b",
+  "preferredProducts": [
+    426,
+    911,
+    3405,
+    3345,
+    1971,
+    2164,
+    3164,
+    4334,
+    3146
+  ],
+  "productReviews": [
+    {
+      "productId": 3706,
+      "reviewText": "this generating is hyper.",
+      "reviewDate": "2016-10-17T16:19:09.0400969+03:00"
+    },
+    {
+      "productId": 2847,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-04-04T01:28:01.4250043+03:00"
+    },
+    {
+      "productId": 4107,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-01-31T08:56:35.6327303+02:00"
+    },
+    {
+      "productId": 3827,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-10-27T01:51:11.4906194+03:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-11-25T11:43:18.8229825+02:00"
+    }
+  ]
+}

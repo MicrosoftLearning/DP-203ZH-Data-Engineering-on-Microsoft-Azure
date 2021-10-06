@@ -1,0 +1,22 @@
+{
+  "userId": 1537,
+  "cartId": "1eeb81d4-4291-4c1e-b77b-bd0fdb2b52d3",
+  "preferredProducts": [
+    1112,
+    955,
+    675,
+    1091
+  ],
+  "productReviews": [
+    {
+      "productId": 1051,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-09-28T12:19:16.8540858+03:00"
+    },
+    {
+      "productId": 2927,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-04-19T15:18:25.0858087+03:00"
+    }
+  ]
+}

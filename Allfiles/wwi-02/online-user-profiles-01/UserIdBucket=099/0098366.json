@@ -1,0 +1,25 @@
+{
+  "userId": 98366,
+  "cartId": "d16416af-157c-4c10-a04f-1960040027ec",
+  "preferredProducts": [
+    148,
+    1205,
+    1211,
+    2350,
+    397,
+    3375,
+    4408
+  ],
+  "productReviews": [
+    {
+      "productId": 2235,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-03-06T12:20:54.3248418+02:00"
+    },
+    {
+      "productId": 1111,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-04-11T04:44:05.0405566+03:00"
+    }
+  ]
+}

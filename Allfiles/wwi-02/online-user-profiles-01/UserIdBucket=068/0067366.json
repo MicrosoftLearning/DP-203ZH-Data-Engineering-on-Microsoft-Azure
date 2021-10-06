@@ -1,0 +1,30 @@
+{
+  "userId": 67366,
+  "cartId": "5dae034a-4da3-4efb-870c-42b786289063",
+  "preferredProducts": [
+    187,
+    3116,
+    2032,
+    3198,
+    3154,
+    3051,
+    1689
+  ],
+  "productReviews": [
+    {
+      "productId": 2020,
+      "reviewText": "this red is smooth.",
+      "reviewDate": "2019-09-10T19:13:54.2104435+03:00"
+    },
+    {
+      "productId": 4347,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-09-27T17:38:00.2362275+03:00"
+    },
+    {
+      "productId": 4423,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-03-29T18:53:42.9918385+03:00"
+    }
+  ]
+}

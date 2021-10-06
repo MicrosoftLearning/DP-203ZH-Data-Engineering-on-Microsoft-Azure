@@ -1,0 +1,37 @@
+{
+  "userId": 11267,
+  "cartId": "a1db2d2c-79aa-4d66-ba56-38faa2ae4cd6",
+  "preferredProducts": [
+    3956,
+    813,
+    2104,
+    3265,
+    2039,
+    2581,
+    490,
+    1295,
+    1358
+  ],
+  "productReviews": [
+    {
+      "productId": 3319,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-09-16T08:20:29.1594363+03:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-09-08T05:23:34.8263924+03:00"
+    },
+    {
+      "productId": 4702,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-16T23:03:48.5427792+02:00"
+    },
+    {
+      "productId": 2821,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-07-26T08:17:03.0180318+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 10430,
+  "cartId": "a3ffe7dd-b43f-4253-9cdb-b9dff0f42744",
+  "preferredProducts": [
+    3668,
+    3014,
+    1134,
+    3332,
+    4090,
+    3554,
+    926,
+    3185,
+    4288,
+    4351
+  ],
+  "productReviews": [
+    {
+      "productId": 269,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-08-01T18:37:10.8859381+03:00"
+    },
+    {
+      "productId": 1191,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-07-07T13:01:53.330485+03:00"
+    },
+    {
+      "productId": 1683,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-02-17T20:07:44.0988519+02:00"
+    },
+    {
+      "productId": 2237,
+      "reviewText": "This withdrawal works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-03-07T19:13:17.3998151+02:00"
+    }
+  ]
+}

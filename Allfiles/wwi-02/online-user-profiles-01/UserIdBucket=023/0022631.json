@@ -1,0 +1,30 @@
+{
+  "userId": 22631,
+  "cartId": "1df4e47a-8f23-4794-aec4-2dafb3a8219a",
+  "preferredProducts": [
+    4141,
+    4764
+  ],
+  "productReviews": [
+    {
+      "productId": 1938,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-01-30T22:46:27.9204311+02:00"
+    },
+    {
+      "productId": 1047,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-02T14:24:05.5437513+02:00"
+    },
+    {
+      "productId": 4131,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-04-19T06:15:23.2340683+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "this Avon is nifty.",
+      "reviewDate": "2017-07-15T06:19:44.6474193+03:00"
+    }
+  ]
+}

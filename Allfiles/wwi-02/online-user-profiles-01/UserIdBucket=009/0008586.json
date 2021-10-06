@@ -1,0 +1,37 @@
+{
+  "userId": 8586,
+  "cartId": "19fda245-64d4-42c7-b447-6f9afe75baff",
+  "preferredProducts": [
+    1111,
+    2589,
+    4098,
+    4676
+  ],
+  "productReviews": [
+    {
+      "productId": 4515,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-09-27T06:11:37.8252978+03:00"
+    },
+    {
+      "productId": 4738,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-03-22T03:24:58.6561652+02:00"
+    },
+    {
+      "productId": 135,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-02-25T17:05:06.3863092+02:00"
+    },
+    {
+      "productId": 1193,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-07-03T00:01:01.4043358+03:00"
+    },
+    {
+      "productId": 11,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-01-08T21:35:47.499557+02:00"
+    }
+  ]
+}

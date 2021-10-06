@@ -1,0 +1,38 @@
+{
+  "userId": 1160,
+  "cartId": "639835e6-83d3-4266-8d94-5e829bc1cb65",
+  "preferredProducts": [
+    3558,
+    2415,
+    3251,
+    4644,
+    2141,
+    2917,
+    2695,
+    3577,
+    1885,
+    815
+  ],
+  "productReviews": [
+    {
+      "productId": 3925,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-09-05T05:30:38.1791699+03:00"
+    },
+    {
+      "productId": 4636,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-07-26T22:51:11.8132851+03:00"
+    },
+    {
+      "productId": 4527,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-09-07T07:15:04.2571287+03:00"
+    },
+    {
+      "productId": 4486,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-06-25T13:53:17.2175079+03:00"
+    }
+  ]
+}

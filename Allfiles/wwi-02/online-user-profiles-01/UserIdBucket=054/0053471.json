@@ -1,0 +1,29 @@
+{
+  "userId": 53471,
+  "cartId": "ae83357a-14e6-497b-8ea8-e98ab66c0b27",
+  "preferredProducts": [
+    3783,
+    767,
+    3413,
+    4719,
+    729,
+    4223
+  ],
+  "productReviews": [
+    {
+      "productId": 3356,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-02-25T11:21:23.5488354+02:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "This national works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-06-05T05:35:36.862131+03:00"
+    },
+    {
+      "productId": 2242,
+      "reviewText": "This SQL works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-03-12T14:07:56.9529073+02:00"
+    }
+  ]
+}

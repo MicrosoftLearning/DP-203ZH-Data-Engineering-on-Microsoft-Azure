@@ -1,0 +1,31 @@
+{
+  "userId": 47556,
+  "cartId": "b0f7130a-f5c8-4a29-8b09-07aa9c90ffa3",
+  "preferredProducts": [
+    4517,
+    3670,
+    839,
+    3396,
+    1940,
+    1051,
+    1009,
+    4774
+  ],
+  "productReviews": [
+    {
+      "productId": 3108,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-05-06T23:02:49.3970083+03:00"
+    },
+    {
+      "productId": 3439,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-04-16T13:54:31.9233368+03:00"
+    },
+    {
+      "productId": 3629,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-03-10T09:23:34.1440086+02:00"
+    }
+  ]
+}

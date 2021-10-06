@@ -1,0 +1,38 @@
+{
+  "userId": 22190,
+  "cartId": "0b32568b-9e0d-431d-8403-15c676e09eea",
+  "preferredProducts": [
+    3233,
+    2184,
+    1574,
+    4096,
+    3015,
+    366,
+    1020,
+    1433,
+    320,
+    527
+  ],
+  "productReviews": [
+    {
+      "productId": 3682,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-04-13T04:35:28.5480667+03:00"
+    },
+    {
+      "productId": 1346,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-05-21T12:31:17.7007008+03:00"
+    },
+    {
+      "productId": 3942,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-07-18T23:58:26.8910554+03:00"
+    },
+    {
+      "productId": 133,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-11-12T06:59:25.9984418+02:00"
+    }
+  ]
+}

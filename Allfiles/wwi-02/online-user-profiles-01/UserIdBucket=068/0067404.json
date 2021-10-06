@@ -1,0 +1,33 @@
+{
+  "userId": 67404,
+  "cartId": "c11bdbfd-1d6c-4593-8210-c3a15065c99e",
+  "preferredProducts": [
+    84,
+    1433,
+    3478,
+    3431,
+    1548,
+    1199,
+    813,
+    4051,
+    2125,
+    199
+  ],
+  "productReviews": [
+    {
+      "productId": 944,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-06-27T11:00:58.013868+03:00"
+    },
+    {
+      "productId": 4428,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-12-18T21:46:43.664331+02:00"
+    },
+    {
+      "productId": 3335,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-03-11T21:22:23.5202924+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 32358,
+  "cartId": "7b387365-b777-4139-8497-bb40945c084e",
+  "preferredProducts": [
+    3214,
+    2105,
+    713,
+    3540,
+    3346
+  ],
+  "productReviews": [
+    {
+      "productId": 2665,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-11-27T19:34:37.0475775+02:00"
+    },
+    {
+      "productId": 550,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-02T12:57:45.1638645+02:00"
+    },
+    {
+      "productId": 1251,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-12-07T12:19:54.421487+02:00"
+    },
+    {
+      "productId": 4603,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-05-27T22:09:14.9117855+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 72421,
+  "cartId": "36abcd3b-0099-420e-9262-639a79bc4754",
+  "preferredProducts": [
+    2648,
+    3870,
+    1254,
+    1052
+  ],
+  "productReviews": [
+    {
+      "productId": 4942,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-06-08T09:24:18.0340724+03:00"
+    },
+    {
+      "productId": 2803,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-10-02T01:45:00.2778668+03:00"
+    },
+    {
+      "productId": 2231,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-12-30T16:20:55.1459272+02:00"
+    }
+  ]
+}

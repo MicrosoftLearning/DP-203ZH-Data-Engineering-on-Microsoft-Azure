@@ -1,0 +1,36 @@
+{
+  "userId": 99127,
+  "cartId": "33d6cd0a-b2c2-4e02-bb0a-dc81fcbde922",
+  "preferredProducts": [
+    2452,
+    3859,
+    3113,
+    4003,
+    1443,
+    3213,
+    2675,
+    1138
+  ],
+  "productReviews": [
+    {
+      "productId": 999,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-06-03T20:56:15.8992822+03:00"
+    },
+    {
+      "productId": 1757,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2020-04-24T12:58:29.4732761+03:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-10-11T06:42:06.0676262+03:00"
+    },
+    {
+      "productId": 831,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-10-18T08:28:08.6704163+03:00"
+    }
+  ]
+}

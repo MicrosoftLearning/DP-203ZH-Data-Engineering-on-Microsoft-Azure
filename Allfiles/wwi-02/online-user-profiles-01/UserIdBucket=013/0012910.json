@@ -1,0 +1,25 @@
+{
+  "userId": 12910,
+  "cartId": "b7098258-ffbf-4446-9e2c-b735a58cbde8",
+  "preferredProducts": [
+    1447,
+    2079,
+    2425,
+    2863,
+    150,
+    4375,
+    3653
+  ],
+  "productReviews": [
+    {
+      "productId": 2629,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2020-03-05T22:05:01.4562771+02:00"
+    },
+    {
+      "productId": 2063,
+      "reviewText": "this background is vertical.",
+      "reviewDate": "2017-02-14T03:09:10.7978628+02:00"
+    }
+  ]
+}

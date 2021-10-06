@@ -1,0 +1,43 @@
+{
+  "userId": 14876,
+  "cartId": "c86abc90-6dc0-4158-8c94-b2bad5a401b1",
+  "preferredProducts": [
+    4003,
+    467,
+    243,
+    1433,
+    3569,
+    1203,
+    3275,
+    1301,
+    3976,
+    4327
+  ],
+  "productReviews": [
+    {
+      "productId": 3147,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-11-29T13:32:07.4194245+02:00"
+    },
+    {
+      "productId": 2995,
+      "reviewText": "this Tasty Concrete Car is tasty.",
+      "reviewDate": "2018-01-11T03:59:38.205366+02:00"
+    },
+    {
+      "productId": 1221,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-03-12T15:16:14.5697485+02:00"
+    },
+    {
+      "productId": 1049,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-09-02T05:49:19.3467532+03:00"
+    },
+    {
+      "productId": 1591,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-08-07T13:19:52.0591237+03:00"
+    }
+  ]
+}

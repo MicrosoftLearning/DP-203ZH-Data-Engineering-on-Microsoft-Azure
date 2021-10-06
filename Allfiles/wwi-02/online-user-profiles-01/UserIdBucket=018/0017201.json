@@ -1,0 +1,30 @@
+{
+  "userId": 17201,
+  "cartId": "01fbe972-dd86-4bdd-8f51-ae1dfc051289",
+  "preferredProducts": [
+    4049,
+    2562,
+    560,
+    1309,
+    2046,
+    664,
+    1283
+  ],
+  "productReviews": [
+    {
+      "productId": 4344,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2020-05-05T19:23:46.2364902+03:00"
+    },
+    {
+      "productId": 2881,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-05-01T16:56:14.3934223+03:00"
+    },
+    {
+      "productId": 3366,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-07-19T12:44:28.5748932+03:00"
+    }
+  ]
+}

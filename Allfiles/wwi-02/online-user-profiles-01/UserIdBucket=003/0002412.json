@@ -1,0 +1,25 @@
+{
+  "userId": 2412,
+  "cartId": "04312147-6829-4ce7-ac55-83c414d104b1",
+  "preferredProducts": [
+    749,
+    2850,
+    449,
+    1818,
+    1123,
+    447,
+    1924
+  ],
+  "productReviews": [
+    {
+      "productId": 4546,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-03-13T05:07:44.6222593+02:00"
+    },
+    {
+      "productId": 407,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-12-18T23:12:07.1818113+02:00"
+    }
+  ]
+}

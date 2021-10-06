@@ -1,0 +1,36 @@
+{
+  "userId": 42959,
+  "cartId": "934aedc6-223f-4193-ad6e-0ae6412061e1",
+  "preferredProducts": [
+    3893,
+    2548,
+    1962,
+    740,
+    4699,
+    3179,
+    4778,
+    4010
+  ],
+  "productReviews": [
+    {
+      "productId": 146,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-09-20T22:33:02.8999348+03:00"
+    },
+    {
+      "productId": 1817,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-07-01T22:20:11.5992399+03:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-11-13T14:26:32.2438652+02:00"
+    },
+    {
+      "productId": 635,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-11-24T21:49:17.8083775+02:00"
+    }
+  ]
+}

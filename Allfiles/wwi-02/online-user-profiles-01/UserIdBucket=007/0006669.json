@@ -1,0 +1,35 @@
+{
+  "userId": 6669,
+  "cartId": "c4b5feed-3da2-4522-a53e-a5f802c440a2",
+  "preferredProducts": [
+    1086,
+    4956
+  ],
+  "productReviews": [
+    {
+      "productId": 1710,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-12-07T08:22:53.3379585+02:00"
+    },
+    {
+      "productId": 2792,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-12-06T04:41:06.8449512+02:00"
+    },
+    {
+      "productId": 3931,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-08-01T18:02:30.9090143+03:00"
+    },
+    {
+      "productId": 3848,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-10-12T03:02:53.6571694+03:00"
+    },
+    {
+      "productId": 2147,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-04-19T12:47:28.6084438+03:00"
+    }
+  ]
+}

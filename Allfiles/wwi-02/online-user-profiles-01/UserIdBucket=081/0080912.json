@@ -1,0 +1,33 @@
+{
+  "userId": 80912,
+  "cartId": "d1da9aa5-f66f-4d8d-b3cd-3b900117f332",
+  "preferredProducts": [
+    3768,
+    4870,
+    2346,
+    585,
+    1274,
+    2760,
+    3599,
+    4685,
+    2791,
+    2739
+  ],
+  "productReviews": [
+    {
+      "productId": 1650,
+      "reviewText": "this Fork is smooth.",
+      "reviewDate": "2018-11-10T09:37:58.2563348+02:00"
+    },
+    {
+      "productId": 573,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-07-12T21:55:50.0633455+03:00"
+    },
+    {
+      "productId": 1393,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-04-30T22:28:53.3051376+03:00"
+    }
+  ]
+}

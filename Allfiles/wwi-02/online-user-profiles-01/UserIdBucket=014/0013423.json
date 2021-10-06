@@ -1,0 +1,27 @@
+{
+  "userId": 13423,
+  "cartId": "5f72b8de-9a56-49e7-8f06-d641a5e9e18b",
+  "preferredProducts": [
+    1709,
+    2330,
+    1160,
+    4575,
+    2822,
+    1299,
+    3189,
+    400,
+    415
+  ],
+  "productReviews": [
+    {
+      "productId": 346,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-10-27T01:42:11.4870164+03:00"
+    },
+    {
+      "productId": 4591,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-07-26T08:35:22.7205897+03:00"
+    }
+  ]
+}

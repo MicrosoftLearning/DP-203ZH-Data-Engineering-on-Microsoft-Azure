@@ -1,0 +1,37 @@
+{
+  "userId": 86836,
+  "cartId": "9305fd51-f4fc-43a5-8b1d-3de648f3aa6d",
+  "preferredProducts": [
+    658,
+    4657,
+    1986,
+    4997,
+    3789,
+    3627,
+    1384,
+    4097,
+    2508
+  ],
+  "productReviews": [
+    {
+      "productId": 265,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-05-02T14:51:07.1405483+03:00"
+    },
+    {
+      "productId": 3455,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-10-10T04:06:15.0119811+03:00"
+    },
+    {
+      "productId": 2258,
+      "reviewText": "This Associate works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2020-03-22T04:12:05.6287519+02:00"
+    },
+    {
+      "productId": 1722,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-01-27T02:11:47.2908783+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 10726,
+  "cartId": "4e03b91a-9d28-447a-bbce-332b0ac3a7cc",
+  "preferredProducts": [
+    1245,
+    2772,
+    4078,
+    1681
+  ],
+  "productReviews": [
+    {
+      "productId": 2240,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-02-25T07:31:28.7678337+02:00"
+    },
+    {
+      "productId": 3462,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-05-27T19:37:56.520988+03:00"
+    },
+    {
+      "productId": 2487,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-08-25T04:47:39.0702923+03:00"
+    },
+    {
+      "productId": 4639,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-10-06T09:58:45.9263268+03:00"
+    }
+  ]
+}

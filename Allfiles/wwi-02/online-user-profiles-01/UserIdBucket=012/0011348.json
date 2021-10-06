@@ -1,0 +1,36 @@
+{
+  "userId": 11348,
+  "cartId": "a0da69c0-50f9-4aba-a96b-d7b8c62e72b0",
+  "preferredProducts": [
+    549,
+    1795,
+    4220,
+    4438,
+    1364,
+    653,
+    2372,
+    780
+  ],
+  "productReviews": [
+    {
+      "productId": 1133,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-12-20T02:37:18.2180216+02:00"
+    },
+    {
+      "productId": 4284,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-05-08T14:15:45.6006015+03:00"
+    },
+    {
+      "productId": 796,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-03-26T01:44:18.0509344+02:00"
+    },
+    {
+      "productId": 1801,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-11-28T01:37:51.797792+02:00"
+    }
+  ]
+}

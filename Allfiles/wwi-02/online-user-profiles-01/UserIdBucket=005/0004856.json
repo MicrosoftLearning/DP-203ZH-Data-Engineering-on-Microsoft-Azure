@@ -1,0 +1,27 @@
+{
+  "userId": 4856,
+  "cartId": "aba685c5-49b5-43ec-8782-23c0abce65fc",
+  "preferredProducts": [
+    4075,
+    4845,
+    1233,
+    1776
+  ],
+  "productReviews": [
+    {
+      "productId": 2437,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-06-02T04:32:50.8450698+03:00"
+    },
+    {
+      "productId": 4674,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2020-02-29T14:08:56.1236332+02:00"
+    },
+    {
+      "productId": 1029,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-11-06T07:42:23.7161699+02:00"
+    }
+  ]
+}

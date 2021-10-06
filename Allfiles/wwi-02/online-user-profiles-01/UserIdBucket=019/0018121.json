@@ -1,0 +1,26 @@
+{
+  "userId": 18121,
+  "cartId": "d0df2510-9168-4b65-bdca-df3c5500e443",
+  "preferredProducts": [
+    4321,
+    4251,
+    192,
+    3770,
+    934,
+    2925,
+    2911,
+    619
+  ],
+  "productReviews": [
+    {
+      "productId": 4486,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-10-29T10:44:53.9808409+02:00"
+    },
+    {
+      "productId": 2264,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-06-11T06:49:30.7284679+03:00"
+    }
+  ]
+}

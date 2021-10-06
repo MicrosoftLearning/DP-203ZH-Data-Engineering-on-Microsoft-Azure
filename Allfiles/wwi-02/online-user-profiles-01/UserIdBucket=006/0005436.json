@@ -1,0 +1,32 @@
+{
+  "userId": 5436,
+  "cartId": "1373ac02-bccf-43e8-ba2f-20a3716e0bf1",
+  "preferredProducts": [
+    1817,
+    3157,
+    2411,
+    654
+  ],
+  "productReviews": [
+    {
+      "productId": 4101,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-12-26T11:42:31.2245412+02:00"
+    },
+    {
+      "productId": 2509,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-06-26T13:47:27.3207282+03:00"
+    },
+    {
+      "productId": 3775,
+      "reviewText": "This is a really good B2C.",
+      "reviewDate": "2017-12-22T03:33:27.498853+02:00"
+    },
+    {
+      "productId": 2540,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-12-09T01:12:18.1807592+02:00"
+    }
+  ]
+}

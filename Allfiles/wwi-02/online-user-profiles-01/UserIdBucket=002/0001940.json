@@ -1,0 +1,28 @@
+{
+  "userId": 1940,
+  "cartId": "4fc143d9-10d5-457b-84d5-f426d6a33acb",
+  "preferredProducts": [
+    820,
+    1257,
+    2295,
+    2624,
+    777,
+    1692,
+    4782,
+    220,
+    2284,
+    1016
+  ],
+  "productReviews": [
+    {
+      "productId": 1198,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-03-10T16:17:47.3257659+02:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-02-28T08:35:55.1816129+02:00"
+    }
+  ]
+}

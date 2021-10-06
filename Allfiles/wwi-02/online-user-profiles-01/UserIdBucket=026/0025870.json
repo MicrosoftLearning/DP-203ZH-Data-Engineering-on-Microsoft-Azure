@@ -1,0 +1,28 @@
+{
+  "userId": 25870,
+  "cartId": "08b4402d-83d8-419f-85f2-0e4d7d01c3dd",
+  "preferredProducts": [
+    1550,
+    3834,
+    1779,
+    1778,
+    1813
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-09-17T02:06:00.786713+03:00"
+    },
+    {
+      "productId": 651,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-02-28T13:34:59.0431903+02:00"
+    },
+    {
+      "productId": 1263,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-11-18T21:45:49.8390871+02:00"
+    }
+  ]
+}

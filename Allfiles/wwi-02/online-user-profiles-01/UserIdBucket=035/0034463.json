@@ -1,0 +1,35 @@
+{
+  "userId": 34463,
+  "cartId": "d0f73e81-62b6-4c0d-a2e6-a757ee3977d5",
+  "preferredProducts": [
+    4230,
+    3500,
+    1491,
+    3631,
+    4662,
+    2101,
+    4760
+  ],
+  "productReviews": [
+    {
+      "productId": 944,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-09-20T04:57:16.6365252+03:00"
+    },
+    {
+      "productId": 2969,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-01-11T23:04:34.3333654+02:00"
+    },
+    {
+      "productId": 3840,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-03-24T03:36:54.7490303+02:00"
+    },
+    {
+      "productId": 683,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-02-10T19:57:46.4528603+02:00"
+    }
+  ]
+}

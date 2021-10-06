@@ -1,0 +1,27 @@
+{
+  "userId": 36016,
+  "cartId": "72f5cb6e-2719-430f-a1bf-5585bc09099a",
+  "preferredProducts": [
+    1916,
+    3624,
+    584,
+    3768,
+    430,
+    3234,
+    2912,
+    2646,
+    3972
+  ],
+  "productReviews": [
+    {
+      "productId": 2810,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-03-30T19:46:52.3929442+03:00"
+    },
+    {
+      "productId": 1251,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-12-25T11:27:33.5213191+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 72488,
+  "cartId": "d093791f-405a-4a0a-8ab9-25751966f902",
+  "preferredProducts": [
+    4965,
+    1929,
+    4911,
+    2926,
+    2383
+  ],
+  "productReviews": [
+    {
+      "productId": 644,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-04-29T11:45:07.5403081+03:00"
+    },
+    {
+      "productId": 142,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-07-15T07:51:29.8461545+03:00"
+    },
+    {
+      "productId": 859,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-07-28T14:45:03.3430822+03:00"
+    }
+  ]
+}

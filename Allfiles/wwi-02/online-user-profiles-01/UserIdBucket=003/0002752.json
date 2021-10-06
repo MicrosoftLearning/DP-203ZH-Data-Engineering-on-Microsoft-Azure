@@ -1,0 +1,30 @@
+{
+  "userId": 2752,
+  "cartId": "1b838070-69ec-4545-82a5-9c48d7a0b46e",
+  "preferredProducts": [
+    2565,
+    4162,
+    3314,
+    662,
+    4095,
+    4521,
+    1052
+  ],
+  "productReviews": [
+    {
+      "productId": 531,
+      "reviewText": "this invoice is vertical.",
+      "reviewDate": "2019-07-28T00:55:34.3461613+03:00"
+    },
+    {
+      "productId": 1542,
+      "reviewText": "This PNG works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-10-14T16:46:33.135641+03:00"
+    },
+    {
+      "productId": 4457,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-07-05T08:37:46.565028+03:00"
+    }
+  ]
+}

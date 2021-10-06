@@ -1,0 +1,35 @@
+{
+  "userId": 56529,
+  "cartId": "d11d1b0a-34b4-4c8d-8d64-27205e240e04",
+  "preferredProducts": [
+    3851,
+    4551,
+    913,
+    1450,
+    4035,
+    1483,
+    1568
+  ],
+  "productReviews": [
+    {
+      "productId": 3798,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-12-13T00:35:41.8880584+02:00"
+    },
+    {
+      "productId": 1827,
+      "reviewText": "this Borders is whole-grain.",
+      "reviewDate": "2020-03-13T08:51:02.4985913+02:00"
+    },
+    {
+      "productId": 455,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-06-21T23:36:20.2163002+03:00"
+    },
+    {
+      "productId": 262,
+      "reviewText": "this card is dominant.",
+      "reviewDate": "2017-09-30T06:39:17.4616085+03:00"
+    }
+  ]
+}

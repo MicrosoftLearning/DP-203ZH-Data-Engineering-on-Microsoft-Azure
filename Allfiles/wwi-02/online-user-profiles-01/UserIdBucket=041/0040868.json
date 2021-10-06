@@ -1,0 +1,27 @@
+{
+  "userId": 40868,
+  "cartId": "feb56028-f1a0-45fb-88fb-d62ca15c6ed2",
+  "preferredProducts": [
+    1125,
+    4054,
+    1986,
+    4461
+  ],
+  "productReviews": [
+    {
+      "productId": 722,
+      "reviewText": "this Florida is hyper.",
+      "reviewDate": "2018-06-05T01:54:00.1593794+03:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-02-27T07:45:11.2998766+02:00"
+    },
+    {
+      "productId": 2534,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-01-14T05:14:48.9090262+02:00"
+    }
+  ]
+}

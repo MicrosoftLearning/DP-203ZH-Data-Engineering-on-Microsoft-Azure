@@ -1,0 +1,31 @@
+{
+  "userId": 130,
+  "cartId": "e078a609-2cad-434f-820a-170aa5c7bab7",
+  "preferredProducts": [
+    3405,
+    3289,
+    463
+  ],
+  "productReviews": [
+    {
+      "productId": 3918,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-04-25T08:17:06.3807066+03:00"
+    },
+    {
+      "productId": 1558,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-05-19T01:15:53.0779411+03:00"
+    },
+    {
+      "productId": 4991,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-03-27T11:54:14.9800196+02:00"
+    },
+    {
+      "productId": 3973,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-09-01T22:16:50.2065928+03:00"
+    }
+  ]
+}

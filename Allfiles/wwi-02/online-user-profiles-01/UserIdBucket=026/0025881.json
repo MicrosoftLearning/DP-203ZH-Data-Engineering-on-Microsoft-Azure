@@ -1,0 +1,34 @@
+{
+  "userId": 25881,
+  "cartId": "6922c99c-e0d3-4774-aac7-2874b64a83ab",
+  "preferredProducts": [
+    2534,
+    1563,
+    4712,
+    2979,
+    1306,
+    3
+  ],
+  "productReviews": [
+    {
+      "productId": 3686,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-01-02T14:03:39.872246+02:00"
+    },
+    {
+      "productId": 2303,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-10-10T04:56:18.4998018+03:00"
+    },
+    {
+      "productId": 2593,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2019-03-25T21:09:20.0615433+02:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-04-26T20:17:13.2441048+03:00"
+    }
+  ]
+}

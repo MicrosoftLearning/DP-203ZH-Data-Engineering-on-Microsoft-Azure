@@ -1,0 +1,24 @@
+{
+  "userId": 75479,
+  "cartId": "ad53b90d-dd95-4d3d-982b-0f3c7b4490b8",
+  "preferredProducts": [
+    3191,
+    3913,
+    974,
+    2267,
+    2939,
+    902
+  ],
+  "productReviews": [
+    {
+      "productId": 1507,
+      "reviewText": "this connect is ratty.",
+      "reviewDate": "2018-10-12T05:47:27.3065978+03:00"
+    },
+    {
+      "productId": 2365,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-02-18T15:36:26.9035566+02:00"
+    }
+  ]
+}

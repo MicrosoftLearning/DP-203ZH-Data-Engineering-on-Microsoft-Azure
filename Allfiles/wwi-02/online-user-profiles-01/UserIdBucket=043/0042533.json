@@ -1,0 +1,30 @@
+{
+  "userId": 42533,
+  "cartId": "6fd927ed-1862-47ba-8339-d07f5ab1c933",
+  "preferredProducts": [
+    4927,
+    2813,
+    1645,
+    3960,
+    2653,
+    1838,
+    2297
+  ],
+  "productReviews": [
+    {
+      "productId": 767,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-11-22T15:20:17.112389+02:00"
+    },
+    {
+      "productId": 4565,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2019-04-26T13:10:24.9120194+03:00"
+    },
+    {
+      "productId": 383,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-10-23T18:03:08.2397403+03:00"
+    }
+  ]
+}

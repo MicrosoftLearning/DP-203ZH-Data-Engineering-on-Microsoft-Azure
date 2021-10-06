@@ -1,0 +1,33 @@
+{
+  "userId": 75547,
+  "cartId": "a6fd0171-369d-4e61-b306-c4c451ef7089",
+  "preferredProducts": [
+    1609,
+    3027,
+    2911,
+    302,
+    2186
+  ],
+  "productReviews": [
+    {
+      "productId": 2790,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-10-12T22:07:08.1055898+03:00"
+    },
+    {
+      "productId": 1345,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-03-30T04:58:21.6170847+03:00"
+    },
+    {
+      "productId": 2949,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-01-06T23:36:04.1716955+02:00"
+    },
+    {
+      "productId": 4242,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-12-08T00:38:24.2158272+02:00"
+    }
+  ]
+}

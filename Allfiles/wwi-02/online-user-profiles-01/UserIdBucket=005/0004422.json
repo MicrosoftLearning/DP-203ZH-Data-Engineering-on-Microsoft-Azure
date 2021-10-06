@@ -1,0 +1,40 @@
+{
+  "userId": 4422,
+  "cartId": "377abc86-e83f-4a21-8f65-5a4d72cdd039",
+  "preferredProducts": [
+    2290,
+    4990,
+    2787,
+    859,
+    4283,
+    3142,
+    1737
+  ],
+  "productReviews": [
+    {
+      "productId": 3865,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2016-08-16T08:50:37.8868736+03:00"
+    },
+    {
+      "productId": 1169,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-09-15T13:41:31.46948+03:00"
+    },
+    {
+      "productId": 2487,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-03-21T17:48:14.5955181+02:00"
+    },
+    {
+      "productId": 4422,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-08-24T12:06:06.0536307+03:00"
+    },
+    {
+      "productId": 4885,
+      "reviewText": "This Avenue works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2017-02-22T22:42:12.0929569+02:00"
+    }
+  ]
+}

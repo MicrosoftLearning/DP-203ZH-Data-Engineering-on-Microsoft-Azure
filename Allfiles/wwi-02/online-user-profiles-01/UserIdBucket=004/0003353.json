@@ -1,0 +1,27 @@
+{
+  "userId": 3353,
+  "cartId": "ea97fc3d-f185-43ad-9f0d-8b980f5dd4f5",
+  "preferredProducts": [
+    2241,
+    3779,
+    2853,
+    4083,
+    4210,
+    885,
+    4585,
+    1017,
+    2337
+  ],
+  "productReviews": [
+    {
+      "productId": 3600,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-05-21T10:19:21.8372081+03:00"
+    },
+    {
+      "productId": 1461,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-05-22T01:22:49.8453286+03:00"
+    }
+  ]
+}

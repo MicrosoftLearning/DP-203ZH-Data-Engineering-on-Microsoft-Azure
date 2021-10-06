@@ -1,0 +1,23 @@
+{
+  "userId": 7575,
+  "cartId": "b0fede38-9e7d-4093-865b-28365935892e",
+  "preferredProducts": [
+    1904,
+    2534,
+    3706,
+    340,
+    4883
+  ],
+  "productReviews": [
+    {
+      "productId": 1436,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-01-01T04:19:25.6640924+02:00"
+    },
+    {
+      "productId": 4493,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-05-30T10:31:09.9947571+03:00"
+    }
+  ]
+}

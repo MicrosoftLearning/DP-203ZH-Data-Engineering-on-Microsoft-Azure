@@ -1,0 +1,37 @@
+{
+  "userId": 96811,
+  "cartId": "ca2e3720-b07d-4aac-9e6d-c77df5b112d9",
+  "preferredProducts": [
+    1693,
+    4357,
+    1806,
+    1809,
+    2853,
+    3321,
+    4622,
+    2208,
+    1758
+  ],
+  "productReviews": [
+    {
+      "productId": 1139,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-11-12T06:58:26.8464146+02:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-01-20T17:20:14.9413265+02:00"
+    },
+    {
+      "productId": 4328,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-04-05T23:48:39.5195476+03:00"
+    },
+    {
+      "productId": 1540,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-04-11T14:39:07.0620085+03:00"
+    }
+  ]
+}

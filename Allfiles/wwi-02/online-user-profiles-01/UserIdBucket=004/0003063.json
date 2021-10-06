@@ -1,0 +1,36 @@
+{
+  "userId": 3063,
+  "cartId": "ee98f964-9ef3-4667-a107-ae8f49dbaf34",
+  "preferredProducts": [
+    4113,
+    2323,
+    866,
+    3372,
+    3247,
+    2333,
+    1394,
+    828
+  ],
+  "productReviews": [
+    {
+      "productId": 2769,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-11-12T11:51:51.0429898+02:00"
+    },
+    {
+      "productId": 3251,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-01-04T17:49:02.9591973+02:00"
+    },
+    {
+      "productId": 1102,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-08-19T16:24:31.4405638+03:00"
+    },
+    {
+      "productId": 1700,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-07-02T12:29:47.5567532+03:00"
+    }
+  ]
+}

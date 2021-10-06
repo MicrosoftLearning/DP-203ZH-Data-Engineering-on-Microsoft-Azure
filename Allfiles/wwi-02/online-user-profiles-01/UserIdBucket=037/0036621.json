@@ -1,0 +1,34 @@
+{
+  "userId": 36621,
+  "cartId": "ad18daa1-8e7e-405d-abff-ed544b6f5d6d",
+  "preferredProducts": [
+    4300,
+    2113,
+    4432,
+    3367,
+    2211,
+    45
+  ],
+  "productReviews": [
+    {
+      "productId": 3465,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-07-31T01:47:06.7358593+03:00"
+    },
+    {
+      "productId": 2908,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-05-24T11:28:28.942174+03:00"
+    },
+    {
+      "productId": 3054,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-04-19T09:56:07.9697749+03:00"
+    },
+    {
+      "productId": 3524,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-07-26T09:18:59.2854264+03:00"
+    }
+  ]
+}

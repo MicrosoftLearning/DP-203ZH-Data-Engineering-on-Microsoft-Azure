@@ -1,0 +1,35 @@
+{
+  "userId": 32359,
+  "cartId": "74a180d2-0de7-4823-85d9-fe2dbdf6eb51",
+  "preferredProducts": [
+    1037,
+    4480,
+    1799,
+    4774,
+    4053,
+    4547,
+    316
+  ],
+  "productReviews": [
+    {
+      "productId": 2599,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-04-10T17:46:02.2851497+03:00"
+    },
+    {
+      "productId": 1065,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-01-06T05:07:31.8760276+02:00"
+    },
+    {
+      "productId": 3219,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2017-06-18T20:49:12.1045397+03:00"
+    },
+    {
+      "productId": 1725,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-08-17T21:56:47.0158843+03:00"
+    }
+  ]
+}

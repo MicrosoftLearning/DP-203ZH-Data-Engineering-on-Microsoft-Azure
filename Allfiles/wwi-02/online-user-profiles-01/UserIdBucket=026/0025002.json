@@ -1,0 +1,36 @@
+{
+  "userId": 25002,
+  "cartId": "6191e390-35a3-43d0-8d0e-264c788a791b",
+  "preferredProducts": [
+    4375,
+    1739,
+    1577,
+    1588,
+    1898,
+    3315,
+    4345,
+    1615
+  ],
+  "productReviews": [
+    {
+      "productId": 3557,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-05-09T00:18:02.8212787+03:00"
+    },
+    {
+      "productId": 1061,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-09-23T11:20:12.2586892+03:00"
+    },
+    {
+      "productId": 949,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-06-06T10:33:34.2938293+03:00"
+    },
+    {
+      "productId": 2791,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-12-02T23:17:10.0994245+02:00"
+    }
+  ]
+}

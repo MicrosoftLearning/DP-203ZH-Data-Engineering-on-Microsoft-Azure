@@ -1,0 +1,30 @@
+{
+  "userId": 52455,
+  "cartId": "1fddaf20-d66a-47f5-840c-8fc5bccdee92",
+  "preferredProducts": [
+    295,
+    624,
+    4113,
+    4996,
+    1450,
+    3405,
+    2508
+  ],
+  "productReviews": [
+    {
+      "productId": 1280,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-08-16T19:33:11.4124443+03:00"
+    },
+    {
+      "productId": 1261,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-12-17T00:16:36.7197798+02:00"
+    },
+    {
+      "productId": 71,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-10-30T13:35:31.0876486+02:00"
+    }
+  ]
+}

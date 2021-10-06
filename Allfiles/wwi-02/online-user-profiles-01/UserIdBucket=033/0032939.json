@@ -1,0 +1,31 @@
+{
+  "userId": 32939,
+  "cartId": "c86c44cf-4941-4cd5-a757-876b4d8f14af",
+  "preferredProducts": [
+    1826,
+    4298,
+    2727
+  ],
+  "productReviews": [
+    {
+      "productId": 830,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-10-24T05:19:17.3594758+03:00"
+    },
+    {
+      "productId": 4254,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-01-14T07:36:55.2638025+02:00"
+    },
+    {
+      "productId": 2913,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-07-05T11:45:51.2553402+03:00"
+    },
+    {
+      "productId": 4311,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-08-27T08:40:07.4223209+03:00"
+    }
+  ]
+}

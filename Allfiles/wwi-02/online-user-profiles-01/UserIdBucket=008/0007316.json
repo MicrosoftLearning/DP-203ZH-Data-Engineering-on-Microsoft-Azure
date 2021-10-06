@@ -1,0 +1,28 @@
+{
+  "userId": 7316,
+  "cartId": "82c7fd5f-60c9-4d08-90fe-b3432123c5bd",
+  "preferredProducts": [
+    383,
+    4868,
+    3234,
+    2654,
+    812,
+    1839,
+    1043,
+    1137,
+    2971,
+    4540
+  ],
+  "productReviews": [
+    {
+      "productId": 833,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-12-16T09:31:32.6318687+02:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-10-09T23:11:44.5892729+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 2002,
+  "cartId": "dd46e133-0de4-4bcd-a41d-4d37ee941ec6",
+  "preferredProducts": [
+    3673,
+    2715
+  ],
+  "productReviews": [
+    {
+      "productId": 973,
+      "reviewText": "this bypassing is tasty.",
+      "reviewDate": "2020-01-07T13:44:18.2649343+02:00"
+    },
+    {
+      "productId": 3074,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-11-01T07:46:50.237837+02:00"
+    },
+    {
+      "productId": 913,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-03-14T02:02:32.4394794+02:00"
+    }
+  ]
+}

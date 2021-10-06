@@ -1,0 +1,30 @@
+{
+  "userId": 5916,
+  "cartId": "bad6db97-57dc-4072-8112-4749eff23cd7",
+  "preferredProducts": [
+    3433,
+    1614,
+    3971,
+    345,
+    4806,
+    2922,
+    1519
+  ],
+  "productReviews": [
+    {
+      "productId": 732,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-04-06T12:36:52.8845796+03:00"
+    },
+    {
+      "productId": 3823,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-11-08T07:13:54.8878586+02:00"
+    },
+    {
+      "productId": 1561,
+      "reviewText": "This Camp works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-08-19T03:16:33.8288315+03:00"
+    }
+  ]
+}

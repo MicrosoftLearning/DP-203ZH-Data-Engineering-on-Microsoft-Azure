@@ -1,0 +1,22 @@
+{
+  "userId": 17333,
+  "cartId": "12dc7e4c-adbe-450f-9077-8fa67113471b",
+  "preferredProducts": [
+    2461,
+    1956,
+    4014,
+    2114
+  ],
+  "productReviews": [
+    {
+      "productId": 1986,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-10-04T09:03:06.0430119+03:00"
+    },
+    {
+      "productId": 876,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-10-25T10:03:01.7674392+03:00"
+    }
+  ]
+}

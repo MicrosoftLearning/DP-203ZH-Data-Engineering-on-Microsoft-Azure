@@ -1,0 +1,35 @@
+{
+  "userId": 83127,
+  "cartId": "9e9e8dd0-b4f3-4ce4-9840-3689cd3f566a",
+  "preferredProducts": [
+    1790,
+    955,
+    4538,
+    519,
+    3650,
+    2017,
+    4586
+  ],
+  "productReviews": [
+    {
+      "productId": 2411,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-04-16T20:47:13.7944314+03:00"
+    },
+    {
+      "productId": 4450,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-09-27T10:46:41.8208818+03:00"
+    },
+    {
+      "productId": 2410,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-11-22T18:54:36.7711014+02:00"
+    },
+    {
+      "productId": 461,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-04-21T16:02:55.7433272+03:00"
+    }
+  ]
+}

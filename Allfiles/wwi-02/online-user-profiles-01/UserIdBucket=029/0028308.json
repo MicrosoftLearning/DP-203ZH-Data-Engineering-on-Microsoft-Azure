@@ -1,0 +1,27 @@
+{
+  "userId": 28308,
+  "cartId": "121d6268-95e1-4785-94a2-a4ec2ec12594",
+  "preferredProducts": [
+    1878,
+    2344,
+    3761,
+    916
+  ],
+  "productReviews": [
+    {
+      "productId": 4245,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-10-01T09:33:59.2917611+03:00"
+    },
+    {
+      "productId": 2055,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-10-14T20:42:39.735003+03:00"
+    },
+    {
+      "productId": 4313,
+      "reviewText": "this Automotive is nifty.",
+      "reviewDate": "2018-12-12T15:07:49.2599416+02:00"
+    }
+  ]
+}

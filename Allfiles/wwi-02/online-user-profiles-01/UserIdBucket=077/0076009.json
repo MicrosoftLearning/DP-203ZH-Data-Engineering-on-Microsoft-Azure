@@ -1,0 +1,30 @@
+{
+  "userId": 76009,
+  "cartId": "2b7dbbae-83ac-4719-8a52-1c10cb002c43",
+  "preferredProducts": [
+    36,
+    196
+  ],
+  "productReviews": [
+    {
+      "productId": 1302,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-09-12T19:07:13.470369+03:00"
+    },
+    {
+      "productId": 1363,
+      "reviewText": "This parse works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-04-15T23:22:29.7348445+03:00"
+    },
+    {
+      "productId": 3026,
+      "reviewText": "this Soft is gracious.",
+      "reviewDate": "2019-03-21T09:28:44.0006955+02:00"
+    },
+    {
+      "productId": 871,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-07-16T22:54:17.1540097+03:00"
+    }
+  ]
+}

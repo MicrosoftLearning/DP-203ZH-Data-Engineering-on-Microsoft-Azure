@@ -1,0 +1,33 @@
+{
+  "userId": 25988,
+  "cartId": "e3e0795a-21ff-4532-9940-40adcf5f9a02",
+  "preferredProducts": [
+    4278,
+    2910,
+    4666,
+    351,
+    2744
+  ],
+  "productReviews": [
+    {
+      "productId": 3342,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-10-17T18:15:08.2712329+03:00"
+    },
+    {
+      "productId": 4033,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-04-28T19:44:17.3133665+03:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-06-02T13:03:00.323178+03:00"
+    },
+    {
+      "productId": 2033,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-12-06T15:11:25.2952343+02:00"
+    }
+  ]
+}

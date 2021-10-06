@@ -1,0 +1,30 @@
+{
+  "userId": 5664,
+  "cartId": "23913cda-907a-48d0-8fb2-2334b4b64d41",
+  "preferredProducts": [
+    246,
+    978,
+    1829,
+    4391,
+    23,
+    4617,
+    1979
+  ],
+  "productReviews": [
+    {
+      "productId": 4566,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-06-29T04:40:22.6529667+03:00"
+    },
+    {
+      "productId": 1141,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-01-09T16:30:44.822816+02:00"
+    },
+    {
+      "productId": 670,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-10-02T19:34:34.7770871+03:00"
+    }
+  ]
+}

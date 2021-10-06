@@ -1,0 +1,37 @@
+{
+  "userId": 4375,
+  "cartId": "6f5ce14b-4f2d-48d3-8199-6b245bc2a7e8",
+  "preferredProducts": [
+    38,
+    4693,
+    1334,
+    3817
+  ],
+  "productReviews": [
+    {
+      "productId": 1436,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-06-23T15:03:01.1250192+03:00"
+    },
+    {
+      "productId": 3178,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-08-31T12:17:42.8626387+03:00"
+    },
+    {
+      "productId": 185,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-07-18T03:15:18.3149107+03:00"
+    },
+    {
+      "productId": 3784,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-08-04T21:14:38.8381113+03:00"
+    },
+    {
+      "productId": 1065,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-04-24T23:57:14.3837154+03:00"
+    }
+  ]
+}

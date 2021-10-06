@@ -1,0 +1,29 @@
+{
+  "userId": 6291,
+  "cartId": "820c9ce5-0757-46e0-b278-b2cdda1d2e94",
+  "preferredProducts": [
+    3067,
+    3232,
+    1650,
+    2859,
+    152,
+    3591
+  ],
+  "productReviews": [
+    {
+      "productId": 1437,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-01-28T14:32:32.4148023+02:00"
+    },
+    {
+      "productId": 463,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-07-13T01:25:43.9770269+03:00"
+    },
+    {
+      "productId": 1575,
+      "reviewText": "this payment is papery.",
+      "reviewDate": "2019-03-26T17:50:24.2271532+02:00"
+    }
+  ]
+}

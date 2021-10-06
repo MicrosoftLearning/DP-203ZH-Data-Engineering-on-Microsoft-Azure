@@ -1,0 +1,33 @@
+{
+  "userId": 62525,
+  "cartId": "e1d096b4-266e-45af-8fe6-91e75bea80cb",
+  "preferredProducts": [
+    450,
+    1170,
+    665,
+    1610,
+    185
+  ],
+  "productReviews": [
+    {
+      "productId": 1699,
+      "reviewText": "this fuchsia is amiable.",
+      "reviewDate": "2018-02-15T14:45:06.1213334+02:00"
+    },
+    {
+      "productId": 2571,
+      "reviewText": "This Tokelau works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-07-15T02:01:11.8455683+03:00"
+    },
+    {
+      "productId": 3419,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-06-08T21:41:33.1535602+03:00"
+    },
+    {
+      "productId": 4934,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-03-11T07:37:29.4195029+02:00"
+    }
+  ]
+}

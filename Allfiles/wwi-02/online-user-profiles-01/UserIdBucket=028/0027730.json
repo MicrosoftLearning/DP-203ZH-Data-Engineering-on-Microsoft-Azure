@@ -1,0 +1,35 @@
+{
+  "userId": 27730,
+  "cartId": "868ef0bc-45e1-4989-b0f8-aaff5c932225",
+  "preferredProducts": [
+    3891,
+    3134,
+    2284,
+    2054,
+    1062,
+    2152,
+    2656
+  ],
+  "productReviews": [
+    {
+      "productId": 4789,
+      "reviewText": "This magenta, does exactly what it's suppose to do.",
+      "reviewDate": "2018-06-08T11:10:11.9482356+03:00"
+    },
+    {
+      "productId": 4656,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-05-08T21:32:58.5037836+03:00"
+    },
+    {
+      "productId": 2191,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-07-18T02:12:22.946559+03:00"
+    },
+    {
+      "productId": 553,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-10-31T20:49:41.7958463+02:00"
+    }
+  ]
+}

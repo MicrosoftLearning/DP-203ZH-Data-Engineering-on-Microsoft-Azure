@@ -1,0 +1,38 @@
+{
+  "userId": 10687,
+  "cartId": "83ab5a1a-9725-4bd8-85fa-6dc4fdf8c76f",
+  "preferredProducts": [
+    3437,
+    1876,
+    2114,
+    1113,
+    2258
+  ],
+  "productReviews": [
+    {
+      "productId": 44,
+      "reviewText": "this invoice is awesome.",
+      "reviewDate": "2017-02-02T11:36:16.592351+02:00"
+    },
+    {
+      "productId": 476,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-09-02T04:43:18.9590964+03:00"
+    },
+    {
+      "productId": 1517,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-09-19T18:43:54.0971898+03:00"
+    },
+    {
+      "productId": 1930,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-10-03T17:05:42.5165593+03:00"
+    },
+    {
+      "productId": 1841,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-01-14T03:33:50.6026869+02:00"
+    }
+  ]
+}

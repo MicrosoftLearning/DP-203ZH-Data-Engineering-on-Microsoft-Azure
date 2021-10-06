@@ -1,0 +1,33 @@
+{
+  "userId": 81899,
+  "cartId": "eb1d57c4-e73e-4ecc-b63c-7147c243b637",
+  "preferredProducts": [
+    1321,
+    4567,
+    530,
+    3584,
+    871
+  ],
+  "productReviews": [
+    {
+      "productId": 917,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-01-09T05:16:12.2741942+02:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-12-27T05:48:13.2357424+02:00"
+    },
+    {
+      "productId": 2649,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-09-07T00:33:38.2175+03:00"
+    },
+    {
+      "productId": 2024,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-03-06T04:27:18.955381+02:00"
+    }
+  ]
+}

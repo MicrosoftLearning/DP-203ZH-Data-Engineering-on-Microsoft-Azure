@@ -1,0 +1,28 @@
+{
+  "userId": 20938,
+  "cartId": "e90ffc1c-444e-4bbf-adcc-8223cd760692",
+  "preferredProducts": [
+    1682,
+    3851,
+    3685,
+    1782,
+    3335
+  ],
+  "productReviews": [
+    {
+      "productId": 276,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-03-12T18:04:02.4799788+02:00"
+    },
+    {
+      "productId": 2052,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-08-12T23:48:20.1640544+03:00"
+    },
+    {
+      "productId": 1487,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-08-06T07:45:35.2266975+03:00"
+    }
+  ]
+}

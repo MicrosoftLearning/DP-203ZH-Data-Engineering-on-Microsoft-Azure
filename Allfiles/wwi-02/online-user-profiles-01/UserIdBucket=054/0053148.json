@@ -1,0 +1,33 @@
+{
+  "userId": 53148,
+  "cartId": "a9ee3e7c-3ca8-45e7-aa8e-f673e808b852",
+  "preferredProducts": [
+    307,
+    1118,
+    2874,
+    1390,
+    371
+  ],
+  "productReviews": [
+    {
+      "productId": 4730,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-08-30T10:16:38.8183809+03:00"
+    },
+    {
+      "productId": 4205,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-10-23T16:37:29.8485107+03:00"
+    },
+    {
+      "productId": 1782,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-01-13T07:08:39.488743+02:00"
+    },
+    {
+      "productId": 1014,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-04-06T02:55:19.7509449+03:00"
+    }
+  ]
+}

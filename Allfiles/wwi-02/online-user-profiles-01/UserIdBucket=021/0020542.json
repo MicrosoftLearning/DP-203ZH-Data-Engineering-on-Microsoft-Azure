@@ -1,0 +1,30 @@
+{
+  "userId": 20542,
+  "cartId": "53a1394d-f1b4-4c83-a3f8-8982f1f371e2",
+  "preferredProducts": [
+    476,
+    131,
+    4475,
+    4990,
+    1537,
+    4216,
+    4580
+  ],
+  "productReviews": [
+    {
+      "productId": 1677,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2020-01-10T06:40:53.0843104+02:00"
+    },
+    {
+      "productId": 2200,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2019-11-05T01:47:18.9799756+02:00"
+    },
+    {
+      "productId": 2173,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-03-12T15:42:20.6107641+02:00"
+    }
+  ]
+}

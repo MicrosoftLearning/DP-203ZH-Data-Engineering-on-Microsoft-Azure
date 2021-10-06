@@ -1,0 +1,33 @@
+{
+  "userId": 98700,
+  "cartId": "a160632d-7ab0-4037-a1fe-9abc3ddc1072",
+  "preferredProducts": [
+    595,
+    726,
+    420,
+    961,
+    1637,
+    1076,
+    1922,
+    133,
+    187,
+    3058
+  ],
+  "productReviews": [
+    {
+      "productId": 1838,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-03-17T22:36:56.1205376+02:00"
+    },
+    {
+      "productId": 4611,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-04-29T19:47:34.7588533+03:00"
+    },
+    {
+      "productId": 4714,
+      "reviewText": "This Ergonomic works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2019-04-22T22:13:35.2528448+03:00"
+    }
+  ]
+}

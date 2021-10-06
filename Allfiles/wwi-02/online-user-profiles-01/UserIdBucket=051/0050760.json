@@ -1,0 +1,23 @@
+{
+  "userId": 50760,
+  "cartId": "f65d506b-5161-4692-886e-f7436de4b8da",
+  "preferredProducts": [
+    2173,
+    4688,
+    1031,
+    3122,
+    3010
+  ],
+  "productReviews": [
+    {
+      "productId": 218,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-06-14T22:52:35.3338723+03:00"
+    },
+    {
+      "productId": 542,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-09-18T14:31:49.8951159+03:00"
+    }
+  ]
+}

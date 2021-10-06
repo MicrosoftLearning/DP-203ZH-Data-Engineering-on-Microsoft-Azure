@@ -1,0 +1,37 @@
+{
+  "userId": 80337,
+  "cartId": "41a0c260-c0e6-4f58-ba7b-56e3dc09e031",
+  "preferredProducts": [
+    1972,
+    3721,
+    2986,
+    615
+  ],
+  "productReviews": [
+    {
+      "productId": 4255,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-04-17T00:36:44.100869+03:00"
+    },
+    {
+      "productId": 3552,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-08-25T01:45:11.7534575+03:00"
+    },
+    {
+      "productId": 2709,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-05-14T15:01:23.8241651+03:00"
+    },
+    {
+      "productId": 2765,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-11-16T16:48:29.4413046+02:00"
+    },
+    {
+      "productId": 3169,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-07-12T11:38:00.0237076+03:00"
+    }
+  ]
+}

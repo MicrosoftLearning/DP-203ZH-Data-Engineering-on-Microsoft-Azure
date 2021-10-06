@@ -1,0 +1,27 @@
+{
+  "userId": 373,
+  "cartId": "1b504b4f-8e54-47de-b8dd-7a9651b1032f",
+  "preferredProducts": [
+    4715,
+    4250,
+    34,
+    4058,
+    1369,
+    2743,
+    4243,
+    4051,
+    1612
+  ],
+  "productReviews": [
+    {
+      "productId": 2031,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-10-13T10:48:41.4497722+03:00"
+    },
+    {
+      "productId": 729,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-04-17T10:06:57.8432032+03:00"
+    }
+  ]
+}

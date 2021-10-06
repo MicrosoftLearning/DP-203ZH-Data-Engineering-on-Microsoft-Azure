@@ -1,0 +1,27 @@
+{
+  "userId": 38093,
+  "cartId": "3865f0bd-25be-45fb-bbf9-50c0eaa8f5fc",
+  "preferredProducts": [
+    3661,
+    964,
+    1923,
+    2637
+  ],
+  "productReviews": [
+    {
+      "productId": 795,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-02-13T03:53:50.8812559+02:00"
+    },
+    {
+      "productId": 277,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-12-17T05:04:50.3595915+02:00"
+    },
+    {
+      "productId": 2935,
+      "reviewText": "this Customer is mellow.",
+      "reviewDate": "2017-02-06T21:11:56.2138262+02:00"
+    }
+  ]
+}

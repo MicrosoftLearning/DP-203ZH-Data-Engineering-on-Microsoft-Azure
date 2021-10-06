@@ -1,0 +1,36 @@
+{
+  "userId": 5734,
+  "cartId": "252e497e-1520-4e7e-a0a9-e2e15955bf45",
+  "preferredProducts": [
+    2620,
+    2532,
+    1749,
+    1677,
+    1412,
+    3282,
+    4962,
+    1172
+  ],
+  "productReviews": [
+    {
+      "productId": 4429,
+      "reviewText": "this Forward is ratty.",
+      "reviewDate": "2018-01-01T17:56:39.0411984+02:00"
+    },
+    {
+      "productId": 1134,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2017-10-28T08:55:51.0944124+03:00"
+    },
+    {
+      "productId": 265,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-01-15T11:13:36.5642166+02:00"
+    },
+    {
+      "productId": 3369,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-01-17T03:56:13.6955008+02:00"
+    }
+  ]
+}

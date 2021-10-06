@@ -1,0 +1,31 @@
+{
+  "userId": 41422,
+  "cartId": "893ee979-52b4-416e-b31a-87e3b52fe7dc",
+  "preferredProducts": [
+    1676,
+    3267,
+    725
+  ],
+  "productReviews": [
+    {
+      "productId": 1111,
+      "reviewText": "This mobile works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-08-17T16:19:22.6858904+03:00"
+    },
+    {
+      "productId": 4256,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-05-21T20:35:46.2448726+03:00"
+    },
+    {
+      "productId": 3988,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-07-30T18:13:32.3519932+03:00"
+    },
+    {
+      "productId": 4019,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-04-15T23:02:36.130873+03:00"
+    }
+  ]
+}

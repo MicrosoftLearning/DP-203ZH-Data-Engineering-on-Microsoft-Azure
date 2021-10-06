@@ -1,0 +1,31 @@
+{
+  "userId": 48853,
+  "cartId": "e4014973-1b3e-47de-8c0e-41f945706611",
+  "preferredProducts": [
+    1587,
+    4929,
+    2492
+  ],
+  "productReviews": [
+    {
+      "productId": 2215,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-08-05T00:34:01.0283195+03:00"
+    },
+    {
+      "productId": 4471,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-02-12T11:28:05.294387+02:00"
+    },
+    {
+      "productId": 1499,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-11-09T17:40:22.1212652+02:00"
+    },
+    {
+      "productId": 3513,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-11-16T03:36:43.9331978+02:00"
+    }
+  ]
+}

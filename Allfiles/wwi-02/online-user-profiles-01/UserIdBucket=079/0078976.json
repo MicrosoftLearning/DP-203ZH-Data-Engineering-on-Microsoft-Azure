@@ -1,0 +1,27 @@
+{
+  "userId": 78976,
+  "cartId": "31b60112-f12e-44b2-ac4d-baed08fee6ff",
+  "preferredProducts": [
+    243,
+    3796,
+    3225,
+    678
+  ],
+  "productReviews": [
+    {
+      "productId": 4422,
+      "reviewText": "this holistic is ratty.",
+      "reviewDate": "2017-11-21T22:17:44.2792909+02:00"
+    },
+    {
+      "productId": 232,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-08-30T16:59:57.0960087+03:00"
+    },
+    {
+      "productId": 1661,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-03-17T13:08:45.8371868+02:00"
+    }
+  ]
+}

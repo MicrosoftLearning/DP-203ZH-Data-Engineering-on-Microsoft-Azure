@@ -1,0 +1,25 @@
+{
+  "userId": 36759,
+  "cartId": "be1f997f-0e33-4f27-9160-3bb1fa084baa",
+  "preferredProducts": [
+    2971,
+    652,
+    1144,
+    2031,
+    1983,
+    3045,
+    4705
+  ],
+  "productReviews": [
+    {
+      "productId": 2538,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-01-25T19:19:40.3158295+02:00"
+    },
+    {
+      "productId": 1889,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-08-07T17:46:28.5391263+03:00"
+    }
+  ]
+}

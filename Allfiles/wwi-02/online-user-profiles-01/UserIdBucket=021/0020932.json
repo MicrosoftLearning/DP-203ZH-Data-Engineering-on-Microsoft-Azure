@@ -1,0 +1,32 @@
+{
+  "userId": 20932,
+  "cartId": "c20e12b3-239f-48d7-bb07-1eb05e214b91",
+  "preferredProducts": [
+    230,
+    2652,
+    341,
+    1953
+  ],
+  "productReviews": [
+    {
+      "productId": 1458,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-02-07T01:47:09.058713+02:00"
+    },
+    {
+      "productId": 3066,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-12-28T17:57:30.2604396+02:00"
+    },
+    {
+      "productId": 2863,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-05-20T10:19:01.7835696+03:00"
+    },
+    {
+      "productId": 1923,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-11-05T09:21:16.8404288+02:00"
+    }
+  ]
+}

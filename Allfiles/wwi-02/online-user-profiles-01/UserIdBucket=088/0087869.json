@@ -1,0 +1,33 @@
+{
+  "userId": 87869,
+  "cartId": "0d297d82-7e49-4640-828c-04a00811a0b0",
+  "preferredProducts": [
+    1795,
+    1624,
+    1299,
+    255,
+    3608,
+    3035,
+    1030,
+    3232,
+    3839,
+    2297
+  ],
+  "productReviews": [
+    {
+      "productId": 3007,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-02-12T22:34:42.9671165+02:00"
+    },
+    {
+      "productId": 2111,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-10-16T04:10:51.6783385+03:00"
+    },
+    {
+      "productId": 530,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-02-12T04:22:23.2866234+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 14433,
+  "cartId": "ffa865b9-5fe3-433a-ab47-842715dd34aa",
+  "preferredProducts": [
+    3436,
+    2257,
+    3241,
+    3691,
+    4486,
+    3331,
+    4957,
+    1433
+  ],
+  "productReviews": [
+    {
+      "productId": 4815,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-12-15T04:46:26.5341495+02:00"
+    },
+    {
+      "productId": 1534,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-01-13T08:18:08.9814632+02:00"
+    },
+    {
+      "productId": 3726,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-10-08T08:40:16.2975827+03:00"
+    },
+    {
+      "productId": 4650,
+      "reviewText": "this invoice is slurpee.",
+      "reviewDate": "2018-08-30T22:34:22.1592093+03:00"
+    }
+  ]
+}

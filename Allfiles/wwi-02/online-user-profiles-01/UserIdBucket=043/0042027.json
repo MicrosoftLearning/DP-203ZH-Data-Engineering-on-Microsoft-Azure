@@ -1,0 +1,36 @@
+{
+  "userId": 42027,
+  "cartId": "be385845-db1e-4a5f-a2e8-f43b66fe1114",
+  "preferredProducts": [
+    1569,
+    2899,
+    1741
+  ],
+  "productReviews": [
+    {
+      "productId": 2961,
+      "reviewText": "this Dalasi is snowy.",
+      "reviewDate": "2019-12-13T10:21:25.0172389+02:00"
+    },
+    {
+      "productId": 4637,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-08-06T19:06:14.737267+03:00"
+    },
+    {
+      "productId": 3142,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-05-17T12:17:51.9193685+03:00"
+    },
+    {
+      "productId": 1541,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-12-31T07:35:02.654737+02:00"
+    },
+    {
+      "productId": 4,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-10-29T18:43:53.3037161+03:00"
+    }
+  ]
+}

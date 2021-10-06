@@ -1,0 +1,25 @@
+{
+  "userId": 13698,
+  "cartId": "55cfe673-d211-49c2-8658-ba903f8b114a",
+  "preferredProducts": [
+    2284,
+    4223
+  ],
+  "productReviews": [
+    {
+      "productId": 768,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-06-27T15:15:54.1227552+03:00"
+    },
+    {
+      "productId": 1034,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-05-17T01:46:28.9389049+03:00"
+    },
+    {
+      "productId": 2209,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-07-12T18:11:26.2369809+03:00"
+    }
+  ]
+}

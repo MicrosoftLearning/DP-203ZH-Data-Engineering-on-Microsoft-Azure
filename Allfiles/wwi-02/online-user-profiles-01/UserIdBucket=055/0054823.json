@@ -1,0 +1,37 @@
+{
+  "userId": 54823,
+  "cartId": "2d042157-e96b-4e9b-8455-0d90d8271d36",
+  "preferredProducts": [
+    3474,
+    4771,
+    1645,
+    4517,
+    2672,
+    4452,
+    1136,
+    1876,
+    4330
+  ],
+  "productReviews": [
+    {
+      "productId": 4034,
+      "reviewText": "this SQL is smooth.",
+      "reviewDate": "2019-07-30T10:22:38.9599012+03:00"
+    },
+    {
+      "productId": 3786,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-04-22T20:41:42.920553+03:00"
+    },
+    {
+      "productId": 1123,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-01-04T23:19:35.7506919+02:00"
+    },
+    {
+      "productId": 3053,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-10-06T23:53:39.4017717+03:00"
+    }
+  ]
+}

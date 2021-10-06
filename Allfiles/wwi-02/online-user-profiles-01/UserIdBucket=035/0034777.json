@@ -1,0 +1,30 @@
+{
+  "userId": 34777,
+  "cartId": "028b92fc-33ae-42c2-8bf7-dedc27338ee1",
+  "preferredProducts": [
+    3798,
+    2184,
+    265,
+    1142,
+    4078,
+    4870,
+    2782
+  ],
+  "productReviews": [
+    {
+      "productId": 3063,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-05-13T14:37:22.8541021+03:00"
+    },
+    {
+      "productId": 3351,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-11-30T09:50:14.784609+02:00"
+    },
+    {
+      "productId": 4771,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-03-07T18:23:26.1508259+02:00"
+    }
+  ]
+}

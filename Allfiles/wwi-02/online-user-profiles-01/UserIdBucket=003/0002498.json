@@ -1,0 +1,35 @@
+{
+  "userId": 2498,
+  "cartId": "167d2506-4ac0-4448-9e06-12000bfc7aed",
+  "preferredProducts": [
+    3684,
+    103,
+    4405,
+    3379,
+    778,
+    413,
+    258
+  ],
+  "productReviews": [
+    {
+      "productId": 4219,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-06-23T11:13:45.6524957+03:00"
+    },
+    {
+      "productId": 2632,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-07-06T03:37:15.9930028+03:00"
+    },
+    {
+      "productId": 4165,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-08-15T12:13:18.9774813+03:00"
+    },
+    {
+      "productId": 2782,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-07-27T21:31:37.885359+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 6809,
+  "cartId": "34d515a2-8ea9-4d98-b92e-90bfac4961c9",
+  "preferredProducts": [
+    954,
+    373,
+    3690,
+    2549,
+    3480
+  ],
+  "productReviews": [
+    {
+      "productId": 3934,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-08-09T05:13:43.0961832+03:00"
+    },
+    {
+      "productId": 2489,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-05-31T13:31:16.2412217+03:00"
+    },
+    {
+      "productId": 4333,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-06-30T21:32:11.7340913+03:00"
+    }
+  ]
+}

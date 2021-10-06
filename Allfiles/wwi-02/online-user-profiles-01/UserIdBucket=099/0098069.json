@@ -1,0 +1,32 @@
+{
+  "userId": 98069,
+  "cartId": "0f81735e-ec8a-4c6d-8132-e7fb4c1d2145",
+  "preferredProducts": [
+    4091,
+    3737,
+    2724,
+    4713
+  ],
+  "productReviews": [
+    {
+      "productId": 322,
+      "reviewText": "This red, does exactly what it's suppose to do.",
+      "reviewDate": "2017-06-29T21:18:23.8846941+03:00"
+    },
+    {
+      "productId": 1211,
+      "reviewText": "this experiences is hyper.",
+      "reviewDate": "2018-10-08T01:43:59.9874562+03:00"
+    },
+    {
+      "productId": 2231,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-02-01T11:03:05.9427602+02:00"
+    },
+    {
+      "productId": 2779,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2020-03-21T08:41:03.9155182+02:00"
+    }
+  ]
+}

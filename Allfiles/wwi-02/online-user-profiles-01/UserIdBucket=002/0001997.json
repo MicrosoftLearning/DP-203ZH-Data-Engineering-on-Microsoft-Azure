@@ -1,0 +1,32 @@
+{
+  "userId": 1997,
+  "cartId": "62d6f386-9ac5-4f4a-96d8-1b5788d21015",
+  "preferredProducts": [
+    3825,
+    4089,
+    615,
+    2788,
+    3455,
+    4161,
+    2409,
+    152,
+    4634
+  ],
+  "productReviews": [
+    {
+      "productId": 1954,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-08-31T05:21:33.5682088+03:00"
+    },
+    {
+      "productId": 3803,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-05-10T07:21:26.1789005+03:00"
+    },
+    {
+      "productId": 4905,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-04-20T03:35:09.7956468+03:00"
+    }
+  ]
+}

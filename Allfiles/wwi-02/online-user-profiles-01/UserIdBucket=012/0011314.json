@@ -1,0 +1,26 @@
+{
+  "userId": 11314,
+  "cartId": "7ae305af-c031-463b-86a4-f4f1b200c73f",
+  "preferredProducts": [
+    1498,
+    4212,
+    2144
+  ],
+  "productReviews": [
+    {
+      "productId": 993,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-05-02T22:53:29.1486085+03:00"
+    },
+    {
+      "productId": 2132,
+      "reviewText": "This Operations works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2020-03-27T02:22:26.3394815+02:00"
+    },
+    {
+      "productId": 3299,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-09-30T15:54:10.1459055+03:00"
+    }
+  ]
+}

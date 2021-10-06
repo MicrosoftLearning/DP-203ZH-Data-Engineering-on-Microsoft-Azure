@@ -1,0 +1,30 @@
+{
+  "userId": 4624,
+  "cartId": "e606b21e-1caa-43ce-8399-3602be9beae7",
+  "preferredProducts": [
+    69,
+    2304
+  ],
+  "productReviews": [
+    {
+      "productId": 3543,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-02-13T23:54:46.204034+02:00"
+    },
+    {
+      "productId": 4242,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-05-08T09:18:23.2860141+03:00"
+    },
+    {
+      "productId": 1433,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-07-18T19:40:42.0116926+03:00"
+    },
+    {
+      "productId": 4290,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-11-06T20:53:18.2191318+02:00"
+    }
+  ]
+}

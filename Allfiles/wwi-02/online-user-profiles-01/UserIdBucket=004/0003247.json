@@ -1,0 +1,33 @@
+{
+  "userId": 3247,
+  "cartId": "b185bbe5-7b45-4fc2-bcb8-bc9f061674eb",
+  "preferredProducts": [
+    1814,
+    62,
+    2923,
+    1337,
+    699
+  ],
+  "productReviews": [
+    {
+      "productId": 4462,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-10-11T00:50:04.8807496+03:00"
+    },
+    {
+      "productId": 3166,
+      "reviewText": "this Supervisor is ratty.",
+      "reviewDate": "2019-09-02T04:03:32.7278811+03:00"
+    },
+    {
+      "productId": 617,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-03-07T00:32:38.4314388+02:00"
+    },
+    {
+      "productId": 4235,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-06-08T06:35:50.3615314+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 43503,
+  "cartId": "8f644a7f-06bb-4537-9e77-a2781aac55ab",
+  "preferredProducts": [
+    1594,
+    1178,
+    2752,
+    2044,
+    4943,
+    3854,
+    2156
+  ],
+  "productReviews": [
+    {
+      "productId": 2367,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-07-02T19:06:20.1127153+03:00"
+    },
+    {
+      "productId": 4306,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-06-01T11:40:18.8605242+03:00"
+    },
+    {
+      "productId": 4537,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-02-13T08:07:31.1112274+02:00"
+    }
+  ]
+}

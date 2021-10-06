@@ -1,0 +1,37 @@
+{
+  "userId": 80987,
+  "cartId": "aaa8a7ac-38bc-4587-82d4-6720e45f55aa",
+  "preferredProducts": [
+    2258,
+    4385,
+    852,
+    3542,
+    4931,
+    4806,
+    4457,
+    804,
+    1058
+  ],
+  "productReviews": [
+    {
+      "productId": 791,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-03-16T23:50:15.2472693+02:00"
+    },
+    {
+      "productId": 261,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-02-15T04:47:02.6245688+02:00"
+    },
+    {
+      "productId": 2709,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-11-01T19:26:08.8270921+02:00"
+    },
+    {
+      "productId": 2076,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-02-14T17:15:55.7627713+02:00"
+    }
+  ]
+}

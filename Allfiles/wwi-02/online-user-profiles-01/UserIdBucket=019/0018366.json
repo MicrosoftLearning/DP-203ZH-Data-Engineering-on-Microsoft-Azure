@@ -1,0 +1,31 @@
+{
+  "userId": 18366,
+  "cartId": "51d6a6a5-8aa0-4682-a8ca-eb0cc371fc60",
+  "preferredProducts": [
+    1192,
+    12,
+    1363,
+    4309,
+    2692,
+    1067,
+    885,
+    2244
+  ],
+  "productReviews": [
+    {
+      "productId": 4221,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-08-18T02:45:38.7628768+03:00"
+    },
+    {
+      "productId": 4791,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-08-16T00:23:36.1418128+03:00"
+    },
+    {
+      "productId": 390,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-09-22T12:03:48.351786+03:00"
+    }
+  ]
+}

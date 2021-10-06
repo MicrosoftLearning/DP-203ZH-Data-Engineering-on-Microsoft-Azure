@@ -1,0 +1,30 @@
+{
+  "userId": 20315,
+  "cartId": "b099b314-9f8a-4d13-8505-c76479503c02",
+  "preferredProducts": [
+    347,
+    1465,
+    912,
+    1020,
+    4231,
+    2525,
+    3607
+  ],
+  "productReviews": [
+    {
+      "productId": 58,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-12-04T10:44:22.8234267+02:00"
+    },
+    {
+      "productId": 3734,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2020-02-24T02:42:40.7689265+02:00"
+    },
+    {
+      "productId": 3316,
+      "reviewText": "this Intelligent Frozen Table is tasty.",
+      "reviewDate": "2017-11-29T10:26:51.5677073+02:00"
+    }
+  ]
+}

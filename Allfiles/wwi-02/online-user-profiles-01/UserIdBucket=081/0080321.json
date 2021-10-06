@@ -1,0 +1,25 @@
+{
+  "userId": 80321,
+  "cartId": "73a13b65-2450-48ff-8466-e9b6cb281def",
+  "preferredProducts": [
+    1957,
+    3757
+  ],
+  "productReviews": [
+    {
+      "productId": 3366,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-06-03T00:05:19.1091157+03:00"
+    },
+    {
+      "productId": 1320,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-02-28T20:39:29.7439634+02:00"
+    },
+    {
+      "productId": 2165,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-10-24T20:19:41.6027155+03:00"
+    }
+  ]
+}

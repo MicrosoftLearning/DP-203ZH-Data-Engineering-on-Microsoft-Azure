@@ -1,0 +1,33 @@
+{
+  "userId": 8956,
+  "cartId": "10d0d0f7-f0f5-44cb-8cf6-76ce38d5570a",
+  "preferredProducts": [
+    966,
+    225,
+    3766,
+    1917,
+    463
+  ],
+  "productReviews": [
+    {
+      "productId": 2387,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-09-24T01:40:26.429036+03:00"
+    },
+    {
+      "productId": 2709,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-06-21T07:27:52.8471887+03:00"
+    },
+    {
+      "productId": 4427,
+      "reviewText": "this Square is tasty.",
+      "reviewDate": "2018-09-05T06:46:14.8646027+03:00"
+    },
+    {
+      "productId": 354,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-06-18T21:25:08.3055788+03:00"
+    }
+  ]
+}

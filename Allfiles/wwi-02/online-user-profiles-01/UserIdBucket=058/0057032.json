@@ -1,0 +1,23 @@
+{
+  "userId": 57032,
+  "cartId": "2faa60ed-960e-4ca7-9d35-0908bb7c5c7b",
+  "preferredProducts": [
+    4479,
+    3208,
+    3379,
+    1526,
+    53
+  ],
+  "productReviews": [
+    {
+      "productId": 2135,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-11-07T23:22:59.5279124+02:00"
+    },
+    {
+      "productId": 474,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-06-22T11:29:53.6214909+03:00"
+    }
+  ]
+}

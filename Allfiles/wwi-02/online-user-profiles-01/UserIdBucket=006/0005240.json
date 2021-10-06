@@ -1,0 +1,26 @@
+{
+  "userId": 5240,
+  "cartId": "41b2b048-6b62-43a8-a867-bbda41c27076",
+  "preferredProducts": [
+    3994,
+    939,
+    1784
+  ],
+  "productReviews": [
+    {
+      "productId": 1749,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-01-29T23:06:08.8331283+02:00"
+    },
+    {
+      "productId": 4233,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-10-01T22:02:48.6335562+03:00"
+    },
+    {
+      "productId": 613,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-10-02T11:04:13.8119829+03:00"
+    }
+  ]
+}

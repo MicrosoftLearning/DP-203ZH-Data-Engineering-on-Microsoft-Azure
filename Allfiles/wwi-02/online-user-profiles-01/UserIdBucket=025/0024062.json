@@ -1,0 +1,36 @@
+{
+  "userId": 24062,
+  "cartId": "de2ec6f0-c98e-42dc-9ed0-11a2a4952660",
+  "preferredProducts": [
+    1350,
+    4356,
+    3592,
+    2737,
+    1634,
+    1025,
+    4249,
+    3244
+  ],
+  "productReviews": [
+    {
+      "productId": 2118,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-07-08T14:32:30.3417844+03:00"
+    },
+    {
+      "productId": 3840,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-01-16T07:04:02.8073469+02:00"
+    },
+    {
+      "productId": 3150,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-04-18T18:34:39.3827052+03:00"
+    },
+    {
+      "productId": 1118,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-05T06:00:08.4376159+02:00"
+    }
+  ]
+}

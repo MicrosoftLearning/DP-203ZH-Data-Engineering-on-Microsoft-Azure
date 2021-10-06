@@ -1,0 +1,27 @@
+{
+  "userId": 74764,
+  "cartId": "aa0b373b-9492-4ad9-a6f8-4492af14c03d",
+  "preferredProducts": [
+    750,
+    66,
+    3946,
+    4592
+  ],
+  "productReviews": [
+    {
+      "productId": 2160,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-09-20T12:20:23.6082621+03:00"
+    },
+    {
+      "productId": 1447,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-01-20T10:32:12.5583436+02:00"
+    },
+    {
+      "productId": 1683,
+      "reviewText": "this Handcrafted Fresh Bike is complimentary.",
+      "reviewDate": "2019-02-05T07:10:18.5909763+02:00"
+    }
+  ]
+}

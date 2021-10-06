@@ -1,0 +1,35 @@
+{
+  "userId": 50103,
+  "cartId": "d32b088b-9187-4005-9797-95ded1db9b16",
+  "preferredProducts": [
+    2565,
+    1595,
+    4226,
+    1370,
+    3627,
+    2539,
+    3880
+  ],
+  "productReviews": [
+    {
+      "productId": 4432,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-04-03T09:35:47.7084582+03:00"
+    },
+    {
+      "productId": 4977,
+      "reviewText": "this Human is awesome.",
+      "reviewDate": "2018-11-26T13:51:22.1926424+02:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-12-29T10:29:03.1482047+02:00"
+    },
+    {
+      "productId": 2755,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-03-24T05:28:15.8060162+02:00"
+    }
+  ]
+}

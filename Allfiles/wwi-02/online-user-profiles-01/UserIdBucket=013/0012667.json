@@ -1,0 +1,35 @@
+{
+  "userId": 12667,
+  "cartId": "e27bc35f-e2a5-420f-b451-ce0730d21963",
+  "preferredProducts": [
+    130,
+    1396,
+    4720,
+    1819,
+    1387,
+    2234,
+    378
+  ],
+  "productReviews": [
+    {
+      "productId": 3262,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-04-22T03:16:24.3936367+03:00"
+    },
+    {
+      "productId": 2678,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-04-30T12:26:48.5780856+03:00"
+    },
+    {
+      "productId": 4533,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-02-10T07:54:10.1938269+02:00"
+    },
+    {
+      "productId": 4613,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-11-23T06:32:06.7331465+02:00"
+    }
+  ]
+}

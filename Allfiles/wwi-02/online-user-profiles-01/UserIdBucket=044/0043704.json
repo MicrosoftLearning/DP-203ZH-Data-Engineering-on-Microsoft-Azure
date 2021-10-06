@@ -1,0 +1,32 @@
+{
+  "userId": 43704,
+  "cartId": "38795c2e-cdd7-4a1b-bc1e-fee09dde59cf",
+  "preferredProducts": [
+    1600,
+    1140,
+    2615,
+    1311
+  ],
+  "productReviews": [
+    {
+      "productId": 807,
+      "reviewText": "this Wyoming is top-notch.",
+      "reviewDate": "2019-02-27T03:31:27.8431488+02:00"
+    },
+    {
+      "productId": 4150,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-12-31T01:31:55.7858954+02:00"
+    },
+    {
+      "productId": 3226,
+      "reviewText": "this concept is papery.",
+      "reviewDate": "2020-04-17T12:25:48.4896333+03:00"
+    },
+    {
+      "productId": 2408,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-05-04T00:51:48.4499745+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 38668,
+  "cartId": "e271ebdd-4343-4735-a988-9718865c44f4",
+  "preferredProducts": [
+    2700,
+    3293,
+    1080,
+    1352,
+    3947,
+    3091,
+    4559,
+    1646,
+    4189,
+    107
+  ],
+  "productReviews": [
+    {
+      "productId": 4051,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-07-01T07:26:14.3866653+03:00"
+    },
+    {
+      "productId": 549,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-02-10T16:00:33.1880882+02:00"
+    },
+    {
+      "productId": 3725,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-06-25T04:30:02.5580774+03:00"
+    },
+    {
+      "productId": 331,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-10-24T01:00:28.9057759+03:00"
+    }
+  ]
+}

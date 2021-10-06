@@ -1,0 +1,30 @@
+{
+  "userId": 10998,
+  "cartId": "d82d689e-f079-4dda-a29d-2df39072f52f",
+  "preferredProducts": [
+    3380,
+    2252,
+    1964,
+    2822,
+    1249,
+    4930,
+    4005
+  ],
+  "productReviews": [
+    {
+      "productId": 3225,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2020-03-26T21:24:40.0758023+02:00"
+    },
+    {
+      "productId": 1098,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-12-27T23:43:56.2303755+02:00"
+    },
+    {
+      "productId": 4079,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-02-04T20:28:26.7236071+02:00"
+    }
+  ]
+}

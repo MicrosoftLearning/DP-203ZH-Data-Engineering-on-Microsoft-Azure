@@ -1,0 +1,29 @@
+{
+  "userId": 60786,
+  "cartId": "f3e80c88-4a5e-47d5-8bbd-6ffc89747996",
+  "preferredProducts": [
+    3848,
+    435,
+    4485,
+    1578,
+    3968,
+    4756
+  ],
+  "productReviews": [
+    {
+      "productId": 2476,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-10-08T03:39:21.986384+03:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-12-23T07:22:54.0878282+02:00"
+    },
+    {
+      "productId": 4999,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-12-14T16:33:36.4395855+02:00"
+    }
+  ]
+}

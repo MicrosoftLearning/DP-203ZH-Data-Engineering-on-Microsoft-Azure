@@ -1,0 +1,25 @@
+{
+  "userId": 5251,
+  "cartId": "fe516412-81bc-44b9-ae7c-fbff4cf2dd24",
+  "preferredProducts": [
+    4821,
+    2205
+  ],
+  "productReviews": [
+    {
+      "productId": 1922,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-04-12T04:21:55.5387976+03:00"
+    },
+    {
+      "productId": 4676,
+      "reviewText": "This Architect works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-11-24T03:46:16.6911431+02:00"
+    },
+    {
+      "productId": 1134,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-10-02T10:54:03.487125+03:00"
+    }
+  ]
+}

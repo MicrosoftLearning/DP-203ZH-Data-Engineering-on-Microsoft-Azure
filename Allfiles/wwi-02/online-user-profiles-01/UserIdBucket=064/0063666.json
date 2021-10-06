@@ -1,0 +1,33 @@
+{
+  "userId": 63666,
+  "cartId": "11a7aa89-3b40-4df8-8a23-3b9309408f77",
+  "preferredProducts": [
+    912,
+    3155,
+    1317,
+    2946,
+    1660
+  ],
+  "productReviews": [
+    {
+      "productId": 4504,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-08-16T06:34:34.9333062+03:00"
+    },
+    {
+      "productId": 4394,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-08-04T16:09:54.1468996+03:00"
+    },
+    {
+      "productId": 3031,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-04-23T14:08:19.3872722+03:00"
+    },
+    {
+      "productId": 3053,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-01-11T13:04:24.8982766+02:00"
+    }
+  ]
+}

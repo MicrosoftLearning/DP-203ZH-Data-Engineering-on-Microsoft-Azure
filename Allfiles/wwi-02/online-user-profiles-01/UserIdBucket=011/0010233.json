@@ -1,0 +1,43 @@
+{
+  "userId": 10233,
+  "cartId": "60cf7e99-acc6-4ace-aa5e-08e762891a04",
+  "preferredProducts": [
+    1469,
+    2082,
+    1480,
+    2684,
+    4920,
+    4425,
+    1747,
+    1551,
+    269,
+    2564
+  ],
+  "productReviews": [
+    {
+      "productId": 709,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-10-09T14:20:31.0186687+03:00"
+    },
+    {
+      "productId": 1053,
+      "reviewText": "This mobile works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-01-20T08:37:23.8260849+02:00"
+    },
+    {
+      "productId": 3059,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-01-08T00:51:12.9773127+02:00"
+    },
+    {
+      "productId": 1014,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-06-10T06:55:28.2575412+03:00"
+    },
+    {
+      "productId": 467,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2020-01-24T16:00:22.2179881+02:00"
+    }
+  ]
+}

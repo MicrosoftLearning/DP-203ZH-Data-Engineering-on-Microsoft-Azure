@@ -1,0 +1,27 @@
+{
+  "userId": 52830,
+  "cartId": "6fef5c21-debf-4ffc-adb7-2a3d770e711a",
+  "preferredProducts": [
+    3854,
+    2163,
+    3545,
+    1688
+  ],
+  "productReviews": [
+    {
+      "productId": 4081,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-10-04T08:31:08.6347359+03:00"
+    },
+    {
+      "productId": 1600,
+      "reviewText": "this Consultant is ratty.",
+      "reviewDate": "2019-06-27T06:25:23.5781476+03:00"
+    },
+    {
+      "productId": 2538,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-12-28T21:42:16.3602114+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 8324,
+  "cartId": "76897056-44e9-4ae2-95c5-7298777e3975",
+  "preferredProducts": [
+    4270,
+    4634,
+    2132,
+    478,
+    3683,
+    3362,
+    3807,
+    1060,
+    4457
+  ],
+  "productReviews": [
+    {
+      "productId": 2885,
+      "reviewText": "this California is snowy.",
+      "reviewDate": "2017-08-18T09:44:54.6611139+03:00"
+    },
+    {
+      "productId": 4072,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-01-24T15:42:43.7547408+02:00"
+    },
+    {
+      "productId": 12,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-04-26T00:01:56.4209836+03:00"
+    }
+  ]
+}

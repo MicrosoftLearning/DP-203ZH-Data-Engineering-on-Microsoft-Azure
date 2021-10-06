@@ -1,0 +1,30 @@
+{
+  "userId": 73928,
+  "cartId": "e18719cc-0077-489e-b359-3ca462146c17",
+  "preferredProducts": [
+    4999,
+    2008,
+    2266,
+    1634,
+    4687,
+    4456,
+    525
+  ],
+  "productReviews": [
+    {
+      "productId": 3676,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-11-08T08:12:34.3042128+02:00"
+    },
+    {
+      "productId": 2144,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-04-25T02:17:28.4677696+03:00"
+    },
+    {
+      "productId": 3425,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-10-04T21:24:08.9788621+03:00"
+    }
+  ]
+}

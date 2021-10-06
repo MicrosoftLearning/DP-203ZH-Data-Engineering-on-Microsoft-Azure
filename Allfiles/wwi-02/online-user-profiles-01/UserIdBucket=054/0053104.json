@@ -1,0 +1,41 @@
+{
+  "userId": 53104,
+  "cartId": "305e02e6-951b-4132-a4f2-93581e76b6ea",
+  "preferredProducts": [
+    269,
+    3519,
+    4051,
+    1012,
+    4291,
+    3929,
+    1795,
+    2101
+  ],
+  "productReviews": [
+    {
+      "productId": 612,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-03-30T13:46:19.2117777+03:00"
+    },
+    {
+      "productId": 1904,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-25T07:51:44.5330839+03:00"
+    },
+    {
+      "productId": 1341,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-12-24T02:22:53.0159242+02:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-04-18T20:29:11.6868889+03:00"
+    },
+    {
+      "productId": 459,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-08-29T15:21:18.2986507+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 99432,
+  "cartId": "a131b76b-503f-4efd-bf7e-5bf1ed932681",
+  "preferredProducts": [
+    1759,
+    592,
+    1274,
+    4408,
+    3280,
+    1257,
+    1417
+  ],
+  "productReviews": [
+    {
+      "productId": 1733,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-07-18T19:34:48.7339894+03:00"
+    },
+    {
+      "productId": 4287,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-05-04T21:40:22.9170431+03:00"
+    },
+    {
+      "productId": 788,
+      "reviewText": "This azure works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-08-14T05:41:13.5572777+03:00"
+    }
+  ]
+}

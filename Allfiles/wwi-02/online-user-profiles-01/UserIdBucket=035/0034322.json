@@ -1,0 +1,27 @@
+{
+  "userId": 34322,
+  "cartId": "eba8a819-a7aa-4d95-9fe2-b91248fe5f6a",
+  "preferredProducts": [
+    2495,
+    3522,
+    2083,
+    2006
+  ],
+  "productReviews": [
+    {
+      "productId": 4559,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2020-03-10T04:01:08.7625345+02:00"
+    },
+    {
+      "productId": 4934,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-06-14T16:54:18.9471563+03:00"
+    },
+    {
+      "productId": 3687,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-03-02T00:29:28.562033+02:00"
+    }
+  ]
+}

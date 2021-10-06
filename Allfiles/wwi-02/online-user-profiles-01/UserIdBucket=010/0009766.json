@@ -1,0 +1,40 @@
+{
+  "userId": 9766,
+  "cartId": "13e4fd93-5fea-4398-bd51-f5c54bcb7b57",
+  "preferredProducts": [
+    941,
+    4591,
+    1708,
+    3433,
+    204,
+    2808,
+    4099
+  ],
+  "productReviews": [
+    {
+      "productId": 2254,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-12-24T00:20:41.8938298+02:00"
+    },
+    {
+      "productId": 2895,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-12-04T05:24:02.6613483+02:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2018-12-17T10:47:27.3104031+02:00"
+    },
+    {
+      "productId": 2954,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-01-31T13:25:34.1967925+02:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2020-02-17T14:23:27.7041711+02:00"
+    }
+  ]
+}

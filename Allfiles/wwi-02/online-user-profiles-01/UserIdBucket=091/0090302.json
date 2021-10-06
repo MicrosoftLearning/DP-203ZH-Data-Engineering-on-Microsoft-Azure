@@ -1,0 +1,37 @@
+{
+  "userId": 90302,
+  "cartId": "f4837a3f-4140-41b1-a38d-cab7520ad3dd",
+  "preferredProducts": [
+    1840,
+    3018,
+    2212,
+    3994,
+    76,
+    3910,
+    2092,
+    2334,
+    4259
+  ],
+  "productReviews": [
+    {
+      "productId": 382,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-12-01T06:11:32.7460812+02:00"
+    },
+    {
+      "productId": 579,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-04-16T08:29:14.1862231+03:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "This is a really good Algerian Dinar.",
+      "reviewDate": "2019-03-01T02:54:35.6317568+02:00"
+    },
+    {
+      "productId": 3725,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-07-10T06:28:58.9613158+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 95715,
+  "cartId": "a8bb392a-bd61-4734-8a12-dd6bf2b5c4a5",
+  "preferredProducts": [
+    402,
+    375,
+    4406,
+    1275,
+    4790
+  ],
+  "productReviews": [
+    {
+      "productId": 606,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-12-19T09:52:54.4076504+02:00"
+    },
+    {
+      "productId": 1551,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-03-17T04:47:30.2260131+02:00"
+    },
+    {
+      "productId": 4532,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-03-20T10:27:36.3436666+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 1332,
+  "cartId": "e81b7405-a1aa-4272-afff-40dd1e4cee3a",
+  "preferredProducts": [
+    2246,
+    4635,
+    1505,
+    1483,
+    371,
+    3613,
+    4848
+  ],
+  "productReviews": [
+    {
+      "productId": 2361,
+      "reviewText": "this panel is nifty.",
+      "reviewDate": "2018-03-08T13:29:31.9735187+02:00"
+    },
+    {
+      "productId": 2672,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-03-01T07:04:53.1268599+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 6642,
+  "cartId": "f1d0bc04-7ecd-4486-b107-ae92e0476e2d",
+  "preferredProducts": [
+    1505,
+    2279
+  ],
+  "productReviews": [
+    {
+      "productId": 3357,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-04-21T13:02:24.6279275+03:00"
+    },
+    {
+      "productId": 2007,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-01-02T21:32:45.2998829+02:00"
+    },
+    {
+      "productId": 3334,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-05-02T17:08:14.1728892+03:00"
+    }
+  ]
+}

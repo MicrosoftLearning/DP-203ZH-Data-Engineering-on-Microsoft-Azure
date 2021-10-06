@@ -1,0 +1,33 @@
+{
+  "userId": 41671,
+  "cartId": "b125967f-4071-4c22-b69e-a1596020dd7e",
+  "preferredProducts": [
+    1526,
+    2102,
+    587,
+    267,
+    2648
+  ],
+  "productReviews": [
+    {
+      "productId": 2930,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-03T09:00:50.3541901+02:00"
+    },
+    {
+      "productId": 3121,
+      "reviewText": "This is a really good withdrawal.",
+      "reviewDate": "2017-02-06T03:09:27.0817853+02:00"
+    },
+    {
+      "productId": 1925,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-05-27T05:09:43.9540543+03:00"
+    },
+    {
+      "productId": 298,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-07-27T11:58:25.2464729+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 75875,
+  "cartId": "b0d1b3e5-b5fd-4b3a-944f-e27119ea852e",
+  "preferredProducts": [
+    4146,
+    1349,
+    1651,
+    2600,
+    883,
+    3774,
+    2896
+  ],
+  "productReviews": [
+    {
+      "productId": 3287,
+      "reviewText": "this Tasty Frozen Tuna is awesome.",
+      "reviewDate": "2018-01-19T14:15:11.448491+02:00"
+    },
+    {
+      "productId": 144,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-04-06T09:38:40.6118522+03:00"
+    },
+    {
+      "productId": 4898,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-06-17T00:25:39.3473953+03:00"
+    }
+  ]
+}

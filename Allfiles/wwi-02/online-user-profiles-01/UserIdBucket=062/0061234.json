@@ -1,0 +1,32 @@
+{
+  "userId": 61234,
+  "cartId": "6aabeb84-6493-44d0-b909-a234bff2368e",
+  "preferredProducts": [
+    681,
+    2687,
+    3432,
+    1417,
+    4252,
+    2457,
+    1205,
+    3245,
+    652
+  ],
+  "productReviews": [
+    {
+      "productId": 700,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-06-21T23:27:09.7356141+03:00"
+    },
+    {
+      "productId": 1368,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-11-07T06:03:41.3667636+02:00"
+    },
+    {
+      "productId": 931,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-04-25T14:15:45.1390489+03:00"
+    }
+  ]
+}

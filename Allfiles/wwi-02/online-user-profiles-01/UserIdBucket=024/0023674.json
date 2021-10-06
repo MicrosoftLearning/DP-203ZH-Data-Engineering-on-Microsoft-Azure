@@ -1,0 +1,31 @@
+{
+  "userId": 23674,
+  "cartId": "93ce729b-cd82-4886-bd8a-0e17143260c4",
+  "preferredProducts": [
+    238,
+    2198,
+    4843,
+    37,
+    2070,
+    1067,
+    2376,
+    4179
+  ],
+  "productReviews": [
+    {
+      "productId": 1521,
+      "reviewText": "this indexing is smooth.",
+      "reviewDate": "2017-06-25T06:46:17.6549499+03:00"
+    },
+    {
+      "productId": 3432,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-03-16T03:39:19.6270494+02:00"
+    },
+    {
+      "productId": 2803,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-07-21T12:44:10.0183731+03:00"
+    }
+  ]
+}

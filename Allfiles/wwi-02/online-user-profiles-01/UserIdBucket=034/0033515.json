@@ -1,0 +1,29 @@
+{
+  "userId": 33515,
+  "cartId": "b44690ba-b43a-4e58-99c2-281cbd6419a8",
+  "preferredProducts": [
+    417
+  ],
+  "productReviews": [
+    {
+      "productId": 5000,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-05-13T10:21:57.5596911+03:00"
+    },
+    {
+      "productId": 2124,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-07-31T04:21:52.5291915+03:00"
+    },
+    {
+      "productId": 1365,
+      "reviewText": "this Concrete is hyper.",
+      "reviewDate": "2019-05-05T18:35:07.5235122+03:00"
+    },
+    {
+      "productId": 2470,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-03-01T14:26:49.0570275+02:00"
+    }
+  ]
+}

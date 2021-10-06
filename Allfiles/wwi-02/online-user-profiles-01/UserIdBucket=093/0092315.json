@@ -1,0 +1,33 @@
+{
+  "userId": 92315,
+  "cartId": "64c0c61a-a3ef-4881-9beb-d88401cf200f",
+  "preferredProducts": [
+    3481,
+    3823,
+    3245,
+    1987,
+    2276
+  ],
+  "productReviews": [
+    {
+      "productId": 701,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-12-28T18:58:13.0766258+02:00"
+    },
+    {
+      "productId": 4533,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-05-04T01:15:56.3987791+03:00"
+    },
+    {
+      "productId": 2285,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-10-26T02:49:05.7239299+03:00"
+    },
+    {
+      "productId": 580,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-03-18T05:06:44.7195743+02:00"
+    }
+  ]
+}

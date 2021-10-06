@@ -1,0 +1,30 @@
+{
+  "userId": 40340,
+  "cartId": "949339d0-3bf4-41cf-b914-48428965a92d",
+  "preferredProducts": [
+    2500,
+    190,
+    3562,
+    2114,
+    2665,
+    4108,
+    3098
+  ],
+  "productReviews": [
+    {
+      "productId": 1629,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-05-23T08:52:09.4055742+03:00"
+    },
+    {
+      "productId": 4729,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-09-17T06:51:53.3748796+03:00"
+    },
+    {
+      "productId": 3260,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-02-11T20:22:45.7233841+02:00"
+    }
+  ]
+}

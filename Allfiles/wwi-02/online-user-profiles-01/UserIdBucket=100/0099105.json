@@ -1,0 +1,29 @@
+{
+  "userId": 99105,
+  "cartId": "b81c7555-765c-4405-a6c4-28c3584dc5b6",
+  "preferredProducts": [
+    3321,
+    420,
+    980,
+    4232,
+    384,
+    3036
+  ],
+  "productReviews": [
+    {
+      "productId": 3666,
+      "reviewText": "this Accounts is complimentary.",
+      "reviewDate": "2017-12-25T06:43:57.8243061+02:00"
+    },
+    {
+      "productId": 4855,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-10-17T20:46:05.9485028+03:00"
+    },
+    {
+      "productId": 1524,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-04-29T13:34:42.55471+03:00"
+    }
+  ]
+}

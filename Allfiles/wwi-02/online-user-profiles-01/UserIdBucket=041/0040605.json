@@ -1,0 +1,41 @@
+{
+  "userId": 40605,
+  "cartId": "5227c843-4584-4eac-bdf7-bc6ebdf9c4b5",
+  "preferredProducts": [
+    809,
+    1559,
+    4416,
+    1707,
+    4586,
+    1152,
+    232,
+    4101
+  ],
+  "productReviews": [
+    {
+      "productId": 2852,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-10-03T03:24:32.4161552+03:00"
+    },
+    {
+      "productId": 4699,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-05-10T04:59:43.6096126+03:00"
+    },
+    {
+      "productId": 2792,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-01-29T14:07:45.5209607+02:00"
+    },
+    {
+      "productId": 1003,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-04-11T21:09:42.1321177+03:00"
+    },
+    {
+      "productId": 4680,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-02-19T10:24:29.0802445+02:00"
+    }
+  ]
+}

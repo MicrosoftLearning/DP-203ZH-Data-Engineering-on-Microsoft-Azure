@@ -1,0 +1,31 @@
+{
+  "userId": 35532,
+  "cartId": "7d753726-1253-42c7-a029-083f272b190e",
+  "preferredProducts": [
+    4921,
+    2757,
+    2738
+  ],
+  "productReviews": [
+    {
+      "productId": 3166,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-12-23T09:56:27.9834504+02:00"
+    },
+    {
+      "productId": 1030,
+      "reviewText": "this North Carolina is awesome.",
+      "reviewDate": "2017-09-25T05:50:38.7681031+03:00"
+    },
+    {
+      "productId": 3854,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-10-09T15:01:33.247854+03:00"
+    },
+    {
+      "productId": 2691,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-06-07T16:33:29.6666208+03:00"
+    }
+  ]
+}

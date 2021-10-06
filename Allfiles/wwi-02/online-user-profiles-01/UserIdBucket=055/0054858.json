@@ -1,0 +1,32 @@
+{
+  "userId": 54858,
+  "cartId": "858377c9-3405-4ac5-8b30-f7bb443bc102",
+  "preferredProducts": [
+    2101,
+    994,
+    2802,
+    4813
+  ],
+  "productReviews": [
+    {
+      "productId": 4206,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-10-02T09:15:13.4285185+03:00"
+    },
+    {
+      "productId": 385,
+      "reviewText": "This AGP works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-09-06T18:09:08.9586713+03:00"
+    },
+    {
+      "productId": 695,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-12-04T23:37:59.5368859+02:00"
+    },
+    {
+      "productId": 1837,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-08-29T23:27:44.9771359+03:00"
+    }
+  ]
+}

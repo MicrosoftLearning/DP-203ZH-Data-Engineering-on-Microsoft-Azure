@@ -1,0 +1,33 @@
+{
+  "userId": 98504,
+  "cartId": "81a12459-eb81-4bba-a705-8e4fd106de1f",
+  "preferredProducts": [
+    4980,
+    4700,
+    262,
+    1471,
+    4527
+  ],
+  "productReviews": [
+    {
+      "productId": 3164,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-01-23T19:36:08.4615207+02:00"
+    },
+    {
+      "productId": 4231,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-04-23T06:33:37.9948255+03:00"
+    },
+    {
+      "productId": 4385,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-08-20T21:30:51.982599+03:00"
+    },
+    {
+      "productId": 1549,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-05-29T06:51:23.9517166+03:00"
+    }
+  ]
+}

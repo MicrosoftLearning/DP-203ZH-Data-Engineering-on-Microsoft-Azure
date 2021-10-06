@@ -1,0 +1,31 @@
+{
+  "userId": 15282,
+  "cartId": "e77e4e5e-bfd8-46ef-bab5-49c9fddeb8c0",
+  "preferredProducts": [
+    1567,
+    1708,
+    2813
+  ],
+  "productReviews": [
+    {
+      "productId": 1368,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-01-07T17:06:46.8934458+02:00"
+    },
+    {
+      "productId": 1450,
+      "reviewText": "this Ukraine is ghetto.",
+      "reviewDate": "2019-03-11T21:20:01.6669403+02:00"
+    },
+    {
+      "productId": 4824,
+      "reviewText": "this orchestration is slurpee.",
+      "reviewDate": "2019-08-23T17:52:57.1520799+03:00"
+    },
+    {
+      "productId": 3218,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-11-22T13:57:30.2597225+02:00"
+    }
+  ]
+}

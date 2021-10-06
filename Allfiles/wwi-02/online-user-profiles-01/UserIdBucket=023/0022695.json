@@ -1,0 +1,23 @@
+{
+  "userId": 22695,
+  "cartId": "3e4b78af-c057-4074-af18-660e41798a28",
+  "preferredProducts": [
+    4224,
+    3987,
+    1245,
+    2391,
+    648
+  ],
+  "productReviews": [
+    {
+      "productId": 3708,
+      "reviewText": "this auxiliary is revolting.",
+      "reviewDate": "2016-10-29T03:09:10.8415347+03:00"
+    },
+    {
+      "productId": 1101,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-09-04T15:25:01.4883475+03:00"
+    }
+  ]
+}

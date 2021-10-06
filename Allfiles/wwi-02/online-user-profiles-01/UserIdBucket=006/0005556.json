@@ -1,0 +1,37 @@
+{
+  "userId": 5556,
+  "cartId": "02024e4f-1dcf-4cb5-93ba-61a4ca5d5711",
+  "preferredProducts": [
+    3467,
+    2781,
+    2825,
+    802,
+    1738,
+    4607,
+    4606,
+    411,
+    2466
+  ],
+  "productReviews": [
+    {
+      "productId": 2755,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-07-30T05:27:42.8260274+03:00"
+    },
+    {
+      "productId": 3468,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-05-10T23:10:59.1083158+03:00"
+    },
+    {
+      "productId": 914,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-04-28T03:25:53.6367531+03:00"
+    },
+    {
+      "productId": 2005,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-01-05T09:21:32.8006428+02:00"
+    }
+  ]
+}

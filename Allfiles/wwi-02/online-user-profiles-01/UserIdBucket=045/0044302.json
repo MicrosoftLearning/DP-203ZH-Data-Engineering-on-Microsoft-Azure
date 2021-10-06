@@ -1,0 +1,30 @@
+{
+  "userId": 44302,
+  "cartId": "e7968ce3-ac8b-4be1-b3b9-75ea286bf00c",
+  "preferredProducts": [
+    4315,
+    2514
+  ],
+  "productReviews": [
+    {
+      "productId": 203,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-02-12T07:56:00.0486129+02:00"
+    },
+    {
+      "productId": 2720,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-01-04T19:13:58.1031134+02:00"
+    },
+    {
+      "productId": 4486,
+      "reviewText": "this US Dollar is hyper.",
+      "reviewDate": "2018-10-31T23:04:04.8751871+02:00"
+    },
+    {
+      "productId": 4874,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-05-04T22:55:10.4991323+03:00"
+    }
+  ]
+}

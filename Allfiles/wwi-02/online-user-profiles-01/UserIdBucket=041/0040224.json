@@ -1,0 +1,32 @@
+{
+  "userId": 40224,
+  "cartId": "925ad181-142c-4dfd-ae0b-c95620f72e1a",
+  "preferredProducts": [
+    93,
+    290,
+    2800,
+    3704
+  ],
+  "productReviews": [
+    {
+      "productId": 3582,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-05-13T19:31:29.1720502+03:00"
+    },
+    {
+      "productId": 4061,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-11-18T16:03:04.377008+02:00"
+    },
+    {
+      "productId": 2931,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-11-22T10:16:43.8349621+02:00"
+    },
+    {
+      "productId": 2276,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-11-14T08:38:03.037387+02:00"
+    }
+  ]
+}

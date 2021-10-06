@@ -1,0 +1,35 @@
+{
+  "userId": 88919,
+  "cartId": "2a3ef7c5-8d50-4edf-9f1b-573e15bacde5",
+  "preferredProducts": [
+    2869,
+    1775,
+    1685,
+    3825,
+    2393,
+    3996,
+    4570
+  ],
+  "productReviews": [
+    {
+      "productId": 4666,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-09-06T02:09:36.4878614+03:00"
+    },
+    {
+      "productId": 4841,
+      "reviewText": "this Roads is perplexed.",
+      "reviewDate": "2016-10-21T04:19:36.3707283+03:00"
+    },
+    {
+      "productId": 2721,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-06-10T07:54:41.7494204+03:00"
+    },
+    {
+      "productId": 2045,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-08-04T08:07:04.9753662+03:00"
+    }
+  ]
+}

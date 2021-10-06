@@ -1,0 +1,27 @@
+{
+  "userId": 32170,
+  "cartId": "c6b35fc7-0a8d-4c34-ba3a-8842ba5cde15",
+  "preferredProducts": [
+    3589,
+    2119,
+    1988,
+    4764
+  ],
+  "productReviews": [
+    {
+      "productId": 2160,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-09-07T12:39:32.0379988+03:00"
+    },
+    {
+      "productId": 1701,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-05-30T16:14:57.7668678+03:00"
+    },
+    {
+      "productId": 2671,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-12-23T16:18:30.4842054+02:00"
+    }
+  ]
+}

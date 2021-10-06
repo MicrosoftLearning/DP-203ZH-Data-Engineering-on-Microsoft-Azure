@@ -1,0 +1,31 @@
+{
+  "userId": 42274,
+  "cartId": "524fafce-6d61-4892-ad7a-e3637f05aa8f",
+  "preferredProducts": [
+    1815,
+    817,
+    2990,
+    4307,
+    3895,
+    2703,
+    2521,
+    990
+  ],
+  "productReviews": [
+    {
+      "productId": 3195,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-11-14T13:25:44.0619257+02:00"
+    },
+    {
+      "productId": 298,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-11-24T03:43:54.4214596+02:00"
+    },
+    {
+      "productId": 2036,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-08-18T12:41:54.8531071+03:00"
+    }
+  ]
+}

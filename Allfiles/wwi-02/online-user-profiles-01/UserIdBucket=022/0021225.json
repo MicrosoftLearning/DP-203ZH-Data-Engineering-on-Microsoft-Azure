@@ -1,0 +1,33 @@
+{
+  "userId": 21225,
+  "cartId": "1cd6131e-7634-4b51-9f2e-2c14acc884a8",
+  "preferredProducts": [
+    3819,
+    1353,
+    585,
+    4460,
+    1635
+  ],
+  "productReviews": [
+    {
+      "productId": 3960,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-09-28T14:38:20.9613059+03:00"
+    },
+    {
+      "productId": 3316,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-06-21T00:20:35.7591321+03:00"
+    },
+    {
+      "productId": 3461,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-09-14T15:57:30.7073182+03:00"
+    },
+    {
+      "productId": 3944,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-03-17T16:21:37.9908435+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 23905,
+  "cartId": "34c4f003-dd8b-4ce7-9981-59681c3870e2",
+  "preferredProducts": [
+    4229,
+    3741
+  ],
+  "productReviews": [
+    {
+      "productId": 1660,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-08-31T00:43:10.2437498+03:00"
+    },
+    {
+      "productId": 3000,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-01-01T09:46:12.7767196+02:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-05-08T03:34:20.7936904+03:00"
+    },
+    {
+      "productId": 949,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-05-17T08:23:00.0708729+03:00"
+    },
+    {
+      "productId": 3627,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-07-22T08:11:47.7036132+03:00"
+    }
+  ]
+}

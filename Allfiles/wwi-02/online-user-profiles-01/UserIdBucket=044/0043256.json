@@ -1,0 +1,25 @@
+{
+  "userId": 43256,
+  "cartId": "634a3856-76b2-4d7a-89a4-d9fb3b086166",
+  "preferredProducts": [
+    3164,
+    4513
+  ],
+  "productReviews": [
+    {
+      "productId": 4601,
+      "reviewText": "this Investor is smooth.",
+      "reviewDate": "2018-07-05T16:32:16.5113175+03:00"
+    },
+    {
+      "productId": 889,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-08-19T11:42:52.9600337+03:00"
+    },
+    {
+      "productId": 2090,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-08-24T06:25:13.2152901+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 11532,
+  "cartId": "8a4c9d18-9a4d-4c78-b88f-d6f8f51ba212",
+  "preferredProducts": [
+    3861,
+    3521,
+    792,
+    513,
+    657,
+    4967,
+    4987,
+    3475,
+    128,
+    274
+  ],
+  "productReviews": [
+    {
+      "productId": 1661,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-08-31T14:32:51.4927641+03:00"
+    },
+    {
+      "productId": 487,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-06-23T15:38:46.1095575+03:00"
+    },
+    {
+      "productId": 856,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-07-09T01:22:10.9198302+03:00"
+    }
+  ]
+}

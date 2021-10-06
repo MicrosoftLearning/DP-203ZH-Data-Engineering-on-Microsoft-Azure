@@ -1,0 +1,43 @@
+{
+  "userId": 36638,
+  "cartId": "e2e1ac54-dc05-4875-8fc5-d58a90f833fc",
+  "preferredProducts": [
+    3391,
+    2468,
+    4389,
+    410,
+    3906,
+    2117,
+    3354,
+    975,
+    2920,
+    3002
+  ],
+  "productReviews": [
+    {
+      "productId": 1030,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-03-31T14:38:56.5030478+03:00"
+    },
+    {
+      "productId": 3951,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-01-28T18:15:11.8031232+02:00"
+    },
+    {
+      "productId": 1114,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-11-24T19:32:13.4957034+02:00"
+    },
+    {
+      "productId": 268,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-12-03T07:34:16.3958039+02:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-03-03T01:52:36.5998473+02:00"
+    }
+  ]
+}

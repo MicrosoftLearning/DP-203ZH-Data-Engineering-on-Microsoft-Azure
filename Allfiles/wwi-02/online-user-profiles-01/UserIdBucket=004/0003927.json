@@ -1,0 +1,24 @@
+{
+  "userId": 3927,
+  "cartId": "c78de24d-bee9-461b-98c7-8d04e70b53db",
+  "preferredProducts": [
+    707,
+    240,
+    964,
+    4356,
+    4094,
+    722
+  ],
+  "productReviews": [
+    {
+      "productId": 650,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-06-04T00:02:39.0131274+03:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-02-26T11:58:25.8281071+02:00"
+    }
+  ]
+}

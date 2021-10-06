@@ -1,0 +1,23 @@
+{
+  "userId": 3805,
+  "cartId": "83ba7459-2c59-4093-8ab2-75fedd8681bc",
+  "preferredProducts": [
+    5,
+    1014,
+    1871,
+    4377,
+    4327
+  ],
+  "productReviews": [
+    {
+      "productId": 533,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-07-01T17:23:39.6466496+03:00"
+    },
+    {
+      "productId": 166,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-09-08T09:35:11.8955827+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 57812,
+  "cartId": "813e61a4-2568-4c7a-b4ca-0caa09a7a7ff",
+  "preferredProducts": [
+    3322,
+    5000,
+    3627,
+    4407,
+    1217,
+    4694,
+    739,
+    4482,
+    2814,
+    999
+  ],
+  "productReviews": [
+    {
+      "productId": 2439,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-05-08T19:32:23.3634926+03:00"
+    },
+    {
+      "productId": 2906,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-11-01T17:15:44.9332936+02:00"
+    }
+  ]
+}

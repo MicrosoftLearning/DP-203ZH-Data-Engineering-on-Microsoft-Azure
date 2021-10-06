@@ -1,0 +1,27 @@
+{
+  "userId": 67551,
+  "cartId": "3324f3ad-6d99-4a09-b544-e6914be1f959",
+  "preferredProducts": [
+    1067,
+    2,
+    272,
+    325,
+    4882,
+    44,
+    4189,
+    4836,
+    3584
+  ],
+  "productReviews": [
+    {
+      "productId": 1940,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-01-18T08:16:18.7913643+02:00"
+    },
+    {
+      "productId": 2127,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-07-17T09:45:38.8903669+03:00"
+    }
+  ]
+}

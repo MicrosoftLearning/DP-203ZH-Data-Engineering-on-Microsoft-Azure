@@ -1,0 +1,31 @@
+{
+  "userId": 42074,
+  "cartId": "2f01c01a-ad87-4896-b3cf-d118d2e2556d",
+  "preferredProducts": [
+    4488,
+    373,
+    3039,
+    2557,
+    2385,
+    2511,
+    4907,
+    8
+  ],
+  "productReviews": [
+    {
+      "productId": 2596,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-08-07T04:20:01.6208237+03:00"
+    },
+    {
+      "productId": 1297,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2020-03-24T00:56:24.694581+02:00"
+    },
+    {
+      "productId": 1328,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2017-06-20T06:48:45.6648984+03:00"
+    }
+  ]
+}

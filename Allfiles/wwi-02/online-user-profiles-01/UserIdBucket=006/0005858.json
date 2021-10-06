@@ -1,0 +1,30 @@
+{
+  "userId": 5858,
+  "cartId": "0f14ee63-f0d6-42bf-86aa-d19b1f1ee573",
+  "preferredProducts": [
+    780,
+    587
+  ],
+  "productReviews": [
+    {
+      "productId": 1001,
+      "reviewText": "This Awesome Granite Fish works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-10-17T13:37:13.6412488+03:00"
+    },
+    {
+      "productId": 2276,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-09-24T17:23:11.4661821+03:00"
+    },
+    {
+      "productId": 3859,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-04-28T08:17:39.5464256+03:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-01-31T04:01:06.7908061+02:00"
+    }
+  ]
+}

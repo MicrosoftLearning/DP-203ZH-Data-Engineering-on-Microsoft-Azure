@@ -1,0 +1,36 @@
+{
+  "userId": 85665,
+  "cartId": "ae5b2aee-ec98-4a24-a898-e6ac584d0bae",
+  "preferredProducts": [
+    4429,
+    2665,
+    4933,
+    13,
+    4860,
+    3712,
+    3291,
+    2896
+  ],
+  "productReviews": [
+    {
+      "productId": 2276,
+      "reviewText": "this payment is slurpee.",
+      "reviewDate": "2018-05-13T05:14:21.0679121+03:00"
+    },
+    {
+      "productId": 1904,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-09-29T07:30:12.6269107+03:00"
+    },
+    {
+      "productId": 1923,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-07-30T21:59:46.8088449+03:00"
+    },
+    {
+      "productId": 2662,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-11-07T13:30:30.343594+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 4519,
+  "cartId": "b0f0779a-fef3-4446-9bc2-015c24330fce",
+  "preferredProducts": [
+    3642,
+    4918,
+    4889,
+    1049
+  ],
+  "productReviews": [
+    {
+      "productId": 3180,
+      "reviewText": "This mobile works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-03-11T01:24:42.2276692+02:00"
+    },
+    {
+      "productId": 2761,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-01-09T20:41:53.8840583+02:00"
+    },
+    {
+      "productId": 4093,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-08-24T23:27:20.3769589+03:00"
+    },
+    {
+      "productId": 671,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-07-01T00:30:25.1977958+03:00"
+    }
+  ]
+}

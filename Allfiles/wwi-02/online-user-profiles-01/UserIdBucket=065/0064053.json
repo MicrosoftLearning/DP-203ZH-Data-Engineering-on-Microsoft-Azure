@@ -1,0 +1,30 @@
+{
+  "userId": 64053,
+  "cartId": "78d1b0db-9f4d-4634-a8ef-69dcd59c03fd",
+  "preferredProducts": [
+    2808,
+    4026
+  ],
+  "productReviews": [
+    {
+      "productId": 3311,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-09-28T19:03:38.8666827+03:00"
+    },
+    {
+      "productId": 264,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-02-09T23:22:00.3835441+02:00"
+    },
+    {
+      "productId": 660,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-04-08T00:36:28.2438864+03:00"
+    },
+    {
+      "productId": 4737,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-03-27T07:44:04.2606063+03:00"
+    }
+  ]
+}

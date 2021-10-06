@@ -1,0 +1,38 @@
+{
+  "userId": 15745,
+  "cartId": "a06ebe60-0f98-4af9-825a-8762c95a8a91",
+  "preferredProducts": [
+    2243,
+    3173,
+    68,
+    4624,
+    1888
+  ],
+  "productReviews": [
+    {
+      "productId": 2306,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-12-19T18:40:58.6516825+02:00"
+    },
+    {
+      "productId": 1870,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-05-09T18:52:28.9961285+03:00"
+    },
+    {
+      "productId": 3657,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-04-27T09:24:19.0490289+03:00"
+    },
+    {
+      "productId": 3810,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-08-30T00:13:40.7741074+03:00"
+    },
+    {
+      "productId": 1492,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-08-15T09:25:51.63124+03:00"
+    }
+  ]
+}

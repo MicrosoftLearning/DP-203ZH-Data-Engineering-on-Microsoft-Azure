@@ -1,0 +1,32 @@
+{
+  "userId": 59318,
+  "cartId": "50a3c30c-7be3-4182-9a94-5c672090341e",
+  "preferredProducts": [
+    1938,
+    3745,
+    2049,
+    1770
+  ],
+  "productReviews": [
+    {
+      "productId": 4469,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-10-23T00:18:33.2475744+03:00"
+    },
+    {
+      "productId": 987,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-28T19:47:43.3054661+03:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-12-13T02:48:11.4860839+02:00"
+    },
+    {
+      "productId": 34,
+      "reviewText": "this Wyoming is awesome.",
+      "reviewDate": "2019-12-23T18:19:14.572729+02:00"
+    }
+  ]
+}

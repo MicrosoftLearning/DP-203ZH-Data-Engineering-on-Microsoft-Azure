@@ -1,0 +1,38 @@
+{
+  "userId": 11013,
+  "cartId": "63cf569a-2809-4ca5-adfb-2aff8b60056f",
+  "preferredProducts": [
+    2084,
+    1469,
+    1907,
+    3576,
+    3919,
+    4913,
+    3505,
+    4033,
+    1636,
+    4439
+  ],
+  "productReviews": [
+    {
+      "productId": 2045,
+      "reviewText": "this aggregate is top-notch.",
+      "reviewDate": "2017-06-03T11:25:42.6930727+03:00"
+    },
+    {
+      "productId": 3834,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-05-05T02:49:57.9133362+03:00"
+    },
+    {
+      "productId": 1641,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-10-04T16:04:07.5838549+03:00"
+    },
+    {
+      "productId": 3998,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-12-17T22:18:06.2486811+02:00"
+    }
+  ]
+}

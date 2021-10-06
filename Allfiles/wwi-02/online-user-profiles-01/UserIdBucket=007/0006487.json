@@ -1,0 +1,31 @@
+{
+  "userId": 6487,
+  "cartId": "cedb0d98-5b40-411d-96a8-5900d3579df6",
+  "preferredProducts": [
+    2367,
+    239,
+    151,
+    652,
+    2071,
+    3154,
+    108,
+    16
+  ],
+  "productReviews": [
+    {
+      "productId": 1321,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-10-24T18:00:51.5777964+03:00"
+    },
+    {
+      "productId": 2445,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-10-06T03:14:26.8479538+03:00"
+    },
+    {
+      "productId": 1972,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-08-13T01:44:12.2843245+03:00"
+    }
+  ]
+}

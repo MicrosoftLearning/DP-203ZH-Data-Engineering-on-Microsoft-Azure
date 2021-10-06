@@ -1,0 +1,33 @@
+{
+  "userId": 42290,
+  "cartId": "d89e6caf-3fe0-4097-815d-c7c6131f5ac8",
+  "preferredProducts": [
+    2566,
+    1636,
+    723,
+    4059,
+    4859,
+    1511,
+    1980,
+    1489,
+    2138,
+    4108
+  ],
+  "productReviews": [
+    {
+      "productId": 4949,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-08-10T14:29:56.1216183+03:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2020-03-02T21:11:02.2022884+02:00"
+    },
+    {
+      "productId": 4605,
+      "reviewText": "This generating works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2019-05-24T06:04:52.892864+03:00"
+    }
+  ]
+}

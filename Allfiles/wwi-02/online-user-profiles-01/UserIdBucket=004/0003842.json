@@ -1,0 +1,33 @@
+{
+  "userId": 3842,
+  "cartId": "3fef3ca9-6fb3-41e6-a8c1-417441b18a4e",
+  "preferredProducts": [
+    4324,
+    4674,
+    2071,
+    4597,
+    4343,
+    3278,
+    1433,
+    701,
+    2574,
+    4448
+  ],
+  "productReviews": [
+    {
+      "productId": 1773,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-04-15T00:51:56.7903874+03:00"
+    },
+    {
+      "productId": 667,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-08-14T14:01:30.3036098+03:00"
+    },
+    {
+      "productId": 1115,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-06-29T01:23:57.4902231+03:00"
+    }
+  ]
+}

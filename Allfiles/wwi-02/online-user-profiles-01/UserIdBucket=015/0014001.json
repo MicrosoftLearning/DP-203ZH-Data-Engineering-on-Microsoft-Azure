@@ -1,0 +1,31 @@
+{
+  "userId": 14001,
+  "cartId": "2d25d166-2a86-4994-b798-09e3b7ed4b5d",
+  "preferredProducts": [
+    1724,
+    1686,
+    3149
+  ],
+  "productReviews": [
+    {
+      "productId": 3405,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-03-01T14:40:51.2333893+02:00"
+    },
+    {
+      "productId": 3322,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2017-01-28T01:09:34.0095769+02:00"
+    },
+    {
+      "productId": 3492,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-07-04T19:57:00.1624244+03:00"
+    },
+    {
+      "productId": 3214,
+      "reviewText": "this primary is slurpee.",
+      "reviewDate": "2018-08-22T15:18:12.5382926+03:00"
+    }
+  ]
+}

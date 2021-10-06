@@ -1,0 +1,23 @@
+{
+  "userId": 9362,
+  "cartId": "2b06f776-d89d-4747-a7ef-7233ae63649e",
+  "preferredProducts": [
+    3933,
+    3370,
+    2033,
+    4624,
+    3352
+  ],
+  "productReviews": [
+    {
+      "productId": 4949,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-05-23T14:07:47.0477756+03:00"
+    },
+    {
+      "productId": 2786,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-07-17T07:22:52.2611846+03:00"
+    }
+  ]
+}

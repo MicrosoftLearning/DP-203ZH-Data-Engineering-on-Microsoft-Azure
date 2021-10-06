@@ -1,0 +1,27 @@
+{
+  "userId": 83547,
+  "cartId": "31b1b2b3-c616-4f21-8e9f-0e93604322c4",
+  "preferredProducts": [
+    3267,
+    2242,
+    864,
+    204
+  ],
+  "productReviews": [
+    {
+      "productId": 856,
+      "reviewText": "this Web is top-notch.",
+      "reviewDate": "2019-12-05T08:01:55.9709007+02:00"
+    },
+    {
+      "productId": 4247,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-03-08T23:52:55.9521699+02:00"
+    },
+    {
+      "productId": 1291,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-10-14T13:26:25.0092415+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 3827,
+  "cartId": "b5eaaf2d-8e86-4843-a820-f098b9a46600",
+  "preferredProducts": [
+    1880,
+    605,
+    1479,
+    1364,
+    892,
+    1769,
+    4677,
+    1083,
+    4435,
+    1821
+  ],
+  "productReviews": [
+    {
+      "productId": 2895,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-09-21T06:25:12.652722+03:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-07-21T07:04:00.6093236+03:00"
+    },
+    {
+      "productId": 4710,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-02-20T14:41:42.3637447+02:00"
+    },
+    {
+      "productId": 3934,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-06-15T22:20:55.0743407+03:00"
+    }
+  ]
+}

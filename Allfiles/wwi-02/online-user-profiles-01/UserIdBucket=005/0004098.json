@@ -1,0 +1,23 @@
+{
+  "userId": 4098,
+  "cartId": "4230c7ae-8ed1-421f-b72f-652059fc3369",
+  "preferredProducts": [
+    2490,
+    2775,
+    3963,
+    3540,
+    256
+  ],
+  "productReviews": [
+    {
+      "productId": 1409,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-12-21T23:17:30.3028577+02:00"
+    },
+    {
+      "productId": 3610,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-01-18T11:58:08.8184476+02:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 3452,
+  "cartId": "2bcec26c-97fb-40a0-b2f3-04d128d67958",
+  "preferredProducts": [
+    1968,
+    218,
+    4652,
+    3146,
+    365,
+    1161
+  ],
+  "productReviews": [
+    {
+      "productId": 2854,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-08-01T16:31:08.7346642+03:00"
+    },
+    {
+      "productId": 4982,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-01-23T14:18:00.1289548+02:00"
+    },
+    {
+      "productId": 1229,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-11-04T03:24:34.1003965+02:00"
+    },
+    {
+      "productId": 1733,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-03-23T04:57:37.9083868+02:00"
+    },
+    {
+      "productId": 2136,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-05-26T23:03:41.951227+03:00"
+    }
+  ]
+}

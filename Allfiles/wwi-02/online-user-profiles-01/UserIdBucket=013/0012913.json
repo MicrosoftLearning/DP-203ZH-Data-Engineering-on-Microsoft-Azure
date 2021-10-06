@@ -1,0 +1,24 @@
+{
+  "userId": 12913,
+  "cartId": "1b0b64a9-72a7-44e4-b6cb-a7229ecb4358",
+  "preferredProducts": [
+    4804,
+    4256,
+    4935,
+    1554,
+    2056,
+    2992
+  ],
+  "productReviews": [
+    {
+      "productId": 3654,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-08-01T19:21:06.6819079+03:00"
+    },
+    {
+      "productId": 3111,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-01-26T03:29:20.3686304+02:00"
+    }
+  ]
+}

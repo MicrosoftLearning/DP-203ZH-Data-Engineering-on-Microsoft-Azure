@@ -1,0 +1,31 @@
+{
+  "userId": 10119,
+  "cartId": "612fc85d-e631-4700-b6b4-1a0f28ac8346",
+  "preferredProducts": [
+    3008,
+    4023,
+    1592
+  ],
+  "productReviews": [
+    {
+      "productId": 1639,
+      "reviewText": "this Avon is hyper.",
+      "reviewDate": "2018-05-01T03:39:56.978397+03:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-01-04T22:15:54.4313486+02:00"
+    },
+    {
+      "productId": 190,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-06-11T22:26:19.7491845+03:00"
+    },
+    {
+      "productId": 619,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2020-01-26T23:46:19.4407985+02:00"
+    }
+  ]
+}

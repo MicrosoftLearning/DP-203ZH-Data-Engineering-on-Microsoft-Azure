@@ -1,0 +1,37 @@
+{
+  "userId": 82541,
+  "cartId": "9fa27a7c-f98f-48d2-92c8-760bd89eac3c",
+  "preferredProducts": [
+    4107,
+    3564,
+    3817,
+    2762
+  ],
+  "productReviews": [
+    {
+      "productId": 2788,
+      "reviewText": "this Intranet is nifty.",
+      "reviewDate": "2020-03-24T16:07:53.7411016+02:00"
+    },
+    {
+      "productId": 2758,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-11-03T14:02:10.8757415+02:00"
+    },
+    {
+      "productId": 1337,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-07-21T03:30:19.636139+03:00"
+    },
+    {
+      "productId": 1260,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2020-04-23T20:47:47.0412456+03:00"
+    },
+    {
+      "productId": 2763,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-02-03T18:15:16.5756511+02:00"
+    }
+  ]
+}

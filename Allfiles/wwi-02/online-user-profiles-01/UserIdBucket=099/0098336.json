@@ -1,0 +1,33 @@
+{
+  "userId": 98336,
+  "cartId": "293579de-25ce-46f6-b8bb-eb99ea4b2f10",
+  "preferredProducts": [
+    820,
+    2628,
+    4767,
+    1459,
+    1990,
+    147,
+    424,
+    2304,
+    3312,
+    1096
+  ],
+  "productReviews": [
+    {
+      "productId": 1110,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-07-21T16:53:58.2388533+03:00"
+    },
+    {
+      "productId": 379,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-03-25T05:23:11.9607447+02:00"
+    },
+    {
+      "productId": 854,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2016-12-19T18:47:33.7458687+02:00"
+    }
+  ]
+}

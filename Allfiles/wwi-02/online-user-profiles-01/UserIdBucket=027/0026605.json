@@ -1,0 +1,37 @@
+{
+  "userId": 26605,
+  "cartId": "d4a5e456-3a57-49e3-9df6-95b7ca29b239",
+  "preferredProducts": [
+    3292,
+    2296,
+    838,
+    4900,
+    2449,
+    3002,
+    850,
+    1846,
+    2706
+  ],
+  "productReviews": [
+    {
+      "productId": 1797,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-09-21T11:22:18.2487393+03:00"
+    },
+    {
+      "productId": 3666,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-08-11T23:23:20.1377502+03:00"
+    },
+    {
+      "productId": 3415,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-08-21T07:53:51.7111495+03:00"
+    },
+    {
+      "productId": 1034,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2020-03-07T14:04:42.9435215+02:00"
+    }
+  ]
+}

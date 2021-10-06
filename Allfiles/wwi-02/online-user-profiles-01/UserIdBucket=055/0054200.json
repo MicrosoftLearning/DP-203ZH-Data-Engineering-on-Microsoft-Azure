@@ -1,0 +1,31 @@
+{
+  "userId": 54200,
+  "cartId": "b0a84576-967b-4ceb-a0ec-e8a29a86ece9",
+  "preferredProducts": [
+    1983,
+    1273,
+    3723
+  ],
+  "productReviews": [
+    {
+      "productId": 3631,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-06-08T02:47:12.2438513+03:00"
+    },
+    {
+      "productId": 1646,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-07-26T05:34:22.2428167+03:00"
+    },
+    {
+      "productId": 780,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-07-22T20:48:04.5387299+03:00"
+    },
+    {
+      "productId": 3061,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-04-15T01:51:52.722552+03:00"
+    }
+  ]
+}

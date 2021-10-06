@@ -1,0 +1,28 @@
+{
+  "userId": 17264,
+  "cartId": "eba4c08a-f4bf-4636-817b-ce3a6edff7d0",
+  "preferredProducts": [
+    4545,
+    2419,
+    2629,
+    3815,
+    4369,
+    885,
+    2003,
+    373,
+    4018,
+    1099
+  ],
+  "productReviews": [
+    {
+      "productId": 2774,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-11-07T12:38:22.7170221+02:00"
+    },
+    {
+      "productId": 263,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-02-11T20:32:07.9812505+02:00"
+    }
+  ]
+}

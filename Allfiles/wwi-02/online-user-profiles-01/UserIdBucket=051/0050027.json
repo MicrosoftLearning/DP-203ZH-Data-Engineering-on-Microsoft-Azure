@@ -1,0 +1,36 @@
+{
+  "userId": 50027,
+  "cartId": "3a1106e5-d362-456b-8d58-f2079d20a2bb",
+  "preferredProducts": [
+    1077,
+    4734,
+    4251,
+    4167,
+    2840,
+    1849,
+    1262,
+    4441
+  ],
+  "productReviews": [
+    {
+      "productId": 3737,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-06-07T23:12:12.1033036+03:00"
+    },
+    {
+      "productId": 4383,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-06-18T21:19:25.3209473+03:00"
+    },
+    {
+      "productId": 1706,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-05-24T19:31:43.6019431+03:00"
+    },
+    {
+      "productId": 727,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-11-18T09:28:29.3138044+02:00"
+    }
+  ]
+}

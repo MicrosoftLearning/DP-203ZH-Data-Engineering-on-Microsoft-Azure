@@ -1,0 +1,40 @@
+{
+  "userId": 52321,
+  "cartId": "ed2515e3-1a3f-4999-a5db-45d570deac47",
+  "preferredProducts": [
+    1403,
+    4099,
+    2637,
+    3433,
+    2662,
+    2475,
+    4082
+  ],
+  "productReviews": [
+    {
+      "productId": 3978,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-01-11T17:43:36.3185552+02:00"
+    },
+    {
+      "productId": 3447,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2020-01-12T21:06:22.6279993+02:00"
+    },
+    {
+      "productId": 2224,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-11-25T09:20:13.236675+02:00"
+    },
+    {
+      "productId": 2393,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-04-25T19:45:25.6882242+03:00"
+    },
+    {
+      "productId": 896,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-11-25T20:08:00.7448893+02:00"
+    }
+  ]
+}

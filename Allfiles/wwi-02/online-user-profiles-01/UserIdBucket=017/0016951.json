@@ -1,0 +1,28 @@
+{
+  "userId": 16951,
+  "cartId": "3b7115ca-5f59-4ad1-adbf-4cc31fa9b4e6",
+  "preferredProducts": [
+    442,
+    1862,
+    3179,
+    1452,
+    3220
+  ],
+  "productReviews": [
+    {
+      "productId": 334,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-05-04T10:53:44.3086851+03:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2020-04-08T11:04:58.8709965+03:00"
+    },
+    {
+      "productId": 3371,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-12-03T08:22:01.081733+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 2555,
+  "cartId": "f33dcff7-19a1-480a-ace3-470813b7897d",
+  "preferredProducts": [
+    446,
+    235,
+    4954,
+    254,
+    1974,
+    1605
+  ],
+  "productReviews": [
+    {
+      "productId": 2556,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-11-28T04:03:23.0225505+02:00"
+    },
+    {
+      "productId": 867,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-01-16T06:47:28.2102015+02:00"
+    },
+    {
+      "productId": 1050,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2016-09-27T04:27:18.5293614+03:00"
+    }
+  ]
+}

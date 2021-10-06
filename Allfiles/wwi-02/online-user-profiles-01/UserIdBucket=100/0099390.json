@@ -1,0 +1,25 @@
+{
+  "userId": 99390,
+  "cartId": "5e96bcaf-b633-40db-a631-f7af3a3b499a",
+  "preferredProducts": [
+    3485,
+    1821,
+    50,
+    2169,
+    2372,
+    982,
+    2118
+  ],
+  "productReviews": [
+    {
+      "productId": 3987,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-08-14T17:06:26.1630196+03:00"
+    },
+    {
+      "productId": 4117,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-05-15T22:25:29.9166556+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 43885,
+  "cartId": "1b54de1c-fe61-4dbb-bdae-470220041e9c",
+  "preferredProducts": [
+    1055,
+    3926,
+    1867,
+    4972,
+    4182,
+    1005
+  ],
+  "productReviews": [
+    {
+      "productId": 2600,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-05-31T10:13:54.456559+03:00"
+    },
+    {
+      "productId": 3551,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-03-19T22:58:39.1354892+02:00"
+    }
+  ]
+}

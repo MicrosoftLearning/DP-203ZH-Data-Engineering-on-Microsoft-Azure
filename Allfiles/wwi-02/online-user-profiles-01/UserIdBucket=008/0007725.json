@@ -1,0 +1,30 @@
+{
+  "userId": 7725,
+  "cartId": "9ef1e15a-310a-42c7-a2c3-b0761a220d2d",
+  "preferredProducts": [
+    1266,
+    2264,
+    2650,
+    3863,
+    3058,
+    3850,
+    344
+  ],
+  "productReviews": [
+    {
+      "productId": 4700,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-08-17T09:00:16.5134139+03:00"
+    },
+    {
+      "productId": 2480,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-05-09T01:57:54.1837962+03:00"
+    },
+    {
+      "productId": 476,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-10-02T02:55:19.7588763+03:00"
+    }
+  ]
+}

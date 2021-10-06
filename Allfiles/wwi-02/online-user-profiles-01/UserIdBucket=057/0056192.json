@@ -1,0 +1,30 @@
+{
+  "userId": 56192,
+  "cartId": "b600d27e-3b88-453d-9d4c-47e1fda43b31",
+  "preferredProducts": [
+    4870,
+    1496,
+    1229,
+    3518,
+    3348,
+    2741,
+    1025
+  ],
+  "productReviews": [
+    {
+      "productId": 84,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-07-08T16:38:30.7556974+03:00"
+    },
+    {
+      "productId": 448,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-17T02:55:36.4115503+02:00"
+    },
+    {
+      "productId": 3650,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-11-25T15:58:41.7866617+02:00"
+    }
+  ]
+}

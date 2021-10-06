@@ -1,0 +1,29 @@
+{
+  "userId": 12243,
+  "cartId": "1abc5f5b-37e0-4a97-ab3e-27e3deea3075",
+  "preferredProducts": [
+    3926,
+    4589,
+    2682,
+    2394,
+    1112,
+    415
+  ],
+  "productReviews": [
+    {
+      "productId": 4379,
+      "reviewText": "this global is whole-grain.",
+      "reviewDate": "2018-12-02T14:03:30.7759145+02:00"
+    },
+    {
+      "productId": 2443,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-06-14T09:53:39.8407324+03:00"
+    },
+    {
+      "productId": 3335,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-02-23T12:09:53.9548488+02:00"
+    }
+  ]
+}

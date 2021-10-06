@@ -1,0 +1,30 @@
+{
+  "userId": 90719,
+  "cartId": "bd30d747-b10a-40b9-8656-ca86ae909784",
+  "preferredProducts": [
+    2090,
+    1304,
+    1605,
+    2134,
+    2689,
+    4116,
+    1890
+  ],
+  "productReviews": [
+    {
+      "productId": 922,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-08-11T07:25:19.3675868+03:00"
+    },
+    {
+      "productId": 1274,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-02-26T13:29:57.0917504+02:00"
+    },
+    {
+      "productId": 276,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-07-30T19:46:06.8827225+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 93269,
+  "cartId": "ade79e00-9111-41f9-b9d9-cca8e6a78791",
+  "preferredProducts": [
+    2462,
+    1767,
+    1543,
+    2667,
+    3124,
+    1664,
+    4168,
+    2408,
+    4487
+  ],
+  "productReviews": [
+    {
+      "productId": 2674,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-04-17T09:53:18.0934989+03:00"
+    },
+    {
+      "productId": 2013,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-06-14T07:31:00.8349624+03:00"
+    },
+    {
+      "productId": 190,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-09-16T02:19:12.1551447+03:00"
+    },
+    {
+      "productId": 257,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-01-16T12:36:25.72114+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 33035,
+  "cartId": "24e4e774-4b9a-466b-b3c7-7111182d2f3d",
+  "preferredProducts": [
+    351,
+    1180,
+    2170,
+    3093,
+    3184,
+    213,
+    1838,
+    2400
+  ],
+  "productReviews": [
+    {
+      "productId": 1615,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-04-25T12:37:20.1538482+03:00"
+    },
+    {
+      "productId": 3430,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-07-20T06:45:27.9267811+03:00"
+    },
+    {
+      "productId": 3503,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-06-23T18:15:08.210907+03:00"
+    },
+    {
+      "productId": 352,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-12-24T17:51:40.3063348+02:00"
+    },
+    {
+      "productId": 2656,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-04-17T04:31:28.7036073+03:00"
+    }
+  ]
+}

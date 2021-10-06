@@ -1,0 +1,38 @@
+{
+  "userId": 40310,
+  "cartId": "c0725b2a-4fb0-4778-9388-dd858df56f55",
+  "preferredProducts": [
+    4529,
+    22,
+    1096,
+    4827,
+    283,
+    2040,
+    4113,
+    1045,
+    3482,
+    3743
+  ],
+  "productReviews": [
+    {
+      "productId": 2274,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-12-04T13:08:44.9388626+02:00"
+    },
+    {
+      "productId": 1879,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-12-18T14:23:30.9199773+02:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-03-01T15:35:36.0508187+02:00"
+    },
+    {
+      "productId": 1738,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-11-19T10:21:46.8631827+02:00"
+    }
+  ]
+}

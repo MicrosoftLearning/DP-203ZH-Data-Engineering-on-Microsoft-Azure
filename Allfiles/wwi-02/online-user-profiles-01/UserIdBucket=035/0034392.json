@@ -1,0 +1,31 @@
+{
+  "userId": 34392,
+  "cartId": "56d50bcf-3424-48f0-8118-45d09724d6ff",
+  "preferredProducts": [
+    1968,
+    2432,
+    626,
+    2641,
+    1101,
+    4195,
+    2384,
+    988
+  ],
+  "productReviews": [
+    {
+      "productId": 3639,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-10-15T19:30:04.7986066+03:00"
+    },
+    {
+      "productId": 2451,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-08-26T15:30:08.9812989+03:00"
+    },
+    {
+      "productId": 2194,
+      "reviewText": "This is a really good invoice.",
+      "reviewDate": "2020-01-20T20:18:50.9913979+02:00"
+    }
+  ]
+}

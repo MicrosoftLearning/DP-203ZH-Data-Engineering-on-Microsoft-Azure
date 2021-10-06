@@ -1,0 +1,28 @@
+{
+  "userId": 42494,
+  "cartId": "a5fbbcb3-da91-40d7-993f-3c578a1fb9cc",
+  "preferredProducts": [
+    3375,
+    3560,
+    3539,
+    2463,
+    1286
+  ],
+  "productReviews": [
+    {
+      "productId": 4801,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-03-22T10:53:56.260382+02:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-04-19T19:02:00.6905799+03:00"
+    },
+    {
+      "productId": 1840,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-03-18T09:16:07.5920844+02:00"
+    }
+  ]
+}

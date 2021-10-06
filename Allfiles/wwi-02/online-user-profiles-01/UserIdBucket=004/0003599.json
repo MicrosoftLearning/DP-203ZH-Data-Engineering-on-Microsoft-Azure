@@ -1,0 +1,25 @@
+{
+  "userId": 3599,
+  "cartId": "2fa346f8-7161-4cfa-8666-c4d97c385882",
+  "preferredProducts": [
+    725,
+    2233
+  ],
+  "productReviews": [
+    {
+      "productId": 2709,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-03-07T02:42:07.2411843+02:00"
+    },
+    {
+      "productId": 2099,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-17T17:37:45.5212526+02:00"
+    },
+    {
+      "productId": 3410,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-06-13T12:11:25.1817467+03:00"
+    }
+  ]
+}

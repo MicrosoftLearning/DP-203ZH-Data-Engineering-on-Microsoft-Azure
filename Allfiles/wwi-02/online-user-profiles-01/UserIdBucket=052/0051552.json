@@ -1,0 +1,27 @@
+{
+  "userId": 51552,
+  "cartId": "07dce02b-2704-4e05-83bb-33d52df1267a",
+  "preferredProducts": [
+    1704,
+    3341,
+    874,
+    2769
+  ],
+  "productReviews": [
+    {
+      "productId": 1680,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-11-23T03:23:35.8336067+02:00"
+    },
+    {
+      "productId": 3519,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-09-16T07:09:26.7539654+03:00"
+    },
+    {
+      "productId": 3510,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-06-20T12:02:29.097958+03:00"
+    }
+  ]
+}

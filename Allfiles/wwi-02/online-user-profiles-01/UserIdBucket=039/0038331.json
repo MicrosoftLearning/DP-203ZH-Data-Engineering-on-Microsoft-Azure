@@ -1,0 +1,33 @@
+{
+  "userId": 38331,
+  "cartId": "5285361d-fc40-443c-9354-eff559d7da48",
+  "preferredProducts": [
+    494,
+    1301,
+    4681,
+    1557,
+    4428,
+    1633,
+    4783,
+    2988,
+    3017,
+    2247
+  ],
+  "productReviews": [
+    {
+      "productId": 2250,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-04-17T22:46:55.5241887+03:00"
+    },
+    {
+      "productId": 4675,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-05-26T08:36:46.2321513+03:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "this olive is ratty.",
+      "reviewDate": "2018-07-10T08:32:01.9801463+03:00"
+    }
+  ]
+}

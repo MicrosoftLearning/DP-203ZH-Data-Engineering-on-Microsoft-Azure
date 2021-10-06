@@ -1,0 +1,28 @@
+{
+  "userId": 19870,
+  "cartId": "f1c57863-8222-44b4-bdfd-398a5953b1bf",
+  "preferredProducts": [
+    3746,
+    13,
+    1971,
+    2247,
+    892
+  ],
+  "productReviews": [
+    {
+      "productId": 4603,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-02-24T02:42:20.5723031+02:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-04-02T07:01:40.6858839+03:00"
+    },
+    {
+      "productId": 2309,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-10-13T11:06:09.8377139+03:00"
+    }
+  ]
+}

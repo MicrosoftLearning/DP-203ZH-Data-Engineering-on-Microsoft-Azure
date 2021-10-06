@@ -1,0 +1,32 @@
+{
+  "userId": 2258,
+  "cartId": "ba5f8385-be82-43df-9b0c-9d6fd3727e2b",
+  "preferredProducts": [
+    516,
+    2713,
+    3943,
+    2249,
+    1581,
+    2470,
+    1578,
+    1169,
+    3257
+  ],
+  "productReviews": [
+    {
+      "productId": 531,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-11-21T00:11:50.6524645+02:00"
+    },
+    {
+      "productId": 3214,
+      "reviewText": "This bifurcated works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2019-12-11T00:51:06.2924853+02:00"
+    },
+    {
+      "productId": 1723,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-10-15T07:24:44.8446586+03:00"
+    }
+  ]
+}

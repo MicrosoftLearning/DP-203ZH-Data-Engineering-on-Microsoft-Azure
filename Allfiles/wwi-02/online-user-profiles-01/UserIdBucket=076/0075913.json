@@ -1,0 +1,32 @@
+{
+  "userId": 75913,
+  "cartId": "9b3ebdd3-4047-4b5b-ae55-3d07fca089ae",
+  "preferredProducts": [
+    1411,
+    898,
+    2228,
+    2281
+  ],
+  "productReviews": [
+    {
+      "productId": 3836,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-09-03T17:29:43.5585221+03:00"
+    },
+    {
+      "productId": 920,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-11-14T00:06:01.3034476+02:00"
+    },
+    {
+      "productId": 716,
+      "reviewText": "This XSS works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2018-08-10T12:14:33.9770652+03:00"
+    },
+    {
+      "productId": 2795,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-10-05T09:06:38.3001431+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 89488,
+  "cartId": "b9bac2f5-b5f4-437f-a157-f41acc367073",
+  "preferredProducts": [
+    492,
+    4301,
+    201,
+    4058
+  ],
+  "productReviews": [
+    {
+      "productId": 3624,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-07-12T22:27:56.7380851+03:00"
+    },
+    {
+      "productId": 4794,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-01-02T12:04:48.9775633+02:00"
+    },
+    {
+      "productId": 749,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-12-08T19:22:06.9872228+02:00"
+    }
+  ]
+}

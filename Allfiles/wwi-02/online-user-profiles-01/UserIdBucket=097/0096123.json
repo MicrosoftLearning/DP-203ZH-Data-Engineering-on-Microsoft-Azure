@@ -1,0 +1,36 @@
+{
+  "userId": 96123,
+  "cartId": "2311836a-d75d-4567-9635-7f2d5fa2cda4",
+  "preferredProducts": [
+    25,
+    67,
+    3424,
+    3118,
+    1512,
+    822,
+    3532,
+    1460
+  ],
+  "productReviews": [
+    {
+      "productId": 1941,
+      "reviewText": "this Awesome Granite Chair is dominant.",
+      "reviewDate": "2019-08-10T12:54:16.4910071+03:00"
+    },
+    {
+      "productId": 2499,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-07-14T21:33:49.8535072+03:00"
+    },
+    {
+      "productId": 41,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-12-28T18:36:47.2217652+02:00"
+    },
+    {
+      "productId": 3570,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-07-03T03:36:56.9253714+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 10803,
+  "cartId": "9acacd38-539a-41ba-b5ed-b9b33649c513",
+  "preferredProducts": [
+    3792,
+    4772,
+    4599
+  ],
+  "productReviews": [
+    {
+      "productId": 3688,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-12-17T09:09:29.8488113+02:00"
+    },
+    {
+      "productId": 4625,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-09-01T08:24:00.9572547+03:00"
+    },
+    {
+      "productId": 4681,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This deposit keeps them away.",
+      "reviewDate": "2019-08-15T04:37:04.0538903+03:00"
+    },
+    {
+      "productId": 1171,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-06-15T15:35:39.2171694+03:00"
+    }
+  ]
+}

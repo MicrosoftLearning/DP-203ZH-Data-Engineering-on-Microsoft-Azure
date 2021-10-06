@@ -1,0 +1,27 @@
+{
+  "userId": 1177,
+  "cartId": "13b2adb7-ead4-4320-9e98-086b38183975",
+  "preferredProducts": [
+    755,
+    230,
+    2639,
+    3374,
+    2889,
+    1953,
+    3800,
+    617,
+    2006
+  ],
+  "productReviews": [
+    {
+      "productId": 2352,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-01-25T13:46:44.4452053+02:00"
+    },
+    {
+      "productId": 1527,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-08-17T14:48:23.8773747+03:00"
+    }
+  ]
+}

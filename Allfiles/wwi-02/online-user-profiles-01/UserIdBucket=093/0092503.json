@@ -1,0 +1,39 @@
+{
+  "userId": 92503,
+  "cartId": "bd065713-d566-47b9-bf7a-115ba83a2525",
+  "preferredProducts": [
+    685,
+    2891,
+    987,
+    490,
+    415,
+    2078
+  ],
+  "productReviews": [
+    {
+      "productId": 4740,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-01-23T19:03:12.5578669+02:00"
+    },
+    {
+      "productId": 1733,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-05-22T01:21:05.8697075+03:00"
+    },
+    {
+      "productId": 711,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-08-22T20:34:02.0093969+03:00"
+    },
+    {
+      "productId": 4595,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-01-05T10:17:10.4681915+02:00"
+    },
+    {
+      "productId": 860,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-03-18T14:02:03.343314+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 35073,
+  "cartId": "f63828ed-0a46-4fde-a67b-836ba51d688e",
+  "preferredProducts": [
+    4678,
+    2647,
+    290,
+    2947,
+    4197,
+    1535,
+    4186
+  ],
+  "productReviews": [
+    {
+      "productId": 2482,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-06-05T08:09:22.1187523+03:00"
+    },
+    {
+      "productId": 1488,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-09-24T10:05:28.6292001+03:00"
+    },
+    {
+      "productId": 3801,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-05-17T10:47:49.4214598+03:00"
+    },
+    {
+      "productId": 3651,
+      "reviewText": "this card is honest.",
+      "reviewDate": "2018-02-08T15:02:43.0157239+02:00"
+    }
+  ]
+}

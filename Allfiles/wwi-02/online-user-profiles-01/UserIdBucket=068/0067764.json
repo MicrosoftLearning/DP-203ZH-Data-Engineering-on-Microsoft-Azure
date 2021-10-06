@@ -1,0 +1,33 @@
+{
+  "userId": 67764,
+  "cartId": "fe5f33c1-0a1c-41cc-92f7-2d98d6d6fe21",
+  "preferredProducts": [
+    3484,
+    4065,
+    1422,
+    948,
+    1197
+  ],
+  "productReviews": [
+    {
+      "productId": 2457,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-11-03T11:00:55.1320662+02:00"
+    },
+    {
+      "productId": 4417,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-07-04T10:50:52.3139431+03:00"
+    },
+    {
+      "productId": 3135,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-11-17T05:53:24.9989989+02:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-07-24T20:03:55.0286546+03:00"
+    }
+  ]
+}

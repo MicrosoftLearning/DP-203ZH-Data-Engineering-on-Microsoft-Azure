@@ -1,0 +1,24 @@
+{
+  "userId": 22605,
+  "cartId": "4379351e-9391-4229-8f40-2421a720d649",
+  "preferredProducts": [
+    3891
+  ],
+  "productReviews": [
+    {
+      "productId": 3246,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-12-02T11:09:09.0333877+02:00"
+    },
+    {
+      "productId": 3664,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-03-01T01:23:45.5508712+02:00"
+    },
+    {
+      "productId": 1059,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-01-03T10:49:03.5990632+02:00"
+    }
+  ]
+}

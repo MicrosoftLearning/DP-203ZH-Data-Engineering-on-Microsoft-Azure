@@ -1,0 +1,23 @@
+{
+  "userId": 5256,
+  "cartId": "5ea98900-058a-4e87-956a-3b8e993ffeb2",
+  "preferredProducts": [
+    3631,
+    2500,
+    4506,
+    2106,
+    238
+  ],
+  "productReviews": [
+    {
+      "productId": 3382,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-04-24T19:13:01.2770538+03:00"
+    },
+    {
+      "productId": 2707,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-02-28T10:38:21.0182349+02:00"
+    }
+  ]
+}

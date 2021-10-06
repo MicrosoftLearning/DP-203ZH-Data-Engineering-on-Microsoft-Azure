@@ -1,0 +1,43 @@
+{
+  "userId": 17883,
+  "cartId": "348f07b1-7cd2-47f9-bdec-9fb3a386fc80",
+  "preferredProducts": [
+    524,
+    857,
+    3691,
+    3104,
+    1322,
+    3419,
+    4448,
+    1192,
+    3901,
+    638
+  ],
+  "productReviews": [
+    {
+      "productId": 1531,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-09-21T22:34:39.6472041+03:00"
+    },
+    {
+      "productId": 3032,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-10-06T12:34:17.3181486+03:00"
+    },
+    {
+      "productId": 1756,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-08-30T12:35:16.5072911+03:00"
+    },
+    {
+      "productId": 1007,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-12-18T04:04:44.5018352+02:00"
+    },
+    {
+      "productId": 1141,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-04-13T10:39:45.9980345+03:00"
+    }
+  ]
+}

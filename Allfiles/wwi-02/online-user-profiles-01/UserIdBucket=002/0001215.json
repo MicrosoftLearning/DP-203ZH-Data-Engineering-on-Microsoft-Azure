@@ -1,0 +1,33 @@
+{
+  "userId": 1215,
+  "cartId": "7de873df-7f60-4ac5-b78c-71a3792e7218",
+  "preferredProducts": [
+    3828,
+    4243,
+    3153,
+    4920,
+    3325,
+    2644,
+    2498,
+    3940,
+    1006,
+    4220
+  ],
+  "productReviews": [
+    {
+      "productId": 4960,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-05-27T20:11:49.3096624+03:00"
+    },
+    {
+      "productId": 2490,
+      "reviewText": "this Analyst is standard.",
+      "reviewDate": "2017-05-31T11:15:57.4071604+03:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-04-05T20:52:59.7007786+03:00"
+    }
+  ]
+}

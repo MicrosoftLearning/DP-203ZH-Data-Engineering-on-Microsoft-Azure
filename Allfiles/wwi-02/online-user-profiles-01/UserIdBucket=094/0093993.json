@@ -1,0 +1,33 @@
+{
+  "userId": 93993,
+  "cartId": "d86a64a1-afb3-4b9f-b48e-f6daaaee46f0",
+  "preferredProducts": [
+    2419,
+    79,
+    2633,
+    1866,
+    4482,
+    1240,
+    988,
+    3526,
+    4175,
+    1558
+  ],
+  "productReviews": [
+    {
+      "productId": 2237,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-10-26T09:22:36.2519348+03:00"
+    },
+    {
+      "productId": 1483,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-09-03T16:30:31.6836081+03:00"
+    },
+    {
+      "productId": 4904,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-04-08T05:55:42.2638804+03:00"
+    }
+  ]
+}

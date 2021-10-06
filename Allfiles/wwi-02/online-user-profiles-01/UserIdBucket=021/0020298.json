@@ -1,0 +1,23 @@
+{
+  "userId": 20298,
+  "cartId": "5100a776-8015-4a0a-9c80-595699a02e45",
+  "preferredProducts": [
+    2423,
+    3626,
+    4344,
+    3754,
+    3963
+  ],
+  "productReviews": [
+    {
+      "productId": 2390,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-08T09:22:23.5424445+02:00"
+    },
+    {
+      "productId": 3776,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-06-19T04:22:22.4948153+03:00"
+    }
+  ]
+}

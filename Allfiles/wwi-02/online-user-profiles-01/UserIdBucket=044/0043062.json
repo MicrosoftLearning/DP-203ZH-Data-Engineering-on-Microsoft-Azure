@@ -1,0 +1,30 @@
+{
+  "userId": 43062,
+  "cartId": "ae44bf47-2ec2-4b49-85ec-e25067a01595",
+  "preferredProducts": [
+    1523,
+    1742,
+    4795,
+    4447,
+    2714,
+    2013,
+    2054
+  ],
+  "productReviews": [
+    {
+      "productId": 2609,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-05-23T06:32:11.0185893+03:00"
+    },
+    {
+      "productId": 4820,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-12-15T08:46:21.9641539+02:00"
+    },
+    {
+      "productId": 1168,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-01-21T12:11:36.7026391+02:00"
+    }
+  ]
+}

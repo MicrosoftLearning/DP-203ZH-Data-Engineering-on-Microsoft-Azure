@@ -1,0 +1,22 @@
+{
+  "userId": 95300,
+  "cartId": "527d5bcd-ac59-4aad-b5c8-af4b15c3faee",
+  "preferredProducts": [
+    4711,
+    4327,
+    2215,
+    2211
+  ],
+  "productReviews": [
+    {
+      "productId": 2856,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-05-02T13:27:30.2625887+03:00"
+    },
+    {
+      "productId": 4694,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-12-11T05:43:05.0267292+02:00"
+    }
+  ]
+}

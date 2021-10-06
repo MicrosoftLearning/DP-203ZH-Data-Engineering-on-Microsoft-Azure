@@ -1,0 +1,37 @@
+{
+  "userId": 11463,
+  "cartId": "ac67b756-64bf-4e14-916c-5f6981e101ac",
+  "preferredProducts": [
+    4301,
+    3181,
+    1154,
+    4023,
+    1694,
+    1684,
+    1271,
+    1756,
+    1165
+  ],
+  "productReviews": [
+    {
+      "productId": 1055,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-08-30T12:05:09.6037666+03:00"
+    },
+    {
+      "productId": 1745,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-07-25T23:23:54.8013245+03:00"
+    },
+    {
+      "productId": 3465,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-03-14T06:44:24.184101+02:00"
+    },
+    {
+      "productId": 563,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2020-03-19T03:28:54.5152939+02:00"
+    }
+  ]
+}

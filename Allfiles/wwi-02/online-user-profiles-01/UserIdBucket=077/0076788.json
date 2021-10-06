@@ -1,0 +1,23 @@
+{
+  "userId": 76788,
+  "cartId": "fc052608-fa89-4f0e-939c-6ced466bd082",
+  "preferredProducts": [
+    2212,
+    4479,
+    2952,
+    4744,
+    2077
+  ],
+  "productReviews": [
+    {
+      "productId": 1016,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-07-12T07:19:15.5577545+03:00"
+    },
+    {
+      "productId": 4397,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-07-09T08:10:14.4835221+03:00"
+    }
+  ]
+}

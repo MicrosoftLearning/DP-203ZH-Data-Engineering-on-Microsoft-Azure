@@ -1,0 +1,35 @@
+{
+  "userId": 96513,
+  "cartId": "678256cd-834e-4789-8986-119595da314d",
+  "preferredProducts": [
+    502,
+    3371,
+    3747,
+    3032,
+    4433,
+    2389,
+    1384
+  ],
+  "productReviews": [
+    {
+      "productId": 646,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-12-04T08:18:27.1497614+02:00"
+    },
+    {
+      "productId": 4459,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-03-19T20:53:21.5766129+02:00"
+    },
+    {
+      "productId": 3621,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-01-04T12:39:46.0394317+02:00"
+    },
+    {
+      "productId": 4791,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-01-25T03:53:01.7542811+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 78493,
+  "cartId": "82a910a7-ab6e-469f-b655-c06277985630",
+  "preferredProducts": [
+    1441,
+    442,
+    2301,
+    2747,
+    4413,
+    2123,
+    3355
+  ],
+  "productReviews": [
+    {
+      "productId": 3348,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-04-04T03:23:42.8005674+03:00"
+    },
+    {
+      "productId": 727,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-08-11T00:47:00.1676047+03:00"
+    },
+    {
+      "productId": 899,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-10-21T15:09:03.3316219+03:00"
+    }
+  ]
+}

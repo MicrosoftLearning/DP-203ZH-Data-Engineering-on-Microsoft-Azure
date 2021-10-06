@@ -1,0 +1,37 @@
+{
+  "userId": 95499,
+  "cartId": "52cad02e-b2e6-41ee-ade4-3ce61e5f6265",
+  "preferredProducts": [
+    4896,
+    3778,
+    3040,
+    3469,
+    4034,
+    3404,
+    2153,
+    1242,
+    1987
+  ],
+  "productReviews": [
+    {
+      "productId": 4541,
+      "reviewText": "this River is mellow.",
+      "reviewDate": "2017-04-13T22:45:47.6556851+03:00"
+    },
+    {
+      "productId": 2509,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-10-26T17:00:34.1777308+03:00"
+    },
+    {
+      "productId": 2477,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2016-11-13T11:30:20.9932194+02:00"
+    },
+    {
+      "productId": 181,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-08-03T22:46:59.3981435+03:00"
+    }
+  ]
+}

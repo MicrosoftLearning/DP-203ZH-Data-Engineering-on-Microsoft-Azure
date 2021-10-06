@@ -1,0 +1,37 @@
+{
+  "userId": 52809,
+  "cartId": "f67725bc-f11a-463a-96db-86be2839c493",
+  "preferredProducts": [
+    2584,
+    3298,
+    3330,
+    4681
+  ],
+  "productReviews": [
+    {
+      "productId": 2191,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-04-30T10:53:29.0320203+03:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-05-14T16:44:43.0409378+03:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-12-03T04:25:43.3400953+02:00"
+    },
+    {
+      "productId": 1892,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-07-21T22:35:01.7669141+03:00"
+    },
+    {
+      "productId": 2183,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-06-15T07:35:36.4508722+03:00"
+    }
+  ]
+}

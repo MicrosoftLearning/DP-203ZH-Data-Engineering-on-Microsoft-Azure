@@ -1,0 +1,30 @@
+{
+  "userId": 4553,
+  "cartId": "932b185c-0390-45f0-b3ef-476a133752e9",
+  "preferredProducts": [
+    2900,
+    1290
+  ],
+  "productReviews": [
+    {
+      "productId": 409,
+      "reviewText": "this Cotton is honest.",
+      "reviewDate": "2017-05-30T03:45:33.7399886+03:00"
+    },
+    {
+      "productId": 3457,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-10-16T14:42:02.2183485+03:00"
+    },
+    {
+      "productId": 3243,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-10-29T11:24:05.1145531+02:00"
+    },
+    {
+      "productId": 4350,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-04-05T11:07:28.3818114+03:00"
+    }
+  ]
+}

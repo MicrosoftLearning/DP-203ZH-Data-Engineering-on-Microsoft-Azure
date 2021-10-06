@@ -1,0 +1,32 @@
+{
+  "userId": 10692,
+  "cartId": "ab2d87f7-4d46-4555-82ca-7288136cf003",
+  "preferredProducts": [
+    481,
+    3567,
+    1929,
+    4768,
+    1452,
+    3055,
+    2995,
+    3658,
+    4433
+  ],
+  "productReviews": [
+    {
+      "productId": 4642,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-03-14T13:06:20.6509754+02:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-03-22T15:40:13.7572569+02:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-12-01T12:04:47.6357759+02:00"
+    }
+  ]
+}

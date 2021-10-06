@@ -1,0 +1,29 @@
+{
+  "userId": 39209,
+  "cartId": "1ad2acfb-39b8-4cbf-8506-b5be056bbde4",
+  "preferredProducts": [
+    3747,
+    176,
+    3870,
+    3333,
+    3138,
+    4905
+  ],
+  "productReviews": [
+    {
+      "productId": 1440,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-05-20T17:50:56.0894183+03:00"
+    },
+    {
+      "productId": 2780,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-06-27T19:38:51.8508866+03:00"
+    },
+    {
+      "productId": 1872,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-02-28T15:42:22.9374605+02:00"
+    }
+  ]
+}

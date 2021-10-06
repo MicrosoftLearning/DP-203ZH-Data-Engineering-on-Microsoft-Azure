@@ -1,0 +1,32 @@
+{
+  "userId": 27678,
+  "cartId": "ee80d336-37bd-4760-8744-d95b12a46135",
+  "preferredProducts": [
+    1284,
+    4304,
+    4753,
+    813
+  ],
+  "productReviews": [
+    {
+      "productId": 1070,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-08-13T11:17:08.5093522+03:00"
+    },
+    {
+      "productId": 2977,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-10-31T08:58:14.6448444+02:00"
+    },
+    {
+      "productId": 2342,
+      "reviewText": "this FTP is brown.",
+      "reviewDate": "2019-01-13T17:56:34.8364322+02:00"
+    },
+    {
+      "productId": 1867,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-07-05T05:13:36.1700947+03:00"
+    }
+  ]
+}

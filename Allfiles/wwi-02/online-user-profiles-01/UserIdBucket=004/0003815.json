@@ -1,0 +1,30 @@
+{
+  "userId": 3815,
+  "cartId": "fa485fd5-cfa1-494c-8325-d7c765d3fac1",
+  "preferredProducts": [
+    1936,
+    3511,
+    2310,
+    3357,
+    3204,
+    2034,
+    1429
+  ],
+  "productReviews": [
+    {
+      "productId": 177,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-05-26T08:12:53.8553352+03:00"
+    },
+    {
+      "productId": 367,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-06-03T07:28:14.2266745+03:00"
+    },
+    {
+      "productId": 516,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-09-19T03:50:15.0297414+03:00"
+    }
+  ]
+}

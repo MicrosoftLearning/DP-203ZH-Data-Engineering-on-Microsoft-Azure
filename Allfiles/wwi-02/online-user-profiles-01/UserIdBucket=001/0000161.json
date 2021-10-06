@@ -1,0 +1,30 @@
+{
+  "userId": 161,
+  "cartId": "40b0cc61-9040-48f1-a87f-82565bd23957",
+  "preferredProducts": [
+    2812,
+    4936,
+    2800,
+    1142,
+    3547,
+    3548,
+    505
+  ],
+  "productReviews": [
+    {
+      "productId": 2066,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-06-27T02:01:27.3412343+03:00"
+    },
+    {
+      "productId": 4066,
+      "reviewText": "this Senior is mellow.",
+      "reviewDate": "2019-02-25T19:13:04.5244678+02:00"
+    },
+    {
+      "productId": 2294,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-07-26T10:23:34.285072+03:00"
+    }
+  ]
+}

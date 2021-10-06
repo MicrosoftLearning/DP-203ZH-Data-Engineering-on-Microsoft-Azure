@@ -1,0 +1,23 @@
+{
+  "userId": 64570,
+  "cartId": "2eacf532-2b11-4944-af6e-acf3ca0d8d13",
+  "preferredProducts": [
+    757,
+    4727,
+    123,
+    2780,
+    3181
+  ],
+  "productReviews": [
+    {
+      "productId": 4127,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-11-26T18:52:08.36119+02:00"
+    },
+    {
+      "productId": 1111,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-07-11T09:47:29.2355198+03:00"
+    }
+  ]
+}

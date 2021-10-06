@@ -1,0 +1,31 @@
+{
+  "userId": 71100,
+  "cartId": "dedfbb7f-c6d9-4c03-9ed6-b8ccf7db8042",
+  "preferredProducts": [
+    1666,
+    678,
+    2121
+  ],
+  "productReviews": [
+    {
+      "productId": 1367,
+      "reviewText": "this magenta is top-notch.",
+      "reviewDate": "2017-01-16T07:39:26.0671367+02:00"
+    },
+    {
+      "productId": 1786,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-09-15T07:49:26.7597271+03:00"
+    },
+    {
+      "productId": 3071,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-02-23T14:09:23.6495683+02:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-11-06T22:14:02.5699527+02:00"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "userId": 33567,
+  "cartId": "9a8a8f2a-48c9-4cb9-bc9e-5f694fe96484",
+  "preferredProducts": [
+    2730,
+    3413,
+    179,
+    3532
+  ],
+  "productReviews": [
+    {
+      "productId": 2060,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-03-02T01:18:52.3447004+02:00"
+    },
+    {
+      "productId": 4832,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-05-25T13:54:44.6036246+03:00"
+    }
+  ]
+}

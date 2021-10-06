@@ -1,0 +1,32 @@
+{
+  "userId": 56924,
+  "cartId": "c1f6dd68-91b8-4775-b64b-1d905502dd7c",
+  "preferredProducts": [
+    3942,
+    2167,
+    3537,
+    2417,
+    655,
+    247,
+    138,
+    3312,
+    330
+  ],
+  "productReviews": [
+    {
+      "productId": 2219,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-03-15T15:16:42.7874495+02:00"
+    },
+    {
+      "productId": 657,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-10-11T15:50:50.7165281+03:00"
+    },
+    {
+      "productId": 4479,
+      "reviewText": "this revolutionary is top-notch.",
+      "reviewDate": "2017-08-20T19:30:16.8275438+03:00"
+    }
+  ]
+}

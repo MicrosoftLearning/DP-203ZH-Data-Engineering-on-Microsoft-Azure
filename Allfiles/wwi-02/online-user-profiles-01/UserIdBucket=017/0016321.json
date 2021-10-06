@@ -1,0 +1,36 @@
+{
+  "userId": 16321,
+  "cartId": "541aaea2-4cef-450e-ba4f-ed13d0fcf37b",
+  "preferredProducts": [
+    1165,
+    480,
+    622,
+    565,
+    1541,
+    1809,
+    1545,
+    4511
+  ],
+  "productReviews": [
+    {
+      "productId": 4870,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-05-11T10:15:24.4434062+03:00"
+    },
+    {
+      "productId": 82,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-21T01:18:53.1590665+02:00"
+    },
+    {
+      "productId": 4089,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-10-31T10:22:53.9271219+02:00"
+    },
+    {
+      "productId": 3100,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-11-02T13:21:08.6163351+02:00"
+    }
+  ]
+}

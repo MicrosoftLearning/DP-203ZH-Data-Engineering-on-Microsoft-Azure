@@ -1,0 +1,38 @@
+{
+  "userId": 23614,
+  "cartId": "d59dce34-7612-4e13-97fb-ef3040b70f37",
+  "preferredProducts": [
+    3686,
+    2181,
+    4387,
+    4428,
+    4991,
+    2643,
+    1566,
+    3554,
+    2514,
+    3560
+  ],
+  "productReviews": [
+    {
+      "productId": 3345,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-10-15T04:14:02.6720226+03:00"
+    },
+    {
+      "productId": 3159,
+      "reviewText": "this web services is smooth.",
+      "reviewDate": "2020-02-11T21:55:52.3903112+02:00"
+    },
+    {
+      "productId": 3934,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-10-18T22:53:04.3553699+03:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-07-04T09:10:28.3221139+03:00"
+    }
+  ]
+}

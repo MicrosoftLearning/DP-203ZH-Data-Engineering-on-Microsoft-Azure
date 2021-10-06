@@ -1,0 +1,28 @@
+{
+  "userId": 40810,
+  "cartId": "01fca74a-44af-4255-b483-513b65101147",
+  "preferredProducts": [
+    1096,
+    3430,
+    16,
+    3055,
+    622
+  ],
+  "productReviews": [
+    {
+      "productId": 1678,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-02-22T18:04:07.5922976+02:00"
+    },
+    {
+      "productId": 706,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-08-15T00:18:08.7408458+03:00"
+    },
+    {
+      "productId": 1971,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-01-26T21:16:44.7695031+02:00"
+    }
+  ]
+}

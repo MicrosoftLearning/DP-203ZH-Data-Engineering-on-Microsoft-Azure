@@ -1,0 +1,32 @@
+{
+  "userId": 22249,
+  "cartId": "b22946a0-bb1b-4dc1-8578-5aa689b22f0c",
+  "preferredProducts": [
+    1306,
+    3779,
+    2158,
+    4455
+  ],
+  "productReviews": [
+    {
+      "productId": 4150,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-08-22T08:14:46.5272941+03:00"
+    },
+    {
+      "productId": 1294,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2020-03-22T23:56:59.5361553+02:00"
+    },
+    {
+      "productId": 1199,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-10-22T14:00:11.1770815+03:00"
+    },
+    {
+      "productId": 4645,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-07-22T03:10:41.944649+03:00"
+    }
+  ]
+}

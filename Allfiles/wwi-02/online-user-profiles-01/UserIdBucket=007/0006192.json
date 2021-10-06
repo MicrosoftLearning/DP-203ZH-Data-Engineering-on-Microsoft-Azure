@@ -1,0 +1,32 @@
+{
+  "userId": 6192,
+  "cartId": "0ef26771-2ab2-4787-883a-f40ef8a0af16",
+  "preferredProducts": [
+    2864,
+    2283,
+    3749,
+    4659
+  ],
+  "productReviews": [
+    {
+      "productId": 177,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-06-26T19:13:45.7691124+03:00"
+    },
+    {
+      "productId": 2480,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-06-19T15:05:22.2047713+03:00"
+    },
+    {
+      "productId": 2719,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-04-05T18:01:49.9276793+03:00"
+    },
+    {
+      "productId": 1623,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-07-22T09:57:34.5671889+03:00"
+    }
+  ]
+}

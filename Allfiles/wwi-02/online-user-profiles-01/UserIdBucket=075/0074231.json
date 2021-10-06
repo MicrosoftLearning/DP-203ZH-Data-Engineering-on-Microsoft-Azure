@@ -1,0 +1,38 @@
+{
+  "userId": 74231,
+  "cartId": "1893648e-1b95-4d53-8d08-670e5ebb2027",
+  "preferredProducts": [
+    2222,
+    2644,
+    1909,
+    1494,
+    2785,
+    4953,
+    2374,
+    2964,
+    459,
+    4143
+  ],
+  "productReviews": [
+    {
+      "productId": 1539,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-12-31T05:13:53.2685251+02:00"
+    },
+    {
+      "productId": 550,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-09-04T22:05:41.5261656+03:00"
+    },
+    {
+      "productId": 2650,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-12-01T16:16:35.63811+02:00"
+    },
+    {
+      "productId": 734,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-12-29T23:49:45.4425308+02:00"
+    }
+  ]
+}

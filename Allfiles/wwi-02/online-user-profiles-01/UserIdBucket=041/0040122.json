@@ -1,0 +1,27 @@
+{
+  "userId": 40122,
+  "cartId": "3b91b735-56f1-4853-ade0-68130554db71",
+  "preferredProducts": [
+    538,
+    3307,
+    1971,
+    4606
+  ],
+  "productReviews": [
+    {
+      "productId": 2809,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-02-24T11:27:53.8660704+02:00"
+    },
+    {
+      "productId": 708,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-08-04T02:38:58.3639705+03:00"
+    },
+    {
+      "productId": 3400,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-09-16T13:51:17.7172696+03:00"
+    }
+  ]
+}

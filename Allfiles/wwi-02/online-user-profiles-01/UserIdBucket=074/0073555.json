@@ -1,0 +1,35 @@
+{
+  "userId": 73555,
+  "cartId": "d444e019-c2cd-4b40-b3de-e5c538d67feb",
+  "preferredProducts": [
+    142,
+    2117,
+    2371,
+    1362,
+    1024,
+    3467,
+    4159
+  ],
+  "productReviews": [
+    {
+      "productId": 3213,
+      "reviewText": "this 24/365 is snowy.",
+      "reviewDate": "2017-03-11T06:57:07.7414954+02:00"
+    },
+    {
+      "productId": 3961,
+      "reviewText": "this South Africa is amiable.",
+      "reviewDate": "2016-12-22T04:21:03.19185+02:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-04-16T16:12:09.6156083+03:00"
+    },
+    {
+      "productId": 2077,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-02-13T02:20:56.53177+02:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 65531,
+  "cartId": "e8824ae6-ceab-41e2-b874-c16b9684bc9a",
+  "preferredProducts": [
+    3695,
+    4078,
+    2957,
+    4770,
+    304,
+    2724,
+    689,
+    4381,
+    2005
+  ],
+  "productReviews": [
+    {
+      "productId": 193,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-11-28T12:44:47.6257121+02:00"
+    },
+    {
+      "productId": 2583,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-01-29T08:11:42.1523402+02:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "this Solutions is tasty.",
+      "reviewDate": "2017-06-06T18:45:14.0972593+03:00"
+    },
+    {
+      "productId": 194,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-07-03T20:59:58.9951972+03:00"
+    },
+    {
+      "productId": 1172,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-05-25T10:17:12.9424588+03:00"
+    }
+  ]
+}

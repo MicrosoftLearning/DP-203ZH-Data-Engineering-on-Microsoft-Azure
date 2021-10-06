@@ -1,0 +1,30 @@
+{
+  "userId": 18128,
+  "cartId": "b4c6c528-31b6-4c52-b087-9d88f677e90c",
+  "preferredProducts": [
+    2378,
+    4394,
+    3145,
+    4798,
+    4278,
+    1665,
+    342
+  ],
+  "productReviews": [
+    {
+      "productId": 3706,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2020-05-09T03:27:04.3831382+03:00"
+    },
+    {
+      "productId": 2019,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-11-08T21:47:05.8953094+02:00"
+    },
+    {
+      "productId": 4165,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-05-21T18:54:08.2174992+03:00"
+    }
+  ]
+}

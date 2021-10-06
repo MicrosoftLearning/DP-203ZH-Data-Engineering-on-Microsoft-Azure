@@ -1,0 +1,39 @@
+{
+  "userId": 50091,
+  "cartId": "1f5a85e1-5d6c-4ba4-849f-80fe17b4dea4",
+  "preferredProducts": [
+    274,
+    230,
+    2196,
+    3162,
+    1419,
+    2815
+  ],
+  "productReviews": [
+    {
+      "productId": 4722,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-05-01T05:30:34.7512301+03:00"
+    },
+    {
+      "productId": 2177,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-08-01T16:31:20.3989388+03:00"
+    },
+    {
+      "productId": 4505,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-03-11T20:31:22.7931288+02:00"
+    },
+    {
+      "productId": 4779,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-08-05T10:22:35.255495+03:00"
+    },
+    {
+      "productId": 1061,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-05-04T11:32:44.2393492+03:00"
+    }
+  ]
+}

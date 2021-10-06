@@ -1,0 +1,29 @@
+{
+  "userId": 15872,
+  "cartId": "1e249bab-48e5-4458-b5f1-0af0e09ba697",
+  "preferredProducts": [
+    260,
+    2873,
+    2151,
+    443,
+    3755,
+    2077
+  ],
+  "productReviews": [
+    {
+      "productId": 3304,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-10-19T05:58:21.6549118+03:00"
+    },
+    {
+      "productId": 274,
+      "reviewText": "this SQL is top-notch.",
+      "reviewDate": "2016-12-23T11:00:46.4145577+02:00"
+    },
+    {
+      "productId": 451,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-02-23T12:24:41.7125038+02:00"
+    }
+  ]
+}

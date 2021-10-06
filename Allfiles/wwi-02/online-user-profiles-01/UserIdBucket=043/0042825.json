@@ -1,0 +1,25 @@
+{
+  "userId": 42825,
+  "cartId": "495455e5-d55f-42ae-bcb2-fc02a8a21eb4",
+  "preferredProducts": [
+    4315,
+    3227,
+    488,
+    4021,
+    1646,
+    1626,
+    2303
+  ],
+  "productReviews": [
+    {
+      "productId": 2701,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-09-04T18:33:49.9450319+03:00"
+    },
+    {
+      "productId": 4151,
+      "reviewText": "This system works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2020-02-04T01:22:59.0170064+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 30728,
+  "cartId": "3cdff286-8d77-4ffe-ad0c-65ae7e60895d",
+  "preferredProducts": [
+    1950,
+    2811,
+    4850,
+    50,
+    1572
+  ],
+  "productReviews": [
+    {
+      "productId": 139,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-10-25T19:53:10.9933654+03:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-11-17T11:46:53.7282416+02:00"
+    },
+    {
+      "productId": 2506,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-08-30T00:23:01.9475798+03:00"
+    },
+    {
+      "productId": 4554,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-09-18T11:54:32.3073878+03:00"
+    }
+  ]
+}

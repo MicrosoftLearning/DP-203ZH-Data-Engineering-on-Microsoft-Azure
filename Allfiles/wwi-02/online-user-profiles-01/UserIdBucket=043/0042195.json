@@ -1,0 +1,27 @@
+{
+  "userId": 42195,
+  "cartId": "dd6ac778-4890-4541-b108-a637331aebeb",
+  "preferredProducts": [
+    4145,
+    1923,
+    4552,
+    3622
+  ],
+  "productReviews": [
+    {
+      "productId": 4034,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-07-03T22:55:10.1086121+03:00"
+    },
+    {
+      "productId": 3062,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-09-25T21:03:40.5424883+03:00"
+    },
+    {
+      "productId": 140,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-03-08T13:37:41.5578683+02:00"
+    }
+  ]
+}

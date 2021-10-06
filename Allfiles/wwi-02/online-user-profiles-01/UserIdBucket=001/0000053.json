@@ -1,0 +1,30 @@
+{
+  "userId": 53,
+  "cartId": "f9f8cc6c-5132-4a8d-8d5e-724fa9f14676",
+  "preferredProducts": [
+    4193,
+    1710
+  ],
+  "productReviews": [
+    {
+      "productId": 768,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-12-02T20:03:46.4340827+02:00"
+    },
+    {
+      "productId": 1896,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-02-04T23:56:37.8766553+02:00"
+    },
+    {
+      "productId": 2297,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-05-30T01:34:03.5969166+03:00"
+    },
+    {
+      "productId": 2527,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-04-22T13:18:31.1115531+03:00"
+    }
+  ]
+}

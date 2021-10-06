@@ -1,0 +1,32 @@
+{
+  "userId": 98850,
+  "cartId": "b5e86101-33f4-4b87-bcd9-98a762de6ceb",
+  "preferredProducts": [
+    1689,
+    1376,
+    2847,
+    4801
+  ],
+  "productReviews": [
+    {
+      "productId": 4140,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-07-22T15:31:49.4379582+03:00"
+    },
+    {
+      "productId": 1741,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-08-23T11:52:16.175033+03:00"
+    },
+    {
+      "productId": 2290,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-06-06T20:25:05.0388968+03:00"
+    },
+    {
+      "productId": 2022,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-05-15T07:17:23.7740826+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 3100,
+  "cartId": "05a67fbd-efb3-460e-adbb-1362ace49e59",
+  "preferredProducts": [
+    4773,
+    2342,
+    3982,
+    1691,
+    2453
+  ],
+  "productReviews": [
+    {
+      "productId": 2662,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-04-28T00:25:05.6643472+03:00"
+    },
+    {
+      "productId": 4616,
+      "reviewText": "this AI is mellow.",
+      "reviewDate": "2017-05-14T23:23:50.6853337+03:00"
+    },
+    {
+      "productId": 4270,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-07-03T16:22:22.8682334+03:00"
+    },
+    {
+      "productId": 1857,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2020-01-06T23:19:05.7446682+02:00"
+    },
+    {
+      "productId": 2045,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-11-17T09:10:27.7118+02:00"
+    }
+  ]
+}

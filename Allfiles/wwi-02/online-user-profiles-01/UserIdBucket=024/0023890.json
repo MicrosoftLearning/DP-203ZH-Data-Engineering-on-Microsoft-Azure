@@ -1,0 +1,33 @@
+{
+  "userId": 23890,
+  "cartId": "ed815282-d526-47f1-a4ac-a84a11bc76ab",
+  "preferredProducts": [
+    446,
+    3589,
+    4979,
+    4318,
+    2468
+  ],
+  "productReviews": [
+    {
+      "productId": 1148,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-09-19T02:58:24.2982578+03:00"
+    },
+    {
+      "productId": 2342,
+      "reviewText": "This scalable works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-10-17T20:49:58.7489598+03:00"
+    },
+    {
+      "productId": 3343,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-01-31T13:15:20.5979356+02:00"
+    },
+    {
+      "productId": 4550,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-07-12T18:22:29.9282815+03:00"
+    }
+  ]
+}

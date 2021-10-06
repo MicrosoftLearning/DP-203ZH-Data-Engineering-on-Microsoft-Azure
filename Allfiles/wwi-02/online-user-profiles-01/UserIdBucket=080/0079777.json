@@ -1,0 +1,29 @@
+{
+  "userId": 79777,
+  "cartId": "4d69fdcb-c574-4cfb-abe0-7953450d044a",
+  "preferredProducts": [
+    3474,
+    488,
+    538,
+    1634,
+    2141,
+    2437
+  ],
+  "productReviews": [
+    {
+      "productId": 1715,
+      "reviewText": "This holistic, does exactly what it's suppose to do.",
+      "reviewDate": "2019-10-27T03:21:32.5321767+02:00"
+    },
+    {
+      "productId": 970,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-12-29T23:38:43.5655254+02:00"
+    },
+    {
+      "productId": 4925,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-09-30T02:40:13.9761951+03:00"
+    }
+  ]
+}

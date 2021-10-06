@@ -1,0 +1,25 @@
+{
+  "userId": 9912,
+  "cartId": "81dba2ae-7312-49bb-8821-2e930bd162de",
+  "preferredProducts": [
+    1935,
+    1538
+  ],
+  "productReviews": [
+    {
+      "productId": 1950,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-04-28T00:46:14.2776234+03:00"
+    },
+    {
+      "productId": 1465,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-05-07T04:38:06.6894042+03:00"
+    },
+    {
+      "productId": 1244,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-09-21T05:04:27.291536+03:00"
+    }
+  ]
+}

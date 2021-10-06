@@ -1,0 +1,32 @@
+{
+  "userId": 52778,
+  "cartId": "5f2fdc91-0ba5-49a2-80db-5fe95b946b08",
+  "preferredProducts": [
+    284,
+    3879,
+    3685,
+    1568
+  ],
+  "productReviews": [
+    {
+      "productId": 1908,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-12-02T13:33:15.5400609+02:00"
+    },
+    {
+      "productId": 1042,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-05-05T00:19:37.7500885+03:00"
+    },
+    {
+      "productId": 2932,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-04-08T17:56:23.5029668+03:00"
+    },
+    {
+      "productId": 4307,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-08-03T17:43:09.3878232+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 66173,
+  "cartId": "310d9964-2e66-49ef-aafa-882b31442b63",
+  "preferredProducts": [
+    641,
+    3411,
+    546,
+    4199,
+    631,
+    3619
+  ],
+  "productReviews": [
+    {
+      "productId": 1683,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-07-09T14:14:20.4470241+03:00"
+    },
+    {
+      "productId": 2114,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-07-26T08:37:26.4264692+03:00"
+    },
+    {
+      "productId": 885,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-01-26T16:36:01.666349+02:00"
+    }
+  ]
+}

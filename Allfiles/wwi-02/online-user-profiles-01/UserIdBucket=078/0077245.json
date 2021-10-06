@@ -1,0 +1,25 @@
+{
+  "userId": 77245,
+  "cartId": "ed91f7b7-9946-4410-bf86-0370b10e378d",
+  "preferredProducts": [
+    2424,
+    2129,
+    3889,
+    491,
+    4515,
+    3839,
+    4153
+  ],
+  "productReviews": [
+    {
+      "productId": 4432,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-09-01T23:39:12.5544398+03:00"
+    },
+    {
+      "productId": 2788,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-05-01T08:24:29.2243515+03:00"
+    }
+  ]
+}

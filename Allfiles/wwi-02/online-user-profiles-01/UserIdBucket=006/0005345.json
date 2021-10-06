@@ -1,0 +1,38 @@
+{
+  "userId": 5345,
+  "cartId": "d03511a1-65f8-49df-b9f8-f6669a763c67",
+  "preferredProducts": [
+    1425,
+    2866,
+    1111,
+    4854,
+    3446
+  ],
+  "productReviews": [
+    {
+      "productId": 4357,
+      "reviewText": "this Designer is flirty.",
+      "reviewDate": "2017-12-10T17:07:17.6792619+02:00"
+    },
+    {
+      "productId": 4980,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-09-26T11:44:12.3996156+03:00"
+    },
+    {
+      "productId": 3327,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-09-16T18:00:25.1655474+03:00"
+    },
+    {
+      "productId": 3796,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-08-26T14:32:41.8570039+03:00"
+    },
+    {
+      "productId": 1014,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-08-07T16:17:42.79836+03:00"
+    }
+  ]
+}

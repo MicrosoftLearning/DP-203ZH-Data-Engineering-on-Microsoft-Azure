@@ -1,0 +1,33 @@
+{
+  "userId": 16372,
+  "cartId": "2ab34643-83ad-4220-88d4-f2ae5cd26565",
+  "preferredProducts": [
+    1307,
+    4996,
+    1400,
+    3608,
+    4543,
+    4822,
+    3578,
+    3949,
+    423,
+    1560
+  ],
+  "productReviews": [
+    {
+      "productId": 2431,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-12-24T13:16:47.3528218+02:00"
+    },
+    {
+      "productId": 4117,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-07-20T15:29:56.0720867+03:00"
+    },
+    {
+      "productId": 4347,
+      "reviewText": "This 24/7 works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-06-23T08:24:03.5590191+03:00"
+    }
+  ]
+}

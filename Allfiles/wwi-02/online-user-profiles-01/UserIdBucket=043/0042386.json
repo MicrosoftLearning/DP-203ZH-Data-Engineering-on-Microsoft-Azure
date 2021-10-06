@@ -1,0 +1,38 @@
+{
+  "userId": 42386,
+  "cartId": "0188372f-f0c6-467e-b787-df801e34080a",
+  "preferredProducts": [
+    4032,
+    1235,
+    926,
+    2547,
+    3250,
+    477,
+    68,
+    4341,
+    2598,
+    4143
+  ],
+  "productReviews": [
+    {
+      "productId": 3202,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-06-05T08:46:26.9509178+03:00"
+    },
+    {
+      "productId": 3823,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-06-10T06:51:00.309638+03:00"
+    },
+    {
+      "productId": 2823,
+      "reviewText": "This Savings Account works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2019-04-16T19:10:08.4967959+03:00"
+    },
+    {
+      "productId": 1761,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-01-08T00:30:02.3284945+02:00"
+    }
+  ]
+}

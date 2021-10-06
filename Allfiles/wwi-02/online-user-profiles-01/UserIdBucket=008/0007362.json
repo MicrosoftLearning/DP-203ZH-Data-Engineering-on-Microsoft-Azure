@@ -1,0 +1,30 @@
+{
+  "userId": 7362,
+  "cartId": "a77d3b6d-1b72-4dea-8e10-72e9e829e30a",
+  "preferredProducts": [
+    3682,
+    3217,
+    4275,
+    1509,
+    4912,
+    1039,
+    2156
+  ],
+  "productReviews": [
+    {
+      "productId": 3364,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-11-20T09:07:02.4957472+02:00"
+    },
+    {
+      "productId": 4888,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-03-08T23:30:12.0472996+02:00"
+    },
+    {
+      "productId": 3554,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-05-28T07:00:55.6621664+03:00"
+    }
+  ]
+}

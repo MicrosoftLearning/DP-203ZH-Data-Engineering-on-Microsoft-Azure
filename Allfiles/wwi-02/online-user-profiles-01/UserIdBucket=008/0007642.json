@@ -1,0 +1,29 @@
+{
+  "userId": 7642,
+  "cartId": "03b93fc1-0789-4d7b-9ec4-24e16f6ed6e8",
+  "preferredProducts": [
+    1952,
+    3258,
+    354,
+    328,
+    86,
+    3796
+  ],
+  "productReviews": [
+    {
+      "productId": 118,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-01-11T07:50:18.267348+02:00"
+    },
+    {
+      "productId": 2054,
+      "reviewText": "This web services works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-06-19T02:12:59.8462856+03:00"
+    },
+    {
+      "productId": 4080,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-09-30T19:33:02.5664669+03:00"
+    }
+  ]
+}

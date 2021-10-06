@@ -1,0 +1,37 @@
+{
+  "userId": 10761,
+  "cartId": "36daee87-b120-4b2f-a52d-1a28c5f88e8f",
+  "preferredProducts": [
+    4123,
+    2003,
+    4836,
+    1782
+  ],
+  "productReviews": [
+    {
+      "productId": 1539,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-01-03T21:47:28.0421944+02:00"
+    },
+    {
+      "productId": 64,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-06-02T17:27:28.9254411+03:00"
+    },
+    {
+      "productId": 999,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-03-17T07:09:38.0822852+02:00"
+    },
+    {
+      "productId": 2826,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-03-04T17:49:41.3260664+02:00"
+    },
+    {
+      "productId": 2336,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-05-04T20:27:45.0706832+03:00"
+    }
+  ]
+}

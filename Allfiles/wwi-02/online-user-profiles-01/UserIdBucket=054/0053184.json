@@ -1,0 +1,36 @@
+{
+  "userId": 53184,
+  "cartId": "59f803ae-533c-46a6-9bd3-b5af39b5c7f8",
+  "preferredProducts": [
+    1400,
+    3048,
+    1649,
+    4365,
+    4481,
+    101,
+    4136,
+    1977
+  ],
+  "productReviews": [
+    {
+      "productId": 4022,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-07-07T09:18:24.0333497+03:00"
+    },
+    {
+      "productId": 606,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-06-06T19:22:45.7647527+03:00"
+    },
+    {
+      "productId": 151,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-01-16T12:56:35.1497683+02:00"
+    },
+    {
+      "productId": 458,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-02-01T13:17:24.5589675+02:00"
+    }
+  ]
+}

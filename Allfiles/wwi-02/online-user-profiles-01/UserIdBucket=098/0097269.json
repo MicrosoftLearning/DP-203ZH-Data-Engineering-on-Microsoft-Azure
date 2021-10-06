@@ -1,0 +1,33 @@
+{
+  "userId": 97269,
+  "cartId": "820f8d1a-f881-48fd-bb46-32ff891fedfa",
+  "preferredProducts": [
+    2098,
+    2696,
+    4480,
+    972,
+    239
+  ],
+  "productReviews": [
+    {
+      "productId": 90,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-09-20T21:46:03.2807703+03:00"
+    },
+    {
+      "productId": 514,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-09-25T23:03:23.365412+03:00"
+    },
+    {
+      "productId": 1648,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-05-17T10:30:35.1953455+03:00"
+    },
+    {
+      "productId": 3464,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-09-09T05:12:02.2143274+03:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 7445,
+  "cartId": "12d7d492-4b3a-4fac-8992-ea75281ae9af",
+  "preferredProducts": [
+    3365,
+    3354,
+    2182,
+    3131,
+    3276,
+    1865,
+    182
+  ],
+  "productReviews": [
+    {
+      "productId": 123,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-09-20T20:33:47.4137866+03:00"
+    },
+    {
+      "productId": 3015,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-11-02T16:16:32.8272985+02:00"
+    },
+    {
+      "productId": 1910,
+      "reviewText": "this Awesome Rubber Salad is flirty.",
+      "reviewDate": "2016-06-25T00:58:40.6594442+03:00"
+    },
+    {
+      "productId": 996,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-10-29T22:30:16.346206+02:00"
+    },
+    {
+      "productId": 3579,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This bifurcated keeps them away.",
+      "reviewDate": "2017-05-14T05:09:02.2320957+03:00"
+    }
+  ]
+}

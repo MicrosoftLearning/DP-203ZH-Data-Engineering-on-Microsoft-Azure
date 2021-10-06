@@ -1,0 +1,33 @@
+{
+  "userId": 34940,
+  "cartId": "f39ca8e3-e8aa-4e3c-848f-ad36eda1b2fc",
+  "preferredProducts": [
+    2207,
+    660,
+    4730,
+    2797,
+    4480,
+    1251,
+    1820,
+    3513,
+    2579,
+    3199
+  ],
+  "productReviews": [
+    {
+      "productId": 3010,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-07-05T01:02:55.4063222+03:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-09-30T17:17:36.2193507+03:00"
+    },
+    {
+      "productId": 1756,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-04-07T09:38:38.3581268+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 42399,
+  "cartId": "c3e2f10c-996a-43c0-9519-becabcab234b",
+  "preferredProducts": [
+    212,
+    1282,
+    176,
+    4890,
+    2116,
+    4875,
+    4501
+  ],
+  "productReviews": [
+    {
+      "productId": 250,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-09-12T14:11:34.9513756+03:00"
+    },
+    {
+      "productId": 4319,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-04-03T10:10:04.7448781+03:00"
+    }
+  ]
+}

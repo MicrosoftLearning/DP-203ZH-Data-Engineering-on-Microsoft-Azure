@@ -1,0 +1,33 @@
+{
+  "userId": 50880,
+  "cartId": "3deae255-aaa5-4c40-b7c1-f2246d1fc726",
+  "preferredProducts": [
+    4607,
+    801,
+    652,
+    2549,
+    1155
+  ],
+  "productReviews": [
+    {
+      "productId": 301,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-12-11T02:09:00.4683234+02:00"
+    },
+    {
+      "productId": 1770,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Infrastructure keeps them away.",
+      "reviewDate": "2016-09-15T03:40:52.9143385+03:00"
+    },
+    {
+      "productId": 3611,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-03-06T09:03:54.7560775+02:00"
+    },
+    {
+      "productId": 3071,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-11-17T03:36:22.6905872+02:00"
+    }
+  ]
+}

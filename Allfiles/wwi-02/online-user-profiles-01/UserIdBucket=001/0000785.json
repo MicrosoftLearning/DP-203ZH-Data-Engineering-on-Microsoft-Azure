@@ -1,0 +1,30 @@
+{
+  "userId": 785,
+  "cartId": "8a653053-b790-4fcf-a4e4-8b597a7956b0",
+  "preferredProducts": [
+    4395,
+    662,
+    390,
+    3933,
+    3860,
+    2632,
+    1461
+  ],
+  "productReviews": [
+    {
+      "productId": 3857,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-04-01T06:34:58.901096+03:00"
+    },
+    {
+      "productId": 248,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-07-23T14:33:24.1758357+03:00"
+    },
+    {
+      "productId": 3779,
+      "reviewText": "this Luxembourg is light-hearted.",
+      "reviewDate": "2017-06-06T08:11:28.5589849+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 32167,
+  "cartId": "2ee35887-db4d-4894-a532-af01eaeb4e25",
+  "preferredProducts": [
+    2656,
+    3279,
+    4860,
+    1728,
+    3078,
+    4863,
+    294,
+    1962
+  ],
+  "productReviews": [
+    {
+      "productId": 238,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-03-03T05:01:20.0852659+02:00"
+    },
+    {
+      "productId": 2762,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-05-26T03:30:04.1411413+03:00"
+    },
+    {
+      "productId": 3242,
+      "reviewText": "This open-source works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-06-11T02:55:25.0607701+03:00"
+    }
+  ]
+}

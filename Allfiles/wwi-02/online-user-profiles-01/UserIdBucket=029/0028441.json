@@ -1,0 +1,27 @@
+{
+  "userId": 28441,
+  "cartId": "822aeb0c-8119-4be7-b743-5728555c1f26",
+  "preferredProducts": [
+    683,
+    4334,
+    4045,
+    2444
+  ],
+  "productReviews": [
+    {
+      "productId": 1475,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-05-13T22:21:44.1911112+03:00"
+    },
+    {
+      "productId": 4506,
+      "reviewText": "this invoice is ratty.",
+      "reviewDate": "2018-10-14T23:13:24.5719689+03:00"
+    },
+    {
+      "productId": 2231,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-08-08T23:13:38.2913506+03:00"
+    }
+  ]
+}

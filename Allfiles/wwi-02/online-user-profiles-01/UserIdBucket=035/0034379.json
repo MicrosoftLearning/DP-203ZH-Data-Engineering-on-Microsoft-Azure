@@ -1,0 +1,29 @@
+{
+  "userId": 34379,
+  "cartId": "f1e3966d-56b2-4fa2-b5cb-0675ebf4f725",
+  "preferredProducts": [
+    173,
+    2391,
+    920,
+    2408,
+    2462,
+    2575
+  ],
+  "productReviews": [
+    {
+      "productId": 2320,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-08-20T02:33:24.3195972+03:00"
+    },
+    {
+      "productId": 265,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-09-10T07:30:17.3691582+03:00"
+    },
+    {
+      "productId": 4326,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-06-04T10:20:14.4868613+03:00"
+    }
+  ]
+}

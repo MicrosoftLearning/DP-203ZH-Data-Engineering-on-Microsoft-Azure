@@ -1,0 +1,26 @@
+{
+  "userId": 85230,
+  "cartId": "5960ba0c-130d-4b8d-aca8-718c9f91e667",
+  "preferredProducts": [
+    2228,
+    418,
+    4171,
+    49,
+    707,
+    4713,
+    203,
+    3623
+  ],
+  "productReviews": [
+    {
+      "productId": 2819,
+      "reviewText": "this parsing is tasty.",
+      "reviewDate": "2019-11-20T21:17:11.9752792+02:00"
+    },
+    {
+      "productId": 3730,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2020-03-21T14:52:57.4147903+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 60601,
+  "cartId": "afa81050-c96f-45ee-a358-7b709a59368c",
+  "preferredProducts": [
+    640,
+    4688
+  ],
+  "productReviews": [
+    {
+      "productId": 4899,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2020-03-08T16:49:01.8377229+02:00"
+    },
+    {
+      "productId": 3082,
+      "reviewText": "this JSON is light-hearted.",
+      "reviewDate": "2019-09-21T06:25:32.9029445+03:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "this SCSI is perplexed.",
+      "reviewDate": "2018-06-11T11:31:43.0409338+03:00"
+    },
+    {
+      "productId": 4595,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-06-20T08:25:05.2950703+03:00"
+    }
+  ]
+}

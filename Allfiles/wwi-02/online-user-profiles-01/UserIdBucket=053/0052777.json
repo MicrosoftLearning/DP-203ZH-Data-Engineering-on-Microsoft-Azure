@@ -1,0 +1,34 @@
+{
+  "userId": 52777,
+  "cartId": "df21dd6f-249a-4f22-8aff-8b8b2762e605",
+  "preferredProducts": [
+    178,
+    2203,
+    2772,
+    2513,
+    4835,
+    1513
+  ],
+  "productReviews": [
+    {
+      "productId": 23,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-05-02T09:03:46.9618016+03:00"
+    },
+    {
+      "productId": 2705,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-03-22T22:17:47.3973238+02:00"
+    },
+    {
+      "productId": 3480,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-10-25T06:27:53.9143242+03:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-08-14T16:05:03.4481363+03:00"
+    }
+  ]
+}

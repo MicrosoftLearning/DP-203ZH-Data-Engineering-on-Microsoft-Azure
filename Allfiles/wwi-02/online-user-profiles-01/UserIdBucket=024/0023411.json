@@ -1,0 +1,29 @@
+{
+  "userId": 23411,
+  "cartId": "692ac777-45bd-441c-9fa9-96549a3626e1",
+  "preferredProducts": [
+    1773,
+    1652,
+    920,
+    2119,
+    1766,
+    959
+  ],
+  "productReviews": [
+    {
+      "productId": 3445,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-11-25T21:06:13.2482316+02:00"
+    },
+    {
+      "productId": 2240,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-11-23T00:09:41.9313216+02:00"
+    },
+    {
+      "productId": 3380,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2019-07-10T22:37:34.6500174+03:00"
+    }
+  ]
+}

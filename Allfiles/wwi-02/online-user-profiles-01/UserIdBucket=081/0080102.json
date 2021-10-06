@@ -1,0 +1,21 @@
+{
+  "userId": 80102,
+  "cartId": "ce1b5b61-e386-4147-abd3-3ac7e9cf5f68",
+  "preferredProducts": [
+    211,
+    692,
+    577
+  ],
+  "productReviews": [
+    {
+      "productId": 2211,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-03-08T23:20:06.7966828+02:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-10-15T19:10:56.8254288+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 10245,
+  "cartId": "6e9aacbe-b908-455a-80b2-403a5cb91eca",
+  "preferredProducts": [
+    900,
+    38,
+    4445,
+    1120,
+    577,
+    2415,
+    4441,
+    3413
+  ],
+  "productReviews": [
+    {
+      "productId": 1220,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-11-28T23:19:51.7674876+02:00"
+    },
+    {
+      "productId": 2736,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-02T18:55:48.3810487+02:00"
+    }
+  ]
+}

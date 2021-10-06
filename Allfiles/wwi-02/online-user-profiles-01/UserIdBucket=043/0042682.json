@@ -1,0 +1,39 @@
+{
+  "userId": 42682,
+  "cartId": "5042fb60-ffda-449d-a244-20cd0cad2b0d",
+  "preferredProducts": [
+    4830,
+    4435,
+    3530,
+    4701,
+    4445,
+    3352
+  ],
+  "productReviews": [
+    {
+      "productId": 1045,
+      "reviewText": "this Producer is ghetto.",
+      "reviewDate": "2016-09-09T21:13:59.2613657+03:00"
+    },
+    {
+      "productId": 4192,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-09-04T17:08:28.0904149+03:00"
+    },
+    {
+      "productId": 3882,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-06-03T18:03:25.156946+03:00"
+    },
+    {
+      "productId": 1053,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-12-06T20:53:42.0271858+02:00"
+    },
+    {
+      "productId": 1570,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-11-21T16:59:08.1319237+02:00"
+    }
+  ]
+}

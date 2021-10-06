@@ -1,0 +1,27 @@
+{
+  "userId": 31743,
+  "cartId": "9f97c922-ac90-4a74-883f-2b9e53bc3c9d",
+  "preferredProducts": [
+    3177,
+    1086,
+    1437,
+    2374
+  ],
+  "productReviews": [
+    {
+      "productId": 4876,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2020-03-12T06:04:19.0020374+02:00"
+    },
+    {
+      "productId": 4545,
+      "reviewText": "this transmit is tasty.",
+      "reviewDate": "2019-01-17T05:07:57.664802+02:00"
+    },
+    {
+      "productId": 625,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-07-01T09:26:14.1538024+03:00"
+    }
+  ]
+}

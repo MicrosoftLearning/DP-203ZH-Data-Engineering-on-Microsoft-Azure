@@ -1,0 +1,37 @@
+{
+  "userId": 92991,
+  "cartId": "af4add49-1e1f-491a-b818-0d20c09b8b43",
+  "preferredProducts": [
+    1078,
+    3759,
+    3136,
+    3583,
+    2798,
+    1559,
+    320,
+    1514,
+    83
+  ],
+  "productReviews": [
+    {
+      "productId": 576,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-08-22T03:23:49.3584789+03:00"
+    },
+    {
+      "productId": 4952,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-03-27T04:22:43.1468456+02:00"
+    },
+    {
+      "productId": 1600,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-04-03T03:42:28.4150267+03:00"
+    },
+    {
+      "productId": 4438,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-10-09T03:51:19.1020729+03:00"
+    }
+  ]
+}

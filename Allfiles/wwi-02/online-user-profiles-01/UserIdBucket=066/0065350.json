@@ -1,0 +1,26 @@
+{
+  "userId": 65350,
+  "cartId": "8b4e8a90-6b68-4f45-a521-277ac69ef207",
+  "preferredProducts": [
+    2463,
+    1272,
+    3032,
+    2768,
+    1075,
+    3018,
+    1368,
+    2941
+  ],
+  "productReviews": [
+    {
+      "productId": 370,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-05-28T09:09:51.8187738+03:00"
+    },
+    {
+      "productId": 2071,
+      "reviewText": "this Planner is nifty.",
+      "reviewDate": "2020-04-23T07:16:51.9061696+03:00"
+    }
+  ]
+}

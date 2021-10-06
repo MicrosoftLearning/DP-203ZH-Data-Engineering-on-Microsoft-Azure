@@ -1,0 +1,30 @@
+{
+  "userId": 97204,
+  "cartId": "0900d55c-93f4-4aa4-8b64-4b3176c5b871",
+  "preferredProducts": [
+    3883,
+    3843,
+    2302,
+    3013,
+    1686,
+    2020,
+    3249
+  ],
+  "productReviews": [
+    {
+      "productId": 3440,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-04-15T10:04:07.1558768+03:00"
+    },
+    {
+      "productId": 4441,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2020-03-17T17:14:50.2865347+02:00"
+    },
+    {
+      "productId": 2652,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-11-17T19:55:00.0066181+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 23498,
+  "cartId": "7941a336-5a1a-46be-9214-2e21ab29e6e8",
+  "preferredProducts": [
+    2529,
+    2123,
+    329,
+    684,
+    1436,
+    53,
+    2466
+  ],
+  "productReviews": [
+    {
+      "productId": 3640,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-01-28T02:54:09.7385892+02:00"
+    },
+    {
+      "productId": 1745,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-04-26T09:36:51.2255806+03:00"
+    },
+    {
+      "productId": 4815,
+      "reviewText": "this Legacy is dominant.",
+      "reviewDate": "2016-11-29T23:16:10.0161415+02:00"
+    }
+  ]
+}

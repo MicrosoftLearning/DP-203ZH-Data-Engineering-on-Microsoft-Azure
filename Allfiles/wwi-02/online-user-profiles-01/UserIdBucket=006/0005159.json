@@ -1,0 +1,30 @@
+{
+  "userId": 5159,
+  "cartId": "63d74a34-3dbd-4dae-bee8-08f5a4aa3f77",
+  "preferredProducts": [
+    2789,
+    4248,
+    4755,
+    2832,
+    2497,
+    3069,
+    1070
+  ],
+  "productReviews": [
+    {
+      "productId": 1328,
+      "reviewText": "this Product is ratty.",
+      "reviewDate": "2019-11-24T16:42:11.0907445+02:00"
+    },
+    {
+      "productId": 1913,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-08-04T00:13:39.6986524+03:00"
+    },
+    {
+      "productId": 1344,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-05-09T01:14:33.9769657+03:00"
+    }
+  ]
+}

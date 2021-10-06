@@ -1,0 +1,30 @@
+{
+  "userId": 20883,
+  "cartId": "6d9121ba-7362-4deb-aef9-baa285c917cd",
+  "preferredProducts": [
+    3952,
+    359,
+    686,
+    936,
+    1027,
+    1803,
+    1468
+  ],
+  "productReviews": [
+    {
+      "productId": 3374,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-02-20T22:45:01.1213414+02:00"
+    },
+    {
+      "productId": 158,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-07-13T13:26:21.936858+03:00"
+    },
+    {
+      "productId": 4042,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2020-01-06T17:20:40.7149269+02:00"
+    }
+  ]
+}

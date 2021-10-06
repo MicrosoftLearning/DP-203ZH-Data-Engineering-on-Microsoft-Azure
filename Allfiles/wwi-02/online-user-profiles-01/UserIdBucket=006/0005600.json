@@ -1,0 +1,27 @@
+{
+  "userId": 5600,
+  "cartId": "34a97e27-c9dd-441f-a74d-60b7c76071a7",
+  "preferredProducts": [
+    1216,
+    4394,
+    4300,
+    1185
+  ],
+  "productReviews": [
+    {
+      "productId": 28,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2019-01-28T15:13:09.7719311+02:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-12-01T11:17:13.8139926+02:00"
+    },
+    {
+      "productId": 4020,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-10-21T20:17:47.7591498+03:00"
+    }
+  ]
+}

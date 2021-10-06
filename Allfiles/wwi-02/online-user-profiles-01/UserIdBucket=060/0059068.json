@@ -1,0 +1,30 @@
+{
+  "userId": 59068,
+  "cartId": "f22ac4e5-c1fa-4faa-b4cb-48d88b98a4fa",
+  "preferredProducts": [
+    662,
+    4685,
+    279,
+    2458,
+    113,
+    3150,
+    2073
+  ],
+  "productReviews": [
+    {
+      "productId": 4866,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-08-20T21:02:49.3469906+03:00"
+    },
+    {
+      "productId": 2263,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-07-03T05:31:09.4283311+03:00"
+    },
+    {
+      "productId": 2453,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-04-18T07:48:10.3124542+03:00"
+    }
+  ]
+}

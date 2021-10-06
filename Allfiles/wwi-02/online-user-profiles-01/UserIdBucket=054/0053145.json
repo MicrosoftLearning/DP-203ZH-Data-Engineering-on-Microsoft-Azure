@@ -1,0 +1,33 @@
+{
+  "userId": 53145,
+  "cartId": "a6cc0c51-ca12-404c-8b34-c7caaed845c1",
+  "preferredProducts": [
+    4745,
+    1234,
+    586,
+    4588,
+    43
+  ],
+  "productReviews": [
+    {
+      "productId": 2004,
+      "reviewText": "this internet solution is top-notch.",
+      "reviewDate": "2018-04-05T10:12:40.8264066+03:00"
+    },
+    {
+      "productId": 3347,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-07-07T21:58:38.7026979+03:00"
+    },
+    {
+      "productId": 2390,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-09-11T08:54:33.0185696+03:00"
+    },
+    {
+      "productId": 3753,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-03-19T09:50:36.9259768+02:00"
+    }
+  ]
+}

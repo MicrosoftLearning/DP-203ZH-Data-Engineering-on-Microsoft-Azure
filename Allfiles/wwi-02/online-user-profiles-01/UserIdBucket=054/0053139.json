@@ -1,0 +1,31 @@
+{
+  "userId": 53139,
+  "cartId": "833decd3-ee2c-4f95-b3b6-e4aacca1a185",
+  "preferredProducts": [
+    1108,
+    4190,
+    4115,
+    3704,
+    1355,
+    1558,
+    544,
+    1520
+  ],
+  "productReviews": [
+    {
+      "productId": 1003,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-12-05T06:06:08.5353398+02:00"
+    },
+    {
+      "productId": 4610,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-09-21T03:18:23.8245017+03:00"
+    },
+    {
+      "productId": 2950,
+      "reviewText": "this haptic is amiable.",
+      "reviewDate": "2019-06-07T14:03:01.8334432+03:00"
+    }
+  ]
+}

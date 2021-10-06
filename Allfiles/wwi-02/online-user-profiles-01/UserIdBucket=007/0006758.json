@@ -1,0 +1,30 @@
+{
+  "userId": 6758,
+  "cartId": "dc985dc0-6c0a-4cac-83a2-ef8795207537",
+  "preferredProducts": [
+    4297,
+    3446,
+    1522,
+    1692,
+    4741,
+    2348,
+    2223
+  ],
+  "productReviews": [
+    {
+      "productId": 1200,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-08-02T21:48:47.2366028+03:00"
+    },
+    {
+      "productId": 3889,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-07T19:44:05.6995193+03:00"
+    },
+    {
+      "productId": 2035,
+      "reviewText": "This SAS works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2017-10-02T02:10:59.1838016+03:00"
+    }
+  ]
+}

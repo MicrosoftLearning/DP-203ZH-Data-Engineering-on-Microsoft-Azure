@@ -1,0 +1,36 @@
+{
+  "userId": 42417,
+  "cartId": "d414deaf-2d7f-4a1a-b6fa-b861051a82a7",
+  "preferredProducts": [
+    1543,
+    751,
+    4091,
+    2539,
+    3895,
+    4274,
+    1932,
+    4035
+  ],
+  "productReviews": [
+    {
+      "productId": 390,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-11-20T11:46:48.5649037+02:00"
+    },
+    {
+      "productId": 1941,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2020-05-07T20:55:31.2510115+03:00"
+    },
+    {
+      "productId": 3958,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-03-24T04:26:22.3384584+02:00"
+    },
+    {
+      "productId": 643,
+      "reviewText": "this Customer is ratty.",
+      "reviewDate": "2019-12-05T04:19:30.8876667+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 323,
+  "cartId": "9c5cff81-b27d-4156-8617-1b3afe168008",
+  "preferredProducts": [
+    2583,
+    815,
+    3568,
+    880
+  ],
+  "productReviews": [
+    {
+      "productId": 1703,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-10-08T16:26:28.5375563+03:00"
+    },
+    {
+      "productId": 4135,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-07-10T13:40:51.0117808+03:00"
+    },
+    {
+      "productId": 705,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-09-16T19:43:30.9561692+03:00"
+    },
+    {
+      "productId": 4583,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-09-17T12:11:06.4016032+03:00"
+    }
+  ]
+}

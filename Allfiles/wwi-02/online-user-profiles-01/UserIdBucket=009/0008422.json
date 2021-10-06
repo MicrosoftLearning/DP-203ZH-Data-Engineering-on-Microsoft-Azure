@@ -1,0 +1,33 @@
+{
+  "userId": 8422,
+  "cartId": "1d4f0f5a-9e82-4162-b5f2-eca22e8e71dc",
+  "preferredProducts": [
+    4853,
+    1277,
+    2193,
+    3595,
+    1533,
+    65,
+    2638,
+    1630,
+    4069,
+    1367
+  ],
+  "productReviews": [
+    {
+      "productId": 2432,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-12-03T03:52:39.8038892+02:00"
+    },
+    {
+      "productId": 2718,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-08-13T07:40:45.9410583+03:00"
+    },
+    {
+      "productId": 2052,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-06-17T10:24:43.0851755+03:00"
+    }
+  ]
+}

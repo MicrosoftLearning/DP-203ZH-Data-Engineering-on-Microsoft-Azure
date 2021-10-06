@@ -1,0 +1,31 @@
+{
+  "userId": 78251,
+  "cartId": "8673a0d7-6f1a-4871-b731-4517c3aaf700",
+  "preferredProducts": [
+    4811,
+    3347,
+    2266
+  ],
+  "productReviews": [
+    {
+      "productId": 371,
+      "reviewText": "this quantify is slurpee.",
+      "reviewDate": "2017-08-05T01:37:04.2498559+03:00"
+    },
+    {
+      "productId": 3141,
+      "reviewText": "this Turkish Lira is ghetto.",
+      "reviewDate": "2017-11-29T00:52:30.9661513+02:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "This is a really good asynchronous.",
+      "reviewDate": "2018-12-07T13:26:05.9978944+02:00"
+    },
+    {
+      "productId": 4836,
+      "reviewText": "This Via, does exactly what it's suppose to do.",
+      "reviewDate": "2019-04-05T00:43:37.6158828+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 94740,
+  "cartId": "6948d535-315e-4f75-bdbb-9241d2ebb985",
+  "preferredProducts": [
+    3746,
+    2345,
+    1581,
+    3637,
+    3286,
+    4611,
+    4458,
+    4601,
+    3689,
+    3097
+  ],
+  "productReviews": [
+    {
+      "productId": 3871,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-10-18T04:38:48.3839408+03:00"
+    },
+    {
+      "productId": 4925,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-02-16T18:42:45.9208289+02:00"
+    },
+    {
+      "productId": 1379,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-10-17T14:06:17.9558473+03:00"
+    }
+  ]
+}

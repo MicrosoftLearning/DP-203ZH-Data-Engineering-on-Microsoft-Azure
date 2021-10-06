@@ -1,0 +1,29 @@
+{
+  "userId": 26243,
+  "cartId": "52fd70e4-c351-4de6-b62e-5028dde47ec0",
+  "preferredProducts": [
+    4144,
+    2227,
+    3577,
+    3583,
+    2757,
+    4609
+  ],
+  "productReviews": [
+    {
+      "productId": 3464,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-09-22T09:59:44.4697181+03:00"
+    },
+    {
+      "productId": 174,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-12-18T06:05:27.5942092+02:00"
+    },
+    {
+      "productId": 4406,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-01-03T09:02:48.7555298+02:00"
+    }
+  ]
+}

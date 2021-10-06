@@ -1,0 +1,31 @@
+{
+  "userId": 61051,
+  "cartId": "1cbf55ad-bc12-4531-b24e-1bb742ab6011",
+  "preferredProducts": [
+    3229,
+    437,
+    541,
+    1580,
+    4712,
+    2731,
+    782,
+    828
+  ],
+  "productReviews": [
+    {
+      "productId": 3248,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-08-04T18:54:14.8699818+03:00"
+    },
+    {
+      "productId": 1847,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2020-01-01T11:55:34.4750002+02:00"
+    },
+    {
+      "productId": 664,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-04-28T21:25:03.0831694+03:00"
+    }
+  ]
+}

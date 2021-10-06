@@ -1,0 +1,30 @@
+{
+  "userId": 18997,
+  "cartId": "62aca942-9987-423f-92e7-31409a0c17a9",
+  "preferredProducts": [
+    2948,
+    2898,
+    2813,
+    4333,
+    1969,
+    1145,
+    4943
+  ],
+  "productReviews": [
+    {
+      "productId": 1104,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-05-07T22:09:18.6424488+03:00"
+    },
+    {
+      "productId": 1567,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-02-28T23:48:29.7464042+02:00"
+    },
+    {
+      "productId": 3346,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-04-10T23:27:10.4015185+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 42480,
+  "cartId": "01610950-2ffc-4924-b8ed-3e8bed67d0bd",
+  "preferredProducts": [
+    2190,
+    3804,
+    4643,
+    4819
+  ],
+  "productReviews": [
+    {
+      "productId": 1783,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-01-03T20:23:51.3961867+02:00"
+    },
+    {
+      "productId": 2182,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-10-30T04:01:54.4603863+02:00"
+    },
+    {
+      "productId": 1028,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2016-08-04T04:00:25.6806281+03:00"
+    }
+  ]
+}

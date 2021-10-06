@@ -1,0 +1,28 @@
+{
+  "userId": 80718,
+  "cartId": "4733c701-ca59-4077-ae76-7bd0cf04f25a",
+  "preferredProducts": [
+    4345,
+    1884,
+    4201,
+    4646,
+    1895
+  ],
+  "productReviews": [
+    {
+      "productId": 3565,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-12-30T06:34:21.1913482+02:00"
+    },
+    {
+      "productId": 2480,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-10-23T02:59:33.9250704+03:00"
+    },
+    {
+      "productId": 94,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-05-13T21:41:44.7840112+03:00"
+    }
+  ]
+}

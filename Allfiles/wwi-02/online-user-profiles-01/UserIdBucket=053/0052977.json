@@ -1,0 +1,30 @@
+{
+  "userId": 52977,
+  "cartId": "20d2736d-759a-47c6-b9b6-d3dd1629a582",
+  "preferredProducts": [
+    2288,
+    4720,
+    1903,
+    730,
+    4112,
+    3674,
+    2070
+  ],
+  "productReviews": [
+    {
+      "productId": 4199,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-01-22T06:00:17.9154708+02:00"
+    },
+    {
+      "productId": 900,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-11-13T18:32:40.0362894+02:00"
+    },
+    {
+      "productId": 4900,
+      "reviewText": "this optical is nifty.",
+      "reviewDate": "2017-07-22T06:25:49.9810461+03:00"
+    }
+  ]
+}

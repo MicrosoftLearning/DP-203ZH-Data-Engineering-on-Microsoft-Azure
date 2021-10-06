@@ -1,0 +1,31 @@
+{
+  "userId": 16953,
+  "cartId": "d2c2b3e7-b867-42a8-adf9-fd799ea59489",
+  "preferredProducts": [
+    2260,
+    1884,
+    4997,
+    4408,
+    4141,
+    4891,
+    702,
+    4502
+  ],
+  "productReviews": [
+    {
+      "productId": 415,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-11-05T17:59:05.1674676+02:00"
+    },
+    {
+      "productId": 3247,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-12-22T04:12:02.9995809+02:00"
+    },
+    {
+      "productId": 3408,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-07-03T01:07:13.9689657+03:00"
+    }
+  ]
+}

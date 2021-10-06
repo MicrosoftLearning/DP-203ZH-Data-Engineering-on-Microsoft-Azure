@@ -1,0 +1,33 @@
+{
+  "userId": 18823,
+  "cartId": "b66bab27-0e71-4d43-b439-ed6a7dbfb584",
+  "preferredProducts": [
+    1067,
+    2344,
+    1162,
+    4732,
+    1692
+  ],
+  "productReviews": [
+    {
+      "productId": 2129,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-04-03T08:57:58.5100445+03:00"
+    },
+    {
+      "productId": 4771,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-28T16:03:44.6005868+03:00"
+    },
+    {
+      "productId": 3877,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-06-06T16:33:30.1603548+03:00"
+    },
+    {
+      "productId": 4843,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-05-22T17:30:52.096621+03:00"
+    }
+  ]
+}

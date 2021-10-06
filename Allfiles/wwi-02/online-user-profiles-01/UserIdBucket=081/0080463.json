@@ -1,0 +1,31 @@
+{
+  "userId": 80463,
+  "cartId": "ec8262c5-7818-40c1-9741-e64ce1a6c350",
+  "preferredProducts": [
+    3074,
+    2751,
+    3931,
+    509,
+    2274,
+    1215,
+    3680,
+    2387
+  ],
+  "productReviews": [
+    {
+      "productId": 4819,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-07-27T04:12:50.6391109+03:00"
+    },
+    {
+      "productId": 3241,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-09-04T06:41:14.4411292+03:00"
+    },
+    {
+      "productId": 432,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-09-29T09:13:15.2024097+03:00"
+    }
+  ]
+}

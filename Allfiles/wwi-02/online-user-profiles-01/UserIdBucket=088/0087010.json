@@ -1,0 +1,37 @@
+{
+  "userId": 87010,
+  "cartId": "d769f56d-aa09-45d3-94d3-2d0e464d446b",
+  "preferredProducts": [
+    1133,
+    1734,
+    448,
+    232
+  ],
+  "productReviews": [
+    {
+      "productId": 2686,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-11-03T16:14:09.5234615+02:00"
+    },
+    {
+      "productId": 2958,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-02-15T23:34:07.8052033+02:00"
+    },
+    {
+      "productId": 2785,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-10-22T22:01:13.6990072+03:00"
+    },
+    {
+      "productId": 1503,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-02-19T22:42:42.3055496+02:00"
+    },
+    {
+      "productId": 666,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-04-20T08:14:26.5420312+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 88023,
+  "cartId": "bf07c817-ed23-4c9d-826e-5d436aa51949",
+  "preferredProducts": [
+    3452,
+    1337,
+    1448,
+    4172,
+    1724,
+    3482,
+    1377,
+    2829
+  ],
+  "productReviews": [
+    {
+      "productId": 4942,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-05-29T23:16:03.9095535+03:00"
+    },
+    {
+      "productId": 1179,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-08-29T04:52:53.0855764+03:00"
+    },
+    {
+      "productId": 1221,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2020-02-21T19:39:58.6614406+02:00"
+    },
+    {
+      "productId": 938,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-01-05T07:29:16.907029+02:00"
+    }
+  ]
+}

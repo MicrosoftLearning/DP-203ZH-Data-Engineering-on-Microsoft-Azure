@@ -1,0 +1,32 @@
+{
+  "userId": 2556,
+  "cartId": "9858501f-e447-4fc9-9562-57447b7cf779",
+  "preferredProducts": [
+    890,
+    4343,
+    3365,
+    1329
+  ],
+  "productReviews": [
+    {
+      "productId": 3318,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-03-12T20:25:11.3593536+02:00"
+    },
+    {
+      "productId": 2089,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-06-14T19:33:16.8177847+03:00"
+    },
+    {
+      "productId": 2210,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-03-10T15:26:20.8520024+02:00"
+    },
+    {
+      "productId": 1790,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-09-12T16:19:23.3715799+03:00"
+    }
+  ]
+}

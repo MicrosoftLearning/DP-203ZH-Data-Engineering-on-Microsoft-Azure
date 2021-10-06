@@ -1,0 +1,23 @@
+{
+  "userId": 67129,
+  "cartId": "4c83a905-759e-416c-8549-cc4ea3a4e8c1",
+  "preferredProducts": [
+    987,
+    4314,
+    2613,
+    4285,
+    3
+  ],
+  "productReviews": [
+    {
+      "productId": 2122,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-12-31T11:40:35.5019848+02:00"
+    },
+    {
+      "productId": 3201,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-08-10T21:16:00.7065003+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 2003,
+  "cartId": "a45d5b84-d197-4807-86c4-a0aebda2d4e3",
+  "preferredProducts": [
+    2199,
+    3157,
+    1477,
+    1884,
+    4541,
+    133
+  ],
+  "productReviews": [
+    {
+      "productId": 1267,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-05-24T13:30:18.4425791+03:00"
+    },
+    {
+      "productId": 4847,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-07-05T11:24:59.7821381+03:00"
+    },
+    {
+      "productId": 2917,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-07-09T18:39:23.7848973+03:00"
+    }
+  ]
+}

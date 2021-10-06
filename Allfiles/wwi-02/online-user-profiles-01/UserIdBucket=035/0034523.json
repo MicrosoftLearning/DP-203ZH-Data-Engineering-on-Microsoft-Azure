@@ -1,0 +1,32 @@
+{
+  "userId": 34523,
+  "cartId": "517dfbb2-bcaa-412f-aa9a-cb328cfc466b",
+  "preferredProducts": [
+    2808,
+    99,
+    4915,
+    1662,
+    3079,
+    554,
+    733,
+    3945,
+    2401
+  ],
+  "productReviews": [
+    {
+      "productId": 1568,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-01-28T05:22:22.600447+02:00"
+    },
+    {
+      "productId": 4391,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-04-20T04:57:53.0565881+03:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-03-26T23:15:38.6239691+02:00"
+    }
+  ]
+}

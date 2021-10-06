@@ -1,0 +1,33 @@
+{
+  "userId": 54396,
+  "cartId": "8368849f-2a60-4fbe-a227-d0ded82fbbaf",
+  "preferredProducts": [
+    4514,
+    2432,
+    1826,
+    4067,
+    139,
+    401,
+    1479,
+    2162,
+    4474,
+    4151
+  ],
+  "productReviews": [
+    {
+      "productId": 4269,
+      "reviewText": "this Executive is brown.",
+      "reviewDate": "2018-06-24T14:23:26.0145419+03:00"
+    },
+    {
+      "productId": 2839,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-10-21T15:35:24.6054171+03:00"
+    },
+    {
+      "productId": 2407,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-01-29T02:10:38.2621583+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 89484,
+  "cartId": "22a54ba9-9b28-45b5-a185-89b5353a1495",
+  "preferredProducts": [
+    4411,
+    4858
+  ],
+  "productReviews": [
+    {
+      "productId": 1707,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-01-25T15:01:56.4421483+02:00"
+    },
+    {
+      "productId": 4248,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-04-26T09:41:26.1371209+03:00"
+    },
+    {
+      "productId": 4966,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-06T14:26:41.5402535+02:00"
+    },
+    {
+      "productId": 4039,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-12-17T04:52:54.6314368+02:00"
+    }
+  ]
+}

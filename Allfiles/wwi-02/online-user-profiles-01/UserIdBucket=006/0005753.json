@@ -1,0 +1,39 @@
+{
+  "userId": 5753,
+  "cartId": "c420974f-3d66-4911-a302-240a4b49bbf9",
+  "preferredProducts": [
+    1143,
+    4837,
+    4469,
+    3207,
+    3790,
+    3545
+  ],
+  "productReviews": [
+    {
+      "productId": 4410,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-12-27T15:05:07.708538+02:00"
+    },
+    {
+      "productId": 4800,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-02-16T23:38:58.6920148+02:00"
+    },
+    {
+      "productId": 4941,
+      "reviewText": "this model is ratty.",
+      "reviewDate": "2018-02-06T15:04:52.7345935+02:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-12-22T04:27:52.1699732+02:00"
+    },
+    {
+      "productId": 2907,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-04-09T13:30:31.254586+03:00"
+    }
+  ]
+}

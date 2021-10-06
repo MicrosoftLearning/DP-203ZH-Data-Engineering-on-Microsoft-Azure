@@ -1,0 +1,27 @@
+{
+  "userId": 72872,
+  "cartId": "3c1ba34f-c3ad-4427-a65f-a4f8576c5971",
+  "preferredProducts": [
+    740,
+    851,
+    2080,
+    3398
+  ],
+  "productReviews": [
+    {
+      "productId": 1879,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-06-01T12:10:33.4888262+03:00"
+    },
+    {
+      "productId": 2855,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-12-31T06:20:07.9881607+02:00"
+    },
+    {
+      "productId": 4394,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-09-12T04:12:27.6587609+03:00"
+    }
+  ]
+}

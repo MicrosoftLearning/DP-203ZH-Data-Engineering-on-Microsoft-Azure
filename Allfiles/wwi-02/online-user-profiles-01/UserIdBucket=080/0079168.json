@@ -1,0 +1,26 @@
+{
+  "userId": 79168,
+  "cartId": "ded98eba-bbdb-4c9f-8b8f-b805cfc94fd7",
+  "preferredProducts": [
+    789,
+    3894,
+    2435
+  ],
+  "productReviews": [
+    {
+      "productId": 3557,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-01-22T11:51:23.5506719+02:00"
+    },
+    {
+      "productId": 2267,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-11-19T16:52:33.5152397+02:00"
+    },
+    {
+      "productId": 2754,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-09-26T04:37:44.6816188+03:00"
+    }
+  ]
+}

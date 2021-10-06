@@ -1,0 +1,32 @@
+{
+  "userId": 96741,
+  "cartId": "9c325432-3731-4f98-8a30-56527c613e09",
+  "preferredProducts": [
+    409,
+    684,
+    3033,
+    3297,
+    2132,
+    3036,
+    991,
+    13,
+    550
+  ],
+  "productReviews": [
+    {
+      "productId": 1033,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-01-27T22:02:30.1967883+02:00"
+    },
+    {
+      "productId": 845,
+      "reviewText": "this circuit is whole-grain.",
+      "reviewDate": "2019-01-19T07:52:06.4114147+02:00"
+    },
+    {
+      "productId": 2347,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-07-07T02:21:01.9667516+03:00"
+    }
+  ]
+}

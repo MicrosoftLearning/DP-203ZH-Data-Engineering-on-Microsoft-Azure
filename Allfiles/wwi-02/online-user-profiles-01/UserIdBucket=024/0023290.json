@@ -1,0 +1,37 @@
+{
+  "userId": 23290,
+  "cartId": "b68f8e5a-d752-4f01-b944-4cd4abe6700d",
+  "preferredProducts": [
+    4080,
+    1117,
+    3444,
+    1929,
+    4436,
+    3886,
+    3146,
+    916,
+    2544
+  ],
+  "productReviews": [
+    {
+      "productId": 4944,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-06-10T22:53:19.4496594+03:00"
+    },
+    {
+      "productId": 3852,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-03-15T09:29:19.2395669+02:00"
+    },
+    {
+      "productId": 4431,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-01-28T10:54:23.7631229+02:00"
+    },
+    {
+      "productId": 4459,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-11-19T07:57:09.6890768+02:00"
+    }
+  ]
+}

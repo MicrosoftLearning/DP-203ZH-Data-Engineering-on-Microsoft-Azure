@@ -1,0 +1,27 @@
+{
+  "userId": 10876,
+  "cartId": "bbb83669-4a31-446c-a63b-530d7f5c3d86",
+  "preferredProducts": [
+    893,
+    5,
+    313,
+    1026
+  ],
+  "productReviews": [
+    {
+      "productId": 2283,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-12-16T01:46:05.2247995+02:00"
+    },
+    {
+      "productId": 1549,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-04-28T12:08:05.7404843+03:00"
+    },
+    {
+      "productId": 2085,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-11-10T03:02:32.3330272+02:00"
+    }
+  ]
+}

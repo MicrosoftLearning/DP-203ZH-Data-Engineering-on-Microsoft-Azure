@@ -1,0 +1,31 @@
+{
+  "userId": 17404,
+  "cartId": "94dbe95a-c1c4-48d6-9744-c56c236bb860",
+  "preferredProducts": [
+    4130,
+    3307,
+    698
+  ],
+  "productReviews": [
+    {
+      "productId": 1268,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-08-23T01:34:10.1438866+03:00"
+    },
+    {
+      "productId": 1323,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-07-29T12:17:05.4608527+03:00"
+    },
+    {
+      "productId": 2829,
+      "reviewText": "This Dynamic works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-06-16T08:18:04.557794+03:00"
+    },
+    {
+      "productId": 3780,
+      "reviewText": "This Security works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2017-07-01T20:01:28.4645679+03:00"
+    }
+  ]
+}

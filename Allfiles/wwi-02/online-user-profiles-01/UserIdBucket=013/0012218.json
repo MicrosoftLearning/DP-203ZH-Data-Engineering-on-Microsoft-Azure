@@ -1,0 +1,32 @@
+{
+  "userId": 12218,
+  "cartId": "3edbb4b3-edcf-42c2-a76c-3d988f73e739",
+  "preferredProducts": [
+    2661,
+    1013,
+    2110,
+    1281
+  ],
+  "productReviews": [
+    {
+      "productId": 1681,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-07-21T07:23:42.0095416+03:00"
+    },
+    {
+      "productId": 3448,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-08-07T21:55:52.2720221+03:00"
+    },
+    {
+      "productId": 4340,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2016-11-03T03:06:23.0001525+02:00"
+    },
+    {
+      "productId": 2486,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-10-06T07:14:50.5434444+03:00"
+    }
+  ]
+}

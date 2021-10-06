@@ -1,0 +1,31 @@
+{
+  "userId": 41467,
+  "cartId": "cb5ae682-00c3-4711-91a7-4c407ca414ba",
+  "preferredProducts": [
+    1860,
+    2146,
+    2966
+  ],
+  "productReviews": [
+    {
+      "productId": 628,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-11-05T18:17:33.780261+02:00"
+    },
+    {
+      "productId": 3510,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-04-22T15:40:08.9518313+03:00"
+    },
+    {
+      "productId": 3446,
+      "reviewText": "This Technician works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2017-02-28T16:39:14.5629407+02:00"
+    },
+    {
+      "productId": 3904,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-11T21:08:45.4955174+03:00"
+    }
+  ]
+}

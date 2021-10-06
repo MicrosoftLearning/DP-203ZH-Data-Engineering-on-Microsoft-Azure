@@ -1,0 +1,29 @@
+{
+  "userId": 53376,
+  "cartId": "5eb743c6-c111-42c9-8339-d39dae9d9751",
+  "preferredProducts": [
+    4773,
+    3839,
+    3123,
+    2072,
+    884,
+    2414
+  ],
+  "productReviews": [
+    {
+      "productId": 228,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-09-06T22:35:23.7100067+03:00"
+    },
+    {
+      "productId": 1003,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-04-11T10:01:17.0830781+03:00"
+    },
+    {
+      "productId": 2129,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-03-21T06:52:16.6230428+02:00"
+    }
+  ]
+}

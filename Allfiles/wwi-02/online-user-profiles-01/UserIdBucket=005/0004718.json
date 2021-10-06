@@ -1,0 +1,30 @@
+{
+  "userId": 4718,
+  "cartId": "205f8abe-61f2-494f-bb75-b92dd8f273e3",
+  "preferredProducts": [
+    4421,
+    1046
+  ],
+  "productReviews": [
+    {
+      "productId": 1916,
+      "reviewText": "this toolset is hyper.",
+      "reviewDate": "2018-06-25T06:35:22.6397235+03:00"
+    },
+    {
+      "productId": 2283,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-07-28T00:36:28.6852292+03:00"
+    },
+    {
+      "productId": 3187,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-09-10T19:32:01.6648117+03:00"
+    },
+    {
+      "productId": 246,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-02-07T10:37:00.9658921+02:00"
+    }
+  ]
+}

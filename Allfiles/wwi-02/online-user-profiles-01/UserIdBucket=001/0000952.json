@@ -1,0 +1,31 @@
+{
+  "userId": 952,
+  "cartId": "987e9771-8286-4bd7-b51b-944a20e87a09",
+  "preferredProducts": [
+    2343,
+    2185,
+    4199,
+    542,
+    1616,
+    2937,
+    4181,
+    2375
+  ],
+  "productReviews": [
+    {
+      "productId": 4506,
+      "reviewText": "this Buckinghamshire is vertical.",
+      "reviewDate": "2018-07-23T01:35:03.6203174+03:00"
+    },
+    {
+      "productId": 4390,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-26T22:51:40.8403823+02:00"
+    },
+    {
+      "productId": 840,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-06-07T12:22:44.5391571+03:00"
+    }
+  ]
+}

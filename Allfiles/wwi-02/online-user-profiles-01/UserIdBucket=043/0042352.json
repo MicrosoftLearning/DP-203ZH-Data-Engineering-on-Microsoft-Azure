@@ -1,0 +1,27 @@
+{
+  "userId": 42352,
+  "cartId": "e7ea79ec-9f66-4050-8c53-2ce1f206be2f",
+  "preferredProducts": [
+    2044,
+    2804,
+    2960,
+    1346
+  ],
+  "productReviews": [
+    {
+      "productId": 2205,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2016-11-20T13:09:44.9212257+02:00"
+    },
+    {
+      "productId": 875,
+      "reviewText": "this content-based is mellow.",
+      "reviewDate": "2019-08-14T09:48:15.0440991+03:00"
+    },
+    {
+      "productId": 4553,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-02-20T12:49:34.3414037+02:00"
+    }
+  ]
+}

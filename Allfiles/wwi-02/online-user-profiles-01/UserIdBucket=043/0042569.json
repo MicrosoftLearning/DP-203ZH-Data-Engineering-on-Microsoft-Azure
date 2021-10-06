@@ -1,0 +1,22 @@
+{
+  "userId": 42569,
+  "cartId": "10a17825-add0-4c3c-9ef8-a1bd7c19f50c",
+  "preferredProducts": [
+    2578,
+    2124,
+    4202,
+    1055
+  ],
+  "productReviews": [
+    {
+      "productId": 2443,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-10-18T23:28:59.0942032+03:00"
+    },
+    {
+      "productId": 4477,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-11-15T10:25:18.8435988+02:00"
+    }
+  ]
+}

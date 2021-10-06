@@ -1,0 +1,33 @@
+{
+  "userId": 57868,
+  "cartId": "af1e6273-54f3-4055-8ad4-992d22596eeb",
+  "preferredProducts": [
+    44,
+    4240,
+    358,
+    3796,
+    4650,
+    1935,
+    1494,
+    1635,
+    2416,
+    826
+  ],
+  "productReviews": [
+    {
+      "productId": 4220,
+      "reviewText": "This Avon works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-10-23T10:00:52.8018366+03:00"
+    },
+    {
+      "productId": 3193,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-10-23T14:24:08.6589248+03:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2020-01-22T12:58:22.3158957+02:00"
+    }
+  ]
+}

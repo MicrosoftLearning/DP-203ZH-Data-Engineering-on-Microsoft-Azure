@@ -1,0 +1,37 @@
+{
+  "userId": 42679,
+  "cartId": "685f8b10-0037-4808-884b-0f4955f69c5f",
+  "preferredProducts": [
+    55,
+    3885,
+    1857,
+    2200,
+    113,
+    1378,
+    1834,
+    2750,
+    2310
+  ],
+  "productReviews": [
+    {
+      "productId": 2994,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-02-20T18:28:43.663139+02:00"
+    },
+    {
+      "productId": 2570,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-01-19T14:51:32.6687273+02:00"
+    },
+    {
+      "productId": 4591,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-05-11T16:22:55.2413698+03:00"
+    },
+    {
+      "productId": 4168,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-11-16T19:43:28.3747015+02:00"
+    }
+  ]
+}

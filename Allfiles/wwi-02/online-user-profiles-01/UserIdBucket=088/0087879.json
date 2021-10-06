@@ -1,0 +1,28 @@
+{
+  "userId": 87879,
+  "cartId": "282fad83-1af7-4caf-9590-28004d3753af",
+  "preferredProducts": [
+    3192,
+    3488,
+    1831,
+    3494,
+    4236
+  ],
+  "productReviews": [
+    {
+      "productId": 3856,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-03-10T16:11:56.2401148+02:00"
+    },
+    {
+      "productId": 3346,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-05-07T21:05:44.9616239+03:00"
+    },
+    {
+      "productId": 1930,
+      "reviewText": "This Home, Outdoors & Health works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-06-12T09:17:18.1450527+03:00"
+    }
+  ]
+}

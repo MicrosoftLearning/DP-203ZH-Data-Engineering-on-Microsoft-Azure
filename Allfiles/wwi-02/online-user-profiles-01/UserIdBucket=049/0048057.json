@@ -1,0 +1,26 @@
+{
+  "userId": 48057,
+  "cartId": "d252feb4-f168-4236-8d61-24c97a846ad1",
+  "preferredProducts": [
+    2039,
+    816,
+    1361
+  ],
+  "productReviews": [
+    {
+      "productId": 1400,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-01-15T22:52:48.2340909+02:00"
+    },
+    {
+      "productId": 2849,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-06-04T07:42:17.9973876+03:00"
+    },
+    {
+      "productId": 3707,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-01-31T22:08:52.8327548+02:00"
+    }
+  ]
+}

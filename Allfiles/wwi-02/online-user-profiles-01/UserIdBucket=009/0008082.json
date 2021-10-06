@@ -1,0 +1,39 @@
+{
+  "userId": 8082,
+  "cartId": "29a0d00d-d8e9-4da9-aeaa-a9d39efdaa78",
+  "preferredProducts": [
+    322,
+    1367,
+    650,
+    1314,
+    3334,
+    3143
+  ],
+  "productReviews": [
+    {
+      "productId": 2232,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-07-16T21:55:41.1116512+03:00"
+    },
+    {
+      "productId": 2217,
+      "reviewText": "this content is papery.",
+      "reviewDate": "2019-08-06T18:10:43.5145853+03:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-12-09T09:14:04.6054963+02:00"
+    },
+    {
+      "productId": 4721,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-02-03T10:53:26.8929371+02:00"
+    },
+    {
+      "productId": 157,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-07-21T18:00:21.7009079+03:00"
+    }
+  ]
+}

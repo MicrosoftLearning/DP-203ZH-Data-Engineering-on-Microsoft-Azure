@@ -1,0 +1,23 @@
+{
+  "userId": 32417,
+  "cartId": "df0cf5fa-7cb8-4d2f-994b-5d6ede3ce793",
+  "preferredProducts": [
+    1250,
+    2988,
+    432,
+    352,
+    3775
+  ],
+  "productReviews": [
+    {
+      "productId": 2360,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-11-06T03:23:16.9861669+02:00"
+    },
+    {
+      "productId": 4270,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-02-25T17:37:08.6894468+02:00"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "userId": 22477,
+  "cartId": "f64a36ec-918e-4155-b7f7-b5c9b8119bf1",
+  "preferredProducts": [
+    3975,
+    3700,
+    4762,
+    3961
+  ],
+  "productReviews": [
+    {
+      "productId": 4381,
+      "reviewText": "this algorithm is ratty.",
+      "reviewDate": "2018-08-05T07:20:26.3432374+03:00"
+    },
+    {
+      "productId": 2972,
+      "reviewText": "this service-desk is flirty.",
+      "reviewDate": "2017-08-08T01:45:01.7603812+03:00"
+    }
+  ]
+}

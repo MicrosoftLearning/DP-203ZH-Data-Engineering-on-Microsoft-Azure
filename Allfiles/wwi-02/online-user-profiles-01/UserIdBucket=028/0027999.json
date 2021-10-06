@@ -1,0 +1,38 @@
+{
+  "userId": 27999,
+  "cartId": "a0537861-474b-48d4-84d1-21a542ebeedd",
+  "preferredProducts": [
+    3327,
+    2159,
+    1333,
+    304,
+    3023,
+    1192,
+    2510,
+    3743,
+    4275,
+    544
+  ],
+  "productReviews": [
+    {
+      "productId": 4354,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-11-10T11:27:26.8438222+02:00"
+    },
+    {
+      "productId": 3335,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-03-10T05:08:14.3135302+02:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-10-05T14:43:04.1108684+03:00"
+    },
+    {
+      "productId": 181,
+      "reviewText": "this indigo is perplexed.",
+      "reviewDate": "2019-05-31T08:21:17.6559097+03:00"
+    }
+  ]
+}

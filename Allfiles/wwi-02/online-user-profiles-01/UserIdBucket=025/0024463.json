@@ -1,0 +1,36 @@
+{
+  "userId": 24463,
+  "cartId": "cd463f22-f37d-4117-886d-b90c32b0ec82",
+  "preferredProducts": [
+    845,
+    1444,
+    3572
+  ],
+  "productReviews": [
+    {
+      "productId": 3444,
+      "reviewText": "this monitor is awesome.",
+      "reviewDate": "2019-12-29T22:29:11.8971722+02:00"
+    },
+    {
+      "productId": 4727,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-09-12T13:10:24.9259713+03:00"
+    },
+    {
+      "productId": 765,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-01-06T20:25:02.2006772+02:00"
+    },
+    {
+      "productId": 4265,
+      "reviewText": "This Program works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2020-04-09T15:05:24.8255541+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-01-04T12:27:35.0900736+02:00"
+    }
+  ]
+}

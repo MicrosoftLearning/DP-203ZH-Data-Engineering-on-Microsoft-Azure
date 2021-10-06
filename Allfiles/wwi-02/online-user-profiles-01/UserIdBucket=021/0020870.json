@@ -1,0 +1,27 @@
+{
+  "userId": 20870,
+  "cartId": "22030e4c-03a5-409a-a06a-9f12c38159ba",
+  "preferredProducts": [
+    3656,
+    265,
+    4806,
+    4410
+  ],
+  "productReviews": [
+    {
+      "productId": 2577,
+      "reviewText": "this Handcrafted is mellow.",
+      "reviewDate": "2018-11-02T11:16:54.3267124+02:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-08-15T15:29:16.252767+03:00"
+    },
+    {
+      "productId": 2119,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-10-06T09:34:42.8098306+03:00"
+    }
+  ]
+}

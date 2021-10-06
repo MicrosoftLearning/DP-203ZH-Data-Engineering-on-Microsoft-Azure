@@ -1,0 +1,30 @@
+{
+  "userId": 22222,
+  "cartId": "bdf02e98-cd20-4608-b36e-f47057e9e10a",
+  "preferredProducts": [
+    3868,
+    1599,
+    4847,
+    2616,
+    1061,
+    799,
+    2383
+  ],
+  "productReviews": [
+    {
+      "productId": 1390,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-05-15T10:58:40.3983134+03:00"
+    },
+    {
+      "productId": 999,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-10-12T18:39:04.9782558+03:00"
+    },
+    {
+      "productId": 2051,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-04-16T11:58:43.8636802+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 351,
+  "cartId": "cb29d453-7fc8-4735-b6b9-76063dcd5c29",
+  "preferredProducts": [
+    3854,
+    361,
+    4131,
+    2320,
+    2024,
+    4797,
+    4206,
+    3427
+  ],
+  "productReviews": [
+    {
+      "productId": 3286,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-12-11T10:44:06.6983728+02:00"
+    },
+    {
+      "productId": 3858,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-04-23T19:21:12.3234814+03:00"
+    },
+    {
+      "productId": 4982,
+      "reviewText": "This cyan works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-10-30T18:38:30.8088735+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 96765,
+  "cartId": "be6825bc-e274-4cb6-af26-7fc61ba2eb13",
+  "preferredProducts": [
+    483,
+    3862,
+    1668,
+    2087
+  ],
+  "productReviews": [
+    {
+      "productId": 1416,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-06-06T23:14:42.9826923+03:00"
+    },
+    {
+      "productId": 3766,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-07-02T08:17:16.5705343+03:00"
+    },
+    {
+      "productId": 2036,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-10-20T10:09:55.4404985+03:00"
+    }
+  ]
+}

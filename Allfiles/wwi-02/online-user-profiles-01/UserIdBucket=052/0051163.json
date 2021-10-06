@@ -1,0 +1,43 @@
+{
+  "userId": 51163,
+  "cartId": "d7ae49e7-10e6-4f56-8e20-5b8229515dfe",
+  "preferredProducts": [
+    3864,
+    2967,
+    2831,
+    1885,
+    3613,
+    20,
+    2202,
+    776,
+    1358,
+    743
+  ],
+  "productReviews": [
+    {
+      "productId": 3351,
+      "reviewText": "This is a really good AI.",
+      "reviewDate": "2018-11-29T23:48:52.6889703+02:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-09-08T05:17:04.2059158+03:00"
+    },
+    {
+      "productId": 1010,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-07-27T16:57:55.5183881+03:00"
+    },
+    {
+      "productId": 1328,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-09-21T18:49:40.3437853+03:00"
+    },
+    {
+      "productId": 93,
+      "reviewText": "This Chief works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-05-17T11:07:48.8840261+03:00"
+    }
+  ]
+}

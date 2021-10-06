@@ -1,0 +1,29 @@
+{
+  "userId": 89777,
+  "cartId": "745e9b5a-f029-4048-bd98-831b65a80eef",
+  "preferredProducts": [
+    2065,
+    1041,
+    549,
+    2348,
+    4781,
+    1327
+  ],
+  "productReviews": [
+    {
+      "productId": 1472,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-12-30T02:01:43.4168241+02:00"
+    },
+    {
+      "productId": 2497,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-03-13T23:36:15.207405+02:00"
+    },
+    {
+      "productId": 2898,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-11-02T18:50:40.3922338+02:00"
+    }
+  ]
+}

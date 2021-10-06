@@ -1,0 +1,27 @@
+{
+  "userId": 1421,
+  "cartId": "a0277ec3-7667-4690-8687-02dfd29953c8",
+  "preferredProducts": [
+    4907,
+    4544,
+    1939,
+    977
+  ],
+  "productReviews": [
+    {
+      "productId": 2456,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-04-12T09:00:45.8348588+03:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-10-04T04:01:36.0317644+03:00"
+    },
+    {
+      "productId": 155,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-03-08T11:17:09.1144973+02:00"
+    }
+  ]
+}

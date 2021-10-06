@@ -1,0 +1,34 @@
+{
+  "userId": 88231,
+  "cartId": "efa6e69f-3aa2-41b4-b6fd-59db01c482f4",
+  "preferredProducts": [
+    3146,
+    3766,
+    3515,
+    4950,
+    2160,
+    1285
+  ],
+  "productReviews": [
+    {
+      "productId": 1166,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-01-25T09:25:10.0876031+02:00"
+    },
+    {
+      "productId": 704,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-11-19T17:08:05.0664442+02:00"
+    },
+    {
+      "productId": 1771,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2016-06-28T13:44:23.0769712+03:00"
+    },
+    {
+      "productId": 810,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-06-18T07:20:34.0002653+03:00"
+    }
+  ]
+}

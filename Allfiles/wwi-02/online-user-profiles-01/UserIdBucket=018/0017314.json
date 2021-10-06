@@ -1,0 +1,30 @@
+{
+  "userId": 17314,
+  "cartId": "9bd74157-7d5b-438e-9017-b347488c1c35",
+  "preferredProducts": [
+    3162,
+    2400,
+    245,
+    3902,
+    2491,
+    2935,
+    652
+  ],
+  "productReviews": [
+    {
+      "productId": 2480,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-05-11T21:14:55.1960085+03:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-08-16T03:20:09.2520324+03:00"
+    },
+    {
+      "productId": 435,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-10-29T05:53:57.07091+03:00"
+    }
+  ]
+}

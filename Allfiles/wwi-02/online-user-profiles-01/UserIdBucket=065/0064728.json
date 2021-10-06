@@ -1,0 +1,30 @@
+{
+  "userId": 64728,
+  "cartId": "839cbd36-2f61-4191-acad-e5b8c90ca988",
+  "preferredProducts": [
+    3058,
+    2909,
+    130,
+    3178,
+    2261,
+    3888,
+    2658
+  ],
+  "productReviews": [
+    {
+      "productId": 1327,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-01-18T05:34:39.5185126+02:00"
+    },
+    {
+      "productId": 2848,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-04-11T05:27:30.7015778+03:00"
+    },
+    {
+      "productId": 4449,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-06-07T09:02:45.7258422+03:00"
+    }
+  ]
+}

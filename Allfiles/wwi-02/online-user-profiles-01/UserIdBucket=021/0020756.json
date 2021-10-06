@@ -1,0 +1,30 @@
+{
+  "userId": 20756,
+  "cartId": "7cafacf0-e6c7-416f-ab55-6a27680dad5d",
+  "preferredProducts": [
+    1226,
+    3470,
+    3013,
+    2385,
+    2235,
+    1746,
+    4431
+  ],
+  "productReviews": [
+    {
+      "productId": 876,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-09-18T21:47:38.6119632+03:00"
+    },
+    {
+      "productId": 4920,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-08-30T00:12:37.8251832+03:00"
+    },
+    {
+      "productId": 2447,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-09-19T13:15:13.2271299+03:00"
+    }
+  ]
+}

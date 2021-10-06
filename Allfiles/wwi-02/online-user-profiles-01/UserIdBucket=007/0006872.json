@@ -1,0 +1,35 @@
+{
+  "userId": 6872,
+  "cartId": "f0fc9ef1-3187-4aec-b54f-53aafd7a639d",
+  "preferredProducts": [
+    3800,
+    1331
+  ],
+  "productReviews": [
+    {
+      "productId": 2336,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-07-05T05:20:12.6750375+03:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-03-29T04:26:56.7106851+02:00"
+    },
+    {
+      "productId": 1778,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-02-01T23:17:12.864064+02:00"
+    },
+    {
+      "productId": 842,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-01-16T09:28:07.9015562+02:00"
+    },
+    {
+      "productId": 2389,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-04-07T01:56:31.5711944+03:00"
+    }
+  ]
+}

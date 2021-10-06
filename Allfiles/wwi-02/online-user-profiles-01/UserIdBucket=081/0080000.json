@@ -1,0 +1,28 @@
+{
+  "userId": 80000,
+  "cartId": "e6ae3d1c-041c-4830-b08e-ec28bd8534dc",
+  "preferredProducts": [
+    1012,
+    3795,
+    2244,
+    3815,
+    4080,
+    2033,
+    1913,
+    2040,
+    2096,
+    4410
+  ],
+  "productReviews": [
+    {
+      "productId": 124,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-10-07T18:45:22.3700582+03:00"
+    },
+    {
+      "productId": 3826,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-02-15T16:05:38.4424829+02:00"
+    }
+  ]
+}

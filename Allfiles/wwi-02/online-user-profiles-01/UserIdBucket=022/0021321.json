@@ -1,0 +1,32 @@
+{
+  "userId": 21321,
+  "cartId": "8cff1b55-7ca5-4c44-bfd3-f730514f2fa0",
+  "preferredProducts": [
+    1330,
+    1704,
+    1704,
+    2824
+  ],
+  "productReviews": [
+    {
+      "productId": 3855,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-01-19T14:38:53.4440995+02:00"
+    },
+    {
+      "productId": 3693,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-08-22T06:02:13.3876179+03:00"
+    },
+    {
+      "productId": 4674,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-08-09T23:29:17.4637472+03:00"
+    },
+    {
+      "productId": 2209,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-07-01T02:23:04.9637843+03:00"
+    }
+  ]
+}

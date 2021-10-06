@@ -1,0 +1,32 @@
+{
+  "userId": 13279,
+  "cartId": "d032e33b-e044-4f84-b706-495efa1abc86",
+  "preferredProducts": [
+    1552,
+    3027,
+    2508,
+    3211
+  ],
+  "productReviews": [
+    {
+      "productId": 783,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-01-26T10:15:27.7017284+02:00"
+    },
+    {
+      "productId": 1721,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-03-08T09:41:33.7739333+02:00"
+    },
+    {
+      "productId": 4742,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-10-28T06:31:18.3283955+03:00"
+    },
+    {
+      "productId": 2704,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-07-30T11:32:06.9191889+03:00"
+    }
+  ]
+}

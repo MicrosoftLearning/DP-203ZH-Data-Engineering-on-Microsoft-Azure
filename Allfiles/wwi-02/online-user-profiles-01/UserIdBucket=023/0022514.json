@@ -1,0 +1,27 @@
+{
+  "userId": 22514,
+  "cartId": "8f11c153-17d2-4a96-afc1-458018c2c008",
+  "preferredProducts": [
+    387,
+    2623,
+    1282,
+    3286
+  ],
+  "productReviews": [
+    {
+      "productId": 1392,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-06-16T05:09:38.609033+03:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-07-25T16:55:41.00246+03:00"
+    },
+    {
+      "productId": 363,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-08-10T13:57:47.9404186+03:00"
+    }
+  ]
+}

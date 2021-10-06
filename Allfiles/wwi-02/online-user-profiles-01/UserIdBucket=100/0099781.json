@@ -1,0 +1,36 @@
+{
+  "userId": 99781,
+  "cartId": "efb50f49-a31b-4ee9-b45c-fe30e0e54ea1",
+  "preferredProducts": [
+    190,
+    4378,
+    50,
+    3809,
+    1669,
+    4398,
+    1315,
+    2602
+  ],
+  "productReviews": [
+    {
+      "productId": 1009,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-05-31T19:10:14.7056271+03:00"
+    },
+    {
+      "productId": 502,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2016-07-11T04:24:04.270452+03:00"
+    },
+    {
+      "productId": 3807,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-04-12T02:44:17.8384706+03:00"
+    },
+    {
+      "productId": 627,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-10-02T06:33:38.7792497+03:00"
+    }
+  ]
+}

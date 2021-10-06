@@ -1,0 +1,27 @@
+{
+  "userId": 1806,
+  "cartId": "3678c7f2-d3c3-44f9-8b40-dd9d7dce3fdc",
+  "preferredProducts": [
+    248,
+    505,
+    4267,
+    2535,
+    2993,
+    3774,
+    3130,
+    4276,
+    3866
+  ],
+  "productReviews": [
+    {
+      "productId": 1188,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-02-11T21:11:36.6388615+02:00"
+    },
+    {
+      "productId": 923,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-06-09T16:21:30.7653374+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 25721,
+  "cartId": "64226f29-8c40-4d7c-9ae6-9d85a8e3a2f8",
+  "preferredProducts": [
+    4776,
+    2023,
+    650,
+    2379,
+    1300,
+    3578,
+    4087,
+    1888,
+    3704,
+    973
+  ],
+  "productReviews": [
+    {
+      "productId": 35,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-11-23T06:01:58.5597725+02:00"
+    },
+    {
+      "productId": 4596,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-05-03T18:31:57.8429421+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-12-25T19:58:42.4660578+02:00"
+    }
+  ]
+}

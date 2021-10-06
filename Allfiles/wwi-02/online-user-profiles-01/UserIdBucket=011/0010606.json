@@ -1,0 +1,26 @@
+{
+  "userId": 10606,
+  "cartId": "3cb06d59-ee9f-4db6-95df-c0f0bd870823",
+  "preferredProducts": [
+    3469,
+    1812,
+    500,
+    309,
+    2752,
+    4142,
+    1388,
+    4900
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-12-17T12:24:06.19309+02:00"
+    },
+    {
+      "productId": 1796,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-07-23T08:38:46.1179693+03:00"
+    }
+  ]
+}

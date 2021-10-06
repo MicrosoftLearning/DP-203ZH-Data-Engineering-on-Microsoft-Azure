@@ -1,0 +1,31 @@
+{
+  "userId": 4744,
+  "cartId": "96d01381-e4b3-44d4-839e-312a4e921f42",
+  "preferredProducts": [
+    2910,
+    3138,
+    144,
+    2515,
+    808,
+    1913,
+    2373,
+    1049
+  ],
+  "productReviews": [
+    {
+      "productId": 4442,
+      "reviewText": "This Handmade works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-05-01T14:54:37.5479604+03:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-12-31T16:11:11.4435517+02:00"
+    },
+    {
+      "productId": 746,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-02-12T18:11:36.6010295+02:00"
+    }
+  ]
+}

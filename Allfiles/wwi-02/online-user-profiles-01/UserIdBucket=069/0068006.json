@@ -1,0 +1,38 @@
+{
+  "userId": 68006,
+  "cartId": "0c8634f3-1be2-49ce-9aa0-a6877b649e38",
+  "preferredProducts": [
+    2341,
+    2734,
+    2712,
+    1420,
+    4787,
+    3315,
+    4701,
+    601,
+    3873,
+    3032
+  ],
+  "productReviews": [
+    {
+      "productId": 1187,
+      "reviewText": "this Ergonomic is slurpee.",
+      "reviewDate": "2019-12-08T21:12:08.7276481+02:00"
+    },
+    {
+      "productId": 2872,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-09-20T10:39:06.4850863+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-01-01T05:04:12.0665418+02:00"
+    },
+    {
+      "productId": 2815,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-03-17T13:21:31.9480412+02:00"
+    }
+  ]
+}

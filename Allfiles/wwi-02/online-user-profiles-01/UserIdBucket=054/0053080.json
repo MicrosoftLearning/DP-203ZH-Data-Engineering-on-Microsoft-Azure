@@ -1,0 +1,31 @@
+{
+  "userId": 53080,
+  "cartId": "d4d1970f-86c8-40d9-8208-1802544793c3",
+  "preferredProducts": [
+    4508,
+    284,
+    3277
+  ],
+  "productReviews": [
+    {
+      "productId": 447,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-02-12T20:23:15.047014+02:00"
+    },
+    {
+      "productId": 1559,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-04-10T23:55:47.4253329+03:00"
+    },
+    {
+      "productId": 2432,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-06-11T04:14:03.6622746+03:00"
+    },
+    {
+      "productId": 1804,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-08-13T02:12:41.4731266+03:00"
+    }
+  ]
+}

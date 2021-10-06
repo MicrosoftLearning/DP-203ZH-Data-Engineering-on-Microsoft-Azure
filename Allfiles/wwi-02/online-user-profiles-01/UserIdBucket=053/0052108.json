@@ -1,0 +1,38 @@
+{
+  "userId": 52108,
+  "cartId": "610ff7b0-d52f-487c-8b07-0f8772f06ff2",
+  "preferredProducts": [
+    2701,
+    4247,
+    1799,
+    4980,
+    1441
+  ],
+  "productReviews": [
+    {
+      "productId": 4844,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-10-01T04:18:41.0624871+03:00"
+    },
+    {
+      "productId": 4472,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-04-18T11:50:23.7687781+03:00"
+    },
+    {
+      "productId": 3722,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-08-23T13:20:55.4485166+03:00"
+    },
+    {
+      "productId": 2262,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-06-01T18:24:06.1201292+03:00"
+    },
+    {
+      "productId": 1722,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2020-02-14T03:06:41.8061177+02:00"
+    }
+  ]
+}

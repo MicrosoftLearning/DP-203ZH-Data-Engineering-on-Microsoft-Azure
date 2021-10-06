@@ -1,0 +1,35 @@
+{
+  "userId": 9121,
+  "cartId": "20d4c628-0c6e-4fbe-8209-96204aad65d0",
+  "preferredProducts": [
+    1558,
+    2540,
+    3385,
+    2553,
+    2810,
+    2909,
+    3794
+  ],
+  "productReviews": [
+    {
+      "productId": 4676,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-08-12T18:02:01.07843+03:00"
+    },
+    {
+      "productId": 2542,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2020-02-03T05:47:14.2842784+02:00"
+    },
+    {
+      "productId": 1030,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-05-25T15:33:06.1187784+03:00"
+    },
+    {
+      "productId": 379,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-03-11T13:34:55.0977348+02:00"
+    }
+  ]
+}

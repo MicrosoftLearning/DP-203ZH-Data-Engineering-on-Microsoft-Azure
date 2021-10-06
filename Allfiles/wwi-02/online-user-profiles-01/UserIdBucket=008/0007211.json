@@ -1,0 +1,26 @@
+{
+  "userId": 7211,
+  "cartId": "9be18364-f702-4042-bac3-e9fd228bb866",
+  "preferredProducts": [
+    2939,
+    1984,
+    2412
+  ],
+  "productReviews": [
+    {
+      "productId": 2085,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-01-14T12:56:17.6536848+02:00"
+    },
+    {
+      "productId": 3249,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-12-22T15:44:28.1279643+02:00"
+    },
+    {
+      "productId": 1940,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-01-23T08:01:17.8642478+02:00"
+    }
+  ]
+}

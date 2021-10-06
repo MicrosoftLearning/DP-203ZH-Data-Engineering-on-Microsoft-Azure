@@ -1,0 +1,38 @@
+{
+  "userId": 32218,
+  "cartId": "5ccc99ed-ba91-40bc-bf44-f6076a5849ce",
+  "preferredProducts": [
+    243,
+    4456,
+    1441,
+    287,
+    3860
+  ],
+  "productReviews": [
+    {
+      "productId": 833,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-02-21T15:57:44.4053328+02:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-01-23T02:13:47.8170998+02:00"
+    },
+    {
+      "productId": 532,
+      "reviewText": "this Handcrafted is brown.",
+      "reviewDate": "2018-03-30T22:21:16.5896517+03:00"
+    },
+    {
+      "productId": 2834,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-06-13T04:53:24.3203485+03:00"
+    },
+    {
+      "productId": 2110,
+      "reviewText": "this e-commerce is tasty.",
+      "reviewDate": "2018-11-03T04:36:02.6251777+02:00"
+    }
+  ]
+}

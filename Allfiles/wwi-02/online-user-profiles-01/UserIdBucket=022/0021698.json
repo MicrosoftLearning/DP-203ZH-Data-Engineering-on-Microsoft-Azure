@@ -1,0 +1,36 @@
+{
+  "userId": 21698,
+  "cartId": "8a5fc80d-1ab9-4a96-922b-477fcc7b0fb7",
+  "preferredProducts": [
+    1930,
+    1304,
+    121,
+    4563,
+    2764,
+    3117,
+    528,
+    3257
+  ],
+  "productReviews": [
+    {
+      "productId": 801,
+      "reviewText": "this olive is tasty.",
+      "reviewDate": "2017-12-04T14:54:58.0540525+02:00"
+    },
+    {
+      "productId": 909,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-09-10T22:09:29.591115+03:00"
+    },
+    {
+      "productId": 4893,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-01-16T10:17:04.5060723+02:00"
+    },
+    {
+      "productId": 4895,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-03-11T08:32:44.102331+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 1081,
+  "cartId": "c9383c24-a558-41fb-a565-47affc6f5dcc",
+  "preferredProducts": [
+    4451,
+    1197,
+    1476,
+    2923,
+    4085
+  ],
+  "productReviews": [
+    {
+      "productId": 1371,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-01-18T10:23:28.3561931+02:00"
+    },
+    {
+      "productId": 1896,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-04-05T01:21:34.8301098+03:00"
+    },
+    {
+      "productId": 2173,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-05-09T19:37:22.4520016+03:00"
+    }
+  ]
+}

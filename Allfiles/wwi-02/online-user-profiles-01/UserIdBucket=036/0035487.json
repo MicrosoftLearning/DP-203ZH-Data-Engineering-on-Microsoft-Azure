@@ -1,0 +1,40 @@
+{
+  "userId": 35487,
+  "cartId": "b1049e68-2127-46b6-b2e3-41a0864c1ff3",
+  "preferredProducts": [
+    333,
+    2105,
+    4154,
+    1854,
+    550,
+    417,
+    3834
+  ],
+  "productReviews": [
+    {
+      "productId": 997,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-05-28T23:22:01.0469189+03:00"
+    },
+    {
+      "productId": 735,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-09-16T03:39:11.4838973+03:00"
+    },
+    {
+      "productId": 2341,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-03-06T22:16:50.2251699+02:00"
+    },
+    {
+      "productId": 364,
+      "reviewText": "this Vista is standard.",
+      "reviewDate": "2017-08-11T02:58:27.4531025+03:00"
+    },
+    {
+      "productId": 2847,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-08-03T00:01:56.6110086+03:00"
+    }
+  ]
+}

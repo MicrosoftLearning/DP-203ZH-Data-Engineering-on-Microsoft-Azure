@@ -1,0 +1,26 @@
+{
+  "userId": 65319,
+  "cartId": "309932a1-4762-4af3-99ee-fe12f481baab",
+  "preferredProducts": [
+    1322,
+    971,
+    2082
+  ],
+  "productReviews": [
+    {
+      "productId": 813,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-07-24T14:22:39.9895487+03:00"
+    },
+    {
+      "productId": 379,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-11-11T22:23:38.4455525+02:00"
+    },
+    {
+      "productId": 1412,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-11-01T11:06:14.8771751+02:00"
+    }
+  ]
+}

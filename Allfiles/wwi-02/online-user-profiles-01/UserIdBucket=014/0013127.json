@@ -1,0 +1,35 @@
+{
+  "userId": 13127,
+  "cartId": "744b11ab-b486-42e5-a21e-173b7fe9115b",
+  "preferredProducts": [
+    901,
+    3600,
+    1976,
+    3370,
+    1486,
+    4759,
+    38
+  ],
+  "productReviews": [
+    {
+      "productId": 574,
+      "reviewText": "this Delaware is nifty.",
+      "reviewDate": "2018-10-31T17:38:02.1339451+02:00"
+    },
+    {
+      "productId": 2013,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-11-10T23:34:05.4644535+02:00"
+    },
+    {
+      "productId": 4140,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-03-31T21:15:18.3767703+03:00"
+    },
+    {
+      "productId": 361,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-03-24T18:28:45.4459803+02:00"
+    }
+  ]
+}

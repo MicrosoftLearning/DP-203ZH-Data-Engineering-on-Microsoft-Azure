@@ -1,0 +1,36 @@
+{
+  "userId": 56683,
+  "cartId": "ad9eaf2f-3274-4b23-95f7-a784e94c993c",
+  "preferredProducts": [
+    2831,
+    593,
+    4807
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-02-16T23:41:37.7238182+02:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-05-19T07:37:24.8919501+03:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "this background is hyper.",
+      "reviewDate": "2020-01-12T08:29:01.0231397+02:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-06-04T09:37:20.3125974+03:00"
+    },
+    {
+      "productId": 4104,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-01-16T22:47:59.1480092+02:00"
+    }
+  ]
+}

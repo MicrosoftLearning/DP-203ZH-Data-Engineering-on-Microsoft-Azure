@@ -1,0 +1,38 @@
+{
+  "userId": 6666,
+  "cartId": "6143dcbb-6333-4d2b-a67b-14b9bef3a9c6",
+  "preferredProducts": [
+    3336,
+    1434,
+    4943,
+    3865,
+    3394,
+    4165,
+    211,
+    109,
+    3886,
+    2203
+  ],
+  "productReviews": [
+    {
+      "productId": 198,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-08-11T22:20:51.9475342+03:00"
+    },
+    {
+      "productId": 1335,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-04-28T11:11:38.1526469+03:00"
+    },
+    {
+      "productId": 1581,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-07-26T14:58:36.7229652+03:00"
+    },
+    {
+      "productId": 1718,
+      "reviewText": "This Shoes & Music works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-09-09T22:19:55.1653998+03:00"
+    }
+  ]
+}

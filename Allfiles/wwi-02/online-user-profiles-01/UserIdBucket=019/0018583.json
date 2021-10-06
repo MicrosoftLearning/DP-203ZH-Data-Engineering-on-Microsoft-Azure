@@ -1,0 +1,27 @@
+{
+  "userId": 18583,
+  "cartId": "d2b2d2aa-3cec-4e16-98b1-e27e3b3ae924",
+  "preferredProducts": [
+    1802,
+    1933,
+    3540,
+    2157
+  ],
+  "productReviews": [
+    {
+      "productId": 2477,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-04-18T12:23:21.5298699+03:00"
+    },
+    {
+      "productId": 3695,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-11-10T17:05:02.6392195+02:00"
+    },
+    {
+      "productId": 2734,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-01-06T02:45:52.561457+02:00"
+    }
+  ]
+}

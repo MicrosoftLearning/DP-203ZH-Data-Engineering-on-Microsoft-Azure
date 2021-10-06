@@ -1,0 +1,27 @@
+{
+  "userId": 78033,
+  "cartId": "4b5bfbec-dbba-402f-9fe6-9d36c527841a",
+  "preferredProducts": [
+    1000,
+    1308,
+    3086,
+    4848
+  ],
+  "productReviews": [
+    {
+      "productId": 2277,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-05-22T21:43:30.816255+03:00"
+    },
+    {
+      "productId": 2083,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-04-22T13:14:51.260534+03:00"
+    },
+    {
+      "productId": 162,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Ports keeps them away.",
+      "reviewDate": "2017-10-27T13:31:37.4127981+03:00"
+    }
+  ]
+}

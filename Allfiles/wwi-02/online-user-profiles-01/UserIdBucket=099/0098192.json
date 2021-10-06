@@ -1,0 +1,23 @@
+{
+  "userId": 98192,
+  "cartId": "10964f0f-7046-430e-be80-98d2b6a0febf",
+  "preferredProducts": [
+    3906,
+    46,
+    1775,
+    2253,
+    3142
+  ],
+  "productReviews": [
+    {
+      "productId": 192,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-12-05T16:41:18.8047746+02:00"
+    },
+    {
+      "productId": 3748,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-05-05T23:53:57.0993205+03:00"
+    }
+  ]
+}

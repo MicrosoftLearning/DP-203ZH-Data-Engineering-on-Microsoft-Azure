@@ -1,0 +1,29 @@
+{
+  "userId": 8282,
+  "cartId": "7c6cd93d-6bd7-41b6-92bc-381ddc205990",
+  "preferredProducts": [
+    4023,
+    4955,
+    4065,
+    269,
+    2972,
+    1113
+  ],
+  "productReviews": [
+    {
+      "productId": 3945,
+      "reviewText": "This Wyoming works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-08-31T09:58:48.2747822+03:00"
+    },
+    {
+      "productId": 4431,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-01-04T11:10:57.2454876+02:00"
+    },
+    {
+      "productId": 2179,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-12-24T13:49:14.5635643+02:00"
+    }
+  ]
+}

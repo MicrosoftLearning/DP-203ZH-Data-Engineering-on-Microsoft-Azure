@@ -1,0 +1,24 @@
+{
+  "userId": 95063,
+  "cartId": "afa77750-8c51-45e7-9562-d65a8a4323fc",
+  "preferredProducts": [
+    3150,
+    1164,
+    1285,
+    2507,
+    1587,
+    2677
+  ],
+  "productReviews": [
+    {
+      "productId": 963,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-01-06T17:14:40.6743282+02:00"
+    },
+    {
+      "productId": 121,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-10-18T00:09:00.327478+03:00"
+    }
+  ]
+}

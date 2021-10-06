@@ -1,0 +1,27 @@
+{
+  "userId": 70073,
+  "cartId": "0a8fbc20-1501-4df9-b703-72dd7531469f",
+  "preferredProducts": [
+    1034,
+    288,
+    2194,
+    2361
+  ],
+  "productReviews": [
+    {
+      "productId": 3050,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-10-04T22:36:47.0360837+03:00"
+    },
+    {
+      "productId": 2375,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-03-23T05:48:39.2313818+02:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-10-14T04:03:01.9633685+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 52583,
+  "cartId": "09780e67-78ab-4046-86d3-f94f6f13e77e",
+  "preferredProducts": [
+    3654,
+    3823,
+    4046,
+    1372,
+    4112,
+    4052,
+    1990,
+    4245,
+    1099,
+    1225
+  ],
+  "productReviews": [
+    {
+      "productId": 2173,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-07-20T15:43:42.5749725+03:00"
+    },
+    {
+      "productId": 4367,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-08-20T23:47:01.4074023+03:00"
+    },
+    {
+      "productId": 2883,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-03-05T15:55:01.4224552+02:00"
+    }
+  ]
+}

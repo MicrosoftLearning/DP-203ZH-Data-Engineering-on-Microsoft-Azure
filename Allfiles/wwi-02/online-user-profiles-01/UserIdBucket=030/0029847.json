@@ -1,0 +1,31 @@
+{
+  "userId": 29847,
+  "cartId": "26dc611a-3afe-4b1e-ab88-592ef5befe2c",
+  "preferredProducts": [
+    2241,
+    1553,
+    3462
+  ],
+  "productReviews": [
+    {
+      "productId": 4016,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-11-11T17:13:36.1832017+02:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "This magenta works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-11-24T21:35:56.3101551+02:00"
+    },
+    {
+      "productId": 1826,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-04-20T22:05:37.603455+03:00"
+    },
+    {
+      "productId": 69,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-25T16:03:58.6715367+02:00"
+    }
+  ]
+}

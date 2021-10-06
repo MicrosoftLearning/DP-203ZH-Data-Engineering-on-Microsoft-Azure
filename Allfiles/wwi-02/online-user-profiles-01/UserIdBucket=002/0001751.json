@@ -1,0 +1,30 @@
+{
+  "userId": 1751,
+  "cartId": "3f4cd1f4-9c45-4a0c-9aad-825f998d8f77",
+  "preferredProducts": [
+    133,
+    3254,
+    1819,
+    362,
+    4475,
+    1574,
+    1456
+  ],
+  "productReviews": [
+    {
+      "productId": 801,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-08-08T22:00:09.327242+03:00"
+    },
+    {
+      "productId": 1960,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2016-09-09T17:54:34.4560487+03:00"
+    },
+    {
+      "productId": 1505,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-12-26T00:20:54.8266895+02:00"
+    }
+  ]
+}

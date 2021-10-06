@@ -1,0 +1,36 @@
+{
+  "userId": 67112,
+  "cartId": "57a04e52-b94e-4515-91dc-25dd1c647fc1",
+  "preferredProducts": [
+    1621,
+    2225,
+    4591
+  ],
+  "productReviews": [
+    {
+      "productId": 35,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-09-10T12:17:20.8681893+03:00"
+    },
+    {
+      "productId": 2365,
+      "reviewText": "This is a really good Shore.",
+      "reviewDate": "2019-11-11T06:03:30.0816242+02:00"
+    },
+    {
+      "productId": 4997,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-08-04T09:12:17.1065753+03:00"
+    },
+    {
+      "productId": 805,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-08-17T08:49:56.1921043+03:00"
+    },
+    {
+      "productId": 3925,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-05-17T11:41:12.4892999+03:00"
+    }
+  ]
+}

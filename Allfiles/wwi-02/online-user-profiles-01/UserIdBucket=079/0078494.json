@@ -1,0 +1,23 @@
+{
+  "userId": 78494,
+  "cartId": "5325cab7-8f45-41cc-a19d-b58de033e538",
+  "preferredProducts": [
+    4615,
+    1257,
+    4644,
+    253,
+    186
+  ],
+  "productReviews": [
+    {
+      "productId": 1441,
+      "reviewText": "This FTP, does exactly what it's suppose to do.",
+      "reviewDate": "2018-04-16T16:25:46.6512751+03:00"
+    },
+    {
+      "productId": 1682,
+      "reviewText": "This PCI works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-06-27T02:07:16.6192868+03:00"
+    }
+  ]
+}

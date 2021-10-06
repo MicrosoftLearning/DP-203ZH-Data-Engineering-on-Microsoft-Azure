@@ -1,0 +1,33 @@
+{
+  "userId": 68000,
+  "cartId": "50506387-eec2-40a8-b774-1d4d9afceee2",
+  "preferredProducts": [
+    97,
+    35,
+    4301,
+    1047,
+    3706
+  ],
+  "productReviews": [
+    {
+      "productId": 1006,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2016-06-26T22:46:19.8180419+03:00"
+    },
+    {
+      "productId": 1467,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-10-13T11:14:51.6479743+03:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-07-12T03:38:26.1012733+03:00"
+    },
+    {
+      "productId": 4230,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-10-11T09:47:51.8861911+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 86234,
+  "cartId": "a95f91fe-44fe-4704-a813-aff991d1e39a",
+  "preferredProducts": [
+    2896,
+    4209,
+    3509,
+    3197,
+    1893,
+    2092,
+    1235,
+    3348,
+    2105
+  ],
+  "productReviews": [
+    {
+      "productId": 1429,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-09-26T06:25:10.7860331+03:00"
+    },
+    {
+      "productId": 1850,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-12-06T04:30:10.5563161+02:00"
+    }
+  ]
+}

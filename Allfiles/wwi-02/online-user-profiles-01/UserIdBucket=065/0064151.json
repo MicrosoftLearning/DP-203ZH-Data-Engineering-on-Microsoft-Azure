@@ -1,0 +1,32 @@
+{
+  "userId": 64151,
+  "cartId": "838c464c-3547-4fb3-98c2-087008e0128d",
+  "preferredProducts": [
+    4850,
+    1276,
+    545,
+    3333,
+    1085,
+    3113,
+    4008,
+    4014,
+    4540
+  ],
+  "productReviews": [
+    {
+      "productId": 810,
+      "reviewText": "this SSL is ghetto.",
+      "reviewDate": "2019-01-28T07:38:25.6228153+02:00"
+    },
+    {
+      "productId": 594,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-03-01T09:55:40.1944251+02:00"
+    },
+    {
+      "productId": 3803,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-03-28T06:10:21.2143615+02:00"
+    }
+  ]
+}

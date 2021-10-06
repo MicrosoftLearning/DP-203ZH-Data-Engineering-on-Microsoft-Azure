@@ -1,0 +1,28 @@
+{
+  "userId": 2512,
+  "cartId": "a582fcc0-af0c-453a-9986-823803283e9f",
+  "preferredProducts": [
+    968,
+    3033,
+    3380,
+    2873,
+    3446
+  ],
+  "productReviews": [
+    {
+      "productId": 4308,
+      "reviewText": "This matrix works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-07-15T03:26:27.7930069+03:00"
+    },
+    {
+      "productId": 1792,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-02-25T17:02:11.9836509+02:00"
+    },
+    {
+      "productId": 3215,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-09-06T19:50:03.4813151+03:00"
+    }
+  ]
+}

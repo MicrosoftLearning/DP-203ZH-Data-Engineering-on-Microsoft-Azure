@@ -1,0 +1,30 @@
+{
+  "userId": 23972,
+  "cartId": "ff024e77-406e-427d-8ce8-7c81e00b59d5",
+  "preferredProducts": [
+    2107,
+    4375
+  ],
+  "productReviews": [
+    {
+      "productId": 199,
+      "reviewText": "This is a really good Colorado.",
+      "reviewDate": "2016-05-16T17:18:34.292522+03:00"
+    },
+    {
+      "productId": 61,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-06-16T23:40:08.8761078+03:00"
+    },
+    {
+      "productId": 2656,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-03-16T01:25:44.0559948+02:00"
+    },
+    {
+      "productId": 68,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-09-29T09:40:10.6164421+03:00"
+    }
+  ]
+}

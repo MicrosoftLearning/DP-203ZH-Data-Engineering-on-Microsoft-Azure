@@ -1,0 +1,37 @@
+{
+  "userId": 9100,
+  "cartId": "5a4c25ea-5cd4-4497-be8d-3383d43f021d",
+  "preferredProducts": [
+    1945,
+    1799,
+    3482,
+    2663,
+    128,
+    2483,
+    4933,
+    2508,
+    3525
+  ],
+  "productReviews": [
+    {
+      "productId": 1149,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-04-30T14:23:35.7519157+03:00"
+    },
+    {
+      "productId": 555,
+      "reviewText": "this interactive is papery.",
+      "reviewDate": "2018-10-13T17:24:59.7000557+03:00"
+    },
+    {
+      "productId": 4435,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-09-25T00:20:12.3853011+03:00"
+    },
+    {
+      "productId": 1886,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-03-13T03:25:44.9713547+02:00"
+    }
+  ]
+}

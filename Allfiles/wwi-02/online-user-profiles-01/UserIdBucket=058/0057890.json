@@ -1,0 +1,38 @@
+{
+  "userId": 57890,
+  "cartId": "e173809a-0584-4824-8d37-b7458fcd562a",
+  "preferredProducts": [
+    3328,
+    2595,
+    3492,
+    4178,
+    3428
+  ],
+  "productReviews": [
+    {
+      "productId": 2204,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-01-14T15:46:44.4636351+02:00"
+    },
+    {
+      "productId": 3700,
+      "reviewText": "this interface is slurpee.",
+      "reviewDate": "2019-02-27T03:17:49.1717301+02:00"
+    },
+    {
+      "productId": 4248,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-08-06T13:59:34.6087807+03:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-11-21T19:44:23.9747136+02:00"
+    },
+    {
+      "productId": 2081,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-09-06T20:58:17.9980635+03:00"
+    }
+  ]
+}

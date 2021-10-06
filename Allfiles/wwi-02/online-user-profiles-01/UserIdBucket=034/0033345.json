@@ -1,0 +1,29 @@
+{
+  "userId": 33345,
+  "cartId": "00c4940c-a28e-4d36-8754-fce60d9fcdb6",
+  "preferredProducts": [
+    766,
+    1828,
+    2014,
+    2789,
+    412,
+    2203
+  ],
+  "productReviews": [
+    {
+      "productId": 4086,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2020-03-04T03:42:34.6965661+02:00"
+    },
+    {
+      "productId": 4823,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-08-12T23:56:11.0322704+03:00"
+    },
+    {
+      "productId": 245,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-12-25T23:02:04.7459986+02:00"
+    }
+  ]
+}

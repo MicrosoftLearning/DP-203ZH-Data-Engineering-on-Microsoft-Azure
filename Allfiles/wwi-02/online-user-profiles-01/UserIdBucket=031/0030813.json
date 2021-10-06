@@ -1,0 +1,35 @@
+{
+  "userId": 30813,
+  "cartId": "58390363-907a-42c5-85f4-e4e0a7a479ce",
+  "preferredProducts": [
+    1011,
+    1958,
+    2745,
+    2519,
+    4307,
+    4718,
+    1337
+  ],
+  "productReviews": [
+    {
+      "productId": 1294,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-11-04T23:17:50.3507539+02:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-12-29T15:20:09.7306002+02:00"
+    },
+    {
+      "productId": 2813,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-07-15T13:05:23.7872884+03:00"
+    },
+    {
+      "productId": 4012,
+      "reviewText": "This generate works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2018-12-22T07:46:35.5718273+02:00"
+    }
+  ]
+}

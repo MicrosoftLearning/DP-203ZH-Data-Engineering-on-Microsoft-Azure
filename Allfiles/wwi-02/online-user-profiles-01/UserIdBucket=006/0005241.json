@@ -1,0 +1,33 @@
+{
+  "userId": 5241,
+  "cartId": "15a976a1-a7b4-4979-9c6c-d9b34e3c8ff0",
+  "preferredProducts": [
+    1633,
+    548,
+    2926,
+    4089,
+    1888
+  ],
+  "productReviews": [
+    {
+      "productId": 1909,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-10-26T06:47:18.7131559+03:00"
+    },
+    {
+      "productId": 2728,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-07-29T13:53:11.1302834+03:00"
+    },
+    {
+      "productId": 3202,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-12-08T00:49:15.6930537+02:00"
+    },
+    {
+      "productId": 3999,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-05-31T18:15:41.0474457+03:00"
+    }
+  ]
+}

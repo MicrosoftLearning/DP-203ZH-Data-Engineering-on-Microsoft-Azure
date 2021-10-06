@@ -1,0 +1,23 @@
+{
+  "userId": 7,
+  "cartId": "281855c4-04b6-40f2-9e0f-1f490223da38",
+  "preferredProducts": [
+    730,
+    4269,
+    2000,
+    2331,
+    4367
+  ],
+  "productReviews": [
+    {
+      "productId": 272,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-03-11T14:44:46.4508244+02:00"
+    },
+    {
+      "productId": 2772,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-07-21T02:29:52.0690254+03:00"
+    }
+  ]
+}

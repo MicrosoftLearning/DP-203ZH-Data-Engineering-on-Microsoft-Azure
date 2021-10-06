@@ -1,0 +1,33 @@
+{
+  "userId": 30546,
+  "cartId": "6617dc53-67f5-49c7-a7e3-5bc0d42adc05",
+  "preferredProducts": [
+    260,
+    2451,
+    3249,
+    2694,
+    594
+  ],
+  "productReviews": [
+    {
+      "productId": 3080,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-07-01T08:45:36.7307937+03:00"
+    },
+    {
+      "productId": 4479,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-09-25T13:22:44.6910334+03:00"
+    },
+    {
+      "productId": 505,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-10-17T06:24:23.7913805+03:00"
+    },
+    {
+      "productId": 1261,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-01-20T06:54:49.4449337+02:00"
+    }
+  ]
+}

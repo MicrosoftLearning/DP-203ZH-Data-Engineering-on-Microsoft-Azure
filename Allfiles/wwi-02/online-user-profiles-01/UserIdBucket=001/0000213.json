@@ -1,0 +1,29 @@
+{
+  "userId": 213,
+  "cartId": "98e2515e-a782-414f-9a81-1afdd6bc22ef",
+  "preferredProducts": [
+    2224
+  ],
+  "productReviews": [
+    {
+      "productId": 2931,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-06-15T14:38:51.9240606+03:00"
+    },
+    {
+      "productId": 65,
+      "reviewText": "This bottom-line, does exactly what it's suppose to do.",
+      "reviewDate": "2019-07-11T13:42:10.1938205+03:00"
+    },
+    {
+      "productId": 3722,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-05-16T18:42:36.8754925+03:00"
+    },
+    {
+      "productId": 4596,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-08-05T20:15:00.472771+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 5243,
+  "cartId": "40e78e83-7f4f-4711-afe0-9806f32c849d",
+  "preferredProducts": [
+    3913,
+    2806,
+    250
+  ],
+  "productReviews": [
+    {
+      "productId": 2849,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-09-09T15:46:47.6412908+03:00"
+    },
+    {
+      "productId": 3248,
+      "reviewText": "this payment is honest.",
+      "reviewDate": "2020-05-04T10:43:36.5882433+03:00"
+    },
+    {
+      "productId": 949,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-07-20T21:31:02.8409701+03:00"
+    },
+    {
+      "productId": 1783,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-09-13T19:30:01.3615063+03:00"
+    },
+    {
+      "productId": 4214,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2016-09-25T14:34:21.7410879+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 97746,
+  "cartId": "d54c5669-f35b-4ec8-b90a-1e59ef7a8da5",
+  "preferredProducts": [
+    4821,
+    2242,
+    532,
+    4523,
+    4287,
+    2524,
+    3252,
+    4221
+  ],
+  "productReviews": [
+    {
+      "productId": 729,
+      "reviewText": "this Lead is vertical.",
+      "reviewDate": "2017-08-10T16:41:31.9230746+03:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-03-28T09:32:23.7914764+02:00"
+    },
+    {
+      "productId": 4543,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-07-21T08:44:38.4390882+03:00"
+    }
+  ]
+}

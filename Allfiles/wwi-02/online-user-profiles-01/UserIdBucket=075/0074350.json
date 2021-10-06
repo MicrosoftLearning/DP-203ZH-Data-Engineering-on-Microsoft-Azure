@@ -1,0 +1,27 @@
+{
+  "userId": 74350,
+  "cartId": "90f8990e-bb59-415b-9a20-5eb841a70f70",
+  "preferredProducts": [
+    3493,
+    4711,
+    2771,
+    899
+  ],
+  "productReviews": [
+    {
+      "productId": 4582,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-01-06T13:45:20.4005037+02:00"
+    },
+    {
+      "productId": 3921,
+      "reviewText": "this service-desk is top-notch.",
+      "reviewDate": "2017-02-11T20:38:54.3919434+02:00"
+    },
+    {
+      "productId": 3799,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-05-29T17:19:36.6753501+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 6311,
+  "cartId": "48d2533f-1b8f-4748-bd98-4dfa37c4de8f",
+  "preferredProducts": [
+    2902,
+    2719,
+    1746,
+    4133,
+    4042,
+    3151,
+    4426,
+    3019,
+    3576,
+    325
+  ],
+  "productReviews": [
+    {
+      "productId": 1145,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-03-06T09:20:01.5126927+02:00"
+    },
+    {
+      "productId": 4123,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-06-30T05:08:51.4995673+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 83298,
+  "cartId": "db0beeb1-1429-4876-af6e-9ebe639fbaf4",
+  "preferredProducts": [
+    4685,
+    3962,
+    4391,
+    4744,
+    2104,
+    1684,
+    3499,
+    3941
+  ],
+  "productReviews": [
+    {
+      "productId": 1875,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-05-13T22:12:53.4378152+03:00"
+    },
+    {
+      "productId": 4615,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-04-01T06:28:24.6658016+03:00"
+    },
+    {
+      "productId": 1987,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-29T03:30:31.9417962+03:00"
+    },
+    {
+      "productId": 2679,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-04-17T11:58:40.7588599+03:00"
+    },
+    {
+      "productId": 2185,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-07-27T21:59:36.1172527+03:00"
+    }
+  ]
+}

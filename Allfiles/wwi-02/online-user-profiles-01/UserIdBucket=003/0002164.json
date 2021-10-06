@@ -1,0 +1,30 @@
+{
+  "userId": 2164,
+  "cartId": "70d8db1e-0d62-4ca5-9f13-04a491e3da8a",
+  "preferredProducts": [
+    571,
+    3012,
+    3874,
+    2662,
+    2341,
+    3757,
+    3450
+  ],
+  "productReviews": [
+    {
+      "productId": 136,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-03-25T10:18:09.9549154+02:00"
+    },
+    {
+      "productId": 1647,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-04-18T21:02:04.5246273+03:00"
+    },
+    {
+      "productId": 269,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-07-27T15:51:45.3058403+03:00"
+    }
+  ]
+}

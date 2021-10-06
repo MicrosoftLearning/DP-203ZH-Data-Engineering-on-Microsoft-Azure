@@ -1,0 +1,35 @@
+{
+  "userId": 59023,
+  "cartId": "27da842d-0075-482d-8c0d-9a822f080b80",
+  "preferredProducts": [
+    4520,
+    3740,
+    300,
+    590,
+    1599,
+    3295,
+    1880
+  ],
+  "productReviews": [
+    {
+      "productId": 4777,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-10-23T09:09:48.6688478+03:00"
+    },
+    {
+      "productId": 4171,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-04-14T01:15:39.3869427+03:00"
+    },
+    {
+      "productId": 3494,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-01-18T21:51:44.9895336+02:00"
+    },
+    {
+      "productId": 300,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2020-01-11T11:42:07.9448681+02:00"
+    }
+  ]
+}

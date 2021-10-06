@@ -1,0 +1,32 @@
+{
+  "userId": 78838,
+  "cartId": "c55b41fc-b9f1-4e07-8efd-f22ad1bb9c8a",
+  "preferredProducts": [
+    4667,
+    3842,
+    387,
+    523,
+    2038,
+    2232,
+    2796,
+    1271,
+    2066
+  ],
+  "productReviews": [
+    {
+      "productId": 1169,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-12-28T01:44:00.1100405+02:00"
+    },
+    {
+      "productId": 2045,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-09-10T07:36:38.5732051+03:00"
+    },
+    {
+      "productId": 2659,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-06-04T14:47:41.3702148+03:00"
+    }
+  ]
+}

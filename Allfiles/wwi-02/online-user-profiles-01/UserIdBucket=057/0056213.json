@@ -1,0 +1,30 @@
+{
+  "userId": 56213,
+  "cartId": "cc57eb87-7ba4-4652-b495-abc12e2fa1d6",
+  "preferredProducts": [
+    1188,
+    4317
+  ],
+  "productReviews": [
+    {
+      "productId": 3745,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-04-01T05:03:01.8162771+03:00"
+    },
+    {
+      "productId": 2622,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2020-03-15T12:16:53.4502104+02:00"
+    },
+    {
+      "productId": 4930,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-05-20T18:47:39.7718171+03:00"
+    },
+    {
+      "productId": 4905,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-05-07T01:30:10.3309627+03:00"
+    }
+  ]
+}

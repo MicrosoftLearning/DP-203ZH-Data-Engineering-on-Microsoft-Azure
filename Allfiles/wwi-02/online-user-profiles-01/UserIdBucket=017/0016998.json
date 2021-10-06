@@ -1,0 +1,41 @@
+{
+  "userId": 16998,
+  "cartId": "50a796d1-0cf1-4753-8757-da71f1b3dff0",
+  "preferredProducts": [
+    3599,
+    4343,
+    3633,
+    1361,
+    3507,
+    1965,
+    1612,
+    1192
+  ],
+  "productReviews": [
+    {
+      "productId": 3745,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-10-19T18:21:23.9099813+03:00"
+    },
+    {
+      "productId": 2893,
+      "reviewText": "this user-facing is complimentary.",
+      "reviewDate": "2019-04-04T06:46:37.4727532+03:00"
+    },
+    {
+      "productId": 4199,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-03-15T13:05:11.7053798+02:00"
+    },
+    {
+      "productId": 1971,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-08-21T08:06:20.0969512+03:00"
+    },
+    {
+      "productId": 3881,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2020-02-01T13:59:40.2175811+02:00"
+    }
+  ]
+}

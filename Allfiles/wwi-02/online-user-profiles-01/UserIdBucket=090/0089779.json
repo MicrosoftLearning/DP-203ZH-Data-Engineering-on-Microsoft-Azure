@@ -1,0 +1,31 @@
+{
+  "userId": 89779,
+  "cartId": "3e54ee45-97d9-4a82-9783-83fcffb5f3b9",
+  "preferredProducts": [
+    895,
+    1922,
+    539
+  ],
+  "productReviews": [
+    {
+      "productId": 455,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-12-10T20:56:15.4214074+02:00"
+    },
+    {
+      "productId": 1836,
+      "reviewText": "this Strategist is awesome.",
+      "reviewDate": "2020-01-31T18:12:25.0137927+02:00"
+    },
+    {
+      "productId": 3681,
+      "reviewText": "this bus is complimentary.",
+      "reviewDate": "2019-07-14T19:40:27.6339736+03:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-12-21T19:03:41.4533079+02:00"
+    }
+  ]
+}

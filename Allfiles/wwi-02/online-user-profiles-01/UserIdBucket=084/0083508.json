@@ -1,0 +1,27 @@
+{
+  "userId": 83508,
+  "cartId": "d3f43003-b2c0-4b16-8653-95e8ded68e7a",
+  "preferredProducts": [
+    3732,
+    2962,
+    1800,
+    306
+  ],
+  "productReviews": [
+    {
+      "productId": 3246,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-01-10T17:48:04.5125361+02:00"
+    },
+    {
+      "productId": 4454,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-11-17T16:34:01.517411+02:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-02-20T05:49:34.0099714+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 29725,
+  "cartId": "c686f22f-94a2-4e9d-a49f-f9c7469efaf3",
+  "preferredProducts": [
+    904,
+    4834,
+    2554,
+    2227
+  ],
+  "productReviews": [
+    {
+      "productId": 1047,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-07-23T12:21:05.035095+03:00"
+    },
+    {
+      "productId": 1549,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-11-13T01:33:30.4623724+02:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-07-19T01:39:17.5885559+03:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-10-05T08:46:49.0586516+03:00"
+    }
+  ]
+}

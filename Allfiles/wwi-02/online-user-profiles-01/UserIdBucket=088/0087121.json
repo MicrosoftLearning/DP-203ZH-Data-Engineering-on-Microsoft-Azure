@@ -1,0 +1,26 @@
+{
+  "userId": 87121,
+  "cartId": "8858cf8c-d16f-42e8-9829-62297ee32d3a",
+  "preferredProducts": [
+    3155,
+    1910,
+    383,
+    724,
+    4232,
+    4789,
+    3210,
+    2590
+  ],
+  "productReviews": [
+    {
+      "productId": 404,
+      "reviewText": "this users is perplexed.",
+      "reviewDate": "2016-08-06T08:55:40.5044722+03:00"
+    },
+    {
+      "productId": 4643,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-11-28T02:14:45.3561335+02:00"
+    }
+  ]
+}

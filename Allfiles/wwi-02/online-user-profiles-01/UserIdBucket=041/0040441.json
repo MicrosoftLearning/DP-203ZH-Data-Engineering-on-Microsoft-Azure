@@ -1,0 +1,31 @@
+{
+  "userId": 40441,
+  "cartId": "e7ba03d1-7fbe-471b-a584-48fb1d4cada5",
+  "preferredProducts": [
+    195,
+    371,
+    4224
+  ],
+  "productReviews": [
+    {
+      "productId": 4448,
+      "reviewText": "this stable is awesome.",
+      "reviewDate": "2019-09-22T05:00:40.2314354+03:00"
+    },
+    {
+      "productId": 1189,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-02-23T20:57:21.312372+02:00"
+    },
+    {
+      "productId": 2090,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-09-25T11:56:24.6024303+03:00"
+    },
+    {
+      "productId": 4286,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-05-12T15:12:28.1964899+03:00"
+    }
+  ]
+}

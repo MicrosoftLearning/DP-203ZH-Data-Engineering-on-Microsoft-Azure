@@ -1,0 +1,37 @@
+{
+  "userId": 20996,
+  "cartId": "95bebf1f-fbef-482d-8560-bb6e0d209106",
+  "preferredProducts": [
+    1022,
+    4585,
+    2112,
+    3546,
+    2327,
+    2146,
+    4266,
+    4861,
+    2021
+  ],
+  "productReviews": [
+    {
+      "productId": 4965,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-05-20T01:28:50.5192588+03:00"
+    },
+    {
+      "productId": 1730,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-07-27T16:54:31.1353196+03:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-03-03T10:46:11.7686001+02:00"
+    },
+    {
+      "productId": 2201,
+      "reviewText": "This red works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-08-02T12:54:37.0539091+03:00"
+    }
+  ]
+}

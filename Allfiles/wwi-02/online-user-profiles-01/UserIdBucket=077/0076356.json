@@ -1,0 +1,37 @@
+{
+  "userId": 76356,
+  "cartId": "e50b3dad-7113-489d-bd70-336dae8d0a44",
+  "preferredProducts": [
+    2345,
+    556,
+    3988,
+    2957,
+    2920,
+    1497,
+    387,
+    4456,
+    1956
+  ],
+  "productReviews": [
+    {
+      "productId": 2853,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-10-30T01:19:41.5146518+02:00"
+    },
+    {
+      "productId": 4832,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-05T08:11:47.205704+03:00"
+    },
+    {
+      "productId": 3955,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-06-20T23:29:53.8382214+03:00"
+    },
+    {
+      "productId": 944,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-07-16T17:48:45.8032276+03:00"
+    }
+  ]
+}

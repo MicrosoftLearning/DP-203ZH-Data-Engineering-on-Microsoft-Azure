@@ -1,0 +1,24 @@
+{
+  "userId": 99302,
+  "cartId": "9fa3b3d5-481e-44c3-ab56-2020c7adf70c",
+  "preferredProducts": [
+    1254,
+    882,
+    543,
+    3217,
+    2151,
+    2336
+  ],
+  "productReviews": [
+    {
+      "productId": 3136,
+      "reviewText": "this Awesome Frozen Mouse is brown.",
+      "reviewDate": "2019-10-31T12:38:25.9437795+02:00"
+    },
+    {
+      "productId": 1331,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-12-02T02:49:09.2260389+02:00"
+    }
+  ]
+}

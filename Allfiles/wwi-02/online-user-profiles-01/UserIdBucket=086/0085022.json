@@ -1,0 +1,36 @@
+{
+  "userId": 85022,
+  "cartId": "296eb56c-47f8-4dcd-9819-e3e654a96128",
+  "preferredProducts": [
+    3250,
+    2425,
+    4689,
+    3478,
+    1501,
+    4808,
+    1374,
+    1780
+  ],
+  "productReviews": [
+    {
+      "productId": 1398,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-02-03T01:52:25.1782325+02:00"
+    },
+    {
+      "productId": 2104,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-12-17T02:26:21.471995+02:00"
+    },
+    {
+      "productId": 3128,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-01-06T10:42:38.4168485+02:00"
+    },
+    {
+      "productId": 1169,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-02-28T05:50:42.728147+02:00"
+    }
+  ]
+}

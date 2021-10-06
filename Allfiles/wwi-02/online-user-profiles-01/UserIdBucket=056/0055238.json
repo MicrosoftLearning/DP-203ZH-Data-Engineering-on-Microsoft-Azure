@@ -1,0 +1,36 @@
+{
+  "userId": 55238,
+  "cartId": "61a05e5d-8da9-46e4-88c0-4309a6a171f2",
+  "preferredProducts": [
+    3973,
+    521,
+    2550,
+    4044,
+    3800,
+    4202,
+    333,
+    40
+  ],
+  "productReviews": [
+    {
+      "productId": 241,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-06-17T18:54:10.8741463+03:00"
+    },
+    {
+      "productId": 3487,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-07-06T09:12:33.7194698+03:00"
+    },
+    {
+      "productId": 1555,
+      "reviewText": "This conglomeration works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-03-31T04:06:36.3070264+03:00"
+    },
+    {
+      "productId": 3675,
+      "reviewText": "This panel works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-11-04T21:53:20.1195058+02:00"
+    }
+  ]
+}

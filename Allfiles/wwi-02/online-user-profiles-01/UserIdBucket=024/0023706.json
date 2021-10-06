@@ -1,0 +1,36 @@
+{
+  "userId": 23706,
+  "cartId": "6c22f96f-4c9d-418b-903f-466acb2714c1",
+  "preferredProducts": [
+    2177,
+    1196,
+    2411,
+    4453,
+    775,
+    2820,
+    196,
+    2017
+  ],
+  "productReviews": [
+    {
+      "productId": 287,
+      "reviewText": "This is a really good Metrics.",
+      "reviewDate": "2017-04-17T22:07:23.3483301+03:00"
+    },
+    {
+      "productId": 2973,
+      "reviewText": "this Nebraska is brown.",
+      "reviewDate": "2016-09-30T02:26:43.1440632+03:00"
+    },
+    {
+      "productId": 3963,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-01-02T14:29:54.3358482+02:00"
+    },
+    {
+      "productId": 1086,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-05-15T07:27:02.5140158+03:00"
+    }
+  ]
+}

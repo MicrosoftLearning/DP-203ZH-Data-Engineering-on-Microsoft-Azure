@@ -1,0 +1,35 @@
+{
+  "userId": 17497,
+  "cartId": "e670e265-dc28-45cb-92d5-95d83f35c478",
+  "preferredProducts": [
+    889,
+    2115,
+    4587,
+    3508,
+    823,
+    4897,
+    4849
+  ],
+  "productReviews": [
+    {
+      "productId": 4764,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-12-31T11:20:46.4210635+02:00"
+    },
+    {
+      "productId": 4002,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-06-27T00:16:17.1904378+03:00"
+    },
+    {
+      "productId": 2012,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-08-02T07:40:50.2311726+03:00"
+    },
+    {
+      "productId": 664,
+      "reviewText": "This data-warehouse, does exactly what it's suppose to do.",
+      "reviewDate": "2019-01-19T16:11:20.4258224+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 10401,
+  "cartId": "3fa9fb23-ed40-42e7-a5c5-5fdbdf235d9a",
+  "preferredProducts": [
+    2908,
+    1346
+  ],
+  "productReviews": [
+    {
+      "productId": 4747,
+      "reviewText": "this Park is vertical.",
+      "reviewDate": "2016-09-07T17:30:59.234113+03:00"
+    },
+    {
+      "productId": 2264,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-12-17T15:00:11.7648366+02:00"
+    },
+    {
+      "productId": 4641,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-11-12T09:43:00.9574949+02:00"
+    },
+    {
+      "productId": 3045,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-11-23T10:02:32.3253161+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 16025,
+  "cartId": "6ab9f179-9975-4a8e-90ec-3b483a29d555",
+  "preferredProducts": [
+    1901,
+    3595,
+    2527,
+    4781
+  ],
+  "productReviews": [
+    {
+      "productId": 4075,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-12-13T23:02:45.1797477+02:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-10-22T11:58:44.1918135+03:00"
+    },
+    {
+      "productId": 856,
+      "reviewText": "this Licensed Frozen Salad is awesome.",
+      "reviewDate": "2018-09-15T00:06:57.76156+03:00"
+    }
+  ]
+}

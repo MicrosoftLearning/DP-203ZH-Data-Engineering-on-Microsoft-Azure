@@ -1,0 +1,35 @@
+{
+  "userId": 53002,
+  "cartId": "97744932-09a9-4eaf-84ad-4c8fef65d918",
+  "preferredProducts": [
+    4607,
+    2218,
+    1014,
+    182,
+    3851,
+    3098,
+    4187
+  ],
+  "productReviews": [
+    {
+      "productId": 1621,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2020-01-28T05:59:13.5640355+02:00"
+    },
+    {
+      "productId": 42,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-01-02T21:41:49.6610122+02:00"
+    },
+    {
+      "productId": 2387,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-05-03T06:53:34.0685158+03:00"
+    },
+    {
+      "productId": 4482,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-04-05T20:36:51.776587+03:00"
+    }
+  ]
+}

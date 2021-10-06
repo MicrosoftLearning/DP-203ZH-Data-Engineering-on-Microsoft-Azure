@@ -1,0 +1,35 @@
+{
+  "userId": 73424,
+  "cartId": "a8da2d15-adfd-4a39-b517-993847012d78",
+  "preferredProducts": [
+    3121,
+    2325
+  ],
+  "productReviews": [
+    {
+      "productId": 464,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-01-24T08:14:32.8823489+02:00"
+    },
+    {
+      "productId": 2039,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-04-21T02:31:42.4310979+03:00"
+    },
+    {
+      "productId": 4318,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-03-30T10:57:49.1705683+03:00"
+    },
+    {
+      "productId": 2360,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-02-01T03:25:16.9108334+02:00"
+    },
+    {
+      "productId": 543,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-05-20T01:44:49.7950233+03:00"
+    }
+  ]
+}

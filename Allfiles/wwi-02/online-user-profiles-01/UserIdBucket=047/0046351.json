@@ -1,0 +1,22 @@
+{
+  "userId": 46351,
+  "cartId": "3ed01899-bbc6-409a-9116-71a2e5b8eedb",
+  "preferredProducts": [
+    4678,
+    4883,
+    3285,
+    949
+  ],
+  "productReviews": [
+    {
+      "productId": 4101,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-04-04T21:01:30.2650275+03:00"
+    },
+    {
+      "productId": 4601,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-10-14T22:03:24.8170541+03:00"
+    }
+  ]
+}

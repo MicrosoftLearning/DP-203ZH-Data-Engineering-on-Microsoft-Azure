@@ -1,0 +1,29 @@
+{
+  "userId": 5340,
+  "cartId": "1c3bc518-7522-4c18-9cd0-9f4a945e3de5",
+  "preferredProducts": [
+    830,
+    3145,
+    2849,
+    3394,
+    4670,
+    4263
+  ],
+  "productReviews": [
+    {
+      "productId": 325,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-03-25T16:28:15.6481724+02:00"
+    },
+    {
+      "productId": 3900,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-11-01T22:26:09.2586247+02:00"
+    },
+    {
+      "productId": 2972,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-02-01T20:50:34.4152671+02:00"
+    }
+  ]
+}

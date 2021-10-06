@@ -1,0 +1,35 @@
+{
+  "userId": 70575,
+  "cartId": "05cbb04f-d4b8-43ec-99f9-8a230364d422",
+  "preferredProducts": [
+    1448,
+    4542
+  ],
+  "productReviews": [
+    {
+      "productId": 4730,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-09-17T06:48:37.8070662+03:00"
+    },
+    {
+      "productId": 4343,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-04-08T11:48:11.1913175+03:00"
+    },
+    {
+      "productId": 377,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-11-19T14:48:26.6335278+02:00"
+    },
+    {
+      "productId": 769,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-12-28T04:10:10.8234083+02:00"
+    },
+    {
+      "productId": 4582,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-01-12T09:54:48.5064355+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 23512,
+  "cartId": "709cf805-9f1b-4e57-8e9f-90eb25b1b235",
+  "preferredProducts": [
+    3839,
+    2214,
+    3328,
+    715,
+    741,
+    2523,
+    2846,
+    1593,
+    3790
+  ],
+  "productReviews": [
+    {
+      "productId": 4249,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-04-11T15:04:03.965494+03:00"
+    },
+    {
+      "productId": 23,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-11-24T16:40:26.9118144+02:00"
+    },
+    {
+      "productId": 4737,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-04-04T03:43:18.8556367+03:00"
+    }
+  ]
+}

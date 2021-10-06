@@ -1,0 +1,28 @@
+{
+  "userId": 72809,
+  "cartId": "d7c67517-d2de-4bee-8e16-45de4a3f8b75",
+  "preferredProducts": [
+    3208,
+    3692,
+    2778,
+    4100,
+    2770
+  ],
+  "productReviews": [
+    {
+      "productId": 337,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-02-23T03:29:15.4579161+02:00"
+    },
+    {
+      "productId": 3869,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-02-22T02:59:39.7808126+02:00"
+    },
+    {
+      "productId": 3018,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-04-12T20:42:58.5528023+03:00"
+    }
+  ]
+}

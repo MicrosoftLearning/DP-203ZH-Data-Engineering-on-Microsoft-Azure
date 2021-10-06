@@ -1,0 +1,38 @@
+{
+  "userId": 11466,
+  "cartId": "b786af02-92ca-4272-9f3a-321180be003d",
+  "preferredProducts": [
+    110,
+    410,
+    3191,
+    2302,
+    1427,
+    4779,
+    3616,
+    3436,
+    2032,
+    3260
+  ],
+  "productReviews": [
+    {
+      "productId": 2572,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-06-19T14:07:17.4863774+03:00"
+    },
+    {
+      "productId": 1879,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-06-05T09:52:08.7817647+03:00"
+    },
+    {
+      "productId": 2285,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-14T09:09:49.416462+03:00"
+    },
+    {
+      "productId": 209,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-04-08T14:39:51.25781+03:00"
+    }
+  ]
+}

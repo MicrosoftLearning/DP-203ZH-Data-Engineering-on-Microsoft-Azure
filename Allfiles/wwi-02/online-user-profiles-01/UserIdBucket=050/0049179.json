@@ -1,0 +1,32 @@
+{
+  "userId": 49179,
+  "cartId": "8d622941-f99b-4737-be4d-75c41410a14d",
+  "preferredProducts": [
+    364,
+    1454,
+    76,
+    4440
+  ],
+  "productReviews": [
+    {
+      "productId": 2520,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-01-10T13:00:36.9977161+02:00"
+    },
+    {
+      "productId": 2006,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-09-22T18:35:04.5403839+03:00"
+    },
+    {
+      "productId": 2036,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-03-12T10:23:16.4210466+02:00"
+    },
+    {
+      "productId": 953,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-10-13T19:56:30.8731756+03:00"
+    }
+  ]
+}

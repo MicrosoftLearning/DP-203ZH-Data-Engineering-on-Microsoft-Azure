@@ -1,0 +1,29 @@
+{
+  "userId": 21820,
+  "cartId": "236b6283-8073-4381-9ca8-a8f30371d604",
+  "preferredProducts": [
+    4897,
+    4082,
+    4573,
+    4131,
+    4664,
+    714
+  ],
+  "productReviews": [
+    {
+      "productId": 2833,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-06-11T11:29:19.0662572+03:00"
+    },
+    {
+      "productId": 3477,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-09-14T00:00:59.6944906+03:00"
+    },
+    {
+      "productId": 871,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-01-04T11:14:00.3582056+02:00"
+    }
+  ]
+}

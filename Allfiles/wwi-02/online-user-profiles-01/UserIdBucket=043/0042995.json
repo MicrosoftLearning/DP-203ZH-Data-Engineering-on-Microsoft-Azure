@@ -1,0 +1,25 @@
+{
+  "userId": 42995,
+  "cartId": "a5c524eb-bcdd-4a5c-be6f-6bafb8f6c4db",
+  "preferredProducts": [
+    2570,
+    1385
+  ],
+  "productReviews": [
+    {
+      "productId": 3809,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-09-23T02:57:26.7694338+03:00"
+    },
+    {
+      "productId": 4759,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-10-12T13:31:37.8220229+03:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-12-27T16:24:57.4972264+02:00"
+    }
+  ]
+}

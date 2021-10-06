@@ -1,0 +1,35 @@
+{
+  "userId": 56901,
+  "cartId": "83109c7f-f4b4-46f1-8686-6bd2ecff4e81",
+  "preferredProducts": [
+    2608,
+    1667,
+    3047,
+    2675,
+    1402,
+    4570,
+    3615
+  ],
+  "productReviews": [
+    {
+      "productId": 3102,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2020-05-07T21:19:41.750782+03:00"
+    },
+    {
+      "productId": 1030,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-12-14T18:03:35.8502105+02:00"
+    },
+    {
+      "productId": 940,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-02-12T02:40:40.4063105+02:00"
+    },
+    {
+      "productId": 1306,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-04-12T16:47:35.9399648+03:00"
+    }
+  ]
+}

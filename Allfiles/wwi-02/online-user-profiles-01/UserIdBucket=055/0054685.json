@@ -1,0 +1,25 @@
+{
+  "userId": 54685,
+  "cartId": "3b991da0-1d72-47d7-ba0f-5934060b4d14",
+  "preferredProducts": [
+    2511,
+    4005,
+    3271,
+    1496,
+    1960,
+    4769,
+    1289
+  ],
+  "productReviews": [
+    {
+      "productId": 3221,
+      "reviewText": "this Avon is awesome.",
+      "reviewDate": "2018-09-27T15:16:39.7594802+03:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-09-09T09:11:08.6965+03:00"
+    }
+  ]
+}

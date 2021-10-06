@@ -1,0 +1,38 @@
+{
+  "userId": 4948,
+  "cartId": "8696e8fb-a10d-415e-8c86-81a2d6aed61f",
+  "preferredProducts": [
+    4702,
+    80,
+    4147,
+    4758,
+    1489,
+    91,
+    1211,
+    997,
+    2964,
+    2654
+  ],
+  "productReviews": [
+    {
+      "productId": 514,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-07-20T15:34:44.5476761+03:00"
+    },
+    {
+      "productId": 3255,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-09-19T20:32:40.6514197+03:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-21T17:00:52.6284975+02:00"
+    },
+    {
+      "productId": 328,
+      "reviewText": "This Infrastructure, does exactly what it's suppose to do.",
+      "reviewDate": "2018-01-07T03:16:15.0540786+02:00"
+    }
+  ]
+}

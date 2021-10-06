@@ -1,0 +1,30 @@
+{
+  "userId": 64431,
+  "cartId": "0ae23488-a5e8-4de4-b1b3-689b03296fda",
+  "preferredProducts": [
+    662,
+    1324
+  ],
+  "productReviews": [
+    {
+      "productId": 3826,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-03-27T17:33:26.5943547+02:00"
+    },
+    {
+      "productId": 377,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-09-02T12:46:28.3687073+03:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2016-06-09T20:47:14.5056439+03:00"
+    },
+    {
+      "productId": 197,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-03-03T04:02:13.669628+02:00"
+    }
+  ]
+}

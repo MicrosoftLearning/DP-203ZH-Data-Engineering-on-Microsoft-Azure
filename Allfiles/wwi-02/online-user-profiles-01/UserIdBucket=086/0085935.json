@@ -1,0 +1,37 @@
+{
+  "userId": 85935,
+  "cartId": "2a9880de-885d-4b9e-89ea-c072c9feb57b",
+  "preferredProducts": [
+    3977,
+    4931,
+    3259,
+    3992,
+    1529,
+    2784,
+    4450,
+    2917,
+    2761
+  ],
+  "productReviews": [
+    {
+      "productId": 1656,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-10-22T18:59:43.4952229+03:00"
+    },
+    {
+      "productId": 4153,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-03-13T16:53:25.5937842+02:00"
+    },
+    {
+      "productId": 1451,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-09-21T01:20:33.3773442+03:00"
+    },
+    {
+      "productId": 2601,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-01-29T05:46:20.5829939+02:00"
+    }
+  ]
+}

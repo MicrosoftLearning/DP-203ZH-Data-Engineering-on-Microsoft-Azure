@@ -1,0 +1,33 @@
+{
+  "userId": 88664,
+  "cartId": "db1fc3e8-078f-4d2b-935c-0f92a1c64234",
+  "preferredProducts": [
+    3846,
+    1004,
+    3952,
+    1527,
+    2959,
+    320,
+    1205,
+    2146,
+    553,
+    1661
+  ],
+  "productReviews": [
+    {
+      "productId": 2141,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-04-11T21:52:23.2643302+03:00"
+    },
+    {
+      "productId": 3217,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-02-11T03:15:33.3360058+02:00"
+    },
+    {
+      "productId": 483,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-04-21T12:18:27.9084025+03:00"
+    }
+  ]
+}

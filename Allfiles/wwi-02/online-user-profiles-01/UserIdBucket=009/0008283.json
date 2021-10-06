@@ -1,0 +1,27 @@
+{
+  "userId": 8283,
+  "cartId": "bb01dd98-a085-4cc2-bf9c-f4dd804f4260",
+  "preferredProducts": [
+    3176,
+    3261,
+    4623,
+    723
+  ],
+  "productReviews": [
+    {
+      "productId": 1039,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-05-18T08:38:21.0203295+03:00"
+    },
+    {
+      "productId": 3413,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-08-25T18:39:22.9560743+03:00"
+    },
+    {
+      "productId": 3615,
+      "reviewText": "This blue works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2020-04-08T07:47:38.1742406+03:00"
+    }
+  ]
+}

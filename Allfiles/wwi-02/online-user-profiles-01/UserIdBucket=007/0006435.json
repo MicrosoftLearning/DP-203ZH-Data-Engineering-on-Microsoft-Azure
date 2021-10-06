@@ -1,0 +1,40 @@
+{
+  "userId": 6435,
+  "cartId": "b5cd24aa-a29c-4239-ad9c-5d72831aede9",
+  "preferredProducts": [
+    509,
+    1101,
+    3541,
+    3291,
+    4870,
+    1320,
+    2809
+  ],
+  "productReviews": [
+    {
+      "productId": 4336,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-06-13T21:50:06.2989959+03:00"
+    },
+    {
+      "productId": 2809,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2020-04-26T01:37:26.6854184+03:00"
+    },
+    {
+      "productId": 2534,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-02-25T16:18:49.2486991+02:00"
+    },
+    {
+      "productId": 2136,
+      "reviewText": "This is a really good FTP.",
+      "reviewDate": "2019-10-14T07:08:27.4442139+03:00"
+    },
+    {
+      "productId": 1547,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-02-27T11:27:04.7416319+02:00"
+    }
+  ]
+}

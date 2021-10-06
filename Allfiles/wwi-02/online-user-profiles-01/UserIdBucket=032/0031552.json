@@ -1,0 +1,30 @@
+{
+  "userId": 31552,
+  "cartId": "1058bd95-6a64-485e-bf3e-6619bce1997c",
+  "preferredProducts": [
+    3173,
+    3087,
+    3881,
+    675,
+    3739,
+    4517,
+    152
+  ],
+  "productReviews": [
+    {
+      "productId": 2468,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-08-11T18:47:33.6728361+03:00"
+    },
+    {
+      "productId": 1001,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-29T14:14:07.2173482+02:00"
+    },
+    {
+      "productId": 3892,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-05-10T02:38:02.9518902+03:00"
+    }
+  ]
+}

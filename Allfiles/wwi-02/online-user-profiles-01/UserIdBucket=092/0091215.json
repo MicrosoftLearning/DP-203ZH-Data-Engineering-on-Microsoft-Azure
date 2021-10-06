@@ -1,0 +1,27 @@
+{
+  "userId": 91215,
+  "cartId": "27cf3581-9608-4e37-a737-a7e577851a6b",
+  "preferredProducts": [
+    744,
+    2788,
+    4450,
+    3873
+  ],
+  "productReviews": [
+    {
+      "productId": 440,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-11-30T19:16:07.3571719+02:00"
+    },
+    {
+      "productId": 2190,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-03-14T19:44:59.5211528+02:00"
+    },
+    {
+      "productId": 3743,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-06-07T12:27:50.8635333+03:00"
+    }
+  ]
+}

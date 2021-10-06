@@ -1,0 +1,22 @@
+{
+  "userId": 2800,
+  "cartId": "456160be-b678-4a4b-bded-595f8e37cffb",
+  "preferredProducts": [
+    4032,
+    3626,
+    3304,
+    2098
+  ],
+  "productReviews": [
+    {
+      "productId": 1507,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2020-02-28T18:57:25.4997772+02:00"
+    },
+    {
+      "productId": 2188,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-04-02T16:09:18.6152039+03:00"
+    }
+  ]
+}

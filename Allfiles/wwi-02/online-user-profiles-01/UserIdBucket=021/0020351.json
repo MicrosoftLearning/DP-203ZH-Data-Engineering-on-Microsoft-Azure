@@ -1,0 +1,26 @@
+{
+  "userId": 20351,
+  "cartId": "36a4b5a6-e366-4f2b-b095-490a3d435a4c",
+  "preferredProducts": [
+    3779,
+    3154,
+    4560,
+    2745,
+    2692,
+    1475,
+    1522,
+    3042
+  ],
+  "productReviews": [
+    {
+      "productId": 3064,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-14T03:13:13.9986575+03:00"
+    },
+    {
+      "productId": 1989,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-04-24T05:52:21.6724918+03:00"
+    }
+  ]
+}

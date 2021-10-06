@@ -1,0 +1,28 @@
+{
+  "userId": 53154,
+  "cartId": "acc053d8-fe10-4074-b731-2cb9019fa1ca",
+  "preferredProducts": [
+    255,
+    2217,
+    146,
+    223,
+    1751
+  ],
+  "productReviews": [
+    {
+      "productId": 88,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-12-25T14:21:30.2561446+02:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2020-02-05T07:44:18.3354796+02:00"
+    },
+    {
+      "productId": 1651,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-12-24T11:14:40.013357+02:00"
+    }
+  ]
+}

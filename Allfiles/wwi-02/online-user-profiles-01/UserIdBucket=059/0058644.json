@@ -1,0 +1,36 @@
+{
+  "userId": 58644,
+  "cartId": "7395ef61-7756-41a6-9f7c-f787b49ac04f",
+  "preferredProducts": [
+    4587,
+    163,
+    1086,
+    4847,
+    703,
+    3411,
+    4121,
+    3509
+  ],
+  "productReviews": [
+    {
+      "productId": 2188,
+      "reviewText": "this website is ratty.",
+      "reviewDate": "2018-06-09T16:31:32.1091712+03:00"
+    },
+    {
+      "productId": 4795,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-08-21T01:34:14.8251128+03:00"
+    },
+    {
+      "productId": 3825,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-01-09T01:45:24.3450015+02:00"
+    },
+    {
+      "productId": 718,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-10-09T21:42:31.9518603+03:00"
+    }
+  ]
+}

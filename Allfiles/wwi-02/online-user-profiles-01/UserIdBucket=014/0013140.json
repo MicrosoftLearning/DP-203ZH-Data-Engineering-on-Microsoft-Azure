@@ -1,0 +1,28 @@
+{
+  "userId": 13140,
+  "cartId": "ffe36768-1d2b-4319-a42c-cbaea8b4ff9a",
+  "preferredProducts": [
+    4638,
+    1475,
+    1686,
+    729,
+    3710
+  ],
+  "productReviews": [
+    {
+      "productId": 1763,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-05-26T14:26:41.5837555+03:00"
+    },
+    {
+      "productId": 867,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-03-19T23:00:48.9339006+02:00"
+    },
+    {
+      "productId": 1172,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-11-18T00:57:29.6867208+02:00"
+    }
+  ]
+}

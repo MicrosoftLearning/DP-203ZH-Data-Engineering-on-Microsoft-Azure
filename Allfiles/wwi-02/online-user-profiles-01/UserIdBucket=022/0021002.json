@@ -1,0 +1,41 @@
+{
+  "userId": 21002,
+  "cartId": "f3f34a82-b40d-4f18-9765-ca3141723ec1",
+  "preferredProducts": [
+    1986,
+    253,
+    3574,
+    4168,
+    2427,
+    2179,
+    4719,
+    2190
+  ],
+  "productReviews": [
+    {
+      "productId": 162,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-09-09T10:05:22.9222104+03:00"
+    },
+    {
+      "productId": 2603,
+      "reviewText": "This Fantastic works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2020-01-24T19:32:25.1199947+02:00"
+    },
+    {
+      "productId": 3087,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-08-30T20:56:55.294673+03:00"
+    },
+    {
+      "productId": 3865,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-11-30T20:08:38.8605764+02:00"
+    },
+    {
+      "productId": 104,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-04-27T17:44:20.7924286+03:00"
+    }
+  ]
+}

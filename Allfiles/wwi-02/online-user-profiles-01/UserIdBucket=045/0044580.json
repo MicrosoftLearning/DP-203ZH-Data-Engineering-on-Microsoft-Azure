@@ -1,0 +1,28 @@
+{
+  "userId": 44580,
+  "cartId": "7b7ab407-f70e-46a9-a48b-c4b7c4de8f54",
+  "preferredProducts": [
+    744,
+    2545,
+    1381,
+    554,
+    548
+  ],
+  "productReviews": [
+    {
+      "productId": 4472,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-02-01T08:39:55.680723+02:00"
+    },
+    {
+      "productId": 1352,
+      "reviewText": "This Senior, does exactly what it's suppose to do.",
+      "reviewDate": "2016-12-27T16:15:29.5707887+02:00"
+    },
+    {
+      "productId": 4683,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-05-26T15:50:37.3353938+03:00"
+    }
+  ]
+}

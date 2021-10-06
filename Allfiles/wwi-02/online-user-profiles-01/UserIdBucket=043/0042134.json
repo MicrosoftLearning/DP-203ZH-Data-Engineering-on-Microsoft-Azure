@@ -1,0 +1,27 @@
+{
+  "userId": 42134,
+  "cartId": "663dad8b-24c5-45f8-ad29-1fe3f1908c92",
+  "preferredProducts": [
+    1322,
+    4148,
+    1902,
+    1978,
+    1522,
+    633,
+    495,
+    4475,
+    2967
+  ],
+  "productReviews": [
+    {
+      "productId": 4679,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-02-10T00:57:16.664249+02:00"
+    },
+    {
+      "productId": 1942,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-02-11T03:29:46.972989+02:00"
+    }
+  ]
+}

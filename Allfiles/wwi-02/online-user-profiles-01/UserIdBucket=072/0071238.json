@@ -1,0 +1,26 @@
+{
+  "userId": 71238,
+  "cartId": "b2bfd2c3-2a60-4960-bfde-dd1db554b5b7",
+  "preferredProducts": [
+    570,
+    35,
+    1007
+  ],
+  "productReviews": [
+    {
+      "productId": 1806,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-06-25T18:10:53.9246404+03:00"
+    },
+    {
+      "productId": 492,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-03-21T11:56:23.9754237+02:00"
+    },
+    {
+      "productId": 1810,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-05-26T03:09:07.3557415+03:00"
+    }
+  ]
+}

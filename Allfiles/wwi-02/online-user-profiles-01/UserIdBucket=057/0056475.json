@@ -1,0 +1,31 @@
+{
+  "userId": 56475,
+  "cartId": "61ecdd8c-db11-4cc7-be9f-1cdb6f789ff6",
+  "preferredProducts": [
+    4725,
+    4302,
+    1592,
+    3734,
+    2078,
+    444,
+    3806,
+    1209
+  ],
+  "productReviews": [
+    {
+      "productId": 4501,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-12-13T10:53:27.1720175+02:00"
+    },
+    {
+      "productId": 2838,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-10-28T21:41:55.1477716+03:00"
+    },
+    {
+      "productId": 1709,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-02-24T13:44:24.8535551+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 46624,
+  "cartId": "20b52923-a7c2-4f26-b5c2-46fc05621b3e",
+  "preferredProducts": [
+    1094,
+    3748,
+    4786,
+    2605
+  ],
+  "productReviews": [
+    {
+      "productId": 882,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-06-22T15:19:21.8943127+03:00"
+    },
+    {
+      "productId": 2495,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-11-04T04:55:44.2222741+02:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-03-18T01:52:35.6904546+02:00"
+    }
+  ]
+}

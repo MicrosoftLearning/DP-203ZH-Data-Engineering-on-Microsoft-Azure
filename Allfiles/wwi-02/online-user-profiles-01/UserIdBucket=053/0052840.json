@@ -1,0 +1,37 @@
+{
+  "userId": 52840,
+  "cartId": "6c431293-c2ff-4bfc-8b37-6fe8ef153b93",
+  "preferredProducts": [
+    3824,
+    4304,
+    1792,
+    4564,
+    2439,
+    3986,
+    3447,
+    3220,
+    4541
+  ],
+  "productReviews": [
+    {
+      "productId": 2689,
+      "reviewText": "this parse is smooth.",
+      "reviewDate": "2017-08-20T16:28:40.840185+03:00"
+    },
+    {
+      "productId": 2469,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-06-28T00:21:15.1495412+03:00"
+    },
+    {
+      "productId": 4189,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-03-05T20:05:30.5576122+02:00"
+    },
+    {
+      "productId": 134,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-08-30T21:20:41.1156501+03:00"
+    }
+  ]
+}

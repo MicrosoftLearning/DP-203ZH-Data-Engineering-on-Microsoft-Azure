@@ -1,0 +1,38 @@
+{
+  "userId": 7523,
+  "cartId": "a44f09ab-012c-4087-8006-9df2a579c157",
+  "preferredProducts": [
+    3404,
+    1776,
+    4736,
+    2097,
+    4539,
+    4563,
+    2707,
+    1250,
+    2551,
+    3259
+  ],
+  "productReviews": [
+    {
+      "productId": 3285,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-05-18T21:53:27.1076279+03:00"
+    },
+    {
+      "productId": 1357,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-09-30T11:51:11.2050082+03:00"
+    },
+    {
+      "productId": 1856,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-10-15T09:32:37.4892518+03:00"
+    },
+    {
+      "productId": 3484,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-12-15T10:31:24.2091799+02:00"
+    }
+  ]
+}

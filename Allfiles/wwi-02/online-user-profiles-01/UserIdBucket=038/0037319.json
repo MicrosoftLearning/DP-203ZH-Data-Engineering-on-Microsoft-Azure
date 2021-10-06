@@ -1,0 +1,32 @@
+{
+  "userId": 37319,
+  "cartId": "d9112924-e9c8-4b3d-8af0-93393e53e2a6",
+  "preferredProducts": [
+    2750,
+    2454,
+    478,
+    507,
+    767,
+    4560,
+    967,
+    2136,
+    3042
+  ],
+  "productReviews": [
+    {
+      "productId": 2495,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-09-28T13:46:59.7663448+03:00"
+    },
+    {
+      "productId": 1569,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-05-10T01:11:58.1501334+03:00"
+    },
+    {
+      "productId": 605,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-12-08T18:16:00.1890994+02:00"
+    }
+  ]
+}

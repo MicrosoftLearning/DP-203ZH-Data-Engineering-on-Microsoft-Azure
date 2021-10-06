@@ -1,0 +1,38 @@
+{
+  "userId": 78024,
+  "cartId": "f700f032-4e23-4fb6-9a13-098ea2b15cdb",
+  "preferredProducts": [
+    131,
+    2315,
+    1602,
+    2315,
+    3224,
+    2240,
+    1831,
+    4540,
+    3085,
+    4143
+  ],
+  "productReviews": [
+    {
+      "productId": 1239,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-07-10T00:48:06.9177498+03:00"
+    },
+    {
+      "productId": 2080,
+      "reviewText": "this SMTP is brown.",
+      "reviewDate": "2020-03-14T08:43:48.9543128+02:00"
+    },
+    {
+      "productId": 2850,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-08-18T05:20:12.7924085+03:00"
+    },
+    {
+      "productId": 2712,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-09-16T17:54:46.8580692+03:00"
+    }
+  ]
+}

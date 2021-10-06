@@ -1,0 +1,30 @@
+{
+  "userId": 23470,
+  "cartId": "c2b16a80-92d5-481d-987e-d90fef39aeda",
+  "preferredProducts": [
+    4479,
+    1453,
+    44,
+    2333,
+    1509,
+    4662,
+    2453
+  ],
+  "productReviews": [
+    {
+      "productId": 1568,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-05-31T08:02:43.8804153+03:00"
+    },
+    {
+      "productId": 4780,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-02-28T19:44:28.3073879+02:00"
+    },
+    {
+      "productId": 3457,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-02-03T01:20:03.8204734+02:00"
+    }
+  ]
+}

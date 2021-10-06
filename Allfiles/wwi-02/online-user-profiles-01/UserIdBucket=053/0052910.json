@@ -1,0 +1,36 @@
+{
+  "userId": 52910,
+  "cartId": "815742c5-be23-4a6b-bb16-986827684867",
+  "preferredProducts": [
+    1820,
+    1042,
+    3645,
+    955,
+    1634,
+    3262,
+    4694,
+    500
+  ],
+  "productReviews": [
+    {
+      "productId": 3815,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-02-11T20:13:29.3976684+02:00"
+    },
+    {
+      "productId": 2653,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-04-17T06:21:12.0601914+03:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-07-10T22:45:20.4952815+03:00"
+    },
+    {
+      "productId": 1947,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-01-28T07:15:46.9126838+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 83671,
+  "cartId": "0ddabe49-c900-4dd7-aa19-8f1bdcaad32c",
+  "preferredProducts": [
+    3365,
+    2411,
+    962,
+    50,
+    53,
+    4872,
+    4447,
+    2033
+  ],
+  "productReviews": [
+    {
+      "productId": 2524,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-04-11T13:24:49.7110388+03:00"
+    },
+    {
+      "productId": 1365,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-10T06:22:29.2288496+02:00"
+    },
+    {
+      "productId": 4642,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-08-23T17:39:27.7065256+03:00"
+    }
+  ]
+}

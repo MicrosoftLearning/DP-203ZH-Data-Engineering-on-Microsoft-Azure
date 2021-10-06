@@ -1,0 +1,26 @@
+{
+  "userId": 33789,
+  "cartId": "cf0f786e-8d94-4f30-bae3-08b276c4c80a",
+  "preferredProducts": [
+    943,
+    1238,
+    3937,
+    3175,
+    2665,
+    4924,
+    2066,
+    4158
+  ],
+  "productReviews": [
+    {
+      "productId": 912,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-07-17T07:07:49.3888107+03:00"
+    },
+    {
+      "productId": 3066,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-09-21T08:57:27.9625575+03:00"
+    }
+  ]
+}

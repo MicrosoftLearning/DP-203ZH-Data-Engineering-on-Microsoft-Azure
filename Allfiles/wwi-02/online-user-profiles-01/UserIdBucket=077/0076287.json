@@ -1,0 +1,31 @@
+{
+  "userId": 76287,
+  "cartId": "2fddf0cd-cf49-471e-9fa4-8bffca719463",
+  "preferredProducts": [
+    1527,
+    3318,
+    4025
+  ],
+  "productReviews": [
+    {
+      "productId": 2737,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-05-24T12:11:33.8543116+03:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-02-19T01:23:35.5652017+02:00"
+    },
+    {
+      "productId": 206,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-01-13T09:51:40.1436229+02:00"
+    },
+    {
+      "productId": 3721,
+      "reviewText": "This is a really good Som.",
+      "reviewDate": "2019-05-04T04:31:57.2065882+03:00"
+    }
+  ]
+}

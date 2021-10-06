@@ -1,0 +1,33 @@
+{
+  "userId": 18738,
+  "cartId": "bf29774c-e073-4537-a2e8-142cf6e31fec",
+  "preferredProducts": [
+    412,
+    213,
+    1826,
+    600,
+    733
+  ],
+  "productReviews": [
+    {
+      "productId": 1435,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-10-27T11:13:16.810648+03:00"
+    },
+    {
+      "productId": 3845,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-11-13T12:40:47.4910139+02:00"
+    },
+    {
+      "productId": 4836,
+      "reviewText": "This is a really good Idaho.",
+      "reviewDate": "2017-06-05T07:27:25.246343+03:00"
+    },
+    {
+      "productId": 1285,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-03-16T10:15:43.5385897+02:00"
+    }
+  ]
+}

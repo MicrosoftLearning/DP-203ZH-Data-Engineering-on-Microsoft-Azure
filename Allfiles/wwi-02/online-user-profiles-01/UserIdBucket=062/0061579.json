@@ -1,0 +1,27 @@
+{
+  "userId": 61579,
+  "cartId": "ec772712-4cce-4d1c-8900-8db27aff8143",
+  "preferredProducts": [
+    976,
+    2556,
+    811,
+    418
+  ],
+  "productReviews": [
+    {
+      "productId": 969,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-06-23T06:24:00.2757695+03:00"
+    },
+    {
+      "productId": 2407,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-06-23T14:21:47.3018739+03:00"
+    },
+    {
+      "productId": 2557,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-06-19T08:34:49.5537505+03:00"
+    }
+  ]
+}

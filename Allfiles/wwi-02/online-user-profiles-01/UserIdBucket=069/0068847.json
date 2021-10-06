@@ -1,0 +1,30 @@
+{
+  "userId": 68847,
+  "cartId": "3b0e03a2-1262-4dd2-a19c-5675f00e71cc",
+  "preferredProducts": [
+    4321,
+    4384,
+    1722,
+    1189,
+    2844,
+    4,
+    439
+  ],
+  "productReviews": [
+    {
+      "productId": 233,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-01-18T12:31:36.3284542+02:00"
+    },
+    {
+      "productId": 2017,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-01-25T14:58:42.7745066+02:00"
+    },
+    {
+      "productId": 4227,
+      "reviewText": "this European Monetary Unit (E.M.U.-6) is top-notch.",
+      "reviewDate": "2017-06-20T05:54:41.5808034+03:00"
+    }
+  ]
+}

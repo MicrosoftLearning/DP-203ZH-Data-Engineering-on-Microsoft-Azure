@@ -1,0 +1,36 @@
+{
+  "userId": 45354,
+  "cartId": "7880ba3e-5afd-48b5-bbea-b798e3b78f28",
+  "preferredProducts": [
+    3545,
+    1904,
+    281
+  ],
+  "productReviews": [
+    {
+      "productId": 4040,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-10-22T10:27:07.5005696+03:00"
+    },
+    {
+      "productId": 4874,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-10-10T15:46:32.9622737+03:00"
+    },
+    {
+      "productId": 876,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-12-19T11:31:06.6546545+02:00"
+    },
+    {
+      "productId": 3696,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-10-30T06:32:38.0330573+02:00"
+    },
+    {
+      "productId": 1627,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-02-20T09:50:06.8508732+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 60084,
+  "cartId": "c31faf9d-d0be-4dd0-9588-01807c2998b5",
+  "preferredProducts": [
+    4849,
+    3615,
+    2315,
+    4587,
+    3095,
+    1157,
+    3406,
+    1722
+  ],
+  "productReviews": [
+    {
+      "productId": 1152,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-01-13T00:43:37.7625081+02:00"
+    },
+    {
+      "productId": 3365,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-12-31T05:04:31.0064207+02:00"
+    },
+    {
+      "productId": 695,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-06-08T20:07:35.0961833+03:00"
+    },
+    {
+      "productId": 2973,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-10-08T00:29:01.6280945+03:00"
+    },
+    {
+      "productId": 3582,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-06-14T04:53:40.5050022+03:00"
+    }
+  ]
+}

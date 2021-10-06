@@ -1,0 +1,25 @@
+{
+  "userId": 84999,
+  "cartId": "b8cb9fec-5471-4a54-b553-fb08dad698be",
+  "preferredProducts": [
+    526,
+    134,
+    2852,
+    4086,
+    3136,
+    4977,
+    3218
+  ],
+  "productReviews": [
+    {
+      "productId": 2296,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-11-25T11:33:22.5958529+02:00"
+    },
+    {
+      "productId": 3712,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-12-29T14:04:32.4085108+02:00"
+    }
+  ]
+}

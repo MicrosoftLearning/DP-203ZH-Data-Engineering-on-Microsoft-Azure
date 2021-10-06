@@ -1,0 +1,27 @@
+{
+  "userId": 22353,
+  "cartId": "dc119164-60ad-412a-af0a-49e90735c4a6",
+  "preferredProducts": [
+    3730,
+    2509,
+    3014,
+    3411
+  ],
+  "productReviews": [
+    {
+      "productId": 2334,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-12-31T14:51:42.0405023+02:00"
+    },
+    {
+      "productId": 2658,
+      "reviewText": "this Directives is standard.",
+      "reviewDate": "2019-05-12T01:38:21.8655245+03:00"
+    },
+    {
+      "productId": 3101,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-09-28T06:47:17.4682375+03:00"
+    }
+  ]
+}

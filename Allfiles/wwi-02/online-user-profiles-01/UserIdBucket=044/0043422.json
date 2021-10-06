@@ -1,0 +1,33 @@
+{
+  "userId": 43422,
+  "cartId": "ce17d068-a257-4e11-8475-e29c2d355bac",
+  "preferredProducts": [
+    1979,
+    1490,
+    4580,
+    4960,
+    2330
+  ],
+  "productReviews": [
+    {
+      "productId": 791,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-01-30T07:32:28.0400616+02:00"
+    },
+    {
+      "productId": 4475,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-02-22T00:28:50.6178744+02:00"
+    },
+    {
+      "productId": 238,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-07-25T15:33:45.9978763+03:00"
+    },
+    {
+      "productId": 2582,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-05-30T11:37:15.0076981+03:00"
+    }
+  ]
+}

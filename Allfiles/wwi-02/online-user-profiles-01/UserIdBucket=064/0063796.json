@@ -1,0 +1,27 @@
+{
+  "userId": 63796,
+  "cartId": "5ecce30f-7b3d-4f93-85d3-8bf7de1cf961",
+  "preferredProducts": [
+    2011,
+    3784,
+    4751,
+    1619
+  ],
+  "productReviews": [
+    {
+      "productId": 3990,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-08-04T01:14:49.6771112+03:00"
+    },
+    {
+      "productId": 334,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-06-26T05:43:33.9537694+03:00"
+    },
+    {
+      "productId": 1992,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-09-16T01:10:23.5447819+03:00"
+    }
+  ]
+}

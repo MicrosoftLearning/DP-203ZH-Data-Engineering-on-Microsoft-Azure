@@ -1,0 +1,40 @@
+{
+  "userId": 27456,
+  "cartId": "47145866-9707-40db-8fe9-d03d37f63fa7",
+  "preferredProducts": [
+    1839,
+    4841,
+    233,
+    4941,
+    2305,
+    1289,
+    830
+  ],
+  "productReviews": [
+    {
+      "productId": 2208,
+      "reviewText": "this EXE is whole-grain.",
+      "reviewDate": "2020-01-22T06:08:09.0974262+02:00"
+    },
+    {
+      "productId": 1733,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-02-21T20:44:03.91194+02:00"
+    },
+    {
+      "productId": 2982,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-03-09T09:20:19.4024365+02:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-11-19T01:30:25.7144+02:00"
+    },
+    {
+      "productId": 4069,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-08-27T13:52:20.3896194+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 16136,
+  "cartId": "af350c20-9999-40a9-bf81-23477c60ac74",
+  "preferredProducts": [
+    3227,
+    3111,
+    2870,
+    364
+  ],
+  "productReviews": [
+    {
+      "productId": 1167,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-08-11T13:50:15.5923809+03:00"
+    },
+    {
+      "productId": 1880,
+      "reviewText": "this Fields is ratty.",
+      "reviewDate": "2016-10-12T06:00:25.3640375+03:00"
+    },
+    {
+      "productId": 3751,
+      "reviewText": "This Advanced works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-12-20T17:40:35.4801099+02:00"
+    }
+  ]
+}

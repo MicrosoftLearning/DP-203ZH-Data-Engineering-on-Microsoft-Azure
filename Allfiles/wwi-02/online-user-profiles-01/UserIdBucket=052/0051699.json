@@ -1,0 +1,33 @@
+{
+  "userId": 51699,
+  "cartId": "d9fa1d3d-bf47-4823-bb63-3e804c2ae76e",
+  "preferredProducts": [
+    1881,
+    500,
+    4609,
+    1987,
+    1495
+  ],
+  "productReviews": [
+    {
+      "productId": 3667,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-01-02T09:13:23.4587663+02:00"
+    },
+    {
+      "productId": 1858,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-10-20T13:51:23.327794+03:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-11-19T02:04:09.2633932+02:00"
+    },
+    {
+      "productId": 4975,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-08-06T13:38:42.433274+03:00"
+    }
+  ]
+}

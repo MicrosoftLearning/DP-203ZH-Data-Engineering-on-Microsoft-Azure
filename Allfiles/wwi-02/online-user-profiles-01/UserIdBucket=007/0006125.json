@@ -1,0 +1,34 @@
+{
+  "userId": 6125,
+  "cartId": "6d87c51e-07d1-43aa-a8e9-fc0a08304484",
+  "preferredProducts": [
+    1426,
+    3769,
+    579,
+    1970,
+    1029,
+    3025
+  ],
+  "productReviews": [
+    {
+      "productId": 1431,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-06-30T23:54:17.2608612+03:00"
+    },
+    {
+      "productId": 638,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-08-24T15:09:36.1281012+03:00"
+    },
+    {
+      "productId": 4467,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-11-21T01:11:18.233333+02:00"
+    },
+    {
+      "productId": 284,
+      "reviewText": "this open-source is revolting.",
+      "reviewDate": "2018-11-16T10:01:16.0090193+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 23123,
+  "cartId": "49891a51-1d24-4a65-bee4-66b00fae8c49",
+  "preferredProducts": [
+    2845,
+    762,
+    2601,
+    208,
+    1455,
+    2869,
+    3561,
+    1260
+  ],
+  "productReviews": [
+    {
+      "productId": 3032,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-03-13T17:18:08.1738889+02:00"
+    },
+    {
+      "productId": 3974,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-10-15T13:40:26.9128531+03:00"
+    }
+  ]
+}

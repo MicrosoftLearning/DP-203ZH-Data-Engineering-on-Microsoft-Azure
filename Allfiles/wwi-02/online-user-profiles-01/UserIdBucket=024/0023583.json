@@ -1,0 +1,35 @@
+{
+  "userId": 23583,
+  "cartId": "74daad26-5a3f-4e3e-b7dd-d079fb83a087",
+  "preferredProducts": [
+    1903,
+    2808,
+    1243,
+    3727,
+    2615,
+    4919,
+    4144
+  ],
+  "productReviews": [
+    {
+      "productId": 4880,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-02-07T19:27:44.3054896+02:00"
+    },
+    {
+      "productId": 244,
+      "reviewText": "this Sleek Rubber Fish is snowy.",
+      "reviewDate": "2018-06-07T17:05:52.4308926+03:00"
+    },
+    {
+      "productId": 4220,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-04-24T12:51:26.0909685+03:00"
+    },
+    {
+      "productId": 2168,
+      "reviewText": "This Shoes, Clothing & Automotive works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-09-05T06:34:56.9492337+03:00"
+    }
+  ]
+}

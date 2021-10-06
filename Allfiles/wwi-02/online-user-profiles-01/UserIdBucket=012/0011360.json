@@ -1,0 +1,38 @@
+{
+  "userId": 11360,
+  "cartId": "c27429b8-7d36-4795-abff-83fed4b2572a",
+  "preferredProducts": [
+    1541,
+    3023,
+    3175,
+    2169,
+    4493
+  ],
+  "productReviews": [
+    {
+      "productId": 2420,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-06-26T22:29:27.8916242+03:00"
+    },
+    {
+      "productId": 108,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-03-16T19:04:04.0504456+02:00"
+    },
+    {
+      "productId": 886,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2018-05-31T12:11:31.2371621+03:00"
+    },
+    {
+      "productId": 1873,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2016-06-30T06:08:36.5375592+03:00"
+    },
+    {
+      "productId": 2396,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-01-03T08:27:46.8031578+02:00"
+    }
+  ]
+}

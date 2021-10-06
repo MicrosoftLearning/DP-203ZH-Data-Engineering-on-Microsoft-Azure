@@ -1,0 +1,30 @@
+{
+  "userId": 38628,
+  "cartId": "9a4fa775-86c4-42aa-b575-5891626cd1dc",
+  "preferredProducts": [
+    2246,
+    3228,
+    4936,
+    3549,
+    1636,
+    120,
+    2700
+  ],
+  "productReviews": [
+    {
+      "productId": 3437,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-01-05T11:33:02.2910186+02:00"
+    },
+    {
+      "productId": 4673,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-08-12T12:19:33.4988663+03:00"
+    },
+    {
+      "productId": 4861,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-01-20T18:16:05.8098033+02:00"
+    }
+  ]
+}

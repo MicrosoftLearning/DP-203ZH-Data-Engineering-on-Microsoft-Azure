@@ -1,0 +1,35 @@
+{
+  "userId": 7833,
+  "cartId": "e2ab8c06-519e-4339-8be6-91a81cfe57d4",
+  "preferredProducts": [
+    4277,
+    4878,
+    2730,
+    3211,
+    2425,
+    1658,
+    890
+  ],
+  "productReviews": [
+    {
+      "productId": 3404,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-03-16T21:39:53.1657456+02:00"
+    },
+    {
+      "productId": 4253,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-10-11T04:55:22.5005643+03:00"
+    },
+    {
+      "productId": 4803,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-08-20T15:39:40.976959+03:00"
+    },
+    {
+      "productId": 2508,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-10-15T05:55:10.6575326+03:00"
+    }
+  ]
+}

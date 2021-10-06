@@ -1,0 +1,30 @@
+{
+  "userId": 53302,
+  "cartId": "c1e894d9-ff9a-48b1-9fa6-91a02eb766d1",
+  "preferredProducts": [
+    1293,
+    1778,
+    635,
+    2180,
+    4024,
+    370,
+    2837
+  ],
+  "productReviews": [
+    {
+      "productId": 674,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-04-23T23:48:49.0563717+03:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-10-24T00:38:31.1492889+03:00"
+    },
+    {
+      "productId": 1402,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-07-18T15:46:22.7045975+03:00"
+    }
+  ]
+}

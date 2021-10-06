@@ -1,0 +1,30 @@
+{
+  "userId": 1499,
+  "cartId": "938f27f7-df41-4a04-9974-95416cbbf8f3",
+  "preferredProducts": [
+    2130,
+    1578,
+    2156,
+    1689,
+    727,
+    1315,
+    1966
+  ],
+  "productReviews": [
+    {
+      "productId": 2757,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-01-31T04:05:32.7269581+02:00"
+    },
+    {
+      "productId": 1131,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-04-22T00:06:04.8250126+03:00"
+    },
+    {
+      "productId": 4153,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-04-20T06:18:07.9902106+03:00"
+    }
+  ]
+}

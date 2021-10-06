@@ -1,0 +1,36 @@
+{
+  "userId": 83684,
+  "cartId": "c4eb19e1-ad96-4b59-bb26-27faf9248de0",
+  "preferredProducts": [
+    491,
+    3836,
+    683,
+    1662,
+    355,
+    1234,
+    1512,
+    3344
+  ],
+  "productReviews": [
+    {
+      "productId": 3895,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-06-02T23:58:27.8336218+03:00"
+    },
+    {
+      "productId": 2228,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-08-26T23:10:24.0130666+03:00"
+    },
+    {
+      "productId": 2868,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-08-20T11:55:28.2049413+03:00"
+    },
+    {
+      "productId": 2448,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-01-06T10:08:51.4878283+02:00"
+    }
+  ]
+}

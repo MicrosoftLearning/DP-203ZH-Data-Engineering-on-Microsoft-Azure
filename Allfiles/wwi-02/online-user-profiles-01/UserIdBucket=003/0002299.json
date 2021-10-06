@@ -1,0 +1,29 @@
+{
+  "userId": 2299,
+  "cartId": "e42ba43e-f669-4ff0-bf93-7e709e66af1a",
+  "preferredProducts": [
+    1850,
+    683,
+    1765,
+    422,
+    495,
+    1279
+  ],
+  "productReviews": [
+    {
+      "productId": 2094,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-09-05T22:49:59.3066732+03:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-04-11T04:46:08.3504815+03:00"
+    },
+    {
+      "productId": 476,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-04-17T09:02:46.2861233+03:00"
+    }
+  ]
+}

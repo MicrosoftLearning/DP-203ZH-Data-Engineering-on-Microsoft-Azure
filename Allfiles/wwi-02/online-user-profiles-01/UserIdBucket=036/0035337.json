@@ -1,0 +1,25 @@
+{
+  "userId": 35337,
+  "cartId": "c97c6a64-d75e-4d64-9759-b15b8bda3719",
+  "preferredProducts": [
+    477,
+    123,
+    1243,
+    1868,
+    1106,
+    3213,
+    2568
+  ],
+  "productReviews": [
+    {
+      "productId": 612,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-09-14T19:53:51.5997646+03:00"
+    },
+    {
+      "productId": 1926,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-10-03T16:24:24.745026+03:00"
+    }
+  ]
+}

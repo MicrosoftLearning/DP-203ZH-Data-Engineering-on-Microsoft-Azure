@@ -1,0 +1,37 @@
+{
+  "userId": 40934,
+  "cartId": "fd3f261f-54f3-49f7-9a6d-22658a9d10d0",
+  "preferredProducts": [
+    4587,
+    779,
+    4580,
+    4286,
+    645,
+    2066,
+    973,
+    2585,
+    3147
+  ],
+  "productReviews": [
+    {
+      "productId": 367,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-09-06T07:36:25.2689563+03:00"
+    },
+    {
+      "productId": 1619,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-08-28T12:11:35.6489828+03:00"
+    },
+    {
+      "productId": 3703,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-10-02T07:29:16.1319275+03:00"
+    },
+    {
+      "productId": 94,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-01-02T22:21:10.0867163+02:00"
+    }
+  ]
+}

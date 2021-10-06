@@ -1,0 +1,32 @@
+{
+  "userId": 24851,
+  "cartId": "b33f3298-c06d-4b10-b6e2-c3849344c205",
+  "preferredProducts": [
+    2894,
+    4529,
+    2145,
+    1216,
+    1457,
+    3255,
+    3780,
+    2623,
+    2399
+  ],
+  "productReviews": [
+    {
+      "productId": 761,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-04-06T17:58:58.2190722+03:00"
+    },
+    {
+      "productId": 4399,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-12-29T12:40:26.1112334+02:00"
+    },
+    {
+      "productId": 259,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-04-04T23:40:23.8061125+03:00"
+    }
+  ]
+}

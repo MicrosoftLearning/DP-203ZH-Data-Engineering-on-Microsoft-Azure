@@ -1,0 +1,30 @@
+{
+  "userId": 20029,
+  "cartId": "547b1408-d0b2-4c5d-9a23-47ddffe4eaae",
+  "preferredProducts": [
+    1378,
+    3779
+  ],
+  "productReviews": [
+    {
+      "productId": 3562,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-04-14T22:44:35.0645779+03:00"
+    },
+    {
+      "productId": 4588,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-06-23T01:28:05.7712871+03:00"
+    },
+    {
+      "productId": 1316,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-12-27T14:55:41.6522403+02:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-07-05T06:29:26.8360559+03:00"
+    }
+  ]
+}

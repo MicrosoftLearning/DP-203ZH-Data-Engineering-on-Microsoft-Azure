@@ -1,0 +1,27 @@
+{
+  "userId": 77557,
+  "cartId": "583e69e0-e46d-4f6c-85fc-5102826df016",
+  "preferredProducts": [
+    1508,
+    405,
+    2172,
+    3270
+  ],
+  "productReviews": [
+    {
+      "productId": 3535,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-11-13T02:28:20.443464+02:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "this Tasty Plastic Computer is dominant.",
+      "reviewDate": "2019-11-09T14:32:27.4943333+02:00"
+    },
+    {
+      "productId": 3844,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-11-24T09:43:14.3736497+02:00"
+    }
+  ]
+}

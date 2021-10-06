@@ -1,0 +1,30 @@
+{
+  "userId": 25370,
+  "cartId": "6caec577-33ea-4def-9482-51a41d0e5d2f",
+  "preferredProducts": [
+    4539,
+    3629
+  ],
+  "productReviews": [
+    {
+      "productId": 2195,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-01-15T00:40:56.4328163+02:00"
+    },
+    {
+      "productId": 3942,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-06-03T11:56:37.6526591+03:00"
+    },
+    {
+      "productId": 3971,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-05-02T19:47:09.5087581+03:00"
+    },
+    {
+      "productId": 1740,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-12-21T10:02:36.7372836+02:00"
+    }
+  ]
+}

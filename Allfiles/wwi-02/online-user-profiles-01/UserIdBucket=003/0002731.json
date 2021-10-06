@@ -1,0 +1,36 @@
+{
+  "userId": 2731,
+  "cartId": "b505e1de-3341-480f-bc58-f7053fb0fbbe",
+  "preferredProducts": [
+    2050,
+    2016,
+    3989,
+    3115,
+    2380,
+    3964,
+    599,
+    1596
+  ],
+  "productReviews": [
+    {
+      "productId": 3668,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-02-05T12:17:59.5826751+02:00"
+    },
+    {
+      "productId": 2689,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-01-11T07:49:42.5085+02:00"
+    },
+    {
+      "productId": 4963,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-07-30T00:15:06.6526956+03:00"
+    },
+    {
+      "productId": 3154,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-08-06T23:23:00.6278504+03:00"
+    }
+  ]
+}

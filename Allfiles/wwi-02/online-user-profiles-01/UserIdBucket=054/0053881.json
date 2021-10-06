@@ -1,0 +1,41 @@
+{
+  "userId": 53881,
+  "cartId": "42c4598a-56fd-45f8-9ae4-1846d80287df",
+  "preferredProducts": [
+    1241,
+    3012,
+    837,
+    2456,
+    164,
+    1674,
+    3468,
+    961
+  ],
+  "productReviews": [
+    {
+      "productId": 1434,
+      "reviewText": "This local, does exactly what it's suppose to do.",
+      "reviewDate": "2017-11-02T15:40:32.252255+02:00"
+    },
+    {
+      "productId": 551,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-03-02T10:29:50.5224768+02:00"
+    },
+    {
+      "productId": 4596,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-03-09T04:13:08.7604919+02:00"
+    },
+    {
+      "productId": 4340,
+      "reviewText": "this Intelligent Soft Hat is honest.",
+      "reviewDate": "2018-05-01T02:54:25.068395+03:00"
+    },
+    {
+      "productId": 3054,
+      "reviewText": "This Rubber works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-08-10T14:24:35.5005382+03:00"
+    }
+  ]
+}

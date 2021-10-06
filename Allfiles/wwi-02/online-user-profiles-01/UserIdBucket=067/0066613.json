@@ -1,0 +1,33 @@
+{
+  "userId": 66613,
+  "cartId": "3f97d5b5-f3fe-4bb6-ae96-64c666b07b00",
+  "preferredProducts": [
+    1581,
+    4815,
+    3009,
+    4178,
+    997,
+    33,
+    4699,
+    4711,
+    135,
+    2842
+  ],
+  "productReviews": [
+    {
+      "productId": 1376,
+      "reviewText": "this parse is awesome.",
+      "reviewDate": "2017-08-25T23:37:00.7515759+03:00"
+    },
+    {
+      "productId": 2116,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-01-25T19:31:39.155349+02:00"
+    },
+    {
+      "productId": 2735,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-09-28T13:03:05.8615171+03:00"
+    }
+  ]
+}

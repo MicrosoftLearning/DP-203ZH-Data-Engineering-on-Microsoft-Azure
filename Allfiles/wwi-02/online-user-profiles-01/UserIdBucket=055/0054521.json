@@ -1,0 +1,24 @@
+{
+  "userId": 54521,
+  "cartId": "4b07695d-31c4-4c19-8074-bc40eb392e84",
+  "preferredProducts": [
+    3808,
+    3279,
+    1135,
+    631,
+    4196,
+    2270
+  ],
+  "productReviews": [
+    {
+      "productId": 1246,
+      "reviewText": "This invoice works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-08-18T01:33:44.2140621+03:00"
+    },
+    {
+      "productId": 2512,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-05-22T19:28:36.3493451+03:00"
+    }
+  ]
+}

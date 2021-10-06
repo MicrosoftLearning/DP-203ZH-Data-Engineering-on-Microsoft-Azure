@@ -1,0 +1,32 @@
+{
+  "userId": 52299,
+  "cartId": "2e1ec537-ed74-400d-83b2-007fa515e808",
+  "preferredProducts": [
+    3627,
+    127,
+    1885,
+    2640,
+    4062,
+    2905,
+    4872,
+    1902,
+    3337
+  ],
+  "productReviews": [
+    {
+      "productId": 4314,
+      "reviewText": "this orchid is standard.",
+      "reviewDate": "2016-06-22T13:32:18.3715721+03:00"
+    },
+    {
+      "productId": 2710,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2020-02-17T08:42:25.629099+02:00"
+    },
+    {
+      "productId": 3390,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-12-19T14:00:34.508921+02:00"
+    }
+  ]
+}

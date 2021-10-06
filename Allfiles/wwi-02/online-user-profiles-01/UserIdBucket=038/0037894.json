@@ -1,0 +1,38 @@
+{
+  "userId": 37894,
+  "cartId": "d10e1b62-920d-403f-8886-2d059328f43e",
+  "preferredProducts": [
+    243,
+    676,
+    3783,
+    4131,
+    3213
+  ],
+  "productReviews": [
+    {
+      "productId": 29,
+      "reviewText": "this deposit is tasty.",
+      "reviewDate": "2020-02-26T05:00:08.3047142+02:00"
+    },
+    {
+      "productId": 1648,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-04-02T21:04:02.0903133+03:00"
+    },
+    {
+      "productId": 2624,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-12-02T01:10:50.1426134+02:00"
+    },
+    {
+      "productId": 2498,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2017-10-04T01:23:19.6431984+03:00"
+    },
+    {
+      "productId": 4862,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-05-28T17:02:29.2974584+03:00"
+    }
+  ]
+}

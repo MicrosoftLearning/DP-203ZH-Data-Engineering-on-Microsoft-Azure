@@ -1,0 +1,35 @@
+{
+  "userId": 88038,
+  "cartId": "a36e33fc-593c-4ff4-9da6-1487b7d10630",
+  "preferredProducts": [
+    123,
+    1675
+  ],
+  "productReviews": [
+    {
+      "productId": 4692,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-03-26T23:50:05.2558411+03:00"
+    },
+    {
+      "productId": 2454,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-05-04T23:22:52.2219363+03:00"
+    },
+    {
+      "productId": 318,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-04-22T20:02:00.8083633+03:00"
+    },
+    {
+      "productId": 1271,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-07-10T09:05:33.1949114+03:00"
+    },
+    {
+      "productId": 4999,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-04-28T10:37:32.9721388+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 69751,
+  "cartId": "5c0fd3f3-9c8e-4847-8dca-fd5ffd3585ba",
+  "preferredProducts": [
+    2655,
+    1507,
+    4201
+  ],
+  "productReviews": [
+    {
+      "productId": 4103,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-04-13T11:52:34.1550433+03:00"
+    },
+    {
+      "productId": 668,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-09-23T02:04:04.8303275+03:00"
+    },
+    {
+      "productId": 1249,
+      "reviewText": "this GB is gracious.",
+      "reviewDate": "2018-11-28T12:43:16.4026935+02:00"
+    },
+    {
+      "productId": 1671,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-11-04T09:04:55.4836481+02:00"
+    }
+  ]
+}

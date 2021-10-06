@@ -1,0 +1,37 @@
+{
+  "userId": 99201,
+  "cartId": "d5bf38a4-2430-41ad-92fd-d66613c3c124",
+  "preferredProducts": [
+    3372,
+    2673,
+    2717,
+    1973,
+    396,
+    1911,
+    56,
+    4887,
+    2641
+  ],
+  "productReviews": [
+    {
+      "productId": 1866,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-11-21T05:29:46.8143102+02:00"
+    },
+    {
+      "productId": 116,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-10-19T07:18:25.4118353+03:00"
+    },
+    {
+      "productId": 155,
+      "reviewText": "This metrics works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2020-01-08T08:10:27.1191079+02:00"
+    },
+    {
+      "productId": 1345,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-06-06T19:39:13.6945026+03:00"
+    }
+  ]
+}

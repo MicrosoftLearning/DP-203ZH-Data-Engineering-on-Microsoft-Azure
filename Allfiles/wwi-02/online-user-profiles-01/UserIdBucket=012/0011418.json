@@ -1,0 +1,33 @@
+{
+  "userId": 11418,
+  "cartId": "9aa33250-f3b3-447d-ba3e-e3e687594662",
+  "preferredProducts": [
+    2327,
+    2502,
+    244,
+    706,
+    1055,
+    2859,
+    1704,
+    1942,
+    1644,
+    3599
+  ],
+  "productReviews": [
+    {
+      "productId": 1601,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-09-25T17:49:00.7940164+03:00"
+    },
+    {
+      "productId": 4555,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-05-05T22:25:45.7351947+03:00"
+    },
+    {
+      "productId": 1768,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-10-17T02:42:39.4925257+03:00"
+    }
+  ]
+}

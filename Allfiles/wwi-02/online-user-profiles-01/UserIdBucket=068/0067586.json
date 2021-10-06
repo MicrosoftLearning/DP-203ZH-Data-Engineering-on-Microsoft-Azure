@@ -1,0 +1,35 @@
+{
+  "userId": 67586,
+  "cartId": "5a0673d0-a2df-42f5-a79c-425594aa2034",
+  "preferredProducts": [
+    1812,
+    3255
+  ],
+  "productReviews": [
+    {
+      "productId": 4772,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-05-23T00:52:43.4315548+03:00"
+    },
+    {
+      "productId": 4465,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-06-09T00:31:59.8537204+03:00"
+    },
+    {
+      "productId": 839,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-07-02T15:19:27.6571884+03:00"
+    },
+    {
+      "productId": 4798,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-05-30T21:31:39.9912295+03:00"
+    },
+    {
+      "productId": 4651,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-09T19:27:34.2169696+03:00"
+    }
+  ]
+}

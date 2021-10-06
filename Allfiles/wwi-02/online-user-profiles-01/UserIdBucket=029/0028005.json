@@ -1,0 +1,30 @@
+{
+  "userId": 28005,
+  "cartId": "61c6e375-2734-4450-befc-cbd1c2702fc1",
+  "preferredProducts": [
+    3311,
+    4520,
+    4242,
+    2476,
+    1325,
+    2443,
+    2587
+  ],
+  "productReviews": [
+    {
+      "productId": 3939,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-12-31T16:28:06.5761148+02:00"
+    },
+    {
+      "productId": 2876,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-01-16T13:37:50.8910742+02:00"
+    },
+    {
+      "productId": 24,
+      "reviewText": "this primary is amiable.",
+      "reviewDate": "2020-01-19T10:14:23.6875597+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 12331,
+  "cartId": "2231a9b4-ba37-413b-bae6-061c3f3eb64b",
+  "preferredProducts": [
+    2183,
+    261,
+    1097,
+    1671,
+    2312,
+    2692,
+    4807,
+    2127,
+    2629,
+    2762
+  ],
+  "productReviews": [
+    {
+      "productId": 3286,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2016-10-18T09:11:50.2009621+03:00"
+    },
+    {
+      "productId": 3454,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-05-27T02:56:06.0099436+03:00"
+    },
+    {
+      "productId": 3332,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-11-27T00:09:54.3207188+02:00"
+    }
+  ]
+}

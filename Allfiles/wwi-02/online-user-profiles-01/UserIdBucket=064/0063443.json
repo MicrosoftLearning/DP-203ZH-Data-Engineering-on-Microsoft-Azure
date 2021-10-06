@@ -1,0 +1,36 @@
+{
+  "userId": 63443,
+  "cartId": "985e3043-070d-40b1-b709-21e9a7f3e578",
+  "preferredProducts": [
+    2880,
+    4344,
+    3443
+  ],
+  "productReviews": [
+    {
+      "productId": 4758,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-04-07T15:49:09.9064614+03:00"
+    },
+    {
+      "productId": 4902,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-08-24T11:04:13.7023132+03:00"
+    },
+    {
+      "productId": 1053,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-12-09T03:55:32.4631824+02:00"
+    },
+    {
+      "productId": 4404,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-03-05T12:04:44.5871944+02:00"
+    },
+    {
+      "productId": 2292,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-12-01T22:44:04.6456944+02:00"
+    }
+  ]
+}

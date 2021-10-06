@@ -1,0 +1,32 @@
+{
+  "userId": 50282,
+  "cartId": "ef57f4f9-5cad-4ccb-943e-889f6845c6a5",
+  "preferredProducts": [
+    3135,
+    2623,
+    2347,
+    1593
+  ],
+  "productReviews": [
+    {
+      "productId": 1511,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-08-10T17:57:23.3032908+03:00"
+    },
+    {
+      "productId": 3461,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-08-26T21:13:55.4046524+03:00"
+    },
+    {
+      "productId": 669,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2018-11-02T05:21:00.6943638+02:00"
+    },
+    {
+      "productId": 2680,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-05-26T13:52:39.7455305+03:00"
+    }
+  ]
+}

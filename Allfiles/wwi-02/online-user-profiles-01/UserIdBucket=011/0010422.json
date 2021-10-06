@@ -1,0 +1,29 @@
+{
+  "userId": 10422,
+  "cartId": "42de0a8a-35f8-4df6-af65-2d8583aab87c",
+  "preferredProducts": [
+    4572,
+    1361,
+    4113,
+    4824,
+    4770,
+    1321
+  ],
+  "productReviews": [
+    {
+      "productId": 1113,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-04-13T19:52:57.7165721+03:00"
+    },
+    {
+      "productId": 4474,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2017-06-12T04:28:05.6681623+03:00"
+    },
+    {
+      "productId": 366,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-02-10T19:46:12.3160093+02:00"
+    }
+  ]
+}

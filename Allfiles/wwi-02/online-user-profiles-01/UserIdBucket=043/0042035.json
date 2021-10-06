@@ -1,0 +1,22 @@
+{
+  "userId": 42035,
+  "cartId": "be351181-6f14-46b3-ac1f-f479a3687256",
+  "preferredProducts": [
+    2443,
+    2289,
+    3029,
+    3050
+  ],
+  "productReviews": [
+    {
+      "productId": 4993,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-12-03T06:48:39.089776+02:00"
+    },
+    {
+      "productId": 3707,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-12-31T21:06:57.6106467+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 37391,
+  "cartId": "123acfde-9aee-43b3-bef7-6de60fdd33c6",
+  "preferredProducts": [
+    2278,
+    1061,
+    4997,
+    4411,
+    1410,
+    3243
+  ],
+  "productReviews": [
+    {
+      "productId": 4168,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-11-10T18:21:39.560625+02:00"
+    },
+    {
+      "productId": 4135,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-09-09T15:47:02.167377+03:00"
+    },
+    {
+      "productId": 67,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-05-01T13:49:00.226067+03:00"
+    }
+  ]
+}

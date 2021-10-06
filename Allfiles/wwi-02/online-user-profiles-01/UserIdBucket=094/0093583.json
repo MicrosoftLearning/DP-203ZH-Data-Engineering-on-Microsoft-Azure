@@ -1,0 +1,31 @@
+{
+  "userId": 93583,
+  "cartId": "5cdbb563-a816-4768-8850-3bf6145e98da",
+  "preferredProducts": [
+    3045,
+    1418,
+    2554
+  ],
+  "productReviews": [
+    {
+      "productId": 1324,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-12-25T16:03:11.5467421+02:00"
+    },
+    {
+      "productId": 4731,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-10-14T19:49:33.9826413+03:00"
+    },
+    {
+      "productId": 959,
+      "reviewText": "this holistic is mellow.",
+      "reviewDate": "2017-07-11T23:00:18.8160901+03:00"
+    },
+    {
+      "productId": 2298,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-01-16T22:43:47.2403807+02:00"
+    }
+  ]
+}

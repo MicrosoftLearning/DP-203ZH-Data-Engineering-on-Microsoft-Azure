@@ -1,0 +1,30 @@
+{
+  "userId": 72003,
+  "cartId": "a3cec875-11c7-4745-a7a3-8db50d7b5f9e",
+  "preferredProducts": [
+    1266,
+    3050
+  ],
+  "productReviews": [
+    {
+      "productId": 3320,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-08-28T23:06:38.8730498+03:00"
+    },
+    {
+      "productId": 3395,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-05-30T12:21:44.1466523+03:00"
+    },
+    {
+      "productId": 896,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-09-19T16:25:15.7220857+03:00"
+    },
+    {
+      "productId": 589,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-12-27T08:46:27.1525027+02:00"
+    }
+  ]
+}

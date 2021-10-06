@@ -1,0 +1,31 @@
+{
+  "userId": 23988,
+  "cartId": "4ef42bae-f082-4fea-9613-ec28dbafb410",
+  "preferredProducts": [
+    1000,
+    693,
+    422
+  ],
+  "productReviews": [
+    {
+      "productId": 3481,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-07-20T09:55:36.9283171+03:00"
+    },
+    {
+      "productId": 973,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-08-09T09:50:27.5892277+03:00"
+    },
+    {
+      "productId": 4766,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-08-22T12:35:15.9249793+03:00"
+    },
+    {
+      "productId": 2924,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-03-30T23:24:05.4635973+03:00"
+    }
+  ]
+}

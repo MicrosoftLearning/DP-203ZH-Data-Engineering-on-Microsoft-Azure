@@ -1,0 +1,35 @@
+{
+  "userId": 10505,
+  "cartId": "002c09e6-75ce-401a-8056-eda776c31eb8",
+  "preferredProducts": [
+    3104,
+    3000
+  ],
+  "productReviews": [
+    {
+      "productId": 2551,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-06-01T18:44:42.8389307+03:00"
+    },
+    {
+      "productId": 1699,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-08-18T01:03:56.3925005+03:00"
+    },
+    {
+      "productId": 1114,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-08-17T17:39:11.3472508+03:00"
+    },
+    {
+      "productId": 3183,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-09-14T17:57:51.6893969+03:00"
+    },
+    {
+      "productId": 651,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-12-10T04:42:21.7583664+02:00"
+    }
+  ]
+}

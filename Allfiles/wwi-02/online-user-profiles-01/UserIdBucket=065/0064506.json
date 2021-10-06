@@ -1,0 +1,33 @@
+{
+  "userId": 64506,
+  "cartId": "a98b1b8a-1868-4caa-8c97-01f8d6cc3cd1",
+  "preferredProducts": [
+    1177,
+    4580,
+    3808,
+    881,
+    98,
+    2480,
+    120,
+    3439,
+    2538,
+    1947
+  ],
+  "productReviews": [
+    {
+      "productId": 79,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-02-16T14:50:54.4242728+02:00"
+    },
+    {
+      "productId": 3866,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-04-26T20:22:51.9441465+03:00"
+    },
+    {
+      "productId": 683,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-10T20:52:19.9311026+03:00"
+    }
+  ]
+}

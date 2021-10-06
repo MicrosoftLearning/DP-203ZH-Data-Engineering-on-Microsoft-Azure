@@ -1,0 +1,30 @@
+{
+  "userId": 15547,
+  "cartId": "7c1fce8f-e898-4a6c-9c14-fa1dc24063c1",
+  "preferredProducts": [
+    4014,
+    4613,
+    2896,
+    676,
+    4285,
+    4617,
+    313
+  ],
+  "productReviews": [
+    {
+      "productId": 147,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-01-10T20:44:19.9282368+02:00"
+    },
+    {
+      "productId": 1094,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-08-03T02:55:38.8908571+03:00"
+    },
+    {
+      "productId": 1780,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-07-10T10:36:06.6616389+03:00"
+    }
+  ]
+}

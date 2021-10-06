@@ -1,0 +1,41 @@
+{
+  "userId": 33507,
+  "cartId": "d4a8d018-4388-481a-9a72-8b947de8c290",
+  "preferredProducts": [
+    3457,
+    140,
+    3198,
+    1932,
+    3798,
+    3765,
+    2345,
+    3233
+  ],
+  "productReviews": [
+    {
+      "productId": 1702,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-10-24T21:08:27.0435977+03:00"
+    },
+    {
+      "productId": 570,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-06-06T03:53:51.610936+03:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-03-04T12:06:05.9370985+02:00"
+    },
+    {
+      "productId": 2195,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-07-27T04:17:19.1419122+03:00"
+    },
+    {
+      "productId": 1961,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-10-03T21:39:47.7749162+03:00"
+    }
+  ]
+}

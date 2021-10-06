@@ -1,0 +1,33 @@
+{
+  "userId": 68121,
+  "cartId": "7216952a-a9ce-4b95-b9e5-5892ac10427e",
+  "preferredProducts": [
+    4726,
+    3538,
+    1094,
+    4654,
+    1048
+  ],
+  "productReviews": [
+    {
+      "productId": 235,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-12-16T03:55:47.1081173+02:00"
+    },
+    {
+      "productId": 1231,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-02-20T19:49:32.9957093+02:00"
+    },
+    {
+      "productId": 719,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-07-05T15:28:06.7286262+03:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-10-22T00:30:22.162148+03:00"
+    }
+  ]
+}

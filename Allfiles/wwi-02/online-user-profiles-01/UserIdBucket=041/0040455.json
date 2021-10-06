@@ -1,0 +1,35 @@
+{
+  "userId": 40455,
+  "cartId": "5140536e-271b-47e5-9aa8-3c9aaef2c763",
+  "preferredProducts": [
+    4391,
+    1955,
+    753,
+    3960,
+    1978,
+    4327,
+    2201
+  ],
+  "productReviews": [
+    {
+      "productId": 4403,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-06-12T08:03:41.2127816+03:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-03-16T11:50:48.1720579+02:00"
+    },
+    {
+      "productId": 4630,
+      "reviewText": "this granular is hyper.",
+      "reviewDate": "2019-07-08T09:24:43.7627955+03:00"
+    },
+    {
+      "productId": 3384,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-08-14T18:37:12.7009016+03:00"
+    }
+  ]
+}

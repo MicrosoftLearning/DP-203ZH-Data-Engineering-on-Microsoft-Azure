@@ -1,0 +1,37 @@
+{
+  "userId": 53521,
+  "cartId": "22ecd35c-b664-4eec-88a7-3bca55482e3d",
+  "preferredProducts": [
+    345,
+    1203,
+    3161,
+    1850,
+    4316,
+    1032,
+    1811,
+    2069,
+    1022
+  ],
+  "productReviews": [
+    {
+      "productId": 4182,
+      "reviewText": "this info-mediaries is top-notch.",
+      "reviewDate": "2017-06-29T11:13:47.6052225+03:00"
+    },
+    {
+      "productId": 3009,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-10-26T05:24:40.9377222+03:00"
+    },
+    {
+      "productId": 4332,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-10-12T20:57:19.7050787+03:00"
+    },
+    {
+      "productId": 920,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-11-17T23:18:47.520766+02:00"
+    }
+  ]
+}

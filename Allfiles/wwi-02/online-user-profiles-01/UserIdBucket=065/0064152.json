@@ -1,0 +1,22 @@
+{
+  "userId": 64152,
+  "cartId": "abc86528-ad45-4739-a6d0-cf11587a8b41",
+  "preferredProducts": [
+    3562,
+    2585,
+    2473,
+    2267
+  ],
+  "productReviews": [
+    {
+      "productId": 977,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-01-29T22:24:38.7788716+02:00"
+    },
+    {
+      "productId": 4784,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-06-17T07:18:12.1340879+03:00"
+    }
+  ]
+}

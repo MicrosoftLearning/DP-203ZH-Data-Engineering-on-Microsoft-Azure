@@ -1,0 +1,38 @@
+{
+  "userId": 8364,
+  "cartId": "a7d5505a-3b77-4a08-b63c-f065f4247346",
+  "preferredProducts": [
+    3502,
+    2462,
+    673,
+    2855,
+    1438
+  ],
+  "productReviews": [
+    {
+      "productId": 4533,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2016-09-15T10:30:32.2720438+03:00"
+    },
+    {
+      "productId": 2719,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-11-10T17:17:02.1471357+02:00"
+    },
+    {
+      "productId": 2005,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-03-27T20:53:14.8805703+02:00"
+    },
+    {
+      "productId": 4272,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-08-16T06:56:48.1969449+03:00"
+    },
+    {
+      "productId": 43,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-02-16T09:29:59.4945155+02:00"
+    }
+  ]
+}

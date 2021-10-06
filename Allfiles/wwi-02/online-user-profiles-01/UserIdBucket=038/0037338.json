@@ -1,0 +1,27 @@
+{
+  "userId": 37338,
+  "cartId": "129ecd7f-809e-45e3-b4e8-cc56599c4c6a",
+  "preferredProducts": [
+    4439,
+    4869,
+    2639,
+    2510
+  ],
+  "productReviews": [
+    {
+      "productId": 2225,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-05-21T00:52:23.8665785+03:00"
+    },
+    {
+      "productId": 3378,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-11-16T21:43:39.5007284+02:00"
+    },
+    {
+      "productId": 4704,
+      "reviewText": "This Ergonomic works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2017-02-09T16:48:16.9052004+02:00"
+    }
+  ]
+}

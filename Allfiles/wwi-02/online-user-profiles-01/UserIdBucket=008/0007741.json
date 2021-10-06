@@ -1,0 +1,36 @@
+{
+  "userId": 7741,
+  "cartId": "af259144-eb79-4169-973e-2e50797ca26b",
+  "preferredProducts": [
+    2844,
+    4628,
+    592,
+    820,
+    3786,
+    2769,
+    3433,
+    4401
+  ],
+  "productReviews": [
+    {
+      "productId": 2467,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-08-11T18:02:06.6723068+03:00"
+    },
+    {
+      "productId": 3109,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-09-08T23:14:58.5966951+03:00"
+    },
+    {
+      "productId": 2868,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-03-05T20:57:59.1767431+02:00"
+    },
+    {
+      "productId": 508,
+      "reviewText": "this Heights is whole-grain.",
+      "reviewDate": "2016-12-10T08:12:16.9044127+02:00"
+    }
+  ]
+}

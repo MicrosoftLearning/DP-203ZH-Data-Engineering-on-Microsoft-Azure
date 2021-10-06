@@ -1,0 +1,33 @@
+{
+  "userId": 22675,
+  "cartId": "b44703c5-8b8c-44b0-b0c2-292f66f1098c",
+  "preferredProducts": [
+    339,
+    2730,
+    2131,
+    4351,
+    2223,
+    2687,
+    4876,
+    2119,
+    3989,
+    1889
+  ],
+  "productReviews": [
+    {
+      "productId": 1532,
+      "reviewText": "This next generation works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-07-21T07:35:59.458866+03:00"
+    },
+    {
+      "productId": 3303,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-08-30T07:37:07.7496832+03:00"
+    },
+    {
+      "productId": 2433,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-11-09T02:18:55.063114+02:00"
+    }
+  ]
+}

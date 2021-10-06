@@ -1,0 +1,27 @@
+{
+  "userId": 2862,
+  "cartId": "7d597d58-26df-43d7-9b82-23654219ec4a",
+  "preferredProducts": [
+    3195,
+    3069,
+    1293,
+    1394,
+    888,
+    4520,
+    2748,
+    2072,
+    1122
+  ],
+  "productReviews": [
+    {
+      "productId": 3182,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-12-06T18:39:16.7632649+02:00"
+    },
+    {
+      "productId": 4186,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-02-07T09:43:59.9212054+02:00"
+    }
+  ]
+}

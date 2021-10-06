@@ -1,0 +1,32 @@
+{
+  "userId": 86600,
+  "cartId": "e16f7391-65c8-46e9-925f-be7f545867a5",
+  "preferredProducts": [
+    3231,
+    4734,
+    1748,
+    2586
+  ],
+  "productReviews": [
+    {
+      "productId": 889,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-04-28T08:07:21.4371848+03:00"
+    },
+    {
+      "productId": 147,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-09-24T05:28:13.3191149+03:00"
+    },
+    {
+      "productId": 3244,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-03-03T03:22:33.0919441+02:00"
+    },
+    {
+      "productId": 3394,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-11-10T02:01:02.0387344+02:00"
+    }
+  ]
+}

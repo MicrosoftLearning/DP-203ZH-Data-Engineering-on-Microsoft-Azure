@@ -1,0 +1,33 @@
+{
+  "userId": 50741,
+  "cartId": "5efdc511-f07a-45f0-9a45-cb06c9c17bd3",
+  "preferredProducts": [
+    1907,
+    2001,
+    3139,
+    1178,
+    2499,
+    4031,
+    3214,
+    3580,
+    4190,
+    729
+  ],
+  "productReviews": [
+    {
+      "productId": 4068,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-09-15T04:41:52.712085+03:00"
+    },
+    {
+      "productId": 1277,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-09-06T04:50:23.3788206+03:00"
+    },
+    {
+      "productId": 3213,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-02-14T15:46:47.3766087+02:00"
+    }
+  ]
+}

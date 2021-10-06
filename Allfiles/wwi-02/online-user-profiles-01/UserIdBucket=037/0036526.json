@@ -1,0 +1,29 @@
+{
+  "userId": 36526,
+  "cartId": "fdb29fef-d451-4f87-ab07-0a05f6f59b4e",
+  "preferredProducts": [
+    311,
+    2256,
+    13,
+    1694,
+    2263,
+    2293
+  ],
+  "productReviews": [
+    {
+      "productId": 3872,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-08-01T14:47:36.0512352+03:00"
+    },
+    {
+      "productId": 617,
+      "reviewText": "This Hong Kong works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-06-12T06:16:55.8757216+03:00"
+    },
+    {
+      "productId": 2638,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-01-31T02:58:49.6238365+02:00"
+    }
+  ]
+}

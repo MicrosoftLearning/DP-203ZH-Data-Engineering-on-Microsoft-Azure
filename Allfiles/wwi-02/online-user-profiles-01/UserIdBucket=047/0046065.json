@@ -1,0 +1,29 @@
+{
+  "userId": 46065,
+  "cartId": "1aba6197-dd6e-495d-8202-15052958c29f",
+  "preferredProducts": [
+    3277,
+    1134,
+    3396,
+    2102,
+    4937,
+    1703
+  ],
+  "productReviews": [
+    {
+      "productId": 590,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-03-08T18:23:13.7543695+02:00"
+    },
+    {
+      "productId": 2755,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-12-07T02:27:15.2537648+02:00"
+    },
+    {
+      "productId": 4441,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-08-07T14:21:54.8470772+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 5906,
+  "cartId": "94fe7f75-448b-4a3e-8101-03e7f26cdd66",
+  "preferredProducts": [
+    3272,
+    3177,
+    4516,
+    494,
+    3861,
+    614,
+    3321,
+    1999,
+    4440
+  ],
+  "productReviews": [
+    {
+      "productId": 3020,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-12-20T03:08:05.3094929+02:00"
+    },
+    {
+      "productId": 3096,
+      "reviewText": "This is a really good cyan.",
+      "reviewDate": "2017-10-22T04:46:46.9109481+03:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-04-25T11:43:01.5027576+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 20115,
+  "cartId": "fd554fb2-ad0c-4078-81de-62d482e6986c",
+  "preferredProducts": [
+    1230,
+    1618,
+    2455,
+    70,
+    2407,
+    819,
+    3131,
+    3937,
+    2260,
+    1694
+  ],
+  "productReviews": [
+    {
+      "productId": 408,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-08-23T21:51:36.3027481+03:00"
+    },
+    {
+      "productId": 476,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-08-26T17:40:45.0956819+03:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 60234,
+  "cartId": "eefe4eef-6a28-41c4-88be-5d44c7ae7488",
+  "preferredProducts": [
+    435,
+    2628,
+    1738,
+    962,
+    2879,
+    4816
+  ],
+  "productReviews": [
+    {
+      "productId": 3758,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-08-14T13:02:14.3842021+03:00"
+    },
+    {
+      "productId": 953,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-02-16T12:17:52.30005+02:00"
+    },
+    {
+      "productId": 2708,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-06-01T08:26:26.0230427+03:00"
+    },
+    {
+      "productId": 34,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-11-05T10:08:49.2582047+02:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-05-01T06:49:47.1172639+03:00"
+    }
+  ]
+}

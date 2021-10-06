@@ -1,0 +1,31 @@
+{
+  "userId": 42527,
+  "cartId": "f8efa9b2-8c31-4bd4-acca-e70b16b82896",
+  "preferredProducts": [
+    2380,
+    635,
+    4967,
+    4483,
+    2855,
+    124,
+    8,
+    1431
+  ],
+  "productReviews": [
+    {
+      "productId": 3210,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-09-29T05:05:39.8519371+03:00"
+    },
+    {
+      "productId": 479,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2016-10-09T22:44:35.4872801+03:00"
+    },
+    {
+      "productId": 1992,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-08-07T13:03:21.4406993+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 50017,
+  "cartId": "ca63ea71-6374-4af6-a35a-6de81e1b3c0d",
+  "preferredProducts": [
+    3092,
+    1179
+  ],
+  "productReviews": [
+    {
+      "productId": 1232,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-03-31T08:45:21.8205636+03:00"
+    },
+    {
+      "productId": 1706,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-09-08T00:04:41.0173069+03:00"
+    },
+    {
+      "productId": 2926,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-11-17T00:03:10.219964+02:00"
+    },
+    {
+      "productId": 209,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2020-01-15T08:16:37.9920856+02:00"
+    }
+  ]
+}

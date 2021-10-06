@@ -1,0 +1,33 @@
+{
+  "userId": 73746,
+  "cartId": "ef786b24-3e9d-416a-90d2-9fe466a1b0fb",
+  "preferredProducts": [
+    3857,
+    2457,
+    691,
+    4095,
+    505
+  ],
+  "productReviews": [
+    {
+      "productId": 3789,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-07-22T00:26:43.8713011+03:00"
+    },
+    {
+      "productId": 3649,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2020-01-22T19:05:40.1755825+02:00"
+    },
+    {
+      "productId": 1905,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-11-06T00:32:17.1380189+02:00"
+    },
+    {
+      "productId": 4313,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-02-17T15:11:35.1568992+02:00"
+    }
+  ]
+}

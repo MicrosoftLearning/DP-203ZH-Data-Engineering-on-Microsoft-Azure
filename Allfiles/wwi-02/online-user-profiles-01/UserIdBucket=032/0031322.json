@@ -1,0 +1,29 @@
+{
+  "userId": 31322,
+  "cartId": "95b3cd82-e46e-4e39-8c04-918e7f37fb8a",
+  "preferredProducts": [
+    2232,
+    107,
+    1290,
+    964,
+    4517,
+    2308
+  ],
+  "productReviews": [
+    {
+      "productId": 3597,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-11-10T10:37:44.6446223+02:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-04-10T10:50:31.1778353+03:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-08-10T00:22:29.2387372+03:00"
+    }
+  ]
+}

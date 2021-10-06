@@ -1,0 +1,33 @@
+{
+  "userId": 43053,
+  "cartId": "4fab1fcb-a223-4312-a4e2-44a5f2a4b8b6",
+  "preferredProducts": [
+    402,
+    2783,
+    249,
+    3778,
+    554
+  ],
+  "productReviews": [
+    {
+      "productId": 2143,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-04-19T14:47:51.2744655+03:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-02-28T09:27:58.1151273+02:00"
+    },
+    {
+      "productId": 2761,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-09-27T23:41:48.6364355+03:00"
+    },
+    {
+      "productId": 3968,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-11-14T13:44:19.9360771+02:00"
+    }
+  ]
+}

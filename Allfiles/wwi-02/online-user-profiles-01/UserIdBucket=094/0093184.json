@@ -1,0 +1,27 @@
+{
+  "userId": 93184,
+  "cartId": "27cba8ca-c03c-499c-978c-1bc0a8568f87",
+  "preferredProducts": [
+    3038,
+    1231,
+    1749,
+    4347,
+    1346,
+    128,
+    4274,
+    1297,
+    1253
+  ],
+  "productReviews": [
+    {
+      "productId": 3862,
+      "reviewText": "this circuit is papery.",
+      "reviewDate": "2020-03-14T07:19:28.2199314+02:00"
+    },
+    {
+      "productId": 2964,
+      "reviewText": "this invoice is papery.",
+      "reviewDate": "2020-05-03T07:52:06.7067712+03:00"
+    }
+  ]
+}

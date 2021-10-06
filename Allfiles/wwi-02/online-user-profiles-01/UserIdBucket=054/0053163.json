@@ -1,0 +1,33 @@
+{
+  "userId": 53163,
+  "cartId": "0795e505-2fa3-4532-96c7-25afe97cc6c0",
+  "preferredProducts": [
+    567,
+    3662,
+    3513,
+    291,
+    28
+  ],
+  "productReviews": [
+    {
+      "productId": 1165,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-03-11T18:20:19.842238+02:00"
+    },
+    {
+      "productId": 969,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-04T17:22:05.0739279+03:00"
+    },
+    {
+      "productId": 4661,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-08-13T05:09:00.2242172+03:00"
+    },
+    {
+      "productId": 712,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-03-20T13:45:36.0949366+02:00"
+    }
+  ]
+}

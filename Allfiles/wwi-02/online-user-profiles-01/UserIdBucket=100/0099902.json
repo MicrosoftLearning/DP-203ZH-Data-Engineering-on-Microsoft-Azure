@@ -1,0 +1,22 @@
+{
+  "userId": 99902,
+  "cartId": "fe36b56b-89b6-4833-ab17-64d78c12341b",
+  "preferredProducts": [
+    94,
+    562,
+    2765,
+    2405
+  ],
+  "productReviews": [
+    {
+      "productId": 1871,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-01-24T23:25:47.4410646+02:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-03-22T19:51:58.0436273+02:00"
+    }
+  ]
+}

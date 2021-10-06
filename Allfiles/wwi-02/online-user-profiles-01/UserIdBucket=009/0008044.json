@@ -1,0 +1,27 @@
+{
+  "userId": 8044,
+  "cartId": "5a645d6c-5929-444d-b9a3-4c1025b95e90",
+  "preferredProducts": [
+    2592,
+    1586,
+    4169,
+    3663
+  ],
+  "productReviews": [
+    {
+      "productId": 2381,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-07-05T14:37:17.2520133+03:00"
+    },
+    {
+      "productId": 99,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-01-31T08:15:26.5010921+02:00"
+    },
+    {
+      "productId": 1841,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-04-22T00:37:10.3612272+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 18946,
+  "cartId": "db9d958b-6a42-4970-a2db-f9ec72bfbb1e",
+  "preferredProducts": [
+    1894,
+    224,
+    2563,
+    3334,
+    681,
+    2965,
+    114,
+    3178,
+    475,
+    1986
+  ],
+  "productReviews": [
+    {
+      "productId": 2672,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-11-30T19:25:17.5263325+02:00"
+    },
+    {
+      "productId": 3357,
+      "reviewText": "this Program is mellow.",
+      "reviewDate": "2019-02-05T09:29:02.2925725+02:00"
+    },
+    {
+      "productId": 3380,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-06-03T18:37:27.230106+03:00"
+    },
+    {
+      "productId": 1527,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-10-02T01:49:23.4580884+03:00"
+    }
+  ]
+}

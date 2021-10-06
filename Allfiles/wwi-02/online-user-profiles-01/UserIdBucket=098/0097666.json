@@ -1,0 +1,35 @@
+{
+  "userId": 97666,
+  "cartId": "7a02e6ef-33b0-4c9a-9a6d-5156f67a2ffb",
+  "preferredProducts": [
+    1350,
+    2110,
+    4911,
+    2254,
+    1357,
+    1107,
+    1751
+  ],
+  "productReviews": [
+    {
+      "productId": 4637,
+      "reviewText": "this Gorgeous Fresh Chicken is whole-grain.",
+      "reviewDate": "2018-05-11T16:05:22.661209+03:00"
+    },
+    {
+      "productId": 4203,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-12-08T20:03:16.263073+02:00"
+    },
+    {
+      "productId": 3494,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-08-02T08:56:56.8672758+03:00"
+    },
+    {
+      "productId": 2713,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-03-13T22:54:38.1489769+02:00"
+    }
+  ]
+}

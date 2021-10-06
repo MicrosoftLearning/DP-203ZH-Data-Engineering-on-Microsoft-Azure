@@ -1,0 +1,27 @@
+{
+  "userId": 37382,
+  "cartId": "eff146a5-c245-42e2-9cce-406901dd3d4d",
+  "preferredProducts": [
+    298,
+    770,
+    3921,
+    4538
+  ],
+  "productReviews": [
+    {
+      "productId": 46,
+      "reviewText": "this transmitter is ratty.",
+      "reviewDate": "2019-01-06T22:00:01.6479302+02:00"
+    },
+    {
+      "productId": 586,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-01-08T03:54:53.8184345+02:00"
+    },
+    {
+      "productId": 1392,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-09-20T19:20:32.7344594+03:00"
+    }
+  ]
+}

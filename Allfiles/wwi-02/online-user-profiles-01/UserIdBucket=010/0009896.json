@@ -1,0 +1,25 @@
+{
+  "userId": 9896,
+  "cartId": "5445fd05-2c75-4654-9a0b-6d0ebc7d763e",
+  "preferredProducts": [
+    975,
+    2329
+  ],
+  "productReviews": [
+    {
+      "productId": 201,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-06-01T19:39:16.7138504+03:00"
+    },
+    {
+      "productId": 3171,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-03-18T20:05:14.7306339+02:00"
+    },
+    {
+      "productId": 3095,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2020-03-13T08:39:08.3482349+02:00"
+    }
+  ]
+}

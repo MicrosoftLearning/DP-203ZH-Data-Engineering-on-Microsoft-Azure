@@ -1,0 +1,33 @@
+{
+  "userId": 88641,
+  "cartId": "a915d483-6192-4063-91d2-11fb0c24c932",
+  "preferredProducts": [
+    3542,
+    2585,
+    2404,
+    1384,
+    3413
+  ],
+  "productReviews": [
+    {
+      "productId": 3477,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-11-30T05:29:08.1966859+02:00"
+    },
+    {
+      "productId": 1069,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-09-10T21:23:44.8437644+03:00"
+    },
+    {
+      "productId": 4676,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-05-30T19:19:01.6122141+03:00"
+    },
+    {
+      "productId": 775,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2016-06-02T20:29:01.8354628+03:00"
+    }
+  ]
+}

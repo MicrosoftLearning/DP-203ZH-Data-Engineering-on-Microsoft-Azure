@@ -1,0 +1,35 @@
+{
+  "userId": 2075,
+  "cartId": "1900a727-66fd-4bb1-a79c-6bfc50352667",
+  "preferredProducts": [
+    2505,
+    4998,
+    3673,
+    3327,
+    1018,
+    3597,
+    470
+  ],
+  "productReviews": [
+    {
+      "productId": 1921,
+      "reviewText": "This is a really good port.",
+      "reviewDate": "2016-08-15T06:40:58.5170997+03:00"
+    },
+    {
+      "productId": 4860,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-04-05T23:13:09.9429392+03:00"
+    },
+    {
+      "productId": 714,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-08-07T00:38:17.793212+03:00"
+    },
+    {
+      "productId": 1482,
+      "reviewText": "This Bedfordshire works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-05-31T01:30:34.6703482+03:00"
+    }
+  ]
+}

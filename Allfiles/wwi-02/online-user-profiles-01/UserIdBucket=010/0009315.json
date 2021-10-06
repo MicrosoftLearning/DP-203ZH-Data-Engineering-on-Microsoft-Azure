@@ -1,0 +1,25 @@
+{
+  "userId": 9315,
+  "cartId": "96898ea7-4e92-4dca-a495-d549dd9674dc",
+  "preferredProducts": [
+    4410,
+    3710,
+    3394,
+    4243,
+    522,
+    1136,
+    3116
+  ],
+  "productReviews": [
+    {
+      "productId": 772,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-11-01T12:05:00.427351+02:00"
+    },
+    {
+      "productId": 3228,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-11-27T22:55:40.9795304+02:00"
+    }
+  ]
+}

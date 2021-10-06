@@ -1,0 +1,25 @@
+{
+  "userId": 22444,
+  "cartId": "c5c84e81-3073-4b78-b232-6e7efdbe8448",
+  "preferredProducts": [
+    1640,
+    3783
+  ],
+  "productReviews": [
+    {
+      "productId": 2124,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-12-24T02:42:43.4705715+02:00"
+    },
+    {
+      "productId": 3677,
+      "reviewText": "This Lead works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-09-25T20:49:55.9628564+03:00"
+    },
+    {
+      "productId": 1708,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-04-21T16:53:55.2236892+03:00"
+    }
+  ]
+}

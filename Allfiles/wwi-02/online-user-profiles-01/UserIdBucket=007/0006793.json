@@ -1,0 +1,34 @@
+{
+  "userId": 6793,
+  "cartId": "7ff76b30-a773-4e3e-8c82-9d61ecfdfabf",
+  "preferredProducts": [
+    2935,
+    497,
+    954,
+    2669,
+    3370,
+    2897
+  ],
+  "productReviews": [
+    {
+      "productId": 1946,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-05-03T13:11:00.0454295+03:00"
+    },
+    {
+      "productId": 4751,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-01-23T08:13:55.8947523+02:00"
+    },
+    {
+      "productId": 1183,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-06-19T01:07:12.5521852+03:00"
+    },
+    {
+      "productId": 4113,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-03-04T16:21:41.4340431+02:00"
+    }
+  ]
+}

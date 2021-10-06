@@ -1,0 +1,31 @@
+{
+  "userId": 79862,
+  "cartId": "1e535305-bbad-4dea-961c-59baf5b382e5",
+  "preferredProducts": [
+    3871,
+    1656,
+    1457
+  ],
+  "productReviews": [
+    {
+      "productId": 3515,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-05-10T10:18:00.2154887+03:00"
+    },
+    {
+      "productId": 2465,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-04-20T23:50:07.3837313+03:00"
+    },
+    {
+      "productId": 1845,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-04-14T20:02:23.7912937+03:00"
+    },
+    {
+      "productId": 4076,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-07-04T11:52:48.062055+03:00"
+    }
+  ]
+}

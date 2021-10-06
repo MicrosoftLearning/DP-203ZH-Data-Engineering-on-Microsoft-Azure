@@ -1,0 +1,28 @@
+{
+  "userId": 21500,
+  "cartId": "e6dc1113-739c-4212-a8c6-dcdebea2f124",
+  "preferredProducts": [
+    921,
+    1231,
+    1581,
+    1900,
+    516
+  ],
+  "productReviews": [
+    {
+      "productId": 4695,
+      "reviewText": "this invoice is tasty.",
+      "reviewDate": "2020-04-03T19:46:02.0789193+03:00"
+    },
+    {
+      "productId": 4549,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-10-28T22:47:51.9268979+02:00"
+    },
+    {
+      "productId": 4548,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-10-13T20:45:52.2339105+03:00"
+    }
+  ]
+}

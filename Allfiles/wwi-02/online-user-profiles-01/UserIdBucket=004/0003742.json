@@ -1,0 +1,37 @@
+{
+  "userId": 3742,
+  "cartId": "e012c02f-3339-4e72-ae03-2d4de9cecdf9",
+  "preferredProducts": [
+    994,
+    4058,
+    3177,
+    4007
+  ],
+  "productReviews": [
+    {
+      "productId": 3131,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-11-07T09:08:05.3162968+02:00"
+    },
+    {
+      "productId": 590,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-09-10T07:08:45.5867634+03:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-04-08T16:37:16.27652+03:00"
+    },
+    {
+      "productId": 710,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-10-25T01:16:52.1264285+03:00"
+    },
+    {
+      "productId": 2721,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-08-27T06:36:12.49462+03:00"
+    }
+  ]
+}

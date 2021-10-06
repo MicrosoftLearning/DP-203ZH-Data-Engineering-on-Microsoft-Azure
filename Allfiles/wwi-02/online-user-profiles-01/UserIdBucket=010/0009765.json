@@ -1,0 +1,33 @@
+{
+  "userId": 9765,
+  "cartId": "fa7cea4f-32ef-4ed8-a85c-4bc019c04f2d",
+  "preferredProducts": [
+    3358,
+    2431,
+    4678,
+    79,
+    4950,
+    3565,
+    133,
+    2375,
+    1418,
+    1036
+  ],
+  "productReviews": [
+    {
+      "productId": 425,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-08-23T02:13:19.764662+03:00"
+    },
+    {
+      "productId": 2622,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-05-14T11:27:52.7758432+03:00"
+    },
+    {
+      "productId": 369,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-04-04T23:27:53.3465332+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 7431,
+  "cartId": "dbb73d56-ec66-4cd9-8f82-eb71f7ca6453",
+  "preferredProducts": [
+    3278,
+    3401,
+    125,
+    623,
+    644
+  ],
+  "productReviews": [
+    {
+      "productId": 4250,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-05-31T19:12:00.2561104+03:00"
+    },
+    {
+      "productId": 664,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-10-31T18:14:40.7863051+02:00"
+    },
+    {
+      "productId": 3785,
+      "reviewText": "this Kids & Kids is dominant.",
+      "reviewDate": "2018-12-12T05:56:06.9594993+02:00"
+    },
+    {
+      "productId": 2412,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2020-02-09T17:21:11.9413596+02:00"
+    }
+  ]
+}

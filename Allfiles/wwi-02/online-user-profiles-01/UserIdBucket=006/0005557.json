@@ -1,0 +1,26 @@
+{
+  "userId": 5557,
+  "cartId": "36e21ae3-19e9-4edd-aa2d-c98273b21847",
+  "preferredProducts": [
+    893,
+    2092,
+    3964,
+    4894,
+    3648,
+    97,
+    886,
+    4702
+  ],
+  "productReviews": [
+    {
+      "productId": 3218,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-01-03T15:53:56.6324876+02:00"
+    },
+    {
+      "productId": 3850,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-02-19T08:14:02.2470184+02:00"
+    }
+  ]
+}

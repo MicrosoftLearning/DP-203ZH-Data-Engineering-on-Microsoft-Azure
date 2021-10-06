@@ -1,0 +1,37 @@
+{
+  "userId": 88220,
+  "cartId": "9a8fc504-a66b-4ae2-a757-85d54454f9fa",
+  "preferredProducts": [
+    3521,
+    4701,
+    3220,
+    4350,
+    3576,
+    571,
+    480,
+    4159,
+    677
+  ],
+  "productReviews": [
+    {
+      "productId": 737,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-07-29T14:10:55.0918818+03:00"
+    },
+    {
+      "productId": 4872,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-02-12T12:21:12.008542+02:00"
+    },
+    {
+      "productId": 4868,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-12-27T11:06:51.3711009+02:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-12-21T00:01:02.3614988+02:00"
+    }
+  ]
+}

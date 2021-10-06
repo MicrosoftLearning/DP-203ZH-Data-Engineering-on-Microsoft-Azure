@@ -1,0 +1,26 @@
+{
+  "userId": 6165,
+  "cartId": "9b9176cf-9d2f-433c-9c8c-20c7d184245e",
+  "preferredProducts": [
+    2139,
+    4775,
+    1134
+  ],
+  "productReviews": [
+    {
+      "productId": 4967,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-12-31T10:41:43.216217+02:00"
+    },
+    {
+      "productId": 3088,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-01-25T00:43:22.1819312+02:00"
+    },
+    {
+      "productId": 585,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-08-23T16:41:23.2995912+03:00"
+    }
+  ]
+}

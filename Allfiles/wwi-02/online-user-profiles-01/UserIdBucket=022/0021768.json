@@ -1,0 +1,41 @@
+{
+  "userId": 21768,
+  "cartId": "c34aa477-16a9-4856-a970-b09c00d31557",
+  "preferredProducts": [
+    1758,
+    4194,
+    2121,
+    2234,
+    3160,
+    1954,
+    2242,
+    4937
+  ],
+  "productReviews": [
+    {
+      "productId": 3166,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-08-01T05:03:08.8475254+03:00"
+    },
+    {
+      "productId": 3478,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-05-29T20:15:15.3950566+03:00"
+    },
+    {
+      "productId": 2980,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-02T00:48:24.6093703+02:00"
+    },
+    {
+      "productId": 3614,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-09-22T04:30:00.2223166+03:00"
+    },
+    {
+      "productId": 63,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-05-16T02:46:25.1196767+03:00"
+    }
+  ]
+}

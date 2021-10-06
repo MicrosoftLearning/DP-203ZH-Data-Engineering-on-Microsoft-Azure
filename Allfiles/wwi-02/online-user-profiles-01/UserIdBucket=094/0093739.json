@@ -1,0 +1,35 @@
+{
+  "userId": 93739,
+  "cartId": "fb8b28db-7f9b-4421-8a12-29fc8269e184",
+  "preferredProducts": [
+    695,
+    1027,
+    3561,
+    1599,
+    4375,
+    2218,
+    3556
+  ],
+  "productReviews": [
+    {
+      "productId": 4006,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-07-09T23:51:28.3394743+03:00"
+    },
+    {
+      "productId": 2060,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-10-18T22:10:33.9200954+03:00"
+    },
+    {
+      "productId": 4155,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-10-22T20:34:05.0413759+03:00"
+    },
+    {
+      "productId": 4168,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-09-10T08:46:38.5481149+03:00"
+    }
+  ]
+}

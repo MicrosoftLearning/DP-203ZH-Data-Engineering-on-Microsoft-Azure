@@ -1,0 +1,33 @@
+{
+  "userId": 78310,
+  "cartId": "ef0fee71-b442-4ac5-b9bf-c5dda54d57da",
+  "preferredProducts": [
+    3249,
+    4895,
+    752,
+    358,
+    4640
+  ],
+  "productReviews": [
+    {
+      "productId": 995,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-07-07T19:43:06.3321353+03:00"
+    },
+    {
+      "productId": 2435,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-12-09T17:07:17.6049747+02:00"
+    },
+    {
+      "productId": 3413,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-11-21T13:16:47.1779966+02:00"
+    },
+    {
+      "productId": 4971,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-10-09T18:23:57.1656307+03:00"
+    }
+  ]
+}

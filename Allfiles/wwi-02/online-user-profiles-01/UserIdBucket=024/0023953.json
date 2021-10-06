@@ -1,0 +1,30 @@
+{
+  "userId": 23953,
+  "cartId": "5c64a480-269d-4a41-8954-266072341a39",
+  "preferredProducts": [
+    4135,
+    739
+  ],
+  "productReviews": [
+    {
+      "productId": 2802,
+      "reviewText": "This is a really good Automotive & Games.",
+      "reviewDate": "2019-05-15T06:58:35.8509732+03:00"
+    },
+    {
+      "productId": 126,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-02-04T05:34:42.0621914+02:00"
+    },
+    {
+      "productId": 1200,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-02-22T17:14:14.646985+02:00"
+    },
+    {
+      "productId": 3779,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-10-19T09:37:23.6899206+03:00"
+    }
+  ]
+}

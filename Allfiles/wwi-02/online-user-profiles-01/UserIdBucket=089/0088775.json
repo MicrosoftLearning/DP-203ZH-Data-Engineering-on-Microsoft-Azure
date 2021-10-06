@@ -1,0 +1,33 @@
+{
+  "userId": 88775,
+  "cartId": "db8992da-1a76-4013-95e0-702a08e54183",
+  "preferredProducts": [
+    1279,
+    1036,
+    4975,
+    4413,
+    2138
+  ],
+  "productReviews": [
+    {
+      "productId": 4543,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-07-05T15:30:51.6051693+03:00"
+    },
+    {
+      "productId": 2176,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-07-10T07:59:51.3653047+03:00"
+    },
+    {
+      "productId": 1963,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2020-03-03T20:14:16.5341622+02:00"
+    },
+    {
+      "productId": 1728,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-09-19T15:59:39.948502+03:00"
+    }
+  ]
+}

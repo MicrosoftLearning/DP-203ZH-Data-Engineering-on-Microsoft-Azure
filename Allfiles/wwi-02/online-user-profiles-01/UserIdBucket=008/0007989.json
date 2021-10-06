@@ -1,0 +1,30 @@
+{
+  "userId": 7989,
+  "cartId": "4a45ce83-458f-487b-a99f-6a5e9f823bee",
+  "preferredProducts": [
+    3300,
+    430
+  ],
+  "productReviews": [
+    {
+      "productId": 2396,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-08-11T00:23:11.5403453+03:00"
+    },
+    {
+      "productId": 544,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-02-01T00:10:00.7643192+02:00"
+    },
+    {
+      "productId": 1603,
+      "reviewText": "this payment is amiable.",
+      "reviewDate": "2019-05-01T04:56:52.3207505+03:00"
+    },
+    {
+      "productId": 2020,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-05-29T04:47:27.0113273+03:00"
+    }
+  ]
+}

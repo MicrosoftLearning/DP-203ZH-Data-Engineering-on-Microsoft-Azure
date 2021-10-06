@@ -1,0 +1,38 @@
+{
+  "userId": 44929,
+  "cartId": "5ed06293-06c5-4c3e-ab43-f60fc2e2af13",
+  "preferredProducts": [
+    3088,
+    4551,
+    2449,
+    2446,
+    3294,
+    1536,
+    1092,
+    2575,
+    4744,
+    3966
+  ],
+  "productReviews": [
+    {
+      "productId": 2909,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-03-02T10:51:18.3574332+02:00"
+    },
+    {
+      "productId": 3493,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-07-04T06:11:38.398084+03:00"
+    },
+    {
+      "productId": 3003,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-04-09T10:27:48.7000028+03:00"
+    },
+    {
+      "productId": 4765,
+      "reviewText": "this parsing is hyper.",
+      "reviewDate": "2018-12-12T23:18:37.3587344+02:00"
+    }
+  ]
+}

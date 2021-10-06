@@ -1,0 +1,42 @@
+{
+  "userId": 34222,
+  "cartId": "0ea9f7da-84de-48d6-a17b-aca2cefb8b62",
+  "preferredProducts": [
+    2669,
+    4887,
+    2765,
+    2432,
+    4286,
+    535,
+    2600,
+    4667,
+    2334
+  ],
+  "productReviews": [
+    {
+      "productId": 897,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-09-04T22:31:09.0062691+03:00"
+    },
+    {
+      "productId": 2786,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-10-21T20:23:03.2396462+03:00"
+    },
+    {
+      "productId": 2313,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-10-14T16:33:37.7905518+03:00"
+    },
+    {
+      "productId": 950,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-06-21T09:00:00.0868756+03:00"
+    },
+    {
+      "productId": 1728,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2020-03-30T09:47:35.1110256+03:00"
+    }
+  ]
+}

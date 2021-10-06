@@ -1,0 +1,34 @@
+{
+  "userId": 9091,
+  "cartId": "703ce71d-8efc-4009-82da-6d78089e987a",
+  "preferredProducts": [
+    2005,
+    397,
+    722,
+    4211,
+    440,
+    450
+  ],
+  "productReviews": [
+    {
+      "productId": 2456,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-11-21T18:35:29.6578189+02:00"
+    },
+    {
+      "productId": 2639,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-06-12T12:20:02.4534309+03:00"
+    },
+    {
+      "productId": 936,
+      "reviewText": "this Pine is flirty.",
+      "reviewDate": "2019-06-06T02:49:19.4216899+03:00"
+    },
+    {
+      "productId": 4067,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-09-03T23:59:58.7611735+03:00"
+    }
+  ]
+}

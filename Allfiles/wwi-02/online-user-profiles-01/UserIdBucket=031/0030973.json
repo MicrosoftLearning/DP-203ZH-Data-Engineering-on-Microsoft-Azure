@@ -1,0 +1,37 @@
+{
+  "userId": 30973,
+  "cartId": "c6b92b69-4486-43e9-89bf-5dd2228f971a",
+  "preferredProducts": [
+    499,
+    1276,
+    4937,
+    939,
+    3498,
+    2936,
+    350,
+    118,
+    678
+  ],
+  "productReviews": [
+    {
+      "productId": 1976,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-11-30T06:15:40.2201204+02:00"
+    },
+    {
+      "productId": 3521,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-09-17T15:06:53.6051087+03:00"
+    },
+    {
+      "productId": 752,
+      "reviewText": "This stable works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2016-10-04T09:57:07.7648184+03:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-04-19T07:14:50.914231+03:00"
+    }
+  ]
+}

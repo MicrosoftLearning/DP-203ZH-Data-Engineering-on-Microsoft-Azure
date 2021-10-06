@@ -1,0 +1,26 @@
+{
+  "userId": 29911,
+  "cartId": "ae6a2f0f-b3b1-42e0-9d01-73c61b16901c",
+  "preferredProducts": [
+    3668,
+    3279,
+    2020,
+    451,
+    2777,
+    3944,
+    972,
+    1068
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-08-25T08:59:39.5949036+03:00"
+    },
+    {
+      "productId": 4747,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-05-22T10:15:38.7125768+03:00"
+    }
+  ]
+}

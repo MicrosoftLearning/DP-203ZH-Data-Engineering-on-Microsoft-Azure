@@ -1,0 +1,27 @@
+{
+  "userId": 60936,
+  "cartId": "e6cb13b7-db82-485b-9c7b-8aa41aa7cd7e",
+  "preferredProducts": [
+    2230,
+    697,
+    4722,
+    921
+  ],
+  "productReviews": [
+    {
+      "productId": 1030,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-11-03T13:21:55.314131+02:00"
+    },
+    {
+      "productId": 3766,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-08-19T12:44:04.308233+03:00"
+    },
+    {
+      "productId": 620,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2016-09-11T16:46:33.5065359+03:00"
+    }
+  ]
+}

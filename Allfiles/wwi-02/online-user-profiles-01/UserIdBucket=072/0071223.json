@@ -1,0 +1,27 @@
+{
+  "userId": 71223,
+  "cartId": "e69aaf71-15f9-41f2-a943-6cf2b3c109ee",
+  "preferredProducts": [
+    3393,
+    599,
+    416,
+    2702
+  ],
+  "productReviews": [
+    {
+      "productId": 4728,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-11-30T05:16:49.2085771+02:00"
+    },
+    {
+      "productId": 2561,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-04-15T20:59:34.33704+03:00"
+    },
+    {
+      "productId": 1948,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-03-02T10:29:51.9828761+02:00"
+    }
+  ]
+}

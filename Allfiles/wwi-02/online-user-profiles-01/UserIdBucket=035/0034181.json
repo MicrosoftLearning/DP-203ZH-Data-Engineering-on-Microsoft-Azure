@@ -1,0 +1,32 @@
+{
+  "userId": 34181,
+  "cartId": "a1c59b1a-9a48-4c82-b708-7fbaef083582",
+  "preferredProducts": [
+    615,
+    4182,
+    789,
+    332,
+    3319,
+    700,
+    3273,
+    3353,
+    437
+  ],
+  "productReviews": [
+    {
+      "productId": 1533,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-08-15T10:03:17.5468665+03:00"
+    },
+    {
+      "productId": 622,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-08-25T12:18:33.4212314+03:00"
+    },
+    {
+      "productId": 312,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-06-21T17:07:04.4318336+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 4864,
+  "cartId": "e5a44ae4-b720-470a-9e38-466208672514",
+  "preferredProducts": [
+    121,
+    1846,
+    3871,
+    1296,
+    1165,
+    2153,
+    568,
+    809
+  ],
+  "productReviews": [
+    {
+      "productId": 2037,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-08-03T04:14:46.1423249+03:00"
+    },
+    {
+      "productId": 2516,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-03-03T00:32:10.7360403+02:00"
+    },
+    {
+      "productId": 2593,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-09-18T05:10:39.4434205+03:00"
+    }
+  ]
+}

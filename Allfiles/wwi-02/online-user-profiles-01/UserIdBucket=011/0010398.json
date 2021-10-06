@@ -1,0 +1,32 @@
+{
+  "userId": 10398,
+  "cartId": "52cfaad3-06b4-4f10-90cf-7be7a44bbeca",
+  "preferredProducts": [
+    2925,
+    2890,
+    192,
+    4985,
+    2589,
+    1124,
+    1726,
+    2775,
+    3686
+  ],
+  "productReviews": [
+    {
+      "productId": 3459,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-02-08T02:45:51.2371616+02:00"
+    },
+    {
+      "productId": 866,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-08-24T03:49:13.6722349+03:00"
+    },
+    {
+      "productId": 263,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2020-04-30T02:02:51.4502045+03:00"
+    }
+  ]
+}

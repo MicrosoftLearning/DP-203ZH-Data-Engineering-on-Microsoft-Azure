@@ -1,0 +1,36 @@
+{
+  "userId": 25827,
+  "cartId": "5cb46035-9b5b-4f5a-adba-1e030a0ab705",
+  "preferredProducts": [
+    973,
+    3160,
+    2299,
+    637,
+    215,
+    4178,
+    1955,
+    793
+  ],
+  "productReviews": [
+    {
+      "productId": 1156,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-06-14T18:52:54.7903289+03:00"
+    },
+    {
+      "productId": 2401,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-04-10T23:54:21.6938566+03:00"
+    },
+    {
+      "productId": 1010,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-07-24T17:11:15.1141153+03:00"
+    },
+    {
+      "productId": 1775,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-06-30T03:20:40.9571198+03:00"
+    }
+  ]
+}

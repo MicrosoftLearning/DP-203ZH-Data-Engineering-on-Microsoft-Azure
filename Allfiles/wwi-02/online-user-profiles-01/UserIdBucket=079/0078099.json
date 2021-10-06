@@ -1,0 +1,23 @@
+{
+  "userId": 78099,
+  "cartId": "8e6ad21c-8092-4ba4-9af3-0002e343339d",
+  "preferredProducts": [
+    2278,
+    63,
+    2203,
+    2127,
+    4984
+  ],
+  "productReviews": [
+    {
+      "productId": 2434,
+      "reviewText": "This open-source works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-12-25T22:03:10.420227+02:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-08-10T01:06:55.0687265+03:00"
+    }
+  ]
+}

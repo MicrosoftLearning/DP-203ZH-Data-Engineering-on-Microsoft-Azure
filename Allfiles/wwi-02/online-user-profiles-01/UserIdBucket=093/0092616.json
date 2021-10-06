@@ -1,0 +1,35 @@
+{
+  "userId": 92616,
+  "cartId": "f62e2374-c134-47a7-a1f6-7b91beaaab4f",
+  "preferredProducts": [
+    4296,
+    3082,
+    1099,
+    799,
+    63,
+    898,
+    1403
+  ],
+  "productReviews": [
+    {
+      "productId": 15,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-03-08T03:12:41.341471+02:00"
+    },
+    {
+      "productId": 3255,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-08-02T09:24:16.6564105+03:00"
+    },
+    {
+      "productId": 1592,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-01-15T05:52:45.5238373+02:00"
+    },
+    {
+      "productId": 2793,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-08-22T00:13:12.3885905+03:00"
+    }
+  ]
+}

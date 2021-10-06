@@ -1,0 +1,26 @@
+{
+  "userId": 11891,
+  "cartId": "dd13d23c-1fbb-4ebc-a11a-cdc69e64ea13",
+  "preferredProducts": [
+    25,
+    681,
+    1021
+  ],
+  "productReviews": [
+    {
+      "productId": 4219,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-06-22T14:49:31.3812751+03:00"
+    },
+    {
+      "productId": 2925,
+      "reviewText": "this orchid is complimentary.",
+      "reviewDate": "2020-02-23T05:14:28.8131104+02:00"
+    },
+    {
+      "productId": 4212,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2020-05-08T20:22:06.3670042+03:00"
+    }
+  ]
+}

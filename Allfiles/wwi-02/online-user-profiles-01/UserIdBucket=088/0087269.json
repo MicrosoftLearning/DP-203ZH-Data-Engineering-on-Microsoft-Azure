@@ -1,0 +1,34 @@
+{
+  "userId": 87269,
+  "cartId": "a5b73233-4d65-47eb-9d2d-f435f76f9248",
+  "preferredProducts": [
+    2881,
+    2896,
+    1564,
+    2385,
+    1980,
+    1749
+  ],
+  "productReviews": [
+    {
+      "productId": 1399,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2020-01-20T14:40:39.4745516+02:00"
+    },
+    {
+      "productId": 284,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-07-16T08:53:36.6363372+03:00"
+    },
+    {
+      "productId": 525,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-12-23T18:36:09.9493222+02:00"
+    },
+    {
+      "productId": 1033,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-11-08T16:45:05.7129275+02:00"
+    }
+  ]
+}

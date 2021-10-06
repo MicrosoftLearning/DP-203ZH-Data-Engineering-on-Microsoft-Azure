@@ -1,0 +1,35 @@
+{
+  "userId": 90061,
+  "cartId": "e79f3454-9d12-4cb6-83e7-c77bf3692c16",
+  "preferredProducts": [
+    2834,
+    1459,
+    816,
+    1213,
+    4005,
+    2907,
+    1660
+  ],
+  "productReviews": [
+    {
+      "productId": 1521,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-06-17T08:15:07.3007646+03:00"
+    },
+    {
+      "productId": 3623,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-07-24T19:15:45.6345005+03:00"
+    },
+    {
+      "productId": 4238,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-07-10T16:34:30.9926282+03:00"
+    },
+    {
+      "productId": 2248,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-03-10T07:59:57.3782246+02:00"
+    }
+  ]
+}

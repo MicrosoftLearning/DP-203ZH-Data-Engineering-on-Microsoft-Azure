@@ -1,0 +1,27 @@
+{
+  "userId": 45181,
+  "cartId": "0a43569b-b860-4fb7-8bd0-ca4063171aae",
+  "preferredProducts": [
+    1067,
+    4367,
+    1453,
+    1214,
+    3589,
+    1799,
+    2565,
+    4871,
+    582
+  ],
+  "productReviews": [
+    {
+      "productId": 777,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-01-06T06:05:47.6895842+02:00"
+    },
+    {
+      "productId": 4576,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-09-18T11:42:37.1287958+03:00"
+    }
+  ]
+}

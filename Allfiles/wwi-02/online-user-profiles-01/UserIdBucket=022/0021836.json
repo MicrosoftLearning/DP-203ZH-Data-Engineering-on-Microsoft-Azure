@@ -1,0 +1,36 @@
+{
+  "userId": 21836,
+  "cartId": "b332725e-bec3-4f65-9d89-b11a79739a42",
+  "preferredProducts": [
+    4319,
+    2315,
+    2768,
+    3196,
+    1862,
+    3490,
+    1897,
+    246
+  ],
+  "productReviews": [
+    {
+      "productId": 475,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-11-02T22:09:49.0776783+02:00"
+    },
+    {
+      "productId": 3618,
+      "reviewText": "this card is mellow.",
+      "reviewDate": "2017-03-26T18:06:50.0001293+03:00"
+    },
+    {
+      "productId": 2416,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-05-24T03:24:30.4348709+03:00"
+    },
+    {
+      "productId": 4018,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-03-18T13:34:59.2218907+02:00"
+    }
+  ]
+}

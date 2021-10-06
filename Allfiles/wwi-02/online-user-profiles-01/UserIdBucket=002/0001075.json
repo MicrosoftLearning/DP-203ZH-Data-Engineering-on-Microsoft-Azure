@@ -1,0 +1,33 @@
+{
+  "userId": 1075,
+  "cartId": "17394ed0-39c8-4f18-8304-eda0cd6cec10",
+  "preferredProducts": [
+    2677,
+    2101,
+    3933,
+    3248,
+    3695
+  ],
+  "productReviews": [
+    {
+      "productId": 154,
+      "reviewText": "this Tools is perplexed.",
+      "reviewDate": "2016-06-14T06:16:57.8671002+03:00"
+    },
+    {
+      "productId": 1175,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-01-11T21:59:54.3673872+02:00"
+    },
+    {
+      "productId": 2703,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-04-22T22:57:11.8410025+03:00"
+    },
+    {
+      "productId": 1598,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-08-06T04:49:25.5469296+03:00"
+    }
+  ]
+}

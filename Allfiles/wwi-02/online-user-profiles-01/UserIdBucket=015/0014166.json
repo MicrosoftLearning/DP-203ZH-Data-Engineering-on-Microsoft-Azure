@@ -1,0 +1,34 @@
+{
+  "userId": 14166,
+  "cartId": "059ec5ba-fb7b-47ea-9087-55978f770b25",
+  "preferredProducts": [
+    1920,
+    2700,
+    4581,
+    206,
+    4114,
+    1556
+  ],
+  "productReviews": [
+    {
+      "productId": 3956,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-10-17T22:25:34.0602811+03:00"
+    },
+    {
+      "productId": 2445,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-09-08T13:58:51.5975801+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-02-17T19:50:42.5956597+02:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-06-09T07:34:35.4789804+03:00"
+    }
+  ]
+}

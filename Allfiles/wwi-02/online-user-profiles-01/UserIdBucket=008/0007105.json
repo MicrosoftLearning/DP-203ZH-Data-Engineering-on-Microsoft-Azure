@@ -1,0 +1,25 @@
+{
+  "userId": 7105,
+  "cartId": "ece5c15a-db40-4640-9525-d2253a5d2f03",
+  "preferredProducts": [
+    932,
+    2394
+  ],
+  "productReviews": [
+    {
+      "productId": 3251,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-05-27T06:22:09.9022951+03:00"
+    },
+    {
+      "productId": 3752,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-05-11T21:31:01.5666441+03:00"
+    },
+    {
+      "productId": 2681,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-11-21T02:45:59.6783565+02:00"
+    }
+  ]
+}

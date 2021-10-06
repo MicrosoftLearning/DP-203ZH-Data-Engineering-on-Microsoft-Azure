@@ -1,0 +1,32 @@
+{
+  "userId": 32181,
+  "cartId": "74bd533c-0dc2-4eae-8eb9-5f5e71effc16",
+  "preferredProducts": [
+    4993,
+    258,
+    2311,
+    1608
+  ],
+  "productReviews": [
+    {
+      "productId": 2242,
+      "reviewText": "This CSS works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-02-04T12:08:41.3883993+02:00"
+    },
+    {
+      "productId": 2378,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-05-01T04:19:54.7747945+03:00"
+    },
+    {
+      "productId": 2244,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2016-05-15T08:37:58.7044185+03:00"
+    },
+    {
+      "productId": 2920,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-02-14T00:29:35.9115466+02:00"
+    }
+  ]
+}

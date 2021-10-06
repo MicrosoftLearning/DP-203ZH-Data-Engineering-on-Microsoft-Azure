@@ -1,0 +1,29 @@
+{
+  "userId": 7224,
+  "cartId": "e76b1308-e46f-4fa8-ae94-f5be9fbf0223",
+  "preferredProducts": [
+    545,
+    88,
+    3498,
+    4195,
+    2689,
+    3822
+  ],
+  "productReviews": [
+    {
+      "productId": 3108,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-11-24T19:10:47.3857838+02:00"
+    },
+    {
+      "productId": 3446,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-05-06T15:22:08.6171562+03:00"
+    },
+    {
+      "productId": 3550,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-04-17T13:04:54.3019324+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 42748,
+  "cartId": "520735ad-cd09-4f64-9004-71492c0a7b62",
+  "preferredProducts": [
+    3833,
+    3312
+  ],
+  "productReviews": [
+    {
+      "productId": 3966,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-04-29T08:11:48.1599395+03:00"
+    },
+    {
+      "productId": 409,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2020-01-26T15:55:44.1967078+02:00"
+    },
+    {
+      "productId": 63,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-01-13T13:05:14.2017019+02:00"
+    },
+    {
+      "productId": 2516,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-15T19:47:02.0946106+03:00"
+    }
+  ]
+}

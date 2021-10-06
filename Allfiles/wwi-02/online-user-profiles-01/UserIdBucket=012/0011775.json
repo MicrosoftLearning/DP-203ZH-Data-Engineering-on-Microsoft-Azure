@@ -1,0 +1,25 @@
+{
+  "userId": 11775,
+  "cartId": "50fcfdb4-f64b-4e52-aaeb-bcd5e8627433",
+  "preferredProducts": [
+    444,
+    3023,
+    4543,
+    3065,
+    4052,
+    2760,
+    719
+  ],
+  "productReviews": [
+    {
+      "productId": 2098,
+      "reviewText": "this Glens is top-notch.",
+      "reviewDate": "2017-01-14T17:41:30.0038651+02:00"
+    },
+    {
+      "productId": 892,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-06-04T15:02:30.9988392+03:00"
+    }
+  ]
+}

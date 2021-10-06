@@ -1,0 +1,38 @@
+{
+  "userId": 5287,
+  "cartId": "6dde66e6-4799-4e11-b2e6-d5432705566e",
+  "preferredProducts": [
+    961,
+    2161,
+    3322,
+    2870,
+    606,
+    1928,
+    1089,
+    1166,
+    3511,
+    4667
+  ],
+  "productReviews": [
+    {
+      "productId": 1670,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-07-24T13:14:13.4578747+03:00"
+    },
+    {
+      "productId": 472,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-04-19T22:39:09.6570337+03:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-11-25T15:44:01.3900854+02:00"
+    },
+    {
+      "productId": 789,
+      "reviewText": "this Technician is honest.",
+      "reviewDate": "2016-10-12T10:16:28.6646534+03:00"
+    }
+  ]
+}

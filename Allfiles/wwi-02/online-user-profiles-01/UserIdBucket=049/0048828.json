@@ -1,0 +1,36 @@
+{
+  "userId": 48828,
+  "cartId": "94f7d79f-8a72-4c14-92eb-5cc5d93589f3",
+  "preferredProducts": [
+    2873,
+    4560,
+    4802,
+    843,
+    4918,
+    4674,
+    1409,
+    3595
+  ],
+  "productReviews": [
+    {
+      "productId": 2091,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-08-13T10:38:13.9248969+03:00"
+    },
+    {
+      "productId": 2370,
+      "reviewText": "this HTTP is smooth.",
+      "reviewDate": "2016-09-05T16:39:10.8158586+03:00"
+    },
+    {
+      "productId": 3971,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-12-14T16:52:09.337409+02:00"
+    },
+    {
+      "productId": 4197,
+      "reviewText": "This is a really good Sleek Wooden Pants.",
+      "reviewDate": "2018-10-30T03:56:03.0165658+02:00"
+    }
+  ]
+}

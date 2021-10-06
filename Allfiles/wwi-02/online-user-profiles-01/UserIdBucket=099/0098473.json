@@ -1,0 +1,34 @@
+{
+  "userId": 98473,
+  "cartId": "ff1ac673-6064-4930-bf52-0a8e6298a8f1",
+  "preferredProducts": [
+    3284,
+    2982,
+    4548,
+    3186,
+    2109,
+    1994
+  ],
+  "productReviews": [
+    {
+      "productId": 1985,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-12-23T22:41:20.0863186+02:00"
+    },
+    {
+      "productId": 2883,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-03-01T07:53:51.1516095+02:00"
+    },
+    {
+      "productId": 4122,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-22T21:50:39.9010685+03:00"
+    },
+    {
+      "productId": 3968,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-12-02T01:07:06.2054839+02:00"
+    }
+  ]
+}

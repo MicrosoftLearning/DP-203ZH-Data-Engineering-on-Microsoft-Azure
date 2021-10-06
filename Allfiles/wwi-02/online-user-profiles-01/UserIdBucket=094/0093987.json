@@ -1,0 +1,30 @@
+{
+  "userId": 93987,
+  "cartId": "4788e1bb-7a9a-40bb-8e02-563e2967d9d3",
+  "preferredProducts": [
+    1107,
+    4089,
+    962,
+    2930,
+    1768,
+    929,
+    3893
+  ],
+  "productReviews": [
+    {
+      "productId": 423,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-10-26T12:36:33.3567512+03:00"
+    },
+    {
+      "productId": 1268,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-12-23T22:04:57.9682111+02:00"
+    },
+    {
+      "productId": 2008,
+      "reviewText": "this algorithm is brown.",
+      "reviewDate": "2016-10-23T23:00:38.5069727+03:00"
+    }
+  ]
+}

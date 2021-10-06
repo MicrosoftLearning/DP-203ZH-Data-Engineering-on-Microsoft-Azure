@@ -1,0 +1,38 @@
+{
+  "userId": 12562,
+  "cartId": "cf8fcc59-59bd-4920-9ccb-7d7d0973bec7",
+  "preferredProducts": [
+    2598,
+    1802,
+    2004,
+    2295,
+    1994
+  ],
+  "productReviews": [
+    {
+      "productId": 1801,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-07-18T18:09:27.5321375+03:00"
+    },
+    {
+      "productId": 3690,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-01-28T20:00:44.5569806+02:00"
+    },
+    {
+      "productId": 3705,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-07-14T20:45:08.1706387+03:00"
+    },
+    {
+      "productId": 3663,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2016-08-27T10:57:22.6580691+03:00"
+    },
+    {
+      "productId": 80,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-12-26T16:07:37.6988739+02:00"
+    }
+  ]
+}

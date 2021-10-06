@@ -1,0 +1,33 @@
+{
+  "userId": 15685,
+  "cartId": "cf97bdec-24da-4683-b40e-c4bc46e33983",
+  "preferredProducts": [
+    3426,
+    3644,
+    30,
+    2261,
+    1320
+  ],
+  "productReviews": [
+    {
+      "productId": 2607,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-10-25T23:49:58.3968573+03:00"
+    },
+    {
+      "productId": 1000,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-12-18T04:25:47.2050529+02:00"
+    },
+    {
+      "productId": 1334,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-08-22T00:29:11.959537+03:00"
+    },
+    {
+      "productId": 2230,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-30T07:51:50.6099073+02:00"
+    }
+  ]
+}

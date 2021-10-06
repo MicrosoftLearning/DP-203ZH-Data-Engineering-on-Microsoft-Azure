@@ -1,0 +1,43 @@
+{
+  "userId": 8901,
+  "cartId": "54375460-2ca8-494d-8b89-ae23a435cf55",
+  "preferredProducts": [
+    4391,
+    2250,
+    1203,
+    3015,
+    1349,
+    50,
+    4835,
+    1727,
+    4276,
+    426
+  ],
+  "productReviews": [
+    {
+      "productId": 3425,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-05-28T15:31:40.5717861+03:00"
+    },
+    {
+      "productId": 3409,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-09-16T05:15:47.4658579+03:00"
+    },
+    {
+      "productId": 3916,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-03-10T13:32:31.6023904+02:00"
+    },
+    {
+      "productId": 3064,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-08-17T16:14:15.9442898+03:00"
+    },
+    {
+      "productId": 4069,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-03-01T02:51:48.9249952+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 17374,
+  "cartId": "6681aeb1-6a2f-498b-a231-6b67882ad192",
+  "preferredProducts": [
+    807,
+    3119,
+    3493,
+    1102,
+    4703,
+    3275,
+    2726,
+    2526
+  ],
+  "productReviews": [
+    {
+      "productId": 1786,
+      "reviewText": "This Assistant works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-08-14T08:16:21.952059+03:00"
+    },
+    {
+      "productId": 680,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-07-11T12:15:58.2716901+03:00"
+    },
+    {
+      "productId": 3730,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-08-25T01:43:08.2956521+03:00"
+    }
+  ]
+}

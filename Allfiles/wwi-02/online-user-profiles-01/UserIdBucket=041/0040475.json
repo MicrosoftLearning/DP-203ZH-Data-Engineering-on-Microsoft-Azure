@@ -1,0 +1,38 @@
+{
+  "userId": 40475,
+  "cartId": "d1d112af-e074-4e4b-a18a-8956444d3edb",
+  "preferredProducts": [
+    1377,
+    3375,
+    2799,
+    3516,
+    3264,
+    4931,
+    2122,
+    1586,
+    1046,
+    3551
+  ],
+  "productReviews": [
+    {
+      "productId": 4810,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-03-08T00:35:51.0326175+02:00"
+    },
+    {
+      "productId": 2785,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-03-31T10:48:49.7058967+03:00"
+    },
+    {
+      "productId": 4134,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2016-05-31T11:43:38.2842818+03:00"
+    },
+    {
+      "productId": 3158,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-11-30T15:37:02.6872281+02:00"
+    }
+  ]
+}

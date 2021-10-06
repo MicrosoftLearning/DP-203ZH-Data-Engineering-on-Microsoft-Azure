@@ -1,0 +1,27 @@
+{
+  "userId": 95369,
+  "cartId": "892cb07d-165a-4966-943e-20311d7316cd",
+  "preferredProducts": [
+    3474,
+    1117,
+    4074,
+    4525
+  ],
+  "productReviews": [
+    {
+      "productId": 1472,
+      "reviewText": "this Product is whole-grain.",
+      "reviewDate": "2016-08-26T09:49:40.2515909+03:00"
+    },
+    {
+      "productId": 2474,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-09-06T19:21:18.9234939+03:00"
+    },
+    {
+      "productId": 3202,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-11-12T20:17:19.4837953+02:00"
+    }
+  ]
+}

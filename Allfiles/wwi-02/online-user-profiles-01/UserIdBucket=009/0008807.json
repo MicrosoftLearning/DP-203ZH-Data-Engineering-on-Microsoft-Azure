@@ -1,0 +1,35 @@
+{
+  "userId": 8807,
+  "cartId": "94f5c0b1-26c2-47b2-b8b3-c09f7dfae49d",
+  "preferredProducts": [
+    782,
+    4281,
+    3667,
+    3344,
+    2359,
+    1729,
+    4213
+  ],
+  "productReviews": [
+    {
+      "productId": 1139,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-08-27T05:11:23.5446395+03:00"
+    },
+    {
+      "productId": 1374,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-04-23T18:32:23.7224958+03:00"
+    },
+    {
+      "productId": 2118,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-07-22T02:43:44.7858221+03:00"
+    },
+    {
+      "productId": 3529,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-01-14T21:20:38.8821954+02:00"
+    }
+  ]
+}

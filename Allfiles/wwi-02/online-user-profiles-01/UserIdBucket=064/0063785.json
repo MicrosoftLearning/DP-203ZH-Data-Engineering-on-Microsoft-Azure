@@ -1,0 +1,31 @@
+{
+  "userId": 63785,
+  "cartId": "07e52375-88f4-44bf-97a1-149aece2d5c8",
+  "preferredProducts": [
+    3156,
+    2915,
+    3010,
+    269,
+    4099,
+    1378,
+    2002,
+    1165
+  ],
+  "productReviews": [
+    {
+      "productId": 785,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-09-23T08:24:30.467909+03:00"
+    },
+    {
+      "productId": 1577,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-06-19T04:28:14.5429127+03:00"
+    },
+    {
+      "productId": 757,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-12-18T14:52:32.9060823+02:00"
+    }
+  ]
+}

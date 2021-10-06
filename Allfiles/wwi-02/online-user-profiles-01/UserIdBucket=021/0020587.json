@@ -1,0 +1,35 @@
+{
+  "userId": 20587,
+  "cartId": "6061ff78-11f3-4258-82cc-2d0b6c3c85c9",
+  "preferredProducts": [
+    1791,
+    3956,
+    2832,
+    2096,
+    921,
+    3029,
+    3028
+  ],
+  "productReviews": [
+    {
+      "productId": 2141,
+      "reviewText": "This black works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2017-03-15T15:56:59.0779764+02:00"
+    },
+    {
+      "productId": 3937,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-10-20T08:40:39.8504347+03:00"
+    },
+    {
+      "productId": 4391,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-11-12T22:38:20.171933+02:00"
+    },
+    {
+      "productId": 3993,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-04-25T08:04:44.1561587+03:00"
+    }
+  ]
+}

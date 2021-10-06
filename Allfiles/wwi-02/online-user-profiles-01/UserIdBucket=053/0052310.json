@@ -1,0 +1,35 @@
+{
+  "userId": 52310,
+  "cartId": "5acdb38f-65ba-4ce6-83fc-a0fe77bfa47d",
+  "preferredProducts": [
+    146,
+    3052,
+    4765,
+    479,
+    1773,
+    161,
+    4966
+  ],
+  "productReviews": [
+    {
+      "productId": 3429,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-09-30T02:34:11.433103+03:00"
+    },
+    {
+      "productId": 3230,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-03-05T03:01:22.3260568+02:00"
+    },
+    {
+      "productId": 2343,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-07-14T14:29:45.7723355+03:00"
+    },
+    {
+      "productId": 3600,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-11T01:17:14.7459405+02:00"
+    }
+  ]
+}

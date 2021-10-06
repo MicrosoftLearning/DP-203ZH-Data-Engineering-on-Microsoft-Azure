@@ -1,0 +1,25 @@
+{
+  "userId": 393,
+  "cartId": "40ee78be-e207-4daf-8dae-60a607b2db94",
+  "preferredProducts": [
+    4459,
+    1534
+  ],
+  "productReviews": [
+    {
+      "productId": 2782,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-07-27T14:55:59.0240837+03:00"
+    },
+    {
+      "productId": 826,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-04-26T09:08:07.3794586+03:00"
+    },
+    {
+      "productId": 1071,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-08-27T19:53:04.6815668+03:00"
+    }
+  ]
+}

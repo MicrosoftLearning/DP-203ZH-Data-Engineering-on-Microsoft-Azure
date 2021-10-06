@@ -1,0 +1,33 @@
+{
+  "userId": 58752,
+  "cartId": "a65f1449-1082-49b0-8830-0ea33f2bbb63",
+  "preferredProducts": [
+    4500,
+    1785,
+    64,
+    1691,
+    2540,
+    3818,
+    2503,
+    2111,
+    3209,
+    2538
+  ],
+  "productReviews": [
+    {
+      "productId": 1124,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-06-25T19:57:23.0879141+03:00"
+    },
+    {
+      "productId": 3159,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-01-12T01:09:01.1610866+02:00"
+    },
+    {
+      "productId": 1896,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-12-26T06:41:07.9472422+02:00"
+    }
+  ]
+}

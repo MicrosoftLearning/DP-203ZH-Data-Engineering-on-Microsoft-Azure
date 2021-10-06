@@ -1,0 +1,35 @@
+{
+  "userId": 33199,
+  "cartId": "e60e9b98-bad8-4f44-ae79-43f9fb784338",
+  "preferredProducts": [
+    4949,
+    2415
+  ],
+  "productReviews": [
+    {
+      "productId": 4825,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-03-03T14:18:54.1242963+02:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-09-30T12:33:37.3485049+03:00"
+    },
+    {
+      "productId": 3818,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-08-28T16:41:19.6611422+03:00"
+    },
+    {
+      "productId": 1496,
+      "reviewText": "this invoice is whole-grain.",
+      "reviewDate": "2017-01-28T08:47:09.0040235+02:00"
+    },
+    {
+      "productId": 2398,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-03-07T06:04:09.9281164+02:00"
+    }
+  ]
+}

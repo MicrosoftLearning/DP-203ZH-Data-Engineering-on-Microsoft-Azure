@@ -1,0 +1,34 @@
+{
+  "userId": 12022,
+  "cartId": "9a40691a-1aaa-4588-88b9-458b6e68b425",
+  "preferredProducts": [
+    1019,
+    2669,
+    3127,
+    2192,
+    1374,
+    2563
+  ],
+  "productReviews": [
+    {
+      "productId": 1028,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-03-18T22:59:17.2990368+02:00"
+    },
+    {
+      "productId": 1146,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2020-04-21T04:53:29.9273295+03:00"
+    },
+    {
+      "productId": 137,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-03-14T03:37:04.1815205+02:00"
+    },
+    {
+      "productId": 178,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-09-11T00:53:06.7887787+03:00"
+    }
+  ]
+}

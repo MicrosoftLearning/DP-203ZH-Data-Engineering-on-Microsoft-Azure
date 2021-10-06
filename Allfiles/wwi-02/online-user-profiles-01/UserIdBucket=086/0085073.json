@@ -1,0 +1,37 @@
+{
+  "userId": 85073,
+  "cartId": "f5f3bf36-37d8-4428-bf3e-728e7fec7dc2",
+  "preferredProducts": [
+    2661,
+    2596,
+    4044,
+    4253
+  ],
+  "productReviews": [
+    {
+      "productId": 2785,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-04-27T10:25:46.6251507+03:00"
+    },
+    {
+      "productId": 4933,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-03-23T01:27:11.3998302+02:00"
+    },
+    {
+      "productId": 1450,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-09-27T02:59:17.4658593+03:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-06-16T01:45:29.2764875+03:00"
+    },
+    {
+      "productId": 1588,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-07-08T05:18:21.1943889+03:00"
+    }
+  ]
+}

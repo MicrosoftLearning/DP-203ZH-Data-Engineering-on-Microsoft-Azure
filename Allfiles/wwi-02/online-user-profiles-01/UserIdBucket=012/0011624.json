@@ -1,0 +1,27 @@
+{
+  "userId": 11624,
+  "cartId": "32d02370-3b19-48cb-b213-84d8d077dec0",
+  "preferredProducts": [
+    3421,
+    3622,
+    68,
+    1437
+  ],
+  "productReviews": [
+    {
+      "productId": 4800,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-06-01T12:54:33.7987855+03:00"
+    },
+    {
+      "productId": 3558,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-09-05T03:57:26.8729002+03:00"
+    },
+    {
+      "productId": 1912,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-01-03T06:52:20.9709343+02:00"
+    }
+  ]
+}

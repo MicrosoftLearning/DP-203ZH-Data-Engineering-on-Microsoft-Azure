@@ -1,0 +1,32 @@
+{
+  "userId": 40857,
+  "cartId": "e6dadf44-9e76-4a0f-8a29-6dc244e66b67",
+  "preferredProducts": [
+    1493,
+    1618,
+    2853,
+    1340
+  ],
+  "productReviews": [
+    {
+      "productId": 2271,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-07-05T17:56:10.2545581+03:00"
+    },
+    {
+      "productId": 3638,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-10-22T06:36:28.7237106+03:00"
+    },
+    {
+      "productId": 4662,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-11-30T19:28:47.8230646+02:00"
+    },
+    {
+      "productId": 745,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-07-23T09:25:52.6860949+03:00"
+    }
+  ]
+}

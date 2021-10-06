@@ -1,0 +1,29 @@
+{
+  "userId": 20812,
+  "cartId": "5f81f911-125d-4fd6-9d44-7df7dc7e9ca4",
+  "preferredProducts": [
+    3379,
+    118,
+    1657,
+    388,
+    4275,
+    3185
+  ],
+  "productReviews": [
+    {
+      "productId": 2248,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-01-02T08:18:34.8330168+02:00"
+    },
+    {
+      "productId": 4145,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-05-28T03:22:06.6928863+03:00"
+    },
+    {
+      "productId": 1309,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-07-14T05:49:47.4117204+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 18444,
+  "cartId": "58fe82ec-9375-4bae-9d42-441342cd8063",
+  "preferredProducts": [
+    4362,
+    785,
+    4192,
+    1882,
+    71,
+    3896,
+    4521,
+    3210
+  ],
+  "productReviews": [
+    {
+      "productId": 473,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-09-19T22:36:57.3945311+03:00"
+    },
+    {
+      "productId": 3144,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-05-29T12:10:38.4387108+03:00"
+    },
+    {
+      "productId": 1241,
+      "reviewText": "This bandwidth works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-07-10T21:18:11.5198016+03:00"
+    }
+  ]
+}

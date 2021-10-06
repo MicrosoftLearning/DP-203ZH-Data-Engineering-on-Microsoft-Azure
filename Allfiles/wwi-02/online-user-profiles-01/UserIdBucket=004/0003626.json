@@ -1,0 +1,35 @@
+{
+  "userId": 3626,
+  "cartId": "fd1fe0d7-5fb6-4297-a546-fa77571eeca7",
+  "preferredProducts": [
+    1440,
+    4497,
+    650,
+    1597,
+    2275,
+    3369,
+    4893
+  ],
+  "productReviews": [
+    {
+      "productId": 1942,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-02-06T19:19:44.1463633+02:00"
+    },
+    {
+      "productId": 2166,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-02-18T04:29:45.8188415+02:00"
+    },
+    {
+      "productId": 770,
+      "reviewText": "This New Jersey works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2019-09-21T18:16:01.640612+03:00"
+    },
+    {
+      "productId": 4281,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-02-16T17:58:54.6033443+02:00"
+    }
+  ]
+}

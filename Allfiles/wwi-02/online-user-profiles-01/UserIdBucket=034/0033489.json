@@ -1,0 +1,39 @@
+{
+  "userId": 33489,
+  "cartId": "c68c52d6-82e8-47de-8d7c-f8a8d6f35018",
+  "preferredProducts": [
+    2926,
+    1112,
+    1413,
+    1150,
+    2268,
+    3756
+  ],
+  "productReviews": [
+    {
+      "productId": 3065,
+      "reviewText": "this Automotive is ghetto.",
+      "reviewDate": "2020-04-01T13:04:26.1884798+03:00"
+    },
+    {
+      "productId": 3318,
+      "reviewText": "this digital is mellow.",
+      "reviewDate": "2018-07-22T02:44:33.7277235+03:00"
+    },
+    {
+      "productId": 1894,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-04-16T08:54:28.5082169+03:00"
+    },
+    {
+      "productId": 3229,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-03-05T19:35:37.490085+02:00"
+    },
+    {
+      "productId": 4258,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-03-11T08:49:58.6759309+02:00"
+    }
+  ]
+}

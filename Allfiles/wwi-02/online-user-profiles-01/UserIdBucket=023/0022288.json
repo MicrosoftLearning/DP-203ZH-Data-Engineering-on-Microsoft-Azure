@@ -1,0 +1,30 @@
+{
+  "userId": 22288,
+  "cartId": "b192d2f0-df9d-4774-9f01-c988f86e1b91",
+  "preferredProducts": [
+    4632,
+    732,
+    2330,
+    3467,
+    2570,
+    4738,
+    695
+  ],
+  "productReviews": [
+    {
+      "productId": 250,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-03-12T06:32:30.1467577+02:00"
+    },
+    {
+      "productId": 1082,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-03-20T17:47:20.4254567+02:00"
+    },
+    {
+      "productId": 33,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-08-06T13:33:39.2102868+03:00"
+    }
+  ]
+}

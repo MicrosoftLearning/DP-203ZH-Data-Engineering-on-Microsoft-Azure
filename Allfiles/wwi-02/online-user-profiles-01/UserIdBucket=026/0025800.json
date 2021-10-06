@@ -1,0 +1,33 @@
+{
+  "userId": 25800,
+  "cartId": "7b062830-880e-4463-b47d-70c5667f9adb",
+  "preferredProducts": [
+    1461,
+    3998,
+    1642,
+    2096,
+    1608
+  ],
+  "productReviews": [
+    {
+      "productId": 3388,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-04-11T19:47:15.5573474+03:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-12-24T19:09:05.3130525+02:00"
+    },
+    {
+      "productId": 4514,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-05-11T23:27:53.4321775+03:00"
+    },
+    {
+      "productId": 2400,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-07-30T23:59:50.2595639+03:00"
+    }
+  ]
+}

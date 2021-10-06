@@ -1,0 +1,37 @@
+{
+  "userId": 3123,
+  "cartId": "f0ad2818-0e70-4946-b6f5-0e058bfbe218",
+  "preferredProducts": [
+    4091,
+    3916,
+    3221,
+    4054,
+    1140,
+    3698,
+    2184,
+    265,
+    4526
+  ],
+  "productReviews": [
+    {
+      "productId": 1496,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-06-23T13:15:08.6129773+03:00"
+    },
+    {
+      "productId": 2943,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-07-11T11:21:18.0677464+03:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-01-22T01:45:19.5914363+02:00"
+    },
+    {
+      "productId": 4871,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-07-03T06:17:07.8234515+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 7425,
+  "cartId": "ed0d7001-0ab1-413b-9005-a2cebc7da7bf",
+  "preferredProducts": [
+    500,
+    2239,
+    4599,
+    4184,
+    3200,
+    2122,
+    4765
+  ],
+  "productReviews": [
+    {
+      "productId": 4461,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-02-06T03:50:32.249305+02:00"
+    },
+    {
+      "productId": 2448,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-05-15T19:31:43.8812441+03:00"
+    },
+    {
+      "productId": 1578,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-12-23T12:22:50.7197977+02:00"
+    },
+    {
+      "productId": 3730,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-04-07T03:45:29.8668329+03:00"
+    }
+  ]
+}

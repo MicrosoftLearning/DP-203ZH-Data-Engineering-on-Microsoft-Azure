@@ -1,0 +1,33 @@
+{
+  "userId": 88654,
+  "cartId": "39cb0279-bf78-4d6e-9826-c57834461240",
+  "preferredProducts": [
+    2485,
+    1727,
+    4321,
+    916,
+    4617
+  ],
+  "productReviews": [
+    {
+      "productId": 4495,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-08-08T14:45:09.2954449+03:00"
+    },
+    {
+      "productId": 1598,
+      "reviewText": "this composite is flirty.",
+      "reviewDate": "2016-11-03T01:59:40.7712366+02:00"
+    },
+    {
+      "productId": 4341,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-03-21T13:33:34.2463025+02:00"
+    },
+    {
+      "productId": 1560,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-11-10T21:18:38.0916736+02:00"
+    }
+  ]
+}

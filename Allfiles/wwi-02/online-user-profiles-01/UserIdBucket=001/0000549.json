@@ -1,0 +1,40 @@
+{
+  "userId": 549,
+  "cartId": "a5ffd899-14bf-41ce-94c4-e117fbeac11a",
+  "preferredProducts": [
+    714,
+    3414,
+    1639,
+    4774,
+    1581,
+    3540,
+    4832
+  ],
+  "productReviews": [
+    {
+      "productId": 529,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-04-29T00:21:01.2323868+03:00"
+    },
+    {
+      "productId": 1639,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-11-12T07:34:19.0547435+02:00"
+    },
+    {
+      "productId": 2457,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-10-14T11:51:45.3599156+03:00"
+    },
+    {
+      "productId": 3826,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-11-08T10:22:57.8309007+02:00"
+    },
+    {
+      "productId": 3209,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-12-10T03:24:41.1937333+02:00"
+    }
+  ]
+}

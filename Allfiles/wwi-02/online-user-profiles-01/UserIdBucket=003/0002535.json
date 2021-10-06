@@ -1,0 +1,25 @@
+{
+  "userId": 2535,
+  "cartId": "4c0aa803-5221-4de6-973c-c9f54ffe9ef6",
+  "preferredProducts": [
+    3259,
+    39
+  ],
+  "productReviews": [
+    {
+      "productId": 1634,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-09-14T04:59:18.5827797+03:00"
+    },
+    {
+      "productId": 3004,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-06-07T10:43:29.3507028+03:00"
+    },
+    {
+      "productId": 610,
+      "reviewText": "This Cambodia works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-12-27T21:33:53.5998889+02:00"
+    }
+  ]
+}

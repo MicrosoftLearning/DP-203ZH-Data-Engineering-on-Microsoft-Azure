@@ -1,0 +1,39 @@
+{
+  "userId": 3888,
+  "cartId": "e7c1394d-7c38-47de-abac-b6c5f4982e0d",
+  "preferredProducts": [
+    3121,
+    3455,
+    2075,
+    2706,
+    2244,
+    205
+  ],
+  "productReviews": [
+    {
+      "productId": 4413,
+      "reviewText": "This Moroccan Dirham works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2019-12-25T01:06:45.0016341+02:00"
+    },
+    {
+      "productId": 2931,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-02-22T15:39:27.031885+02:00"
+    },
+    {
+      "productId": 4016,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-06-17T17:10:43.0221067+03:00"
+    },
+    {
+      "productId": 2257,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-11-17T00:22:38.3642372+02:00"
+    },
+    {
+      "productId": 4320,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-06-25T04:03:30.9610443+03:00"
+    }
+  ]
+}

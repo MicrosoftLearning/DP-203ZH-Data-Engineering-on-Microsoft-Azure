@@ -1,0 +1,42 @@
+{
+  "userId": 24224,
+  "cartId": "4b2fd10a-ce9f-40d5-9a8c-18dc42a4ad11",
+  "preferredProducts": [
+    2409,
+    2518,
+    3981,
+    331,
+    1480,
+    4830,
+    4930,
+    3687,
+    3579
+  ],
+  "productReviews": [
+    {
+      "productId": 1620,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-08-21T02:10:13.1427083+03:00"
+    },
+    {
+      "productId": 3123,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-03-14T05:58:28.2825624+02:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-11-05T14:42:20.343876+02:00"
+    },
+    {
+      "productId": 121,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-06-18T18:29:22.2876217+03:00"
+    },
+    {
+      "productId": 4779,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-04-19T20:54:58.9614245+03:00"
+    }
+  ]
+}

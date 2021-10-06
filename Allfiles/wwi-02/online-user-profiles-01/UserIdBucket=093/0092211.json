@@ -1,0 +1,37 @@
+{
+  "userId": 92211,
+  "cartId": "60251a71-d2a7-4d15-93cb-e678ae7af53e",
+  "preferredProducts": [
+    2160,
+    4382,
+    3664,
+    1760
+  ],
+  "productReviews": [
+    {
+      "productId": 684,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-01-20T01:14:42.379253+02:00"
+    },
+    {
+      "productId": 2499,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-03-02T09:11:03.3281393+02:00"
+    },
+    {
+      "productId": 4893,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-07-26T22:00:40.3872944+03:00"
+    },
+    {
+      "productId": 4885,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-01-19T14:44:12.8991532+02:00"
+    },
+    {
+      "productId": 1548,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-04-19T21:25:01.2821057+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 99543,
+  "cartId": "8b5e021b-9a6d-40ed-a028-2bb3580ecfc8",
+  "preferredProducts": [
+    2577,
+    2807,
+    417,
+    2572,
+    3429,
+    3059,
+    1301,
+    2446,
+    2040,
+    1262
+  ],
+  "productReviews": [
+    {
+      "productId": 2666,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-02-28T12:42:21.7976521+02:00"
+    },
+    {
+      "productId": 2172,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-08-18T13:58:40.7256754+03:00"
+    },
+    {
+      "productId": 1971,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2020-04-22T18:08:34.6919137+03:00"
+    }
+  ]
+}

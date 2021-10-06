@@ -1,0 +1,29 @@
+{
+  "userId": 22546,
+  "cartId": "1b5c36bb-ad4e-45da-b9fc-2abbe045f61d",
+  "preferredProducts": [
+    1873,
+    302,
+    1908,
+    3683,
+    3032,
+    3244
+  ],
+  "productReviews": [
+    {
+      "productId": 3928,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-07-23T22:17:29.3349291+03:00"
+    },
+    {
+      "productId": 1746,
+      "reviewText": "this blue is snowy.",
+      "reviewDate": "2018-03-24T03:09:45.512942+02:00"
+    },
+    {
+      "productId": 4072,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-11-24T03:21:35.6671709+02:00"
+    }
+  ]
+}

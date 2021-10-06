@@ -1,0 +1,33 @@
+{
+  "userId": 15021,
+  "cartId": "9dbc8786-761c-4397-8683-4b41eca23a52",
+  "preferredProducts": [
+    1078,
+    4287,
+    3129,
+    3999,
+    3231
+  ],
+  "productReviews": [
+    {
+      "productId": 4843,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-11-07T03:46:54.6885056+02:00"
+    },
+    {
+      "productId": 2477,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-02-09T01:02:45.8287244+02:00"
+    },
+    {
+      "productId": 2483,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-12-20T05:10:17.4899681+02:00"
+    },
+    {
+      "productId": 2814,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-10-20T20:24:22.9729633+03:00"
+    }
+  ]
+}

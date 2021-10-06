@@ -1,0 +1,41 @@
+{
+  "userId": 11317,
+  "cartId": "be982e44-bb3a-4eba-b99a-48e086497bc9",
+  "preferredProducts": [
+    612,
+    987,
+    1603,
+    4811,
+    1067,
+    281,
+    3654,
+    251
+  ],
+  "productReviews": [
+    {
+      "productId": 695,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-08-23T21:46:11.1338709+03:00"
+    },
+    {
+      "productId": 4658,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-05-21T14:54:24.305622+03:00"
+    },
+    {
+      "productId": 4330,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-11-06T10:31:51.1744932+02:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "this Rwanda is flirty.",
+      "reviewDate": "2019-05-23T10:17:37.7899509+03:00"
+    },
+    {
+      "productId": 4857,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-05-21T15:41:42.05211+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 30297,
+  "cartId": "337c91b5-ac7e-4dca-9433-9e1ab805a349",
+  "preferredProducts": [
+    302,
+    4189,
+    2368
+  ],
+  "productReviews": [
+    {
+      "productId": 727,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-06T13:03:43.1007358+02:00"
+    },
+    {
+      "productId": 4824,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-01-30T15:01:07.4803649+02:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-08-10T18:07:21.1996097+03:00"
+    },
+    {
+      "productId": 1737,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-08-03T22:17:33.0865307+03:00"
+    },
+    {
+      "productId": 3867,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-11-05T13:08:21.4320166+02:00"
+    }
+  ]
+}

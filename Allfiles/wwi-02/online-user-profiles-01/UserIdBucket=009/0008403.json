@@ -1,0 +1,27 @@
+{
+  "userId": 8403,
+  "cartId": "206e42ad-0eaf-4850-b1d5-4d75ca73035c",
+  "preferredProducts": [
+    2886,
+    4872,
+    4722,
+    449
+  ],
+  "productReviews": [
+    {
+      "productId": 2404,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-01-14T11:46:59.5133772+02:00"
+    },
+    {
+      "productId": 2208,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-11-13T09:30:22.1550716+02:00"
+    },
+    {
+      "productId": 2052,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-10-03T03:08:00.1852363+03:00"
+    }
+  ]
+}

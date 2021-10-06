@@ -1,0 +1,32 @@
+{
+  "userId": 65342,
+  "cartId": "134d94b2-0ea2-49c0-98e2-c3edeb9a9d3d",
+  "preferredProducts": [
+    3462,
+    3944,
+    4693,
+    1246
+  ],
+  "productReviews": [
+    {
+      "productId": 3209,
+      "reviewText": "this indigo is tasty.",
+      "reviewDate": "2018-03-04T17:04:06.0410456+02:00"
+    },
+    {
+      "productId": 4253,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-05-15T07:40:00.4004009+03:00"
+    },
+    {
+      "productId": 1175,
+      "reviewText": "this solid state is vertical.",
+      "reviewDate": "2017-11-24T11:48:32.5026295+02:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-06-23T10:27:54.4331574+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 33129,
+  "cartId": "3105ec4c-863b-4a68-84eb-0c43b48ec17d",
+  "preferredProducts": [
+    4841,
+    1238,
+    3386,
+    3500,
+    1252,
+    278,
+    2547
+  ],
+  "productReviews": [
+    {
+      "productId": 3903,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-04-24T12:26:15.1454813+03:00"
+    },
+    {
+      "productId": 761,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-08-03T00:20:58.2508295+03:00"
+    },
+    {
+      "productId": 975,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-07-13T14:17:35.2545865+03:00"
+    },
+    {
+      "productId": 2051,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-11-03T08:51:16.4737117+02:00"
+    }
+  ]
+}

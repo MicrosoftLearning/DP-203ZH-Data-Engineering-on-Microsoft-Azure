@@ -1,0 +1,27 @@
+{
+  "userId": 1178,
+  "cartId": "f05c4999-3e5e-44a3-9f0c-471bac597602",
+  "preferredProducts": [
+    3592,
+    201,
+    4570,
+    4763
+  ],
+  "productReviews": [
+    {
+      "productId": 4104,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-06-21T21:16:34.8505438+03:00"
+    },
+    {
+      "productId": 4229,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-09-01T17:48:04.8881859+03:00"
+    },
+    {
+      "productId": 2437,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-06-06T08:17:08.7241992+03:00"
+    }
+  ]
+}

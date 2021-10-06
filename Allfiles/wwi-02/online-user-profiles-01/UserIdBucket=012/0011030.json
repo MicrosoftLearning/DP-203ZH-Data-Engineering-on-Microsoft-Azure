@@ -1,0 +1,27 @@
+{
+  "userId": 11030,
+  "cartId": "eb3c266c-32e8-4953-ad33-c6acf08f69be",
+  "preferredProducts": [
+    4708,
+    967,
+    843,
+    3934,
+    1791,
+    4459,
+    1016,
+    1210,
+    288
+  ],
+  "productReviews": [
+    {
+      "productId": 797,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-12-23T23:31:46.1704524+02:00"
+    },
+    {
+      "productId": 2373,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-02-23T09:34:02.4120948+02:00"
+    }
+  ]
+}

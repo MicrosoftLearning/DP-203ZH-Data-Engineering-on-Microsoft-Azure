@@ -1,0 +1,29 @@
+{
+  "userId": 5374,
+  "cartId": "0a03bf06-2bda-4a29-ac94-22e50edfe42a",
+  "preferredProducts": [
+    1072
+  ],
+  "productReviews": [
+    {
+      "productId": 2957,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-17T12:57:23.1817234+03:00"
+    },
+    {
+      "productId": 3379,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-10-02T07:11:09.8652788+03:00"
+    },
+    {
+      "productId": 2471,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-05-20T17:50:27.6912431+03:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-11-15T09:33:25.4300561+02:00"
+    }
+  ]
+}

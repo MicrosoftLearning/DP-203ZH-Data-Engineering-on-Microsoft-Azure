@@ -1,0 +1,37 @@
+{
+  "userId": 88322,
+  "cartId": "87d4c939-30a7-4a91-b83d-84e9060b9b2b",
+  "preferredProducts": [
+    4662,
+    2773,
+    3870,
+    1504,
+    2512,
+    3059,
+    4202,
+    4463,
+    1364
+  ],
+  "productReviews": [
+    {
+      "productId": 3433,
+      "reviewText": "this RSS is mellow.",
+      "reviewDate": "2018-10-21T07:51:49.3162119+03:00"
+    },
+    {
+      "productId": 4680,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-09-17T09:47:00.4395308+03:00"
+    },
+    {
+      "productId": 1052,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-04-20T12:38:24.5334344+03:00"
+    },
+    {
+      "productId": 3227,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-05-15T11:51:41.375238+03:00"
+    }
+  ]
+}

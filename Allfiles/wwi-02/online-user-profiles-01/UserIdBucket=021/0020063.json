@@ -1,0 +1,35 @@
+{
+  "userId": 20063,
+  "cartId": "9bbe4dc9-415d-41fa-bb77-b46e90183dab",
+  "preferredProducts": [
+    258,
+    4648
+  ],
+  "productReviews": [
+    {
+      "productId": 2145,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2020-02-02T04:47:23.0259619+02:00"
+    },
+    {
+      "productId": 3143,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-07-08T03:03:56.6149714+03:00"
+    },
+    {
+      "productId": 2875,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-10-29T10:50:42.8331869+02:00"
+    },
+    {
+      "productId": 3024,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-02-13T07:53:38.4959616+02:00"
+    },
+    {
+      "productId": 4857,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-09-12T23:20:56.0084124+03:00"
+    }
+  ]
+}

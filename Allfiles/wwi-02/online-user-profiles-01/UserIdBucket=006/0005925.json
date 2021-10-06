@@ -1,0 +1,23 @@
+{
+  "userId": 5925,
+  "cartId": "4c1caaa6-74b1-4de6-95d7-3deba953178f",
+  "preferredProducts": [
+    753,
+    4899,
+    2246,
+    4342,
+    796
+  ],
+  "productReviews": [
+    {
+      "productId": 2435,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-06-07T15:22:13.9220851+03:00"
+    },
+    {
+      "productId": 1434,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-06-01T16:00:03.0168513+03:00"
+    }
+  ]
+}

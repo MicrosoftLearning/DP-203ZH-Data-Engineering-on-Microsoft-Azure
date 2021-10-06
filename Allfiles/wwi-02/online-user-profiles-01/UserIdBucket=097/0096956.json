@@ -1,0 +1,33 @@
+{
+  "userId": 96956,
+  "cartId": "05e56675-9951-4ddd-b1e9-b299c0c1dbd9",
+  "preferredProducts": [
+    2443,
+    499,
+    127,
+    1144,
+    3965
+  ],
+  "productReviews": [
+    {
+      "productId": 1240,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-06-26T00:21:05.1332198+03:00"
+    },
+    {
+      "productId": 3667,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-09-12T16:28:22.0695606+03:00"
+    },
+    {
+      "productId": 3057,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-10-16T11:58:50.4350437+03:00"
+    },
+    {
+      "productId": 3499,
+      "reviewText": "This migration works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-05-24T08:34:00.8417938+03:00"
+    }
+  ]
+}

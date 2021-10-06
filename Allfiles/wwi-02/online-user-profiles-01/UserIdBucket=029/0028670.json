@@ -1,0 +1,35 @@
+{
+  "userId": 28670,
+  "cartId": "350def76-4ef7-4d7a-bc8a-1a18da1b0482",
+  "preferredProducts": [
+    1337,
+    2109,
+    1674,
+    4650,
+    3365,
+    516,
+    642
+  ],
+  "productReviews": [
+    {
+      "productId": 4291,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-08-02T07:47:45.510664+03:00"
+    },
+    {
+      "productId": 2116,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-08-10T11:41:06.0558657+03:00"
+    },
+    {
+      "productId": 3438,
+      "reviewText": "This payment works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-09-06T10:14:31.1369121+03:00"
+    },
+    {
+      "productId": 444,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-01-20T04:20:56.1956508+02:00"
+    }
+  ]
+}

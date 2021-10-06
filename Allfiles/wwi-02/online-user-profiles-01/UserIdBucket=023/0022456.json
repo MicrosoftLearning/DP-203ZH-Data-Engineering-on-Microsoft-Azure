@@ -1,0 +1,37 @@
+{
+  "userId": 22456,
+  "cartId": "730052cb-3091-4584-83f3-19a1a497c042",
+  "preferredProducts": [
+    3099,
+    930,
+    2982,
+    456,
+    3809,
+    2348,
+    299,
+    4081,
+    2023
+  ],
+  "productReviews": [
+    {
+      "productId": 925,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-10-22T11:03:02.0652753+03:00"
+    },
+    {
+      "productId": 2393,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-01-29T05:19:46.3910266+02:00"
+    },
+    {
+      "productId": 1229,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-11-30T20:19:44.0012067+02:00"
+    },
+    {
+      "productId": 802,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-05-25T21:17:35.3494728+03:00"
+    }
+  ]
+}

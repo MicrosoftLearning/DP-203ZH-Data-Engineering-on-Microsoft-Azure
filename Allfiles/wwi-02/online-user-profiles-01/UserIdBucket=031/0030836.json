@@ -1,0 +1,33 @@
+{
+  "userId": 30836,
+  "cartId": "81b3a011-1d5f-45bb-8233-2d23454cfe36",
+  "preferredProducts": [
+    1828,
+    1900,
+    745,
+    802,
+    3378,
+    710,
+    311,
+    4297,
+    4531,
+    2364
+  ],
+  "productReviews": [
+    {
+      "productId": 948,
+      "reviewText": "this virtual is standard.",
+      "reviewDate": "2016-08-19T15:33:43.4316317+03:00"
+    },
+    {
+      "productId": 2029,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-12-07T13:31:18.0917318+02:00"
+    },
+    {
+      "productId": 845,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-11-30T12:50:40.8206257+02:00"
+    }
+  ]
+}

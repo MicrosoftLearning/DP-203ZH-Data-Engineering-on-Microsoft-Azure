@@ -1,0 +1,26 @@
+{
+  "userId": 61302,
+  "cartId": "0d85f46d-bb2d-43b7-ad76-ee844872b6e0",
+  "preferredProducts": [
+    2711,
+    1360,
+    3239
+  ],
+  "productReviews": [
+    {
+      "productId": 1401,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-02-20T08:29:46.2374766+02:00"
+    },
+    {
+      "productId": 853,
+      "reviewText": "This clicks-and-mortar works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2019-03-25T11:20:26.9700334+02:00"
+    },
+    {
+      "productId": 2782,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-01-21T20:47:29.0254665+02:00"
+    }
+  ]
+}

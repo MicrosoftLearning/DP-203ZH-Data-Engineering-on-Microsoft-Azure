@@ -1,0 +1,24 @@
+{
+  "userId": 6891,
+  "cartId": "fc5e38de-e353-4690-9303-9c89ff79ecd1",
+  "preferredProducts": [
+    3669,
+    3204,
+    1734,
+    551,
+    2477,
+    4257
+  ],
+  "productReviews": [
+    {
+      "productId": 1031,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-02-01T22:25:01.6104869+02:00"
+    },
+    {
+      "productId": 889,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-02-12T02:59:11.7099465+02:00"
+    }
+  ]
+}

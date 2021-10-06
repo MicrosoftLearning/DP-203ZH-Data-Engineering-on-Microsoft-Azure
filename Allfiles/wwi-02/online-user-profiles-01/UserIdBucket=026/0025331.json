@@ -1,0 +1,35 @@
+{
+  "userId": 25331,
+  "cartId": "6f80119b-49ee-4b93-bb7f-18cfb0063d7f",
+  "preferredProducts": [
+    126,
+    2894
+  ],
+  "productReviews": [
+    {
+      "productId": 2070,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-08-26T03:38:50.2636978+03:00"
+    },
+    {
+      "productId": 2444,
+      "reviewText": "this Producer is ratty.",
+      "reviewDate": "2016-08-10T00:08:44.8844362+03:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-01-12T19:42:36.5473887+02:00"
+    },
+    {
+      "productId": 938,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-06-04T03:13:04.4210412+03:00"
+    },
+    {
+      "productId": 1676,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-09-14T02:13:54.8522465+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 29288,
+  "cartId": "b9a29b65-08b5-46ec-9848-07124b367a33",
+  "preferredProducts": [
+    1483,
+    969,
+    1410,
+    4750,
+    2734
+  ],
+  "productReviews": [
+    {
+      "productId": 3372,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-05-30T02:24:07.0677396+03:00"
+    },
+    {
+      "productId": 3879,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-08-08T18:05:15.9107101+03:00"
+    },
+    {
+      "productId": 1140,
+      "reviewText": "This FTP works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-10-17T04:19:00.3851067+03:00"
+    }
+  ]
+}

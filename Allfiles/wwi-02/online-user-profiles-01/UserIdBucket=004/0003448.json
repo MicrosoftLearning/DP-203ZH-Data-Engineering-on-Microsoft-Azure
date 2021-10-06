@@ -1,0 +1,38 @@
+{
+  "userId": 3448,
+  "cartId": "d73fa7c8-333f-4247-a9db-325172b6dedc",
+  "preferredProducts": [
+    2113,
+    3421,
+    4438,
+    4214,
+    1101
+  ],
+  "productReviews": [
+    {
+      "productId": 2886,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-11-15T02:20:51.7296687+02:00"
+    },
+    {
+      "productId": 472,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-12-25T12:34:50.5577601+02:00"
+    },
+    {
+      "productId": 1292,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-01-21T06:30:32.8477866+02:00"
+    },
+    {
+      "productId": 1263,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-12-22T10:44:27.9855587+02:00"
+    },
+    {
+      "productId": 4843,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-06-06T09:25:28.7101984+03:00"
+    }
+  ]
+}

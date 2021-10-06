@@ -1,0 +1,35 @@
+{
+  "userId": 24285,
+  "cartId": "9abe72fa-c583-4431-956b-42da7be6708a",
+  "preferredProducts": [
+    4535,
+    609,
+    4973,
+    3882,
+    2603,
+    1406,
+    926
+  ],
+  "productReviews": [
+    {
+      "productId": 3099,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-02-09T08:32:52.3981249+02:00"
+    },
+    {
+      "productId": 1883,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-04-26T04:43:13.3370365+03:00"
+    },
+    {
+      "productId": 1751,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2020-05-09T17:17:30.3989268+03:00"
+    },
+    {
+      "productId": 1911,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-09-09T10:14:29.3981429+03:00"
+    }
+  ]
+}

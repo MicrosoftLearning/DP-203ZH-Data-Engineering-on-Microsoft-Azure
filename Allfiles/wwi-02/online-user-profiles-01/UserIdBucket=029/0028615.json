@@ -1,0 +1,33 @@
+{
+  "userId": 28615,
+  "cartId": "9c0ef18a-184c-4dfe-84ef-23a0da42b7b8",
+  "preferredProducts": [
+    2876,
+    1032,
+    30,
+    1290,
+    47,
+    2960,
+    2275,
+    2449,
+    3450,
+    1773
+  ],
+  "productReviews": [
+    {
+      "productId": 3933,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-08-17T00:35:55.3525263+03:00"
+    },
+    {
+      "productId": 274,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-06-26T16:43:34.6258564+03:00"
+    },
+    {
+      "productId": 3385,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-06-06T20:24:43.8977667+03:00"
+    }
+  ]
+}

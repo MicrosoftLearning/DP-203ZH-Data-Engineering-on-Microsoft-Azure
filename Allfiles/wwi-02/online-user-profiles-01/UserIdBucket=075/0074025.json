@@ -1,0 +1,38 @@
+{
+  "userId": 74025,
+  "cartId": "7b66ae6b-92fd-486e-a61e-6adaba38fa16",
+  "preferredProducts": [
+    1445,
+    1737,
+    2105,
+    4153,
+    3141
+  ],
+  "productReviews": [
+    {
+      "productId": 665,
+      "reviewText": "This Awesome Frozen Mouse works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-01-26T18:17:32.786114+02:00"
+    },
+    {
+      "productId": 879,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-03-09T03:50:21.252635+02:00"
+    },
+    {
+      "productId": 165,
+      "reviewText": "this Steel is tasty.",
+      "reviewDate": "2017-03-04T01:56:12.9355409+02:00"
+    },
+    {
+      "productId": 4529,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-09-24T17:35:31.1327584+03:00"
+    },
+    {
+      "productId": 3171,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-06-02T10:24:54.2433099+03:00"
+    }
+  ]
+}

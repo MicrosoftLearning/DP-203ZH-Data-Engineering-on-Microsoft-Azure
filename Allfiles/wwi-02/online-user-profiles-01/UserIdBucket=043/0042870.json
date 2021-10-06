@@ -1,0 +1,27 @@
+{
+  "userId": 42870,
+  "cartId": "6768a468-8af6-4871-a860-df565a09df1f",
+  "preferredProducts": [
+    3633,
+    1857,
+    4426,
+    4805,
+    4492,
+    4238,
+    975,
+    2353,
+    1974
+  ],
+  "productReviews": [
+    {
+      "productId": 1162,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-04-14T16:04:39.5454438+03:00"
+    },
+    {
+      "productId": 682,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-12-10T08:59:01.7450443+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 55251,
+  "cartId": "7457c883-318c-4fc5-a9dd-4177ee1a6442",
+  "preferredProducts": [
+    3814,
+    4550,
+    3673,
+    3767,
+    3473,
+    2854,
+    2275,
+    887,
+    657
+  ],
+  "productReviews": [
+    {
+      "productId": 3357,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2020-03-20T00:45:10.8560324+02:00"
+    },
+    {
+      "productId": 887,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-02-24T19:40:23.7612265+02:00"
+    },
+    {
+      "productId": 4848,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-02-19T09:55:08.7676922+02:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-07-17T02:58:12.7346334+03:00"
+    }
+  ]
+}

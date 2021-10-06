@@ -1,0 +1,25 @@
+{
+  "userId": 80305,
+  "cartId": "5138615d-e921-4fe6-9e28-1efaaf085dfd",
+  "preferredProducts": [
+    1973,
+    3694
+  ],
+  "productReviews": [
+    {
+      "productId": 2542,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-06-24T22:42:10.7502043+03:00"
+    },
+    {
+      "productId": 4802,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-03-29T12:32:44.209599+03:00"
+    },
+    {
+      "productId": 4905,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-06T09:38:05.4614152+02:00"
+    }
+  ]
+}

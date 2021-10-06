@@ -1,0 +1,27 @@
+{
+  "userId": 89876,
+  "cartId": "22e1f2bc-8592-49d7-8d0d-74bfcfba4c2d",
+  "preferredProducts": [
+    345,
+    4997,
+    1125,
+    2989
+  ],
+  "productReviews": [
+    {
+      "productId": 282,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-06-07T08:22:56.6218667+03:00"
+    },
+    {
+      "productId": 3049,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-07-06T07:25:32.665821+03:00"
+    },
+    {
+      "productId": 4521,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-07-20T03:31:12.0548985+03:00"
+    }
+  ]
+}

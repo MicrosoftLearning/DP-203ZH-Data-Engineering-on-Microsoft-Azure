@@ -1,0 +1,23 @@
+{
+  "userId": 75251,
+  "cartId": "8283b0d1-b122-4957-9d67-1c27df2039a0",
+  "preferredProducts": [
+    2096,
+    3457,
+    2112,
+    270,
+    1837
+  ],
+  "productReviews": [
+    {
+      "productId": 2490,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-11-14T05:07:44.2194281+02:00"
+    },
+    {
+      "productId": 3692,
+      "reviewText": "This front-end works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-12-27T20:38:07.5236841+02:00"
+    }
+  ]
+}

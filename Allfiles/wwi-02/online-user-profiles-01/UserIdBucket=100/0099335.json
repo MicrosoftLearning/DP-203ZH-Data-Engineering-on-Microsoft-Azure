@@ -1,0 +1,30 @@
+{
+  "userId": 99335,
+  "cartId": "610cb4cf-3435-4786-893d-bdd6776c8df3",
+  "preferredProducts": [
+    2302,
+    2961
+  ],
+  "productReviews": [
+    {
+      "productId": 2747,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-12-09T17:24:08.6811368+02:00"
+    },
+    {
+      "productId": 4567,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-06-16T09:47:11.0049823+03:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-07-14T13:26:05.8363829+03:00"
+    },
+    {
+      "productId": 2516,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-04-17T04:07:17.9104425+03:00"
+    }
+  ]
+}

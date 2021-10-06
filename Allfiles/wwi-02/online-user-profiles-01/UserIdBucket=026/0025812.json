@@ -1,0 +1,30 @@
+{
+  "userId": 25812,
+  "cartId": "c667992c-1f25-434b-83d0-d9307b6c6ead",
+  "preferredProducts": [
+    454,
+    1111,
+    1288,
+    2031,
+    501,
+    1883,
+    2531
+  ],
+  "productReviews": [
+    {
+      "productId": 1945,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-01-30T16:07:27.1694045+02:00"
+    },
+    {
+      "productId": 1131,
+      "reviewText": "This Electronics works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-08-04T22:49:00.8648546+03:00"
+    },
+    {
+      "productId": 2234,
+      "reviewText": "this XML is slurpee.",
+      "reviewDate": "2018-11-07T07:19:53.6475783+02:00"
+    }
+  ]
+}

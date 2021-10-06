@@ -1,0 +1,39 @@
+{
+  "userId": 23404,
+  "cartId": "5d721870-2fe6-46d9-ac1f-ef72c4e93f5e",
+  "preferredProducts": [
+    679,
+    606,
+    1897,
+    3957,
+    3224,
+    3067
+  ],
+  "productReviews": [
+    {
+      "productId": 2077,
+      "reviewText": "this Forge is nifty.",
+      "reviewDate": "2016-08-25T13:11:33.6954462+03:00"
+    },
+    {
+      "productId": 307,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-09-22T04:50:37.6084597+03:00"
+    },
+    {
+      "productId": 4862,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-07-08T14:47:29.3521145+03:00"
+    },
+    {
+      "productId": 4150,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-07-07T06:17:32.4997964+03:00"
+    },
+    {
+      "productId": 169,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-01-27T18:17:02.6366547+02:00"
+    }
+  ]
+}

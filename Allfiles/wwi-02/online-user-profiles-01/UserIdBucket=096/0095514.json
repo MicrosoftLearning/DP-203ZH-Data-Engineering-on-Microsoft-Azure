@@ -1,0 +1,35 @@
+{
+  "userId": 95514,
+  "cartId": "4b7b4902-b357-430e-b96a-8cb7946f7716",
+  "preferredProducts": [
+    4562,
+    2797,
+    3824,
+    1724,
+    955,
+    3374,
+    1002
+  ],
+  "productReviews": [
+    {
+      "productId": 3464,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-01-19T22:19:27.8217701+02:00"
+    },
+    {
+      "productId": 3243,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-12-19T15:46:02.6556375+02:00"
+    },
+    {
+      "productId": 4194,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2019-04-14T18:23:51.9390666+03:00"
+    },
+    {
+      "productId": 2746,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-08-26T07:17:09.6292514+03:00"
+    }
+  ]
+}

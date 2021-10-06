@@ -1,0 +1,33 @@
+{
+  "userId": 20123,
+  "cartId": "6e6f788b-43e0-4ee4-99fb-9135286bcfdc",
+  "preferredProducts": [
+    2311,
+    587,
+    2608,
+    4822,
+    1642
+  ],
+  "productReviews": [
+    {
+      "productId": 4562,
+      "reviewText": "this Equatorial Guinea is brown.",
+      "reviewDate": "2018-02-03T15:07:31.9264015+02:00"
+    },
+    {
+      "productId": 541,
+      "reviewText": "this 1080p is smooth.",
+      "reviewDate": "2016-12-13T14:17:55.0382784+02:00"
+    },
+    {
+      "productId": 687,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-02-27T19:14:17.2480543+02:00"
+    },
+    {
+      "productId": 3903,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-06-14T20:23:06.8390184+03:00"
+    }
+  ]
+}

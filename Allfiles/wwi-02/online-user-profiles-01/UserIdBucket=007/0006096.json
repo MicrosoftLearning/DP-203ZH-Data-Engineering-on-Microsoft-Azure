@@ -1,0 +1,40 @@
+{
+  "userId": 6096,
+  "cartId": "612cf306-9851-4254-8764-8c25cbc53112",
+  "preferredProducts": [
+    4662,
+    4420,
+    4566,
+    3641,
+    1488,
+    2762,
+    127
+  ],
+  "productReviews": [
+    {
+      "productId": 2669,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-09-13T02:36:01.2356917+03:00"
+    },
+    {
+      "productId": 303,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-08-31T21:28:53.1839272+03:00"
+    },
+    {
+      "productId": 733,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-09-19T05:42:17.7191622+03:00"
+    },
+    {
+      "productId": 692,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-12-09T01:44:38.5451229+02:00"
+    },
+    {
+      "productId": 4985,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-03-10T16:37:12.0967573+02:00"
+    }
+  ]
+}

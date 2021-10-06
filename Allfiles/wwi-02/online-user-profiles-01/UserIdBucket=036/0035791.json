@@ -1,0 +1,30 @@
+{
+  "userId": 35791,
+  "cartId": "68ddeb66-8dfa-47de-b5f7-867a7c6f2644",
+  "preferredProducts": [
+    3077,
+    1356,
+    2965,
+    3182,
+    2369,
+    2681,
+    4419
+  ],
+  "productReviews": [
+    {
+      "productId": 3957,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-10-20T21:40:50.6850189+03:00"
+    },
+    {
+      "productId": 1137,
+      "reviewText": "this teal is tasty.",
+      "reviewDate": "2017-10-30T14:24:38.2370818+02:00"
+    },
+    {
+      "productId": 1443,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-09-28T07:21:20.7214015+03:00"
+    }
+  ]
+}

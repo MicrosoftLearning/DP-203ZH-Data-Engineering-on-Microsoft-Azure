@@ -1,0 +1,38 @@
+{
+  "userId": 69889,
+  "cartId": "b7b45ea9-df12-4847-ae78-70b9e8b8e52e",
+  "preferredProducts": [
+    543,
+    1083,
+    1826,
+    2567,
+    4445,
+    996,
+    3397,
+    583,
+    1154,
+    2094
+  ],
+  "productReviews": [
+    {
+      "productId": 2436,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-09-23T01:56:32.2374169+03:00"
+    },
+    {
+      "productId": 238,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2016-08-06T02:56:03.7778605+03:00"
+    },
+    {
+      "productId": 3475,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-03-27T16:16:01.5286892+03:00"
+    },
+    {
+      "productId": 895,
+      "reviewText": "this Soft is vertical.",
+      "reviewDate": "2020-02-10T01:49:17.6324684+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 56796,
+  "cartId": "f0684d7b-ef62-4458-bd2a-7492e087bfa6",
+  "preferredProducts": [
+    3155,
+    4930,
+    1567,
+    57,
+    774
+  ],
+  "productReviews": [
+    {
+      "productId": 599,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-11-29T06:52:46.1336797+02:00"
+    },
+    {
+      "productId": 4989,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2020-01-25T12:32:01.9441118+02:00"
+    },
+    {
+      "productId": 197,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-10-26T17:17:20.0753339+03:00"
+    },
+    {
+      "productId": 1056,
+      "reviewText": "This Inlet works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2016-08-13T04:23:45.7987248+03:00"
+    }
+  ]
+}

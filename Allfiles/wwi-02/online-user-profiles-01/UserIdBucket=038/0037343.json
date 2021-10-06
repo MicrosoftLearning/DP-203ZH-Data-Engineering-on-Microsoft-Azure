@@ -1,0 +1,30 @@
+{
+  "userId": 37343,
+  "cartId": "317a24f3-5db8-47e4-966e-231cde4e5e21",
+  "preferredProducts": [
+    4123,
+    4042,
+    2265,
+    3968,
+    345,
+    4974,
+    1359
+  ],
+  "productReviews": [
+    {
+      "productId": 1148,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-07-30T09:13:24.4686381+03:00"
+    },
+    {
+      "productId": 4026,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2020-01-25T09:13:54.6722676+02:00"
+    },
+    {
+      "productId": 2089,
+      "reviewText": "this enterprise is ratty.",
+      "reviewDate": "2018-12-01T12:37:31.1815128+02:00"
+    }
+  ]
+}

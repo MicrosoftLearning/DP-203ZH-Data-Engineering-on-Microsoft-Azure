@@ -1,0 +1,32 @@
+{
+  "userId": 70561,
+  "cartId": "4a86df7d-aec0-47b0-9b09-bb3429c13135",
+  "preferredProducts": [
+    2917,
+    4509,
+    2102,
+    3635
+  ],
+  "productReviews": [
+    {
+      "productId": 3186,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-10-11T19:55:40.636743+03:00"
+    },
+    {
+      "productId": 1102,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-09-07T04:22:50.6566322+03:00"
+    },
+    {
+      "productId": 722,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-02-27T16:42:23.2198795+02:00"
+    },
+    {
+      "productId": 1431,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-05-26T09:30:51.2757327+03:00"
+    }
+  ]
+}

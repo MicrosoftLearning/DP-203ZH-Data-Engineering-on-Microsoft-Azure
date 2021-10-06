@@ -1,0 +1,30 @@
+{
+  "userId": 75452,
+  "cartId": "7cd54d00-ca36-4bc7-a530-87b1f9678560",
+  "preferredProducts": [
+    2153,
+    1099,
+    1403,
+    1126,
+    2670,
+    2025,
+    3614
+  ],
+  "productReviews": [
+    {
+      "productId": 4030,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-01-10T04:04:31.3050161+02:00"
+    },
+    {
+      "productId": 4911,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-08-27T10:59:38.1976735+03:00"
+    },
+    {
+      "productId": 820,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-01-21T18:57:10.6518568+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 86094,
+  "cartId": "a8e28dcb-1f59-40f5-a1ea-0e8b7f7d0105",
+  "preferredProducts": [
+    4879,
+    4849,
+    3222
+  ],
+  "productReviews": [
+    {
+      "productId": 486,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-02-10T01:25:52.9452336+02:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-07-20T20:05:59.6332886+03:00"
+    },
+    {
+      "productId": 1717,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-03-01T03:35:57.7457573+02:00"
+    },
+    {
+      "productId": 3505,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-02-18T13:31:02.9068121+02:00"
+    }
+  ]
+}

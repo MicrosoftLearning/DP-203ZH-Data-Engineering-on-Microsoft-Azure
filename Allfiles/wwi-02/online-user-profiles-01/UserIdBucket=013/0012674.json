@@ -1,0 +1,32 @@
+{
+  "userId": 12674,
+  "cartId": "3efb758c-90c6-43b9-8036-b7b64f46dce3",
+  "preferredProducts": [
+    525,
+    2870,
+    268,
+    3420,
+    140,
+    4625,
+    3098,
+    3661,
+    1718
+  ],
+  "productReviews": [
+    {
+      "productId": 1290,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-10-12T15:54:50.6255605+03:00"
+    },
+    {
+      "productId": 2530,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-08-26T09:43:08.7370711+03:00"
+    },
+    {
+      "productId": 2523,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-09-02T03:08:58.6978914+03:00"
+    }
+  ]
+}

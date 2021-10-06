@@ -1,0 +1,31 @@
+{
+  "userId": 81789,
+  "cartId": "f5600cda-49c5-4b6f-aaef-5c70a19d6700",
+  "preferredProducts": [
+    3379,
+    4623,
+    1037,
+    1945,
+    4296,
+    783,
+    1025,
+    644
+  ],
+  "productReviews": [
+    {
+      "productId": 3056,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-09-12T20:31:31.5914868+03:00"
+    },
+    {
+      "productId": 3727,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-12-01T04:05:42.78198+02:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-04-02T11:33:08.5351156+03:00"
+    }
+  ]
+}

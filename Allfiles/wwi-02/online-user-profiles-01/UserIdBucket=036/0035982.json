@@ -1,0 +1,37 @@
+{
+  "userId": 35982,
+  "cartId": "b403607d-3b5e-46f7-a99a-3a272aac5bd7",
+  "preferredProducts": [
+    3697,
+    4596,
+    205,
+    2960,
+    1835,
+    4357,
+    326,
+    1489,
+    3487
+  ],
+  "productReviews": [
+    {
+      "productId": 3751,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-08-18T03:34:17.4171175+03:00"
+    },
+    {
+      "productId": 1798,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-12-07T03:05:29.8688651+02:00"
+    },
+    {
+      "productId": 4440,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-10-14T00:09:07.372733+03:00"
+    },
+    {
+      "productId": 4864,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-03-02T17:21:40.5468062+02:00"
+    }
+  ]
+}

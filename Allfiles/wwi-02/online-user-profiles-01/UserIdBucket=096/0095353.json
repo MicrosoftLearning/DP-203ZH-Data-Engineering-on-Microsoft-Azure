@@ -1,0 +1,29 @@
+{
+  "userId": 95353,
+  "cartId": "8f961a51-838a-49cd-b2ad-18b307e0915b",
+  "preferredProducts": [
+    1187,
+    794,
+    2113,
+    1425,
+    3669,
+    2148
+  ],
+  "productReviews": [
+    {
+      "productId": 4310,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-01-10T04:22:55.6727519+02:00"
+    },
+    {
+      "productId": 1086,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-12-15T19:00:54.3280335+02:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-06-27T14:48:39.6367621+03:00"
+    }
+  ]
+}

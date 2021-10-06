@@ -1,0 +1,35 @@
+{
+  "userId": 39801,
+  "cartId": "e64d37aa-247a-4c1a-ace6-bad91cb6d106",
+  "preferredProducts": [
+    338,
+    901,
+    3508,
+    1766,
+    3212,
+    4033,
+    2342
+  ],
+  "productReviews": [
+    {
+      "productId": 3848,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-08-09T01:50:54.8375117+03:00"
+    },
+    {
+      "productId": 484,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-10-15T21:52:35.5062254+03:00"
+    },
+    {
+      "productId": 2028,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-01-05T11:31:33.2942428+02:00"
+    },
+    {
+      "productId": 3212,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-09-08T04:30:04.9181831+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 706,
+  "cartId": "fb9ff8c4-1da3-43bd-9cdc-b0f070106852",
+  "preferredProducts": [
+    2958,
+    4995,
+    881,
+    4889
+  ],
+  "productReviews": [
+    {
+      "productId": 3378,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-04-28T02:24:38.7695651+03:00"
+    },
+    {
+      "productId": 1868,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-03-18T14:54:47.3406533+02:00"
+    },
+    {
+      "productId": 818,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-01-06T09:52:20.1478712+02:00"
+    }
+  ]
+}

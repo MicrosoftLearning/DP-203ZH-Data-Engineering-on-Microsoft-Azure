@@ -1,0 +1,28 @@
+{
+  "userId": 53211,
+  "cartId": "4a03b131-394d-4b36-bb8c-1719efefaa51",
+  "preferredProducts": [
+    2315,
+    4767,
+    3326,
+    1029,
+    2419
+  ],
+  "productReviews": [
+    {
+      "productId": 128,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-03-19T12:26:39.6958403+02:00"
+    },
+    {
+      "productId": 3712,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-08-19T15:12:45.7797188+03:00"
+    },
+    {
+      "productId": 2201,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-05-15T12:01:46.0317361+03:00"
+    }
+  ]
+}

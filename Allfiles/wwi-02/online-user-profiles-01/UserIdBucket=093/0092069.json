@@ -1,0 +1,36 @@
+{
+  "userId": 92069,
+  "cartId": "af74d15f-6ba8-42f8-9382-b272204f3944",
+  "preferredProducts": [
+    3649,
+    2789,
+    2865
+  ],
+  "productReviews": [
+    {
+      "productId": 3934,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-11-09T03:00:45.2809679+02:00"
+    },
+    {
+      "productId": 2293,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-10-04T20:05:08.352944+03:00"
+    },
+    {
+      "productId": 4737,
+      "reviewText": "this invoice is snowy.",
+      "reviewDate": "2017-08-17T05:18:37.1198093+03:00"
+    },
+    {
+      "productId": 403,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-11-21T18:12:18.9871716+02:00"
+    },
+    {
+      "productId": 4990,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-10-16T08:24:58.0208122+03:00"
+    }
+  ]
+}

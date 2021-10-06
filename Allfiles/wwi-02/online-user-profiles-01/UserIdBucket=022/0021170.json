@@ -1,0 +1,29 @@
+{
+  "userId": 21170,
+  "cartId": "a77c6432-b8e0-49c1-bf03-2e8bb7379dc8",
+  "preferredProducts": [
+    3840,
+    4506,
+    3039,
+    310,
+    3452,
+    1661
+  ],
+  "productReviews": [
+    {
+      "productId": 2638,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-01-18T23:18:31.6331171+02:00"
+    },
+    {
+      "productId": 3225,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-02-13T19:22:19.8781606+02:00"
+    },
+    {
+      "productId": 3454,
+      "reviewText": "this Product is smooth.",
+      "reviewDate": "2016-08-31T22:07:09.3879955+03:00"
+    }
+  ]
+}

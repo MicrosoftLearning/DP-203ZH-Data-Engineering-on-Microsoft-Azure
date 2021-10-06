@@ -1,0 +1,27 @@
+{
+  "userId": 38654,
+  "cartId": "34452dc8-199a-4b5a-8128-1a9418f56f09",
+  "preferredProducts": [
+    3954,
+    4219,
+    939,
+    2292
+  ],
+  "productReviews": [
+    {
+      "productId": 1890,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-11-22T09:48:50.5990853+02:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "this Cotton is awesome.",
+      "reviewDate": "2019-01-06T17:13:23.2526857+02:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2017-11-03T21:35:20.3844684+02:00"
+    }
+  ]
+}

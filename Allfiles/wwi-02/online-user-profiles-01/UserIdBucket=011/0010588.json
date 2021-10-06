@@ -1,0 +1,30 @@
+{
+  "userId": 10588,
+  "cartId": "3d6ff6f2-f3eb-466c-b54d-12a9701256b6",
+  "preferredProducts": [
+    4830,
+    1219
+  ],
+  "productReviews": [
+    {
+      "productId": 4556,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-07-17T22:32:28.1686165+03:00"
+    },
+    {
+      "productId": 1576,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-06-07T01:29:06.709313+03:00"
+    },
+    {
+      "productId": 2617,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-10-07T18:29:28.7316917+03:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-06-11T03:37:53.1925431+03:00"
+    }
+  ]
+}

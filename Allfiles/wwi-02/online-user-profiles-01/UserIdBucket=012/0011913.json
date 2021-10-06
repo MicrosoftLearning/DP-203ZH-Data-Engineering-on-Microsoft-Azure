@@ -1,0 +1,33 @@
+{
+  "userId": 11913,
+  "cartId": "c6c55aab-c64b-469e-bebb-8325371f977a",
+  "preferredProducts": [
+    717,
+    3595,
+    1255,
+    4990,
+    3670
+  ],
+  "productReviews": [
+    {
+      "productId": 703,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-07-16T16:29:08.8423775+03:00"
+    },
+    {
+      "productId": 4155,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-05-22T11:27:06.8938074+03:00"
+    },
+    {
+      "productId": 3022,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-05-10T23:09:21.3493381+03:00"
+    },
+    {
+      "productId": 1195,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-07-14T06:06:46.1559348+03:00"
+    }
+  ]
+}

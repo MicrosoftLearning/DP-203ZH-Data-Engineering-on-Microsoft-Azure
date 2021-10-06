@@ -1,0 +1,37 @@
+{
+  "userId": 3536,
+  "cartId": "ebfce098-2c77-4c29-b4ed-09a6b44c3363",
+  "preferredProducts": [
+    1953,
+    4473,
+    2774,
+    3807,
+    1394,
+    4857,
+    889,
+    2461,
+    148
+  ],
+  "productReviews": [
+    {
+      "productId": 1500,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-01-18T14:29:20.206604+02:00"
+    },
+    {
+      "productId": 3738,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-02-23T05:10:46.8021769+02:00"
+    },
+    {
+      "productId": 434,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-05-29T04:32:47.3141607+03:00"
+    },
+    {
+      "productId": 2249,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-06-15T19:58:22.9258967+03:00"
+    }
+  ]
+}

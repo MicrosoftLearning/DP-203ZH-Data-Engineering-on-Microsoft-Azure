@@ -1,0 +1,32 @@
+{
+  "userId": 1162,
+  "cartId": "bbe15bc2-eb3e-45e6-8fd2-4bde990030b7",
+  "preferredProducts": [
+    4805,
+    4754,
+    2125,
+    2504,
+    1640,
+    1045,
+    2713,
+    1201,
+    4642
+  ],
+  "productReviews": [
+    {
+      "productId": 2109,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-09-07T17:03:54.9119006+03:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-01-26T12:51:37.4013357+02:00"
+    },
+    {
+      "productId": 2163,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-10-07T23:35:31.8254777+03:00"
+    }
+  ]
+}

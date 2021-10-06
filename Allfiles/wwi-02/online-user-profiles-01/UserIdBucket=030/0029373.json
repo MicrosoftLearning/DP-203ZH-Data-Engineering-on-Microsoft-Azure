@@ -1,0 +1,25 @@
+{
+  "userId": 29373,
+  "cartId": "551dda35-459b-4025-b920-c5b0a6776a31",
+  "preferredProducts": [
+    2423,
+    501
+  ],
+  "productReviews": [
+    {
+      "productId": 702,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-09-08T11:17:06.0297415+03:00"
+    },
+    {
+      "productId": 2002,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-12-26T00:31:34.7665875+02:00"
+    },
+    {
+      "productId": 3035,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-11-07T01:05:44.8347714+02:00"
+    }
+  ]
+}

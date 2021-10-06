@@ -1,0 +1,30 @@
+{
+  "userId": 10749,
+  "cartId": "474e5521-91d9-42b3-ab88-20b20c7dad20",
+  "preferredProducts": [
+    984,
+    693
+  ],
+  "productReviews": [
+    {
+      "productId": 2987,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-05-17T18:36:19.426192+03:00"
+    },
+    {
+      "productId": 659,
+      "reviewText": "this Silver is brown.",
+      "reviewDate": "2017-11-21T06:45:33.4511795+02:00"
+    },
+    {
+      "productId": 326,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-05-27T08:28:31.2604065+03:00"
+    },
+    {
+      "productId": 2993,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-11-10T13:57:35.2474722+02:00"
+    }
+  ]
+}

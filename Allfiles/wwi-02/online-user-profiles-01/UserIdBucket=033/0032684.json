@@ -1,0 +1,38 @@
+{
+  "userId": 32684,
+  "cartId": "0ec67cf7-7dde-467d-99c2-3261127de082",
+  "preferredProducts": [
+    4270,
+    248,
+    834,
+    1046,
+    398,
+    4500,
+    3020,
+    2107,
+    4860,
+    4280
+  ],
+  "productReviews": [
+    {
+      "productId": 2121,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-10-25T02:39:38.6795612+03:00"
+    },
+    {
+      "productId": 4491,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-04-12T06:10:32.8656744+03:00"
+    },
+    {
+      "productId": 2728,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-01-24T11:30:40.3100923+02:00"
+    },
+    {
+      "productId": 1272,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-09-10T08:46:05.8499557+03:00"
+    }
+  ]
+}

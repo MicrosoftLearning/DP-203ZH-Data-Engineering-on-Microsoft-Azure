@@ -1,0 +1,40 @@
+{
+  "userId": 41306,
+  "cartId": "825e22ed-5683-4885-a0d9-8d2f834bb503",
+  "preferredProducts": [
+    123,
+    2481,
+    4608,
+    3058,
+    3766,
+    2581,
+    2488
+  ],
+  "productReviews": [
+    {
+      "productId": 2686,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-05-19T13:54:18.6103065+03:00"
+    },
+    {
+      "productId": 2880,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-05-12T02:34:25.5589902+03:00"
+    },
+    {
+      "productId": 721,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-07-20T20:08:34.9693817+03:00"
+    },
+    {
+      "productId": 2372,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-07-24T18:06:10.2479759+03:00"
+    },
+    {
+      "productId": 4869,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-11-27T17:46:32.448374+02:00"
+    }
+  ]
+}

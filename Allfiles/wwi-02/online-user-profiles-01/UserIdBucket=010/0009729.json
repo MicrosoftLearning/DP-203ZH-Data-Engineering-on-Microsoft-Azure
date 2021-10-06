@@ -1,0 +1,24 @@
+{
+  "userId": 9729,
+  "cartId": "99c58313-a527-4859-9313-87ba75fd53ff",
+  "preferredProducts": [
+    3463,
+    258,
+    2971,
+    2275,
+    3039,
+    397
+  ],
+  "productReviews": [
+    {
+      "productId": 716,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-06-08T08:27:55.3000591+03:00"
+    },
+    {
+      "productId": 550,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-05-29T12:00:14.4012426+03:00"
+    }
+  ]
+}

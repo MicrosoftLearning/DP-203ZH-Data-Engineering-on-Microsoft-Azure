@@ -1,0 +1,39 @@
+{
+  "userId": 8055,
+  "cartId": "c989eab8-315d-4b14-8b18-31546934003c",
+  "preferredProducts": [
+    4627,
+    3349,
+    2355,
+    2777,
+    1990,
+    179
+  ],
+  "productReviews": [
+    {
+      "productId": 1985,
+      "reviewText": "this blue is revolting.",
+      "reviewDate": "2020-04-27T11:59:42.8420513+03:00"
+    },
+    {
+      "productId": 4144,
+      "reviewText": "this Tasty Wooden Pizza is perplexed.",
+      "reviewDate": "2018-09-13T12:28:40.8910927+03:00"
+    },
+    {
+      "productId": 591,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-10-13T15:18:11.8287744+03:00"
+    },
+    {
+      "productId": 3675,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2020-02-26T16:26:15.1857432+02:00"
+    },
+    {
+      "productId": 4732,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-10-03T18:43:14.1900974+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 1901,
+  "cartId": "9fae5c94-8450-45f9-97b0-4ff25facfe81",
+  "preferredProducts": [
+    1085,
+    4904,
+    3301,
+    705,
+    1852,
+    1443,
+    3334,
+    2553,
+    3214
+  ],
+  "productReviews": [
+    {
+      "productId": 219,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-12-30T08:05:03.3190323+02:00"
+    },
+    {
+      "productId": 4662,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-09-04T15:47:47.9131131+03:00"
+    }
+  ]
+}

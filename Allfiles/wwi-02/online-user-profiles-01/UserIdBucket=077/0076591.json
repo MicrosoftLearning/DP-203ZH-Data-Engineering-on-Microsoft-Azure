@@ -1,0 +1,26 @@
+{
+  "userId": 76591,
+  "cartId": "bf229592-84f5-4547-8b2c-891b1bb1111d",
+  "preferredProducts": [
+    4858,
+    4605,
+    1669,
+    3028,
+    1235,
+    3573,
+    1934,
+    1571
+  ],
+  "productReviews": [
+    {
+      "productId": 2018,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-12-07T19:29:50.2242608+02:00"
+    },
+    {
+      "productId": 553,
+      "reviewText": "This Row works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2018-02-16T18:41:54.9806452+02:00"
+    }
+  ]
+}

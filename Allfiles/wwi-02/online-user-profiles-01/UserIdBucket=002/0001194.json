@@ -1,0 +1,23 @@
+{
+  "userId": 1194,
+  "cartId": "0b434ae7-2383-4687-bd22-75f6c72e654e",
+  "preferredProducts": [
+    1565,
+    2299,
+    2358,
+    3800,
+    1762
+  ],
+  "productReviews": [
+    {
+      "productId": 922,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-08-20T08:23:40.0140529+03:00"
+    },
+    {
+      "productId": 3831,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-01-09T04:08:10.361278+02:00"
+    }
+  ]
+}

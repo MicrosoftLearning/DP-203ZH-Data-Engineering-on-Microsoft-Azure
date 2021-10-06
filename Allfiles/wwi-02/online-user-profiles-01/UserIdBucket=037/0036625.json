@@ -1,0 +1,40 @@
+{
+  "userId": 36625,
+  "cartId": "da642ebd-ab7a-4fb6-8244-9fb5490b47fa",
+  "preferredProducts": [
+    1585,
+    3284,
+    1498,
+    2758,
+    4398,
+    4977,
+    565
+  ],
+  "productReviews": [
+    {
+      "productId": 1521,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-09-03T03:10:32.6635053+03:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-10-20T11:14:33.0385872+03:00"
+    },
+    {
+      "productId": 786,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-07-30T17:04:25.3491588+03:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-12-12T17:47:55.7652999+02:00"
+    },
+    {
+      "productId": 3238,
+      "reviewText": "This Savings Account, does exactly what it's suppose to do.",
+      "reviewDate": "2018-09-14T11:03:51.2051037+03:00"
+    }
+  ]
+}

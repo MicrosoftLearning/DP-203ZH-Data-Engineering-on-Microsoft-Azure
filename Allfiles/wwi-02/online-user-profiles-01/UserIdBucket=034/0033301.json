@@ -1,0 +1,28 @@
+{
+  "userId": 33301,
+  "cartId": "642ce341-96b3-469e-811f-6a0ff381bf43",
+  "preferredProducts": [
+    625,
+    4230,
+    1253,
+    3728,
+    1113
+  ],
+  "productReviews": [
+    {
+      "productId": 884,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-07-20T20:10:00.7294515+03:00"
+    },
+    {
+      "productId": 4944,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-06-09T09:00:46.1722702+03:00"
+    },
+    {
+      "productId": 3364,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-06-15T15:17:01.0177711+03:00"
+    }
+  ]
+}

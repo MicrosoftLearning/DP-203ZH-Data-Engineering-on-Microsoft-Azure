@@ -1,0 +1,26 @@
+{
+  "userId": 48937,
+  "cartId": "c1edb650-1fbc-4625-bf05-59ed478adecc",
+  "preferredProducts": [
+    1302,
+    3107,
+    3933
+  ],
+  "productReviews": [
+    {
+      "productId": 2175,
+      "reviewText": "this Avon is hyper.",
+      "reviewDate": "2017-01-07T09:49:27.6099301+02:00"
+    },
+    {
+      "productId": 4585,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-25T02:33:21.7757216+02:00"
+    },
+    {
+      "productId": 874,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-02-18T07:56:41.8592037+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 46561,
+  "cartId": "05086d4f-c696-4721-aef2-bdb027ee7529",
+  "preferredProducts": [
+    2431,
+    2143,
+    2162,
+    3369,
+    2550,
+    3580,
+    71,
+    671,
+    1325,
+    2967
+  ],
+  "productReviews": [
+    {
+      "productId": 3628,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-02-27T20:57:38.5892137+02:00"
+    },
+    {
+      "productId": 3127,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-06-08T15:30:32.2933805+03:00"
+    },
+    {
+      "productId": 4819,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-09-10T15:22:08.9628611+03:00"
+    }
+  ]
+}

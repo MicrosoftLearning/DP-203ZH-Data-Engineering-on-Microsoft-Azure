@@ -1,0 +1,35 @@
+{
+  "userId": 8877,
+  "cartId": "1d3925b5-153a-4fca-9dee-f77035b20b2c",
+  "preferredProducts": [
+    1527,
+    149,
+    649,
+    4113,
+    4596,
+    3243,
+    1041
+  ],
+  "productReviews": [
+    {
+      "productId": 3739,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-05-16T19:36:28.2676012+03:00"
+    },
+    {
+      "productId": 3025,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-04-11T21:11:21.7769057+03:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-08-27T23:37:32.7922236+03:00"
+    },
+    {
+      "productId": 1874,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-12-03T16:55:04.6469135+02:00"
+    }
+  ]
+}

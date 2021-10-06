@@ -1,0 +1,33 @@
+{
+  "userId": 97314,
+  "cartId": "0234c977-0063-4107-8575-331246a6232d",
+  "preferredProducts": [
+    49,
+    925,
+    3089,
+    4261,
+    987
+  ],
+  "productReviews": [
+    {
+      "productId": 3586,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-08-28T11:55:06.6875615+03:00"
+    },
+    {
+      "productId": 3665,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-04-29T04:17:50.2055175+03:00"
+    },
+    {
+      "productId": 3903,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-04-02T11:58:25.8569641+03:00"
+    },
+    {
+      "productId": 3866,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-10-17T19:00:52.2675174+03:00"
+    }
+  ]
+}

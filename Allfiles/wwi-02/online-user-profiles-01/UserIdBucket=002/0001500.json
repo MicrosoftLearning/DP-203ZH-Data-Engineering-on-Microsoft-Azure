@@ -1,0 +1,20 @@
+{
+  "userId": 1500,
+  "cartId": "a588ba71-8c3a-409a-a75b-b637400633de",
+  "preferredProducts": [
+    3643,
+    2635
+  ],
+  "productReviews": [
+    {
+      "productId": 3771,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-06-17T08:34:15.4953125+03:00"
+    },
+    {
+      "productId": 1876,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-04-10T17:07:27.9443673+03:00"
+    }
+  ]
+}

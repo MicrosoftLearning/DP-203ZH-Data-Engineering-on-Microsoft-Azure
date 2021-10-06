@@ -1,0 +1,28 @@
+{
+  "userId": 5031,
+  "cartId": "fb05fef7-fee9-41f4-86fd-00889aea2cc1",
+  "preferredProducts": [
+    4072,
+    3665,
+    2765,
+    1709,
+    2933
+  ],
+  "productReviews": [
+    {
+      "productId": 1140,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-09-27T02:16:58.0559326+03:00"
+    },
+    {
+      "productId": 998,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-12-22T23:03:44.6261576+02:00"
+    },
+    {
+      "productId": 3337,
+      "reviewText": "This Senior works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-02-23T14:38:04.865886+02:00"
+    }
+  ]
+}

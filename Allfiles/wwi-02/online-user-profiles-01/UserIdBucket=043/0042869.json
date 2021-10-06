@@ -1,0 +1,28 @@
+{
+  "userId": 42869,
+  "cartId": "972400e6-d4b8-474f-bf36-6a5e9c090aad",
+  "preferredProducts": [
+    3903,
+    1072,
+    962,
+    3003,
+    3938
+  ],
+  "productReviews": [
+    {
+      "productId": 3056,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-07-23T10:34:34.7480368+03:00"
+    },
+    {
+      "productId": 1402,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-09-03T09:26:28.3350848+03:00"
+    },
+    {
+      "productId": 686,
+      "reviewText": "this Producer is standard.",
+      "reviewDate": "2019-02-27T13:27:53.4225703+02:00"
+    }
+  ]
+}

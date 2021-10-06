@@ -1,0 +1,38 @@
+{
+  "userId": 95820,
+  "cartId": "a28d8f85-42e6-4b6d-a573-6757e7ec639d",
+  "preferredProducts": [
+    909,
+    1004,
+    2672,
+    2151,
+    2383,
+    2879,
+    2292,
+    1755,
+    327,
+    4965
+  ],
+  "productReviews": [
+    {
+      "productId": 3047,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-12-24T06:15:37.0226061+02:00"
+    },
+    {
+      "productId": 2400,
+      "reviewText": "this Music is whole-grain.",
+      "reviewDate": "2019-09-10T04:03:27.5276588+03:00"
+    },
+    {
+      "productId": 137,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-10-08T04:41:58.7649754+03:00"
+    },
+    {
+      "productId": 2486,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2020-01-01T07:04:17.6841871+02:00"
+    }
+  ]
+}

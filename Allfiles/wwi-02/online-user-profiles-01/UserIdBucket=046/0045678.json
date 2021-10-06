@@ -1,0 +1,20 @@
+{
+  "userId": 45678,
+  "cartId": "fee8f218-0dd2-44a4-8acd-61e0221c5633",
+  "preferredProducts": [
+    816,
+    953
+  ],
+  "productReviews": [
+    {
+      "productId": 2755,
+      "reviewText": "This Health works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2016-09-28T13:42:02.1476546+03:00"
+    },
+    {
+      "productId": 2055,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-06-28T01:56:20.0620811+03:00"
+    }
+  ]
+}

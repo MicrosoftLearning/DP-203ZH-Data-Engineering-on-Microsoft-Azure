@@ -1,0 +1,32 @@
+{
+  "userId": 88179,
+  "cartId": "6c0fc09e-7db9-4f77-a1ba-98793fa4f7c0",
+  "preferredProducts": [
+    1854,
+    3101,
+    4755,
+    2322
+  ],
+  "productReviews": [
+    {
+      "productId": 2747,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-06-08T23:24:12.177814+03:00"
+    },
+    {
+      "productId": 1308,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-01-20T22:04:21.3466504+02:00"
+    },
+    {
+      "productId": 3101,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-02-15T12:46:27.4762627+02:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-09-18T03:14:34.6996201+03:00"
+    }
+  ]
+}

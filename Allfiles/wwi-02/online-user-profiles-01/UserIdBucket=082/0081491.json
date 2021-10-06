@@ -1,0 +1,30 @@
+{
+  "userId": 81491,
+  "cartId": "3e308022-93df-4d98-bc34-e6c568282e3d",
+  "preferredProducts": [
+    2638,
+    1108,
+    1440,
+    4849,
+    2628,
+    50,
+    2798
+  ],
+  "productReviews": [
+    {
+      "productId": 1301,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-06-14T06:53:36.4528918+03:00"
+    },
+    {
+      "productId": 2389,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-10-25T15:29:37.0240724+03:00"
+    },
+    {
+      "productId": 3889,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-02-13T05:36:20.1467707+02:00"
+    }
+  ]
+}

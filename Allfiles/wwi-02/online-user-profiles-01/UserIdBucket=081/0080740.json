@@ -1,0 +1,33 @@
+{
+  "userId": 80740,
+  "cartId": "c4c027db-7645-4ac7-9c57-a651e7384f10",
+  "preferredProducts": [
+    819,
+    3352,
+    3807,
+    4993,
+    1927,
+    1252,
+    1585,
+    3708,
+    2561,
+    4622
+  ],
+  "productReviews": [
+    {
+      "productId": 3896,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-10-02T11:10:17.1203379+03:00"
+    },
+    {
+      "productId": 4039,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-09-02T05:38:30.5802023+03:00"
+    },
+    {
+      "productId": 4838,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-12-11T07:58:31.2260952+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 6073,
+  "cartId": "5236ba1e-010e-4eb9-8122-686b76e93bab",
+  "preferredProducts": [
+    3981,
+    1285,
+    1309,
+    4994,
+    2724,
+    168,
+    3784,
+    3325,
+    3905
+  ],
+  "productReviews": [
+    {
+      "productId": 3323,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-10-30T21:46:47.0390406+02:00"
+    },
+    {
+      "productId": 2984,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-02-24T05:13:30.6444703+02:00"
+    },
+    {
+      "productId": 2466,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2019-05-12T22:34:28.8708431+03:00"
+    },
+    {
+      "productId": 232,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-04-28T08:31:56.8566275+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 75283,
+  "cartId": "f43caec9-19f1-474f-8cbe-8afcf3da11a1",
+  "preferredProducts": [
+    4565,
+    377,
+    2444,
+    4086,
+    1793,
+    2272,
+    2140
+  ],
+  "productReviews": [
+    {
+      "productId": 4998,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-10-30T03:45:43.9890664+02:00"
+    },
+    {
+      "productId": 3079,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-02-12T20:37:00.5426333+02:00"
+    },
+    {
+      "productId": 2281,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-27T08:23:02.0597374+02:00"
+    },
+    {
+      "productId": 1953,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-08-01T07:14:24.1033173+03:00"
+    }
+  ]
+}

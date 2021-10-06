@@ -1,0 +1,30 @@
+{
+  "userId": 15909,
+  "cartId": "155dfbf1-b098-461a-9ee4-29ad7ac53735",
+  "preferredProducts": [
+    3978,
+    3029,
+    1331,
+    3106,
+    2588,
+    4151,
+    4458
+  ],
+  "productReviews": [
+    {
+      "productId": 1297,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-03-23T12:25:59.1188918+02:00"
+    },
+    {
+      "productId": 2020,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-08-25T01:38:58.5151625+03:00"
+    },
+    {
+      "productId": 2356,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-10-29T05:31:46.3295364+02:00"
+    }
+  ]
+}

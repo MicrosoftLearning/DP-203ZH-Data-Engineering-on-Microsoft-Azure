@@ -1,0 +1,38 @@
+{
+  "userId": 863,
+  "cartId": "816fbe2a-0dfc-4001-a0bd-e1e6024b4d6b",
+  "preferredProducts": [
+    4295,
+    3825,
+    2070,
+    922,
+    2201
+  ],
+  "productReviews": [
+    {
+      "productId": 2299,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-02-05T07:11:48.7716397+02:00"
+    },
+    {
+      "productId": 3864,
+      "reviewText": "this grey is standard.",
+      "reviewDate": "2018-04-14T15:17:00.7596964+03:00"
+    },
+    {
+      "productId": 743,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-04-04T20:50:15.9907852+03:00"
+    },
+    {
+      "productId": 830,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-04-19T14:22:55.9595225+03:00"
+    },
+    {
+      "productId": 4022,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-11-10T20:14:11.4002857+02:00"
+    }
+  ]
+}

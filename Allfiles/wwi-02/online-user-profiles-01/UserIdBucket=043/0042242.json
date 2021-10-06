@@ -1,0 +1,31 @@
+{
+  "userId": 42242,
+  "cartId": "d5c687b2-08a8-4db9-9747-00b3de868812",
+  "preferredProducts": [
+    2769,
+    4268,
+    3173
+  ],
+  "productReviews": [
+    {
+      "productId": 4541,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-10-03T19:29:46.6899997+03:00"
+    },
+    {
+      "productId": 580,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-03-25T11:04:59.1458487+02:00"
+    },
+    {
+      "productId": 3010,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-05-12T06:38:37.5277248+03:00"
+    },
+    {
+      "productId": 4213,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-06-13T22:58:03.2089679+03:00"
+    }
+  ]
+}

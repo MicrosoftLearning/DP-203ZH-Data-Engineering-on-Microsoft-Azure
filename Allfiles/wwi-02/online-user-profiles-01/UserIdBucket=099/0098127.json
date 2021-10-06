@@ -1,0 +1,36 @@
+{
+  "userId": 98127,
+  "cartId": "7b406a2d-cd16-42d1-abac-f0afeff38cb2",
+  "preferredProducts": [
+    4590,
+    4010,
+    374,
+    2558,
+    3359,
+    156,
+    575,
+    1456
+  ],
+  "productReviews": [
+    {
+      "productId": 1572,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-07-24T10:55:59.3111251+03:00"
+    },
+    {
+      "productId": 2830,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-08-19T14:47:48.3308232+03:00"
+    },
+    {
+      "productId": 517,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-02-21T16:14:21.5749683+02:00"
+    },
+    {
+      "productId": 2220,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-04-13T19:44:35.9607541+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 18484,
+  "cartId": "ae707251-b495-451d-bec9-cbf46870d9ee",
+  "preferredProducts": [
+    1246,
+    4291,
+    205,
+    1312,
+    4467,
+    2887,
+    577,
+    16
+  ],
+  "productReviews": [
+    {
+      "productId": 2322,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-01-26T16:29:20.8592784+02:00"
+    },
+    {
+      "productId": 3129,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-12-29T01:03:10.9744357+02:00"
+    },
+    {
+      "productId": 1060,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-08-29T16:59:15.6222782+03:00"
+    }
+  ]
+}

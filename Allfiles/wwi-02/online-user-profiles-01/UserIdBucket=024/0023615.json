@@ -1,0 +1,26 @@
+{
+  "userId": 23615,
+  "cartId": "c319c3e6-0a1d-4788-a9c6-340b5faacf45",
+  "preferredProducts": [
+    802,
+    2010,
+    3259,
+    3997,
+    2750,
+    4238,
+    958,
+    1284
+  ],
+  "productReviews": [
+    {
+      "productId": 4000,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-02-23T07:36:49.2362324+02:00"
+    },
+    {
+      "productId": 801,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-06-01T22:17:04.265228+03:00"
+    }
+  ]
+}

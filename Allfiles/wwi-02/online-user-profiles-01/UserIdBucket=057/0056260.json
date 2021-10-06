@@ -1,0 +1,31 @@
+{
+  "userId": 56260,
+  "cartId": "e62a0b39-ec08-435a-b39c-c53d001dd67e",
+  "preferredProducts": [
+    2745,
+    4380,
+    4721,
+    1151,
+    2759,
+    2874,
+    1679,
+    968
+  ],
+  "productReviews": [
+    {
+      "productId": 3730,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-02-07T16:12:57.2572542+02:00"
+    },
+    {
+      "productId": 536,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-06-05T10:09:44.9982283+03:00"
+    },
+    {
+      "productId": 574,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2017-07-27T05:10:09.0624122+03:00"
+    }
+  ]
+}

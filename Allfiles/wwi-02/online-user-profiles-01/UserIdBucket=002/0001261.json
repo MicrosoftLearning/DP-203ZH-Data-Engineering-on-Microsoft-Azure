@@ -1,0 +1,28 @@
+{
+  "userId": 1261,
+  "cartId": "46e16314-c176-4183-82fb-1dea4cb1122e",
+  "preferredProducts": [
+    1119,
+    2528,
+    2134,
+    2601,
+    4120,
+    3780,
+    4103,
+    3636,
+    1860,
+    3985
+  ],
+  "productReviews": [
+    {
+      "productId": 4632,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-08-13T23:57:32.1821661+03:00"
+    },
+    {
+      "productId": 1464,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-02-28T13:54:49.1406289+02:00"
+    }
+  ]
+}

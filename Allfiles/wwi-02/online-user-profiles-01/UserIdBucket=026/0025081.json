@@ -1,0 +1,26 @@
+{
+  "userId": 25081,
+  "cartId": "3896c57b-087b-48b2-a6af-81c07a111eec",
+  "preferredProducts": [
+    421,
+    4125,
+    245
+  ],
+  "productReviews": [
+    {
+      "productId": 3070,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-02-28T06:57:43.3674686+02:00"
+    },
+    {
+      "productId": 2824,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-05-25T13:18:40.0789696+03:00"
+    },
+    {
+      "productId": 4257,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-08-07T06:51:53.6548534+03:00"
+    }
+  ]
+}

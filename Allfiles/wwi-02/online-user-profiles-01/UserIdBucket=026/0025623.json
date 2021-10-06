@@ -1,0 +1,32 @@
+{
+  "userId": 25623,
+  "cartId": "8c1e7e58-d41c-4a4b-b766-c88d6bd7a96c",
+  "preferredProducts": [
+    3211,
+    406,
+    2566,
+    619
+  ],
+  "productReviews": [
+    {
+      "productId": 1096,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-06-08T15:52:44.395054+03:00"
+    },
+    {
+      "productId": 693,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-05-17T07:10:38.029819+03:00"
+    },
+    {
+      "productId": 4989,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-01-16T13:14:35.233736+02:00"
+    },
+    {
+      "productId": 584,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-10-20T02:17:15.7681414+03:00"
+    }
+  ]
+}

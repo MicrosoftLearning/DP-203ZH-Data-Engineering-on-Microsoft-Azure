@@ -1,0 +1,27 @@
+{
+  "userId": 1498,
+  "cartId": "eb379f66-9e83-4f0b-9ded-d95010774afa",
+  "preferredProducts": [
+    4350,
+    3311,
+    4859,
+    2788,
+    1978,
+    3382,
+    601,
+    3528,
+    2733
+  ],
+  "productReviews": [
+    {
+      "productId": 3380,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-10-21T18:41:30.0470627+03:00"
+    },
+    {
+      "productId": 914,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-09-26T14:31:28.9322938+03:00"
+    }
+  ]
+}

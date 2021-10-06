@@ -1,0 +1,31 @@
+{
+  "userId": 5089,
+  "cartId": "a5ea15f0-b31b-4a4b-8c3b-4ce19bb192ef",
+  "preferredProducts": [
+    498,
+    2657,
+    4882
+  ],
+  "productReviews": [
+    {
+      "productId": 3290,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-06-11T15:02:36.0431826+03:00"
+    },
+    {
+      "productId": 3026,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-11-08T18:40:34.8695026+02:00"
+    },
+    {
+      "productId": 2704,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-06-30T10:37:15.7333234+03:00"
+    },
+    {
+      "productId": 2366,
+      "reviewText": "this models is awesome.",
+      "reviewDate": "2018-05-18T02:37:22.8529968+03:00"
+    }
+  ]
+}

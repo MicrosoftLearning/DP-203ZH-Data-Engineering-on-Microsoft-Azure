@@ -1,0 +1,27 @@
+{
+  "userId": 54708,
+  "cartId": "21c12dc1-3b42-46e0-b82b-c503227a6c34",
+  "preferredProducts": [
+    4478,
+    4692,
+    4076,
+    588,
+    4141,
+    3209,
+    2953,
+    4384,
+    4580
+  ],
+  "productReviews": [
+    {
+      "productId": 3794,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-05-07T12:42:32.8824745+03:00"
+    },
+    {
+      "productId": 2941,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-01-21T10:22:32.3035035+02:00"
+    }
+  ]
+}

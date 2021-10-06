@@ -1,0 +1,31 @@
+{
+  "userId": 65548,
+  "cartId": "db40c644-e8fe-4d66-9015-c7064e498d71",
+  "preferredProducts": [
+    2451,
+    2543,
+    3197
+  ],
+  "productReviews": [
+    {
+      "productId": 4685,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-11-08T17:15:06.3056932+02:00"
+    },
+    {
+      "productId": 2638,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-11-16T08:07:08.9024803+02:00"
+    },
+    {
+      "productId": 1335,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-07-22T17:05:22.4726591+03:00"
+    },
+    {
+      "productId": 145,
+      "reviewText": "This Gorgeous Metal Keyboard, does exactly what it's suppose to do.",
+      "reviewDate": "2016-06-10T11:44:14.1146429+03:00"
+    }
+  ]
+}

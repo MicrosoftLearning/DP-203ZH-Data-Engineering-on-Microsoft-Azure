@@ -1,0 +1,33 @@
+{
+  "userId": 99869,
+  "cartId": "859c5844-21f6-4c4c-ac55-5eeec5f08355",
+  "preferredProducts": [
+    224,
+    1563,
+    2499,
+    1705,
+    483
+  ],
+  "productReviews": [
+    {
+      "productId": 3015,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-09-18T22:00:51.2245681+03:00"
+    },
+    {
+      "productId": 2487,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-27T08:22:36.1513953+02:00"
+    },
+    {
+      "productId": 80,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-03-16T14:57:54.583701+02:00"
+    },
+    {
+      "productId": 3451,
+      "reviewText": "This Road works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-05-08T06:48:36.0955083+03:00"
+    }
+  ]
+}

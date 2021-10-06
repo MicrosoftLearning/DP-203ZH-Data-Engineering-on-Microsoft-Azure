@@ -1,0 +1,37 @@
+{
+  "userId": 99615,
+  "cartId": "9cf3ace3-aa8a-402b-9599-27ccffdbc848",
+  "preferredProducts": [
+    3256,
+    1263,
+    4723,
+    2238,
+    888,
+    1891,
+    4805,
+    4302,
+    2680
+  ],
+  "productReviews": [
+    {
+      "productId": 3132,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2020-04-18T20:22:23.4561811+03:00"
+    },
+    {
+      "productId": 405,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-07-05T23:16:10.0052766+03:00"
+    },
+    {
+      "productId": 3886,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-08-04T11:13:46.0758052+03:00"
+    },
+    {
+      "productId": 1998,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-04-11T17:39:49.0196247+03:00"
+    }
+  ]
+}

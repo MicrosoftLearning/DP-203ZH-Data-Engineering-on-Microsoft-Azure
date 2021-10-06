@@ -1,0 +1,32 @@
+{
+  "userId": 57679,
+  "cartId": "8cd8b1dc-5963-4dcf-9920-97f27cbf41a6",
+  "preferredProducts": [
+    357,
+    637,
+    3344,
+    499
+  ],
+  "productReviews": [
+    {
+      "productId": 2441,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-08-10T00:06:53.1030529+03:00"
+    },
+    {
+      "productId": 3947,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-05-03T19:42:32.0708798+03:00"
+    },
+    {
+      "productId": 66,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-09-24T10:39:12.6103994+03:00"
+    },
+    {
+      "productId": 1634,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-12-13T18:56:24.5960273+02:00"
+    }
+  ]
+}

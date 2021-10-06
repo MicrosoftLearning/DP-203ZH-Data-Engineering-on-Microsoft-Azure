@@ -1,0 +1,31 @@
+{
+  "userId": 75225,
+  "cartId": "46602030-ca47-41dd-b1a3-40c902f837b4",
+  "preferredProducts": [
+    1963,
+    105,
+    3846,
+    595,
+    3382,
+    2358,
+    3451,
+    3052
+  ],
+  "productReviews": [
+    {
+      "productId": 499,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-01-02T21:04:59.1413577+02:00"
+    },
+    {
+      "productId": 4615,
+      "reviewText": "this Libyan Arab Jamahiriya is top-notch.",
+      "reviewDate": "2020-01-21T15:42:21.7954208+02:00"
+    },
+    {
+      "productId": 1339,
+      "reviewText": "this bypass is papery.",
+      "reviewDate": "2018-06-20T17:03:27.7147586+03:00"
+    }
+  ]
+}

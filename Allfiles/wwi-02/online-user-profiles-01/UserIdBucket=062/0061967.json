@@ -1,0 +1,23 @@
+{
+  "userId": 61967,
+  "cartId": "782fa1af-113c-4f45-9be9-39208adca0ff",
+  "preferredProducts": [
+    4800,
+    4550,
+    4240,
+    3013,
+    2697
+  ],
+  "productReviews": [
+    {
+      "productId": 900,
+      "reviewText": "this PCI is nifty.",
+      "reviewDate": "2019-10-14T21:31:37.1385281+03:00"
+    },
+    {
+      "productId": 1079,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Group keeps them away.",
+      "reviewDate": "2017-10-28T09:17:05.9642505+03:00"
+    }
+  ]
+}

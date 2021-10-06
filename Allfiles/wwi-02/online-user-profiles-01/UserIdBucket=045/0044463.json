@@ -1,0 +1,28 @@
+{
+  "userId": 44463,
+  "cartId": "b73241a4-8127-4bcb-b1ec-53f4657c63fe",
+  "preferredProducts": [
+    1498,
+    2623,
+    4133,
+    1080,
+    1094
+  ],
+  "productReviews": [
+    {
+      "productId": 4375,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-05-31T11:38:05.2280019+03:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-11-26T07:53:44.2021654+02:00"
+    },
+    {
+      "productId": 3751,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-08-02T03:53:12.4031951+03:00"
+    }
+  ]
+}

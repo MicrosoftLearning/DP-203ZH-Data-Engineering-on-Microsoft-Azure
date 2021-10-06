@@ -1,0 +1,29 @@
+{
+  "userId": 43442,
+  "cartId": "40fa4484-cca2-4dfb-bc8e-0caef0cdcf8a",
+  "preferredProducts": [
+    2712,
+    1373,
+    324,
+    854,
+    3234,
+    3947
+  ],
+  "productReviews": [
+    {
+      "productId": 540,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-10-03T01:26:13.2522683+03:00"
+    },
+    {
+      "productId": 3857,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-11-10T12:02:39.0907778+02:00"
+    },
+    {
+      "productId": 3382,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-10-05T15:22:52.0710959+03:00"
+    }
+  ]
+}

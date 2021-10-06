@@ -1,0 +1,27 @@
+{
+  "userId": 1234,
+  "cartId": "3ab00d9f-913a-4038-b4b8-e817a0e8d5b0",
+  "preferredProducts": [
+    1127,
+    3640,
+    3501,
+    4190
+  ],
+  "productReviews": [
+    {
+      "productId": 52,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-10-10T04:49:03.3111747+03:00"
+    },
+    {
+      "productId": 3419,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-05-13T22:14:57.5644331+03:00"
+    },
+    {
+      "productId": 4230,
+      "reviewText": "this Intelligent is complimentary.",
+      "reviewDate": "2016-10-09T21:39:09.7113902+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 35828,
+  "cartId": "b4add50f-aa28-4702-8bfa-ee4c135b9f34",
+  "preferredProducts": [
+    919,
+    1941,
+    8,
+    4219,
+    1298,
+    2717,
+    845,
+    4435,
+    4240
+  ],
+  "productReviews": [
+    {
+      "productId": 1600,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-12-30T17:13:14.2395405+02:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-11-12T21:27:12.1066172+02:00"
+    },
+    {
+      "productId": 4677,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-08-21T10:51:09.4541757+03:00"
+    },
+    {
+      "productId": 1146,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2017-12-30T17:25:43.6548515+02:00"
+    }
+  ]
+}

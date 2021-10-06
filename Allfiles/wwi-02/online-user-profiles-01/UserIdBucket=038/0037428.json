@@ -1,0 +1,28 @@
+{
+  "userId": 37428,
+  "cartId": "b4a0212b-0481-4ab9-9d7f-400b364bbe1a",
+  "preferredProducts": [
+    4883,
+    2924,
+    3573,
+    1342,
+    4097
+  ],
+  "productReviews": [
+    {
+      "productId": 4466,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-06-02T21:37:04.9297442+03:00"
+    },
+    {
+      "productId": 2847,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-09-19T23:41:33.0516433+03:00"
+    },
+    {
+      "productId": 1162,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-12-07T03:47:28.7927025+02:00"
+    }
+  ]
+}

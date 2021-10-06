@@ -1,0 +1,33 @@
+{
+  "userId": 62047,
+  "cartId": "b925bbf0-549e-4299-89d6-11a3ac741b35",
+  "preferredProducts": [
+    1390,
+    4192,
+    1500,
+    4461,
+    4336,
+    1229,
+    452,
+    3749,
+    3511,
+    2217
+  ],
+  "productReviews": [
+    {
+      "productId": 213,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-12-24T15:25:33.9900267+02:00"
+    },
+    {
+      "productId": 1146,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-01-24T02:24:00.6045358+02:00"
+    },
+    {
+      "productId": 3791,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-04-22T23:58:01.2626283+03:00"
+    }
+  ]
+}

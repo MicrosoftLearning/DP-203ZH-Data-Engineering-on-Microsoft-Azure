@@ -1,0 +1,29 @@
+{
+  "userId": 4980,
+  "cartId": "9e1b8ee3-ef4d-4a0a-bf61-b6fc97f2a7ad",
+  "preferredProducts": [
+    2863,
+    3522,
+    3781,
+    4614,
+    2913,
+    1284
+  ],
+  "productReviews": [
+    {
+      "productId": 2830,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-07-16T16:03:08.6042609+03:00"
+    },
+    {
+      "productId": 3080,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-04-29T02:55:32.1494889+03:00"
+    },
+    {
+      "productId": 470,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-06-24T17:36:33.7764114+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 13207,
+  "cartId": "db21047c-6ab2-4301-a364-54cf2821fb1c",
+  "preferredProducts": [
+    154,
+    4478
+  ],
+  "productReviews": [
+    {
+      "productId": 1930,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-08-14T18:23:30.9369963+03:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-06-02T09:07:08.824438+03:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-10-19T08:24:43.9793425+03:00"
+    },
+    {
+      "productId": 3629,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-07-09T09:41:46.7006845+03:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-11-30T14:13:18.0667721+02:00"
+    }
+  ]
+}

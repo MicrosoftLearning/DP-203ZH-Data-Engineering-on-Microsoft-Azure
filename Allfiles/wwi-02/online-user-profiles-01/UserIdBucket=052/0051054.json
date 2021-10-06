@@ -1,0 +1,24 @@
+{
+  "userId": 51054,
+  "cartId": "6d7324d8-27f1-4565-a8f0-41efd17e43f4",
+  "preferredProducts": [
+    150
+  ],
+  "productReviews": [
+    {
+      "productId": 4173,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-04-16T22:15:02.7741289+03:00"
+    },
+    {
+      "productId": 1773,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2020-02-24T18:15:33.4182372+02:00"
+    },
+    {
+      "productId": 599,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-09-04T21:26:56.5322636+03:00"
+    }
+  ]
+}

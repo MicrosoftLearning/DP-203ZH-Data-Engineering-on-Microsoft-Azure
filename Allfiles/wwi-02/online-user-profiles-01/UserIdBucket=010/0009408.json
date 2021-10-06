@@ -1,0 +1,35 @@
+{
+  "userId": 9408,
+  "cartId": "80a659cc-b93d-4d64-8c71-0bf7ff92e712",
+  "preferredProducts": [
+    1684,
+    4416,
+    649,
+    1837,
+    1702,
+    3406,
+    4346
+  ],
+  "productReviews": [
+    {
+      "productId": 3096,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-08-30T05:57:35.8768715+03:00"
+    },
+    {
+      "productId": 2673,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-06-02T10:28:01.376912+03:00"
+    },
+    {
+      "productId": 4576,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2020-04-12T18:06:20.3655317+03:00"
+    },
+    {
+      "productId": 137,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-02-26T09:28:15.959592+02:00"
+    }
+  ]
+}

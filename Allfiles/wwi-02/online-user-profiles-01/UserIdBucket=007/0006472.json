@@ -1,0 +1,37 @@
+{
+  "userId": 6472,
+  "cartId": "ac60e0f5-3c23-45b8-bfb8-ce02ee495c7e",
+  "preferredProducts": [
+    2640,
+    3284,
+    4032,
+    4186,
+    4530,
+    2182,
+    2411,
+    1182,
+    4741
+  ],
+  "productReviews": [
+    {
+      "productId": 831,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-08-24T03:50:19.3478049+03:00"
+    },
+    {
+      "productId": 4577,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-11-14T19:08:55.3752598+02:00"
+    },
+    {
+      "productId": 1983,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-08-13T13:09:34.31413+03:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-08-11T05:52:16.2356366+03:00"
+    }
+  ]
+}

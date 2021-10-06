@@ -1,0 +1,30 @@
+{
+  "userId": 56757,
+  "cartId": "dd64ba27-9a20-4c14-869b-6d5d98868baa",
+  "preferredProducts": [
+    250,
+    3319
+  ],
+  "productReviews": [
+    {
+      "productId": 2840,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-06-12T14:20:38.3119874+03:00"
+    },
+    {
+      "productId": 1878,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-02-21T21:40:08.4019264+02:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-11-27T10:13:58.9651892+02:00"
+    },
+    {
+      "productId": 3451,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-05-31T03:15:19.4862635+03:00"
+    }
+  ]
+}

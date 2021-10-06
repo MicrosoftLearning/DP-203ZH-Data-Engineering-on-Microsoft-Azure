@@ -1,0 +1,29 @@
+{
+  "userId": 42015,
+  "cartId": "aa069972-850e-4961-b27f-30ae6ec57372",
+  "preferredProducts": [
+    1602,
+    4590,
+    4622,
+    1052,
+    2084,
+    1075
+  ],
+  "productReviews": [
+    {
+      "productId": 1833,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-11-25T12:27:23.7450246+02:00"
+    },
+    {
+      "productId": 1429,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-07-30T01:23:42.8359201+03:00"
+    },
+    {
+      "productId": 4542,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-04-05T05:06:28.291417+03:00"
+    }
+  ]
+}

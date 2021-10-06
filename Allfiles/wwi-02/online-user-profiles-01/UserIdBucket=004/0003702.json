@@ -1,0 +1,29 @@
+{
+  "userId": 3702,
+  "cartId": "2b0dd1ee-eebb-4915-8059-aed034cfff51",
+  "preferredProducts": [
+    3650,
+    328,
+    2156,
+    4289,
+    2834,
+    3481
+  ],
+  "productReviews": [
+    {
+      "productId": 2177,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-12-11T07:47:19.0273122+02:00"
+    },
+    {
+      "productId": 701,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-10-30T22:56:01.1702811+02:00"
+    },
+    {
+      "productId": 948,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2020-04-16T23:37:26.9998206+03:00"
+    }
+  ]
+}

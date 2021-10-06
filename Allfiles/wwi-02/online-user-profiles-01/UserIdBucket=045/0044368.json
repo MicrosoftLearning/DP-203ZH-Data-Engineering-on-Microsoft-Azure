@@ -1,0 +1,33 @@
+{
+  "userId": 44368,
+  "cartId": "3b4e9350-c8af-4a73-b823-d1c7e843c1f9",
+  "preferredProducts": [
+    3660,
+    3419,
+    2012,
+    2854,
+    2582
+  ],
+  "productReviews": [
+    {
+      "productId": 113,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-08-20T13:51:31.2159155+03:00"
+    },
+    {
+      "productId": 2179,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-10-21T01:00:23.0533517+03:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-05-09T11:11:17.5186476+03:00"
+    },
+    {
+      "productId": 3892,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-10-09T04:46:12.770579+03:00"
+    }
+  ]
+}

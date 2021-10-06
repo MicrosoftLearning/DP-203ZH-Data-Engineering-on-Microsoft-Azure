@@ -1,0 +1,27 @@
+{
+  "userId": 15915,
+  "cartId": "4fb92ff3-62eb-4812-955d-368a481f06ca",
+  "preferredProducts": [
+    2415,
+    1237,
+    719,
+    701,
+    327,
+    4624,
+    2562,
+    4758,
+    4927
+  ],
+  "productReviews": [
+    {
+      "productId": 4245,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-05-18T17:22:26.8962507+03:00"
+    },
+    {
+      "productId": 487,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-08-25T19:42:39.7685174+03:00"
+    }
+  ]
+}

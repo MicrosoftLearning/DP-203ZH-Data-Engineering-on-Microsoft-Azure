@@ -1,0 +1,33 @@
+{
+  "userId": 94293,
+  "cartId": "40d871b2-87fc-443f-b9c7-3554d98c1f93",
+  "preferredProducts": [
+    4643,
+    1005,
+    1929,
+    2429,
+    1782,
+    2024,
+    2218,
+    3730,
+    2590,
+    4061
+  ],
+  "productReviews": [
+    {
+      "productId": 1611,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-08-21T04:40:34.2832863+03:00"
+    },
+    {
+      "productId": 1088,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-05-29T16:23:59.9922771+03:00"
+    },
+    {
+      "productId": 191,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-02-01T16:50:04.5074769+02:00"
+    }
+  ]
+}

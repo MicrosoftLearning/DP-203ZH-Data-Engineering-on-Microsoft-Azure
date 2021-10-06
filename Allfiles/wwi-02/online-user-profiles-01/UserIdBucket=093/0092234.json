@@ -1,0 +1,33 @@
+{
+  "userId": 92234,
+  "cartId": "af56f2c9-8ed7-4147-a31d-1c160dbd4bd7",
+  "preferredProducts": [
+    546,
+    3733,
+    2226,
+    3654,
+    4258,
+    1026,
+    4609,
+    4883,
+    1487,
+    4990
+  ],
+  "productReviews": [
+    {
+      "productId": 2054,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-07-07T14:20:22.2386141+03:00"
+    },
+    {
+      "productId": 3906,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-08-11T22:11:53.1670372+03:00"
+    },
+    {
+      "productId": 3396,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-02-05T09:57:02.4307009+02:00"
+    }
+  ]
+}

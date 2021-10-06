@@ -1,0 +1,32 @@
+{
+  "userId": 11908,
+  "cartId": "098cfa40-7d14-4777-87a9-4eb1281c8ec0",
+  "preferredProducts": [
+    1964,
+    266,
+    4154,
+    3868,
+    4631,
+    1478,
+    3026,
+    494,
+    1566
+  ],
+  "productReviews": [
+    {
+      "productId": 1075,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-07-26T13:50:39.7053508+03:00"
+    },
+    {
+      "productId": 4900,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-12-12T23:18:30.8309039+02:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-12-24T09:30:40.6423221+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 98847,
+  "cartId": "84ab7549-f1f1-4317-8429-68d054553422",
+  "preferredProducts": [
+    3970,
+    68,
+    3193,
+    2520,
+    2475,
+    4274,
+    822
+  ],
+  "productReviews": [
+    {
+      "productId": 2852,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-03-02T09:59:12.4387678+02:00"
+    },
+    {
+      "productId": 4654,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-03-04T04:55:12.8963785+02:00"
+    },
+    {
+      "productId": 2303,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-05-28T15:23:12.0468836+03:00"
+    }
+  ]
+}

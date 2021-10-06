@@ -1,0 +1,37 @@
+{
+  "userId": 44092,
+  "cartId": "133fde95-c0d1-4d3d-9c84-d1f582bff06b",
+  "preferredProducts": [
+    1200,
+    339,
+    3946,
+    4515,
+    488,
+    4200,
+    2768,
+    1448,
+    431
+  ],
+  "productReviews": [
+    {
+      "productId": 2035,
+      "reviewText": "this payment is standard.",
+      "reviewDate": "2018-12-13T19:05:21.3989276+02:00"
+    },
+    {
+      "productId": 948,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-12-14T02:22:57.2509123+02:00"
+    },
+    {
+      "productId": 1593,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-08-18T07:48:35.6637217+03:00"
+    },
+    {
+      "productId": 3516,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-12-05T16:26:10.7024975+02:00"
+    }
+  ]
+}

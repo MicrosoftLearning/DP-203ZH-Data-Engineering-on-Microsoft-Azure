@@ -1,0 +1,29 @@
+{
+  "userId": 1741,
+  "cartId": "4d456492-2b4e-4930-b58c-69ef1faed81f",
+  "preferredProducts": [
+    3,
+    4840,
+    212,
+    919,
+    4589,
+    2047
+  ],
+  "productReviews": [
+    {
+      "productId": 3811,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-08-07T11:33:52.870517+03:00"
+    },
+    {
+      "productId": 2059,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-04-14T09:55:50.8613577+03:00"
+    },
+    {
+      "productId": 2396,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-10-30T23:48:52.4183734+02:00"
+    }
+  ]
+}

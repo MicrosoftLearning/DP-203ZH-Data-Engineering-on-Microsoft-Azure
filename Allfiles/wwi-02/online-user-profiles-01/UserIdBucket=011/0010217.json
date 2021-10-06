@@ -1,0 +1,32 @@
+{
+  "userId": 10217,
+  "cartId": "6debbe2b-3973-46eb-992b-8821846c73ec",
+  "preferredProducts": [
+    2188,
+    32,
+    2942,
+    955
+  ],
+  "productReviews": [
+    {
+      "productId": 4460,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-10-03T08:30:23.2118027+03:00"
+    },
+    {
+      "productId": 2586,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-01-18T08:39:38.7340949+02:00"
+    },
+    {
+      "productId": 4181,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-05-13T15:53:26.1628429+03:00"
+    },
+    {
+      "productId": 3085,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-12-06T07:59:26.7093647+02:00"
+    }
+  ]
+}

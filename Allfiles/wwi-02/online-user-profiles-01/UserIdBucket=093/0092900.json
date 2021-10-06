@@ -1,0 +1,35 @@
+{
+  "userId": 92900,
+  "cartId": "7fada543-0482-4c88-baa1-8e04d4fef3b0",
+  "preferredProducts": [
+    3606,
+    4488,
+    2589,
+    162,
+    286,
+    4739,
+    3151
+  ],
+  "productReviews": [
+    {
+      "productId": 1658,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-10-24T19:11:51.356025+03:00"
+    },
+    {
+      "productId": 1998,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-03-12T02:25:25.5409307+02:00"
+    },
+    {
+      "productId": 4022,
+      "reviewText": "this XML is light-hearted.",
+      "reviewDate": "2019-11-24T00:56:57.8578337+02:00"
+    },
+    {
+      "productId": 733,
+      "reviewText": "This circuit works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-04-08T14:37:13.5928425+03:00"
+    }
+  ]
+}

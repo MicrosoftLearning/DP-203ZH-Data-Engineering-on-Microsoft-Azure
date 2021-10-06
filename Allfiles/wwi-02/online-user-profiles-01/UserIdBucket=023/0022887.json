@@ -1,0 +1,27 @@
+{
+  "userId": 22887,
+  "cartId": "ca826fe3-6f92-4fd5-9e51-e4e8722ad47f",
+  "preferredProducts": [
+    1800,
+    4113,
+    1119,
+    3144
+  ],
+  "productReviews": [
+    {
+      "productId": 2570,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2020-04-22T06:22:25.201571+03:00"
+    },
+    {
+      "productId": 1717,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-02-06T11:07:12.7242732+02:00"
+    },
+    {
+      "productId": 2427,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-10-04T09:47:25.0459179+03:00"
+    }
+  ]
+}

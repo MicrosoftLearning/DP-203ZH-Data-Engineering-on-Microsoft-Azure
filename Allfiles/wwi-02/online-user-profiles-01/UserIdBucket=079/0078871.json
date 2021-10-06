@@ -1,0 +1,27 @@
+{
+  "userId": 78871,
+  "cartId": "a51e56d3-cd6a-4876-acef-b50bcf581f33",
+  "preferredProducts": [
+    2437,
+    2525,
+    3025,
+    3681
+  ],
+  "productReviews": [
+    {
+      "productId": 1547,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-01-02T14:42:07.1585944+02:00"
+    },
+    {
+      "productId": 4780,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-11-28T20:43:07.2502241+02:00"
+    },
+    {
+      "productId": 2089,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-08-29T01:08:32.3215317+03:00"
+    }
+  ]
+}

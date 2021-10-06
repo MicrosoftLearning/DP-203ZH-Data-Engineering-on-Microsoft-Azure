@@ -1,0 +1,33 @@
+{
+  "userId": 11685,
+  "cartId": "d14cf262-87ef-4d6f-8ccd-54e90290fb6e",
+  "preferredProducts": [
+    2320,
+    3883,
+    1330,
+    3174,
+    3967
+  ],
+  "productReviews": [
+    {
+      "productId": 3195,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-12-13T12:04:51.5144204+02:00"
+    },
+    {
+      "productId": 2037,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-07-05T03:29:05.6872078+03:00"
+    },
+    {
+      "productId": 1869,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-07-11T15:13:07.0180018+03:00"
+    },
+    {
+      "productId": 4864,
+      "reviewText": "this orchid is ratty.",
+      "reviewDate": "2017-11-03T14:37:27.2534704+02:00"
+    }
+  ]
+}

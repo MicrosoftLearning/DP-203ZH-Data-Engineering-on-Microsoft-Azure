@@ -1,0 +1,26 @@
+{
+  "userId": 41333,
+  "cartId": "f94598e1-fbe0-4a63-978f-08dd3e4f03b7",
+  "preferredProducts": [
+    3669,
+    4363,
+    794
+  ],
+  "productReviews": [
+    {
+      "productId": 319,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-06-11T14:21:08.9219938+03:00"
+    },
+    {
+      "productId": 4008,
+      "reviewText": "This Knoll, does exactly what it's suppose to do.",
+      "reviewDate": "2020-01-19T01:25:52.2082093+02:00"
+    },
+    {
+      "productId": 3272,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-06-02T02:06:27.4632035+03:00"
+    }
+  ]
+}

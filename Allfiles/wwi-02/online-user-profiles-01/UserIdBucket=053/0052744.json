@@ -1,0 +1,35 @@
+{
+  "userId": 52744,
+  "cartId": "f0101104-b774-4508-b24a-089627fed458",
+  "preferredProducts": [
+    1074,
+    3122
+  ],
+  "productReviews": [
+    {
+      "productId": 920,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2020-01-26T17:38:16.1035866+02:00"
+    },
+    {
+      "productId": 2466,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-07-14T01:11:26.0343004+03:00"
+    },
+    {
+      "productId": 4247,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-04-07T05:37:24.4747686+03:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "this XSS is top-notch.",
+      "reviewDate": "2018-03-11T05:55:03.3548463+02:00"
+    },
+    {
+      "productId": 4980,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-09-18T02:05:15.9942207+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 56568,
+  "cartId": "09d3013c-b36b-4023-a388-0abc0796b6c9",
+  "preferredProducts": [
+    581,
+    2606,
+    4648,
+    1073,
+    2894,
+    3426,
+    4295,
+    2138,
+    3629
+  ],
+  "productReviews": [
+    {
+      "productId": 2372,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-08-25T23:24:41.3525025+03:00"
+    },
+    {
+      "productId": 1919,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-01-27T06:41:16.3788595+02:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-03-26T05:20:28.3515653+02:00"
+    },
+    {
+      "productId": 1139,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-11-10T19:10:27.2457174+02:00"
+    }
+  ]
+}

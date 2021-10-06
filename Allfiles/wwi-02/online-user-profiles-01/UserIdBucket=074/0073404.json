@@ -1,0 +1,29 @@
+{
+  "userId": 73404,
+  "cartId": "2d3f8394-a897-42d1-b9ac-e2c3f6988758",
+  "preferredProducts": [
+    1767,
+    4491,
+    4031,
+    4562,
+    2236,
+    1599
+  ],
+  "productReviews": [
+    {
+      "productId": 2180,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-09-17T23:58:39.6972499+03:00"
+    },
+    {
+      "productId": 2954,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-07-23T12:34:33.9672691+03:00"
+    },
+    {
+      "productId": 4365,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-12-11T08:12:59.0401648+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 53243,
+  "cartId": "c5d12491-8584-47d2-8e48-37acb5185a73",
+  "preferredProducts": [
+    2888,
+    4426,
+    1693
+  ],
+  "productReviews": [
+    {
+      "productId": 4999,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-10-30T18:45:39.4460618+02:00"
+    },
+    {
+      "productId": 4294,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-09-14T07:50:59.0994717+03:00"
+    },
+    {
+      "productId": 4108,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2019-03-14T06:53:18.895321+02:00"
+    }
+  ]
+}

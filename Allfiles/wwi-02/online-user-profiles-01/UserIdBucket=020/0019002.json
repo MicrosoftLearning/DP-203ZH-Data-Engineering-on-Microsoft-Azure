@@ -1,0 +1,35 @@
+{
+  "userId": 19002,
+  "cartId": "fd85d733-4681-4c41-9c84-df500860c1ff",
+  "preferredProducts": [
+    1775,
+    1050
+  ],
+  "productReviews": [
+    {
+      "productId": 3721,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-12-14T15:15:39.2209476+02:00"
+    },
+    {
+      "productId": 3342,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-06-07T21:01:11.5857191+03:00"
+    },
+    {
+      "productId": 1567,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2016-05-19T17:07:46.9755789+03:00"
+    },
+    {
+      "productId": 2496,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-01-01T03:59:30.4052235+02:00"
+    },
+    {
+      "productId": 4192,
+      "reviewText": "this complexity is hyper.",
+      "reviewDate": "2017-05-06T21:42:16.5497096+03:00"
+    }
+  ]
+}

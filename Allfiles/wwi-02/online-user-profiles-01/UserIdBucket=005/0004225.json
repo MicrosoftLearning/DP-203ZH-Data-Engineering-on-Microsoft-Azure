@@ -1,0 +1,24 @@
+{
+  "userId": 4225,
+  "cartId": "3e8d5464-cffe-4bca-99a0-95e5e63082b2",
+  "preferredProducts": [
+    4456,
+    2248,
+    4267,
+    3925,
+    4593,
+    4429
+  ],
+  "productReviews": [
+    {
+      "productId": 1356,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-07-17T16:07:57.1767721+03:00"
+    },
+    {
+      "productId": 4647,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-09-28T06:16:23.1838917+03:00"
+    }
+  ]
+}

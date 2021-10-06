@@ -1,0 +1,32 @@
+{
+  "userId": 42291,
+  "cartId": "be07ae9e-8920-4805-83ed-3c2306a65bd8",
+  "preferredProducts": [
+    1877,
+    2067,
+    2014,
+    2718,
+    693,
+    477,
+    742,
+    707,
+    4346
+  ],
+  "productReviews": [
+    {
+      "productId": 2222,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2020-01-16T03:44:20.4840975+02:00"
+    },
+    {
+      "productId": 3291,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-06-09T07:16:59.4618191+03:00"
+    },
+    {
+      "productId": 4742,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-01-30T20:30:13.4972746+02:00"
+    }
+  ]
+}

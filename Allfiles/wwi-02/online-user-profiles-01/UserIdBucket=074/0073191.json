@@ -1,0 +1,40 @@
+{
+  "userId": 73191,
+  "cartId": "35e59b3f-f1c2-4235-af69-2411a8770543",
+  "preferredProducts": [
+    186,
+    3195,
+    3873,
+    3911,
+    973,
+    1609,
+    3079
+  ],
+  "productReviews": [
+    {
+      "productId": 3180,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-10-02T07:37:12.3049957+03:00"
+    },
+    {
+      "productId": 3850,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-08-31T07:40:04.9427492+03:00"
+    },
+    {
+      "productId": 3692,
+      "reviewText": "this parsing is nifty.",
+      "reviewDate": "2019-01-04T10:27:49.4102393+02:00"
+    },
+    {
+      "productId": 1013,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-03-30T09:32:28.630837+03:00"
+    },
+    {
+      "productId": 4704,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-11-05T10:35:40.4346561+02:00"
+    }
+  ]
+}

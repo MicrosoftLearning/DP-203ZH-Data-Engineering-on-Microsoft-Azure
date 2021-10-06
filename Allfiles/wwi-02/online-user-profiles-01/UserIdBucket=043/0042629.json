@@ -1,0 +1,29 @@
+{
+  "userId": 42629,
+  "cartId": "45511a58-68b9-4d04-9e2d-467a887f096d",
+  "preferredProducts": [
+    4355,
+    3551,
+    522,
+    2956,
+    391,
+    3612
+  ],
+  "productReviews": [
+    {
+      "productId": 2631,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-09-21T09:04:58.0569554+03:00"
+    },
+    {
+      "productId": 2767,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-07-28T10:29:43.5802175+03:00"
+    },
+    {
+      "productId": 597,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2020-02-18T08:47:49.1891247+02:00"
+    }
+  ]
+}

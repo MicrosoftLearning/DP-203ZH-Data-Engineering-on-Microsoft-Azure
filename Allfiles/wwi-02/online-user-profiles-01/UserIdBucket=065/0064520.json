@@ -1,0 +1,27 @@
+{
+  "userId": 64520,
+  "cartId": "1d6d89e9-440f-46de-8df0-4fbeff758ac1",
+  "preferredProducts": [
+    1543,
+    3124,
+    3942,
+    3770
+  ],
+  "productReviews": [
+    {
+      "productId": 2545,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-09-03T07:06:14.6362093+03:00"
+    },
+    {
+      "productId": 124,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-06-15T01:26:55.8513625+03:00"
+    },
+    {
+      "productId": 1875,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-04-26T08:32:32.5405066+03:00"
+    }
+  ]
+}

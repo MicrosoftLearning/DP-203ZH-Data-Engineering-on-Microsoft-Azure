@@ -1,0 +1,23 @@
+{
+  "userId": 45001,
+  "cartId": "3efb605e-c4ab-4e83-a48f-905506f9651f",
+  "preferredProducts": [
+    4918,
+    2894,
+    4671,
+    4068,
+    3957
+  ],
+  "productReviews": [
+    {
+      "productId": 2723,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-10-05T02:04:36.6984232+03:00"
+    },
+    {
+      "productId": 2774,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-11-14T07:42:35.4253918+02:00"
+    }
+  ]
+}

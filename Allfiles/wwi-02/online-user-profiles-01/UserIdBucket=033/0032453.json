@@ -1,0 +1,30 @@
+{
+  "userId": 32453,
+  "cartId": "c38410e9-17d2-4adc-9188-40aa83be336c",
+  "preferredProducts": [
+    1819,
+    575,
+    639,
+    4434,
+    4903,
+    3584,
+    114
+  ],
+  "productReviews": [
+    {
+      "productId": 478,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-07-03T10:31:54.9419583+03:00"
+    },
+    {
+      "productId": 3235,
+      "reviewText": "this silver is slurpee.",
+      "reviewDate": "2017-01-29T06:44:34.5774031+02:00"
+    },
+    {
+      "productId": 1871,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-04-15T13:15:20.6729761+03:00"
+    }
+  ]
+}

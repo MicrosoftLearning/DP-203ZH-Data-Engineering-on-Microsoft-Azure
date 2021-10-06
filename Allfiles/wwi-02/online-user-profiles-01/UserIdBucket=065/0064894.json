@@ -1,0 +1,29 @@
+{
+  "userId": 64894,
+  "cartId": "24dccf52-4a62-425f-bc21-9193b2aa51d3",
+  "preferredProducts": [
+    655,
+    3423,
+    3400,
+    4180,
+    3842,
+    3026
+  ],
+  "productReviews": [
+    {
+      "productId": 3034,
+      "reviewText": "this vortals is complimentary.",
+      "reviewDate": "2018-09-04T21:29:08.1980482+03:00"
+    },
+    {
+      "productId": 2548,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-08-30T08:33:28.3486386+03:00"
+    },
+    {
+      "productId": 589,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-10-10T19:01:51.7807261+03:00"
+    }
+  ]
+}

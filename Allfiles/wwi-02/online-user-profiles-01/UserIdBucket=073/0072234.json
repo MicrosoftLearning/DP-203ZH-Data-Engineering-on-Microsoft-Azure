@@ -1,0 +1,22 @@
+{
+  "userId": 72234,
+  "cartId": "53b7cd6e-a0f7-419d-a12b-e3b8127e743e",
+  "preferredProducts": [
+    1035,
+    4472,
+    903,
+    4940
+  ],
+  "productReviews": [
+    {
+      "productId": 4271,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-04-21T05:45:04.7435399+03:00"
+    },
+    {
+      "productId": 4524,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-08-02T23:50:54.2229656+03:00"
+    }
+  ]
+}

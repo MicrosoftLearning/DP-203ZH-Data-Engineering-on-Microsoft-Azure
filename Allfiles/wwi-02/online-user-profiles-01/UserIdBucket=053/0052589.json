@@ -1,0 +1,41 @@
+{
+  "userId": 52589,
+  "cartId": "e2f38708-7506-456b-a99e-959d66a49d0e",
+  "preferredProducts": [
+    4855,
+    597,
+    1015,
+    1623,
+    3408,
+    4277,
+    411,
+    2613
+  ],
+  "productReviews": [
+    {
+      "productId": 4215,
+      "reviewText": "This SQL works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-09-19T08:10:47.5462513+03:00"
+    },
+    {
+      "productId": 2157,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-05-11T20:03:12.2026241+03:00"
+    },
+    {
+      "productId": 257,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-06-22T11:09:26.847577+03:00"
+    },
+    {
+      "productId": 738,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-02-01T12:25:51.2450874+02:00"
+    },
+    {
+      "productId": 4081,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-04-28T05:38:08.9346741+03:00"
+    }
+  ]
+}

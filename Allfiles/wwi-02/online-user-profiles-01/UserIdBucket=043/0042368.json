@@ -1,0 +1,38 @@
+{
+  "userId": 42368,
+  "cartId": "b6c5965a-2d3d-4ed1-a488-3de6f500556e",
+  "preferredProducts": [
+    3183,
+    945,
+    1071,
+    3404,
+    1835
+  ],
+  "productReviews": [
+    {
+      "productId": 878,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-05-05T21:36:27.3104206+03:00"
+    },
+    {
+      "productId": 2677,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-08-26T20:37:52.9390314+03:00"
+    },
+    {
+      "productId": 4957,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-09-19T13:21:52.7011964+03:00"
+    },
+    {
+      "productId": 318,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-05-17T21:58:12.2176717+03:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "This Frozen works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-09-09T23:07:37.5178372+03:00"
+    }
+  ]
+}

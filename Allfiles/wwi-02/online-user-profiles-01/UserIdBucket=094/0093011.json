@@ -1,0 +1,32 @@
+{
+  "userId": 93011,
+  "cartId": "ddd12486-238b-4ce3-b07a-10c5da716786",
+  "preferredProducts": [
+    3136,
+    1919,
+    2958,
+    3129,
+    3042,
+    418,
+    4961,
+    3197,
+    927
+  ],
+  "productReviews": [
+    {
+      "productId": 763,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-07-04T22:09:57.4404339+03:00"
+    },
+    {
+      "productId": 596,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-02-13T15:54:21.6347682+02:00"
+    },
+    {
+      "productId": 944,
+      "reviewText": "This THX works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-10-19T10:00:49.8339039+03:00"
+    }
+  ]
+}

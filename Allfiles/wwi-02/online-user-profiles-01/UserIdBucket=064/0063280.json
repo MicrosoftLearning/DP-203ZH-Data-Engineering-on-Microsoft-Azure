@@ -1,0 +1,30 @@
+{
+  "userId": 63280,
+  "cartId": "1b7c1e36-da26-4552-aad4-27eb63d29bf3",
+  "preferredProducts": [
+    999,
+    2980,
+    3275,
+    2170,
+    1897,
+    2111,
+    3861
+  ],
+  "productReviews": [
+    {
+      "productId": 2139,
+      "reviewText": "this input is dominant.",
+      "reviewDate": "2019-11-28T14:52:53.0152533+02:00"
+    },
+    {
+      "productId": 1083,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-06-30T05:21:44.8581713+03:00"
+    },
+    {
+      "productId": 764,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-09-29T00:03:24.2870149+03:00"
+    }
+  ]
+}

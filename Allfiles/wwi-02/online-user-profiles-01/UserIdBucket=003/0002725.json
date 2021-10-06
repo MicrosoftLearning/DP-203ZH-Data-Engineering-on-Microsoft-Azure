@@ -1,0 +1,31 @@
+{
+  "userId": 2725,
+  "cartId": "f300d2bb-2ab4-4447-8f4d-be83737c0600",
+  "preferredProducts": [
+    4357,
+    4627,
+    2836,
+    3922,
+    2611,
+    544,
+    993,
+    925
+  ],
+  "productReviews": [
+    {
+      "productId": 1988,
+      "reviewText": "this HDD is standard.",
+      "reviewDate": "2018-11-25T13:11:35.3176915+02:00"
+    },
+    {
+      "productId": 2210,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-06-02T11:46:44.4572018+03:00"
+    },
+    {
+      "productId": 1585,
+      "reviewText": "This navigating works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2018-08-06T03:05:36.9098308+03:00"
+    }
+  ]
+}

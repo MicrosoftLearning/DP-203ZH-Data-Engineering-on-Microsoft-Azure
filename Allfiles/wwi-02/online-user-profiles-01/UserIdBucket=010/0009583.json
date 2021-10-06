@@ -1,0 +1,35 @@
+{
+  "userId": 9583,
+  "cartId": "534991d4-606d-4807-9c7e-e4638ac61dea",
+  "preferredProducts": [
+    584,
+    4106,
+    3834,
+    690,
+    4009,
+    2219,
+    4934
+  ],
+  "productReviews": [
+    {
+      "productId": 4250,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-08-23T21:06:17.3991887+03:00"
+    },
+    {
+      "productId": 3912,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-11-09T16:14:49.3089317+02:00"
+    },
+    {
+      "productId": 3144,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-08-30T01:28:37.7643237+03:00"
+    },
+    {
+      "productId": 4539,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-10-31T16:39:01.0106607+02:00"
+    }
+  ]
+}

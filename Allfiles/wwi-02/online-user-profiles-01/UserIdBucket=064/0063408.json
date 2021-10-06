@@ -1,0 +1,27 @@
+{
+  "userId": 63408,
+  "cartId": "eb2e3d6a-88f1-4412-9c11-f92b84cd2415",
+  "preferredProducts": [
+    3134,
+    4771,
+    563,
+    830
+  ],
+  "productReviews": [
+    {
+      "productId": 3276,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-04-30T03:49:43.0719146+03:00"
+    },
+    {
+      "productId": 531,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-08-09T05:44:18.8585761+03:00"
+    },
+    {
+      "productId": 1001,
+      "reviewText": "this e-services is whole-grain.",
+      "reviewDate": "2020-04-14T16:01:20.2231919+03:00"
+    }
+  ]
+}

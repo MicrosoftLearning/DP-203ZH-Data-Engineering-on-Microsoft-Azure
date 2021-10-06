@@ -1,0 +1,31 @@
+{
+  "userId": 27461,
+  "cartId": "ac2917db-d0ec-4d79-8028-936ac33cb513",
+  "preferredProducts": [
+    4523,
+    3903,
+    3409,
+    1825,
+    4696,
+    1926,
+    3461,
+    1865
+  ],
+  "productReviews": [
+    {
+      "productId": 3299,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-04-15T23:05:06.9300524+03:00"
+    },
+    {
+      "productId": 2355,
+      "reviewText": "this Rustic is awesome.",
+      "reviewDate": "2018-01-18T04:12:06.1974777+02:00"
+    },
+    {
+      "productId": 3816,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-10-24T22:38:01.7004062+03:00"
+    }
+  ]
+}

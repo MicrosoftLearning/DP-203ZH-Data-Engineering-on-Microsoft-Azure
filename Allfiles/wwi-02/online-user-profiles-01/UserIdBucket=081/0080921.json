@@ -1,0 +1,31 @@
+{
+  "userId": 80921,
+  "cartId": "7ebea703-0ab8-431a-b609-499d5a3fc74c",
+  "preferredProducts": [
+    4571,
+    3436,
+    3881
+  ],
+  "productReviews": [
+    {
+      "productId": 66,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-10-23T01:20:39.0226925+03:00"
+    },
+    {
+      "productId": 212,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-11-28T03:35:06.0492773+02:00"
+    },
+    {
+      "productId": 345,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-05-23T07:32:47.9518533+03:00"
+    },
+    {
+      "productId": 4203,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-06-08T07:22:02.0603292+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 2415,
+  "cartId": "507c3217-002e-45ba-b1de-67f23ba7f199",
+  "preferredProducts": [
+    3248,
+    4798,
+    52,
+    4046,
+    4346
+  ],
+  "productReviews": [
+    {
+      "productId": 105,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-04-24T18:03:24.9038276+03:00"
+    },
+    {
+      "productId": 962,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-06-08T17:48:13.0938137+03:00"
+    },
+    {
+      "productId": 2373,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-08-25T23:03:56.1415897+03:00"
+    }
+  ]
+}

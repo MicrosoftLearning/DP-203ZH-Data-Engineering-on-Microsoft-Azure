@@ -1,0 +1,39 @@
+{
+  "userId": 44380,
+  "cartId": "0097439d-832a-44ed-9999-1c7b43abc552",
+  "preferredProducts": [
+    4949,
+    4041,
+    4866,
+    480,
+    2431,
+    836
+  ],
+  "productReviews": [
+    {
+      "productId": 4550,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-10-18T14:55:48.4237777+03:00"
+    },
+    {
+      "productId": 2009,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-05-10T13:32:57.0054544+03:00"
+    },
+    {
+      "productId": 3231,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-04-10T22:02:13.6032838+03:00"
+    },
+    {
+      "productId": 4531,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-20T22:42:08.0933396+02:00"
+    },
+    {
+      "productId": 3248,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-05-10T00:29:29.3069766+03:00"
+    }
+  ]
+}

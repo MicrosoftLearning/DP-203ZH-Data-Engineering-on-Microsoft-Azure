@@ -1,0 +1,28 @@
+{
+  "userId": 63941,
+  "cartId": "55c24f63-e778-4711-a90b-09a2144e0921",
+  "preferredProducts": [
+    1428,
+    1122,
+    801,
+    1322,
+    2952
+  ],
+  "productReviews": [
+    {
+      "productId": 3344,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-06-24T19:08:40.7967071+03:00"
+    },
+    {
+      "productId": 4365,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-03-20T08:45:13.9352635+02:00"
+    },
+    {
+      "productId": 3603,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-07-31T23:10:47.1556778+03:00"
+    }
+  ]
+}

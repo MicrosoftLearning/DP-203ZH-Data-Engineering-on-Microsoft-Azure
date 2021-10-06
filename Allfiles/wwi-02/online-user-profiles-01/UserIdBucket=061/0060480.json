@@ -1,0 +1,37 @@
+{
+  "userId": 60480,
+  "cartId": "2a32192a-656a-4842-a9e7-c6991a373e7d",
+  "preferredProducts": [
+    2301,
+    4502,
+    4601,
+    3254,
+    1241,
+    3118,
+    494,
+    3938,
+    3900
+  ],
+  "productReviews": [
+    {
+      "productId": 1610,
+      "reviewText": "this Fantastic is whole-grain.",
+      "reviewDate": "2016-11-01T05:55:23.7996244+02:00"
+    },
+    {
+      "productId": 3448,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-02-08T10:28:39.23895+02:00"
+    },
+    {
+      "productId": 3588,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-07-31T21:00:03.4859102+03:00"
+    },
+    {
+      "productId": 1711,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-10-23T02:47:09.9353803+03:00"
+    }
+  ]
+}

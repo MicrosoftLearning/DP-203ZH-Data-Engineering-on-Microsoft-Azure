@@ -1,0 +1,28 @@
+{
+  "userId": 23039,
+  "cartId": "14751f98-6b7a-4c9f-82fa-03964acb0aed",
+  "preferredProducts": [
+    1383,
+    3530,
+    1251,
+    2927,
+    4158
+  ],
+  "productReviews": [
+    {
+      "productId": 940,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-05-08T22:54:14.8405026+03:00"
+    },
+    {
+      "productId": 4163,
+      "reviewText": "this Parkway is ghetto.",
+      "reviewDate": "2018-04-10T05:19:44.994658+03:00"
+    },
+    {
+      "productId": 4261,
+      "reviewText": "this bandwidth is awesome.",
+      "reviewDate": "2019-08-31T05:02:30.2356008+03:00"
+    }
+  ]
+}

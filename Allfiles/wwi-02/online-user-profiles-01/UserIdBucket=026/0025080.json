@@ -1,0 +1,25 @@
+{
+  "userId": 25080,
+  "cartId": "d7089f16-0b18-4acf-9a57-aae261aa37bf",
+  "preferredProducts": [
+    566,
+    3034
+  ],
+  "productReviews": [
+    {
+      "productId": 2844,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-15T15:23:08.6763112+02:00"
+    },
+    {
+      "productId": 4075,
+      "reviewText": "this maximize is ghetto.",
+      "reviewDate": "2016-07-13T22:28:39.8700219+03:00"
+    },
+    {
+      "productId": 2995,
+      "reviewText": "this overriding is revolting.",
+      "reviewDate": "2016-11-16T04:14:33.1851484+02:00"
+    }
+  ]
+}

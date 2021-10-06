@@ -1,0 +1,27 @@
+{
+  "userId": 13104,
+  "cartId": "d0d7a1b7-c0e0-4bd4-914d-7269ef3514cb",
+  "preferredProducts": [
+    168,
+    4194,
+    121,
+    1553
+  ],
+  "productReviews": [
+    {
+      "productId": 1502,
+      "reviewText": "This is a really good Metal.",
+      "reviewDate": "2019-03-20T09:01:36.8790368+02:00"
+    },
+    {
+      "productId": 3020,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-06T21:18:14.1974551+03:00"
+    },
+    {
+      "productId": 4449,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-12-21T06:49:27.780312+02:00"
+    }
+  ]
+}

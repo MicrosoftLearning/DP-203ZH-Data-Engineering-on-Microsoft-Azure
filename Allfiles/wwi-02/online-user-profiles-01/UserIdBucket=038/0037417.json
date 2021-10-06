@@ -1,0 +1,35 @@
+{
+  "userId": 37417,
+  "cartId": "5c57c512-3521-4e37-96d2-8b82dffb2c3c",
+  "preferredProducts": [
+    874,
+    3343,
+    2267,
+    155,
+    1119,
+    901,
+    15
+  ],
+  "productReviews": [
+    {
+      "productId": 2259,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-06-30T00:11:19.3384399+03:00"
+    },
+    {
+      "productId": 2052,
+      "reviewText": "This is a really good bus.",
+      "reviewDate": "2018-10-18T06:42:13.3926167+03:00"
+    },
+    {
+      "productId": 2348,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-09-12T13:00:57.8460361+03:00"
+    },
+    {
+      "productId": 2916,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-07-12T00:11:50.6086956+03:00"
+    }
+  ]
+}

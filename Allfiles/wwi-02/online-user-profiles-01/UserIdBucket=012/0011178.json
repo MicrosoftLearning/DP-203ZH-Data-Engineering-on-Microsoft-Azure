@@ -1,0 +1,31 @@
+{
+  "userId": 11178,
+  "cartId": "8b62e556-11ec-44b8-8ef7-db3357841786",
+  "preferredProducts": [
+    1965,
+    4985,
+    3440,
+    2013,
+    4330,
+    2733,
+    4576,
+    4790
+  ],
+  "productReviews": [
+    {
+      "productId": 1062,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-10-26T16:41:45.5531351+03:00"
+    },
+    {
+      "productId": 4227,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-10-13T00:03:17.9267409+03:00"
+    },
+    {
+      "productId": 940,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-11-14T05:38:11.4115298+02:00"
+    }
+  ]
+}

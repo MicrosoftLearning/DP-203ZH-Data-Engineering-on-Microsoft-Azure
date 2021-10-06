@@ -1,0 +1,38 @@
+{
+  "userId": 41613,
+  "cartId": "c1b90a80-e61c-48aa-82eb-60f4bd2a0b4b",
+  "preferredProducts": [
+    4971,
+    1110,
+    1132,
+    760,
+    1006,
+    4792,
+    4817,
+    216,
+    3492,
+    2757
+  ],
+  "productReviews": [
+    {
+      "productId": 2885,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-01-09T19:34:00.5366399+02:00"
+    },
+    {
+      "productId": 3318,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-01-31T00:08:08.2676013+02:00"
+    },
+    {
+      "productId": 3425,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-03-21T08:58:42.6350818+02:00"
+    },
+    {
+      "productId": 3646,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-02-08T08:16:07.170449+02:00"
+    }
+  ]
+}

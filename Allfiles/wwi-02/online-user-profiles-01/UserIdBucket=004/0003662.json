@@ -1,0 +1,28 @@
+{
+  "userId": 3662,
+  "cartId": "a57d1c42-0fc3-4b0f-a8cb-33d017e25c85",
+  "preferredProducts": [
+    479,
+    2112,
+    4170,
+    2923,
+    2946
+  ],
+  "productReviews": [
+    {
+      "productId": 506,
+      "reviewText": "this plum is dominant.",
+      "reviewDate": "2016-07-08T13:22:25.7750423+03:00"
+    },
+    {
+      "productId": 2461,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-11-09T17:24:01.1188809+02:00"
+    },
+    {
+      "productId": 4680,
+      "reviewText": "this Guatemala is top-notch.",
+      "reviewDate": "2019-06-18T16:00:51.7197142+03:00"
+    }
+  ]
+}

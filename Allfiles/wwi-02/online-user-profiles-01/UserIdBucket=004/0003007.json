@@ -1,0 +1,27 @@
+{
+  "userId": 3007,
+  "cartId": "46ed80f8-af32-40fd-981e-0fdff3c8d7bc",
+  "preferredProducts": [
+    1657,
+    4803,
+    2987,
+    4487,
+    162,
+    4956,
+    2039,
+    813,
+    4368
+  ],
+  "productReviews": [
+    {
+      "productId": 807,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-11-12T13:58:51.598267+02:00"
+    },
+    {
+      "productId": 1421,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-07-29T02:06:49.9612631+03:00"
+    }
+  ]
+}

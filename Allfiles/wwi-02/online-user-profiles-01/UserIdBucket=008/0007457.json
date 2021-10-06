@@ -1,0 +1,37 @@
+{
+  "userId": 7457,
+  "cartId": "b1db8c38-57dc-4c77-91ba-5a3365d0e9c9",
+  "preferredProducts": [
+    1776,
+    4988,
+    637,
+    3577,
+    3382,
+    4065,
+    4312,
+    3517,
+    3305
+  ],
+  "productReviews": [
+    {
+      "productId": 22,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-05-30T22:15:50.4249484+03:00"
+    },
+    {
+      "productId": 298,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-10-13T18:49:52.7599471+03:00"
+    },
+    {
+      "productId": 728,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-11-19T07:33:37.9981981+02:00"
+    },
+    {
+      "productId": 428,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2018-08-24T09:09:51.0611173+03:00"
+    }
+  ]
+}

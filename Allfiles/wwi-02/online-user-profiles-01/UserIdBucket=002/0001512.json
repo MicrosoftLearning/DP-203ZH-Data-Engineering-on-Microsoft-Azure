@@ -1,0 +1,30 @@
+{
+  "userId": 1512,
+  "cartId": "dfb6b744-d31d-49a6-9760-e7925e19a70f",
+  "preferredProducts": [
+    4053,
+    3987,
+    1882,
+    1098,
+    2080,
+    2643,
+    1419
+  ],
+  "productReviews": [
+    {
+      "productId": 2789,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-10-27T00:41:08.7603924+03:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "this impactful is slurpee.",
+      "reviewDate": "2019-08-08T12:49:25.6169128+03:00"
+    },
+    {
+      "productId": 970,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-01-21T21:19:11.8639503+02:00"
+    }
+  ]
+}

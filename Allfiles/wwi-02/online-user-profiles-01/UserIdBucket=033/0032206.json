@@ -1,0 +1,37 @@
+{
+  "userId": 32206,
+  "cartId": "512b0ab7-2a8d-4085-ac57-fb89de16d4a0",
+  "preferredProducts": [
+    2109,
+    2711,
+    3186,
+    828
+  ],
+  "productReviews": [
+    {
+      "productId": 1428,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-03-22T05:50:32.0202117+02:00"
+    },
+    {
+      "productId": 4093,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-11-29T05:39:40.3959136+02:00"
+    },
+    {
+      "productId": 4670,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-08-11T12:59:50.3664607+03:00"
+    },
+    {
+      "productId": 4668,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-12-31T11:21:37.2399468+02:00"
+    },
+    {
+      "productId": 4970,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-12-31T23:01:47.9987428+02:00"
+    }
+  ]
+}

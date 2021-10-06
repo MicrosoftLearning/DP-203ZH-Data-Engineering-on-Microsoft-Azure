@@ -1,0 +1,28 @@
+{
+  "userId": 82488,
+  "cartId": "e91657ae-4e71-4bf9-b1c0-2a6d812f51fb",
+  "preferredProducts": [
+    1505,
+    4711,
+    162,
+    4359,
+    2304
+  ],
+  "productReviews": [
+    {
+      "productId": 4346,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-03-07T12:13:48.4745898+02:00"
+    },
+    {
+      "productId": 1795,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-05-09T21:52:56.4631288+03:00"
+    },
+    {
+      "productId": 3638,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-09-22T01:40:14.5494956+03:00"
+    }
+  ]
+}

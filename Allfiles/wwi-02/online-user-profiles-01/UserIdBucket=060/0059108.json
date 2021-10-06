@@ -1,0 +1,25 @@
+{
+  "userId": 59108,
+  "cartId": "05c5bc5c-8621-40e0-98b1-bb20b7b6d3eb",
+  "preferredProducts": [
+    2333,
+    4708,
+    1553,
+    1973,
+    2904,
+    3603,
+    2865
+  ],
+  "productReviews": [
+    {
+      "productId": 2162,
+      "reviewText": "this complexity is papery.",
+      "reviewDate": "2019-05-07T21:59:03.2837956+03:00"
+    },
+    {
+      "productId": 3179,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-03-14T16:02:50.9174397+02:00"
+    }
+  ]
+}

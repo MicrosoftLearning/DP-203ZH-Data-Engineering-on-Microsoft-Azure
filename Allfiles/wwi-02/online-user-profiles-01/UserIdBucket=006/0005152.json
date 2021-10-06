@@ -1,0 +1,41 @@
+{
+  "userId": 5152,
+  "cartId": "d7d69372-d2c2-4569-9091-d6a1e3240503",
+  "preferredProducts": [
+    3332,
+    2156,
+    206,
+    3356,
+    605,
+    946,
+    3046,
+    2418
+  ],
+  "productReviews": [
+    {
+      "productId": 680,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-11-17T01:51:43.4176731+02:00"
+    },
+    {
+      "productId": 1567,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-02-22T06:05:39.8685532+02:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-06-14T08:08:18.0129196+03:00"
+    },
+    {
+      "productId": 725,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-07-15T20:22:07.8329053+03:00"
+    },
+    {
+      "productId": 815,
+      "reviewText": "This Plains works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-04-20T16:34:24.2913634+03:00"
+    }
+  ]
+}

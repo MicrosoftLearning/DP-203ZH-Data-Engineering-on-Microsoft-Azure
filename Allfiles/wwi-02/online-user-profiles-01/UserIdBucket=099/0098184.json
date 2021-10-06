@@ -1,0 +1,29 @@
+{
+  "userId": 98184,
+  "cartId": "9f322c1f-99e3-4f6d-a8c8-9946ad25ea54",
+  "preferredProducts": [
+    416,
+    552,
+    278,
+    3152,
+    1637,
+    2605
+  ],
+  "productReviews": [
+    {
+      "productId": 1204,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-08-30T21:47:18.4145273+03:00"
+    },
+    {
+      "productId": 3361,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-10-01T11:28:46.1013545+03:00"
+    },
+    {
+      "productId": 1127,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-01-14T12:00:03.8649038+02:00"
+    }
+  ]
+}

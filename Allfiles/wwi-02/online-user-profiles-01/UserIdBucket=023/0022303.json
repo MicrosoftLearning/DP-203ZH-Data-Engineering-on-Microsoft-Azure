@@ -1,0 +1,32 @@
+{
+  "userId": 22303,
+  "cartId": "1f4b596a-afc6-435f-83da-f632137868d0",
+  "preferredProducts": [
+    2801,
+    2867,
+    420,
+    3099
+  ],
+  "productReviews": [
+    {
+      "productId": 192,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-03-07T23:36:16.4119266+02:00"
+    },
+    {
+      "productId": 2786,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2020-02-14T16:12:30.4280792+02:00"
+    },
+    {
+      "productId": 2429,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-09-02T20:03:27.1700288+03:00"
+    },
+    {
+      "productId": 1837,
+      "reviewText": "This Cambridgeshire works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2020-05-07T04:51:00.3305246+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 10971,
+  "cartId": "cf3ba9b4-e062-46c5-933a-b504c7565e85",
+  "preferredProducts": [
+    2741,
+    1611,
+    4481,
+    4443,
+    4050,
+    916,
+    3988,
+    4438,
+    2416
+  ],
+  "productReviews": [
+    {
+      "productId": 758,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-09-22T17:13:39.5737655+03:00"
+    },
+    {
+      "productId": 1690,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-04-30T19:39:36.5544832+03:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-06-25T15:44:13.9562472+03:00"
+    },
+    {
+      "productId": 482,
+      "reviewText": "this withdrawal is standard.",
+      "reviewDate": "2016-11-16T21:18:23.9896915+02:00"
+    }
+  ]
+}

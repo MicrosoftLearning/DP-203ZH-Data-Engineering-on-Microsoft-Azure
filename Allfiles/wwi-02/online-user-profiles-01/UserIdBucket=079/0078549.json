@@ -1,0 +1,33 @@
+{
+  "userId": 78549,
+  "cartId": "cfcd3098-9f31-415b-875b-7812c67c510e",
+  "preferredProducts": [
+    1473,
+    4492,
+    4123,
+    923,
+    4763,
+    4723,
+    1041,
+    144,
+    3084,
+    2623
+  ],
+  "productReviews": [
+    {
+      "productId": 849,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-10-19T17:17:06.5434757+03:00"
+    },
+    {
+      "productId": 2706,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-08-09T22:51:02.8089308+03:00"
+    },
+    {
+      "productId": 4589,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-11-20T15:14:15.1845083+02:00"
+    }
+  ]
+}

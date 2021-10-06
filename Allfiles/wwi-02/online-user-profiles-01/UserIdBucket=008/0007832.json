@@ -1,0 +1,42 @@
+{
+  "userId": 7832,
+  "cartId": "f70cad71-19f6-4623-a628-80f9fb74e058",
+  "preferredProducts": [
+    190,
+    472,
+    4578,
+    4111,
+    707,
+    4737,
+    1398,
+    3761,
+    4461
+  ],
+  "productReviews": [
+    {
+      "productId": 3585,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-07-07T05:02:09.9127175+03:00"
+    },
+    {
+      "productId": 385,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-10-04T00:31:11.8857539+03:00"
+    },
+    {
+      "productId": 2783,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-10-10T23:46:59.4613575+03:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2020-02-27T12:07:34.6878737+02:00"
+    },
+    {
+      "productId": 721,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-07-29T23:36:44.1299185+03:00"
+    }
+  ]
+}

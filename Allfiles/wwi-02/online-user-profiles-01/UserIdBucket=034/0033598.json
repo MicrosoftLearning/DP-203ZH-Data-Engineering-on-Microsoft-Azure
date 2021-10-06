@@ -1,0 +1,35 @@
+{
+  "userId": 33598,
+  "cartId": "733c9765-d897-4c0c-9b1b-1704b8056756",
+  "preferredProducts": [
+    3766,
+    527,
+    1908,
+    4190,
+    2568,
+    2534,
+    568
+  ],
+  "productReviews": [
+    {
+      "productId": 1056,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-09-05T09:50:50.8399146+03:00"
+    },
+    {
+      "productId": 3002,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-03-22T10:11:34.533721+02:00"
+    },
+    {
+      "productId": 3319,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-07-16T14:44:19.6857637+03:00"
+    },
+    {
+      "productId": 4643,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-09-30T09:34:53.4516861+03:00"
+    }
+  ]
+}

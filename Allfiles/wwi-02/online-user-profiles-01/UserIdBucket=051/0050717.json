@@ -1,0 +1,38 @@
+{
+  "userId": 50717,
+  "cartId": "5962c5ff-2aee-45b5-9da8-7a151f057417",
+  "preferredProducts": [
+    4075,
+    3785,
+    3338,
+    538,
+    622
+  ],
+  "productReviews": [
+    {
+      "productId": 3413,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-06-02T03:04:48.2953311+03:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-08-20T04:25:00.8532398+03:00"
+    },
+    {
+      "productId": 3672,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-08-02T10:30:41.2117786+03:00"
+    },
+    {
+      "productId": 3887,
+      "reviewText": "this HTTP is whole-grain.",
+      "reviewDate": "2016-07-31T11:36:50.4414312+03:00"
+    },
+    {
+      "productId": 2531,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-02-24T23:37:40.5371391+02:00"
+    }
+  ]
+}

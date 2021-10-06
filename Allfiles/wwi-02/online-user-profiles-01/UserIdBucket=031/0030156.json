@@ -1,0 +1,38 @@
+{
+  "userId": 30156,
+  "cartId": "9c5a5eaf-89e2-47f9-9477-afda3962fe0e",
+  "preferredProducts": [
+    4970,
+    1321,
+    3047,
+    4275,
+    3879,
+    3003,
+    4147,
+    1699,
+    1182,
+    4356
+  ],
+  "productReviews": [
+    {
+      "productId": 2903,
+      "reviewText": "this yellow is snowy.",
+      "reviewDate": "2019-12-06T11:13:37.6246847+02:00"
+    },
+    {
+      "productId": 2530,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-10-25T14:54:05.1279678+03:00"
+    },
+    {
+      "productId": 282,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-12-18T13:41:15.4289181+02:00"
+    },
+    {
+      "productId": 360,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-08-26T10:21:29.3634517+03:00"
+    }
+  ]
+}

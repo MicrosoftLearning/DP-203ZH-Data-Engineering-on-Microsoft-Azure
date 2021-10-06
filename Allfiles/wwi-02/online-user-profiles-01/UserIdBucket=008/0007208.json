@@ -1,0 +1,22 @@
+{
+  "userId": 7208,
+  "cartId": "77f33958-3302-4a2f-a2e4-efd0939c1f20",
+  "preferredProducts": [
+    3333,
+    1245,
+    3098,
+    4706
+  ],
+  "productReviews": [
+    {
+      "productId": 3182,
+      "reviewText": "this Berkshire is top-notch.",
+      "reviewDate": "2018-08-25T03:11:30.0436641+03:00"
+    },
+    {
+      "productId": 3878,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-10-08T23:30:59.2020754+03:00"
+    }
+  ]
+}

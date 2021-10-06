@@ -1,0 +1,36 @@
+{
+  "userId": 78212,
+  "cartId": "54567a65-8a65-4c8f-acce-7be8c7e301b2",
+  "preferredProducts": [
+    4082,
+    2219,
+    1116,
+    2141,
+    1709,
+    4576,
+    1724,
+    3429
+  ],
+  "productReviews": [
+    {
+      "productId": 4280,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-05-02T17:39:11.56343+03:00"
+    },
+    {
+      "productId": 1656,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-01-12T22:19:03.3802339+02:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-12-25T12:11:34.2383008+02:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-11-12T10:24:00.7102931+02:00"
+    }
+  ]
+}

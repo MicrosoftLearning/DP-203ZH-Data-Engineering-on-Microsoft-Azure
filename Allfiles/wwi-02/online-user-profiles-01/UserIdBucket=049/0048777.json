@@ -1,0 +1,37 @@
+{
+  "userId": 48777,
+  "cartId": "5b80eeee-17f1-4714-8dac-94fcbb63859d",
+  "preferredProducts": [
+    2141,
+    4167,
+    677,
+    4380
+  ],
+  "productReviews": [
+    {
+      "productId": 1872,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-03-01T10:25:27.2061031+02:00"
+    },
+    {
+      "productId": 3318,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-10-08T05:08:18.2182451+03:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-08-22T00:31:30.7014027+03:00"
+    },
+    {
+      "productId": 3621,
+      "reviewText": "this Georgia is smooth.",
+      "reviewDate": "2019-05-20T18:05:56.222173+03:00"
+    },
+    {
+      "productId": 2132,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-04-19T14:58:39.5758188+03:00"
+    }
+  ]
+}

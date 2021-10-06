@@ -1,0 +1,33 @@
+{
+  "userId": 15619,
+  "cartId": "a2e96ae6-5da9-4151-bffd-2c7f1587b56e",
+  "preferredProducts": [
+    1240,
+    2614,
+    1426,
+    2087,
+    3191,
+    3409,
+    4729,
+    2489,
+    2825,
+    1636
+  ],
+  "productReviews": [
+    {
+      "productId": 4286,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-11-14T14:31:06.1409839+02:00"
+    },
+    {
+      "productId": 3836,
+      "reviewText": "this synthesizing is top-notch.",
+      "reviewDate": "2019-01-07T16:44:16.9037348+02:00"
+    },
+    {
+      "productId": 3974,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-01-22T07:03:11.4733729+02:00"
+    }
+  ]
+}

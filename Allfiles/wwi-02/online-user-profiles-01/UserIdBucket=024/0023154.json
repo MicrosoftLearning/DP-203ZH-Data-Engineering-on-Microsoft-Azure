@@ -1,0 +1,38 @@
+{
+  "userId": 23154,
+  "cartId": "f6de5675-9471-4e96-bf65-97ad43314565",
+  "preferredProducts": [
+    4399,
+    272,
+    4366,
+    1058,
+    1544
+  ],
+  "productReviews": [
+    {
+      "productId": 2535,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-12-24T12:14:57.5626874+02:00"
+    },
+    {
+      "productId": 4056,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-10-15T19:33:29.0208818+03:00"
+    },
+    {
+      "productId": 4779,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-10-22T20:56:47.4858301+03:00"
+    },
+    {
+      "productId": 1943,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-02-21T04:27:45.2231442+02:00"
+    },
+    {
+      "productId": 536,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-07-31T01:25:59.3732633+03:00"
+    }
+  ]
+}

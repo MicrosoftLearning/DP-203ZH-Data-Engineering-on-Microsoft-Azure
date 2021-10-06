@@ -1,0 +1,27 @@
+{
+  "userId": 21346,
+  "cartId": "1fbeee57-121c-445b-aefd-8e7be6fc7f36",
+  "preferredProducts": [
+    140,
+    988,
+    4833,
+    4192
+  ],
+  "productReviews": [
+    {
+      "productId": 495,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-01-21T07:07:27.792157+02:00"
+    },
+    {
+      "productId": 4513,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-11-21T04:50:19.1362147+02:00"
+    },
+    {
+      "productId": 2353,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-03-23T13:34:26.5669481+02:00"
+    }
+  ]
+}

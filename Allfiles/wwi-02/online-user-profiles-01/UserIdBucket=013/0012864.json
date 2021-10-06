@@ -1,0 +1,30 @@
+{
+  "userId": 12864,
+  "cartId": "8dd79150-6b50-49c5-a116-44189c66e3a4",
+  "preferredProducts": [
+    4072,
+    1630,
+    2402,
+    1690,
+    3741,
+    4860,
+    4870
+  ],
+  "productReviews": [
+    {
+      "productId": 1680,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-07-02T08:53:59.4125659+03:00"
+    },
+    {
+      "productId": 4155,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-03-13T03:33:38.2515222+02:00"
+    },
+    {
+      "productId": 4761,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-08-01T02:28:33.3276705+03:00"
+    }
+  ]
+}

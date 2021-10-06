@@ -1,0 +1,33 @@
+{
+  "userId": 10794,
+  "cartId": "b3dc219a-74ae-408f-b99d-89dfafe29d98",
+  "preferredProducts": [
+    2556,
+    3292,
+    3371,
+    1544,
+    4363,
+    4801,
+    4316,
+    2780,
+    3817,
+    4068
+  ],
+  "productReviews": [
+    {
+      "productId": 786,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-11-28T15:39:48.7474307+02:00"
+    },
+    {
+      "productId": 1083,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-01-24T09:04:54.3095125+02:00"
+    },
+    {
+      "productId": 4558,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-04-13T04:16:13.9101964+03:00"
+    }
+  ]
+}

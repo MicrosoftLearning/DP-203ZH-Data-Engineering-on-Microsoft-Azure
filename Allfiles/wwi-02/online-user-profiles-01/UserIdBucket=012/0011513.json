@@ -1,0 +1,31 @@
+{
+  "userId": 11513,
+  "cartId": "2e2a405e-4435-4ee3-b701-1bd3b901b621",
+  "preferredProducts": [
+    4431,
+    681,
+    1041
+  ],
+  "productReviews": [
+    {
+      "productId": 3533,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-12-10T20:14:21.7358205+02:00"
+    },
+    {
+      "productId": 4519,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-04-08T00:34:01.8363258+03:00"
+    },
+    {
+      "productId": 3064,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2017-05-02T11:43:07.3403427+03:00"
+    },
+    {
+      "productId": 297,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-10-22T18:16:15.5387865+03:00"
+    }
+  ]
+}

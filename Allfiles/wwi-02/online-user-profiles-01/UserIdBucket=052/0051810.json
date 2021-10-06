@@ -1,0 +1,27 @@
+{
+  "userId": 51810,
+  "cartId": "73d9f437-4756-4b9e-b468-c9277183ef1c",
+  "preferredProducts": [
+    183,
+    3178,
+    587,
+    3909,
+    1294,
+    740,
+    3907,
+    4922,
+    3997
+  ],
+  "productReviews": [
+    {
+      "productId": 4867,
+      "reviewText": "This is a really good Assistant.",
+      "reviewDate": "2018-01-04T00:23:40.3551359+02:00"
+    },
+    {
+      "productId": 2310,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-11-20T07:12:51.775852+02:00"
+    }
+  ]
+}

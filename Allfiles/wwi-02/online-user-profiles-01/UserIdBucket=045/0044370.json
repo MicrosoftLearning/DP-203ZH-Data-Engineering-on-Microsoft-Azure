@@ -1,0 +1,27 @@
+{
+  "userId": 44370,
+  "cartId": "78a6e74e-ce69-4e9e-8316-bbd9012c0bfc",
+  "preferredProducts": [
+    508,
+    825,
+    1969,
+    2175
+  ],
+  "productReviews": [
+    {
+      "productId": 1836,
+      "reviewText": "this green is revolting.",
+      "reviewDate": "2018-03-20T16:43:33.8177385+02:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-07-02T01:50:05.2925331+03:00"
+    },
+    {
+      "productId": 719,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-03-05T18:04:04.7448509+02:00"
+    }
+  ]
+}

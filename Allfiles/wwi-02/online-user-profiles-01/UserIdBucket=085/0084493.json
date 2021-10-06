@@ -1,0 +1,33 @@
+{
+  "userId": 84493,
+  "cartId": "4a70db45-333a-4b38-99fe-9e6ccd112d19",
+  "preferredProducts": [
+    3178,
+    3962,
+    1677,
+    3819,
+    4255
+  ],
+  "productReviews": [
+    {
+      "productId": 3991,
+      "reviewText": "this Handmade Rubber Pizza is complimentary.",
+      "reviewDate": "2016-12-15T15:04:16.1045013+02:00"
+    },
+    {
+      "productId": 3774,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-12-09T19:37:24.5372962+02:00"
+    },
+    {
+      "productId": 144,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-01-24T19:25:28.9592496+02:00"
+    },
+    {
+      "productId": 2476,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-09-28T03:18:00.08652+03:00"
+    }
+  ]
+}

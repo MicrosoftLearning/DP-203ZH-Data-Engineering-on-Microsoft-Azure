@@ -1,0 +1,33 @@
+{
+  "userId": 42581,
+  "cartId": "fb0011b9-297f-419c-b414-a9d3d8f17b57",
+  "preferredProducts": [
+    3077,
+    1429,
+    3874,
+    4394,
+    3190,
+    1609,
+    3997,
+    524,
+    2862,
+    3092
+  ],
+  "productReviews": [
+    {
+      "productId": 1763,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-08-20T18:07:56.2123368+03:00"
+    },
+    {
+      "productId": 1297,
+      "reviewText": "This XML works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2017-10-17T08:22:43.6144505+03:00"
+    },
+    {
+      "productId": 3063,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-03-30T15:07:54.2074225+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 20175,
+  "cartId": "bb2d9c46-11a0-49b7-b3f4-3654ed0446ac",
+  "preferredProducts": [
+    2615,
+    3080
+  ],
+  "productReviews": [
+    {
+      "productId": 3237,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-08-18T04:06:08.7084978+03:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-11-22T22:06:17.4234764+02:00"
+    },
+    {
+      "productId": 4560,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-07-05T23:35:48.3278465+03:00"
+    },
+    {
+      "productId": 628,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-08-02T23:11:59.6751681+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 15286,
+  "cartId": "3a0d877b-42f6-4e25-b4fd-6ce3d95c923f",
+  "preferredProducts": [
+    904,
+    184,
+    1446
+  ],
+  "productReviews": [
+    {
+      "productId": 4457,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-01-06T20:33:40.9972882+02:00"
+    },
+    {
+      "productId": 4885,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-05-09T10:41:41.5330116+03:00"
+    },
+    {
+      "productId": 3552,
+      "reviewText": "this Shores is light-hearted.",
+      "reviewDate": "2017-12-14T08:41:56.0203068+02:00"
+    },
+    {
+      "productId": 4529,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-07-08T06:13:00.3048235+03:00"
+    }
+  ]
+}

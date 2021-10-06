@@ -1,0 +1,42 @@
+{
+  "userId": 33847,
+  "cartId": "7dfd935a-cb2a-41e5-a686-b7e801791b88",
+  "preferredProducts": [
+    1383,
+    2719,
+    699,
+    537,
+    4852,
+    1649,
+    1563,
+    4006,
+    988
+  ],
+  "productReviews": [
+    {
+      "productId": 551,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-03-08T14:44:28.5024701+02:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "This maroon works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-03-29T23:30:10.5064244+02:00"
+    },
+    {
+      "productId": 4297,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-12-31T16:20:53.9275146+02:00"
+    },
+    {
+      "productId": 4450,
+      "reviewText": "This XSS works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2016-07-23T18:09:24.9062063+03:00"
+    },
+    {
+      "productId": 2473,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-06-30T19:54:52.8548706+03:00"
+    }
+  ]
+}

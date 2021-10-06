@@ -1,0 +1,30 @@
+{
+  "userId": 7646,
+  "cartId": "8f561dfa-aa99-42d1-bbd2-4b7c7014376c",
+  "preferredProducts": [
+    2793,
+    569
+  ],
+  "productReviews": [
+    {
+      "productId": 1257,
+      "reviewText": "this Response is revolting.",
+      "reviewDate": "2020-01-09T19:57:48.7107874+02:00"
+    },
+    {
+      "productId": 676,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-05-25T05:53:43.0231759+03:00"
+    },
+    {
+      "productId": 3157,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-12-18T05:28:39.3091864+02:00"
+    },
+    {
+      "productId": 4102,
+      "reviewText": "this SSL is hyper.",
+      "reviewDate": "2019-05-03T21:57:39.6091186+03:00"
+    }
+  ]
+}

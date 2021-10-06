@@ -1,0 +1,31 @@
+{
+  "userId": 97564,
+  "cartId": "9517efd3-e61f-43d5-b18b-11e6cbb72edf",
+  "preferredProducts": [
+    4761,
+    4146,
+    4165,
+    4308,
+    1089,
+    4037,
+    3165,
+    2019
+  ],
+  "productReviews": [
+    {
+      "productId": 2683,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-02-23T22:41:13.3600663+02:00"
+    },
+    {
+      "productId": 4936,
+      "reviewText": "This invoice works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-12-08T06:08:51.2985874+02:00"
+    },
+    {
+      "productId": 1692,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-12-24T23:20:51.2540008+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 4724,
+  "cartId": "4f4e1665-2d1f-4c13-b027-b3ad6c240cef",
+  "preferredProducts": [
+    335,
+    4225,
+    4000,
+    4710,
+    1198
+  ],
+  "productReviews": [
+    {
+      "productId": 3822,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-10-28T15:12:58.3102585+03:00"
+    },
+    {
+      "productId": 3924,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-02-02T12:36:32.1987955+02:00"
+    },
+    {
+      "productId": 4354,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-05-30T02:12:38.6756913+03:00"
+    },
+    {
+      "productId": 1733,
+      "reviewText": "This COM works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-07-23T12:59:43.4168048+03:00"
+    }
+  ]
+}

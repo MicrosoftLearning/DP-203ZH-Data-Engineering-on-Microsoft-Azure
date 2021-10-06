@@ -1,0 +1,40 @@
+{
+  "userId": 966,
+  "cartId": "4e1690fc-e99d-4ce0-9567-3550f5c854fe",
+  "preferredProducts": [
+    3242,
+    3623,
+    462,
+    154,
+    4219,
+    1237,
+    3590
+  ],
+  "productReviews": [
+    {
+      "productId": 1735,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-03-18T17:10:36.2043612+02:00"
+    },
+    {
+      "productId": 1119,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-06-29T14:06:29.2973958+03:00"
+    },
+    {
+      "productId": 2138,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-07-26T04:55:52.6696164+03:00"
+    },
+    {
+      "productId": 998,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-02-18T23:52:45.303565+02:00"
+    },
+    {
+      "productId": 1422,
+      "reviewText": "this Investment Account is whole-grain.",
+      "reviewDate": "2016-09-21T11:13:11.8077909+03:00"
+    }
+  ]
+}

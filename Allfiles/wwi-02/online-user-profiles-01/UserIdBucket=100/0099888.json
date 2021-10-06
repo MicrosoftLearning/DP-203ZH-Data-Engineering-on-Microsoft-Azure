@@ -1,0 +1,43 @@
+{
+  "userId": 99888,
+  "cartId": "33ca4736-ebeb-41cd-879d-c75bc9f4b450",
+  "preferredProducts": [
+    706,
+    4723,
+    4182,
+    507,
+    1098,
+    3931,
+    2329,
+    3026,
+    3411,
+    3530
+  ],
+  "productReviews": [
+    {
+      "productId": 3491,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-06-08T13:58:48.590797+03:00"
+    },
+    {
+      "productId": 4939,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-07-31T21:19:08.4532684+03:00"
+    },
+    {
+      "productId": 2123,
+      "reviewText": "this Liaison is revolting.",
+      "reviewDate": "2019-09-04T15:42:06.1992391+03:00"
+    },
+    {
+      "productId": 4549,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-05-29T05:39:14.240654+03:00"
+    },
+    {
+      "productId": 278,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2020-01-22T00:54:26.6972497+02:00"
+    }
+  ]
+}

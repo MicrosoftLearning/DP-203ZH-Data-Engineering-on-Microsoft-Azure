@@ -1,0 +1,28 @@
+{
+  "userId": 83022,
+  "cartId": "39d12b3f-29dd-4861-b156-7fa08fb69e1f",
+  "preferredProducts": [
+    1157,
+    3465,
+    2894,
+    2649,
+    1502
+  ],
+  "productReviews": [
+    {
+      "productId": 1278,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-09-08T02:30:41.3988889+03:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-02-21T14:51:04.7617858+02:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-06-05T21:22:06.0865261+03:00"
+    }
+  ]
+}

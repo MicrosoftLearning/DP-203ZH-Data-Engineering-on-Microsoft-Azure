@@ -1,0 +1,28 @@
+{
+  "userId": 75555,
+  "cartId": "e7c71c4b-7fb3-42fc-8784-ebda65c07af3",
+  "preferredProducts": [
+    1337,
+    3341,
+    1235,
+    4408,
+    3034
+  ],
+  "productReviews": [
+    {
+      "productId": 3871,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-11-13T03:55:51.8479463+02:00"
+    },
+    {
+      "productId": 3136,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-11-21T13:06:50.6217435+02:00"
+    },
+    {
+      "productId": 4581,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-04-18T03:10:15.8918425+03:00"
+    }
+  ]
+}

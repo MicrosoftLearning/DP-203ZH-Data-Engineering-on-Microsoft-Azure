@@ -1,0 +1,25 @@
+{
+  "userId": 42080,
+  "cartId": "4e7231dd-5102-4289-82e5-91ae6fe5ebf8",
+  "preferredProducts": [
+    3186,
+    397
+  ],
+  "productReviews": [
+    {
+      "productId": 1382,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-04-19T10:59:24.9629551+03:00"
+    },
+    {
+      "productId": 899,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2019-05-27T07:33:08.6657772+03:00"
+    },
+    {
+      "productId": 3192,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-12-05T08:08:37.8712523+02:00"
+    }
+  ]
+}

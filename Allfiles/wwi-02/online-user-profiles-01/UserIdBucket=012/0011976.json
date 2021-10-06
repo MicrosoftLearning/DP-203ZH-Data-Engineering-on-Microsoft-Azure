@@ -1,0 +1,33 @@
+{
+  "userId": 11976,
+  "cartId": "4e9c4679-be63-4930-a09f-69e0fa3fef62",
+  "preferredProducts": [
+    2362,
+    2315,
+    1370,
+    1588,
+    4986
+  ],
+  "productReviews": [
+    {
+      "productId": 2446,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-05-11T03:58:56.1421914+03:00"
+    },
+    {
+      "productId": 3141,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-12-01T11:17:24.7458389+02:00"
+    },
+    {
+      "productId": 4881,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-06-04T00:29:10.8750357+03:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-01-07T23:24:58.2868015+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 8472,
+  "cartId": "e4ab918d-4e18-4b91-90a9-1ea6ef5df97a",
+  "preferredProducts": [
+    1483,
+    3874,
+    681,
+    814,
+    1282,
+    662,
+    4310
+  ],
+  "productReviews": [
+    {
+      "productId": 1022,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-11-03T18:36:58.3865841+02:00"
+    },
+    {
+      "productId": 2092,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-05-12T22:19:10.1447502+03:00"
+    },
+    {
+      "productId": 1675,
+      "reviewText": "This Swiss Franc works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-10-11T03:50:06.4930271+03:00"
+    }
+  ]
+}

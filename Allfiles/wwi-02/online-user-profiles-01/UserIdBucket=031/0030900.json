@@ -1,0 +1,42 @@
+{
+  "userId": 30900,
+  "cartId": "87056caa-35a4-4812-8c95-cb18cd1813b9",
+  "preferredProducts": [
+    1016,
+    3421,
+    1314,
+    1027,
+    3391,
+    1523,
+    625,
+    1209,
+    2034
+  ],
+  "productReviews": [
+    {
+      "productId": 823,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-01-16T13:02:56.6454462+02:00"
+    },
+    {
+      "productId": 2108,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-03-11T02:21:05.768193+02:00"
+    },
+    {
+      "productId": 3930,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-04-20T03:52:49.555768+03:00"
+    },
+    {
+      "productId": 4726,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-09-03T17:21:50.590714+03:00"
+    },
+    {
+      "productId": 3898,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-03-17T23:31:28.2926034+02:00"
+    }
+  ]
+}

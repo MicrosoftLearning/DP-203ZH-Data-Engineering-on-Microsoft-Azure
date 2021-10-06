@@ -1,0 +1,32 @@
+{
+  "userId": 1909,
+  "cartId": "85a0fcf6-a152-4d8a-93c7-5f5a1cd1f2cf",
+  "preferredProducts": [
+    2691,
+    3456,
+    1892,
+    2336
+  ],
+  "productReviews": [
+    {
+      "productId": 1846,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-05-09T04:26:46.0557131+03:00"
+    },
+    {
+      "productId": 4359,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-12-14T13:29:32.0315471+02:00"
+    },
+    {
+      "productId": 3678,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-06-30T20:08:03.5861124+03:00"
+    },
+    {
+      "productId": 1236,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-03-30T17:55:49.8427031+03:00"
+    }
+  ]
+}

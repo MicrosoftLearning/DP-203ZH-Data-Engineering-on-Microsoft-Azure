@@ -1,0 +1,23 @@
+{
+  "userId": 4922,
+  "cartId": "7f3592ac-b252-4cd0-9333-db6cc8635d0a",
+  "preferredProducts": [
+    222,
+    416,
+    2041,
+    3626,
+    4342
+  ],
+  "productReviews": [
+    {
+      "productId": 3594,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-08-29T07:35:58.6974925+03:00"
+    },
+    {
+      "productId": 4774,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-10-27T14:37:07.3548621+03:00"
+    }
+  ]
+}

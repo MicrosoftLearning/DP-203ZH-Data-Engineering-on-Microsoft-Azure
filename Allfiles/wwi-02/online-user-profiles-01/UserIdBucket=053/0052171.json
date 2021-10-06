@@ -1,0 +1,31 @@
+{
+  "userId": 52171,
+  "cartId": "f738f9a6-0692-48d2-a4bd-7189bab0258f",
+  "preferredProducts": [
+    2357,
+    280,
+    1056,
+    826,
+    532,
+    2563,
+    3717,
+    517
+  ],
+  "productReviews": [
+    {
+      "productId": 4033,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-07-20T16:21:11.1387982+03:00"
+    },
+    {
+      "productId": 15,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-01-18T05:42:34.0436262+02:00"
+    },
+    {
+      "productId": 4817,
+      "reviewText": "This Integration works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-08-16T01:38:12.5797976+03:00"
+    }
+  ]
+}

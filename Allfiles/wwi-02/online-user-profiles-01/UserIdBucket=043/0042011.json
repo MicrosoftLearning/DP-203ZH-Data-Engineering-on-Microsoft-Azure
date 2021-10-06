@@ -1,0 +1,33 @@
+{
+  "userId": 42011,
+  "cartId": "6ad668df-06f3-41ab-9835-3c333a9b0cc3",
+  "preferredProducts": [
+    1362,
+    1187,
+    4857,
+    2715,
+    4397,
+    430,
+    2633,
+    691,
+    920,
+    1433
+  ],
+  "productReviews": [
+    {
+      "productId": 3934,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-04-28T17:44:39.3264843+03:00"
+    },
+    {
+      "productId": 1030,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-08-28T06:33:04.765591+03:00"
+    },
+    {
+      "productId": 2512,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-01-01T16:11:44.8939631+02:00"
+    }
+  ]
+}

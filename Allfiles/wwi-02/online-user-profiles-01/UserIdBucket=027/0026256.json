@@ -1,0 +1,27 @@
+{
+  "userId": 26256,
+  "cartId": "c1433365-203b-4c7e-b0bf-8e0d773f1556",
+  "preferredProducts": [
+    987,
+    3963,
+    3671,
+    407
+  ],
+  "productReviews": [
+    {
+      "productId": 4061,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-02-08T06:50:55.4682543+02:00"
+    },
+    {
+      "productId": 4332,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-01-23T16:18:49.7754739+02:00"
+    },
+    {
+      "productId": 902,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-09-25T06:27:10.9185221+03:00"
+    }
+  ]
+}

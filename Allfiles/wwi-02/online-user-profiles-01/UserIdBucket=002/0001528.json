@@ -1,0 +1,38 @@
+{
+  "userId": 1528,
+  "cartId": "faddaec9-2547-40c1-bc87-dcd3bdbf30a9",
+  "preferredProducts": [
+    4958,
+    784,
+    872,
+    4015,
+    668,
+    4720,
+    3470,
+    4542,
+    1863,
+    1888
+  ],
+  "productReviews": [
+    {
+      "productId": 4108,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-01-23T13:48:43.4716456+02:00"
+    },
+    {
+      "productId": 841,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-06-02T14:04:37.9559169+03:00"
+    },
+    {
+      "productId": 2734,
+      "reviewText": "this global is revolting.",
+      "reviewDate": "2019-06-11T06:25:48.0549003+03:00"
+    },
+    {
+      "productId": 2707,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-09-23T21:41:37.2659564+03:00"
+    }
+  ]
+}

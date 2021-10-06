@@ -1,0 +1,33 @@
+{
+  "userId": 3780,
+  "cartId": "0dced03d-8965-4209-930a-9a3638198db4",
+  "preferredProducts": [
+    3173,
+    2137,
+    2327,
+    3229,
+    2004
+  ],
+  "productReviews": [
+    {
+      "productId": 4724,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-06-05T18:18:45.2545626+03:00"
+    },
+    {
+      "productId": 24,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-06-16T23:49:33.7235841+03:00"
+    },
+    {
+      "productId": 4299,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-08-01T10:12:24.0581037+03:00"
+    },
+    {
+      "productId": 4876,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-11-29T18:26:10.4543754+02:00"
+    }
+  ]
+}

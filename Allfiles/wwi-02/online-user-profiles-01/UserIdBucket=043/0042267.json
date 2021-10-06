@@ -1,0 +1,33 @@
+{
+  "userId": 42267,
+  "cartId": "9030bcfd-dbf3-4d35-a36e-3e840e1962b2",
+  "preferredProducts": [
+    682,
+    4194,
+    2415,
+    1199,
+    3360
+  ],
+  "productReviews": [
+    {
+      "productId": 2897,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-08-24T22:56:30.0316008+03:00"
+    },
+    {
+      "productId": 4389,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-01-11T16:56:05.8131069+02:00"
+    },
+    {
+      "productId": 2948,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-05-28T01:40:09.4068541+03:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-05-31T13:22:20.8756814+03:00"
+    }
+  ]
+}

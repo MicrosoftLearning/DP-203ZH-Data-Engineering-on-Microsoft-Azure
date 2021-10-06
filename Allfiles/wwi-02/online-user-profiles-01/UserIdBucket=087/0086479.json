@@ -1,0 +1,30 @@
+{
+  "userId": 86479,
+  "cartId": "711e4220-3c66-4ba1-8270-5ac7609f4a76",
+  "preferredProducts": [
+    960,
+    4067
+  ],
+  "productReviews": [
+    {
+      "productId": 4680,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-08-16T22:53:23.2607943+03:00"
+    },
+    {
+      "productId": 3689,
+      "reviewText": "This matrix works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-12-02T15:56:31.7975434+02:00"
+    },
+    {
+      "productId": 2765,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-12-09T10:50:31.0353338+02:00"
+    },
+    {
+      "productId": 1075,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-06-13T19:55:56.0381406+03:00"
+    }
+  ]
+}

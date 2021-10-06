@@ -1,0 +1,30 @@
+{
+  "userId": 12823,
+  "cartId": "ed95e4b9-3d6f-4d84-8029-5cd7bff6035c",
+  "preferredProducts": [
+    4819,
+    1590,
+    3571,
+    4256,
+    1067,
+    2047,
+    4429
+  ],
+  "productReviews": [
+    {
+      "productId": 2016,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-08-11T23:54:46.788376+03:00"
+    },
+    {
+      "productId": 2786,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-02-09T03:41:21.2071857+02:00"
+    },
+    {
+      "productId": 3024,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-04-20T06:13:37.358727+03:00"
+    }
+  ]
+}

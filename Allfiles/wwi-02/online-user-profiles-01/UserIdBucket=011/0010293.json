@@ -1,0 +1,31 @@
+{
+  "userId": 10293,
+  "cartId": "8de1d945-313a-4058-a049-6845a5aa27ba",
+  "preferredProducts": [
+    4436,
+    1471,
+    1084
+  ],
+  "productReviews": [
+    {
+      "productId": 2167,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-12-24T02:39:50.9294177+02:00"
+    },
+    {
+      "productId": 1252,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-07-30T20:20:16.976126+03:00"
+    },
+    {
+      "productId": 1836,
+      "reviewText": "this strategic is awesome.",
+      "reviewDate": "2018-01-08T10:46:12.0679128+02:00"
+    },
+    {
+      "productId": 4559,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-08-12T02:54:08.597672+03:00"
+    }
+  ]
+}

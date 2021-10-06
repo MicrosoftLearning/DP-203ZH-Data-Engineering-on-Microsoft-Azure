@@ -1,0 +1,37 @@
+{
+  "userId": 21901,
+  "cartId": "58d48107-f489-4f81-954d-1b52a9eaed22",
+  "preferredProducts": [
+    1969,
+    2905,
+    1524,
+    2809,
+    2795,
+    4369,
+    2853,
+    4623,
+    3550
+  ],
+  "productReviews": [
+    {
+      "productId": 4944,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-11-09T05:28:47.7808691+02:00"
+    },
+    {
+      "productId": 2197,
+      "reviewText": "this PCI is whole-grain.",
+      "reviewDate": "2017-06-17T04:04:15.6986709+03:00"
+    },
+    {
+      "productId": 2130,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-03-10T22:30:51.4612835+02:00"
+    },
+    {
+      "productId": 4267,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-10-06T05:45:52.8114554+03:00"
+    }
+  ]
+}

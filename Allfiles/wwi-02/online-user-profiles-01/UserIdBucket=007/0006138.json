@@ -1,0 +1,31 @@
+{
+  "userId": 6138,
+  "cartId": "8c1c7eb0-8a5c-4ecc-9428-855dee368e11",
+  "preferredProducts": [
+    1343,
+    17,
+    3005,
+    775,
+    1428,
+    1113,
+    3336,
+    656
+  ],
+  "productReviews": [
+    {
+      "productId": 3236,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-04-07T18:38:36.6730603+03:00"
+    },
+    {
+      "productId": 1542,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-12-08T17:20:33.2248827+02:00"
+    },
+    {
+      "productId": 1756,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-07-10T10:17:55.9732355+03:00"
+    }
+  ]
+}

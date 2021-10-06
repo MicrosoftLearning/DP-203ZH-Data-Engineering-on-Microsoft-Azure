@@ -1,0 +1,32 @@
+{
+  "userId": 51500,
+  "cartId": "b38840e4-0f0d-4878-b629-48541d1bd677",
+  "preferredProducts": [
+    3560,
+    318,
+    3359,
+    133
+  ],
+  "productReviews": [
+    {
+      "productId": 2614,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-02-23T15:50:06.8480537+02:00"
+    },
+    {
+      "productId": 2404,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-08-20T21:49:57.8809955+03:00"
+    },
+    {
+      "productId": 2169,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-02-13T05:57:07.3042851+02:00"
+    },
+    {
+      "productId": 1114,
+      "reviewText": "this Guatemala is light-hearted.",
+      "reviewDate": "2017-12-04T20:44:46.0756647+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 45911,
+  "cartId": "531ab8cc-9bc8-4b3a-928a-13bfc47b33ea",
+  "preferredProducts": [
+    3351,
+    1743
+  ],
+  "productReviews": [
+    {
+      "productId": 1314,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-01-03T14:10:17.2851087+02:00"
+    },
+    {
+      "productId": 1139,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-13T16:18:07.3144604+02:00"
+    },
+    {
+      "productId": 298,
+      "reviewText": "this quantify is complimentary.",
+      "reviewDate": "2017-12-21T17:24:41.913237+02:00"
+    },
+    {
+      "productId": 4017,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-05-09T14:27:52.6997676+03:00"
+    }
+  ]
+}

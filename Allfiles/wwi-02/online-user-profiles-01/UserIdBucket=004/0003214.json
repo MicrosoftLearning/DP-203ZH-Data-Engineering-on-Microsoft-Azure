@@ -1,0 +1,23 @@
+{
+  "userId": 3214,
+  "cartId": "d4ff05e5-4c1d-4c51-9544-6b4d0ed67a9d",
+  "preferredProducts": [
+    2077,
+    2501,
+    679,
+    2154,
+    1495
+  ],
+  "productReviews": [
+    {
+      "productId": 4542,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-08-06T09:39:32.7841768+03:00"
+    },
+    {
+      "productId": 2370,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-05-12T20:30:18.484025+03:00"
+    }
+  ]
+}

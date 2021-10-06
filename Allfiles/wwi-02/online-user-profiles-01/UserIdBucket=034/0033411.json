@@ -1,0 +1,37 @@
+{
+  "userId": 33411,
+  "cartId": "ce318f02-b1ed-46dc-af07-5be12fa2ddb5",
+  "preferredProducts": [
+    420,
+    3409,
+    3762,
+    1693,
+    3502,
+    4625,
+    3612,
+    2391,
+    3199
+  ],
+  "productReviews": [
+    {
+      "productId": 4147,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-07-23T07:27:08.8940525+03:00"
+    },
+    {
+      "productId": 3099,
+      "reviewText": "This web-enabled works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-01-28T13:20:57.8424513+02:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-03-07T22:13:47.7702116+02:00"
+    },
+    {
+      "productId": 1859,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-07-15T23:32:48.7037906+03:00"
+    }
+  ]
+}

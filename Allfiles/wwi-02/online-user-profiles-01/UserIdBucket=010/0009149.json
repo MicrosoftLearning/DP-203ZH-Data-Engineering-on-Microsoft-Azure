@@ -1,0 +1,36 @@
+{
+  "userId": 9149,
+  "cartId": "3b801991-ce1c-4e9d-8bc9-4d4e68c575fb",
+  "preferredProducts": [
+    4723,
+    116,
+    54,
+    179,
+    4157,
+    4202,
+    3321,
+    2354
+  ],
+  "productReviews": [
+    {
+      "productId": 4763,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2020-02-12T07:10:52.5047935+02:00"
+    },
+    {
+      "productId": 4436,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-02-16T18:22:59.051126+02:00"
+    },
+    {
+      "productId": 3043,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-04-24T12:25:43.5398667+03:00"
+    },
+    {
+      "productId": 428,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-30T15:52:16.1814083+02:00"
+    }
+  ]
+}

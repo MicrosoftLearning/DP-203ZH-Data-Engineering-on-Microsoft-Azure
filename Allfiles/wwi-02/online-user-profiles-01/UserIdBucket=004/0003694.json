@@ -1,0 +1,37 @@
+{
+  "userId": 3694,
+  "cartId": "29d2b52b-8989-44b4-a21a-52f6c0562b3b",
+  "preferredProducts": [
+    3371,
+    1356,
+    2627,
+    4823
+  ],
+  "productReviews": [
+    {
+      "productId": 4520,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-06-28T21:16:12.6488363+03:00"
+    },
+    {
+      "productId": 3641,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-05-15T02:27:53.2938272+03:00"
+    },
+    {
+      "productId": 4704,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-03-07T06:58:30.792126+02:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-10-10T20:30:00.7698168+03:00"
+    },
+    {
+      "productId": 2218,
+      "reviewText": "This e-enable works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2020-02-19T09:06:33.2730597+02:00"
+    }
+  ]
+}

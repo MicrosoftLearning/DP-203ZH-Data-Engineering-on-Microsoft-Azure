@@ -1,0 +1,37 @@
+{
+  "userId": 99036,
+  "cartId": "a389ebba-b82e-415f-82be-fce91380e2d2",
+  "preferredProducts": [
+    4860,
+    2187,
+    2451,
+    1074,
+    1808,
+    3369,
+    2222,
+    2293,
+    1498
+  ],
+  "productReviews": [
+    {
+      "productId": 1539,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-10-17T23:55:05.9173275+03:00"
+    },
+    {
+      "productId": 1310,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-03-18T20:40:32.0804329+02:00"
+    },
+    {
+      "productId": 1455,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-05-09T03:02:19.1649764+03:00"
+    },
+    {
+      "productId": 2824,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-11-03T09:01:49.7584704+02:00"
+    }
+  ]
+}

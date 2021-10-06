@@ -1,0 +1,32 @@
+{
+  "userId": 754,
+  "cartId": "0784b0bf-d977-4b23-854a-4258688887f5",
+  "preferredProducts": [
+    792,
+    3810,
+    3729,
+    2407
+  ],
+  "productReviews": [
+    {
+      "productId": 2717,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-09-03T04:12:39.2596145+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "this input is whole-grain.",
+      "reviewDate": "2018-05-14T10:37:46.7317621+03:00"
+    },
+    {
+      "productId": 650,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-01-19T11:11:06.8122878+02:00"
+    },
+    {
+      "productId": 4909,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-01-19T07:22:08.1590232+02:00"
+    }
+  ]
+}

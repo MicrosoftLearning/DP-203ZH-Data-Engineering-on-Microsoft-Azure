@@ -1,0 +1,33 @@
+{
+  "userId": 37216,
+  "cartId": "b3b38652-aed4-4cf4-ada2-2a22e144e4d9",
+  "preferredProducts": [
+    4096,
+    4381,
+    3767,
+    2165,
+    1715,
+    35,
+    4030,
+    3643,
+    4518,
+    591
+  ],
+  "productReviews": [
+    {
+      "productId": 2595,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-11-11T20:18:41.539451+02:00"
+    },
+    {
+      "productId": 3780,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-11-20T04:17:25.3344325+02:00"
+    },
+    {
+      "productId": 2363,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-09-14T05:28:36.3145312+03:00"
+    }
+  ]
+}

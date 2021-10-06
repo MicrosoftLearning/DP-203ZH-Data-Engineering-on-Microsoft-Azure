@@ -1,0 +1,35 @@
+{
+  "userId": 9301,
+  "cartId": "8c3e68c7-dd12-4246-bcdf-f3900293e21c",
+  "preferredProducts": [
+    1666,
+    2690
+  ],
+  "productReviews": [
+    {
+      "productId": 2405,
+      "reviewText": "this Granite is gracious.",
+      "reviewDate": "2018-12-01T19:24:22.9354945+02:00"
+    },
+    {
+      "productId": 4755,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-08-22T03:55:31.3079934+03:00"
+    },
+    {
+      "productId": 1246,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-07-31T11:29:31.9446099+03:00"
+    },
+    {
+      "productId": 4413,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-10-03T05:19:59.9538617+03:00"
+    },
+    {
+      "productId": 2586,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-06-26T06:09:36.6757926+03:00"
+    }
+  ]
+}

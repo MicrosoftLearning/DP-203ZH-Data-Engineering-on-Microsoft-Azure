@@ -1,0 +1,27 @@
+{
+  "userId": 85648,
+  "cartId": "02faea63-a8ba-4f2a-b419-b90e43c49cda",
+  "preferredProducts": [
+    4411,
+    1304,
+    2485,
+    1651
+  ],
+  "productReviews": [
+    {
+      "productId": 1762,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-05-12T02:13:47.8971711+03:00"
+    },
+    {
+      "productId": 1275,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-09-19T00:50:05.0135786+03:00"
+    },
+    {
+      "productId": 2165,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-11-28T14:40:12.5489183+02:00"
+    }
+  ]
+}

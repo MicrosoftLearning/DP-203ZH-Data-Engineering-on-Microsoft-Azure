@@ -1,0 +1,32 @@
+{
+  "userId": 42550,
+  "cartId": "893d6833-666e-43a0-bd66-47652c352530",
+  "preferredProducts": [
+    145,
+    755,
+    4739,
+    3913
+  ],
+  "productReviews": [
+    {
+      "productId": 3801,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-07-17T05:03:17.3812074+03:00"
+    },
+    {
+      "productId": 3588,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-07-08T18:02:19.5859738+03:00"
+    },
+    {
+      "productId": 2354,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-01-23T10:35:17.8843742+02:00"
+    },
+    {
+      "productId": 1425,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-05-10T17:41:54.7584535+03:00"
+    }
+  ]
+}

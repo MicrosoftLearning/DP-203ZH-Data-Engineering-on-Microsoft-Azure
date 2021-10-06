@@ -1,0 +1,31 @@
+{
+  "userId": 20447,
+  "cartId": "c596c432-c6c9-4d46-80b5-052ce940a46b",
+  "preferredProducts": [
+    2753,
+    3216,
+    4555,
+    3512,
+    2483,
+    2019,
+    2342,
+    2640
+  ],
+  "productReviews": [
+    {
+      "productId": 1381,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-11-25T16:36:41.7137434+02:00"
+    },
+    {
+      "productId": 1692,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-04-17T04:24:14.480086+03:00"
+    },
+    {
+      "productId": 4782,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-01-26T20:28:08.0197498+02:00"
+    }
+  ]
+}

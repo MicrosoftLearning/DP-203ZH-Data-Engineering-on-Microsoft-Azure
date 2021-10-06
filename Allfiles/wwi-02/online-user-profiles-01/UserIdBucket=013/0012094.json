@@ -1,0 +1,32 @@
+{
+  "userId": 12094,
+  "cartId": "826e571a-29f1-493c-baa2-ac0da7d7fb49",
+  "preferredProducts": [
+    1088,
+    116,
+    4529,
+    1292
+  ],
+  "productReviews": [
+    {
+      "productId": 419,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-04-26T17:46:07.1160508+03:00"
+    },
+    {
+      "productId": 2660,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-01-23T21:53:38.9650247+02:00"
+    },
+    {
+      "productId": 1469,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-05-21T11:53:50.8522123+03:00"
+    },
+    {
+      "productId": 3463,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-06-16T20:05:03.1766641+03:00"
+    }
+  ]
+}

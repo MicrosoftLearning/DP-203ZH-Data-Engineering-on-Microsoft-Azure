@@ -1,0 +1,31 @@
+{
+  "userId": 10020,
+  "cartId": "d8912817-b757-4e55-915a-b2e8250752fa",
+  "preferredProducts": [
+    4247,
+    2997,
+    3104,
+    4013,
+    2984,
+    1958,
+    1262,
+    1683
+  ],
+  "productReviews": [
+    {
+      "productId": 2501,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-11-29T01:42:52.5969109+02:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-11-30T01:15:56.9267116+02:00"
+    },
+    {
+      "productId": 3069,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-09-08T09:35:07.6800312+03:00"
+    }
+  ]
+}

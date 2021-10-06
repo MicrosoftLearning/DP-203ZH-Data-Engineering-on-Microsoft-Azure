@@ -1,0 +1,25 @@
+{
+  "userId": 86446,
+  "cartId": "4cc6b696-4680-4190-9522-c340970dade2",
+  "preferredProducts": [
+    3825,
+    2023
+  ],
+  "productReviews": [
+    {
+      "productId": 2533,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-01-06T23:00:57.3819838+02:00"
+    },
+    {
+      "productId": 4641,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-04-10T12:50:28.4286966+03:00"
+    },
+    {
+      "productId": 1712,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-08-05T07:54:42.9633692+03:00"
+    }
+  ]
+}

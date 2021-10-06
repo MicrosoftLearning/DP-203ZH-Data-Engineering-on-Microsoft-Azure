@@ -1,0 +1,23 @@
+{
+  "userId": 70779,
+  "cartId": "5fbbd74f-d346-415c-ab2e-d1f3698ee40e",
+  "preferredProducts": [
+    4704,
+    2532,
+    1885,
+    4934,
+    3573
+  ],
+  "productReviews": [
+    {
+      "productId": 631,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-04-01T19:32:35.6004288+03:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-08-02T00:24:19.4210816+03:00"
+    }
+  ]
+}

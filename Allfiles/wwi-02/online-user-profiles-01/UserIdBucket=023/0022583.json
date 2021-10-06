@@ -1,0 +1,30 @@
+{
+  "userId": 22583,
+  "cartId": "a5127898-4d5f-45a2-aab5-6131ebcbe0ac",
+  "preferredProducts": [
+    2577,
+    3033
+  ],
+  "productReviews": [
+    {
+      "productId": 1884,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-12-28T22:20:02.5234412+02:00"
+    },
+    {
+      "productId": 621,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-02-29T12:36:47.8090423+02:00"
+    },
+    {
+      "productId": 1188,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-02-14T14:42:49.0529285+02:00"
+    },
+    {
+      "productId": 2535,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-12-31T04:02:46.5572475+02:00"
+    }
+  ]
+}

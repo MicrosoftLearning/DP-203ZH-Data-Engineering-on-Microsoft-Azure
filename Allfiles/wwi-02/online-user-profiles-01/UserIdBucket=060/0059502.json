@@ -1,0 +1,26 @@
+{
+  "userId": 59502,
+  "cartId": "49715f01-70c4-4de1-952a-fec39ba808f4",
+  "preferredProducts": [
+    3296,
+    2065,
+    3638
+  ],
+  "productReviews": [
+    {
+      "productId": 3525,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-12-24T18:14:28.3090295+02:00"
+    },
+    {
+      "productId": 4256,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-01-04T00:10:16.6939603+02:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-05-03T20:19:47.0601645+03:00"
+    }
+  ]
+}

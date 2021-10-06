@@ -1,0 +1,38 @@
+{
+  "userId": 42741,
+  "cartId": "44f296db-815b-402c-b1f2-b21c4eac9c89",
+  "preferredProducts": [
+    1878,
+    3075,
+    2879,
+    2004,
+    3794,
+    1226,
+    4553,
+    4566,
+    3549,
+    4704
+  ],
+  "productReviews": [
+    {
+      "productId": 2858,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-06-08T17:06:24.3481013+03:00"
+    },
+    {
+      "productId": 425,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-11-15T16:09:41.3192533+02:00"
+    },
+    {
+      "productId": 4497,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-06-13T07:04:51.0192285+03:00"
+    },
+    {
+      "productId": 4592,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-09-02T19:39:05.6101223+03:00"
+    }
+  ]
+}

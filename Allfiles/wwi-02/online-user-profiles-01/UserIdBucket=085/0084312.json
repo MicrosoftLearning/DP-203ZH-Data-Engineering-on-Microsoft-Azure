@@ -1,0 +1,32 @@
+{
+  "userId": 84312,
+  "cartId": "4e77c91b-0c6f-430a-b15a-c3bda0a96d44",
+  "preferredProducts": [
+    2987,
+    3841,
+    3934,
+    1773,
+    3674,
+    1874,
+    3579,
+    1001,
+    2580
+  ],
+  "productReviews": [
+    {
+      "productId": 4099,
+      "reviewText": "This is a really good invoice.",
+      "reviewDate": "2016-06-25T05:22:26.5028011+03:00"
+    },
+    {
+      "productId": 434,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-05-25T19:09:43.2544114+03:00"
+    },
+    {
+      "productId": 1113,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-05-22T17:47:11.713618+03:00"
+    }
+  ]
+}

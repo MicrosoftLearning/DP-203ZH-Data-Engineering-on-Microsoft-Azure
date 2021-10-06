@@ -1,0 +1,32 @@
+{
+  "userId": 95235,
+  "cartId": "7dfb39f4-7316-4503-950f-6ab53b6b8472",
+  "preferredProducts": [
+    4260,
+    4121,
+    3726,
+    4109,
+    4911,
+    1721,
+    1849,
+    2498,
+    1905
+  ],
+  "productReviews": [
+    {
+      "productId": 850,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-06-22T20:59:13.8231916+03:00"
+    },
+    {
+      "productId": 565,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-01-14T10:42:14.1477836+02:00"
+    },
+    {
+      "productId": 3598,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-09-25T06:12:31.7517484+03:00"
+    }
+  ]
+}

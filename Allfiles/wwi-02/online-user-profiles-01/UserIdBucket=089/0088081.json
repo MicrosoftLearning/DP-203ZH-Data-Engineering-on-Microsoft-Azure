@@ -1,0 +1,33 @@
+{
+  "userId": 88081,
+  "cartId": "a5bc53ac-f733-4bb7-9a8b-bb2929de795b",
+  "preferredProducts": [
+    4432,
+    4351,
+    648,
+    3846,
+    4437
+  ],
+  "productReviews": [
+    {
+      "productId": 4248,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-03-31T09:47:28.6635082+03:00"
+    },
+    {
+      "productId": 3023,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-11-20T06:06:16.4722539+02:00"
+    },
+    {
+      "productId": 792,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-12-14T20:52:06.4860649+02:00"
+    },
+    {
+      "productId": 2102,
+      "reviewText": "this integrated is whole-grain.",
+      "reviewDate": "2019-07-05T05:37:28.3784451+03:00"
+    }
+  ]
+}

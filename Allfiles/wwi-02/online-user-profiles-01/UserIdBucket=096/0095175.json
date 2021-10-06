@@ -1,0 +1,32 @@
+{
+  "userId": 95175,
+  "cartId": "92eccfe6-4090-4697-a3f5-7c0e9500d85c",
+  "preferredProducts": [
+    4768,
+    951,
+    2734,
+    3591
+  ],
+  "productReviews": [
+    {
+      "productId": 4989,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-04-04T10:09:17.5126616+03:00"
+    },
+    {
+      "productId": 467,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-27T17:04:50.5443332+02:00"
+    },
+    {
+      "productId": 23,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-02-18T23:15:32.1370888+02:00"
+    },
+    {
+      "productId": 517,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-05-30T03:29:11.4888729+03:00"
+    }
+  ]
+}

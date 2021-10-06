@@ -1,0 +1,42 @@
+{
+  "userId": 34011,
+  "cartId": "0b1a20be-fdef-4c91-9b85-dcb4e32c6c84",
+  "preferredProducts": [
+    344,
+    1123,
+    2501,
+    3498,
+    2741,
+    2993,
+    2107,
+    938,
+    4650
+  ],
+  "productReviews": [
+    {
+      "productId": 3077,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-11-08T20:26:03.3941653+02:00"
+    },
+    {
+      "productId": 1101,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-12-06T02:02:45.183267+02:00"
+    },
+    {
+      "productId": 3132,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-12-04T12:12:14.2996802+02:00"
+    },
+    {
+      "productId": 3250,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-09-06T20:36:30.5388848+03:00"
+    },
+    {
+      "productId": 3705,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2018-10-02T05:07:25.5555689+03:00"
+    }
+  ]
+}

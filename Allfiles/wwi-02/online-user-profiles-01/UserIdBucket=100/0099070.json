@@ -1,0 +1,30 @@
+{
+  "userId": 99070,
+  "cartId": "0e193d24-fd57-4640-84b0-de1598ab8b66",
+  "preferredProducts": [
+    2607,
+    3268,
+    3042,
+    2568,
+    1739,
+    3677,
+    1132
+  ],
+  "productReviews": [
+    {
+      "productId": 1402,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-08-15T15:51:14.7208998+03:00"
+    },
+    {
+      "productId": 2915,
+      "reviewText": "This Baby & Tools works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2018-07-20T17:10:46.5319676+03:00"
+    },
+    {
+      "productId": 2175,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-12-03T22:19:16.8630901+02:00"
+    }
+  ]
+}

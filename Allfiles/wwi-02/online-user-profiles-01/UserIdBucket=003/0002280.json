@@ -1,0 +1,27 @@
+{
+  "userId": 2280,
+  "cartId": "e1b33dc2-5f47-4342-8fad-03d4a1547744",
+  "preferredProducts": [
+    1183,
+    1474,
+    79,
+    4136
+  ],
+  "productReviews": [
+    {
+      "productId": 728,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-11-27T17:08:58.2874478+02:00"
+    },
+    {
+      "productId": 1113,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-09-04T21:47:17.4649313+03:00"
+    },
+    {
+      "productId": 887,
+      "reviewText": "this Product is standard.",
+      "reviewDate": "2019-05-10T11:25:38.6291282+03:00"
+    }
+  ]
+}

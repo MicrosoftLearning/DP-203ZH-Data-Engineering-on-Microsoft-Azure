@@ -1,0 +1,32 @@
+{
+  "userId": 17775,
+  "cartId": "10e2114c-4065-4900-944a-10812a7ffdf5",
+  "preferredProducts": [
+    2831,
+    3045,
+    1497,
+    1883
+  ],
+  "productReviews": [
+    {
+      "productId": 4313,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-03-08T20:26:44.7926316+02:00"
+    },
+    {
+      "productId": 4398,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-09-10T12:26:16.6848633+03:00"
+    },
+    {
+      "productId": 2364,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-11-11T12:15:44.0624285+02:00"
+    },
+    {
+      "productId": 3691,
+      "reviewText": "This yellow works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2016-08-18T20:36:04.3207762+03:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 24725,
+  "cartId": "3de02d6b-0b8f-4f26-b458-c9fae8c23bde",
+  "preferredProducts": [
+    4523,
+    742,
+    4930,
+    3342,
+    140,
+    4701,
+    1291,
+    262,
+    1851,
+    3880
+  ],
+  "productReviews": [
+    {
+      "productId": 1896,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-06-25T20:00:09.1091585+03:00"
+    },
+    {
+      "productId": 3342,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-09-04T03:32:12.8202453+03:00"
+    },
+    {
+      "productId": 2933,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-01-28T16:25:51.2751622+02:00"
+    },
+    {
+      "productId": 489,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-03-04T09:22:16.8446662+02:00"
+    },
+    {
+      "productId": 2600,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-01-04T23:08:48.4102654+02:00"
+    }
+  ]
+}

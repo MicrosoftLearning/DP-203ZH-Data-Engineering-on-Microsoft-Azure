@@ -1,0 +1,28 @@
+{
+  "userId": 80352,
+  "cartId": "d956cc77-273c-4c02-a352-e5729e266359",
+  "preferredProducts": [
+    4819,
+    4295,
+    4923,
+    274,
+    1728
+  ],
+  "productReviews": [
+    {
+      "productId": 950,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-09-09T17:09:32.0796573+03:00"
+    },
+    {
+      "productId": 3843,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-11-09T14:14:03.0198596+02:00"
+    },
+    {
+      "productId": 2094,
+      "reviewText": "This Multi-tiered works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2018-01-11T09:18:03.8760304+02:00"
+    }
+  ]
+}

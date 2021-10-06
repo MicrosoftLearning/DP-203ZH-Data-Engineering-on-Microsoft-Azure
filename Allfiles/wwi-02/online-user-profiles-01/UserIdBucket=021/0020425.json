@@ -1,0 +1,29 @@
+{
+  "userId": 20425,
+  "cartId": "7818cd8e-9087-4aca-bbd2-efe5345c3211",
+  "preferredProducts": [
+    2193,
+    3352,
+    4343,
+    3868,
+    3810,
+    3321
+  ],
+  "productReviews": [
+    {
+      "productId": 3073,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-06-17T03:28:56.4991098+03:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-05-02T11:13:30.1249341+03:00"
+    },
+    {
+      "productId": 1886,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-08-22T19:29:29.5387121+03:00"
+    }
+  ]
+}

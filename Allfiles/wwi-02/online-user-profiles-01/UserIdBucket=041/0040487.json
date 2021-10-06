@@ -1,0 +1,25 @@
+{
+  "userId": 40487,
+  "cartId": "c96859b1-d3e1-43c7-b4f6-d0ce33db6db1",
+  "preferredProducts": [
+    1155,
+    699,
+    2238,
+    1757,
+    500,
+    2725,
+    2600
+  ],
+  "productReviews": [
+    {
+      "productId": 1801,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-03-25T14:57:53.3596061+02:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-12-30T22:44:32.0453407+02:00"
+    }
+  ]
+}

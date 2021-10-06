@@ -1,0 +1,31 @@
+{
+  "userId": 21047,
+  "cartId": "b1b37efd-19ba-4f22-9085-d31a461aa520",
+  "preferredProducts": [
+    2444,
+    1611,
+    3175,
+    4409,
+    1067,
+    3251,
+    4016,
+    3479
+  ],
+  "productReviews": [
+    {
+      "productId": 1964,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-07-18T18:13:55.2667809+03:00"
+    },
+    {
+      "productId": 996,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-03-24T05:16:00.4482796+02:00"
+    },
+    {
+      "productId": 503,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-05-15T07:11:18.8276992+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 70895,
+  "cartId": "782fa808-e496-4b27-8311-e1923d07f153",
+  "preferredProducts": [
+    1174,
+    4863,
+    4816,
+    3987,
+    1669,
+    3725
+  ],
+  "productReviews": [
+    {
+      "productId": 1507,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-02-19T10:58:41.9183103+02:00"
+    },
+    {
+      "productId": 2037,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-05-18T12:26:13.2764846+03:00"
+    },
+    {
+      "productId": 1429,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-03-02T14:51:39.032341+02:00"
+    }
+  ]
+}

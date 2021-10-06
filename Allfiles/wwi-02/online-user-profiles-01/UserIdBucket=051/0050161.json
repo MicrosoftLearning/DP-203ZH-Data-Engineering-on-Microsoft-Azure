@@ -1,0 +1,31 @@
+{
+  "userId": 50161,
+  "cartId": "5bed4fd0-82b8-4d68-9d3e-a5a403c4af41",
+  "preferredProducts": [
+    2179,
+    3195,
+    3009,
+    516,
+    591,
+    2461,
+    3444,
+    2846
+  ],
+  "productReviews": [
+    {
+      "productId": 413,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-12-10T20:00:43.9006715+02:00"
+    },
+    {
+      "productId": 4920,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-09-19T23:47:15.2732832+03:00"
+    },
+    {
+      "productId": 2262,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-11-17T08:11:40.3301839+02:00"
+    }
+  ]
+}

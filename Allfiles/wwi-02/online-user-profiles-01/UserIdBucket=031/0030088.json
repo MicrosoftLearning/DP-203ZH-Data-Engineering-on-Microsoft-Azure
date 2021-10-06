@@ -1,0 +1,42 @@
+{
+  "userId": 30088,
+  "cartId": "0aae4179-3847-45cc-8027-0761fb00cede",
+  "preferredProducts": [
+    2862,
+    2302,
+    4628,
+    4047,
+    4689,
+    314,
+    4965,
+    4804,
+    3015
+  ],
+  "productReviews": [
+    {
+      "productId": 786,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-04-01T17:45:55.966774+03:00"
+    },
+    {
+      "productId": 3752,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-08-20T11:12:09.2641506+03:00"
+    },
+    {
+      "productId": 879,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-10-08T07:53:16.8183158+03:00"
+    },
+    {
+      "productId": 279,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-05-22T16:05:22.6528315+03:00"
+    },
+    {
+      "productId": 1654,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2020-01-28T09:35:07.290513+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 27337,
+  "cartId": "00eb9556-57b6-4a79-a5d4-3457c93b6d62",
+  "preferredProducts": [
+    4321,
+    2392,
+    3425,
+    1635,
+    992,
+    70,
+    4793
+  ],
+  "productReviews": [
+    {
+      "productId": 1157,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-01-05T20:25:00.2873129+02:00"
+    },
+    {
+      "productId": 1003,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-03-30T20:44:43.0695199+02:00"
+    },
+    {
+      "productId": 1476,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-11-17T08:39:12.8688003+02:00"
+    },
+    {
+      "productId": 888,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-07-24T20:30:23.8091713+03:00"
+    }
+  ]
+}

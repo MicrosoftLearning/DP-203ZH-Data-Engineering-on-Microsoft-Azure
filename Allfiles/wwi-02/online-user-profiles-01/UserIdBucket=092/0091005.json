@@ -1,0 +1,29 @@
+{
+  "userId": 91005,
+  "cartId": "c35e0d06-4d69-4672-9baf-a67b5cdbacb1",
+  "preferredProducts": [
+    4788,
+    4305,
+    2391,
+    640,
+    873,
+    3925
+  ],
+  "productReviews": [
+    {
+      "productId": 1005,
+      "reviewText": "this Orchestrator is hyper.",
+      "reviewDate": "2020-02-05T20:23:44.0531143+02:00"
+    },
+    {
+      "productId": 1552,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-05-05T02:49:03.4135947+03:00"
+    },
+    {
+      "productId": 2753,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-12-08T13:20:08.4178907+02:00"
+    }
+  ]
+}

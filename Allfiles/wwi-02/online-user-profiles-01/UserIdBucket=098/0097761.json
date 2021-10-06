@@ -1,0 +1,41 @@
+{
+  "userId": 97761,
+  "cartId": "89b54ce6-c740-4212-b389-f1060c8ab7ac",
+  "preferredProducts": [
+    1004,
+    2886,
+    3832,
+    4672,
+    85,
+    530,
+    3662,
+    4165
+  ],
+  "productReviews": [
+    {
+      "productId": 3819,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-02-05T18:15:10.2245888+02:00"
+    },
+    {
+      "productId": 1139,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-07-15T03:27:00.2678458+03:00"
+    },
+    {
+      "productId": 1696,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This reboot keeps them away.",
+      "reviewDate": "2016-06-09T03:12:26.988741+03:00"
+    },
+    {
+      "productId": 3078,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-06-15T01:58:33.9547352+03:00"
+    },
+    {
+      "productId": 3545,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-06-30T08:08:10.2656461+03:00"
+    }
+  ]
+}

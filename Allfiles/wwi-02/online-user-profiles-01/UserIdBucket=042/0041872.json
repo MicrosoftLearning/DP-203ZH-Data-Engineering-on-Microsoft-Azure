@@ -1,0 +1,31 @@
+{
+  "userId": 41872,
+  "cartId": "45cce8e4-bbd9-439d-838d-014d9d8857e4",
+  "preferredProducts": [
+    1266,
+    1316,
+    4790
+  ],
+  "productReviews": [
+    {
+      "productId": 1987,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2020-02-11T01:25:17.482676+02:00"
+    },
+    {
+      "productId": 3820,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-08-07T09:32:08.5025741+03:00"
+    },
+    {
+      "productId": 3117,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-05-18T17:10:12.8062598+03:00"
+    },
+    {
+      "productId": 1461,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-05-03T03:09:09.5558357+03:00"
+    }
+  ]
+}

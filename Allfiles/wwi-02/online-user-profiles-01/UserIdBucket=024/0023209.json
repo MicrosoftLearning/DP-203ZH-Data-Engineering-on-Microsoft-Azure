@@ -1,0 +1,36 @@
+{
+  "userId": 23209,
+  "cartId": "db5ccb32-84b4-4e5c-8390-a0e22b80735a",
+  "preferredProducts": [
+    590,
+    1361,
+    4642,
+    4697,
+    2568,
+    4820,
+    508,
+    2461
+  ],
+  "productReviews": [
+    {
+      "productId": 3378,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-10-04T04:54:33.521426+03:00"
+    },
+    {
+      "productId": 4178,
+      "reviewText": "this Gambia is perplexed.",
+      "reviewDate": "2019-06-05T21:22:52.1425694+03:00"
+    },
+    {
+      "productId": 2723,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-12-28T02:34:31.5322034+02:00"
+    },
+    {
+      "productId": 2844,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-11-19T16:35:29.6384668+02:00"
+    }
+  ]
+}

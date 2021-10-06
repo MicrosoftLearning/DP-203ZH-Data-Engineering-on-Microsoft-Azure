@@ -1,0 +1,34 @@
+{
+  "userId": 38682,
+  "cartId": "6c185c4a-f5b2-45b3-93e7-255e441a3570",
+  "preferredProducts": [
+    4527,
+    70,
+    3882,
+    3079,
+    1894,
+    1832
+  ],
+  "productReviews": [
+    {
+      "productId": 4611,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-01-15T21:38:03.1092597+02:00"
+    },
+    {
+      "productId": 313,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2016-07-23T05:38:58.6655443+03:00"
+    },
+    {
+      "productId": 3116,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-12-01T22:34:40.2648587+02:00"
+    },
+    {
+      "productId": 2535,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-03-11T00:32:16.3630696+02:00"
+    }
+  ]
+}

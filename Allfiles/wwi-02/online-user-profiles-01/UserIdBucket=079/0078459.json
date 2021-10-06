@@ -1,0 +1,32 @@
+{
+  "userId": 78459,
+  "cartId": "029785f4-5ede-42f3-ad96-074e8636095d",
+  "preferredProducts": [
+    2358,
+    2447,
+    2906,
+    2241,
+    3796,
+    3990,
+    1529,
+    1026,
+    1149
+  ],
+  "productReviews": [
+    {
+      "productId": 1050,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-12-06T22:12:29.5324948+02:00"
+    },
+    {
+      "productId": 3548,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-01-11T16:32:31.674436+02:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-10-22T10:39:20.6149194+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 23272,
+  "cartId": "25469099-872b-4fb7-90b6-caae88b1c2a3",
+  "preferredProducts": [
+    4421,
+    3132,
+    714,
+    3710,
+    105,
+    1885
+  ],
+  "productReviews": [
+    {
+      "productId": 3839,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-05-28T15:06:57.5813297+03:00"
+    },
+    {
+      "productId": 1672,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-04-22T01:47:22.9125045+03:00"
+    },
+    {
+      "productId": 1772,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-07-15T06:41:32.3773963+03:00"
+    },
+    {
+      "productId": 1331,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-04-09T22:53:38.1935534+03:00"
+    }
+  ]
+}

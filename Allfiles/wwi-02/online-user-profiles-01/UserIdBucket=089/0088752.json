@@ -1,0 +1,34 @@
+{
+  "userId": 88752,
+  "cartId": "d7ea32e2-bcd5-4a3b-b420-fd2a3e78690f",
+  "preferredProducts": [
+    4415,
+    1182,
+    4711,
+    4257,
+    1562,
+    3100
+  ],
+  "productReviews": [
+    {
+      "productId": 2135,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-08-15T11:32:17.5678801+03:00"
+    },
+    {
+      "productId": 2714,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-10-21T23:30:54.4529289+03:00"
+    },
+    {
+      "productId": 3567,
+      "reviewText": "This lavender works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2016-05-12T04:00:48.6919977+03:00"
+    },
+    {
+      "productId": 1184,
+      "reviewText": "This purple works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-11-18T12:16:43.6028697+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 78553,
+  "cartId": "6e000375-6de5-4f03-baee-b534daa86d8d",
+  "preferredProducts": [
+    2140,
+    4754,
+    1040,
+    2928,
+    3559
+  ],
+  "productReviews": [
+    {
+      "productId": 2190,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-02-23T14:39:24.2621009+02:00"
+    },
+    {
+      "productId": 4561,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-04-09T07:21:27.9669934+03:00"
+    },
+    {
+      "productId": 608,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-11-30T00:59:17.2346385+02:00"
+    }
+  ]
+}

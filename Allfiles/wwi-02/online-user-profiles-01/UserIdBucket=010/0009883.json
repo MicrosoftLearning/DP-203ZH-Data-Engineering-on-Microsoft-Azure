@@ -1,0 +1,31 @@
+{
+  "userId": 9883,
+  "cartId": "1d6f7fb2-03ae-4580-aea5-f772cce85e60",
+  "preferredProducts": [
+    4554,
+    3355,
+    1705
+  ],
+  "productReviews": [
+    {
+      "productId": 3594,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-03-05T17:09:14.2417014+02:00"
+    },
+    {
+      "productId": 1555,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-06-15T13:45:19.2874012+03:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-01-17T12:24:17.7076973+02:00"
+    },
+    {
+      "productId": 4952,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2018-09-23T15:56:40.7991585+03:00"
+    }
+  ]
+}

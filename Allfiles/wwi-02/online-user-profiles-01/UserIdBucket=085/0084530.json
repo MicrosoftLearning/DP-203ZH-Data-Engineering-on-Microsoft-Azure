@@ -1,0 +1,33 @@
+{
+  "userId": 84530,
+  "cartId": "1cee7e98-0f7e-4665-aae3-e45eb844afa2",
+  "preferredProducts": [
+    1036,
+    4642,
+    4733,
+    4399,
+    2201
+  ],
+  "productReviews": [
+    {
+      "productId": 2079,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-07-05T01:54:20.8128737+03:00"
+    },
+    {
+      "productId": 4511,
+      "reviewText": "This Toys works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-11-12T22:26:56.9947551+02:00"
+    },
+    {
+      "productId": 4971,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2017-02-01T16:25:51.4374297+02:00"
+    },
+    {
+      "productId": 1090,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-01-08T05:05:43.2195322+02:00"
+    }
+  ]
+}

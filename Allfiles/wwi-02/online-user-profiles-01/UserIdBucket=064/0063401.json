@@ -1,0 +1,23 @@
+{
+  "userId": 63401,
+  "cartId": "2307a17b-c242-4bfa-9654-4bc101ecbc3a",
+  "preferredProducts": [
+    4577,
+    90,
+    2810,
+    1070,
+    419
+  ],
+  "productReviews": [
+    {
+      "productId": 3935,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-04-14T17:43:23.7632175+03:00"
+    },
+    {
+      "productId": 1503,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This orange keeps them away.",
+      "reviewDate": "2020-01-05T15:41:45.7828142+02:00"
+    }
+  ]
+}

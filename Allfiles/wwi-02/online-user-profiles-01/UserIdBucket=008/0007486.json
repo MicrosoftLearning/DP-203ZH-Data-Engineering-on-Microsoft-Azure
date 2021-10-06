@@ -1,0 +1,38 @@
+{
+  "userId": 7486,
+  "cartId": "fd43ca8a-b12a-42fc-b092-94717876118e",
+  "preferredProducts": [
+    2581,
+    1240,
+    933,
+    901,
+    3682,
+    2551,
+    1950,
+    3913,
+    4449,
+    941
+  ],
+  "productReviews": [
+    {
+      "productId": 1888,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-01-03T19:01:14.4672331+02:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2016-09-22T18:57:04.1659821+03:00"
+    },
+    {
+      "productId": 364,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-02-08T15:27:27.0577408+02:00"
+    },
+    {
+      "productId": 2703,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-02-03T02:36:39.6043675+02:00"
+    }
+  ]
+}

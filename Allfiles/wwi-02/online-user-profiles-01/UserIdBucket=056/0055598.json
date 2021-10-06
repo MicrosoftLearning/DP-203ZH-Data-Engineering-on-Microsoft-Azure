@@ -1,0 +1,41 @@
+{
+  "userId": 55598,
+  "cartId": "4a2ddd65-f7ed-4f02-b164-ab656d2d8fa0",
+  "preferredProducts": [
+    805,
+    2327,
+    1230,
+    3251,
+    4391,
+    4009,
+    1487,
+    1747
+  ],
+  "productReviews": [
+    {
+      "productId": 4006,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-03-17T03:16:24.7412241+02:00"
+    },
+    {
+      "productId": 2619,
+      "reviewText": "this Kids & Jewelery is hyper.",
+      "reviewDate": "2016-07-02T00:54:48.9411275+03:00"
+    },
+    {
+      "productId": 1373,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-12-11T10:03:28.498704+02:00"
+    },
+    {
+      "productId": 3721,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-24T02:56:34.794656+02:00"
+    },
+    {
+      "productId": 463,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-08-22T22:22:22.9749348+03:00"
+    }
+  ]
+}

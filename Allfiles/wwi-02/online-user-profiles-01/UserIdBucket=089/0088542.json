@@ -1,0 +1,29 @@
+{
+  "userId": 88542,
+  "cartId": "53901603-5a4c-4aeb-8043-65720c65414e",
+  "preferredProducts": [
+    626,
+    2525,
+    2276,
+    3086,
+    4500,
+    3187
+  ],
+  "productReviews": [
+    {
+      "productId": 268,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-11-23T01:14:56.9570336+02:00"
+    },
+    {
+      "productId": 351,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-07-31T19:03:56.3722529+03:00"
+    },
+    {
+      "productId": 2097,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-11-08T18:48:48.5317966+02:00"
+    }
+  ]
+}

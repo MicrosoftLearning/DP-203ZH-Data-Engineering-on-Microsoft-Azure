@@ -1,0 +1,31 @@
+{
+  "userId": 15005,
+  "cartId": "8eee15e9-5d10-45c2-917f-e10094ac8955",
+  "preferredProducts": [
+    289,
+    3827,
+    3465,
+    2520,
+    3175,
+    324,
+    2396,
+    1766
+  ],
+  "productReviews": [
+    {
+      "productId": 611,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-11-04T20:10:50.6786999+02:00"
+    },
+    {
+      "productId": 3576,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-04-23T06:57:17.7198473+03:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-12-02T00:00:20.9497991+02:00"
+    }
+  ]
+}

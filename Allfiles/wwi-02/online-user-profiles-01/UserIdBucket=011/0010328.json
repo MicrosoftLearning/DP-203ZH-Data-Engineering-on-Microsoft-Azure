@@ -1,0 +1,33 @@
+{
+  "userId": 10328,
+  "cartId": "1d0783f9-b863-4b58-aaab-f4ab04b2a8b1",
+  "preferredProducts": [
+    3292,
+    3918,
+    562,
+    1003,
+    3089
+  ],
+  "productReviews": [
+    {
+      "productId": 1506,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-06-28T23:16:14.0130498+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2020-03-03T14:52:39.6677817+02:00"
+    },
+    {
+      "productId": 2794,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-01-27T23:31:38.8007335+02:00"
+    },
+    {
+      "productId": 1772,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-03-10T02:07:10.2377554+02:00"
+    }
+  ]
+}

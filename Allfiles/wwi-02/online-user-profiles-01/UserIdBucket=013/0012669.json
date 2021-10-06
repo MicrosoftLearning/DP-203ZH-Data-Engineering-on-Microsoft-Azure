@@ -1,0 +1,26 @@
+{
+  "userId": 12669,
+  "cartId": "2e4ad80c-9e91-4b52-8052-c3a4867505fb",
+  "preferredProducts": [
+    2476,
+    2859,
+    3426
+  ],
+  "productReviews": [
+    {
+      "productId": 3487,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-05-17T16:36:41.7062665+03:00"
+    },
+    {
+      "productId": 1781,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-05-06T14:45:18.186702+03:00"
+    },
+    {
+      "productId": 531,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-11-15T20:57:45.7422684+02:00"
+    }
+  ]
+}

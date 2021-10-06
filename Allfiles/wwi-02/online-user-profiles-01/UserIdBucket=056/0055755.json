@@ -1,0 +1,32 @@
+{
+  "userId": 55755,
+  "cartId": "7fe5d114-b3e9-4edc-a221-bac89f6ee953",
+  "preferredProducts": [
+    1708,
+    2100,
+    3413,
+    4458
+  ],
+  "productReviews": [
+    {
+      "productId": 4609,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-10-24T05:28:50.3361673+03:00"
+    },
+    {
+      "productId": 1022,
+      "reviewText": "this Senior is vertical.",
+      "reviewDate": "2019-03-16T16:40:51.4775067+02:00"
+    },
+    {
+      "productId": 4586,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-05-28T09:03:58.2315078+03:00"
+    },
+    {
+      "productId": 3549,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-07-18T04:03:09.4178763+03:00"
+    }
+  ]
+}

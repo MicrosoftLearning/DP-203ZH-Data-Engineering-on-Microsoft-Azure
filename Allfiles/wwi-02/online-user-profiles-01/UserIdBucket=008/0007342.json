@@ -1,0 +1,36 @@
+{
+  "userId": 7342,
+  "cartId": "c479c13d-d6c2-41c2-aaa4-c35f84957742",
+  "preferredProducts": [
+    2519,
+    2319,
+    1013,
+    1521,
+    4045,
+    3736,
+    2364,
+    822
+  ],
+  "productReviews": [
+    {
+      "productId": 592,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-07-23T22:51:55.5828501+03:00"
+    },
+    {
+      "productId": 650,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2019-02-04T16:56:03.0045988+02:00"
+    },
+    {
+      "productId": 1031,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-05-21T08:42:27.4588075+03:00"
+    },
+    {
+      "productId": 3167,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-11-02T13:00:59.7598446+02:00"
+    }
+  ]
+}

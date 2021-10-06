@@ -1,0 +1,33 @@
+{
+  "userId": 86678,
+  "cartId": "e1c7214c-ecc2-448f-a082-2e1f8805d9ea",
+  "preferredProducts": [
+    2148,
+    3451,
+    1906,
+    2405,
+    4422,
+    3660,
+    3471,
+    2729,
+    3008,
+    3297
+  ],
+  "productReviews": [
+    {
+      "productId": 1561,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-12-16T03:19:18.1058395+02:00"
+    },
+    {
+      "productId": 4146,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-02-27T01:21:57.829287+02:00"
+    },
+    {
+      "productId": 2922,
+      "reviewText": "this Concrete is ratty.",
+      "reviewDate": "2018-08-23T07:28:53.6534788+03:00"
+    }
+  ]
+}

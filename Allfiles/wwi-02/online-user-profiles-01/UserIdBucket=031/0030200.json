@@ -1,0 +1,25 @@
+{
+  "userId": 30200,
+  "cartId": "5831b9bd-88f7-4dfd-9d50-2a7ce5468511",
+  "preferredProducts": [
+    1062,
+    4033
+  ],
+  "productReviews": [
+    {
+      "productId": 1157,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-05-01T15:29:56.7261419+03:00"
+    },
+    {
+      "productId": 1769,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-07-16T08:32:14.4542354+03:00"
+    },
+    {
+      "productId": 629,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-08-03T18:33:23.3921904+03:00"
+    }
+  ]
+}

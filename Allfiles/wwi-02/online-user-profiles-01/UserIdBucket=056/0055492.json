@@ -1,0 +1,37 @@
+{
+  "userId": 55492,
+  "cartId": "3b178977-2a8b-46d8-8156-9970e1a687c7",
+  "preferredProducts": [
+    3364,
+    3774,
+    1667,
+    4256,
+    22,
+    1038,
+    4495,
+    3419,
+    3293
+  ],
+  "productReviews": [
+    {
+      "productId": 3204,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-18T03:30:52.1962048+02:00"
+    },
+    {
+      "productId": 4369,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-09-30T13:05:44.4309521+03:00"
+    },
+    {
+      "productId": 3451,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-02-06T07:05:07.9820585+02:00"
+    },
+    {
+      "productId": 1042,
+      "reviewText": "This Mauritius Rupee works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-08-25T16:38:36.6592382+03:00"
+    }
+  ]
+}

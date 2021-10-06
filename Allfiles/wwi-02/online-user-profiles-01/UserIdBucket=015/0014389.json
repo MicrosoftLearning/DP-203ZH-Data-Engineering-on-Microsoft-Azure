@@ -1,0 +1,30 @@
+{
+  "userId": 14389,
+  "cartId": "2b9462d5-28a0-4059-8d76-afb5f3a1f217",
+  "preferredProducts": [
+    1564,
+    1836
+  ],
+  "productReviews": [
+    {
+      "productId": 1837,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-06-07T03:02:27.2375609+03:00"
+    },
+    {
+      "productId": 4134,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-08-28T18:55:17.177112+03:00"
+    },
+    {
+      "productId": 2096,
+      "reviewText": "This is a really good foreground.",
+      "reviewDate": "2019-11-29T12:31:01.9326179+02:00"
+    },
+    {
+      "productId": 319,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-07-25T22:47:22.9220732+03:00"
+    }
+  ]
+}

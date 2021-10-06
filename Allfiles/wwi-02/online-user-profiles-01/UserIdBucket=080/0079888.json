@@ -1,0 +1,31 @@
+{
+  "userId": 79888,
+  "cartId": "7c01cc69-bb00-4040-914e-4ddfe462cbe9",
+  "preferredProducts": [
+    353,
+    1046,
+    1061
+  ],
+  "productReviews": [
+    {
+      "productId": 1761,
+      "reviewText": "this zero defect is tasty.",
+      "reviewDate": "2018-08-01T09:54:10.9234664+03:00"
+    },
+    {
+      "productId": 2266,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-08-20T22:51:53.7844573+03:00"
+    },
+    {
+      "productId": 3392,
+      "reviewText": "This is a really good Central.",
+      "reviewDate": "2016-08-13T18:18:04.6656415+03:00"
+    },
+    {
+      "productId": 2373,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-06-29T10:34:15.6049192+03:00"
+    }
+  ]
+}

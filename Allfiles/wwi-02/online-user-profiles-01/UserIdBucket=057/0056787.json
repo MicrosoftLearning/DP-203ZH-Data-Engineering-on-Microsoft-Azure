@@ -1,0 +1,36 @@
+{
+  "userId": 56787,
+  "cartId": "c69f2c3b-f3bd-4ebe-8a5b-8ff2cb1a9b45",
+  "preferredProducts": [
+    3795,
+    106,
+    1257
+  ],
+  "productReviews": [
+    {
+      "productId": 3925,
+      "reviewText": "this Configuration is mellow.",
+      "reviewDate": "2019-10-12T19:50:56.8292795+03:00"
+    },
+    {
+      "productId": 2627,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-08-28T10:51:16.247263+03:00"
+    },
+    {
+      "productId": 1277,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-04-20T02:56:28.3747013+03:00"
+    },
+    {
+      "productId": 685,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-08-30T05:25:56.0142204+03:00"
+    },
+    {
+      "productId": 4200,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-11-28T01:49:30.9027963+02:00"
+    }
+  ]
+}

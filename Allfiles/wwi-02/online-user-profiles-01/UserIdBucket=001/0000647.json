@@ -1,0 +1,32 @@
+{
+  "userId": 647,
+  "cartId": "c4424deb-b5b2-48ae-a1a5-13e9cc003496",
+  "preferredProducts": [
+    1928,
+    4480,
+    3058,
+    494,
+    781,
+    2321,
+    4322,
+    2107,
+    4595
+  ],
+  "productReviews": [
+    {
+      "productId": 654,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-04-10T13:56:19.162453+03:00"
+    },
+    {
+      "productId": 2066,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-12-04T14:15:29.7679321+02:00"
+    },
+    {
+      "productId": 3574,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-12-26T01:52:18.9649176+02:00"
+    }
+  ]
+}

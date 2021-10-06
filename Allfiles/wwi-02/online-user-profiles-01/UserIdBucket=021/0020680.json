@@ -1,0 +1,27 @@
+{
+  "userId": 20680,
+  "cartId": "7ca23deb-6f55-4222-ad79-f0727e986235",
+  "preferredProducts": [
+    2224,
+    3412,
+    2417,
+    951,
+    1202,
+    3529,
+    3566,
+    902,
+    2050
+  ],
+  "productReviews": [
+    {
+      "productId": 3404,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-02-05T14:20:59.8269944+02:00"
+    },
+    {
+      "productId": 1371,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-01-21T01:53:06.3187418+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 93577,
+  "cartId": "231d6745-9bf6-4911-82e4-75ed17abb0f0",
+  "preferredProducts": [
+    359,
+    3914,
+    580,
+    4015,
+    2773
+  ],
+  "productReviews": [
+    {
+      "productId": 999,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-11-08T02:59:40.0220884+02:00"
+    },
+    {
+      "productId": 970,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-05-01T05:12:32.8685748+03:00"
+    },
+    {
+      "productId": 1813,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-07-08T07:59:13.4791976+03:00"
+    },
+    {
+      "productId": 796,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-10-12T17:14:51.4294818+03:00"
+    }
+  ]
+}

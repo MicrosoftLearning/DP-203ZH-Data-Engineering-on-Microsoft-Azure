@@ -1,0 +1,38 @@
+{
+  "userId": 42405,
+  "cartId": "ae922c13-0f1b-405b-80e1-7a1b14212bcd",
+  "preferredProducts": [
+    202,
+    2876,
+    4468,
+    3999,
+    4991
+  ],
+  "productReviews": [
+    {
+      "productId": 255,
+      "reviewText": "this Iceland Krona is nifty.",
+      "reviewDate": "2019-12-03T19:16:59.498213+02:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-12-12T06:30:32.0902267+02:00"
+    },
+    {
+      "productId": 1643,
+      "reviewText": "This envisioneer works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-02-02T19:28:48.8371274+02:00"
+    },
+    {
+      "productId": 4241,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-08-22T05:20:41.397855+03:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-04-19T22:26:01.4223962+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 31600,
+  "cartId": "34fd4538-7cb3-4e82-bc9f-156248a116b7",
+  "preferredProducts": [
+    194,
+    4858,
+    121,
+    3110,
+    4138,
+    1935,
+    4813
+  ],
+  "productReviews": [
+    {
+      "productId": 1829,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-04-15T10:09:57.0967997+03:00"
+    },
+    {
+      "productId": 249,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-06-19T08:33:12.3056089+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 12460,
+  "cartId": "af6e0838-7cc2-4289-8499-4be2bdf95847",
+  "preferredProducts": [
+    85,
+    3315,
+    515,
+    4391,
+    3699,
+    2386,
+    3141,
+    4545,
+    3647
+  ],
+  "productReviews": [
+    {
+      "productId": 4760,
+      "reviewText": "this Infrastructure is light-hearted.",
+      "reviewDate": "2019-04-24T03:49:55.7020195+03:00"
+    },
+    {
+      "productId": 937,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-04-26T10:17:27.8430674+03:00"
+    },
+    {
+      "productId": 3443,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-02-01T17:05:20.5100195+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 28809,
+  "cartId": "7ca70202-1577-4b80-a640-ed65a5d04293",
+  "preferredProducts": [
+    323,
+    4556
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-11-03T07:10:21.55357+02:00"
+    },
+    {
+      "productId": 2022,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-04-15T14:56:11.1790972+03:00"
+    },
+    {
+      "productId": 33,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-06-27T23:37:20.0111633+03:00"
+    },
+    {
+      "productId": 2943,
+      "reviewText": "this zero tolerance is tasty.",
+      "reviewDate": "2017-02-01T02:54:00.0955131+02:00"
+    },
+    {
+      "productId": 2864,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-01-18T09:31:02.1298236+02:00"
+    }
+  ]
+}

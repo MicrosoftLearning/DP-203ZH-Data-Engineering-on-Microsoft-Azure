@@ -1,0 +1,30 @@
+{
+  "userId": 72463,
+  "cartId": "eae12e87-f519-4bfc-8283-a8faac7e46b2",
+  "preferredProducts": [
+    3984,
+    1,
+    3194,
+    4009,
+    4246,
+    3449,
+    2672
+  ],
+  "productReviews": [
+    {
+      "productId": 455,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-09-28T09:02:20.7137556+03:00"
+    },
+    {
+      "productId": 3710,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-07-19T19:19:30.7625782+03:00"
+    },
+    {
+      "productId": 2093,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-03-26T16:54:16.2596943+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 37000,
+  "cartId": "c2fe5c21-20d4-4058-a64f-b34aeac0baa9",
+  "preferredProducts": [
+    1065,
+    2367,
+    4059
+  ],
+  "productReviews": [
+    {
+      "productId": 1877,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-04-10T15:07:09.5797701+03:00"
+    },
+    {
+      "productId": 396,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-12-02T22:26:41.3784517+02:00"
+    },
+    {
+      "productId": 1040,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-01-19T16:34:02.6154807+02:00"
+    }
+  ]
+}

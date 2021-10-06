@@ -1,0 +1,27 @@
+{
+  "userId": 40106,
+  "cartId": "8f290891-dac9-4458-900b-23a48acc69b6",
+  "preferredProducts": [
+    3796,
+    1195,
+    3720,
+    1542
+  ],
+  "productReviews": [
+    {
+      "productId": 1246,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-09-16T07:09:39.0489829+03:00"
+    },
+    {
+      "productId": 4404,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-11-24T08:22:43.9739177+02:00"
+    },
+    {
+      "productId": 3664,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-03-09T01:11:59.708325+02:00"
+    }
+  ]
+}

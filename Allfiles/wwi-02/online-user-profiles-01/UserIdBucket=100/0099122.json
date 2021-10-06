@@ -1,0 +1,31 @@
+{
+  "userId": 99122,
+  "cartId": "8340a357-2a7e-4003-8841-ebcea2e8eff2",
+  "preferredProducts": [
+    4984,
+    2560,
+    3813,
+    1930,
+    3203,
+    2744,
+    2555,
+    4437
+  ],
+  "productReviews": [
+    {
+      "productId": 4760,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-09-20T16:43:23.9862812+03:00"
+    },
+    {
+      "productId": 4517,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-12-06T09:08:01.413413+02:00"
+    },
+    {
+      "productId": 74,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-05-17T06:04:18.2323642+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 4415,
+  "cartId": "aa02127c-d030-4455-b578-04a89983a153",
+  "preferredProducts": [
+    4694,
+    3295
+  ],
+  "productReviews": [
+    {
+      "productId": 2574,
+      "reviewText": "this implementation is nifty.",
+      "reviewDate": "2017-06-15T08:26:39.2804587+03:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-02-27T08:13:50.0858063+02:00"
+    },
+    {
+      "productId": 4492,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-09-28T23:05:00.5608451+03:00"
+    }
+  ]
+}

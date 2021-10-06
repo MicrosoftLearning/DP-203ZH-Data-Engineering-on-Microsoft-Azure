@@ -1,0 +1,31 @@
+{
+  "userId": 62473,
+  "cartId": "0fa2a917-cfb6-4044-95a6-bee8ab2ab73b",
+  "preferredProducts": [
+    1382,
+    3644,
+    2854,
+    1978,
+    489,
+    2693,
+    324,
+    4174
+  ],
+  "productReviews": [
+    {
+      "productId": 1509,
+      "reviewText": "this Electronics is slurpee.",
+      "reviewDate": "2018-01-10T20:52:40.6866479+02:00"
+    },
+    {
+      "productId": 4609,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-05-24T00:00:57.246389+03:00"
+    },
+    {
+      "productId": 503,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-02-12T23:38:33.5492746+02:00"
+    }
+  ]
+}

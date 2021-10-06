@@ -1,0 +1,28 @@
+{
+  "userId": 68432,
+  "cartId": "eac6736d-b4bb-4c19-9400-f275dac1e48b",
+  "preferredProducts": [
+    2222,
+    2492,
+    1327,
+    3945,
+    1554
+  ],
+  "productReviews": [
+    {
+      "productId": 4583,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-10-19T10:56:35.3182284+03:00"
+    },
+    {
+      "productId": 2492,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-05-25T19:44:12.9785682+03:00"
+    },
+    {
+      "productId": 541,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-03-29T18:36:45.848564+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 32372,
+  "cartId": "e2cbd02c-eccb-4fdb-a1d4-7a508e84d201",
+  "preferredProducts": [
+    3960,
+    4870,
+    2238
+  ],
+  "productReviews": [
+    {
+      "productId": 481,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-02-16T23:59:17.5370549+02:00"
+    },
+    {
+      "productId": 1248,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-06-10T02:20:58.7940339+03:00"
+    },
+    {
+      "productId": 4270,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2020-02-02T18:32:21.6994195+02:00"
+    },
+    {
+      "productId": 3438,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-11-27T12:12:42.0776493+02:00"
+    }
+  ]
+}

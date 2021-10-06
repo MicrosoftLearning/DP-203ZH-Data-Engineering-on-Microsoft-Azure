@@ -1,0 +1,40 @@
+{
+  "userId": 50732,
+  "cartId": "c7d20263-283b-436a-8d67-721606e7ab36",
+  "preferredProducts": [
+    616,
+    3011,
+    4165,
+    938,
+    4568,
+    4001,
+    3782
+  ],
+  "productReviews": [
+    {
+      "productId": 600,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-01-31T08:50:23.9881858+02:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-03-20T20:56:42.0538022+02:00"
+    },
+    {
+      "productId": 2741,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2020-02-24T09:19:16.7371648+02:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-05-27T20:27:56.9369533+03:00"
+    },
+    {
+      "productId": 184,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-11-23T01:52:11.0869266+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 26562,
+  "cartId": "50db67b5-6c37-4846-86aa-fdcadbb4641d",
+  "preferredProducts": [
+    2543,
+    2163,
+    4193,
+    912,
+    1725
+  ],
+  "productReviews": [
+    {
+      "productId": 4175,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-01-29T18:51:09.8985178+02:00"
+    },
+    {
+      "productId": 1910,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-02-23T08:51:37.0343252+02:00"
+    },
+    {
+      "productId": 1791,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-11-19T14:25:33.6634173+02:00"
+    },
+    {
+      "productId": 3878,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-07-29T21:30:37.2146595+03:00"
+    }
+  ]
+}

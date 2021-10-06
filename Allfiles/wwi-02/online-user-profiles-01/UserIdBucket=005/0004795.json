@@ -1,0 +1,28 @@
+{
+  "userId": 4795,
+  "cartId": "7343a4e9-d445-4c49-94ca-c73841bd21a0",
+  "preferredProducts": [
+    2065,
+    163,
+    1014,
+    1738,
+    1607
+  ],
+  "productReviews": [
+    {
+      "productId": 1064,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-02-03T20:32:51.4653865+02:00"
+    },
+    {
+      "productId": 3612,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-08-28T23:53:26.4218981+03:00"
+    },
+    {
+      "productId": 3339,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-03-10T05:55:44.6150884+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 4201,
+  "cartId": "ab2288bc-e886-4cfd-a211-982dbcff84f1",
+  "preferredProducts": [
+    4913
+  ],
+  "productReviews": [
+    {
+      "productId": 1807,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-04-18T14:27:22.6472646+03:00"
+    },
+    {
+      "productId": 2244,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-11-01T15:54:01.8697712+02:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-04-18T10:22:59.1773812+03:00"
+    }
+  ]
+}

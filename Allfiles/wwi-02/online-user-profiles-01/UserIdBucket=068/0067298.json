@@ -1,0 +1,33 @@
+{
+  "userId": 67298,
+  "cartId": "123ddca0-5299-4638-9454-c176bedead48",
+  "preferredProducts": [
+    608,
+    4791,
+    1050,
+    2564,
+    719,
+    4275,
+    685,
+    3250,
+    1792,
+    3518
+  ],
+  "productReviews": [
+    {
+      "productId": 515,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-04-10T01:11:26.6942328+03:00"
+    },
+    {
+      "productId": 1618,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-07-26T04:25:22.4729026+03:00"
+    },
+    {
+      "productId": 3454,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-10-29T09:45:21.8740295+02:00"
+    }
+  ]
+}

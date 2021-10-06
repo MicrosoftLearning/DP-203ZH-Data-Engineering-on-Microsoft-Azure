@@ -1,0 +1,41 @@
+{
+  "userId": 66970,
+  "cartId": "e8eecc90-3ebc-42f4-ab11-d3b18eac9089",
+  "preferredProducts": [
+    2095,
+    2945,
+    3260,
+    1880,
+    4533,
+    4900,
+    3800,
+    31
+  ],
+  "productReviews": [
+    {
+      "productId": 1072,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-06-13T18:20:20.0864887+03:00"
+    },
+    {
+      "productId": 2720,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-12-26T18:49:09.1044415+02:00"
+    },
+    {
+      "productId": 1002,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2020-01-16T15:14:34.4855575+02:00"
+    },
+    {
+      "productId": 4444,
+      "reviewText": "this mindshare is snowy.",
+      "reviewDate": "2017-06-10T10:47:45.3456728+03:00"
+    },
+    {
+      "productId": 4049,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2020-02-23T14:34:58.5714631+02:00"
+    }
+  ]
+}

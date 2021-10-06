@@ -1,0 +1,40 @@
+{
+  "userId": 12514,
+  "cartId": "591e9b4e-e9aa-4f2e-b802-5cbc5dd5962b",
+  "preferredProducts": [
+    1702,
+    3177,
+    4185,
+    3445,
+    3073,
+    771,
+    117
+  ],
+  "productReviews": [
+    {
+      "productId": 211,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2020-03-18T05:40:18.0726209+02:00"
+    },
+    {
+      "productId": 2620,
+      "reviewText": "this Investor is brown.",
+      "reviewDate": "2019-06-28T07:58:21.6336792+03:00"
+    },
+    {
+      "productId": 4291,
+      "reviewText": "this Berkshire is top-notch.",
+      "reviewDate": "2019-02-08T01:52:53.6894456+02:00"
+    },
+    {
+      "productId": 2476,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-03-06T07:42:00.6079078+02:00"
+    },
+    {
+      "productId": 4375,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-07-26T22:24:04.3170525+03:00"
+    }
+  ]
+}

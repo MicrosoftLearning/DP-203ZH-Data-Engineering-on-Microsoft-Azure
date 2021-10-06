@@ -1,0 +1,28 @@
+{
+  "userId": 3487,
+  "cartId": "c4d42ead-409e-4e8e-af61-9118ae852a27",
+  "preferredProducts": [
+    1620,
+    1126,
+    4666,
+    2930,
+    41
+  ],
+  "productReviews": [
+    {
+      "productId": 3771,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-12-17T10:56:27.8899627+02:00"
+    },
+    {
+      "productId": 4130,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-08-19T17:17:53.5798525+03:00"
+    },
+    {
+      "productId": 4440,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-20T20:53:48.2335548+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 66756,
+  "cartId": "4915ce06-9147-414e-9ac9-539a0d97fc8a",
+  "preferredProducts": [
+    162,
+    4097,
+    148,
+    3095,
+    1848,
+    1847,
+    4826
+  ],
+  "productReviews": [
+    {
+      "productId": 3076,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-10-22T19:58:38.5420356+03:00"
+    },
+    {
+      "productId": 1337,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-08-13T00:50:30.2377763+03:00"
+    },
+    {
+      "productId": 1969,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-11-13T19:51:43.2275855+02:00"
+    }
+  ]
+}

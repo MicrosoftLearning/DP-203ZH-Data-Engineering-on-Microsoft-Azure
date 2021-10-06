@@ -1,0 +1,25 @@
+{
+  "userId": 74447,
+  "cartId": "1fafb58a-b53d-4b28-b670-d1ec28ecc7bf",
+  "preferredProducts": [
+    1829,
+    2313,
+    2275,
+    2183,
+    4661,
+    1043,
+    2669
+  ],
+  "productReviews": [
+    {
+      "productId": 4165,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-10-20T15:00:25.9144458+03:00"
+    },
+    {
+      "productId": 4643,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-09-13T19:36:34.0657562+03:00"
+    }
+  ]
+}

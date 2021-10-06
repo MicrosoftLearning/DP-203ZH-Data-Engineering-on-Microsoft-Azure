@@ -1,0 +1,29 @@
+{
+  "userId": 58223,
+  "cartId": "493d9afb-57ee-4913-8b47-c8d8a63888ec",
+  "preferredProducts": [
+    1239,
+    2827,
+    4181,
+    696,
+    2266,
+    614
+  ],
+  "productReviews": [
+    {
+      "productId": 2260,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-02-19T14:25:37.8971011+02:00"
+    },
+    {
+      "productId": 2219,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-08-16T02:21:31.823754+03:00"
+    },
+    {
+      "productId": 2919,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-07-28T22:23:00.2774811+03:00"
+    }
+  ]
+}

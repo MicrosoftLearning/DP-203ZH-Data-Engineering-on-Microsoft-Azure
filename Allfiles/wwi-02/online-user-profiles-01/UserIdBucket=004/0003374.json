@@ -1,0 +1,36 @@
+{
+  "userId": 3374,
+  "cartId": "b3e1bead-05b0-40ad-a51e-686c53496672",
+  "preferredProducts": [
+    584,
+    1600,
+    1951
+  ],
+  "productReviews": [
+    {
+      "productId": 896,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-04-16T21:14:40.0532538+03:00"
+    },
+    {
+      "productId": 4953,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-04-21T06:39:31.1645633+03:00"
+    },
+    {
+      "productId": 1733,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-01-22T15:43:32.3469782+02:00"
+    },
+    {
+      "productId": 4210,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-08-11T04:48:27.9371385+03:00"
+    },
+    {
+      "productId": 3422,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-12-09T20:15:20.5572668+02:00"
+    }
+  ]
+}

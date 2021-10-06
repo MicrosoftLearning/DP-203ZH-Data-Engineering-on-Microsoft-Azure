@@ -1,0 +1,37 @@
+{
+  "userId": 46607,
+  "cartId": "8b7411d1-b905-4d0b-8337-6379592942c0",
+  "preferredProducts": [
+    4114,
+    1052,
+    182,
+    1981,
+    2737,
+    4260,
+    17,
+    4272,
+    2352
+  ],
+  "productReviews": [
+    {
+      "productId": 3326,
+      "reviewText": "this tertiary is nifty.",
+      "reviewDate": "2017-11-27T13:16:15.8434848+02:00"
+    },
+    {
+      "productId": 3775,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-06-24T05:14:55.536439+03:00"
+    },
+    {
+      "productId": 1981,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-06-13T09:01:19.063657+03:00"
+    },
+    {
+      "productId": 1138,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-12-01T01:36:50.5768391+02:00"
+    }
+  ]
+}

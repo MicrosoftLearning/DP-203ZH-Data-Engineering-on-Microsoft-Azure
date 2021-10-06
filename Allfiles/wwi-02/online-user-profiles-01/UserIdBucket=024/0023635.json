@@ -1,0 +1,35 @@
+{
+  "userId": 23635,
+  "cartId": "1e1f3df5-618b-4ade-b6c9-ab918749d7d8",
+  "preferredProducts": [
+    1436,
+    1136
+  ],
+  "productReviews": [
+    {
+      "productId": 3336,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-03-23T06:06:32.5658301+02:00"
+    },
+    {
+      "productId": 3157,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-04-06T02:22:39.6679859+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "This program works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2019-07-31T19:52:11.7898233+03:00"
+    },
+    {
+      "productId": 186,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-07-02T16:48:02.4407819+03:00"
+    },
+    {
+      "productId": 3001,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-09-21T02:56:13.7669109+03:00"
+    }
+  ]
+}

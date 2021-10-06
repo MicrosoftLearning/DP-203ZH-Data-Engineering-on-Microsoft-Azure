@@ -1,0 +1,29 @@
+{
+  "userId": 2529,
+  "cartId": "0cef4434-88ab-43ab-b18a-16224dbe12af",
+  "preferredProducts": [
+    756,
+    4563,
+    3375,
+    2929,
+    3936,
+    3638
+  ],
+  "productReviews": [
+    {
+      "productId": 1085,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-03-10T19:21:43.7010489+02:00"
+    },
+    {
+      "productId": 127,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-11-03T15:37:59.6379271+02:00"
+    },
+    {
+      "productId": 3630,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-12-19T08:37:13.9756591+02:00"
+    }
+  ]
+}

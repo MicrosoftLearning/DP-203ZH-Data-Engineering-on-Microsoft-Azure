@@ -1,0 +1,30 @@
+{
+  "userId": 84392,
+  "cartId": "84ca756b-1731-476c-b1b0-e65fb827ce62",
+  "preferredProducts": [
+    4394,
+    3428,
+    4500,
+    502,
+    4137,
+    3641,
+    3961
+  ],
+  "productReviews": [
+    {
+      "productId": 4323,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-05-18T08:10:13.5797867+03:00"
+    },
+    {
+      "productId": 2307,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2017-06-17T22:38:15.0553262+03:00"
+    },
+    {
+      "productId": 3135,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-08-27T03:15:51.7157452+03:00"
+    }
+  ]
+}

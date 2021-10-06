@@ -1,0 +1,33 @@
+{
+  "userId": 11746,
+  "cartId": "a8a708b9-6c62-4e2f-888f-509db605d878",
+  "preferredProducts": [
+    244,
+    289,
+    1204,
+    4815,
+    3827,
+    2460,
+    3581,
+    816,
+    3115,
+    1608
+  ],
+  "productReviews": [
+    {
+      "productId": 3903,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-08-26T21:55:25.2177979+03:00"
+    },
+    {
+      "productId": 3014,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-01-30T11:03:36.0661338+02:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-09-28T23:57:55.5151865+03:00"
+    }
+  ]
+}

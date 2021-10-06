@@ -1,0 +1,32 @@
+{
+  "userId": 9138,
+  "cartId": "a1f093e2-4a36-4b58-96f9-2d009ae8cd89",
+  "preferredProducts": [
+    4801,
+    3283,
+    216,
+    2582
+  ],
+  "productReviews": [
+    {
+      "productId": 1541,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-03-02T00:51:05.1040793+02:00"
+    },
+    {
+      "productId": 2992,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-01-13T05:52:26.6595332+02:00"
+    },
+    {
+      "productId": 2999,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-04-14T16:17:36.3799802+03:00"
+    },
+    {
+      "productId": 290,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-09-29T20:24:46.6292727+03:00"
+    }
+  ]
+}

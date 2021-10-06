@@ -1,0 +1,27 @@
+{
+  "userId": 80098,
+  "cartId": "23f62bd9-aea1-496b-8299-a631fe518266",
+  "preferredProducts": [
+    2535,
+    4797,
+    3221,
+    1611
+  ],
+  "productReviews": [
+    {
+      "productId": 2872,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-10-21T03:29:34.223461+03:00"
+    },
+    {
+      "productId": 3372,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-12-25T13:59:01.5591393+02:00"
+    },
+    {
+      "productId": 1092,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-05-22T05:55:26.6061495+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 20133,
+  "cartId": "1a4dca90-ea9c-45ab-b365-407d2c584625",
+  "preferredProducts": [
+    4747,
+    3205,
+    57,
+    1412,
+    3877
+  ],
+  "productReviews": [
+    {
+      "productId": 955,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-08-03T05:46:34.4059715+03:00"
+    },
+    {
+      "productId": 3429,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-07-05T09:38:01.9719069+03:00"
+    },
+    {
+      "productId": 3148,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-07-14T10:54:07.2460463+03:00"
+    },
+    {
+      "productId": 285,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-10-18T01:28:47.1664741+03:00"
+    }
+  ]
+}

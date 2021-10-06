@@ -1,0 +1,33 @@
+{
+  "userId": 47275,
+  "cartId": "05987a03-02bd-41be-ad23-9393ee671e82",
+  "preferredProducts": [
+    4420,
+    2021,
+    365,
+    3994,
+    3318
+  ],
+  "productReviews": [
+    {
+      "productId": 1223,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-02-02T00:30:28.0679475+02:00"
+    },
+    {
+      "productId": 4587,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2017-06-01T16:34:59.1455659+03:00"
+    },
+    {
+      "productId": 2905,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-07-19T07:27:19.6743796+03:00"
+    },
+    {
+      "productId": 990,
+      "reviewText": "this Shoals is whole-grain.",
+      "reviewDate": "2016-05-31T15:02:40.0773694+03:00"
+    }
+  ]
+}

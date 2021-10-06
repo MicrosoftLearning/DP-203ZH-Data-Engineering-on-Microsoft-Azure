@@ -1,0 +1,26 @@
+{
+  "userId": 25177,
+  "cartId": "20d55b4a-b07d-42e9-9050-e4204d3aa493",
+  "preferredProducts": [
+    234,
+    1975,
+    4724
+  ],
+  "productReviews": [
+    {
+      "productId": 4751,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-03-30T11:37:12.9146456+02:00"
+    },
+    {
+      "productId": 4376,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-01-08T18:09:29.9927879+02:00"
+    },
+    {
+      "productId": 337,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-07-29T04:08:08.2692314+03:00"
+    }
+  ]
+}

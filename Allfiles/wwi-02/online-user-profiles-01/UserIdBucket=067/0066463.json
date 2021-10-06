@@ -1,0 +1,30 @@
+{
+  "userId": 66463,
+  "cartId": "a16a0732-e2bc-407e-9524-b201ef2cca14",
+  "preferredProducts": [
+    3767,
+    2272
+  ],
+  "productReviews": [
+    {
+      "productId": 3730,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-01-16T02:11:35.9627206+02:00"
+    },
+    {
+      "productId": 2145,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-09-08T20:47:29.7986779+03:00"
+    },
+    {
+      "productId": 1387,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-05-14T13:31:03.0633387+03:00"
+    },
+    {
+      "productId": 4786,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-11-10T01:42:38.0361369+02:00"
+    }
+  ]
+}

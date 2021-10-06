@@ -1,0 +1,41 @@
+{
+  "userId": 82747,
+  "cartId": "06dee85d-74b2-4586-9554-f6bd2a2731c5",
+  "preferredProducts": [
+    230,
+    4622,
+    4050,
+    4922,
+    1161,
+    4419,
+    4260,
+    4779
+  ],
+  "productReviews": [
+    {
+      "productId": 3070,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-12T21:43:06.7049192+02:00"
+    },
+    {
+      "productId": 3341,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-09T15:09:48.1867336+02:00"
+    },
+    {
+      "productId": 1408,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-04-23T11:41:20.7631624+03:00"
+    },
+    {
+      "productId": 4085,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-12-22T21:15:35.7643078+02:00"
+    },
+    {
+      "productId": 2744,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-06-06T23:10:17.618357+03:00"
+    }
+  ]
+}

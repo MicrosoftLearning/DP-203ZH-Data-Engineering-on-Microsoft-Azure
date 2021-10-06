@@ -1,0 +1,43 @@
+{
+  "userId": 23904,
+  "cartId": "b8151111-b715-4605-ac3f-4c9ddb910491",
+  "preferredProducts": [
+    1502,
+    1071,
+    1098,
+    2364,
+    4436,
+    4486,
+    2263,
+    4854,
+    2083,
+    4756
+  ],
+  "productReviews": [
+    {
+      "productId": 3858,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-08-08T07:12:58.4101767+03:00"
+    },
+    {
+      "productId": 1771,
+      "reviewText": "this XSS is mellow.",
+      "reviewDate": "2016-11-17T14:13:48.37151+02:00"
+    },
+    {
+      "productId": 3789,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-06-09T22:24:26.4760514+03:00"
+    },
+    {
+      "productId": 3532,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-10-15T06:57:44.8370919+03:00"
+    },
+    {
+      "productId": 2194,
+      "reviewText": "This Architect works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2017-12-11T05:00:28.017293+02:00"
+    }
+  ]
+}

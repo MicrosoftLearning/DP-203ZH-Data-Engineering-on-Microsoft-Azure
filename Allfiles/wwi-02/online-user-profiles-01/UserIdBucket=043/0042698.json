@@ -1,0 +1,36 @@
+{
+  "userId": 42698,
+  "cartId": "f6f1eb10-14c1-4c3d-8587-d17993a57459",
+  "preferredProducts": [
+    1237,
+    3698,
+    3542,
+    4085,
+    984,
+    4498,
+    4621,
+    2799
+  ],
+  "productReviews": [
+    {
+      "productId": 3660,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-08-17T08:31:33.6068141+03:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-11-20T16:31:48.4952841+02:00"
+    },
+    {
+      "productId": 2033,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-04-21T04:22:43.3847654+03:00"
+    },
+    {
+      "productId": 3071,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-02-23T04:39:32.9155637+02:00"
+    }
+  ]
+}

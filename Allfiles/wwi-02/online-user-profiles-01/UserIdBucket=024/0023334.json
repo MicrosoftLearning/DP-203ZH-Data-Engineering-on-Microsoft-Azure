@@ -1,0 +1,30 @@
+{
+  "userId": 23334,
+  "cartId": "d97b9a3d-2425-4010-b4cc-eb082460d58c",
+  "preferredProducts": [
+    4430,
+    1312,
+    915,
+    2286,
+    1253,
+    2081,
+    1569
+  ],
+  "productReviews": [
+    {
+      "productId": 2504,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-05-21T04:29:51.8498809+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-03-31T04:11:12.2638499+03:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-05-24T05:28:52.0094539+03:00"
+    }
+  ]
+}

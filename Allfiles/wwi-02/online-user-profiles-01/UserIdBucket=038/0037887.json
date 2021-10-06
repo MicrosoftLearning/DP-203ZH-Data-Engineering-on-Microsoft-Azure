@@ -1,0 +1,32 @@
+{
+  "userId": 37887,
+  "cartId": "eb0fa1f1-e0bd-4ea2-b5fc-6f04160e4b5b",
+  "preferredProducts": [
+    1889,
+    2086,
+    1612,
+    2596,
+    2981,
+    4661,
+    1506,
+    3744,
+    291
+  ],
+  "productReviews": [
+    {
+      "productId": 4054,
+      "reviewText": "this Assistant is tasty.",
+      "reviewDate": "2019-03-28T04:06:46.7313477+02:00"
+    },
+    {
+      "productId": 655,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-10-30T08:46:06.7925418+02:00"
+    },
+    {
+      "productId": 2203,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-10-17T23:42:38.7038979+03:00"
+    }
+  ]
+}

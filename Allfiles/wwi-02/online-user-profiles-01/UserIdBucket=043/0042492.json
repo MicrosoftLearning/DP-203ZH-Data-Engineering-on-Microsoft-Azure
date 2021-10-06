@@ -1,0 +1,36 @@
+{
+  "userId": 42492,
+  "cartId": "422e88f1-1d54-4ec0-906b-d2e8485fed3e",
+  "preferredProducts": [
+    3514,
+    1899,
+    696,
+    2882,
+    3897,
+    4862,
+    4034,
+    4938
+  ],
+  "productReviews": [
+    {
+      "productId": 849,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-08-10T23:30:23.8147906+03:00"
+    },
+    {
+      "productId": 4007,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-04-09T06:21:02.7630846+03:00"
+    },
+    {
+      "productId": 1733,
+      "reviewText": "This Saudi Arabia works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-10-11T09:21:41.4196945+03:00"
+    },
+    {
+      "productId": 179,
+      "reviewText": "This Austria works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-02-27T03:49:39.572808+02:00"
+    }
+  ]
+}

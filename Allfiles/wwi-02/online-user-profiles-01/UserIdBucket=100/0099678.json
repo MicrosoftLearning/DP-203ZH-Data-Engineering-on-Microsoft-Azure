@@ -1,0 +1,33 @@
+{
+  "userId": 99678,
+  "cartId": "90bea025-f8aa-4244-9ca9-430c2c62c6a1",
+  "preferredProducts": [
+    2883,
+    1251,
+    574,
+    1186,
+    499
+  ],
+  "productReviews": [
+    {
+      "productId": 2597,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-11-18T15:53:58.8437335+02:00"
+    },
+    {
+      "productId": 1196,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-09-12T17:50:52.9598719+03:00"
+    },
+    {
+      "productId": 676,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-06-12T16:44:44.2412658+03:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-09-23T06:06:17.7673521+03:00"
+    }
+  ]
+}

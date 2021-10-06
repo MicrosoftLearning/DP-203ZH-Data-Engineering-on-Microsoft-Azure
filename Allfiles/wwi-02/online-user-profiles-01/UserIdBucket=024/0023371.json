@@ -1,0 +1,31 @@
+{
+  "userId": 23371,
+  "cartId": "cf3c57e8-76cc-4ab7-9f5b-37535b538751",
+  "preferredProducts": [
+    3723,
+    1869,
+    35,
+    4135,
+    2279,
+    1964,
+    4952,
+    2258
+  ],
+  "productReviews": [
+    {
+      "productId": 1714,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-08-30T00:18:01.1396799+03:00"
+    },
+    {
+      "productId": 2675,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-05-05T23:23:58.1387296+03:00"
+    },
+    {
+      "productId": 2962,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-09-29T04:43:58.6757992+03:00"
+    }
+  ]
+}

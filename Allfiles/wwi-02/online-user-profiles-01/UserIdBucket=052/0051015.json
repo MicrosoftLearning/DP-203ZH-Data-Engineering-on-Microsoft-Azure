@@ -1,0 +1,21 @@
+{
+  "userId": 51015,
+  "cartId": "ca6bd7dd-96a1-4297-a9c3-c4f36c0911cd",
+  "preferredProducts": [
+    4901,
+    2205,
+    1824
+  ],
+  "productReviews": [
+    {
+      "productId": 2709,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-02-11T19:16:56.2497724+02:00"
+    },
+    {
+      "productId": 4845,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-06-06T22:04:43.1395001+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 42798,
+  "cartId": "4011958e-12fb-4afa-8e94-b464145e1d0a",
+  "preferredProducts": [
+    2713,
+    3136,
+    4891,
+    4926,
+    4249,
+    2248,
+    98,
+    3461
+  ],
+  "productReviews": [
+    {
+      "productId": 3377,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-05-20T05:59:49.9566261+03:00"
+    },
+    {
+      "productId": 1164,
+      "reviewText": "This implement works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-08-27T03:36:47.3771111+03:00"
+    },
+    {
+      "productId": 784,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2020-03-03T06:16:29.5140411+02:00"
+    }
+  ]
+}

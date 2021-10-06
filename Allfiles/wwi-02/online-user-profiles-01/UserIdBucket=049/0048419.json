@@ -1,0 +1,31 @@
+{
+  "userId": 48419,
+  "cartId": "b4b24f31-73a4-4307-9508-bb706029b3f4",
+  "preferredProducts": [
+    4317,
+    1469,
+    4960
+  ],
+  "productReviews": [
+    {
+      "productId": 4902,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-10-30T20:42:39.4327622+02:00"
+    },
+    {
+      "productId": 2461,
+      "reviewText": "this invoice is ghetto.",
+      "reviewDate": "2018-10-01T18:54:47.8427722+03:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-04-22T10:08:14.7335382+03:00"
+    },
+    {
+      "productId": 2372,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-12-23T22:05:37.0751524+02:00"
+    }
+  ]
+}

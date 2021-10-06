@@ -1,0 +1,33 @@
+{
+  "userId": 61127,
+  "cartId": "4d06a72b-7b80-4463-89a5-040cfecd053b",
+  "preferredProducts": [
+    287,
+    3182,
+    3227,
+    3645,
+    3033
+  ],
+  "productReviews": [
+    {
+      "productId": 4192,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-04-11T05:51:08.2150608+03:00"
+    },
+    {
+      "productId": 4852,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-03-22T15:03:34.8720341+02:00"
+    },
+    {
+      "productId": 1114,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-02-25T19:35:51.1915631+02:00"
+    },
+    {
+      "productId": 431,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-08-28T06:43:30.549115+03:00"
+    }
+  ]
+}

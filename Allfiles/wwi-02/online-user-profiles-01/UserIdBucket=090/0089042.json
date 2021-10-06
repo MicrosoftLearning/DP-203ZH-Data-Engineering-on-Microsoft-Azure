@@ -1,0 +1,38 @@
+{
+  "userId": 89042,
+  "cartId": "2ae665f5-3f1c-42ef-8e64-ff200aff2e1c",
+  "preferredProducts": [
+    716,
+    2558,
+    349,
+    1348,
+    3180,
+    557,
+    1473,
+    3008,
+    395,
+    4518
+  ],
+  "productReviews": [
+    {
+      "productId": 2321,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-11-27T15:05:57.3433203+02:00"
+    },
+    {
+      "productId": 1397,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-06-04T06:40:46.2554595+03:00"
+    },
+    {
+      "productId": 2971,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-11-29T15:03:21.7358468+02:00"
+    },
+    {
+      "productId": 4042,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-02-05T02:08:44.701421+02:00"
+    }
+  ]
+}

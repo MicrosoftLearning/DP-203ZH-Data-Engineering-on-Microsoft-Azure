@@ -1,0 +1,32 @@
+{
+  "userId": 10336,
+  "cartId": "1eb8cb39-3852-4127-9f5f-8d3e9df6e6e7",
+  "preferredProducts": [
+    4357,
+    3371,
+    2719,
+    2232
+  ],
+  "productReviews": [
+    {
+      "productId": 2038,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-08-19T18:23:18.6724013+03:00"
+    },
+    {
+      "productId": 4447,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-01-26T01:39:53.2143079+02:00"
+    },
+    {
+      "productId": 4957,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-04-01T01:41:48.2609628+03:00"
+    },
+    {
+      "productId": 3390,
+      "reviewText": "This granular works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-11-11T13:40:32.3101421+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 26701,
+  "cartId": "dd4d2571-f3f9-44dd-b5ca-69256df1a982",
+  "preferredProducts": [
+    1651,
+    4929,
+    4304,
+    660,
+    59
+  ],
+  "productReviews": [
+    {
+      "productId": 730,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-10-10T19:56:46.5768551+03:00"
+    },
+    {
+      "productId": 1088,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-10-05T07:59:35.128249+03:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-03-31T13:47:01.0368795+03:00"
+    },
+    {
+      "productId": 3461,
+      "reviewText": "This bluetooth works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2018-08-31T14:38:07.9496747+03:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-09-04T07:47:58.2035399+03:00"
+    }
+  ]
+}

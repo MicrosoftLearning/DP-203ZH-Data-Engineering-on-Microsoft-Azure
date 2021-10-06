@@ -1,0 +1,26 @@
+{
+  "userId": 4887,
+  "cartId": "a3d2316f-6eb9-4293-a074-91553bc768ce",
+  "preferredProducts": [
+    3814,
+    3253,
+    4775
+  ],
+  "productReviews": [
+    {
+      "productId": 3857,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-08-27T12:25:15.1737341+03:00"
+    },
+    {
+      "productId": 23,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-10-18T10:16:28.4815924+03:00"
+    },
+    {
+      "productId": 2195,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-10-10T04:53:46.7920397+03:00"
+    }
+  ]
+}

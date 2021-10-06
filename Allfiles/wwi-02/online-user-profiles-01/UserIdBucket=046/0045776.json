@@ -1,0 +1,37 @@
+{
+  "userId": 45776,
+  "cartId": "e451d061-fcbb-42f0-b67e-fc572e87f54c",
+  "preferredProducts": [
+    640,
+    4584,
+    1379,
+    1630
+  ],
+  "productReviews": [
+    {
+      "productId": 3502,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-02-22T03:19:38.7208913+02:00"
+    },
+    {
+      "productId": 2894,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-07-03T22:48:45.4438959+03:00"
+    },
+    {
+      "productId": 862,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-06-22T04:31:27.9767976+03:00"
+    },
+    {
+      "productId": 3065,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-17T02:32:33.3955888+02:00"
+    },
+    {
+      "productId": 2642,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-04-24T07:12:55.7158216+03:00"
+    }
+  ]
+}

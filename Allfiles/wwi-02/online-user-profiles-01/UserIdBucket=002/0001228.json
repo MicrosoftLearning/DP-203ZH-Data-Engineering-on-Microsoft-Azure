@@ -1,0 +1,42 @@
+{
+  "userId": 1228,
+  "cartId": "e77d91c2-5c4a-4f61-bc15-728b1a53ff6b",
+  "preferredProducts": [
+    3588,
+    3117,
+    924,
+    4590,
+    3314,
+    1607,
+    2405,
+    471,
+    4419
+  ],
+  "productReviews": [
+    {
+      "productId": 2306,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-09-29T00:15:39.793759+03:00"
+    },
+    {
+      "productId": 3420,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-19T22:22:01.1613886+02:00"
+    },
+    {
+      "productId": 4164,
+      "reviewText": "this FTP is dominant.",
+      "reviewDate": "2016-10-01T19:34:29.4443533+03:00"
+    },
+    {
+      "productId": 4917,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-06-30T11:47:09.2529224+03:00"
+    },
+    {
+      "productId": 4584,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-11-23T18:33:11.9670599+02:00"
+    }
+  ]
+}

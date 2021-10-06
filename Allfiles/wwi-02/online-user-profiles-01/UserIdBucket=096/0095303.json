@@ -1,0 +1,40 @@
+{
+  "userId": 95303,
+  "cartId": "b12cc661-e881-40f0-88ba-405ee5dbacf1",
+  "preferredProducts": [
+    4503,
+    1705,
+    2903,
+    4894,
+    1642,
+    932,
+    3001
+  ],
+  "productReviews": [
+    {
+      "productId": 4283,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-27T09:41:08.814896+02:00"
+    },
+    {
+      "productId": 4146,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-08-19T11:17:57.2681048+03:00"
+    },
+    {
+      "productId": 3797,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-09-17T09:29:09.4035349+03:00"
+    },
+    {
+      "productId": 4500,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-05-30T02:49:05.0667124+03:00"
+    },
+    {
+      "productId": 1489,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-08-19T16:55:17.2921741+03:00"
+    }
+  ]
+}

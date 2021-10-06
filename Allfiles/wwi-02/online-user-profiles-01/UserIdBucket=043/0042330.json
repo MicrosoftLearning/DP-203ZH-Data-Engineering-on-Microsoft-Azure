@@ -1,0 +1,20 @@
+{
+  "userId": 42330,
+  "cartId": "bb0e5036-34e7-42f6-b3a3-0e75532d0ab3",
+  "preferredProducts": [
+    2471,
+    2063
+  ],
+  "productReviews": [
+    {
+      "productId": 1651,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-05-09T09:09:30.0534251+03:00"
+    },
+    {
+      "productId": 3081,
+      "reviewText": "This Fords works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-06-06T16:10:14.7861812+03:00"
+    }
+  ]
+}

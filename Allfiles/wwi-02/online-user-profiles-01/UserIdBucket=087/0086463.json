@@ -1,0 +1,41 @@
+{
+  "userId": 86463,
+  "cartId": "944ce721-5dc1-4739-98f4-53de16793ff6",
+  "preferredProducts": [
+    4205,
+    2506,
+    1445,
+    4884,
+    1699,
+    2572,
+    654,
+    61
+  ],
+  "productReviews": [
+    {
+      "productId": 3966,
+      "reviewText": "this project is brown.",
+      "reviewDate": "2019-01-14T17:06:01.7406812+02:00"
+    },
+    {
+      "productId": 4871,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-09-18T17:39:09.1286662+03:00"
+    },
+    {
+      "productId": 2313,
+      "reviewText": "this SQL is snowy.",
+      "reviewDate": "2018-03-13T08:56:19.3493401+02:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-11-02T21:10:01.0144705+02:00"
+    },
+    {
+      "productId": 3455,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2018-04-22T23:06:51.151106+03:00"
+    }
+  ]
+}

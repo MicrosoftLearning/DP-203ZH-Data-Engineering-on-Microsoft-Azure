@@ -1,0 +1,27 @@
+{
+  "userId": 85550,
+  "cartId": "4ef7fcaf-67fc-46a0-b4c1-ab7a110611d9",
+  "preferredProducts": [
+    3287,
+    3371,
+    1057,
+    2635
+  ],
+  "productReviews": [
+    {
+      "productId": 4680,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-11-22T11:55:54.4637038+02:00"
+    },
+    {
+      "productId": 4486,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-03-24T12:54:13.1108524+02:00"
+    },
+    {
+      "productId": 2729,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-03-18T02:43:01.4192673+02:00"
+    }
+  ]
+}

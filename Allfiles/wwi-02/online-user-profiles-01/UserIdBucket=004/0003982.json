@@ -1,0 +1,29 @@
+{
+  "userId": 3982,
+  "cartId": "f22c9ba1-5758-48e1-a018-46b17268b2aa",
+  "preferredProducts": [
+    3087,
+    4118,
+    4913,
+    2393,
+    3415,
+    1073
+  ],
+  "productReviews": [
+    {
+      "productId": 2999,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-07-10T17:56:18.9330808+03:00"
+    },
+    {
+      "productId": 2249,
+      "reviewText": "this Metal is slurpee.",
+      "reviewDate": "2018-06-24T09:28:02.5257403+03:00"
+    },
+    {
+      "productId": 2327,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-05-11T08:30:17.2163155+03:00"
+    }
+  ]
+}

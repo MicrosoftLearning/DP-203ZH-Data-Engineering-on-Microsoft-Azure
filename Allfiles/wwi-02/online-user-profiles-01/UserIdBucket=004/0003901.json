@@ -1,0 +1,39 @@
+{
+  "userId": 3901,
+  "cartId": "6158b462-3ce3-4993-88f6-c33bd82a2460",
+  "preferredProducts": [
+    3744,
+    4822,
+    1048,
+    4679,
+    2398,
+    708
+  ],
+  "productReviews": [
+    {
+      "productId": 739,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-07-15T12:50:04.8323623+03:00"
+    },
+    {
+      "productId": 3475,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-11-02T17:21:09.3662085+02:00"
+    },
+    {
+      "productId": 4332,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-11-12T07:15:03.3611126+02:00"
+    },
+    {
+      "productId": 1330,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-12-03T21:55:50.6537736+02:00"
+    },
+    {
+      "productId": 1714,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-09-10T14:23:32.6463868+03:00"
+    }
+  ]
+}

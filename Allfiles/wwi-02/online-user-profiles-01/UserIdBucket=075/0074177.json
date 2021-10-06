@@ -1,0 +1,29 @@
+{
+  "userId": 74177,
+  "cartId": "3bdba31a-3afd-4d67-a42a-7bbca5ff61b4",
+  "preferredProducts": [
+    1110,
+    1776,
+    617,
+    1718,
+    1382,
+    4496
+  ],
+  "productReviews": [
+    {
+      "productId": 2071,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-12-14T01:37:48.1819929+02:00"
+    },
+    {
+      "productId": 811,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-06-24T16:20:00.2348135+03:00"
+    },
+    {
+      "productId": 4654,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2020-04-15T16:36:10.6613395+03:00"
+    }
+  ]
+}

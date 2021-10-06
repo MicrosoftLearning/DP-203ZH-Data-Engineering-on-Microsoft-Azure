@@ -1,0 +1,27 @@
+{
+  "userId": 2946,
+  "cartId": "e6ab3705-4bb2-415a-a853-5ca0d47342c4",
+  "preferredProducts": [
+    58,
+    3935,
+    948,
+    718
+  ],
+  "productReviews": [
+    {
+      "productId": 606,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-11-10T19:13:46.8104514+02:00"
+    },
+    {
+      "productId": 3055,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-04-30T01:37:13.6625951+03:00"
+    },
+    {
+      "productId": 2219,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-09-01T12:15:29.8796834+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 7158,
+  "cartId": "a545a3e8-7301-4e29-a679-56cd33e18b5e",
+  "preferredProducts": [
+    2005,
+    3245
+  ],
+  "productReviews": [
+    {
+      "productId": 4513,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-02-17T01:15:51.1677364+02:00"
+    },
+    {
+      "productId": 4615,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-04-06T22:44:31.1523791+03:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-05-18T15:38:41.2882999+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 57376,
+  "cartId": "10faef03-8841-4e2b-afac-9fb16556e0b8",
+  "preferredProducts": [
+    2660,
+    807,
+    2878,
+    2702,
+    1116,
+    3460,
+    1464,
+    3974,
+    4745
+  ],
+  "productReviews": [
+    {
+      "productId": 515,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-04-13T10:57:59.9368739+03:00"
+    },
+    {
+      "productId": 771,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-12-01T19:27:05.6919985+02:00"
+    }
+  ]
+}

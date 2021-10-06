@@ -1,0 +1,34 @@
+{
+  "userId": 89934,
+  "cartId": "993838a3-8267-4c6b-aade-0cdab943b2a0",
+  "preferredProducts": [
+    3837,
+    4637,
+    1765,
+    726,
+    1108,
+    2529
+  ],
+  "productReviews": [
+    {
+      "productId": 1808,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-04-02T19:27:32.5380586+03:00"
+    },
+    {
+      "productId": 1400,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-08-08T21:17:35.5177478+03:00"
+    },
+    {
+      "productId": 2995,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-11-16T05:01:23.1392271+02:00"
+    },
+    {
+      "productId": 4790,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-12-31T17:55:39.5403391+02:00"
+    }
+  ]
+}

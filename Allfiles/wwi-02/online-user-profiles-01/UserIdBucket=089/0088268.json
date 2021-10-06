@@ -1,0 +1,25 @@
+{
+  "userId": 88268,
+  "cartId": "005efd56-8623-4947-84e1-4332a3f5bf4a",
+  "preferredProducts": [
+    2496,
+    2137,
+    238,
+    2744,
+    916,
+    4017,
+    4864
+  ],
+  "productReviews": [
+    {
+      "productId": 701,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-01-01T21:01:57.0003319+02:00"
+    },
+    {
+      "productId": 4659,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-07-07T16:05:20.5548193+03:00"
+    }
+  ]
+}

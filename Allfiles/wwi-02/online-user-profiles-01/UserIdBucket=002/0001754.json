@@ -1,0 +1,23 @@
+{
+  "userId": 1754,
+  "cartId": "ad19e392-744e-414c-9312-b215580de714",
+  "preferredProducts": [
+    4898,
+    283,
+    1568,
+    300,
+    1419
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-08-30T12:08:18.5585818+03:00"
+    },
+    {
+      "productId": 1239,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-05-01T05:23:39.4182561+03:00"
+    }
+  ]
+}

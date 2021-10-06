@@ -1,0 +1,26 @@
+{
+  "userId": 30676,
+  "cartId": "81639127-6172-4f44-a5a4-ac5b20eeefd6",
+  "preferredProducts": [
+    2520,
+    3473,
+    3545,
+    4738,
+    4414,
+    4360,
+    3926,
+    1447
+  ],
+  "productReviews": [
+    {
+      "productId": 2322,
+      "reviewText": "this override is top-notch.",
+      "reviewDate": "2019-10-06T10:57:08.4127967+03:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-11-30T19:57:56.0941107+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 64761,
+  "cartId": "48e0035f-3613-44b1-a7e2-6dbcb800893e",
+  "preferredProducts": [
+    1079,
+    1837
+  ],
+  "productReviews": [
+    {
+      "productId": 2795,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-06-11T11:16:18.0894887+03:00"
+    },
+    {
+      "productId": 4747,
+      "reviewText": "This CSS, does exactly what it's suppose to do.",
+      "reviewDate": "2017-08-17T06:03:45.6779831+03:00"
+    },
+    {
+      "productId": 2858,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-02-23T04:33:36.7556008+02:00"
+    }
+  ]
+}

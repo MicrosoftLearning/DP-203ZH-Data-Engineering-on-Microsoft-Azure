@@ -1,0 +1,37 @@
+{
+  "userId": 5510,
+  "cartId": "6d9962e5-bf50-4366-9b51-d9fa31489903",
+  "preferredProducts": [
+    2950,
+    4650,
+    4460,
+    245
+  ],
+  "productReviews": [
+    {
+      "productId": 4198,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-08-11T00:29:17.2204846+03:00"
+    },
+    {
+      "productId": 2477,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-06-15T13:50:15.9063307+03:00"
+    },
+    {
+      "productId": 3563,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-03-21T05:35:56.0708978+02:00"
+    },
+    {
+      "productId": 2209,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-08-31T04:57:46.8930145+03:00"
+    },
+    {
+      "productId": 618,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-11-02T19:56:28.2299424+02:00"
+    }
+  ]
+}

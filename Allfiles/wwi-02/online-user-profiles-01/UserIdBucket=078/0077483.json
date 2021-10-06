@@ -1,0 +1,41 @@
+{
+  "userId": 77483,
+  "cartId": "d00cf4e6-cad8-4677-9900-47b55ab8b54a",
+  "preferredProducts": [
+    4012,
+    1412,
+    4699,
+    905,
+    294,
+    1483,
+    4012,
+    1896
+  ],
+  "productReviews": [
+    {
+      "productId": 3270,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-05-26T22:28:32.0157769+03:00"
+    },
+    {
+      "productId": 4699,
+      "reviewText": "this Trace is smooth.",
+      "reviewDate": "2017-12-10T23:53:34.4428331+02:00"
+    },
+    {
+      "productId": 4891,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-04-05T23:06:44.2590837+03:00"
+    },
+    {
+      "productId": 1269,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-01-15T07:08:39.8331395+02:00"
+    },
+    {
+      "productId": 760,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-05-27T09:04:05.5893035+03:00"
+    }
+  ]
+}

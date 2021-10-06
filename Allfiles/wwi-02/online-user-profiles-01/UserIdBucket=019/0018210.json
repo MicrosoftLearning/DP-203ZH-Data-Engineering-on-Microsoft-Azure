@@ -1,0 +1,35 @@
+{
+  "userId": 18210,
+  "cartId": "ef52622b-4074-4096-b98a-566f1f466d2c",
+  "preferredProducts": [
+    69,
+    2257,
+    4474,
+    3914,
+    4369,
+    363,
+    2702
+  ],
+  "productReviews": [
+    {
+      "productId": 701,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-10-11T08:07:18.441517+03:00"
+    },
+    {
+      "productId": 4929,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-01-01T03:01:10.5940119+02:00"
+    },
+    {
+      "productId": 2406,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-03-01T13:56:13.8488049+02:00"
+    },
+    {
+      "productId": 3344,
+      "reviewText": "this back-end is perplexed.",
+      "reviewDate": "2019-12-29T21:14:04.5588306+02:00"
+    }
+  ]
+}

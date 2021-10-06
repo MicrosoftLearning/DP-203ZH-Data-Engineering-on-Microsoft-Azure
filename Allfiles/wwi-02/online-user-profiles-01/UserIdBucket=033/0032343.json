@@ -1,0 +1,35 @@
+{
+  "userId": 32343,
+  "cartId": "6ae57cd2-c48f-447e-bd04-a3dea8a34c80",
+  "preferredProducts": [
+    3007,
+    3456,
+    2914,
+    3233,
+    1712,
+    2295,
+    2000
+  ],
+  "productReviews": [
+    {
+      "productId": 728,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-04-28T12:49:43.2064369+03:00"
+    },
+    {
+      "productId": 315,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-12-30T18:13:10.3531051+02:00"
+    },
+    {
+      "productId": 1407,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-02-13T16:33:34.8772659+02:00"
+    },
+    {
+      "productId": 4836,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-12-22T01:09:06.8927323+02:00"
+    }
+  ]
+}

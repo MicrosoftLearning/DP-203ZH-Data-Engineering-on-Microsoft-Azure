@@ -1,0 +1,30 @@
+{
+  "userId": 5555,
+  "cartId": "8f4d3c62-dc5a-4c58-a5d6-c4fe331aed76",
+  "preferredProducts": [
+    2291,
+    3222,
+    525,
+    169,
+    1094,
+    1599,
+    3916
+  ],
+  "productReviews": [
+    {
+      "productId": 2178,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-08-03T17:41:06.1930077+03:00"
+    },
+    {
+      "productId": 127,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-11-23T06:00:10.4334487+02:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-07-15T00:42:00.633953+03:00"
+    }
+  ]
+}

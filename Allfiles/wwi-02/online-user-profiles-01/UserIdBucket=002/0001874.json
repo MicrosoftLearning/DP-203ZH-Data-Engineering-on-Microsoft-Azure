@@ -1,0 +1,26 @@
+{
+  "userId": 1874,
+  "cartId": "220b50dd-c35d-41ba-b908-4a5cdc7ae7e3",
+  "preferredProducts": [
+    645,
+    8,
+    3967
+  ],
+  "productReviews": [
+    {
+      "productId": 2230,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-09-27T10:57:45.8481326+03:00"
+    },
+    {
+      "productId": 4743,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-11-22T12:47:22.9432716+02:00"
+    },
+    {
+      "productId": 2134,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-10-25T03:33:01.3206952+03:00"
+    }
+  ]
+}

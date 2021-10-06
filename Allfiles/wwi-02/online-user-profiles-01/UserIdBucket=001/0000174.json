@@ -1,0 +1,31 @@
+{
+  "userId": 174,
+  "cartId": "98de2d0e-cf74-44ac-bb49-2323627856bb",
+  "preferredProducts": [
+    2674,
+    1500,
+    3268,
+    3155,
+    764,
+    951,
+    4820,
+    1883
+  ],
+  "productReviews": [
+    {
+      "productId": 770,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-07-18T02:31:18.8652069+03:00"
+    },
+    {
+      "productId": 586,
+      "reviewText": "This Concrete works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-05-18T09:45:02.157515+03:00"
+    },
+    {
+      "productId": 93,
+      "reviewText": "This alarm works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-03-01T13:02:59.7236449+02:00"
+    }
+  ]
+}

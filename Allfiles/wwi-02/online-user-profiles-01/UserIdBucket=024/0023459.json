@@ -1,0 +1,33 @@
+{
+  "userId": 23459,
+  "cartId": "4cca52cb-fd99-4a94-aa79-8a6c0e3df678",
+  "preferredProducts": [
+    4499,
+    3838,
+    4369,
+    3277,
+    4675
+  ],
+  "productReviews": [
+    {
+      "productId": 1641,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-10-14T06:57:14.1286311+03:00"
+    },
+    {
+      "productId": 1966,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-04-09T20:36:54.0600541+03:00"
+    },
+    {
+      "productId": 3493,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-01-16T07:27:32.1407064+02:00"
+    },
+    {
+      "productId": 3349,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-10-09T23:42:39.5433649+03:00"
+    }
+  ]
+}

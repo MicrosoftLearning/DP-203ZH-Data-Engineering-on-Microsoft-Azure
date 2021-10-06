@@ -1,0 +1,26 @@
+{
+  "userId": 78738,
+  "cartId": "d202e1be-bcd0-40e0-9264-818d1d80557b",
+  "preferredProducts": [
+    3523,
+    454,
+    4707,
+    2100,
+    4704,
+    3339,
+    2345,
+    347
+  ],
+  "productReviews": [
+    {
+      "productId": 1505,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-07-13T17:27:31.7579641+03:00"
+    },
+    {
+      "productId": 4711,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-04-02T02:23:33.4832055+03:00"
+    }
+  ]
+}

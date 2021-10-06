@@ -1,0 +1,32 @@
+{
+  "userId": 60841,
+  "cartId": "f69803f0-3eea-404f-9447-69b802fc3509",
+  "preferredProducts": [
+    338,
+    1545,
+    911,
+    4846,
+    4032,
+    4776,
+    2155,
+    679,
+    2154
+  ],
+  "productReviews": [
+    {
+      "productId": 3490,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-01-06T19:38:40.5897942+02:00"
+    },
+    {
+      "productId": 1279,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-07-16T11:59:15.150331+03:00"
+    },
+    {
+      "productId": 1607,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-12-15T14:08:50.518342+02:00"
+    }
+  ]
+}

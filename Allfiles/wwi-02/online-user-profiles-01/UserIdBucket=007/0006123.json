@@ -1,0 +1,34 @@
+{
+  "userId": 6123,
+  "cartId": "2ddee79e-7c94-46a6-9e5e-829d1df04c32",
+  "preferredProducts": [
+    1052,
+    1413,
+    4762,
+    2512,
+    3848,
+    1759
+  ],
+  "productReviews": [
+    {
+      "productId": 2791,
+      "reviewText": "This Lodge works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-03-27T12:33:38.0670206+02:00"
+    },
+    {
+      "productId": 2334,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-01-06T05:24:10.1089849+02:00"
+    },
+    {
+      "productId": 3917,
+      "reviewText": "this challenge is revolting.",
+      "reviewDate": "2017-10-22T19:41:48.930926+03:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-07-06T03:28:14.0191413+03:00"
+    }
+  ]
+}

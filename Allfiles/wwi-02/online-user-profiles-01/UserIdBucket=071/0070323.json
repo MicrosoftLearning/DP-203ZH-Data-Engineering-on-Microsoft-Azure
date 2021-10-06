@@ -1,0 +1,30 @@
+{
+  "userId": 70323,
+  "cartId": "cab58e38-e6f7-4d3b-843d-dca7abafb72b",
+  "preferredProducts": [
+    2653,
+    451
+  ],
+  "productReviews": [
+    {
+      "productId": 3636,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-04-07T06:45:34.8574309+03:00"
+    },
+    {
+      "productId": 4706,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-10-06T06:50:51.4786941+03:00"
+    },
+    {
+      "productId": 3472,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-10-10T04:02:32.0201754+03:00"
+    },
+    {
+      "productId": 1457,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2020-01-26T22:30:50.3452561+02:00"
+    }
+  ]
+}

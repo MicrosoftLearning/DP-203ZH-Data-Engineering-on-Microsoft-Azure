@@ -1,0 +1,23 @@
+{
+  "userId": 70565,
+  "cartId": "8fd6ef2d-4977-4848-a62d-44072d801867",
+  "preferredProducts": [
+    1933,
+    3457,
+    552,
+    503,
+    1171
+  ],
+  "productReviews": [
+    {
+      "productId": 1300,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-04-27T12:54:33.6272302+03:00"
+    },
+    {
+      "productId": 3365,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-03-25T06:09:44.2751391+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 88836,
+  "cartId": "9654ee96-3b62-4953-b55b-6999c33b7cb5",
+  "preferredProducts": [
+    806,
+    466,
+    3337,
+    1734,
+    3942,
+    928,
+    4197,
+    687,
+    463
+  ],
+  "productReviews": [
+    {
+      "productId": 1487,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-04-29T12:52:01.8383316+03:00"
+    },
+    {
+      "productId": 115,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-29T20:45:04.0126726+03:00"
+    }
+  ]
+}

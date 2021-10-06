@@ -1,0 +1,31 @@
+{
+  "userId": 85545,
+  "cartId": "bb15dcab-8579-49d5-b63a-2c185a98bb7d",
+  "preferredProducts": [
+    1354,
+    4063,
+    2190
+  ],
+  "productReviews": [
+    {
+      "productId": 292,
+      "reviewText": "this Intelligent is snowy.",
+      "reviewDate": "2018-06-21T10:28:53.4446891+03:00"
+    },
+    {
+      "productId": 2371,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-03-10T04:45:32.8121514+02:00"
+    },
+    {
+      "productId": 4557,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-01-26T19:14:29.6217221+02:00"
+    },
+    {
+      "productId": 1308,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-01-27T01:42:26.1394984+02:00"
+    }
+  ]
+}

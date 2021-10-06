@@ -1,0 +1,23 @@
+{
+  "userId": 3261,
+  "cartId": "78149d00-dd2f-4b91-8a6e-9ce1d8bc6b4c",
+  "preferredProducts": [
+    523,
+    1955,
+    2254,
+    4922,
+    1307
+  ],
+  "productReviews": [
+    {
+      "productId": 1490,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-11-09T17:58:38.4416577+02:00"
+    },
+    {
+      "productId": 2659,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-11-23T03:53:16.7166026+02:00"
+    }
+  ]
+}

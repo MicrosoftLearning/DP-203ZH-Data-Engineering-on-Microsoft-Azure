@@ -1,0 +1,37 @@
+{
+  "userId": 32853,
+  "cartId": "a2b64a74-eca1-47d7-877c-93cbdeddd02a",
+  "preferredProducts": [
+    12,
+    2543,
+    2002,
+    2534,
+    1990,
+    2162,
+    617,
+    2084,
+    4658
+  ],
+  "productReviews": [
+    {
+      "productId": 3015,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-10-04T23:53:00.279861+03:00"
+    },
+    {
+      "productId": 1206,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-03-04T05:42:07.7727933+02:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-10-04T13:16:38.3726726+03:00"
+    },
+    {
+      "productId": 52,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-08-21T04:06:15.1369359+03:00"
+    }
+  ]
+}

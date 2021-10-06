@@ -1,0 +1,29 @@
+{
+  "userId": 64340,
+  "cartId": "bac9c5cd-9325-4904-903c-e4e365483c82",
+  "preferredProducts": [
+    3719,
+    3639,
+    1471,
+    1237,
+    38,
+    1366
+  ],
+  "productReviews": [
+    {
+      "productId": 2112,
+      "reviewText": "this Licensed Fresh Tuna is snowy.",
+      "reviewDate": "2018-07-20T10:28:31.9265767+03:00"
+    },
+    {
+      "productId": 1984,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-11-02T16:41:30.5023395+02:00"
+    },
+    {
+      "productId": 1481,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-04-20T17:56:05.3451029+03:00"
+    }
+  ]
+}

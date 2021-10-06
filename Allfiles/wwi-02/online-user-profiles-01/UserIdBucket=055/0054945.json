@@ -1,0 +1,29 @@
+{
+  "userId": 54945,
+  "cartId": "1d42050c-778a-45b4-9e51-a1bb52911d9f",
+  "preferredProducts": [
+    288
+  ],
+  "productReviews": [
+    {
+      "productId": 4307,
+      "reviewText": "this input is ratty.",
+      "reviewDate": "2019-05-09T04:50:53.6739312+03:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-07-24T05:32:11.09607+03:00"
+    },
+    {
+      "productId": 189,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-09-28T19:09:39.3075452+03:00"
+    },
+    {
+      "productId": 2043,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-08-13T01:40:34.6563372+03:00"
+    }
+  ]
+}

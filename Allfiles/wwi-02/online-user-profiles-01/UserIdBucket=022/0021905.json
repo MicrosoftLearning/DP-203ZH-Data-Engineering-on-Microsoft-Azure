@@ -1,0 +1,32 @@
+{
+  "userId": 21905,
+  "cartId": "3de64570-1d66-4181-8516-2c583f780387",
+  "preferredProducts": [
+    665,
+    4499,
+    3297,
+    319
+  ],
+  "productReviews": [
+    {
+      "productId": 4718,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-01-01T16:42:44.432636+02:00"
+    },
+    {
+      "productId": 738,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-08-17T19:00:52.2457508+03:00"
+    },
+    {
+      "productId": 2012,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-08-22T17:20:34.0375175+03:00"
+    },
+    {
+      "productId": 4821,
+      "reviewText": "this Director is nifty.",
+      "reviewDate": "2019-08-26T08:12:19.9335263+03:00"
+    }
+  ]
+}

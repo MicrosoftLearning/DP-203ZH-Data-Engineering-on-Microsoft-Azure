@@ -1,0 +1,37 @@
+{
+  "userId": 62579,
+  "cartId": "a7071162-b453-4143-bd48-719e15be8dc9",
+  "preferredProducts": [
+    4223,
+    3989,
+    4444,
+    1529,
+    3847,
+    1832,
+    3271,
+    4088,
+    2371
+  ],
+  "productReviews": [
+    {
+      "productId": 485,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-01-09T08:31:54.8295093+02:00"
+    },
+    {
+      "productId": 4056,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-07-25T05:21:07.7144922+03:00"
+    },
+    {
+      "productId": 2627,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-08-18T17:32:53.7668516+03:00"
+    },
+    {
+      "productId": 4655,
+      "reviewText": "this Sleek is complimentary.",
+      "reviewDate": "2018-10-19T19:26:33.1151034+03:00"
+    }
+  ]
+}

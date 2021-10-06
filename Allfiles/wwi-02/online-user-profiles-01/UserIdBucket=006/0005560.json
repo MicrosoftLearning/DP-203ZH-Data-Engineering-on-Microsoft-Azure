@@ -1,0 +1,30 @@
+{
+  "userId": 5560,
+  "cartId": "ae6eabac-276b-4940-992a-0da454bb5ab0",
+  "preferredProducts": [
+    1607,
+    513
+  ],
+  "productReviews": [
+    {
+      "productId": 134,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-08-03T03:59:33.0482219+03:00"
+    },
+    {
+      "productId": 2528,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-08-25T05:06:54.2820373+03:00"
+    },
+    {
+      "productId": 915,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-05-18T03:58:54.4224944+03:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-01-18T03:21:07.0661805+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 4543,
+  "cartId": "db6cbb3f-4c49-44b3-bcbc-f801ccc1d241",
+  "preferredProducts": [
+    704,
+    597,
+    4388,
+    4527,
+    863,
+    4671,
+    4027,
+    266,
+    3788,
+    2717
+  ],
+  "productReviews": [
+    {
+      "productId": 2951,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-10-27T21:46:48.6312066+02:00"
+    },
+    {
+      "productId": 3990,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2020-04-25T08:44:42.3565342+03:00"
+    },
+    {
+      "productId": 4965,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2020-02-25T09:42:26.6446884+02:00"
+    },
+    {
+      "productId": 510,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-01-25T02:53:34.7272092+02:00"
+    }
+  ]
+}

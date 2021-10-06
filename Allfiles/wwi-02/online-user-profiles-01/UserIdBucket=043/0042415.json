@@ -1,0 +1,33 @@
+{
+  "userId": 42415,
+  "cartId": "e2ebe11e-6f13-4039-8795-7b36b2c7859b",
+  "preferredProducts": [
+    76,
+    3412,
+    4538,
+    3552,
+    3508
+  ],
+  "productReviews": [
+    {
+      "productId": 2885,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-02-02T05:05:35.5893153+02:00"
+    },
+    {
+      "productId": 4653,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2016-07-17T05:06:43.1247485+03:00"
+    },
+    {
+      "productId": 431,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-01-19T15:08:51.5887542+02:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-10-29T09:32:39.5975375+02:00"
+    }
+  ]
+}

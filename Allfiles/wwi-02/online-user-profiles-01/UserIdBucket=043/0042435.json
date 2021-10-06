@@ -1,0 +1,35 @@
+{
+  "userId": 42435,
+  "cartId": "c0515514-8332-477c-824d-f5f92514d70b",
+  "preferredProducts": [
+    2449,
+    571
+  ],
+  "productReviews": [
+    {
+      "productId": 4220,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-06-15T16:16:12.5559386+03:00"
+    },
+    {
+      "productId": 2606,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-08-08T22:25:10.5509317+03:00"
+    },
+    {
+      "productId": 3390,
+      "reviewText": "this View is snowy.",
+      "reviewDate": "2018-10-05T02:06:03.6488427+03:00"
+    },
+    {
+      "productId": 791,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2020-03-18T16:45:47.7195191+02:00"
+    },
+    {
+      "productId": 4357,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-10-01T08:38:35.5953471+03:00"
+    }
+  ]
+}

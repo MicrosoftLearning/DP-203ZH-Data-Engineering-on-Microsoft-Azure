@@ -1,0 +1,36 @@
+{
+  "userId": 9275,
+  "cartId": "6f8d6147-493b-44a7-97ee-3e233e51423d",
+  "preferredProducts": [
+    783,
+    3032,
+    1612
+  ],
+  "productReviews": [
+    {
+      "productId": 2031,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-10-03T22:51:08.806907+03:00"
+    },
+    {
+      "productId": 3641,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-04-29T20:51:10.1446115+03:00"
+    },
+    {
+      "productId": 4454,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-09-28T06:07:59.4744206+03:00"
+    },
+    {
+      "productId": 1869,
+      "reviewText": "This PCI works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2020-03-31T13:58:23.752286+03:00"
+    },
+    {
+      "productId": 4821,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2020-02-10T02:23:28.3972162+02:00"
+    }
+  ]
+}

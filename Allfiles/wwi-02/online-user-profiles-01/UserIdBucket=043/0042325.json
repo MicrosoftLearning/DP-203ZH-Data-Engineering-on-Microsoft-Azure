@@ -1,0 +1,27 @@
+{
+  "userId": 42325,
+  "cartId": "b94d1477-77c8-4b07-b5a9-28879427cd97",
+  "preferredProducts": [
+    4295,
+    4998,
+    541,
+    226
+  ],
+  "productReviews": [
+    {
+      "productId": 4704,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-10-03T07:20:03.9773808+03:00"
+    },
+    {
+      "productId": 3182,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-03-28T13:14:42.3613374+02:00"
+    },
+    {
+      "productId": 3657,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-02-22T10:26:54.7316173+02:00"
+    }
+  ]
+}

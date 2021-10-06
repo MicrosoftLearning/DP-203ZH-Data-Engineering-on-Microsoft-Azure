@@ -1,0 +1,31 @@
+{
+  "userId": 42621,
+  "cartId": "fe766b5a-fbb9-4783-baab-89ac77860bb0",
+  "preferredProducts": [
+    3745,
+    1819,
+    366,
+    882,
+    4152,
+    1522,
+    1056,
+    1571
+  ],
+  "productReviews": [
+    {
+      "productId": 1661,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-05-04T02:02:30.0606606+03:00"
+    },
+    {
+      "productId": 4347,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-11-11T14:56:31.8364002+02:00"
+    },
+    {
+      "productId": 3430,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-11-09T12:20:02.8459671+02:00"
+    }
+  ]
+}

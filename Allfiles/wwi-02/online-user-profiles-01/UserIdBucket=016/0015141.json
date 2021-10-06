@@ -1,0 +1,38 @@
+{
+  "userId": 15141,
+  "cartId": "bb652a3f-b18a-433a-b793-7893811841a2",
+  "preferredProducts": [
+    1039,
+    2115,
+    2953,
+    4109,
+    1627,
+    3775,
+    528,
+    2733,
+    3924,
+    3239
+  ],
+  "productReviews": [
+    {
+      "productId": 419,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-02T07:01:29.090663+03:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-08-29T02:45:40.5820104+03:00"
+    },
+    {
+      "productId": 3996,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-04-15T21:48:53.7534649+03:00"
+    },
+    {
+      "productId": 4256,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-07-03T19:02:36.6024618+03:00"
+    }
+  ]
+}

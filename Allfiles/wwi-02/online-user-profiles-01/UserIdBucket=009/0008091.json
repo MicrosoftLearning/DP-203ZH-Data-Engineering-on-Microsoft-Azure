@@ -1,0 +1,40 @@
+{
+  "userId": 8091,
+  "cartId": "c67a3ddf-daa1-4201-ac5f-635721f4fe07",
+  "preferredProducts": [
+    3877,
+    4506,
+    1765,
+    654,
+    2152,
+    3599,
+    1627
+  ],
+  "productReviews": [
+    {
+      "productId": 3418,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-07-30T08:54:30.1000697+03:00"
+    },
+    {
+      "productId": 122,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-01-08T04:19:06.9672848+02:00"
+    },
+    {
+      "productId": 4367,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-09-15T08:35:08.3559122+03:00"
+    },
+    {
+      "productId": 1590,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-01-25T03:10:35.2057718+02:00"
+    },
+    {
+      "productId": 3741,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-11-07T06:15:50.0985404+02:00"
+    }
+  ]
+}

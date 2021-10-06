@@ -1,0 +1,31 @@
+{
+  "userId": 50118,
+  "cartId": "633f1eec-1270-4ba7-9bfd-a21093c61135",
+  "preferredProducts": [
+    4147,
+    3180,
+    654
+  ],
+  "productReviews": [
+    {
+      "productId": 3580,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-08-16T19:42:14.4398775+03:00"
+    },
+    {
+      "productId": 3273,
+      "reviewText": "this circuit is flirty.",
+      "reviewDate": "2018-03-27T09:22:41.7757177+03:00"
+    },
+    {
+      "productId": 4028,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2020-01-07T05:27:36.55361+02:00"
+    },
+    {
+      "productId": 3624,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2016-10-09T16:00:48.0647629+03:00"
+    }
+  ]
+}

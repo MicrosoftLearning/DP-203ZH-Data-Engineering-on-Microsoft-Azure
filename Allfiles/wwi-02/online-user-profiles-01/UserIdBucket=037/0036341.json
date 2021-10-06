@@ -1,0 +1,31 @@
+{
+  "userId": 36341,
+  "cartId": "b4277e47-8c98-41eb-837a-1de446e93b4a",
+  "preferredProducts": [
+    345,
+    1081,
+    1475,
+    4656,
+    639,
+    4762,
+    4043,
+    1708
+  ],
+  "productReviews": [
+    {
+      "productId": 1512,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-12-04T11:23:16.6107043+02:00"
+    },
+    {
+      "productId": 4360,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-12-14T05:54:17.8769311+02:00"
+    },
+    {
+      "productId": 1939,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-03-17T12:35:15.1742589+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 26295,
+  "cartId": "b4cb84e0-7066-4f90-aa37-6b8fc807975c",
+  "preferredProducts": [
+    2905,
+    1815,
+    3552,
+    2533,
+    548
+  ],
+  "productReviews": [
+    {
+      "productId": 1737,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-09-08T02:31:34.3926433+03:00"
+    },
+    {
+      "productId": 4705,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-06-13T13:04:22.5314069+03:00"
+    },
+    {
+      "productId": 358,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-07-09T10:19:57.2841728+03:00"
+    },
+    {
+      "productId": 971,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-05-24T22:18:44.0090994+03:00"
+    }
+  ]
+}

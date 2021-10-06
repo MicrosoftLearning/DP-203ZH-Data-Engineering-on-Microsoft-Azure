@@ -1,0 +1,36 @@
+{
+  "userId": 91233,
+  "cartId": "60af1467-2b52-4da1-99ae-931da2b232b8",
+  "preferredProducts": [
+    740,
+    97,
+    4898,
+    4616,
+    3438,
+    3796,
+    3292,
+    2857
+  ],
+  "productReviews": [
+    {
+      "productId": 3754,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-08-16T20:52:45.3443799+03:00"
+    },
+    {
+      "productId": 3284,
+      "reviewText": "This Virginia works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-12-31T09:28:16.48775+02:00"
+    },
+    {
+      "productId": 3939,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-11-25T10:06:38.0669837+02:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-01-10T08:54:45.452039+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 74718,
+  "cartId": "9a45678b-2120-4cdf-83c2-dd3ae1f0d7ba",
+  "preferredProducts": [
+    4384,
+    3966,
+    1891,
+    3588
+  ],
+  "productReviews": [
+    {
+      "productId": 678,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-01-11T11:03:27.9186031+02:00"
+    },
+    {
+      "productId": 3459,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-06-20T15:12:20.6944816+03:00"
+    },
+    {
+      "productId": 4663,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-22T05:39:34.0151766+02:00"
+    },
+    {
+      "productId": 621,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-07-07T18:34:31.2338502+03:00"
+    },
+    {
+      "productId": 613,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-12-31T16:07:10.5086349+02:00"
+    }
+  ]
+}

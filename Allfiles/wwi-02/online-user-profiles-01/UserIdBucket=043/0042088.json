@@ -1,0 +1,36 @@
+{
+  "userId": 42088,
+  "cartId": "a51ecbe6-f30f-482f-bfd2-6d388ac22e51",
+  "preferredProducts": [
+    949,
+    4376,
+    4688,
+    2963,
+    2724,
+    3965,
+    384,
+    556
+  ],
+  "productReviews": [
+    {
+      "productId": 4794,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-11-19T12:11:45.6527688+02:00"
+    },
+    {
+      "productId": 2695,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-05-28T03:59:05.9047556+03:00"
+    },
+    {
+      "productId": 2971,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-10-22T14:27:18.901979+03:00"
+    },
+    {
+      "productId": 1900,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-08-15T14:50:43.6344443+03:00"
+    }
+  ]
+}

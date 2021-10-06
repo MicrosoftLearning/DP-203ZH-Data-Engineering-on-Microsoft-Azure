@@ -1,0 +1,31 @@
+{
+  "userId": 77525,
+  "cartId": "031fe59b-42e9-410e-9786-bef6365e1b77",
+  "preferredProducts": [
+    2549,
+    4514,
+    3797,
+    1742,
+    1855,
+    537,
+    4194,
+    3882
+  ],
+  "productReviews": [
+    {
+      "productId": 4474,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-04-16T02:56:31.9705506+03:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-09-05T22:17:07.1461351+03:00"
+    },
+    {
+      "productId": 228,
+      "reviewText": "this Licensed is mellow.",
+      "reviewDate": "2020-05-08T12:59:19.6295236+03:00"
+    }
+  ]
+}

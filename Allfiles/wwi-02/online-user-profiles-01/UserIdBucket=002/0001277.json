@@ -1,0 +1,31 @@
+{
+  "userId": 1277,
+  "cartId": "299bd134-0846-4f66-809b-146be1a17ced",
+  "preferredProducts": [
+    2657,
+    349,
+    1959,
+    2953,
+    540,
+    4269,
+    4249,
+    2954
+  ],
+  "productReviews": [
+    {
+      "productId": 4273,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-07-09T17:49:39.1553976+03:00"
+    },
+    {
+      "productId": 1201,
+      "reviewText": "this strategy is ratty.",
+      "reviewDate": "2018-07-13T14:07:58.3122772+03:00"
+    },
+    {
+      "productId": 3936,
+      "reviewText": "This Corporate works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-12-10T11:22:43.4194107+02:00"
+    }
+  ]
+}

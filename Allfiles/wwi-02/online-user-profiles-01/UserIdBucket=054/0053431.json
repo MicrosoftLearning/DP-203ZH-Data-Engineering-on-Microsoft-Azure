@@ -1,0 +1,33 @@
+{
+  "userId": 53431,
+  "cartId": "05fcd3b2-9b49-4488-b105-6dd3cc7e8d38",
+  "preferredProducts": [
+    1351,
+    1647,
+    658,
+    1462,
+    2592
+  ],
+  "productReviews": [
+    {
+      "productId": 3160,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-02-27T01:58:23.7433752+02:00"
+    },
+    {
+      "productId": 4770,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-06-18T03:09:31.7373387+03:00"
+    },
+    {
+      "productId": 4905,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-11-04T00:34:55.2566554+02:00"
+    },
+    {
+      "productId": 3721,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-10-19T21:55:24.6564648+03:00"
+    }
+  ]
+}

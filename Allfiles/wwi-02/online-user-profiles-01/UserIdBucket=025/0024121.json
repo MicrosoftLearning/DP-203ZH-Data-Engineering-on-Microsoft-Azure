@@ -1,0 +1,32 @@
+{
+  "userId": 24121,
+  "cartId": "4d792d68-9665-48c4-8f59-c4561a97b3af",
+  "preferredProducts": [
+    4708,
+    2897,
+    1522,
+    4155,
+    4164,
+    2368,
+    924,
+    142,
+    220
+  ],
+  "productReviews": [
+    {
+      "productId": 1966,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-06-09T12:34:57.0028967+03:00"
+    },
+    {
+      "productId": 79,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-10-15T05:43:12.1150109+03:00"
+    },
+    {
+      "productId": 2040,
+      "reviewText": "This Albania works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-11-06T23:18:24.0772888+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 43119,
+  "cartId": "3a1e9b6d-b89d-4363-ae92-fad30219e777",
+  "preferredProducts": [
+    2005,
+    3191,
+    4198,
+    3758,
+    4946,
+    766
+  ],
+  "productReviews": [
+    {
+      "productId": 1489,
+      "reviewText": "This JSON works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-01-23T03:55:57.42894+02:00"
+    },
+    {
+      "productId": 4939,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-01-07T02:16:22.0748812+02:00"
+    },
+    {
+      "productId": 3470,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-09-09T14:41:37.8254843+03:00"
+    }
+  ]
+}

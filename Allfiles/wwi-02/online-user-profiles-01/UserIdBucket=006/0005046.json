@@ -1,0 +1,32 @@
+{
+  "userId": 5046,
+  "cartId": "6c22d9ee-b8eb-4ad5-931f-8c6882c8466e",
+  "preferredProducts": [
+    3683,
+    3733,
+    1160,
+    1222
+  ],
+  "productReviews": [
+    {
+      "productId": 47,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-01-21T23:58:35.170351+02:00"
+    },
+    {
+      "productId": 343,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-01-06T04:10:26.3286441+02:00"
+    },
+    {
+      "productId": 2091,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-09-21T04:27:13.8640793+03:00"
+    },
+    {
+      "productId": 60,
+      "reviewText": "this copying is dominant.",
+      "reviewDate": "2019-02-09T16:49:13.5218418+02:00"
+    }
+  ]
+}

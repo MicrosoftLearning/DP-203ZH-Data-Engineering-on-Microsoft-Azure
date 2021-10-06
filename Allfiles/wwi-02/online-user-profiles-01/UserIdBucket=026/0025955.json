@@ -1,0 +1,25 @@
+{
+  "userId": 25955,
+  "cartId": "422f73ef-12d1-4df1-b5a6-d1a22b37f54a",
+  "preferredProducts": [
+    1012,
+    2327
+  ],
+  "productReviews": [
+    {
+      "productId": 3985,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-06-12T04:40:02.7309108+03:00"
+    },
+    {
+      "productId": 1205,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-12-11T09:21:48.6461497+02:00"
+    },
+    {
+      "productId": 3881,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-05-21T14:40:06.3383904+03:00"
+    }
+  ]
+}

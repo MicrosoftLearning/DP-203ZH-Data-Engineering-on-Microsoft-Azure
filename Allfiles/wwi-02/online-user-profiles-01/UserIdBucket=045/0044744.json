@@ -1,0 +1,26 @@
+{
+  "userId": 44744,
+  "cartId": "ff89ec40-94c3-492c-b8ce-1ba1208a1864",
+  "preferredProducts": [
+    3648,
+    1736,
+    816
+  ],
+  "productReviews": [
+    {
+      "productId": 3267,
+      "reviewText": "this auxiliary is awesome.",
+      "reviewDate": "2019-01-20T12:17:59.2643066+02:00"
+    },
+    {
+      "productId": 2611,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-08-27T15:12:45.8269993+03:00"
+    },
+    {
+      "productId": 206,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-10-04T14:05:00.9905901+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 66964,
+  "cartId": "de0f6455-d89d-40b6-b572-4b03824a210f",
+  "preferredProducts": [
+    4347,
+    2053,
+    2843,
+    3705,
+    2840
+  ],
+  "productReviews": [
+    {
+      "productId": 210,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-12-26T01:26:02.3492643+02:00"
+    },
+    {
+      "productId": 1232,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-10-22T11:36:15.8806904+03:00"
+    },
+    {
+      "productId": 4823,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-10-06T09:41:06.6202795+03:00"
+    },
+    {
+      "productId": 58,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-08-24T07:47:22.0526696+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 23578,
+  "cartId": "152fb5ee-d767-4b7d-bfee-3ce7d09779bf",
+  "preferredProducts": [
+    4061,
+    2088,
+    4253,
+    3850,
+    3273,
+    1714,
+    3255,
+    2702,
+    2203
+  ],
+  "productReviews": [
+    {
+      "productId": 512,
+      "reviewText": "This is a really good open-source.",
+      "reviewDate": "2016-12-27T09:00:56.1194153+02:00"
+    },
+    {
+      "productId": 78,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-02-13T09:35:44.8629549+02:00"
+    }
+  ]
+}

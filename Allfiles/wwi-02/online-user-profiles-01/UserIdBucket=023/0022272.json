@@ -1,0 +1,26 @@
+{
+  "userId": 22272,
+  "cartId": "f0ce323f-474a-4377-9fdd-5f9c8c74a36f",
+  "preferredProducts": [
+    468,
+    2501,
+    4572,
+    1295,
+    3009,
+    3837,
+    4487,
+    3573
+  ],
+  "productReviews": [
+    {
+      "productId": 2709,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-02-10T01:37:00.7846154+02:00"
+    },
+    {
+      "productId": 56,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-12-27T00:26:11.170584+02:00"
+    }
+  ]
+}

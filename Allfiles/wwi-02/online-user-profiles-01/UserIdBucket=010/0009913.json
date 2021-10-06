@@ -1,0 +1,35 @@
+{
+  "userId": 9913,
+  "cartId": "80aed7a0-effa-4532-bf3b-ae9fe673401f",
+  "preferredProducts": [
+    1559,
+    4175,
+    359,
+    2604,
+    2528,
+    3315,
+    2289
+  ],
+  "productReviews": [
+    {
+      "productId": 3887,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-07-08T23:50:13.1226268+03:00"
+    },
+    {
+      "productId": 1704,
+      "reviewText": "this Marketing is revolting.",
+      "reviewDate": "2018-06-16T15:41:15.9257884+03:00"
+    },
+    {
+      "productId": 185,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-11-16T22:54:07.2219994+02:00"
+    },
+    {
+      "productId": 1153,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-12-23T11:09:49.5338716+02:00"
+    }
+  ]
+}

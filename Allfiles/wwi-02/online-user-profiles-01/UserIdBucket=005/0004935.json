@@ -1,0 +1,36 @@
+{
+  "userId": 4935,
+  "cartId": "d245171e-7017-4e99-a7aa-6c299f2f529c",
+  "preferredProducts": [
+    4370,
+    3050,
+    1826
+  ],
+  "productReviews": [
+    {
+      "productId": 1908,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-10-10T09:12:17.3814571+03:00"
+    },
+    {
+      "productId": 298,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-04-26T16:14:42.4187803+03:00"
+    },
+    {
+      "productId": 3114,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-08-16T19:40:59.2141804+03:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-17T07:46:29.1289711+02:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-01-24T21:15:49.0116523+02:00"
+    }
+  ]
+}

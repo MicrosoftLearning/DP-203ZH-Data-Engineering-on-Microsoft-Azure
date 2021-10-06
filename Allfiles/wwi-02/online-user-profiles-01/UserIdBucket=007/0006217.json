@@ -1,0 +1,30 @@
+{
+  "userId": 6217,
+  "cartId": "1fb1da59-0513-4c09-8dc6-1800277e99e8",
+  "preferredProducts": [
+    962,
+    4314,
+    2039,
+    347,
+    464,
+    1154,
+    119
+  ],
+  "productReviews": [
+    {
+      "productId": 2344,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-08-02T07:36:44.3671153+03:00"
+    },
+    {
+      "productId": 146,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-04-26T08:32:34.8368606+03:00"
+    },
+    {
+      "productId": 48,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-10-08T02:15:20.3863385+03:00"
+    }
+  ]
+}

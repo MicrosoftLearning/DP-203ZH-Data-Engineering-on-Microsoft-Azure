@@ -1,0 +1,26 @@
+{
+  "userId": 1784,
+  "cartId": "d54ed763-159a-41ad-8d6c-1289ed14fb14",
+  "preferredProducts": [
+    1356,
+    2939,
+    1249
+  ],
+  "productReviews": [
+    {
+      "productId": 1503,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-06-01T00:30:11.7558281+03:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-04-16T02:50:14.0692676+03:00"
+    },
+    {
+      "productId": 3889,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-03-19T09:28:01.6210947+02:00"
+    }
+  ]
+}

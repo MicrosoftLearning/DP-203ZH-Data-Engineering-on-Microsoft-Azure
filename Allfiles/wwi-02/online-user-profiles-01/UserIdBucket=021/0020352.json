@@ -1,0 +1,33 @@
+{
+  "userId": 20352,
+  "cartId": "97fba54a-cdff-4673-98cf-fb5d7d1a7c7d",
+  "preferredProducts": [
+    4060,
+    387,
+    187,
+    3981,
+    3786,
+    1926,
+    1547,
+    4124,
+    2572,
+    3770
+  ],
+  "productReviews": [
+    {
+      "productId": 4933,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-01-05T03:16:47.5561595+02:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-03-03T08:42:06.8972173+02:00"
+    },
+    {
+      "productId": 124,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2018-02-28T23:43:41.8529967+02:00"
+    }
+  ]
+}

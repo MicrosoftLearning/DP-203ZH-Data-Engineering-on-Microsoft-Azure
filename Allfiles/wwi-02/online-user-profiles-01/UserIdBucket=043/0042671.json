@@ -1,0 +1,38 @@
+{
+  "userId": 42671,
+  "cartId": "51723197-588c-4e5c-9df7-9a34805fb39f",
+  "preferredProducts": [
+    1225,
+    2912,
+    428,
+    1568,
+    3169
+  ],
+  "productReviews": [
+    {
+      "productId": 3577,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-11-22T11:24:48.4105464+02:00"
+    },
+    {
+      "productId": 4532,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-10-29T20:22:19.9067319+02:00"
+    },
+    {
+      "productId": 4953,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-12-22T05:39:58.7848142+02:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "this Awesome is dominant.",
+      "reviewDate": "2018-03-28T13:05:55.5989038+03:00"
+    },
+    {
+      "productId": 4627,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-02-13T05:18:30.0563736+02:00"
+    }
+  ]
+}

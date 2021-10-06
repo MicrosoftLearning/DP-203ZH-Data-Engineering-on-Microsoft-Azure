@@ -1,0 +1,31 @@
+{
+  "userId": 50351,
+  "cartId": "e4eb55c2-988d-4269-81e6-e118b9ad0f77",
+  "preferredProducts": [
+    2355,
+    4370,
+    4658
+  ],
+  "productReviews": [
+    {
+      "productId": 437,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-09-23T12:16:25.1703505+03:00"
+    },
+    {
+      "productId": 2951,
+      "reviewText": "This is a really good lavender.",
+      "reviewDate": "2019-01-26T20:57:55.5565392+02:00"
+    },
+    {
+      "productId": 3473,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-08-07T12:58:08.4857189+03:00"
+    },
+    {
+      "productId": 3425,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-10-04T11:25:02.0012993+03:00"
+    }
+  ]
+}

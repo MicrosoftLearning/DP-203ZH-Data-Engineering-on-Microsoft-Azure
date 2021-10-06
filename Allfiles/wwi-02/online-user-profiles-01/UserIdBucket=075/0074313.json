@@ -1,0 +1,32 @@
+{
+  "userId": 74313,
+  "cartId": "1a531cb0-9d05-4944-af7e-b8cf0059775e",
+  "preferredProducts": [
+    4286,
+    1433,
+    3450,
+    3124,
+    1572,
+    1336,
+    3567,
+    1767,
+    1710
+  ],
+  "productReviews": [
+    {
+      "productId": 4324,
+      "reviewText": "This Credit Card Account, does exactly what it's suppose to do.",
+      "reviewDate": "2019-02-14T01:12:16.6598906+02:00"
+    },
+    {
+      "productId": 4745,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-05-30T12:31:43.4777867+03:00"
+    },
+    {
+      "productId": 2338,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2018-10-16T21:14:49.9914903+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 17078,
+  "cartId": "d7cfb881-4da2-4a3a-89f0-b856b9b7a805",
+  "preferredProducts": [
+    4051,
+    3282,
+    4925,
+    2308,
+    456,
+    4494,
+    2027,
+    4809,
+    4660
+  ],
+  "productReviews": [
+    {
+      "productId": 734,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-06-11T01:44:33.8594142+03:00"
+    },
+    {
+      "productId": 2137,
+      "reviewText": "this circuit is brown.",
+      "reviewDate": "2016-07-03T23:35:09.9004457+03:00"
+    },
+    {
+      "productId": 2964,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-12-11T00:46:15.550137+02:00"
+    },
+    {
+      "productId": 379,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-06-04T07:19:46.5138964+03:00"
+    }
+  ]
+}

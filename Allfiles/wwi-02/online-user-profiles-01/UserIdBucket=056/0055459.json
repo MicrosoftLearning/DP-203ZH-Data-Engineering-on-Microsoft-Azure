@@ -1,0 +1,36 @@
+{
+  "userId": 55459,
+  "cartId": "26b079a3-f8e1-47f5-b284-16fa6761c491",
+  "preferredProducts": [
+    3383,
+    394,
+    4757,
+    3213,
+    3391,
+    4547,
+    399,
+    4541
+  ],
+  "productReviews": [
+    {
+      "productId": 3770,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-05-02T17:29:16.6751306+03:00"
+    },
+    {
+      "productId": 1221,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-11-08T01:42:09.7825612+02:00"
+    },
+    {
+      "productId": 3177,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-09-04T02:21:37.7302534+03:00"
+    },
+    {
+      "productId": 755,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-04-11T08:36:17.5573191+03:00"
+    }
+  ]
+}

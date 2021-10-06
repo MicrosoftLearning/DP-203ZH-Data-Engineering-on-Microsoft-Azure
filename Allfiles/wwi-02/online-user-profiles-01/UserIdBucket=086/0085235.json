@@ -1,0 +1,35 @@
+{
+  "userId": 85235,
+  "cartId": "b8454169-1e17-43aa-928f-b6cf8fed39c7",
+  "preferredProducts": [
+    3441,
+    4888,
+    2933,
+    592,
+    1855,
+    4942,
+    707
+  ],
+  "productReviews": [
+    {
+      "productId": 3825,
+      "reviewText": "this digital is ratty.",
+      "reviewDate": "2016-06-27T10:38:36.006968+03:00"
+    },
+    {
+      "productId": 4280,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-11-11T03:20:26.2366272+02:00"
+    },
+    {
+      "productId": 3711,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-09-29T02:27:31.6297487+03:00"
+    },
+    {
+      "productId": 1719,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-01-19T21:07:38.8611453+02:00"
+    }
+  ]
+}

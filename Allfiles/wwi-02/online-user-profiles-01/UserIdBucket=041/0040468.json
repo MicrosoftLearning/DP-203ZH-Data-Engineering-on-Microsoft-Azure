@@ -1,0 +1,29 @@
+{
+  "userId": 40468,
+  "cartId": "43cf7d94-2313-4667-be9b-add9cc55bf4e",
+  "preferredProducts": [
+    298,
+    3710,
+    3989,
+    1508,
+    1121,
+    1300
+  ],
+  "productReviews": [
+    {
+      "productId": 2962,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-02-14T00:41:24.7593081+02:00"
+    },
+    {
+      "productId": 903,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-10-30T14:14:18.1405025+02:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-10-09T23:10:51.9739065+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 68106,
+  "cartId": "9b927dec-feaf-462d-8c7e-815f2872f3f9",
+  "preferredProducts": [
+    4444,
+    3875,
+    3035,
+    3598,
+    1450,
+    2494
+  ],
+  "productReviews": [
+    {
+      "productId": 2683,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-12-17T13:55:28.6544607+02:00"
+    },
+    {
+      "productId": 1300,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-10-05T13:09:26.8314635+03:00"
+    },
+    {
+      "productId": 718,
+      "reviewText": "This Cliffs works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-05-14T22:31:13.1947088+03:00"
+    }
+  ]
+}

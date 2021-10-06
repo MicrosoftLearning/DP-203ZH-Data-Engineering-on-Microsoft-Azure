@@ -1,0 +1,32 @@
+{
+  "userId": 3440,
+  "cartId": "103f253b-190b-4491-b132-5843811bf5e8",
+  "preferredProducts": [
+    360,
+    1562,
+    2944,
+    4084
+  ],
+  "productReviews": [
+    {
+      "productId": 411,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-08-12T20:51:20.4571301+03:00"
+    },
+    {
+      "productId": 317,
+      "reviewText": "this Total is perplexed.",
+      "reviewDate": "2017-11-16T01:29:41.4046276+02:00"
+    },
+    {
+      "productId": 3249,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-12-10T10:43:06.8045832+02:00"
+    },
+    {
+      "productId": 4919,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-10-21T02:30:39.1680583+03:00"
+    }
+  ]
+}

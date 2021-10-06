@@ -1,0 +1,28 @@
+{
+  "userId": 23804,
+  "cartId": "ee7d3c51-b54c-497f-8a38-229e770ab3ff",
+  "preferredProducts": [
+    4004,
+    2196,
+    663,
+    3150,
+    1302
+  ],
+  "productReviews": [
+    {
+      "productId": 3264,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-07-10T13:06:21.674224+03:00"
+    },
+    {
+      "productId": 3003,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-09-13T20:15:56.7072847+03:00"
+    },
+    {
+      "productId": 4823,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-01-05T07:25:09.6022102+02:00"
+    }
+  ]
+}

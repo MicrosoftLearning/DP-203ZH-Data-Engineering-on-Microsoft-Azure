@@ -1,0 +1,32 @@
+{
+  "userId": 23929,
+  "cartId": "4fe654b6-4dfd-4aa5-b8f8-846a0a8f83b5",
+  "preferredProducts": [
+    3520,
+    1196,
+    4742,
+    4069,
+    3223,
+    1368,
+    1789,
+    4348,
+    866
+  ],
+  "productReviews": [
+    {
+      "productId": 1020,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-01-28T20:50:41.3190148+02:00"
+    },
+    {
+      "productId": 2169,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-02-17T07:40:16.8142534+02:00"
+    },
+    {
+      "productId": 5,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-02-21T17:09:58.200426+02:00"
+    }
+  ]
+}

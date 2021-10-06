@@ -1,0 +1,30 @@
+{
+  "userId": 24052,
+  "cartId": "8309ada9-da20-4672-94c3-e946c324d43b",
+  "preferredProducts": [
+    1337,
+    3210,
+    1215,
+    3032,
+    3106,
+    3079,
+    4796
+  ],
+  "productReviews": [
+    {
+      "productId": 1878,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-11-13T03:50:49.2546383+02:00"
+    },
+    {
+      "productId": 2393,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-01-26T21:32:01.8124286+02:00"
+    },
+    {
+      "productId": 4623,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-08-01T21:41:33.345926+03:00"
+    }
+  ]
+}

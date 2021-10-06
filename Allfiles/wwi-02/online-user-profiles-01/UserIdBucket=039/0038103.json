@@ -1,0 +1,29 @@
+{
+  "userId": 38103,
+  "cartId": "6ca0d5fc-5c9f-420b-8dec-a8500a2e791c",
+  "preferredProducts": [
+    3264,
+    3578,
+    3111,
+    4970,
+    3550,
+    3813
+  ],
+  "productReviews": [
+    {
+      "productId": 3628,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-02-15T05:42:51.4759189+02:00"
+    },
+    {
+      "productId": 3965,
+      "reviewText": "This Causeway works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-10-03T06:35:01.9218508+03:00"
+    },
+    {
+      "productId": 800,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-09-15T05:51:39.1793033+03:00"
+    }
+  ]
+}

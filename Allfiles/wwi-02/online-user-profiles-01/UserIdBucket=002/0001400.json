@@ -1,0 +1,34 @@
+{
+  "userId": 1400,
+  "cartId": "ae0821bd-d19e-4a8c-ae2e-ba6622330632",
+  "preferredProducts": [
+    4977,
+    3804,
+    4856,
+    2394,
+    3276,
+    2336
+  ],
+  "productReviews": [
+    {
+      "productId": 3306,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-12-13T16:58:23.9004507+02:00"
+    },
+    {
+      "productId": 248,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-12-09T23:39:43.5417895+02:00"
+    },
+    {
+      "productId": 1759,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-02-04T07:35:16.7394854+02:00"
+    },
+    {
+      "productId": 4216,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-01-24T08:24:23.8990019+02:00"
+    }
+  ]
+}

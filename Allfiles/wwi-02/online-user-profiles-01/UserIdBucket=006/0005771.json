@@ -1,0 +1,37 @@
+{
+  "userId": 5771,
+  "cartId": "789c9a02-8a29-452a-8d7d-a30e905b491b",
+  "preferredProducts": [
+    955,
+    1036,
+    750,
+    871
+  ],
+  "productReviews": [
+    {
+      "productId": 4525,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-07-09T16:59:35.088996+03:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-12-12T21:38:10.7487278+02:00"
+    },
+    {
+      "productId": 4337,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-07-21T08:13:24.8986961+03:00"
+    },
+    {
+      "productId": 3560,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-09-01T20:50:17.3977229+03:00"
+    },
+    {
+      "productId": 761,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2016-10-27T12:53:00.8299686+03:00"
+    }
+  ]
+}

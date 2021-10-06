@@ -1,0 +1,38 @@
+{
+  "userId": 34796,
+  "cartId": "c56b0418-4897-421f-b586-8a8c1867d9fa",
+  "preferredProducts": [
+    2816,
+    1374,
+    2116,
+    2388,
+    2355
+  ],
+  "productReviews": [
+    {
+      "productId": 3301,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-04-30T06:24:32.2448264+03:00"
+    },
+    {
+      "productId": 4591,
+      "reviewText": "This content-based works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-08-31T14:29:27.6981389+03:00"
+    },
+    {
+      "productId": 108,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-12-02T09:36:35.8991781+02:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-07-25T04:57:45.2118477+03:00"
+    },
+    {
+      "productId": 2347,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-03-04T21:28:58.5746274+02:00"
+    }
+  ]
+}

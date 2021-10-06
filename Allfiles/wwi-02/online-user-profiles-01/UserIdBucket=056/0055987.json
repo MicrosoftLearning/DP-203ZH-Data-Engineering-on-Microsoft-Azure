@@ -1,0 +1,25 @@
+{
+  "userId": 55987,
+  "cartId": "c28cb18a-c864-4527-b996-42208c5eee3c",
+  "preferredProducts": [
+    4392,
+    1403
+  ],
+  "productReviews": [
+    {
+      "productId": 1725,
+      "reviewText": "this SQL is ghetto.",
+      "reviewDate": "2017-01-10T08:35:57.2099191+02:00"
+    },
+    {
+      "productId": 4105,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-06-16T03:16:56.9272161+03:00"
+    },
+    {
+      "productId": 2331,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-11-21T00:55:36.7382901+02:00"
+    }
+  ]
+}

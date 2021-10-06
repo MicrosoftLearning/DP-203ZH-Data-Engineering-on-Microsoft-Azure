@@ -1,0 +1,33 @@
+{
+  "userId": 33937,
+  "cartId": "b56e8a88-56ee-4553-badd-779339ca05ee",
+  "preferredProducts": [
+    3568,
+    3227,
+    4543,
+    953,
+    1138,
+    630,
+    2606,
+    1461,
+    1250,
+    4756
+  ],
+  "productReviews": [
+    {
+      "productId": 4010,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-11-06T03:45:42.7369747+02:00"
+    },
+    {
+      "productId": 3728,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-06-24T16:35:24.7000319+03:00"
+    },
+    {
+      "productId": 1705,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-08-17T15:02:21.5452024+03:00"
+    }
+  ]
+}

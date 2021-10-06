@@ -1,0 +1,36 @@
+{
+  "userId": 10110,
+  "cartId": "7d3631c4-985e-48fe-b1a8-d8f3eb785639",
+  "preferredProducts": [
+    2249,
+    3887,
+    4778
+  ],
+  "productReviews": [
+    {
+      "productId": 209,
+      "reviewText": "this Licensed Fresh Soap is ghetto.",
+      "reviewDate": "2017-09-22T19:10:07.257508+03:00"
+    },
+    {
+      "productId": 758,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-07-12T06:07:52.5434556+03:00"
+    },
+    {
+      "productId": 1402,
+      "reviewText": "this parse is hyper.",
+      "reviewDate": "2017-01-05T08:24:05.0048279+02:00"
+    },
+    {
+      "productId": 2555,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-11-13T01:07:14.7590936+02:00"
+    },
+    {
+      "productId": 2241,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-02-21T20:41:56.5417888+02:00"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "userId": 52345,
+  "cartId": "ce55aac6-ecbf-4392-8429-a7c392cbc094",
+  "preferredProducts": [
+    3274,
+    3454
+  ],
+  "productReviews": [
+    {
+      "productId": 44,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2020-03-18T20:05:22.6358567+02:00"
+    },
+    {
+      "productId": 4201,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-04-15T02:47:00.606519+03:00"
+    }
+  ]
+}

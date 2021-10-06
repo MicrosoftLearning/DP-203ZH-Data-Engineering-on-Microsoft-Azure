@@ -1,0 +1,39 @@
+{
+  "userId": 4166,
+  "cartId": "a319e46c-690d-49d4-9d02-d6bc0b7bb55e",
+  "preferredProducts": [
+    183,
+    755,
+    1036,
+    194,
+    4200,
+    3794
+  ],
+  "productReviews": [
+    {
+      "productId": 204,
+      "reviewText": "this Concrete is tasty.",
+      "reviewDate": "2018-10-22T20:16:35.3647458+03:00"
+    },
+    {
+      "productId": 358,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-04-10T07:04:50.3909439+03:00"
+    },
+    {
+      "productId": 2833,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-07-13T11:48:12.6741919+03:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-08-03T00:41:33.927881+03:00"
+    },
+    {
+      "productId": 3106,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-10-11T13:21:25.4452123+03:00"
+    }
+  ]
+}

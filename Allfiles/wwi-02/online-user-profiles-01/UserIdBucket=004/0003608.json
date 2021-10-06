@@ -1,0 +1,27 @@
+{
+  "userId": 3608,
+  "cartId": "0650055b-0a02-4c4f-9e85-9c69666ea878",
+  "preferredProducts": [
+    3083,
+    207,
+    4461,
+    4570
+  ],
+  "productReviews": [
+    {
+      "productId": 17,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-03-01T00:17:38.6018935+02:00"
+    },
+    {
+      "productId": 2222,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-06-04T14:40:07.1996224+03:00"
+    },
+    {
+      "productId": 1798,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-05-08T04:53:44.8141785+03:00"
+    }
+  ]
+}

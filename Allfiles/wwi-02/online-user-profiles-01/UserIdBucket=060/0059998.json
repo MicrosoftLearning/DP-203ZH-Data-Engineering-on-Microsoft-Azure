@@ -1,0 +1,33 @@
+{
+  "userId": 59998,
+  "cartId": "2c068836-35f9-4a47-8a65-e0bfc9dc361f",
+  "preferredProducts": [
+    1222,
+    4931,
+    3014,
+    2600,
+    1954
+  ],
+  "productReviews": [
+    {
+      "productId": 3789,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-10-19T14:25:33.6081315+03:00"
+    },
+    {
+      "productId": 2865,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-11-05T01:01:51.7058878+02:00"
+    },
+    {
+      "productId": 4453,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-05-11T06:40:16.1629781+03:00"
+    },
+    {
+      "productId": 4585,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-09-01T14:16:22.8055835+03:00"
+    }
+  ]
+}

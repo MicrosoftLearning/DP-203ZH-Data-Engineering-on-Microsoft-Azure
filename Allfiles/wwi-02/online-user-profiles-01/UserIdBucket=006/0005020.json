@@ -1,0 +1,35 @@
+{
+  "userId": 5020,
+  "cartId": "9976faf2-e909-49ad-ac16-fef00b02cb79",
+  "preferredProducts": [
+    1247,
+    299,
+    4061,
+    20,
+    3801,
+    2178,
+    1203
+  ],
+  "productReviews": [
+    {
+      "productId": 1447,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-05-02T18:05:20.6676368+03:00"
+    },
+    {
+      "productId": 4481,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-10-18T12:45:49.3477724+03:00"
+    },
+    {
+      "productId": 1786,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-08-01T12:24:44.0132631+03:00"
+    },
+    {
+      "productId": 3799,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-03-28T16:53:46.0580884+02:00"
+    }
+  ]
+}

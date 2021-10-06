@@ -1,0 +1,34 @@
+{
+  "userId": 1044,
+  "cartId": "bd9153db-4f3b-4c92-8b1e-cdd2172b9652",
+  "preferredProducts": [
+    3789,
+    1774,
+    1235,
+    4969,
+    1679,
+    2352
+  ],
+  "productReviews": [
+    {
+      "productId": 4456,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-07-02T07:27:47.0997934+03:00"
+    },
+    {
+      "productId": 1092,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-12-11T18:57:16.4076429+02:00"
+    },
+    {
+      "productId": 3547,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-10-02T00:25:35.6775164+03:00"
+    },
+    {
+      "productId": 4717,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-09-02T21:26:43.0059767+03:00"
+    }
+  ]
+}

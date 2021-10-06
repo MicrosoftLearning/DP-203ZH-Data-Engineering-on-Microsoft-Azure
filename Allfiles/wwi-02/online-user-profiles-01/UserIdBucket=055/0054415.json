@@ -1,0 +1,30 @@
+{
+  "userId": 54415,
+  "cartId": "c9f25fce-90b7-4f7c-aa53-9534763cfc7b",
+  "preferredProducts": [
+    4499,
+    2929,
+    4700,
+    1040,
+    2993,
+    2328,
+    1147
+  ],
+  "productReviews": [
+    {
+      "productId": 195,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-09-23T05:11:15.7263203+03:00"
+    },
+    {
+      "productId": 3122,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-09-30T23:13:15.1355704+03:00"
+    },
+    {
+      "productId": 3700,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-11-26T21:26:24.430817+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 27574,
+  "cartId": "9c0b86f6-8d1c-47f5-8aa2-ebbe9279a7f9",
+  "preferredProducts": [
+    34,
+    1515,
+    1270,
+    3897,
+    144,
+    694,
+    1606,
+    2260
+  ],
+  "productReviews": [
+    {
+      "productId": 2079,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-03-02T05:32:30.6883994+02:00"
+    },
+    {
+      "productId": 4642,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-06-02T16:21:03.7270197+03:00"
+    },
+    {
+      "productId": 3590,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-11-16T20:23:17.1230746+02:00"
+    },
+    {
+      "productId": 3519,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-08-04T01:11:53.5426178+03:00"
+    },
+    {
+      "productId": 4217,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2020-01-17T09:33:17.0867233+02:00"
+    }
+  ]
+}

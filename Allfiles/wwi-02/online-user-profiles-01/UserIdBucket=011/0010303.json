@@ -1,0 +1,27 @@
+{
+  "userId": 10303,
+  "cartId": "7d242aaa-654d-4dbc-9d90-5d92327286e9",
+  "preferredProducts": [
+    4967,
+    3979,
+    77,
+    2248
+  ],
+  "productReviews": [
+    {
+      "productId": 3034,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-10-28T03:36:01.1779812+02:00"
+    },
+    {
+      "productId": 4370,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-11-07T21:48:48.3931467+02:00"
+    },
+    {
+      "productId": 2181,
+      "reviewText": "this Colorado is vertical.",
+      "reviewDate": "2017-10-06T09:33:44.8887108+03:00"
+    }
+  ]
+}

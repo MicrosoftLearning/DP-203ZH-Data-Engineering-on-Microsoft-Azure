@@ -1,0 +1,30 @@
+{
+  "userId": 25925,
+  "cartId": "2cebcf2d-91ef-457d-bc4e-c253bbe03430",
+  "preferredProducts": [
+    368,
+    34,
+    1237,
+    810,
+    3184,
+    134,
+    4303
+  ],
+  "productReviews": [
+    {
+      "productId": 4283,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-09-22T18:44:24.5698967+03:00"
+    },
+    {
+      "productId": 2159,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-05-10T20:23:11.8023362+03:00"
+    },
+    {
+      "productId": 1022,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-07-21T15:00:27.5343209+03:00"
+    }
+  ]
+}

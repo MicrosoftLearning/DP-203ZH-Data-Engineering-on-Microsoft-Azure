@@ -1,0 +1,28 @@
+{
+  "userId": 71,
+  "cartId": "a976b52c-ec45-46f0-9299-bd361f822c5e",
+  "preferredProducts": [
+    552,
+    2348,
+    2972,
+    3188,
+    4649
+  ],
+  "productReviews": [
+    {
+      "productId": 1353,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-04-20T05:59:56.5535623+03:00"
+    },
+    {
+      "productId": 3886,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-11-17T06:42:42.0357738+02:00"
+    },
+    {
+      "productId": 2859,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-01-27T03:07:54.8670874+02:00"
+    }
+  ]
+}

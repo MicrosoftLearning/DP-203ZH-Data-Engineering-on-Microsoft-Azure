@@ -1,0 +1,33 @@
+{
+  "userId": 56993,
+  "cartId": "fbbcd617-f71a-4b11-925e-6fd2e4f6732d",
+  "preferredProducts": [
+    4291,
+    1363,
+    2001,
+    117,
+    3929
+  ],
+  "productReviews": [
+    {
+      "productId": 396,
+      "reviewText": "this Fantastic is brown.",
+      "reviewDate": "2019-08-18T01:23:30.1563422+03:00"
+    },
+    {
+      "productId": 3000,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-12-11T02:07:49.730449+02:00"
+    },
+    {
+      "productId": 3485,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-07-04T20:41:33.9815868+03:00"
+    },
+    {
+      "productId": 351,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-12-25T15:20:52.3032897+02:00"
+    }
+  ]
+}

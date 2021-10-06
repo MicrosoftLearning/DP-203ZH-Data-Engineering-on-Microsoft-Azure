@@ -1,0 +1,21 @@
+{
+  "userId": 35002,
+  "cartId": "9e2370ea-85dd-4789-85c8-a72be84bd447",
+  "preferredProducts": [
+    3005,
+    4854,
+    4685
+  ],
+  "productReviews": [
+    {
+      "productId": 114,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-10-31T03:15:50.7168454+02:00"
+    },
+    {
+      "productId": 2784,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-11-05T02:59:18.5984461+02:00"
+    }
+  ]
+}

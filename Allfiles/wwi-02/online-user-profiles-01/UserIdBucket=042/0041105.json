@@ -1,0 +1,31 @@
+{
+  "userId": 41105,
+  "cartId": "1fca519e-e5d1-4acb-b957-d93e43f3dfb2",
+  "preferredProducts": [
+    550,
+    4165,
+    200
+  ],
+  "productReviews": [
+    {
+      "productId": 2754,
+      "reviewText": "this parsing is complimentary.",
+      "reviewDate": "2017-09-28T17:05:47.4389751+03:00"
+    },
+    {
+      "productId": 3785,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-07-27T03:13:39.7743073+03:00"
+    },
+    {
+      "productId": 78,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-08-06T03:52:55.1020234+03:00"
+    },
+    {
+      "productId": 1778,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-05-15T15:50:13.2620152+03:00"
+    }
+  ]
+}

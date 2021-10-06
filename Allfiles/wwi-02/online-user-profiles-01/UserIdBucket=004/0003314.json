@@ -1,0 +1,36 @@
+{
+  "userId": 3314,
+  "cartId": "c6dc8e6e-d583-4654-b410-c25fcbb37ed4",
+  "preferredProducts": [
+    3299,
+    2813,
+    4946,
+    1298,
+    1059,
+    4498,
+    808,
+    3077
+  ],
+  "productReviews": [
+    {
+      "productId": 4923,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-10-27T18:46:54.5826294+02:00"
+    },
+    {
+      "productId": 3114,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-07-15T06:03:31.6670222+03:00"
+    },
+    {
+      "productId": 3105,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-04-21T22:48:00.240094+03:00"
+    },
+    {
+      "productId": 359,
+      "reviewText": "this Belarus is whole-grain.",
+      "reviewDate": "2019-07-07T00:49:06.9888165+03:00"
+    }
+  ]
+}

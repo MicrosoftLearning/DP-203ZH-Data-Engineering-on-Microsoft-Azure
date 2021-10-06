@@ -1,0 +1,32 @@
+{
+  "userId": 71235,
+  "cartId": "0d46fc24-76bb-473f-a092-591ea8b28e78",
+  "preferredProducts": [
+    2487,
+    500,
+    4786,
+    2490
+  ],
+  "productReviews": [
+    {
+      "productId": 3970,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-03-21T11:46:21.0116503+02:00"
+    },
+    {
+      "productId": 2343,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-10-22T18:57:56.4290155+03:00"
+    },
+    {
+      "productId": 240,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2020-01-23T23:20:35.4162104+02:00"
+    },
+    {
+      "productId": 1749,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-07-30T22:35:27.6442964+03:00"
+    }
+  ]
+}

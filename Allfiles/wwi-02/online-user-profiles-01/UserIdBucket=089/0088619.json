@@ -1,0 +1,26 @@
+{
+  "userId": 88619,
+  "cartId": "7c2c82fa-eea8-4a20-b643-454566813ced",
+  "preferredProducts": [
+    1650,
+    2320,
+    1787
+  ],
+  "productReviews": [
+    {
+      "productId": 2229,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-07-12T00:12:40.1803035+03:00"
+    },
+    {
+      "productId": 1808,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-09-18T21:12:56.624763+03:00"
+    },
+    {
+      "productId": 1956,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-03-17T09:15:57.2722892+02:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 22835,
+  "cartId": "3f458953-817f-41a7-be81-0c38777a9bbe",
+  "preferredProducts": [
+    4706,
+    2481,
+    2215,
+    2189,
+    1180,
+    3727,
+    4218,
+    550,
+    1635
+  ],
+  "productReviews": [
+    {
+      "productId": 4176,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-09-12T17:45:43.7832689+03:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-12-12T15:22:29.3057782+02:00"
+    },
+    {
+      "productId": 2064,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-03-07T11:10:21.9542716+02:00"
+    },
+    {
+      "productId": 2927,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-05-01T02:06:18.8625994+03:00"
+    },
+    {
+      "productId": 2641,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-01-24T04:21:29.6213079+02:00"
+    }
+  ]
+}

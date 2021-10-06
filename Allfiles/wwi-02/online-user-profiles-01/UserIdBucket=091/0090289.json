@@ -1,0 +1,26 @@
+{
+  "userId": 90289,
+  "cartId": "f882e5ec-6674-413c-b8cf-4d672e67d114",
+  "preferredProducts": [
+    603,
+    1929,
+    2750
+  ],
+  "productReviews": [
+    {
+      "productId": 3449,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-01-31T03:44:14.1279917+02:00"
+    },
+    {
+      "productId": 2090,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2020-04-04T16:25:25.6650157+03:00"
+    },
+    {
+      "productId": 2554,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-09-06T21:45:15.3732575+03:00"
+    }
+  ]
+}

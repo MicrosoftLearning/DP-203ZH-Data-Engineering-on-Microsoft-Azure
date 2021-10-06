@@ -1,0 +1,26 @@
+{
+  "userId": 99217,
+  "cartId": "f956eb16-ae93-4f1a-a5c5-d8d24ee9a534",
+  "preferredProducts": [
+    589,
+    3825,
+    3114
+  ],
+  "productReviews": [
+    {
+      "productId": 3328,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-04-28T02:05:12.8256011+03:00"
+    },
+    {
+      "productId": 3439,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-11-01T01:04:47.1296029+02:00"
+    },
+    {
+      "productId": 2965,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-02-10T17:28:01.2098123+02:00"
+    }
+  ]
+}

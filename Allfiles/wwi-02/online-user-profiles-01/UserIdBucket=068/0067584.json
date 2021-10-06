@@ -1,0 +1,31 @@
+{
+  "userId": 67584,
+  "cartId": "1e62add7-b1f4-4dc9-b1df-e941ba03f4e4",
+  "preferredProducts": [
+    1678,
+    2074,
+    3965,
+    1504,
+    4103,
+    441,
+    800,
+    4598
+  ],
+  "productReviews": [
+    {
+      "productId": 2022,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-11-07T23:56:46.7197648+02:00"
+    },
+    {
+      "productId": 3839,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-07-05T19:29:51.2769241+03:00"
+    },
+    {
+      "productId": 1054,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-12-04T15:16:24.9220654+02:00"
+    }
+  ]
+}

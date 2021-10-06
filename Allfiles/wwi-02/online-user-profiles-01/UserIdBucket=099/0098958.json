@@ -1,0 +1,24 @@
+{
+  "userId": 98958,
+  "cartId": "5b44fadf-42f6-4e7e-a1e6-c237c6fafb9b",
+  "preferredProducts": [
+    278,
+    279,
+    4498,
+    1251,
+    1537,
+    4392
+  ],
+  "productReviews": [
+    {
+      "productId": 1878,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-08-27T14:10:34.2020844+03:00"
+    },
+    {
+      "productId": 4493,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-11-06T18:15:21.3117482+02:00"
+    }
+  ]
+}

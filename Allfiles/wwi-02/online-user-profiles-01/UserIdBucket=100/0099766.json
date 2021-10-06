@@ -1,0 +1,25 @@
+{
+  "userId": 99766,
+  "cartId": "5213b69a-6534-467e-a399-510a87d4c667",
+  "preferredProducts": [
+    2765,
+    3251,
+    4690,
+    1409,
+    1735,
+    2070,
+    999
+  ],
+  "productReviews": [
+    {
+      "productId": 1097,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-07-25T06:19:51.2634756+03:00"
+    },
+    {
+      "productId": 4107,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-01-25T16:52:16.7050947+02:00"
+    }
+  ]
+}

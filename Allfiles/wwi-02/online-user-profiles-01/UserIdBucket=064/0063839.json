@@ -1,0 +1,32 @@
+{
+  "userId": 63839,
+  "cartId": "7706e055-5a33-422d-b675-a72f38b6bd20",
+  "preferredProducts": [
+    4422,
+    4711,
+    2027,
+    779
+  ],
+  "productReviews": [
+    {
+      "productId": 4621,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-10T07:25:30.6391281+02:00"
+    },
+    {
+      "productId": 400,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-08-31T17:40:56.4206072+03:00"
+    },
+    {
+      "productId": 3815,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-04-29T23:26:57.6920779+03:00"
+    },
+    {
+      "productId": 2894,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-04-21T00:36:33.0734582+03:00"
+    }
+  ]
+}

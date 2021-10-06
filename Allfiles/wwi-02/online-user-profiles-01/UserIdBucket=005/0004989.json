@@ -1,0 +1,25 @@
+{
+  "userId": 4989,
+  "cartId": "61d2961b-67aa-4187-a924-f3b09d601c2e",
+  "preferredProducts": [
+    2923,
+    3591
+  ],
+  "productReviews": [
+    {
+      "productId": 4192,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-06-11T20:27:01.0361451+03:00"
+    },
+    {
+      "productId": 1789,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-12-01T03:45:45.2581816+02:00"
+    },
+    {
+      "productId": 3060,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-09-25T06:42:00.7202406+03:00"
+    }
+  ]
+}

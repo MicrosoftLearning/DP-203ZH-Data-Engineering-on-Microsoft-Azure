@@ -1,0 +1,33 @@
+{
+  "userId": 88783,
+  "cartId": "97ed82dd-123b-4c1a-bdc0-2e72465d2fd4",
+  "preferredProducts": [
+    2863,
+    3332,
+    83,
+    210,
+    3954,
+    221,
+    2144,
+    1096,
+    1432,
+    1424
+  ],
+  "productReviews": [
+    {
+      "productId": 3128,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-11-23T05:21:03.7038132+02:00"
+    },
+    {
+      "productId": 1670,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-09-28T22:23:38.654985+03:00"
+    },
+    {
+      "productId": 1524,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2020-03-24T22:43:27.8409742+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 485,
+  "cartId": "21e5fbf9-b239-42f5-85d6-4a99712b9a0f",
+  "preferredProducts": [
+    2250,
+    1744,
+    3423
+  ],
+  "productReviews": [
+    {
+      "productId": 3638,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-03-22T04:35:07.1342241+02:00"
+    },
+    {
+      "productId": 4458,
+      "reviewText": "this Garden is awesome.",
+      "reviewDate": "2019-12-27T19:52:17.3394123+02:00"
+    },
+    {
+      "productId": 1033,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-06-02T16:55:26.6310428+03:00"
+    },
+    {
+      "productId": 1887,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-09-16T11:05:23.8128718+03:00"
+    }
+  ]
+}

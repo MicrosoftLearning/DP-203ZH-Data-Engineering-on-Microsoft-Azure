@@ -1,0 +1,36 @@
+{
+  "userId": 20668,
+  "cartId": "01b18e6e-dfbd-410b-a020-d9ed15249822",
+  "preferredProducts": [
+    3322,
+    4975,
+    33,
+    1087,
+    1610,
+    923,
+    4022,
+    2202
+  ],
+  "productReviews": [
+    {
+      "productId": 2324,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-12-09T01:08:56.7511627+02:00"
+    },
+    {
+      "productId": 921,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-05-05T07:20:31.6921321+03:00"
+    },
+    {
+      "productId": 500,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-04-27T18:04:42.2725919+03:00"
+    },
+    {
+      "productId": 3299,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-10-25T22:56:08.715284+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 61484,
+  "cartId": "423307c7-827a-45ca-9798-cb4d90940907",
+  "preferredProducts": [
+    4526,
+    1417,
+    217,
+    624,
+    2592,
+    2138,
+    1396,
+    3486,
+    961,
+    50
+  ],
+  "productReviews": [
+    {
+      "productId": 1415,
+      "reviewText": "this application is smooth.",
+      "reviewDate": "2020-04-25T15:00:24.9995608+03:00"
+    },
+    {
+      "productId": 4061,
+      "reviewText": "This Soft works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-03-17T18:42:23.7952034+02:00"
+    },
+    {
+      "productId": 2083,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-11-17T21:35:18.6199284+02:00"
+    },
+    {
+      "productId": 659,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-12-14T08:34:33.4649469+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 1080,
+  "cartId": "d97dfa37-8572-4bd7-9b9a-fcd19e829c33",
+  "preferredProducts": [
+    823,
+    896
+  ],
+  "productReviews": [
+    {
+      "productId": 1383,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2017-02-27T12:38:15.2965524+02:00"
+    },
+    {
+      "productId": 4657,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-07-26T21:03:57.7257241+03:00"
+    },
+    {
+      "productId": 315,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-11-07T23:15:41.1697256+02:00"
+    },
+    {
+      "productId": 351,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-02-11T02:41:23.3586722+02:00"
+    }
+  ]
+}

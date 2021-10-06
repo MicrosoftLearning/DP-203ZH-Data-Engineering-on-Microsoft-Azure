@@ -1,0 +1,28 @@
+{
+  "userId": 28657,
+  "cartId": "8b14c572-2d73-4df0-8ad9-ece35d763842",
+  "preferredProducts": [
+    4781,
+    2208,
+    797,
+    4480,
+    3434,
+    4466,
+    3201,
+    2884,
+    2798,
+    3054
+  ],
+  "productReviews": [
+    {
+      "productId": 940,
+      "reviewText": "this models is papery.",
+      "reviewDate": "2019-06-29T15:23:44.9244+03:00"
+    },
+    {
+      "productId": 3624,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-04-18T08:10:22.338461+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 20172,
+  "cartId": "32d446aa-3fe9-470e-a8ef-8a4019c048b7",
+  "preferredProducts": [
+    4455,
+    1917,
+    773
+  ],
+  "productReviews": [
+    {
+      "productId": 2178,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-03-10T12:12:38.8751565+02:00"
+    },
+    {
+      "productId": 1246,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-12-10T16:13:45.2741967+02:00"
+    },
+    {
+      "productId": 3944,
+      "reviewText": "This index works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-12-19T05:16:35.2223524+02:00"
+    },
+    {
+      "productId": 2658,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-05-31T10:19:43.1680904+03:00"
+    }
+  ]
+}

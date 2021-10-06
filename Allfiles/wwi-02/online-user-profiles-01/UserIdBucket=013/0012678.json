@@ -1,0 +1,33 @@
+{
+  "userId": 12678,
+  "cartId": "0328c0d8-9f74-4e60-88f7-79a37fde331c",
+  "preferredProducts": [
+    1035,
+    1582,
+    3425,
+    3516,
+    4026
+  ],
+  "productReviews": [
+    {
+      "productId": 1120,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-03-30T15:09:14.035087+03:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-05-20T12:53:14.1187046+03:00"
+    },
+    {
+      "productId": 1544,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-09-21T08:35:34.6708297+03:00"
+    },
+    {
+      "productId": 1961,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-03-15T11:16:42.1521786+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 42251,
+  "cartId": "c04b6d47-ba2c-4539-9e48-47d254955502",
+  "preferredProducts": [
+    3246,
+    51,
+    1446,
+    1815,
+    2654,
+    1700,
+    3211
+  ],
+  "productReviews": [
+    {
+      "productId": 4032,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-02-28T11:55:05.7465496+02:00"
+    },
+    {
+      "productId": 3715,
+      "reviewText": "this Intelligent is amiable.",
+      "reviewDate": "2017-07-19T03:14:34.9652314+03:00"
+    },
+    {
+      "productId": 12,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-10-03T20:08:48.5285738+03:00"
+    }
+  ]
+}

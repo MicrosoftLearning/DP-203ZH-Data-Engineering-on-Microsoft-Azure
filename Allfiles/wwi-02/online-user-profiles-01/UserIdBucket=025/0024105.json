@@ -1,0 +1,43 @@
+{
+  "userId": 24105,
+  "cartId": "b107484b-a589-4f41-95db-10c908d8184f",
+  "preferredProducts": [
+    575,
+    4757,
+    4244,
+    4340,
+    1231,
+    1657,
+    1859,
+    3180,
+    3151,
+    4513
+  ],
+  "productReviews": [
+    {
+      "productId": 4658,
+      "reviewText": "this grey is ghetto.",
+      "reviewDate": "2020-02-03T22:00:47.7611997+02:00"
+    },
+    {
+      "productId": 1930,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-09-30T16:58:32.3633375+03:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-02-05T10:59:27.1683065+02:00"
+    },
+    {
+      "productId": 4408,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-04-21T09:13:54.2636902+03:00"
+    },
+    {
+      "productId": 2194,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-09-27T06:07:05.3724048+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 73575,
+  "cartId": "c0b0debe-a1b1-425f-a780-a163849b32fa",
+  "preferredProducts": [
+    1956,
+    3005,
+    3410,
+    1621,
+    1538,
+    3540,
+    3361,
+    1719,
+    1117
+  ],
+  "productReviews": [
+    {
+      "productId": 4347,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-09-08T15:36:43.7979378+03:00"
+    },
+    {
+      "productId": 2445,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-10-12T08:06:00.8871213+03:00"
+    },
+    {
+      "productId": 1653,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-11-05T02:10:53.2400247+02:00"
+    }
+  ]
+}

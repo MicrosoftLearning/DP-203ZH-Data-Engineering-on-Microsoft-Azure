@@ -1,0 +1,31 @@
+{
+  "userId": 42842,
+  "cartId": "17df81be-cc16-4a56-a585-0835f232dd79",
+  "preferredProducts": [
+    4998,
+    1146,
+    2451,
+    1378,
+    1649,
+    342,
+    284,
+    1636
+  ],
+  "productReviews": [
+    {
+      "productId": 839,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-03-22T09:48:22.8984812+02:00"
+    },
+    {
+      "productId": 2348,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-21T22:40:13.3364027+02:00"
+    },
+    {
+      "productId": 721,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-04-06T07:33:32.8003944+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 98908,
+  "cartId": "19fc1f32-6821-45a8-bedb-34a923a815a3",
+  "preferredProducts": [
+    1364,
+    3290,
+    3923
+  ],
+  "productReviews": [
+    {
+      "productId": 801,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-08-14T05:07:33.1145155+03:00"
+    },
+    {
+      "productId": 1281,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-06-06T12:00:21.2026424+03:00"
+    },
+    {
+      "productId": 1639,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-09-30T09:23:44.3150071+03:00"
+    },
+    {
+      "productId": 4085,
+      "reviewText": "this Incredible Soft Cheese is revolting.",
+      "reviewDate": "2019-08-18T18:35:34.4338055+03:00"
+    },
+    {
+      "productId": 1876,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-04-05T16:36:09.7334623+03:00"
+    }
+  ]
+}

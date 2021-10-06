@@ -1,0 +1,36 @@
+{
+  "userId": 6561,
+  "cartId": "418770ca-764c-4aa6-ab67-f217d62d0642",
+  "preferredProducts": [
+    4124,
+    4810,
+    2861,
+    635,
+    3708,
+    2700,
+    3852,
+    4054
+  ],
+  "productReviews": [
+    {
+      "productId": 3121,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-04-07T02:48:02.0887961+03:00"
+    },
+    {
+      "productId": 856,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-12-28T04:53:08.1865797+02:00"
+    },
+    {
+      "productId": 198,
+      "reviewText": "this Streets is revolting.",
+      "reviewDate": "2018-11-03T21:05:52.0438111+02:00"
+    },
+    {
+      "productId": 1874,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-07-31T01:54:40.3137041+03:00"
+    }
+  ]
+}

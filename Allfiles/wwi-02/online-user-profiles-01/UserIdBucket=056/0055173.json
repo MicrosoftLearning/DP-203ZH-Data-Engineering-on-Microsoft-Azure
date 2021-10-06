@@ -1,0 +1,24 @@
+{
+  "userId": 55173,
+  "cartId": "fae92c16-cc7a-4404-9b95-b86e97ac36d1",
+  "preferredProducts": [
+    44,
+    3042,
+    2177,
+    1035,
+    3174,
+    3518
+  ],
+  "productReviews": [
+    {
+      "productId": 3894,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-10-24T13:31:29.6062851+03:00"
+    },
+    {
+      "productId": 4902,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-11-28T10:24:49.76511+02:00"
+    }
+  ]
+}

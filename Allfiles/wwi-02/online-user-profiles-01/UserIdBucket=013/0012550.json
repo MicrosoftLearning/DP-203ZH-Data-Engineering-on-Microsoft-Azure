@@ -1,0 +1,36 @@
+{
+  "userId": 12550,
+  "cartId": "ef4ebd7c-c2e4-403f-9915-254fb7bcda0d",
+  "preferredProducts": [
+    1204,
+    2224,
+    1834,
+    990,
+    4412,
+    678,
+    2592,
+    3371
+  ],
+  "productReviews": [
+    {
+      "productId": 2989,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-03-31T20:18:24.0894492+03:00"
+    },
+    {
+      "productId": 1946,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-02-18T18:00:23.045736+02:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-11-14T13:32:05.1923921+02:00"
+    },
+    {
+      "productId": 4536,
+      "reviewText": "this Syrian Pound is vertical.",
+      "reviewDate": "2017-10-04T18:13:14.4058321+03:00"
+    }
+  ]
+}

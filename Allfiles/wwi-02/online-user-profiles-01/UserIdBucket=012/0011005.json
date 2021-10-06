@@ -1,0 +1,41 @@
+{
+  "userId": 11005,
+  "cartId": "d2873959-9899-43e4-8bb5-59f9ac6ec1f9",
+  "preferredProducts": [
+    3899,
+    648,
+    503,
+    4522,
+    1543,
+    2603,
+    322,
+    2410
+  ],
+  "productReviews": [
+    {
+      "productId": 1189,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-02-15T18:21:25.21737+02:00"
+    },
+    {
+      "productId": 2466,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-12-01T02:04:30.5487199+02:00"
+    },
+    {
+      "productId": 3747,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-09-30T15:46:16.0817949+03:00"
+    },
+    {
+      "productId": 4751,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-12-05T12:20:32.9631488+02:00"
+    },
+    {
+      "productId": 2026,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-03-07T20:21:42.869257+02:00"
+    }
+  ]
+}

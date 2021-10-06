@@ -1,0 +1,31 @@
+{
+  "userId": 7269,
+  "cartId": "cc464af6-0b7c-4e29-bff7-3ea701570399",
+  "preferredProducts": [
+    2486,
+    3400,
+    2290
+  ],
+  "productReviews": [
+    {
+      "productId": 506,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-03-21T20:47:02.367179+02:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-02-27T10:17:41.7323973+02:00"
+    },
+    {
+      "productId": 4235,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-10-14T23:06:28.8207123+03:00"
+    },
+    {
+      "productId": 2038,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-08-28T17:55:41.6541771+03:00"
+    }
+  ]
+}

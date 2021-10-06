@@ -1,0 +1,33 @@
+{
+  "userId": 23029,
+  "cartId": "398e03d8-fbbd-407e-a8e4-55e9f0eecdc1",
+  "preferredProducts": [
+    1199,
+    3830,
+    2192,
+    1714,
+    3720,
+    1496,
+    537,
+    4353,
+    3067,
+    437
+  ],
+  "productReviews": [
+    {
+      "productId": 1160,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-12-24T02:38:52.2945124+02:00"
+    },
+    {
+      "productId": 4824,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-09-23T21:37:18.846521+03:00"
+    },
+    {
+      "productId": 3311,
+      "reviewText": "This invoice works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-12-18T17:55:09.7813779+02:00"
+    }
+  ]
+}

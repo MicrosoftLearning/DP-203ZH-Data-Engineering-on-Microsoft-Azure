@@ -1,0 +1,27 @@
+{
+  "userId": 3099,
+  "cartId": "2290338a-3769-4826-8957-867de02819df",
+  "preferredProducts": [
+    1387,
+    3916,
+    3406,
+    1068,
+    4913,
+    3339,
+    1490,
+    1577,
+    3004
+  ],
+  "productReviews": [
+    {
+      "productId": 916,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-10-07T22:59:20.9139122+03:00"
+    },
+    {
+      "productId": 953,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-07-27T00:40:59.2899808+03:00"
+    }
+  ]
+}

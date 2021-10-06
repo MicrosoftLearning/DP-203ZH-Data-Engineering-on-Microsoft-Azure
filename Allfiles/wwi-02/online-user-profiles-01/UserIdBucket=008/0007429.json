@@ -1,0 +1,33 @@
+{
+  "userId": 7429,
+  "cartId": "ab8792da-e4cc-4359-ad2d-d0b0511e422a",
+  "preferredProducts": [
+    195,
+    3454,
+    3586,
+    652,
+    1864
+  ],
+  "productReviews": [
+    {
+      "productId": 3156,
+      "reviewText": "This Coordinator, does exactly what it's suppose to do.",
+      "reviewDate": "2018-07-03T08:37:07.4919971+03:00"
+    },
+    {
+      "productId": 1302,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-04-12T19:35:27.8721006+03:00"
+    },
+    {
+      "productId": 291,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-12-26T16:26:56.8563253+02:00"
+    },
+    {
+      "productId": 1709,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-01-01T17:28:41.3675499+02:00"
+    }
+  ]
+}

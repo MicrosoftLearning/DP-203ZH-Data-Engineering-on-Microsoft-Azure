@@ -1,0 +1,30 @@
+{
+  "userId": 32680,
+  "cartId": "ea2baf26-f012-46d2-99b4-3582679be81a",
+  "preferredProducts": [
+    2805,
+    3885,
+    2971,
+    510,
+    3021,
+    3562,
+    2222
+  ],
+  "productReviews": [
+    {
+      "productId": 855,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-11-18T16:56:25.2130741+02:00"
+    },
+    {
+      "productId": 3849,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-01-30T13:15:55.5997001+02:00"
+    },
+    {
+      "productId": 2375,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-07-04T00:12:58.3744651+03:00"
+    }
+  ]
+}

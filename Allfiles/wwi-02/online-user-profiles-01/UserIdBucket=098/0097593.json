@@ -1,0 +1,31 @@
+{
+  "userId": 97593,
+  "cartId": "c3f2c37e-2174-4a51-bc66-273345ab16fa",
+  "preferredProducts": [
+    696,
+    1764,
+    1892,
+    3570,
+    3081,
+    2265,
+    1708,
+    3305
+  ],
+  "productReviews": [
+    {
+      "productId": 3607,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-03-02T11:55:34.8953899+02:00"
+    },
+    {
+      "productId": 2504,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-07-23T13:30:10.0230982+03:00"
+    },
+    {
+      "productId": 192,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-05-19T11:45:51.2057491+03:00"
+    }
+  ]
+}

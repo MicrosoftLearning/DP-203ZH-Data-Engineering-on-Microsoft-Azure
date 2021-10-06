@@ -1,0 +1,25 @@
+{
+  "userId": 12339,
+  "cartId": "1ac200d2-3cbb-4313-a3bc-b80c7ccb49d1",
+  "preferredProducts": [
+    131,
+    1030,
+    2546,
+    2305,
+    213,
+    4509,
+    1345
+  ],
+  "productReviews": [
+    {
+      "productId": 1607,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-11-06T19:21:10.7621252+02:00"
+    },
+    {
+      "productId": 1347,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-03-04T07:21:28.554094+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 98557,
+  "cartId": "c94d4ce1-16ac-4d69-98ad-dc9e250befd7",
+  "preferredProducts": [
+    3318,
+    3247,
+    2747,
+    1084,
+    4893
+  ],
+  "productReviews": [
+    {
+      "productId": 4444,
+      "reviewText": "this back up is slurpee.",
+      "reviewDate": "2019-10-27T08:07:14.6101191+02:00"
+    },
+    {
+      "productId": 2102,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-05-17T21:28:43.0484931+03:00"
+    },
+    {
+      "productId": 2572,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-10-03T06:57:14.95663+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "this Rustic is perplexed.",
+      "reviewDate": "2017-01-27T20:36:00.0824008+02:00"
+    }
+  ]
+}

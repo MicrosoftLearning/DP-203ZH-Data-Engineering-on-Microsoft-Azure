@@ -1,0 +1,31 @@
+{
+  "userId": 70967,
+  "cartId": "5af651b2-4333-4ddc-a304-34d7e1349e0b",
+  "preferredProducts": [
+    3696,
+    2426,
+    12
+  ],
+  "productReviews": [
+    {
+      "productId": 216,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-05-14T01:47:28.6079048+03:00"
+    },
+    {
+      "productId": 577,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-02-16T23:11:40.5462509+02:00"
+    },
+    {
+      "productId": 2305,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-05-13T02:09:15.9150596+03:00"
+    },
+    {
+      "productId": 716,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-06-27T05:02:01.437803+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 89525,
+  "cartId": "a3b28888-dc9f-4947-ac5a-2d9dcee3076a",
+  "preferredProducts": [
+    1311,
+    2427,
+    3059,
+    3220
+  ],
+  "productReviews": [
+    {
+      "productId": 2678,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-05-21T08:33:03.8047525+03:00"
+    },
+    {
+      "productId": 1463,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-15T05:16:55.1024332+03:00"
+    },
+    {
+      "productId": 3175,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-05-25T09:11:31.0521694+03:00"
+    }
+  ]
+}

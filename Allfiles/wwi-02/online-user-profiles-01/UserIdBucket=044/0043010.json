@@ -1,0 +1,35 @@
+{
+  "userId": 43010,
+  "cartId": "771036fc-b350-4725-81f2-f6a999ee6133",
+  "preferredProducts": [
+    2844,
+    3617,
+    1594,
+    4799,
+    3373,
+    3130,
+    3479
+  ],
+  "productReviews": [
+    {
+      "productId": 781,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-02-28T13:41:11.209801+02:00"
+    },
+    {
+      "productId": 2162,
+      "reviewText": "this morph is awesome.",
+      "reviewDate": "2018-11-29T06:39:01.6760956+02:00"
+    },
+    {
+      "productId": 4275,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-03-10T12:37:01.1689777+02:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-06-14T10:11:25.5237414+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 22134,
+  "cartId": "18df5a97-48af-429c-aaf1-b02ef8e28466",
+  "preferredProducts": [
+    3480,
+    3465,
+    4822,
+    3426,
+    4623,
+    1411,
+    2766
+  ],
+  "productReviews": [
+    {
+      "productId": 4306,
+      "reviewText": "this XSS is flirty.",
+      "reviewDate": "2018-07-24T13:59:07.3318211+03:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "This is a really good frame.",
+      "reviewDate": "2017-12-15T11:11:35.8520847+02:00"
+    },
+    {
+      "productId": 2076,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-06-05T03:46:37.9273241+03:00"
+    }
+  ]
+}

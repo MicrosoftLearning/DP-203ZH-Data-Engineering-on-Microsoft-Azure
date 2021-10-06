@@ -1,0 +1,35 @@
+{
+  "userId": 6248,
+  "cartId": "7d7576d7-9deb-4ea7-8920-668d6120a8cd",
+  "preferredProducts": [
+    691,
+    3306
+  ],
+  "productReviews": [
+    {
+      "productId": 2770,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-08-25T15:06:10.2652001+03:00"
+    },
+    {
+      "productId": 1244,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-06-21T13:59:09.6209506+03:00"
+    },
+    {
+      "productId": 1724,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-07-10T13:19:22.2960664+03:00"
+    },
+    {
+      "productId": 3755,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-02-17T19:01:27.9252432+02:00"
+    },
+    {
+      "productId": 4726,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-08-24T05:46:59.9486938+03:00"
+    }
+  ]
+}

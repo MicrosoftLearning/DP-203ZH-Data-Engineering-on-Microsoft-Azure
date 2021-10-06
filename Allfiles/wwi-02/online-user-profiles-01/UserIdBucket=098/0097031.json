@@ -1,0 +1,38 @@
+{
+  "userId": 97031,
+  "cartId": "50bd23cb-0f47-4e88-b91c-81afe8e62262",
+  "preferredProducts": [
+    7,
+    2442,
+    2306,
+    4785,
+    2540,
+    723,
+    2558,
+    419,
+    1337,
+    3299
+  ],
+  "productReviews": [
+    {
+      "productId": 1817,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-12-10T23:50:42.3773899+02:00"
+    },
+    {
+      "productId": 298,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-01-28T11:37:33.4816774+02:00"
+    },
+    {
+      "productId": 417,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-08-08T21:55:02.3030799+03:00"
+    },
+    {
+      "productId": 4716,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-07-20T01:56:31.3314426+03:00"
+    }
+  ]
+}

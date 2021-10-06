@@ -1,0 +1,35 @@
+{
+  "userId": 70503,
+  "cartId": "db123f3e-0d80-4259-a85b-c404b1dce585",
+  "preferredProducts": [
+    2560,
+    266
+  ],
+  "productReviews": [
+    {
+      "productId": 2259,
+      "reviewText": "This View works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-04-27T18:00:44.221503+03:00"
+    },
+    {
+      "productId": 3258,
+      "reviewText": "talk about lust!!",
+      "reviewDate": "2019-09-13T02:47:07.6016182+03:00"
+    },
+    {
+      "productId": 2161,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-07-04T17:08:02.8166621+03:00"
+    },
+    {
+      "productId": 2162,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-12-03T18:54:15.6843754+02:00"
+    },
+    {
+      "productId": 2003,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-03-13T07:34:29.2179993+02:00"
+    }
+  ]
+}

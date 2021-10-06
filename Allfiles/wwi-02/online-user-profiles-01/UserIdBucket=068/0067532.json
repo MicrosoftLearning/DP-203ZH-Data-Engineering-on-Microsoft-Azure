@@ -1,0 +1,34 @@
+{
+  "userId": 67532,
+  "cartId": "49123e82-256c-4326-b1a8-a056d7bba6ab",
+  "preferredProducts": [
+    3103,
+    290,
+    4323,
+    884,
+    834,
+    2223
+  ],
+  "productReviews": [
+    {
+      "productId": 1101,
+      "reviewText": "This is a really good Indian Rupee.",
+      "reviewDate": "2017-09-27T10:23:19.0747364+03:00"
+    },
+    {
+      "productId": 3117,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-04-09T05:50:15.4130806+03:00"
+    },
+    {
+      "productId": 2559,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-03-22T08:33:33.2044965+02:00"
+    },
+    {
+      "productId": 222,
+      "reviewText": "This CFA Franc BCEAO works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2019-11-17T10:58:10.9509229+02:00"
+    }
+  ]
+}

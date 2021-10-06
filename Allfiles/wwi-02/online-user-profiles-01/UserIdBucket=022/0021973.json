@@ -1,0 +1,33 @@
+{
+  "userId": 21973,
+  "cartId": "ce6a8275-ed80-4413-8439-8a51ab24f76e",
+  "preferredProducts": [
+    71,
+    2254,
+    1462,
+    2574,
+    4594,
+    1684,
+    1487,
+    4026,
+    4276,
+    4492
+  ],
+  "productReviews": [
+    {
+      "productId": 414,
+      "reviewText": "this orchestration is light-hearted.",
+      "reviewDate": "2020-01-28T01:27:41.7731539+02:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-07-06T21:36:22.1321283+03:00"
+    },
+    {
+      "productId": 2107,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-09-25T18:00:53.1470935+03:00"
+    }
+  ]
+}

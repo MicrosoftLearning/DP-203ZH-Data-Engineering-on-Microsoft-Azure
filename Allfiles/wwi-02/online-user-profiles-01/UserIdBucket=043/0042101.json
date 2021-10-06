@@ -1,0 +1,39 @@
+{
+  "userId": 42101,
+  "cartId": "558a9b1e-6607-4ae5-ac4e-acdb357fac78",
+  "preferredProducts": [
+    3852,
+    2303,
+    3408,
+    1829,
+    2817,
+    2131
+  ],
+  "productReviews": [
+    {
+      "productId": 4622,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-08-16T02:11:42.1524417+03:00"
+    },
+    {
+      "productId": 2940,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-06-18T23:03:01.1083622+03:00"
+    },
+    {
+      "productId": 3002,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-03-12T18:05:55.216554+02:00"
+    },
+    {
+      "productId": 3105,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-08-02T21:46:09.9943322+03:00"
+    },
+    {
+      "productId": 2247,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-03-03T16:51:51.8959801+02:00"
+    }
+  ]
+}

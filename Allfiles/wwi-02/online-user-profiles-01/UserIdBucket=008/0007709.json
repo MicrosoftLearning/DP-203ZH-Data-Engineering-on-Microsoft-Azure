@@ -1,0 +1,31 @@
+{
+  "userId": 7709,
+  "cartId": "61065369-4e43-4f97-85ff-63a44472e18c",
+  "preferredProducts": [
+    2579,
+    1942,
+    907,
+    303,
+    1813,
+    2260,
+    2192,
+    3349
+  ],
+  "productReviews": [
+    {
+      "productId": 1329,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-03-30T21:15:20.051945+02:00"
+    },
+    {
+      "productId": 2552,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-06-03T23:59:38.0810906+03:00"
+    },
+    {
+      "productId": 2573,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-12-25T18:41:57.2980105+02:00"
+    }
+  ]
+}

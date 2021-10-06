@@ -1,0 +1,32 @@
+{
+  "userId": 42506,
+  "cartId": "36c3c643-c7f4-4fe8-8bd0-d40f9b2ecf21",
+  "preferredProducts": [
+    1258,
+    2028,
+    863,
+    4651,
+    2846,
+    3327,
+    3251,
+    574,
+    2959
+  ],
+  "productReviews": [
+    {
+      "productId": 2974,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-09-13T12:10:05.0873893+03:00"
+    },
+    {
+      "productId": 4952,
+      "reviewText": "this benchmark is mellow.",
+      "reviewDate": "2020-03-13T22:40:59.1991299+02:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-11-19T14:28:42.2101841+02:00"
+    }
+  ]
+}

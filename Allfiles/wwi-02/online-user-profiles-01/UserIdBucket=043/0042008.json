@@ -1,0 +1,37 @@
+{
+  "userId": 42008,
+  "cartId": "96717500-fb46-4721-9503-d216fa7451a9",
+  "preferredProducts": [
+    1073,
+    765,
+    953,
+    1743
+  ],
+  "productReviews": [
+    {
+      "productId": 1364,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-01-21T17:39:28.9427534+02:00"
+    },
+    {
+      "productId": 2475,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2016-05-19T13:41:48.746037+03:00"
+    },
+    {
+      "productId": 259,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-06-17T18:40:44.2385482+03:00"
+    },
+    {
+      "productId": 3555,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-06-19T08:29:59.5941289+03:00"
+    },
+    {
+      "productId": 4254,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-07-18T13:17:10.1682769+03:00"
+    }
+  ]
+}

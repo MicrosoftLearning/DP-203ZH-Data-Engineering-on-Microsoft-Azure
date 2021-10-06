@@ -1,0 +1,31 @@
+{
+  "userId": 47776,
+  "cartId": "a0608acc-a58a-4cca-aeb0-e2c0ae4e69c2",
+  "preferredProducts": [
+    2618,
+    216,
+    3095,
+    3982,
+    2353,
+    84,
+    4673,
+    3694
+  ],
+  "productReviews": [
+    {
+      "productId": 4707,
+      "reviewText": "this XSS is gracious.",
+      "reviewDate": "2019-02-25T19:20:24.9908086+02:00"
+    },
+    {
+      "productId": 3444,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-06-08T13:21:51.2718558+03:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-11-27T00:56:45.7945536+02:00"
+    }
+  ]
+}

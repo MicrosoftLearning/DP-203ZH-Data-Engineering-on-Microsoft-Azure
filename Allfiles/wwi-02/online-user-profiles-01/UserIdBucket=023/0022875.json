@@ -1,0 +1,37 @@
+{
+  "userId": 22875,
+  "cartId": "b615cb5f-93da-4d20-80bf-3fd7376385c3",
+  "preferredProducts": [
+    1852,
+    3979,
+    780,
+    3116,
+    2590,
+    2932,
+    215,
+    3424,
+    1981
+  ],
+  "productReviews": [
+    {
+      "productId": 930,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-03-30T15:26:02.495729+03:00"
+    },
+    {
+      "productId": 519,
+      "reviewText": "This hard drive works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-07-08T16:23:08.5334911+03:00"
+    },
+    {
+      "productId": 2107,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-11-15T18:00:03.5864479+02:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-12-05T04:44:21.1910815+02:00"
+    }
+  ]
+}

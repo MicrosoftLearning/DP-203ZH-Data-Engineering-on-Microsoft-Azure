@@ -1,0 +1,32 @@
+{
+  "userId": 83191,
+  "cartId": "494349e5-feb3-452a-ab9b-b45e54028c54",
+  "preferredProducts": [
+    802,
+    1756,
+    252,
+    2686
+  ],
+  "productReviews": [
+    {
+      "productId": 1067,
+      "reviewText": "this back-end is brown.",
+      "reviewDate": "2016-08-04T20:08:52.1192605+03:00"
+    },
+    {
+      "productId": 4988,
+      "reviewText": "this reboot is smooth.",
+      "reviewDate": "2017-05-30T15:25:19.7145429+03:00"
+    },
+    {
+      "productId": 3359,
+      "reviewText": "this Small is ghetto.",
+      "reviewDate": "2017-06-18T23:29:34.0581957+03:00"
+    },
+    {
+      "productId": 4797,
+      "reviewText": "this Corner is whole-grain.",
+      "reviewDate": "2018-12-18T05:19:30.1684523+02:00"
+    }
+  ]
+}

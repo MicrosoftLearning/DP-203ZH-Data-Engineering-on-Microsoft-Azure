@@ -1,0 +1,34 @@
+{
+  "userId": 3703,
+  "cartId": "98ac987e-6a7d-4dfc-9347-eaeec55e18d9",
+  "preferredProducts": [
+    1502,
+    208,
+    1890,
+    4844,
+    3493,
+    2181
+  ],
+  "productReviews": [
+    {
+      "productId": 4879,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-14T22:13:53.3186866+02:00"
+    },
+    {
+      "productId": 1775,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-02-08T02:53:16.8635884+02:00"
+    },
+    {
+      "productId": 4523,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-02-04T03:57:28.1195505+02:00"
+    },
+    {
+      "productId": 439,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-08-22T19:19:31.5145335+03:00"
+    }
+  ]
+}

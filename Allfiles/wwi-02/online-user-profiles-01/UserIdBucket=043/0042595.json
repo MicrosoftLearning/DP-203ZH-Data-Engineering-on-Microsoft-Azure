@@ -1,0 +1,36 @@
+{
+  "userId": 42595,
+  "cartId": "12249464-9b30-466c-a838-eb90ae2fdc16",
+  "preferredProducts": [
+    2675,
+    2378,
+    3528,
+    57,
+    290,
+    3230,
+    3566,
+    2155
+  ],
+  "productReviews": [
+    {
+      "productId": 615,
+      "reviewText": "This intuitive works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-06-27T08:47:16.5237761+03:00"
+    },
+    {
+      "productId": 3077,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-09-25T14:51:38.2629645+03:00"
+    },
+    {
+      "productId": 1522,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-04-05T04:19:05.9906325+03:00"
+    },
+    {
+      "productId": 3259,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-09-04T07:37:55.4870519+03:00"
+    }
+  ]
+}

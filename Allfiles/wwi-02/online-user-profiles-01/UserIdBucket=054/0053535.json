@@ -1,0 +1,29 @@
+{
+  "userId": 53535,
+  "cartId": "c14a7a14-5a82-4810-827d-7c8663570884",
+  "preferredProducts": [
+    840,
+    3720,
+    428,
+    496,
+    3461,
+    1738
+  ],
+  "productReviews": [
+    {
+      "productId": 567,
+      "reviewText": "This Fort works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2020-01-31T01:09:53.0376155+02:00"
+    },
+    {
+      "productId": 4421,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-12-23T11:16:13.8129557+02:00"
+    },
+    {
+      "productId": 1477,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-07-02T06:47:12.1287508+03:00"
+    }
+  ]
+}

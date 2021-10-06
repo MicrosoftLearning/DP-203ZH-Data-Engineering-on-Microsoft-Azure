@@ -1,0 +1,33 @@
+{
+  "userId": 4392,
+  "cartId": "b964e887-abca-4193-8e78-c1459a978df8",
+  "preferredProducts": [
+    1728,
+    3691,
+    775,
+    3057,
+    4687,
+    3926,
+    4387,
+    706,
+    4827,
+    1423
+  ],
+  "productReviews": [
+    {
+      "productId": 4585,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-12-28T05:58:25.1583124+02:00"
+    },
+    {
+      "productId": 1426,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-11-05T17:25:28.7506331+02:00"
+    },
+    {
+      "productId": 519,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-08-22T21:48:51.5805202+03:00"
+    }
+  ]
+}

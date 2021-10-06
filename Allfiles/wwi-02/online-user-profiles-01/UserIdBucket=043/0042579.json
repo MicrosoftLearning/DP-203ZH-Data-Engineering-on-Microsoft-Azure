@@ -1,0 +1,34 @@
+{
+  "userId": 42579,
+  "cartId": "6e75c49d-80d7-449b-acaa-e313b65461bb",
+  "preferredProducts": [
+    2867,
+    1530,
+    4120,
+    1991,
+    836,
+    166
+  ],
+  "productReviews": [
+    {
+      "productId": 1818,
+      "reviewText": "This e-commerce works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2017-12-13T12:29:36.0683935+02:00"
+    },
+    {
+      "productId": 2976,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-09-15T11:35:00.6731702+03:00"
+    },
+    {
+      "productId": 1523,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-12-22T04:50:44.4252479+02:00"
+    },
+    {
+      "productId": 506,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-05-10T00:39:11.4055203+03:00"
+    }
+  ]
+}

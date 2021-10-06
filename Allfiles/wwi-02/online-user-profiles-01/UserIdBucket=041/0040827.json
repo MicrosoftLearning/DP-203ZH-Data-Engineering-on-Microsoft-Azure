@@ -1,0 +1,28 @@
+{
+  "userId": 40827,
+  "cartId": "4c4b8fc2-7339-4920-a7f3-8552ebc156ae",
+  "preferredProducts": [
+    2368,
+    1890,
+    196,
+    390,
+    2716
+  ],
+  "productReviews": [
+    {
+      "productId": 819,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-10-12T13:37:29.0493483+03:00"
+    },
+    {
+      "productId": 2057,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-07-08T02:27:40.9245339+03:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-09-13T05:49:47.0096866+03:00"
+    }
+  ]
+}

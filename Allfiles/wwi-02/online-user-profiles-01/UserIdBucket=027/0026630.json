@@ -1,0 +1,37 @@
+{
+  "userId": 26630,
+  "cartId": "ac795a8e-fcdf-4b8b-9e9c-13537089bd6c",
+  "preferredProducts": [
+    393,
+    1328,
+    3514,
+    4433,
+    2237,
+    4017,
+    2877,
+    1983,
+    3466
+  ],
+  "productReviews": [
+    {
+      "productId": 3455,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-06-14T03:46:51.2872409+03:00"
+    },
+    {
+      "productId": 4719,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-10-28T16:23:25.4920663+03:00"
+    },
+    {
+      "productId": 3652,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-06-19T07:19:48.8420533+03:00"
+    },
+    {
+      "productId": 862,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2020-01-01T11:16:52.3892146+02:00"
+    }
+  ]
+}

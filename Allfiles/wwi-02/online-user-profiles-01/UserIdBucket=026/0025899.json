@@ -1,0 +1,33 @@
+{
+  "userId": 25899,
+  "cartId": "5298feae-303c-44ac-b927-cfd481d47894",
+  "preferredProducts": [
+    3157,
+    1296,
+    2467,
+    4013,
+    38,
+    1887,
+    2368,
+    1306,
+    2330,
+    4154
+  ],
+  "productReviews": [
+    {
+      "productId": 4733,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-12-19T23:36:20.1950825+02:00"
+    },
+    {
+      "productId": 1515,
+      "reviewText": "This Data works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2020-04-27T00:10:28.692936+03:00"
+    },
+    {
+      "productId": 4849,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-06-12T13:51:14.9343185+03:00"
+    }
+  ]
+}

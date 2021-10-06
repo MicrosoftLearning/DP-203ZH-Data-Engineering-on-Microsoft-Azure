@@ -1,0 +1,40 @@
+{
+  "userId": 50501,
+  "cartId": "bfecc354-1bd8-453e-8fd2-58526c0b4c3e",
+  "preferredProducts": [
+    1253,
+    4453,
+    1384,
+    4131,
+    1941,
+    3730,
+    4040
+  ],
+  "productReviews": [
+    {
+      "productId": 3075,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-09-15T09:17:55.3249902+03:00"
+    },
+    {
+      "productId": 4203,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-01-21T10:32:00.569813+02:00"
+    },
+    {
+      "productId": 770,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-09-26T04:01:46.9435531+03:00"
+    },
+    {
+      "productId": 2813,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-12-09T14:48:06.211729+02:00"
+    },
+    {
+      "productId": 3099,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-11-04T05:21:29.1342818+02:00"
+    }
+  ]
+}

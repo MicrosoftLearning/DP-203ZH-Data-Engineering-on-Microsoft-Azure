@@ -1,0 +1,40 @@
+{
+  "userId": 6451,
+  "cartId": "1714cccc-97ff-4a58-b2d1-07bda12f92b2",
+  "preferredProducts": [
+    3943,
+    4800,
+    1980,
+    3935,
+    2627,
+    2895,
+    3045
+  ],
+  "productReviews": [
+    {
+      "productId": 3115,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-06-01T00:47:48.0345253+03:00"
+    },
+    {
+      "productId": 4729,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-03-18T18:03:00.3293382+02:00"
+    },
+    {
+      "productId": 2511,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-03-09T10:57:46.7462119+02:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-02-23T02:09:57.7680248+02:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-10-14T08:30:20.7025439+03:00"
+    }
+  ]
+}

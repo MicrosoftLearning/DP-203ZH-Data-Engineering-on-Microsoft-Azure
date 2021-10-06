@@ -1,0 +1,30 @@
+{
+  "userId": 11498,
+  "cartId": "070f1982-b58e-4e86-b1fa-a8f249f457e8",
+  "preferredProducts": [
+    3602,
+    2330,
+    2977,
+    4413,
+    2173,
+    3385,
+    1585
+  ],
+  "productReviews": [
+    {
+      "productId": 1132,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-08-08T22:00:09.5429195+03:00"
+    },
+    {
+      "productId": 2598,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-05-19T13:38:22.9130303+03:00"
+    },
+    {
+      "productId": 2644,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-02-08T14:11:42.2669621+02:00"
+    }
+  ]
+}

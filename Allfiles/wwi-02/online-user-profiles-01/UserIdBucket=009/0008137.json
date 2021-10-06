@@ -1,0 +1,29 @@
+{
+  "userId": 8137,
+  "cartId": "f1476109-75ab-41e1-bfec-3daabc19325a",
+  "preferredProducts": [
+    1590
+  ],
+  "productReviews": [
+    {
+      "productId": 200,
+      "reviewText": "this Response is flirty.",
+      "reviewDate": "2016-05-22T11:44:31.4937447+03:00"
+    },
+    {
+      "productId": 1598,
+      "reviewText": "this port is ratty.",
+      "reviewDate": "2017-04-06T13:31:07.2347638+03:00"
+    },
+    {
+      "productId": 2642,
+      "reviewText": "this indigo is mellow.",
+      "reviewDate": "2019-01-10T17:43:35.8374999+02:00"
+    },
+    {
+      "productId": 435,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-02-05T16:46:56.3611504+02:00"
+    }
+  ]
+}

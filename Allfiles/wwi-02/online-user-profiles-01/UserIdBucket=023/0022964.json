@@ -1,0 +1,25 @@
+{
+  "userId": 22964,
+  "cartId": "e75435de-7d3e-4c7f-a39b-f1326981683e",
+  "preferredProducts": [
+    2157,
+    1393,
+    4274,
+    3296,
+    2554,
+    2445,
+    380
+  ],
+  "productReviews": [
+    {
+      "productId": 95,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-01-15T23:01:33.7603881+02:00"
+    },
+    {
+      "productId": 3482,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-02-19T13:00:49.50814+02:00"
+    }
+  ]
+}

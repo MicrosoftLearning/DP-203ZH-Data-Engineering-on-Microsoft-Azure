@@ -1,0 +1,37 @@
+{
+  "userId": 16542,
+  "cartId": "5bce42af-aaca-433e-a960-14c740c47958",
+  "preferredProducts": [
+    607,
+    2008,
+    3178,
+    3461,
+    4269,
+    1236,
+    3257,
+    320,
+    556
+  ],
+  "productReviews": [
+    {
+      "productId": 3465,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-08-24T22:53:43.3908274+03:00"
+    },
+    {
+      "productId": 4003,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-12-05T08:16:32.7287259+02:00"
+    },
+    {
+      "productId": 2444,
+      "reviewText": "This Berkshire works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-10-12T00:51:19.1768663+03:00"
+    },
+    {
+      "productId": 1708,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-11-11T15:11:23.5301876+02:00"
+    }
+  ]
+}

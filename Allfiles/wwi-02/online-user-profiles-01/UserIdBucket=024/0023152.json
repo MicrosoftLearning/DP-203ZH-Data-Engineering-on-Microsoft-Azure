@@ -1,0 +1,36 @@
+{
+  "userId": 23152,
+  "cartId": "0be74b21-2e3c-4973-94a8-51501616819d",
+  "preferredProducts": [
+    937,
+    2817,
+    3535,
+    4328,
+    886,
+    2683,
+    4789,
+    1190
+  ],
+  "productReviews": [
+    {
+      "productId": 4123,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-10-05T16:37:52.7464334+03:00"
+    },
+    {
+      "productId": 553,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-09-21T13:50:13.8080778+03:00"
+    },
+    {
+      "productId": 1765,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-05-30T18:18:38.4511732+03:00"
+    },
+    {
+      "productId": 272,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-02-20T10:04:52.3193604+02:00"
+    }
+  ]
+}

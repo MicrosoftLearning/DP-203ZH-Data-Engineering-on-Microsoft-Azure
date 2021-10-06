@@ -1,0 +1,40 @@
+{
+  "userId": 2480,
+  "cartId": "a293f6a7-81f2-49ee-95aa-a0cd148eed91",
+  "preferredProducts": [
+    3740,
+    419,
+    596,
+    318,
+    2808,
+    860,
+    3161
+  ],
+  "productReviews": [
+    {
+      "productId": 1965,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-01-22T21:20:27.1573254+02:00"
+    },
+    {
+      "productId": 2400,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-11-16T02:09:07.7745176+02:00"
+    },
+    {
+      "productId": 1664,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-06-15T16:48:45.2038685+03:00"
+    },
+    {
+      "productId": 4337,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-04-02T14:39:15.1015756+03:00"
+    },
+    {
+      "productId": 1847,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-12-13T13:30:48.0013088+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 60416,
+  "cartId": "c0397971-137e-4a5e-9403-d26c5ea70064",
+  "preferredProducts": [
+    4304,
+    1951,
+    4145
+  ],
+  "productReviews": [
+    {
+      "productId": 3545,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-02-11T21:17:22.2890767+02:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-09-05T01:27:53.1220265+03:00"
+    },
+    {
+      "productId": 446,
+      "reviewText": "this bleeding-edge is top-notch.",
+      "reviewDate": "2017-10-25T05:01:04.5387945+03:00"
+    },
+    {
+      "productId": 4809,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-05-22T21:41:55.7261605+03:00"
+    }
+  ]
+}

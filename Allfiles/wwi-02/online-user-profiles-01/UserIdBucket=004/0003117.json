@@ -1,0 +1,32 @@
+{
+  "userId": 3117,
+  "cartId": "1d1b114f-8039-419e-a7cc-884dc850ac12",
+  "preferredProducts": [
+    4108,
+    328,
+    4546,
+    4810,
+    4121,
+    4682,
+    2343,
+    4842,
+    1363
+  ],
+  "productReviews": [
+    {
+      "productId": 1790,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-12-26T12:27:53.7804317+02:00"
+    },
+    {
+      "productId": 3909,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-12-21T03:57:47.6499208+02:00"
+    },
+    {
+      "productId": 1874,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-03-09T08:50:30.0637871+02:00"
+    }
+  ]
+}

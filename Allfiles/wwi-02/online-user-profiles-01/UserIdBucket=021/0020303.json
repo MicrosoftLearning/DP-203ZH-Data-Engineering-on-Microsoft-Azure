@@ -1,0 +1,26 @@
+{
+  "userId": 20303,
+  "cartId": "c9ce8055-e359-41cf-8ee7-4088171a75b7",
+  "preferredProducts": [
+    2655,
+    4671,
+    4697,
+    1439,
+    167,
+    3318,
+    4293,
+    1728
+  ],
+  "productReviews": [
+    {
+      "productId": 448,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-02-25T03:24:42.4229711+02:00"
+    },
+    {
+      "productId": 3477,
+      "reviewText": "This teal works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-06-02T11:03:19.1266556+03:00"
+    }
+  ]
+}

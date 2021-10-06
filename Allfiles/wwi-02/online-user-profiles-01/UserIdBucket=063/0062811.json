@@ -1,0 +1,27 @@
+{
+  "userId": 62811,
+  "cartId": "12479e5d-a3b3-4ba4-912e-4d9c1b00c250",
+  "preferredProducts": [
+    2816,
+    2127,
+    3029,
+    1163
+  ],
+  "productReviews": [
+    {
+      "productId": 4166,
+      "reviewText": "this SMS is standard.",
+      "reviewDate": "2018-09-01T20:01:42.3187002+03:00"
+    },
+    {
+      "productId": 52,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-09-24T23:08:12.0713373+03:00"
+    },
+    {
+      "productId": 4799,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-06-12T01:45:26.2086291+03:00"
+    }
+  ]
+}

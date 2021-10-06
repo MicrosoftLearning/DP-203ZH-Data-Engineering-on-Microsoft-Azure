@@ -1,0 +1,30 @@
+{
+  "userId": 51874,
+  "cartId": "345d93c4-0678-4574-9e92-64dac503fbc0",
+  "preferredProducts": [
+    3240,
+    2438,
+    1346,
+    3664,
+    1026,
+    289,
+    2555
+  ],
+  "productReviews": [
+    {
+      "productId": 3068,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-12-21T10:08:20.485133+02:00"
+    },
+    {
+      "productId": 950,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-08-24T21:02:37.8418906+03:00"
+    },
+    {
+      "productId": 4471,
+      "reviewText": "This Clothing, Computers & Tools works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-09-29T09:06:25.8406399+03:00"
+    }
+  ]
+}

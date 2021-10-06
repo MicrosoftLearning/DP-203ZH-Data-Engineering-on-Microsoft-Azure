@@ -1,0 +1,36 @@
+{
+  "userId": 40051,
+  "cartId": "51b654f1-2b06-4abe-8fcb-40e072d62a25",
+  "preferredProducts": [
+    1544,
+    2130,
+    415,
+    2004,
+    3879,
+    3049,
+    4511,
+    4166
+  ],
+  "productReviews": [
+    {
+      "productId": 282,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-06-23T14:12:07.4215863+03:00"
+    },
+    {
+      "productId": 2082,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-08-12T16:15:42.5073101+03:00"
+    },
+    {
+      "productId": 1060,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2020-04-11T09:10:59.6515561+03:00"
+    },
+    {
+      "productId": 4626,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-11-29T21:44:15.1431903+02:00"
+    }
+  ]
+}

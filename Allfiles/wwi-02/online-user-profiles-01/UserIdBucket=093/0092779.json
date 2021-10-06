@@ -1,0 +1,36 @@
+{
+  "userId": 92779,
+  "cartId": "45caf241-f5ca-4c0f-b4f6-1d349429daff",
+  "preferredProducts": [
+    317,
+    1011,
+    754,
+    1585,
+    3627,
+    1134,
+    1461,
+    3253
+  ],
+  "productReviews": [
+    {
+      "productId": 884,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-10-27T20:18:31.7340101+02:00"
+    },
+    {
+      "productId": 4695,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-09-15T13:46:18.2387999+03:00"
+    },
+    {
+      "productId": 1267,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-02-09T21:39:04.9533997+02:00"
+    },
+    {
+      "productId": 3812,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-12-10T19:19:45.5105967+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 78303,
+  "cartId": "98c878cf-3bc6-4f94-acfe-7827b33f41b0",
+  "preferredProducts": [
+    54,
+    3983,
+    3333,
+    1897,
+    627,
+    993,
+    3413,
+    1104,
+    3700,
+    2334
+  ],
+  "productReviews": [
+    {
+      "productId": 566,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-11-09T15:10:12.446219+02:00"
+    },
+    {
+      "productId": 2371,
+      "reviewText": "this reboot is revolting.",
+      "reviewDate": "2017-06-03T23:31:09.2815223+03:00"
+    },
+    {
+      "productId": 882,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-10-01T17:10:55.9718616+03:00"
+    },
+    {
+      "productId": 327,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-03-26T05:56:21.3911409+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 44187,
+  "cartId": "3319ab9c-a0d1-42ae-bc16-426022f1e5b2",
+  "preferredProducts": [
+    1980,
+    1178,
+    2532
+  ],
+  "productReviews": [
+    {
+      "productId": 4152,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-04-17T01:28:52.2619054+03:00"
+    },
+    {
+      "productId": 3568,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-07-21T14:18:50.1589322+03:00"
+    },
+    {
+      "productId": 1074,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-07-18T11:04:38.6865822+03:00"
+    },
+    {
+      "productId": 4209,
+      "reviewText": "this Kids, Movies & Clothing is perplexed.",
+      "reviewDate": "2017-03-13T11:01:01.7824313+02:00"
+    }
+  ]
+}

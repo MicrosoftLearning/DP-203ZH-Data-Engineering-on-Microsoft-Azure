@@ -1,0 +1,40 @@
+{
+  "userId": 36618,
+  "cartId": "56e2b932-76ed-4a4c-b0f1-9639681394a3",
+  "preferredProducts": [
+    6,
+    4837,
+    62,
+    1591,
+    3882,
+    1430,
+    3925
+  ],
+  "productReviews": [
+    {
+      "productId": 3500,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-11-24T10:03:14.745778+02:00"
+    },
+    {
+      "productId": 2887,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-08-30T06:49:46.9223264+03:00"
+    },
+    {
+      "productId": 1094,
+      "reviewText": "This Macedonia, does exactly what it's suppose to do.",
+      "reviewDate": "2016-10-07T06:37:52.751993+03:00"
+    },
+    {
+      "productId": 3533,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-10-24T19:48:08.1588456+03:00"
+    },
+    {
+      "productId": 3215,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-05-29T08:55:13.6064807+03:00"
+    }
+  ]
+}

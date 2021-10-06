@@ -1,0 +1,41 @@
+{
+  "userId": 67900,
+  "cartId": "d41ef2f4-66b9-42d4-bc8d-d56b1c392c1d",
+  "preferredProducts": [
+    1912,
+    2483,
+    4773,
+    1441,
+    1859,
+    2308,
+    3596,
+    753
+  ],
+  "productReviews": [
+    {
+      "productId": 738,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-10-10T16:02:32.8214008+03:00"
+    },
+    {
+      "productId": 1910,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-07-11T09:37:07.2403348+03:00"
+    },
+    {
+      "productId": 60,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-01-13T17:38:44.5511226+02:00"
+    },
+    {
+      "productId": 628,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-11-13T17:17:37.6142836+02:00"
+    },
+    {
+      "productId": 3490,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-11-28T20:33:26.8164658+02:00"
+    }
+  ]
+}

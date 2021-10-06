@@ -1,0 +1,31 @@
+{
+  "userId": 85402,
+  "cartId": "9cdf5838-2e84-46c1-a152-46c348c1485c",
+  "preferredProducts": [
+    4531,
+    415,
+    1911,
+    2496,
+    1323,
+    4659,
+    2276,
+    3287
+  ],
+  "productReviews": [
+    {
+      "productId": 4744,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-11-11T06:15:42.6821499+02:00"
+    },
+    {
+      "productId": 146,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-05-26T23:04:08.9480012+03:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-04-06T19:16:00.3790039+03:00"
+    }
+  ]
+}

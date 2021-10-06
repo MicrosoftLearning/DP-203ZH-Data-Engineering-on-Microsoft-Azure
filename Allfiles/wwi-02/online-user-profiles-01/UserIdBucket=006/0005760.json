@@ -1,0 +1,33 @@
+{
+  "userId": 5760,
+  "cartId": "a044de75-8d7a-4ede-97b6-536424b1a148",
+  "preferredProducts": [
+    2879,
+    588,
+    3072,
+    834,
+    2237
+  ],
+  "productReviews": [
+    {
+      "productId": 3904,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2016-10-12T01:32:21.1839979+03:00"
+    },
+    {
+      "productId": 4993,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-02-23T03:34:57.8294022+02:00"
+    },
+    {
+      "productId": 820,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-04-22T16:39:50.4819405+03:00"
+    },
+    {
+      "productId": 1642,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-05-17T21:19:23.9871888+03:00"
+    }
+  ]
+}

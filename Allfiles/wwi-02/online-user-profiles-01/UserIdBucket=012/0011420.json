@@ -1,0 +1,33 @@
+{
+  "userId": 11420,
+  "cartId": "9e31b2a8-e6f0-4b5e-be81-c27b84756463",
+  "preferredProducts": [
+    4987,
+    1755,
+    4294,
+    4339,
+    2915,
+    2660,
+    1641,
+    1056,
+    2191,
+    2243
+  ],
+  "productReviews": [
+    {
+      "productId": 715,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-07-08T14:56:26.4291993+03:00"
+    },
+    {
+      "productId": 3221,
+      "reviewText": "this Avon is smooth.",
+      "reviewDate": "2017-11-09T20:48:12.7644619+02:00"
+    },
+    {
+      "productId": 1826,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2016-10-27T23:57:12.1006761+03:00"
+    }
+  ]
+}

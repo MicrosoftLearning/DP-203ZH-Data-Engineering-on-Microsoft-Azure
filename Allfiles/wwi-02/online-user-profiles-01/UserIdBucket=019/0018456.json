@@ -1,0 +1,37 @@
+{
+  "userId": 18456,
+  "cartId": "47a58341-6299-4bd8-951f-214212cf5490",
+  "preferredProducts": [
+    4676,
+    355,
+    4047,
+    1012,
+    4697,
+    2659,
+    2407,
+    2526,
+    3628
+  ],
+  "productReviews": [
+    {
+      "productId": 3802,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2020-01-06T00:12:13.8306105+02:00"
+    },
+    {
+      "productId": 3242,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-01-21T16:41:14.3376291+02:00"
+    },
+    {
+      "productId": 3468,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-12-19T21:46:00.8985219+02:00"
+    },
+    {
+      "productId": 1112,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-09-19T10:44:45.4439834+03:00"
+    }
+  ]
+}

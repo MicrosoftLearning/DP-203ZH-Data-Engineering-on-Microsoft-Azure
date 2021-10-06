@@ -1,0 +1,37 @@
+{
+  "userId": 26095,
+  "cartId": "9de437d5-adc7-4262-a5a1-173f313d7284",
+  "preferredProducts": [
+    1219,
+    4727,
+    4506,
+    2864,
+    2345,
+    2037,
+    4017,
+    4085,
+    595
+  ],
+  "productReviews": [
+    {
+      "productId": 2944,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-04-30T19:29:42.0549103+03:00"
+    },
+    {
+      "productId": 3149,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-12-26T00:35:48.421902+02:00"
+    },
+    {
+      "productId": 3188,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-03-02T03:10:11.0946645+02:00"
+    },
+    {
+      "productId": 2903,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-05-31T05:02:04.9742082+03:00"
+    }
+  ]
+}

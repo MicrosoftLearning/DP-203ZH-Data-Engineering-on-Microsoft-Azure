@@ -1,0 +1,28 @@
+{
+  "userId": 49657,
+  "cartId": "8b987654-7f23-4e8b-8017-eb78f6c2a720",
+  "preferredProducts": [
+    4565,
+    2888,
+    1461,
+    1379,
+    674
+  ],
+  "productReviews": [
+    {
+      "productId": 1835,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-05-19T08:52:23.4797979+03:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-04-08T20:16:08.5314551+03:00"
+    },
+    {
+      "productId": 4107,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2016-06-05T11:20:02.5417218+03:00"
+    }
+  ]
+}

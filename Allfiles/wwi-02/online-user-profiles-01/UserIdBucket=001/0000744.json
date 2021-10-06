@@ -1,0 +1,33 @@
+{
+  "userId": 744,
+  "cartId": "989b7cfc-36f1-4932-90f7-d9c311c0ccf2",
+  "preferredProducts": [
+    2653,
+    4646,
+    4720,
+    4675,
+    1298,
+    1967,
+    2545,
+    2947,
+    3619,
+    4919
+  ],
+  "productReviews": [
+    {
+      "productId": 3744,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-04-28T17:43:05.3089553+03:00"
+    },
+    {
+      "productId": 2191,
+      "reviewText": "This Garden works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-09-02T12:17:31.6340594+03:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "this monitor is honest.",
+      "reviewDate": "2017-12-22T19:55:10.8713408+02:00"
+    }
+  ]
+}

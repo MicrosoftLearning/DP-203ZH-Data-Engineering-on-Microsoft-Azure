@@ -1,0 +1,36 @@
+{
+  "userId": 3107,
+  "cartId": "9619472c-5c05-48ec-8eac-0afe5b2e6dc8",
+  "preferredProducts": [
+    4512,
+    1335,
+    1046
+  ],
+  "productReviews": [
+    {
+      "productId": 104,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-06-09T02:03:17.5118589+03:00"
+    },
+    {
+      "productId": 4074,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-06-12T05:51:58.1417856+03:00"
+    },
+    {
+      "productId": 4853,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-02-10T23:02:19.4929574+02:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-01-08T09:21:45.2367112+02:00"
+    },
+    {
+      "productId": 3473,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-14T21:02:02.3730233+02:00"
+    }
+  ]
+}

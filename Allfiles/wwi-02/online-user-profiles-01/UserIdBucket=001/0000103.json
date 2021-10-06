@@ -1,0 +1,35 @@
+{
+  "userId": 103,
+  "cartId": "a9135a16-5aa3-4ce5-9d0c-931072bf57db",
+  "preferredProducts": [
+    3165,
+    243,
+    2094,
+    1692,
+    2603,
+    549,
+    3376
+  ],
+  "productReviews": [
+    {
+      "productId": 2644,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-07-09T13:07:19.9833251+03:00"
+    },
+    {
+      "productId": 2580,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-07-11T13:38:23.633741+03:00"
+    },
+    {
+      "productId": 477,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-12-04T18:19:21.5283538+02:00"
+    },
+    {
+      "productId": 2899,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-02-21T23:11:46.0891277+02:00"
+    }
+  ]
+}

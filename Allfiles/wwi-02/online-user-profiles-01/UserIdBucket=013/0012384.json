@@ -1,0 +1,27 @@
+{
+  "userId": 12384,
+  "cartId": "bcde8411-223c-417e-a505-b5834a2bcace",
+  "preferredProducts": [
+    2361,
+    1008,
+    4873,
+    1249,
+    2287,
+    3498,
+    2674,
+    4845,
+    806
+  ],
+  "productReviews": [
+    {
+      "productId": 2008,
+      "reviewText": "This THX works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-10-27T06:01:18.6051947+03:00"
+    },
+    {
+      "productId": 4267,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-02-20T06:10:41.295456+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 71972,
+  "cartId": "54b109a3-e760-415e-a02b-f105ab098963",
+  "preferredProducts": [
+    1018,
+    4234,
+    4491,
+    4940,
+    1216,
+    4498,
+    1225
+  ],
+  "productReviews": [
+    {
+      "productId": 4496,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-09-29T19:02:09.9925705+03:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-10-10T15:24:55.6688213+03:00"
+    },
+    {
+      "productId": 2510,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-03-12T02:20:26.787397+02:00"
+    }
+  ]
+}

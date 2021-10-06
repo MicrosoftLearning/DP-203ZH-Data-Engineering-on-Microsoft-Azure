@@ -1,0 +1,31 @@
+{
+  "userId": 81197,
+  "cartId": "fd632082-d07a-44cb-b997-dfb1feeace76",
+  "preferredProducts": [
+    3312,
+    4361,
+    4079,
+    2507,
+    1513,
+    50,
+    1677,
+    3650
+  ],
+  "productReviews": [
+    {
+      "productId": 2819,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-01-10T22:49:24.6868113+02:00"
+    },
+    {
+      "productId": 4792,
+      "reviewText": "this multi-byte is ratty.",
+      "reviewDate": "2020-04-15T04:35:57.6090096+03:00"
+    },
+    {
+      "productId": 4558,
+      "reviewText": "this wireless is brown.",
+      "reviewDate": "2019-12-20T14:09:39.9139317+02:00"
+    }
+  ]
+}

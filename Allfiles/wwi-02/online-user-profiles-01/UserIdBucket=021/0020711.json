@@ -1,0 +1,31 @@
+{
+  "userId": 20711,
+  "cartId": "46807ec2-3b88-41ee-93b6-dbbda7707add",
+  "preferredProducts": [
+    821,
+    2839,
+    3411,
+    2681,
+    3225,
+    761,
+    1651,
+    4232
+  ],
+  "productReviews": [
+    {
+      "productId": 2274,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-01-05T07:54:27.8436086+02:00"
+    },
+    {
+      "productId": 4670,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-12-02T08:13:15.1149595+02:00"
+    },
+    {
+      "productId": 202,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-06-07T13:11:30.0534756+03:00"
+    }
+  ]
+}

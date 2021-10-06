@@ -1,0 +1,39 @@
+{
+  "userId": 86485,
+  "cartId": "c992ea20-71c1-405e-8335-e2d0fbf92f6f",
+  "preferredProducts": [
+    254,
+    1160,
+    3885,
+    2675,
+    4849,
+    4154
+  ],
+  "productReviews": [
+    {
+      "productId": 663,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-03-14T21:30:06.7984063+02:00"
+    },
+    {
+      "productId": 3234,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-08-01T22:50:30.2153454+03:00"
+    },
+    {
+      "productId": 2840,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-02-10T08:36:40.7073983+02:00"
+    },
+    {
+      "productId": 2164,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-03-16T11:11:51.3229276+02:00"
+    },
+    {
+      "productId": 1254,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Oregon keeps them away.",
+      "reviewDate": "2019-05-03T08:06:26.0838525+03:00"
+    }
+  ]
+}

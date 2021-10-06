@@ -1,0 +1,28 @@
+{
+  "userId": 9935,
+  "cartId": "6cc696e9-8801-40c4-8a37-90638bb954a8",
+  "preferredProducts": [
+    3288,
+    4477,
+    1222,
+    1050,
+    74
+  ],
+  "productReviews": [
+    {
+      "productId": 3634,
+      "reviewText": "this support is amiable.",
+      "reviewDate": "2017-06-27T07:54:51.4630697+03:00"
+    },
+    {
+      "productId": 4477,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-10-11T06:01:57.4960455+03:00"
+    },
+    {
+      "productId": 297,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-08-04T14:42:31.895224+03:00"
+    }
+  ]
+}

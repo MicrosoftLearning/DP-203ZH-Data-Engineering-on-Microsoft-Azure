@@ -1,0 +1,25 @@
+{
+  "userId": 50651,
+  "cartId": "f89533ac-683f-4b9c-8d34-236149eb6b67",
+  "preferredProducts": [
+    3623,
+    2863
+  ],
+  "productReviews": [
+    {
+      "productId": 1755,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-05-22T10:47:51.9228716+03:00"
+    },
+    {
+      "productId": 1380,
+      "reviewText": "this back up is hyper.",
+      "reviewDate": "2020-01-29T21:50:07.638254+02:00"
+    },
+    {
+      "productId": 2534,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-09-29T04:07:32.5779636+03:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 3784,
+  "cartId": "2eebf255-74a7-4409-9c14-832a147f377b",
+  "preferredProducts": [
+    3503,
+    2351,
+    4369,
+    261,
+    3443,
+    4095,
+    2359,
+    1924,
+    2783
+  ],
+  "productReviews": [
+    {
+      "productId": 4644,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-06-14T19:47:43.7131489+03:00"
+    },
+    {
+      "productId": 2974,
+      "reviewText": "this architect is papery.",
+      "reviewDate": "2018-01-05T20:47:49.1449828+02:00"
+    },
+    {
+      "productId": 3047,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-10-11T15:17:55.9238721+03:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "this Brand is revolting.",
+      "reviewDate": "2020-01-01T23:49:35.2123397+02:00"
+    },
+    {
+      "productId": 2706,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-06-30T17:05:42.661897+03:00"
+    }
+  ]
+}

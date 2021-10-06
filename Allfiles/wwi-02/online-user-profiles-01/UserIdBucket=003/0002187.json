@@ -1,0 +1,25 @@
+{
+  "userId": 2187,
+  "cartId": "e142669c-9794-42a7-b005-df36df8d0212",
+  "preferredProducts": [
+    2160,
+    3970
+  ],
+  "productReviews": [
+    {
+      "productId": 4141,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-09-29T00:29:49.5530981+03:00"
+    },
+    {
+      "productId": 2736,
+      "reviewText": "this Intelligent Granite Salad is slurpee.",
+      "reviewDate": "2016-07-11T12:44:15.4454449+03:00"
+    },
+    {
+      "productId": 4310,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-08-29T18:52:20.2095256+03:00"
+    }
+  ]
+}

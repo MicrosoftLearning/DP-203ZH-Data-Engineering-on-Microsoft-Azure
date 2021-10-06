@@ -1,0 +1,33 @@
+{
+  "userId": 43805,
+  "cartId": "7b49dead-8281-4ca7-ba54-b936c8573549",
+  "preferredProducts": [
+    2243,
+    1563,
+    2729,
+    2283,
+    430,
+    178,
+    4437,
+    2384,
+    1680,
+    3607
+  ],
+  "productReviews": [
+    {
+      "productId": 78,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-24T17:07:56.5191344+02:00"
+    },
+    {
+      "productId": 3479,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2016-07-05T19:59:51.3464821+03:00"
+    },
+    {
+      "productId": 1170,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-09-12T10:39:17.6139968+03:00"
+    }
+  ]
+}

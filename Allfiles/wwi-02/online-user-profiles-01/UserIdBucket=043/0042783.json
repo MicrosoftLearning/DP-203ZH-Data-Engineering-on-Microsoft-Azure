@@ -1,0 +1,32 @@
+{
+  "userId": 42783,
+  "cartId": "8dbd1542-e1e6-4d05-9391-9c72e30615ca",
+  "preferredProducts": [
+    4429,
+    3040,
+    1154,
+    456
+  ],
+  "productReviews": [
+    {
+      "productId": 1501,
+      "reviewText": "This context-sensitive works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2016-07-26T00:34:48.5299018+03:00"
+    },
+    {
+      "productId": 692,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-07-12T01:10:46.9117216+03:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-03-17T15:22:59.3737023+02:00"
+    },
+    {
+      "productId": 464,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-12-25T13:39:11.8053902+02:00"
+    }
+  ]
+}

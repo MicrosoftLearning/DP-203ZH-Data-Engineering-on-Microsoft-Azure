@@ -1,0 +1,38 @@
+{
+  "userId": 86486,
+  "cartId": "14fa5f7e-8fe3-4b0c-952c-9e9cc4b26bf1",
+  "preferredProducts": [
+    888,
+    3691,
+    4853,
+    373,
+    2183,
+    4924,
+    1601,
+    4154,
+    4627,
+    4797
+  ],
+  "productReviews": [
+    {
+      "productId": 4233,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-03-19T03:11:18.2394361+02:00"
+    },
+    {
+      "productId": 814,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-09-20T16:35:10.160193+03:00"
+    },
+    {
+      "productId": 953,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-07-07T07:10:59.3249709+03:00"
+    },
+    {
+      "productId": 906,
+      "reviewText": "This exploit works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-03-16T02:28:37.5787178+02:00"
+    }
+  ]
+}

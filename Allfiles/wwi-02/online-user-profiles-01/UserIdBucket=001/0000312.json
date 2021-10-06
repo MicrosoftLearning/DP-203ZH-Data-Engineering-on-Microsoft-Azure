@@ -1,0 +1,32 @@
+{
+  "userId": 312,
+  "cartId": "ea1c80d6-c685-45fa-bc5f-8d90fda353e6",
+  "preferredProducts": [
+    595,
+    3120,
+    4116,
+    3887,
+    3947,
+    259,
+    2237,
+    2216,
+    4235
+  ],
+  "productReviews": [
+    {
+      "productId": 3100,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-12-19T03:39:11.8002123+02:00"
+    },
+    {
+      "productId": 3938,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-06-28T03:22:51.6553107+03:00"
+    },
+    {
+      "productId": 3197,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-08-25T01:05:32.3181877+03:00"
+    }
+  ]
+}

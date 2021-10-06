@@ -1,0 +1,37 @@
+{
+  "userId": 34544,
+  "cartId": "e177fd5c-a0a9-4081-9799-7522d714c1e1",
+  "preferredProducts": [
+    4396,
+    2330,
+    4549,
+    737
+  ],
+  "productReviews": [
+    {
+      "productId": 2794,
+      "reviewText": "this aggregate is revolting.",
+      "reviewDate": "2016-08-06T04:03:58.8748344+03:00"
+    },
+    {
+      "productId": 2079,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-03-07T19:27:58.4040573+02:00"
+    },
+    {
+      "productId": 140,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-12-02T19:40:49.8593023+02:00"
+    },
+    {
+      "productId": 3188,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-12-10T12:59:01.6465514+02:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "This Bolivar Fuerte works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-03-25T19:01:16.355713+02:00"
+    }
+  ]
+}

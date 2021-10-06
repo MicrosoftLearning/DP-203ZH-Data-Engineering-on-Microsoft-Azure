@@ -1,0 +1,38 @@
+{
+  "userId": 31966,
+  "cartId": "5e7fe1bc-1f6b-4a23-9556-bb6bb71c666c",
+  "preferredProducts": [
+    1996,
+    955,
+    4630,
+    2650,
+    3630,
+    4837,
+    4582,
+    1037,
+    4535,
+    4089
+  ],
+  "productReviews": [
+    {
+      "productId": 2638,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-02-01T11:02:34.3475214+02:00"
+    },
+    {
+      "productId": 730,
+      "reviewText": "this red is honest.",
+      "reviewDate": "2016-08-16T14:30:09.6462226+03:00"
+    },
+    {
+      "productId": 226,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-05-18T12:27:42.0529248+03:00"
+    },
+    {
+      "productId": 4291,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-06-25T22:31:58.4016525+03:00"
+    }
+  ]
+}

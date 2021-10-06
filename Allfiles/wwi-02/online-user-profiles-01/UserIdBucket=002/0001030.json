@@ -1,0 +1,32 @@
+{
+  "userId": 1030,
+  "cartId": "6430b07d-c2ca-4979-ade3-636c679ca952",
+  "preferredProducts": [
+    2269,
+    80,
+    1871,
+    3393
+  ],
+  "productReviews": [
+    {
+      "productId": 3092,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-01-13T17:31:38.3866175+02:00"
+    },
+    {
+      "productId": 1136,
+      "reviewText": "This Metal works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2016-08-16T22:36:29.8104132+03:00"
+    },
+    {
+      "productId": 1751,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-05-28T08:53:44.5150886+03:00"
+    },
+    {
+      "productId": 1032,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-10-18T04:45:45.8429001+03:00"
+    }
+  ]
+}

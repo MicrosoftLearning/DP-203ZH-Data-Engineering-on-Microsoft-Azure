@@ -1,0 +1,24 @@
+{
+  "userId": 31787,
+  "cartId": "b975f724-b3b9-48d2-8f40-7eb379501338",
+  "preferredProducts": [
+    3456,
+    319,
+    1769,
+    2555,
+    2439,
+    928
+  ],
+  "productReviews": [
+    {
+      "productId": 968,
+      "reviewText": "This Summit works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-11-02T22:58:07.4125276+02:00"
+    },
+    {
+      "productId": 1017,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-02-26T04:01:19.6848744+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 10389,
+  "cartId": "f100dc4c-e111-4808-b2b4-da5d3ab7c1d6",
+  "preferredProducts": [
+    358,
+    3025,
+    2535,
+    1786,
+    4736,
+    3325,
+    989
+  ],
+  "productReviews": [
+    {
+      "productId": 4873,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-10-17T14:05:07.1868698+03:00"
+    },
+    {
+      "productId": 59,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-11-30T15:46:13.5545425+02:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-05-12T09:18:20.559106+03:00"
+    },
+    {
+      "productId": 3418,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-09-17T09:55:04.0664919+03:00"
+    }
+  ]
+}

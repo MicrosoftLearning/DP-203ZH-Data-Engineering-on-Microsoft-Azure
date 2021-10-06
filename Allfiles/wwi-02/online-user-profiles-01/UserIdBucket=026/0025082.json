@@ -1,0 +1,38 @@
+{
+  "userId": 25082,
+  "cartId": "baf178bb-ce93-4277-b20d-c745894af91d",
+  "preferredProducts": [
+    4389,
+    4601,
+    4715,
+    3814,
+    1858
+  ],
+  "productReviews": [
+    {
+      "productId": 1021,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-11-24T22:25:49.7828576+02:00"
+    },
+    {
+      "productId": 1021,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2016-10-21T22:32:44.7246897+03:00"
+    },
+    {
+      "productId": 3573,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-10-24T13:45:19.0458763+03:00"
+    },
+    {
+      "productId": 2247,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-05-18T15:50:58.8940228+03:00"
+    },
+    {
+      "productId": 3084,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-12-07T03:21:25.2979924+02:00"
+    }
+  ]
+}

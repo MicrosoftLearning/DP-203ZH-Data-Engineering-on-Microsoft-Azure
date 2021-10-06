@@ -1,0 +1,40 @@
+{
+  "userId": 33821,
+  "cartId": "51a9a44e-f1d7-4150-8f71-044c37f717a2",
+  "preferredProducts": [
+    4424,
+    282,
+    4595,
+    365,
+    4832,
+    903,
+    920
+  ],
+  "productReviews": [
+    {
+      "productId": 1853,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-04-23T05:38:41.0740345+03:00"
+    },
+    {
+      "productId": 2957,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-02-17T08:14:36.1979224+02:00"
+    },
+    {
+      "productId": 4970,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-09-23T00:22:36.5757799+03:00"
+    },
+    {
+      "productId": 3164,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-06-11T01:09:47.9945032+03:00"
+    },
+    {
+      "productId": 4945,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-05-31T02:06:47.7664433+03:00"
+    }
+  ]
+}

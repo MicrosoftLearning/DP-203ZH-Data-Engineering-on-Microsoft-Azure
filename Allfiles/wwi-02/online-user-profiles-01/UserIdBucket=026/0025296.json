@@ -1,0 +1,33 @@
+{
+  "userId": 25296,
+  "cartId": "a71fe265-45f5-469b-bdf7-183ad792fe33",
+  "preferredProducts": [
+    2431,
+    1721,
+    3828,
+    1539,
+    804,
+    2509,
+    4049,
+    3038,
+    1821,
+    3677
+  ],
+  "productReviews": [
+    {
+      "productId": 213,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-11-22T04:10:05.7702227+02:00"
+    },
+    {
+      "productId": 4628,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-08-01T12:04:37.3359161+03:00"
+    },
+    {
+      "productId": 1517,
+      "reviewText": "this monitor is ratty.",
+      "reviewDate": "2016-11-04T05:51:21.9848441+02:00"
+    }
+  ]
+}

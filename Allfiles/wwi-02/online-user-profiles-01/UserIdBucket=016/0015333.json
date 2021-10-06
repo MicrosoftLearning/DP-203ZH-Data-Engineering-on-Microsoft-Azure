@@ -1,0 +1,35 @@
+{
+  "userId": 15333,
+  "cartId": "bdf06393-53b2-48f7-9597-c1ba1eab25d6",
+  "preferredProducts": [
+    3879,
+    2802,
+    1894,
+    2379,
+    3529,
+    256,
+    4164
+  ],
+  "productReviews": [
+    {
+      "productId": 448,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-05-06T02:56:54.7652611+03:00"
+    },
+    {
+      "productId": 3479,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-11-14T05:31:16.4262493+02:00"
+    },
+    {
+      "productId": 4492,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-09-03T04:33:47.4690581+03:00"
+    },
+    {
+      "productId": 3972,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-11-27T04:23:13.107468+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 38432,
+  "cartId": "7e063fa5-9b6e-402a-be80-7996827c3e92",
+  "preferredProducts": [
+    2227,
+    2073,
+    1586
+  ],
+  "productReviews": [
+    {
+      "productId": 4016,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-07-29T04:46:43.7784255+03:00"
+    },
+    {
+      "productId": 555,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-08-06T11:18:33.107942+03:00"
+    },
+    {
+      "productId": 4821,
+      "reviewText": "this content is amiable.",
+      "reviewDate": "2016-09-09T08:11:21.8986128+03:00"
+    },
+    {
+      "productId": 4744,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-07-06T00:46:13.1730639+03:00"
+    }
+  ]
+}

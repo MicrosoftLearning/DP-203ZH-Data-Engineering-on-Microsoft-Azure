@@ -1,0 +1,32 @@
+{
+  "userId": 78698,
+  "cartId": "f68ce6f9-266b-4374-8182-c52da2973438",
+  "preferredProducts": [
+    2551,
+    678,
+    3461,
+    4383
+  ],
+  "productReviews": [
+    {
+      "productId": 3458,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-03-05T06:57:06.471559+02:00"
+    },
+    {
+      "productId": 2132,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-06-03T14:36:12.1457889+03:00"
+    },
+    {
+      "productId": 2549,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-06-19T12:39:52.6434738+03:00"
+    },
+    {
+      "productId": 666,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-01-25T10:57:11.4153376+02:00"
+    }
+  ]
+}

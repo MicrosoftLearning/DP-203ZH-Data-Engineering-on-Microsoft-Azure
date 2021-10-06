@@ -1,0 +1,23 @@
+{
+  "userId": 35048,
+  "cartId": "f3feb773-72fd-4045-b6b2-b8f509ea0abc",
+  "preferredProducts": [
+    1187,
+    2170,
+    4932,
+    4489,
+    2883
+  ],
+  "productReviews": [
+    {
+      "productId": 1506,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-04-22T09:45:45.6426617+03:00"
+    },
+    {
+      "productId": 4166,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-04-02T16:04:35.8514801+03:00"
+    }
+  ]
+}

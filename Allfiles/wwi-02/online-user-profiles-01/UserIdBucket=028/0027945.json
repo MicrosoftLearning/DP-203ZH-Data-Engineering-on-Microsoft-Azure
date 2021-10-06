@@ -1,0 +1,35 @@
+{
+  "userId": 27945,
+  "cartId": "1cd3e348-462c-42bc-b23c-2961ccc61316",
+  "preferredProducts": [
+    1727,
+    3779,
+    2632,
+    2026,
+    2249,
+    1875,
+    4872
+  ],
+  "productReviews": [
+    {
+      "productId": 3111,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-06-09T17:40:18.3553287+03:00"
+    },
+    {
+      "productId": 773,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-07-08T05:47:06.305871+03:00"
+    },
+    {
+      "productId": 2179,
+      "reviewText": "this Cambridgeshire is mellow.",
+      "reviewDate": "2019-07-30T03:32:32.5031526+03:00"
+    },
+    {
+      "productId": 1689,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-03-21T00:54:06.3106178+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 22380,
+  "cartId": "be105688-eb19-4f3d-bfe2-b72144a242fe",
+  "preferredProducts": [
+    441,
+    3224,
+    4387,
+    1584
+  ],
+  "productReviews": [
+    {
+      "productId": 1596,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-09-23T23:45:07.3265941+03:00"
+    },
+    {
+      "productId": 2879,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2016-07-15T03:38:08.6963622+03:00"
+    },
+    {
+      "productId": 2802,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-10-22T17:47:28.0589687+03:00"
+    }
+  ]
+}

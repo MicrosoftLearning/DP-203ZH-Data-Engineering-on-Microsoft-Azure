@@ -1,0 +1,33 @@
+{
+  "userId": 28816,
+  "cartId": "a97064fa-b334-41cf-bd7c-f4bbb4c77ca6",
+  "preferredProducts": [
+    2989,
+    4548,
+    4157,
+    1362,
+    419
+  ],
+  "productReviews": [
+    {
+      "productId": 2445,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-02-01T23:02:30.6496654+02:00"
+    },
+    {
+      "productId": 2576,
+      "reviewText": "this Toys, Shoes & Automotive is gracious.",
+      "reviewDate": "2018-07-28T11:21:00.1473986+03:00"
+    },
+    {
+      "productId": 4109,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-04-04T05:21:35.2787697+03:00"
+    },
+    {
+      "productId": 976,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-10-02T00:49:05.1494243+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 41014,
+  "cartId": "f0f2e9b7-083f-4d66-abff-fa8c8bada06d",
+  "preferredProducts": [
+    4000,
+    1205,
+    4798
+  ],
+  "productReviews": [
+    {
+      "productId": 364,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-11-05T12:21:44.5282429+02:00"
+    },
+    {
+      "productId": 3700,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-02-04T13:52:29.6019622+02:00"
+    },
+    {
+      "productId": 1621,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-08-22T02:12:54.5477867+03:00"
+    },
+    {
+      "productId": 1343,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-04-05T23:05:17.0538666+03:00"
+    }
+  ]
+}

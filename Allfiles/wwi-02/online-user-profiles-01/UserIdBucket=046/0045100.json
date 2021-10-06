@@ -1,0 +1,32 @@
+{
+  "userId": 45100,
+  "cartId": "d5f9f707-a85a-45c2-b500-0c15b9beeda7",
+  "preferredProducts": [
+    1927,
+    1839,
+    323,
+    3722
+  ],
+  "productReviews": [
+    {
+      "productId": 460,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-12-13T11:15:48.1094859+02:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "This Frozen works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-12-14T17:11:22.6283844+02:00"
+    },
+    {
+      "productId": 3242,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-10-20T12:10:33.5675682+03:00"
+    },
+    {
+      "productId": 4406,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-06-14T05:53:43.8572276+03:00"
+    }
+  ]
+}

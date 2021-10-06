@@ -1,0 +1,41 @@
+{
+  "userId": 22771,
+  "cartId": "c2160961-4386-49f1-ab08-299d75186ad9",
+  "preferredProducts": [
+    2943,
+    4312,
+    3299,
+    2759,
+    1523,
+    827,
+    1071,
+    1649
+  ],
+  "productReviews": [
+    {
+      "productId": 623,
+      "reviewText": "this Dobra is nifty.",
+      "reviewDate": "2019-06-06T15:40:52.7632578+03:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-12-17T00:44:03.5192388+02:00"
+    },
+    {
+      "productId": 2681,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-02-28T02:41:58.3320528+02:00"
+    },
+    {
+      "productId": 1177,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-07-08T01:45:37.6236569+03:00"
+    },
+    {
+      "productId": 2185,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-05-27T05:23:06.1663275+03:00"
+    }
+  ]
+}

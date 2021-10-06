@@ -1,0 +1,36 @@
+{
+  "userId": 42169,
+  "cartId": "144b7556-3d4e-4c77-8663-af9aeb2df95a",
+  "preferredProducts": [
+    501,
+    1871,
+    2292
+  ],
+  "productReviews": [
+    {
+      "productId": 1767,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-04-02T19:31:13.1760359+03:00"
+    },
+    {
+      "productId": 4008,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-02-27T08:11:13.317183+02:00"
+    },
+    {
+      "productId": 2677,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-12-22T06:58:58.2868667+02:00"
+    },
+    {
+      "productId": 2592,
+      "reviewText": "This Texas works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2020-02-25T13:04:15.0832723+02:00"
+    },
+    {
+      "productId": 36,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-12-24T21:29:57.0773503+02:00"
+    }
+  ]
+}

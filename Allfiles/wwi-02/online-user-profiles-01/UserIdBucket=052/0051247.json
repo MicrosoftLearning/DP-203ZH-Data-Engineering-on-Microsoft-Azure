@@ -1,0 +1,22 @@
+{
+  "userId": 51247,
+  "cartId": "acbb0f03-cd53-4088-b7ee-30572cbedf10",
+  "preferredProducts": [
+    1920,
+    4953,
+    3619,
+    2822
+  ],
+  "productReviews": [
+    {
+      "productId": 3339,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-11-29T01:31:29.5196941+02:00"
+    },
+    {
+      "productId": 433,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-06-27T00:44:02.0393921+03:00"
+    }
+  ]
+}

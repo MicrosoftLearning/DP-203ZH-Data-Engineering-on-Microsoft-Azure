@@ -1,0 +1,29 @@
+{
+  "userId": 49075,
+  "cartId": "990cf2c9-757f-42ad-b484-bd0ccd696d27",
+  "preferredProducts": [
+    1234,
+    562,
+    2928,
+    4400,
+    3126,
+    3808
+  ],
+  "productReviews": [
+    {
+      "productId": 1060,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-04-03T11:51:53.469685+03:00"
+    },
+    {
+      "productId": 3265,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-04-21T03:17:45.1285311+03:00"
+    },
+    {
+      "productId": 4981,
+      "reviewText": "This Fresh works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-03-23T23:37:46.1512776+02:00"
+    }
+  ]
+}

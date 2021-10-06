@@ -1,0 +1,35 @@
+{
+  "userId": 81994,
+  "cartId": "3c04f428-d9d8-4735-a4ba-6eee5df3178d",
+  "preferredProducts": [
+    135,
+    3043,
+    3185,
+    4021,
+    2501,
+    4624,
+    2561
+  ],
+  "productReviews": [
+    {
+      "productId": 2444,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-09-04T21:37:55.9481235+03:00"
+    },
+    {
+      "productId": 2505,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-09-08T14:26:45.4592383+03:00"
+    },
+    {
+      "productId": 2272,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-03-10T17:52:44.0000218+02:00"
+    },
+    {
+      "productId": 2067,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-12-29T06:57:46.8381819+02:00"
+    }
+  ]
+}

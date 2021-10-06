@@ -1,0 +1,28 @@
+{
+  "userId": 3429,
+  "cartId": "ef5465bf-8022-4523-9988-b954b262fd89",
+  "preferredProducts": [
+    1882,
+    445,
+    4829,
+    2275,
+    1442
+  ],
+  "productReviews": [
+    {
+      "productId": 3474,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-01-09T16:50:21.6398859+02:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "this online is papery.",
+      "reviewDate": "2020-04-18T15:50:28.9201509+03:00"
+    },
+    {
+      "productId": 1862,
+      "reviewText": "this AI is hyper.",
+      "reviewDate": "2019-04-28T13:19:26.6313081+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 17778,
+  "cartId": "736c839f-dbca-416b-b777-9b6c0f6d16f7",
+  "preferredProducts": [
+    15,
+    4323,
+    2032,
+    2105
+  ],
+  "productReviews": [
+    {
+      "productId": 2541,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-08-14T01:54:01.9082581+03:00"
+    },
+    {
+      "productId": 3148,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-07-09T05:10:33.7397179+03:00"
+    },
+    {
+      "productId": 3032,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-11-24T11:17:50.694634+02:00"
+    }
+  ]
+}

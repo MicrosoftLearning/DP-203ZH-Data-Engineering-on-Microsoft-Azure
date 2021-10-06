@@ -1,0 +1,33 @@
+{
+  "userId": 50672,
+  "cartId": "77f4328f-10a8-4b62-b82b-5cb629252068",
+  "preferredProducts": [
+    1187,
+    3210,
+    1908,
+    1554,
+    4056
+  ],
+  "productReviews": [
+    {
+      "productId": 3140,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-05-24T04:26:57.5126586+03:00"
+    },
+    {
+      "productId": 2340,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-11-13T11:01:36.110921+02:00"
+    },
+    {
+      "productId": 378,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-03-02T06:16:04.6111254+02:00"
+    },
+    {
+      "productId": 3563,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-02-12T02:50:20.4143903+02:00"
+    }
+  ]
+}

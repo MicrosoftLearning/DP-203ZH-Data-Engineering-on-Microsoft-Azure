@@ -1,0 +1,30 @@
+{
+  "userId": 51266,
+  "cartId": "3716dd56-9676-4d1a-b9ae-8a8db2e31590",
+  "preferredProducts": [
+    1819,
+    2956,
+    4421,
+    4500,
+    4375,
+    1565,
+    330
+  ],
+  "productReviews": [
+    {
+      "productId": 2270,
+      "reviewText": "This Frozen works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2018-03-21T18:42:43.1561831+02:00"
+    },
+    {
+      "productId": 2876,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-06-09T10:00:29.1228426+03:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-08T11:16:42.4213167+03:00"
+    }
+  ]
+}

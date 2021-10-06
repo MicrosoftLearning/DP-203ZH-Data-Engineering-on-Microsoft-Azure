@@ -1,0 +1,27 @@
+{
+  "userId": 77091,
+  "cartId": "b0808cb5-260c-47b0-9f48-45512827f567",
+  "preferredProducts": [
+    3611,
+    2779,
+    2358,
+    1639
+  ],
+  "productReviews": [
+    {
+      "productId": 1739,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-03-06T00:43:33.141225+02:00"
+    },
+    {
+      "productId": 262,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-09-01T00:18:37.1012282+03:00"
+    },
+    {
+      "productId": 2093,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2019-02-03T05:45:35.7477954+02:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 12828,
+  "cartId": "920da7fc-7db0-4406-a44c-7d1ccf597ffe",
+  "preferredProducts": [
+    4234,
+    2986,
+    322,
+    2520,
+    534,
+    68,
+    648
+  ],
+  "productReviews": [
+    {
+      "productId": 4720,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-04-12T10:38:31.7581918+03:00"
+    },
+    {
+      "productId": 424,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-10-22T18:04:13.3944592+03:00"
+    },
+    {
+      "productId": 3943,
+      "reviewText": "This payment works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2016-10-29T05:38:12.5979586+03:00"
+    },
+    {
+      "productId": 1208,
+      "reviewText": "this Avon is ratty.",
+      "reviewDate": "2016-06-16T22:08:46.703377+03:00"
+    },
+    {
+      "productId": 1805,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-06-21T10:19:53.9261336+03:00"
+    }
+  ]
+}

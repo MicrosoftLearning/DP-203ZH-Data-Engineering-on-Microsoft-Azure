@@ -1,0 +1,29 @@
+{
+  "userId": 8552,
+  "cartId": "41a4e004-d860-440b-ad25-7425d08316ac",
+  "preferredProducts": [
+    3369,
+    2311,
+    4743,
+    1157,
+    4882,
+    4938
+  ],
+  "productReviews": [
+    {
+      "productId": 2892,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-09-04T03:55:34.4240604+03:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-04-12T08:20:36.3268416+03:00"
+    },
+    {
+      "productId": 1819,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-12-31T18:37:37.8464744+02:00"
+    }
+  ]
+}

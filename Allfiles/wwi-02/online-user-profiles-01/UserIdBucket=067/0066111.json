@@ -1,0 +1,27 @@
+{
+  "userId": 66111,
+  "cartId": "8526487e-aa55-4c6e-bafe-128966fd5a6e",
+  "preferredProducts": [
+    2544,
+    1969,
+    479,
+    3603
+  ],
+  "productReviews": [
+    {
+      "productId": 1640,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-05-30T04:33:50.2464003+03:00"
+    },
+    {
+      "productId": 4191,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-10-15T03:37:29.8612841+03:00"
+    },
+    {
+      "productId": 4430,
+      "reviewText": "this compress is mellow.",
+      "reviewDate": "2017-05-15T15:12:24.1163051+03:00"
+    }
+  ]
+}

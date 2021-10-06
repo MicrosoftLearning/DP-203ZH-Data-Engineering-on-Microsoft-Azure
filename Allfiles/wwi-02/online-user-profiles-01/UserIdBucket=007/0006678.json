@@ -1,0 +1,41 @@
+{
+  "userId": 6678,
+  "cartId": "f4a7ce93-1df0-401c-a9b9-c44f169fe45e",
+  "preferredProducts": [
+    1678,
+    2504,
+    1288,
+    2931,
+    4524,
+    3066,
+    4122,
+    1548
+  ],
+  "productReviews": [
+    {
+      "productId": 3532,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-02-07T00:32:29.9574773+02:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "This PCI, does exactly what it's suppose to do.",
+      "reviewDate": "2019-03-09T19:31:06.6589514+02:00"
+    },
+    {
+      "productId": 783,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-01-29T20:11:25.0768178+02:00"
+    },
+    {
+      "productId": 890,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-07-01T06:49:10.027606+03:00"
+    },
+    {
+      "productId": 3600,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-02-28T06:29:18.4618734+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 25576,
+  "cartId": "2e0ef2d9-e07f-4cc6-b326-5c0cef211fdc",
+  "preferredProducts": [
+    4733,
+    4947,
+    3116,
+    4051,
+    1817,
+    4130,
+    615,
+    3877
+  ],
+  "productReviews": [
+    {
+      "productId": 2694,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-08-04T08:30:13.9690471+03:00"
+    },
+    {
+      "productId": 1344,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-11-03T04:56:49.8644133+02:00"
+    },
+    {
+      "productId": 2630,
+      "reviewText": "This Locks works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2017-04-20T16:15:58.0294145+03:00"
+    },
+    {
+      "productId": 4510,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2016-10-29T21:00:59.4580512+03:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-01-21T11:00:25.5369493+02:00"
+    }
+  ]
+}

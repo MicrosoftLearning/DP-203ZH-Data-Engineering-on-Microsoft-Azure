@@ -1,0 +1,43 @@
+{
+  "userId": 20323,
+  "cartId": "099a3655-db52-4db0-9166-37351066d202",
+  "preferredProducts": [
+    27,
+    508,
+    434,
+    3858,
+    4420,
+    1026,
+    1986,
+    2041,
+    288,
+    4455
+  ],
+  "productReviews": [
+    {
+      "productId": 221,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-08-19T00:08:50.9879195+03:00"
+    },
+    {
+      "productId": 1315,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-09-19T09:09:25.6858871+03:00"
+    },
+    {
+      "productId": 1359,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-03-29T18:12:41.6143979+03:00"
+    },
+    {
+      "productId": 1566,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-07-28T09:31:14.107823+03:00"
+    },
+    {
+      "productId": 3416,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2016-06-11T21:48:47.6825004+03:00"
+    }
+  ]
+}

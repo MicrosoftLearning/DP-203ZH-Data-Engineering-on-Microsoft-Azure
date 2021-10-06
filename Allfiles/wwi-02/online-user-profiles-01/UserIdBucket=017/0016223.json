@@ -1,0 +1,30 @@
+{
+  "userId": 16223,
+  "cartId": "f77a3266-30d9-4f25-9fe6-13c9212b2553",
+  "preferredProducts": [
+    2720,
+    4437,
+    2893,
+    3308,
+    2712,
+    1838,
+    4767
+  ],
+  "productReviews": [
+    {
+      "productId": 2781,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-08-30T01:07:07.3452044+03:00"
+    },
+    {
+      "productId": 4400,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-07-27T03:30:30.5484432+03:00"
+    },
+    {
+      "productId": 1571,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-04-21T04:33:00.0584668+03:00"
+    }
+  ]
+}

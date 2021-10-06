@@ -1,0 +1,27 @@
+{
+  "userId": 73354,
+  "cartId": "ce3be981-1263-4485-af13-221047e71aa8",
+  "preferredProducts": [
+    2603,
+    2038,
+    1876,
+    4891
+  ],
+  "productReviews": [
+    {
+      "productId": 20,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-01-17T17:50:22.7652891+02:00"
+    },
+    {
+      "productId": 2121,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-09-06T04:59:26.8063138+03:00"
+    },
+    {
+      "productId": 4917,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-08-07T01:21:41.7464989+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 67954,
+  "cartId": "23abaf89-9248-4b55-8b34-3c8ec366ef89",
+  "preferredProducts": [
+    96,
+    1500,
+    468,
+    3921,
+    4808,
+    767
+  ],
+  "productReviews": [
+    {
+      "productId": 3607,
+      "reviewText": "this indigo is smooth.",
+      "reviewDate": "2019-11-06T20:21:22.3908532+02:00"
+    },
+    {
+      "productId": 1945,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-02-20T02:26:55.5058798+02:00"
+    },
+    {
+      "productId": 2075,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-04-06T07:50:49.3434724+03:00"
+    },
+    {
+      "productId": 2513,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-01-21T04:55:21.4039155+02:00"
+    }
+  ]
+}

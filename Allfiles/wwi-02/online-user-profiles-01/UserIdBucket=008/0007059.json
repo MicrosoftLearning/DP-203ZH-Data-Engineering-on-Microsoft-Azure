@@ -1,0 +1,25 @@
+{
+  "userId": 7059,
+  "cartId": "f8487b39-f172-4f84-b5c7-4680e6fb93ce",
+  "preferredProducts": [
+    2611,
+    567
+  ],
+  "productReviews": [
+    {
+      "productId": 3084,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-05-09T16:34:32.1614185+03:00"
+    },
+    {
+      "productId": 1148,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-06-10T20:45:01.8942422+03:00"
+    },
+    {
+      "productId": 4606,
+      "reviewText": "this Legacy is top-notch.",
+      "reviewDate": "2018-10-13T16:30:37.1338258+03:00"
+    }
+  ]
+}

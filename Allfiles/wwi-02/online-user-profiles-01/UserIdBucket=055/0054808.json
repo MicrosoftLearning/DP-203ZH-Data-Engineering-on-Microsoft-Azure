@@ -1,0 +1,33 @@
+{
+  "userId": 54808,
+  "cartId": "1193366c-88c8-4d1b-b602-e6067d4e032e",
+  "preferredProducts": [
+    2276,
+    4319,
+    351,
+    4596,
+    2527
+  ],
+  "productReviews": [
+    {
+      "productId": 3022,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-06-26T15:07:45.3265411+03:00"
+    },
+    {
+      "productId": 4924,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-07-28T16:11:40.9174953+03:00"
+    },
+    {
+      "productId": 1943,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-04-07T13:54:08.4210798+03:00"
+    },
+    {
+      "productId": 3428,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-02-28T19:34:03.8519269+02:00"
+    }
+  ]
+}

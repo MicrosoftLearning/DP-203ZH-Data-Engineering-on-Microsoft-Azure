@@ -1,0 +1,31 @@
+{
+  "userId": 95855,
+  "cartId": "8642b020-aa79-42b6-8a0c-324a4d0b094d",
+  "preferredProducts": [
+    1623,
+    72,
+    478,
+    1857,
+    110,
+    2656,
+    2989,
+    1239
+  ],
+  "productReviews": [
+    {
+      "productId": 3797,
+      "reviewText": "This is a really good conglomeration.",
+      "reviewDate": "2018-02-06T01:31:13.7382008+02:00"
+    },
+    {
+      "productId": 1489,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-11-18T18:13:14.6989662+02:00"
+    },
+    {
+      "productId": 2926,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-02-14T23:32:06.4091704+02:00"
+    }
+  ]
+}

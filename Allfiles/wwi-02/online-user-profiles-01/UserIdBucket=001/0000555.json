@@ -1,0 +1,31 @@
+{
+  "userId": 555,
+  "cartId": "938a82b5-e421-4bbd-9a34-42a908e7bbfd",
+  "preferredProducts": [
+    2093,
+    118,
+    4784,
+    4554,
+    3822,
+    3630,
+    1133,
+    4022
+  ],
+  "productReviews": [
+    {
+      "productId": 691,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-03-31T14:27:13.8606881+03:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-04-20T15:59:43.8853554+03:00"
+    },
+    {
+      "productId": 1571,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-06-03T21:00:52.8685916+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 27370,
+  "cartId": "c577b109-8053-4940-987e-b891d2da4d06",
+  "preferredProducts": [
+    1994,
+    855,
+    2381,
+    898,
+    4657
+  ],
+  "productReviews": [
+    {
+      "productId": 523,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-12-21T19:13:07.449437+02:00"
+    },
+    {
+      "productId": 646,
+      "reviewText": "this Plain is papery.",
+      "reviewDate": "2018-10-01T13:24:59.8368193+03:00"
+    },
+    {
+      "productId": 2701,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-09-02T14:44:13.248543+03:00"
+    }
+  ]
+}

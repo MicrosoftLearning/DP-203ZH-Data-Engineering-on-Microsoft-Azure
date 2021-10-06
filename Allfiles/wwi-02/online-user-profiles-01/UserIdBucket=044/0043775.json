@@ -1,0 +1,37 @@
+{
+  "userId": 43775,
+  "cartId": "f76b3c19-d602-4af7-b911-1c3ee5f2c97a",
+  "preferredProducts": [
+    2314,
+    283,
+    2447,
+    1646,
+    1513,
+    3666,
+    860,
+    3630,
+    4667
+  ],
+  "productReviews": [
+    {
+      "productId": 4101,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-03-14T22:53:04.6423688+02:00"
+    },
+    {
+      "productId": 4530,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-02-26T13:17:43.0776476+02:00"
+    },
+    {
+      "productId": 1533,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-01-26T09:54:39.3631657+02:00"
+    },
+    {
+      "productId": 4824,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-07-17T17:07:26.332856+03:00"
+    }
+  ]
+}

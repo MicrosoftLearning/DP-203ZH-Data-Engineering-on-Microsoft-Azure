@@ -1,0 +1,38 @@
+{
+  "userId": 58341,
+  "cartId": "25a1d393-88d5-4f63-bebd-59d88e59eca4",
+  "preferredProducts": [
+    1111,
+    3419,
+    3072,
+    3506,
+    3964
+  ],
+  "productReviews": [
+    {
+      "productId": 4238,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-12-29T14:29:36.9423285+02:00"
+    },
+    {
+      "productId": 126,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-11-20T04:42:12.175493+02:00"
+    },
+    {
+      "productId": 3450,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-02-10T07:50:22.3576753+02:00"
+    },
+    {
+      "productId": 1054,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-07-09T10:04:35.0141107+03:00"
+    },
+    {
+      "productId": 4309,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-08-30T05:25:04.6949695+03:00"
+    }
+  ]
+}

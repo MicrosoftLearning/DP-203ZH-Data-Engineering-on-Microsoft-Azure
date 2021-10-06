@@ -1,0 +1,36 @@
+{
+  "userId": 42447,
+  "cartId": "35c38624-b1f4-4c9f-8173-1b80f7ce208c",
+  "preferredProducts": [
+    1163,
+    3608,
+    1785
+  ],
+  "productReviews": [
+    {
+      "productId": 2598,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-09-15T16:22:30.3219394+03:00"
+    },
+    {
+      "productId": 3695,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-09-28T16:51:07.0037592+03:00"
+    },
+    {
+      "productId": 1283,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-07-11T11:30:10.5377736+03:00"
+    },
+    {
+      "productId": 641,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-08-07T22:32:09.9634341+03:00"
+    },
+    {
+      "productId": 213,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-08-22T16:05:19.1081901+03:00"
+    }
+  ]
+}

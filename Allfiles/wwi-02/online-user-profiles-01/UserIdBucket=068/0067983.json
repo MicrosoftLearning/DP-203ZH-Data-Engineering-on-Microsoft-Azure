@@ -1,0 +1,30 @@
+{
+  "userId": 67983,
+  "cartId": "e552ed3a-0aad-4482-9479-b0e75ce2277e",
+  "preferredProducts": [
+    1000,
+    1166,
+    827,
+    1885,
+    3924,
+    2780,
+    746
+  ],
+  "productReviews": [
+    {
+      "productId": 1211,
+      "reviewText": "This blue works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-09-09T01:03:42.9345192+03:00"
+    },
+    {
+      "productId": 4648,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-10-03T19:09:59.6963881+03:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2020-03-06T22:22:06.0163+02:00"
+    }
+  ]
+}

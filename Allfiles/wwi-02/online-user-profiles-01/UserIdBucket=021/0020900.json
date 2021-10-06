@@ -1,0 +1,22 @@
+{
+  "userId": 20900,
+  "cartId": "8ae8d6d7-0c6d-4f6c-8505-06e07655d79d",
+  "preferredProducts": [
+    3197,
+    3500,
+    4928,
+    4241
+  ],
+  "productReviews": [
+    {
+      "productId": 2301,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-11-15T10:21:52.8806105+02:00"
+    },
+    {
+      "productId": 1836,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-12-15T16:28:21.1148149+02:00"
+    }
+  ]
+}

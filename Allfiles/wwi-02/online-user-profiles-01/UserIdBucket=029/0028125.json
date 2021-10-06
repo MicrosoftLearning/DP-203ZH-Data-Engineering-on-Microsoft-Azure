@@ -1,0 +1,23 @@
+{
+  "userId": 28125,
+  "cartId": "d6d613f7-6f2d-4ad7-816a-c81c028af16e",
+  "preferredProducts": [
+    4086,
+    1647,
+    757,
+    729,
+    411
+  ],
+  "productReviews": [
+    {
+      "productId": 1093,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-08-16T03:51:53.1880438+03:00"
+    },
+    {
+      "productId": 4868,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-04-19T11:52:32.445721+03:00"
+    }
+  ]
+}

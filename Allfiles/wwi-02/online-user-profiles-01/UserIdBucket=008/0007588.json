@@ -1,0 +1,25 @@
+{
+  "userId": 7588,
+  "cartId": "09816d09-855b-44b9-9e56-fca9d0f4ded3",
+  "preferredProducts": [
+    4370,
+    3433
+  ],
+  "productReviews": [
+    {
+      "productId": 268,
+      "reviewText": "this dot-com is ratty.",
+      "reviewDate": "2019-07-25T21:56:38.7788593+03:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2020-03-07T21:54:36.2024311+02:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-03-24T10:09:56.0794219+02:00"
+    }
+  ]
+}

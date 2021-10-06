@@ -1,0 +1,32 @@
+{
+  "userId": 93232,
+  "cartId": "0bf855ab-4eb7-4aa2-8043-05eef573b658",
+  "preferredProducts": [
+    2952,
+    79,
+    2371,
+    1037
+  ],
+  "productReviews": [
+    {
+      "productId": 2901,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-12-10T18:14:32.4246925+02:00"
+    },
+    {
+      "productId": 2911,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-06-14T10:49:58.5411668+03:00"
+    },
+    {
+      "productId": 4292,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-03-09T06:14:47.3152114+02:00"
+    },
+    {
+      "productId": 2192,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-10-29T20:28:35.6808244+02:00"
+    }
+  ]
+}

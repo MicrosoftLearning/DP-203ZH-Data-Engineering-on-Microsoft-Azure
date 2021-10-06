@@ -1,0 +1,31 @@
+{
+  "userId": 99485,
+  "cartId": "36f10372-1cc8-439a-b384-0c155c4bd9e2",
+  "preferredProducts": [
+    1644,
+    1021,
+    739
+  ],
+  "productReviews": [
+    {
+      "productId": 564,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-08-31T15:17:18.3493503+03:00"
+    },
+    {
+      "productId": 3705,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-06-09T16:13:59.1140792+03:00"
+    },
+    {
+      "productId": 8,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-07-23T19:00:10.2777072+03:00"
+    },
+    {
+      "productId": 74,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2016-05-30T06:16:16.2051924+03:00"
+    }
+  ]
+}

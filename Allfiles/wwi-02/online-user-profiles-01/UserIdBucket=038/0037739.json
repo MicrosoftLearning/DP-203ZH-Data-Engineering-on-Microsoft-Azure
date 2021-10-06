@@ -1,0 +1,23 @@
+{
+  "userId": 37739,
+  "cartId": "a13b11a1-b2b2-4532-9bf9-9eacad47e078",
+  "preferredProducts": [
+    2357,
+    1345,
+    2298,
+    468,
+    2232
+  ],
+  "productReviews": [
+    {
+      "productId": 3442,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-03-04T16:06:09.6872495+02:00"
+    },
+    {
+      "productId": 3059,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-02-13T04:11:35.2792703+02:00"
+    }
+  ]
+}

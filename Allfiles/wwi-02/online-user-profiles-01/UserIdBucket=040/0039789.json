@@ -1,0 +1,29 @@
+{
+  "userId": 39789,
+  "cartId": "851249bb-5397-49f9-ab99-328b6f5fd627",
+  "preferredProducts": [
+    3080,
+    2191,
+    2536,
+    3180,
+    1832,
+    1016
+  ],
+  "productReviews": [
+    {
+      "productId": 1113,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-01-17T22:46:36.4206411+02:00"
+    },
+    {
+      "productId": 2530,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-04-02T17:36:13.7247517+03:00"
+    },
+    {
+      "productId": 837,
+      "reviewText": "This New Israeli Sheqel works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2016-09-15T03:18:42.3636527+03:00"
+    }
+  ]
+}

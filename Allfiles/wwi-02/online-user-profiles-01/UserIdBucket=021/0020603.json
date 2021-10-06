@@ -1,0 +1,41 @@
+{
+  "userId": 20603,
+  "cartId": "c7ef0429-36a8-4167-afd9-9ef9cfbaf649",
+  "preferredProducts": [
+    163,
+    4221,
+    2186,
+    36,
+    4310,
+    1074,
+    1514,
+    2289
+  ],
+  "productReviews": [
+    {
+      "productId": 2559,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-08-07T09:25:56.3413459+03:00"
+    },
+    {
+      "productId": 4126,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-05-27T21:12:42.2185501+03:00"
+    },
+    {
+      "productId": 1200,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-04-21T17:44:01.0750003+03:00"
+    },
+    {
+      "productId": 12,
+      "reviewText": "this didactic is mellow.",
+      "reviewDate": "2017-01-04T22:17:42.2222734+02:00"
+    },
+    {
+      "productId": 2772,
+      "reviewText": "this Connecticut is light-hearted.",
+      "reviewDate": "2018-02-22T19:48:11.8540296+02:00"
+    }
+  ]
+}

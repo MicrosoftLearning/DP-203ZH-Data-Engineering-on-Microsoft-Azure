@@ -1,0 +1,33 @@
+{
+  "userId": 57646,
+  "cartId": "dbeb843c-9a47-454a-a545-8cecd437ff80",
+  "preferredProducts": [
+    2616,
+    3487,
+    4187,
+    2226,
+    4406
+  ],
+  "productReviews": [
+    {
+      "productId": 202,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-12-16T15:50:37.1012566+02:00"
+    },
+    {
+      "productId": 4594,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-12-19T21:59:56.3080588+02:00"
+    },
+    {
+      "productId": 1383,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-08-07T22:46:00.1018032+03:00"
+    },
+    {
+      "productId": 3153,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-10-10T22:56:23.0980649+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 3871,
+  "cartId": "1126fde5-adfd-40b2-b131-aa45c5c5f01e",
+  "preferredProducts": [
+    2904,
+    4457,
+    2723,
+    4073,
+    4733,
+    3207,
+    1357
+  ],
+  "productReviews": [
+    {
+      "productId": 493,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-01-09T00:32:11.0760603+02:00"
+    },
+    {
+      "productId": 3913,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-01-10T06:36:51.0364598+02:00"
+    },
+    {
+      "productId": 4509,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-10-02T16:41:18.096818+03:00"
+    },
+    {
+      "productId": 4957,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-12-26T16:10:40.977516+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 892,
+  "cartId": "65824ecc-bdfd-4567-bd55-1a6eeda9d7aa",
+  "preferredProducts": [
+    1126,
+    1828,
+    601,
+    3831,
+    58
+  ],
+  "productReviews": [
+    {
+      "productId": 1919,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-05-26T16:39:21.312785+03:00"
+    },
+    {
+      "productId": 2742,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-09-29T06:29:17.8712098+03:00"
+    },
+    {
+      "productId": 3154,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-16T06:22:27.9277518+02:00"
+    },
+    {
+      "productId": 2259,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-06-11T01:22:29.2558312+03:00"
+    }
+  ]
+}

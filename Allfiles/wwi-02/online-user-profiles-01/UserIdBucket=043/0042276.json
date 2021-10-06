@@ -1,0 +1,23 @@
+{
+  "userId": 42276,
+  "cartId": "b997b554-dfbf-4fa2-b3e3-d73238d21b67",
+  "preferredProducts": [
+    4917,
+    1000,
+    2121,
+    4916,
+    3617
+  ],
+  "productReviews": [
+    {
+      "productId": 375,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-02-18T20:02:23.75268+02:00"
+    },
+    {
+      "productId": 3642,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-09-14T07:52:46.424157+03:00"
+    }
+  ]
+}

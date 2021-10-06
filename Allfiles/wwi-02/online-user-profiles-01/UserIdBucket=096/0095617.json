@@ -1,0 +1,29 @@
+{
+  "userId": 95617,
+  "cartId": "9630bc05-fffb-4f12-944e-82decc1867f1",
+  "preferredProducts": [
+    3153,
+    3198,
+    1213,
+    3360,
+    297,
+    1630
+  ],
+  "productReviews": [
+    {
+      "productId": 950,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-09-14T07:40:05.7299777+03:00"
+    },
+    {
+      "productId": 898,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-08-31T11:20:46.409452+03:00"
+    },
+    {
+      "productId": 316,
+      "reviewText": "this didactic is awesome.",
+      "reviewDate": "2017-02-15T23:40:05.3551429+02:00"
+    }
+  ]
+}

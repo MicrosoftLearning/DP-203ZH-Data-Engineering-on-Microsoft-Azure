@@ -1,0 +1,30 @@
+{
+  "userId": 13645,
+  "cartId": "55490eeb-4f69-449d-ae8b-ceca91534bf7",
+  "preferredProducts": [
+    2765,
+    4615
+  ],
+  "productReviews": [
+    {
+      "productId": 250,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-04-01T22:42:19.1375425+03:00"
+    },
+    {
+      "productId": 1697,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-10-17T13:07:12.1224539+03:00"
+    },
+    {
+      "productId": 4199,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2016-06-28T07:39:08.6944714+03:00"
+    },
+    {
+      "productId": 4159,
+      "reviewText": "this COM is top-notch.",
+      "reviewDate": "2017-12-21T16:18:27.2061924+02:00"
+    }
+  ]
+}

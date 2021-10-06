@@ -1,0 +1,41 @@
+{
+  "userId": 12553,
+  "cartId": "6fd34302-d6e1-4394-8392-42398db85bfd",
+  "preferredProducts": [
+    515,
+    3249,
+    229,
+    25,
+    2185,
+    270,
+    3250,
+    732
+  ],
+  "productReviews": [
+    {
+      "productId": 53,
+      "reviewText": "this Intelligent Plastic Car is standard.",
+      "reviewDate": "2018-05-30T05:48:12.7183674+03:00"
+    },
+    {
+      "productId": 395,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-30T05:50:45.0078788+03:00"
+    },
+    {
+      "productId": 422,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-10-14T23:40:20.9808008+03:00"
+    },
+    {
+      "productId": 902,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-09-12T00:09:53.9632222+03:00"
+    },
+    {
+      "productId": 4819,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-05-01T19:43:36.0832366+03:00"
+    }
+  ]
+}

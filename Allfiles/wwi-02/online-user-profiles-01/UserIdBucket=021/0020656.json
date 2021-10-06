@@ -1,0 +1,25 @@
+{
+  "userId": 20656,
+  "cartId": "c0bcd5d8-6809-4720-858b-c1d2eca08333",
+  "preferredProducts": [
+    1732,
+    2003,
+    3235,
+    378,
+    2520,
+    1688,
+    4503
+  ],
+  "productReviews": [
+    {
+      "productId": 398,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-09-11T16:30:25.9097684+03:00"
+    },
+    {
+      "productId": 2821,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-04-11T23:30:14.3555131+03:00"
+    }
+  ]
+}

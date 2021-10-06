@@ -1,0 +1,23 @@
+{
+  "userId": 66009,
+  "cartId": "3c70da66-4a05-4b2d-a90d-2a4c66067cfe",
+  "preferredProducts": [
+    3952,
+    1321,
+    2916,
+    3232,
+    4738
+  ],
+  "productReviews": [
+    {
+      "productId": 2235,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-08-22T11:12:17.0411355+03:00"
+    },
+    {
+      "productId": 1756,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-05-29T02:25:25.8130746+03:00"
+    }
+  ]
+}

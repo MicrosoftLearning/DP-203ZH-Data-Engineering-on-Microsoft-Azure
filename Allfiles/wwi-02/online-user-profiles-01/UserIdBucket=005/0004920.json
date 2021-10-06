@@ -1,0 +1,33 @@
+{
+  "userId": 4920,
+  "cartId": "f29d8875-a111-4871-b3f8-07e4bbbeedf5",
+  "preferredProducts": [
+    4006,
+    1912,
+    1870,
+    1938,
+    1190
+  ],
+  "productReviews": [
+    {
+      "productId": 4487,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-04-08T17:05:35.8641739+03:00"
+    },
+    {
+      "productId": 3385,
+      "reviewText": "this foreground is snowy.",
+      "reviewDate": "2018-09-26T09:59:42.2479138+03:00"
+    },
+    {
+      "productId": 402,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-02-22T02:42:12.4473359+02:00"
+    },
+    {
+      "productId": 1226,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-01-15T09:25:31.246169+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 41775,
+  "cartId": "b38cb6a4-8b0d-4836-a49f-39f040682cc7",
+  "preferredProducts": [
+    3099,
+    3918,
+    2825,
+    4321
+  ],
+  "productReviews": [
+    {
+      "productId": 3228,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-07-07T23:26:59.4744498+03:00"
+    },
+    {
+      "productId": 491,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-03-18T04:46:57.4532598+02:00"
+    },
+    {
+      "productId": 3803,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-05-13T07:55:57.4612026+03:00"
+    }
+  ]
+}

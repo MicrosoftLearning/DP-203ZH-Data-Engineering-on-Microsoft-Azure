@@ -1,0 +1,39 @@
+{
+  "userId": 57203,
+  "cartId": "9a8d6734-91fb-419d-b125-5549a9b2fbf4",
+  "preferredProducts": [
+    3139,
+    867,
+    1392,
+    965,
+    1570,
+    3834
+  ],
+  "productReviews": [
+    {
+      "productId": 296,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-29T01:46:03.677964+03:00"
+    },
+    {
+      "productId": 756,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-11-29T20:00:09.6203144+02:00"
+    },
+    {
+      "productId": 3874,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-02-13T12:15:05.2633188+02:00"
+    },
+    {
+      "productId": 884,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-12-23T01:34:22.2495745+02:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "this blue is honest.",
+      "reviewDate": "2018-05-19T18:32:04.6916479+03:00"
+    }
+  ]
+}

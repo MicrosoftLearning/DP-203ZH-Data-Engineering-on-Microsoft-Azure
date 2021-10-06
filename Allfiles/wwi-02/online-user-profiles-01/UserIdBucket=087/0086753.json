@@ -1,0 +1,32 @@
+{
+  "userId": 86753,
+  "cartId": "647f7a64-2fc5-447d-881e-0d98b482687d",
+  "preferredProducts": [
+    224,
+    4590,
+    2508,
+    4344,
+    1674,
+    3004,
+    4143,
+    2030,
+    3024
+  ],
+  "productReviews": [
+    {
+      "productId": 605,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-04-20T01:31:03.8216779+03:00"
+    },
+    {
+      "productId": 4365,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-02-12T20:11:44.2575248+02:00"
+    },
+    {
+      "productId": 1456,
+      "reviewText": "This Arizona works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2016-10-16T05:29:53.6756535+03:00"
+    }
+  ]
+}

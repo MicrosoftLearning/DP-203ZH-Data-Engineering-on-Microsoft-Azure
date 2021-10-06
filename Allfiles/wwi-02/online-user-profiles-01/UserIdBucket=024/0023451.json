@@ -1,0 +1,36 @@
+{
+  "userId": 23451,
+  "cartId": "d7705fab-7612-4b34-81bf-cb544eabd2c0",
+  "preferredProducts": [
+    548,
+    43,
+    820
+  ],
+  "productReviews": [
+    {
+      "productId": 350,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-10-06T17:19:40.161033+03:00"
+    },
+    {
+      "productId": 962,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-08-24T03:30:18.6498366+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-10-07T11:56:06.2722516+03:00"
+    },
+    {
+      "productId": 100,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2020-01-17T14:02:40.0964881+02:00"
+    },
+    {
+      "productId": 2594,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-02-28T19:17:05.3695107+02:00"
+    }
+  ]
+}

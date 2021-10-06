@@ -1,0 +1,30 @@
+{
+  "userId": 31883,
+  "cartId": "da31fe55-8316-4212-83b4-c7908c147f03",
+  "preferredProducts": [
+    3390,
+    1617,
+    3845,
+    3098,
+    3344,
+    954,
+    3776
+  ],
+  "productReviews": [
+    {
+      "productId": 2942,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-02-16T17:59:33.4538503+02:00"
+    },
+    {
+      "productId": 2631,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-07-25T04:51:01.3301381+03:00"
+    },
+    {
+      "productId": 2203,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-09-24T23:56:21.3151475+03:00"
+    }
+  ]
+}

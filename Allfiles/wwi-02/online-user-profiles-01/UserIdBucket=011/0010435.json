@@ -1,0 +1,32 @@
+{
+  "userId": 10435,
+  "cartId": "d98734bf-495c-4591-9542-9afb644baa3d",
+  "preferredProducts": [
+    975,
+    1045,
+    395,
+    4705
+  ],
+  "productReviews": [
+    {
+      "productId": 2926,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-08-08T09:07:34.720517+03:00"
+    },
+    {
+      "productId": 38,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-02-19T18:12:25.4948869+02:00"
+    },
+    {
+      "productId": 2041,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-12-15T04:18:09.9601895+02:00"
+    },
+    {
+      "productId": 2343,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-01-12T22:08:25.8424941+02:00"
+    }
+  ]
+}

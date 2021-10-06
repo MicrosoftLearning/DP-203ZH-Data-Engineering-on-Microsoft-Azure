@@ -1,0 +1,34 @@
+{
+  "userId": 47979,
+  "cartId": "589c162a-2732-443f-bb4f-9b585fccacbe",
+  "preferredProducts": [
+    2459,
+    4283,
+    1313,
+    4726,
+    111,
+    1203
+  ],
+  "productReviews": [
+    {
+      "productId": 1191,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-09-14T03:06:21.159299+03:00"
+    },
+    {
+      "productId": 989,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-11-15T08:09:02.6378333+02:00"
+    },
+    {
+      "productId": 2476,
+      "reviewText": "this lavender is nifty.",
+      "reviewDate": "2017-04-04T16:16:45.629825+03:00"
+    },
+    {
+      "productId": 1578,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-03-13T01:08:28.6278526+02:00"
+    }
+  ]
+}

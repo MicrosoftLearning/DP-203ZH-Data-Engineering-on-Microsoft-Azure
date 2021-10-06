@@ -1,0 +1,30 @@
+{
+  "userId": 48239,
+  "cartId": "6b115c4b-0cbc-49e2-9e0e-57ac9e6026b5",
+  "preferredProducts": [
+    760,
+    3239
+  ],
+  "productReviews": [
+    {
+      "productId": 3544,
+      "reviewText": "This metrics, does exactly what it's suppose to do.",
+      "reviewDate": "2016-09-02T00:35:47.7839889+03:00"
+    },
+    {
+      "productId": 111,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-04-04T11:56:04.3806523+03:00"
+    },
+    {
+      "productId": 4148,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-03-31T13:52:39.1385358+03:00"
+    },
+    {
+      "productId": 3286,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-04-21T10:29:40.0706159+03:00"
+    }
+  ]
+}

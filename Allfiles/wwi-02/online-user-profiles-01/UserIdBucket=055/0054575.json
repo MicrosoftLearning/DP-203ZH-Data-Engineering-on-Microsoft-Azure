@@ -1,0 +1,38 @@
+{
+  "userId": 54575,
+  "cartId": "5a1e0327-7454-492d-81ba-367a89eeb821",
+  "preferredProducts": [
+    1268,
+    2472,
+    2372,
+    1197,
+    2680,
+    3463,
+    1868,
+    1435,
+    2569,
+    271
+  ],
+  "productReviews": [
+    {
+      "productId": 1151,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-06-29T06:16:18.2102611+03:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-10-07T22:30:55.8703814+03:00"
+    },
+    {
+      "productId": 3559,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2020-03-27T17:20:34.8768298+02:00"
+    },
+    {
+      "productId": 1818,
+      "reviewText": "This XSS works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2017-12-21T22:58:43.637243+02:00"
+    }
+  ]
+}

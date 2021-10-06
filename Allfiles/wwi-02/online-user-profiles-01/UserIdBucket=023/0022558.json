@@ -1,0 +1,29 @@
+{
+  "userId": 22558,
+  "cartId": "9c416374-0d6a-46f0-9d03-003c9d4620c6",
+  "preferredProducts": [
+    1203,
+    3061,
+    3621,
+    357,
+    3898,
+    1447
+  ],
+  "productReviews": [
+    {
+      "productId": 1781,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-06-12T23:41:27.290042+03:00"
+    },
+    {
+      "productId": 70,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-08-16T01:15:00.2473367+03:00"
+    },
+    {
+      "productId": 2371,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-08-06T02:33:38.0075503+03:00"
+    }
+  ]
+}

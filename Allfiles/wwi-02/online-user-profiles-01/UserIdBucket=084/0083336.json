@@ -1,0 +1,27 @@
+{
+  "userId": 83336,
+  "cartId": "688aeb36-69fc-47f6-b690-df75c842fe8c",
+  "preferredProducts": [
+    1589,
+    986,
+    2274,
+    2813
+  ],
+  "productReviews": [
+    {
+      "productId": 1211,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2020-03-07T10:47:50.2183328+02:00"
+    },
+    {
+      "productId": 4031,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-09-10T00:55:52.5193222+03:00"
+    },
+    {
+      "productId": 1210,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-08-12T09:47:14.6898421+03:00"
+    }
+  ]
+}

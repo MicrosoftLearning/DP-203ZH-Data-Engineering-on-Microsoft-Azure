@@ -1,0 +1,37 @@
+{
+  "userId": 42485,
+  "cartId": "31d856f5-4949-4234-a3da-09820ba41c7a",
+  "preferredProducts": [
+    2682,
+    3214,
+    92,
+    1247
+  ],
+  "productReviews": [
+    {
+      "productId": 4523,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-02-07T09:23:23.8798394+02:00"
+    },
+    {
+      "productId": 2282,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-05-05T06:15:49.8239666+03:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "talk about lust!!",
+      "reviewDate": "2019-07-31T07:15:39.6144016+03:00"
+    },
+    {
+      "productId": 3443,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2016-09-22T09:24:30.8607452+03:00"
+    },
+    {
+      "productId": 1530,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-08-22T18:54:44.6433329+03:00"
+    }
+  ]
+}

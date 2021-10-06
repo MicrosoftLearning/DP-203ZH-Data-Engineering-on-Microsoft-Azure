@@ -1,0 +1,26 @@
+{
+  "userId": 32187,
+  "cartId": "3b8c654b-b074-4a55-8df2-580b2d39b626",
+  "preferredProducts": [
+    3345,
+    4486,
+    1553
+  ],
+  "productReviews": [
+    {
+      "productId": 4998,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-02-01T10:10:12.9807568+02:00"
+    },
+    {
+      "productId": 3388,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-07-02T13:33:49.5654465+03:00"
+    },
+    {
+      "productId": 3062,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-02-26T17:31:16.8598548+02:00"
+    }
+  ]
+}

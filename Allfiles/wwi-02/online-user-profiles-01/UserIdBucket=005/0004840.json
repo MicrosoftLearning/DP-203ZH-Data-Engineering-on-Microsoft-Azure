@@ -1,0 +1,31 @@
+{
+  "userId": 4840,
+  "cartId": "fa9b7553-f49a-44ba-9843-3615d52e2efa",
+  "preferredProducts": [
+    1842,
+    4892,
+    2410
+  ],
+  "productReviews": [
+    {
+      "productId": 1368,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-06-15T05:08:49.270359+03:00"
+    },
+    {
+      "productId": 2564,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-09-01T15:00:22.7737814+03:00"
+    },
+    {
+      "productId": 99,
+      "reviewText": "this program is dominant.",
+      "reviewDate": "2019-09-01T22:03:25.7109784+03:00"
+    },
+    {
+      "productId": 462,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-03-12T05:52:19.2822403+02:00"
+    }
+  ]
+}

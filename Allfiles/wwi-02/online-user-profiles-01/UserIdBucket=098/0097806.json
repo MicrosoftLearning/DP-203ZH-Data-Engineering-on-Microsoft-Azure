@@ -1,0 +1,35 @@
+{
+  "userId": 97806,
+  "cartId": "5ee68222-85f8-4ca1-b067-131d164561d1",
+  "preferredProducts": [
+    4008,
+    1322,
+    1897,
+    3870,
+    4300,
+    1689,
+    1989
+  ],
+  "productReviews": [
+    {
+      "productId": 3451,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-07-04T15:34:33.5428909+03:00"
+    },
+    {
+      "productId": 1067,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-06-10T11:56:58.6277938+03:00"
+    },
+    {
+      "productId": 2090,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-10-23T20:34:53.7471686+03:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-11-17T22:43:49.1457329+02:00"
+    }
+  ]
+}

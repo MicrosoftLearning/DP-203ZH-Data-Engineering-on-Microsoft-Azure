@@ -1,0 +1,24 @@
+{
+  "userId": 70543,
+  "cartId": "f4570365-67b6-4e45-a388-08a32eb67641",
+  "preferredProducts": [
+    3549,
+    2949,
+    1423,
+    329,
+    3393,
+    1816
+  ],
+  "productReviews": [
+    {
+      "productId": 1591,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-05-14T17:18:55.4133839+03:00"
+    },
+    {
+      "productId": 2921,
+      "reviewText": "this JSON is mellow.",
+      "reviewDate": "2018-01-25T03:37:35.3713226+02:00"
+    }
+  ]
+}

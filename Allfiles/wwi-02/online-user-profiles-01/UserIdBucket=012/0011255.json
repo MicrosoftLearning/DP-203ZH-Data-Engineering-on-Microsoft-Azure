@@ -1,0 +1,39 @@
+{
+  "userId": 11255,
+  "cartId": "445e2b07-5fe5-44c0-b24b-febfde16c674",
+  "preferredProducts": [
+    3645,
+    3486,
+    216,
+    2346,
+    4536,
+    3445
+  ],
+  "productReviews": [
+    {
+      "productId": 57,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-07-29T04:47:19.4393493+03:00"
+    },
+    {
+      "productId": 553,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-09-02T18:45:52.1333307+03:00"
+    },
+    {
+      "productId": 3471,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-12-06T19:18:15.1555457+02:00"
+    },
+    {
+      "productId": 152,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-11-17T02:49:38.1010002+02:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-07-04T11:17:11.1955854+03:00"
+    }
+  ]
+}

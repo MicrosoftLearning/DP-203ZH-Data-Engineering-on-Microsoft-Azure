@@ -1,0 +1,27 @@
+{
+  "userId": 78755,
+  "cartId": "8ee74cd9-4628-44ae-aedf-b4ecbb9d4a88",
+  "preferredProducts": [
+    148,
+    2035,
+    1463,
+    1592
+  ],
+  "productReviews": [
+    {
+      "productId": 4561,
+      "reviewText": "This is a really good intuitive.",
+      "reviewDate": "2018-06-15T16:43:09.3265139+03:00"
+    },
+    {
+      "productId": 1587,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-12-09T17:08:17.1247081+02:00"
+    },
+    {
+      "productId": 3565,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-12-15T13:38:10.6204443+02:00"
+    }
+  ]
+}

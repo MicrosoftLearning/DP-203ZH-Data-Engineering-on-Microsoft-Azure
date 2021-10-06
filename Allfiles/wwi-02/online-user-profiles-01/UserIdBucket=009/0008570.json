@@ -1,0 +1,42 @@
+{
+  "userId": 8570,
+  "cartId": "385a786a-7fdd-4c46-9736-aa8e0341b731",
+  "preferredProducts": [
+    4872,
+    1146,
+    2630,
+    2754,
+    1362,
+    642,
+    127,
+    3103,
+    1865
+  ],
+  "productReviews": [
+    {
+      "productId": 94,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-01-18T20:51:50.3597771+02:00"
+    },
+    {
+      "productId": 2126,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-01-21T01:03:39.8843129+02:00"
+    },
+    {
+      "productId": 3386,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-08-15T04:43:19.6681975+03:00"
+    },
+    {
+      "productId": 2735,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-08-11T14:51:28.2329676+03:00"
+    },
+    {
+      "productId": 4726,
+      "reviewText": "this olive is smooth.",
+      "reviewDate": "2017-06-25T23:36:50.5314716+03:00"
+    }
+  ]
+}

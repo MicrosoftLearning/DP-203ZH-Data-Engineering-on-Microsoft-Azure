@@ -1,0 +1,40 @@
+{
+  "userId": 14654,
+  "cartId": "8fb35ce1-7ff9-4468-b0c1-df95ade892b6",
+  "preferredProducts": [
+    3741,
+    2458,
+    2071,
+    949,
+    175,
+    4683,
+    4397
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-08-03T11:48:21.1629871+03:00"
+    },
+    {
+      "productId": 2875,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-10-31T00:34:27.4026113+02:00"
+    },
+    {
+      "productId": 4692,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-06-03T09:52:14.8206583+03:00"
+    },
+    {
+      "productId": 4972,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-01-18T19:31:28.876305+02:00"
+    },
+    {
+      "productId": 1909,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-10-17T16:12:12.037919+03:00"
+    }
+  ]
+}

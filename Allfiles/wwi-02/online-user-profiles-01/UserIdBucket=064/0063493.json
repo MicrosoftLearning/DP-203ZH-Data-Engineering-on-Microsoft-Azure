@@ -1,0 +1,37 @@
+{
+  "userId": 63493,
+  "cartId": "95bf3b3f-4bcf-4bc0-85c2-9e8e578ded34",
+  "preferredProducts": [
+    714,
+    805,
+    1384,
+    3684,
+    663,
+    519,
+    1090,
+    3737,
+    2942
+  ],
+  "productReviews": [
+    {
+      "productId": 2027,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-09-04T07:31:46.1735994+03:00"
+    },
+    {
+      "productId": 864,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-07-23T17:54:07.0967739+03:00"
+    },
+    {
+      "productId": 881,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-02-14T22:58:35.6032502+02:00"
+    },
+    {
+      "productId": 2292,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-11-19T19:54:17.9927426+02:00"
+    }
+  ]
+}

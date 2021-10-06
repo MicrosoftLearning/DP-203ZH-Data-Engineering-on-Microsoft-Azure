@@ -1,0 +1,26 @@
+{
+  "userId": 7266,
+  "cartId": "7db876da-fbaf-41c5-b3fa-be0865c1faae",
+  "preferredProducts": [
+    3274,
+    1250,
+    1936,
+    2950,
+    3682,
+    4965,
+    1106,
+    1928
+  ],
+  "productReviews": [
+    {
+      "productId": 2320,
+      "reviewText": "This Ford works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2017-01-13T19:47:34.3814384+02:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-09-21T01:08:53.9092441+03:00"
+    }
+  ]
+}

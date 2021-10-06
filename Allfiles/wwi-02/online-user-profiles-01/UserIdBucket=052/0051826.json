@@ -1,0 +1,28 @@
+{
+  "userId": 51826,
+  "cartId": "5320fb86-88b9-4c35-8120-442a949f805e",
+  "preferredProducts": [
+    3216,
+    1231,
+    139,
+    1891,
+    388
+  ],
+  "productReviews": [
+    {
+      "productId": 3242,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-03-05T02:15:44.2206396+02:00"
+    },
+    {
+      "productId": 2960,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-05-10T06:18:56.9527177+03:00"
+    },
+    {
+      "productId": 2758,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-02-01T20:59:28.0800336+02:00"
+    }
+  ]
+}

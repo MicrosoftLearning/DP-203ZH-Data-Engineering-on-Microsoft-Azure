@@ -1,0 +1,35 @@
+{
+  "userId": 12213,
+  "cartId": "6b647953-ec9a-4f34-89b9-5c4036de9add",
+  "preferredProducts": [
+    1325,
+    4809,
+    1674,
+    4328,
+    2946,
+    1138,
+    1758
+  ],
+  "productReviews": [
+    {
+      "productId": 3200,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-04-19T03:38:08.5296735+03:00"
+    },
+    {
+      "productId": 3993,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-09-21T07:50:27.3670709+03:00"
+    },
+    {
+      "productId": 3869,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-01-14T03:45:19.6026272+02:00"
+    },
+    {
+      "productId": 1459,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-11-12T08:46:26.307903+02:00"
+    }
+  ]
+}

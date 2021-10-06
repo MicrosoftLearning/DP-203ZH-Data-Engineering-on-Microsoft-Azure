@@ -1,0 +1,31 @@
+{
+  "userId": 12673,
+  "cartId": "018b581f-9077-4377-bbfc-54dffc8b2285",
+  "preferredProducts": [
+    4350,
+    8,
+    4356,
+    134,
+    2022,
+    1495,
+    4253,
+    3361
+  ],
+  "productReviews": [
+    {
+      "productId": 4876,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-05-27T22:32:00.9628599+03:00"
+    },
+    {
+      "productId": 1288,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-01-17T10:05:41.7177396+02:00"
+    },
+    {
+      "productId": 4040,
+      "reviewText": "this full-range is flirty.",
+      "reviewDate": "2017-05-01T00:43:17.394507+03:00"
+    }
+  ]
+}

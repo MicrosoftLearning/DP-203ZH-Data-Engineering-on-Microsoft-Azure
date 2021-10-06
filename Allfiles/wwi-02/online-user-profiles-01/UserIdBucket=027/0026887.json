@@ -1,0 +1,33 @@
+{
+  "userId": 26887,
+  "cartId": "5836cd95-070f-4d91-84e8-a0a99249e68a",
+  "preferredProducts": [
+    1383,
+    3683,
+    3957,
+    4202,
+    1567
+  ],
+  "productReviews": [
+    {
+      "productId": 2201,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-08-05T02:52:00.4004285+03:00"
+    },
+    {
+      "productId": 2086,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-12-19T19:41:29.9053308+02:00"
+    },
+    {
+      "productId": 2363,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-08-29T16:10:55.7734977+03:00"
+    },
+    {
+      "productId": 4578,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-05-13T22:48:38.3535164+03:00"
+    }
+  ]
+}

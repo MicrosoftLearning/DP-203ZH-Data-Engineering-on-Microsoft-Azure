@@ -1,0 +1,31 @@
+{
+  "userId": 7750,
+  "cartId": "c75982af-ba5d-4abf-8441-dfac57d8e6bc",
+  "preferredProducts": [
+    3828,
+    2222,
+    4922
+  ],
+  "productReviews": [
+    {
+      "productId": 4942,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-08-01T19:21:13.2725773+03:00"
+    },
+    {
+      "productId": 4406,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-01-09T04:43:17.0391097+02:00"
+    },
+    {
+      "productId": 3712,
+      "reviewText": "This maximize works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-03-13T21:55:40.4223689+02:00"
+    },
+    {
+      "productId": 3935,
+      "reviewText": "This is a really good Adaptive.",
+      "reviewDate": "2016-12-18T11:16:18.7702009+02:00"
+    }
+  ]
+}

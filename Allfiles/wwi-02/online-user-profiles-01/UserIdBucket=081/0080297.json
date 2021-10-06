@@ -1,0 +1,28 @@
+{
+  "userId": 80297,
+  "cartId": "12bf5db6-8625-4eba-aa60-f080ee8f21bd",
+  "preferredProducts": [
+    1679,
+    2350,
+    934,
+    1669,
+    3970
+  ],
+  "productReviews": [
+    {
+      "productId": 1304,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-22T14:24:28.9660148+02:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "this utilize is awesome.",
+      "reviewDate": "2016-12-10T02:11:53.3554993+02:00"
+    },
+    {
+      "productId": 2137,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-04-10T22:44:38.3139535+03:00"
+    }
+  ]
+}

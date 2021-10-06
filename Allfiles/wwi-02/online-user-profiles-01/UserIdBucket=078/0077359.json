@@ -1,0 +1,36 @@
+{
+  "userId": 77359,
+  "cartId": "42b05202-2f14-4bd4-8f16-7a9fa8599196",
+  "preferredProducts": [
+    1213,
+    1495,
+    1023,
+    1080,
+    2939,
+    1418,
+    3769,
+    4006
+  ],
+  "productReviews": [
+    {
+      "productId": 3979,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-05-06T19:52:24.2368749+03:00"
+    },
+    {
+      "productId": 3553,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-09-18T18:43:20.7446535+03:00"
+    },
+    {
+      "productId": 564,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-02-12T14:50:37.999021+02:00"
+    },
+    {
+      "productId": 4749,
+      "reviewText": "this lime is ghetto.",
+      "reviewDate": "2020-02-20T09:34:40.0470864+02:00"
+    }
+  ]
+}

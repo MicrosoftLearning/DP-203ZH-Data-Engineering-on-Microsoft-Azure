@@ -1,0 +1,29 @@
+{
+  "userId": 42308,
+  "cartId": "d5eb154a-e191-4ade-85d9-6de3ce533159",
+  "preferredProducts": [
+    4199,
+    3268,
+    3096,
+    395,
+    4210,
+    1944
+  ],
+  "productReviews": [
+    {
+      "productId": 3274,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-09-28T08:48:13.6127878+03:00"
+    },
+    {
+      "productId": 4185,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-01-16T18:57:29.277265+02:00"
+    },
+    {
+      "productId": 999,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-04-01T14:40:06.8688066+03:00"
+    }
+  ]
+}

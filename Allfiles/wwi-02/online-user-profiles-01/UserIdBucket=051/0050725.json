@@ -1,0 +1,35 @@
+{
+  "userId": 50725,
+  "cartId": "0c85c2e3-4379-42e4-96c3-6f98fa073eb5",
+  "preferredProducts": [
+    2644,
+    3067,
+    2544,
+    4495,
+    1520,
+    3711,
+    2401
+  ],
+  "productReviews": [
+    {
+      "productId": 1929,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-07-16T16:23:18.7957448+03:00"
+    },
+    {
+      "productId": 4895,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-03-18T10:43:04.8068935+02:00"
+    },
+    {
+      "productId": 3671,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-11-24T15:34:25.7179223+02:00"
+    },
+    {
+      "productId": 4003,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-02-13T18:44:20.9836221+02:00"
+    }
+  ]
+}

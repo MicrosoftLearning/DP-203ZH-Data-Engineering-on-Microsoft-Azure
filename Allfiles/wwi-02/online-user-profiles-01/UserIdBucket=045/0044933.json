@@ -1,0 +1,23 @@
+{
+  "userId": 44933,
+  "cartId": "bc8481af-154a-4c30-a20c-302b906032d8",
+  "preferredProducts": [
+    1743,
+    1793,
+    3572,
+    3124,
+    2596
+  ],
+  "productReviews": [
+    {
+      "productId": 333,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-02-02T12:34:05.942711+02:00"
+    },
+    {
+      "productId": 1172,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-04-13T08:44:17.0097606+03:00"
+    }
+  ]
+}

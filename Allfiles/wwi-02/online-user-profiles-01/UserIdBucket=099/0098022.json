@@ -1,0 +1,36 @@
+{
+  "userId": 98022,
+  "cartId": "a7415a29-730f-4089-abc8-873772364089",
+  "preferredProducts": [
+    3385,
+    3529,
+    2052
+  ],
+  "productReviews": [
+    {
+      "productId": 3893,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-09-14T01:31:17.9074166+03:00"
+    },
+    {
+      "productId": 4120,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-11-14T14:26:18.6027939+02:00"
+    },
+    {
+      "productId": 4261,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-07-10T22:22:18.136739+03:00"
+    },
+    {
+      "productId": 1274,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-06-05T08:32:59.5463016+03:00"
+    },
+    {
+      "productId": 694,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-21T01:48:48.4724006+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 23350,
+  "cartId": "95994f8d-391b-459e-960b-a183e1a50108",
+  "preferredProducts": [
+    2655,
+    637,
+    4163
+  ],
+  "productReviews": [
+    {
+      "productId": 2808,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-10-16T02:20:09.2067268+03:00"
+    },
+    {
+      "productId": 2741,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-02-15T08:41:20.4075358+02:00"
+    },
+    {
+      "productId": 1939,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-07-04T21:57:52.5470923+03:00"
+    },
+    {
+      "productId": 3399,
+      "reviewText": "This Berkshire works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-04-01T22:46:34.8760856+03:00"
+    }
+  ]
+}

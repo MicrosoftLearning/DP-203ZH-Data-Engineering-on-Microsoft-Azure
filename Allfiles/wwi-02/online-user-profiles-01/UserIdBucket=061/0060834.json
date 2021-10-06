@@ -1,0 +1,38 @@
+{
+  "userId": 60834,
+  "cartId": "3359711c-6c49-450e-bd7e-b0aae50a667d",
+  "preferredProducts": [
+    1980,
+    2636,
+    3837,
+    3772,
+    1770
+  ],
+  "productReviews": [
+    {
+      "productId": 1127,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-06-12T13:13:43.3080237+03:00"
+    },
+    {
+      "productId": 2861,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-09-20T12:15:01.5951847+03:00"
+    },
+    {
+      "productId": 4517,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-04-19T20:46:25.6854585+03:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-07-07T15:32:15.7558828+03:00"
+    },
+    {
+      "productId": 1841,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-07-15T14:18:22.5840338+03:00"
+    }
+  ]
+}

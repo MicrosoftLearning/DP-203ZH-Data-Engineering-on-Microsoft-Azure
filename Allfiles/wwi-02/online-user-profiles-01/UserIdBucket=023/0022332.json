@@ -1,0 +1,37 @@
+{
+  "userId": 22332,
+  "cartId": "6af22c2a-4dcf-48d4-b2a8-8583b28fa681",
+  "preferredProducts": [
+    4296,
+    2440,
+    1898,
+    2132
+  ],
+  "productReviews": [
+    {
+      "productId": 1065,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-04-12T22:30:43.0127697+03:00"
+    },
+    {
+      "productId": 1702,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-08-10T20:15:29.5369321+03:00"
+    },
+    {
+      "productId": 4932,
+      "reviewText": "this overriding is complimentary.",
+      "reviewDate": "2017-03-20T15:23:40.6967144+02:00"
+    },
+    {
+      "productId": 4084,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-12-17T00:29:06.4036385+02:00"
+    },
+    {
+      "productId": 2925,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-01-14T04:09:53.5759316+02:00"
+    }
+  ]
+}

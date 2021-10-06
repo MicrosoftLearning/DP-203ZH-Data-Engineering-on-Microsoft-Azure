@@ -1,0 +1,31 @@
+{
+  "userId": 45471,
+  "cartId": "f35ce272-89c4-47c7-a0c4-d50e4b66e7fd",
+  "preferredProducts": [
+    2185,
+    1520,
+    598,
+    3854,
+    2889,
+    382,
+    2302,
+    2640
+  ],
+  "productReviews": [
+    {
+      "productId": 4148,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-07-18T02:21:29.1191023+03:00"
+    },
+    {
+      "productId": 3492,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-05-30T23:44:17.2291449+03:00"
+    },
+    {
+      "productId": 21,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-08-07T04:11:04.7854199+03:00"
+    }
+  ]
+}

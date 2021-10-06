@@ -1,0 +1,31 @@
+{
+  "userId": 43708,
+  "cartId": "ed1deb71-6729-442a-abb5-ada5af7d5637",
+  "preferredProducts": [
+    1122,
+    3663,
+    1829,
+    4521,
+    1115,
+    1098,
+    2327,
+    3567
+  ],
+  "productReviews": [
+    {
+      "productId": 2862,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-01-25T17:58:40.7175294+02:00"
+    },
+    {
+      "productId": 3206,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2020-01-12T17:36:21.9415358+02:00"
+    },
+    {
+      "productId": 4790,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-06-24T14:03:37.2521298+03:00"
+    }
+  ]
+}

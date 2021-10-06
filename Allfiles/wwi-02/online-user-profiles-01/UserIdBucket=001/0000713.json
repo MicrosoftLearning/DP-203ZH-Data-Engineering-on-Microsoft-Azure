@@ -1,0 +1,30 @@
+{
+  "userId": 713,
+  "cartId": "e3801def-4012-400b-9dcb-399ef1bee968",
+  "preferredProducts": [
+    480,
+    4711,
+    663,
+    3489,
+    1358,
+    3111,
+    2905
+  ],
+  "productReviews": [
+    {
+      "productId": 1068,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-10-19T05:38:16.4460872+03:00"
+    },
+    {
+      "productId": 1245,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-07-30T03:38:45.1175869+03:00"
+    },
+    {
+      "productId": 395,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-06-07T20:53:50.6180927+03:00"
+    }
+  ]
+}

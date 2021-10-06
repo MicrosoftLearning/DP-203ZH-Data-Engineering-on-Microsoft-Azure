@@ -1,0 +1,38 @@
+{
+  "userId": 71001,
+  "cartId": "0d31dff7-92df-4156-9282-0a1e6262031b",
+  "preferredProducts": [
+    1306,
+    2882,
+    890,
+    4234,
+    1488
+  ],
+  "productReviews": [
+    {
+      "productId": 1910,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-04-09T12:03:47.8227357+03:00"
+    },
+    {
+      "productId": 1862,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-11-15T04:30:15.2006373+02:00"
+    },
+    {
+      "productId": 1403,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-03-09T06:37:57.6208067+02:00"
+    },
+    {
+      "productId": 818,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2016-10-11T00:02:46.6652563+03:00"
+    },
+    {
+      "productId": 4330,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-02-29T07:16:20.4284592+02:00"
+    }
+  ]
+}

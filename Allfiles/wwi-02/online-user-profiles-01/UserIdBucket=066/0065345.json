@@ -1,0 +1,37 @@
+{
+  "userId": 65345,
+  "cartId": "1feaee9a-586d-4e6f-be49-ee5d63fac982",
+  "preferredProducts": [
+    4390,
+    1282,
+    73,
+    2180,
+    2012,
+    4072,
+    3354,
+    3039,
+    4255
+  ],
+  "productReviews": [
+    {
+      "productId": 296,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-07-23T17:37:32.8560006+03:00"
+    },
+    {
+      "productId": 1023,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-12-07T16:44:14.6948757+02:00"
+    },
+    {
+      "productId": 3312,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-09-23T16:52:12.3240428+03:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-11-02T11:58:37.1522325+02:00"
+    }
+  ]
+}

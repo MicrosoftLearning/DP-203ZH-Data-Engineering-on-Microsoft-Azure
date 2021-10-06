@@ -1,0 +1,31 @@
+{
+  "userId": 63640,
+  "cartId": "67d578e2-e11c-4a4a-99f2-6324d421a906",
+  "preferredProducts": [
+    2200,
+    1335,
+    4534,
+    3406,
+    4128,
+    1406,
+    4365,
+    1946
+  ],
+  "productReviews": [
+    {
+      "productId": 2618,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-02-12T18:00:57.6188659+02:00"
+    },
+    {
+      "productId": 4415,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-06-04T02:15:10.5110359+03:00"
+    },
+    {
+      "productId": 1633,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-09-07T16:29:59.8082053+03:00"
+    }
+  ]
+}

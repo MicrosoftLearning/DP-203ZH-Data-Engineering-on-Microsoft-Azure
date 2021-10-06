@@ -1,0 +1,41 @@
+{
+  "userId": 52103,
+  "cartId": "f97f1b79-7d6f-4424-9c1a-aee4763b5e0d",
+  "preferredProducts": [
+    425,
+    4356,
+    1452,
+    1606,
+    82,
+    3810,
+    4175,
+    1376
+  ],
+  "productReviews": [
+    {
+      "productId": 3768,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-05-20T20:00:54.3346584+03:00"
+    },
+    {
+      "productId": 3898,
+      "reviewText": "this Principal is top-notch.",
+      "reviewDate": "2017-12-08T23:12:54.6172718+02:00"
+    },
+    {
+      "productId": 4695,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-10-30T15:13:48.260772+02:00"
+    },
+    {
+      "productId": 4545,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-03-21T09:10:15.9503895+02:00"
+    },
+    {
+      "productId": 3939,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-12-08T10:43:18.3817534+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 61400,
+  "cartId": "8cdb4761-64f1-4ddd-8618-db19488f7ba8",
+  "preferredProducts": [
+    4204,
+    1554,
+    1691
+  ],
+  "productReviews": [
+    {
+      "productId": 67,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-04-03T22:09:26.8365565+03:00"
+    },
+    {
+      "productId": 1421,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-08-18T00:06:49.2043237+03:00"
+    },
+    {
+      "productId": 3561,
+      "reviewText": "this redundant is complimentary.",
+      "reviewDate": "2016-12-04T04:01:31.4431417+02:00"
+    }
+  ]
+}

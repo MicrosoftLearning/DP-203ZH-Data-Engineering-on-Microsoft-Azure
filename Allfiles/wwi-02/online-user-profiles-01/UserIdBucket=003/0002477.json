@@ -1,0 +1,31 @@
+{
+  "userId": 2477,
+  "cartId": "603c207f-aee8-40de-8f8e-20b3c286cf94",
+  "preferredProducts": [
+    1452,
+    4024,
+    4154
+  ],
+  "productReviews": [
+    {
+      "productId": 3013,
+      "reviewText": "this yellow is slurpee.",
+      "reviewDate": "2016-10-10T18:39:17.8319231+03:00"
+    },
+    {
+      "productId": 4939,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-07-17T22:58:56.4685436+03:00"
+    },
+    {
+      "productId": 942,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-02-13T16:43:01.7791265+02:00"
+    },
+    {
+      "productId": 1238,
+      "reviewText": "this Architect is awesome.",
+      "reviewDate": "2016-08-10T12:11:51.8843086+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 10342,
+  "cartId": "a16c2151-8deb-4168-ae37-fa52c3ea4b8b",
+  "preferredProducts": [
+    645,
+    774,
+    4621,
+    284,
+    1657
+  ],
+  "productReviews": [
+    {
+      "productId": 610,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-05-05T13:56:22.4099479+03:00"
+    },
+    {
+      "productId": 1746,
+      "reviewText": "this invoice is brown.",
+      "reviewDate": "2019-07-23T17:58:50.8429424+03:00"
+    },
+    {
+      "productId": 517,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-12-15T16:01:26.9805656+02:00"
+    },
+    {
+      "productId": 1688,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-07-25T12:33:41.7356425+03:00"
+    }
+  ]
+}

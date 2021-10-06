@@ -1,0 +1,24 @@
+{
+  "userId": 42854,
+  "cartId": "fa91766b-5640-4fcd-8d75-a239ca1924f4",
+  "preferredProducts": [
+    1965,
+    3177,
+    4583,
+    1276,
+    683,
+    1569
+  ],
+  "productReviews": [
+    {
+      "productId": 760,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-05-07T08:45:18.5652279+03:00"
+    },
+    {
+      "productId": 436,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-09-26T13:13:21.056445+03:00"
+    }
+  ]
+}

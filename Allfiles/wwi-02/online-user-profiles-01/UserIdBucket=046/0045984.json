@@ -1,0 +1,30 @@
+{
+  "userId": 45984,
+  "cartId": "67a141de-32c1-41aa-b954-fe83d7dc1ece",
+  "preferredProducts": [
+    895,
+    1927,
+    2601,
+    3405,
+    1414,
+    3013,
+    135
+  ],
+  "productReviews": [
+    {
+      "productId": 3916,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-03-19T15:00:20.3186116+02:00"
+    },
+    {
+      "productId": 4853,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-01-21T01:44:12.0741763+02:00"
+    },
+    {
+      "productId": 3823,
+      "reviewText": "This Villages works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-06-12T07:58:44.1941037+03:00"
+    }
+  ]
+}

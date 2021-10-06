@@ -1,0 +1,29 @@
+{
+  "userId": 17635,
+  "cartId": "0ee5d152-29a4-4736-b333-81c46c254632",
+  "preferredProducts": [
+    2282,
+    4650,
+    4345,
+    2499,
+    2735,
+    1828
+  ],
+  "productReviews": [
+    {
+      "productId": 3111,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-03-10T00:00:15.0333359+02:00"
+    },
+    {
+      "productId": 1386,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-11-02T08:46:06.0780265+02:00"
+    },
+    {
+      "productId": 2349,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-06-04T07:21:17.5617456+03:00"
+    }
+  ]
+}

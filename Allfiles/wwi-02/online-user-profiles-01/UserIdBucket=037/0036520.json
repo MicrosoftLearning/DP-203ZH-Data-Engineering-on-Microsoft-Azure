@@ -1,0 +1,30 @@
+{
+  "userId": 36520,
+  "cartId": "04b4c50d-cb4a-4f21-bdc6-fb805e20d700",
+  "preferredProducts": [
+    418,
+    4154
+  ],
+  "productReviews": [
+    {
+      "productId": 4342,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-08-15T22:51:25.4931619+03:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-11-23T05:09:23.6341879+02:00"
+    },
+    {
+      "productId": 2181,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-05-21T15:00:55.9024905+03:00"
+    },
+    {
+      "productId": 2600,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2020-04-03T16:05:18.8721278+03:00"
+    }
+  ]
+}

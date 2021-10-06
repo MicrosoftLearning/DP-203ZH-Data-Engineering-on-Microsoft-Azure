@@ -1,0 +1,26 @@
+{
+  "userId": 44240,
+  "cartId": "5ddb3d71-568a-454c-97e7-eab8514dd9ac",
+  "preferredProducts": [
+    4251,
+    449,
+    4042,
+    1616,
+    1392,
+    4441,
+    1316,
+    1745
+  ],
+  "productReviews": [
+    {
+      "productId": 2048,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-11-09T19:25:04.6631112+02:00"
+    },
+    {
+      "productId": 4505,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-09-15T01:06:19.7407299+03:00"
+    }
+  ]
+}

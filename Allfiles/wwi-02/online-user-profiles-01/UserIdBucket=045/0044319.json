@@ -1,0 +1,33 @@
+{
+  "userId": 44319,
+  "cartId": "d814db3e-a766-44bb-a119-322578cc4bd5",
+  "preferredProducts": [
+    3089,
+    1182,
+    976,
+    4858,
+    1828
+  ],
+  "productReviews": [
+    {
+      "productId": 3514,
+      "reviewText": "this iterate is revolting.",
+      "reviewDate": "2019-10-14T23:03:31.3488703+03:00"
+    },
+    {
+      "productId": 3695,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-03-06T22:44:33.6973946+02:00"
+    },
+    {
+      "productId": 2077,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-05-04T09:14:23.911913+03:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-04-26T14:13:23.965089+03:00"
+    }
+  ]
+}

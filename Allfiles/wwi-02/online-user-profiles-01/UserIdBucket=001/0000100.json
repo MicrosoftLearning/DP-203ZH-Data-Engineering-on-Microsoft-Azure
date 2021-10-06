@@ -1,0 +1,26 @@
+{
+  "userId": 100,
+  "cartId": "c2ca4cc2-2aad-4d58-a7b6-fd2efdf7d687",
+  "preferredProducts": [
+    3062,
+    1898,
+    994,
+    4763,
+    1000,
+    175,
+    4599,
+    4645
+  ],
+  "productReviews": [
+    {
+      "productId": 1910,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-08-11T06:29:04.9109732+03:00"
+    },
+    {
+      "productId": 3064,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-12-26T04:29:14.2329085+02:00"
+    }
+  ]
+}

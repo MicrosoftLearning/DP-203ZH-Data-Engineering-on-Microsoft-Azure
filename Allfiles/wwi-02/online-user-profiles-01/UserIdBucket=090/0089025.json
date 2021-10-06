@@ -1,0 +1,41 @@
+{
+  "userId": 89025,
+  "cartId": "0e6dcfc7-0ba5-41c2-995c-4371d8c360e2",
+  "preferredProducts": [
+    720,
+    1052,
+    2088,
+    4446,
+    15,
+    2288,
+    2392,
+    2800
+  ],
+  "productReviews": [
+    {
+      "productId": 1780,
+      "reviewText": "this Saint Martin is flirty.",
+      "reviewDate": "2017-07-01T10:02:06.9616588+03:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-03-20T16:44:49.3511618+02:00"
+    },
+    {
+      "productId": 4959,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-05-12T03:49:32.3459607+03:00"
+    },
+    {
+      "productId": 1741,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-02-26T19:51:13.5724647+02:00"
+    },
+    {
+      "productId": 2197,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-08-02T20:20:37.0430475+03:00"
+    }
+  ]
+}

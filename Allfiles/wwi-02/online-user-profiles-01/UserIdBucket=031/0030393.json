@@ -1,0 +1,28 @@
+{
+  "userId": 30393,
+  "cartId": "07071e09-85a8-4ef8-b2da-94ae5f0271b5",
+  "preferredProducts": [
+    2513,
+    4372,
+    2279,
+    489,
+    2786
+  ],
+  "productReviews": [
+    {
+      "productId": 4666,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-07-19T12:08:59.188187+03:00"
+    },
+    {
+      "productId": 3090,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-10-27T22:49:56.904059+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "This Trinidad and Tobago works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-04-30T18:35:15.3808673+03:00"
+    }
+  ]
+}

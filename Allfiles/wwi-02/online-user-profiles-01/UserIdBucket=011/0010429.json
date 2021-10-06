@@ -1,0 +1,35 @@
+{
+  "userId": 10429,
+  "cartId": "f9762789-adc9-43c0-aa5a-af45c840cdab",
+  "preferredProducts": [
+    245,
+    2449
+  ],
+  "productReviews": [
+    {
+      "productId": 704,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-09-11T20:49:42.49305+03:00"
+    },
+    {
+      "productId": 4045,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-07-03T11:57:55.4809252+03:00"
+    },
+    {
+      "productId": 888,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-12-05T00:32:57.593711+02:00"
+    },
+    {
+      "productId": 3080,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-03-08T10:48:07.763073+02:00"
+    },
+    {
+      "productId": 3090,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-06-10T06:49:36.8509119+03:00"
+    }
+  ]
+}

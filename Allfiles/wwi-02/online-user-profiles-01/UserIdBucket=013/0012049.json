@@ -1,0 +1,24 @@
+{
+  "userId": 12049,
+  "cartId": "9f5e42b4-755b-4a9e-8eef-947faf75a86b",
+  "preferredProducts": [
+    1443,
+    1499,
+    105,
+    2815,
+    4395,
+    2372
+  ],
+  "productReviews": [
+    {
+      "productId": 3410,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-01-04T20:02:59.4798506+02:00"
+    },
+    {
+      "productId": 1928,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-05-01T03:42:47.6726836+03:00"
+    }
+  ]
+}

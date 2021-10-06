@@ -1,0 +1,32 @@
+{
+  "userId": 2978,
+  "cartId": "1cea19ce-80ec-47c0-ad85-3512d889e655",
+  "preferredProducts": [
+    89,
+    3839,
+    516,
+    8
+  ],
+  "productReviews": [
+    {
+      "productId": 3748,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-11-05T15:26:56.0876216+02:00"
+    },
+    {
+      "productId": 931,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-12-08T04:42:18.9119613+02:00"
+    },
+    {
+      "productId": 1833,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-12-25T21:08:28.4748192+02:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-06-15T03:08:58.8563213+03:00"
+    }
+  ]
+}

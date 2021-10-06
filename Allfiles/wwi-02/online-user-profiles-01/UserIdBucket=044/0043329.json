@@ -1,0 +1,30 @@
+{
+  "userId": 43329,
+  "cartId": "6eaeb286-a24d-4618-b8d0-bc43ba18bfc7",
+  "preferredProducts": [
+    2700,
+    17,
+    2677,
+    4551,
+    4280,
+    1759,
+    732
+  ],
+  "productReviews": [
+    {
+      "productId": 2257,
+      "reviewText": "this schemas is tasty.",
+      "reviewDate": "2017-07-07T17:18:12.6212229+03:00"
+    },
+    {
+      "productId": 3891,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-11-02T04:39:39.7406967+02:00"
+    },
+    {
+      "productId": 2245,
+      "reviewText": "This Dynamic works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-10-17T17:59:05.2419304+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 25040,
+  "cartId": "3fb71d82-281f-4a0f-9ecc-fa8493c9dcbe",
+  "preferredProducts": [
+    1964,
+    3285,
+    3159,
+    2340,
+    146
+  ],
+  "productReviews": [
+    {
+      "productId": 4838,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-08-16T07:23:59.2038203+03:00"
+    },
+    {
+      "productId": 450,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-10-23T22:50:19.3579468+03:00"
+    },
+    {
+      "productId": 2997,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-12-06T21:21:22.9225998+02:00"
+    },
+    {
+      "productId": 1330,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2020-04-30T08:39:53.7265071+03:00"
+    }
+  ]
+}

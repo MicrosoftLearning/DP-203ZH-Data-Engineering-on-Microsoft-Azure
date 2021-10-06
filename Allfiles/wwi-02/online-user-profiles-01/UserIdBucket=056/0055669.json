@@ -1,0 +1,31 @@
+{
+  "userId": 55669,
+  "cartId": "3064b94c-7c6b-44e2-922b-4fc572e2c099",
+  "preferredProducts": [
+    1811,
+    1565,
+    148,
+    335,
+    161,
+    2175,
+    1380,
+    2860
+  ],
+  "productReviews": [
+    {
+      "productId": 2532,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-05-08T07:18:11.2067908+03:00"
+    },
+    {
+      "productId": 3220,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-12-15T19:10:36.168247+02:00"
+    },
+    {
+      "productId": 1983,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-01-18T07:50:33.6093409+02:00"
+    }
+  ]
+}

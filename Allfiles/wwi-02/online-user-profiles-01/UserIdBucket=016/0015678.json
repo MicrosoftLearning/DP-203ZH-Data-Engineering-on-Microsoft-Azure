@@ -1,0 +1,33 @@
+{
+  "userId": 15678,
+  "cartId": "a6b6bc62-6907-4164-a064-8448a08c54a3",
+  "preferredProducts": [
+    1506,
+    1890,
+    4338,
+    2715,
+    4080
+  ],
+  "productReviews": [
+    {
+      "productId": 2714,
+      "reviewText": "This Illinois works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-01-28T17:00:34.0963272+02:00"
+    },
+    {
+      "productId": 2448,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-08-12T01:45:34.0290959+03:00"
+    },
+    {
+      "productId": 303,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-03-23T11:57:03.9258642+02:00"
+    },
+    {
+      "productId": 1747,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-09-13T19:35:45.4612932+03:00"
+    }
+  ]
+}

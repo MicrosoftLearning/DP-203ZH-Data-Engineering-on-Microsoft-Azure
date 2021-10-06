@@ -1,0 +1,42 @@
+{
+  "userId": 87381,
+  "cartId": "1b4dd7e0-8bc2-44d6-ae49-1d9ee16ab8cc",
+  "preferredProducts": [
+    3011,
+    3101,
+    3717,
+    1992,
+    351,
+    3234,
+    3959,
+    4352,
+    3705
+  ],
+  "productReviews": [
+    {
+      "productId": 4639,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-09-05T21:20:47.7849715+03:00"
+    },
+    {
+      "productId": 422,
+      "reviewText": "this Developer is nifty.",
+      "reviewDate": "2017-07-25T23:36:25.6353324+03:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-12-15T22:34:08.4861745+02:00"
+    },
+    {
+      "productId": 3657,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-12-19T04:31:50.9970178+02:00"
+    },
+    {
+      "productId": 4261,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-11-26T21:34:47.6128075+02:00"
+    }
+  ]
+}

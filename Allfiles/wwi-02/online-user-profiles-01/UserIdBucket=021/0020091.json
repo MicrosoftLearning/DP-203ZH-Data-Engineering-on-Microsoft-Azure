@@ -1,0 +1,30 @@
+{
+  "userId": 20091,
+  "cartId": "12b93563-d58e-40c2-8651-e1a872124f7a",
+  "preferredProducts": [
+    2815,
+    155
+  ],
+  "productReviews": [
+    {
+      "productId": 3021,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-03-23T10:35:57.2400912+02:00"
+    },
+    {
+      "productId": 278,
+      "reviewText": "this Nuevo Sol is dominant.",
+      "reviewDate": "2016-07-17T01:30:26.9026281+03:00"
+    },
+    {
+      "productId": 2325,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-10T14:40:27.9299193+02:00"
+    },
+    {
+      "productId": 558,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-10-04T11:51:40.7213194+03:00"
+    }
+  ]
+}

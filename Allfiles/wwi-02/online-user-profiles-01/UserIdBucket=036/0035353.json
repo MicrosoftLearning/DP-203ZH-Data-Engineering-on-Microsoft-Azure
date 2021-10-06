@@ -1,0 +1,26 @@
+{
+  "userId": 35353,
+  "cartId": "56d21d93-362c-4800-afa5-0162776e7bed",
+  "preferredProducts": [
+    2019,
+    845,
+    3237
+  ],
+  "productReviews": [
+    {
+      "productId": 2600,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-04-11T17:58:56.7562641+03:00"
+    },
+    {
+      "productId": 3558,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-03-14T16:10:58.4064201+02:00"
+    },
+    {
+      "productId": 1887,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-05-07T20:58:37.7333352+03:00"
+    }
+  ]
+}

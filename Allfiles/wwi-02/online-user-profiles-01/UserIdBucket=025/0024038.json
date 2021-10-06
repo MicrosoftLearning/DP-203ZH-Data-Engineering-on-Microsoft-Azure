@@ -1,0 +1,33 @@
+{
+  "userId": 24038,
+  "cartId": "079bc30e-4979-444c-b678-2bf145941ff7",
+  "preferredProducts": [
+    3396,
+    4957,
+    4738,
+    893,
+    2589
+  ],
+  "productReviews": [
+    {
+      "productId": 2166,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-08-02T16:32:43.7553276+03:00"
+    },
+    {
+      "productId": 4431,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-05-21T07:01:08.0694449+03:00"
+    },
+    {
+      "productId": 1295,
+      "reviewText": "This Assurance works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2020-02-14T21:43:35.5560112+02:00"
+    },
+    {
+      "productId": 3706,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-03-27T06:39:30.2322349+02:00"
+    }
+  ]
+}

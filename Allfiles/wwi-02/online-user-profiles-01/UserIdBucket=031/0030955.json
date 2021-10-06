@@ -1,0 +1,30 @@
+{
+  "userId": 30955,
+  "cartId": "f22b18fd-4f9f-4117-b3b9-e7e07691418c",
+  "preferredProducts": [
+    4906,
+    2035
+  ],
+  "productReviews": [
+    {
+      "productId": 338,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-03-24T13:14:15.2631251+02:00"
+    },
+    {
+      "productId": 4122,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-02-05T11:20:46.2389582+02:00"
+    },
+    {
+      "productId": 4918,
+      "reviewText": "this hard drive is brown.",
+      "reviewDate": "2018-04-22T14:39:40.4032844+03:00"
+    },
+    {
+      "productId": 1303,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-04-17T20:10:13.2306245+03:00"
+    }
+  ]
+}

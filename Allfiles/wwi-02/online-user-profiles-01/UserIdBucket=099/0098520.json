@@ -1,0 +1,33 @@
+{
+  "userId": 98520,
+  "cartId": "a5e7ce68-8242-4d4f-b7cf-fba2f80d8aad",
+  "preferredProducts": [
+    2077,
+    969,
+    4007,
+    1424,
+    4252
+  ],
+  "productReviews": [
+    {
+      "productId": 1913,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-09-01T21:09:20.1399532+03:00"
+    },
+    {
+      "productId": 1508,
+      "reviewText": "this blue is hyper.",
+      "reviewDate": "2018-02-18T00:49:15.0650186+02:00"
+    },
+    {
+      "productId": 4065,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-04-20T00:55:18.3249728+03:00"
+    },
+    {
+      "productId": 1792,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-11-14T11:02:25.4775221+02:00"
+    }
+  ]
+}

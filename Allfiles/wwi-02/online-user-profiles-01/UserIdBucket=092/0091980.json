@@ -1,0 +1,33 @@
+{
+  "userId": 91980,
+  "cartId": "c19bcef4-9366-4e3e-b9ae-da632af03857",
+  "preferredProducts": [
+    4336,
+    310,
+    958,
+    3621,
+    2909
+  ],
+  "productReviews": [
+    {
+      "productId": 1109,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-10-19T20:52:57.1013203+03:00"
+    },
+    {
+      "productId": 4846,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-12-28T06:39:01.4886435+02:00"
+    },
+    {
+      "productId": 4469,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-11-09T00:37:47.9962976+02:00"
+    },
+    {
+      "productId": 3077,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-09-08T19:49:26.7294525+03:00"
+    }
+  ]
+}

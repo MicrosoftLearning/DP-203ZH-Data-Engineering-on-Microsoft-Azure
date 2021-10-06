@@ -1,0 +1,38 @@
+{
+  "userId": 32293,
+  "cartId": "76774f78-fca4-409e-9576-8262a13186ce",
+  "preferredProducts": [
+    2642,
+    1088,
+    1931,
+    4307,
+    556,
+    3191,
+    3667,
+    4032,
+    4051,
+    1731
+  ],
+  "productReviews": [
+    {
+      "productId": 2534,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-01-03T03:07:44.3887508+02:00"
+    },
+    {
+      "productId": 1170,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-06-01T05:52:05.2381173+03:00"
+    },
+    {
+      "productId": 3959,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-06-22T18:10:04.2787982+03:00"
+    },
+    {
+      "productId": 2701,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-02-13T10:29:52.2539027+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 47978,
+  "cartId": "e32bd3c5-e77c-4f38-853b-ecf9d370fe61",
+  "preferredProducts": [
+    925,
+    3451
+  ],
+  "productReviews": [
+    {
+      "productId": 1828,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-03-10T12:33:30.7362645+02:00"
+    },
+    {
+      "productId": 1065,
+      "reviewText": "This JSON works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-04-22T07:05:48.3705724+03:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-01-19T15:37:08.6733852+02:00"
+    },
+    {
+      "productId": 1360,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-04-20T04:56:30.1042746+03:00"
+    }
+  ]
+}

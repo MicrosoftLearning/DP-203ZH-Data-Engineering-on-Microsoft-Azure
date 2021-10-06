@@ -1,0 +1,30 @@
+{
+  "userId": 532,
+  "cartId": "c756a684-46ac-4b22-a441-30f06210e096",
+  "preferredProducts": [
+    3157,
+    2398
+  ],
+  "productReviews": [
+    {
+      "productId": 4848,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-02-11T19:56:25.8831038+02:00"
+    },
+    {
+      "productId": 4673,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-07-30T03:42:22.7031596+03:00"
+    },
+    {
+      "productId": 4153,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-01-12T07:46:47.2438342+02:00"
+    },
+    {
+      "productId": 2450,
+      "reviewText": "this SDD is perplexed.",
+      "reviewDate": "2017-09-11T05:13:22.2887329+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 23080,
+  "cartId": "e80290b1-7eea-44c1-a9e1-8c959e15c737",
+  "preferredProducts": [
+    2913,
+    456,
+    3314,
+    4864,
+    3580,
+    245,
+    4167
+  ],
+  "productReviews": [
+    {
+      "productId": 3237,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-02-06T02:38:18.4301008+02:00"
+    },
+    {
+      "productId": 147,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-07-12T04:33:09.4184881+03:00"
+    },
+    {
+      "productId": 3637,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-12-12T01:49:41.1495793+02:00"
+    },
+    {
+      "productId": 4696,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-08-11T01:18:30.8177834+03:00"
+    }
+  ]
+}

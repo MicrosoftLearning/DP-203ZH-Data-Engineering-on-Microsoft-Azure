@@ -1,0 +1,36 @@
+{
+  "userId": 3755,
+  "cartId": "565552a0-180a-4d9e-98d9-286753f33b35",
+  "preferredProducts": [
+    3173,
+    330,
+    87
+  ],
+  "productReviews": [
+    {
+      "productId": 4300,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-06-27T20:44:01.2675806+03:00"
+    },
+    {
+      "productId": 1310,
+      "reviewText": "this Licensed is hyper.",
+      "reviewDate": "2018-11-06T23:07:51.1111478+02:00"
+    },
+    {
+      "productId": 1554,
+      "reviewText": "this purple is flirty.",
+      "reviewDate": "2018-05-30T22:10:32.0181972+03:00"
+    },
+    {
+      "productId": 3206,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-04-30T06:21:09.8122326+03:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-03-27T04:59:54.5788902+02:00"
+    }
+  ]
+}

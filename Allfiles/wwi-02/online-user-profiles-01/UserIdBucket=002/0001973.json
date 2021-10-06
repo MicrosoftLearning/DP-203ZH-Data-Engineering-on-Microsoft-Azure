@@ -1,0 +1,37 @@
+{
+  "userId": 1973,
+  "cartId": "91a3cda5-d6e2-487c-a7a8-30dea9bbf9ea",
+  "preferredProducts": [
+    4751,
+    559,
+    1105,
+    4449,
+    1323,
+    4316,
+    715,
+    1198,
+    3699
+  ],
+  "productReviews": [
+    {
+      "productId": 2540,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-02-17T15:34:04.0762918+02:00"
+    },
+    {
+      "productId": 3383,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-09-28T20:48:19.2679486+03:00"
+    },
+    {
+      "productId": 3002,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-05-09T11:04:42.4414539+03:00"
+    },
+    {
+      "productId": 3627,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-08-03T21:08:22.6308515+03:00"
+    }
+  ]
+}

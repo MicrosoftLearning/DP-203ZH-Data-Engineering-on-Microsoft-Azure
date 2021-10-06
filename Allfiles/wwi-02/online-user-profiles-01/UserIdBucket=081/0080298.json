@@ -1,0 +1,35 @@
+{
+  "userId": 80298,
+  "cartId": "430f4143-65c4-4c68-b3fe-c1972488958c",
+  "preferredProducts": [
+    4529,
+    980,
+    3337,
+    4361,
+    532,
+    698,
+    1320
+  ],
+  "productReviews": [
+    {
+      "productId": 4836,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-03-31T02:03:08.9293537+03:00"
+    },
+    {
+      "productId": 2775,
+      "reviewText": "this Generic is whole-grain.",
+      "reviewDate": "2016-09-01T20:06:48.2764056+03:00"
+    },
+    {
+      "productId": 1515,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-07-27T11:34:16.8767934+03:00"
+    },
+    {
+      "productId": 1191,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-07-23T08:50:52.9479552+03:00"
+    }
+  ]
+}

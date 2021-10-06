@@ -1,0 +1,33 @@
+{
+  "userId": 97123,
+  "cartId": "b58bab50-f5fe-44b0-90a4-abbcb165df5c",
+  "preferredProducts": [
+    3802,
+    367,
+    3342,
+    2931,
+    341
+  ],
+  "productReviews": [
+    {
+      "productId": 3518,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-10-06T05:03:11.1695745+03:00"
+    },
+    {
+      "productId": 3673,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-06-26T10:59:04.9687958+03:00"
+    },
+    {
+      "productId": 3425,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-12-21T17:23:44.9733749+02:00"
+    },
+    {
+      "productId": 495,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-06-07T19:23:14.4632405+03:00"
+    }
+  ]
+}

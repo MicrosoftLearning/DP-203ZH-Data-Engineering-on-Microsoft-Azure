@@ -1,0 +1,37 @@
+{
+  "userId": 40392,
+  "cartId": "24f98abc-12cf-4608-b263-3bbbfb5379e9",
+  "preferredProducts": [
+    957,
+    1286,
+    974,
+    4754,
+    4222,
+    3287,
+    1975,
+    4731,
+    2558
+  ],
+  "productReviews": [
+    {
+      "productId": 3755,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-03-23T00:00:29.3746719+02:00"
+    },
+    {
+      "productId": 2301,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-10-02T18:43:50.3234364+03:00"
+    },
+    {
+      "productId": 2037,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-07-11T22:15:37.2343269+03:00"
+    },
+    {
+      "productId": 2083,
+      "reviewText": "This cutting-edge works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-08-09T06:14:29.7895823+03:00"
+    }
+  ]
+}

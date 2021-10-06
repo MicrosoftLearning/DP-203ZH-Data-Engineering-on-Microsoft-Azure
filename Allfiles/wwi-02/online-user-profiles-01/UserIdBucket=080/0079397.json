@@ -1,0 +1,36 @@
+{
+  "userId": 79397,
+  "cartId": "94c4ea92-e45a-4bc2-af81-bcaab467e74b",
+  "preferredProducts": [
+    963,
+    830,
+    2779,
+    1323,
+    3844,
+    4140,
+    1702,
+    2463
+  ],
+  "productReviews": [
+    {
+      "productId": 1603,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-05-22T21:42:41.016044+03:00"
+    },
+    {
+      "productId": 2338,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-04-22T18:26:12.5697518+03:00"
+    },
+    {
+      "productId": 3042,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-06-21T18:52:57.8366475+03:00"
+    },
+    {
+      "productId": 156,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-08-03T06:55:25.6454442+03:00"
+    }
+  ]
+}

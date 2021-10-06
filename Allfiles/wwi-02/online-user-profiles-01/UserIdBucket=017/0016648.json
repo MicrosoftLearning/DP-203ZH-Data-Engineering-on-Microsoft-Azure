@@ -1,0 +1,36 @@
+{
+  "userId": 16648,
+  "cartId": "9e370130-fd9f-4a3d-8d12-0febab374081",
+  "preferredProducts": [
+    1589,
+    3065,
+    3699,
+    149,
+    3821,
+    2675,
+    3265,
+    4716
+  ],
+  "productReviews": [
+    {
+      "productId": 2333,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-03-16T12:02:44.9152399+02:00"
+    },
+    {
+      "productId": 1509,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-10-06T13:23:52.8846639+03:00"
+    },
+    {
+      "productId": 3698,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-01-29T07:39:30.2916835+02:00"
+    },
+    {
+      "productId": 3631,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-07-15T16:59:11.8922139+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 20678,
+  "cartId": "f833d827-4748-43d7-90fc-1f8f4ba0f3eb",
+  "preferredProducts": [
+    3206,
+    3499,
+    1541,
+    2267,
+    3486,
+    2349,
+    24,
+    2840
+  ],
+  "productReviews": [
+    {
+      "productId": 2900,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-11-08T21:13:36.2842394+02:00"
+    },
+    {
+      "productId": 3070,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-11-05T16:41:21.3917764+02:00"
+    },
+    {
+      "productId": 4735,
+      "reviewText": "this Djibouti is flirty.",
+      "reviewDate": "2020-04-20T00:25:39.9083605+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 99101,
+  "cartId": "6928ef57-2a47-43bb-a75c-8b3cfa3e791a",
+  "preferredProducts": [
+    3819,
+    3958,
+    878,
+    718,
+    2280,
+    3104,
+    4928,
+    1616,
+    2693,
+    2390
+  ],
+  "productReviews": [
+    {
+      "productId": 1126,
+      "reviewText": "This navigate works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-10-14T20:53:06.4218653+03:00"
+    },
+    {
+      "productId": 3926,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-10-22T07:50:48.459336+03:00"
+    },
+    {
+      "productId": 2998,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2016-12-12T19:39:13.7635981+02:00"
+    },
+    {
+      "productId": 1575,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-09-02T14:05:30.8167679+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 76501,
+  "cartId": "74ac4167-f8f0-4275-add9-d5d29b0a0a14",
+  "preferredProducts": [
+    3467,
+    3387,
+    1236,
+    4441,
+    1437,
+    522,
+    2357
+  ],
+  "productReviews": [
+    {
+      "productId": 3101,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-11-17T18:21:29.3341376+02:00"
+    },
+    {
+      "productId": 3045,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-02-06T11:03:22.450284+02:00"
+    },
+    {
+      "productId": 4341,
+      "reviewText": "This iterate works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-07-12T13:59:03.265621+03:00"
+    },
+    {
+      "productId": 1014,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-07-08T15:16:34.3868475+03:00"
+    }
+  ]
+}

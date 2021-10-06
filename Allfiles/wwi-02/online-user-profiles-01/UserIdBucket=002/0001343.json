@@ -1,0 +1,24 @@
+{
+  "userId": 1343,
+  "cartId": "40888542-0471-4b23-9f34-c58627c97bf7",
+  "preferredProducts": [
+    4008
+  ],
+  "productReviews": [
+    {
+      "productId": 1977,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-03-10T03:13:51.7470726+02:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-02-11T23:44:03.8966256+02:00"
+    },
+    {
+      "productId": 1156,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-01-08T11:51:02.8747835+02:00"
+    }
+  ]
+}

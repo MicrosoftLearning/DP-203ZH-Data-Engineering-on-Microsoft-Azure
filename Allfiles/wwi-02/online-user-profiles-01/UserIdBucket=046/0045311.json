@@ -1,0 +1,33 @@
+{
+  "userId": 45311,
+  "cartId": "7a4e167b-4702-4220-a264-adfeecbb9c52",
+  "preferredProducts": [
+    1252,
+    4873,
+    601,
+    3461,
+    4084
+  ],
+  "productReviews": [
+    {
+      "productId": 2860,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-12-14T10:44:55.7311419+02:00"
+    },
+    {
+      "productId": 4737,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-01-10T22:08:38.4567246+02:00"
+    },
+    {
+      "productId": 3116,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-09-23T23:12:53.2227325+03:00"
+    },
+    {
+      "productId": 4180,
+      "reviewText": "This Advanced works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-09-22T03:38:22.7996292+03:00"
+    }
+  ]
+}

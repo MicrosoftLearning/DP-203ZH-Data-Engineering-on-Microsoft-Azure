@@ -1,0 +1,40 @@
+{
+  "userId": 79871,
+  "cartId": "8498dd2e-95e6-45ba-a028-1d405fce07d8",
+  "preferredProducts": [
+    4643,
+    3297,
+    3619,
+    381,
+    2723,
+    229,
+    4710
+  ],
+  "productReviews": [
+    {
+      "productId": 3045,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-09T16:14:17.9194058+03:00"
+    },
+    {
+      "productId": 2226,
+      "reviewText": "This multi-byte, does exactly what it's suppose to do.",
+      "reviewDate": "2017-08-30T04:10:18.3406484+03:00"
+    },
+    {
+      "productId": 864,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-02-13T15:55:23.3841092+02:00"
+    },
+    {
+      "productId": 4056,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-08-09T20:55:37.0290808+03:00"
+    },
+    {
+      "productId": 3088,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2020-01-14T00:53:08.2570391+02:00"
+    }
+  ]
+}

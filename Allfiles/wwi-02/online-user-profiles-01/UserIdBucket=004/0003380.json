@@ -1,0 +1,24 @@
+{
+  "userId": 3380,
+  "cartId": "9abed387-5933-464e-8492-0cac2eb37fc6",
+  "preferredProducts": [
+    3895,
+    548,
+    4580,
+    2119,
+    1156,
+    588
+  ],
+  "productReviews": [
+    {
+      "productId": 1509,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-03-21T08:31:56.5078898+02:00"
+    },
+    {
+      "productId": 2204,
+      "reviewText": "This Credit Card Account works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-12-16T13:41:18.246336+02:00"
+    }
+  ]
+}

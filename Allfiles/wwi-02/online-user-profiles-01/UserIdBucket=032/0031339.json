@@ -1,0 +1,33 @@
+{
+  "userId": 31339,
+  "cartId": "75660533-7e13-4d08-bd05-a3bb8ba123ad",
+  "preferredProducts": [
+    3778,
+    3899,
+    457,
+    1054,
+    1413,
+    2357,
+    441,
+    1676,
+    4327,
+    4495
+  ],
+  "productReviews": [
+    {
+      "productId": 3512,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-05-07T02:36:48.7221971+03:00"
+    },
+    {
+      "productId": 1171,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-07-27T14:43:11.0158697+03:00"
+    },
+    {
+      "productId": 4045,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-10-24T05:25:28.4169937+03:00"
+    }
+  ]
+}

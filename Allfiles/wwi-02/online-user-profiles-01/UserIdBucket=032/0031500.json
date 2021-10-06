@@ -1,0 +1,27 @@
+{
+  "userId": 31500,
+  "cartId": "e0e3d458-c54c-4c6d-b388-8eae27ae3127",
+  "preferredProducts": [
+    1993,
+    3991,
+    3595,
+    769,
+    152,
+    2250,
+    2382,
+    1222,
+    1236
+  ],
+  "productReviews": [
+    {
+      "productId": 2950,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-08-24T20:34:07.490314+03:00"
+    },
+    {
+      "productId": 4451,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-09-18T00:20:00.5072679+03:00"
+    }
+  ]
+}

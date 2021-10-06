@@ -1,0 +1,33 @@
+{
+  "userId": 15906,
+  "cartId": "9e8b7fb9-1905-447f-87d5-e3c5ca4a2fac",
+  "preferredProducts": [
+    4037,
+    191,
+    2266,
+    4837,
+    444
+  ],
+  "productReviews": [
+    {
+      "productId": 4311,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-10-10T16:16:26.6128151+03:00"
+    },
+    {
+      "productId": 4522,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-12-17T04:37:42.7832719+02:00"
+    },
+    {
+      "productId": 4314,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-03-12T19:51:38.011683+02:00"
+    },
+    {
+      "productId": 2300,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-10-20T18:19:27.0566211+03:00"
+    }
+  ]
+}

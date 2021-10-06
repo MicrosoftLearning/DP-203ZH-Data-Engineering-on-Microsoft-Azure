@@ -1,0 +1,32 @@
+{
+  "userId": 80881,
+  "cartId": "f4a0c400-242f-43da-842c-733339239a62",
+  "preferredProducts": [
+    3190,
+    4545,
+    2634,
+    2514
+  ],
+  "productReviews": [
+    {
+      "productId": 1805,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-08-05T16:45:38.1828765+03:00"
+    },
+    {
+      "productId": 599,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-03-16T06:37:48.1233497+02:00"
+    },
+    {
+      "productId": 4563,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-12-25T08:13:53.7981396+02:00"
+    },
+    {
+      "productId": 2668,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-07-14T00:59:54.0134411+03:00"
+    }
+  ]
+}

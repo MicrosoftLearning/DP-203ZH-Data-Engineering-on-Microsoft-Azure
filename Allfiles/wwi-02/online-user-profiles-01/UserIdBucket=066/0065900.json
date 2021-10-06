@@ -1,0 +1,31 @@
+{
+  "userId": 65900,
+  "cartId": "a848a4ff-950b-4a12-a3a5-1693cccac00e",
+  "preferredProducts": [
+    2245,
+    329,
+    591,
+    1232,
+    1539,
+    1092,
+    3032,
+    774
+  ],
+  "productReviews": [
+    {
+      "productId": 3018,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-04-03T20:05:43.2963094+03:00"
+    },
+    {
+      "productId": 1629,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-04-25T17:37:55.0736483+03:00"
+    },
+    {
+      "productId": 709,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-04-12T01:05:55.131728+03:00"
+    }
+  ]
+}

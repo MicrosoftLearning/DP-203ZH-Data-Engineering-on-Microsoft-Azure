@@ -1,0 +1,37 @@
+{
+  "userId": 60571,
+  "cartId": "da9284d0-4fa5-49b4-9c58-70da5b5f055c",
+  "preferredProducts": [
+    716,
+    3589,
+    4557,
+    397,
+    3743,
+    3235,
+    4604,
+    2312,
+    3858
+  ],
+  "productReviews": [
+    {
+      "productId": 3987,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-11-16T16:55:55.8725288+02:00"
+    },
+    {
+      "productId": 489,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-21T04:15:11.6348797+02:00"
+    },
+    {
+      "productId": 1861,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-11-27T18:12:21.8597398+02:00"
+    },
+    {
+      "productId": 2936,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-12-11T12:42:31.0209931+02:00"
+    }
+  ]
+}

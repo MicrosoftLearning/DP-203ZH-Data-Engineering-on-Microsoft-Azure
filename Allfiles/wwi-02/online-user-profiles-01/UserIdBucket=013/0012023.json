@@ -1,0 +1,37 @@
+{
+  "userId": 12023,
+  "cartId": "c6227570-012b-4058-acee-6bbfe629d0c0",
+  "preferredProducts": [
+    4107,
+    3581,
+    832,
+    4026
+  ],
+  "productReviews": [
+    {
+      "productId": 969,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-05-26T22:33:38.6679858+03:00"
+    },
+    {
+      "productId": 2207,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-11-16T00:26:27.63386+02:00"
+    },
+    {
+      "productId": 4284,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-01-04T14:51:07.1682354+02:00"
+    },
+    {
+      "productId": 341,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-05-16T15:10:07.4215351+03:00"
+    },
+    {
+      "productId": 2923,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2020-04-01T20:56:39.8384005+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 60549,
+  "cartId": "902dfbb0-ff71-40d2-9d7d-1f199eae9180",
+  "preferredProducts": [
+    1251,
+    3262,
+    4258,
+    567
+  ],
+  "productReviews": [
+    {
+      "productId": 2729,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-03-22T11:17:16.7549079+02:00"
+    },
+    {
+      "productId": 753,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-08-05T18:37:44.0650603+03:00"
+    },
+    {
+      "productId": 542,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2019-11-27T01:01:28.4552559+02:00"
+    }
+  ]
+}

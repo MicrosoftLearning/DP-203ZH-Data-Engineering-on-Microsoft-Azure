@@ -1,0 +1,31 @@
+{
+  "userId": 7914,
+  "cartId": "1bfffe7b-498c-46a6-bd71-9d5185fd9284",
+  "preferredProducts": [
+    3885,
+    676,
+    4058,
+    2902,
+    509,
+    4219,
+    4658,
+    452
+  ],
+  "productReviews": [
+    {
+      "productId": 3221,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-12-15T06:19:45.6581104+02:00"
+    },
+    {
+      "productId": 1658,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-01-01T16:16:31.6166921+02:00"
+    },
+    {
+      "productId": 3355,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-05-28T03:09:35.273985+03:00"
+    }
+  ]
+}

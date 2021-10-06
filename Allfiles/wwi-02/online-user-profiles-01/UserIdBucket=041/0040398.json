@@ -1,0 +1,38 @@
+{
+  "userId": 40398,
+  "cartId": "1a42cc34-c6f9-4286-8966-eb96b194541d",
+  "preferredProducts": [
+    2575,
+    4173,
+    3116,
+    921,
+    4685
+  ],
+  "productReviews": [
+    {
+      "productId": 4305,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-07-16T10:45:38.4778604+03:00"
+    },
+    {
+      "productId": 2789,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-02-18T06:26:46.8228201+02:00"
+    },
+    {
+      "productId": 628,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-08-18T00:26:37.495968+03:00"
+    },
+    {
+      "productId": 1629,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-10-25T19:52:01.3483966+03:00"
+    },
+    {
+      "productId": 2835,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-07-05T23:14:35.0213279+03:00"
+    }
+  ]
+}

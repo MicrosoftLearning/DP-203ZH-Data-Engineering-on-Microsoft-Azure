@@ -1,0 +1,35 @@
+{
+  "userId": 57434,
+  "cartId": "0903e163-7cf3-44da-8cad-66c5e5d39369",
+  "preferredProducts": [
+    2421,
+    3285,
+    3582,
+    364,
+    1571,
+    836,
+    2081
+  ],
+  "productReviews": [
+    {
+      "productId": 552,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-02-06T20:14:39.7587859+02:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-06-04T08:53:20.1423421+03:00"
+    },
+    {
+      "productId": 2884,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-07-13T23:45:59.7718472+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-10-26T09:54:30.2745785+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 2893,
+  "cartId": "a2a14245-0f9c-49d3-b0fb-c819d8137d6c",
+  "preferredProducts": [
+    3480,
+    4341,
+    2054,
+    2815,
+    3386
+  ],
+  "productReviews": [
+    {
+      "productId": 130,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-01-02T22:15:28.1275761+02:00"
+    },
+    {
+      "productId": 3700,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-02-12T08:25:24.5920829+02:00"
+    },
+    {
+      "productId": 4062,
+      "reviewText": "this applications is snowy.",
+      "reviewDate": "2019-06-04T14:51:33.2298975+03:00"
+    },
+    {
+      "productId": 2942,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-07-31T23:04:08.3822196+03:00"
+    }
+  ]
+}

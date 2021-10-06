@@ -1,0 +1,32 @@
+{
+  "userId": 86825,
+  "cartId": "71b7bedf-6b17-4658-9d1e-2195cdf01d77",
+  "preferredProducts": [
+    1000,
+    4905,
+    3697,
+    2841,
+    2794,
+    1898,
+    433,
+    4083,
+    2413
+  ],
+  "productReviews": [
+    {
+      "productId": 185,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-06-16T18:23:55.9581572+03:00"
+    },
+    {
+      "productId": 4130,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-10-17T21:30:43.5950286+03:00"
+    },
+    {
+      "productId": 1687,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-07-10T07:31:54.0078897+03:00"
+    }
+  ]
+}

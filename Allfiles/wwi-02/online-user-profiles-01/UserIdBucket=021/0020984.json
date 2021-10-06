@@ -1,0 +1,25 @@
+{
+  "userId": 20984,
+  "cartId": "3077b255-8a37-49f5-88a5-5beb7616088d",
+  "preferredProducts": [
+    719,
+    4276
+  ],
+  "productReviews": [
+    {
+      "productId": 2205,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-10-28T23:25:29.5778432+02:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-02-20T19:54:17.8724191+02:00"
+    },
+    {
+      "productId": 143,
+      "reviewText": "this Gorgeous Wooden Cheese is hyper.",
+      "reviewDate": "2018-02-12T22:38:39.3748847+02:00"
+    }
+  ]
+}

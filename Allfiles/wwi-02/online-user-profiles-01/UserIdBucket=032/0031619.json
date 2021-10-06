@@ -1,0 +1,35 @@
+{
+  "userId": 31619,
+  "cartId": "9cc9c44e-03c3-42e2-b407-4d89ce5f4ef6",
+  "preferredProducts": [
+    2747,
+    2038,
+    4327,
+    3847,
+    1639,
+    4325,
+    2502
+  ],
+  "productReviews": [
+    {
+      "productId": 2425,
+      "reviewText": "this firewall is brown.",
+      "reviewDate": "2018-08-08T01:09:44.2315205+03:00"
+    },
+    {
+      "productId": 2177,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-03-17T03:57:57.3816605+02:00"
+    },
+    {
+      "productId": 4335,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-04-08T02:25:26.8167192+03:00"
+    },
+    {
+      "productId": 3719,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-08-15T16:25:57.1010453+03:00"
+    }
+  ]
+}

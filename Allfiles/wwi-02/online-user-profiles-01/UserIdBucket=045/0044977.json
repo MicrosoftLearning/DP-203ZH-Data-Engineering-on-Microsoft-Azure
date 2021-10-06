@@ -1,0 +1,35 @@
+{
+  "userId": 44977,
+  "cartId": "40d26ab5-7bc0-4e9e-804d-fd266d978415",
+  "preferredProducts": [
+    1180,
+    1453,
+    4166,
+    1,
+    415,
+    2480,
+    2871
+  ],
+  "productReviews": [
+    {
+      "productId": 2522,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-08-15T00:07:35.5547412+03:00"
+    },
+    {
+      "productId": 4338,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-03-17T09:20:32.5854357+02:00"
+    },
+    {
+      "productId": 1609,
+      "reviewText": "this Forward is standard.",
+      "reviewDate": "2018-04-08T18:43:23.406224+03:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-12-28T15:21:58.6207153+02:00"
+    }
+  ]
+}

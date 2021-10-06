@@ -1,0 +1,38 @@
+{
+  "userId": 95451,
+  "cartId": "fea2af4c-55cc-43e2-bd91-3e4dbb718934",
+  "preferredProducts": [
+    1700,
+    3272,
+    4109,
+    1006,
+    154,
+    1268,
+    3663,
+    4068,
+    4436,
+    97
+  ],
+  "productReviews": [
+    {
+      "productId": 1970,
+      "reviewText": "This is a really good Direct.",
+      "reviewDate": "2020-04-13T19:16:11.7683132+03:00"
+    },
+    {
+      "productId": 2915,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-02-17T10:59:53.4746675+02:00"
+    },
+    {
+      "productId": 3069,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-06-16T01:19:04.2522523+03:00"
+    },
+    {
+      "productId": 730,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-08-14T15:52:30.2128868+03:00"
+    }
+  ]
+}

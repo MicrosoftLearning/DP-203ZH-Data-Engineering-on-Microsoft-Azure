@@ -1,0 +1,33 @@
+{
+  "userId": 42858,
+  "cartId": "9f4bc4cb-4ffd-4786-b90c-a9cb43e13617",
+  "preferredProducts": [
+    3234,
+    765,
+    2720,
+    3862,
+    3525,
+    1172,
+    671,
+    2432,
+    2286,
+    1679
+  ],
+  "productReviews": [
+    {
+      "productId": 2712,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-10-01T05:34:49.4842127+03:00"
+    },
+    {
+      "productId": 4757,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-02-14T13:13:56.2761633+02:00"
+    },
+    {
+      "productId": 799,
+      "reviewText": "This payment works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-07-20T03:00:19.2206874+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 20310,
+  "cartId": "98560565-f0ad-4bb9-b6c3-fde504a20cbb",
+  "preferredProducts": [
+    164,
+    2424,
+    610,
+    2582,
+    195,
+    4832,
+    4972,
+    1819,
+    4057
+  ],
+  "productReviews": [
+    {
+      "productId": 3524,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-03-11T16:35:12.3396726+02:00"
+    },
+    {
+      "productId": 2859,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-04-26T20:35:51.7975569+03:00"
+    },
+    {
+      "productId": 2200,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-11-02T03:53:02.9333462+02:00"
+    }
+  ]
+}

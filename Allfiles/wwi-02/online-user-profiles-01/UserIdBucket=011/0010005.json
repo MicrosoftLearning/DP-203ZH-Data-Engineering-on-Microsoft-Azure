@@ -1,0 +1,40 @@
+{
+  "userId": 10005,
+  "cartId": "1e60c653-dda8-4f73-9a1e-bb7116ecfa2c",
+  "preferredProducts": [
+    1578,
+    2746,
+    2434,
+    4749,
+    2039,
+    4466,
+    3032
+  ],
+  "productReviews": [
+    {
+      "productId": 3729,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-07-21T22:38:46.2744394+03:00"
+    },
+    {
+      "productId": 1184,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-02-20T15:14:57.3307318+02:00"
+    },
+    {
+      "productId": 979,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-08-08T23:14:52.6511263+03:00"
+    },
+    {
+      "productId": 1979,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-12-21T03:17:55.6834447+02:00"
+    },
+    {
+      "productId": 3874,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-10-31T10:21:59.4931501+02:00"
+    }
+  ]
+}

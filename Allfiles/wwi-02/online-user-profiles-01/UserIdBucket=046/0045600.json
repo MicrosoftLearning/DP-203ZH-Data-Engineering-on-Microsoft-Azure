@@ -1,0 +1,29 @@
+{
+  "userId": 45600,
+  "cartId": "dc375392-e850-4850-ac3b-8508b8958a4b",
+  "preferredProducts": [
+    3707,
+    2102,
+    3724,
+    474,
+    1671,
+    4643
+  ],
+  "productReviews": [
+    {
+      "productId": 773,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-08-02T17:33:13.2114923+03:00"
+    },
+    {
+      "productId": 1897,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-05-01T04:00:41.222973+03:00"
+    },
+    {
+      "productId": 41,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-03-12T09:52:13.9803945+02:00"
+    }
+  ]
+}

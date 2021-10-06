@@ -1,0 +1,33 @@
+{
+  "userId": 54371,
+  "cartId": "5a8bd7b5-39a2-43ca-acd3-4ae2973450d8",
+  "preferredProducts": [
+    1020,
+    2747,
+    3503,
+    3193,
+    3617
+  ],
+  "productReviews": [
+    {
+      "productId": 1398,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-04-09T11:47:26.9336517+03:00"
+    },
+    {
+      "productId": 691,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-08-25T02:07:05.0725502+03:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "This New Zealand, does exactly what it's suppose to do.",
+      "reviewDate": "2020-03-22T22:01:01.8594839+02:00"
+    },
+    {
+      "productId": 157,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-02-14T12:12:58.1433887+02:00"
+    }
+  ]
+}

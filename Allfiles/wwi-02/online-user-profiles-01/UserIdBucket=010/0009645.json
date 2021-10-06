@@ -1,0 +1,31 @@
+{
+  "userId": 9645,
+  "cartId": "593b9c0e-4d5e-4d2c-a748-de9960eddbec",
+  "preferredProducts": [
+    4333,
+    1890,
+    195,
+    4104,
+    1351,
+    321,
+    674,
+    1979
+  ],
+  "productReviews": [
+    {
+      "productId": 4895,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-05-27T04:24:58.6241931+03:00"
+    },
+    {
+      "productId": 2065,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-02-20T07:26:18.6824074+02:00"
+    },
+    {
+      "productId": 3160,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-02-26T08:18:44.6601981+02:00"
+    }
+  ]
+}

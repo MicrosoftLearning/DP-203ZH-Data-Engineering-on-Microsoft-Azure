@@ -1,0 +1,38 @@
+{
+  "userId": 8899,
+  "cartId": "f6422076-74c8-4904-a959-fc82730551a2",
+  "preferredProducts": [
+    64,
+    2390,
+    3238,
+    4917,
+    1968
+  ],
+  "productReviews": [
+    {
+      "productId": 1501,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-05-26T15:50:35.0389527+03:00"
+    },
+    {
+      "productId": 680,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-09-02T08:12:45.8965773+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-03-01T19:16:52.4085317+02:00"
+    },
+    {
+      "productId": 4814,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-09-01T08:51:41.3353746+03:00"
+    },
+    {
+      "productId": 1369,
+      "reviewText": "this Bedfordshire is honest.",
+      "reviewDate": "2017-08-07T13:57:34.2625948+03:00"
+    }
+  ]
+}

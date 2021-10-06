@@ -1,0 +1,30 @@
+{
+  "userId": 71004,
+  "cartId": "c7863d89-19f6-4cfa-a13e-b8ba5069cf0e",
+  "preferredProducts": [
+    1466,
+    2409,
+    3449,
+    2861,
+    2256,
+    3044,
+    2707
+  ],
+  "productReviews": [
+    {
+      "productId": 3435,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-01-23T15:24:52.0787323+02:00"
+    },
+    {
+      "productId": 91,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-03-14T17:11:36.0203959+02:00"
+    },
+    {
+      "productId": 2505,
+      "reviewText": "this Avon is brown.",
+      "reviewDate": "2016-06-10T19:36:41.7924199+03:00"
+    }
+  ]
+}

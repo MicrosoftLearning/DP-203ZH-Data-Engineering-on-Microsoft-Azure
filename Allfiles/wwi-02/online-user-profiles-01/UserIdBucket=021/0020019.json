@@ -1,0 +1,38 @@
+{
+  "userId": 20019,
+  "cartId": "65da2402-7116-4e8c-ab0a-fe7debe36aab",
+  "preferredProducts": [
+    3018,
+    4408,
+    915,
+    3901,
+    218
+  ],
+  "productReviews": [
+    {
+      "productId": 1931,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-07-09T13:09:21.4881429+03:00"
+    },
+    {
+      "productId": 2529,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-12-14T21:53:36.215902+02:00"
+    },
+    {
+      "productId": 3844,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-06-08T01:08:29.5710017+03:00"
+    },
+    {
+      "productId": 4758,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-05-09T00:54:39.166257+03:00"
+    },
+    {
+      "productId": 513,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-08-02T19:35:44.8317368+03:00"
+    }
+  ]
+}

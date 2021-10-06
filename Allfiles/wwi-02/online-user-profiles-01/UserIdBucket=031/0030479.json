@@ -1,0 +1,29 @@
+{
+  "userId": 30479,
+  "cartId": "d582686f-145a-426b-a7d7-e740deac14d0",
+  "preferredProducts": [
+    551,
+    3002,
+    911,
+    360,
+    4996,
+    4831
+  ],
+  "productReviews": [
+    {
+      "productId": 2048,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-08-11T09:50:06.7888571+03:00"
+    },
+    {
+      "productId": 4456,
+      "reviewText": "this program is light-hearted.",
+      "reviewDate": "2017-07-23T14:39:56.12248+03:00"
+    },
+    {
+      "productId": 934,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-09-18T15:08:17.6122303+03:00"
+    }
+  ]
+}

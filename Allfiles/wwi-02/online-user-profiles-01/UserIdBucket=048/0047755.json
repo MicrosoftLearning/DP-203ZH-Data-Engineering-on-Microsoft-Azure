@@ -1,0 +1,29 @@
+{
+  "userId": 47755,
+  "cartId": "0534acf5-9e9c-4df2-b4cb-38c28a888a4f",
+  "preferredProducts": [
+    1776,
+    1444,
+    3765,
+    1070,
+    4182,
+    3669
+  ],
+  "productReviews": [
+    {
+      "productId": 1807,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-08-11T00:30:28.9105137+03:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-01-15T06:13:36.2463444+02:00"
+    },
+    {
+      "productId": 2321,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-07-31T10:26:11.7286642+03:00"
+    }
+  ]
+}

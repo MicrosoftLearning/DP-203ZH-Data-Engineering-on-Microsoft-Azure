@@ -1,0 +1,35 @@
+{
+  "userId": 76386,
+  "cartId": "9e48e08c-9149-4f79-b985-e4c82906d6ff",
+  "preferredProducts": [
+    529,
+    4001,
+    4930,
+    4752,
+    4617,
+    3046,
+    4968
+  ],
+  "productReviews": [
+    {
+      "productId": 1035,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-09-30T22:46:02.0708188+03:00"
+    },
+    {
+      "productId": 4363,
+      "reviewText": "This back-end, does exactly what it's suppose to do.",
+      "reviewDate": "2019-02-23T13:45:31.3704839+02:00"
+    },
+    {
+      "productId": 1686,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-07-17T10:45:37.5129155+03:00"
+    },
+    {
+      "productId": 2474,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2016-08-18T18:36:44.0250715+03:00"
+    }
+  ]
+}

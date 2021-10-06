@@ -1,0 +1,31 @@
+{
+  "userId": 92713,
+  "cartId": "fc45f0bf-3ec0-46d8-848a-a56a91795794",
+  "preferredProducts": [
+    403,
+    1441,
+    4617
+  ],
+  "productReviews": [
+    {
+      "productId": 1953,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-03-15T02:56:59.9420291+02:00"
+    },
+    {
+      "productId": 1373,
+      "reviewText": "This tan works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-08-22T10:14:23.0478659+03:00"
+    },
+    {
+      "productId": 4658,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-04-24T10:07:05.4731814+03:00"
+    },
+    {
+      "productId": 584,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-03-01T02:20:48.1698034+02:00"
+    }
+  ]
+}

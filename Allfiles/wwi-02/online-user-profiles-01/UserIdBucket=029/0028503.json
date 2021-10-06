@@ -1,0 +1,36 @@
+{
+  "userId": 28503,
+  "cartId": "08a31e28-2b17-4966-b2d5-a75bbf23be07",
+  "preferredProducts": [
+    4010,
+    17,
+    3145,
+    4557,
+    4113,
+    1300,
+    1019,
+    498
+  ],
+  "productReviews": [
+    {
+      "productId": 3927,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-01-24T20:09:38.7342057+02:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-10-27T06:20:43.3957188+03:00"
+    },
+    {
+      "productId": 213,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-03-06T05:22:03.1472243+02:00"
+    },
+    {
+      "productId": 4005,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-06-09T22:48:45.1985748+03:00"
+    }
+  ]
+}

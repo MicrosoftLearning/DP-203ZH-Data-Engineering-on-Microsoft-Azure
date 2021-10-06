@@ -1,0 +1,33 @@
+{
+  "userId": 40913,
+  "cartId": "25d9ed39-2d19-484c-8d2d-f24dd4d3ea54",
+  "preferredProducts": [
+    2300,
+    1838,
+    4953,
+    3411,
+    3888
+  ],
+  "productReviews": [
+    {
+      "productId": 170,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-10-12T02:47:11.7692442+03:00"
+    },
+    {
+      "productId": 2249,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2020-01-22T08:01:34.8945993+02:00"
+    },
+    {
+      "productId": 1941,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-10-26T10:43:23.3994628+03:00"
+    },
+    {
+      "productId": 2191,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This initiatives keeps them away.",
+      "reviewDate": "2019-10-26T02:58:13.4463523+03:00"
+    }
+  ]
+}

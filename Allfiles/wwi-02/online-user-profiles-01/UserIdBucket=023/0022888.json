@@ -1,0 +1,30 @@
+{
+  "userId": 22888,
+  "cartId": "8d1bf440-6d83-4be0-85c2-7fb994bada9b",
+  "preferredProducts": [
+    2845,
+    4019
+  ],
+  "productReviews": [
+    {
+      "productId": 365,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-01-03T15:04:42.8465378+02:00"
+    },
+    {
+      "productId": 3968,
+      "reviewText": "This Principal works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2020-02-24T17:55:55.936767+02:00"
+    },
+    {
+      "productId": 2398,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-06-17T07:05:37.4999128+03:00"
+    },
+    {
+      "productId": 346,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-08-02T03:10:52.7898664+03:00"
+    }
+  ]
+}

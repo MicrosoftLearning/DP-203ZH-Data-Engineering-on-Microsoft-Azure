@@ -1,0 +1,28 @@
+{
+  "userId": 69238,
+  "cartId": "1bf749fb-ae01-4742-a9dd-514525723d12",
+  "preferredProducts": [
+    2287,
+    2324,
+    4513,
+    3112,
+    4334
+  ],
+  "productReviews": [
+    {
+      "productId": 4154,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-05-21T19:31:18.4246013+03:00"
+    },
+    {
+      "productId": 3032,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-04-07T02:22:58.9342196+03:00"
+    },
+    {
+      "productId": 4774,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-08-30T17:32:10.6696581+03:00"
+    }
+  ]
+}

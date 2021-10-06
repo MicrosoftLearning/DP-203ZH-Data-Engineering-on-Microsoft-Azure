@@ -1,0 +1,24 @@
+{
+  "userId": 15873,
+  "cartId": "afea96c9-9c01-4a31-b3ee-bce47b40519d",
+  "preferredProducts": [
+    2867,
+    881,
+    1837,
+    4612,
+    2773,
+    2342
+  ],
+  "productReviews": [
+    {
+      "productId": 152,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-01-20T05:20:54.0629387+02:00"
+    },
+    {
+      "productId": 489,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2020-03-31T19:34:56.8344169+03:00"
+    }
+  ]
+}

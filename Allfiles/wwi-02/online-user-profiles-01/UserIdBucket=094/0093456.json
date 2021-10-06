@@ -1,0 +1,27 @@
+{
+  "userId": 93456,
+  "cartId": "0292ad66-e61b-4c82-9d7f-1fb452ec2f5c",
+  "preferredProducts": [
+    709,
+    2389,
+    2288,
+    2004
+  ],
+  "productReviews": [
+    {
+      "productId": 1733,
+      "reviewText": "This extranet works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-01-23T23:09:17.8803571+02:00"
+    },
+    {
+      "productId": 67,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-07-11T04:57:59.975786+03:00"
+    },
+    {
+      "productId": 4193,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-07-03T07:51:32.2100033+03:00"
+    }
+  ]
+}

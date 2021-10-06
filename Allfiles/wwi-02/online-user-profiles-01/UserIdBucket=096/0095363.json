@@ -1,0 +1,29 @@
+{
+  "userId": 95363,
+  "cartId": "8d77f221-f87a-40e7-8eed-b1b92b3a3a5a",
+  "preferredProducts": [
+    3633,
+    2512,
+    1992,
+    2456,
+    3350,
+    745
+  ],
+  "productReviews": [
+    {
+      "productId": 2596,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-03-03T04:46:25.4454138+02:00"
+    },
+    {
+      "productId": 4512,
+      "reviewText": "this Pass is mellow.",
+      "reviewDate": "2016-08-12T03:56:52.0450187+03:00"
+    },
+    {
+      "productId": 3584,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-07-06T13:25:19.7102892+03:00"
+    }
+  ]
+}

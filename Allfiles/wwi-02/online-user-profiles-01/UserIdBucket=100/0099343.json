@@ -1,0 +1,29 @@
+{
+  "userId": 99343,
+  "cartId": "aca6fa32-5cfe-4cde-ab0f-59a06fcde549",
+  "preferredProducts": [
+    4984,
+    3015,
+    936,
+    4707,
+    3487,
+    2320
+  ],
+  "productReviews": [
+    {
+      "productId": 4265,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-12-16T01:06:13.9838833+02:00"
+    },
+    {
+      "productId": 4990,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-04-12T05:32:42.3045794+03:00"
+    },
+    {
+      "productId": 2829,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-12-02T02:00:45.7664306+02:00"
+    }
+  ]
+}

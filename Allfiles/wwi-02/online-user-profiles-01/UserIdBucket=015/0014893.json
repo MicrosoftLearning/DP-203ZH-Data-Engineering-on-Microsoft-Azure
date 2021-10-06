@@ -1,0 +1,34 @@
+{
+  "userId": 14893,
+  "cartId": "95caa563-b06a-42de-8a03-e2e87cb63fda",
+  "preferredProducts": [
+    4986,
+    2904,
+    2815,
+    2341,
+    2701,
+    1396
+  ],
+  "productReviews": [
+    {
+      "productId": 4280,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-02-27T09:39:38.5164438+02:00"
+    },
+    {
+      "productId": 3384,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-05-25T19:06:21.0046174+03:00"
+    },
+    {
+      "productId": 3350,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-04-15T04:56:23.1942713+03:00"
+    },
+    {
+      "productId": 4869,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-09-30T11:32:31.0029661+03:00"
+    }
+  ]
+}

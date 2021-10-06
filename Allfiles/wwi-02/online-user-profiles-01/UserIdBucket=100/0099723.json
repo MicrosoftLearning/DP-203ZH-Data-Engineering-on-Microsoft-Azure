@@ -1,0 +1,29 @@
+{
+  "userId": 99723,
+  "cartId": "5389eb96-2d64-4b85-9064-acbbfe836752",
+  "preferredProducts": [
+    899
+  ],
+  "productReviews": [
+    {
+      "productId": 1256,
+      "reviewText": "this Frozen is snowy.",
+      "reviewDate": "2018-10-10T08:33:06.479521+03:00"
+    },
+    {
+      "productId": 4738,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-08-11T03:34:56.2046098+03:00"
+    },
+    {
+      "productId": 4934,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-01-12T09:58:51.0089942+02:00"
+    },
+    {
+      "productId": 2521,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-03-09T07:21:59.1101742+02:00"
+    }
+  ]
+}

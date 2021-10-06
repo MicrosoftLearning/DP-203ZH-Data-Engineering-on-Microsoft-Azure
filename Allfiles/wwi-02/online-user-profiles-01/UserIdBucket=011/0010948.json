@@ -1,0 +1,38 @@
+{
+  "userId": 10948,
+  "cartId": "128c41f0-0763-43be-a677-a326162b01a9",
+  "preferredProducts": [
+    398,
+    1168,
+    3238,
+    4434,
+    4178
+  ],
+  "productReviews": [
+    {
+      "productId": 2248,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-08-12T10:22:32.218216+03:00"
+    },
+    {
+      "productId": 4622,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-01-10T03:28:53.5719583+02:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2017-05-13T00:06:02.6428412+03:00"
+    },
+    {
+      "productId": 120,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-08-21T00:42:45.4347991+03:00"
+    },
+    {
+      "productId": 3345,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2016-06-19T01:46:35.2998482+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 21127,
+  "cartId": "d114a3d6-1655-484e-b1b4-f1833c47e58d",
+  "preferredProducts": [
+    4608,
+    2353,
+    2914,
+    3512
+  ],
+  "productReviews": [
+    {
+      "productId": 4764,
+      "reviewText": "this whiteboard is ratty.",
+      "reviewDate": "2019-07-02T20:20:36.3091724+03:00"
+    },
+    {
+      "productId": 3029,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-08-29T01:17:06.0469786+03:00"
+    },
+    {
+      "productId": 3198,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-05-12T15:11:57.5448506+03:00"
+    },
+    {
+      "productId": 178,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-09-07T13:29:18.5557294+03:00"
+    }
+  ]
+}

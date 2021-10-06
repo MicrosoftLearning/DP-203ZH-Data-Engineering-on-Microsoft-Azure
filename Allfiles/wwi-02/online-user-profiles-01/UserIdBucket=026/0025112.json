@@ -1,0 +1,28 @@
+{
+  "userId": 25112,
+  "cartId": "447339ea-8ce3-4212-be37-e5423c622e0e",
+  "preferredProducts": [
+    43,
+    4321,
+    1727,
+    2800,
+    4722
+  ],
+  "productReviews": [
+    {
+      "productId": 863,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-06-20T08:37:26.0460453+03:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-07-15T09:01:55.7092332+03:00"
+    },
+    {
+      "productId": 1171,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-07-07T22:59:57.8536314+03:00"
+    }
+  ]
+}

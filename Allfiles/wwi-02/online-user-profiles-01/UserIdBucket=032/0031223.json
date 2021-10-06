@@ -1,0 +1,30 @@
+{
+  "userId": 31223,
+  "cartId": "9b7f4cf7-45e7-4638-b1d0-8b759e8b651c",
+  "preferredProducts": [
+    2782,
+    2770,
+    841,
+    4605,
+    3471,
+    484,
+    1400
+  ],
+  "productReviews": [
+    {
+      "productId": 2048,
+      "reviewText": "This Wooden works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-01-20T20:41:18.7992265+02:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-11-10T04:30:27.2254912+02:00"
+    },
+    {
+      "productId": 221,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-09-14T17:46:52.5865632+03:00"
+    }
+  ]
+}

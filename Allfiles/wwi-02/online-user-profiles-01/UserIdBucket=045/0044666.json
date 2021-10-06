@@ -1,0 +1,27 @@
+{
+  "userId": 44666,
+  "cartId": "b961c5b2-10d4-400d-84db-c16172287d69",
+  "preferredProducts": [
+    1478,
+    3212,
+    4019,
+    3383,
+    640,
+    4999,
+    1662,
+    543,
+    215
+  ],
+  "productReviews": [
+    {
+      "productId": 204,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-01-13T10:25:16.1623009+02:00"
+    },
+    {
+      "productId": 456,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-04-19T19:13:01.5527262+03:00"
+    }
+  ]
+}

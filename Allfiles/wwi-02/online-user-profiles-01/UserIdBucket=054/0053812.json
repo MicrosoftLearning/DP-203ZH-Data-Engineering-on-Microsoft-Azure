@@ -1,0 +1,38 @@
+{
+  "userId": 53812,
+  "cartId": "f472c650-ff45-4a14-aa76-b975b8eed6fc",
+  "preferredProducts": [
+    4991,
+    4528,
+    2425,
+    1094,
+    420
+  ],
+  "productReviews": [
+    {
+      "productId": 3740,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-01-15T14:20:42.4340477+02:00"
+    },
+    {
+      "productId": 1564,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-03-17T16:21:49.1078354+02:00"
+    },
+    {
+      "productId": 321,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-04-13T04:54:32.6223771+03:00"
+    },
+    {
+      "productId": 4592,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-03-13T14:45:14.9895603+02:00"
+    },
+    {
+      "productId": 692,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-06-19T17:26:16.4897056+03:00"
+    }
+  ]
+}

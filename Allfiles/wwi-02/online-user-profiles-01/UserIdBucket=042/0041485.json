@@ -1,0 +1,26 @@
+{
+  "userId": 41485,
+  "cartId": "ee341fef-0341-442d-8671-786f2c691f4c",
+  "preferredProducts": [
+    4422,
+    490,
+    1323,
+    1866,
+    282,
+    2811,
+    4824,
+    1385
+  ],
+  "productReviews": [
+    {
+      "productId": 1182,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-01-02T11:53:32.3739945+02:00"
+    },
+    {
+      "productId": 474,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-12-11T23:29:32.71935+02:00"
+    }
+  ]
+}

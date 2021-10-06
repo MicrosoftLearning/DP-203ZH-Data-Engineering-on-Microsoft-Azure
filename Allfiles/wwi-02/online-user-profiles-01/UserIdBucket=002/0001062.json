@@ -1,0 +1,34 @@
+{
+  "userId": 1062,
+  "cartId": "e6d6ad94-eb4e-418b-ab43-68cd179cad4c",
+  "preferredProducts": [
+    1627,
+    1478,
+    3241,
+    1565,
+    801,
+    1415
+  ],
+  "productReviews": [
+    {
+      "productId": 1759,
+      "reviewText": "this payment is mellow.",
+      "reviewDate": "2018-01-05T18:42:47.7418116+02:00"
+    },
+    {
+      "productId": 345,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-04-19T05:12:56.7295173+03:00"
+    },
+    {
+      "productId": 1250,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-03-15T03:03:00.0511868+02:00"
+    },
+    {
+      "productId": 2258,
+      "reviewText": "this 24/7 is slurpee.",
+      "reviewDate": "2019-10-06T18:34:31.2526656+03:00"
+    }
+  ]
+}

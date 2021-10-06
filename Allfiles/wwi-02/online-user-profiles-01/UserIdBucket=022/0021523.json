@@ -1,0 +1,33 @@
+{
+  "userId": 21523,
+  "cartId": "5201b2b1-7d9a-4c9a-b6ea-c68e0207224e",
+  "preferredProducts": [
+    2207,
+    4883,
+    922,
+    4934,
+    3274
+  ],
+  "productReviews": [
+    {
+      "productId": 2170,
+      "reviewText": "this Awesome Cotton Keyboard is ghetto.",
+      "reviewDate": "2020-02-05T04:26:12.7384222+02:00"
+    },
+    {
+      "productId": 4419,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-04-04T05:52:14.9482393+03:00"
+    },
+    {
+      "productId": 4221,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-31T12:46:24.2040997+03:00"
+    },
+    {
+      "productId": 2848,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-07-26T02:53:09.0658756+03:00"
+    }
+  ]
+}

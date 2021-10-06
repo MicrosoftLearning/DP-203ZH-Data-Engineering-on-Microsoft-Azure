@@ -1,0 +1,31 @@
+{
+  "userId": 42236,
+  "cartId": "f1fc2d6f-eeb2-45e4-a0b2-0278a1cc516f",
+  "preferredProducts": [
+    1947,
+    4812,
+    4625,
+    2826,
+    905,
+    2551,
+    937,
+    2536
+  ],
+  "productReviews": [
+    {
+      "productId": 2090,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-01-01T16:58:29.3666639+02:00"
+    },
+    {
+      "productId": 2292,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-05-11T03:21:35.3092324+03:00"
+    },
+    {
+      "productId": 3204,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-10-02T00:27:38.3087511+03:00"
+    }
+  ]
+}

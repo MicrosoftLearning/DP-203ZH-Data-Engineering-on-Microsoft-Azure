@@ -1,0 +1,35 @@
+{
+  "userId": 23173,
+  "cartId": "2c854c9f-7dbb-46f8-ad0f-cab2719ee222",
+  "preferredProducts": [
+    4897,
+    3557,
+    2590,
+    3842,
+    4749,
+    3589,
+    469
+  ],
+  "productReviews": [
+    {
+      "productId": 3450,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-01-25T20:40:30.5056492+02:00"
+    },
+    {
+      "productId": 425,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-10-12T01:57:39.7972627+03:00"
+    },
+    {
+      "productId": 2362,
+      "reviewText": "this Sri Lanka Rupee is ratty.",
+      "reviewDate": "2017-06-21T22:55:30.2980644+03:00"
+    },
+    {
+      "productId": 82,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-01-14T13:33:23.742507+02:00"
+    }
+  ]
+}

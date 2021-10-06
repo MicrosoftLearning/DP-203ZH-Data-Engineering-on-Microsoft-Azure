@@ -1,0 +1,27 @@
+{
+  "userId": 79401,
+  "cartId": "1f378068-f1ca-4746-9a79-3912c5356f02",
+  "preferredProducts": [
+    2352,
+    3026,
+    4014,
+    3676
+  ],
+  "productReviews": [
+    {
+      "productId": 4217,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-05-14T06:48:22.7599488+03:00"
+    },
+    {
+      "productId": 2185,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-07-15T08:30:38.0569675+03:00"
+    },
+    {
+      "productId": 1146,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2020-01-22T06:59:14.6169902+02:00"
+    }
+  ]
+}

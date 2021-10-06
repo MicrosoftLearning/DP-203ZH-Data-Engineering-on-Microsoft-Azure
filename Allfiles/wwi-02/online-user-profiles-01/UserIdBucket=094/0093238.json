@@ -1,0 +1,33 @@
+{
+  "userId": 93238,
+  "cartId": "f67acdd6-a475-419c-80c2-0e8f4323b704",
+  "preferredProducts": [
+    3504,
+    4644,
+    2780,
+    2446,
+    3437
+  ],
+  "productReviews": [
+    {
+      "productId": 2454,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-03-03T18:38:03.1787747+02:00"
+    },
+    {
+      "productId": 2025,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-09-07T12:57:36.3120635+03:00"
+    },
+    {
+      "productId": 2353,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-07-08T07:20:30.7098337+03:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-06-07T12:10:31.9394585+03:00"
+    }
+  ]
+}

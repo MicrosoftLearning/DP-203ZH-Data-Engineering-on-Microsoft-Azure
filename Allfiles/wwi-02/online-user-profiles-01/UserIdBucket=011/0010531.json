@@ -1,0 +1,38 @@
+{
+  "userId": 10531,
+  "cartId": "339a592c-81ae-4b0c-a21c-119e4a86d57e",
+  "preferredProducts": [
+    3536,
+    3915,
+    1285,
+    1921,
+    780,
+    825,
+    2857,
+    262,
+    3043,
+    1320
+  ],
+  "productReviews": [
+    {
+      "productId": 3063,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-11-06T14:49:35.4413422+02:00"
+    },
+    {
+      "productId": 427,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2016-07-03T08:59:06.1776152+03:00"
+    },
+    {
+      "productId": 240,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-11-25T17:57:02.9043937+02:00"
+    },
+    {
+      "productId": 3888,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-03-14T15:52:34.8603632+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 72554,
+  "cartId": "b22251b4-6040-4db9-bd6a-d57f5428ef14",
+  "preferredProducts": [
+    3519,
+    4150,
+    1382,
+    2107
+  ],
+  "productReviews": [
+    {
+      "productId": 3425,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-09-28T16:33:48.6857772+03:00"
+    },
+    {
+      "productId": 1971,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-11-15T00:03:17.95239+02:00"
+    },
+    {
+      "productId": 2345,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-02-06T19:53:27.7412122+02:00"
+    }
+  ]
+}

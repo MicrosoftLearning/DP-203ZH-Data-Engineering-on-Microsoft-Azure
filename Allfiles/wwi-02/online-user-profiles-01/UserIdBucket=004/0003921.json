@@ -1,0 +1,35 @@
+{
+  "userId": 3921,
+  "cartId": "b14c07c5-6c3e-4492-901d-0f97ace8b04f",
+  "preferredProducts": [
+    462,
+    3630,
+    3970,
+    4202,
+    1188,
+    3546,
+    3824
+  ],
+  "productReviews": [
+    {
+      "productId": 1059,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-06-24T16:07:45.6211447+03:00"
+    },
+    {
+      "productId": 1806,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-10-13T13:53:02.7183425+03:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-03-01T10:54:15.7622446+02:00"
+    },
+    {
+      "productId": 2210,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-08-03T06:24:06.25849+03:00"
+    }
+  ]
+}

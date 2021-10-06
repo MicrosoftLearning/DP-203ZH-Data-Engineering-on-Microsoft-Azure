@@ -1,0 +1,39 @@
+{
+  "userId": 62222,
+  "cartId": "05e8fa3f-ff1f-46ad-a845-435b7b6340ef",
+  "preferredProducts": [
+    1690,
+    2354,
+    3778,
+    2597,
+    1833,
+    2412
+  ],
+  "productReviews": [
+    {
+      "productId": 1449,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-10-19T04:12:44.6888174+03:00"
+    },
+    {
+      "productId": 507,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-02-23T03:47:07.2269935+02:00"
+    },
+    {
+      "productId": 3633,
+      "reviewText": "this Plaza is honest.",
+      "reviewDate": "2017-11-06T05:53:09.7562111+02:00"
+    },
+    {
+      "productId": 3958,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-06-06T20:21:14.2980287+03:00"
+    },
+    {
+      "productId": 3083,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-01-25T00:30:34.2779789+02:00"
+    }
+  ]
+}

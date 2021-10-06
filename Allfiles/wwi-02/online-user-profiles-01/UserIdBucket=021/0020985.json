@@ -1,0 +1,33 @@
+{
+  "userId": 20985,
+  "cartId": "999ed827-c9a7-441a-b681-62f98cac9378",
+  "preferredProducts": [
+    3811,
+    4657,
+    1295,
+    124,
+    33,
+    430,
+    12,
+    1224,
+    1168,
+    2317
+  ],
+  "productReviews": [
+    {
+      "productId": 2943,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-12-01T07:37:57.9199392+02:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-03-15T20:59:19.2206733+02:00"
+    },
+    {
+      "productId": 46,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-07-21T00:17:44.9644407+03:00"
+    }
+  ]
+}

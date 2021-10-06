@@ -1,0 +1,38 @@
+{
+  "userId": 42105,
+  "cartId": "afbc9ccb-377b-4620-9637-f3a9b81542b9",
+  "preferredProducts": [
+    1116,
+    4007,
+    2238,
+    4015,
+    4855
+  ],
+  "productReviews": [
+    {
+      "productId": 3240,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-12-30T00:26:19.6889133+02:00"
+    },
+    {
+      "productId": 1685,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-10-15T17:20:07.4773908+03:00"
+    },
+    {
+      "productId": 909,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-09-25T12:54:25.8637143+03:00"
+    },
+    {
+      "productId": 2168,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-08-17T14:10:01.3402662+03:00"
+    },
+    {
+      "productId": 4101,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-02-21T18:42:40.8329561+02:00"
+    }
+  ]
+}

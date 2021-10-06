@@ -1,0 +1,30 @@
+{
+  "userId": 83005,
+  "cartId": "f67b66f7-a2ca-4d45-97c4-7014afb5f290",
+  "preferredProducts": [
+    2360,
+    3442
+  ],
+  "productReviews": [
+    {
+      "productId": 3719,
+      "reviewText": "this bluetooth is top-notch.",
+      "reviewDate": "2019-10-05T21:39:25.6447351+03:00"
+    },
+    {
+      "productId": 1282,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-12-10T16:50:52.6041819+02:00"
+    },
+    {
+      "productId": 521,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-09-14T15:31:29.0825256+03:00"
+    },
+    {
+      "productId": 3678,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-06-27T21:06:59.1149737+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 42148,
+  "cartId": "50316fdf-2990-425f-a547-46f533d36ccd",
+  "preferredProducts": [
+    2905,
+    639,
+    382,
+    1998,
+    1396,
+    3708,
+    3331
+  ],
+  "productReviews": [
+    {
+      "productId": 2725,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-01-16T04:32:08.9295153+02:00"
+    },
+    {
+      "productId": 2443,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-04-04T22:25:10.5861816+03:00"
+    },
+    {
+      "productId": 17,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-01-28T04:36:08.0855067+02:00"
+    }
+  ]
+}

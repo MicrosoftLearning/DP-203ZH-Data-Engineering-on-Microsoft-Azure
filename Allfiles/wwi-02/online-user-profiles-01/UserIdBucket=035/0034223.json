@@ -1,0 +1,23 @@
+{
+  "userId": 34223,
+  "cartId": "db09de65-67a4-4fa0-8a08-a938b2f51ca8",
+  "preferredProducts": [
+    1296,
+    1847,
+    2415,
+    1197,
+    4348
+  ],
+  "productReviews": [
+    {
+      "productId": 1959,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-08-29T20:16:12.1901544+03:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2020-03-16T11:48:46.3811603+02:00"
+    }
+  ]
+}

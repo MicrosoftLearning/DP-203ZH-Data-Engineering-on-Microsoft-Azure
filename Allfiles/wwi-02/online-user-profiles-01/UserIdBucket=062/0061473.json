@@ -1,0 +1,30 @@
+{
+  "userId": 61473,
+  "cartId": "72a0f11b-ff52-47cf-8b48-b6a19c72075e",
+  "preferredProducts": [
+    1000,
+    927,
+    4030,
+    1757,
+    3650,
+    1921,
+    2362
+  ],
+  "productReviews": [
+    {
+      "productId": 4399,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-07-08T21:24:51.1646438+03:00"
+    },
+    {
+      "productId": 1358,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-12-12T12:03:56.5810224+02:00"
+    },
+    {
+      "productId": 3830,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-02-02T16:52:16.7543879+02:00"
+    }
+  ]
+}

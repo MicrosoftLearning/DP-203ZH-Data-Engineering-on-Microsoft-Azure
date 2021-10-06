@@ -1,0 +1,32 @@
+{
+  "userId": 34124,
+  "cartId": "aabeda04-fb6c-42c3-acbd-20ca0218b336",
+  "preferredProducts": [
+    4297,
+    2270,
+    2937,
+    383
+  ],
+  "productReviews": [
+    {
+      "productId": 787,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-05-01T02:33:18.2517074+03:00"
+    },
+    {
+      "productId": 736,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-12-18T16:54:12.1666567+02:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-12-16T02:59:42.7189242+02:00"
+    },
+    {
+      "productId": 3736,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-10-07T10:32:53.3212054+03:00"
+    }
+  ]
+}

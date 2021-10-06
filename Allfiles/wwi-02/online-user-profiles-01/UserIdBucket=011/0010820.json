@@ -1,0 +1,30 @@
+{
+  "userId": 10820,
+  "cartId": "d452ef00-bc76-4efb-a3cb-ebd5966730f1",
+  "preferredProducts": [
+    3250,
+    4282,
+    1206,
+    3662,
+    820,
+    2116,
+    441
+  ],
+  "productReviews": [
+    {
+      "productId": 1163,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-11-17T17:10:28.685348+02:00"
+    },
+    {
+      "productId": 3913,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-08-03T13:16:53.3186068+03:00"
+    },
+    {
+      "productId": 3865,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-05-02T04:11:00.6268448+03:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 48340,
+  "cartId": "74ecc871-11cd-43bb-9ec8-06b25ef06812",
+  "preferredProducts": [
+    4397,
+    3317,
+    4215,
+    210,
+    2833,
+    2620,
+    2680,
+    529,
+    4814
+  ],
+  "productReviews": [
+    {
+      "productId": 2742,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-12-07T05:50:52.6826428+02:00"
+    },
+    {
+      "productId": 2815,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-08-19T13:48:01.9364642+03:00"
+    },
+    {
+      "productId": 3100,
+      "reviewText": "this networks is dominant.",
+      "reviewDate": "2019-03-17T00:55:59.1034563+02:00"
+    },
+    {
+      "productId": 3539,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-10-20T06:10:01.1688025+03:00"
+    },
+    {
+      "productId": 2535,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-08-03T09:20:08.9765014+03:00"
+    }
+  ]
+}

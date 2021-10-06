@@ -1,0 +1,32 @@
+{
+  "userId": 6,
+  "cartId": "b24256de-c576-48f8-81ca-4c8a88a59a94",
+  "preferredProducts": [
+    4189,
+    4240,
+    2603,
+    3756
+  ],
+  "productReviews": [
+    {
+      "productId": 2441,
+      "reviewText": "This Landing works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-10-07T10:41:59.0156133+03:00"
+    },
+    {
+      "productId": 3968,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-06-14T17:27:02.4847022+03:00"
+    },
+    {
+      "productId": 1958,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-02-11T06:35:09.1857182+02:00"
+    },
+    {
+      "productId": 4403,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-05-04T09:10:24.6545722+03:00"
+    }
+  ]
+}

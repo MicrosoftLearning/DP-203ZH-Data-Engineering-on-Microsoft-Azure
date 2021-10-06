@@ -1,0 +1,27 @@
+{
+  "userId": 8071,
+  "cartId": "bf341a66-a6e1-4145-a5cd-18f233329b3e",
+  "preferredProducts": [
+    1401,
+    1685,
+    4064,
+    1850
+  ],
+  "productReviews": [
+    {
+      "productId": 1515,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-09-04T22:50:48.6470487+03:00"
+    },
+    {
+      "productId": 3901,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-07-13T12:01:41.5784248+03:00"
+    },
+    {
+      "productId": 4740,
+      "reviewText": "this Steel is vertical.",
+      "reviewDate": "2020-01-19T02:56:09.4134909+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 30731,
+  "cartId": "87ef4869-8efd-4fdf-bc82-3057675dc002",
+  "preferredProducts": [
+    1310,
+    3125,
+    497,
+    4984,
+    2994,
+    4205,
+    2732
+  ],
+  "productReviews": [
+    {
+      "productId": 2048,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-04-20T13:45:54.5428934+03:00"
+    },
+    {
+      "productId": 4587,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-03-17T09:28:37.8283528+02:00"
+    }
+  ]
+}

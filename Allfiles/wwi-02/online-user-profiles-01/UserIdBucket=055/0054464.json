@@ -1,0 +1,37 @@
+{
+  "userId": 54464,
+  "cartId": "e55ab97d-588f-48d9-9563-ac63627672d9",
+  "preferredProducts": [
+    2223,
+    462,
+    691,
+    2898,
+    1705,
+    207,
+    126,
+    387,
+    3601
+  ],
+  "productReviews": [
+    {
+      "productId": 1421,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-18T15:09:57.2143898+03:00"
+    },
+    {
+      "productId": 3398,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-05-02T10:35:34.2978611+03:00"
+    },
+    {
+      "productId": 2040,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-03-28T12:49:35.1784135+02:00"
+    },
+    {
+      "productId": 2915,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-04-08T07:58:34.5358396+03:00"
+    }
+  ]
+}

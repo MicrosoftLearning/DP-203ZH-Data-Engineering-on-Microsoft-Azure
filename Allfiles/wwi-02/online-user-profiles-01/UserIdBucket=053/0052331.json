@@ -1,0 +1,31 @@
+{
+  "userId": 52331,
+  "cartId": "c7953670-11fd-4b05-8958-961dc4496326",
+  "preferredProducts": [
+    4489,
+    275,
+    1548,
+    3182,
+    180,
+    3515,
+    2599,
+    1875
+  ],
+  "productReviews": [
+    {
+      "productId": 2255,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-08-28T10:51:31.1291481+03:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-10-02T09:56:02.1712703+03:00"
+    },
+    {
+      "productId": 4738,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-05-12T02:58:52.608334+03:00"
+    }
+  ]
+}

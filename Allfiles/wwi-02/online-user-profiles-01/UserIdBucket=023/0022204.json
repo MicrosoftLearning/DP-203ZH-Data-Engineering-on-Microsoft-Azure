@@ -1,0 +1,35 @@
+{
+  "userId": 22204,
+  "cartId": "4de9c96e-09f0-4b1c-9f00-5753f7cba796",
+  "preferredProducts": [
+    3367,
+    3357
+  ],
+  "productReviews": [
+    {
+      "productId": 121,
+      "reviewText": "This is a really good Frozen.",
+      "reviewDate": "2018-11-02T22:06:09.8336238+02:00"
+    },
+    {
+      "productId": 97,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-03-26T20:08:31.6977056+03:00"
+    },
+    {
+      "productId": 786,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-03-25T21:04:35.5407806+02:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-09-27T01:55:40.7758118+03:00"
+    },
+    {
+      "productId": 1019,
+      "reviewText": "This Montenegro works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2018-02-28T09:05:43.2439592+02:00"
+    }
+  ]
+}

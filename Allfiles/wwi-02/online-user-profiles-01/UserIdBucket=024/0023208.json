@@ -1,0 +1,35 @@
+{
+  "userId": 23208,
+  "cartId": "6db2545c-82ff-4653-9d4e-1fab99affe4b",
+  "preferredProducts": [
+    2289,
+    3397,
+    18,
+    426,
+    1311,
+    4667,
+    3692
+  ],
+  "productReviews": [
+    {
+      "productId": 4582,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-12-07T15:19:20.3145631+02:00"
+    },
+    {
+      "productId": 4031,
+      "reviewText": "this SDD is awesome.",
+      "reviewDate": "2019-04-06T11:50:12.0980811+03:00"
+    },
+    {
+      "productId": 2355,
+      "reviewText": "This is a really good Belize Dollar.",
+      "reviewDate": "2017-08-21T09:37:23.4373435+03:00"
+    },
+    {
+      "productId": 3840,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-09-23T23:17:50.0946859+03:00"
+    }
+  ]
+}

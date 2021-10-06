@@ -1,0 +1,37 @@
+{
+  "userId": 50345,
+  "cartId": "5eb21ce0-7931-4d3c-abd4-c75095e86a0c",
+  "preferredProducts": [
+    431,
+    1989,
+    4529,
+    3561
+  ],
+  "productReviews": [
+    {
+      "productId": 4932,
+      "reviewText": "this Internal is vertical.",
+      "reviewDate": "2017-10-10T12:18:23.7160583+03:00"
+    },
+    {
+      "productId": 3108,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-06-22T09:12:37.4826187+03:00"
+    },
+    {
+      "productId": 4148,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-07-20T11:55:13.28934+03:00"
+    },
+    {
+      "productId": 2741,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-11-08T12:22:13.393131+02:00"
+    },
+    {
+      "productId": 987,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-10-25T06:10:18.7025339+03:00"
+    }
+  ]
+}

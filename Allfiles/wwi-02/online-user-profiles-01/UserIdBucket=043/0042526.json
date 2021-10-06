@@ -1,0 +1,27 @@
+{
+  "userId": 42526,
+  "cartId": "a2d368e0-76f7-4ee3-ab48-3d840eee6077",
+  "preferredProducts": [
+    4423,
+    2690,
+    582,
+    3360
+  ],
+  "productReviews": [
+    {
+      "productId": 55,
+      "reviewText": "this hardware is brown.",
+      "reviewDate": "2016-10-11T15:11:39.7251956+03:00"
+    },
+    {
+      "productId": 89,
+      "reviewText": "This Nauru works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2016-12-25T21:18:08.2805405+02:00"
+    },
+    {
+      "productId": 3064,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-12-13T20:58:39.7281212+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 2379,
+  "cartId": "4ef599fc-c082-47cd-80c2-f5fa9c3be477",
+  "preferredProducts": [
+    1462,
+    2343,
+    3811
+  ],
+  "productReviews": [
+    {
+      "productId": 300,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-06-21T12:54:32.5242405+03:00"
+    },
+    {
+      "productId": 3723,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-12-26T14:47:26.1073954+02:00"
+    },
+    {
+      "productId": 4912,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-04-17T17:27:22.8900341+03:00"
+    }
+  ]
+}

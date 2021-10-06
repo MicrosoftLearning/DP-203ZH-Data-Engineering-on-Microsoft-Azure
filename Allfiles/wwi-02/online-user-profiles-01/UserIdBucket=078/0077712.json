@@ -1,0 +1,36 @@
+{
+  "userId": 77712,
+  "cartId": "6eb02ddf-78ba-498e-98a3-3a608401b54a",
+  "preferredProducts": [
+    3906,
+    1912,
+    4982,
+    4268,
+    4789,
+    1860,
+    4248,
+    402
+  ],
+  "productReviews": [
+    {
+      "productId": 2866,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-07-17T16:16:57.0264859+03:00"
+    },
+    {
+      "productId": 3059,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-11-10T14:07:11.8869923+02:00"
+    },
+    {
+      "productId": 426,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-11-02T15:44:42.1420225+02:00"
+    },
+    {
+      "productId": 433,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-27T12:25:12.6724814+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 72501,
+  "cartId": "ed7cefc3-ad23-482c-beb5-10f010e5aeea",
+  "preferredProducts": [
+    4869,
+    1081,
+    1461,
+    4532,
+    2007,
+    1669,
+    4397,
+    3572,
+    525,
+    3106
+  ],
+  "productReviews": [
+    {
+      "productId": 72,
+      "reviewText": "this Tasty is smooth.",
+      "reviewDate": "2017-01-24T23:09:13.5705391+02:00"
+    },
+    {
+      "productId": 1115,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2016-06-27T03:55:42.7871166+03:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-07-27T10:40:19.446763+03:00"
+    },
+    {
+      "productId": 497,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-07-10T22:47:51.4180229+03:00"
+    }
+  ]
+}

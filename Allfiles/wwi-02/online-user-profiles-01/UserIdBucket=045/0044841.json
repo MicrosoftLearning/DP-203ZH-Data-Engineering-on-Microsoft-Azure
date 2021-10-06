@@ -1,0 +1,28 @@
+{
+  "userId": 44841,
+  "cartId": "039fb5fa-ee52-4b4c-bea2-166e43bbb1bd",
+  "preferredProducts": [
+    4324,
+    1635,
+    1248,
+    4771,
+    1153
+  ],
+  "productReviews": [
+    {
+      "productId": 3303,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-11-17T17:57:21.3087904+02:00"
+    },
+    {
+      "productId": 3546,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-03-26T23:52:20.8631186+03:00"
+    },
+    {
+      "productId": 6,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-02-07T06:58:52.9722429+02:00"
+    }
+  ]
+}

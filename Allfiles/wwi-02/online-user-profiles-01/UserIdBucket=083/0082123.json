@@ -1,0 +1,31 @@
+{
+  "userId": 82123,
+  "cartId": "c75c9756-8f28-4d1b-9fc3-0de35490ae2b",
+  "preferredProducts": [
+    1987,
+    3785,
+    2710,
+    4837,
+    779,
+    811,
+    4252,
+    1493
+  ],
+  "productReviews": [
+    {
+      "productId": 2070,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2020-03-27T20:36:44.7180431+02:00"
+    },
+    {
+      "productId": 1728,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-12-16T19:45:49.5586093+02:00"
+    },
+    {
+      "productId": 1835,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-07-18T01:45:35.0042464+03:00"
+    }
+  ]
+}

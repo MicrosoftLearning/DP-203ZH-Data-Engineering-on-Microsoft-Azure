@@ -1,0 +1,40 @@
+{
+  "userId": 3334,
+  "cartId": "e541cfe3-4c7d-4757-b42e-35231b382833",
+  "preferredProducts": [
+    2672,
+    3146,
+    1472,
+    1355,
+    2999,
+    3358,
+    3886
+  ],
+  "productReviews": [
+    {
+      "productId": 1773,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-07-07T10:32:50.4557693+03:00"
+    },
+    {
+      "productId": 13,
+      "reviewText": "this tan is flirty.",
+      "reviewDate": "2019-04-06T08:29:14.7296737+03:00"
+    },
+    {
+      "productId": 3983,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-06-24T06:28:56.4623677+03:00"
+    },
+    {
+      "productId": 3219,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-03-03T01:05:49.2288802+02:00"
+    },
+    {
+      "productId": 2821,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-08-02T09:30:46.2327803+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 90953,
+  "cartId": "18d1b607-3c8c-4416-adb3-d7df74a1c1f9",
+  "preferredProducts": [
+    1983,
+    2449,
+    1446,
+    3671,
+    3890,
+    3531,
+    4277
+  ],
+  "productReviews": [
+    {
+      "productId": 2020,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-12-26T08:03:59.9479281+02:00"
+    },
+    {
+      "productId": 3578,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-10-25T18:35:02.4882967+03:00"
+    },
+    {
+      "productId": 3573,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-09-22T09:54:59.6495295+03:00"
+    },
+    {
+      "productId": 3633,
+      "reviewText": "This PCI works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-10-25T21:38:41.8167552+03:00"
+    }
+  ]
+}

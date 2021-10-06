@@ -1,0 +1,28 @@
+{
+  "userId": 51364,
+  "cartId": "39fb7f31-50ea-4752-9c0f-0ec7dadb95cc",
+  "preferredProducts": [
+    2700,
+    2244,
+    3269,
+    458,
+    4631
+  ],
+  "productReviews": [
+    {
+      "productId": 351,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-05-14T18:18:35.5828747+03:00"
+    },
+    {
+      "productId": 1238,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-03-04T19:30:36.0653879+02:00"
+    },
+    {
+      "productId": 480,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-02-07T07:05:32.0500322+02:00"
+    }
+  ]
+}

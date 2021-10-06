@@ -1,0 +1,31 @@
+{
+  "userId": 32738,
+  "cartId": "02d25e0d-8f01-4c54-9617-16e360d89033",
+  "preferredProducts": [
+    4636,
+    2931,
+    549
+  ],
+  "productReviews": [
+    {
+      "productId": 4224,
+      "reviewText": "this Facilitator is standard.",
+      "reviewDate": "2017-04-10T04:43:50.3520562+03:00"
+    },
+    {
+      "productId": 4480,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-04-04T12:53:12.0717601+03:00"
+    },
+    {
+      "productId": 1863,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-01-06T21:31:38.9201131+02:00"
+    },
+    {
+      "productId": 4538,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-02-24T18:44:00.3342598+02:00"
+    }
+  ]
+}

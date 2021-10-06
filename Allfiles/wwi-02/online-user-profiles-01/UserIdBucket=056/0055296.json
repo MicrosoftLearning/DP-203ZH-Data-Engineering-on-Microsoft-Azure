@@ -1,0 +1,36 @@
+{
+  "userId": 55296,
+  "cartId": "c7c44619-e020-41ea-bc9b-3840b79b42c5",
+  "preferredProducts": [
+    3101,
+    99,
+    1365
+  ],
+  "productReviews": [
+    {
+      "productId": 3788,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2016-10-17T04:31:06.4170928+03:00"
+    },
+    {
+      "productId": 2075,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-10-28T15:05:00.1425908+03:00"
+    },
+    {
+      "productId": 2638,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-11-11T08:10:02.3055538+02:00"
+    },
+    {
+      "productId": 44,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-12-22T13:26:06.1212317+02:00"
+    },
+    {
+      "productId": 1257,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-06-09T07:08:56.3052454+03:00"
+    }
+  ]
+}

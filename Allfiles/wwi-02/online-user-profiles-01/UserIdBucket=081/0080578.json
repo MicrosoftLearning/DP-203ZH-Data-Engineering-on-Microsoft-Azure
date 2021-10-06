@@ -1,0 +1,40 @@
+{
+  "userId": 80578,
+  "cartId": "b44df351-e3e6-4a57-9348-8b33624e3966",
+  "preferredProducts": [
+    3126,
+    4739,
+    1834,
+    2771,
+    1106,
+    2412,
+    1920
+  ],
+  "productReviews": [
+    {
+      "productId": 252,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-12-23T02:20:47.3141943+02:00"
+    },
+    {
+      "productId": 4373,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-11-14T17:47:58.9959079+02:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "This back-end works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-05-10T16:21:51.1977065+03:00"
+    },
+    {
+      "productId": 3165,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-10-23T11:43:51.2554659+03:00"
+    },
+    {
+      "productId": 4384,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-04-19T05:54:56.9002893+03:00"
+    }
+  ]
+}

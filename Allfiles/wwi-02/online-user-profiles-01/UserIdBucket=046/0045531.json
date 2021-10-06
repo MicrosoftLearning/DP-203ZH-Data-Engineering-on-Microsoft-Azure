@@ -1,0 +1,23 @@
+{
+  "userId": 45531,
+  "cartId": "9f0f9f06-8d27-44ee-a0ba-d8fcdf73ca0d",
+  "preferredProducts": [
+    4523,
+    574,
+    2931,
+    203,
+    653
+  ],
+  "productReviews": [
+    {
+      "productId": 2596,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-11-18T01:12:52.3383795+02:00"
+    },
+    {
+      "productId": 4640,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-04-24T07:00:21.3067013+03:00"
+    }
+  ]
+}

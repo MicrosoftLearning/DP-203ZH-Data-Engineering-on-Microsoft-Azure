@@ -1,0 +1,32 @@
+{
+  "userId": 11622,
+  "cartId": "7ad92456-9911-46c6-a116-86de3dd3e034",
+  "preferredProducts": [
+    111,
+    371,
+    3232,
+    4057
+  ],
+  "productReviews": [
+    {
+      "productId": 3130,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-09-21T02:42:39.3481794+03:00"
+    },
+    {
+      "productId": 3508,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-07-27T07:16:36.331625+03:00"
+    },
+    {
+      "productId": 2170,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2020-01-19T08:14:25.8465471+02:00"
+    },
+    {
+      "productId": 1465,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-12-29T15:09:52.0776853+02:00"
+    }
+  ]
+}

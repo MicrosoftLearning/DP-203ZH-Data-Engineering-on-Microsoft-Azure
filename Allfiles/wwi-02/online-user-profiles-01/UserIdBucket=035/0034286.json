@@ -1,0 +1,23 @@
+{
+  "userId": 34286,
+  "cartId": "de1c1466-b3b8-4ee5-b3bb-d282698b5c84",
+  "preferredProducts": [
+    2840,
+    3932,
+    4006,
+    3660,
+    309
+  ],
+  "productReviews": [
+    {
+      "productId": 1896,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-05-10T22:59:56.1218969+03:00"
+    },
+    {
+      "productId": 4412,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2017-09-23T07:03:07.5699751+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 71247,
+  "cartId": "1e5c940a-b393-47a7-af37-2234c461f959",
+  "preferredProducts": [
+    1310,
+    2478,
+    1050,
+    2156,
+    3203,
+    3825,
+    1222
+  ],
+  "productReviews": [
+    {
+      "productId": 4444,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-08-26T12:06:37.2934468+03:00"
+    },
+    {
+      "productId": 1225,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2016-11-09T05:57:21.8453637+02:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-03-26T16:15:46.8459756+03:00"
+    }
+  ]
+}

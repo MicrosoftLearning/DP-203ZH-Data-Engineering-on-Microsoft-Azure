@@ -1,0 +1,33 @@
+{
+  "userId": 78789,
+  "cartId": "9d905625-0ed6-4a56-8432-d5b5fed1ce56",
+  "preferredProducts": [
+    3790,
+    242,
+    96,
+    4315,
+    508
+  ],
+  "productReviews": [
+    {
+      "productId": 4369,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-05-10T08:01:19.6722831+03:00"
+    },
+    {
+      "productId": 2974,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-10-16T17:08:25.3886448+03:00"
+    },
+    {
+      "productId": 962,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-05-17T03:47:57.9939276+03:00"
+    },
+    {
+      "productId": 2291,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-07-22T04:47:46.1466679+03:00"
+    }
+  ]
+}

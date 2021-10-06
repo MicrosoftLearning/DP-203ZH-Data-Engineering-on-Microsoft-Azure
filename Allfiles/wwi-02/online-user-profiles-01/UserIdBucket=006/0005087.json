@@ -1,0 +1,38 @@
+{
+  "userId": 5087,
+  "cartId": "546b42e9-4078-4f38-8c36-4f6d734c5b05",
+  "preferredProducts": [
+    1753,
+    473,
+    3836,
+    1090,
+    2859,
+    985,
+    1779,
+    1437,
+    2807,
+    3168
+  ],
+  "productReviews": [
+    {
+      "productId": 4101,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-09-09T15:21:57.7485438+03:00"
+    },
+    {
+      "productId": 2687,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-05-26T13:00:58.1779583+03:00"
+    },
+    {
+      "productId": 1390,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-04-01T18:04:52.1383965+03:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2020-03-20T09:53:00.0194451+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 10995,
+  "cartId": "52dc899a-055f-4b44-878a-5038b243a603",
+  "preferredProducts": [
+    2782,
+    1485
+  ],
+  "productReviews": [
+    {
+      "productId": 1105,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-04-14T12:20:42.514644+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2016-09-02T23:25:53.0246098+03:00"
+    },
+    {
+      "productId": 4551,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-03-28T10:32:57.1704828+02:00"
+    },
+    {
+      "productId": 2779,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-03-07T18:22:35.9781733+02:00"
+    }
+  ]
+}

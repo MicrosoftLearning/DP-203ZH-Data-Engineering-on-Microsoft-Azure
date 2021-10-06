@@ -1,0 +1,29 @@
+{
+  "userId": 20848,
+  "cartId": "3a6fe204-f917-4162-bee8-1da4315e4355",
+  "preferredProducts": [
+    3673,
+    4785,
+    346,
+    769,
+    92,
+    4060
+  ],
+  "productReviews": [
+    {
+      "productId": 4008,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-12-18T00:46:35.0787378+02:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-12-29T16:23:22.8711054+02:00"
+    },
+    {
+      "productId": 1653,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-11-02T14:01:59.2319465+02:00"
+    }
+  ]
+}

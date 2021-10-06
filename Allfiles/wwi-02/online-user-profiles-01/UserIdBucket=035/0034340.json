@@ -1,0 +1,31 @@
+{
+  "userId": 34340,
+  "cartId": "8d907d9a-b53f-4d17-b30a-ece2cf65921c",
+  "preferredProducts": [
+    3286,
+    4373,
+    3320,
+    482,
+    858,
+    2548,
+    1708,
+    1532
+  ],
+  "productReviews": [
+    {
+      "productId": 1594,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-12-02T18:14:04.737102+02:00"
+    },
+    {
+      "productId": 143,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-08-03T21:38:09.0467239+03:00"
+    },
+    {
+      "productId": 4330,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-11-12T18:16:43.9343187+02:00"
+    }
+  ]
+}

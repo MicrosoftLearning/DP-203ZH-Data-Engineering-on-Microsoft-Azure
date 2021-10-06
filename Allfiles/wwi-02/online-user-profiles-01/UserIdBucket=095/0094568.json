@@ -1,0 +1,30 @@
+{
+  "userId": 94568,
+  "cartId": "e1d30bb8-af71-4f10-b778-eccafe4cf677",
+  "preferredProducts": [
+    4582,
+    777
+  ],
+  "productReviews": [
+    {
+      "productId": 2303,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-07-23T04:20:15.3898054+03:00"
+    },
+    {
+      "productId": 1552,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-09-30T12:51:49.3515667+03:00"
+    },
+    {
+      "productId": 2879,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-03-16T04:05:31.9236802+02:00"
+    },
+    {
+      "productId": 4632,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-05-01T03:27:02.8134162+03:00"
+    }
+  ]
+}

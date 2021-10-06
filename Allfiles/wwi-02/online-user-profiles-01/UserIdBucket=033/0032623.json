@@ -1,0 +1,30 @@
+{
+  "userId": 32623,
+  "cartId": "f42e05ac-6930-44d4-98af-04c87dd31985",
+  "preferredProducts": [
+    1381,
+    535,
+    4536,
+    2891,
+    2668,
+    4032,
+    3575
+  ],
+  "productReviews": [
+    {
+      "productId": 471,
+      "reviewText": "this local is revolting.",
+      "reviewDate": "2018-08-06T22:23:06.9922728+03:00"
+    },
+    {
+      "productId": 1151,
+      "reviewText": "this Mall is complimentary.",
+      "reviewDate": "2020-04-10T07:56:50.9532234+03:00"
+    },
+    {
+      "productId": 3657,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-10-30T19:12:37.2300516+02:00"
+    }
+  ]
+}

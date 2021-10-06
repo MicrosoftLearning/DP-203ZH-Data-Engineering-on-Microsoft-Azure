@@ -1,0 +1,26 @@
+{
+  "userId": 62398,
+  "cartId": "6e3e41e4-9a7f-495e-a09d-8e13ada134d4",
+  "preferredProducts": [
+    1019,
+    832,
+    4694,
+    2256,
+    1138,
+    3497,
+    229,
+    3170
+  ],
+  "productReviews": [
+    {
+      "productId": 961,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-04-09T03:09:10.8569288+03:00"
+    },
+    {
+      "productId": 2398,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-05-11T01:24:20.3758272+03:00"
+    }
+  ]
+}

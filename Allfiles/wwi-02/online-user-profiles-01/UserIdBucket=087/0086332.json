@@ -1,0 +1,30 @@
+{
+  "userId": 86332,
+  "cartId": "d8d8d073-dca1-492f-a836-a6feedc226d4",
+  "preferredProducts": [
+    1724,
+    2603
+  ],
+  "productReviews": [
+    {
+      "productId": 4611,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-06-25T03:21:39.6130562+03:00"
+    },
+    {
+      "productId": 188,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-04-26T03:27:55.1351935+03:00"
+    },
+    {
+      "productId": 891,
+      "reviewText": "this back-end is flirty.",
+      "reviewDate": "2016-08-31T07:50:18.3285489+03:00"
+    },
+    {
+      "productId": 1253,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-05-26T12:26:31.7104816+03:00"
+    }
+  ]
+}

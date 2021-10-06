@@ -1,0 +1,31 @@
+{
+  "userId": 23012,
+  "cartId": "6461e63a-09e0-4dba-ad8f-15ef5863f404",
+  "preferredProducts": [
+    3331,
+    2270,
+    2030
+  ],
+  "productReviews": [
+    {
+      "productId": 1476,
+      "reviewText": "this Practical is gracious.",
+      "reviewDate": "2018-05-01T18:14:41.4268161+03:00"
+    },
+    {
+      "productId": 1488,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-02-02T06:09:42.5296977+02:00"
+    },
+    {
+      "productId": 1329,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-05-18T15:07:49.8330439+03:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-12-23T00:01:11.3062365+02:00"
+    }
+  ]
+}

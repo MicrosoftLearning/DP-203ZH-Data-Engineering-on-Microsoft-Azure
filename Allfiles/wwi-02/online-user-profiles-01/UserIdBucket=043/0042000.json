@@ -1,0 +1,33 @@
+{
+  "userId": 42000,
+  "cartId": "d82fc84e-5086-4226-bf4d-c87d8f71a100",
+  "preferredProducts": [
+    274,
+    2966,
+    388,
+    3485,
+    750
+  ],
+  "productReviews": [
+    {
+      "productId": 1604,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-07-25T13:03:04.7659553+03:00"
+    },
+    {
+      "productId": 4202,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2020-05-09T11:48:18.7191631+03:00"
+    },
+    {
+      "productId": 3422,
+      "reviewText": "this IB is slurpee.",
+      "reviewDate": "2019-11-16T17:30:52.2682035+02:00"
+    },
+    {
+      "productId": 4107,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-12-25T19:31:00.7786177+02:00"
+    }
+  ]
+}

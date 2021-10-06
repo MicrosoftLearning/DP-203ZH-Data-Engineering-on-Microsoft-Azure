@@ -1,0 +1,34 @@
+{
+  "userId": 5368,
+  "cartId": "45f2445a-817a-4186-b425-74bc9822b6ff",
+  "preferredProducts": [
+    705,
+    2116,
+    1583,
+    197,
+    4384,
+    4342
+  ],
+  "productReviews": [
+    {
+      "productId": 3863,
+      "reviewText": "This enable, does exactly what it's suppose to do.",
+      "reviewDate": "2019-02-05T00:38:16.5162613+02:00"
+    },
+    {
+      "productId": 2561,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-11-27T11:38:45.2670248+02:00"
+    },
+    {
+      "productId": 997,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-07-16T15:40:08.4450055+03:00"
+    },
+    {
+      "productId": 3369,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-12-11T16:36:29.4850513+02:00"
+    }
+  ]
+}

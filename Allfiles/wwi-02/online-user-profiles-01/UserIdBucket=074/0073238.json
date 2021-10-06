@@ -1,0 +1,31 @@
+{
+  "userId": 73238,
+  "cartId": "6fd897a1-25f1-4ae6-9c23-ee4522d5b6fe",
+  "preferredProducts": [
+    4376,
+    646,
+    4142
+  ],
+  "productReviews": [
+    {
+      "productId": 2527,
+      "reviewText": "This firewall works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-08-31T07:28:41.9970055+03:00"
+    },
+    {
+      "productId": 3938,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-04-03T05:04:02.4666821+03:00"
+    },
+    {
+      "productId": 563,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-01-28T00:45:00.5876314+02:00"
+    },
+    {
+      "productId": 1422,
+      "reviewText": "this payment is revolting.",
+      "reviewDate": "2019-12-14T11:31:10.722849+02:00"
+    }
+  ]
+}

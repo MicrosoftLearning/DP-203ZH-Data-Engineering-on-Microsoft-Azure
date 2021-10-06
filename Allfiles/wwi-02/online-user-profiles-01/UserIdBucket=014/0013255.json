@@ -1,0 +1,32 @@
+{
+  "userId": 13255,
+  "cartId": "88f85edf-79d4-4b86-9634-c5b78e13bbbe",
+  "preferredProducts": [
+    4822,
+    501,
+    3657,
+    2518,
+    309,
+    2557,
+    4827,
+    3648,
+    482
+  ],
+  "productReviews": [
+    {
+      "productId": 1268,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-05T01:18:25.2505955+02:00"
+    },
+    {
+      "productId": 1059,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-08-09T08:21:33.3215198+03:00"
+    },
+    {
+      "productId": 826,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-23T14:55:21.7093655+03:00"
+    }
+  ]
+}

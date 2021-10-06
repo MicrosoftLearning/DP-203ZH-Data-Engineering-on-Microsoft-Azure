@@ -1,0 +1,25 @@
+{
+  "userId": 5235,
+  "cartId": "dba086e8-39d3-4be5-9764-5a3bcb3b4ccf",
+  "preferredProducts": [
+    189,
+    1683,
+    4584,
+    2004,
+    3010,
+    3731,
+    4753
+  ],
+  "productReviews": [
+    {
+      "productId": 1420,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-12-24T17:23:14.1844078+02:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-07-29T13:27:34.4330507+03:00"
+    }
+  ]
+}

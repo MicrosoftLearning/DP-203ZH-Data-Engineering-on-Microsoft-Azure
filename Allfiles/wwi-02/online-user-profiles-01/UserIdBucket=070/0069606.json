@@ -1,0 +1,23 @@
+{
+  "userId": 69606,
+  "cartId": "5ac4faca-129b-425b-b41c-5fec59f19526",
+  "preferredProducts": [
+    2780,
+    2462,
+    4142,
+    1411,
+    3241
+  ],
+  "productReviews": [
+    {
+      "productId": 4858,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-01-23T05:00:30.3983707+02:00"
+    },
+    {
+      "productId": 4243,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-05-18T14:48:59.4243808+03:00"
+    }
+  ]
+}

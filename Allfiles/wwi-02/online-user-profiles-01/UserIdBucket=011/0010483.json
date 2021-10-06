@@ -1,0 +1,31 @@
+{
+  "userId": 10483,
+  "cartId": "e7554fd5-4616-4a11-a1a5-3f9561babfdc",
+  "preferredProducts": [
+    79,
+    3934,
+    1459,
+    1506,
+    750,
+    675,
+    4069,
+    3028
+  ],
+  "productReviews": [
+    {
+      "productId": 4579,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-06-12T02:46:59.4556813+03:00"
+    },
+    {
+      "productId": 4610,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-10-31T13:50:40.8755193+02:00"
+    },
+    {
+      "productId": 1651,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-03-28T00:29:56.560275+03:00"
+    }
+  ]
+}

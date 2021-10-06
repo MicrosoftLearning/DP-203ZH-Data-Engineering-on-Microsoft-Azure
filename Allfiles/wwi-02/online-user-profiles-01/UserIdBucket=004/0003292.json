@@ -1,0 +1,28 @@
+{
+  "userId": 3292,
+  "cartId": "b3bdd029-ea70-451b-a31c-99dba1916459",
+  "preferredProducts": [
+    700,
+    3752,
+    2678,
+    4778,
+    951
+  ],
+  "productReviews": [
+    {
+      "productId": 1821,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-09-08T05:09:06.2708765+03:00"
+    },
+    {
+      "productId": 3035,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-03-13T14:44:18.3968+02:00"
+    },
+    {
+      "productId": 1833,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-11-26T18:59:03.3148711+02:00"
+    }
+  ]
+}

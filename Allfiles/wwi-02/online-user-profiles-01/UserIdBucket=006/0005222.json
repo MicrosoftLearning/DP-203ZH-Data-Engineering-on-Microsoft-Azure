@@ -1,0 +1,28 @@
+{
+  "userId": 5222,
+  "cartId": "a4b98f60-c421-4812-89b9-2f039b69aa96",
+  "preferredProducts": [
+    2225,
+    3386,
+    406,
+    750,
+    477
+  ],
+  "productReviews": [
+    {
+      "productId": 1214,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-12-04T02:46:07.6938177+02:00"
+    },
+    {
+      "productId": 2646,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2016-12-24T12:04:47.5102677+02:00"
+    },
+    {
+      "productId": 955,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-04-21T07:42:25.7371112+03:00"
+    }
+  ]
+}

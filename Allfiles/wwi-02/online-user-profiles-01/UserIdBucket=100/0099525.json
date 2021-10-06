@@ -1,0 +1,31 @@
+{
+  "userId": 99525,
+  "cartId": "5fd6a4bb-e9b5-4182-945c-1fd45ceb551b",
+  "preferredProducts": [
+    4376,
+    1609,
+    499
+  ],
+  "productReviews": [
+    {
+      "productId": 3833,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-02-19T19:19:04.8652265+02:00"
+    },
+    {
+      "productId": 4679,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-05-13T01:39:45.6350179+03:00"
+    },
+    {
+      "productId": 1006,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-09-06T00:35:08.716969+03:00"
+    },
+    {
+      "productId": 4949,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-08-09T10:09:43.5775911+03:00"
+    }
+  ]
+}

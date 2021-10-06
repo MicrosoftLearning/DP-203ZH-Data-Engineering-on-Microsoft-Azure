@@ -1,0 +1,33 @@
+{
+  "userId": 70084,
+  "cartId": "266b12bd-9dd7-4738-bf1f-a99b3b5b4244",
+  "preferredProducts": [
+    3608,
+    1306,
+    3237,
+    929,
+    2506
+  ],
+  "productReviews": [
+    {
+      "productId": 93,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-11-13T19:10:47.5672796+02:00"
+    },
+    {
+      "productId": 1901,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-06-28T22:44:30.4372724+03:00"
+    },
+    {
+      "productId": 3707,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-06-30T17:15:17.4330001+03:00"
+    },
+    {
+      "productId": 1205,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-05-24T01:31:06.7723989+03:00"
+    }
+  ]
+}

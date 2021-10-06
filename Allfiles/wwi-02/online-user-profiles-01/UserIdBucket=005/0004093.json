@@ -1,0 +1,28 @@
+{
+  "userId": 4093,
+  "cartId": "8e45e084-1530-4766-8740-786572ad00e0",
+  "preferredProducts": [
+    2352,
+    100,
+    693,
+    601,
+    2386
+  ],
+  "productReviews": [
+    {
+      "productId": 977,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-09-26T00:12:34.8576383+03:00"
+    },
+    {
+      "productId": 1459,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-05-16T15:54:42.743261+03:00"
+    },
+    {
+      "productId": 796,
+      "reviewText": "this Synergized is smooth.",
+      "reviewDate": "2018-03-20T06:29:42.3305859+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 2012,
+  "cartId": "7cbb2cf1-7e14-4ede-8164-30cfed9ae689",
+  "preferredProducts": [
+    2877,
+    990,
+    3875,
+    2852,
+    860
+  ],
+  "productReviews": [
+    {
+      "productId": 1397,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-10-09T19:33:45.0106395+03:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-05-15T06:08:05.9682132+03:00"
+    },
+    {
+      "productId": 4658,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-02-14T20:33:48.3569912+02:00"
+    },
+    {
+      "productId": 2792,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-05-25T00:22:56.6489959+03:00"
+    }
+  ]
+}

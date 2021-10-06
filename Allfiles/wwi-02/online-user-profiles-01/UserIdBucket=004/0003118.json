@@ -1,0 +1,31 @@
+{
+  "userId": 3118,
+  "cartId": "5051e687-f11d-4dd3-b992-1ebf6f99120f",
+  "preferredProducts": [
+    4888,
+    4545,
+    777,
+    2761,
+    1309,
+    1235,
+    3222,
+    1044
+  ],
+  "productReviews": [
+    {
+      "productId": 1887,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-04-04T07:53:49.6227966+03:00"
+    },
+    {
+      "productId": 150,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-08-14T00:15:40.7584158+03:00"
+    },
+    {
+      "productId": 667,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-01-22T14:25:12.8458424+02:00"
+    }
+  ]
+}

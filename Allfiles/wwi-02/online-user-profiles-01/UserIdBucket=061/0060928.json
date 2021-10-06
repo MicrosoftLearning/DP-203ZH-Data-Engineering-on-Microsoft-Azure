@@ -1,0 +1,28 @@
+{
+  "userId": 60928,
+  "cartId": "322a3b42-d508-42f9-99e3-6abbe2ceed11",
+  "preferredProducts": [
+    3123,
+    4087,
+    368,
+    2331,
+    853,
+    1899,
+    2010,
+    2886,
+    4798,
+    1719
+  ],
+  "productReviews": [
+    {
+      "productId": 3122,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-06-23T13:30:16.0938851+03:00"
+    },
+    {
+      "productId": 1890,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-04-28T12:07:02.083242+03:00"
+    }
+  ]
+}

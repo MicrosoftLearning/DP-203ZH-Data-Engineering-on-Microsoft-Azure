@@ -1,0 +1,38 @@
+{
+  "userId": 20564,
+  "cartId": "b501e005-4ebe-41cd-95e6-69dee2b0a489",
+  "preferredProducts": [
+    4708,
+    3006,
+    1062,
+    3251,
+    791,
+    2925,
+    4584,
+    954,
+    4360,
+    3985
+  ],
+  "productReviews": [
+    {
+      "productId": 459,
+      "reviewText": "this Central is slurpee.",
+      "reviewDate": "2016-11-18T00:43:10.5165938+02:00"
+    },
+    {
+      "productId": 2136,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-08-26T23:04:06.4198133+03:00"
+    },
+    {
+      "productId": 4986,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-01-26T22:57:06.0873551+02:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-07-29T13:43:21.4513846+03:00"
+    }
+  ]
+}

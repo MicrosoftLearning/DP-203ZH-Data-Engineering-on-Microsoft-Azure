@@ -1,0 +1,33 @@
+{
+  "userId": 44527,
+  "cartId": "eb80dbf2-4955-4acb-9030-5ac8cfebe083",
+  "preferredProducts": [
+    3272,
+    1470,
+    4291,
+    62,
+    317
+  ],
+  "productReviews": [
+    {
+      "productId": 1876,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-10-18T11:19:18.7581956+03:00"
+    },
+    {
+      "productId": 4505,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-05-08T20:37:02.6231009+03:00"
+    },
+    {
+      "productId": 416,
+      "reviewText": "this copying is nifty.",
+      "reviewDate": "2017-02-20T06:07:34.7229799+02:00"
+    },
+    {
+      "productId": 2741,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-06-01T16:38:18.0162682+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 67359,
+  "cartId": "def9d722-a52d-47c2-8166-5ad3424a4262",
+  "preferredProducts": [
+    4080,
+    4281,
+    214,
+    3117,
+    3705,
+    3794,
+    1882
+  ],
+  "productReviews": [
+    {
+      "productId": 2424,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-07-17T08:23:09.4543402+03:00"
+    },
+    {
+      "productId": 883,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-07-21T09:50:55.8139632+03:00"
+    }
+  ]
+}

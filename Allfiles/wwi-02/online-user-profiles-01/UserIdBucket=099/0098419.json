@@ -1,0 +1,35 @@
+{
+  "userId": 98419,
+  "cartId": "5c9c8c10-2108-496e-ab46-10f4d2deb908",
+  "preferredProducts": [
+    2819,
+    260,
+    4412,
+    3080,
+    4617,
+    827,
+    3866
+  ],
+  "productReviews": [
+    {
+      "productId": 4387,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-06-19T08:47:03.1359619+03:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-12-18T18:07:10.0709232+02:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-03-30T18:06:26.5892112+03:00"
+    },
+    {
+      "productId": 4493,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-09-15T03:39:09.5178326+03:00"
+    }
+  ]
+}

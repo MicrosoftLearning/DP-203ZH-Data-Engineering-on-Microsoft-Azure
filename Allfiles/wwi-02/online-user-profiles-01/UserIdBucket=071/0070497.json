@@ -1,0 +1,37 @@
+{
+  "userId": 70497,
+  "cartId": "95e2153b-7a4a-41b1-bc96-33434026f301",
+  "preferredProducts": [
+    3598,
+    1487,
+    4423,
+    4741,
+    2630,
+    2784,
+    2752,
+    3765,
+    1852
+  ],
+  "productReviews": [
+    {
+      "productId": 325,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-03-17T01:50:48.6379153+02:00"
+    },
+    {
+      "productId": 2446,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-10-04T03:40:36.9972419+03:00"
+    },
+    {
+      "productId": 583,
+      "reviewText": "This maroon works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-07-10T09:11:40.6015231+03:00"
+    },
+    {
+      "productId": 3671,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2016-10-08T03:17:16.9089662+03:00"
+    }
+  ]
+}

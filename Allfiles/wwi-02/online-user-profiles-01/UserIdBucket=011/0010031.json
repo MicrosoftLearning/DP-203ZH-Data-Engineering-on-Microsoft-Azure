@@ -1,0 +1,31 @@
+{
+  "userId": 10031,
+  "cartId": "af39bb7c-1c46-49d4-afc4-7689dc18c88c",
+  "preferredProducts": [
+    1490,
+    3374,
+    848,
+    3888,
+    1984,
+    4661,
+    228,
+    1895
+  ],
+  "productReviews": [
+    {
+      "productId": 2915,
+      "reviewText": "this Forward is tasty.",
+      "reviewDate": "2018-11-22T03:01:41.0314295+02:00"
+    },
+    {
+      "productId": 3196,
+      "reviewText": "This Incredible works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-10-05T21:43:48.763534+03:00"
+    },
+    {
+      "productId": 734,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-08-10T21:11:13.94558+03:00"
+    }
+  ]
+}

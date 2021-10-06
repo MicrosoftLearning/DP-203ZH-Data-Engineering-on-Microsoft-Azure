@@ -1,0 +1,30 @@
+{
+  "userId": 21003,
+  "cartId": "da346d38-a3f7-472e-9b3f-5448cde3371f",
+  "preferredProducts": [
+    2422,
+    2521,
+    592,
+    361,
+    2986,
+    1130,
+    2542
+  ],
+  "productReviews": [
+    {
+      "productId": 852,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-09-04T11:19:38.0900742+03:00"
+    },
+    {
+      "productId": 3229,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-06-05T19:28:26.6425428+03:00"
+    },
+    {
+      "productId": 675,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-10-09T16:26:58.5262632+03:00"
+    }
+  ]
+}

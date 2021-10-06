@@ -1,0 +1,30 @@
+{
+  "userId": 99208,
+  "cartId": "89c15555-4b94-4e99-a493-c916242f94a3",
+  "preferredProducts": [
+    1645,
+    4508,
+    4749,
+    617,
+    3021,
+    4860,
+    2179
+  ],
+  "productReviews": [
+    {
+      "productId": 4288,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-11-22T11:04:10.3813457+02:00"
+    },
+    {
+      "productId": 3991,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-05-20T03:16:44.8603949+03:00"
+    },
+    {
+      "productId": 4831,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-07-01T15:22:06.4297467+03:00"
+    }
+  ]
+}

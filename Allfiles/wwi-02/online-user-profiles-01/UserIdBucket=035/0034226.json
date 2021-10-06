@@ -1,0 +1,34 @@
+{
+  "userId": 34226,
+  "cartId": "568eb5e8-0768-400f-969a-5ba0ecdcc57e",
+  "preferredProducts": [
+    78,
+    3120,
+    1555,
+    1692,
+    3420,
+    620
+  ],
+  "productReviews": [
+    {
+      "productId": 3498,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-08-12T19:28:07.4368+03:00"
+    },
+    {
+      "productId": 1463,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-02-23T05:42:53.4419818+02:00"
+    },
+    {
+      "productId": 3499,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2020-02-07T22:17:15.306736+02:00"
+    },
+    {
+      "productId": 2124,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-01-14T17:48:43.9924347+02:00"
+    }
+  ]
+}

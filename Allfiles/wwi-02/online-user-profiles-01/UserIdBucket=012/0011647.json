@@ -1,0 +1,33 @@
+{
+  "userId": 11647,
+  "cartId": "d32473d6-91df-4e43-830f-b5f39c9623bf",
+  "preferredProducts": [
+    3695,
+    2397,
+    4354,
+    2265,
+    1035,
+    4068,
+    745,
+    529,
+    2774,
+    1042
+  ],
+  "productReviews": [
+    {
+      "productId": 389,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-01-01T15:56:12.157323+02:00"
+    },
+    {
+      "productId": 1363,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-07-11T02:32:05.7005114+03:00"
+    },
+    {
+      "productId": 4214,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-10-28T21:31:50.5203705+03:00"
+    }
+  ]
+}

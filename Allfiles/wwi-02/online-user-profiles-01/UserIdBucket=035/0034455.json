@@ -1,0 +1,29 @@
+{
+  "userId": 34455,
+  "cartId": "5e84530e-075f-44af-a8b3-08fd1d668d2c",
+  "preferredProducts": [
+    893,
+    2278,
+    1499,
+    2701,
+    4409,
+    1128
+  ],
+  "productReviews": [
+    {
+      "productId": 189,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2020-01-14T03:59:49.0664125+02:00"
+    },
+    {
+      "productId": 1681,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-06-02T01:55:28.9228149+03:00"
+    },
+    {
+      "productId": 1337,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-09-13T04:03:17.2545134+03:00"
+    }
+  ]
+}

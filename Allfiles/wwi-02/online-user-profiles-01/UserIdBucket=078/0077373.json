@@ -1,0 +1,35 @@
+{
+  "userId": 77373,
+  "cartId": "a2abd565-a0a6-4c8d-9ed3-e6af43005bfd",
+  "preferredProducts": [
+    1173,
+    4612,
+    2222,
+    1183,
+    1710,
+    4844,
+    2581
+  ],
+  "productReviews": [
+    {
+      "productId": 4057,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-01-12T17:31:20.5850915+02:00"
+    },
+    {
+      "productId": 2404,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2019-07-16T16:40:06.4227312+03:00"
+    },
+    {
+      "productId": 2477,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-08-11T21:14:44.4865025+03:00"
+    },
+    {
+      "productId": 447,
+      "reviewText": "This Harbor works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2016-09-20T03:39:29.3459358+03:00"
+    }
+  ]
+}

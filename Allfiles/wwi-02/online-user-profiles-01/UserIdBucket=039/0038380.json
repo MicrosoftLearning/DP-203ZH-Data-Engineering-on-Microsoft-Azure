@@ -1,0 +1,37 @@
+{
+  "userId": 38380,
+  "cartId": "faedab0b-94aa-4415-9258-4cdda3e77727",
+  "preferredProducts": [
+    2955,
+    2275,
+    4959,
+    368,
+    3757,
+    600,
+    1018,
+    700,
+    3132
+  ],
+  "productReviews": [
+    {
+      "productId": 4425,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-02-17T09:08:47.7622056+02:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-03-05T11:19:35.2949524+02:00"
+    },
+    {
+      "productId": 1257,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-07T10:26:02.6766549+03:00"
+    },
+    {
+      "productId": 4298,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-11-19T00:06:41.4518201+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 7494,
+  "cartId": "ab260f6f-ebb6-4425-af6e-a04e1c79fd8c",
+  "preferredProducts": [
+    1406,
+    2797,
+    2492,
+    1104,
+    1860
+  ],
+  "productReviews": [
+    {
+      "productId": 3741,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-08-02T20:07:50.114802+03:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-01-24T21:44:56.87106+02:00"
+    },
+    {
+      "productId": 2878,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-05-06T09:11:31.8722634+03:00"
+    },
+    {
+      "productId": 3405,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-02-19T06:47:56.5250693+02:00"
+    },
+    {
+      "productId": 1422,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-09-21T07:08:40.3211837+03:00"
+    }
+  ]
+}

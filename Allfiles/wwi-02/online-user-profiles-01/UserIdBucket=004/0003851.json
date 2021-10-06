@@ -1,0 +1,28 @@
+{
+  "userId": 3851,
+  "cartId": "ff7f269f-b535-422a-ba42-8c51932efa1e",
+  "preferredProducts": [
+    4600,
+    3299,
+    490,
+    3097,
+    2684
+  ],
+  "productReviews": [
+    {
+      "productId": 4265,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-10-03T10:20:31.412443+03:00"
+    },
+    {
+      "productId": 2903,
+      "reviewText": "this invoice is standard.",
+      "reviewDate": "2019-04-03T01:18:21.4234393+03:00"
+    },
+    {
+      "productId": 1201,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-06-14T00:19:48.5601814+03:00"
+    }
+  ]
+}

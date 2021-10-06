@@ -1,0 +1,25 @@
+{
+  "userId": 5213,
+  "cartId": "14d7fc98-005a-4ce3-8387-2d04382c1644",
+  "preferredProducts": [
+    2543,
+    2515
+  ],
+  "productReviews": [
+    {
+      "productId": 833,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-06-10T03:17:35.6153218+03:00"
+    },
+    {
+      "productId": 1167,
+      "reviewText": "this calculate is honest.",
+      "reviewDate": "2018-12-20T02:26:11.525887+02:00"
+    },
+    {
+      "productId": 2801,
+      "reviewText": "this panel is awesome.",
+      "reviewDate": "2019-08-29T14:47:54.7977408+03:00"
+    }
+  ]
+}

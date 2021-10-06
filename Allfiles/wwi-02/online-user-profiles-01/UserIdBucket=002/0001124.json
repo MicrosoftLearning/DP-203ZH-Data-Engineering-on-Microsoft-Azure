@@ -1,0 +1,30 @@
+{
+  "userId": 1124,
+  "cartId": "a2d7e05a-9656-4726-941f-1b0f26f7b738",
+  "preferredProducts": [
+    475,
+    4788,
+    1252,
+    4499,
+    4753,
+    2641,
+    1324
+  ],
+  "productReviews": [
+    {
+      "productId": 2365,
+      "reviewText": "this US Dollar is top-notch.",
+      "reviewDate": "2018-01-24T05:18:47.8540608+02:00"
+    },
+    {
+      "productId": 2807,
+      "reviewText": "This generating works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-10-10T12:09:33.0502748+03:00"
+    },
+    {
+      "productId": 1937,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-06-17T14:42:58.0252986+03:00"
+    }
+  ]
+}

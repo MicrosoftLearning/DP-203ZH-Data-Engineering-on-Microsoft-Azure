@@ -1,0 +1,41 @@
+{
+  "userId": 88056,
+  "cartId": "b689009a-eca6-4064-8559-013413946ff8",
+  "preferredProducts": [
+    4347,
+    4521,
+    365,
+    1847,
+    2977,
+    1395,
+    3225,
+    2399
+  ],
+  "productReviews": [
+    {
+      "productId": 2043,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-01-15T20:15:29.869834+02:00"
+    },
+    {
+      "productId": 1919,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-07-08T15:32:26.7939391+03:00"
+    },
+    {
+      "productId": 3668,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-09-21T04:50:21.6511666+03:00"
+    },
+    {
+      "productId": 2206,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-03-26T00:19:46.9152401+02:00"
+    },
+    {
+      "productId": 865,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-08-16T12:32:19.7363666+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 31135,
+  "cartId": "7f014888-ad4c-4409-bb47-19947c7e1d76",
+  "preferredProducts": [
+    1593,
+    842,
+    3384,
+    2
+  ],
+  "productReviews": [
+    {
+      "productId": 3518,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-08-22T23:36:51.2333965+03:00"
+    },
+    {
+      "productId": 4884,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-04-23T21:10:35.9331529+03:00"
+    },
+    {
+      "productId": 4680,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-03-07T11:20:29.9280807+02:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-07-26T00:41:08.5884425+03:00"
+    }
+  ]
+}

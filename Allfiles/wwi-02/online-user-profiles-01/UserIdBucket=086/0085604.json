@@ -1,0 +1,32 @@
+{
+  "userId": 85604,
+  "cartId": "561d3a24-8899-4852-bc08-6216569c0ac8",
+  "preferredProducts": [
+    1383,
+    4698,
+    2925,
+    3751
+  ],
+  "productReviews": [
+    {
+      "productId": 2499,
+      "reviewText": "this Architect is brown.",
+      "reviewDate": "2019-07-29T22:26:35.0542357+03:00"
+    },
+    {
+      "productId": 1836,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2020-04-14T18:08:38.0275432+03:00"
+    },
+    {
+      "productId": 127,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-09-13T21:17:13.8521816+03:00"
+    },
+    {
+      "productId": 514,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-11-25T17:50:42.6236347+02:00"
+    }
+  ]
+}

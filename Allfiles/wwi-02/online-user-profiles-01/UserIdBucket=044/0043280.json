@@ -1,0 +1,33 @@
+{
+  "userId": 43280,
+  "cartId": "34acb253-f3e7-43ab-9171-9f21e317cad2",
+  "preferredProducts": [
+    1221,
+    2439,
+    748,
+    1274,
+    4258,
+    2657,
+    3147,
+    1381,
+    1655,
+    4355
+  ],
+  "productReviews": [
+    {
+      "productId": 2043,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-10-16T09:26:00.095418+03:00"
+    },
+    {
+      "productId": 3138,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-03-18T20:07:51.6258088+02:00"
+    },
+    {
+      "productId": 4262,
+      "reviewText": "This ADP works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-11-07T03:50:05.9367486+02:00"
+    }
+  ]
+}

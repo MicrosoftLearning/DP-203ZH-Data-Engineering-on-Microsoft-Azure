@@ -1,0 +1,40 @@
+{
+  "userId": 53605,
+  "cartId": "dde70a5e-8834-4e84-a223-5ca3274e95e0",
+  "preferredProducts": [
+    2560,
+    3361,
+    1608,
+    1513,
+    4581,
+    4830,
+    1354
+  ],
+  "productReviews": [
+    {
+      "productId": 459,
+      "reviewText": "this standardization is nifty.",
+      "reviewDate": "2017-08-17T14:06:55.2978933+03:00"
+    },
+    {
+      "productId": 3802,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2016-05-22T16:56:27.9081115+03:00"
+    },
+    {
+      "productId": 3471,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-12-13T13:09:24.2940139+02:00"
+    },
+    {
+      "productId": 4727,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-04-28T11:18:03.1151265+03:00"
+    },
+    {
+      "productId": 1908,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-04-30T12:51:19.9332561+03:00"
+    }
+  ]
+}

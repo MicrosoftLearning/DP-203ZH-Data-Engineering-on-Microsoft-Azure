@@ -1,0 +1,32 @@
+{
+  "userId": 88141,
+  "cartId": "d7319d3c-fee2-4fb1-ac39-778a20ae06fe",
+  "preferredProducts": [
+    4092,
+    3958,
+    2924,
+    1482
+  ],
+  "productReviews": [
+    {
+      "productId": 347,
+      "reviewText": "This XSS works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-03-28T10:55:52.2599664+03:00"
+    },
+    {
+      "productId": 4425,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-02-13T00:45:46.592284+02:00"
+    },
+    {
+      "productId": 4745,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-10-03T21:18:59.9019418+03:00"
+    },
+    {
+      "productId": 1001,
+      "reviewText": "this attitude-oriented is dominant.",
+      "reviewDate": "2017-09-06T12:11:03.6349091+03:00"
+    }
+  ]
+}

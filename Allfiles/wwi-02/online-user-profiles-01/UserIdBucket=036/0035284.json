@@ -1,0 +1,27 @@
+{
+  "userId": 35284,
+  "cartId": "9529fa67-60a0-45ac-b5a2-9539b0cee78b",
+  "preferredProducts": [
+    3278,
+    544,
+    785,
+    640
+  ],
+  "productReviews": [
+    {
+      "productId": 4771,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-01-25T13:31:03.2283653+02:00"
+    },
+    {
+      "productId": 3559,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-09-22T23:17:01.3996726+03:00"
+    },
+    {
+      "productId": 4708,
+      "reviewText": "This sensor works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-05-16T20:25:01.0429748+03:00"
+    }
+  ]
+}

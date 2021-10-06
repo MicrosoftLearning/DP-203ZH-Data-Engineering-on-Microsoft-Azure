@@ -1,0 +1,37 @@
+{
+  "userId": 1467,
+  "cartId": "08b9823d-0432-4d87-aded-12e52964f262",
+  "preferredProducts": [
+    958,
+    2982,
+    3057,
+    3719,
+    3789,
+    1251,
+    3806,
+    3757,
+    350
+  ],
+  "productReviews": [
+    {
+      "productId": 4816,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-09-19T18:11:13.2294572+03:00"
+    },
+    {
+      "productId": 1816,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-08-26T09:09:48.7574885+03:00"
+    },
+    {
+      "productId": 832,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-05-15T07:37:29.3206679+03:00"
+    },
+    {
+      "productId": 835,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-02-09T06:37:55.0828042+02:00"
+    }
+  ]
+}

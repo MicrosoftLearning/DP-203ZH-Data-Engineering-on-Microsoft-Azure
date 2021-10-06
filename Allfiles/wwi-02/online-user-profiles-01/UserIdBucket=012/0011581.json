@@ -1,0 +1,25 @@
+{
+  "userId": 11581,
+  "cartId": "6acedaee-4e0e-4d1f-9620-37a0e0dee47e",
+  "preferredProducts": [
+    259,
+    3044
+  ],
+  "productReviews": [
+    {
+      "productId": 1178,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-10-14T07:17:54.5554614+03:00"
+    },
+    {
+      "productId": 1610,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-08-09T04:42:01.9696634+03:00"
+    },
+    {
+      "productId": 2622,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-02-28T04:54:01.5775522+02:00"
+    }
+  ]
+}

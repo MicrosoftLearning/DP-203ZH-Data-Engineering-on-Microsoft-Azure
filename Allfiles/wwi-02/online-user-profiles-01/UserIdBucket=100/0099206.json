@@ -1,0 +1,36 @@
+{
+  "userId": 99206,
+  "cartId": "9ba1c7e0-3420-41ee-88e4-7e05ad3ae1dd",
+  "preferredProducts": [
+    273,
+    2331,
+    2785,
+    557,
+    4343,
+    1227,
+    4936,
+    4959
+  ],
+  "productReviews": [
+    {
+      "productId": 1682,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-12-06T20:10:42.5891171+02:00"
+    },
+    {
+      "productId": 4236,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-02-28T18:22:26.6037601+02:00"
+    },
+    {
+      "productId": 4830,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-08-08T21:57:40.5169892+03:00"
+    },
+    {
+      "productId": 2614,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-05-26T21:48:25.7559294+03:00"
+    }
+  ]
+}

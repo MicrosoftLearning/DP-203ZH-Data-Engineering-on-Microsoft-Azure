@@ -1,0 +1,38 @@
+{
+  "userId": 7285,
+  "cartId": "193cb285-f158-46a2-abd6-75f5853d49d1",
+  "preferredProducts": [
+    3247,
+    2891,
+    2162,
+    3622,
+    1560,
+    4487,
+    1489,
+    2170,
+    3372,
+    1825
+  ],
+  "productReviews": [
+    {
+      "productId": 4777,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-10-29T13:42:29.7824952+03:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-09-12T16:44:44.5299208+03:00"
+    },
+    {
+      "productId": 2384,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-12-30T07:31:25.0563142+02:00"
+    },
+    {
+      "productId": 951,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-05-08T00:57:42.5869312+03:00"
+    }
+  ]
+}

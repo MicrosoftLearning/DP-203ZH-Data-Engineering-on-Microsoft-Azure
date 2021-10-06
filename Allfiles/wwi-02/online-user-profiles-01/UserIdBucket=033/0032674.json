@@ -1,0 +1,33 @@
+{
+  "userId": 32674,
+  "cartId": "aa6df841-4511-4cc8-94b3-c69a05b518cf",
+  "preferredProducts": [
+    2390,
+    1922,
+    4984,
+    4441,
+    2941
+  ],
+  "productReviews": [
+    {
+      "productId": 4077,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-05-10T17:07:18.8648372+03:00"
+    },
+    {
+      "productId": 1173,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-10-01T08:39:02.1155014+03:00"
+    },
+    {
+      "productId": 1667,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-07-21T19:33:30.7965156+03:00"
+    },
+    {
+      "productId": 3329,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-05-09T04:27:16.5996096+03:00"
+    }
+  ]
+}

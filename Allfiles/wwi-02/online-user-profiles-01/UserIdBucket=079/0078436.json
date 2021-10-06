@@ -1,0 +1,39 @@
+{
+  "userId": 78436,
+  "cartId": "51fdf47c-1031-4d8c-839b-36f06faaeeeb",
+  "preferredProducts": [
+    3165,
+    570,
+    1098,
+    897,
+    3442,
+    515
+  ],
+  "productReviews": [
+    {
+      "productId": 4955,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-04-02T18:16:35.9657561+03:00"
+    },
+    {
+      "productId": 4291,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-04-28T18:42:27.4789103+03:00"
+    },
+    {
+      "productId": 2703,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-12-15T07:25:34.5538183+02:00"
+    },
+    {
+      "productId": 1178,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-04-30T02:41:06.4082914+03:00"
+    },
+    {
+      "productId": 1533,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-12-21T23:40:09.8174676+02:00"
+    }
+  ]
+}

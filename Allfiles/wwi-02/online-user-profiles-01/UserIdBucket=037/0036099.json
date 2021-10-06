@@ -1,0 +1,26 @@
+{
+  "userId": 36099,
+  "cartId": "02e568fc-a430-4dd5-834b-86bc4d714035",
+  "preferredProducts": [
+    3966,
+    3515,
+    1846
+  ],
+  "productReviews": [
+    {
+      "productId": 3921,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-12-12T11:15:45.4889922+02:00"
+    },
+    {
+      "productId": 4154,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-11-01T20:20:12.2642653+02:00"
+    },
+    {
+      "productId": 3663,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Divide keeps them away.",
+      "reviewDate": "2018-10-20T09:59:06.421322+03:00"
+    }
+  ]
+}

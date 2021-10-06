@@ -1,0 +1,26 @@
+{
+  "userId": 42528,
+  "cartId": "55c3c125-7d9f-4b14-b6da-58cb37f210ba",
+  "preferredProducts": [
+    4588,
+    2616,
+    754,
+    2536,
+    167,
+    1537,
+    3466,
+    4713
+  ],
+  "productReviews": [
+    {
+      "productId": 799,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-01-17T12:37:08.6375204+02:00"
+    },
+    {
+      "productId": 3088,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2016-07-20T13:02:35.1198171+03:00"
+    }
+  ]
+}

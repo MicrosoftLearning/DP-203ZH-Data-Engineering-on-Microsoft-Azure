@@ -1,0 +1,27 @@
+{
+  "userId": 42115,
+  "cartId": "1b14983c-eba3-4345-95ac-31e03203412e",
+  "preferredProducts": [
+    1596,
+    1621,
+    2649,
+    3949,
+    1646,
+    4945,
+    1583,
+    2184,
+    3731
+  ],
+  "productReviews": [
+    {
+      "productId": 2976,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-11-25T08:36:36.0349274+02:00"
+    },
+    {
+      "productId": 4840,
+      "reviewText": "this withdrawal is complimentary.",
+      "reviewDate": "2018-09-29T01:53:05.2533224+03:00"
+    }
+  ]
+}

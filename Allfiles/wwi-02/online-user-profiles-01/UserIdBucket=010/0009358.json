@@ -1,0 +1,32 @@
+{
+  "userId": 9358,
+  "cartId": "97713867-9b94-440c-a485-e5d2d0400500",
+  "preferredProducts": [
+    4749,
+    1512,
+    2191,
+    1375,
+    1725,
+    2747,
+    2246,
+    892,
+    1189
+  ],
+  "productReviews": [
+    {
+      "productId": 3605,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-09-24T00:42:50.7247667+03:00"
+    },
+    {
+      "productId": 4126,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-02-21T15:48:18.3905457+02:00"
+    },
+    {
+      "productId": 2617,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-11-30T02:20:28.0715779+02:00"
+    }
+  ]
+}

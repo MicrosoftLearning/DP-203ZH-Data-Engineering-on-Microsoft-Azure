@@ -1,0 +1,36 @@
+{
+  "userId": 75901,
+  "cartId": "30ddf507-0098-4c8d-bd8e-d9dec3840d07",
+  "preferredProducts": [
+    3034,
+    3313,
+    2896
+  ],
+  "productReviews": [
+    {
+      "productId": 1207,
+      "reviewText": "this XML is snowy.",
+      "reviewDate": "2017-03-14T14:00:15.1669483+02:00"
+    },
+    {
+      "productId": 331,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-12-29T19:30:21.1167318+02:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-09-10T16:40:05.0445858+03:00"
+    },
+    {
+      "productId": 3016,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-06-13T08:36:29.4223579+03:00"
+    },
+    {
+      "productId": 302,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-11-22T03:33:08.8510672+02:00"
+    }
+  ]
+}

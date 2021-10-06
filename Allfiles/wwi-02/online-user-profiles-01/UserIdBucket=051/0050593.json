@@ -1,0 +1,27 @@
+{
+  "userId": 50593,
+  "cartId": "f6facae6-e4db-49b4-873a-e8369a3cf97e",
+  "preferredProducts": [
+    4494,
+    2057,
+    4740,
+    183,
+    3295,
+    2149,
+    1914,
+    1750,
+    3358
+  ],
+  "productReviews": [
+    {
+      "productId": 1094,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-02-10T21:14:52.1744131+02:00"
+    },
+    {
+      "productId": 4093,
+      "reviewText": "this functionalities is awesome.",
+      "reviewDate": "2016-12-15T10:58:56.3456051+02:00"
+    }
+  ]
+}

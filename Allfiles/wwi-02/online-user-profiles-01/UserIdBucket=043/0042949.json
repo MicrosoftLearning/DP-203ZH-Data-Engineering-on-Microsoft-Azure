@@ -1,0 +1,26 @@
+{
+  "userId": 42949,
+  "cartId": "60dced94-41c6-4d34-a0fa-16347c764e6b",
+  "preferredProducts": [
+    3481,
+    1114,
+    2874,
+    1660,
+    1362,
+    2626,
+    1934,
+    1159
+  ],
+  "productReviews": [
+    {
+      "productId": 4975,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-12-24T11:29:02.9762523+02:00"
+    },
+    {
+      "productId": 3660,
+      "reviewText": "this Incredible Fresh Ball is tasty.",
+      "reviewDate": "2019-09-04T21:41:05.6786017+03:00"
+    }
+  ]
+}

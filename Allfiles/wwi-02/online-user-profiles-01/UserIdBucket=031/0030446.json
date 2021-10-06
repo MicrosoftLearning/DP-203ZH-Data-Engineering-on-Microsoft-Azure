@@ -1,0 +1,25 @@
+{
+  "userId": 30446,
+  "cartId": "4dff06de-cdb7-4f03-bc6f-506b28f8ffed",
+  "preferredProducts": [
+    415,
+    1208
+  ],
+  "productReviews": [
+    {
+      "productId": 1945,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-06-23T04:01:52.3555571+03:00"
+    },
+    {
+      "productId": 1313,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-05-02T13:01:33.8856789+03:00"
+    },
+    {
+      "productId": 2181,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-02-06T13:22:56.4261414+02:00"
+    }
+  ]
+}

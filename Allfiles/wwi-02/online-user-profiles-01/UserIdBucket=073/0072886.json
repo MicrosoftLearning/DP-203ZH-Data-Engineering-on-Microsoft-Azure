@@ -1,0 +1,30 @@
+{
+  "userId": 72886,
+  "cartId": "802bd4d2-b1d9-4d8f-849d-6d85c4515990",
+  "preferredProducts": [
+    1412,
+    2343
+  ],
+  "productReviews": [
+    {
+      "productId": 4553,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-10-27T23:03:44.4932126+03:00"
+    },
+    {
+      "productId": 3809,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-12-03T16:10:19.1960504+02:00"
+    },
+    {
+      "productId": 1979,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-10-19T13:23:34.981513+03:00"
+    },
+    {
+      "productId": 3026,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-06-12T22:50:08.1140294+03:00"
+    }
+  ]
+}

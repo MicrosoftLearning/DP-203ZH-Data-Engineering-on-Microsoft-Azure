@@ -1,0 +1,27 @@
+{
+  "userId": 5935,
+  "cartId": "8c23f854-e07a-4a7d-a1b6-ff35ee1a8513",
+  "preferredProducts": [
+    389,
+    4640,
+    690,
+    2670
+  ],
+  "productReviews": [
+    {
+      "productId": 4995,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-04-04T21:44:36.7694608+03:00"
+    },
+    {
+      "productId": 3600,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-05-31T22:46:15.3091793+03:00"
+    },
+    {
+      "productId": 678,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-12-14T02:09:49.3611043+02:00"
+    }
+  ]
+}

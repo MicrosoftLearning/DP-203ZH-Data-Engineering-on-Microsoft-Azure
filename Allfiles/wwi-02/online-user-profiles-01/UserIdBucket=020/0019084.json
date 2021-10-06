@@ -1,0 +1,30 @@
+{
+  "userId": 19084,
+  "cartId": "22c47ea2-264d-4bf8-a1d6-ed6d01e12d9d",
+  "preferredProducts": [
+    4546,
+    4758,
+    661,
+    4162,
+    2649,
+    516,
+    3573
+  ],
+  "productReviews": [
+    {
+      "productId": 2066,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-02-22T06:41:14.4049018+02:00"
+    },
+    {
+      "productId": 3266,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-12-30T18:49:17.1904897+02:00"
+    },
+    {
+      "productId": 257,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-02-21T10:06:35.1786525+02:00"
+    }
+  ]
+}

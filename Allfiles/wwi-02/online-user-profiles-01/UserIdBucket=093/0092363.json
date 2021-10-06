@@ -1,0 +1,34 @@
+{
+  "userId": 92363,
+  "cartId": "5aaf66f4-be65-4394-a49a-ff830ef887bd",
+  "preferredProducts": [
+    1494,
+    1531,
+    2191,
+    927,
+    1035,
+    1303
+  ],
+  "productReviews": [
+    {
+      "productId": 550,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-02-09T12:07:34.7309637+02:00"
+    },
+    {
+      "productId": 1663,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-08-05T06:05:20.6595086+03:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-10-29T11:28:49.0703216+02:00"
+    },
+    {
+      "productId": 3226,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-11-28T17:04:53.2833933+02:00"
+    }
+  ]
+}

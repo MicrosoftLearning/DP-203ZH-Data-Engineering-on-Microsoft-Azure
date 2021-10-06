@@ -1,0 +1,26 @@
+{
+  "userId": 17605,
+  "cartId": "885d8318-9d81-41b4-8061-ae38bc13217a",
+  "preferredProducts": [
+    650,
+    3110,
+    1590
+  ],
+  "productReviews": [
+    {
+      "productId": 2501,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-01-08T09:42:36.230056+02:00"
+    },
+    {
+      "productId": 449,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-01-20T04:13:01.1120936+02:00"
+    },
+    {
+      "productId": 1488,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-02-13T10:00:12.546935+02:00"
+    }
+  ]
+}

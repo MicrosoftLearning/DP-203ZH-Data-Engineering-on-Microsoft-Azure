@@ -1,0 +1,35 @@
+{
+  "userId": 121,
+  "cartId": "4ed38eea-9d9d-4382-baf9-ac99e088de30",
+  "preferredProducts": [
+    966,
+    3780,
+    1714,
+    1364,
+    2027,
+    2598,
+    2422
+  ],
+  "productReviews": [
+    {
+      "productId": 270,
+      "reviewText": "this Berkshire is gracious.",
+      "reviewDate": "2020-02-21T22:40:56.0279113+02:00"
+    },
+    {
+      "productId": 3720,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-07-17T08:37:56.6326467+03:00"
+    },
+    {
+      "productId": 1344,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-06-13T23:38:12.3461716+03:00"
+    },
+    {
+      "productId": 1208,
+      "reviewText": "this enhance is awesome.",
+      "reviewDate": "2019-09-22T19:36:17.7723543+03:00"
+    }
+  ]
+}

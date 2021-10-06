@@ -1,0 +1,38 @@
+{
+  "userId": 76987,
+  "cartId": "41abc082-f368-4344-b35d-f3670e80f2a6",
+  "preferredProducts": [
+    1024,
+    28,
+    1567,
+    1331,
+    1389,
+    4482,
+    1795,
+    4622,
+    1754,
+    4343
+  ],
+  "productReviews": [
+    {
+      "productId": 3384,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-04-06T11:03:42.6739174+03:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-03-07T14:17:04.2294768+02:00"
+    },
+    {
+      "productId": 4081,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-12-05T10:19:06.7062382+02:00"
+    },
+    {
+      "productId": 3791,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-07-19T12:34:35.7731979+03:00"
+    }
+  ]
+}

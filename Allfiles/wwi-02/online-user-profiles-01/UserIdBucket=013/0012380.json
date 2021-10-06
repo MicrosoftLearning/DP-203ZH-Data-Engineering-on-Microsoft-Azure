@@ -1,0 +1,41 @@
+{
+  "userId": 12380,
+  "cartId": "e77cb323-556a-43af-9e9b-b0f2c3d1d89e",
+  "preferredProducts": [
+    4703,
+    2041,
+    619,
+    221,
+    255,
+    2391,
+    2803,
+    2037
+  ],
+  "productReviews": [
+    {
+      "productId": 2116,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-04-15T19:42:17.2432954+03:00"
+    },
+    {
+      "productId": 151,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-08-02T21:16:01.8927424+03:00"
+    },
+    {
+      "productId": 649,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-01-16T10:33:24.5825341+02:00"
+    },
+    {
+      "productId": 4636,
+      "reviewText": "this withdrawal is whole-grain.",
+      "reviewDate": "2017-04-09T18:45:56.517059+03:00"
+    },
+    {
+      "productId": 3732,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-04-09T11:46:53.0946715+03:00"
+    }
+  ]
+}

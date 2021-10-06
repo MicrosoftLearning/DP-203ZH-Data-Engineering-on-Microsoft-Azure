@@ -1,0 +1,35 @@
+{
+  "userId": 11159,
+  "cartId": "f8731def-736d-486a-a0fa-c90b7ffb159e",
+  "preferredProducts": [
+    3941,
+    3383
+  ],
+  "productReviews": [
+    {
+      "productId": 1928,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-11-06T07:27:36.4322634+02:00"
+    },
+    {
+      "productId": 2381,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-09-03T08:03:52.7663173+03:00"
+    },
+    {
+      "productId": 3684,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-09-28T07:52:55.6081498+03:00"
+    },
+    {
+      "productId": 3968,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-08-30T07:40:47.9204889+03:00"
+    },
+    {
+      "productId": 1942,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-10-04T09:50:38.6032139+03:00"
+    }
+  ]
+}

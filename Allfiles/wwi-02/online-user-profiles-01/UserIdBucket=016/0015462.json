@@ -1,0 +1,21 @@
+{
+  "userId": 15462,
+  "cartId": "277c4deb-1fec-4a65-913f-fb908d18d709",
+  "preferredProducts": [
+    4911,
+    589,
+    1661,
+    4173,
+    2980,
+    2495,
+    4022,
+    1942
+  ],
+  "productReviews": [
+    {
+      "productId": 1971,
+      "reviewText": "this XSS is mellow.",
+      "reviewDate": "2018-07-27T03:45:04.5515579+03:00"
+    }
+  ]
+}

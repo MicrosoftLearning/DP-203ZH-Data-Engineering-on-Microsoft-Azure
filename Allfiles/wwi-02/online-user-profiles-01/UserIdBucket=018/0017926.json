@@ -1,0 +1,40 @@
+{
+  "userId": 17926,
+  "cartId": "211b8293-975c-4a59-a737-fa3506a23e3f",
+  "preferredProducts": [
+    339,
+    4347,
+    2206,
+    1703,
+    2117,
+    3134,
+    1824
+  ],
+  "productReviews": [
+    {
+      "productId": 750,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-04-03T10:27:02.588228+03:00"
+    },
+    {
+      "productId": 3241,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-12-13T04:10:15.4978197+02:00"
+    },
+    {
+      "productId": 4638,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-10-05T12:37:43.9090269+03:00"
+    },
+    {
+      "productId": 813,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-09-04T03:11:17.445524+03:00"
+    },
+    {
+      "productId": 4406,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-05-18T06:29:29.7920124+03:00"
+    }
+  ]
+}

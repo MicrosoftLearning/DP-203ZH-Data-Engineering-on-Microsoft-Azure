@@ -1,0 +1,32 @@
+{
+  "userId": 42929,
+  "cartId": "35a42ea7-0fe2-4e7e-b71c-9ed28e47c341",
+  "preferredProducts": [
+    4346,
+    716,
+    2445,
+    1237,
+    2872,
+    4752,
+    4308,
+    1358,
+    523
+  ],
+  "productReviews": [
+    {
+      "productId": 2246,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-12-17T13:56:36.2910202+02:00"
+    },
+    {
+      "productId": 3469,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-05-12T14:21:37.3021647+03:00"
+    },
+    {
+      "productId": 4253,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-10-16T09:42:19.8840628+03:00"
+    }
+  ]
+}

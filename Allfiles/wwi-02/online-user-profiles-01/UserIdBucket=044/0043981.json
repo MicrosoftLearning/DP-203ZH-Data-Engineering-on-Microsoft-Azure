@@ -1,0 +1,38 @@
+{
+  "userId": 43981,
+  "cartId": "8f3b2019-fee1-42db-a273-2b3f3bf9a470",
+  "preferredProducts": [
+    3556,
+    1419,
+    2266,
+    2986,
+    3648,
+    1106,
+    1481,
+    3468,
+    1268,
+    2946
+  ],
+  "productReviews": [
+    {
+      "productId": 4433,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-09-08T14:09:08.145701+03:00"
+    },
+    {
+      "productId": 1582,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-04-25T09:16:07.8789212+03:00"
+    },
+    {
+      "productId": 1136,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-09-06T06:54:06.1767619+03:00"
+    },
+    {
+      "productId": 185,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-08-15T14:04:53.2538006+03:00"
+    }
+  ]
+}

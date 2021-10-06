@@ -1,0 +1,31 @@
+{
+  "userId": 5642,
+  "cartId": "1329bfd3-8977-4f2f-b521-032b72585eaa",
+  "preferredProducts": [
+    2109,
+    2563,
+    3760
+  ],
+  "productReviews": [
+    {
+      "productId": 3361,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-01-19T10:29:31.3356114+02:00"
+    },
+    {
+      "productId": 670,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-12-19T11:19:12.4633072+02:00"
+    },
+    {
+      "productId": 2528,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-08-18T13:51:55.6663524+03:00"
+    },
+    {
+      "productId": 778,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-06-24T07:48:30.4497282+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 99001,
+  "cartId": "d19261ed-a21d-4589-b2ab-e2c56c105324",
+  "preferredProducts": [
+    2457,
+    1479
+  ],
+  "productReviews": [
+    {
+      "productId": 3872,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-05-17T19:16:31.4921932+03:00"
+    },
+    {
+      "productId": 4946,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-11-19T02:10:20.6658565+02:00"
+    },
+    {
+      "productId": 451,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-01-05T17:56:10.1832605+02:00"
+    },
+    {
+      "productId": 1424,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-02-15T21:42:58.7964812+02:00"
+    }
+  ]
+}

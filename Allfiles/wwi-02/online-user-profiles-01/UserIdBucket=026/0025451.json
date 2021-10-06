@@ -1,0 +1,31 @@
+{
+  "userId": 25451,
+  "cartId": "fc962cf0-35a9-4f06-86ce-9d55ccc59b49",
+  "preferredProducts": [
+    4224,
+    4356,
+    3175,
+    1455,
+    2602,
+    4288,
+    1098,
+    2226
+  ],
+  "productReviews": [
+    {
+      "productId": 689,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-08-10T06:24:17.6164215+03:00"
+    },
+    {
+      "productId": 2362,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-10-22T14:24:02.6788624+03:00"
+    },
+    {
+      "productId": 2115,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-06-27T21:14:41.2399852+03:00"
+    }
+  ]
+}

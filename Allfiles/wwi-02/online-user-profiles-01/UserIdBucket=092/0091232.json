@@ -1,0 +1,25 @@
+{
+  "userId": 91232,
+  "cartId": "16061ac6-e984-4d54-9ab0-165eecd3b673",
+  "preferredProducts": [
+    3123,
+    3631
+  ],
+  "productReviews": [
+    {
+      "productId": 1804,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-05-09T04:41:18.0631648+03:00"
+    },
+    {
+      "productId": 3595,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-11-06T06:16:30.5519305+02:00"
+    },
+    {
+      "productId": 2324,
+      "reviewText": "This collaborative works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-11-09T10:34:07.694856+02:00"
+    }
+  ]
+}

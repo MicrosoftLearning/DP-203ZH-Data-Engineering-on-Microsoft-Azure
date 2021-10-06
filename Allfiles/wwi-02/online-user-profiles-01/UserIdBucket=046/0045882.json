@@ -1,0 +1,28 @@
+{
+  "userId": 45882,
+  "cartId": "4c2e1838-a9e3-49c7-91a8-f65aa9495085",
+  "preferredProducts": [
+    1397,
+    2260,
+    3900,
+    466,
+    586
+  ],
+  "productReviews": [
+    {
+      "productId": 952,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-11-21T12:31:51.3739537+02:00"
+    },
+    {
+      "productId": 2467,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-11-07T09:00:42.1700954+02:00"
+    },
+    {
+      "productId": 4857,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2020-02-04T03:45:43.2529246+02:00"
+    }
+  ]
+}

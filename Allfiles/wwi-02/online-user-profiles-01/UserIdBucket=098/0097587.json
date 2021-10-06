@@ -1,0 +1,31 @@
+{
+  "userId": 97587,
+  "cartId": "f6487723-360f-4f82-88c9-99adc69cb252",
+  "preferredProducts": [
+    768,
+    3149,
+    4243
+  ],
+  "productReviews": [
+    {
+      "productId": 145,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-05T16:01:08.4974032+03:00"
+    },
+    {
+      "productId": 2027,
+      "reviewText": "this HTTP is slurpee.",
+      "reviewDate": "2016-11-06T00:49:16.8767921+02:00"
+    },
+    {
+      "productId": 3904,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-12-30T17:56:46.6793056+02:00"
+    },
+    {
+      "productId": 223,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-07-08T17:06:27.6113538+03:00"
+    }
+  ]
+}

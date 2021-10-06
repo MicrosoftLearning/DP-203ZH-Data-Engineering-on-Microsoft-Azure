@@ -1,0 +1,31 @@
+{
+  "userId": 59549,
+  "cartId": "2b62624b-1d5b-42cf-941d-958a882b6d9b",
+  "preferredProducts": [
+    1813,
+    2578,
+    3687,
+    3998,
+    3397,
+    4389,
+    2599,
+    1662
+  ],
+  "productReviews": [
+    {
+      "productId": 2671,
+      "reviewText": "This is a really good Wooden.",
+      "reviewDate": "2020-03-02T02:51:28.4963145+02:00"
+    },
+    {
+      "productId": 49,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2020-04-14T00:30:04.7332664+03:00"
+    },
+    {
+      "productId": 3705,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-12-05T09:36:56.0329683+02:00"
+    }
+  ]
+}

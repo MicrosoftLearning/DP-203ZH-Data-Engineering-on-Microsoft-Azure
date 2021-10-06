@@ -1,0 +1,37 @@
+{
+  "userId": 51535,
+  "cartId": "6dceb894-3f83-4107-8646-8c7e68adfd2c",
+  "preferredProducts": [
+    1509,
+    3415,
+    3785,
+    3820,
+    1216,
+    4742,
+    3474,
+    3486,
+    2035
+  ],
+  "productReviews": [
+    {
+      "productId": 3342,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-08-18T16:57:21.0894899+03:00"
+    },
+    {
+      "productId": 590,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-05-21T03:39:52.5123236+03:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-04-22T18:57:06.7407853+03:00"
+    },
+    {
+      "productId": 1244,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-01-14T04:29:00.2174906+02:00"
+    }
+  ]
+}

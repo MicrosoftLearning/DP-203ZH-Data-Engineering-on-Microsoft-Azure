@@ -1,0 +1,33 @@
+{
+  "userId": 76021,
+  "cartId": "4d7c5c6c-d413-464f-9357-e1fd5a38569d",
+  "preferredProducts": [
+    3826,
+    320,
+    1538,
+    1745,
+    4085,
+    1057,
+    2235,
+    2298,
+    2996,
+    3830
+  ],
+  "productReviews": [
+    {
+      "productId": 1746,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-02-19T16:29:19.3962502+02:00"
+    },
+    {
+      "productId": 4880,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2020-04-24T12:17:21.9604869+03:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "This Berkshire works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-05-20T12:22:06.7778153+03:00"
+    }
+  ]
+}

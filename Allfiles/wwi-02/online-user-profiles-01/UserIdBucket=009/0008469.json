@@ -1,0 +1,25 @@
+{
+  "userId": 8469,
+  "cartId": "771d2628-3468-4821-95f5-04d2b8623a8b",
+  "preferredProducts": [
+    3386,
+    3752
+  ],
+  "productReviews": [
+    {
+      "productId": 2001,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-12-01T12:02:04.8495773+02:00"
+    },
+    {
+      "productId": 1533,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-11-05T02:10:51.1048709+02:00"
+    },
+    {
+      "productId": 3004,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-06-25T13:42:37.1301356+03:00"
+    }
+  ]
+}

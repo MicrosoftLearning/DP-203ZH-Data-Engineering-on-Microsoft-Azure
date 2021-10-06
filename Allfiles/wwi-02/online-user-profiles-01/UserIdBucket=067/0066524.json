@@ -1,0 +1,33 @@
+{
+  "userId": 66524,
+  "cartId": "66fe0df8-cc4d-47de-bb89-7a611dced37f",
+  "preferredProducts": [
+    3388,
+    701,
+    1021,
+    2420,
+    2879
+  ],
+  "productReviews": [
+    {
+      "productId": 1096,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-11-01T18:41:32.8402549+02:00"
+    },
+    {
+      "productId": 4898,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-11-05T09:19:15.3520726+02:00"
+    },
+    {
+      "productId": 657,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-08-19T04:37:04.3970367+03:00"
+    },
+    {
+      "productId": 4832,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-08-25T16:22:52.4197065+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 51676,
+  "cartId": "4248d31b-0a36-4227-a221-bc90e61d0647",
+  "preferredProducts": [
+    3124,
+    3207,
+    22,
+    100,
+    2523,
+    3256,
+    4847
+  ],
+  "productReviews": [
+    {
+      "productId": 1963,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-04-18T07:19:01.0114989+03:00"
+    },
+    {
+      "productId": 2110,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-01-31T21:18:42.1223718+02:00"
+    },
+    {
+      "productId": 4498,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-02-24T15:46:57.9211414+02:00"
+    }
+  ]
+}

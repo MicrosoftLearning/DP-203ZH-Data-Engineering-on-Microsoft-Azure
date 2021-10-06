@@ -1,0 +1,36 @@
+{
+  "userId": 47151,
+  "cartId": "8fdf2553-f595-4ccc-9ddf-fe7e3e0c5ccb",
+  "preferredProducts": [
+    3676,
+    3534,
+    2659,
+    2717,
+    2005,
+    2730,
+    2455,
+    4179
+  ],
+  "productReviews": [
+    {
+      "productId": 498,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-11-26T19:05:14.8204633+02:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-08-23T00:55:40.5083846+03:00"
+    },
+    {
+      "productId": 4282,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-09-14T13:49:50.5257947+03:00"
+    },
+    {
+      "productId": 853,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-01-06T02:21:53.438919+02:00"
+    }
+  ]
+}

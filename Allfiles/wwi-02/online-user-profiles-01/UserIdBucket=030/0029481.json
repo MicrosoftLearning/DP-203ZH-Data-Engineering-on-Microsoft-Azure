@@ -1,0 +1,33 @@
+{
+  "userId": 29481,
+  "cartId": "686de6e8-167e-4bfb-9a69-4e43c8c9576a",
+  "preferredProducts": [
+    3208,
+    1340,
+    4676,
+    1195,
+    4001,
+    490,
+    2237,
+    3761,
+    666,
+    4437
+  ],
+  "productReviews": [
+    {
+      "productId": 3164,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-10-27T04:52:24.1313016+03:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2020-01-05T04:33:09.385009+02:00"
+    },
+    {
+      "productId": 2282,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-02-20T03:02:25.7348338+02:00"
+    }
+  ]
+}

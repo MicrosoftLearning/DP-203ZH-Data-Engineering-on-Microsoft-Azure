@@ -1,0 +1,28 @@
+{
+  "userId": 51121,
+  "cartId": "4a38a8d7-e612-4c8a-8972-264962539160",
+  "preferredProducts": [
+    1392,
+    2531,
+    4219,
+    729,
+    475
+  ],
+  "productReviews": [
+    {
+      "productId": 2777,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-01-08T02:02:17.7170753+02:00"
+    },
+    {
+      "productId": 4912,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-08-16T09:55:05.0638322+03:00"
+    },
+    {
+      "productId": 2891,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-07-08T19:32:09.693428+03:00"
+    }
+  ]
+}

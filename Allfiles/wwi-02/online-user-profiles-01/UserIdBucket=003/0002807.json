@@ -1,0 +1,34 @@
+{
+  "userId": 2807,
+  "cartId": "16201e4f-b7be-4724-a118-c894c89b7b4b",
+  "preferredProducts": [
+    3663,
+    3537,
+    462,
+    2776,
+    4706,
+    2231
+  ],
+  "productReviews": [
+    {
+      "productId": 960,
+      "reviewText": "this yellow is dominant.",
+      "reviewDate": "2018-07-30T20:10:16.7617562+03:00"
+    },
+    {
+      "productId": 1299,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-08-28T05:21:15.5324599+03:00"
+    },
+    {
+      "productId": 2724,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-07-26T01:52:26.689654+03:00"
+    },
+    {
+      "productId": 3925,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-01-23T09:17:39.1768474+02:00"
+    }
+  ]
+}

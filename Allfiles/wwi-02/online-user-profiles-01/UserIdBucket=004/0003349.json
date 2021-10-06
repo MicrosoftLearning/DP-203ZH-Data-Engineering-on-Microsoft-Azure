@@ -1,0 +1,26 @@
+{
+  "userId": 3349,
+  "cartId": "0b8b32a1-847b-4192-bb87-b57171136d9b",
+  "preferredProducts": [
+    538,
+    2987,
+    80
+  ],
+  "productReviews": [
+    {
+      "productId": 3877,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-09-14T07:16:46.4925408+03:00"
+    },
+    {
+      "productId": 4581,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-08-26T15:42:24.820716+03:00"
+    },
+    {
+      "productId": 4299,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-04-08T00:05:50.5269838+03:00"
+    }
+  ]
+}

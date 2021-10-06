@@ -1,0 +1,36 @@
+{
+  "userId": 12182,
+  "cartId": "400aa244-2aa2-4d6b-a5cf-b096557b443f",
+  "preferredProducts": [
+    2790,
+    1933,
+    3556
+  ],
+  "productReviews": [
+    {
+      "productId": 3467,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-04-15T07:25:45.312882+03:00"
+    },
+    {
+      "productId": 391,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-05-26T21:12:58.2273366+03:00"
+    },
+    {
+      "productId": 562,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-12-11T01:49:07.0306602+02:00"
+    },
+    {
+      "productId": 2887,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-08-10T16:46:42.4973358+03:00"
+    },
+    {
+      "productId": 3393,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-01-20T23:08:46.7171244+02:00"
+    }
+  ]
+}

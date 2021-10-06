@@ -1,0 +1,25 @@
+{
+  "userId": 64753,
+  "cartId": "f35cd528-b323-4444-9af6-7de7bdd5271c",
+  "preferredProducts": [
+    2739,
+    3551,
+    277,
+    2856,
+    567,
+    519,
+    2999
+  ],
+  "productReviews": [
+    {
+      "productId": 4291,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-01-12T10:16:32.7371584+02:00"
+    },
+    {
+      "productId": 1088,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-11-09T20:27:01.3650615+02:00"
+    }
+  ]
+}

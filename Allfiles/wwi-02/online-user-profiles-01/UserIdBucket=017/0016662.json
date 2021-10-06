@@ -1,0 +1,43 @@
+{
+  "userId": 16662,
+  "cartId": "f52d2880-e1ad-4176-b4df-7c423d6ef133",
+  "preferredProducts": [
+    556,
+    1112,
+    4687,
+    208,
+    4695,
+    792,
+    2732,
+    820,
+    431,
+    2608
+  ],
+  "productReviews": [
+    {
+      "productId": 2969,
+      "reviewText": "this redundant is nifty.",
+      "reviewDate": "2017-04-23T17:37:00.3282607+03:00"
+    },
+    {
+      "productId": 4093,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-11-16T21:29:45.6136675+02:00"
+    },
+    {
+      "productId": 4415,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-06-10T19:25:35.2467167+03:00"
+    },
+    {
+      "productId": 1781,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-01-22T08:28:27.1928073+02:00"
+    },
+    {
+      "productId": 3578,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-11-30T00:13:37.899075+02:00"
+    }
+  ]
+}

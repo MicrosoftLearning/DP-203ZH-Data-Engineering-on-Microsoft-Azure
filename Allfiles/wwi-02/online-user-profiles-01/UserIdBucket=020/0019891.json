@@ -1,0 +1,27 @@
+{
+  "userId": 19891,
+  "cartId": "a72ea3a8-2ef7-4a75-8a26-b9f0f4a715cc",
+  "preferredProducts": [
+    3689,
+    2398,
+    558,
+    3381,
+    4078,
+    4110,
+    268,
+    1602,
+    4610
+  ],
+  "productReviews": [
+    {
+      "productId": 4651,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-07-22T16:55:14.5171271+03:00"
+    },
+    {
+      "productId": 150,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-01-20T21:19:09.722268+02:00"
+    }
+  ]
+}

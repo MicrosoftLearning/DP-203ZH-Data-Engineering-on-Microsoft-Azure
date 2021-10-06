@@ -1,0 +1,32 @@
+{
+  "userId": 34112,
+  "cartId": "dfe9f374-812d-45d9-aa54-9963e41e36d2",
+  "preferredProducts": [
+    4168,
+    3596,
+    2999,
+    1639,
+    458,
+    1697,
+    3470,
+    4745,
+    3991
+  ],
+  "productReviews": [
+    {
+      "productId": 597,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-02-13T06:40:42.3135693+02:00"
+    },
+    {
+      "productId": 3852,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-11-03T23:49:44.4679539+02:00"
+    },
+    {
+      "productId": 2830,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-12-30T19:11:09.9174112+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 99272,
+  "cartId": "0c7f0094-4bc3-4f40-9a76-d0359fe4f654",
+  "preferredProducts": [
+    2941,
+    866,
+    3322,
+    1092,
+    179,
+    1165,
+    3779
+  ],
+  "productReviews": [
+    {
+      "productId": 4486,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-12-10T05:55:43.977024+02:00"
+    },
+    {
+      "productId": 2459,
+      "reviewText": "This parsing works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-02-06T09:27:51.0533324+02:00"
+    },
+    {
+      "productId": 3149,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-06-09T04:19:32.7492398+03:00"
+    },
+    {
+      "productId": 1441,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-03-25T21:17:24.4133904+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 1942,
+  "cartId": "bc67ade7-79d3-4c8e-b5a5-9551ec15a72f",
+  "preferredProducts": [
+    377,
+    1666
+  ],
+  "productReviews": [
+    {
+      "productId": 3038,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2020-04-14T01:37:57.4835022+03:00"
+    },
+    {
+      "productId": 2484,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-07-10T00:36:32.3342343+03:00"
+    },
+    {
+      "productId": 978,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-04-22T06:45:44.2007776+03:00"
+    }
+  ]
+}

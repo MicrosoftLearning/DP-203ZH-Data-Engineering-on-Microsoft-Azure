@@ -1,0 +1,27 @@
+{
+  "userId": 2583,
+  "cartId": "ff9915c3-7158-4296-a46c-267511f7b941",
+  "preferredProducts": [
+    2385,
+    1686,
+    4241,
+    675
+  ],
+  "productReviews": [
+    {
+      "productId": 2698,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2016-09-13T07:46:13.598582+03:00"
+    },
+    {
+      "productId": 3833,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-11-22T01:12:57.3982235+02:00"
+    },
+    {
+      "productId": 208,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-10-07T16:23:08.127629+03:00"
+    }
+  ]
+}

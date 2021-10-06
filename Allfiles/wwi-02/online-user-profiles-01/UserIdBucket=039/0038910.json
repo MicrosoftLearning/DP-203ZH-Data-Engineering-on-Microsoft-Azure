@@ -1,0 +1,33 @@
+{
+  "userId": 38910,
+  "cartId": "c43823c2-dad1-4f36-9976-34f344a3b33a",
+  "preferredProducts": [
+    2859,
+    4152,
+    795,
+    303,
+    1739
+  ],
+  "productReviews": [
+    {
+      "productId": 3469,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-03-10T21:34:53.0726358+02:00"
+    },
+    {
+      "productId": 2757,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-12-02T23:02:39.5014639+02:00"
+    },
+    {
+      "productId": 49,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-04-10T10:02:57.0762607+03:00"
+    },
+    {
+      "productId": 2002,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-09-28T13:51:44.1371988+03:00"
+    }
+  ]
+}

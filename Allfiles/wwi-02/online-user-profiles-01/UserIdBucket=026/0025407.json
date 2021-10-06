@@ -1,0 +1,33 @@
+{
+  "userId": 25407,
+  "cartId": "937ec69c-6f46-4045-bbc6-978d55afaa54",
+  "preferredProducts": [
+    3015,
+    742,
+    1535,
+    630,
+    1130
+  ],
+  "productReviews": [
+    {
+      "productId": 4138,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-08-16T14:14:59.9555399+03:00"
+    },
+    {
+      "productId": 3461,
+      "reviewText": "this Sudan is tasty.",
+      "reviewDate": "2018-05-18T22:52:55.0299427+03:00"
+    },
+    {
+      "productId": 2531,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-09-15T04:45:28.3876807+03:00"
+    },
+    {
+      "productId": 3085,
+      "reviewText": "This District works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-11-08T07:57:17.6415611+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 3986,
+  "cartId": "73795ca4-c34e-4321-a367-236a1960b0a1",
+  "preferredProducts": [
+    4194,
+    1357
+  ],
+  "productReviews": [
+    {
+      "productId": 4151,
+      "reviewText": "this connect is complimentary.",
+      "reviewDate": "2018-04-14T03:40:34.3188572+03:00"
+    },
+    {
+      "productId": 3362,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-04-06T19:34:22.7656366+03:00"
+    },
+    {
+      "productId": 3884,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-09-19T18:21:26.1129343+03:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-04-21T17:18:57.244112+03:00"
+    }
+  ]
+}

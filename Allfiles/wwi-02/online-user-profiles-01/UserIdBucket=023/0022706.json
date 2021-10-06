@@ -1,0 +1,27 @@
+{
+  "userId": 22706,
+  "cartId": "601a8806-016f-4d7b-ae44-eb4dbe6d3883",
+  "preferredProducts": [
+    1224,
+    3556,
+    4343,
+    421
+  ],
+  "productReviews": [
+    {
+      "productId": 4203,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-08-16T03:20:38.6825539+03:00"
+    },
+    {
+      "productId": 1059,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2020-04-26T17:27:04.5334955+03:00"
+    },
+    {
+      "productId": 3786,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-05-20T09:55:20.5729558+03:00"
+    }
+  ]
+}

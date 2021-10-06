@@ -1,0 +1,35 @@
+{
+  "userId": 39232,
+  "cartId": "ab1de545-13a7-46af-a1cf-fd6c25d04994",
+  "preferredProducts": [
+    3785,
+    1908,
+    3731,
+    3147,
+    4879,
+    2645,
+    841
+  ],
+  "productReviews": [
+    {
+      "productId": 2690,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-11-13T16:31:48.1318041+02:00"
+    },
+    {
+      "productId": 1336,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2017-12-28T22:30:44.6531965+02:00"
+    },
+    {
+      "productId": 1058,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-08-23T16:14:23.4313549+03:00"
+    },
+    {
+      "productId": 1781,
+      "reviewText": "this leading edge is smooth.",
+      "reviewDate": "2017-08-08T00:51:48.7737026+03:00"
+    }
+  ]
+}

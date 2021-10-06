@@ -1,0 +1,36 @@
+{
+  "userId": 53305,
+  "cartId": "265e3a03-17ab-4850-9fe3-12387b643373",
+  "preferredProducts": [
+    1052,
+    2200,
+    1990,
+    2187,
+    2269,
+    229,
+    1021,
+    2878
+  ],
+  "productReviews": [
+    {
+      "productId": 1611,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-06-23T15:15:00.3102698+03:00"
+    },
+    {
+      "productId": 123,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-09-07T03:44:01.8502007+03:00"
+    },
+    {
+      "productId": 3771,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-12-23T09:32:44.0461283+02:00"
+    },
+    {
+      "productId": 481,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-03-03T15:05:57.2652777+02:00"
+    }
+  ]
+}

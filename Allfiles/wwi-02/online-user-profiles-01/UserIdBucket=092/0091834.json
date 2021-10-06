@@ -1,0 +1,30 @@
+{
+  "userId": 91834,
+  "cartId": "b382258a-fe5d-46a8-a87b-28c4e6906487",
+  "preferredProducts": [
+    4515,
+    2935
+  ],
+  "productReviews": [
+    {
+      "productId": 4096,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-02-13T14:55:20.8670497+02:00"
+    },
+    {
+      "productId": 4778,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-10-21T11:26:01.8720455+03:00"
+    },
+    {
+      "productId": 182,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-09-19T17:24:10.0901674+03:00"
+    },
+    {
+      "productId": 4373,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-05-22T05:57:52.0056776+03:00"
+    }
+  ]
+}

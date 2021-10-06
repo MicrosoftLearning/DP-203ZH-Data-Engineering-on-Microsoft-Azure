@@ -1,0 +1,31 @@
+{
+  "userId": 7301,
+  "cartId": "a4543036-8aad-462f-82d2-9ba7ae655cce",
+  "preferredProducts": [
+    3515,
+    134,
+    241,
+    925,
+    4596,
+    2476,
+    4186,
+    3431
+  ],
+  "productReviews": [
+    {
+      "productId": 795,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-12-06T07:56:45.2158938+02:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "This is a really good Avon.",
+      "reviewDate": "2016-07-18T21:10:25.3945606+03:00"
+    },
+    {
+      "productId": 4392,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-09-11T23:20:08.9718624+03:00"
+    }
+  ]
+}

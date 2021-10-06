@@ -1,0 +1,35 @@
+{
+  "userId": 23385,
+  "cartId": "1f2d045c-4764-4923-bc76-17d64dd8b0c9",
+  "preferredProducts": [
+    4143,
+    4648,
+    4347,
+    2248,
+    2264,
+    603,
+    4213
+  ],
+  "productReviews": [
+    {
+      "productId": 1198,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-09-14T03:38:03.0212817+03:00"
+    },
+    {
+      "productId": 38,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-06-23T17:54:13.3865331+03:00"
+    },
+    {
+      "productId": 99,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-11-10T00:49:42.1123677+02:00"
+    },
+    {
+      "productId": 4530,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-04-14T02:19:10.6131013+03:00"
+    }
+  ]
+}

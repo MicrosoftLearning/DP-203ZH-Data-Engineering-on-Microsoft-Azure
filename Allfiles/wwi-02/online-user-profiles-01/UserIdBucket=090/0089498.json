@@ -1,0 +1,36 @@
+{
+  "userId": 89498,
+  "cartId": "153e8797-43ca-4791-be9a-10dd8908e662",
+  "preferredProducts": [
+    3189,
+    4835,
+    4313,
+    1665,
+    2267,
+    3271,
+    4230,
+    2616
+  ],
+  "productReviews": [
+    {
+      "productId": 1295,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-10-23T14:02:39.1727364+03:00"
+    },
+    {
+      "productId": 139,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-04-17T07:29:00.7763218+03:00"
+    },
+    {
+      "productId": 1396,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-08-13T22:03:43.3066477+03:00"
+    },
+    {
+      "productId": 1990,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-02-08T17:58:39.1246017+02:00"
+    }
+  ]
+}

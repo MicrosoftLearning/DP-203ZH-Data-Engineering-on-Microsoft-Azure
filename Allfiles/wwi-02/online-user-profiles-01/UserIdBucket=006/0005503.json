@@ -1,0 +1,40 @@
+{
+  "userId": 5503,
+  "cartId": "a0acfeca-45b0-4c03-a03b-da98350a2f63",
+  "preferredProducts": [
+    1727,
+    2120,
+    4097,
+    2719,
+    4756,
+    1938,
+    3866
+  ],
+  "productReviews": [
+    {
+      "productId": 1689,
+      "reviewText": "This Turnpike works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-06-28T22:56:25.2308714+03:00"
+    },
+    {
+      "productId": 2054,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-02-02T07:15:01.4669808+02:00"
+    },
+    {
+      "productId": 1512,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-01-11T18:59:10.6864048+02:00"
+    },
+    {
+      "productId": 127,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-01-02T13:54:55.8833858+02:00"
+    },
+    {
+      "productId": 2529,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-06-28T22:13:16.4961223+03:00"
+    }
+  ]
+}

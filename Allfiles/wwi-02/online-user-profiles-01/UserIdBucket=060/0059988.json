@@ -1,0 +1,26 @@
+{
+  "userId": 59988,
+  "cartId": "d6efaefa-297a-4e79-ab3b-dd95d507e961",
+  "preferredProducts": [
+    2333,
+    3096,
+    281,
+    751,
+    3214,
+    4386,
+    1820,
+    819
+  ],
+  "productReviews": [
+    {
+      "productId": 4666,
+      "reviewText": "this Music is smooth.",
+      "reviewDate": "2017-11-16T15:34:46.060968+02:00"
+    },
+    {
+      "productId": 4223,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-03-02T02:17:49.5693608+02:00"
+    }
+  ]
+}

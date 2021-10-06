@@ -1,0 +1,25 @@
+{
+  "userId": 60572,
+  "cartId": "58b505ca-c028-489e-b288-714978f0609e",
+  "preferredProducts": [
+    2414,
+    3724,
+    4327,
+    2806,
+    4528,
+    640,
+    2553
+  ],
+  "productReviews": [
+    {
+      "productId": 756,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-05-21T23:05:55.0818042+03:00"
+    },
+    {
+      "productId": 571,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-02-25T07:18:46.9343861+02:00"
+    }
+  ]
+}

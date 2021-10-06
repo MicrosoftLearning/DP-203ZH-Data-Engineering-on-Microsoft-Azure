@@ -1,0 +1,24 @@
+{
+  "userId": 42225,
+  "cartId": "aeba3fe9-0a19-4eed-984c-98526cd8b567",
+  "preferredProducts": [
+    2947,
+    1808,
+    3415,
+    4090,
+    3555,
+    1123
+  ],
+  "productReviews": [
+    {
+      "productId": 2420,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-07-27T20:23:27.213501+03:00"
+    },
+    {
+      "productId": 544,
+      "reviewText": "this hack is standard.",
+      "reviewDate": "2017-06-23T22:13:41.1633217+03:00"
+    }
+  ]
+}

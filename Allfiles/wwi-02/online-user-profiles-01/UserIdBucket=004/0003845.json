@@ -1,0 +1,36 @@
+{
+  "userId": 3845,
+  "cartId": "20c9c9ca-1245-4e97-9a55-6bc84f302917",
+  "preferredProducts": [
+    1117,
+    1863,
+    1561,
+    2375,
+    3489,
+    231,
+    2048,
+    1329
+  ],
+  "productReviews": [
+    {
+      "productId": 4308,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-05-15T08:11:54.7651705+03:00"
+    },
+    {
+      "productId": 4250,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-11-20T08:44:31.1972153+02:00"
+    },
+    {
+      "productId": 3013,
+      "reviewText": "this implementation is mellow.",
+      "reviewDate": "2019-03-26T07:30:23.747431+02:00"
+    },
+    {
+      "productId": 6,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-05-12T01:58:07.7488597+03:00"
+    }
+  ]
+}

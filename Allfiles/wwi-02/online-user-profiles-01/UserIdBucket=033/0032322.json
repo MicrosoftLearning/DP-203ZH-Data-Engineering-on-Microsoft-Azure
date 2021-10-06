@@ -1,0 +1,36 @@
+{
+  "userId": 32322,
+  "cartId": "ab4ab421-1d18-435e-b1dc-8241992f9914",
+  "preferredProducts": [
+    4318,
+    1238,
+    1644
+  ],
+  "productReviews": [
+    {
+      "productId": 4870,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-01-24T07:34:54.7126782+02:00"
+    },
+    {
+      "productId": 2819,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-09-22T13:43:11.9123733+03:00"
+    },
+    {
+      "productId": 4870,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-01-22T23:35:34.1342149+02:00"
+    },
+    {
+      "productId": 3280,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2018-12-05T04:09:12.0271086+02:00"
+    },
+    {
+      "productId": 4939,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-10-18T03:51:00.9881679+03:00"
+    }
+  ]
+}

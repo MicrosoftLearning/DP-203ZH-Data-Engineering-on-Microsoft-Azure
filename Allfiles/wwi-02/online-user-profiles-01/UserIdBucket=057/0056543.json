@@ -1,0 +1,38 @@
+{
+  "userId": 56543,
+  "cartId": "a54e884f-87db-4512-ab97-c1b609c6ded6",
+  "preferredProducts": [
+    1735,
+    348,
+    1668,
+    986,
+    435,
+    2637,
+    4398,
+    1258,
+    948,
+    1920
+  ],
+  "productReviews": [
+    {
+      "productId": 730,
+      "reviewText": "this Unbranded Granite Tuna is dominant.",
+      "reviewDate": "2018-03-01T08:52:53.1723508+02:00"
+    },
+    {
+      "productId": 1648,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-12-04T23:50:15.4102618+02:00"
+    },
+    {
+      "productId": 1624,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-11-24T08:35:46.127407+02:00"
+    },
+    {
+      "productId": 447,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-07-28T19:38:46.8506834+03:00"
+    }
+  ]
+}

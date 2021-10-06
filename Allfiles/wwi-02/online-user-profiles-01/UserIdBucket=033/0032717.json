@@ -1,0 +1,30 @@
+{
+  "userId": 32717,
+  "cartId": "4187f26a-e2f7-4d1e-a436-dd8641e32e76",
+  "preferredProducts": [
+    1564,
+    1039,
+    669,
+    482,
+    2093,
+    3041,
+    3277
+  ],
+  "productReviews": [
+    {
+      "productId": 2661,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-01-09T07:03:38.3523282+02:00"
+    },
+    {
+      "productId": 326,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-02-05T20:34:03.1367805+02:00"
+    },
+    {
+      "productId": 1343,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-09-10T18:16:48.0901985+03:00"
+    }
+  ]
+}

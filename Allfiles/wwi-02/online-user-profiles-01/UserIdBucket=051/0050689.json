@@ -1,0 +1,26 @@
+{
+  "userId": 50689,
+  "cartId": "49ea6e61-6e5a-48bc-8e83-5960c52c1cd1",
+  "preferredProducts": [
+    1275,
+    4998,
+    4446
+  ],
+  "productReviews": [
+    {
+      "productId": 4325,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-05-01T14:58:01.7139857+03:00"
+    },
+    {
+      "productId": 4846,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-07-03T08:30:37.4737169+03:00"
+    },
+    {
+      "productId": 585,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-05-04T11:29:21.4449741+03:00"
+    }
+  ]
+}

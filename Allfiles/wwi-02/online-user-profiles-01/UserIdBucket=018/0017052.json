@@ -1,0 +1,31 @@
+{
+  "userId": 17052,
+  "cartId": "2d2c6ecf-2ca3-4d22-b2cb-1fcf0eb7d737",
+  "preferredProducts": [
+    78,
+    2507,
+    1562,
+    4824,
+    1704,
+    4217,
+    2755,
+    1513
+  ],
+  "productReviews": [
+    {
+      "productId": 2774,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-10-27T01:21:15.063403+03:00"
+    },
+    {
+      "productId": 2371,
+      "reviewText": "this Michigan is amiable.",
+      "reviewDate": "2018-01-29T15:39:25.165286+02:00"
+    },
+    {
+      "productId": 306,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-12-28T19:57:22.221763+02:00"
+    }
+  ]
+}

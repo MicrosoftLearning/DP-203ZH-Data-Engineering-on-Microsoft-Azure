@@ -1,0 +1,36 @@
+{
+  "userId": 83031,
+  "cartId": "1d4e0c1b-dd75-46e9-b0ae-e28e72622fee",
+  "preferredProducts": [
+    1211,
+    2429,
+    4816,
+    4884,
+    4861,
+    227,
+    2905,
+    4119
+  ],
+  "productReviews": [
+    {
+      "productId": 52,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-10-18T19:50:35.9115634+03:00"
+    },
+    {
+      "productId": 39,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-08-24T07:46:12.2148152+03:00"
+    },
+    {
+      "productId": 1763,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-06-10T12:14:35.5686791+03:00"
+    },
+    {
+      "productId": 1990,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-11-30T18:27:51.2261904+02:00"
+    }
+  ]
+}

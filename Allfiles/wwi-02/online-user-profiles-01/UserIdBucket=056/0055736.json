@@ -1,0 +1,32 @@
+{
+  "userId": 55736,
+  "cartId": "709fc117-7d00-4327-8f1c-d85d7d425c4f",
+  "preferredProducts": [
+    789,
+    3657,
+    1270,
+    3554
+  ],
+  "productReviews": [
+    {
+      "productId": 3615,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-09-03T07:45:57.5621591+03:00"
+    },
+    {
+      "productId": 2289,
+      "reviewText": "This Unions works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-01-12T17:16:47.5541035+02:00"
+    },
+    {
+      "productId": 977,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-10-04T07:38:36.6011217+03:00"
+    },
+    {
+      "productId": 4395,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-02-25T02:37:43.5682113+02:00"
+    }
+  ]
+}

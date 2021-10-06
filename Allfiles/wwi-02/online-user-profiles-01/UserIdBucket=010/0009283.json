@@ -1,0 +1,35 @@
+{
+  "userId": 9283,
+  "cartId": "d4b391cb-694c-4532-bd5f-62b06d96380e",
+  "preferredProducts": [
+    2190,
+    4054,
+    1402,
+    2855,
+    2680,
+    4882,
+    3880
+  ],
+  "productReviews": [
+    {
+      "productId": 4288,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-10-18T01:46:42.2486879+03:00"
+    },
+    {
+      "productId": 3885,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-11-04T17:45:36.497465+02:00"
+    },
+    {
+      "productId": 3085,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-08-01T16:52:11.0653655+03:00"
+    },
+    {
+      "productId": 4837,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-01-03T04:25:37.7850736+02:00"
+    }
+  ]
+}

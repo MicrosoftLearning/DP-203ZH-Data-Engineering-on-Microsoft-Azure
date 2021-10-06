@@ -1,0 +1,34 @@
+{
+  "userId": 50401,
+  "cartId": "260a666f-e6b3-42b1-977f-7480bb4b5d69",
+  "preferredProducts": [
+    4184,
+    1661,
+    3798,
+    3963,
+    2420,
+    2535
+  ],
+  "productReviews": [
+    {
+      "productId": 1817,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-11-27T23:11:09.7000234+02:00"
+    },
+    {
+      "productId": 3233,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-03-01T22:05:13.0300015+02:00"
+    },
+    {
+      "productId": 1606,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-06-12T14:07:20.9383578+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "this invoice is honest.",
+      "reviewDate": "2018-08-27T12:47:30.7632943+03:00"
+    }
+  ]
+}

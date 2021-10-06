@@ -1,0 +1,30 @@
+{
+  "userId": 45546,
+  "cartId": "5514a695-9ec3-4f48-b3f7-ae5f81314b2a",
+  "preferredProducts": [
+    349,
+    3523
+  ],
+  "productReviews": [
+    {
+      "productId": 3221,
+      "reviewText": "this invoice is perplexed.",
+      "reviewDate": "2017-08-31T17:21:39.6221548+03:00"
+    },
+    {
+      "productId": 2859,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-08-11T09:39:47.5013349+03:00"
+    },
+    {
+      "productId": 3881,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-12-06T03:17:57.3628486+02:00"
+    },
+    {
+      "productId": 1591,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-10-26T16:33:22.8604793+03:00"
+    }
+  ]
+}

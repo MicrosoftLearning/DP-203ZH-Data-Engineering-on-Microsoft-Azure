@@ -1,0 +1,29 @@
+{
+  "userId": 8142,
+  "cartId": "082ab160-b832-4545-a714-9dd9011d04c6",
+  "preferredProducts": [
+    1949,
+    1041,
+    4581,
+    1698,
+    4343,
+    2781
+  ],
+  "productReviews": [
+    {
+      "productId": 271,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-08-04T10:45:34.5690068+03:00"
+    },
+    {
+      "productId": 3693,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-05-06T16:08:51.3255358+03:00"
+    },
+    {
+      "productId": 3341,
+      "reviewText": "This indigo works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2016-11-06T01:12:35.1871846+02:00"
+    }
+  ]
+}

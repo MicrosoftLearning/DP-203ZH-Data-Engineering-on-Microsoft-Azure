@@ -1,0 +1,33 @@
+{
+  "userId": 34938,
+  "cartId": "2521b915-7c83-4f5e-ab42-8c148378b397",
+  "preferredProducts": [
+    1067,
+    3718,
+    923,
+    4670,
+    501,
+    1117,
+    4189,
+    708,
+    1057,
+    1598
+  ],
+  "productReviews": [
+    {
+      "productId": 1131,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-05-09T07:03:59.7446031+03:00"
+    },
+    {
+      "productId": 2154,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-04-30T16:06:57.2967915+03:00"
+    },
+    {
+      "productId": 3205,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-07-16T02:09:58.3454235+03:00"
+    }
+  ]
+}

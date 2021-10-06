@@ -1,0 +1,36 @@
+{
+  "userId": 42775,
+  "cartId": "9496d6d5-8f8b-4df2-a8b1-3a81a0f8b549",
+  "preferredProducts": [
+    3119,
+    3857,
+    2102,
+    659,
+    4969,
+    1618,
+    2591,
+    4219
+  ],
+  "productReviews": [
+    {
+      "productId": 3769,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-01-26T11:47:31.8241095+02:00"
+    },
+    {
+      "productId": 3009,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-11-10T13:16:11.382433+02:00"
+    },
+    {
+      "productId": 2295,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-05-22T15:49:56.3754543+03:00"
+    },
+    {
+      "productId": 142,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-11-12T06:55:17.2732796+02:00"
+    }
+  ]
+}

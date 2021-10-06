@@ -1,0 +1,32 @@
+{
+  "userId": 65290,
+  "cartId": "ed3a83a7-d2ac-43ce-ae02-6cc69dabab90",
+  "preferredProducts": [
+    646,
+    3426,
+    1103,
+    4786
+  ],
+  "productReviews": [
+    {
+      "productId": 232,
+      "reviewText": "this JBOD is nifty.",
+      "reviewDate": "2018-05-16T08:18:16.326336+03:00"
+    },
+    {
+      "productId": 2695,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-02-09T08:28:01.06194+02:00"
+    },
+    {
+      "productId": 82,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-12-11T17:07:31.4094851+02:00"
+    },
+    {
+      "productId": 1276,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-09-18T10:39:44.7143947+03:00"
+    }
+  ]
+}

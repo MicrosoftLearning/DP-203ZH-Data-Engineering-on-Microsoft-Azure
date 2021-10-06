@@ -1,0 +1,25 @@
+{
+  "userId": 95092,
+  "cartId": "f93c8f69-e762-4415-be41-7cc992e2fc94",
+  "preferredProducts": [
+    307,
+    3717
+  ],
+  "productReviews": [
+    {
+      "productId": 42,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-03-13T08:11:24.6581693+02:00"
+    },
+    {
+      "productId": 3278,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2016-10-05T12:43:35.4729677+03:00"
+    },
+    {
+      "productId": 2721,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-05-07T05:44:35.1856242+03:00"
+    }
+  ]
+}

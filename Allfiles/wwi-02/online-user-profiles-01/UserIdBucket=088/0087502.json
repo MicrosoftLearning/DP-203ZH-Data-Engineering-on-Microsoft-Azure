@@ -1,0 +1,37 @@
+{
+  "userId": 87502,
+  "cartId": "af4265ac-e915-4682-bc95-a28879be94ce",
+  "preferredProducts": [
+    4988,
+    3242,
+    1215,
+    1761
+  ],
+  "productReviews": [
+    {
+      "productId": 1543,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-01-08T18:11:17.455882+02:00"
+    },
+    {
+      "productId": 3266,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2020-04-27T18:10:02.9623166+03:00"
+    },
+    {
+      "productId": 3901,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-12-22T10:43:46.9797624+02:00"
+    },
+    {
+      "productId": 3511,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-03-30T00:12:19.1129962+03:00"
+    },
+    {
+      "productId": 4605,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2020-02-08T22:49:20.0457768+02:00"
+    }
+  ]
+}

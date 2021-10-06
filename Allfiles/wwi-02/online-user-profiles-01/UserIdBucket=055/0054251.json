@@ -1,0 +1,31 @@
+{
+  "userId": 54251,
+  "cartId": "c620f54a-59f6-42c4-a259-802a6a4c934b",
+  "preferredProducts": [
+    4781,
+    4404,
+    46
+  ],
+  "productReviews": [
+    {
+      "productId": 110,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-11-06T21:24:53.0725389+02:00"
+    },
+    {
+      "productId": 2875,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-05-21T05:32:51.8674484+03:00"
+    },
+    {
+      "productId": 1740,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-12-29T04:24:52.2857149+02:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-02-28T09:01:33.6518453+02:00"
+    }
+  ]
+}

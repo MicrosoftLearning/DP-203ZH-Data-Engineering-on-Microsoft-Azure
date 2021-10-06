@@ -1,0 +1,30 @@
+{
+  "userId": 51029,
+  "cartId": "94aaa2fe-0247-4b09-ab4c-5c02bb0f0a1b",
+  "preferredProducts": [
+    3531,
+    4398
+  ],
+  "productReviews": [
+    {
+      "productId": 1565,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-06-22T03:52:00.5834342+03:00"
+    },
+    {
+      "productId": 2524,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-06-17T20:10:48.8559902+03:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-01-22T22:26:10.7172749+02:00"
+    },
+    {
+      "productId": 3034,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2018-02-26T19:21:35.2339949+02:00"
+    }
+  ]
+}

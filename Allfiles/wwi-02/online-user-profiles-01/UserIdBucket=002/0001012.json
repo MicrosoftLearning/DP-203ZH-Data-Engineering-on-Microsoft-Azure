@@ -1,0 +1,40 @@
+{
+  "userId": 1012,
+  "cartId": "64d6baa5-9946-416b-bb21-325a55d77f2b",
+  "preferredProducts": [
+    3779,
+    1125,
+    1067,
+    1332,
+    2777,
+    1339,
+    4430
+  ],
+  "productReviews": [
+    {
+      "productId": 3558,
+      "reviewText": "this Wells is dominant.",
+      "reviewDate": "2016-10-02T05:47:43.2920954+03:00"
+    },
+    {
+      "productId": 3626,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-01-14T16:12:11.0745717+02:00"
+    },
+    {
+      "productId": 4626,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-01-31T00:42:00.5954945+02:00"
+    },
+    {
+      "productId": 1717,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-01-10T18:55:07.8275483+02:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "This RSS works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-10-21T17:24:28.6409982+03:00"
+    }
+  ]
+}

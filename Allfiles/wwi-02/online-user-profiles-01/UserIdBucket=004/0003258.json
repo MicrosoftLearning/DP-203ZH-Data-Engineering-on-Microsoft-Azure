@@ -1,0 +1,31 @@
+{
+  "userId": 3258,
+  "cartId": "9fb29816-95aa-4410-b37a-e0412811943a",
+  "preferredProducts": [
+    2707,
+    4434,
+    1352
+  ],
+  "productReviews": [
+    {
+      "productId": 1978,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-01-30T21:43:01.2864489+02:00"
+    },
+    {
+      "productId": 1419,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-09-30T06:13:08.35379+03:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-11-24T15:52:00.1959273+02:00"
+    },
+    {
+      "productId": 3758,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2020-01-31T00:48:19.8741123+02:00"
+    }
+  ]
+}

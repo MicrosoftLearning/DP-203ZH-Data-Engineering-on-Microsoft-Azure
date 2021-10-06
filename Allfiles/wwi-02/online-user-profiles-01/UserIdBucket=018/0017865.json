@@ -1,0 +1,30 @@
+{
+  "userId": 17865,
+  "cartId": "5ee79309-405d-4e94-b3eb-d65a6e560ada",
+  "preferredProducts": [
+    3545,
+    3198,
+    3102,
+    2520,
+    1065,
+    579,
+    2390
+  ],
+  "productReviews": [
+    {
+      "productId": 2498,
+      "reviewText": "this Berkshire is vertical.",
+      "reviewDate": "2017-04-18T21:22:43.1581625+03:00"
+    },
+    {
+      "productId": 2054,
+      "reviewText": "This RAM works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-11-21T20:39:08.7987067+02:00"
+    },
+    {
+      "productId": 642,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-05-04T18:50:35.6572898+03:00"
+    }
+  ]
+}

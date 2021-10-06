@@ -1,0 +1,25 @@
+{
+  "userId": 44746,
+  "cartId": "a42543d5-5482-49c1-adb6-da1f1d912e1b",
+  "preferredProducts": [
+    264,
+    4845,
+    2053,
+    1012,
+    3909,
+    2241,
+    3715
+  ],
+  "productReviews": [
+    {
+      "productId": 2848,
+      "reviewText": "This is a really good Place.",
+      "reviewDate": "2018-08-02T06:35:25.7321308+03:00"
+    },
+    {
+      "productId": 3610,
+      "reviewText": "this payment is perplexed.",
+      "reviewDate": "2018-07-19T03:26:39.4301025+03:00"
+    }
+  ]
+}

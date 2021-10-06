@@ -1,0 +1,33 @@
+{
+  "userId": 98978,
+  "cartId": "e2d5a1f4-77a8-4d6e-88b9-a9ae5dfc0240",
+  "preferredProducts": [
+    2043,
+    3467,
+    3027,
+    25,
+    182,
+    3560,
+    4698,
+    709,
+    2818,
+    2287
+  ],
+  "productReviews": [
+    {
+      "productId": 2534,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2020-02-26T05:52:06.0194798+02:00"
+    },
+    {
+      "productId": 1981,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-12-27T06:44:02.7804547+02:00"
+    },
+    {
+      "productId": 803,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-07-17T23:21:02.0915085+03:00"
+    }
+  ]
+}

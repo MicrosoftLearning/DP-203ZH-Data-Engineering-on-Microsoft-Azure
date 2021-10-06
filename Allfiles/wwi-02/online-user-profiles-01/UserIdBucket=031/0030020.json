@@ -1,0 +1,30 @@
+{
+  "userId": 30020,
+  "cartId": "883700a5-a454-4f14-93c8-9c1eb109878f",
+  "preferredProducts": [
+    2906,
+    912
+  ],
+  "productReviews": [
+    {
+      "productId": 1072,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-07-06T23:49:20.9312317+03:00"
+    },
+    {
+      "productId": 2567,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2016-09-01T00:07:17.5506721+03:00"
+    },
+    {
+      "productId": 4587,
+      "reviewText": "this Chief is honest.",
+      "reviewDate": "2018-09-09T17:50:02.1773231+03:00"
+    },
+    {
+      "productId": 896,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-01T20:34:14.5006354+02:00"
+    }
+  ]
+}

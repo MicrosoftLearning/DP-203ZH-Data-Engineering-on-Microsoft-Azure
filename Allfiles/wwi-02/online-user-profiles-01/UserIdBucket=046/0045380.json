@@ -1,0 +1,25 @@
+{
+  "userId": 45380,
+  "cartId": "89e4441e-80ae-41d7-b8a5-398dff9481b5",
+  "preferredProducts": [
+    1831,
+    2003,
+    3581,
+    4270,
+    356,
+    4136,
+    3339
+  ],
+  "productReviews": [
+    {
+      "productId": 810,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-02-05T23:01:59.1068632+02:00"
+    },
+    {
+      "productId": 672,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-12-17T06:30:47.458389+02:00"
+    }
+  ]
+}

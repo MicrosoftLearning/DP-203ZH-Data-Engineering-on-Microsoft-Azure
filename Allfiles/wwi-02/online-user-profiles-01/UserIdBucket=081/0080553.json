@@ -1,0 +1,40 @@
+{
+  "userId": 80553,
+  "cartId": "702e394e-d0b1-4df8-b5f6-8805ea8b234c",
+  "preferredProducts": [
+    3702,
+    2609,
+    1711,
+    4057,
+    2875,
+    2824,
+    3148
+  ],
+  "productReviews": [
+    {
+      "productId": 3629,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-03-13T05:35:40.5482283+02:00"
+    },
+    {
+      "productId": 3905,
+      "reviewText": "this Infrastructure is mellow.",
+      "reviewDate": "2020-01-30T10:16:40.6658876+02:00"
+    },
+    {
+      "productId": 690,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-07-12T23:58:42.8626405+03:00"
+    },
+    {
+      "productId": 178,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-05-16T04:51:59.0149257+03:00"
+    },
+    {
+      "productId": 106,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-01-07T02:33:48.9192347+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 87789,
+  "cartId": "ed6479eb-de6d-4fbb-a472-c3fb46a05a7e",
+  "preferredProducts": [
+    4890,
+    3475,
+    1605,
+    749,
+    4717,
+    3466
+  ],
+  "productReviews": [
+    {
+      "productId": 3645,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-07-24T18:53:53.1254584+03:00"
+    },
+    {
+      "productId": 713,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-04-16T06:08:56.4831505+03:00"
+    },
+    {
+      "productId": 4568,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-01-10T20:12:48.0085898+02:00"
+    },
+    {
+      "productId": 51,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-08-06T08:43:18.7291199+03:00"
+    }
+  ]
+}

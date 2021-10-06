@@ -1,0 +1,34 @@
+{
+  "userId": 33448,
+  "cartId": "02c761b0-3d47-4a28-908f-6a0f589fef63",
+  "preferredProducts": [
+    4438,
+    1356,
+    935,
+    4002,
+    1666,
+    4435
+  ],
+  "productReviews": [
+    {
+      "productId": 3519,
+      "reviewText": "This application works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-04-26T02:20:23.6120682+03:00"
+    },
+    {
+      "productId": 4017,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-05-08T01:27:01.65483+03:00"
+    },
+    {
+      "productId": 289,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-06-27T17:22:29.4193886+03:00"
+    },
+    {
+      "productId": 2157,
+      "reviewText": "this lavender is mellow.",
+      "reviewDate": "2017-11-29T22:50:00.7054133+02:00"
+    }
+  ]
+}

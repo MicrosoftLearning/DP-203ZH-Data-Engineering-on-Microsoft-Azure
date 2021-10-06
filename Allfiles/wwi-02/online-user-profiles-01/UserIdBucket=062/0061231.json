@@ -1,0 +1,40 @@
+{
+  "userId": 61231,
+  "cartId": "0de07b10-c3db-4e8b-b50d-192201dbfa07",
+  "preferredProducts": [
+    3556,
+    3043,
+    1852,
+    4268,
+    2757,
+    2699,
+    1092
+  ],
+  "productReviews": [
+    {
+      "productId": 4264,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-06-28T01:39:36.122361+03:00"
+    },
+    {
+      "productId": 336,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-11-17T11:40:30.4803576+02:00"
+    },
+    {
+      "productId": 3070,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-12-21T22:45:44.654267+02:00"
+    },
+    {
+      "productId": 4091,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-02-10T20:49:28.9959051+02:00"
+    },
+    {
+      "productId": 2324,
+      "reviewText": "this pixel is smooth.",
+      "reviewDate": "2016-06-30T23:26:46.9157533+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 52791,
+  "cartId": "5594e013-df59-402e-b5d4-871eaa0d327f",
+  "preferredProducts": [
+    3070,
+    1172
+  ],
+  "productReviews": [
+    {
+      "productId": 4177,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-01-20T20:54:14.9445402+02:00"
+    },
+    {
+      "productId": 4444,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-08-20T03:40:49.8996648+03:00"
+    },
+    {
+      "productId": 4846,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-08-27T13:59:58.1581612+03:00"
+    }
+  ]
+}

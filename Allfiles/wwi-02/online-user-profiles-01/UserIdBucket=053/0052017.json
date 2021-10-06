@@ -1,0 +1,25 @@
+{
+  "userId": 52017,
+  "cartId": "66f5d460-e2b9-4d83-a6ea-20515f38dece",
+  "preferredProducts": [
+    2836,
+    2779
+  ],
+  "productReviews": [
+    {
+      "productId": 321,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-26T06:48:18.0257789+03:00"
+    },
+    {
+      "productId": 4091,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-12-15T07:52:44.7295811+02:00"
+    },
+    {
+      "productId": 1544,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-04-07T18:47:58.3549469+03:00"
+    }
+  ]
+}

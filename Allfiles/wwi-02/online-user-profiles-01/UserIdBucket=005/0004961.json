@@ -1,0 +1,28 @@
+{
+  "userId": 4961,
+  "cartId": "36dc6553-9168-4fe1-914a-154f8db86699",
+  "preferredProducts": [
+    2865,
+    2680,
+    544,
+    1643,
+    4098
+  ],
+  "productReviews": [
+    {
+      "productId": 2591,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-01-22T04:34:51.4838305+02:00"
+    },
+    {
+      "productId": 3756,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-09-03T12:54:26.631261+03:00"
+    },
+    {
+      "productId": 3616,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-06-02T04:38:04.3588744+03:00"
+    }
+  ]
+}

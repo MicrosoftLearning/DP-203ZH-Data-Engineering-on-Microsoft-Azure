@@ -1,0 +1,28 @@
+{
+  "userId": 79379,
+  "cartId": "5a033483-67bd-4f81-8fdf-a6c1376efb26",
+  "preferredProducts": [
+    2191,
+    4846,
+    1841,
+    23,
+    435
+  ],
+  "productReviews": [
+    {
+      "productId": 3432,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-09-08T23:59:58.4774331+03:00"
+    },
+    {
+      "productId": 3728,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-01-18T01:11:43.2325267+02:00"
+    },
+    {
+      "productId": 1634,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-04-15T08:47:50.3465441+03:00"
+    }
+  ]
+}

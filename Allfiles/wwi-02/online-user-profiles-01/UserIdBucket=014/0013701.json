@@ -1,0 +1,31 @@
+{
+  "userId": 13701,
+  "cartId": "1e199517-3079-4aa3-9a21-b2b7e66d901d",
+  "preferredProducts": [
+    883,
+    2432,
+    3270
+  ],
+  "productReviews": [
+    {
+      "productId": 893,
+      "reviewText": "this yellow is mellow.",
+      "reviewDate": "2017-09-28T03:45:39.8498637+03:00"
+    },
+    {
+      "productId": 4724,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-03-27T10:16:19.4590147+03:00"
+    },
+    {
+      "productId": 3609,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-01-18T12:22:58.4686782+02:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-04-04T06:33:55.6757625+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 10320,
+  "cartId": "f7c8f94e-8f7a-4119-8dca-7dea3c4fd141",
+  "preferredProducts": [
+    316,
+    2458,
+    4593,
+    3626
+  ],
+  "productReviews": [
+    {
+      "productId": 2275,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-11-19T20:59:08.9860665+02:00"
+    },
+    {
+      "productId": 4935,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-08-31T20:57:28.6234735+03:00"
+    },
+    {
+      "productId": 614,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-07-30T18:44:16.773239+03:00"
+    },
+    {
+      "productId": 857,
+      "reviewText": "this scalable is vertical.",
+      "reviewDate": "2019-06-30T10:06:57.4256338+03:00"
+    }
+  ]
+}

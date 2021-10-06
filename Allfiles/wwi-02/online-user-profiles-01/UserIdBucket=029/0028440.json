@@ -1,0 +1,41 @@
+{
+  "userId": 28440,
+  "cartId": "e50cf97d-873a-4500-8a36-a02c323828a9",
+  "preferredProducts": [
+    3736,
+    4537,
+    3073,
+    2391,
+    1420,
+    2131,
+    2609,
+    2359
+  ],
+  "productReviews": [
+    {
+      "productId": 4839,
+      "reviewText": "This XSS works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-10-01T08:20:16.6898958+03:00"
+    },
+    {
+      "productId": 1066,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-04-13T04:41:15.5217841+03:00"
+    },
+    {
+      "productId": 683,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2020-02-07T20:56:15.5858873+02:00"
+    },
+    {
+      "productId": 926,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-09-10T14:26:13.0408816+03:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-02-04T01:14:09.3718592+02:00"
+    }
+  ]
+}

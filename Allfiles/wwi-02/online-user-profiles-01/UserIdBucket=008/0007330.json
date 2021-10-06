@@ -1,0 +1,31 @@
+{
+  "userId": 7330,
+  "cartId": "556c6f95-d1ef-4bfe-b9e8-0a1e3e6a11d4",
+  "preferredProducts": [
+    952,
+    3491,
+    4749
+  ],
+  "productReviews": [
+    {
+      "productId": 262,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-09-06T17:46:38.8515176+03:00"
+    },
+    {
+      "productId": 1494,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-02-04T18:35:23.1834446+02:00"
+    },
+    {
+      "productId": 2774,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-05-19T08:06:04.2458512+03:00"
+    },
+    {
+      "productId": 2503,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-10-24T20:12:31.7241592+03:00"
+    }
+  ]
+}

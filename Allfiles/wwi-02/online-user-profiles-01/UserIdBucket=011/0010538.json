@@ -1,0 +1,39 @@
+{
+  "userId": 10538,
+  "cartId": "2822b132-8678-4d02-ba07-b9188dc94278",
+  "preferredProducts": [
+    3143,
+    2151,
+    51,
+    4574,
+    63,
+    3829
+  ],
+  "productReviews": [
+    {
+      "productId": 1695,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-02-11T21:33:11.7598628+02:00"
+    },
+    {
+      "productId": 2579,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-12-22T01:43:16.6621629+02:00"
+    },
+    {
+      "productId": 4588,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-02-19T19:58:27.7153547+02:00"
+    },
+    {
+      "productId": 3730,
+      "reviewText": "this connect is snowy.",
+      "reviewDate": "2019-06-24T21:06:20.8403998+03:00"
+    },
+    {
+      "productId": 2309,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-11-09T09:07:46.6222154+02:00"
+    }
+  ]
+}

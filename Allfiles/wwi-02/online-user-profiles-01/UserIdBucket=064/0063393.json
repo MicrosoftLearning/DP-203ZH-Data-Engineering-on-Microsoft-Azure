@@ -1,0 +1,25 @@
+{
+  "userId": 63393,
+  "cartId": "abc60bdc-86c1-4249-aa86-f10688de927a",
+  "preferredProducts": [
+    3156,
+    3269
+  ],
+  "productReviews": [
+    {
+      "productId": 3382,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-11-16T00:56:02.952019+02:00"
+    },
+    {
+      "productId": 4129,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-05-22T18:34:25.8676439+03:00"
+    },
+    {
+      "productId": 3698,
+      "reviewText": "This orchid works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2017-08-11T18:35:26.4894865+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 61551,
+  "cartId": "14c43373-d444-4cd9-b7ba-04368839c5b3",
+  "preferredProducts": [
+    1060,
+    2110,
+    1360,
+    3616,
+    4213
+  ],
+  "productReviews": [
+    {
+      "productId": 888,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-07-26T17:31:27.9663777+03:00"
+    },
+    {
+      "productId": 1749,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-02-20T12:07:55.5323814+02:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2019-03-17T22:22:31.675059+02:00"
+    },
+    {
+      "productId": 4814,
+      "reviewText": "this salmon is amiable.",
+      "reviewDate": "2019-11-18T12:37:15.2396975+02:00"
+    }
+  ]
+}

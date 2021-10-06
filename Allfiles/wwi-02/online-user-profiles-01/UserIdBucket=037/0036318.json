@@ -1,0 +1,28 @@
+{
+  "userId": 36318,
+  "cartId": "aeef344d-9cd4-4c8a-badb-e0a21a5cb15e",
+  "preferredProducts": [
+    3416,
+    747,
+    4155,
+    1280,
+    2062
+  ],
+  "productReviews": [
+    {
+      "productId": 2242,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-05-03T17:06:10.1137946+03:00"
+    },
+    {
+      "productId": 2509,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-04-21T09:35:22.9597513+03:00"
+    },
+    {
+      "productId": 1059,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-01-12T17:44:28.8332644+02:00"
+    }
+  ]
+}

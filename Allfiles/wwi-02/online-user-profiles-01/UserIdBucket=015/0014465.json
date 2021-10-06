@@ -1,0 +1,31 @@
+{
+  "userId": 14465,
+  "cartId": "4844242b-1838-40db-9973-c95a474c5333",
+  "preferredProducts": [
+    678,
+    3732,
+    2670,
+    1828,
+    2776,
+    2742,
+    1737,
+    327
+  ],
+  "productReviews": [
+    {
+      "productId": 100,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-03-04T10:23:26.0708354+02:00"
+    },
+    {
+      "productId": 3417,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-03-03T12:31:12.814743+02:00"
+    },
+    {
+      "productId": 2857,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-05-29T16:10:48.9586145+03:00"
+    }
+  ]
+}

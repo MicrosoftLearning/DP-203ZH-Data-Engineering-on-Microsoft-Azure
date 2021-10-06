@@ -1,0 +1,31 @@
+{
+  "userId": 23775,
+  "cartId": "2132c892-9c7b-4d97-9b70-b67145d6242c",
+  "preferredProducts": [
+    762,
+    2410,
+    1276
+  ],
+  "productReviews": [
+    {
+      "productId": 4850,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-06-17T21:20:00.4074205+03:00"
+    },
+    {
+      "productId": 1177,
+      "reviewText": "This Berkshire works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-07-09T13:23:07.4462608+03:00"
+    },
+    {
+      "productId": 3386,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-02-20T17:57:04.5434372+02:00"
+    },
+    {
+      "productId": 4996,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2016-09-17T00:57:03.0660033+03:00"
+    }
+  ]
+}

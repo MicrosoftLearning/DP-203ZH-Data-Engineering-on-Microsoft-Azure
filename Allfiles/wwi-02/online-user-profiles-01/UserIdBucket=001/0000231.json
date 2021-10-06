@@ -1,0 +1,26 @@
+{
+  "userId": 231,
+  "cartId": "5abd8943-9537-4a5e-89aa-0e15d0b5d521",
+  "preferredProducts": [
+    4818,
+    702,
+    486
+  ],
+  "productReviews": [
+    {
+      "productId": 2253,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-01-17T08:49:58.6062678+02:00"
+    },
+    {
+      "productId": 3230,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-01-22T00:10:11.4010127+02:00"
+    },
+    {
+      "productId": 2488,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-12-10T17:47:16.9893492+02:00"
+    }
+  ]
+}

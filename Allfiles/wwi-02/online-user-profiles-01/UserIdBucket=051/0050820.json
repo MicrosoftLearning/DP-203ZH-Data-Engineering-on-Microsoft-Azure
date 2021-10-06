@@ -1,0 +1,40 @@
+{
+  "userId": 50820,
+  "cartId": "1229eddf-40ab-4a41-8fbd-50ecdbe449e2",
+  "preferredProducts": [
+    2295,
+    988,
+    73,
+    505,
+    4695,
+    1904,
+    3010
+  ],
+  "productReviews": [
+    {
+      "productId": 3347,
+      "reviewText": "this olive is ratty.",
+      "reviewDate": "2019-12-05T08:58:14.505979+02:00"
+    },
+    {
+      "productId": 1945,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-03-09T14:00:18.8898031+02:00"
+    },
+    {
+      "productId": 3532,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-12-15T04:57:18.9147072+02:00"
+    },
+    {
+      "productId": 3825,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-11-16T20:38:31.3820738+02:00"
+    },
+    {
+      "productId": 2452,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-04-21T14:49:22.9165738+03:00"
+    }
+  ]
+}

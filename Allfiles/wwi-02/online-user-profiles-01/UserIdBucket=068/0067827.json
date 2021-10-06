@@ -1,0 +1,31 @@
+{
+  "userId": 67827,
+  "cartId": "27f64d5f-e879-469e-8bd3-e76e5baf1886",
+  "preferredProducts": [
+    3562,
+    526,
+    1751,
+    3797,
+    4694,
+    4260,
+    2091,
+    2315
+  ],
+  "productReviews": [
+    {
+      "productId": 3321,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-12T22:47:38.7259444+02:00"
+    },
+    {
+      "productId": 4060,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-09-24T14:24:31.7924896+03:00"
+    },
+    {
+      "productId": 779,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-06-27T22:49:42.10479+03:00"
+    }
+  ]
+}

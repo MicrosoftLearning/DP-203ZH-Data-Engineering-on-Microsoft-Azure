@@ -1,0 +1,27 @@
+{
+  "userId": 89481,
+  "cartId": "472c7d90-0e12-4b57-a007-d0a948f5e220",
+  "preferredProducts": [
+    4705,
+    1721,
+    835,
+    2735
+  ],
+  "productReviews": [
+    {
+      "productId": 3354,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-07-13T23:39:53.9537459+03:00"
+    },
+    {
+      "productId": 923,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-07-09T05:08:14.0544722+03:00"
+    },
+    {
+      "productId": 804,
+      "reviewText": "This Terrace works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-01-08T11:04:13.5738755+02:00"
+    }
+  ]
+}

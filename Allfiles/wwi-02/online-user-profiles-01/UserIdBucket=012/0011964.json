@@ -1,0 +1,32 @@
+{
+  "userId": 11964,
+  "cartId": "606af976-1327-4395-9278-584d046f5598",
+  "preferredProducts": [
+    4754,
+    2317,
+    2223,
+    4198
+  ],
+  "productReviews": [
+    {
+      "productId": 2663,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-06-26T23:55:09.2806487+03:00"
+    },
+    {
+      "productId": 3473,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-04-20T18:18:37.0262999+03:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-04-12T05:18:05.1963723+03:00"
+    },
+    {
+      "productId": 1227,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-06-05T23:59:19.2189157+03:00"
+    }
+  ]
+}

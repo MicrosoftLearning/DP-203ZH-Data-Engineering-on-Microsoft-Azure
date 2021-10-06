@@ -1,0 +1,32 @@
+{
+  "userId": 22987,
+  "cartId": "482b4bb0-02d2-4e4b-9e57-cbbb302ff4d0",
+  "preferredProducts": [
+    2496,
+    4575,
+    3239,
+    448,
+    929,
+    4128,
+    3222,
+    4999,
+    1222
+  ],
+  "productReviews": [
+    {
+      "productId": 260,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-05-25T13:55:28.3265639+03:00"
+    },
+    {
+      "productId": 1155,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-04-25T03:21:18.2692739+03:00"
+    },
+    {
+      "productId": 2904,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-07-18T16:12:13.8098358+03:00"
+    }
+  ]
+}

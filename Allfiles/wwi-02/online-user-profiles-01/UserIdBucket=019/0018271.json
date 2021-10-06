@@ -1,0 +1,31 @@
+{
+  "userId": 18271,
+  "cartId": "bcff1506-8e15-4c92-96e3-d7499556d3bc",
+  "preferredProducts": [
+    1222,
+    928,
+    3456,
+    2530,
+    1063,
+    342,
+    4931,
+    1661
+  ],
+  "productReviews": [
+    {
+      "productId": 4430,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-06-29T01:40:05.1013792+03:00"
+    },
+    {
+      "productId": 3895,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-06-07T08:27:25.0932349+03:00"
+    },
+    {
+      "productId": 1085,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-06-08T09:56:04.749643+03:00"
+    }
+  ]
+}

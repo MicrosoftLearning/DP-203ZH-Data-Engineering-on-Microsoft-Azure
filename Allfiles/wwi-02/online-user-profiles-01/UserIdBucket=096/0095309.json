@@ -1,0 +1,37 @@
+{
+  "userId": 95309,
+  "cartId": "c48e432c-2f69-41dc-b7f0-8696870a9987",
+  "preferredProducts": [
+    1066,
+    4392,
+    1339,
+    3115
+  ],
+  "productReviews": [
+    {
+      "productId": 2230,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-02-08T00:14:33.6338072+02:00"
+    },
+    {
+      "productId": 3839,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-05-31T20:06:14.7888123+03:00"
+    },
+    {
+      "productId": 4105,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-08-29T16:37:20.3108349+03:00"
+    },
+    {
+      "productId": 3466,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-12-21T18:20:35.0754303+02:00"
+    },
+    {
+      "productId": 3996,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-03-20T21:26:59.2305479+02:00"
+    }
+  ]
+}

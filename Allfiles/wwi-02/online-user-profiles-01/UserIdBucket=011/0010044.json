@@ -1,0 +1,39 @@
+{
+  "userId": 10044,
+  "cartId": "36fb952b-26e6-44bd-aacf-4c37ebdf8a8c",
+  "preferredProducts": [
+    1411,
+    4251,
+    4585,
+    2147,
+    1461,
+    913
+  ],
+  "productReviews": [
+    {
+      "productId": 2549,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-08-17T03:16:00.1900924+03:00"
+    },
+    {
+      "productId": 1853,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-10-14T10:23:34.4584057+03:00"
+    },
+    {
+      "productId": 1868,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-11-07T00:07:03.8180731+02:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "this Synergistic is hyper.",
+      "reviewDate": "2017-10-17T20:19:01.5871533+03:00"
+    },
+    {
+      "productId": 426,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-12-26T04:33:36.9660601+02:00"
+    }
+  ]
+}

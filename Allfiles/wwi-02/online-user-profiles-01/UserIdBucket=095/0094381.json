@@ -1,0 +1,35 @@
+{
+  "userId": 94381,
+  "cartId": "e6663c9f-0e0a-417d-9bc3-1ca6bb8cb073",
+  "preferredProducts": [
+    2002,
+    19,
+    287,
+    66,
+    1423,
+    1596,
+    3462
+  ],
+  "productReviews": [
+    {
+      "productId": 4061,
+      "reviewText": "this pixel is smooth.",
+      "reviewDate": "2019-01-10T21:06:10.0731035+02:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "this TCP is slurpee.",
+      "reviewDate": "2017-12-02T17:28:45.6635545+02:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-03-12T04:48:31.4493531+02:00"
+    },
+    {
+      "productId": 993,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-10-12T01:04:38.0634728+03:00"
+    }
+  ]
+}

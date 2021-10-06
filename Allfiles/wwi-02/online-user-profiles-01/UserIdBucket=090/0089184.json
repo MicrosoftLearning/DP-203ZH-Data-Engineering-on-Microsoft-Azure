@@ -1,0 +1,25 @@
+{
+  "userId": 89184,
+  "cartId": "1c42be09-d197-4e8e-aa4d-d8d5d409042e",
+  "preferredProducts": [
+    562,
+    804
+  ],
+  "productReviews": [
+    {
+      "productId": 2113,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-04-03T04:44:30.6729524+03:00"
+    },
+    {
+      "productId": 222,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-02-08T14:05:42.0999993+02:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-07-15T10:53:00.305135+03:00"
+    }
+  ]
+}

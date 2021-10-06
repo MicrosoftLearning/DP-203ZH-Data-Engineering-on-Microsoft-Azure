@@ -1,0 +1,31 @@
+{
+  "userId": 46771,
+  "cartId": "89d72c40-4540-4b08-a57e-860ecf3bda3b",
+  "preferredProducts": [
+    1956,
+    3677,
+    1398
+  ],
+  "productReviews": [
+    {
+      "productId": 4718,
+      "reviewText": "this morph is complimentary.",
+      "reviewDate": "2019-01-30T06:43:28.1266165+02:00"
+    },
+    {
+      "productId": 2451,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-01-30T10:39:05.5850519+02:00"
+    },
+    {
+      "productId": 4773,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-08-02T13:56:22.50163+03:00"
+    },
+    {
+      "productId": 4907,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-12-01T01:31:06.9810858+02:00"
+    }
+  ]
+}

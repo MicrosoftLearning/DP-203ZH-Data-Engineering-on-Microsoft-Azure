@@ -1,0 +1,33 @@
+{
+  "userId": 329,
+  "cartId": "c3c10a02-23b6-4d8f-95f7-f46fb0e57565",
+  "preferredProducts": [
+    4327,
+    3080,
+    850,
+    4139,
+    1193,
+    4029,
+    3893,
+    1202,
+    1044,
+    2473
+  ],
+  "productReviews": [
+    {
+      "productId": 2516,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-07-06T05:15:28.8425455+03:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-07-14T00:08:34.6274767+03:00"
+    },
+    {
+      "productId": 2114,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-02-10T19:02:35.8153542+02:00"
+    }
+  ]
+}

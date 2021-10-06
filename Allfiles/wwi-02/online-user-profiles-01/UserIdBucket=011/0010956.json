@@ -1,0 +1,30 @@
+{
+  "userId": 10956,
+  "cartId": "d73b0a5b-c358-4b77-bd16-13271385c3dd",
+  "preferredProducts": [
+    1169,
+    520,
+    2742,
+    3701,
+    2451,
+    1603,
+    3530
+  ],
+  "productReviews": [
+    {
+      "productId": 4153,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2020-03-09T18:16:59.333364+02:00"
+    },
+    {
+      "productId": 2313,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-09-26T03:32:01.395527+03:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-01-15T16:24:33.522691+02:00"
+    }
+  ]
+}

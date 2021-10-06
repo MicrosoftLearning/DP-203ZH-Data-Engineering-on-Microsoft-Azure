@@ -1,0 +1,33 @@
+{
+  "userId": 36313,
+  "cartId": "f8037219-b9b1-4b07-9f5e-4f9fa26631ab",
+  "preferredProducts": [
+    2007,
+    4674,
+    2402,
+    2725,
+    288
+  ],
+  "productReviews": [
+    {
+      "productId": 3283,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-10-29T04:03:39.5624371+02:00"
+    },
+    {
+      "productId": 4610,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-05-12T09:31:36.5020312+03:00"
+    },
+    {
+      "productId": 2043,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-07-24T00:17:01.2633544+03:00"
+    },
+    {
+      "productId": 2664,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-06-25T21:15:26.4860339+03:00"
+    }
+  ]
+}

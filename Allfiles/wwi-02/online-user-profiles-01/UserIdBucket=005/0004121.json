@@ -1,0 +1,38 @@
+{
+  "userId": 4121,
+  "cartId": "705d6e62-4a3c-411b-a482-b9b2334d6170",
+  "preferredProducts": [
+    1223,
+    3531,
+    4349,
+    729,
+    3755,
+    90,
+    2033,
+    3607,
+    859,
+    3029
+  ],
+  "productReviews": [
+    {
+      "productId": 4194,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-05-21T00:08:59.7951545+03:00"
+    },
+    {
+      "productId": 1954,
+      "reviewText": "this XML is brown.",
+      "reviewDate": "2016-11-09T01:03:48.9164501+02:00"
+    },
+    {
+      "productId": 4032,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-12-24T22:14:07.1213837+02:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "this Persevering is smooth.",
+      "reviewDate": "2018-12-17T18:34:03.9463245+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 74353,
+  "cartId": "9a23f1c8-cf49-4c5f-8f8a-d0ee8f09b5a0",
+  "preferredProducts": [
+    3145,
+    1192,
+    476,
+    4121
+  ],
+  "productReviews": [
+    {
+      "productId": 2835,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-01-09T17:27:00.8849884+02:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-01-15T17:53:05.3116821+02:00"
+    },
+    {
+      "productId": 795,
+      "reviewText": "this Ergonomic is tasty.",
+      "reviewDate": "2018-01-07T20:16:59.2935857+02:00"
+    },
+    {
+      "productId": 633,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2019-10-22T13:46:09.7826694+03:00"
+    }
+  ]
+}

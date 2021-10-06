@@ -1,0 +1,30 @@
+{
+  "userId": 11605,
+  "cartId": "3322581c-87f9-4bb9-ac6f-78a821de3cf9",
+  "preferredProducts": [
+    3889,
+    2138
+  ],
+  "productReviews": [
+    {
+      "productId": 1756,
+      "reviewText": "This interactive works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-06-15T12:07:56.1520252+03:00"
+    },
+    {
+      "productId": 224,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-11-15T12:47:41.0441519+02:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-08-24T22:46:11.659851+03:00"
+    },
+    {
+      "productId": 1244,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-04-19T10:48:18.2027012+03:00"
+    }
+  ]
+}

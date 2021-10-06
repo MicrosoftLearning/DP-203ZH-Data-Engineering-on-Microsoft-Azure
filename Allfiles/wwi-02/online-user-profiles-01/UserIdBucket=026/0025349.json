@@ -1,0 +1,21 @@
+{
+  "userId": 25349,
+  "cartId": "e5de36ab-9a56-4623-87ba-c26efeb1cff8",
+  "preferredProducts": [
+    2319,
+    2927,
+    611
+  ],
+  "productReviews": [
+    {
+      "productId": 1176,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-08-27T05:24:03.0721965+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-04-15T09:17:25.8311879+03:00"
+    }
+  ]
+}

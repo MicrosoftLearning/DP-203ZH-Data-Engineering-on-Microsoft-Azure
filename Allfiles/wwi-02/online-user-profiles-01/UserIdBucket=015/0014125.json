@@ -1,0 +1,23 @@
+{
+  "userId": 14125,
+  "cartId": "dc33612e-edb8-4db2-8c7e-cf473e367d8d",
+  "preferredProducts": [
+    4947,
+    1396,
+    1343,
+    1127,
+    2642
+  ],
+  "productReviews": [
+    {
+      "productId": 1666,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-11-07T01:50:41.4503681+02:00"
+    },
+    {
+      "productId": 2561,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-06-28T11:50:33.5554019+03:00"
+    }
+  ]
+}

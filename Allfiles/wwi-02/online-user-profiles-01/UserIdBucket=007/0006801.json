@@ -1,0 +1,33 @@
+{
+  "userId": 6801,
+  "cartId": "1e0ce9ae-8d5c-4193-855c-7e07e7492899",
+  "preferredProducts": [
+    4328,
+    2924,
+    1878,
+    1032,
+    1998,
+    2316,
+    1921,
+    1599,
+    4673,
+    2001
+  ],
+  "productReviews": [
+    {
+      "productId": 290,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-07-01T04:36:45.3627246+03:00"
+    },
+    {
+      "productId": 4276,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-03-29T07:50:54.8702633+02:00"
+    },
+    {
+      "productId": 2692,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-12-18T16:57:06.5679642+02:00"
+    }
+  ]
+}

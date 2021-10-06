@@ -1,0 +1,36 @@
+{
+  "userId": 5357,
+  "cartId": "5823ac12-86cd-43c7-a454-d012dbc89fe1",
+  "preferredProducts": [
+    4723,
+    1039,
+    2568,
+    1323,
+    3966,
+    3240,
+    355,
+    3635
+  ],
+  "productReviews": [
+    {
+      "productId": 1114,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-03-02T10:05:12.4758609+02:00"
+    },
+    {
+      "productId": 173,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-08-13T19:21:43.3160952+03:00"
+    },
+    {
+      "productId": 1180,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-01-08T03:08:08.4228587+02:00"
+    },
+    {
+      "productId": 3365,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-11-26T21:27:44.6569537+02:00"
+    }
+  ]
+}

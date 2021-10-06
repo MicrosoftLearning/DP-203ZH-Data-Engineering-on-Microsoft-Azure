@@ -1,0 +1,28 @@
+{
+  "userId": 80858,
+  "cartId": "86c8960b-43af-437c-a6cc-35672cf34264",
+  "preferredProducts": [
+    3921,
+    4352,
+    4508,
+    4048,
+    2728
+  ],
+  "productReviews": [
+    {
+      "productId": 1239,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-12-03T19:31:09.238402+02:00"
+    },
+    {
+      "productId": 2247,
+      "reviewText": "this challenge is flirty.",
+      "reviewDate": "2018-08-03T16:53:05.401735+03:00"
+    },
+    {
+      "productId": 2667,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-02-12T15:22:29.179805+02:00"
+    }
+  ]
+}

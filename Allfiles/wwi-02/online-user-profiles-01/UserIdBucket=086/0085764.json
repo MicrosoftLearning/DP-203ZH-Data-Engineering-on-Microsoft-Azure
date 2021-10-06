@@ -1,0 +1,35 @@
+{
+  "userId": 85764,
+  "cartId": "046028a9-e5aa-406d-af33-fdaf8a2c708b",
+  "preferredProducts": [
+    3983,
+    1760
+  ],
+  "productReviews": [
+    {
+      "productId": 263,
+      "reviewText": "This is a really good transform.",
+      "reviewDate": "2018-10-27T14:28:54.7880869+03:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-10-22T17:01:53.4108613+03:00"
+    },
+    {
+      "productId": 2537,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-05-09T00:39:47.1504926+03:00"
+    },
+    {
+      "productId": 4882,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-07-11T09:38:12.4894672+03:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-05-06T07:20:33.4530727+03:00"
+    }
+  ]
+}

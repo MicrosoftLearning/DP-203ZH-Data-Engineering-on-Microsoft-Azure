@@ -1,0 +1,23 @@
+{
+  "userId": 6462,
+  "cartId": "2d76e52c-fd76-4777-88ae-911c5122a8a9",
+  "preferredProducts": [
+    1235,
+    467,
+    1402,
+    4118,
+    1133
+  ],
+  "productReviews": [
+    {
+      "productId": 42,
+      "reviewText": "this Innovative is top-notch.",
+      "reviewDate": "2017-07-14T18:30:08.9879857+03:00"
+    },
+    {
+      "productId": 923,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-06-18T06:38:48.7566306+03:00"
+    }
+  ]
+}

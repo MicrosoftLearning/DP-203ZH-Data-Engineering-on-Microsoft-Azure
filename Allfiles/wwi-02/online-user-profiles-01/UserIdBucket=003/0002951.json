@@ -1,0 +1,36 @@
+{
+  "userId": 2951,
+  "cartId": "9a625f81-4f19-4f48-b086-26e02b384e67",
+  "preferredProducts": [
+    2688,
+    3870,
+    3102,
+    1400,
+    1048,
+    2241,
+    802,
+    3428
+  ],
+  "productReviews": [
+    {
+      "productId": 1200,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-11-11T11:23:11.9791711+02:00"
+    },
+    {
+      "productId": 540,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2017-04-11T15:29:05.5563146+03:00"
+    },
+    {
+      "productId": 2491,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-04-29T20:15:07.9906519+03:00"
+    },
+    {
+      "productId": 980,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2016-11-23T19:27:53.922469+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 10468,
+  "cartId": "f4279bc3-7a77-4c0b-9ae4-acee9eaa266e",
+  "preferredProducts": [
+    889,
+    3914,
+    2512,
+    2756,
+    4456,
+    174,
+    3885,
+    2844,
+    2280,
+    4844
+  ],
+  "productReviews": [
+    {
+      "productId": 4388,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-12-28T00:21:38.1650178+02:00"
+    },
+    {
+      "productId": 3704,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-04-18T07:38:16.1471104+03:00"
+    },
+    {
+      "productId": 2549,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-10-14T10:43:35.1477224+03:00"
+    },
+    {
+      "productId": 4496,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-05-16T22:14:35.3282155+03:00"
+    }
+  ]
+}

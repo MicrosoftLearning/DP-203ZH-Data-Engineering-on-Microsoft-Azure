@@ -1,0 +1,35 @@
+{
+  "userId": 2693,
+  "cartId": "5df3f17e-751c-401a-916f-d80d33c0f75c",
+  "preferredProducts": [
+    666,
+    3602,
+    644,
+    60,
+    438,
+    4938,
+    2775
+  ],
+  "productReviews": [
+    {
+      "productId": 348,
+      "reviewText": "This integrate works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-07-02T19:04:47.4823795+03:00"
+    },
+    {
+      "productId": 1890,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-04-27T02:49:10.6159221+03:00"
+    },
+    {
+      "productId": 1653,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-10-29T06:12:30.8240276+03:00"
+    },
+    {
+      "productId": 1619,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-02-09T07:20:36.5004733+02:00"
+    }
+  ]
+}

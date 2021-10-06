@@ -1,0 +1,43 @@
+{
+  "userId": 8982,
+  "cartId": "b4f53ecd-4d34-436e-9724-0a30505e302c",
+  "preferredProducts": [
+    485,
+    1591,
+    2849,
+    3140,
+    1908,
+    4882,
+    61,
+    4740,
+    3729,
+    1711
+  ],
+  "productReviews": [
+    {
+      "productId": 512,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-06-23T15:19:05.8720108+03:00"
+    },
+    {
+      "productId": 1239,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-06-29T09:42:24.3268852+03:00"
+    },
+    {
+      "productId": 4233,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-02-03T17:13:25.0495745+02:00"
+    },
+    {
+      "productId": 999,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-05-01T00:26:53.4334846+03:00"
+    },
+    {
+      "productId": 3951,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-12-06T22:31:06.6450526+02:00"
+    }
+  ]
+}

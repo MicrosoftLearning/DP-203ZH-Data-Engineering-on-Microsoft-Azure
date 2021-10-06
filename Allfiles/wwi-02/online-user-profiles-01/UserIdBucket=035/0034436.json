@@ -1,0 +1,32 @@
+{
+  "userId": 34436,
+  "cartId": "9ecd8db4-489f-42bc-8b06-5f98ad56c442",
+  "preferredProducts": [
+    1419,
+    4788,
+    1448,
+    3936
+  ],
+  "productReviews": [
+    {
+      "productId": 3862,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-09-08T04:43:21.1263236+03:00"
+    },
+    {
+      "productId": 186,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-09-22T09:04:16.892963+03:00"
+    },
+    {
+      "productId": 2869,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-04-19T02:06:16.5973295+03:00"
+    },
+    {
+      "productId": 3418,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-05-16T16:09:30.8423434+03:00"
+    }
+  ]
+}

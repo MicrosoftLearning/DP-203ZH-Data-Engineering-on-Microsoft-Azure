@@ -1,0 +1,29 @@
+{
+  "userId": 20284,
+  "cartId": "72bcc1a7-3066-4b3b-9acb-05d394e1d5f7",
+  "preferredProducts": [
+    1450,
+    294,
+    2597,
+    4539,
+    462,
+    2497
+  ],
+  "productReviews": [
+    {
+      "productId": 3877,
+      "reviewText": "This Technician works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-08-24T12:42:41.58976+03:00"
+    },
+    {
+      "productId": 3504,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-14T20:12:38.2867436+03:00"
+    },
+    {
+      "productId": 3895,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-03-16T22:37:04.7160314+02:00"
+    }
+  ]
+}

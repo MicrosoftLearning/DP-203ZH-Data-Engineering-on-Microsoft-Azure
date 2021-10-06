@@ -1,0 +1,41 @@
+{
+  "userId": 58888,
+  "cartId": "00094bc3-f8a7-4986-a0e4-a757b0140e3e",
+  "preferredProducts": [
+    3392,
+    1183,
+    3723,
+    1002,
+    796,
+    713,
+    4830,
+    3407
+  ],
+  "productReviews": [
+    {
+      "productId": 4888,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-10-31T11:29:03.5788258+02:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-08-30T02:38:49.2616589+03:00"
+    },
+    {
+      "productId": 4192,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-12-06T06:25:22.5005513+02:00"
+    },
+    {
+      "productId": 1963,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-05-27T08:29:25.4124699+03:00"
+    },
+    {
+      "productId": 3727,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-05-27T18:30:44.4597229+03:00"
+    }
+  ]
+}

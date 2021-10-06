@@ -1,0 +1,37 @@
+{
+  "userId": 83113,
+  "cartId": "a1e51ba9-1b5c-4847-86c1-fe0f98a36c05",
+  "preferredProducts": [
+    4433,
+    2385,
+    2404,
+    2618
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-04-14T03:04:42.235656+03:00"
+    },
+    {
+      "productId": 1870,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-09-27T01:06:43.2406647+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-12-06T08:38:33.6212131+02:00"
+    },
+    {
+      "productId": 1477,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-09-06T06:44:52.6081206+03:00"
+    },
+    {
+      "productId": 61,
+      "reviewText": "this CFP Franc is complimentary.",
+      "reviewDate": "2018-04-22T22:36:42.1319448+03:00"
+    }
+  ]
+}

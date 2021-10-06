@@ -1,0 +1,33 @@
+{
+  "userId": 22682,
+  "cartId": "8e16b499-a80b-4cfe-b498-4a487b15dfff",
+  "preferredProducts": [
+    507,
+    4020,
+    3477,
+    889,
+    1470,
+    745,
+    1959,
+    3950,
+    3657,
+    2130
+  ],
+  "productReviews": [
+    {
+      "productId": 3070,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-03-18T19:15:55.4339001+02:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-11-28T20:05:31.6748986+02:00"
+    },
+    {
+      "productId": 3540,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-03-22T21:52:10.1680203+02:00"
+    }
+  ]
+}

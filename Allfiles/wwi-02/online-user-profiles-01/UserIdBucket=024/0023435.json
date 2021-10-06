@@ -1,0 +1,28 @@
+{
+  "userId": 23435,
+  "cartId": "e0ade15a-084e-4a06-8d16-cf5101757c68",
+  "preferredProducts": [
+    4200,
+    647,
+    1487,
+    468,
+    1445
+  ],
+  "productReviews": [
+    {
+      "productId": 2687,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-08-29T23:55:34.0810714+03:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "This orchid works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2020-02-11T10:59:09.2467949+02:00"
+    },
+    {
+      "productId": 4466,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2016-11-20T22:27:32.625764+02:00"
+    }
+  ]
+}

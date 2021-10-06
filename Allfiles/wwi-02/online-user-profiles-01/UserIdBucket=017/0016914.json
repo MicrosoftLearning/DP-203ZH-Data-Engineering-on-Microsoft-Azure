@@ -1,0 +1,32 @@
+{
+  "userId": 16914,
+  "cartId": "a8e73722-6915-40ac-8bf8-b94c26cc1a1b",
+  "preferredProducts": [
+    2258,
+    2865,
+    2384,
+    1851
+  ],
+  "productReviews": [
+    {
+      "productId": 2375,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-09-10T03:49:35.0362888+03:00"
+    },
+    {
+      "productId": 557,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-05-30T12:23:45.89513+03:00"
+    },
+    {
+      "productId": 896,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-07-17T01:00:05.8529966+03:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-02-25T17:47:05.8400163+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 10564,
+  "cartId": "e6ee659d-6aeb-4e1d-adda-c73d3dd48127",
+  "preferredProducts": [
+    3075,
+    4042,
+    4123,
+    2779,
+    1174,
+    4693,
+    889
+  ],
+  "productReviews": [
+    {
+      "productId": 752,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2020-02-16T10:29:52.4265809+02:00"
+    },
+    {
+      "productId": 112,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-12-18T05:19:55.0158487+02:00"
+    },
+    {
+      "productId": 1377,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-10-16T01:54:49.5657942+03:00"
+    }
+  ]
+}

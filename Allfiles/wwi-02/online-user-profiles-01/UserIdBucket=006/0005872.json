@@ -1,0 +1,28 @@
+{
+  "userId": 5872,
+  "cartId": "3cdf1b81-4b73-47fe-ba6e-19041508500a",
+  "preferredProducts": [
+    3675,
+    4651,
+    2309,
+    2465,
+    2522
+  ],
+  "productReviews": [
+    {
+      "productId": 2270,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-03-25T16:36:02.780262+03:00"
+    },
+    {
+      "productId": 4727,
+      "reviewText": "this payment is ratty.",
+      "reviewDate": "2016-11-24T08:45:11.8127887+02:00"
+    },
+    {
+      "productId": 2698,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-05-31T20:45:19.210518+03:00"
+    }
+  ]
+}

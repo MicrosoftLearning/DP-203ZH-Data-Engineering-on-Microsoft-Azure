@@ -1,0 +1,40 @@
+{
+  "userId": 23245,
+  "cartId": "b565d16c-9984-4de6-afbb-f501aeadaec3",
+  "preferredProducts": [
+    3813,
+    3730,
+    2332,
+    471,
+    2768,
+    3506,
+    4688
+  ],
+  "productReviews": [
+    {
+      "productId": 784,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-03-19T09:59:42.1045905+02:00"
+    },
+    {
+      "productId": 346,
+      "reviewText": "this artificial intelligence is top-notch.",
+      "reviewDate": "2017-05-09T17:34:57.7349312+03:00"
+    },
+    {
+      "productId": 557,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-12-20T15:50:38.724222+02:00"
+    },
+    {
+      "productId": 2527,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-07-08T04:54:56.3897436+03:00"
+    },
+    {
+      "productId": 1380,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-02-18T13:34:05.7497942+02:00"
+    }
+  ]
+}

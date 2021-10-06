@@ -1,0 +1,28 @@
+{
+  "userId": 3868,
+  "cartId": "714ad0e2-2f86-4bce-bcff-4b1bf5d3cd77",
+  "preferredProducts": [
+    2412,
+    4900,
+    2937,
+    3999,
+    4756
+  ],
+  "productReviews": [
+    {
+      "productId": 3809,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-01-17T10:36:46.3195334+02:00"
+    },
+    {
+      "productId": 4844,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-08-26T08:20:33.1273745+03:00"
+    },
+    {
+      "productId": 2819,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-10-22T23:23:43.0197541+03:00"
+    }
+  ]
+}

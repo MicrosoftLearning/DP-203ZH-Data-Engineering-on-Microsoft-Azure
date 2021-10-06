@@ -1,0 +1,30 @@
+{
+  "userId": 18262,
+  "cartId": "cb5173c0-9b0c-4861-a89d-09d03f93a11e",
+  "preferredProducts": [
+    3890,
+    3424,
+    4346,
+    1704,
+    2320,
+    2329,
+    4889
+  ],
+  "productReviews": [
+    {
+      "productId": 3480,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-07-19T10:12:03.3652179+03:00"
+    },
+    {
+      "productId": 954,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-05-19T13:50:49.5875394+03:00"
+    },
+    {
+      "productId": 3680,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-08-07T20:17:21.0738726+03:00"
+    }
+  ]
+}

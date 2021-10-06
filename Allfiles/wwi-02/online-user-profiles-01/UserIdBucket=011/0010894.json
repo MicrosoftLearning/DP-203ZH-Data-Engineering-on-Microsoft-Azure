@@ -1,0 +1,25 @@
+{
+  "userId": 10894,
+  "cartId": "4c2b990e-2ed2-40bd-aa35-c5ae4eb1f2b6",
+  "preferredProducts": [
+    82,
+    1982
+  ],
+  "productReviews": [
+    {
+      "productId": 1394,
+      "reviewText": "This Avon works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2016-10-27T13:19:43.085866+03:00"
+    },
+    {
+      "productId": 2982,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-11-11T21:21:29.466574+02:00"
+    },
+    {
+      "productId": 1026,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-07-02T13:05:07.8104789+03:00"
+    }
+  ]
+}

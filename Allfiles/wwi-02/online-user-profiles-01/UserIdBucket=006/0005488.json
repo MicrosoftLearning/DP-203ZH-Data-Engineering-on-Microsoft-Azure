@@ -1,0 +1,31 @@
+{
+  "userId": 5488,
+  "cartId": "beea9f42-3ea7-4e56-be97-e15e4b4764fc",
+  "preferredProducts": [
+    548,
+    4895,
+    2475
+  ],
+  "productReviews": [
+    {
+      "productId": 4576,
+      "reviewText": "this deposit is awesome.",
+      "reviewDate": "2019-06-23T02:30:00.4394671+03:00"
+    },
+    {
+      "productId": 1534,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-12-31T08:17:09.7232907+02:00"
+    },
+    {
+      "productId": 3615,
+      "reviewText": "this Licensed Fresh Car is mellow.",
+      "reviewDate": "2018-04-12T17:02:22.6285842+03:00"
+    },
+    {
+      "productId": 2014,
+      "reviewText": "this Coves is gracious.",
+      "reviewDate": "2016-05-30T09:28:58.3011+03:00"
+    }
+  ]
+}

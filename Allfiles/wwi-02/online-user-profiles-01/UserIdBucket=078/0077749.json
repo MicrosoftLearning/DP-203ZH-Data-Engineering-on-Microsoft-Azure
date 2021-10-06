@@ -1,0 +1,29 @@
+{
+  "userId": 77749,
+  "cartId": "bcd79560-4e3b-4bbe-b2a0-a4ae9d878ee7",
+  "preferredProducts": [
+    4182,
+    2247,
+    326,
+    3280,
+    1481,
+    4469
+  ],
+  "productReviews": [
+    {
+      "productId": 2806,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-04-15T13:56:35.475079+03:00"
+    },
+    {
+      "productId": 4922,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-10-02T18:35:20.4484301+03:00"
+    },
+    {
+      "productId": 1903,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2020-02-29T21:03:47.12835+02:00"
+    }
+  ]
+}

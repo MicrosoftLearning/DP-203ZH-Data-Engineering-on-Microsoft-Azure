@@ -1,0 +1,29 @@
+{
+  "userId": 47432,
+  "cartId": "20c32899-fb9d-4865-b01e-c862bc1d615a",
+  "preferredProducts": [
+    1859,
+    1159,
+    3285,
+    988,
+    589,
+    1730
+  ],
+  "productReviews": [
+    {
+      "productId": 791,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-09-24T21:58:43.7117535+03:00"
+    },
+    {
+      "productId": 2200,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-02-01T21:58:31.2975484+02:00"
+    },
+    {
+      "productId": 4227,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-09-04T21:40:14.4021125+03:00"
+    }
+  ]
+}

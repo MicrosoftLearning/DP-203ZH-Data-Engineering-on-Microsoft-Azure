@@ -1,0 +1,28 @@
+{
+  "userId": 69655,
+  "cartId": "3b911992-e8a1-4037-984c-e1e99a7bef8e",
+  "preferredProducts": [
+    1798,
+    4674,
+    3037,
+    1157,
+    3656
+  ],
+  "productReviews": [
+    {
+      "productId": 1473,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-05-25T02:58:38.5017522+03:00"
+    },
+    {
+      "productId": 2532,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-04-10T08:17:00.938579+03:00"
+    },
+    {
+      "productId": 3689,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-07-25T05:21:03.3812014+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 95789,
+  "cartId": "c38546da-df6a-4175-bbae-4238967d6c40",
+  "preferredProducts": [
+    2756,
+    2391,
+    2911,
+    910,
+    573,
+    866
+  ],
+  "productReviews": [
+    {
+      "productId": 2149,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-01-03T13:17:17.5239965+02:00"
+    },
+    {
+      "productId": 3532,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-11-20T15:10:14.7572564+02:00"
+    },
+    {
+      "productId": 3632,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2020-01-12T19:58:58.5340734+02:00"
+    }
+  ]
+}

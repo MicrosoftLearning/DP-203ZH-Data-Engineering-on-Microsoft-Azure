@@ -1,0 +1,30 @@
+{
+  "userId": 55937,
+  "cartId": "8cf381bb-271d-43b1-8a8b-c7a62a0c8720",
+  "preferredProducts": [
+    3456,
+    3190
+  ],
+  "productReviews": [
+    {
+      "productId": 1450,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-10-02T17:05:39.1141939+03:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-12-02T22:52:54.137593+02:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2016-09-16T17:55:27.9795929+03:00"
+    },
+    {
+      "productId": 4151,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2020-02-12T12:23:06.4391501+02:00"
+    }
+  ]
+}

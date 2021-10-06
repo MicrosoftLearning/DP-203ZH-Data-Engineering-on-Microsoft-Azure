@@ -1,0 +1,27 @@
+{
+  "userId": 4465,
+  "cartId": "44e312ae-9819-4ca8-bd0e-ab8f5d98ae69",
+  "preferredProducts": [
+    3,
+    4512,
+    4014,
+    4853
+  ],
+  "productReviews": [
+    {
+      "productId": 2282,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-02-21T10:42:59.9449996+02:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-03-26T09:17:44.275472+03:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-10-16T04:08:50.2355817+03:00"
+    }
+  ]
+}

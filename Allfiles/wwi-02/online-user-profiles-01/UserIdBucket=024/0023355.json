@@ -1,0 +1,23 @@
+{
+  "userId": 23355,
+  "cartId": "8832f014-be4c-41b3-ad22-d2edda675248",
+  "preferredProducts": [
+    4289,
+    1780,
+    2421,
+    99,
+    2773
+  ],
+  "productReviews": [
+    {
+      "productId": 1823,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-05-14T08:43:55.3369578+03:00"
+    },
+    {
+      "productId": 4168,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-03-03T12:01:41.8067043+02:00"
+    }
+  ]
+}

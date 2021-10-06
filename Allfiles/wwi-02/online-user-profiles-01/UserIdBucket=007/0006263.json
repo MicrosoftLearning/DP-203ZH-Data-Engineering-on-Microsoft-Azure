@@ -1,0 +1,33 @@
+{
+  "userId": 6263,
+  "cartId": "36ec4ba4-0a08-4021-99f8-8afb1b6f57c2",
+  "preferredProducts": [
+    967,
+    4410,
+    2191,
+    2292,
+    6
+  ],
+  "productReviews": [
+    {
+      "productId": 4728,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-11-01T14:11:20.6486679+02:00"
+    },
+    {
+      "productId": 3218,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-07-14T18:39:47.927771+03:00"
+    },
+    {
+      "productId": 651,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-08-28T21:37:57.5617315+03:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-04-20T00:35:12.0913843+03:00"
+    }
+  ]
+}

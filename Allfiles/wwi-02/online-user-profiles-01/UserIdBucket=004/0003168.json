@@ -1,0 +1,30 @@
+{
+  "userId": 3168,
+  "cartId": "31260f45-5c71-4050-b85b-b28b5394ed26",
+  "preferredProducts": [
+    3174,
+    238
+  ],
+  "productReviews": [
+    {
+      "productId": 1600,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-01-22T12:55:06.3909143+02:00"
+    },
+    {
+      "productId": 2835,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-07-08T11:49:19.7508121+03:00"
+    },
+    {
+      "productId": 1157,
+      "reviewText": "this drive is hyper.",
+      "reviewDate": "2017-04-15T05:10:48.6388178+03:00"
+    },
+    {
+      "productId": 1054,
+      "reviewText": "This EXE works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2020-03-05T14:59:57.4769566+02:00"
+    }
+  ]
+}

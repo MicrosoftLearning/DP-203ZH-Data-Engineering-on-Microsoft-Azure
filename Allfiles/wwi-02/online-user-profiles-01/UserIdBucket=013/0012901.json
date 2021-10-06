@@ -1,0 +1,41 @@
+{
+  "userId": 12901,
+  "cartId": "ea749c34-5aa3-48b9-86cb-1bcaa82fa0e9",
+  "preferredProducts": [
+    4102,
+    2559,
+    876,
+    2117,
+    3405,
+    3082,
+    2182,
+    4606
+  ],
+  "productReviews": [
+    {
+      "productId": 2227,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-05-11T05:33:37.6768532+03:00"
+    },
+    {
+      "productId": 3661,
+      "reviewText": "This deposit works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-06-23T20:31:47.6243193+03:00"
+    },
+    {
+      "productId": 2356,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-08-16T04:10:11.7326481+03:00"
+    },
+    {
+      "productId": 2964,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-01-11T10:18:51.3259801+02:00"
+    },
+    {
+      "productId": 4252,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-04-06T11:59:45.2735955+03:00"
+    }
+  ]
+}

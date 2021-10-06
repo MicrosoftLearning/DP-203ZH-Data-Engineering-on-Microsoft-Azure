@@ -1,0 +1,40 @@
+{
+  "userId": 2312,
+  "cartId": "e596397f-e6dd-419d-9fba-443ca153313e",
+  "preferredProducts": [
+    91,
+    4412,
+    2693,
+    1260,
+    3578,
+    2688,
+    3244
+  ],
+  "productReviews": [
+    {
+      "productId": 414,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-02-18T06:53:49.6705119+02:00"
+    },
+    {
+      "productId": 3177,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-06-04T14:48:40.9641706+03:00"
+    },
+    {
+      "productId": 1329,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-03-30T16:21:14.8098202+03:00"
+    },
+    {
+      "productId": 4370,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-05-31T11:18:08.0421159+03:00"
+    },
+    {
+      "productId": 3470,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-04-11T05:46:33.8277071+03:00"
+    }
+  ]
+}

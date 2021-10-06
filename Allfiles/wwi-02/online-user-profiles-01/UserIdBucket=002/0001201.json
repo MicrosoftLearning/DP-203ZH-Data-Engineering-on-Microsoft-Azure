@@ -1,0 +1,36 @@
+{
+  "userId": 1201,
+  "cartId": "27ab4fae-fe25-453b-965f-a64759ada870",
+  "preferredProducts": [
+    3056,
+    1637,
+    477
+  ],
+  "productReviews": [
+    {
+      "productId": 754,
+      "reviewText": "this District is awesome.",
+      "reviewDate": "2016-08-07T07:38:09.2071379+03:00"
+    },
+    {
+      "productId": 3221,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-07-29T11:53:03.3200545+03:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-04-24T09:27:32.6595438+03:00"
+    },
+    {
+      "productId": 776,
+      "reviewText": "this innovative is ratty.",
+      "reviewDate": "2016-12-15T22:46:18.7578187+02:00"
+    },
+    {
+      "productId": 4293,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2016-07-25T01:31:29.0252544+03:00"
+    }
+  ]
+}

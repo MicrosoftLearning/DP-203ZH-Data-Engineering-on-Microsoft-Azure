@@ -1,0 +1,31 @@
+{
+  "userId": 4439,
+  "cartId": "75b6b6fb-0999-47b2-93d1-058b727b91c4",
+  "preferredProducts": [
+    2569,
+    3165,
+    354,
+    2240,
+    3546,
+    3531,
+    1124,
+    643
+  ],
+  "productReviews": [
+    {
+      "productId": 3046,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-01-11T12:11:31.9451346+02:00"
+    },
+    {
+      "productId": 3663,
+      "reviewText": "this dynamic is ratty.",
+      "reviewDate": "2020-01-03T03:08:41.3331793+02:00"
+    },
+    {
+      "productId": 3720,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-10-31T00:38:26.8382394+02:00"
+    }
+  ]
+}

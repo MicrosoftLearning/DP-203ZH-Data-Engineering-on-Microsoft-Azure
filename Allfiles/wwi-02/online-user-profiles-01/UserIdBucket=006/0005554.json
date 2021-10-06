@@ -1,0 +1,43 @@
+{
+  "userId": 5554,
+  "cartId": "96bc0bda-830d-4948-b3e4-ae2ba3f7de66",
+  "preferredProducts": [
+    236,
+    1456,
+    4664,
+    773,
+    571,
+    2355,
+    4387,
+    3188,
+    3774,
+    3778
+  ],
+  "productReviews": [
+    {
+      "productId": 1565,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-03-31T20:07:06.9247624+03:00"
+    },
+    {
+      "productId": 33,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-10-27T22:50:17.1044687+02:00"
+    },
+    {
+      "productId": 3166,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-12-19T19:13:52.5191322+02:00"
+    },
+    {
+      "productId": 217,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-04-15T03:14:07.3406469+03:00"
+    },
+    {
+      "productId": 282,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-05-23T11:43:04.9612667+03:00"
+    }
+  ]
+}

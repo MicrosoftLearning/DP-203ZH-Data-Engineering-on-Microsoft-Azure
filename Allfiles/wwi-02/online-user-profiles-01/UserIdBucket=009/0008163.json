@@ -1,0 +1,41 @@
+{
+  "userId": 8163,
+  "cartId": "9b4c0e3f-df90-44ee-9f31-36304c36e5ec",
+  "preferredProducts": [
+    1083,
+    3987,
+    1996,
+    610,
+    4754,
+    780,
+    2293,
+    385
+  ],
+  "productReviews": [
+    {
+      "productId": 3346,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-08-18T19:13:59.2552512+03:00"
+    },
+    {
+      "productId": 4950,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-02-27T17:51:31.8954743+02:00"
+    },
+    {
+      "productId": 1878,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-01-12T10:23:48.4880144+02:00"
+    },
+    {
+      "productId": 442,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-07-09T16:46:43.5317515+03:00"
+    },
+    {
+      "productId": 1267,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-07-06T10:30:35.5169605+03:00"
+    }
+  ]
+}

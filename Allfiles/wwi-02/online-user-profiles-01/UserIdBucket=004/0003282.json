@@ -1,0 +1,35 @@
+{
+  "userId": 3282,
+  "cartId": "a632604c-95da-4ab9-a8fb-2fe9de830de4",
+  "preferredProducts": [
+    637,
+    1326,
+    180,
+    202,
+    4722,
+    4802,
+    4239
+  ],
+  "productReviews": [
+    {
+      "productId": 2879,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-03-21T11:47:49.5646283+02:00"
+    },
+    {
+      "productId": 4639,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-09-25T08:59:21.9655+03:00"
+    },
+    {
+      "productId": 3376,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-01-13T08:52:11.2614211+02:00"
+    },
+    {
+      "productId": 4525,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-08-24T20:37:26.6176808+03:00"
+    }
+  ]
+}

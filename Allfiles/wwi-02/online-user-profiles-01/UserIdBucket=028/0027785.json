@@ -1,0 +1,33 @@
+{
+  "userId": 27785,
+  "cartId": "4e1642b2-2487-4305-8180-9a82bb3cbc6c",
+  "preferredProducts": [
+    3868,
+    1044,
+    255,
+    2836,
+    3249,
+    2605,
+    44,
+    3166,
+    1485,
+    1991
+  ],
+  "productReviews": [
+    {
+      "productId": 2901,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-11-26T00:03:07.0302649+02:00"
+    },
+    {
+      "productId": 3502,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-11-18T11:44:24.2081448+02:00"
+    },
+    {
+      "productId": 1642,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2020-04-26T19:36:02.2679081+03:00"
+    }
+  ]
+}

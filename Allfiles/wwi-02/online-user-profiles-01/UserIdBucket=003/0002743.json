@@ -1,0 +1,24 @@
+{
+  "userId": 2743,
+  "cartId": "61b01b54-9b1b-4d17-9424-79215b89ed15",
+  "preferredProducts": [
+    2891,
+    2160,
+    4332,
+    4516,
+    1676,
+    3048
+  ],
+  "productReviews": [
+    {
+      "productId": 136,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-11-01T11:09:42.0067083+02:00"
+    },
+    {
+      "productId": 4319,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-03-22T03:29:45.4592649+02:00"
+    }
+  ]
+}

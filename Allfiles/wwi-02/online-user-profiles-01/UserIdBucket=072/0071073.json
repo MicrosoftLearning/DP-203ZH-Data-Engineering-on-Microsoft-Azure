@@ -1,0 +1,32 @@
+{
+  "userId": 71073,
+  "cartId": "abfe1596-aa1a-42f8-9484-160ad08640bb",
+  "preferredProducts": [
+    1500,
+    3857,
+    2465,
+    4527
+  ],
+  "productReviews": [
+    {
+      "productId": 4023,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-07-13T14:44:23.1215862+03:00"
+    },
+    {
+      "productId": 2389,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-06-22T19:19:40.4012753+03:00"
+    },
+    {
+      "productId": 2057,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-10-21T00:14:11.2915987+03:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-05-13T15:47:30.9858711+03:00"
+    }
+  ]
+}

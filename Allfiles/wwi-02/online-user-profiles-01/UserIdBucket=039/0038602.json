@@ -1,0 +1,36 @@
+{
+  "userId": 38602,
+  "cartId": "d2cca12c-4923-4de1-9304-fd71802a0220",
+  "preferredProducts": [
+    522,
+    687,
+    4502,
+    4766,
+    2921,
+    2493,
+    3158,
+    3993
+  ],
+  "productReviews": [
+    {
+      "productId": 3271,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-03-13T15:54:34.9941287+02:00"
+    },
+    {
+      "productId": 3208,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-07-11T21:16:12.5415787+03:00"
+    },
+    {
+      "productId": 3621,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-02-01T09:21:10.5566829+02:00"
+    },
+    {
+      "productId": 1871,
+      "reviewText": "this Licensed Concrete Table is top-notch.",
+      "reviewDate": "2018-02-19T12:31:30.4121107+02:00"
+    }
+  ]
+}

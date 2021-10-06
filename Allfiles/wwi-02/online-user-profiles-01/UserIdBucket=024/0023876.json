@@ -1,0 +1,30 @@
+{
+  "userId": 23876,
+  "cartId": "a5d9f4a0-4be6-46ca-88ba-3f1887cfcf65",
+  "preferredProducts": [
+    1446,
+    4025,
+    192,
+    3438,
+    1012,
+    3287,
+    951
+  ],
+  "productReviews": [
+    {
+      "productId": 491,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2020-04-29T03:43:10.7919453+03:00"
+    },
+    {
+      "productId": 326,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-02-26T15:59:17.3176487+02:00"
+    },
+    {
+      "productId": 1847,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-09-25T17:20:42.8331427+03:00"
+    }
+  ]
+}

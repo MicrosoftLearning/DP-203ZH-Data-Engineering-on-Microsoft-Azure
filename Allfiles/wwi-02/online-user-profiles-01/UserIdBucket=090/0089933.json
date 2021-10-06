@@ -1,0 +1,27 @@
+{
+  "userId": 89933,
+  "cartId": "d690f268-d402-40d7-a7b7-c64ddb872a05",
+  "preferredProducts": [
+    4331,
+    366,
+    2431,
+    644
+  ],
+  "productReviews": [
+    {
+      "productId": 785,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-09-24T03:22:39.9455932+03:00"
+    },
+    {
+      "productId": 1091,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-10-07T23:37:28.2067337+03:00"
+    },
+    {
+      "productId": 1171,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-04-03T07:03:50.4168626+03:00"
+    }
+  ]
+}

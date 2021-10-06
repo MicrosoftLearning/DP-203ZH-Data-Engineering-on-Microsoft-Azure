@@ -1,0 +1,33 @@
+{
+  "userId": 54065,
+  "cartId": "1da973fb-a4cc-4572-b13d-ae0e2cdd4add",
+  "preferredProducts": [
+    1600,
+    3577,
+    1469,
+    3117,
+    355,
+    521,
+    192,
+    3101,
+    1734,
+    2935
+  ],
+  "productReviews": [
+    {
+      "productId": 4552,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-03-23T01:12:14.5843191+02:00"
+    },
+    {
+      "productId": 395,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-03-29T11:32:07.8788502+02:00"
+    },
+    {
+      "productId": 1311,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-02-03T15:47:34.4225657+02:00"
+    }
+  ]
+}

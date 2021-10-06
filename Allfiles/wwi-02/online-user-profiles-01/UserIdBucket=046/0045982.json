@@ -1,0 +1,23 @@
+{
+  "userId": 45982,
+  "cartId": "14df81dc-4d9d-419a-8788-48e4fe52e5de",
+  "preferredProducts": [
+    402,
+    2000,
+    1046,
+    3788,
+    2257
+  ],
+  "productReviews": [
+    {
+      "productId": 533,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-07-26T11:56:22.121743+03:00"
+    },
+    {
+      "productId": 2420,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-01-28T20:25:44.1957083+02:00"
+    }
+  ]
+}

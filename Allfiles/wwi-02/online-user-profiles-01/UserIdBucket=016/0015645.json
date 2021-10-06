@@ -1,0 +1,36 @@
+{
+  "userId": 15645,
+  "cartId": "dc763f97-0c24-47b9-9dd4-19e63aeb0770",
+  "preferredProducts": [
+    1060,
+    2346,
+    2014
+  ],
+  "productReviews": [
+    {
+      "productId": 2013,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-01-18T00:11:07.8049379+02:00"
+    },
+    {
+      "productId": 2629,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-03-20T02:48:18.5246127+02:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-07-14T01:48:47.9336079+03:00"
+    },
+    {
+      "productId": 1611,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-03-03T21:45:59.5224636+02:00"
+    },
+    {
+      "productId": 587,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-10-26T14:43:55.8242598+03:00"
+    }
+  ]
+}

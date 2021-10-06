@@ -1,0 +1,33 @@
+{
+  "userId": 42037,
+  "cartId": "5ed550ca-e4a5-456f-9ac7-0754fc80b230",
+  "preferredProducts": [
+    1837,
+    1077,
+    1360,
+    2408,
+    2102,
+    2547,
+    69,
+    4858,
+    4770,
+    1876
+  ],
+  "productReviews": [
+    {
+      "productId": 678,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-05-23T18:03:39.3301415+03:00"
+    },
+    {
+      "productId": 1696,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-01-30T02:19:19.5790355+02:00"
+    },
+    {
+      "productId": 2397,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-07-19T12:33:48.2774504+03:00"
+    }
+  ]
+}

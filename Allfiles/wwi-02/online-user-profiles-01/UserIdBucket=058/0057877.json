@@ -1,0 +1,29 @@
+{
+  "userId": 57877,
+  "cartId": "456f269f-0d21-4ffd-b6d0-b02258633e13",
+  "preferredProducts": [
+    245,
+    6,
+    2060,
+    4125,
+    4100,
+    1664
+  ],
+  "productReviews": [
+    {
+      "productId": 2752,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-02-10T13:41:54.1922768+02:00"
+    },
+    {
+      "productId": 2655,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-07-16T02:53:09.8306359+03:00"
+    },
+    {
+      "productId": 2027,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-06-12T12:22:32.115246+03:00"
+    }
+  ]
+}

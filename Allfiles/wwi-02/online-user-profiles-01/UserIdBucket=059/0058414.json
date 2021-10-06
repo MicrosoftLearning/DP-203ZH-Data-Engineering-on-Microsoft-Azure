@@ -1,0 +1,40 @@
+{
+  "userId": 58414,
+  "cartId": "11df23ca-53af-42de-a1cf-3e2c3517f44b",
+  "preferredProducts": [
+    2189,
+    2091,
+    3614,
+    1846,
+    2115,
+    4578,
+    725
+  ],
+  "productReviews": [
+    {
+      "productId": 4016,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-11-06T03:04:01.5686223+02:00"
+    },
+    {
+      "productId": 1330,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-02-05T06:14:41.6980969+02:00"
+    },
+    {
+      "productId": 4307,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-02-24T02:09:27.977821+02:00"
+    },
+    {
+      "productId": 3367,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-11-15T20:26:09.7350045+02:00"
+    },
+    {
+      "productId": 4080,
+      "reviewText": "this Lights is whole-grain.",
+      "reviewDate": "2019-09-23T21:56:23.8854459+03:00"
+    }
+  ]
+}

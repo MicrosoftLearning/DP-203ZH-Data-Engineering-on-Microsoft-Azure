@@ -1,0 +1,28 @@
+{
+  "userId": 71594,
+  "cartId": "43bff0b1-9625-4d54-8563-922a47bd68ff",
+  "preferredProducts": [
+    2409,
+    1851,
+    3064,
+    4244,
+    905
+  ],
+  "productReviews": [
+    {
+      "productId": 4678,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-04-28T13:43:30.5908903+03:00"
+    },
+    {
+      "productId": 2750,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-03-20T08:48:55.9789406+02:00"
+    },
+    {
+      "productId": 2880,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-02-04T17:23:14.7091447+02:00"
+    }
+  ]
+}

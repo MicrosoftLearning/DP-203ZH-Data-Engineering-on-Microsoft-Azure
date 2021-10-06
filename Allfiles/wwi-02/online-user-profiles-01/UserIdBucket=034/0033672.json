@@ -1,0 +1,30 @@
+{
+  "userId": 33672,
+  "cartId": "c3b0101d-ea9d-4de1-bd4d-329cb4625aaa",
+  "preferredProducts": [
+    2566,
+    2764,
+    2531,
+    57,
+    964,
+    2944,
+    4531
+  ],
+  "productReviews": [
+    {
+      "productId": 2469,
+      "reviewText": "this Brand is mellow.",
+      "reviewDate": "2016-12-15T12:46:26.1365093+02:00"
+    },
+    {
+      "productId": 2169,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-05-06T03:07:32.1458206+03:00"
+    },
+    {
+      "productId": 317,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-03-07T21:17:58.9353307+02:00"
+    }
+  ]
+}

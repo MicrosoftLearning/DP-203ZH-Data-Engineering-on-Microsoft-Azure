@@ -1,0 +1,35 @@
+{
+  "userId": 90724,
+  "cartId": "3d6e5b24-a8c9-4fa6-be81-9ba54be77cd8",
+  "preferredProducts": [
+    259,
+    4999,
+    3485,
+    2451,
+    1619,
+    864,
+    28
+  ],
+  "productReviews": [
+    {
+      "productId": 4153,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-09-06T18:48:28.6686478+03:00"
+    },
+    {
+      "productId": 126,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-09-26T11:27:36.4928745+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-01-13T06:36:06.9603752+02:00"
+    },
+    {
+      "productId": 119,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-03-17T19:26:00.5279888+02:00"
+    }
+  ]
+}

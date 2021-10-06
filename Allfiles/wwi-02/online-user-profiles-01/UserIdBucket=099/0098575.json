@@ -1,0 +1,29 @@
+{
+  "userId": 98575,
+  "cartId": "31db9559-c266-412e-a2d7-df15f86cf317",
+  "preferredProducts": [
+    4128,
+    512,
+    2078,
+    1172,
+    2436,
+    1075
+  ],
+  "productReviews": [
+    {
+      "productId": 1054,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-01-01T14:20:27.4361431+02:00"
+    },
+    {
+      "productId": 2146,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-04-30T02:07:29.7237556+03:00"
+    },
+    {
+      "productId": 3865,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2019-04-22T02:37:59.6787103+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 3606,
+  "cartId": "1a2343e1-7f9c-4362-80cb-c551b9789d6a",
+  "preferredProducts": [
+    2572,
+    4108,
+    1842
+  ],
+  "productReviews": [
+    {
+      "productId": 1123,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-04-12T05:04:43.512617+03:00"
+    },
+    {
+      "productId": 4087,
+      "reviewText": "this withdrawal is smooth.",
+      "reviewDate": "2016-08-06T23:54:35.4418308+03:00"
+    },
+    {
+      "productId": 2810,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-07-18T22:17:15.8963254+03:00"
+    }
+  ]
+}

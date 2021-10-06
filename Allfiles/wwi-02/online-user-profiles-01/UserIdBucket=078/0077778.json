@@ -1,0 +1,37 @@
+{
+  "userId": 77778,
+  "cartId": "cffc7343-f63a-4dff-b78d-34f63add8fee",
+  "preferredProducts": [
+    3491,
+    1072,
+    2740,
+    3132
+  ],
+  "productReviews": [
+    {
+      "productId": 1728,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-09-16T17:21:28.7581802+03:00"
+    },
+    {
+      "productId": 3827,
+      "reviewText": "This open-source works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-10-03T15:37:15.8592147+03:00"
+    },
+    {
+      "productId": 4009,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-12-10T17:29:51.9726875+02:00"
+    },
+    {
+      "productId": 3788,
+      "reviewText": "This Interactions, does exactly what it's suppose to do.",
+      "reviewDate": "2019-04-11T18:38:31.6722544+03:00"
+    },
+    {
+      "productId": 4604,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-12-24T05:21:47.6974494+02:00"
+    }
+  ]
+}

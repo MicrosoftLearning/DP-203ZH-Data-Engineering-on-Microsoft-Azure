@@ -1,0 +1,33 @@
+{
+  "userId": 60087,
+  "cartId": "e01aee1a-570e-435c-bbd0-35271b698564",
+  "preferredProducts": [
+    726,
+    471,
+    4406,
+    3940,
+    1231,
+    1247,
+    1192,
+    3654,
+    2091,
+    3395
+  ],
+  "productReviews": [
+    {
+      "productId": 4098,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2016-06-26T15:59:23.0237848+03:00"
+    },
+    {
+      "productId": 3265,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-10-23T08:48:24.1244914+03:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-03-24T14:45:30.0336364+02:00"
+    }
+  ]
+}

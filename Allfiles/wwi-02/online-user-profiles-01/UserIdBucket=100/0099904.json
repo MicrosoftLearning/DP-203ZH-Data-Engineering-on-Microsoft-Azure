@@ -1,0 +1,38 @@
+{
+  "userId": 99904,
+  "cartId": "7fccefe7-5cb1-4c35-a6b5-7146bce33b8a",
+  "preferredProducts": [
+    490,
+    4406,
+    3248,
+    3865,
+    455
+  ],
+  "productReviews": [
+    {
+      "productId": 1924,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-02-28T08:10:06.3699653+02:00"
+    },
+    {
+      "productId": 3547,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-12-14T03:23:07.5348561+02:00"
+    },
+    {
+      "productId": 4307,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-03-17T01:24:43.7721403+02:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-06-04T05:45:19.373806+03:00"
+    },
+    {
+      "productId": 1565,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-06-08T22:35:39.6320364+03:00"
+    }
+  ]
+}

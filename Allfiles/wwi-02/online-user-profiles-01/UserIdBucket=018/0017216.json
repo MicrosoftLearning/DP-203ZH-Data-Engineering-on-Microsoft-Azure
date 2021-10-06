@@ -1,0 +1,36 @@
+{
+  "userId": 17216,
+  "cartId": "da12ec11-77fa-4a51-a5f6-fb1f864ab6e9",
+  "preferredProducts": [
+    1643,
+    3497,
+    2921
+  ],
+  "productReviews": [
+    {
+      "productId": 1566,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-09-03T15:16:23.4864397+03:00"
+    },
+    {
+      "productId": 4691,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-10-27T21:46:48.0177085+02:00"
+    },
+    {
+      "productId": 2085,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-10-23T15:54:51.8515706+03:00"
+    },
+    {
+      "productId": 440,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-04-07T00:26:36.8242907+03:00"
+    },
+    {
+      "productId": 2585,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-10-01T01:35:20.3653262+03:00"
+    }
+  ]
+}

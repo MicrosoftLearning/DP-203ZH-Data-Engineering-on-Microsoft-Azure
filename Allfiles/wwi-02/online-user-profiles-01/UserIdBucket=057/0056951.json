@@ -1,0 +1,33 @@
+{
+  "userId": 56951,
+  "cartId": "e780995c-e24e-49ff-b25b-a15922d799ca",
+  "preferredProducts": [
+    1827,
+    4161,
+    3318,
+    777,
+    635,
+    3126,
+    3,
+    2417,
+    4712,
+    4494
+  ],
+  "productReviews": [
+    {
+      "productId": 1005,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-11-13T15:25:49.0720587+02:00"
+    },
+    {
+      "productId": 3713,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-05-29T16:21:50.4012171+03:00"
+    },
+    {
+      "productId": 3630,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-10-09T23:06:23.6624571+03:00"
+    }
+  ]
+}

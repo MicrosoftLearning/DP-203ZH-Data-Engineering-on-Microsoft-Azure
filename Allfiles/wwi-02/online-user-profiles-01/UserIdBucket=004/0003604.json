@@ -1,0 +1,29 @@
+{
+  "userId": 3604,
+  "cartId": "c8b08ca0-77c7-4575-86d0-57f2bcc6e986",
+  "preferredProducts": [
+    2112,
+    1634,
+    2864,
+    260,
+    4735,
+    3443
+  ],
+  "productReviews": [
+    {
+      "productId": 1217,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-03-23T11:35:21.6141192+02:00"
+    },
+    {
+      "productId": 4045,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-10-27T04:43:09.4689246+03:00"
+    },
+    {
+      "productId": 2789,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2020-03-17T10:14:00.23518+02:00"
+    }
+  ]
+}

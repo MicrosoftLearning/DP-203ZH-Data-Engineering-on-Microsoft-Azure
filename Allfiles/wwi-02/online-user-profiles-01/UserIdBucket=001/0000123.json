@@ -1,0 +1,33 @@
+{
+  "userId": 123,
+  "cartId": "850088e3-3073-4dd4-9d7c-9c3dc1812223",
+  "preferredProducts": [
+    2974,
+    425,
+    1323,
+    2858,
+    2413
+  ],
+  "productReviews": [
+    {
+      "productId": 47,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-10-12T19:53:22.5540896+03:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-03-16T05:38:55.7600866+02:00"
+    },
+    {
+      "productId": 2508,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-07-15T21:38:32.1927821+03:00"
+    },
+    {
+      "productId": 455,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-01-23T15:18:13.0142742+02:00"
+    }
+  ]
+}

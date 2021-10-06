@@ -1,0 +1,30 @@
+{
+  "userId": 10594,
+  "cartId": "5fb2c5e6-e288-4ec6-874a-3d3878105083",
+  "preferredProducts": [
+    3096,
+    1479,
+    4203,
+    4789,
+    4995,
+    3093,
+    4537
+  ],
+  "productReviews": [
+    {
+      "productId": 3937,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-08-07T02:52:29.1629498+03:00"
+    },
+    {
+      "productId": 292,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-05-12T16:16:45.9871721+03:00"
+    },
+    {
+      "productId": 2203,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-08-28T20:56:13.9120843+03:00"
+    }
+  ]
+}

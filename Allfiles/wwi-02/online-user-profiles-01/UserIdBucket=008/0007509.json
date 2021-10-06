@@ -1,0 +1,33 @@
+{
+  "userId": 7509,
+  "cartId": "33d1acfa-fdee-437e-815b-324809a1d156",
+  "preferredProducts": [
+    901,
+    2034,
+    518,
+    2758,
+    4972
+  ],
+  "productReviews": [
+    {
+      "productId": 1320,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-01-01T03:30:05.4260264+02:00"
+    },
+    {
+      "productId": 4405,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-09-18T13:31:38.6275499+03:00"
+    },
+    {
+      "productId": 1754,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-04-05T10:13:08.9526974+03:00"
+    },
+    {
+      "productId": 1867,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-03-06T15:24:48.7210055+02:00"
+    }
+  ]
+}

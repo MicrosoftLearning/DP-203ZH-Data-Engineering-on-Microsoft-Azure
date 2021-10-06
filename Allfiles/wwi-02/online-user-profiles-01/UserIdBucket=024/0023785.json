@@ -1,0 +1,29 @@
+{
+  "userId": 23785,
+  "cartId": "3baa6b99-e7be-4d84-bbe5-b1461a887b6c",
+  "preferredProducts": [
+    847,
+    2582,
+    1564,
+    2103,
+    4558,
+    3536
+  ],
+  "productReviews": [
+    {
+      "productId": 776,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-11-24T21:19:36.0391772+02:00"
+    },
+    {
+      "productId": 1371,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-02-08T16:29:29.8404544+02:00"
+    },
+    {
+      "productId": 4560,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-09-02T17:00:09.6689426+03:00"
+    }
+  ]
+}

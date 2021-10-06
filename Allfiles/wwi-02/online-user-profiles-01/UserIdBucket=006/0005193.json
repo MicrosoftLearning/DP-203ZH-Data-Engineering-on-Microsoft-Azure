@@ -1,0 +1,36 @@
+{
+  "userId": 5193,
+  "cartId": "dcef2430-3928-43f1-8d4a-d95cee05f9e9",
+  "preferredProducts": [
+    2601,
+    4897,
+    2618,
+    3533,
+    4654,
+    2721,
+    545,
+    2065
+  ],
+  "productReviews": [
+    {
+      "productId": 3233,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-12-26T18:33:10.878794+02:00"
+    },
+    {
+      "productId": 2150,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-04-10T01:14:18.9319321+03:00"
+    },
+    {
+      "productId": 3770,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-08-01T03:50:14.7089951+03:00"
+    },
+    {
+      "productId": 1336,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-04-20T06:34:36.6457287+03:00"
+    }
+  ]
+}

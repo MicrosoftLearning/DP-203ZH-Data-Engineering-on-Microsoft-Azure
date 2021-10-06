@@ -1,0 +1,30 @@
+{
+  "userId": 22781,
+  "cartId": "005ee92a-148e-4b88-a4b9-53621223d1e8",
+  "preferredProducts": [
+    3617,
+    1297
+  ],
+  "productReviews": [
+    {
+      "productId": 2177,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-01-07T16:01:41.399425+02:00"
+    },
+    {
+      "productId": 583,
+      "reviewText": "This XSS works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2019-10-04T10:04:03.2195805+03:00"
+    },
+    {
+      "productId": 1031,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-04-07T21:07:58.4689542+03:00"
+    },
+    {
+      "productId": 149,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2019-02-23T23:30:53.6946677+02:00"
+    }
+  ]
+}

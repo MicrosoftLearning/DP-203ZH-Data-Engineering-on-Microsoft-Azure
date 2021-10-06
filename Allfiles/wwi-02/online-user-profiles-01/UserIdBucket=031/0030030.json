@@ -1,0 +1,30 @@
+{
+  "userId": 30030,
+  "cartId": "72c2e272-da23-4d4a-9b9a-4d94182da8df",
+  "preferredProducts": [
+    2888,
+    467
+  ],
+  "productReviews": [
+    {
+      "productId": 3061,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-03-09T08:51:01.7205735+02:00"
+    },
+    {
+      "productId": 1880,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-06-15T21:31:32.2894411+03:00"
+    },
+    {
+      "productId": 4700,
+      "reviewText": "This Avon works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-06-02T01:06:00.9846468+03:00"
+    },
+    {
+      "productId": 4165,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-07-13T21:06:25.9825095+03:00"
+    }
+  ]
+}

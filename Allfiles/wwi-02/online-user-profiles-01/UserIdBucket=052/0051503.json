@@ -1,0 +1,25 @@
+{
+  "userId": 51503,
+  "cartId": "cd95ecbd-d358-405b-9cf1-2d184a78cc39",
+  "preferredProducts": [
+    4010,
+    757
+  ],
+  "productReviews": [
+    {
+      "productId": 1171,
+      "reviewText": "this Tasty Wooden Car is snowy.",
+      "reviewDate": "2019-02-04T18:31:57.3396055+02:00"
+    },
+    {
+      "productId": 2506,
+      "reviewText": "this 3rd generation is nifty.",
+      "reviewDate": "2019-04-13T01:39:02.0392301+03:00"
+    },
+    {
+      "productId": 2219,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-05-31T21:22:35.0569076+03:00"
+    }
+  ]
+}

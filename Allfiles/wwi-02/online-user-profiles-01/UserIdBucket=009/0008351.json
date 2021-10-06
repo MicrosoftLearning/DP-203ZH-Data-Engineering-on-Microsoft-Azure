@@ -1,0 +1,31 @@
+{
+  "userId": 8351,
+  "cartId": "424442d0-4307-417b-9dfc-6e970bbf9e8e",
+  "preferredProducts": [
+    4158,
+    4689,
+    2792,
+    1356,
+    4817,
+    865,
+    2368,
+    3753
+  ],
+  "productReviews": [
+    {
+      "productId": 599,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-08-05T06:03:24.6687108+03:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "This Representative works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-01-15T12:33:20.5605096+02:00"
+    },
+    {
+      "productId": 2888,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-05-16T08:55:44.335611+03:00"
+    }
+  ]
+}

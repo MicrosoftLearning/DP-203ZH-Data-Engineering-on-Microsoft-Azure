@@ -1,0 +1,40 @@
+{
+  "userId": 12560,
+  "cartId": "509bad73-a187-4de9-a092-4eaf37a5d3c7",
+  "preferredProducts": [
+    4295,
+    2511,
+    3468,
+    3087,
+    3484,
+    2084,
+    744
+  ],
+  "productReviews": [
+    {
+      "productId": 2845,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-04-12T08:22:41.5940563+03:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-01-05T22:28:44.5580209+02:00"
+    },
+    {
+      "productId": 2166,
+      "reviewText": "this Bolivar Fuerte is dominant.",
+      "reviewDate": "2018-02-05T12:57:44.2638535+02:00"
+    },
+    {
+      "productId": 144,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-12-30T19:24:29.216338+02:00"
+    },
+    {
+      "productId": 2329,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-01-01T22:48:55.9129167+02:00"
+    }
+  ]
+}

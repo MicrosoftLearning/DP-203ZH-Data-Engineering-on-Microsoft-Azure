@@ -1,0 +1,22 @@
+{
+  "userId": 12661,
+  "cartId": "ccd65a1c-bdc5-4b5c-af13-0a5f0779590b",
+  "preferredProducts": [
+    4416,
+    4032,
+    4566,
+    99
+  ],
+  "productReviews": [
+    {
+      "productId": 4823,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-09-18T16:09:33.0537606+03:00"
+    },
+    {
+      "productId": 3685,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-03-17T01:15:49.4825224+02:00"
+    }
+  ]
+}

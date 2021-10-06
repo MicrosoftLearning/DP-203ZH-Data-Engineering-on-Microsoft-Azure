@@ -1,0 +1,30 @@
+{
+  "userId": 50022,
+  "cartId": "4bb6dda0-b02e-4025-a04d-ae412eeed16f",
+  "preferredProducts": [
+    1607,
+    3026,
+    1485,
+    1398,
+    3697,
+    930,
+    1774
+  ],
+  "productReviews": [
+    {
+      "productId": 9,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-01-24T08:36:21.3027646+02:00"
+    },
+    {
+      "productId": 1029,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-10-19T16:38:03.7789428+03:00"
+    },
+    {
+      "productId": 3203,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-04-06T22:36:50.1501871+03:00"
+    }
+  ]
+}

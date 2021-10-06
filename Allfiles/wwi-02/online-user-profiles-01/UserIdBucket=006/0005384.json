@@ -1,0 +1,37 @@
+{
+  "userId": 5384,
+  "cartId": "810e6ffc-8c43-48fa-90a2-cc66fb0dd930",
+  "preferredProducts": [
+    413,
+    3753,
+    3560,
+    2762
+  ],
+  "productReviews": [
+    {
+      "productId": 621,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-11-28T17:15:30.9277769+02:00"
+    },
+    {
+      "productId": 1950,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-11-11T20:47:58.9291834+02:00"
+    },
+    {
+      "productId": 3702,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2020-02-08T00:05:15.8693383+02:00"
+    },
+    {
+      "productId": 3260,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-03-21T04:26:29.6541824+02:00"
+    },
+    {
+      "productId": 868,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2020-03-17T11:38:38.7848512+02:00"
+    }
+  ]
+}

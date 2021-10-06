@@ -1,0 +1,30 @@
+{
+  "userId": 32440,
+  "cartId": "2e3bf6ae-3bf9-4845-9add-8a4857d50305",
+  "preferredProducts": [
+    2643,
+    487,
+    4361,
+    1360,
+    1808,
+    97,
+    2083
+  ],
+  "productReviews": [
+    {
+      "productId": 3458,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-03-06T18:41:44.7672361+02:00"
+    },
+    {
+      "productId": 2121,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-07-16T15:01:36.5984889+03:00"
+    },
+    {
+      "productId": 3789,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-12-31T03:47:18.7885098+02:00"
+    }
+  ]
+}

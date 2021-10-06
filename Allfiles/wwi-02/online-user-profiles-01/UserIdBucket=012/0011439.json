@@ -1,0 +1,30 @@
+{
+  "userId": 11439,
+  "cartId": "3496c98e-c429-4b46-a1ca-ee81771d56cf",
+  "preferredProducts": [
+    2317,
+    4554,
+    724,
+    1748,
+    2994,
+    1732,
+    4456
+  ],
+  "productReviews": [
+    {
+      "productId": 4395,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-06-14T11:58:16.2170704+03:00"
+    },
+    {
+      "productId": 3042,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-11-08T10:21:09.7710701+02:00"
+    },
+    {
+      "productId": 2976,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-10-11T16:46:56.4537036+03:00"
+    }
+  ]
+}

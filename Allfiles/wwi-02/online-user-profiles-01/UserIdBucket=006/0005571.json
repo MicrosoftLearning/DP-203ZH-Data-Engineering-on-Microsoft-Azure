@@ -1,0 +1,32 @@
+{
+  "userId": 5571,
+  "cartId": "03fc4e63-3430-47d1-ac0e-de5f79c70568",
+  "preferredProducts": [
+    2572,
+    4758,
+    2086,
+    3950
+  ],
+  "productReviews": [
+    {
+      "productId": 2881,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-03-28T16:58:32.3688832+02:00"
+    },
+    {
+      "productId": 3009,
+      "reviewText": "this capacitor is awesome.",
+      "reviewDate": "2018-10-03T08:39:03.7206481+03:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-11-08T23:35:36.0027945+02:00"
+    },
+    {
+      "productId": 1603,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-01-28T10:04:15.470531+02:00"
+    }
+  ]
+}

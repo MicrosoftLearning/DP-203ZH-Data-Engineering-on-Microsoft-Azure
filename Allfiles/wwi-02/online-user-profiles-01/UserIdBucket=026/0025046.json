@@ -1,0 +1,30 @@
+{
+  "userId": 25046,
+  "cartId": "ded15714-e94b-4218-9c4c-6b869ec78617",
+  "preferredProducts": [
+    67,
+    2227
+  ],
+  "productReviews": [
+    {
+      "productId": 4994,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-08-15T13:48:34.9622293+03:00"
+    },
+    {
+      "productId": 1132,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-01-29T02:06:14.9363125+02:00"
+    },
+    {
+      "productId": 520,
+      "reviewText": "this killer is whole-grain.",
+      "reviewDate": "2020-03-17T19:37:15.4714688+02:00"
+    },
+    {
+      "productId": 434,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2020-05-08T03:25:59.5915999+03:00"
+    }
+  ]
+}

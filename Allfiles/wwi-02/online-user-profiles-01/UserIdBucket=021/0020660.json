@@ -1,0 +1,22 @@
+{
+  "userId": 20660,
+  "cartId": "6c95cfa6-056d-4e86-abd1-df9a706ee1e1",
+  "preferredProducts": [
+    6,
+    3062,
+    2541,
+    851
+  ],
+  "productReviews": [
+    {
+      "productId": 789,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-11-24T09:31:37.0887591+02:00"
+    },
+    {
+      "productId": 300,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-12-01T16:54:52.1327861+02:00"
+    }
+  ]
+}

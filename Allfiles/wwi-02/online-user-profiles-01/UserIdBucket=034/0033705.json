@@ -1,0 +1,33 @@
+{
+  "userId": 33705,
+  "cartId": "5b112039-6fef-411d-ba03-998f21426811",
+  "preferredProducts": [
+    4837,
+    2831,
+    4285,
+    731,
+    3812
+  ],
+  "productReviews": [
+    {
+      "productId": 3887,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-09-08T09:22:40.7753096+03:00"
+    },
+    {
+      "productId": 859,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-06-29T23:15:16.5628417+03:00"
+    },
+    {
+      "productId": 3966,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-08-22T04:52:45.3429066+03:00"
+    },
+    {
+      "productId": 3955,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-02-18T18:54:12.0858693+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 65263,
+  "cartId": "4e86c600-4184-454a-bd5f-c77674b23af7",
+  "preferredProducts": [
+    4762,
+    2290,
+    4678,
+    113,
+    3189,
+    2782,
+    4975
+  ],
+  "productReviews": [
+    {
+      "productId": 3264,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-11-17T17:04:08.3539146+02:00"
+    },
+    {
+      "productId": 1808,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-08-31T20:17:30.0754861+03:00"
+    }
+  ]
+}

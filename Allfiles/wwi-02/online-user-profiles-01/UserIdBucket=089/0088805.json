@@ -1,0 +1,37 @@
+{
+  "userId": 88805,
+  "cartId": "4be770a3-8dd8-48b5-b4c5-33f357536107",
+  "preferredProducts": [
+    4774,
+    1917,
+    1232,
+    3254
+  ],
+  "productReviews": [
+    {
+      "productId": 3416,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-10-28T13:21:24.3476738+02:00"
+    },
+    {
+      "productId": 3636,
+      "reviewText": "this JSON is awesome.",
+      "reviewDate": "2017-04-09T14:00:04.0774067+03:00"
+    },
+    {
+      "productId": 4968,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-02-27T04:25:36.0740466+02:00"
+    },
+    {
+      "productId": 3252,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-10-11T19:58:21.1333027+03:00"
+    },
+    {
+      "productId": 4942,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-09-15T02:27:06.9690993+03:00"
+    }
+  ]
+}

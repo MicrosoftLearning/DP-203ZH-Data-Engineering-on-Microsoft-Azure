@@ -1,0 +1,31 @@
+{
+  "userId": 80153,
+  "cartId": "5ec766bc-d1ad-499b-934e-919f277d4189",
+  "preferredProducts": [
+    3932,
+    571,
+    3234,
+    4653,
+    4709,
+    1561,
+    4695,
+    3822
+  ],
+  "productReviews": [
+    {
+      "productId": 2990,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-01-29T14:59:27.2063499+02:00"
+    },
+    {
+      "productId": 1911,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-06-23T10:27:02.9579363+03:00"
+    },
+    {
+      "productId": 1718,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-03-25T00:55:38.5356778+02:00"
+    }
+  ]
+}

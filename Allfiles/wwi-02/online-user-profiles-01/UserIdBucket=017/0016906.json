@@ -1,0 +1,37 @@
+{
+  "userId": 16906,
+  "cartId": "20b1d712-1284-4f49-ab06-e67c7d8adcc5",
+  "preferredProducts": [
+    4789,
+    4919,
+    1302,
+    4842
+  ],
+  "productReviews": [
+    {
+      "productId": 1951,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-11-30T14:16:13.764894+02:00"
+    },
+    {
+      "productId": 1918,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-08-23T00:25:36.2140402+03:00"
+    },
+    {
+      "productId": 4158,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-06-17T15:58:28.722019+03:00"
+    },
+    {
+      "productId": 235,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-10-13T10:33:08.9001084+03:00"
+    },
+    {
+      "productId": 3155,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-08-03T17:10:26.4475927+03:00"
+    }
+  ]
+}

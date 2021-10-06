@@ -1,0 +1,32 @@
+{
+  "userId": 5140,
+  "cartId": "fc83697e-4165-4860-8126-f802edbbd6ec",
+  "preferredProducts": [
+    3820,
+    539,
+    780,
+    3720,
+    2886,
+    3214,
+    4781,
+    2347,
+    780
+  ],
+  "productReviews": [
+    {
+      "productId": 943,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-10-02T08:40:05.2363154+03:00"
+    },
+    {
+      "productId": 4482,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-03-21T05:47:19.2792264+02:00"
+    },
+    {
+      "productId": 2608,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-07-27T11:23:41.3278877+03:00"
+    }
+  ]
+}

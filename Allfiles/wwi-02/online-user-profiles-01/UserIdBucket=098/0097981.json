@@ -1,0 +1,27 @@
+{
+  "userId": 97981,
+  "cartId": "5b34e6e7-62ac-455b-b874-716b02ca73ff",
+  "preferredProducts": [
+    2924,
+    4789,
+    1502,
+    3969
+  ],
+  "productReviews": [
+    {
+      "productId": 556,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-09-02T20:24:08.0381685+03:00"
+    },
+    {
+      "productId": 2976,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-02-01T11:49:35.9401667+02:00"
+    },
+    {
+      "productId": 77,
+      "reviewText": "this cross-platform is standard.",
+      "reviewDate": "2018-10-21T02:08:56.4323618+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 12288,
+  "cartId": "778c6d76-e681-4737-9846-2b2cf69b8c3e",
+  "preferredProducts": [
+    2175,
+    3410,
+    719,
+    3554,
+    450,
+    832
+  ],
+  "productReviews": [
+    {
+      "productId": 3640,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-03-04T09:36:43.8539683+02:00"
+    },
+    {
+      "productId": 2339,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-10-30T17:00:38.3340665+02:00"
+    }
+  ]
+}

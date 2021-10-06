@@ -1,0 +1,32 @@
+{
+  "userId": 97908,
+  "cartId": "3c44de9c-b212-4435-bdef-87a5a8ded06d",
+  "preferredProducts": [
+    4539,
+    3703,
+    333,
+    4202
+  ],
+  "productReviews": [
+    {
+      "productId": 2435,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-09-03T02:09:16.6215871+03:00"
+    },
+    {
+      "productId": 998,
+      "reviewText": "this RSS is snowy.",
+      "reviewDate": "2016-06-07T12:49:22.3495683+03:00"
+    },
+    {
+      "productId": 3172,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-01-25T16:30:23.1583983+02:00"
+    },
+    {
+      "productId": 4543,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-04-18T05:13:41.1071823+03:00"
+    }
+  ]
+}

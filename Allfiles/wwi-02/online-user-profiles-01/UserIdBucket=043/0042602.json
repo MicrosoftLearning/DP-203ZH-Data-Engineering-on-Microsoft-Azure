@@ -1,0 +1,25 @@
+{
+  "userId": 42602,
+  "cartId": "b60a12ee-1b18-43b4-90ac-09a399705ce4",
+  "preferredProducts": [
+    1009,
+    2937
+  ],
+  "productReviews": [
+    {
+      "productId": 1060,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-11-09T01:34:14.9750435+02:00"
+    },
+    {
+      "productId": 4489,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-05-27T12:22:13.7888521+03:00"
+    },
+    {
+      "productId": 440,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-07-20T17:06:30.0236887+03:00"
+    }
+  ]
+}

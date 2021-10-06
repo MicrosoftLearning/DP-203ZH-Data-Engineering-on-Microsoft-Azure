@@ -1,0 +1,26 @@
+{
+  "userId": 82798,
+  "cartId": "7bf9ef31-3b4e-43c7-8ed1-558da060f755",
+  "preferredProducts": [
+    2420,
+    2665,
+    3717,
+    3192,
+    790,
+    647,
+    3043,
+    1187
+  ],
+  "productReviews": [
+    {
+      "productId": 565,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-06-22T08:40:56.3861475+03:00"
+    },
+    {
+      "productId": 3926,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-10-10T01:49:15.6969862+03:00"
+    }
+  ]
+}

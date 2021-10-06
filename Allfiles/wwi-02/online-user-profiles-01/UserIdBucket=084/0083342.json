@@ -1,0 +1,35 @@
+{
+  "userId": 83342,
+  "cartId": "db7d2fba-c66a-4904-a148-eb174d2179bc",
+  "preferredProducts": [
+    3452,
+    469,
+    2556,
+    4141,
+    2476,
+    2787,
+    4000
+  ],
+  "productReviews": [
+    {
+      "productId": 4403,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-03-18T21:16:43.402597+02:00"
+    },
+    {
+      "productId": 250,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-04-22T14:11:14.9640753+03:00"
+    },
+    {
+      "productId": 1453,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-09-21T16:58:52.8095493+03:00"
+    },
+    {
+      "productId": 3889,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-10-15T02:34:12.8591441+03:00"
+    }
+  ]
+}

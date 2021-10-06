@@ -1,0 +1,43 @@
+{
+  "userId": 8421,
+  "cartId": "b9d34667-0a0c-4483-8461-4f20fcd140ce",
+  "preferredProducts": [
+    679,
+    1134,
+    2082,
+    2879,
+    3163,
+    809,
+    2015,
+    123,
+    598,
+    1530
+  ],
+  "productReviews": [
+    {
+      "productId": 2535,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-12-24T19:09:04.5911593+02:00"
+    },
+    {
+      "productId": 4758,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-10-27T14:11:23.6325597+03:00"
+    },
+    {
+      "productId": 4105,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-05-14T14:43:33.109606+03:00"
+    },
+    {
+      "productId": 147,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-07-28T02:13:30.5198948+03:00"
+    },
+    {
+      "productId": 2383,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-06-02T12:59:11.928651+03:00"
+    }
+  ]
+}

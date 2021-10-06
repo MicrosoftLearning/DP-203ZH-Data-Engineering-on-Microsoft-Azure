@@ -1,0 +1,38 @@
+{
+  "userId": 15712,
+  "cartId": "5e318404-bdd4-4c6f-81b5-6a2acb1e69bd",
+  "preferredProducts": [
+    2642,
+    3212,
+    4164,
+    3618,
+    4473,
+    3423,
+    4677,
+    4708,
+    4275,
+    794
+  ],
+  "productReviews": [
+    {
+      "productId": 641,
+      "reviewText": "this alarm is ratty.",
+      "reviewDate": "2020-03-22T21:31:10.7616031+02:00"
+    },
+    {
+      "productId": 2913,
+      "reviewText": "This matrix works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-02-21T06:55:25.4652795+02:00"
+    },
+    {
+      "productId": 1513,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2019-03-09T19:18:34.8017275+02:00"
+    },
+    {
+      "productId": 3312,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-03-09T13:09:43.7842836+02:00"
+    }
+  ]
+}

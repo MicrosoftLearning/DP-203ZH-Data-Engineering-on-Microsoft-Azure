@@ -1,0 +1,37 @@
+{
+  "userId": 73820,
+  "cartId": "b24016e7-a8cd-41c0-b991-01c4815a1d91",
+  "preferredProducts": [
+    1760,
+    3622,
+    3912,
+    1576,
+    1940,
+    4158,
+    2397,
+    2512,
+    4804
+  ],
+  "productReviews": [
+    {
+      "productId": 3510,
+      "reviewText": "This is a really good violet.",
+      "reviewDate": "2016-12-19T05:44:03.5873547+02:00"
+    },
+    {
+      "productId": 465,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-12-12T07:11:20.0874773+02:00"
+    },
+    {
+      "productId": 4626,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-10-11T19:39:01.0685952+03:00"
+    },
+    {
+      "productId": 2776,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-11-01T18:49:54.4847+02:00"
+    }
+  ]
+}

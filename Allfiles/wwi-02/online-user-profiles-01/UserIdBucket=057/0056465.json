@@ -1,0 +1,36 @@
+{
+  "userId": 56465,
+  "cartId": "3ee7216d-e4fa-4ad2-9a39-e86d2508394c",
+  "preferredProducts": [
+    2210,
+    999,
+    2835,
+    1431,
+    395,
+    3382,
+    2845,
+    756
+  ],
+  "productReviews": [
+    {
+      "productId": 315,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-11-20T22:29:30.998877+02:00"
+    },
+    {
+      "productId": 442,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-09-15T09:57:11.2916338+03:00"
+    },
+    {
+      "productId": 4417,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-12-11T13:47:37.0737458+02:00"
+    },
+    {
+      "productId": 2973,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-01-06T17:48:45.5135675+02:00"
+    }
+  ]
+}

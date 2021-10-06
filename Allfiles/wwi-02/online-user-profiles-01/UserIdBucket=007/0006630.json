@@ -1,0 +1,32 @@
+{
+  "userId": 6630,
+  "cartId": "a274cec8-8bef-43ec-80a5-51fcb8b714ee",
+  "preferredProducts": [
+    4406,
+    335,
+    3876,
+    3712
+  ],
+  "productReviews": [
+    {
+      "productId": 4724,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-01-06T13:00:17.2245299+02:00"
+    },
+    {
+      "productId": 1785,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-08-23T15:11:31.6337345+03:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-11-07T09:41:59.9856742+02:00"
+    },
+    {
+      "productId": 1231,
+      "reviewText": "This is a really good Port.",
+      "reviewDate": "2018-12-08T22:20:39.8353633+02:00"
+    }
+  ]
+}

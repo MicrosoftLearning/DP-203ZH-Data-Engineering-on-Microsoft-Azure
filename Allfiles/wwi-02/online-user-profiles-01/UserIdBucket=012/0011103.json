@@ -1,0 +1,31 @@
+{
+  "userId": 11103,
+  "cartId": "e4557a48-13a1-4422-b4ee-0fca6b7112c4",
+  "preferredProducts": [
+    4150,
+    2015,
+    2918,
+    4850,
+    1607,
+    3597,
+    2449,
+    2555
+  ],
+  "productReviews": [
+    {
+      "productId": 1545,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-06-29T07:47:38.4104558+03:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-05-14T15:44:27.5367735+03:00"
+    },
+    {
+      "productId": 1594,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-02-02T14:12:41.6373287+02:00"
+    }
+  ]
+}

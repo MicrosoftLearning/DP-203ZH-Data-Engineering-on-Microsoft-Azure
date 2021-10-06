@@ -1,0 +1,32 @@
+{
+  "userId": 7432,
+  "cartId": "019cb1f1-401e-4519-98d9-bb39655da9db",
+  "preferredProducts": [
+    2465,
+    868,
+    2065,
+    1191,
+    4574,
+    637,
+    879,
+    2612,
+    1356
+  ],
+  "productReviews": [
+    {
+      "productId": 1690,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-03-05T17:21:13.328874+02:00"
+    },
+    {
+      "productId": 1247,
+      "reviewText": "This mobile works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2018-01-15T08:38:18.5882863+02:00"
+    },
+    {
+      "productId": 3413,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-09-15T15:53:09.557507+03:00"
+    }
+  ]
+}

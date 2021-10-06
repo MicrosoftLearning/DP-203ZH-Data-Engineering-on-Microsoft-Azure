@@ -1,0 +1,36 @@
+{
+  "userId": 11399,
+  "cartId": "e49d5753-d6c5-4b37-bc8f-be7dcb52f8b3",
+  "preferredProducts": [
+    1201,
+    2010,
+    1085,
+    391,
+    1583,
+    1898,
+    3889,
+    4526
+  ],
+  "productReviews": [
+    {
+      "productId": 3714,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-03-25T04:35:53.0932308+03:00"
+    },
+    {
+      "productId": 1978,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-12-06T00:35:19.8216928+02:00"
+    },
+    {
+      "productId": 4094,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-10-04T21:41:45.5901476+03:00"
+    },
+    {
+      "productId": 1057,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-11-22T22:44:11.9955413+02:00"
+    }
+  ]
+}

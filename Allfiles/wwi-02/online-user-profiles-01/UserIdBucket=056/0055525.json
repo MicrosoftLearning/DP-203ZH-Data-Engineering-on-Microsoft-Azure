@@ -1,0 +1,30 @@
+{
+  "userId": 55525,
+  "cartId": "98eb6049-ede0-43cd-b834-5c6f0db68b8f",
+  "preferredProducts": [
+    1496,
+    4558
+  ],
+  "productReviews": [
+    {
+      "productId": 3512,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-12-05T22:07:37.3344413+02:00"
+    },
+    {
+      "productId": 2955,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-04-02T20:42:55.1686118+03:00"
+    },
+    {
+      "productId": 4765,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-05-27T08:47:22.1834409+03:00"
+    },
+    {
+      "productId": 4251,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-12-04T10:24:53.4035302+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 50897,
+  "cartId": "cbc0acd7-d2c0-4cae-bbf5-24c2d13ac59d",
+  "preferredProducts": [
+    265,
+    4193,
+    2733,
+    3034,
+    2737,
+    3523,
+    4053,
+    1547,
+    4811,
+    1102
+  ],
+  "productReviews": [
+    {
+      "productId": 353,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-09-09T10:53:24.5478152+03:00"
+    },
+    {
+      "productId": 1940,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-12-07T02:43:54.0627761+02:00"
+    },
+    {
+      "productId": 4639,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-09-01T06:23:41.4626311+03:00"
+    }
+  ]
+}

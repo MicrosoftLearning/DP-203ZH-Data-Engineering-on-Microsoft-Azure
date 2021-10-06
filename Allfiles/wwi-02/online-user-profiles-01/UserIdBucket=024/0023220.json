@@ -1,0 +1,29 @@
+{
+  "userId": 23220,
+  "cartId": "1f1d27f2-c2af-4235-835d-4550d88a9fc9",
+  "preferredProducts": [
+    4451,
+    405,
+    3544,
+    4158,
+    1715,
+    2820
+  ],
+  "productReviews": [
+    {
+      "productId": 48,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-12-07T18:54:23.2488198+02:00"
+    },
+    {
+      "productId": 3450,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-05-02T05:10:49.8895904+03:00"
+    },
+    {
+      "productId": 1918,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-29T12:23:35.6542595+02:00"
+    }
+  ]
+}

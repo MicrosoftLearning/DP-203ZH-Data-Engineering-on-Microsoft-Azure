@@ -1,0 +1,31 @@
+{
+  "userId": 54818,
+  "cartId": "b23d8e64-95d9-491c-82ef-41c57a1bbb60",
+  "preferredProducts": [
+    2066,
+    1323,
+    3690
+  ],
+  "productReviews": [
+    {
+      "productId": 3855,
+      "reviewText": "this Minnesota is standard.",
+      "reviewDate": "2019-07-16T13:53:15.7876318+03:00"
+    },
+    {
+      "productId": 1898,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-12-07T11:46:42.2566245+02:00"
+    },
+    {
+      "productId": 2001,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-08-30T03:47:02.5868871+03:00"
+    },
+    {
+      "productId": 1938,
+      "reviewText": "this override is ghetto.",
+      "reviewDate": "2017-07-24T13:46:44.1729525+03:00"
+    }
+  ]
+}

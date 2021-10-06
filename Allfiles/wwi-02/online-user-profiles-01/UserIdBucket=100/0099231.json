@@ -1,0 +1,34 @@
+{
+  "userId": 99231,
+  "cartId": "1eea82f1-b5cb-4115-9a00-c19a1614e043",
+  "preferredProducts": [
+    4466,
+    1703,
+    3756,
+    159,
+    4963,
+    307
+  ],
+  "productReviews": [
+    {
+      "productId": 3057,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-06-25T23:03:42.0307764+03:00"
+    },
+    {
+      "productId": 3888,
+      "reviewText": "this turquoise is nifty.",
+      "reviewDate": "2019-10-30T19:10:12.1887781+02:00"
+    },
+    {
+      "productId": 695,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2020-04-10T21:43:39.7554598+03:00"
+    },
+    {
+      "productId": 342,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-08-13T19:37:12.4907195+03:00"
+    }
+  ]
+}

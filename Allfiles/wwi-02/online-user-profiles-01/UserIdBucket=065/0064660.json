@@ -1,0 +1,30 @@
+{
+  "userId": 64660,
+  "cartId": "58979dd7-8581-4993-b431-ea343a413b71",
+  "preferredProducts": [
+    748,
+    295,
+    493,
+    2626,
+    2678,
+    495,
+    1372
+  ],
+  "productReviews": [
+    {
+      "productId": 4606,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-04-22T11:21:14.3029793+03:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-09-25T03:36:04.4548438+03:00"
+    },
+    {
+      "productId": 824,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-06-05T23:54:40.0017112+03:00"
+    }
+  ]
+}

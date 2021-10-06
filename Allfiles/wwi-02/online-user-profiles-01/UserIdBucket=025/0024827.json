@@ -1,0 +1,36 @@
+{
+  "userId": 24827,
+  "cartId": "172b7554-c301-4441-b67a-8632670db368",
+  "preferredProducts": [
+    4676,
+    4216,
+    3025,
+    4908,
+    4331,
+    3936,
+    3207,
+    1785
+  ],
+  "productReviews": [
+    {
+      "productId": 3244,
+      "reviewText": "this green is vertical.",
+      "reviewDate": "2020-03-15T22:02:07.7972384+02:00"
+    },
+    {
+      "productId": 2132,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-07-06T23:44:25.35716+03:00"
+    },
+    {
+      "productId": 735,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-09-21T17:41:13.104324+03:00"
+    },
+    {
+      "productId": 538,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-12-25T21:03:13.4338839+02:00"
+    }
+  ]
+}

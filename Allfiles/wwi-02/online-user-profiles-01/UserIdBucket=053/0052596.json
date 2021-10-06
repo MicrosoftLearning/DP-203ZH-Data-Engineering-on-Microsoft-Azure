@@ -1,0 +1,37 @@
+{
+  "userId": 52596,
+  "cartId": "b1a40c60-9ea5-49eb-8d9c-6c9ef975b7d3",
+  "preferredProducts": [
+    2019,
+    4567,
+    3717,
+    993,
+    2451,
+    3050,
+    1335,
+    4308,
+    111
+  ],
+  "productReviews": [
+    {
+      "productId": 1256,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-04-12T00:59:31.6028372+03:00"
+    },
+    {
+      "productId": 3926,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-06-01T08:02:35.3546941+03:00"
+    },
+    {
+      "productId": 848,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-03-27T08:17:43.9825193+03:00"
+    },
+    {
+      "productId": 32,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-06-16T13:18:39.2302427+03:00"
+    }
+  ]
+}

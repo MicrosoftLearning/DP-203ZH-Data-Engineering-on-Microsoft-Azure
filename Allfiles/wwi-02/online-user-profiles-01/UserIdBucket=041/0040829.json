@@ -1,0 +1,36 @@
+{
+  "userId": 40829,
+  "cartId": "db2123ec-997f-4b2f-afd6-71bd8ac3d516",
+  "preferredProducts": [
+    4054,
+    2235,
+    4579
+  ],
+  "productReviews": [
+    {
+      "productId": 4270,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-02-18T22:03:19.0402369+02:00"
+    },
+    {
+      "productId": 2584,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-10-01T05:22:12.4136658+03:00"
+    },
+    {
+      "productId": 2228,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-01-04T13:43:10.3732014+02:00"
+    },
+    {
+      "productId": 399,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-07-08T03:33:34.5532762+03:00"
+    },
+    {
+      "productId": 3533,
+      "reviewText": "this parsing is smooth.",
+      "reviewDate": "2019-03-28T21:56:35.861934+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 47700,
+  "cartId": "93692c81-da0c-4f08-a9c1-febb6a56c056",
+  "preferredProducts": [
+    4310,
+    2732,
+    2574,
+    980,
+    4810
+  ],
+  "productReviews": [
+    {
+      "productId": 487,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-01-01T01:42:54.2229551+02:00"
+    },
+    {
+      "productId": 4225,
+      "reviewText": "This Rustic works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2020-03-30T05:56:18.0526414+03:00"
+    },
+    {
+      "productId": 4359,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-09-02T05:51:23.1590122+03:00"
+    }
+  ]
+}

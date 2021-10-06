@@ -1,0 +1,33 @@
+{
+  "userId": 41558,
+  "cartId": "fa98ce2d-2ef2-47be-8707-ccff5ee85c03",
+  "preferredProducts": [
+    1181,
+    1546,
+    3753,
+    616,
+    3847
+  ],
+  "productReviews": [
+    {
+      "productId": 777,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-11-27T08:11:22.9842453+02:00"
+    },
+    {
+      "productId": 292,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-10-16T00:38:33.1277925+03:00"
+    },
+    {
+      "productId": 1806,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-06-10T01:44:26.3603485+03:00"
+    },
+    {
+      "productId": 1910,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-07-14T01:13:35.601047+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 90927,
+  "cartId": "3f95d9c6-da0b-4ae2-9a2c-0f37dabf6685",
+  "preferredProducts": [
+    2049,
+    2041,
+    1182
+  ],
+  "productReviews": [
+    {
+      "productId": 3990,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-01-07T14:41:28.2260998+02:00"
+    },
+    {
+      "productId": 2489,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-08-31T08:25:52.7082191+03:00"
+    },
+    {
+      "productId": 455,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-01-08T10:49:11.6696744+02:00"
+    },
+    {
+      "productId": 480,
+      "reviewText": "this service-desk is awesome.",
+      "reviewDate": "2019-03-11T23:23:23.2293613+02:00"
+    }
+  ]
+}

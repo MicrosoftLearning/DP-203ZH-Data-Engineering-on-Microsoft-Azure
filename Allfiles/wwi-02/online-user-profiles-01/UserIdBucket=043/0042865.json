@@ -1,0 +1,27 @@
+{
+  "userId": 42865,
+  "cartId": "ae3dc826-c54a-4aff-856d-9050717b6ea8",
+  "preferredProducts": [
+    1731,
+    1209,
+    2592,
+    1867
+  ],
+  "productReviews": [
+    {
+      "productId": 2660,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-11-17T12:07:31.9907586+02:00"
+    },
+    {
+      "productId": 1786,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-04-09T11:25:25.1396232+03:00"
+    },
+    {
+      "productId": 3241,
+      "reviewText": "this synthesizing is tasty.",
+      "reviewDate": "2016-08-12T11:25:38.5554461+03:00"
+    }
+  ]
+}

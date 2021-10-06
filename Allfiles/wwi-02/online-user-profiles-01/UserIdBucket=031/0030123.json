@@ -1,0 +1,31 @@
+{
+  "userId": 30123,
+  "cartId": "92b7f647-ee85-4c6c-9e05-8a7fc37a6c5a",
+  "preferredProducts": [
+    2313,
+    605,
+    2236,
+    3034,
+    3985,
+    2012,
+    4054,
+    2027
+  ],
+  "productReviews": [
+    {
+      "productId": 1601,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2016-06-28T15:51:02.8625347+03:00"
+    },
+    {
+      "productId": 239,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-05-13T23:15:09.1542838+03:00"
+    },
+    {
+      "productId": 1916,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2019-08-31T20:04:21.0240232+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 65638,
+  "cartId": "1eabb30c-29f9-447e-82c2-36d7e33fe788",
+  "preferredProducts": [
+    208,
+    3199,
+    3755,
+    4433
+  ],
+  "productReviews": [
+    {
+      "productId": 2075,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-12-07T20:46:58.8269156+02:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-07-07T12:51:45.8409106+03:00"
+    },
+    {
+      "productId": 667,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-05-12T04:38:58.7885588+03:00"
+    },
+    {
+      "productId": 4925,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2020-03-22T01:14:57.0880697+02:00"
+    },
+    {
+      "productId": 1140,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-07-10T01:39:19.1411529+03:00"
+    }
+  ]
+}

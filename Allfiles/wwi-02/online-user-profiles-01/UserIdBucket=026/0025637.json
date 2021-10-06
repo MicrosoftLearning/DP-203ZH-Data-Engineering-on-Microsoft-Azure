@@ -1,0 +1,25 @@
+{
+  "userId": 25637,
+  "cartId": "70fc3f36-f0f0-4708-be73-4999f054688f",
+  "preferredProducts": [
+    140,
+    367,
+    788,
+    3699,
+    2233,
+    4360,
+    1678
+  ],
+  "productReviews": [
+    {
+      "productId": 2881,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-06-11T15:40:15.6782686+03:00"
+    },
+    {
+      "productId": 4268,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-06-04T19:51:29.6000264+03:00"
+    }
+  ]
+}

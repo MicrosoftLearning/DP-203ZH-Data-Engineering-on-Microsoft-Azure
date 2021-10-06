@@ -1,0 +1,31 @@
+{
+  "userId": 51464,
+  "cartId": "64e4567a-16ce-4fe6-a6f3-1744cc4c5269",
+  "preferredProducts": [
+    3991,
+    3263,
+    2794,
+    1076,
+    2800,
+    1275,
+    4401,
+    2109
+  ],
+  "productReviews": [
+    {
+      "productId": 24,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-03-18T17:26:04.845717+02:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-07-07T00:21:33.9780387+03:00"
+    },
+    {
+      "productId": 2649,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-11-24T10:08:36.2954797+02:00"
+    }
+  ]
+}

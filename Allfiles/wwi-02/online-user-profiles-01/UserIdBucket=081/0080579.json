@@ -1,0 +1,25 @@
+{
+  "userId": 80579,
+  "cartId": "2f4853c6-74e8-4ea3-87cb-12f26a3ee296",
+  "preferredProducts": [
+    626,
+    3388,
+    3467,
+    1998,
+    665,
+    924,
+    1546
+  ],
+  "productReviews": [
+    {
+      "productId": 337,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-12-03T23:14:01.3785377+02:00"
+    },
+    {
+      "productId": 2814,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-01-03T16:39:23.8279447+02:00"
+    }
+  ]
+}

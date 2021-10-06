@@ -1,0 +1,36 @@
+{
+  "userId": 25364,
+  "cartId": "ace0871e-5e93-433a-b126-838b71d119aa",
+  "preferredProducts": [
+    1460,
+    4462,
+    799,
+    3117,
+    747,
+    288,
+    442,
+    1875
+  ],
+  "productReviews": [
+    {
+      "productId": 4501,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-08-25T08:21:56.9183288+03:00"
+    },
+    {
+      "productId": 2542,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-10-09T21:36:45.398552+03:00"
+    },
+    {
+      "productId": 1835,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2020-04-22T16:48:29.3128024+03:00"
+    },
+    {
+      "productId": 4719,
+      "reviewText": "this Steel is standard.",
+      "reviewDate": "2018-06-28T04:25:34.3702924+03:00"
+    }
+  ]
+}

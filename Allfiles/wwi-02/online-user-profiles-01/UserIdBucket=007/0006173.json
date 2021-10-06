@@ -1,0 +1,25 @@
+{
+  "userId": 6173,
+  "cartId": "1fd1dab3-6f79-4a42-ae15-a98403a9c62d",
+  "preferredProducts": [
+    155,
+    2031,
+    617,
+    666,
+    2974,
+    3922,
+    4166
+  ],
+  "productReviews": [
+    {
+      "productId": 785,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-10-23T14:56:00.7401496+03:00"
+    },
+    {
+      "productId": 4283,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-09-05T02:37:43.1360336+03:00"
+    }
+  ]
+}

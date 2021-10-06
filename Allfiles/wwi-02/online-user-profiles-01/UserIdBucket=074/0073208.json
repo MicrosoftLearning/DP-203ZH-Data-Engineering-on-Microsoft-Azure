@@ -1,0 +1,28 @@
+{
+  "userId": 73208,
+  "cartId": "b50f3afe-dfb0-4031-8d54-ec07bd14ac57",
+  "preferredProducts": [
+    2241,
+    287,
+    3999,
+    1831,
+    4402,
+    3650,
+    3897,
+    4440,
+    3840,
+    669
+  ],
+  "productReviews": [
+    {
+      "productId": 4321,
+      "reviewText": "this Bedfordshire is complimentary.",
+      "reviewDate": "2016-10-12T05:23:08.4715199+03:00"
+    },
+    {
+      "productId": 191,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-30T08:36:42.8285376+03:00"
+    }
+  ]
+}

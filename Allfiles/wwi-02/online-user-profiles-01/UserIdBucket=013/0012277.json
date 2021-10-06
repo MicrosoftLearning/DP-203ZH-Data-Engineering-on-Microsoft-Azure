@@ -1,0 +1,28 @@
+{
+  "userId": 12277,
+  "cartId": "fa2c0b23-4342-4c8b-a7b8-36843865badd",
+  "preferredProducts": [
+    1010,
+    1931,
+    1666,
+    3462,
+    4127,
+    556,
+    2896,
+    1199,
+    2908,
+    4527
+  ],
+  "productReviews": [
+    {
+      "productId": 2385,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-04-24T14:14:56.2839029+03:00"
+    },
+    {
+      "productId": 2213,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2020-03-24T04:16:24.2213146+02:00"
+    }
+  ]
+}

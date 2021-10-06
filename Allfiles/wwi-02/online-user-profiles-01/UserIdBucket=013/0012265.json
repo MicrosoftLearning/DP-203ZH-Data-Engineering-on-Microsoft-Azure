@@ -1,0 +1,26 @@
+{
+  "userId": 12265,
+  "cartId": "381fc265-a2d7-4b20-b695-44aec67ad243",
+  "preferredProducts": [
+    3051,
+    1465,
+    2431
+  ],
+  "productReviews": [
+    {
+      "productId": 4997,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-08-27T11:26:26.1409063+03:00"
+    },
+    {
+      "productId": 4104,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-11-07T23:54:14.967855+02:00"
+    },
+    {
+      "productId": 3003,
+      "reviewText": "This reinvent works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-12-25T18:18:08.5867883+02:00"
+    }
+  ]
+}

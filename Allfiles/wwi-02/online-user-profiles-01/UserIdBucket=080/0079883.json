@@ -1,0 +1,33 @@
+{
+  "userId": 79883,
+  "cartId": "c3c0457a-a8ba-4759-be29-1b1c840c5cc1",
+  "preferredProducts": [
+    790,
+    3212,
+    2032,
+    136,
+    3981
+  ],
+  "productReviews": [
+    {
+      "productId": 601,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-03-13T01:13:21.5091551+02:00"
+    },
+    {
+      "productId": 259,
+      "reviewText": "this Saint Martin is brown.",
+      "reviewDate": "2016-10-30T23:32:28.9066556+02:00"
+    },
+    {
+      "productId": 670,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-09-22T10:41:16.3469653+03:00"
+    },
+    {
+      "productId": 202,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-04-13T20:11:15.7660767+03:00"
+    }
+  ]
+}

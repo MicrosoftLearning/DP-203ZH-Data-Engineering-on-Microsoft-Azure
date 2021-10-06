@@ -1,0 +1,38 @@
+{
+  "userId": 20639,
+  "cartId": "9d641d10-45f5-4c5f-ba4f-fee907fe5779",
+  "preferredProducts": [
+    2793,
+    342,
+    660,
+    3349,
+    4787,
+    1353,
+    1988,
+    40,
+    1928,
+    3951
+  ],
+  "productReviews": [
+    {
+      "productId": 3492,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-10-20T22:39:14.429206+03:00"
+    },
+    {
+      "productId": 1608,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-11-10T10:16:00.5908929+02:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-02-22T10:42:54.264496+02:00"
+    },
+    {
+      "productId": 3987,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-06-19T09:30:16.3183853+03:00"
+    }
+  ]
+}

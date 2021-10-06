@@ -1,0 +1,27 @@
+{
+  "userId": 99114,
+  "cartId": "3ab2bd4e-49d9-4f8e-8f2b-69dfd050a54e",
+  "preferredProducts": [
+    2192,
+    1518,
+    2167,
+    1775
+  ],
+  "productReviews": [
+    {
+      "productId": 1075,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-09-27T12:29:58.8318129+03:00"
+    },
+    {
+      "productId": 3715,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-12-30T03:46:26.1712541+02:00"
+    },
+    {
+      "productId": 1896,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-02-08T13:50:23.2622418+02:00"
+    }
+  ]
+}

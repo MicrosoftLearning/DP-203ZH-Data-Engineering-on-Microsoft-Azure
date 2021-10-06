@@ -1,0 +1,29 @@
+{
+  "userId": 55266,
+  "cartId": "92da0ef0-ef1a-478c-84d8-5fb8282f14dc",
+  "preferredProducts": [
+    4199,
+    1654,
+    230,
+    565,
+    2794,
+    738
+  ],
+  "productReviews": [
+    {
+      "productId": 748,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-11-23T01:49:26.7583819+02:00"
+    },
+    {
+      "productId": 2783,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-01-29T23:00:36.7520127+02:00"
+    },
+    {
+      "productId": 4839,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2016-05-11T13:35:10.2615866+03:00"
+    }
+  ]
+}

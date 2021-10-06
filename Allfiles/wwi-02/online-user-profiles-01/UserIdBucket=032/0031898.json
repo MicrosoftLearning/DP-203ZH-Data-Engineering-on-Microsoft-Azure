@@ -1,0 +1,36 @@
+{
+  "userId": 31898,
+  "cartId": "1ba6eb52-695c-4597-ba90-e121b909c064",
+  "preferredProducts": [
+    2886,
+    4683,
+    4131,
+    1029,
+    877,
+    3095,
+    2211,
+    1619
+  ],
+  "productReviews": [
+    {
+      "productId": 2701,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-07-27T03:09:10.8600843+03:00"
+    },
+    {
+      "productId": 3391,
+      "reviewText": "this Security is whole-grain.",
+      "reviewDate": "2019-11-12T18:04:35.6720307+02:00"
+    },
+    {
+      "productId": 2588,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-07-31T12:53:09.8817304+03:00"
+    },
+    {
+      "productId": 304,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-10-22T08:28:53.9709078+03:00"
+    }
+  ]
+}

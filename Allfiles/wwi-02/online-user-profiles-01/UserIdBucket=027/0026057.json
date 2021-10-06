@@ -1,0 +1,30 @@
+{
+  "userId": 26057,
+  "cartId": "5260fad9-7291-4e6c-91b9-2d235fc9cdf2",
+  "preferredProducts": [
+    4014,
+    4785,
+    3445,
+    4994,
+    1002,
+    2424,
+    2720
+  ],
+  "productReviews": [
+    {
+      "productId": 2849,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-01-10T21:47:00.5567073+02:00"
+    },
+    {
+      "productId": 3322,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-03-10T02:10:21.1373649+02:00"
+    },
+    {
+      "productId": 2124,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-02-03T17:41:36.7920376+02:00"
+    }
+  ]
+}

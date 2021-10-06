@@ -1,0 +1,29 @@
+{
+  "userId": 40982,
+  "cartId": "87d7f984-d584-43cd-9dac-fbb76287739b",
+  "preferredProducts": [
+    3453,
+    2567,
+    2811,
+    862,
+    561,
+    2398
+  ],
+  "productReviews": [
+    {
+      "productId": 2360,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-02-12T13:45:35.5137372+02:00"
+    },
+    {
+      "productId": 1023,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-01-06T19:05:29.7050386+02:00"
+    },
+    {
+      "productId": 3490,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-12-30T02:07:43.1884872+02:00"
+    }
+  ]
+}

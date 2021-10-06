@@ -1,0 +1,25 @@
+{
+  "userId": 32498,
+  "cartId": "4fa2a602-615c-4df5-96d7-775e14e5ea22",
+  "preferredProducts": [
+    1709,
+    1461
+  ],
+  "productReviews": [
+    {
+      "productId": 490,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-11-04T20:31:11.6468207+02:00"
+    },
+    {
+      "productId": 1176,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-11-13T12:50:15.4475582+02:00"
+    },
+    {
+      "productId": 3967,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-12-25T20:11:21.4274965+02:00"
+    }
+  ]
+}

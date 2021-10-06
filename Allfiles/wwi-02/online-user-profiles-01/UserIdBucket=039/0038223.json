@@ -1,0 +1,29 @@
+{
+  "userId": 38223,
+  "cartId": "a2d836f8-7092-4716-8802-64f38cb8c5ae",
+  "preferredProducts": [
+    2008,
+    3478,
+    3154,
+    4103,
+    3819,
+    3509
+  ],
+  "productReviews": [
+    {
+      "productId": 1892,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-08-07T14:46:56.5482785+03:00"
+    },
+    {
+      "productId": 4015,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-04-12T02:11:41.3092077+03:00"
+    },
+    {
+      "productId": 4443,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-12-30T19:54:35.4819406+02:00"
+    }
+  ]
+}

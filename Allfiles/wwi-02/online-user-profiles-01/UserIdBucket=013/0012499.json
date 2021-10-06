@@ -1,0 +1,28 @@
+{
+  "userId": 12499,
+  "cartId": "5bddae5a-7ff2-4b19-b3ee-bf3366d76a6d",
+  "preferredProducts": [
+    2553,
+    2216,
+    3954,
+    3156,
+    4623
+  ],
+  "productReviews": [
+    {
+      "productId": 2284,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-11-25T13:03:01.5187456+02:00"
+    },
+    {
+      "productId": 888,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-12-08T15:49:04.094416+02:00"
+    },
+    {
+      "productId": 4578,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-06-12T15:46:43.1957672+03:00"
+    }
+  ]
+}

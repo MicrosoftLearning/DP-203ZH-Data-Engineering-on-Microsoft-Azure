@@ -1,0 +1,28 @@
+{
+  "userId": 41567,
+  "cartId": "14784538-0a58-4bf8-a737-e24ec266fd54",
+  "preferredProducts": [
+    227,
+    1264,
+    2947,
+    1801,
+    4225
+  ],
+  "productReviews": [
+    {
+      "productId": 1641,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-03-07T23:42:34.7656243+02:00"
+    },
+    {
+      "productId": 3937,
+      "reviewText": "this Refined Wooden Pizza is complimentary.",
+      "reviewDate": "2017-04-30T16:23:49.130221+03:00"
+    },
+    {
+      "productId": 4595,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-01-12T10:01:33.3933468+02:00"
+    }
+  ]
+}

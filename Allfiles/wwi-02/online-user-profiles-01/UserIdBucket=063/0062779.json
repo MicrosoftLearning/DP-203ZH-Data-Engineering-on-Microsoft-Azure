@@ -1,0 +1,30 @@
+{
+  "userId": 62779,
+  "cartId": "dc87b4dc-5b5b-45a4-a8b2-21933df08947",
+  "preferredProducts": [
+    345,
+    3314,
+    381,
+    4070,
+    905,
+    2406,
+    4737
+  ],
+  "productReviews": [
+    {
+      "productId": 2643,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-01-05T05:29:16.9392077+02:00"
+    },
+    {
+      "productId": 1540,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-11-11T06:32:02.5226041+02:00"
+    },
+    {
+      "productId": 4548,
+      "reviewText": "This Rest works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-12-30T22:56:29.2203239+02:00"
+    }
+  ]
+}

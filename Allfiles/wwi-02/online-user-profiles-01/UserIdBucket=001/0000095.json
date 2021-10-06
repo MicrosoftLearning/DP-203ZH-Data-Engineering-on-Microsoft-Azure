@@ -1,0 +1,26 @@
+{
+  "userId": 95,
+  "cartId": "2051b225-c08c-438a-b63e-3f04afd77d8f",
+  "preferredProducts": [
+    3959,
+    2656,
+    2454,
+    3686,
+    3754,
+    1789,
+    2012,
+    3423
+  ],
+  "productReviews": [
+    {
+      "productId": 2349,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-12-08T02:57:37.8728881+02:00"
+    },
+    {
+      "productId": 4116,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-06-03T21:44:43.1974116+03:00"
+    }
+  ]
+}

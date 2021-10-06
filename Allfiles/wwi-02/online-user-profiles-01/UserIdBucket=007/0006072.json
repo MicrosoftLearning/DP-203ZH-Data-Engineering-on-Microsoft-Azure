@@ -1,0 +1,30 @@
+{
+  "userId": 6072,
+  "cartId": "db66bf02-3d59-471c-b9d1-7c04d10e5fdb",
+  "preferredProducts": [
+    2445,
+    2645,
+    520,
+    4828,
+    4536,
+    2907,
+    3278
+  ],
+  "productReviews": [
+    {
+      "productId": 866,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-04-18T22:58:41.3659247+03:00"
+    },
+    {
+      "productId": 4965,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-02-05T09:58:51.1984605+02:00"
+    },
+    {
+      "productId": 3489,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-01-17T15:36:27.41751+02:00"
+    }
+  ]
+}

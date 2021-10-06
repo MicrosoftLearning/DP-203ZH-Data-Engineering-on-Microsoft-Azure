@@ -1,0 +1,30 @@
+{
+  "userId": 22588,
+  "cartId": "26f4e9bd-74cc-45dd-8fe8-05a1a0078eab",
+  "preferredProducts": [
+    4511,
+    694,
+    1916,
+    4979,
+    2061,
+    2245,
+    3260
+  ],
+  "productReviews": [
+    {
+      "productId": 4921,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-01-21T23:15:34.9786056+02:00"
+    },
+    {
+      "productId": 674,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-08-05T13:50:28.2301042+03:00"
+    },
+    {
+      "productId": 1580,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-08-19T01:50:17.9242092+03:00"
+    }
+  ]
+}

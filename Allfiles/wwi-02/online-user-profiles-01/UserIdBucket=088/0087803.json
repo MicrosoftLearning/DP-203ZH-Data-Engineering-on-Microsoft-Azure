@@ -1,0 +1,35 @@
+{
+  "userId": 87803,
+  "cartId": "12b7e059-53d5-4473-b02a-fae43c937f63",
+  "preferredProducts": [
+    2449,
+    4999,
+    4199,
+    1311,
+    4245,
+    3431,
+    2226
+  ],
+  "productReviews": [
+    {
+      "productId": 3649,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-12-21T20:42:43.6763045+02:00"
+    },
+    {
+      "productId": 4384,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-09-11T18:09:53.3646289+03:00"
+    },
+    {
+      "productId": 4197,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-10-11T11:22:03.7205552+03:00"
+    },
+    {
+      "productId": 1338,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-12-21T11:45:48.5137203+02:00"
+    }
+  ]
+}

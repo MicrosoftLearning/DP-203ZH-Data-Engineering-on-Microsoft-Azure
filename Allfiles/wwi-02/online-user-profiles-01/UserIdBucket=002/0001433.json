@@ -1,0 +1,30 @@
+{
+  "userId": 1433,
+  "cartId": "e7263cd0-d9d9-4e8b-b74a-2f6204e32dac",
+  "preferredProducts": [
+    2790,
+    1978
+  ],
+  "productReviews": [
+    {
+      "productId": 1717,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-09-15T11:04:05.3688217+03:00"
+    },
+    {
+      "productId": 2522,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-05-01T03:39:09.4738688+03:00"
+    },
+    {
+      "productId": 4632,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-01-18T22:22:27.3323962+02:00"
+    },
+    {
+      "productId": 900,
+      "reviewText": "This indigo works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-05-29T05:23:29.400059+03:00"
+    }
+  ]
+}

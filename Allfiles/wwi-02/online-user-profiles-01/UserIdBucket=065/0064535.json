@@ -1,0 +1,32 @@
+{
+  "userId": 64535,
+  "cartId": "e34c5554-1031-4165-b7db-bbe92b658a8f",
+  "preferredProducts": [
+    4054,
+    1101,
+    2479,
+    2524
+  ],
+  "productReviews": [
+    {
+      "productId": 4272,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-12-21T06:58:47.1553074+02:00"
+    },
+    {
+      "productId": 4288,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-09-17T12:14:49.911294+03:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2019-06-06T08:00:39.6500544+03:00"
+    },
+    {
+      "productId": 2236,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-04-26T09:52:40.2735151+03:00"
+    }
+  ]
+}

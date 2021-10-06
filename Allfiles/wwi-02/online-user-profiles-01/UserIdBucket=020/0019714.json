@@ -1,0 +1,31 @@
+{
+  "userId": 19714,
+  "cartId": "72a1e304-e96b-4e11-a5e3-6b1b6d445e2f",
+  "preferredProducts": [
+    1563,
+    3599,
+    1922
+  ],
+  "productReviews": [
+    {
+      "productId": 2458,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-05-11T01:13:36.2326747+03:00"
+    },
+    {
+      "productId": 3777,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-10-09T21:40:43.45388+03:00"
+    },
+    {
+      "productId": 3536,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-03-19T14:51:07.5051375+02:00"
+    },
+    {
+      "productId": 4897,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-12-15T00:50:46.4087389+02:00"
+    }
+  ]
+}

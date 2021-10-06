@@ -1,0 +1,29 @@
+{
+  "userId": 10631,
+  "cartId": "f2653f56-826a-4f04-b125-b2dcec4f7496",
+  "preferredProducts": [
+    4031,
+    875,
+    2794,
+    3695,
+    1471,
+    1307
+  ],
+  "productReviews": [
+    {
+      "productId": 2243,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-07-09T23:13:59.6157597+03:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-12-25T01:30:36.3180817+02:00"
+    },
+    {
+      "productId": 2291,
+      "reviewText": "this action-items is honest.",
+      "reviewDate": "2016-05-15T16:01:31.1251602+03:00"
+    }
+  ]
+}

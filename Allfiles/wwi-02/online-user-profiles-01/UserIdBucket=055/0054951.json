@@ -1,0 +1,33 @@
+{
+  "userId": 54951,
+  "cartId": "9c243f22-cd9c-451e-82c5-6042446e0aea",
+  "preferredProducts": [
+    3460,
+    48,
+    1856,
+    3235,
+    3377
+  ],
+  "productReviews": [
+    {
+      "productId": 2211,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-11-25T17:20:31.6054442+02:00"
+    },
+    {
+      "productId": 2391,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-07-20T07:40:13.5375167+03:00"
+    },
+    {
+      "productId": 2855,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-06-20T03:53:53.7521102+03:00"
+    },
+    {
+      "productId": 2499,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-09-24T23:36:59.9616423+03:00"
+    }
+  ]
+}

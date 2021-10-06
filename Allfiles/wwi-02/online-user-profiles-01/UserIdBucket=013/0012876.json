@@ -1,0 +1,25 @@
+{
+  "userId": 12876,
+  "cartId": "4450ec5a-e087-4c40-9385-039b7ba31482",
+  "preferredProducts": [
+    3943,
+    3156
+  ],
+  "productReviews": [
+    {
+      "productId": 4657,
+      "reviewText": "This violet, does exactly what it's suppose to do.",
+      "reviewDate": "2017-04-14T15:33:44.9891337+03:00"
+    },
+    {
+      "productId": 2861,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-12-02T00:13:04.4776843+02:00"
+    },
+    {
+      "productId": 2977,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-06-15T23:42:22.3809816+03:00"
+    }
+  ]
+}

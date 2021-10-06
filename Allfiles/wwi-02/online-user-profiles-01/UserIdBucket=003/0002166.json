@@ -1,0 +1,28 @@
+{
+  "userId": 2166,
+  "cartId": "1ddfeaf2-ce4a-41e3-91aa-09c50345dc63",
+  "preferredProducts": [
+    3452,
+    3551,
+    576,
+    2464,
+    4226,
+    2825,
+    510,
+    3688,
+    4601,
+    2970
+  ],
+  "productReviews": [
+    {
+      "productId": 4852,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-12-11T05:00:01.5415711+02:00"
+    },
+    {
+      "productId": 107,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-02-14T19:35:02.2585879+02:00"
+    }
+  ]
+}

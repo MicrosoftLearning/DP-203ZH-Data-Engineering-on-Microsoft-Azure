@@ -1,0 +1,32 @@
+{
+  "userId": 92218,
+  "cartId": "b1317b7a-dd4e-4cc1-a6b1-6618901526cb",
+  "preferredProducts": [
+    219,
+    789,
+    1843,
+    3706
+  ],
+  "productReviews": [
+    {
+      "productId": 2605,
+      "reviewText": "this Mobility is snowy.",
+      "reviewDate": "2017-05-31T10:16:18.5544708+03:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-01-25T04:14:38.6039785+02:00"
+    },
+    {
+      "productId": 2631,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-02-01T04:07:18.5854891+02:00"
+    },
+    {
+      "productId": 1611,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-10-22T20:08:55.6396569+03:00"
+    }
+  ]
+}

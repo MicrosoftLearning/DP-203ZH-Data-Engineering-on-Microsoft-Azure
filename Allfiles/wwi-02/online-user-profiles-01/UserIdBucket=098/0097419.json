@@ -1,0 +1,32 @@
+{
+  "userId": 97419,
+  "cartId": "8602e018-2536-481f-81ae-4d02ff932f79",
+  "preferredProducts": [
+    1001,
+    4283,
+    4642,
+    606
+  ],
+  "productReviews": [
+    {
+      "productId": 1992,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-03-12T06:32:31.4586066+02:00"
+    },
+    {
+      "productId": 1881,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-02-01T03:46:11.1273415+02:00"
+    },
+    {
+      "productId": 4409,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-10-04T14:43:52.479167+03:00"
+    },
+    {
+      "productId": 3016,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-01-04T22:09:06.7239455+02:00"
+    }
+  ]
+}

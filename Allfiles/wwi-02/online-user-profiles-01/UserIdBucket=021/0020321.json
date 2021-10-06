@@ -1,0 +1,36 @@
+{
+  "userId": 20321,
+  "cartId": "af72c516-518b-4bf5-aca6-bb4c17a8e914",
+  "preferredProducts": [
+    2072,
+    2450,
+    1630
+  ],
+  "productReviews": [
+    {
+      "productId": 3568,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-05-10T21:19:28.5728022+03:00"
+    },
+    {
+      "productId": 3741,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-07-12T04:58:15.6035224+03:00"
+    },
+    {
+      "productId": 2700,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2018-08-03T10:54:33.3392816+03:00"
+    },
+    {
+      "productId": 2135,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-02-25T05:30:28.5536168+02:00"
+    },
+    {
+      "productId": 3508,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-11-29T03:49:07.1757398+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 42703,
+  "cartId": "81c6fbe9-504e-4329-bb8e-e0c9f454c30f",
+  "preferredProducts": [
+    428,
+    56,
+    2540,
+    2742,
+    1097,
+    588
+  ],
+  "productReviews": [
+    {
+      "productId": 2339,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-09-05T02:41:23.9222971+03:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "this Internal is papery.",
+      "reviewDate": "2019-08-04T09:59:52.7383004+03:00"
+    }
+  ]
+}

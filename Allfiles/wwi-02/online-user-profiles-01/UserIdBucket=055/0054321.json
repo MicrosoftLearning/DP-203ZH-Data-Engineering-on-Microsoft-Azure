@@ -1,0 +1,43 @@
+{
+  "userId": 54321,
+  "cartId": "94ba4535-7dec-42ad-a672-e8d9f37c2691",
+  "preferredProducts": [
+    1509,
+    3802,
+    1230,
+    4223,
+    2862,
+    3767,
+    523,
+    1874,
+    766,
+    924
+  ],
+  "productReviews": [
+    {
+      "productId": 1284,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-04-15T00:30:25.5077472+03:00"
+    },
+    {
+      "productId": 1188,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-12-14T05:08:17.4131561+02:00"
+    },
+    {
+      "productId": 1154,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-03-01T06:28:17.4872698+02:00"
+    },
+    {
+      "productId": 250,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-04-29T10:54:14.0453114+03:00"
+    },
+    {
+      "productId": 4265,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-11-06T10:25:04.7854552+02:00"
+    }
+  ]
+}

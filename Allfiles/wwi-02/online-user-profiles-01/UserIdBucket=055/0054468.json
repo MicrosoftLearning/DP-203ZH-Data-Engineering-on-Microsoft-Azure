@@ -1,0 +1,35 @@
+{
+  "userId": 54468,
+  "cartId": "d8ee0eea-6c09-4ac4-94d2-bf76ae03d779",
+  "preferredProducts": [
+    394,
+    3687,
+    2174,
+    3221,
+    896,
+    314,
+    2135
+  ],
+  "productReviews": [
+    {
+      "productId": 1220,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-12-21T18:19:08.8151572+02:00"
+    },
+    {
+      "productId": 1434,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-01-12T08:02:47.9800487+02:00"
+    },
+    {
+      "productId": 974,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-05-17T18:42:23.326981+03:00"
+    },
+    {
+      "productId": 4944,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-08-23T21:53:53.903371+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 10134,
+  "cartId": "3c6e0653-c4c8-41ad-9454-3b0637e3cb87",
+  "preferredProducts": [
+    3466,
+    674
+  ],
+  "productReviews": [
+    {
+      "productId": 2808,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-11-08T10:33:47.7586415+02:00"
+    },
+    {
+      "productId": 4347,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-06-06T08:24:54.1988654+03:00"
+    },
+    {
+      "productId": 3731,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-02-21T09:45:13.0751717+02:00"
+    },
+    {
+      "productId": 165,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-11-05T12:24:28.572133+02:00"
+    }
+  ]
+}

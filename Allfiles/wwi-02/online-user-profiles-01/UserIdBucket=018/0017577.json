@@ -1,0 +1,32 @@
+{
+  "userId": 17577,
+  "cartId": "5aaaeb64-e65b-43c9-aa86-9f22ce370458",
+  "preferredProducts": [
+    3984,
+    1305,
+    814,
+    2382
+  ],
+  "productReviews": [
+    {
+      "productId": 4594,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-10-01T08:17:58.0804616+03:00"
+    },
+    {
+      "productId": 2645,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-12-26T19:16:33.8585091+02:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-11-03T03:53:58.3212806+02:00"
+    },
+    {
+      "productId": 4916,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-03-26T06:51:58.5379223+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 36465,
+  "cartId": "dd277b29-71d3-462e-925d-45ee9610ba64",
+  "preferredProducts": [
+    3453,
+    2220,
+    2580,
+    2944,
+    4129,
+    1083,
+    3001,
+    508,
+    1623
+  ],
+  "productReviews": [
+    {
+      "productId": 2013,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-11-24T00:27:53.7993023+02:00"
+    },
+    {
+      "productId": 283,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-07-09T01:22:55.679934+03:00"
+    },
+    {
+      "productId": 4012,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-11-05T07:07:33.6575912+02:00"
+    },
+    {
+      "productId": 4375,
+      "reviewText": "this Soft is hyper.",
+      "reviewDate": "2016-07-18T03:40:04.6056202+03:00"
+    }
+  ]
+}

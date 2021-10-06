@@ -1,0 +1,35 @@
+{
+  "userId": 53951,
+  "cartId": "c89906d6-9095-4f4e-bd35-720e204865b5",
+  "preferredProducts": [
+    4155,
+    233,
+    1135,
+    1018,
+    2848,
+    3349,
+    4759
+  ],
+  "productReviews": [
+    {
+      "productId": 3595,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-11-11T12:21:17.2457603+02:00"
+    },
+    {
+      "productId": 1283,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-06-24T09:12:59.9513031+03:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-10-02T03:36:58.9333127+03:00"
+    },
+    {
+      "productId": 393,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-05-28T16:17:17.3892595+03:00"
+    }
+  ]
+}

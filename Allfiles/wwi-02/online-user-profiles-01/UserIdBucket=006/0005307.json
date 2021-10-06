@@ -1,0 +1,30 @@
+{
+  "userId": 5307,
+  "cartId": "ea816d57-1ac3-408d-bf49-0719d47b62e8",
+  "preferredProducts": [
+    1470,
+    1635,
+    2305,
+    401,
+    1473,
+    4080,
+    4967
+  ],
+  "productReviews": [
+    {
+      "productId": 4410,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-06-01T18:49:28.5531237+03:00"
+    },
+    {
+      "productId": 1753,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-04-02T22:18:11.9488655+03:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "This pink works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2018-03-01T12:45:01.5338609+02:00"
+    }
+  ]
+}

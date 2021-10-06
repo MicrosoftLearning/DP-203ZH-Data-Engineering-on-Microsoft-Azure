@@ -1,0 +1,30 @@
+{
+  "userId": 65475,
+  "cartId": "854a2f2a-4eb8-44df-a764-43f44fd8c945",
+  "preferredProducts": [
+    4719,
+    852,
+    314,
+    3081,
+    3790,
+    3037,
+    2758
+  ],
+  "productReviews": [
+    {
+      "productId": 3829,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-03-13T00:00:38.8491082+02:00"
+    },
+    {
+      "productId": 2587,
+      "reviewText": "This copying works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-10-28T22:32:38.2487593+03:00"
+    },
+    {
+      "productId": 3706,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-05-06T04:03:27.2217239+03:00"
+    }
+  ]
+}

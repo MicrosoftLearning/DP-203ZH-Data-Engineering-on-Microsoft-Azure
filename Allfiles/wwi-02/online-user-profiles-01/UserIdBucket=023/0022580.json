@@ -1,0 +1,25 @@
+{
+  "userId": 22580,
+  "cartId": "03a2c417-0396-4850-8f7f-927a224c403b",
+  "preferredProducts": [
+    966,
+    3371,
+    3797,
+    4117,
+    4309,
+    2458,
+    1513
+  ],
+  "productReviews": [
+    {
+      "productId": 3183,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-09-02T15:06:14.4188267+03:00"
+    },
+    {
+      "productId": 4945,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-07-28T08:51:54.4895135+03:00"
+    }
+  ]
+}

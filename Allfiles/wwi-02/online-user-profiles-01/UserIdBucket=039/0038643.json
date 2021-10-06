@@ -1,0 +1,33 @@
+{
+  "userId": 38643,
+  "cartId": "f2d14f31-0ca4-4ca3-a8aa-3336f9a02689",
+  "preferredProducts": [
+    601,
+    496,
+    2012,
+    4460,
+    4464
+  ],
+  "productReviews": [
+    {
+      "productId": 3201,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-08-21T05:44:07.5848368+03:00"
+    },
+    {
+      "productId": 3967,
+      "reviewText": "this payment is awesome.",
+      "reviewDate": "2018-02-07T12:52:58.0953461+02:00"
+    },
+    {
+      "productId": 3868,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-08-20T03:04:16.3789728+03:00"
+    },
+    {
+      "productId": 1078,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-05-16T16:13:13.6413677+03:00"
+    }
+  ]
+}

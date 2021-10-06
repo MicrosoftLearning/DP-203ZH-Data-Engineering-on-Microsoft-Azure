@@ -1,0 +1,29 @@
+{
+  "userId": 12040,
+  "cartId": "2f1c0fc2-d231-4ce1-8c77-5000c81c7290",
+  "preferredProducts": [
+    3679,
+    4504,
+    4822,
+    1714,
+    3001,
+    2479
+  ],
+  "productReviews": [
+    {
+      "productId": 4498,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-02-17T04:06:24.1397589+02:00"
+    },
+    {
+      "productId": 842,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2020-03-21T16:03:51.1165168+02:00"
+    },
+    {
+      "productId": 3489,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-08-17T17:38:52.8900639+03:00"
+    }
+  ]
+}

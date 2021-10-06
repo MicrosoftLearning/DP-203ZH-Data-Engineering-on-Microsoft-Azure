@@ -1,0 +1,34 @@
+{
+  "userId": 3840,
+  "cartId": "773c33f4-e2d6-44c5-b94d-661d9e155e7e",
+  "preferredProducts": [
+    799,
+    4039,
+    502,
+    700,
+    4484,
+    3008
+  ],
+  "productReviews": [
+    {
+      "productId": 1793,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-08-08T13:34:50.0730706+03:00"
+    },
+    {
+      "productId": 1017,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-09-11T21:33:15.2710059+03:00"
+    },
+    {
+      "productId": 3632,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-11T02:20:12.9900999+02:00"
+    },
+    {
+      "productId": 1116,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-01-31T16:29:02.3830035+02:00"
+    }
+  ]
+}

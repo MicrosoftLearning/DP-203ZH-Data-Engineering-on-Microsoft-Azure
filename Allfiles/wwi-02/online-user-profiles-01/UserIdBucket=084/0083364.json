@@ -1,0 +1,33 @@
+{
+  "userId": 83364,
+  "cartId": "931abe51-3df5-4e9c-b0d6-beb174850d42",
+  "preferredProducts": [
+    3965,
+    2084,
+    4621,
+    2562,
+    256
+  ],
+  "productReviews": [
+    {
+      "productId": 437,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-12-13T19:00:59.2103971+02:00"
+    },
+    {
+      "productId": 2428,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-06T02:19:14.3353465+02:00"
+    },
+    {
+      "productId": 1192,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-12-28T00:46:52.7305647+02:00"
+    },
+    {
+      "productId": 1656,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2020-01-15T22:09:19.719957+02:00"
+    }
+  ]
+}

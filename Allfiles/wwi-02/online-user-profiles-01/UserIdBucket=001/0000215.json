@@ -1,0 +1,37 @@
+{
+  "userId": 215,
+  "cartId": "3662ec2e-6df1-420d-9fbc-62b2fdba24f4",
+  "preferredProducts": [
+    4087,
+    4430,
+    962,
+    4062,
+    1290,
+    1634,
+    2265,
+    2006,
+    1197
+  ],
+  "productReviews": [
+    {
+      "productId": 606,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-01-24T08:39:49.1939494+02:00"
+    },
+    {
+      "productId": 1307,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-09-26T18:27:01.4190984+03:00"
+    },
+    {
+      "productId": 4884,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2020-04-05T10:28:04.4982798+03:00"
+    },
+    {
+      "productId": 908,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2020-01-16T18:07:29.8930473+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 4017,
+  "cartId": "9a8e3061-0a9c-4518-8442-574ee566fcb6",
+  "preferredProducts": [
+    8,
+    778,
+    1619,
+    136,
+    2745,
+    3586,
+    2476,
+    670
+  ],
+  "productReviews": [
+    {
+      "productId": 440,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-08-15T06:49:26.1056367+03:00"
+    },
+    {
+      "productId": 2358,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-11-25T08:39:48.2701755+02:00"
+    },
+    {
+      "productId": 3496,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-06-15T22:19:27.7728321+03:00"
+    }
+  ]
+}

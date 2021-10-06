@@ -1,0 +1,27 @@
+{
+  "userId": 71570,
+  "cartId": "41b4a4b0-cb0b-4eca-8182-72695440d11d",
+  "preferredProducts": [
+    2063,
+    1994,
+    1118,
+    3015,
+    2702,
+    359,
+    2833,
+    4083,
+    1370
+  ],
+  "productReviews": [
+    {
+      "productId": 298,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-04-09T11:07:18.53818+03:00"
+    },
+    {
+      "productId": 998,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-11-29T23:27:17.5961166+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 71551,
+  "cartId": "a446abd3-8c5a-4094-8f59-6b9cd3dcc7f4",
+  "preferredProducts": [
+    3223,
+    4925,
+    11,
+    4591
+  ],
+  "productReviews": [
+    {
+      "productId": 23,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-04-13T10:17:39.0185535+03:00"
+    },
+    {
+      "productId": 4272,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-06-26T16:17:26.0060487+03:00"
+    },
+    {
+      "productId": 4728,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-12-07T11:41:58.0268939+02:00"
+    },
+    {
+      "productId": 4958,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-02-20T02:35:11.3771225+02:00"
+    }
+  ]
+}

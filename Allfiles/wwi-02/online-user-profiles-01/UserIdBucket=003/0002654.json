@@ -1,0 +1,28 @@
+{
+  "userId": 2654,
+  "cartId": "cc2bceed-f238-46f6-894f-2e892f9cf377",
+  "preferredProducts": [
+    2536,
+    4497,
+    1003,
+    2122,
+    3646
+  ],
+  "productReviews": [
+    {
+      "productId": 1257,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-10-22T14:00:28.6270076+03:00"
+    },
+    {
+      "productId": 3231,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2016-07-23T13:35:16.1312157+03:00"
+    },
+    {
+      "productId": 138,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-10-13T06:35:13.8996096+03:00"
+    }
+  ]
+}

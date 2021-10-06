@@ -1,0 +1,38 @@
+{
+  "userId": 70198,
+  "cartId": "226dae3b-6d65-459e-be6a-49692c0cc26e",
+  "preferredProducts": [
+    492,
+    446,
+    2392,
+    1277,
+    4067,
+    4440,
+    1460,
+    4890,
+    1396,
+    3745
+  ],
+  "productReviews": [
+    {
+      "productId": 3286,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-11-09T22:42:09.2436992+02:00"
+    },
+    {
+      "productId": 3598,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-08-18T04:25:41.9592321+03:00"
+    },
+    {
+      "productId": 2425,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2020-04-24T22:16:58.1619864+03:00"
+    },
+    {
+      "productId": 2781,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-09-29T03:36:37.6484775+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 42343,
+  "cartId": "3112e52f-dcfa-4367-b3a6-a228e8d55119",
+  "preferredProducts": [
+    3561,
+    3459,
+    928,
+    4051,
+    1629,
+    421,
+    549,
+    3599,
+    2494,
+    4971
+  ],
+  "productReviews": [
+    {
+      "productId": 3312,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-03-09T15:22:17.0133965+02:00"
+    },
+    {
+      "productId": 4873,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-02-22T23:40:37.0530488+02:00"
+    },
+    {
+      "productId": 1137,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-10-31T19:12:24.5153488+02:00"
+    },
+    {
+      "productId": 966,
+      "reviewText": "This Beauty works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2018-07-20T12:46:12.3273684+03:00"
+    }
+  ]
+}

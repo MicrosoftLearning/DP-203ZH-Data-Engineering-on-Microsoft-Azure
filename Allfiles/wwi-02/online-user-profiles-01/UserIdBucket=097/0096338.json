@@ -1,0 +1,31 @@
+{
+  "userId": 96338,
+  "cartId": "4da53c54-4a17-45dc-83ec-f476b475b0b6",
+  "preferredProducts": [
+    1080,
+    3479,
+    3914,
+    2552,
+    2030,
+    3545,
+    1180,
+    621
+  ],
+  "productReviews": [
+    {
+      "productId": 4836,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-11-16T00:07:48.7533322+02:00"
+    },
+    {
+      "productId": 4799,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-10-07T08:52:55.1941704+03:00"
+    },
+    {
+      "productId": 4023,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-12-03T12:44:19.7083291+02:00"
+    }
+  ]
+}

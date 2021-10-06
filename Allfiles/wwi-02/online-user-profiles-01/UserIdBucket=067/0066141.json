@@ -1,0 +1,33 @@
+{
+  "userId": 66141,
+  "cartId": "4ea63ca6-2bf3-4902-b20f-bde456b2ff68",
+  "preferredProducts": [
+    217,
+    4439,
+    3213,
+    4277,
+    1006
+  ],
+  "productReviews": [
+    {
+      "productId": 3626,
+      "reviewText": "this Creative is standard.",
+      "reviewDate": "2019-01-28T08:40:39.3884217+02:00"
+    },
+    {
+      "productId": 4870,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-06-13T08:04:26.9549937+03:00"
+    },
+    {
+      "productId": 299,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-08-20T18:42:59.4443293+03:00"
+    },
+    {
+      "productId": 4702,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-05-07T06:24:32.2114937+03:00"
+    }
+  ]
+}

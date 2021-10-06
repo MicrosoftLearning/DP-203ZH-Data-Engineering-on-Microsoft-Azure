@@ -1,0 +1,27 @@
+{
+  "userId": 3401,
+  "cartId": "c5487a80-5f62-4d85-b851-88b1d9399c8a",
+  "preferredProducts": [
+    1106,
+    800,
+    2445,
+    267,
+    3728,
+    275,
+    2204,
+    1328,
+    1473
+  ],
+  "productReviews": [
+    {
+      "productId": 1501,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-02-21T09:19:42.9211365+02:00"
+    },
+    {
+      "productId": 116,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-09-09T07:03:29.652015+03:00"
+    }
+  ]
+}

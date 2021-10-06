@@ -1,0 +1,32 @@
+{
+  "userId": 87191,
+  "cartId": "4597ca79-a806-43e3-ba6e-6004f266820b",
+  "preferredProducts": [
+    316,
+    723,
+    2481,
+    4842
+  ],
+  "productReviews": [
+    {
+      "productId": 3439,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-05-30T11:06:36.6183653+03:00"
+    },
+    {
+      "productId": 520,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-08-05T22:46:50.3890002+03:00"
+    },
+    {
+      "productId": 1205,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-10-28T20:13:40.3595491+02:00"
+    },
+    {
+      "productId": 1132,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-08-16T01:29:21.7325043+03:00"
+    }
+  ]
+}

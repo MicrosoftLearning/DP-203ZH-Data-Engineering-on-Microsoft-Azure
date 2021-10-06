@@ -1,0 +1,35 @@
+{
+  "userId": 41666,
+  "cartId": "76af912b-a927-4ccb-a923-f17e015e0bb3",
+  "preferredProducts": [
+    2136,
+    124,
+    3200,
+    4193,
+    4438,
+    1918,
+    2690
+  ],
+  "productReviews": [
+    {
+      "productId": 3650,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-01-26T05:40:26.0594199+02:00"
+    },
+    {
+      "productId": 1198,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-07-23T03:00:27.9240344+03:00"
+    },
+    {
+      "productId": 3893,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-01-18T14:03:19.5332772+02:00"
+    },
+    {
+      "productId": 2238,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-11-03T09:21:28.8100209+02:00"
+    }
+  ]
+}

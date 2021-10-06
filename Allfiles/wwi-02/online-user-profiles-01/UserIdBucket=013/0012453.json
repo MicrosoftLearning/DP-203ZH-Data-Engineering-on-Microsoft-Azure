@@ -1,0 +1,38 @@
+{
+  "userId": 12453,
+  "cartId": "a96a5fa3-74db-43d4-8eed-3b3264269cad",
+  "preferredProducts": [
+    4884,
+    1823,
+    1135,
+    2365,
+    1429
+  ],
+  "productReviews": [
+    {
+      "productId": 2912,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-09-30T11:10:47.7986329+03:00"
+    },
+    {
+      "productId": 1345,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-06-17T19:54:51.1011722+03:00"
+    },
+    {
+      "productId": 3886,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-05-20T17:21:27.752137+03:00"
+    },
+    {
+      "productId": 2042,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-08-30T04:15:11.1766644+03:00"
+    },
+    {
+      "productId": 3273,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-09-06T20:28:11.1892684+03:00"
+    }
+  ]
+}

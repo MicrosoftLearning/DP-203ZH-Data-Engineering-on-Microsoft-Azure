@@ -1,0 +1,42 @@
+{
+  "userId": 20219,
+  "cartId": "2a9dde14-6963-4c7e-840e-9b5f73e9b608",
+  "preferredProducts": [
+    3892,
+    3502,
+    2871,
+    3818,
+    872,
+    2964,
+    1372,
+    1655,
+    918
+  ],
+  "productReviews": [
+    {
+      "productId": 2975,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-12-13T07:28:46.0772842+02:00"
+    },
+    {
+      "productId": 1920,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-02-08T07:18:34.6138635+02:00"
+    },
+    {
+      "productId": 4794,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-08-07T10:48:22.7719916+03:00"
+    },
+    {
+      "productId": 3897,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-02-20T02:56:40.4182326+02:00"
+    },
+    {
+      "productId": 465,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-04-10T20:20:11.5824733+03:00"
+    }
+  ]
+}

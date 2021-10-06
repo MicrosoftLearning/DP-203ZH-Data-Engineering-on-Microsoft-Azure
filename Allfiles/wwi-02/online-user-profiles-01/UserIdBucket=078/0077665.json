@@ -1,0 +1,25 @@
+{
+  "userId": 77665,
+  "cartId": "e616be1f-8660-429d-ad32-34bfcebdaeef",
+  "preferredProducts": [
+    1189,
+    3940
+  ],
+  "productReviews": [
+    {
+      "productId": 2196,
+      "reviewText": "this grid-enabled is nifty.",
+      "reviewDate": "2016-09-05T11:54:25.3098465+03:00"
+    },
+    {
+      "productId": 1893,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-03-02T04:00:45.8742891+02:00"
+    },
+    {
+      "productId": 1269,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-04-23T22:25:53.6763638+03:00"
+    }
+  ]
+}

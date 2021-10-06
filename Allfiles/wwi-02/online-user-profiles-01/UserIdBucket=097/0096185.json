@@ -1,0 +1,27 @@
+{
+  "userId": 96185,
+  "cartId": "134f0be2-1717-4d89-ab58-5f0717f79d6c",
+  "preferredProducts": [
+    2,
+    2895,
+    3604,
+    1512
+  ],
+  "productReviews": [
+    {
+      "productId": 3170,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-12-16T11:02:41.6224124+02:00"
+    },
+    {
+      "productId": 3970,
+      "reviewText": "this XSS is standard.",
+      "reviewDate": "2017-11-12T15:05:13.4234424+02:00"
+    },
+    {
+      "productId": 2721,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-11-02T01:16:58.9717046+02:00"
+    }
+  ]
+}

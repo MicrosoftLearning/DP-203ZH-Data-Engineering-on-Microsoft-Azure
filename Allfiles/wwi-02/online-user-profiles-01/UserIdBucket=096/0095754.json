@@ -1,0 +1,30 @@
+{
+  "userId": 95754,
+  "cartId": "3d906fe9-1e5c-4159-abfa-ab3f77096421",
+  "preferredProducts": [
+    224,
+    204,
+    1527,
+    1576,
+    2333,
+    506,
+    2296
+  ],
+  "productReviews": [
+    {
+      "productId": 4455,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-12-15T04:58:12.7663652+02:00"
+    },
+    {
+      "productId": 883,
+      "reviewText": "This Malawi, does exactly what it's suppose to do.",
+      "reviewDate": "2019-07-22T10:40:40.0308821+03:00"
+    },
+    {
+      "productId": 3797,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-04-13T07:37:39.0337545+03:00"
+    }
+  ]
+}

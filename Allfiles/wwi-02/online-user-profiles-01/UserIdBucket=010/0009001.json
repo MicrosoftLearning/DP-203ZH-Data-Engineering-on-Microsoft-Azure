@@ -1,0 +1,29 @@
+{
+  "userId": 9001,
+  "cartId": "21fc0f31-0fbb-404d-bd9f-a73783caf5ee",
+  "preferredProducts": [
+    2147,
+    646,
+    1800,
+    2735,
+    2397,
+    1948
+  ],
+  "productReviews": [
+    {
+      "productId": 2588,
+      "reviewText": "this Generic is tasty.",
+      "reviewDate": "2019-09-05T16:31:49.6178646+03:00"
+    },
+    {
+      "productId": 584,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-11-07T03:46:43.0046923+02:00"
+    },
+    {
+      "productId": 3620,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-11-26T02:28:40.2168967+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 28613,
+  "cartId": "3e2e2432-4d9d-4ac0-bfda-8f383e7a48dc",
+  "preferredProducts": [
+    533,
+    818,
+    4491,
+    1615,
+    2698,
+    3295,
+    2702
+  ],
+  "productReviews": [
+    {
+      "productId": 4889,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-04-19T19:06:45.9779969+03:00"
+    },
+    {
+      "productId": 2993,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-07-18T00:54:39.6252609+03:00"
+    },
+    {
+      "productId": 2725,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-12-06T11:38:15.748678+02:00"
+    }
+  ]
+}

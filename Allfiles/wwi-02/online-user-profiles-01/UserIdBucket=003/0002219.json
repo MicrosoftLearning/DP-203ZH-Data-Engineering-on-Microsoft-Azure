@@ -1,0 +1,32 @@
+{
+  "userId": 2219,
+  "cartId": "e98dec05-10ae-431e-9ba7-21aaf3ed6821",
+  "preferredProducts": [
+    3929,
+    4537,
+    2225,
+    472,
+    4579,
+    3227,
+    2911,
+    1994,
+    2964
+  ],
+  "productReviews": [
+    {
+      "productId": 1896,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-07-24T12:41:57.9528135+03:00"
+    },
+    {
+      "productId": 3675,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-09-27T20:04:46.7217386+03:00"
+    },
+    {
+      "productId": 3604,
+      "reviewText": "this array is awesome.",
+      "reviewDate": "2019-04-16T19:56:21.046794+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 99256,
+  "cartId": "cf6b4851-1286-41e1-96cc-35404d96da04",
+  "preferredProducts": [
+    1334,
+    1260,
+    3205,
+    1951,
+    2579,
+    3315
+  ],
+  "productReviews": [
+    {
+      "productId": 4515,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-10-09T10:53:11.6756369+03:00"
+    },
+    {
+      "productId": 876,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-10-11T23:13:44.7469152+03:00"
+    }
+  ]
+}

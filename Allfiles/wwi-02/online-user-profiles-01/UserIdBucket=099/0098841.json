@@ -1,0 +1,32 @@
+{
+  "userId": 98841,
+  "cartId": "a466cefa-e597-4f44-8931-277f4c5d7ea5",
+  "preferredProducts": [
+    553,
+    1633,
+    4112,
+    4415
+  ],
+  "productReviews": [
+    {
+      "productId": 241,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-09-19T10:19:21.0231387+03:00"
+    },
+    {
+      "productId": 3600,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-06-12T08:11:06.8616758+03:00"
+    },
+    {
+      "productId": 4802,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-03-26T16:32:41.923418+03:00"
+    },
+    {
+      "productId": 3252,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-07-27T04:34:37.8222298+03:00"
+    }
+  ]
+}

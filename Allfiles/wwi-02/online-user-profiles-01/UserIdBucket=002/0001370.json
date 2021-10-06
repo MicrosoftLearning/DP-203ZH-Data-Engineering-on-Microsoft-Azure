@@ -1,0 +1,28 @@
+{
+  "userId": 1370,
+  "cartId": "afb05a34-1c0b-4ce8-81a4-b63b809fa31a",
+  "preferredProducts": [
+    1001,
+    1184,
+    4727,
+    2732,
+    2571
+  ],
+  "productReviews": [
+    {
+      "productId": 3022,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-03-09T04:55:35.4440518+02:00"
+    },
+    {
+      "productId": 4608,
+      "reviewText": "This HTTP works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2018-04-03T06:59:26.1240116+03:00"
+    },
+    {
+      "productId": 2147,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-11-12T14:54:25.6480685+02:00"
+    }
+  ]
+}

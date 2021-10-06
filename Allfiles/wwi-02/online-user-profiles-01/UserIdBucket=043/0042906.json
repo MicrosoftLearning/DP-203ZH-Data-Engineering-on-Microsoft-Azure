@@ -1,0 +1,26 @@
+{
+  "userId": 42906,
+  "cartId": "d9c3bada-2cc6-4e2d-a7ca-e6870e49de04",
+  "preferredProducts": [
+    4528,
+    1549,
+    4003,
+    275,
+    2428,
+    215,
+    3249,
+    4272
+  ],
+  "productReviews": [
+    {
+      "productId": 595,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-07-25T16:15:10.3353585+03:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-06-21T19:17:16.6121787+03:00"
+    }
+  ]
+}

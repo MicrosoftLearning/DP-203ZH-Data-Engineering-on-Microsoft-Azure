@@ -1,0 +1,38 @@
+{
+  "userId": 75525,
+  "cartId": "76297f40-92fb-4e6d-81b8-ff29428e6e67",
+  "preferredProducts": [
+    911,
+    3003,
+    4619,
+    3360,
+    3684
+  ],
+  "productReviews": [
+    {
+      "productId": 2332,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-12-02T10:44:12.2913793+02:00"
+    },
+    {
+      "productId": 675,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-09-24T16:39:38.7747571+03:00"
+    },
+    {
+      "productId": 3776,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-01-16T20:49:41.6375073+02:00"
+    },
+    {
+      "productId": 812,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-03-06T11:18:23.4537179+02:00"
+    },
+    {
+      "productId": 4346,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-12-31T06:08:37.4231222+02:00"
+    }
+  ]
+}

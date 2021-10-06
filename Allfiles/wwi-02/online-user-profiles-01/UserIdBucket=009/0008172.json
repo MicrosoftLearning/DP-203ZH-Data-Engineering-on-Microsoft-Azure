@@ -1,0 +1,32 @@
+{
+  "userId": 8172,
+  "cartId": "3f066be7-d66e-4dd6-a973-6ca191f09884",
+  "preferredProducts": [
+    2591,
+    1564,
+    1784,
+    3045
+  ],
+  "productReviews": [
+    {
+      "productId": 1013,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-09-04T08:30:13.1728105+03:00"
+    },
+    {
+      "productId": 1705,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-05-31T11:00:44.7571824+03:00"
+    },
+    {
+      "productId": 3655,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-11-27T20:10:39.1596509+02:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-12-23T08:33:07.8340737+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 40633,
+  "cartId": "40b95684-2fd6-4d71-b922-9b955bb11917",
+  "preferredProducts": [
+    3687,
+    4133,
+    4703,
+    3638,
+    171,
+    833,
+    1595,
+    3483,
+    4437,
+    4476
+  ],
+  "productReviews": [
+    {
+      "productId": 1170,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-03-25T14:24:04.5063064+03:00"
+    },
+    {
+      "productId": 4289,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-08T01:33:17.017334+03:00"
+    },
+    {
+      "productId": 1476,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-07-16T23:02:25.6625255+03:00"
+    }
+  ]
+}

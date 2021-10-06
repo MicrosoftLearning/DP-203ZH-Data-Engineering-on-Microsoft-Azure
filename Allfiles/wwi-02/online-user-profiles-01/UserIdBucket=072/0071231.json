@@ -1,0 +1,29 @@
+{
+  "userId": 71231,
+  "cartId": "93d4646b-4bd4-47cc-916a-a9ba7ab71665",
+  "preferredProducts": [
+    2865,
+    1949,
+    736,
+    4172,
+    437,
+    2738
+  ],
+  "productReviews": [
+    {
+      "productId": 3627,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-12-09T19:21:46.3821257+02:00"
+    },
+    {
+      "productId": 1458,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-05-12T09:40:10.9763041+03:00"
+    },
+    {
+      "productId": 416,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2020-05-02T06:15:33.4935087+03:00"
+    }
+  ]
+}

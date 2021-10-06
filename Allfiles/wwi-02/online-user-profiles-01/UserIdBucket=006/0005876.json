@@ -1,0 +1,35 @@
+{
+  "userId": 5876,
+  "cartId": "ccf0cf17-fe7c-4433-afb9-e65edb9eb355",
+  "preferredProducts": [
+    849,
+    577
+  ],
+  "productReviews": [
+    {
+      "productId": 3336,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-04-25T18:15:08.3597743+03:00"
+    },
+    {
+      "productId": 4685,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-10-15T11:04:47.789343+03:00"
+    },
+    {
+      "productId": 2668,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-06-16T16:36:13.1080924+03:00"
+    },
+    {
+      "productId": 3428,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-05-05T10:56:20.752391+03:00"
+    },
+    {
+      "productId": 1379,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-07-29T17:50:01.0727409+03:00"
+    }
+  ]
+}

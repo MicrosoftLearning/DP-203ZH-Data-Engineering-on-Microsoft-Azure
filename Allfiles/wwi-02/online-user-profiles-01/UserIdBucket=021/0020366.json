@@ -1,0 +1,33 @@
+{
+  "userId": 20366,
+  "cartId": "9f5277d7-cfd2-4e3c-9cd2-93088dce80a3",
+  "preferredProducts": [
+    3065,
+    1078,
+    319,
+    543,
+    636
+  ],
+  "productReviews": [
+    {
+      "productId": 4329,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-10-05T13:10:29.8588834+03:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-12-02T04:40:40.1189482+02:00"
+    },
+    {
+      "productId": 4239,
+      "reviewText": "this Guatemala is papery.",
+      "reviewDate": "2016-12-30T07:08:49.7883034+02:00"
+    },
+    {
+      "productId": 2566,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-12-20T00:34:34.8744362+02:00"
+    }
+  ]
+}

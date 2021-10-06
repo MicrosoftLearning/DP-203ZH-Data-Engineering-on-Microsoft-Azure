@@ -1,0 +1,23 @@
+{
+  "userId": 9869,
+  "cartId": "72d38769-f871-4f79-965a-c4bc8df878b5",
+  "preferredProducts": [
+    1401,
+    4321,
+    2341,
+    3538,
+    1502
+  ],
+  "productReviews": [
+    {
+      "productId": 3679,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-08-01T06:54:36.6171146+03:00"
+    },
+    {
+      "productId": 4718,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-09-06T07:59:22.2424015+03:00"
+    }
+  ]
+}

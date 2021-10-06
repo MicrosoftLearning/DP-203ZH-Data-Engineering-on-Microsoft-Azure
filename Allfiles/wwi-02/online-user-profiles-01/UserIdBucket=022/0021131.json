@@ -1,0 +1,38 @@
+{
+  "userId": 21131,
+  "cartId": "db8f118f-7111-4631-b520-b6c2914995dd",
+  "preferredProducts": [
+    183,
+    4878,
+    793,
+    3339,
+    626,
+    3788,
+    3341,
+    2366,
+    1225,
+    3623
+  ],
+  "productReviews": [
+    {
+      "productId": 3639,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-10-29T11:56:05.8686766+02:00"
+    },
+    {
+      "productId": 1371,
+      "reviewText": "This CSS works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-08-29T13:28:47.8067722+03:00"
+    },
+    {
+      "productId": 3253,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-10-13T09:41:38.18128+03:00"
+    },
+    {
+      "productId": 4438,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-10-20T23:02:30.4568221+03:00"
+    }
+  ]
+}

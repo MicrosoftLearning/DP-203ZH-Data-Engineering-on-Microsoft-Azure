@@ -1,0 +1,26 @@
+{
+  "userId": 27065,
+  "cartId": "400c64a8-b7dd-4d3d-a226-befbb5608985",
+  "preferredProducts": [
+    1617,
+    546,
+    4226
+  ],
+  "productReviews": [
+    {
+      "productId": 1252,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-08-23T12:03:44.5839656+03:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-01-05T01:07:41.6474035+02:00"
+    },
+    {
+      "productId": 3043,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-07-02T07:18:18.3641482+03:00"
+    }
+  ]
+}

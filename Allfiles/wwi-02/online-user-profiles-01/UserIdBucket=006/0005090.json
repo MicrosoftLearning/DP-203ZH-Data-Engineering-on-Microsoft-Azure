@@ -1,0 +1,34 @@
+{
+  "userId": 5090,
+  "cartId": "348d8eb0-237b-4e06-9278-84b89cb98972",
+  "preferredProducts": [
+    3450,
+    2809,
+    3016,
+    4984,
+    52,
+    1362
+  ],
+  "productReviews": [
+    {
+      "productId": 2755,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-09-26T22:29:27.4072372+03:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-08-07T18:27:01.5230433+03:00"
+    },
+    {
+      "productId": 2864,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-03-18T10:03:25.0576781+02:00"
+    },
+    {
+      "productId": 2681,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-01-19T12:17:47.3688928+02:00"
+    }
+  ]
+}

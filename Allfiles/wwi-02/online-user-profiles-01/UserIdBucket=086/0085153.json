@@ -1,0 +1,26 @@
+{
+  "userId": 85153,
+  "cartId": "ada07651-d4dd-41f3-8a7c-d4d9e8015bfe",
+  "preferredProducts": [
+    2334,
+    805,
+    436
+  ],
+  "productReviews": [
+    {
+      "productId": 5000,
+      "reviewText": "this Product is mellow.",
+      "reviewDate": "2016-05-18T11:13:02.9350157+03:00"
+    },
+    {
+      "productId": 187,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2018-07-02T08:52:19.9954816+03:00"
+    },
+    {
+      "productId": 2559,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-06-11T17:45:06.3053572+03:00"
+    }
+  ]
+}

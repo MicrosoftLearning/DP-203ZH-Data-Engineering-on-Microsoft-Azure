@@ -1,0 +1,27 @@
+{
+  "userId": 12385,
+  "cartId": "9383d5b2-20f7-472e-a3ff-1863e81024ec",
+  "preferredProducts": [
+    26,
+    379,
+    1162,
+    3395,
+    2732,
+    4165,
+    1249,
+    2819,
+    318
+  ],
+  "productReviews": [
+    {
+      "productId": 3986,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-12-09T18:26:32.7941964+02:00"
+    },
+    {
+      "productId": 4130,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-12-21T23:29:35.8696823+02:00"
+    }
+  ]
+}

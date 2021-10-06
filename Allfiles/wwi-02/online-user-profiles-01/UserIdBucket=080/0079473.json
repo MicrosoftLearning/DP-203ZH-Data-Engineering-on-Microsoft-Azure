@@ -1,0 +1,36 @@
+{
+  "userId": 79473,
+  "cartId": "27be5e84-cffd-49fa-9a29-acf8e65b25c4",
+  "preferredProducts": [
+    3521,
+    1525,
+    4423,
+    2924,
+    2556,
+    2461,
+    2061,
+    4548
+  ],
+  "productReviews": [
+    {
+      "productId": 334,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-02-12T13:09:42.6589885+02:00"
+    },
+    {
+      "productId": 479,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-05-09T09:51:10.7144059+03:00"
+    },
+    {
+      "productId": 2677,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-06-04T19:39:38.6228156+03:00"
+    },
+    {
+      "productId": 749,
+      "reviewText": "this withdrawal is mellow.",
+      "reviewDate": "2018-08-25T13:13:50.3456906+03:00"
+    }
+  ]
+}

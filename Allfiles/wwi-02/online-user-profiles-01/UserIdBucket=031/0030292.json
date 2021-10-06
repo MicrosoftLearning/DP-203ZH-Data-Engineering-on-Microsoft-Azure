@@ -1,0 +1,28 @@
+{
+  "userId": 30292,
+  "cartId": "b50b72e1-9680-4b2b-b612-3ae571089334",
+  "preferredProducts": [
+    3432,
+    4471,
+    4533,
+    3306,
+    2091
+  ],
+  "productReviews": [
+    {
+      "productId": 3270,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-01-04T19:22:13.4396454+02:00"
+    },
+    {
+      "productId": 557,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-02-27T15:18:30.0995492+02:00"
+    },
+    {
+      "productId": 3967,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2016-08-28T00:22:16.424009+03:00"
+    }
+  ]
+}

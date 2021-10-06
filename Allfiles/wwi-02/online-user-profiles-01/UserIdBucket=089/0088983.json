@@ -1,0 +1,27 @@
+{
+  "userId": 88983,
+  "cartId": "b64819f7-9f47-4783-923d-032a7b2aef9a",
+  "preferredProducts": [
+    3810,
+    664,
+    4426,
+    3019
+  ],
+  "productReviews": [
+    {
+      "productId": 3505,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-06-19T12:37:41.4083251+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-01-19T20:14:26.3806843+02:00"
+    },
+    {
+      "productId": 4192,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-08-21T04:38:04.3255115+03:00"
+    }
+  ]
+}

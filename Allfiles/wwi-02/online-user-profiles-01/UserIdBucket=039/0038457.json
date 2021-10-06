@@ -1,0 +1,30 @@
+{
+  "userId": 38457,
+  "cartId": "d11b78d9-ea74-4015-93f9-d231283939c9",
+  "preferredProducts": [
+    568,
+    1213,
+    1396,
+    4901,
+    10,
+    1192,
+    3424
+  ],
+  "productReviews": [
+    {
+      "productId": 210,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2020-04-30T21:45:10.5943942+03:00"
+    },
+    {
+      "productId": 4223,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-11-12T00:01:02.0946016+02:00"
+    },
+    {
+      "productId": 1893,
+      "reviewText": "This Enhanced works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-10-19T06:32:08.2407222+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 25932,
+  "cartId": "d92acd4f-b06e-4e62-b29b-fbc55d0033da",
+  "preferredProducts": [
+    4916,
+    4935,
+    3930,
+    1513,
+    4308,
+    487
+  ],
+  "productReviews": [
+    {
+      "productId": 2900,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-04-29T22:30:41.3487665+03:00"
+    },
+    {
+      "productId": 2683,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-11-03T19:41:28.5848544+02:00"
+    }
+  ]
+}

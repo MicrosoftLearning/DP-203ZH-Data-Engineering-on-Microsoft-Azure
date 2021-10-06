@@ -1,0 +1,28 @@
+{
+  "userId": 99924,
+  "cartId": "9129bc8a-a5d2-48f8-917e-0b0b3957cdf1",
+  "preferredProducts": [
+    1350,
+    1909,
+    3599,
+    2399,
+    3894
+  ],
+  "productReviews": [
+    {
+      "productId": 3764,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-01-02T04:18:25.083753+02:00"
+    },
+    {
+      "productId": 2686,
+      "reviewText": "this indexing is flirty.",
+      "reviewDate": "2019-09-29T09:37:31.1815297+03:00"
+    },
+    {
+      "productId": 3826,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-04-08T02:31:15.4819431+03:00"
+    }
+  ]
+}

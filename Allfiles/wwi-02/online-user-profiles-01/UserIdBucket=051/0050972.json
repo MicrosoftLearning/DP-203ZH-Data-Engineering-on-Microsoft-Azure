@@ -1,0 +1,33 @@
+{
+  "userId": 50972,
+  "cartId": "30430f59-3f90-455a-b5a4-99e5e3d7a24c",
+  "preferredProducts": [
+    1708,
+    4953,
+    2783,
+    4010,
+    4262,
+    1547,
+    2575,
+    1708,
+    2524,
+    2826
+  ],
+  "productReviews": [
+    {
+      "productId": 1230,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-12-19T09:19:01.728181+02:00"
+    },
+    {
+      "productId": 4639,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-09-25T06:25:55.7245741+03:00"
+    },
+    {
+      "productId": 3663,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-04-10T00:01:18.1654604+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 13328,
+  "cartId": "24e4d234-19d7-4b8d-9986-ec5e292105da",
+  "preferredProducts": [
+    3496,
+    972,
+    2392,
+    172,
+    2022
+  ],
+  "productReviews": [
+    {
+      "productId": 3842,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-03-09T14:24:23.3378229+02:00"
+    },
+    {
+      "productId": 2128,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-06-13T11:00:50.6178512+03:00"
+    },
+    {
+      "productId": 660,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-05-27T16:08:36.9358934+03:00"
+    },
+    {
+      "productId": 1898,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-07-29T17:34:15.2286082+03:00"
+    }
+  ]
+}

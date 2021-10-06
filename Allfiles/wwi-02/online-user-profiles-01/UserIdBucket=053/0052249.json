@@ -1,0 +1,30 @@
+{
+  "userId": 52249,
+  "cartId": "5ed90d58-3f54-43cb-bb2b-a1267ecba2f4",
+  "preferredProducts": [
+    753,
+    1323,
+    3426,
+    2033,
+    4434,
+    2922,
+    1582
+  ],
+  "productReviews": [
+    {
+      "productId": 3706,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-01-17T11:10:21.206409+02:00"
+    },
+    {
+      "productId": 4005,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-11-12T03:15:18.3628749+02:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-05-16T16:02:52.1143944+03:00"
+    }
+  ]
+}

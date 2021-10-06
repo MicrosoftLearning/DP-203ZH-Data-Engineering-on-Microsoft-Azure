@@ -1,0 +1,35 @@
+{
+  "userId": 45218,
+  "cartId": "69c4d23d-afb9-4964-9bb3-c1fce3d33108",
+  "preferredProducts": [
+    1087,
+    4130,
+    653,
+    797,
+    4620,
+    206,
+    3052
+  ],
+  "productReviews": [
+    {
+      "productId": 781,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-12-01T16:32:51.2636925+02:00"
+    },
+    {
+      "productId": 3318,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-01-27T19:43:36.7564865+02:00"
+    },
+    {
+      "productId": 4695,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-05-26T07:54:59.6571308+03:00"
+    },
+    {
+      "productId": 3578,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-08-05T12:56:55.6586997+03:00"
+    }
+  ]
+}

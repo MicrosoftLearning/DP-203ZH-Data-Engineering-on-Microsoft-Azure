@@ -1,0 +1,28 @@
+{
+  "userId": 59310,
+  "cartId": "ef82574c-7c43-496e-9238-cbd435a3ae2a",
+  "preferredProducts": [
+    494,
+    4294,
+    305,
+    3633,
+    1710
+  ],
+  "productReviews": [
+    {
+      "productId": 1892,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-12-29T09:48:01.4435624+02:00"
+    },
+    {
+      "productId": 1259,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-08-22T17:46:05.1000049+03:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-06-07T20:36:06.7944362+03:00"
+    }
+  ]
+}

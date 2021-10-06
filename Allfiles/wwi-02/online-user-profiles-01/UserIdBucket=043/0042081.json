@@ -1,0 +1,28 @@
+{
+  "userId": 42081,
+  "cartId": "45e8104b-4eab-4dec-854c-846495aa99b2",
+  "preferredProducts": [
+    3448,
+    4748,
+    4741,
+    21,
+    1213
+  ],
+  "productReviews": [
+    {
+      "productId": 3403,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-02-20T12:13:21.8535048+02:00"
+    },
+    {
+      "productId": 28,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-03-13T22:29:51.3130453+02:00"
+    },
+    {
+      "productId": 3208,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-08-15T14:19:25.9669863+03:00"
+    }
+  ]
+}

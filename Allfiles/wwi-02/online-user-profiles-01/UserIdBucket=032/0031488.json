@@ -1,0 +1,30 @@
+{
+  "userId": 31488,
+  "cartId": "d3c50493-bd06-4010-9a8a-ee15844120ab",
+  "preferredProducts": [
+    2572,
+    970,
+    2712,
+    2294,
+    2407,
+    1756,
+    4913
+  ],
+  "productReviews": [
+    {
+      "productId": 2931,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-05-30T01:29:01.8586005+03:00"
+    },
+    {
+      "productId": 1897,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-11-03T08:00:11.3679112+02:00"
+    },
+    {
+      "productId": 4407,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2020-04-22T18:35:04.6752139+03:00"
+    }
+  ]
+}

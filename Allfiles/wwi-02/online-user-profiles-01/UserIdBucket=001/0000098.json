@@ -1,0 +1,30 @@
+{
+  "userId": 98,
+  "cartId": "b8d01747-5a5d-4175-9fb6-7c884239a8c3",
+  "preferredProducts": [
+    2307,
+    83,
+    3692,
+    4569,
+    4000,
+    927,
+    442
+  ],
+  "productReviews": [
+    {
+      "productId": 4112,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-08-21T05:10:27.1550044+03:00"
+    },
+    {
+      "productId": 1689,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-05-11T12:15:41.2583557+03:00"
+    },
+    {
+      "productId": 2516,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-10-02T05:56:20.0961488+03:00"
+    }
+  ]
+}

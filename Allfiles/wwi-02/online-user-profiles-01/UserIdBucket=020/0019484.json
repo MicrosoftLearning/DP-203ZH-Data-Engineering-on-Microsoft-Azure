@@ -1,0 +1,33 @@
+{
+  "userId": 19484,
+  "cartId": "7d23e60f-3287-4056-85e5-3d284876a003",
+  "preferredProducts": [
+    1453,
+    3524,
+    162,
+    2854,
+    3503
+  ],
+  "productReviews": [
+    {
+      "productId": 2443,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-01-27T21:50:08.4797495+02:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-05-21T02:58:38.2200823+03:00"
+    },
+    {
+      "productId": 1227,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-01-24T04:32:55.9980906+02:00"
+    },
+    {
+      "productId": 4758,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-02-25T17:46:23.6874243+02:00"
+    }
+  ]
+}

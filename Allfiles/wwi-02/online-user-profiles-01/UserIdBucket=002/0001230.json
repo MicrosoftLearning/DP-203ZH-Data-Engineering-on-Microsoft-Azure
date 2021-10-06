@@ -1,0 +1,29 @@
+{
+  "userId": 1230,
+  "cartId": "79dce914-12c3-4094-807f-d22aa940a0ea",
+  "preferredProducts": [
+    1076
+  ],
+  "productReviews": [
+    {
+      "productId": 3035,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-04-05T23:08:20.1011119+03:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-08-28T10:06:05.8779969+03:00"
+    },
+    {
+      "productId": 473,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-11-06T13:36:54.0909548+02:00"
+    },
+    {
+      "productId": 1266,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-12-01T09:59:03.1520417+02:00"
+    }
+  ]
+}

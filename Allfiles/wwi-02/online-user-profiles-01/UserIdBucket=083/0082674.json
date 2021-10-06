@@ -1,0 +1,37 @@
+{
+  "userId": 82674,
+  "cartId": "db1d9ea3-e3f2-426e-8f1c-015c1b0d863a",
+  "preferredProducts": [
+    3346,
+    3623,
+    1551,
+    2678
+  ],
+  "productReviews": [
+    {
+      "productId": 3004,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-09-04T21:18:03.9440365+03:00"
+    },
+    {
+      "productId": 1261,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-10-20T20:39:10.4935501+03:00"
+    },
+    {
+      "productId": 512,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-11-21T11:01:39.0681312+02:00"
+    },
+    {
+      "productId": 130,
+      "reviewText": "This Program works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-07-31T06:09:08.7611473+03:00"
+    },
+    {
+      "productId": 2221,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-03-14T06:20:41.6168322+02:00"
+    }
+  ]
+}

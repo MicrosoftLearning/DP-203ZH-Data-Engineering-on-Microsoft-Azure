@@ -1,0 +1,30 @@
+{
+  "userId": 5498,
+  "cartId": "52a04117-b144-4dbe-b4c4-da6aaceefafe",
+  "preferredProducts": [
+    4275,
+    3912
+  ],
+  "productReviews": [
+    {
+      "productId": 3813,
+      "reviewText": "this bypass is slurpee.",
+      "reviewDate": "2019-11-08T06:00:12.3273104+02:00"
+    },
+    {
+      "productId": 4608,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-11-26T09:19:43.8549902+02:00"
+    },
+    {
+      "productId": 2886,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-07-27T05:15:27.3245876+03:00"
+    },
+    {
+      "productId": 1996,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-02-09T19:13:20.8286729+02:00"
+    }
+  ]
+}

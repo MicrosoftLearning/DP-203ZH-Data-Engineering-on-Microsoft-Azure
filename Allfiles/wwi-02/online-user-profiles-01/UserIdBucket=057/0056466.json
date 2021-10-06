@@ -1,0 +1,31 @@
+{
+  "userId": 56466,
+  "cartId": "6443e6e7-3c0c-4c79-942e-d34d8aa28b00",
+  "preferredProducts": [
+    1016,
+    3968,
+    3333
+  ],
+  "productReviews": [
+    {
+      "productId": 2080,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-11-10T08:39:25.9277646+02:00"
+    },
+    {
+      "productId": 3591,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-03-17T16:15:04.4944845+02:00"
+    },
+    {
+      "productId": 1569,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-07-03T16:34:37.7095692+03:00"
+    },
+    {
+      "productId": 3068,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-10-15T15:10:09.2984876+03:00"
+    }
+  ]
+}

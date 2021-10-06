@@ -1,0 +1,38 @@
+{
+  "userId": 85323,
+  "cartId": "2ba205a0-f95d-4324-a67a-c6df26ad81aa",
+  "preferredProducts": [
+    103,
+    2964,
+    1821,
+    1358,
+    4236
+  ],
+  "productReviews": [
+    {
+      "productId": 1250,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-11-28T18:22:30.5787193+02:00"
+    },
+    {
+      "productId": 1095,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-02-27T09:59:53.9037412+02:00"
+    },
+    {
+      "productId": 3690,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-06-05T15:32:59.432688+03:00"
+    },
+    {
+      "productId": 2559,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-02-06T00:30:22.3329788+02:00"
+    },
+    {
+      "productId": 844,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-01-14T22:35:03.3981077+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 20496,
+  "cartId": "dcbe1202-7bc0-4c5f-bcf1-03ca179d4e9b",
+  "preferredProducts": [
+    1061,
+    1768,
+    4549
+  ],
+  "productReviews": [
+    {
+      "productId": 1286,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-09-29T10:29:39.7281491+03:00"
+    },
+    {
+      "productId": 4446,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-12-08T04:48:11.4137328+02:00"
+    },
+    {
+      "productId": 2428,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2016-09-03T14:01:24.078897+03:00"
+    }
+  ]
+}

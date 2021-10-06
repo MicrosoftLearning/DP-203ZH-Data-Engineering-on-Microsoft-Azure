@@ -1,0 +1,35 @@
+{
+  "userId": 98623,
+  "cartId": "62c8526b-a404-4e05-97f7-ecc9cb0ff966",
+  "preferredProducts": [
+    19,
+    3878,
+    4781,
+    37,
+    1333,
+    3376,
+    2672
+  ],
+  "productReviews": [
+    {
+      "productId": 2476,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-05-28T00:26:12.3621175+03:00"
+    },
+    {
+      "productId": 4486,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-02-13T16:13:51.6902381+02:00"
+    },
+    {
+      "productId": 4851,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-02-12T01:30:41.5626726+02:00"
+    },
+    {
+      "productId": 2574,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-06-03T09:33:15.1581279+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 43234,
+  "cartId": "4888baa4-dcbb-4dfe-abe9-4da42fdb863d",
+  "preferredProducts": [
+    2253,
+    1973,
+    1463,
+    4370,
+    1901
+  ],
+  "productReviews": [
+    {
+      "productId": 4439,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-03-05T01:07:10.1382+02:00"
+    },
+    {
+      "productId": 4420,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2017-10-30T08:48:23.7257191+02:00"
+    },
+    {
+      "productId": 4841,
+      "reviewText": "This Cross-group works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-01-14T11:33:06.3078937+02:00"
+    },
+    {
+      "productId": 3523,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-05-06T15:35:40.8661354+03:00"
+    },
+    {
+      "productId": 4953,
+      "reviewText": "This Mountain works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-08-25T10:01:23.0121402+03:00"
+    }
+  ]
+}

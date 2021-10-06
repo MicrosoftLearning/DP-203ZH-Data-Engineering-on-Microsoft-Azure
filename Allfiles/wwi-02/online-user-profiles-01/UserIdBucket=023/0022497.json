@@ -1,0 +1,36 @@
+{
+  "userId": 22497,
+  "cartId": "18731e0b-12d2-4bca-bae7-a12d10882cc1",
+  "preferredProducts": [
+    1486,
+    1579,
+    1199,
+    898,
+    1192,
+    460,
+    4337,
+    3771
+  ],
+  "productReviews": [
+    {
+      "productId": 440,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-06-29T09:53:54.3343593+03:00"
+    },
+    {
+      "productId": 1218,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-05-22T23:31:28.4231759+03:00"
+    },
+    {
+      "productId": 4211,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-01-19T21:10:19.3374686+02:00"
+    },
+    {
+      "productId": 4429,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-04-24T08:02:43.0423312+03:00"
+    }
+  ]
+}

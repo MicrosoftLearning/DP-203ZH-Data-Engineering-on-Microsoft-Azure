@@ -1,0 +1,30 @@
+{
+  "userId": 63066,
+  "cartId": "c415c059-58f9-4d34-aa49-e050c180dd1e",
+  "preferredProducts": [
+    4973,
+    4309,
+    163,
+    4817,
+    3242,
+    3845,
+    3719
+  ],
+  "productReviews": [
+    {
+      "productId": 20,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-06-19T16:21:25.4235394+03:00"
+    },
+    {
+      "productId": 3225,
+      "reviewText": "this Borders is flirty.",
+      "reviewDate": "2017-08-04T17:17:23.5819976+03:00"
+    },
+    {
+      "productId": 3805,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-08-22T18:55:01.5197726+03:00"
+    }
+  ]
+}

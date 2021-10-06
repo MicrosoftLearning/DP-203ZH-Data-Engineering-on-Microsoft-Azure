@@ -1,0 +1,29 @@
+{
+  "userId": 73128,
+  "cartId": "16f831c5-5edc-45e8-aba5-53190dac5026",
+  "preferredProducts": [
+    3057,
+    4289,
+    1178,
+    1010,
+    3545,
+    1218
+  ],
+  "productReviews": [
+    {
+      "productId": 4121,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-02-10T23:15:28.5243253+02:00"
+    },
+    {
+      "productId": 4641,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-11-08T02:58:00.78859+02:00"
+    },
+    {
+      "productId": 1711,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-07-19T08:55:29.5894634+03:00"
+    }
+  ]
+}

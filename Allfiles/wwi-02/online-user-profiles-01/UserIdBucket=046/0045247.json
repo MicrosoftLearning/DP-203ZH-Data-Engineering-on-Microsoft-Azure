@@ -1,0 +1,27 @@
+{
+  "userId": 45247,
+  "cartId": "7b71295f-93d7-4dbc-a738-7e3d05c095a3",
+  "preferredProducts": [
+    824,
+    3834,
+    922,
+    3993
+  ],
+  "productReviews": [
+    {
+      "productId": 866,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-10-14T03:25:29.0219591+03:00"
+    },
+    {
+      "productId": 1646,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-05-18T06:05:19.7307567+03:00"
+    },
+    {
+      "productId": 3164,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-04-06T14:49:45.7082455+03:00"
+    }
+  ]
+}

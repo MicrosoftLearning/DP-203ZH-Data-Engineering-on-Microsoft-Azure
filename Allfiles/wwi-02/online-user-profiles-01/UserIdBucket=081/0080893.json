@@ -1,0 +1,32 @@
+{
+  "userId": 80893,
+  "cartId": "7c49b8c5-57f7-4e1e-be46-72b70ca28715",
+  "preferredProducts": [
+    2377,
+    2245,
+    98,
+    3395
+  ],
+  "productReviews": [
+    {
+      "productId": 3190,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-08-01T13:25:08.2824134+03:00"
+    },
+    {
+      "productId": 3650,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-01-24T21:53:01.6047834+02:00"
+    },
+    {
+      "productId": 1945,
+      "reviewText": "this cross-platform is hyper.",
+      "reviewDate": "2017-04-07T00:16:37.1800275+03:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-08-31T16:25:42.9170579+03:00"
+    }
+  ]
+}

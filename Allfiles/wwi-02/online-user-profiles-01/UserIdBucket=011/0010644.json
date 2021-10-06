@@ -1,0 +1,42 @@
+{
+  "userId": 10644,
+  "cartId": "d5d8ea01-7516-4bfb-b189-ca83d46920ed",
+  "preferredProducts": [
+    1250,
+    1521,
+    1390,
+    661,
+    2988,
+    20,
+    3310,
+    250,
+    3023
+  ],
+  "productReviews": [
+    {
+      "productId": 4633,
+      "reviewText": "this firewall is perplexed.",
+      "reviewDate": "2017-12-04T03:55:36.7911055+02:00"
+    },
+    {
+      "productId": 630,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-10-30T11:03:35.8468552+02:00"
+    },
+    {
+      "productId": 4151,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-11-16T11:58:34.9308769+02:00"
+    },
+    {
+      "productId": 756,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-11-17T11:01:46.3182697+02:00"
+    },
+    {
+      "productId": 15,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-05-28T14:42:33.1495857+03:00"
+    }
+  ]
+}

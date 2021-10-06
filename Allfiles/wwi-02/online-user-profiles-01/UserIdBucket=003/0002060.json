@@ -1,0 +1,32 @@
+{
+  "userId": 2060,
+  "cartId": "b433d33f-cf5b-46ae-bc90-b7692d964b98",
+  "preferredProducts": [
+    1028,
+    1119,
+    1333,
+    2951,
+    3638,
+    1980,
+    4010,
+    4394,
+    1386
+  ],
+  "productReviews": [
+    {
+      "productId": 1434,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-09-17T03:28:13.0069508+03:00"
+    },
+    {
+      "productId": 1696,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-01-06T02:34:22.2834252+02:00"
+    },
+    {
+      "productId": 297,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-01-18T02:32:04.8320322+02:00"
+    }
+  ]
+}

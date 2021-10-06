@@ -1,0 +1,38 @@
+{
+  "userId": 38566,
+  "cartId": "15e194dc-8ec6-42a1-af19-99962125c933",
+  "preferredProducts": [
+    2222,
+    3343,
+    2557,
+    1110,
+    2088,
+    2589,
+    1024,
+    4567,
+    2685,
+    2238
+  ],
+  "productReviews": [
+    {
+      "productId": 2697,
+      "reviewText": "this Incredible is top-notch.",
+      "reviewDate": "2017-09-17T17:48:40.0180718+03:00"
+    },
+    {
+      "productId": 632,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-08-19T06:11:31.2066464+03:00"
+    },
+    {
+      "productId": 2164,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-04-11T18:00:02.3225786+03:00"
+    },
+    {
+      "productId": 1524,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-03-06T20:18:43.8643351+02:00"
+    }
+  ]
+}

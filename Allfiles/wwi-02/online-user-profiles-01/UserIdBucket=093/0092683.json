@@ -1,0 +1,35 @@
+{
+  "userId": 92683,
+  "cartId": "b46e7b95-c662-425d-aaf0-878a485bf41b",
+  "preferredProducts": [
+    1027,
+    3254,
+    2718,
+    2670,
+    3067,
+    4631,
+    788
+  ],
+  "productReviews": [
+    {
+      "productId": 3416,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-03-28T20:07:37.8863327+02:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-03-09T15:42:02.0179538+02:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-04-17T11:39:31.0307324+03:00"
+    },
+    {
+      "productId": 1501,
+      "reviewText": "this SAS is mellow.",
+      "reviewDate": "2019-07-12T02:44:04.396568+03:00"
+    }
+  ]
+}

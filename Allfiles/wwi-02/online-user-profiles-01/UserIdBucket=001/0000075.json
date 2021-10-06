@@ -1,0 +1,32 @@
+{
+  "userId": 75,
+  "cartId": "8e52fc66-dcee-4cc2-9af0-7645cbc48866",
+  "preferredProducts": [
+    3519,
+    1087,
+    1264,
+    1676,
+    4878,
+    2285,
+    3318,
+    319,
+    2094
+  ],
+  "productReviews": [
+    {
+      "productId": 3023,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-07-20T19:15:41.1835085+03:00"
+    },
+    {
+      "productId": 627,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-04-02T08:56:41.8813048+03:00"
+    },
+    {
+      "productId": 3423,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-04-01T21:55:44.9383565+03:00"
+    }
+  ]
+}

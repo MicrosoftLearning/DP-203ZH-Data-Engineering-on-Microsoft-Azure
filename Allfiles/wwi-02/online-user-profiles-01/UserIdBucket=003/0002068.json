@@ -1,0 +1,28 @@
+{
+  "userId": 2068,
+  "cartId": "dc154458-a34a-4fcb-ab13-74d4772eb37e",
+  "preferredProducts": [
+    1128,
+    4821,
+    3037,
+    1128,
+    1331,
+    3233,
+    559,
+    943,
+    3290,
+    4565
+  ],
+  "productReviews": [
+    {
+      "productId": 4266,
+      "reviewText": "this Pine is awesome.",
+      "reviewDate": "2018-05-09T14:47:33.7638548+03:00"
+    },
+    {
+      "productId": 2539,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-12-15T00:18:20.3736149+02:00"
+    }
+  ]
+}

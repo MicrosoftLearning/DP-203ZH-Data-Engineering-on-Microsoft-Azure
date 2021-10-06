@@ -1,0 +1,31 @@
+{
+  "userId": 4008,
+  "cartId": "9b504985-4d19-4070-8065-76410b4ccb38",
+  "preferredProducts": [
+    3453,
+    1391,
+    1426,
+    4011,
+    3199,
+    2943,
+    3139,
+    3495
+  ],
+  "productReviews": [
+    {
+      "productId": 4719,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-05-02T19:05:06.500258+03:00"
+    },
+    {
+      "productId": 4710,
+      "reviewText": "this Guarani is ratty.",
+      "reviewDate": "2016-12-22T10:35:09.493256+02:00"
+    },
+    {
+      "productId": 1595,
+      "reviewText": "This 3rd generation works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-12-11T18:05:48.7302376+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 67626,
+  "cartId": "babfdf80-aff0-4898-916f-19348b44af30",
+  "preferredProducts": [
+    2974,
+    1794,
+    1816
+  ],
+  "productReviews": [
+    {
+      "productId": 1163,
+      "reviewText": "this application is standard.",
+      "reviewDate": "2017-12-18T23:26:41.891556+02:00"
+    },
+    {
+      "productId": 4391,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-06-30T17:50:50.6278629+03:00"
+    },
+    {
+      "productId": 3397,
+      "reviewText": "This is a really good Cotton.",
+      "reviewDate": "2018-11-30T04:06:00.5892994+02:00"
+    },
+    {
+      "productId": 4339,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-06-04T05:51:14.5607719+03:00"
+    }
+  ]
+}

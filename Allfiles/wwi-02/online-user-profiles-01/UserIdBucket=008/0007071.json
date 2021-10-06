@@ -1,0 +1,35 @@
+{
+  "userId": 7071,
+  "cartId": "0a5b9b1a-0e01-4d54-a43a-a5ef123f76db",
+  "preferredProducts": [
+    3057,
+    4299,
+    4778,
+    3665,
+    2591,
+    3451,
+    586
+  ],
+  "productReviews": [
+    {
+      "productId": 287,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-07-14T01:30:25.3834254+03:00"
+    },
+    {
+      "productId": 1978,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-11-16T11:28:22.7145415+02:00"
+    },
+    {
+      "productId": 3203,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-06-08T18:52:07.7766592+03:00"
+    },
+    {
+      "productId": 498,
+      "reviewText": "this Iceland Krona is gracious.",
+      "reviewDate": "2018-03-18T14:45:11.1905968+02:00"
+    }
+  ]
+}

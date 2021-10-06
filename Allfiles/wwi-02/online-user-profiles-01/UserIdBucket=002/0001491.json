@@ -1,0 +1,32 @@
+{
+  "userId": 1491,
+  "cartId": "180ff762-f030-4938-bfa1-8413858b2c16",
+  "preferredProducts": [
+    2213,
+    1255,
+    1892,
+    1284,
+    4280,
+    1673,
+    4133,
+    4531,
+    4339
+  ],
+  "productReviews": [
+    {
+      "productId": 328,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-09-10T10:53:07.2473979+03:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-10-02T13:08:10.7930416+03:00"
+    },
+    {
+      "productId": 176,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2020-02-16T11:15:30.0576451+02:00"
+    }
+  ]
+}

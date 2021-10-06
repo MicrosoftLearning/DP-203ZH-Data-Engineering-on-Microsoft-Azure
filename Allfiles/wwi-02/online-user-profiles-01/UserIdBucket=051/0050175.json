@@ -1,0 +1,25 @@
+{
+  "userId": 50175,
+  "cartId": "1ab503e1-ec57-4a9b-ab92-4dd86e967a30",
+  "preferredProducts": [
+    4895,
+    4584,
+    1103,
+    4156,
+    1430,
+    533,
+    2062
+  ],
+  "productReviews": [
+    {
+      "productId": 3861,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-06-20T11:29:42.9681178+03:00"
+    },
+    {
+      "productId": 1700,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-02-05T11:09:47.0111042+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 64342,
+  "cartId": "5800a122-900d-4777-bc34-800feea4abb6",
+  "preferredProducts": [
+    678,
+    2869,
+    2321,
+    4188,
+    74
+  ],
+  "productReviews": [
+    {
+      "productId": 4485,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-04-10T03:01:16.7666314+03:00"
+    },
+    {
+      "productId": 387,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-03-19T13:49:51.8578275+02:00"
+    },
+    {
+      "productId": 3164,
+      "reviewText": "this middleware is whole-grain.",
+      "reviewDate": "2019-04-14T17:50:49.5782916+03:00"
+    },
+    {
+      "productId": 4218,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-03-06T21:22:52.1946279+02:00"
+    }
+  ]
+}

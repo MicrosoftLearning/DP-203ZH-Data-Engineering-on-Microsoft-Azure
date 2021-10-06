@@ -1,0 +1,35 @@
+{
+  "userId": 93957,
+  "cartId": "4cf3ea48-8765-4cf7-b255-c40cd9454ac5",
+  "preferredProducts": [
+    1237,
+    3413,
+    4857,
+    3173,
+    3046,
+    1090,
+    4000
+  ],
+  "productReviews": [
+    {
+      "productId": 657,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-10-16T04:43:31.4948522+03:00"
+    },
+    {
+      "productId": 3372,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-03-12T12:10:54.8794773+02:00"
+    },
+    {
+      "productId": 1768,
+      "reviewText": "This Intelligent Plastic Mouse works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2020-04-13T04:56:53.1676556+03:00"
+    },
+    {
+      "productId": 2459,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-02-06T23:31:45.9111211+02:00"
+    }
+  ]
+}

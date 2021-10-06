@@ -1,0 +1,28 @@
+{
+  "userId": 19445,
+  "cartId": "ba4e3fbd-df75-4b9b-9a32-b4805d253950",
+  "preferredProducts": [
+    4321,
+    3913,
+    3467,
+    754,
+    2526,
+    2720,
+    298,
+    3899,
+    4595,
+    1835
+  ],
+  "productReviews": [
+    {
+      "productId": 1885,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-03-27T22:39:43.0055365+03:00"
+    },
+    {
+      "productId": 237,
+      "reviewText": "this invoice is vertical.",
+      "reviewDate": "2020-05-08T19:18:46.5995209+03:00"
+    }
+  ]
+}

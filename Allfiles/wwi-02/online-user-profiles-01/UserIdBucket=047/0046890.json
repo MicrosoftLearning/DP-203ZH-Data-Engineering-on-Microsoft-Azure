@@ -1,0 +1,32 @@
+{
+  "userId": 46890,
+  "cartId": "800cb55e-54d1-403b-a23e-b4f06fb22a5c",
+  "preferredProducts": [
+    4653,
+    4044,
+    2724,
+    671,
+    4747,
+    192,
+    262,
+    4515,
+    1400
+  ],
+  "productReviews": [
+    {
+      "productId": 4025,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-06-02T06:50:07.5340457+03:00"
+    },
+    {
+      "productId": 222,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-02-22T12:34:01.6933999+02:00"
+    },
+    {
+      "productId": 621,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-06-22T00:28:50.7264117+03:00"
+    }
+  ]
+}

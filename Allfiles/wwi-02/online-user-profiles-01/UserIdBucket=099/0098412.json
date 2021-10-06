@@ -1,0 +1,29 @@
+{
+  "userId": 98412,
+  "cartId": "9c3ffc0d-16c3-4e32-9fe1-56d666fc6141",
+  "preferredProducts": [
+    3639,
+    2948,
+    2327,
+    2327,
+    882,
+    3769
+  ],
+  "productReviews": [
+    {
+      "productId": 2030,
+      "reviewText": "This Rubber, does exactly what it's suppose to do.",
+      "reviewDate": "2017-11-22T10:28:49.7809613+02:00"
+    },
+    {
+      "productId": 4681,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-10-01T18:57:42.1744185+03:00"
+    },
+    {
+      "productId": 2172,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-08-12T04:04:41.1660492+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 793,
+  "cartId": "ed972100-fc61-4180-abf7-98c929f9c259",
+  "preferredProducts": [
+    2599,
+    4660,
+    25,
+    2339,
+    3935,
+    2991,
+    4096,
+    635,
+    908,
+    4799
+  ],
+  "productReviews": [
+    {
+      "productId": 1711,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-03-11T04:53:28.3256707+02:00"
+    },
+    {
+      "productId": 54,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-03-20T16:43:10.1147688+02:00"
+    },
+    {
+      "productId": 3233,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-12-30T09:00:43.7827789+02:00"
+    }
+  ]
+}

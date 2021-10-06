@@ -1,0 +1,36 @@
+{
+  "userId": 25462,
+  "cartId": "79f13b2e-2564-444c-ab0b-daedff3d2d80",
+  "preferredProducts": [
+    1199,
+    1699,
+    1888,
+    3119,
+    2118,
+    1724,
+    1124,
+    4715
+  ],
+  "productReviews": [
+    {
+      "productId": 428,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-03-01T16:04:54.3167007+02:00"
+    },
+    {
+      "productId": 4584,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-04-25T04:24:12.6219478+03:00"
+    },
+    {
+      "productId": 2283,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-10-14T03:06:49.753872+03:00"
+    },
+    {
+      "productId": 634,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-05-18T03:03:12.3876442+03:00"
+    }
+  ]
+}

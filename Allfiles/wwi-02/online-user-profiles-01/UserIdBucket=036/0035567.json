@@ -1,0 +1,25 @@
+{
+  "userId": 35567,
+  "cartId": "a948c6ed-0090-40d6-9913-df8b97e10a55",
+  "preferredProducts": [
+    1665,
+    3677,
+    3230,
+    743,
+    2711,
+    4885,
+    1405
+  ],
+  "productReviews": [
+    {
+      "productId": 1106,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-06-17T13:53:11.0860489+03:00"
+    },
+    {
+      "productId": 2673,
+      "reviewText": "This 1080p works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-08-19T12:02:21.5739017+03:00"
+    }
+  ]
+}

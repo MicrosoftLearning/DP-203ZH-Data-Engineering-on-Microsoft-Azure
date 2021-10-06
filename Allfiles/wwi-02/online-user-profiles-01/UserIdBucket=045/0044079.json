@@ -1,0 +1,31 @@
+{
+  "userId": 44079,
+  "cartId": "c124b539-2f93-4e36-bb4b-60676bee93d1",
+  "preferredProducts": [
+    2269,
+    1535,
+    2347
+  ],
+  "productReviews": [
+    {
+      "productId": 4246,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-09-11T00:58:41.2209875+03:00"
+    },
+    {
+      "productId": 3643,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-11-07T05:37:43.5146779+02:00"
+    },
+    {
+      "productId": 3654,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-07-14T09:25:28.4198894+03:00"
+    },
+    {
+      "productId": 528,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-05-03T09:06:45.8442105+03:00"
+    }
+  ]
+}

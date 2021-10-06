@@ -1,0 +1,27 @@
+{
+  "userId": 53231,
+  "cartId": "57fcf2fe-d6e5-42ff-a759-0adfd601b321",
+  "preferredProducts": [
+    4310,
+    3312,
+    10,
+    2613
+  ],
+  "productReviews": [
+    {
+      "productId": 4923,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-08-24T13:26:48.2987152+03:00"
+    },
+    {
+      "productId": 640,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-01-13T18:27:40.0579523+02:00"
+    },
+    {
+      "productId": 3437,
+      "reviewText": "this bi-directional is tasty.",
+      "reviewDate": "2016-11-18T19:08:11.775486+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 72382,
+  "cartId": "8360f900-e806-4118-8e7b-9435fa72a1f5",
+  "preferredProducts": [
+    803,
+    4230,
+    2206,
+    2826,
+    3341,
+    3133,
+    1721
+  ],
+  "productReviews": [
+    {
+      "productId": 71,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-09-15T12:37:30.8034286+03:00"
+    },
+    {
+      "productId": 2728,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-05-16T03:30:48.1056736+03:00"
+    },
+    {
+      "productId": 2749,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-06-11T15:34:05.4604911+03:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-06-19T07:53:29.4655444+03:00"
+    }
+  ]
+}

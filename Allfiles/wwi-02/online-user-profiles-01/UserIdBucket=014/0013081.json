@@ -1,0 +1,25 @@
+{
+  "userId": 13081,
+  "cartId": "e05fa67e-fad1-4a53-ba5f-df0a71f33ed8",
+  "preferredProducts": [
+    4654,
+    2307
+  ],
+  "productReviews": [
+    {
+      "productId": 2706,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-07-15T02:43:32.6148499+03:00"
+    },
+    {
+      "productId": 4611,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-09-18T20:28:32.0678685+03:00"
+    },
+    {
+      "productId": 394,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-01-26T04:14:25.2182989+02:00"
+    }
+  ]
+}

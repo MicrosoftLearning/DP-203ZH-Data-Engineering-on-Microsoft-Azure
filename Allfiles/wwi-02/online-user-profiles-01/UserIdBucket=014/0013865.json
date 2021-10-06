@@ -1,0 +1,43 @@
+{
+  "userId": 13865,
+  "cartId": "52eec8a1-4963-4c74-a28c-f742bc805bff",
+  "preferredProducts": [
+    4870,
+    4252,
+    4005,
+    3665,
+    2998,
+    4471,
+    2202,
+    3283,
+    3478,
+    74
+  ],
+  "productReviews": [
+    {
+      "productId": 2645,
+      "reviewText": "This Product works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-04-28T21:16:25.4748548+03:00"
+    },
+    {
+      "productId": 3247,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-06-04T03:57:53.5419662+03:00"
+    },
+    {
+      "productId": 375,
+      "reviewText": "this haptic is nifty.",
+      "reviewDate": "2018-02-06T12:55:47.1105242+02:00"
+    },
+    {
+      "productId": 3741,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-09-12T04:20:57.6588677+03:00"
+    },
+    {
+      "productId": 4007,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-10-16T23:58:47.4565963+03:00"
+    }
+  ]
+}

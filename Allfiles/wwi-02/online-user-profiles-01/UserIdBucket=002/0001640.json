@@ -1,0 +1,31 @@
+{
+  "userId": 1640,
+  "cartId": "bf079754-d868-4f1b-9fe6-92819c45f409",
+  "preferredProducts": [
+    1280,
+    383,
+    431
+  ],
+  "productReviews": [
+    {
+      "productId": 3092,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-07-26T00:59:19.7608595+03:00"
+    },
+    {
+      "productId": 4153,
+      "reviewText": "This fresh-thinking works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-12-23T05:20:56.0502707+02:00"
+    },
+    {
+      "productId": 2849,
+      "reviewText": "This interactive works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2018-07-13T23:31:30.1602432+03:00"
+    },
+    {
+      "productId": 4991,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-07-06T07:32:18.3289524+03:00"
+    }
+  ]
+}

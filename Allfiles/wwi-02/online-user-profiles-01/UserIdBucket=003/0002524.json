@@ -1,0 +1,32 @@
+{
+  "userId": 2524,
+  "cartId": "d129d2b2-40c1-46e8-869f-05dce30d6ad9",
+  "preferredProducts": [
+    1194,
+    2304,
+    4026,
+    3112,
+    4764,
+    885,
+    3012,
+    3072,
+    738
+  ],
+  "productReviews": [
+    {
+      "productId": 1709,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-12-24T15:12:17.5323335+02:00"
+    },
+    {
+      "productId": 4356,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-10-15T00:35:38.2706873+03:00"
+    },
+    {
+      "productId": 1168,
+      "reviewText": "this microchip is brown.",
+      "reviewDate": "2017-11-27T03:52:39.0564283+02:00"
+    }
+  ]
+}

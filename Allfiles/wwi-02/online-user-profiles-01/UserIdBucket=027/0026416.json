@@ -1,0 +1,27 @@
+{
+  "userId": 26416,
+  "cartId": "695b65aa-c733-4f4b-9ea9-83c211facfa0",
+  "preferredProducts": [
+    2833,
+    3303,
+    3152,
+    3277
+  ],
+  "productReviews": [
+    {
+      "productId": 3439,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-04-03T16:51:25.1294969+03:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-06-13T19:08:35.9370319+03:00"
+    },
+    {
+      "productId": 1062,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-03-19T09:11:00.855393+02:00"
+    }
+  ]
+}

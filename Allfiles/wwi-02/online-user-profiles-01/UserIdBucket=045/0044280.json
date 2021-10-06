@@ -1,0 +1,25 @@
+{
+  "userId": 44280,
+  "cartId": "2b743e28-3b7f-4cc9-9d1b-fe03f9ac47c5",
+  "preferredProducts": [
+    4887,
+    4500
+  ],
+  "productReviews": [
+    {
+      "productId": 106,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-07-15T12:29:49.1419689+03:00"
+    },
+    {
+      "productId": 3245,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-05-30T19:33:20.4694174+03:00"
+    },
+    {
+      "productId": 662,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-07-07T17:24:18.4517862+03:00"
+    }
+  ]
+}

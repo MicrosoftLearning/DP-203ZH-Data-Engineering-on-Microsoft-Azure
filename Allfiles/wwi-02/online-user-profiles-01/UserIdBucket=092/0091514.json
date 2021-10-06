@@ -1,0 +1,27 @@
+{
+  "userId": 91514,
+  "cartId": "fec3c1de-6e2d-49d3-a51a-417fe6895f7b",
+  "preferredProducts": [
+    1359,
+    2061,
+    4923,
+    3019
+  ],
+  "productReviews": [
+    {
+      "productId": 4936,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-11-13T07:25:51.6626051+02:00"
+    },
+    {
+      "productId": 1266,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-10-12T04:18:41.0603551+03:00"
+    },
+    {
+      "productId": 1578,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-09-16T15:26:43.0095018+03:00"
+    }
+  ]
+}

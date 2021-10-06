@@ -1,0 +1,30 @@
+{
+  "userId": 42774,
+  "cartId": "4c19c49b-3fd4-4c36-b986-9d36bf3ab91c",
+  "preferredProducts": [
+    3092,
+    1031,
+    2111,
+    2961,
+    501,
+    2060,
+    2731
+  ],
+  "productReviews": [
+    {
+      "productId": 534,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-04-02T18:26:29.2426195+03:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-12-11T04:39:16.0030713+02:00"
+    },
+    {
+      "productId": 4026,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-02-22T22:55:18.1791377+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 625,
+  "cartId": "67682f42-2b6c-43d4-abd4-0423666227e8",
+  "preferredProducts": [
+    2480,
+    374,
+    3652,
+    1766,
+    605,
+    2403,
+    680,
+    695,
+    3968
+  ],
+  "productReviews": [
+    {
+      "productId": 3029,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-10-15T00:36:26.1140731+03:00"
+    },
+    {
+      "productId": 547,
+      "reviewText": "this redundant is complimentary.",
+      "reviewDate": "2017-10-02T01:19:26.9629719+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 23899,
+  "cartId": "207a803d-6e53-425a-9153-7fb578201f0a",
+  "preferredProducts": [
+    1348,
+    3522,
+    4307,
+    1422,
+    3646,
+    260,
+    248
+  ],
+  "productReviews": [
+    {
+      "productId": 3033,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-02-26T18:49:22.2757964+02:00"
+    },
+    {
+      "productId": 2186,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-04-13T08:27:20.2496604+03:00"
+    },
+    {
+      "productId": 1315,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-05-26T21:42:28.1852452+03:00"
+    },
+    {
+      "productId": 2259,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-10-02T02:32:34.9235986+03:00"
+    }
+  ]
+}

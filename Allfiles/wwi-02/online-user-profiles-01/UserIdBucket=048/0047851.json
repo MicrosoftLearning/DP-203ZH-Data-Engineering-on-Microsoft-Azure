@@ -1,0 +1,27 @@
+{
+  "userId": 47851,
+  "cartId": "5a6d7504-e028-4b08-b7e9-95ed5c1d49ad",
+  "preferredProducts": [
+    3685,
+    1279,
+    3313,
+    2204
+  ],
+  "productReviews": [
+    {
+      "productId": 894,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-03-16T20:57:17.0561882+02:00"
+    },
+    {
+      "productId": 543,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-02-09T00:32:43.0757303+02:00"
+    },
+    {
+      "productId": 128,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-01-12T08:17:31.8040581+02:00"
+    }
+  ]
+}

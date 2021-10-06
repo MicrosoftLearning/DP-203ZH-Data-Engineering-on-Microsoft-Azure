@@ -1,0 +1,26 @@
+{
+  "userId": 21126,
+  "cartId": "d9615adc-9ea4-459b-b7d6-4edcba425c61",
+  "preferredProducts": [
+    4254,
+    782,
+    2632
+  ],
+  "productReviews": [
+    {
+      "productId": 4714,
+      "reviewText": "this invoice is brown.",
+      "reviewDate": "2016-08-30T00:40:21.921597+03:00"
+    },
+    {
+      "productId": 3816,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-07-31T11:12:16.9701659+03:00"
+    },
+    {
+      "productId": 4140,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-04-13T18:45:39.8698744+03:00"
+    }
+  ]
+}

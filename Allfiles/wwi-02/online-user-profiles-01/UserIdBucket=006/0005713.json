@@ -1,0 +1,25 @@
+{
+  "userId": 5713,
+  "cartId": "ce0e3b3c-575f-4941-bdf7-145da47b04fe",
+  "preferredProducts": [
+    372,
+    4441
+  ],
+  "productReviews": [
+    {
+      "productId": 721,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-01-14T13:28:03.9695114+02:00"
+    },
+    {
+      "productId": 2647,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-10-17T16:32:01.0438831+03:00"
+    },
+    {
+      "productId": 4357,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-09-29T02:07:02.823975+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 1694,
+  "cartId": "4e8a0e89-939d-4e2a-8165-3aa18de2d686",
+  "preferredProducts": [
+    4480,
+    3194,
+    1940,
+    1677
+  ],
+  "productReviews": [
+    {
+      "productId": 3250,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-03-23T17:16:41.9058819+02:00"
+    },
+    {
+      "productId": 2309,
+      "reviewText": "this Soft is ratty.",
+      "reviewDate": "2020-02-20T22:56:48.8070574+02:00"
+    },
+    {
+      "productId": 2879,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-07-17T08:36:53.1862339+03:00"
+    },
+    {
+      "productId": 1354,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-09-14T15:09:39.7547426+03:00"
+    },
+    {
+      "productId": 4159,
+      "reviewText": "this Legacy is revolting.",
+      "reviewDate": "2016-05-28T12:34:02.3881695+03:00"
+    }
+  ]
+}

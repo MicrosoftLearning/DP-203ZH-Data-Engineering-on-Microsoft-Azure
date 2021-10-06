@@ -1,0 +1,40 @@
+{
+  "userId": 1894,
+  "cartId": "bbb4f011-27cd-4688-8009-1f6223227741",
+  "preferredProducts": [
+    4900,
+    2250,
+    2919,
+    3566,
+    3364,
+    1249,
+    2767
+  ],
+  "productReviews": [
+    {
+      "productId": 4799,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-10-25T12:44:25.1884666+03:00"
+    },
+    {
+      "productId": 4716,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-05-01T04:49:30.2714896+03:00"
+    },
+    {
+      "productId": 3807,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-06-13T22:39:28.5570638+03:00"
+    },
+    {
+      "productId": 523,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-12-17T11:42:19.532371+02:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-05-18T20:16:40.9476945+03:00"
+    }
+  ]
+}

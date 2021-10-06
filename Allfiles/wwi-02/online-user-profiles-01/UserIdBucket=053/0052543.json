@@ -1,0 +1,32 @@
+{
+  "userId": 52543,
+  "cartId": "4e8e06db-7c90-4f44-847c-ec4010fa2b89",
+  "preferredProducts": [
+    2506,
+    2887,
+    1356,
+    1187,
+    3805,
+    3473,
+    3986,
+    1321,
+    200
+  ],
+  "productReviews": [
+    {
+      "productId": 2104,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-03-27T13:16:42.8761135+02:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-01-30T04:14:16.6035182+02:00"
+    },
+    {
+      "productId": 1263,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-11-10T15:19:01.4624388+02:00"
+    }
+  ]
+}

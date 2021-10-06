@@ -1,0 +1,37 @@
+{
+  "userId": 65235,
+  "cartId": "77e9692b-2c59-477f-942c-0064dcde1ebe",
+  "preferredProducts": [
+    4731,
+    456,
+    747,
+    4421
+  ],
+  "productReviews": [
+    {
+      "productId": 4673,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-06-21T17:59:02.4323455+03:00"
+    },
+    {
+      "productId": 4079,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-05-19T07:07:04.6293034+03:00"
+    },
+    {
+      "productId": 3471,
+      "reviewText": "This Fresh works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-08-09T14:30:39.5045718+03:00"
+    },
+    {
+      "productId": 4759,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-06-19T13:44:50.1511135+03:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-06-13T14:47:02.958072+03:00"
+    }
+  ]
+}

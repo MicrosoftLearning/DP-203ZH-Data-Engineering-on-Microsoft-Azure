@@ -1,0 +1,31 @@
+{
+  "userId": 42778,
+  "cartId": "85ce55a8-a503-45db-8817-fbea609a35b6",
+  "preferredProducts": [
+    1547,
+    3937,
+    3816,
+    1641,
+    154,
+    4068,
+    4414,
+    1487
+  ],
+  "productReviews": [
+    {
+      "productId": 1978,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-09-02T05:41:59.7458872+03:00"
+    },
+    {
+      "productId": 3437,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-08-05T16:39:41.510967+03:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-01-28T16:48:21.1158768+02:00"
+    }
+  ]
+}

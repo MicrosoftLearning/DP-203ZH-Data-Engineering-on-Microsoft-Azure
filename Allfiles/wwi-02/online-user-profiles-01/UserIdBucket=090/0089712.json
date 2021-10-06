@@ -1,0 +1,33 @@
+{
+  "userId": 89712,
+  "cartId": "48e3065a-e36e-46aa-81aa-f331cbf307e8",
+  "preferredProducts": [
+    2579,
+    127,
+    3455,
+    3052,
+    2273,
+    4799,
+    948,
+    3866,
+    2305,
+    627
+  ],
+  "productReviews": [
+    {
+      "productId": 3700,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-04-15T19:14:34.4807116+03:00"
+    },
+    {
+      "productId": 3317,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-04-20T14:43:02.1220486+03:00"
+    },
+    {
+      "productId": 170,
+      "reviewText": "This is a really good time-frame.",
+      "reviewDate": "2020-01-29T19:00:56.6328564+02:00"
+    }
+  ]
+}

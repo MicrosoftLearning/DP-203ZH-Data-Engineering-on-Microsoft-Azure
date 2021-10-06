@@ -1,0 +1,33 @@
+{
+  "userId": 54877,
+  "cartId": "c233d337-c089-4660-830f-25ea59d714c5",
+  "preferredProducts": [
+    3451,
+    4801,
+    3063,
+    1673,
+    3572
+  ],
+  "productReviews": [
+    {
+      "productId": 603,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-06-13T09:06:51.0529591+03:00"
+    },
+    {
+      "productId": 2541,
+      "reviewText": "this Orchestrator is light-hearted.",
+      "reviewDate": "2019-02-16T23:32:47.3626916+02:00"
+    },
+    {
+      "productId": 4507,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-07-18T00:47:48.9334526+03:00"
+    },
+    {
+      "productId": 3457,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-01-30T22:29:36.0072815+02:00"
+    }
+  ]
+}

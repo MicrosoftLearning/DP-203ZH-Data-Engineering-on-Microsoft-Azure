@@ -1,0 +1,30 @@
+{
+  "userId": 1196,
+  "cartId": "3df9dede-5c1e-4432-b3bd-d1f095a48c3e",
+  "preferredProducts": [
+    4981,
+    2246,
+    391,
+    895,
+    1372,
+    1287,
+    216
+  ],
+  "productReviews": [
+    {
+      "productId": 1456,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-05-13T05:07:11.4369706+03:00"
+    },
+    {
+      "productId": 200,
+      "reviewText": "this Incredible Plastic Computer is tasty.",
+      "reviewDate": "2018-01-28T09:34:58.3408665+02:00"
+    },
+    {
+      "productId": 1797,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-11-20T19:52:12.5154724+02:00"
+    }
+  ]
+}

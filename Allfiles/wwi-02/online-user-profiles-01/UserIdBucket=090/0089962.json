@@ -1,0 +1,32 @@
+{
+  "userId": 89962,
+  "cartId": "acf6c73e-a6c5-4aa0-8cae-333f32409d00",
+  "preferredProducts": [
+    3386,
+    810,
+    1075,
+    430
+  ],
+  "productReviews": [
+    {
+      "productId": 1967,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-05-31T07:53:32.4518756+03:00"
+    },
+    {
+      "productId": 1632,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-10-07T19:58:51.857265+03:00"
+    },
+    {
+      "productId": 2623,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-04-01T19:26:49.523056+03:00"
+    },
+    {
+      "productId": 695,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-05-12T04:54:31.362542+03:00"
+    }
+  ]
+}

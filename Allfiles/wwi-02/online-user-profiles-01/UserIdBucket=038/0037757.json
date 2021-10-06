@@ -1,0 +1,37 @@
+{
+  "userId": 37757,
+  "cartId": "91f8ceae-ba63-45a5-8f07-0cf5830f4328",
+  "preferredProducts": [
+    532,
+    851,
+    3465,
+    3244
+  ],
+  "productReviews": [
+    {
+      "productId": 3244,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-06-16T00:40:07.2265209+03:00"
+    },
+    {
+      "productId": 3955,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-07-05T04:44:04.177202+03:00"
+    },
+    {
+      "productId": 3963,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-06-03T09:07:53.5058793+03:00"
+    },
+    {
+      "productId": 3254,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-04-14T10:00:43.19471+03:00"
+    },
+    {
+      "productId": 213,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-03-09T01:47:19.091263+02:00"
+    }
+  ]
+}

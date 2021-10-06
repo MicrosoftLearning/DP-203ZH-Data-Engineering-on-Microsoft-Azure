@@ -1,0 +1,31 @@
+{
+  "userId": 20738,
+  "cartId": "6eedb607-987e-47a1-b8bf-f1e526b05200",
+  "preferredProducts": [
+    2575,
+    4382,
+    28,
+    45,
+    1862,
+    4684,
+    4648,
+    3755
+  ],
+  "productReviews": [
+    {
+      "productId": 501,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-08-29T16:42:52.9498589+03:00"
+    },
+    {
+      "productId": 1435,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-11-04T16:02:08.7535891+02:00"
+    },
+    {
+      "productId": 4749,
+      "reviewText": "this Land is slurpee.",
+      "reviewDate": "2016-12-26T22:45:41.8155926+02:00"
+    }
+  ]
+}

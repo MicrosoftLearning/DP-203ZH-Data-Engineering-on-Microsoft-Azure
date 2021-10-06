@@ -1,0 +1,30 @@
+{
+  "userId": 23809,
+  "cartId": "1de9b3df-4fc0-488b-acd2-7a834dae1f0c",
+  "preferredProducts": [
+    3883,
+    503,
+    2670,
+    295,
+    3764,
+    2799,
+    2156
+  ],
+  "productReviews": [
+    {
+      "productId": 612,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-07-17T01:38:11.9132993+03:00"
+    },
+    {
+      "productId": 2085,
+      "reviewText": "this connect is honest.",
+      "reviewDate": "2019-01-21T07:45:36.1325566+02:00"
+    },
+    {
+      "productId": 931,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-08-14T19:46:51.5566328+03:00"
+    }
+  ]
+}

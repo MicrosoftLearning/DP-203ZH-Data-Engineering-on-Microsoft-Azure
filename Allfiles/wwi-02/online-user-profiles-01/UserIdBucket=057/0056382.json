@@ -1,0 +1,38 @@
+{
+  "userId": 56382,
+  "cartId": "a54a68b2-7e39-4a84-839d-4bb1d15699e2",
+  "preferredProducts": [
+    861,
+    4619,
+    2121,
+    1733,
+    1084,
+    4972,
+    211,
+    1290,
+    2826,
+    2975
+  ],
+  "productReviews": [
+    {
+      "productId": 649,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-01-07T09:59:21.9634253+02:00"
+    },
+    {
+      "productId": 966,
+      "reviewText": "This is a really good pixel.",
+      "reviewDate": "2018-05-28T09:50:30.7717886+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-01-15T08:55:52.9291846+02:00"
+    },
+    {
+      "productId": 1107,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-06-10T01:35:11.4227493+03:00"
+    }
+  ]
+}

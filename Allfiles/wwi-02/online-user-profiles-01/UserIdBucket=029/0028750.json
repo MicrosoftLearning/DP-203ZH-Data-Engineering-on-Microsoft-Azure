@@ -1,0 +1,31 @@
+{
+  "userId": 28750,
+  "cartId": "f496ba0a-f217-4130-95e7-fd5949a9e0ad",
+  "preferredProducts": [
+    555,
+    4563,
+    3098,
+    1322,
+    1834,
+    4174,
+    1163,
+    3829
+  ],
+  "productReviews": [
+    {
+      "productId": 1405,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-04-07T08:22:22.226188+03:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-02-16T03:35:08.9137524+02:00"
+    },
+    {
+      "productId": 4598,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-11-15T15:25:56.1897974+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 72647,
+  "cartId": "31504dab-cb90-49f5-846c-25448f1eeafe",
+  "preferredProducts": [
+    2517,
+    3013,
+    1169,
+    3583,
+    3324
+  ],
+  "productReviews": [
+    {
+      "productId": 1160,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-02-26T01:02:10.6156544+02:00"
+    },
+    {
+      "productId": 1813,
+      "reviewText": "This Assurance works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2017-10-09T23:13:12.0768771+03:00"
+    },
+    {
+      "productId": 620,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-05-15T18:55:53.8515806+03:00"
+    }
+  ]
+}

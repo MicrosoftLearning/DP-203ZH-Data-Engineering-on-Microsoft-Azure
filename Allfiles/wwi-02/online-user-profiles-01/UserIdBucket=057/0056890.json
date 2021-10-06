@@ -1,0 +1,31 @@
+{
+  "userId": 56890,
+  "cartId": "4db9804b-d6a8-4362-b88e-ae12be385f2c",
+  "preferredProducts": [
+    499,
+    4020,
+    1198,
+    660,
+    1267,
+    3127,
+    3265,
+    4266
+  ],
+  "productReviews": [
+    {
+      "productId": 2351,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2020-01-29T06:53:42.4322681+02:00"
+    },
+    {
+      "productId": 2656,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-11-05T22:11:37.2043245+02:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "This Berkshire works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-04-01T08:41:33.4203+03:00"
+    }
+  ]
+}

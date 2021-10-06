@@ -1,0 +1,33 @@
+{
+  "userId": 61096,
+  "cartId": "938bea01-f7dd-4209-a0dd-e000b03f904a",
+  "preferredProducts": [
+    568,
+    3288,
+    1823,
+    69,
+    3122,
+    2561,
+    1257,
+    2715,
+    2263,
+    4046
+  ],
+  "productReviews": [
+    {
+      "productId": 124,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-01-20T05:38:02.8157229+02:00"
+    },
+    {
+      "productId": 1563,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2019-05-26T05:55:27.297168+03:00"
+    },
+    {
+      "productId": 2514,
+      "reviewText": "this bluetooth is slurpee.",
+      "reviewDate": "2020-03-21T05:13:01.7736932+02:00"
+    }
+  ]
+}

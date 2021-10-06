@@ -1,0 +1,33 @@
+{
+  "userId": 35120,
+  "cartId": "51cb4410-5cc1-40b3-99ee-684c4a05e95f",
+  "preferredProducts": [
+    2446,
+    354,
+    4434,
+    72,
+    3595
+  ],
+  "productReviews": [
+    {
+      "productId": 1245,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-06-21T15:06:18.920087+03:00"
+    },
+    {
+      "productId": 3111,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-05-02T07:03:19.0079953+03:00"
+    },
+    {
+      "productId": 1188,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-11-02T19:35:44.5828622+02:00"
+    },
+    {
+      "productId": 644,
+      "reviewText": "This Sleek Cotton Sausages works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-02-28T12:51:29.3574662+02:00"
+    }
+  ]
+}

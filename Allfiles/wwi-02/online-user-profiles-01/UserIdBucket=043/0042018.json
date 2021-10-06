@@ -1,0 +1,28 @@
+{
+  "userId": 42018,
+  "cartId": "00fa94c7-71aa-4c80-8d71-18d21658c945",
+  "preferredProducts": [
+    2062,
+    344,
+    3248,
+    3009,
+    4224,
+    2147,
+    4570,
+    2535,
+    1840,
+    1404
+  ],
+  "productReviews": [
+    {
+      "productId": 134,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-02-14T15:18:40.9383001+02:00"
+    },
+    {
+      "productId": 9,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-11-03T21:28:43.7373026+02:00"
+    }
+  ]
+}

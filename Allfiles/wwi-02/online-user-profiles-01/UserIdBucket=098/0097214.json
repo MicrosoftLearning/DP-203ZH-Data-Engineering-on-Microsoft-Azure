@@ -1,0 +1,29 @@
+{
+  "userId": 97214,
+  "cartId": "e3869fc4-50d7-4106-8dbe-b874dd6e12df",
+  "preferredProducts": [
+    1806,
+    2597,
+    2848,
+    4810,
+    575,
+    3138
+  ],
+  "productReviews": [
+    {
+      "productId": 958,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-04-14T20:42:29.7684096+03:00"
+    },
+    {
+      "productId": 4404,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-11-27T20:22:11.5538458+02:00"
+    },
+    {
+      "productId": 4399,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-02-22T07:15:22.7666397+02:00"
+    }
+  ]
+}

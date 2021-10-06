@@ -1,0 +1,37 @@
+{
+  "userId": 3124,
+  "cartId": "7c3e0b4e-67c6-474e-ae89-714d7318568a",
+  "preferredProducts": [
+    1976,
+    50,
+    749,
+    3046
+  ],
+  "productReviews": [
+    {
+      "productId": 1623,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-05-01T21:36:40.9133381+03:00"
+    },
+    {
+      "productId": 3286,
+      "reviewText": "this Awesome Granite Bacon is revolting.",
+      "reviewDate": "2017-01-28T17:10:01.1871274+02:00"
+    },
+    {
+      "productId": 3483,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-02-23T21:45:57.5943023+02:00"
+    },
+    {
+      "productId": 4479,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-08-04T05:29:25.0984484+03:00"
+    },
+    {
+      "productId": 3783,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-11-07T07:49:02.2412293+02:00"
+    }
+  ]
+}

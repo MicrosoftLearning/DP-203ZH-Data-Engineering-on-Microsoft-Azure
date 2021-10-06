@@ -1,0 +1,37 @@
+{
+  "userId": 68201,
+  "cartId": "77129a24-87c2-4086-aa33-ef73a9c5fba8",
+  "preferredProducts": [
+    2416,
+    1396,
+    742,
+    716,
+    3575,
+    1232,
+    4236,
+    4635,
+    2379
+  ],
+  "productReviews": [
+    {
+      "productId": 2085,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-01-14T00:48:53.7932902+02:00"
+    },
+    {
+      "productId": 3970,
+      "reviewText": "this Function-based is mellow.",
+      "reviewDate": "2017-09-15T01:07:11.7495661+03:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "this Club is awesome.",
+      "reviewDate": "2019-07-25T02:07:28.5227117+03:00"
+    },
+    {
+      "productId": 2138,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-01-20T11:59:21.6743429+02:00"
+    }
+  ]
+}

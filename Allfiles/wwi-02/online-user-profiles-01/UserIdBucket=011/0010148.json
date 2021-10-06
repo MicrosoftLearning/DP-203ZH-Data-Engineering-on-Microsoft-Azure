@@ -1,0 +1,38 @@
+{
+  "userId": 10148,
+  "cartId": "758f6a89-9a6f-41db-b18d-53420f5682f1",
+  "preferredProducts": [
+    2911,
+    4432,
+    1516,
+    2974,
+    4777,
+    1446,
+    3443,
+    2850,
+    3579,
+    2444
+  ],
+  "productReviews": [
+    {
+      "productId": 1531,
+      "reviewText": "this CSS is flirty.",
+      "reviewDate": "2019-03-17T22:03:23.1615276+02:00"
+    },
+    {
+      "productId": 4927,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-10-18T10:22:57.3320134+03:00"
+    },
+    {
+      "productId": 4086,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2020-04-04T07:03:18.7602911+03:00"
+    },
+    {
+      "productId": 1802,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-11-08T01:36:58.3130013+02:00"
+    }
+  ]
+}

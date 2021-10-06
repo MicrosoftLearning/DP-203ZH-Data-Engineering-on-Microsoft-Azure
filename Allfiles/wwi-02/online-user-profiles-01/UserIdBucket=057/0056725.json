@@ -1,0 +1,35 @@
+{
+  "userId": 56725,
+  "cartId": "4e615ad5-5e14-4149-a092-1fe7df8db694",
+  "preferredProducts": [
+    3852,
+    2598,
+    1007,
+    1398,
+    4828,
+    2812,
+    4892
+  ],
+  "productReviews": [
+    {
+      "productId": 2774,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-07-15T15:19:45.9998192+03:00"
+    },
+    {
+      "productId": 1464,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-10-19T15:03:29.8705038+03:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "This Florida works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-07-21T01:26:09.6552904+03:00"
+    },
+    {
+      "productId": 4586,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-01-07T12:06:04.4534134+02:00"
+    }
+  ]
+}

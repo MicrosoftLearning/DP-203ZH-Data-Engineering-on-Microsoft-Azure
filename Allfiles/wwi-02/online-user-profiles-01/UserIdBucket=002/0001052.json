@@ -1,0 +1,23 @@
+{
+  "userId": 1052,
+  "cartId": "1426d605-6720-4eca-860e-683234b9edc3",
+  "preferredProducts": [
+    1470,
+    3446,
+    1003,
+    361,
+    2384
+  ],
+  "productReviews": [
+    {
+      "productId": 793,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-10-31T08:22:10.9740714+02:00"
+    },
+    {
+      "productId": 4850,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-11-13T03:44:54.5055892+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 42293,
+  "cartId": "6bd3210b-16ac-4f84-ba8a-8c2f255790b8",
+  "preferredProducts": [
+    2962,
+    2298,
+    4462,
+    4284,
+    1248,
+    442,
+    3864,
+    2519,
+    2239,
+    3062
+  ],
+  "productReviews": [
+    {
+      "productId": 3054,
+      "reviewText": "this Awesome Plastic Bacon is nifty.",
+      "reviewDate": "2018-08-09T06:01:53.1829583+03:00"
+    },
+    {
+      "productId": 2693,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2020-05-08T15:19:40.2745266+03:00"
+    }
+  ]
+}

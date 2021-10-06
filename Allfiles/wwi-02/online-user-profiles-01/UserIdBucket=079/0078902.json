@@ -1,0 +1,35 @@
+{
+  "userId": 78902,
+  "cartId": "9372210d-6802-4ba6-add0-1880025b6d53",
+  "preferredProducts": [
+    3423,
+    4888,
+    2609,
+    4323,
+    4385,
+    1250,
+    1701
+  ],
+  "productReviews": [
+    {
+      "productId": 2659,
+      "reviewText": "This circuit works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-11-25T22:32:55.5082378+02:00"
+    },
+    {
+      "productId": 1371,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-08-03T13:19:12.6547596+03:00"
+    },
+    {
+      "productId": 2674,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-12-21T22:53:20.3349667+02:00"
+    },
+    {
+      "productId": 528,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2020-01-07T20:27:34.3952423+02:00"
+    }
+  ]
+}

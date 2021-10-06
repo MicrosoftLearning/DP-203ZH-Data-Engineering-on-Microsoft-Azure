@@ -1,0 +1,42 @@
+{
+  "userId": 8600,
+  "cartId": "1f92e57e-7e45-49c3-bb82-ad0be185cf21",
+  "preferredProducts": [
+    4639,
+    3105,
+    4451,
+    1958,
+    1804,
+    1368,
+    4037,
+    2294,
+    3864
+  ],
+  "productReviews": [
+    {
+      "productId": 475,
+      "reviewText": "This is a really good quantifying.",
+      "reviewDate": "2019-11-29T19:02:06.9019777+02:00"
+    },
+    {
+      "productId": 3530,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-12-09T14:01:30.6847401+02:00"
+    },
+    {
+      "productId": 1538,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2019-10-08T03:09:33.7685547+03:00"
+    },
+    {
+      "productId": 2258,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-01-20T20:31:08.1412678+02:00"
+    },
+    {
+      "productId": 2445,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-05-12T03:59:54.1208451+03:00"
+    }
+  ]
+}

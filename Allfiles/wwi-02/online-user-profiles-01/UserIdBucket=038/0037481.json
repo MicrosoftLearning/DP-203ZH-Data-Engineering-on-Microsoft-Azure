@@ -1,0 +1,31 @@
+{
+  "userId": 37481,
+  "cartId": "89ca1295-849e-4d98-8ab4-ab68147b2477",
+  "preferredProducts": [
+    2625,
+    4483,
+    1264,
+    4123,
+    4146,
+    4465,
+    2118,
+    1160
+  ],
+  "productReviews": [
+    {
+      "productId": 1360,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-10-10T14:20:54.1021723+03:00"
+    },
+    {
+      "productId": 2388,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-01-28T13:19:29.8700271+02:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-07-01T22:19:00.4086086+03:00"
+    }
+  ]
+}

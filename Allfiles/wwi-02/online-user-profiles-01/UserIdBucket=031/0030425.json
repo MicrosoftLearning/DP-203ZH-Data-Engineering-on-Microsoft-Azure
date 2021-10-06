@@ -1,0 +1,32 @@
+{
+  "userId": 30425,
+  "cartId": "f5761434-8bad-4cc6-b113-80c5b02f1e8e",
+  "preferredProducts": [
+    4566,
+    1737,
+    945,
+    3577
+  ],
+  "productReviews": [
+    {
+      "productId": 518,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-04-24T18:44:50.1539602+03:00"
+    },
+    {
+      "productId": 3543,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2020-03-22T16:37:18.0232311+02:00"
+    },
+    {
+      "productId": 1149,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-03-29T18:30:57.8003287+03:00"
+    },
+    {
+      "productId": 345,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-10-07T09:14:59.2164992+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 45291,
+  "cartId": "0c237adf-75b8-467c-99eb-c2946d479351",
+  "preferredProducts": [
+    4827,
+    4844,
+    152,
+    3230,
+    4623
+  ],
+  "productReviews": [
+    {
+      "productId": 1003,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-05-30T14:12:30.5580198+03:00"
+    },
+    {
+      "productId": 4911,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-05-14T16:13:33.5004663+03:00"
+    },
+    {
+      "productId": 1485,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-05-07T13:11:30.467963+03:00"
+    },
+    {
+      "productId": 3434,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-01T01:29:48.4626782+02:00"
+    },
+    {
+      "productId": 2309,
+      "reviewText": "This Berkshire works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2016-08-02T14:29:47.4074151+03:00"
+    }
+  ]
+}

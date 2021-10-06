@@ -1,0 +1,32 @@
+{
+  "userId": 4523,
+  "cartId": "5a794ce6-5ae9-4687-a9b7-345c2d6523bf",
+  "preferredProducts": [
+    4933,
+    3081,
+    4619,
+    258
+  ],
+  "productReviews": [
+    {
+      "productId": 1068,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-12-04T03:42:03.7092443+02:00"
+    },
+    {
+      "productId": 3901,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2019-12-14T15:10:41.6726504+02:00"
+    },
+    {
+      "productId": 1001,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-03-27T23:47:45.2992851+03:00"
+    },
+    {
+      "productId": 3844,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-09-06T16:58:38.8432005+03:00"
+    }
+  ]
+}

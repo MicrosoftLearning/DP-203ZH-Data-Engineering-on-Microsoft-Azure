@@ -1,0 +1,27 @@
+{
+  "userId": 98982,
+  "cartId": "b1fc599c-588e-4ce5-b266-78d96fcb6ac7",
+  "preferredProducts": [
+    2831,
+    1972,
+    2178,
+    3745
+  ],
+  "productReviews": [
+    {
+      "productId": 1923,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-01-23T09:12:53.0185819+02:00"
+    },
+    {
+      "productId": 340,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-03-13T07:02:17.8964921+02:00"
+    },
+    {
+      "productId": 4467,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-11-11T21:12:37.5676034+02:00"
+    }
+  ]
+}

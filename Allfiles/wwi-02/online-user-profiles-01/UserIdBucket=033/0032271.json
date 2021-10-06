@@ -1,0 +1,28 @@
+{
+  "userId": 32271,
+  "cartId": "36fb1543-c39b-4a57-8ce9-0fcb827cd19a",
+  "preferredProducts": [
+    2442,
+    4625,
+    777,
+    3860,
+    1265
+  ],
+  "productReviews": [
+    {
+      "productId": 4445,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-10-21T14:04:26.4478185+03:00"
+    },
+    {
+      "productId": 4262,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-02-22T12:24:18.970774+02:00"
+    },
+    {
+      "productId": 1322,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-06-19T14:26:11.4871827+03:00"
+    }
+  ]
+}

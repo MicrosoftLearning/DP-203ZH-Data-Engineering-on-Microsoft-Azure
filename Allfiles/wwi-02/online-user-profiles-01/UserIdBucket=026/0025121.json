@@ -1,0 +1,38 @@
+{
+  "userId": 25121,
+  "cartId": "12cc109b-3c6a-4a82-aa67-7325cac81bd6",
+  "preferredProducts": [
+    38,
+    1514,
+    3497,
+    2898,
+    2912,
+    2263,
+    3547,
+    570,
+    1708,
+    1991
+  ],
+  "productReviews": [
+    {
+      "productId": 1185,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-11-02T20:26:42.3760865+02:00"
+    },
+    {
+      "productId": 1841,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-04-05T00:27:29.8298643+03:00"
+    },
+    {
+      "productId": 2410,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-10-24T19:11:25.9324383+03:00"
+    },
+    {
+      "productId": 2885,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-07-13T07:10:17.6691819+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 11077,
+  "cartId": "19f7df00-c751-4f83-aa9b-f4e8811e6e79",
+  "preferredProducts": [
+    3667,
+    2552,
+    3189,
+    2159,
+    3167,
+    3153,
+    2072
+  ],
+  "productReviews": [
+    {
+      "productId": 3031,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-11-21T19:04:59.6391072+02:00"
+    },
+    {
+      "productId": 2066,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-05-14T12:51:46.1819717+03:00"
+    },
+    {
+      "productId": 477,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-05-13T16:36:57.5944724+03:00"
+    }
+  ]
+}

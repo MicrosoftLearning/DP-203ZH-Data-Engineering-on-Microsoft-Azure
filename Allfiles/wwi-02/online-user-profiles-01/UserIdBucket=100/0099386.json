@@ -1,0 +1,26 @@
+{
+  "userId": 99386,
+  "cartId": "74114d9e-aa47-40c4-b474-b274c8b99860",
+  "preferredProducts": [
+    1388,
+    2284,
+    1592
+  ],
+  "productReviews": [
+    {
+      "productId": 255,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-09-11T01:40:41.5207887+03:00"
+    },
+    {
+      "productId": 211,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-04-09T14:47:47.2442017+03:00"
+    },
+    {
+      "productId": 4579,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-02-20T05:28:01.3057427+02:00"
+    }
+  ]
+}

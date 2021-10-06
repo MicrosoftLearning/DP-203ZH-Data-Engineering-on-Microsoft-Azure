@@ -1,0 +1,42 @@
+{
+  "userId": 352,
+  "cartId": "bba34953-9b68-4d78-8626-260dde5fe104",
+  "preferredProducts": [
+    637,
+    3178,
+    3611,
+    4935,
+    4297,
+    4676,
+    4617,
+    1282,
+    282
+  ],
+  "productReviews": [
+    {
+      "productId": 4030,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-11-11T15:17:15.8831302+02:00"
+    },
+    {
+      "productId": 2067,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-12-18T18:03:45.5333017+02:00"
+    },
+    {
+      "productId": 3568,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-04-07T01:16:53.3209257+03:00"
+    },
+    {
+      "productId": 268,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-08-03T10:07:25.9825952+03:00"
+    },
+    {
+      "productId": 740,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-07-07T11:37:33.0620676+03:00"
+    }
+  ]
+}

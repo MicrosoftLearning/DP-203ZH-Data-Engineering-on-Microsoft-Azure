@@ -1,0 +1,27 @@
+{
+  "userId": 16574,
+  "cartId": "4daf0bbe-87e1-4805-aa88-6e00be147ffe",
+  "preferredProducts": [
+    3978,
+    4662,
+    3411,
+    1546,
+    2214,
+    549,
+    4957,
+    4347,
+    2396
+  ],
+  "productReviews": [
+    {
+      "productId": 2219,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-03-10T02:22:42.5447837+02:00"
+    },
+    {
+      "productId": 3648,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-06-21T02:29:23.7758885+03:00"
+    }
+  ]
+}

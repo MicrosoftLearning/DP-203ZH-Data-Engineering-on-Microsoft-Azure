@@ -1,0 +1,30 @@
+{
+  "userId": 92563,
+  "cartId": "85c93313-2334-4069-81bd-fc51b357c28b",
+  "preferredProducts": [
+    1093,
+    3911,
+    3836,
+    3241,
+    128,
+    3598,
+    2059
+  ],
+  "productReviews": [
+    {
+      "productId": 1854,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-05-01T08:16:45.8318727+03:00"
+    },
+    {
+      "productId": 1762,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-12-18T04:18:36.8789632+02:00"
+    },
+    {
+      "productId": 3465,
+      "reviewText": "This overriding works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-07-13T01:21:36.3936187+03:00"
+    }
+  ]
+}

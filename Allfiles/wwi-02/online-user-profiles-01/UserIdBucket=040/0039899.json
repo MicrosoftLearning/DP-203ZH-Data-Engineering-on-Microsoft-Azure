@@ -1,0 +1,35 @@
+{
+  "userId": 39899,
+  "cartId": "318b5206-e33a-4423-ba7f-348890e9bb29",
+  "preferredProducts": [
+    4110,
+    668,
+    1877,
+    1084,
+    2406,
+    4506,
+    2857
+  ],
+  "productReviews": [
+    {
+      "productId": 2815,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-08-10T22:51:13.6835032+03:00"
+    },
+    {
+      "productId": 4900,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-06-06T14:35:09.2053549+03:00"
+    },
+    {
+      "productId": 1253,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-09-04T15:02:32.3218257+03:00"
+    },
+    {
+      "productId": 1716,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-08-25T21:34:23.6489119+03:00"
+    }
+  ]
+}

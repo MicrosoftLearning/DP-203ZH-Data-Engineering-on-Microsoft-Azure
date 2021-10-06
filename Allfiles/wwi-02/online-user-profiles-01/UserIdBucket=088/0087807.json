@@ -1,0 +1,30 @@
+{
+  "userId": 87807,
+  "cartId": "42a66ca4-3238-4ef5-884e-cfe053effa1f",
+  "preferredProducts": [
+    402,
+    2322,
+    4908,
+    3645,
+    308,
+    3177,
+    2803
+  ],
+  "productReviews": [
+    {
+      "productId": 3096,
+      "reviewText": "this Liaison is smooth.",
+      "reviewDate": "2018-04-01T12:14:20.9514946+03:00"
+    },
+    {
+      "productId": 3145,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-05-21T23:07:45.4194208+03:00"
+    },
+    {
+      "productId": 528,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-11-15T03:59:13.6508676+02:00"
+    }
+  ]
+}

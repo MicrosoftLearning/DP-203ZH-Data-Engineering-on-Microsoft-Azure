@@ -1,0 +1,27 @@
+{
+  "userId": 89589,
+  "cartId": "c2089488-4342-4385-b398-8bca4cc1613d",
+  "preferredProducts": [
+    2663,
+    3000,
+    3962,
+    2621
+  ],
+  "productReviews": [
+    {
+      "productId": 3163,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-07-28T11:03:26.8391721+03:00"
+    },
+    {
+      "productId": 3940,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-11-17T14:57:30.081098+02:00"
+    },
+    {
+      "productId": 4309,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-02-25T06:27:06.2796215+02:00"
+    }
+  ]
+}

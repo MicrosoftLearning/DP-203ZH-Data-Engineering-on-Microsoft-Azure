@@ -1,0 +1,42 @@
+{
+  "userId": 82188,
+  "cartId": "c3544dcc-652a-4e46-980e-328da3ec596a",
+  "preferredProducts": [
+    1836,
+    46,
+    4089,
+    2225,
+    1600,
+    2300,
+    814,
+    4170,
+    1065
+  ],
+  "productReviews": [
+    {
+      "productId": 3565,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-01-14T20:26:32.9320669+02:00"
+    },
+    {
+      "productId": 1009,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-02-06T02:52:01.758437+02:00"
+    },
+    {
+      "productId": 270,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-03-25T00:31:13.3133737+02:00"
+    },
+    {
+      "productId": 3797,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-03-28T03:43:54.1460288+03:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-07-18T19:16:38.4313198+03:00"
+    }
+  ]
+}

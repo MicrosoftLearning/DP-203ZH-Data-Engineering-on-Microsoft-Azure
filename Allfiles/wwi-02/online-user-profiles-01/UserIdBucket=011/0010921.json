@@ -1,0 +1,37 @@
+{
+  "userId": 10921,
+  "cartId": "e462c46c-3b60-4491-9f98-8eaa4d9e3554",
+  "preferredProducts": [
+    1189,
+    2540,
+    4568,
+    3233
+  ],
+  "productReviews": [
+    {
+      "productId": 4467,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-01-22T04:29:54.9230694+02:00"
+    },
+    {
+      "productId": 3067,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-05-02T20:09:55.1264254+03:00"
+    },
+    {
+      "productId": 2993,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-10-15T06:20:18.6174797+03:00"
+    },
+    {
+      "productId": 414,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-12-20T21:46:38.6692502+02:00"
+    },
+    {
+      "productId": 146,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-08-26T04:00:30.6914017+03:00"
+    }
+  ]
+}

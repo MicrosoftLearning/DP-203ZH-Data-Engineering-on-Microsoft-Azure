@@ -1,0 +1,34 @@
+{
+  "userId": 57191,
+  "cartId": "a7c60079-25da-4827-9638-0d5eee911a02",
+  "preferredProducts": [
+    1356,
+    1035,
+    2705,
+    2334,
+    4271,
+    1438
+  ],
+  "productReviews": [
+    {
+      "productId": 1646,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-06-01T11:12:29.9710116+03:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-03-16T21:55:02.7558928+02:00"
+    },
+    {
+      "productId": 4033,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-01-04T20:46:40.7623349+02:00"
+    },
+    {
+      "productId": 1155,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-12-07T21:07:18.2229782+02:00"
+    }
+  ]
+}

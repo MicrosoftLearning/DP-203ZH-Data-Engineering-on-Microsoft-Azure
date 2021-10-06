@@ -1,0 +1,38 @@
+{
+  "userId": 50135,
+  "cartId": "ae581e22-7485-47c9-9806-48e7743e469a",
+  "preferredProducts": [
+    4182,
+    2215,
+    2240,
+    2852,
+    4172,
+    1910,
+    2704,
+    1514,
+    1561,
+    2047
+  ],
+  "productReviews": [
+    {
+      "productId": 3406,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-07-08T16:48:56.6379192+03:00"
+    },
+    {
+      "productId": 2327,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-02-20T05:03:46.3254212+02:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-03-15T01:10:47.4549933+02:00"
+    },
+    {
+      "productId": 1134,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-25T23:41:26.4918374+03:00"
+    }
+  ]
+}

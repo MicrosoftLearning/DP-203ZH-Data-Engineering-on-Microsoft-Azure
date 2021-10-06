@@ -1,0 +1,33 @@
+{
+  "userId": 15454,
+  "cartId": "8763f11f-2a52-46c0-a5f9-1766d2458325",
+  "preferredProducts": [
+    3095,
+    2513,
+    1924,
+    232,
+    244,
+    1234,
+    2655,
+    1383,
+    1809,
+    2718
+  ],
+  "productReviews": [
+    {
+      "productId": 3333,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-07-23T19:46:37.2865578+03:00"
+    },
+    {
+      "productId": 878,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-11-08T13:24:48.9509857+02:00"
+    },
+    {
+      "productId": 3136,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-07-25T11:57:01.8437299+03:00"
+    }
+  ]
+}

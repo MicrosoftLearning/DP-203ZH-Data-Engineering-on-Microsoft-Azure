@@ -1,0 +1,30 @@
+{
+  "userId": 90574,
+  "cartId": "5dc5133d-d808-48ce-89d0-95e5d3b32de8",
+  "preferredProducts": [
+    3856,
+    750,
+    452,
+    3849,
+    2548,
+    1674,
+    3820
+  ],
+  "productReviews": [
+    {
+      "productId": 3539,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-06-01T01:43:14.9504256+03:00"
+    },
+    {
+      "productId": 4724,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-06-20T00:23:00.2376673+03:00"
+    },
+    {
+      "productId": 236,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-09-12T21:05:00.9851408+03:00"
+    }
+  ]
+}

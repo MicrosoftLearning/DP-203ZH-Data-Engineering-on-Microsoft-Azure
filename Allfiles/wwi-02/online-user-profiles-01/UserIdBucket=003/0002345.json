@@ -1,0 +1,36 @@
+{
+  "userId": 2345,
+  "cartId": "8b0310c4-a4db-4e0c-8a9a-e5256d5ceed3",
+  "preferredProducts": [
+    431,
+    2449,
+    4604
+  ],
+  "productReviews": [
+    {
+      "productId": 4233,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-12-19T20:17:48.0635912+02:00"
+    },
+    {
+      "productId": 1718,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-05-26T07:23:16.2026277+03:00"
+    },
+    {
+      "productId": 1931,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-12-20T08:22:32.5110837+02:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-12-14T21:13:53.2089832+02:00"
+    },
+    {
+      "productId": 809,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-12-21T20:47:49.5829062+02:00"
+    }
+  ]
+}

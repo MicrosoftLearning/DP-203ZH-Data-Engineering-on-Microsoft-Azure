@@ -1,0 +1,30 @@
+{
+  "userId": 52410,
+  "cartId": "d829374b-5338-44f1-8920-8c9acc2a195f",
+  "preferredProducts": [
+    3216,
+    3802
+  ],
+  "productReviews": [
+    {
+      "productId": 4427,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-06-11T22:11:36.1431347+03:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-10-21T05:35:21.38687+03:00"
+    },
+    {
+      "productId": 3287,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-08-06T02:53:11.6717969+03:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-05-10T16:54:27.7255387+03:00"
+    }
+  ]
+}

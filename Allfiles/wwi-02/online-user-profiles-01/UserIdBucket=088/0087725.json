@@ -1,0 +1,37 @@
+{
+  "userId": 87725,
+  "cartId": "7527ce09-f2a6-448b-9c73-577e30d90d29",
+  "preferredProducts": [
+    1691,
+    2313,
+    3412,
+    1119,
+    4091,
+    4497,
+    3287,
+    2707,
+    2657
+  ],
+  "productReviews": [
+    {
+      "productId": 3387,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-08-02T11:57:32.9519613+03:00"
+    },
+    {
+      "productId": 4761,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2020-02-14T07:27:52.9498903+02:00"
+    },
+    {
+      "productId": 1975,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-03-04T10:30:36.2674605+02:00"
+    },
+    {
+      "productId": 3036,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-04-26T20:19:52.4123792+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 2065,
+  "cartId": "2b1b38f6-0558-48bf-88cb-dbcff0c08476",
+  "preferredProducts": [
+    4562,
+    4037
+  ],
+  "productReviews": [
+    {
+      "productId": 4701,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-10-07T15:46:49.7050383+03:00"
+    },
+    {
+      "productId": 3584,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-06-11T22:21:42.2449697+03:00"
+    },
+    {
+      "productId": 3963,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-07-12T15:48:41.1107891+03:00"
+    }
+  ]
+}

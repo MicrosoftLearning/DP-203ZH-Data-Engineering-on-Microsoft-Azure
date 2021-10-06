@@ -1,0 +1,30 @@
+{
+  "userId": 19521,
+  "cartId": "4ea54b2a-551b-4546-8c69-087e781d3dd8",
+  "preferredProducts": [
+    559,
+    788,
+    1837,
+    4947,
+    2353,
+    2006,
+    2602
+  ],
+  "productReviews": [
+    {
+      "productId": 319,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-07-06T19:54:03.1717025+03:00"
+    },
+    {
+      "productId": 4173,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-11-06T11:09:18.7621436+02:00"
+    },
+    {
+      "productId": 490,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-10-27T13:33:07.6291507+03:00"
+    }
+  ]
+}

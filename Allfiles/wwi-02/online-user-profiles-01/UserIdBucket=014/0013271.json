@@ -1,0 +1,37 @@
+{
+  "userId": 13271,
+  "cartId": "50b154a1-387a-49f5-841a-f69ed12d0136",
+  "preferredProducts": [
+    2134,
+    2657,
+    2931,
+    4187,
+    1482,
+    4427,
+    2522,
+    4932,
+    2993
+  ],
+  "productReviews": [
+    {
+      "productId": 1429,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-11-18T19:54:29.5304003+02:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-11-24T04:41:41.3075956+02:00"
+    },
+    {
+      "productId": 4865,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-04-19T11:47:06.2694637+03:00"
+    },
+    {
+      "productId": 1966,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-11-18T17:27:50.7834487+02:00"
+    }
+  ]
+}

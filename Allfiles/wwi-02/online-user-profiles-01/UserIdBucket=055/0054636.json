@@ -1,0 +1,30 @@
+{
+  "userId": 54636,
+  "cartId": "30840258-27fc-46b6-b0e7-8c07a09343a5",
+  "preferredProducts": [
+    2247,
+    4885,
+    4869,
+    602,
+    715,
+    2319,
+    2180
+  ],
+  "productReviews": [
+    {
+      "productId": 4511,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-10-15T14:28:47.4973982+03:00"
+    },
+    {
+      "productId": 3647,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-05-21T09:58:44.3387382+03:00"
+    },
+    {
+      "productId": 158,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-05-17T17:39:57.0675139+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 1133,
+  "cartId": "99600965-def4-4b60-b6a4-c1cce7e8b8a9",
+  "preferredProducts": [
+    2766,
+    2762,
+    2634,
+    4267,
+    1003
+  ],
+  "productReviews": [
+    {
+      "productId": 2129,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-04-08T12:50:06.4100945+03:00"
+    },
+    {
+      "productId": 3806,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-11-22T15:59:23.9068243+02:00"
+    },
+    {
+      "productId": 4850,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-10-19T12:46:45.6758115+03:00"
+    }
+  ]
+}

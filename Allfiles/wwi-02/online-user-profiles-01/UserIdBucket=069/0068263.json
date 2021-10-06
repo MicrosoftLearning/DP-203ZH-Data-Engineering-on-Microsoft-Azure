@@ -1,0 +1,38 @@
+{
+  "userId": 68263,
+  "cartId": "e9c24f34-0831-48c8-b4fa-480f2cce669e",
+  "preferredProducts": [
+    3883,
+    4421,
+    3773,
+    751,
+    4540,
+    3916,
+    1476,
+    1504,
+    554,
+    2176
+  ],
+  "productReviews": [
+    {
+      "productId": 3148,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-06-11T12:12:49.6259411+03:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-05-28T06:52:47.1122739+03:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-12-22T11:41:22.9461848+02:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-06-30T14:28:59.8439666+03:00"
+    }
+  ]
+}

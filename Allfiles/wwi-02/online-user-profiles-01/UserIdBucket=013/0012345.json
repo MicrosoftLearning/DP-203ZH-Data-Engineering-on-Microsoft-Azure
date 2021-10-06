@@ -1,0 +1,28 @@
+{
+  "userId": 12345,
+  "cartId": "17941ec1-3d5e-4c67-84ea-68a26ece5b33",
+  "preferredProducts": [
+    492,
+    1925,
+    299,
+    188,
+    4909,
+    3994,
+    4461,
+    4522,
+    244,
+    1691
+  ],
+  "productReviews": [
+    {
+      "productId": 533,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-07-27T10:47:05.8141046+03:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2016-07-15T19:38:51.0863761+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 78037,
+  "cartId": "2ec09a6d-3d92-4b9c-99e7-1c48ff5c7b52",
+  "preferredProducts": [
+    2456,
+    1498,
+    4743,
+    448,
+    1196,
+    3966,
+    4066,
+    2408,
+    1226,
+    2164
+  ],
+  "productReviews": [
+    {
+      "productId": 1305,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-28T15:33:34.5895585+02:00"
+    },
+    {
+      "productId": 4994,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-01-17T05:05:29.7917874+02:00"
+    },
+    {
+      "productId": 571,
+      "reviewText": "This Senior works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-09-10T04:32:10.2632676+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 3521,
+  "cartId": "7aa9889f-75a7-49dc-a911-1689b9ecfe03",
+  "preferredProducts": [
+    4015,
+    3426,
+    2238,
+    224,
+    3849
+  ],
+  "productReviews": [
+    {
+      "productId": 1553,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-07-18T09:07:55.0879479+03:00"
+    },
+    {
+      "productId": 912,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-09-30T20:18:49.7231038+03:00"
+    }
+  ]
+}

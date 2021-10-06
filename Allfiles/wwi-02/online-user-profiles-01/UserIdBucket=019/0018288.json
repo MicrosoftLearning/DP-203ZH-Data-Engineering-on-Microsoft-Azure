@@ -1,0 +1,43 @@
+{
+  "userId": 18288,
+  "cartId": "d115f80b-37a6-4d0a-8b14-c62c2669b4d2",
+  "preferredProducts": [
+    3515,
+    1217,
+    1318,
+    3117,
+    3322,
+    4661,
+    2340,
+    2246,
+    3495,
+    2488
+  ],
+  "productReviews": [
+    {
+      "productId": 861,
+      "reviewText": "This XSS works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-11-29T00:13:11.3470625+02:00"
+    },
+    {
+      "productId": 243,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-06-18T10:46:37.2961683+03:00"
+    },
+    {
+      "productId": 2234,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-03-11T17:40:34.6167843+02:00"
+    },
+    {
+      "productId": 1496,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-11-14T02:13:51.5525544+02:00"
+    },
+    {
+      "productId": 603,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-11-07T03:20:32.0565485+02:00"
+    }
+  ]
+}

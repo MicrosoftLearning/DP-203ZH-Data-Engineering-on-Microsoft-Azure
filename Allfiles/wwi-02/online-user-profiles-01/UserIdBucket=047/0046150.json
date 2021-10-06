@@ -1,0 +1,30 @@
+{
+  "userId": 46150,
+  "cartId": "a7be6626-e081-4efc-95d0-4af712f9216a",
+  "preferredProducts": [
+    4210,
+    2211
+  ],
+  "productReviews": [
+    {
+      "productId": 3864,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-09-17T07:19:03.3143839+03:00"
+    },
+    {
+      "productId": 4357,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-04-15T18:55:18.231616+03:00"
+    },
+    {
+      "productId": 1281,
+      "reviewText": "this Human is flirty.",
+      "reviewDate": "2019-03-25T10:33:17.387782+02:00"
+    },
+    {
+      "productId": 2969,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-10-28T23:41:06.5205559+03:00"
+    }
+  ]
+}

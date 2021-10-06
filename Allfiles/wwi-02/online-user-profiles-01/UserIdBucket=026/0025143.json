@@ -1,0 +1,31 @@
+{
+  "userId": 25143,
+  "cartId": "9ae6e629-b8ff-49a0-a2ce-689c7bafc841",
+  "preferredProducts": [
+    1957,
+    2709,
+    1123
+  ],
+  "productReviews": [
+    {
+      "productId": 3395,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-03-19T10:31:55.6887666+02:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-12-18T15:28:48.3767582+02:00"
+    },
+    {
+      "productId": 1166,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-03-23T01:42:52.1351751+02:00"
+    },
+    {
+      "productId": 3216,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-05-20T17:22:04.8124856+03:00"
+    }
+  ]
+}

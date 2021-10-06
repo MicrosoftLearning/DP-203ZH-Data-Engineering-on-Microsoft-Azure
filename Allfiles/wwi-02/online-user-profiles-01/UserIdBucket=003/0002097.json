@@ -1,0 +1,28 @@
+{
+  "userId": 2097,
+  "cartId": "5e788156-a493-4ea1-beef-6a09a6241745",
+  "preferredProducts": [
+    1138,
+    1185,
+    4744,
+    3213,
+    4847,
+    2429,
+    791,
+    3351,
+    3240,
+    718
+  ],
+  "productReviews": [
+    {
+      "productId": 903,
+      "reviewText": "this ROI is amiable.",
+      "reviewDate": "2016-10-02T18:38:40.9877647+03:00"
+    },
+    {
+      "productId": 2519,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-03-09T13:27:32.275551+02:00"
+    }
+  ]
+}

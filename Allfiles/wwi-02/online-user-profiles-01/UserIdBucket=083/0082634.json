@@ -1,0 +1,27 @@
+{
+  "userId": 82634,
+  "cartId": "ba02794d-2f0d-41aa-a7db-9c7969c16bef",
+  "preferredProducts": [
+    1467,
+    4571,
+    3783,
+    4287
+  ],
+  "productReviews": [
+    {
+      "productId": 3374,
+      "reviewText": "this Investor is awesome.",
+      "reviewDate": "2017-07-20T12:46:35.1828334+03:00"
+    },
+    {
+      "productId": 3298,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-11-18T01:15:52.3477801+02:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "this Home Loan Account is awesome.",
+      "reviewDate": "2017-08-19T02:37:31.3098662+03:00"
+    }
+  ]
+}

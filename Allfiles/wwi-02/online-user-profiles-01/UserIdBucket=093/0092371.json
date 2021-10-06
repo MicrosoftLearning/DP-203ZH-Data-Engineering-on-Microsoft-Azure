@@ -1,0 +1,36 @@
+{
+  "userId": 92371,
+  "cartId": "4838dc1e-8821-42ec-87fc-94d885a2b9d6",
+  "preferredProducts": [
+    365,
+    1251,
+    3214,
+    663,
+    1995,
+    4365,
+    1709,
+    519
+  ],
+  "productReviews": [
+    {
+      "productId": 4072,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-04-07T23:47:27.8537761+03:00"
+    },
+    {
+      "productId": 4995,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-04-25T07:26:45.3806101+03:00"
+    },
+    {
+      "productId": 2417,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-11-05T00:50:55.5091404+02:00"
+    },
+    {
+      "productId": 4002,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-12-20T19:24:14.6134689+02:00"
+    }
+  ]
+}

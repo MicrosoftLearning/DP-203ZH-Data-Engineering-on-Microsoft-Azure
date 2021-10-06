@@ -1,0 +1,32 @@
+{
+  "userId": 17822,
+  "cartId": "971e33ed-06d2-42b3-8bf9-621cc51bc011",
+  "preferredProducts": [
+    4617,
+    2293,
+    1069,
+    2745,
+    1506,
+    4768,
+    631,
+    693,
+    4071
+  ],
+  "productReviews": [
+    {
+      "productId": 1023,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-09-21T02:07:10.8249339+03:00"
+    },
+    {
+      "productId": 2495,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-01-07T15:53:55.5812562+02:00"
+    },
+    {
+      "productId": 3383,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-11-08T08:06:35.326901+02:00"
+    }
+  ]
+}

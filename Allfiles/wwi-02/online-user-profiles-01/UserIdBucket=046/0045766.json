@@ -1,0 +1,24 @@
+{
+  "userId": 45766,
+  "cartId": "5a3a2a07-f733-460f-8124-79a0c67286a6",
+  "preferredProducts": [
+    3501,
+    1185,
+    4524,
+    3980,
+    547,
+    2189
+  ],
+  "productReviews": [
+    {
+      "productId": 1725,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-02-18T16:35:17.6976059+02:00"
+    },
+    {
+      "productId": 4414,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-04T04:11:00.2975334+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 71797,
+  "cartId": "1cf86f3b-d6b3-426b-8765-2c1f26cf7098",
+  "preferredProducts": [
+    4386,
+    2711,
+    2651,
+    1303,
+    4632,
+    1363,
+    2066,
+    2197,
+    4656,
+    1353
+  ],
+  "productReviews": [
+    {
+      "productId": 3748,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-05-04T09:45:34.7624889+03:00"
+    },
+    {
+      "productId": 284,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-10-10T21:52:16.2042383+03:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-11-27T00:07:31.4511556+02:00"
+    },
+    {
+      "productId": 1923,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-06-04T09:03:22.4835844+03:00"
+    }
+  ]
+}

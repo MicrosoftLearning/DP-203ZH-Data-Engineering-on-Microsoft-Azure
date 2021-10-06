@@ -1,0 +1,33 @@
+{
+  "userId": 9702,
+  "cartId": "c8364821-4d1d-41a2-9e60-c16cf5c94acc",
+  "preferredProducts": [
+    4843,
+    2752,
+    1547,
+    1739,
+    2225,
+    1338,
+    3685,
+    4706,
+    3533,
+    2951
+  ],
+  "productReviews": [
+    {
+      "productId": 1882,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-05-31T20:58:50.4532824+03:00"
+    },
+    {
+      "productId": 2256,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-05-12T15:08:37.1208903+03:00"
+    },
+    {
+      "productId": 3940,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-12-02T19:34:31.0121201+02:00"
+    }
+  ]
+}

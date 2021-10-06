@@ -1,0 +1,36 @@
+{
+  "userId": 80728,
+  "cartId": "fe0ea913-7c9f-4674-be41-9398744d4f60",
+  "preferredProducts": [
+    1142,
+    4160,
+    3233,
+    1158,
+    1182,
+    1108,
+    179,
+    3718
+  ],
+  "productReviews": [
+    {
+      "productId": 883,
+      "reviewText": "this Human is brown.",
+      "reviewDate": "2017-04-05T08:47:02.4092178+03:00"
+    },
+    {
+      "productId": 1908,
+      "reviewText": "this Integration is light-hearted.",
+      "reviewDate": "2018-02-27T12:40:59.9214625+02:00"
+    },
+    {
+      "productId": 574,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-12-21T02:37:47.4774858+02:00"
+    },
+    {
+      "productId": 1759,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-12-28T18:16:13.6513692+02:00"
+    }
+  ]
+}

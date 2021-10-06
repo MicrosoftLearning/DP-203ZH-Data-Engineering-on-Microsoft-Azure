@@ -1,0 +1,37 @@
+{
+  "userId": 93891,
+  "cartId": "fbaca763-8a96-42a7-9792-31942b812b27",
+  "preferredProducts": [
+    430,
+    3581,
+    3023,
+    12,
+    3615,
+    433,
+    1845,
+    4948,
+    758
+  ],
+  "productReviews": [
+    {
+      "productId": 745,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-01-02T12:44:40.1866559+02:00"
+    },
+    {
+      "productId": 222,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-04-03T21:54:08.6559837+03:00"
+    },
+    {
+      "productId": 3888,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-06-28T05:14:31.7310259+03:00"
+    },
+    {
+      "productId": 1374,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-01-05T05:39:36.947892+02:00"
+    }
+  ]
+}

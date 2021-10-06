@@ -1,0 +1,28 @@
+{
+  "userId": 10271,
+  "cartId": "e95e0c34-3e4b-4a77-94dd-1f58e47fadad",
+  "preferredProducts": [
+    2188,
+    498,
+    923,
+    1877,
+    2176
+  ],
+  "productReviews": [
+    {
+      "productId": 1304,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-09-21T19:52:51.1006355+03:00"
+    },
+    {
+      "productId": 2717,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-02-27T14:19:49.0481679+02:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-12-01T00:57:32.4733563+02:00"
+    }
+  ]
+}

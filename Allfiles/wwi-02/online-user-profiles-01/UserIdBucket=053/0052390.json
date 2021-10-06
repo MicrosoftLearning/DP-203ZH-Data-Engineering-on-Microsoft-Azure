@@ -1,0 +1,30 @@
+{
+  "userId": 52390,
+  "cartId": "b0bf2f34-5e33-47c5-a6e7-2a2a1c06297f",
+  "preferredProducts": [
+    2235,
+    4494
+  ],
+  "productReviews": [
+    {
+      "productId": 238,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-04-15T00:44:43.5205909+03:00"
+    },
+    {
+      "productId": 602,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2019-01-14T01:05:28.6634314+02:00"
+    },
+    {
+      "productId": 847,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-12-28T09:01:42.9753272+02:00"
+    },
+    {
+      "productId": 4426,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-11-26T18:13:16.5544434+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 29333,
+  "cartId": "04c95a9b-5fdd-4a0c-965c-84ba6ffb4aee",
+  "preferredProducts": [
+    4121,
+    3847,
+    3956,
+    582,
+    198,
+    1527,
+    303
+  ],
+  "productReviews": [
+    {
+      "productId": 2294,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-09-07T16:40:28.5398601+03:00"
+    },
+    {
+      "productId": 1459,
+      "reviewText": "This Streets works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-07-17T13:03:02.0790568+03:00"
+    },
+    {
+      "productId": 754,
+      "reviewText": "This Toys works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-02-21T05:07:01.6865513+02:00"
+    }
+  ]
+}

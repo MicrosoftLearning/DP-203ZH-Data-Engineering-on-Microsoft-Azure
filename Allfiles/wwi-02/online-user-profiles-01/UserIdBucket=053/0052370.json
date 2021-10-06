@@ -1,0 +1,31 @@
+{
+  "userId": 52370,
+  "cartId": "3afc081c-1b69-443a-8043-7051410bba60",
+  "preferredProducts": [
+    2290,
+    3299,
+    4170
+  ],
+  "productReviews": [
+    {
+      "productId": 630,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-08-31T14:22:41.9265147+03:00"
+    },
+    {
+      "productId": 3573,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-12-02T21:01:48.7000925+02:00"
+    },
+    {
+      "productId": 1477,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-04-11T08:45:26.1737216+03:00"
+    },
+    {
+      "productId": 353,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-08-30T04:34:02.4533485+03:00"
+    }
+  ]
+}

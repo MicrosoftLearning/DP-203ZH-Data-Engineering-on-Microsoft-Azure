@@ -1,0 +1,40 @@
+{
+  "userId": 78200,
+  "cartId": "173ecac4-eae0-4a62-ae16-5a81febaa0a6",
+  "preferredProducts": [
+    3838,
+    3445,
+    2501,
+    4244,
+    2187,
+    3962,
+    2228
+  ],
+  "productReviews": [
+    {
+      "productId": 3101,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-07-05T23:34:13.8021856+03:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-05-11T02:55:02.9893886+03:00"
+    },
+    {
+      "productId": 752,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-05-16T03:16:45.3396815+03:00"
+    },
+    {
+      "productId": 762,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-02-28T06:20:11.1954224+02:00"
+    },
+    {
+      "productId": 2109,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-10-25T20:07:46.7915333+03:00"
+    }
+  ]
+}

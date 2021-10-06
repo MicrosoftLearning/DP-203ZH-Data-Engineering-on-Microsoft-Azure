@@ -1,0 +1,31 @@
+{
+  "userId": 36832,
+  "cartId": "d1dc1718-298a-45d4-a027-d11a16fdae1b",
+  "preferredProducts": [
+    2156,
+    2236,
+    3334,
+    1229,
+    1118,
+    620,
+    3727,
+    1028
+  ],
+  "productReviews": [
+    {
+      "productId": 3597,
+      "reviewText": "This AGP works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-02-01T03:27:34.6188631+02:00"
+    },
+    {
+      "productId": 2109,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-12-12T02:49:13.5851258+02:00"
+    },
+    {
+      "productId": 1460,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2016-11-01T20:15:08.3914246+02:00"
+    }
+  ]
+}

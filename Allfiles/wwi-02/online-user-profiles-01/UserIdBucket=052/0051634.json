@@ -1,0 +1,24 @@
+{
+  "userId": 51634,
+  "cartId": "fea5143b-6591-4d1e-a04e-492ac1efb56d",
+  "preferredProducts": [
+    3242,
+    1321,
+    4178,
+    113,
+    1057,
+    3686
+  ],
+  "productReviews": [
+    {
+      "productId": 3028,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-06-14T00:38:02.715188+03:00"
+    },
+    {
+      "productId": 1847,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-04-20T05:32:06.3632217+03:00"
+    }
+  ]
+}

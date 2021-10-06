@@ -1,0 +1,30 @@
+{
+  "userId": 96395,
+  "cartId": "3982bd3d-6ec1-4f1c-a53c-bde483eeb03e",
+  "preferredProducts": [
+    3602,
+    2442,
+    3421,
+    139,
+    778,
+    1791,
+    3368
+  ],
+  "productReviews": [
+    {
+      "productId": 1152,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-08-15T12:37:26.3057029+03:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-03-03T15:06:46.6491567+02:00"
+    },
+    {
+      "productId": 108,
+      "reviewText": "this grow is nifty.",
+      "reviewDate": "2019-04-12T15:22:56.0629322+03:00"
+    }
+  ]
+}

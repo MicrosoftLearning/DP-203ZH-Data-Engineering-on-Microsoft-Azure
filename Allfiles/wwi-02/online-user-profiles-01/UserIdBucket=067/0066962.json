@@ -1,0 +1,28 @@
+{
+  "userId": 66962,
+  "cartId": "f16d3481-26b4-447e-891f-b1a93f8ffdcd",
+  "preferredProducts": [
+    4677,
+    3493,
+    3544,
+    358,
+    4246
+  ],
+  "productReviews": [
+    {
+      "productId": 79,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-04-05T04:42:17.8347756+03:00"
+    },
+    {
+      "productId": 3154,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-04-06T09:18:24.4182871+03:00"
+    },
+    {
+      "productId": 1589,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-08-30T11:27:17.7613148+03:00"
+    }
+  ]
+}

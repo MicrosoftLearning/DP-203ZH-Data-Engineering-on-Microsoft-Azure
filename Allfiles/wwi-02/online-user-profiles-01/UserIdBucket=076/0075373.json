@@ -1,0 +1,37 @@
+{
+  "userId": 75373,
+  "cartId": "a1cb31d2-9929-4170-b8fe-3ad5215d37f3",
+  "preferredProducts": [
+    4603,
+    1787,
+    3402,
+    1346,
+    4785,
+    2702,
+    1108,
+    2585,
+    2946
+  ],
+  "productReviews": [
+    {
+      "productId": 1560,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-05-18T00:23:57.8827149+03:00"
+    },
+    {
+      "productId": 4357,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-08-01T21:20:58.1681423+03:00"
+    },
+    {
+      "productId": 3517,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-05-05T01:16:13.1665466+03:00"
+    },
+    {
+      "productId": 876,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-12-02T01:13:36.8764301+02:00"
+    }
+  ]
+}

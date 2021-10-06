@@ -1,0 +1,26 @@
+{
+  "userId": 98054,
+  "cartId": "85933fee-0d28-4d7d-9e76-ace99320d11a",
+  "preferredProducts": [
+    2514,
+    4364,
+    19
+  ],
+  "productReviews": [
+    {
+      "productId": 4472,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-12-30T17:31:24.4891309+02:00"
+    },
+    {
+      "productId": 2174,
+      "reviewText": "This Yen works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-06-14T23:57:35.0544065+03:00"
+    },
+    {
+      "productId": 2701,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-07-18T14:32:29.5400244+03:00"
+    }
+  ]
+}

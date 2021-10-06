@@ -1,0 +1,23 @@
+{
+  "userId": 78213,
+  "cartId": "326de12f-dbb6-4097-b4e9-f91bdfb11c66",
+  "preferredProducts": [
+    1995,
+    3046,
+    2687,
+    2930,
+    4727
+  ],
+  "productReviews": [
+    {
+      "productId": 2656,
+      "reviewText": "this solid state is vertical.",
+      "reviewDate": "2017-10-13T10:31:23.6102312+03:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-08-24T14:26:21.3625054+03:00"
+    }
+  ]
+}

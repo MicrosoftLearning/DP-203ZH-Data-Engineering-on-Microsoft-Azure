@@ -1,0 +1,30 @@
+{
+  "userId": 73219,
+  "cartId": "68b16ed4-3ba1-4ce9-a89d-52b71247f88a",
+  "preferredProducts": [
+    179,
+    336
+  ],
+  "productReviews": [
+    {
+      "productId": 4411,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-06-03T07:52:20.7964094+03:00"
+    },
+    {
+      "productId": 3147,
+      "reviewText": "This Forward works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-12-28T04:54:43.6431205+02:00"
+    },
+    {
+      "productId": 480,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-11-22T08:03:41.7044644+02:00"
+    },
+    {
+      "productId": 3743,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-05-29T14:39:49.098597+03:00"
+    }
+  ]
+}

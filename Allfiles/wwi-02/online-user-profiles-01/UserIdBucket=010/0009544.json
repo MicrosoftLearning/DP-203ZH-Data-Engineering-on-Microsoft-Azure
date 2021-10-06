@@ -1,0 +1,29 @@
+{
+  "userId": 9544,
+  "cartId": "3514dd95-68aa-475d-a70c-46ac3979fd09",
+  "preferredProducts": [
+    4379,
+    1044,
+    795,
+    215,
+    2500,
+    4399
+  ],
+  "productReviews": [
+    {
+      "productId": 3540,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-07-23T18:57:55.5050094+03:00"
+    },
+    {
+      "productId": 4893,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-01-17T07:52:39.0522659+02:00"
+    },
+    {
+      "productId": 4769,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-08-24T12:01:13.5421361+03:00"
+    }
+  ]
+}

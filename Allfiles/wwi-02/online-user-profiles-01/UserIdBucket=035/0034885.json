@@ -1,0 +1,31 @@
+{
+  "userId": 34885,
+  "cartId": "0ed9df47-53ec-4827-b298-89705b253ef3",
+  "preferredProducts": [
+    820,
+    614,
+    2864,
+    3770,
+    2973,
+    3497,
+    1911,
+    1790
+  ],
+  "productReviews": [
+    {
+      "productId": 3682,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2020-02-23T23:02:23.6449397+02:00"
+    },
+    {
+      "productId": 2364,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-06-03T17:42:32.4269657+03:00"
+    },
+    {
+      "productId": 4284,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-12-27T07:08:06.195203+02:00"
+    }
+  ]
+}

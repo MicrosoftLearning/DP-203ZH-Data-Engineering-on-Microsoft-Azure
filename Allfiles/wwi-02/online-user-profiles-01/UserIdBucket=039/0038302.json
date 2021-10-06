@@ -1,0 +1,36 @@
+{
+  "userId": 38302,
+  "cartId": "7c6b7a41-6089-4521-8f94-21794c9894cd",
+  "preferredProducts": [
+    265,
+    1157,
+    2574,
+    4321,
+    3601,
+    727,
+    4354,
+    163
+  ],
+  "productReviews": [
+    {
+      "productId": 2943,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-12-10T17:44:17.6191553+02:00"
+    },
+    {
+      "productId": 964,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2020-04-04T23:49:12.7547692+03:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "this open-source is amiable.",
+      "reviewDate": "2018-06-19T06:42:41.9402736+03:00"
+    },
+    {
+      "productId": 3557,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-02-24T15:03:05.4843412+02:00"
+    }
+  ]
+}

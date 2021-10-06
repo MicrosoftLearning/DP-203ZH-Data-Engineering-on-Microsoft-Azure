@@ -1,0 +1,33 @@
+{
+  "userId": 6339,
+  "cartId": "f35d6f55-9574-408a-8fca-978806a103ee",
+  "preferredProducts": [
+    3405,
+    4555,
+    3629,
+    4717,
+    457,
+    1934,
+    4589,
+    84,
+    1995,
+    4153
+  ],
+  "productReviews": [
+    {
+      "productId": 563,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-08-23T23:11:17.7741628+03:00"
+    },
+    {
+      "productId": 4845,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-02-02T08:24:24.3132842+02:00"
+    },
+    {
+      "productId": 3558,
+      "reviewText": "this Future is standard.",
+      "reviewDate": "2020-01-31T19:05:30.5951892+02:00"
+    }
+  ]
+}

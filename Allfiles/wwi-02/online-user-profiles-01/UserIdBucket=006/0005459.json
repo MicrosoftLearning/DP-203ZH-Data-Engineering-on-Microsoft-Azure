@@ -1,0 +1,38 @@
+{
+  "userId": 5459,
+  "cartId": "46b913f1-a1ea-4170-ad21-b616e95e512e",
+  "preferredProducts": [
+    2435,
+    3713,
+    4842,
+    1340,
+    1569,
+    4033,
+    939,
+    4368,
+    4209,
+    2247
+  ],
+  "productReviews": [
+    {
+      "productId": 1383,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-01-28T03:49:38.4285153+02:00"
+    },
+    {
+      "productId": 1676,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-11-14T06:14:23.7919646+02:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-01-23T05:28:12.4562432+02:00"
+    },
+    {
+      "productId": 4545,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-06-14T22:08:54.3209892+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 2770,
+  "cartId": "a162ad7c-f1f6-48e2-9da7-5ebd7c63d9c5",
+  "preferredProducts": [
+    2019,
+    635,
+    2419,
+    4750,
+    1559,
+    763,
+    4229
+  ],
+  "productReviews": [
+    {
+      "productId": 2990,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-07-11T01:45:03.1055881+03:00"
+    },
+    {
+      "productId": 3675,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-10-14T22:51:51.2791687+03:00"
+    },
+    {
+      "productId": 1186,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-08-06T17:41:30.6947076+03:00"
+    },
+    {
+      "productId": 4280,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-12-19T20:54:56.4252486+02:00"
+    }
+  ]
+}

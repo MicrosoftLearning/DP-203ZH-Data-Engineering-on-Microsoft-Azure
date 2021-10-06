@@ -1,0 +1,31 @@
+{
+  "userId": 20067,
+  "cartId": "ee3c1a33-4ced-44e8-9bb4-88f5f8f09388",
+  "preferredProducts": [
+    240,
+    4743,
+    668,
+    3283,
+    4434,
+    2126,
+    4481,
+    3412
+  ],
+  "productReviews": [
+    {
+      "productId": 3582,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-12-02T06:07:39.4421358+02:00"
+    },
+    {
+      "productId": 3915,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-05-27T02:18:22.2309508+03:00"
+    },
+    {
+      "productId": 1416,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-10-06T17:59:47.6883946+03:00"
+    }
+  ]
+}

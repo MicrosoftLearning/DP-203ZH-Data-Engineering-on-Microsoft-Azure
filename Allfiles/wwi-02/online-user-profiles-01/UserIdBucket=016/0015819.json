@@ -1,0 +1,33 @@
+{
+  "userId": 15819,
+  "cartId": "2001ba85-a2b5-4f0c-8b22-3190a8feb458",
+  "preferredProducts": [
+    1648,
+    3965,
+    2902,
+    808,
+    4601
+  ],
+  "productReviews": [
+    {
+      "productId": 3495,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-01-20T05:24:56.3153248+02:00"
+    },
+    {
+      "productId": 2354,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-09-22T04:13:15.6414259+03:00"
+    },
+    {
+      "productId": 4027,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-04-07T15:17:41.8671385+03:00"
+    },
+    {
+      "productId": 3830,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-07-31T05:07:49.9638115+03:00"
+    }
+  ]
+}

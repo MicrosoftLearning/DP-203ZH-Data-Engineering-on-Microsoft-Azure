@@ -1,0 +1,24 @@
+{
+  "userId": 36459,
+  "cartId": "5e3f7a8b-9812-4085-ad96-9e624cce2fad",
+  "preferredProducts": [
+    1051,
+    2049,
+    1665,
+    4664,
+    2871,
+    1039
+  ],
+  "productReviews": [
+    {
+      "productId": 3981,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-11-23T16:52:19.3290968+02:00"
+    },
+    {
+      "productId": 1967,
+      "reviewText": "This Fresh, does exactly what it's suppose to do.",
+      "reviewDate": "2016-07-13T15:23:55.9015833+03:00"
+    }
+  ]
+}

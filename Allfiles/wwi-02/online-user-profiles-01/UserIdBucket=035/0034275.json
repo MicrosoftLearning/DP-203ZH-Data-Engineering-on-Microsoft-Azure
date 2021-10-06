@@ -1,0 +1,33 @@
+{
+  "userId": 34275,
+  "cartId": "55443b90-700d-4e98-8426-3817d0517fec",
+  "preferredProducts": [
+    3521,
+    1664,
+    569,
+    3555,
+    2793
+  ],
+  "productReviews": [
+    {
+      "productId": 1110,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-12-04T21:16:22.2192394+02:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-05-19T04:29:09.4960965+03:00"
+    },
+    {
+      "productId": 2115,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-12-29T22:01:24.8220011+02:00"
+    },
+    {
+      "productId": 1412,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2016-08-22T18:54:20.553288+03:00"
+    }
+  ]
+}

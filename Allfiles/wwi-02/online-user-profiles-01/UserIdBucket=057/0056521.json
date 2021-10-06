@@ -1,0 +1,33 @@
+{
+  "userId": 56521,
+  "cartId": "1cbf9e5b-454f-46a2-ab64-37eb22ad82fb",
+  "preferredProducts": [
+    678,
+    35,
+    4109,
+    2494,
+    4029
+  ],
+  "productReviews": [
+    {
+      "productId": 562,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-11-07T12:03:20.5826411+02:00"
+    },
+    {
+      "productId": 445,
+      "reviewText": "this XSS is tasty.",
+      "reviewDate": "2019-10-05T16:01:56.1607233+03:00"
+    },
+    {
+      "productId": 1124,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-10-19T08:42:31.5660403+03:00"
+    },
+    {
+      "productId": 2185,
+      "reviewText": "this Oregon is ratty.",
+      "reviewDate": "2019-11-04T02:43:10.7741887+02:00"
+    }
+  ]
+}

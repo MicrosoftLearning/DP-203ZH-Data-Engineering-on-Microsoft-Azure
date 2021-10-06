@@ -1,0 +1,28 @@
+{
+  "userId": 22506,
+  "cartId": "230f3714-fe4a-498f-8878-9b2fdc8e04ef",
+  "preferredProducts": [
+    1857,
+    2393,
+    1639,
+    1297,
+    3901
+  ],
+  "productReviews": [
+    {
+      "productId": 955,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-06-13T18:35:46.105334+03:00"
+    },
+    {
+      "productId": 1,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-08-05T18:37:00.7494831+03:00"
+    },
+    {
+      "productId": 58,
+      "reviewText": "This Track works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-07-20T05:28:00.9294325+03:00"
+    }
+  ]
+}

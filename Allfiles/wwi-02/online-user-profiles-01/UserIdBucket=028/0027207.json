@@ -1,0 +1,38 @@
+{
+  "userId": 27207,
+  "cartId": "077abab7-00dd-4e74-823a-6878ceeb23da",
+  "preferredProducts": [
+    4931,
+    2192,
+    4827,
+    550,
+    1722,
+    2661,
+    141,
+    2893,
+    2443,
+    4737
+  ],
+  "productReviews": [
+    {
+      "productId": 123,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-06T22:56:18.5135488+02:00"
+    },
+    {
+      "productId": 208,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-05-28T15:05:18.7983505+03:00"
+    },
+    {
+      "productId": 1282,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-02-01T20:28:06.9936523+02:00"
+    },
+    {
+      "productId": 749,
+      "reviewText": "this Auto Loan Account is nifty.",
+      "reviewDate": "2018-02-26T15:51:45.5377005+02:00"
+    }
+  ]
+}

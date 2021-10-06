@@ -1,0 +1,27 @@
+{
+  "userId": 48241,
+  "cartId": "d7dea2c5-dc5c-47c1-8f14-c934ec19fe63",
+  "preferredProducts": [
+    4763,
+    2339,
+    3512,
+    3967
+  ],
+  "productReviews": [
+    {
+      "productId": 869,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-09-27T19:23:43.1941151+03:00"
+    },
+    {
+      "productId": 669,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-10-30T14:47:43.0623354+02:00"
+    },
+    {
+      "productId": 2927,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-07-19T13:11:17.5698789+03:00"
+    }
+  ]
+}

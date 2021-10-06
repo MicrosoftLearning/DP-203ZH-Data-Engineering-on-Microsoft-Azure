@@ -1,0 +1,39 @@
+{
+  "userId": 34745,
+  "cartId": "97b25f4e-c87d-46fd-9ed3-d960dbc3b848",
+  "preferredProducts": [
+    2389,
+    1782,
+    3494,
+    3811,
+    4278,
+    3599
+  ],
+  "productReviews": [
+    {
+      "productId": 2830,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-10-18T07:59:05.8700426+03:00"
+    },
+    {
+      "productId": 2830,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-11-11T09:43:28.3542107+02:00"
+    },
+    {
+      "productId": 2862,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-04-09T03:01:40.4177358+03:00"
+    },
+    {
+      "productId": 1622,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-08-03T21:35:08.2632464+03:00"
+    },
+    {
+      "productId": 4053,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-10-31T22:56:49.1450608+02:00"
+    }
+  ]
+}

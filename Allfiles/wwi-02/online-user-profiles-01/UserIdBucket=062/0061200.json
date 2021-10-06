@@ -1,0 +1,35 @@
+{
+  "userId": 61200,
+  "cartId": "7df11330-2b08-4840-b42f-2110d04dc866",
+  "preferredProducts": [
+    2880,
+    1905,
+    2137,
+    1743,
+    3992,
+    1843,
+    2543
+  ],
+  "productReviews": [
+    {
+      "productId": 4090,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2019-04-02T17:18:07.2528265+03:00"
+    },
+    {
+      "productId": 1103,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-11-06T12:01:32.7256077+02:00"
+    },
+    {
+      "productId": 844,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-12-08T00:42:24.180008+02:00"
+    },
+    {
+      "productId": 2134,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-01-26T09:30:03.2849925+02:00"
+    }
+  ]
+}

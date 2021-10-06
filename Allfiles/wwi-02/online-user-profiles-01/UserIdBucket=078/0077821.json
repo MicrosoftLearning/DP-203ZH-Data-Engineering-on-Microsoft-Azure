@@ -1,0 +1,31 @@
+{
+  "userId": 77821,
+  "cartId": "96827cfb-ef61-4f82-bb5e-f56e380939ae",
+  "preferredProducts": [
+    2553,
+    2846,
+    3655,
+    3381,
+    174,
+    4690,
+    4015,
+    2246
+  ],
+  "productReviews": [
+    {
+      "productId": 396,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-03-20T22:15:46.3438191+02:00"
+    },
+    {
+      "productId": 1614,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-03-30T20:52:08.8237861+03:00"
+    },
+    {
+      "productId": 2466,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-10-04T15:54:43.7991084+03:00"
+    }
+  ]
+}

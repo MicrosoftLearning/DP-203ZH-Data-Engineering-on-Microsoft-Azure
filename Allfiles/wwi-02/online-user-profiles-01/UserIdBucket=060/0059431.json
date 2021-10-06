@@ -1,0 +1,30 @@
+{
+  "userId": 59431,
+  "cartId": "f43f27ac-bb19-436d-ab59-74cc4e4b072a",
+  "preferredProducts": [
+    494,
+    1213,
+    4139,
+    1101,
+    1103,
+    4692,
+    2036
+  ],
+  "productReviews": [
+    {
+      "productId": 2042,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-11-11T03:38:32.0022392+02:00"
+    },
+    {
+      "productId": 2757,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-07-26T07:51:02.590419+03:00"
+    },
+    {
+      "productId": 413,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-09-09T15:26:10.9512259+03:00"
+    }
+  ]
+}

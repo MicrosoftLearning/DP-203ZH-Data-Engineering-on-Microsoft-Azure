@@ -1,0 +1,33 @@
+{
+  "userId": 9390,
+  "cartId": "11de9708-de87-429e-bdba-b12012eb95f5",
+  "preferredProducts": [
+    1785,
+    1259,
+    4755,
+    1844,
+    4073
+  ],
+  "productReviews": [
+    {
+      "productId": 3456,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-02-04T03:00:24.0532801+02:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-12-11T11:20:04.7471319+02:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-08-16T08:14:05.2586821+03:00"
+    },
+    {
+      "productId": 1232,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-05-22T15:34:45.1626809+03:00"
+    }
+  ]
+}

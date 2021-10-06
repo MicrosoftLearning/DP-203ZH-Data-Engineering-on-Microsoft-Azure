@@ -1,0 +1,37 @@
+{
+  "userId": 1765,
+  "cartId": "a8f4bc6f-1d51-48bb-8544-77f29c218e84",
+  "preferredProducts": [
+    4431,
+    608,
+    2383,
+    3529
+  ],
+  "productReviews": [
+    {
+      "productId": 2494,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-04-29T21:19:08.802013+03:00"
+    },
+    {
+      "productId": 2175,
+      "reviewText": "this Stravenue is papery.",
+      "reviewDate": "2019-12-04T12:27:16.8565834+02:00"
+    },
+    {
+      "productId": 2113,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-06-06T19:29:21.2355927+03:00"
+    },
+    {
+      "productId": 2990,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-10-11T07:39:18.9926412+03:00"
+    },
+    {
+      "productId": 1581,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-01-22T03:32:03.7555886+02:00"
+    }
+  ]
+}

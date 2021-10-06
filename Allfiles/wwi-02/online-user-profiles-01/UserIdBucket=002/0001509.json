@@ -1,0 +1,33 @@
+{
+  "userId": 1509,
+  "cartId": "0d450514-f3e5-40bc-8e25-1765ef19b81f",
+  "preferredProducts": [
+    245,
+    4222,
+    3809,
+    611,
+    2184
+  ],
+  "productReviews": [
+    {
+      "productId": 1890,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-12-15T00:56:25.6342358+02:00"
+    },
+    {
+      "productId": 3354,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2020-01-17T05:22:58.797476+02:00"
+    },
+    {
+      "productId": 3661,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-05-15T15:44:49.2029298+03:00"
+    },
+    {
+      "productId": 4349,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-11-29T08:32:59.5463537+02:00"
+    }
+  ]
+}

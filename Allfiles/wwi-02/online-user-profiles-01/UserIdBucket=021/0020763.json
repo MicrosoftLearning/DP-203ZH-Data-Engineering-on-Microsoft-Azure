@@ -1,0 +1,43 @@
+{
+  "userId": 20763,
+  "cartId": "c9bbe134-77f2-492d-8f22-244d3154a97c",
+  "preferredProducts": [
+    3767,
+    4351,
+    3473,
+    2451,
+    366,
+    482,
+    2334,
+    4487,
+    2178,
+    488
+  ],
+  "productReviews": [
+    {
+      "productId": 1076,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-12-25T17:37:48.4658347+02:00"
+    },
+    {
+      "productId": 2575,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-03-31T10:33:45.6238831+03:00"
+    },
+    {
+      "productId": 3085,
+      "reviewText": "this clicks-and-mortar is ghetto.",
+      "reviewDate": "2017-04-15T08:44:37.4800413+03:00"
+    },
+    {
+      "productId": 2125,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2020-01-24T01:31:28.5970995+02:00"
+    },
+    {
+      "productId": 3007,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-05-16T17:17:04.0576487+03:00"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "userId": 65537,
+  "cartId": "e3ff3a7c-3a80-47d1-a945-c46b58668b1c",
+  "preferredProducts": [
+    3425,
+    3977,
+    2302
+  ],
+  "productReviews": [
+    {
+      "productId": 2573,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-03-18T15:58:49.5075707+02:00"
+    },
+    {
+      "productId": 377,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-08-11T23:13:49.9954709+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 82925,
+  "cartId": "c92e67c8-c7e9-48d0-9950-f9d3818b2906",
+  "preferredProducts": [
+    1566,
+    2431,
+    2685,
+    4477,
+    4374,
+    3660
+  ],
+  "productReviews": [
+    {
+      "productId": 42,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2016-12-13T06:36:02.9802331+02:00"
+    },
+    {
+      "productId": 302,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-10-23T03:12:45.0550915+03:00"
+    },
+    {
+      "productId": 4787,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-02-22T23:57:24.0591193+02:00"
+    }
+  ]
+}

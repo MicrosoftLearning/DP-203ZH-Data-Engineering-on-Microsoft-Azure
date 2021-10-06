@@ -1,0 +1,35 @@
+{
+  "userId": 9253,
+  "cartId": "5a3d7225-70cd-4244-964a-07c036d925e4",
+  "preferredProducts": [
+    1888,
+    1992,
+    716,
+    3984,
+    3934,
+    3288,
+    1540
+  ],
+  "productReviews": [
+    {
+      "productId": 2744,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-02-12T03:03:29.1043952+02:00"
+    },
+    {
+      "productId": 1537,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-07-28T23:54:00.7869042+03:00"
+    },
+    {
+      "productId": 2264,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-04-01T14:47:50.8045896+03:00"
+    },
+    {
+      "productId": 1683,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-03-18T05:25:35.8267847+02:00"
+    }
+  ]
+}

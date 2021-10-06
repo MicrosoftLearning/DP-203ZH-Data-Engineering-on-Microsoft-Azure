@@ -1,0 +1,32 @@
+{
+  "userId": 20258,
+  "cartId": "13250fbf-6e2b-4933-ab44-32d735e92a3a",
+  "preferredProducts": [
+    1998,
+    4258,
+    179,
+    4993
+  ],
+  "productReviews": [
+    {
+      "productId": 4967,
+      "reviewText": "This system works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-01-19T00:22:51.9052114+02:00"
+    },
+    {
+      "productId": 4532,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-11-16T23:26:32.1571101+02:00"
+    },
+    {
+      "productId": 4787,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-10-06T20:01:58.6704714+03:00"
+    },
+    {
+      "productId": 663,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-05-25T03:23:21.968885+03:00"
+    }
+  ]
+}

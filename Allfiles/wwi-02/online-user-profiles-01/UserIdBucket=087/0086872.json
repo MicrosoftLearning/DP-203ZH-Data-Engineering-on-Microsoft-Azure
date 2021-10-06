@@ -1,0 +1,36 @@
+{
+  "userId": 86872,
+  "cartId": "3db6844e-4403-4c16-a176-cb7a129e99b3",
+  "preferredProducts": [
+    1071,
+    4256,
+    1245
+  ],
+  "productReviews": [
+    {
+      "productId": 101,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-10-07T23:23:34.190165+03:00"
+    },
+    {
+      "productId": 4575,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-06-01T03:50:44.4758349+03:00"
+    },
+    {
+      "productId": 4050,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-05-09T16:20:39.3631266+03:00"
+    },
+    {
+      "productId": 3278,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-05-07T09:22:13.5542531+03:00"
+    },
+    {
+      "productId": 4425,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-01-26T20:31:21.4347601+02:00"
+    }
+  ]
+}

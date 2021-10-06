@@ -1,0 +1,28 @@
+{
+  "userId": 76999,
+  "cartId": "9de6daaf-5eb8-487a-834f-7395a685b3db",
+  "preferredProducts": [
+    2364,
+    3093,
+    3395,
+    245,
+    4292
+  ],
+  "productReviews": [
+    {
+      "productId": 3336,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-01-22T03:11:31.5119675+02:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "This violet works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-10-30T10:39:29.7865687+02:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-10-10T13:36:20.2564042+03:00"
+    }
+  ]
+}

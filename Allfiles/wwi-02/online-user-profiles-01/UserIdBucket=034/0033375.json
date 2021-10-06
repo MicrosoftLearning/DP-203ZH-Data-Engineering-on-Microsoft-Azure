@@ -1,0 +1,31 @@
+{
+  "userId": 33375,
+  "cartId": "8518c30d-b3af-4269-b024-dcab7f3706e3",
+  "preferredProducts": [
+    2446,
+    2860,
+    300
+  ],
+  "productReviews": [
+    {
+      "productId": 672,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-10-26T19:53:21.3219396+03:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-10-22T20:05:57.7949774+03:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-07-19T22:17:45.0775076+03:00"
+    },
+    {
+      "productId": 4457,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-08-07T05:12:00.732284+03:00"
+    }
+  ]
+}

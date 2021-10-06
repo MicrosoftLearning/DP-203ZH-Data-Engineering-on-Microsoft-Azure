@@ -1,0 +1,28 @@
+{
+  "userId": 12789,
+  "cartId": "50fdb755-a60e-4c84-93aa-622a5763be56",
+  "preferredProducts": [
+    167,
+    2197,
+    533,
+    383,
+    1500,
+    1904,
+    4111,
+    2742,
+    3886,
+    3629
+  ],
+  "productReviews": [
+    {
+      "productId": 4654,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-08-16T20:24:10.7476034+03:00"
+    },
+    {
+      "productId": 3257,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-03-30T11:16:05.5634649+03:00"
+    }
+  ]
+}

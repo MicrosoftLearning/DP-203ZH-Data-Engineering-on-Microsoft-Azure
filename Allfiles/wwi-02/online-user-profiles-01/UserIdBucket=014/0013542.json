@@ -1,0 +1,32 @@
+{
+  "userId": 13542,
+  "cartId": "b323aec3-6daf-438e-a4db-0e993ab65b1e",
+  "preferredProducts": [
+    1178,
+    610,
+    961,
+    346
+  ],
+  "productReviews": [
+    {
+      "productId": 3496,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-02-18T17:48:36.3011087+02:00"
+    },
+    {
+      "productId": 1327,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-04-23T01:49:52.1390785+03:00"
+    },
+    {
+      "productId": 633,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-08-05T08:29:32.5391776+03:00"
+    },
+    {
+      "productId": 2047,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-11-05T15:49:11.360511+02:00"
+    }
+  ]
+}

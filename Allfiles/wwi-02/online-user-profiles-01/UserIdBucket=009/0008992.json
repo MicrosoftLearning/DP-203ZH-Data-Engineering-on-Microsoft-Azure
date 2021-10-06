@@ -1,0 +1,30 @@
+{
+  "userId": 8992,
+  "cartId": "3a21b321-92b6-4ef1-94a1-11bfaf541c8a",
+  "preferredProducts": [
+    2401,
+    850,
+    3642,
+    3019,
+    1475,
+    1317,
+    1851
+  ],
+  "productReviews": [
+    {
+      "productId": 4756,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-05-26T08:16:12.2083898+03:00"
+    },
+    {
+      "productId": 2671,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-04-19T00:22:53.117607+03:00"
+    },
+    {
+      "productId": 4821,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-09-27T06:49:07.5603798+03:00"
+    }
+  ]
+}

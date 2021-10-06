@@ -1,0 +1,37 @@
+{
+  "userId": 77788,
+  "cartId": "5fcac0c5-c458-41b7-8070-2aceefc7b8d0",
+  "preferredProducts": [
+    3170,
+    4598,
+    3454,
+    2928,
+    4799,
+    672,
+    109,
+    2404,
+    1048
+  ],
+  "productReviews": [
+    {
+      "productId": 1497,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-08-20T14:18:20.1948423+03:00"
+    },
+    {
+      "productId": 337,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-03-15T11:52:47.1285604+02:00"
+    },
+    {
+      "productId": 3643,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-01-08T23:06:37.6853451+02:00"
+    },
+    {
+      "productId": 3681,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-10-02T16:40:01.7145133+03:00"
+    }
+  ]
+}

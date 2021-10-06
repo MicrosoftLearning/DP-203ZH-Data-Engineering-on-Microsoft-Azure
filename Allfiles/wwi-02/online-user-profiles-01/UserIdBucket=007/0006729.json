@@ -1,0 +1,29 @@
+{
+  "userId": 6729,
+  "cartId": "1d2c1e0f-4c61-4c36-8d95-b7780b60c037",
+  "preferredProducts": [
+    4645,
+    3568,
+    1348,
+    2307,
+    2473,
+    4107
+  ],
+  "productReviews": [
+    {
+      "productId": 301,
+      "reviewText": "This interactive, does exactly what it's suppose to do.",
+      "reviewDate": "2018-10-28T20:05:18.6303129+02:00"
+    },
+    {
+      "productId": 2541,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-01-29T02:34:28.230385+02:00"
+    },
+    {
+      "productId": 3434,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-09-15T12:21:03.9848272+03:00"
+    }
+  ]
+}

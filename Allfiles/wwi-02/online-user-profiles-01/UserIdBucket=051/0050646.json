@@ -1,0 +1,33 @@
+{
+  "userId": 50646,
+  "cartId": "b41206fa-a64c-43ba-82b1-8613c627662c",
+  "preferredProducts": [
+    3950,
+    3878,
+    2295,
+    1337,
+    3902,
+    1794,
+    4950,
+    2399,
+    3293,
+    1603
+  ],
+  "productReviews": [
+    {
+      "productId": 4415,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-04-09T16:55:54.4193763+03:00"
+    },
+    {
+      "productId": 2530,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-11-06T04:31:31.0704314+02:00"
+    },
+    {
+      "productId": 2012,
+      "reviewText": "this Technician is revolting.",
+      "reviewDate": "2018-02-05T05:06:54.2594201+02:00"
+    }
+  ]
+}

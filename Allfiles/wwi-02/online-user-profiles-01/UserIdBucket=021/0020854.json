@@ -1,0 +1,37 @@
+{
+  "userId": 20854,
+  "cartId": "db4d1344-5550-45c1-938c-471f5922e406",
+  "preferredProducts": [
+    1574,
+    1167,
+    781,
+    1235
+  ],
+  "productReviews": [
+    {
+      "productId": 2738,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-08-31T00:41:51.5479607+03:00"
+    },
+    {
+      "productId": 3823,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-09-30T11:24:10.3397169+03:00"
+    },
+    {
+      "productId": 2553,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-10-01T13:08:05.5841972+03:00"
+    },
+    {
+      "productId": 4037,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-08-04T04:25:23.6223286+03:00"
+    },
+    {
+      "productId": 1369,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-06-06T09:30:41.5255174+03:00"
+    }
+  ]
+}

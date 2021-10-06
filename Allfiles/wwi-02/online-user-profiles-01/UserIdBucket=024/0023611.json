@@ -1,0 +1,31 @@
+{
+  "userId": 23611,
+  "cartId": "45894984-5871-4657-875a-9a4a7f1e03b9",
+  "preferredProducts": [
+    4087,
+    3191,
+    3655
+  ],
+  "productReviews": [
+    {
+      "productId": 1839,
+      "reviewText": "this solid state is nifty.",
+      "reviewDate": "2016-10-23T10:22:20.7556386+03:00"
+    },
+    {
+      "productId": 2253,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-12-28T14:21:29.9710428+02:00"
+    },
+    {
+      "productId": 4968,
+      "reviewText": "this calculate is hyper.",
+      "reviewDate": "2017-03-12T07:38:18.8966964+02:00"
+    },
+    {
+      "productId": 1952,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-04-05T09:12:12.562101+03:00"
+    }
+  ]
+}

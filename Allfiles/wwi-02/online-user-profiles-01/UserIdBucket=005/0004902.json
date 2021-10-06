@@ -1,0 +1,39 @@
+{
+  "userId": 4902,
+  "cartId": "352ea721-073e-4880-b5c6-25b895ff8bd3",
+  "preferredProducts": [
+    978,
+    4694,
+    2583,
+    2390,
+    2103,
+    3793
+  ],
+  "productReviews": [
+    {
+      "productId": 1431,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-01-17T21:12:30.9322191+02:00"
+    },
+    {
+      "productId": 196,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-11-23T20:28:39.0905094+02:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-11-29T19:35:40.5472252+02:00"
+    },
+    {
+      "productId": 3665,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-04-30T07:50:04.0390443+03:00"
+    },
+    {
+      "productId": 677,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-08-13T22:14:53.0302334+03:00"
+    }
+  ]
+}

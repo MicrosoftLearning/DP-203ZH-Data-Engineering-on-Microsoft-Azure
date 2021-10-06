@@ -1,0 +1,33 @@
+{
+  "userId": 28665,
+  "cartId": "c7ec2a64-4697-408e-8080-1cc84831e709",
+  "preferredProducts": [
+    1650,
+    1935,
+    1087,
+    1217,
+    1585
+  ],
+  "productReviews": [
+    {
+      "productId": 1802,
+      "reviewText": "this solid state is snowy.",
+      "reviewDate": "2020-03-17T09:41:02.2900293+02:00"
+    },
+    {
+      "productId": 3501,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-01-06T08:12:48.5145323+02:00"
+    },
+    {
+      "productId": 2457,
+      "reviewText": "This CSS works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-12-21T04:11:30.8603277+02:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-01-04T11:22:33.7837109+02:00"
+    }
+  ]
+}

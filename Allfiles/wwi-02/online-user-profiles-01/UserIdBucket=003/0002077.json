@@ -1,0 +1,31 @@
+{
+  "userId": 2077,
+  "cartId": "1dc29a91-3808-4fe8-ac6a-d1a0d8983f43",
+  "preferredProducts": [
+    2495,
+    3547,
+    2063,
+    3292,
+    1584,
+    1520,
+    4750,
+    1942
+  ],
+  "productReviews": [
+    {
+      "productId": 1369,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-02-26T10:55:16.446546+02:00"
+    },
+    {
+      "productId": 2614,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-02-15T20:52:00.3002492+02:00"
+    },
+    {
+      "productId": 2102,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-08-12T20:09:28.2128708+03:00"
+    }
+  ]
+}

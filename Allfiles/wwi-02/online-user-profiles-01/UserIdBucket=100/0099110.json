@@ -1,0 +1,38 @@
+{
+  "userId": 99110,
+  "cartId": "68b6ef65-14cd-41a5-b196-de866a23c27f",
+  "preferredProducts": [
+    1789,
+    3918,
+    3934,
+    4689,
+    3778
+  ],
+  "productReviews": [
+    {
+      "productId": 324,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-05-23T20:29:56.395085+03:00"
+    },
+    {
+      "productId": 1858,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-02-26T05:12:11.638544+02:00"
+    },
+    {
+      "productId": 3453,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-11-23T21:23:38.8581286+02:00"
+    },
+    {
+      "productId": 460,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2016-07-04T12:41:39.2144783+03:00"
+    },
+    {
+      "productId": 263,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-07-24T17:43:57.3470893+03:00"
+    }
+  ]
+}

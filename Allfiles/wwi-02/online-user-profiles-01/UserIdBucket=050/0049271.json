@@ -1,0 +1,29 @@
+{
+  "userId": 49271,
+  "cartId": "b85c1bd3-d525-43e1-a791-608d05108052",
+  "preferredProducts": [
+    2916,
+    360,
+    818,
+    562,
+    3812,
+    2820
+  ],
+  "productReviews": [
+    {
+      "productId": 1896,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-06-24T09:08:51.5403025+03:00"
+    },
+    {
+      "productId": 2331,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-10-02T06:52:06.8349852+03:00"
+    },
+    {
+      "productId": 4967,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2020-01-09T17:21:16.6610315+02:00"
+    }
+  ]
+}

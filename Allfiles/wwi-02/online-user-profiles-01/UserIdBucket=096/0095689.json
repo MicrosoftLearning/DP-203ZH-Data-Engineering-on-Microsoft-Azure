@@ -1,0 +1,27 @@
+{
+  "userId": 95689,
+  "cartId": "763af76b-0cc9-4d7f-be03-fac14fbe40ad",
+  "preferredProducts": [
+    2395,
+    2349,
+    2094,
+    3733
+  ],
+  "productReviews": [
+    {
+      "productId": 2060,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-12-09T20:37:38.5249223+02:00"
+    },
+    {
+      "productId": 250,
+      "reviewText": "This Global works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-12-13T12:45:40.763713+02:00"
+    },
+    {
+      "productId": 739,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-07-10T23:00:58.9218546+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 15600,
+  "cartId": "4080a662-b021-4de9-9638-ae712453ad01",
+  "preferredProducts": [
+    1821,
+    4193,
+    3106
+  ],
+  "productReviews": [
+    {
+      "productId": 398,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-02T20:49:07.1012649+02:00"
+    },
+    {
+      "productId": 3628,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-08-11T07:10:28.6555816+03:00"
+    },
+    {
+      "productId": 606,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-03-07T04:31:32.956268+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 69582,
+  "cartId": "a9a2974d-8347-4561-b910-63765555ebf6",
+  "preferredProducts": [
+    3357,
+    949,
+    572,
+    3782
+  ],
+  "productReviews": [
+    {
+      "productId": 4806,
+      "reviewText": "this Awesome Plastic Cheese is ratty.",
+      "reviewDate": "2017-01-20T14:54:59.7381806+02:00"
+    },
+    {
+      "productId": 2657,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-09-05T10:42:39.0157279+03:00"
+    },
+    {
+      "productId": 4622,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2018-03-07T16:56:35.1020148+02:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-06-04T21:17:28.4596691+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 38178,
+  "cartId": "8a026b88-c2ea-44b0-b9c4-cbbc5a086db8",
+  "preferredProducts": [
+    1249,
+    2451,
+    1626,
+    1361
+  ],
+  "productReviews": [
+    {
+      "productId": 596,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-02-02T18:13:16.5102376+02:00"
+    },
+    {
+      "productId": 1058,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-04-09T07:09:20.5031306+03:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-11-05T14:01:30.9242666+02:00"
+    },
+    {
+      "productId": 2235,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-05-14T15:49:07.8623334+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 11641,
+  "cartId": "f6671a9e-d7f0-4a86-bc4b-ee7b3120e4ab",
+  "preferredProducts": [
+    1505,
+    2142,
+    4215,
+    2700,
+    4011,
+    4264,
+    102,
+    2116,
+    4748,
+    1463
+  ],
+  "productReviews": [
+    {
+      "productId": 3204,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-06-17T06:58:32.9155974+03:00"
+    },
+    {
+      "productId": 189,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-12-07T17:11:57.6353868+02:00"
+    }
+  ]
+}

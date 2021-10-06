@@ -1,0 +1,30 @@
+{
+  "userId": 84984,
+  "cartId": "6d27eca3-c709-41d4-b202-9afc055481c5",
+  "preferredProducts": [
+    1800,
+    3388,
+    3970,
+    903,
+    4413,
+    3805,
+    1858
+  ],
+  "productReviews": [
+    {
+      "productId": 1739,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-01-18T17:01:37.7413348+02:00"
+    },
+    {
+      "productId": 3835,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-11-23T01:23:33.2396484+02:00"
+    },
+    {
+      "productId": 2823,
+      "reviewText": "this copying is nifty.",
+      "reviewDate": "2019-06-23T10:53:34.8528749+03:00"
+    }
+  ]
+}

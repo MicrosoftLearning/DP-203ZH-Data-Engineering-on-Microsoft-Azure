@@ -1,0 +1,31 @@
+{
+  "userId": 55347,
+  "cartId": "dfa29afe-72ad-4605-bd84-353ee7bf8c95",
+  "preferredProducts": [
+    3679,
+    1550,
+    1585,
+    3300,
+    4604,
+    379,
+    639,
+    737
+  ],
+  "productReviews": [
+    {
+      "productId": 4343,
+      "reviewText": "This bus works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-03-11T17:48:03.3570587+02:00"
+    },
+    {
+      "productId": 4346,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-11-11T14:54:13.5488217+02:00"
+    },
+    {
+      "productId": 3927,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-08-06T04:00:48.812481+03:00"
+    }
+  ]
+}

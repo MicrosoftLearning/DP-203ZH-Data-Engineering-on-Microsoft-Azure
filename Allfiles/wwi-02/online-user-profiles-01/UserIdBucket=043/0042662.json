@@ -1,0 +1,39 @@
+{
+  "userId": 42662,
+  "cartId": "4c9b5a59-b451-4ead-b264-3ab0893e09f0",
+  "preferredProducts": [
+    4077,
+    3150,
+    2118,
+    2836,
+    1602,
+    2845
+  ],
+  "productReviews": [
+    {
+      "productId": 1387,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-04-25T18:04:08.1276176+03:00"
+    },
+    {
+      "productId": 1069,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-07-25T07:02:19.994024+03:00"
+    },
+    {
+      "productId": 4670,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-02-04T06:30:07.3478337+02:00"
+    },
+    {
+      "productId": 2045,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-20T21:06:51.2696986+02:00"
+    },
+    {
+      "productId": 4772,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-07-28T16:43:07.0432754+03:00"
+    }
+  ]
+}

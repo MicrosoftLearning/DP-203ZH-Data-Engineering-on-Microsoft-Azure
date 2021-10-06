@@ -1,0 +1,33 @@
+{
+  "userId": 60425,
+  "cartId": "5cb6cc84-4572-45bd-abdc-22773c642274",
+  "preferredProducts": [
+    1917,
+    2531,
+    141,
+    4708,
+    3660,
+    675,
+    1773,
+    1625,
+    3655,
+    3665
+  ],
+  "productReviews": [
+    {
+      "productId": 1713,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-11-25T01:07:08.9651208+02:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-08-29T06:55:32.0021566+03:00"
+    },
+    {
+      "productId": 587,
+      "reviewText": "This HDD works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2020-04-29T08:06:30.5594331+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 217,
+  "cartId": "31e5d246-d45c-4f73-9d5b-af4682abcfc0",
+  "preferredProducts": [
+    182,
+    4045,
+    219,
+    162,
+    1083
+  ],
+  "productReviews": [
+    {
+      "productId": 1513,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-08-01T21:22:29.646184+03:00"
+    },
+    {
+      "productId": 4240,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-09-24T09:32:39.4371089+03:00"
+    },
+    {
+      "productId": 4339,
+      "reviewText": "this yellow is complimentary.",
+      "reviewDate": "2016-07-31T14:56:14.7276676+03:00"
+    },
+    {
+      "productId": 2842,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-01-08T00:53:14.4719222+02:00"
+    }
+  ]
+}

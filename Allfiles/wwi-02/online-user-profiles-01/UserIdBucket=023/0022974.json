@@ -1,0 +1,40 @@
+{
+  "userId": 22974,
+  "cartId": "faa99efc-c10a-46b3-867d-212cdc957549",
+  "preferredProducts": [
+    1880,
+    4433,
+    675,
+    2977,
+    3093,
+    625,
+    298
+  ],
+  "productReviews": [
+    {
+      "productId": 4218,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-04-06T08:59:04.2400326+03:00"
+    },
+    {
+      "productId": 678,
+      "reviewText": "this Handcrafted is honest.",
+      "reviewDate": "2016-08-24T21:22:29.583717+03:00"
+    },
+    {
+      "productId": 2265,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-09-03T12:25:26.5961829+03:00"
+    },
+    {
+      "productId": 2291,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-11-03T07:50:11.2227128+02:00"
+    },
+    {
+      "productId": 484,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-07-11T04:21:44.5262335+03:00"
+    }
+  ]
+}

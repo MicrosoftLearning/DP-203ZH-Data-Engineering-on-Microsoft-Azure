@@ -1,0 +1,40 @@
+{
+  "userId": 80554,
+  "cartId": "f08e2cde-3dc7-42d5-b747-c3153a2a79fd",
+  "preferredProducts": [
+    1752,
+    3210,
+    2404,
+    921,
+    3682,
+    4872,
+    1290
+  ],
+  "productReviews": [
+    {
+      "productId": 1799,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-03-27T00:11:12.0770312+03:00"
+    },
+    {
+      "productId": 2878,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-01-05T18:31:49.626504+02:00"
+    },
+    {
+      "productId": 1213,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-05-19T04:57:55.8664167+03:00"
+    },
+    {
+      "productId": 2569,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-07-06T17:02:51.7405141+03:00"
+    },
+    {
+      "productId": 2304,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-10-16T00:20:54.870026+03:00"
+    }
+  ]
+}

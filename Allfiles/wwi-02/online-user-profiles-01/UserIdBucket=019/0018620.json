@@ -1,0 +1,35 @@
+{
+  "userId": 18620,
+  "cartId": "db77c5a9-6d8c-48d5-8273-2f4898df8cdb",
+  "preferredProducts": [
+    290,
+    3644,
+    4041,
+    1468,
+    2090,
+    4271,
+    3576
+  ],
+  "productReviews": [
+    {
+      "productId": 4114,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-02-07T10:45:19.2303231+02:00"
+    },
+    {
+      "productId": 2962,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-11-30T05:48:43.1402096+02:00"
+    },
+    {
+      "productId": 3847,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-03-07T17:34:40.3446337+02:00"
+    },
+    {
+      "productId": 903,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-12-25T01:51:00.6645555+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 99693,
+  "cartId": "1747d2fd-b676-4d7f-90e1-ea60bf2fb955",
+  "preferredProducts": [
+    4712,
+    4818,
+    1373,
+    4939,
+    4989,
+    667,
+    3102
+  ],
+  "productReviews": [
+    {
+      "productId": 2400,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-08-30T22:03:04.9017312+03:00"
+    },
+    {
+      "productId": 3818,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-01-17T02:40:42.0312449+02:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-02-13T13:23:22.0306446+02:00"
+    }
+  ]
+}

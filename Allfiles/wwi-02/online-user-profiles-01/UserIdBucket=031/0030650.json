@@ -1,0 +1,36 @@
+{
+  "userId": 30650,
+  "cartId": "9fd75e60-ddbd-456b-af98-14cceeb4180c",
+  "preferredProducts": [
+    685,
+    2077,
+    2869,
+    313,
+    4978,
+    359,
+    2263,
+    408
+  ],
+  "productReviews": [
+    {
+      "productId": 3750,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-09-07T15:31:21.91544+03:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-10-19T02:58:50.5774307+03:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-06-30T19:22:40.5265621+03:00"
+    },
+    {
+      "productId": 2208,
+      "reviewText": "this lime is revolting.",
+      "reviewDate": "2017-04-04T01:04:25.8326939+03:00"
+    }
+  ]
+}

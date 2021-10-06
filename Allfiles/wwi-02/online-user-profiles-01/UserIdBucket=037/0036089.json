@@ -1,0 +1,37 @@
+{
+  "userId": 36089,
+  "cartId": "27da5457-3e24-43b5-9859-ac285a19c2cc",
+  "preferredProducts": [
+    1983,
+    2175,
+    1771,
+    1867,
+    3204,
+    3624,
+    1538,
+    4513,
+    191
+  ],
+  "productReviews": [
+    {
+      "productId": 4400,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-01-16T18:57:25.8692818+02:00"
+    },
+    {
+      "productId": 1587,
+      "reviewText": "This engineer works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-07-11T04:31:56.3583004+03:00"
+    },
+    {
+      "productId": 2959,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-10-08T09:40:34.682693+03:00"
+    },
+    {
+      "productId": 4225,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-07-27T20:25:20.1901206+03:00"
+    }
+  ]
+}

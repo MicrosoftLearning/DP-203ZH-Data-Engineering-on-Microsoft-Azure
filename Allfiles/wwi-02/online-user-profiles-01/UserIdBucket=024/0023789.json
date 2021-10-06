@@ -1,0 +1,27 @@
+{
+  "userId": 23789,
+  "cartId": "88b3f410-d5f9-43ec-a76c-a11af1fa0100",
+  "preferredProducts": [
+    2050,
+    623,
+    3556,
+    4538
+  ],
+  "productReviews": [
+    {
+      "productId": 2737,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-03-01T19:09:10.5690595+02:00"
+    },
+    {
+      "productId": 132,
+      "reviewText": "this Orchestrator is light-hearted.",
+      "reviewDate": "2016-12-16T20:48:19.5187375+02:00"
+    },
+    {
+      "productId": 3349,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-08-14T19:44:01.6057279+03:00"
+    }
+  ]
+}

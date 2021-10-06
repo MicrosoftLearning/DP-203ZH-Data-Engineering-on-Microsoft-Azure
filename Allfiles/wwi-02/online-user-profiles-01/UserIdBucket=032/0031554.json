@@ -1,0 +1,31 @@
+{
+  "userId": 31554,
+  "cartId": "bc26047e-d825-4d0e-9838-f5fea61a4aee",
+  "preferredProducts": [
+    450,
+    3815,
+    4279,
+    4618,
+    2473,
+    1580,
+    1946,
+    4916
+  ],
+  "productReviews": [
+    {
+      "productId": 505,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-03-31T12:30:50.5341081+03:00"
+    },
+    {
+      "productId": 3343,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-03-11T04:31:20.4372941+02:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-11-02T02:45:04.1257925+02:00"
+    }
+  ]
+}

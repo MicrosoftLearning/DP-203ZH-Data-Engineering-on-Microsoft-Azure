@@ -1,0 +1,27 @@
+{
+  "userId": 22223,
+  "cartId": "71bd7f4b-fb9c-4b24-ade7-feaea83e2f5f",
+  "preferredProducts": [
+    3144,
+    4112,
+    3961,
+    111
+  ],
+  "productReviews": [
+    {
+      "productId": 1057,
+      "reviewText": "this interfaces is brown.",
+      "reviewDate": "2019-08-11T13:03:41.880628+03:00"
+    },
+    {
+      "productId": 1736,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-03-03T13:20:42.1624952+02:00"
+    },
+    {
+      "productId": 3641,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-05-12T20:09:10.7743747+03:00"
+    }
+  ]
+}

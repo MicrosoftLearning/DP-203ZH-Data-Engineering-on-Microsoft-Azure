@@ -1,0 +1,31 @@
+{
+  "userId": 42332,
+  "cartId": "8fec9af2-61b7-47b2-9f7e-f89800faf33f",
+  "preferredProducts": [
+    943,
+    560,
+    4425
+  ],
+  "productReviews": [
+    {
+      "productId": 4758,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-07-22T04:44:19.0235617+03:00"
+    },
+    {
+      "productId": 4261,
+      "reviewText": "this Producer is top-notch.",
+      "reviewDate": "2019-12-21T01:26:20.5167734+02:00"
+    },
+    {
+      "productId": 4992,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-08-30T16:06:11.4169085+03:00"
+    },
+    {
+      "productId": 815,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-10-26T16:32:54.9994457+03:00"
+    }
+  ]
+}

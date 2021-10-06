@@ -1,0 +1,36 @@
+{
+  "userId": 96839,
+  "cartId": "b440f621-4cc2-4e38-b829-d17dfb118f60",
+  "preferredProducts": [
+    113,
+    3499,
+    177
+  ],
+  "productReviews": [
+    {
+      "productId": 1499,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-05-14T00:18:56.7886833+03:00"
+    },
+    {
+      "productId": 1857,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-10-29T13:22:13.6528488+02:00"
+    },
+    {
+      "productId": 2617,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-09-25T20:54:38.2592012+03:00"
+    },
+    {
+      "productId": 233,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-12-21T16:35:33.2988147+02:00"
+    },
+    {
+      "productId": 1185,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-08-27T08:04:01.6874055+03:00"
+    }
+  ]
+}

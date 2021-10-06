@@ -1,0 +1,25 @@
+{
+  "userId": 21077,
+  "cartId": "07ec78a0-c5c9-4aed-b756-c2717ad6c41a",
+  "preferredProducts": [
+    989,
+    1012,
+    4850,
+    2017,
+    269,
+    2231,
+    3941
+  ],
+  "productReviews": [
+    {
+      "productId": 4101,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-12-19T20:58:43.4879968+02:00"
+    },
+    {
+      "productId": 4956,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-04-26T15:59:24.2628997+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 12915,
+  "cartId": "74c849fc-27f2-457b-ac54-3068abd9f573",
+  "preferredProducts": [
+    175,
+    18,
+    2102,
+    442
+  ],
+  "productReviews": [
+    {
+      "productId": 1676,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-11-03T21:24:07.7733661+02:00"
+    },
+    {
+      "productId": 3319,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-07-21T05:32:18.6576633+03:00"
+    },
+    {
+      "productId": 1882,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-10-27T23:39:08.2199125+03:00"
+    },
+    {
+      "productId": 510,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-06-19T22:57:30.9047542+03:00"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "userId": 21996,
+  "cartId": "4d14de28-0756-45c6-9f20-364ca4cb87ed",
+  "preferredProducts": [
+    4075,
+    2613,
+    2107,
+    2000
+  ],
+  "productReviews": [
+    {
+      "productId": 2525,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-02-10T16:23:03.4446143+02:00"
+    },
+    {
+      "productId": 3610,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-04-20T11:00:17.8824198+03:00"
+    }
+  ]
+}

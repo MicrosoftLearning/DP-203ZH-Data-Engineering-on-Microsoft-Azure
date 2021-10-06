@@ -1,0 +1,35 @@
+{
+  "userId": 30589,
+  "cartId": "51b02c6f-314c-43f4-b664-55ae439b7710",
+  "preferredProducts": [
+    68,
+    4296
+  ],
+  "productReviews": [
+    {
+      "productId": 943,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-01-23T05:32:52.8523284+02:00"
+    },
+    {
+      "productId": 3105,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-05-01T07:55:11.172553+03:00"
+    },
+    {
+      "productId": 1094,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-11-24T15:47:28.9638249+02:00"
+    },
+    {
+      "productId": 4154,
+      "reviewText": "This Fresh works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-02-07T04:18:30.4421846+02:00"
+    },
+    {
+      "productId": 4042,
+      "reviewText": "this Dynamic is papery.",
+      "reviewDate": "2018-04-23T14:25:18.2127016+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 56886,
+  "cartId": "1c540da7-413b-4bff-a788-aca10d5cc02e",
+  "preferredProducts": [
+    2219,
+    1175,
+    4139,
+    3973,
+    3944,
+    2963,
+    3516
+  ],
+  "productReviews": [
+    {
+      "productId": 4890,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-11-20T03:27:31.4538128+02:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Licensed keeps them away.",
+      "reviewDate": "2020-05-03T08:55:54.9724757+03:00"
+    },
+    {
+      "productId": 1231,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-09-14T07:27:48.3574999+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 97915,
+  "cartId": "98a2e855-78a5-4455-9c04-627f174b424d",
+  "preferredProducts": [
+    528,
+    4394,
+    2774,
+    3126
+  ],
+  "productReviews": [
+    {
+      "productId": 17,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-11-15T16:25:10.0570838+02:00"
+    },
+    {
+      "productId": 3564,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-03-30T03:33:51.7901218+03:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "This Colorado works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-06-16T05:24:26.5357951+03:00"
+    }
+  ]
+}

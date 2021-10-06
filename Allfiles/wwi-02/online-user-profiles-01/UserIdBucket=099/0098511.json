@@ -1,0 +1,29 @@
+{
+  "userId": 98511,
+  "cartId": "459e8986-f63d-46a9-bc50-ed7be79da34c",
+  "preferredProducts": [
+    2592,
+    223,
+    560,
+    3333,
+    4151,
+    1564
+  ],
+  "productReviews": [
+    {
+      "productId": 274,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-04-16T06:35:45.3067462+03:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-03-11T13:19:49.5115832+02:00"
+    },
+    {
+      "productId": 1615,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-10-17T09:19:12.2349501+03:00"
+    }
+  ]
+}

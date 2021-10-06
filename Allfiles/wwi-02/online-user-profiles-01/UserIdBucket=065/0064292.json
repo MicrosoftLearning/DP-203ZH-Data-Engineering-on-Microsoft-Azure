@@ -1,0 +1,33 @@
+{
+  "userId": 64292,
+  "cartId": "b077f8eb-5873-45e5-8156-0f3cb0e6f626",
+  "preferredProducts": [
+    1845,
+    4040,
+    4266,
+    2543,
+    2764
+  ],
+  "productReviews": [
+    {
+      "productId": 1530,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-05-22T03:57:09.4597555+03:00"
+    },
+    {
+      "productId": 3333,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-12-23T04:14:14.0204127+02:00"
+    },
+    {
+      "productId": 1692,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-02-18T20:07:05.5379869+02:00"
+    },
+    {
+      "productId": 4792,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-04-21T15:36:54.1676973+03:00"
+    }
+  ]
+}

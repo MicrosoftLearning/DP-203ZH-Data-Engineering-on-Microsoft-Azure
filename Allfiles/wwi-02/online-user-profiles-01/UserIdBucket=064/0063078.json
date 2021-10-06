@@ -1,0 +1,32 @@
+{
+  "userId": 63078,
+  "cartId": "1e8c4fe5-5701-4541-8f92-56ea4579d8d9",
+  "preferredProducts": [
+    4652,
+    2152,
+    1214,
+    810
+  ],
+  "productReviews": [
+    {
+      "productId": 2214,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-10-28T11:55:51.1940425+03:00"
+    },
+    {
+      "productId": 1466,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-08-20T02:51:52.1606125+03:00"
+    },
+    {
+      "productId": 2883,
+      "reviewText": "this Web is awesome.",
+      "reviewDate": "2020-04-26T02:41:08.0592206+03:00"
+    },
+    {
+      "productId": 1294,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-01-18T00:01:08.9891784+02:00"
+    }
+  ]
+}

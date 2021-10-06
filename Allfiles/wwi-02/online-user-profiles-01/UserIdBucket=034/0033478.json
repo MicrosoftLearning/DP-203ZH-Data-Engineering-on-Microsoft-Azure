@@ -1,0 +1,31 @@
+{
+  "userId": 33478,
+  "cartId": "a7ffe957-34f0-4e41-b5f5-79537531d703",
+  "preferredProducts": [
+    3441,
+    3860,
+    3879,
+    2760,
+    388,
+    1472,
+    2802,
+    4678
+  ],
+  "productReviews": [
+    {
+      "productId": 3087,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-12-27T02:33:23.1884657+02:00"
+    },
+    {
+      "productId": 1747,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-04T13:07:32.4207382+02:00"
+    },
+    {
+      "productId": 4493,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-11-24T02:09:07.0418423+02:00"
+    }
+  ]
+}

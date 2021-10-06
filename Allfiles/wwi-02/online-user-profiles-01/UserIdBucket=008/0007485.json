@@ -1,0 +1,24 @@
+{
+  "userId": 7485,
+  "cartId": "3e64b287-7351-4308-acb9-0bf8c44f575d",
+  "preferredProducts": [
+    91
+  ],
+  "productReviews": [
+    {
+      "productId": 4380,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-11-02T07:43:21.4855568+02:00"
+    },
+    {
+      "productId": 4055,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-03-08T02:40:22.0834997+02:00"
+    },
+    {
+      "productId": 2824,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-02-11T01:41:14.0018038+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 41667,
+  "cartId": "8e57a65c-5e2e-4840-ba35-d9f4547b0c67",
+  "preferredProducts": [
+    4682,
+    2093,
+    2376,
+    886,
+    858,
+    3630
+  ],
+  "productReviews": [
+    {
+      "productId": 2909,
+      "reviewText": "this maroon is hyper.",
+      "reviewDate": "2019-03-04T14:46:07.8523087+02:00"
+    },
+    {
+      "productId": 1624,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-10-20T14:20:32.6673234+03:00"
+    }
+  ]
+}

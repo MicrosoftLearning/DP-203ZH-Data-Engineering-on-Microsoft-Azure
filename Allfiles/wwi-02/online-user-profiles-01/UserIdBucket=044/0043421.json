@@ -1,0 +1,30 @@
+{
+  "userId": 43421,
+  "cartId": "cd3052d8-4e32-437b-ac27-43cc65c89ddc",
+  "preferredProducts": [
+    2010,
+    4400
+  ],
+  "productReviews": [
+    {
+      "productId": 2097,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-07-03T22:55:09.6882218+03:00"
+    },
+    {
+      "productId": 325,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-09-09T10:01:29.5747175+03:00"
+    },
+    {
+      "productId": 648,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-07-14T10:55:37.8238508+03:00"
+    },
+    {
+      "productId": 134,
+      "reviewText": "this tertiary is papery.",
+      "reviewDate": "2018-10-15T22:08:24.3681096+03:00"
+    }
+  ]
+}

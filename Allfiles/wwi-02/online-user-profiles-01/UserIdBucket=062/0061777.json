@@ -1,0 +1,42 @@
+{
+  "userId": 61777,
+  "cartId": "a5acdc61-85a5-45de-a17d-0779d86a8ad8",
+  "preferredProducts": [
+    2236,
+    3790,
+    3651,
+    2318,
+    2637,
+    766,
+    3736,
+    4493,
+    4810
+  ],
+  "productReviews": [
+    {
+      "productId": 370,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-06-02T13:27:22.826884+03:00"
+    },
+    {
+      "productId": 4279,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-08-04T13:14:28.6080445+03:00"
+    },
+    {
+      "productId": 4398,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-07-03T17:43:25.3593142+03:00"
+    },
+    {
+      "productId": 2920,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-05-01T23:31:12.3728781+03:00"
+    },
+    {
+      "productId": 82,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-05-11T19:33:45.3514185+03:00"
+    }
+  ]
+}

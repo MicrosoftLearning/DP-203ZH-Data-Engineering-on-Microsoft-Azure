@@ -1,0 +1,30 @@
+{
+  "userId": 91950,
+  "cartId": "309d2c19-6ba8-443b-ae2a-a95165a562a1",
+  "preferredProducts": [
+    556,
+    3449,
+    1029,
+    761,
+    209,
+    4397,
+    2333
+  ],
+  "productReviews": [
+    {
+      "productId": 2929,
+      "reviewText": "this systems is brown.",
+      "reviewDate": "2019-04-14T12:15:08.2915621+03:00"
+    },
+    {
+      "productId": 1773,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-04-06T04:44:01.3193215+03:00"
+    },
+    {
+      "productId": 2347,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-12-19T18:44:57.3907554+02:00"
+    }
+  ]
+}

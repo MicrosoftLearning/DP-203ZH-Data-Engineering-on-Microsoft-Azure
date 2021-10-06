@@ -1,0 +1,27 @@
+{
+  "userId": 8133,
+  "cartId": "31b3a402-7e01-4b50-b903-10900b1361f3",
+  "preferredProducts": [
+    1243,
+    655,
+    4003,
+    1783
+  ],
+  "productReviews": [
+    {
+      "productId": 4545,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2016-10-17T17:09:33.4663535+03:00"
+    },
+    {
+      "productId": 2554,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-01-30T15:41:30.7147782+02:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-01-13T05:08:46.2571976+02:00"
+    }
+  ]
+}

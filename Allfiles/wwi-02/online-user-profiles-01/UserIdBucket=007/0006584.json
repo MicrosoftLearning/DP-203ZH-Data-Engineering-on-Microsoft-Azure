@@ -1,0 +1,25 @@
+{
+  "userId": 6584,
+  "cartId": "d3def28f-e8a8-4e24-a4fc-85186c5ae602",
+  "preferredProducts": [
+    1458,
+    1683,
+    2247,
+    751,
+    4063,
+    3106,
+    423
+  ],
+  "productReviews": [
+    {
+      "productId": 2489,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-10-25T07:10:50.8941901+03:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-06-05T22:39:22.2978968+03:00"
+    }
+  ]
+}

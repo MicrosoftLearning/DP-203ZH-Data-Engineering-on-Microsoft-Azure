@@ -1,0 +1,37 @@
+{
+  "userId": 31415,
+  "cartId": "60b824c9-71db-4c53-bb01-4c33ccf0725a",
+  "preferredProducts": [
+    3262,
+    245,
+    4429,
+    4069,
+    4051,
+    1960,
+    1336,
+    1576,
+    1163
+  ],
+  "productReviews": [
+    {
+      "productId": 962,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-08-03T08:29:01.7225963+03:00"
+    },
+    {
+      "productId": 2492,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-09-30T17:06:54.0187007+03:00"
+    },
+    {
+      "productId": 703,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-10-08T16:31:53.2827627+03:00"
+    },
+    {
+      "productId": 4898,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-01-31T17:15:25.2201587+02:00"
+    }
+  ]
+}

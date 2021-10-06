@@ -1,0 +1,29 @@
+{
+  "userId": 1305,
+  "cartId": "b750dee9-0d31-4c68-a087-75a5908f957e",
+  "preferredProducts": [
+    2336,
+    255,
+    871,
+    1731,
+    1685,
+    4823
+  ],
+  "productReviews": [
+    {
+      "productId": 3371,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-01-05T13:05:21.8934033+02:00"
+    },
+    {
+      "productId": 3265,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-09-23T03:19:24.0551664+03:00"
+    },
+    {
+      "productId": 1260,
+      "reviewText": "this Point is smooth.",
+      "reviewDate": "2017-09-11T16:46:47.3910697+03:00"
+    }
+  ]
+}

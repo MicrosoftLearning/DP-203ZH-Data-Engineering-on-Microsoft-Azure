@@ -1,0 +1,27 @@
+{
+  "userId": 57114,
+  "cartId": "f88fff06-f327-44ed-8540-54299b8a6eea",
+  "preferredProducts": [
+    2880,
+    869,
+    799,
+    3190,
+    2654,
+    865,
+    482,
+    111,
+    2739
+  ],
+  "productReviews": [
+    {
+      "productId": 1295,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-05-01T16:31:45.92412+03:00"
+    },
+    {
+      "productId": 500,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-12-16T16:37:42.4481824+02:00"
+    }
+  ]
+}

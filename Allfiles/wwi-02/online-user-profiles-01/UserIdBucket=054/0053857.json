@@ -1,0 +1,31 @@
+{
+  "userId": 53857,
+  "cartId": "364b8401-f93d-4da7-88ed-89e082474987",
+  "preferredProducts": [
+    2152,
+    887,
+    2684,
+    1993,
+    1013,
+    313,
+    2047,
+    1726
+  ],
+  "productReviews": [
+    {
+      "productId": 4120,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-05-31T11:10:40.0805089+03:00"
+    },
+    {
+      "productId": 3581,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-07-22T12:17:48.4737279+03:00"
+    },
+    {
+      "productId": 1918,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-05-08T13:14:32.4955828+03:00"
+    }
+  ]
+}

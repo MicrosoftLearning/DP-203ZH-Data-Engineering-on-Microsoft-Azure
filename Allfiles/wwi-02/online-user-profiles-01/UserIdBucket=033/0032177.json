@@ -1,0 +1,22 @@
+{
+  "userId": 32177,
+  "cartId": "2b42e6b1-0ba7-4a72-88e0-c149e25fa353",
+  "preferredProducts": [
+    3444,
+    3971,
+    801,
+    2381
+  ],
+  "productReviews": [
+    {
+      "productId": 647,
+      "reviewText": "this database is vertical.",
+      "reviewDate": "2017-09-11T09:02:13.4618322+03:00"
+    },
+    {
+      "productId": 670,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-10-08T21:16:12.7120831+03:00"
+    }
+  ]
+}

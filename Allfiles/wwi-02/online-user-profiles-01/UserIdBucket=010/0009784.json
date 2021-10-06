@@ -1,0 +1,40 @@
+{
+  "userId": 9784,
+  "cartId": "43c3f4a5-bf7a-4000-8117-3773ce02aed5",
+  "preferredProducts": [
+    3002,
+    4434,
+    4543,
+    4567,
+    2362,
+    557,
+    2444
+  ],
+  "productReviews": [
+    {
+      "productId": 4725,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-05-11T21:24:44.1727721+03:00"
+    },
+    {
+      "productId": 3129,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-08-06T05:05:06.8536644+03:00"
+    },
+    {
+      "productId": 1175,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-07-27T19:31:26.2182632+03:00"
+    },
+    {
+      "productId": 1864,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-12-29T20:14:02.2480963+02:00"
+    },
+    {
+      "productId": 2442,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-03-17T17:11:53.5773766+02:00"
+    }
+  ]
+}

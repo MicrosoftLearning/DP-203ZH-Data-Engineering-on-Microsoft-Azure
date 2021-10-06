@@ -1,0 +1,39 @@
+{
+  "userId": 2178,
+  "cartId": "38f9faf4-6363-4561-a9c4-81fcc23f86e0",
+  "preferredProducts": [
+    4651,
+    2207,
+    1257,
+    1484,
+    4386,
+    2920
+  ],
+  "productReviews": [
+    {
+      "productId": 1927,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-10-31T20:16:39.1644884+02:00"
+    },
+    {
+      "productId": 4242,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-07-30T20:27:49.1726109+03:00"
+    },
+    {
+      "productId": 279,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-03-05T01:24:59.8264026+02:00"
+    },
+    {
+      "productId": 1515,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-05-23T16:14:19.194301+03:00"
+    },
+    {
+      "productId": 627,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-09-07T15:18:25.1178512+03:00"
+    }
+  ]
+}

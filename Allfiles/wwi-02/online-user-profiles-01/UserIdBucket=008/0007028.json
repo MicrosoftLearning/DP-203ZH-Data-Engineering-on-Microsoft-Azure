@@ -1,0 +1,34 @@
+{
+  "userId": 7028,
+  "cartId": "32ebe567-870b-4d34-ad50-186113668a01",
+  "preferredProducts": [
+    783,
+    3868,
+    3748,
+    161,
+    1152,
+    958
+  ],
+  "productReviews": [
+    {
+      "productId": 3619,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-02-09T12:28:27.1149073+02:00"
+    },
+    {
+      "productId": 786,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-11-24T00:25:59.0366402+02:00"
+    },
+    {
+      "productId": 2613,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-11-09T22:44:31.6153044+02:00"
+    },
+    {
+      "productId": 2684,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2020-02-24T19:32:07.3402402+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 10001,
+  "cartId": "57499c6a-e44a-496b-b4c0-b4ca3be8fc36",
+  "preferredProducts": [
+    2641,
+    1324,
+    2192,
+    4928,
+    3660
+  ],
+  "productReviews": [
+    {
+      "productId": 1310,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2018-12-07T11:27:17.9533029+02:00"
+    },
+    {
+      "productId": 2007,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-10-14T09:53:30.8977883+03:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "this synergies is dominant.",
+      "reviewDate": "2017-11-13T08:57:37.0050436+02:00"
+    },
+    {
+      "productId": 978,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-01-30T20:15:19.3548324+02:00"
+    },
+    {
+      "productId": 2955,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-04-25T19:05:43.8678484+03:00"
+    }
+  ]
+}

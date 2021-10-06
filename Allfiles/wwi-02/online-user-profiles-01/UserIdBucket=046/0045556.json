@@ -1,0 +1,30 @@
+{
+  "userId": 45556,
+  "cartId": "3a415187-0b11-4fe2-9d6d-7bee885d9501",
+  "preferredProducts": [
+    3227,
+    3270
+  ],
+  "productReviews": [
+    {
+      "productId": 474,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-08-28T17:11:01.0699018+03:00"
+    },
+    {
+      "productId": 1854,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-03-26T17:51:24.3293902+02:00"
+    },
+    {
+      "productId": 4071,
+      "reviewText": "this orange is smooth.",
+      "reviewDate": "2017-02-27T21:12:40.1228444+02:00"
+    },
+    {
+      "productId": 2272,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-05-05T14:20:29.8833673+03:00"
+    }
+  ]
+}

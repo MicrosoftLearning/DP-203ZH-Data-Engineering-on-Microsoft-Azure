@@ -1,0 +1,35 @@
+{
+  "userId": 19590,
+  "cartId": "75c72f0b-d9cf-4ab3-9881-5a10bb32b79d",
+  "preferredProducts": [
+    1115,
+    1958,
+    559,
+    4940,
+    1704,
+    1351,
+    81
+  ],
+  "productReviews": [
+    {
+      "productId": 1706,
+      "reviewText": "this invoice is whole-grain.",
+      "reviewDate": "2019-10-01T03:21:56.134423+03:00"
+    },
+    {
+      "productId": 784,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-05-15T16:08:06.5288412+03:00"
+    },
+    {
+      "productId": 2110,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-07-30T08:51:41.7398212+03:00"
+    },
+    {
+      "productId": 4197,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-12-05T20:37:35.5571078+02:00"
+    }
+  ]
+}

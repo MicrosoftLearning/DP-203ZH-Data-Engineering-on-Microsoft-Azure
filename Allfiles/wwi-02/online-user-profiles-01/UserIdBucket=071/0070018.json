@@ -1,0 +1,25 @@
+{
+  "userId": 70018,
+  "cartId": "23360a8b-f8c7-4b16-9786-406fa3a430a8",
+  "preferredProducts": [
+    3502,
+    2862
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-05-15T13:04:19.0392141+03:00"
+    },
+    {
+      "productId": 4860,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-06-13T20:06:40.6748249+03:00"
+    },
+    {
+      "productId": 2865,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-12-15T18:54:06.7061017+02:00"
+    }
+  ]
+}

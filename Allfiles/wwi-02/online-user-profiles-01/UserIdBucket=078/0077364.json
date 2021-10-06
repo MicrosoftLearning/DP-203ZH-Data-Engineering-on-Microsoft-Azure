@@ -1,0 +1,42 @@
+{
+  "userId": 77364,
+  "cartId": "3cadd3c5-6adf-4b0e-9cfe-3c7d4d9ce39c",
+  "preferredProducts": [
+    4670,
+    1841,
+    1604,
+    496,
+    1215,
+    1579,
+    2304,
+    4981,
+    2591
+  ],
+  "productReviews": [
+    {
+      "productId": 4870,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-01-13T02:42:39.7428711+02:00"
+    },
+    {
+      "productId": 3564,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-07-12T15:59:20.4632739+03:00"
+    },
+    {
+      "productId": 3317,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-06-01T08:59:39.1660138+03:00"
+    },
+    {
+      "productId": 1178,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-10-08T14:53:13.3707745+03:00"
+    },
+    {
+      "productId": 2359,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-02-09T06:24:35.77363+02:00"
+    }
+  ]
+}

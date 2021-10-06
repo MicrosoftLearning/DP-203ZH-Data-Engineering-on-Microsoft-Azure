@@ -1,0 +1,27 @@
+{
+  "userId": 5109,
+  "cartId": "658b2416-93d2-4ab1-8ef9-eccf26441b46",
+  "preferredProducts": [
+    2324,
+    1205,
+    974,
+    1734
+  ],
+  "productReviews": [
+    {
+      "productId": 728,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-06-10T21:59:24.235987+03:00"
+    },
+    {
+      "productId": 497,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-07-02T12:14:52.1836515+03:00"
+    },
+    {
+      "productId": 2542,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-01-19T07:57:36.6825794+02:00"
+    }
+  ]
+}

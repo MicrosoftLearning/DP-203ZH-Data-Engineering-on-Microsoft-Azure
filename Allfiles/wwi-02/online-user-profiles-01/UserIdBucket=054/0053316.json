@@ -1,0 +1,40 @@
+{
+  "userId": 53316,
+  "cartId": "e8db93f0-55f1-4a2b-bc53-6205449b88d2",
+  "preferredProducts": [
+    1198,
+    1267,
+    428,
+    1331,
+    4743,
+    3864,
+    1364
+  ],
+  "productReviews": [
+    {
+      "productId": 1441,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-05-27T10:32:19.0612365+03:00"
+    },
+    {
+      "productId": 1737,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-06-08T03:19:11.5806667+03:00"
+    },
+    {
+      "productId": 1976,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-09-13T15:16:22.8172114+03:00"
+    },
+    {
+      "productId": 2187,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-02-22T21:23:35.9492954+02:00"
+    },
+    {
+      "productId": 4601,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-08-27T05:37:14.0917797+03:00"
+    }
+  ]
+}

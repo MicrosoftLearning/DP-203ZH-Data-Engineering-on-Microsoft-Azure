@@ -1,0 +1,25 @@
+{
+  "userId": 22737,
+  "cartId": "efe73770-07f5-4fe1-8a6c-64822bd748a3",
+  "preferredProducts": [
+    3080,
+    3173,
+    3877,
+    1700,
+    1521,
+    4505,
+    173
+  ],
+  "productReviews": [
+    {
+      "productId": 3743,
+      "reviewText": "this Colombia is mellow.",
+      "reviewDate": "2017-08-30T10:02:42.3637436+03:00"
+    },
+    {
+      "productId": 2634,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-10-04T06:18:46.176154+03:00"
+    }
+  ]
+}

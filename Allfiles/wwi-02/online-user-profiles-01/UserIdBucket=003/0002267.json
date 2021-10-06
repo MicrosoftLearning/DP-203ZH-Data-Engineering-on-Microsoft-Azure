@@ -1,0 +1,38 @@
+{
+  "userId": 2267,
+  "cartId": "96bc191e-090e-4520-9780-771f6227c2b7",
+  "preferredProducts": [
+    23,
+    4005,
+    4566,
+    3671,
+    1971
+  ],
+  "productReviews": [
+    {
+      "productId": 1228,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-02-01T06:06:01.0105764+02:00"
+    },
+    {
+      "productId": 3489,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-09-22T21:54:41.4655551+03:00"
+    },
+    {
+      "productId": 3662,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-05-20T17:08:18.5810016+03:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2020-02-20T19:58:56.6718063+02:00"
+    },
+    {
+      "productId": 1393,
+      "reviewText": "This incentivize works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-11-17T13:32:44.6044085+02:00"
+    }
+  ]
+}

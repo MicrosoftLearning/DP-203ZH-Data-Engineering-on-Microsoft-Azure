@@ -1,0 +1,27 @@
+{
+  "userId": 80178,
+  "cartId": "995010b1-a130-4660-b987-1d5a6173f543",
+  "preferredProducts": [
+    1221,
+    2419,
+    4546,
+    2088,
+    527,
+    2173,
+    3211,
+    4167,
+    2933
+  ],
+  "productReviews": [
+    {
+      "productId": 4798,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-04-11T14:59:49.7589049+03:00"
+    },
+    {
+      "productId": 1444,
+      "reviewText": "This Agent works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-07-30T21:12:59.1198827+03:00"
+    }
+  ]
+}

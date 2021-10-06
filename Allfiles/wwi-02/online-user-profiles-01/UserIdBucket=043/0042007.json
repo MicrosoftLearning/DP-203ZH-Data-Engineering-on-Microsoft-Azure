@@ -1,0 +1,32 @@
+{
+  "userId": 42007,
+  "cartId": "0c7ef6f3-b208-423e-82c2-6ff501b85d99",
+  "preferredProducts": [
+    4405,
+    2014,
+    251,
+    890,
+    3231,
+    1456,
+    4812,
+    2428,
+    1449
+  ],
+  "productReviews": [
+    {
+      "productId": 2849,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-11-05T19:31:52.2963074+02:00"
+    },
+    {
+      "productId": 4917,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2016-08-09T16:38:02.9330539+03:00"
+    },
+    {
+      "productId": 1400,
+      "reviewText": "this mission-critical is light-hearted.",
+      "reviewDate": "2019-09-04T09:52:02.7450024+03:00"
+    }
+  ]
+}

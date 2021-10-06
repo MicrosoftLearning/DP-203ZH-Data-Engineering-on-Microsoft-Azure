@@ -1,0 +1,38 @@
+{
+  "userId": 900,
+  "cartId": "9a171255-d1e8-4a33-928e-7def50a25712",
+  "preferredProducts": [
+    418,
+    2227,
+    1023,
+    1118,
+    535,
+    2377,
+    4900,
+    440,
+    430,
+    604
+  ],
+  "productReviews": [
+    {
+      "productId": 573,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-04-08T14:07:25.9336048+03:00"
+    },
+    {
+      "productId": 3787,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-01-31T16:33:30.5788947+02:00"
+    },
+    {
+      "productId": 3345,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-07-01T13:11:16.5527748+03:00"
+    },
+    {
+      "productId": 1638,
+      "reviewText": "This Fort works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-11-12T04:47:07.2232143+02:00"
+    }
+  ]
+}

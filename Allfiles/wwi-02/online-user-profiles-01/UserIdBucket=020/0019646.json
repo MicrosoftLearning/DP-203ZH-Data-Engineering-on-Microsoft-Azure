@@ -1,0 +1,43 @@
+{
+  "userId": 19646,
+  "cartId": "23ea09ff-4f62-4eb0-aa13-3ff788a82af8",
+  "preferredProducts": [
+    3360,
+    3492,
+    4082,
+    595,
+    4612,
+    3744,
+    2041,
+    2261,
+    4801,
+    226
+  ],
+  "productReviews": [
+    {
+      "productId": 144,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-02-10T04:16:42.9329844+02:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-05-29T15:35:29.1882049+03:00"
+    },
+    {
+      "productId": 613,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-11-18T00:32:07.5168786+02:00"
+    },
+    {
+      "productId": 3975,
+      "reviewText": "this invoice is awesome.",
+      "reviewDate": "2017-08-05T19:09:11.2307466+03:00"
+    },
+    {
+      "productId": 3775,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-10-10T20:08:15.1966841+03:00"
+    }
+  ]
+}

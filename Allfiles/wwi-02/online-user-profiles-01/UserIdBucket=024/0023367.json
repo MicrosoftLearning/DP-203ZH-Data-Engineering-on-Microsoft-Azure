@@ -1,0 +1,33 @@
+{
+  "userId": 23367,
+  "cartId": "d62cb9cc-6929-4863-94bd-e0febf633a3a",
+  "preferredProducts": [
+    3176,
+    3474,
+    1994,
+    1820,
+    4470
+  ],
+  "productReviews": [
+    {
+      "productId": 3973,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-12-25T15:53:28.8699506+02:00"
+    },
+    {
+      "productId": 4114,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-06-10T20:28:43.8029596+03:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-08-06T21:00:43.6576086+03:00"
+    },
+    {
+      "productId": 3420,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-03-31T03:55:19.505958+03:00"
+    }
+  ]
+}

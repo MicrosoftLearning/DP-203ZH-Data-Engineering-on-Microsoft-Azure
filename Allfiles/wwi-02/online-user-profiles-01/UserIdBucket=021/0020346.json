@@ -1,0 +1,23 @@
+{
+  "userId": 20346,
+  "cartId": "7e876c9e-b3e7-4716-b373-064491529608",
+  "preferredProducts": [
+    816,
+    3407,
+    1319,
+    1098,
+    4638
+  ],
+  "productReviews": [
+    {
+      "productId": 2289,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-11-29T23:52:28.0106553+02:00"
+    },
+    {
+      "productId": 1122,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-11-18T22:59:12.9652748+02:00"
+    }
+  ]
+}

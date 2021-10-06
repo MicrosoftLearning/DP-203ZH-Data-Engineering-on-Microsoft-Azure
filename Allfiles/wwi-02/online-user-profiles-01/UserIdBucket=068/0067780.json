@@ -1,0 +1,28 @@
+{
+  "userId": 67780,
+  "cartId": "56bcfd02-a49a-4433-a315-daed07ff7a41",
+  "preferredProducts": [
+    678,
+    2887,
+    2790,
+    4883,
+    1809,
+    2632,
+    2326,
+    4245,
+    402,
+    1804
+  ],
+  "productReviews": [
+    {
+      "productId": 1961,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-03-10T01:04:41.2683228+02:00"
+    },
+    {
+      "productId": 1510,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-07-13T14:10:31.6625022+03:00"
+    }
+  ]
+}

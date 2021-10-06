@@ -1,0 +1,35 @@
+{
+  "userId": 37213,
+  "cartId": "66e41da2-4337-4ae7-8280-74dec12d9dcc",
+  "preferredProducts": [
+    1338,
+    1365,
+    2337,
+    1152,
+    3248,
+    4733,
+    3158
+  ],
+  "productReviews": [
+    {
+      "productId": 1075,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-02-19T09:37:55.0889093+02:00"
+    },
+    {
+      "productId": 1131,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-12-16T21:07:22.106969+02:00"
+    },
+    {
+      "productId": 2789,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-03-10T19:49:31.6760971+02:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-04-25T20:25:30.2398512+03:00"
+    }
+  ]
+}

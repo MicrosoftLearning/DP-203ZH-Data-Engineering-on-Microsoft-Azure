@@ -1,0 +1,29 @@
+{
+  "userId": 23490,
+  "cartId": "e21c12a6-076f-4df6-912c-82405282e21f",
+  "preferredProducts": [
+    939,
+    4380,
+    2693,
+    143,
+    4982,
+    1287
+  ],
+  "productReviews": [
+    {
+      "productId": 1299,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-03-01T06:24:03.9265888+02:00"
+    },
+    {
+      "productId": 2118,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-02-18T00:44:02.6472245+02:00"
+    },
+    {
+      "productId": 212,
+      "reviewText": "This payment works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-12-13T22:56:28.704602+02:00"
+    }
+  ]
+}

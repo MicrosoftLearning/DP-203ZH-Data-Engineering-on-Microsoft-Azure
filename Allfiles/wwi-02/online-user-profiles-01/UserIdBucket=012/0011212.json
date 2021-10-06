@@ -1,0 +1,31 @@
+{
+  "userId": 11212,
+  "cartId": "ef99609b-bae2-4f7a-8e2a-2de5d58585f3",
+  "preferredProducts": [
+    409,
+    1536,
+    4422,
+    3887,
+    564,
+    1239,
+    3550,
+    3269
+  ],
+  "productReviews": [
+    {
+      "productId": 2707,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-12-04T15:07:26.1451486+02:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-06-08T07:25:09.9196472+03:00"
+    },
+    {
+      "productId": 569,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-10-11T23:31:27.3708859+03:00"
+    }
+  ]
+}

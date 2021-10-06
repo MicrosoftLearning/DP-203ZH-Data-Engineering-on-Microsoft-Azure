@@ -1,0 +1,24 @@
+{
+  "userId": 22250,
+  "cartId": "0498eee8-4ba5-4815-a5d4-e63a0071f39e",
+  "preferredProducts": [
+    4842,
+    3021,
+    377,
+    2559,
+    4005,
+    624
+  ],
+  "productReviews": [
+    {
+      "productId": 2352,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-05-26T08:34:37.0038631+03:00"
+    },
+    {
+      "productId": 1219,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-12-07T13:11:23.5007697+02:00"
+    }
+  ]
+}

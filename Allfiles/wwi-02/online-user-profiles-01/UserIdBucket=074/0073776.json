@@ -1,0 +1,32 @@
+{
+  "userId": 73776,
+  "cartId": "69132a1b-0145-4f14-b937-a5163d323c78",
+  "preferredProducts": [
+    2615,
+    4772,
+    2337,
+    1186
+  ],
+  "productReviews": [
+    {
+      "productId": 2244,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-06-02T18:06:56.2827854+03:00"
+    },
+    {
+      "productId": 3094,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-03-27T05:59:12.3215573+03:00"
+    },
+    {
+      "productId": 803,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-07-24T01:21:38.5570861+03:00"
+    },
+    {
+      "productId": 3846,
+      "reviewText": "this 1080p is complimentary.",
+      "reviewDate": "2016-07-13T05:12:50.7183842+03:00"
+    }
+  ]
+}

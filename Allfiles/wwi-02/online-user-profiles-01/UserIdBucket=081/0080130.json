@@ -1,0 +1,38 @@
+{
+  "userId": 80130,
+  "cartId": "7eca208c-e41f-4242-8fd9-69a359700f83",
+  "preferredProducts": [
+    3282,
+    4661,
+    4853,
+    504,
+    1083
+  ],
+  "productReviews": [
+    {
+      "productId": 3801,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-11-24T19:37:42.7416672+02:00"
+    },
+    {
+      "productId": 1024,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-02-20T12:50:28.2243696+02:00"
+    },
+    {
+      "productId": 335,
+      "reviewText": "This payment works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-08-30T08:49:15.8669429+03:00"
+    },
+    {
+      "productId": 4948,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-10-24T09:44:56.1591112+03:00"
+    },
+    {
+      "productId": 4072,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-12-17T18:12:52.792775+02:00"
+    }
+  ]
+}

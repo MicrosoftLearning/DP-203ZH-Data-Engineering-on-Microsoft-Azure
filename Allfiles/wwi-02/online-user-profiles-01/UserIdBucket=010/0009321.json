@@ -1,0 +1,40 @@
+{
+  "userId": 9321,
+  "cartId": "0717d043-dad4-47e7-8cb8-fe90924d9a08",
+  "preferredProducts": [
+    3005,
+    3831,
+    4442,
+    3508,
+    2390,
+    2316,
+    3349
+  ],
+  "productReviews": [
+    {
+      "productId": 4017,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-10-29T22:15:38.9072126+02:00"
+    },
+    {
+      "productId": 2567,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-08-27T17:37:57.1835527+03:00"
+    },
+    {
+      "productId": 1635,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-03-09T10:51:51.8415947+02:00"
+    },
+    {
+      "productId": 1114,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-07-28T00:39:57.4596709+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-05-21T17:16:07.2163764+03:00"
+    }
+  ]
+}

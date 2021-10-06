@@ -1,0 +1,30 @@
+{
+  "userId": 35556,
+  "cartId": "38a54c36-342f-40bc-8820-7a618a50d1c8",
+  "preferredProducts": [
+    1766,
+    980,
+    2435,
+    1566,
+    247,
+    1818,
+    433
+  ],
+  "productReviews": [
+    {
+      "productId": 2003,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-10-16T13:42:19.3662103+03:00"
+    },
+    {
+      "productId": 498,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-08-31T23:24:12.4403944+03:00"
+    },
+    {
+      "productId": 4852,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-07-25T21:44:20.9673211+03:00"
+    }
+  ]
+}

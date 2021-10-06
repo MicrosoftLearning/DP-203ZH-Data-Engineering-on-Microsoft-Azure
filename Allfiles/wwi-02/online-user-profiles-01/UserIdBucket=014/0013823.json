@@ -1,0 +1,27 @@
+{
+  "userId": 13823,
+  "cartId": "54816a42-5f90-46d8-bf60-6e15cb72bacb",
+  "preferredProducts": [
+    416,
+    947,
+    1493,
+    3502
+  ],
+  "productReviews": [
+    {
+      "productId": 892,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-04-09T05:55:00.4824642+03:00"
+    },
+    {
+      "productId": 2686,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-06-05T19:00:53.0638924+03:00"
+    },
+    {
+      "productId": 2316,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-10-17T19:43:10.9924028+03:00"
+    }
+  ]
+}

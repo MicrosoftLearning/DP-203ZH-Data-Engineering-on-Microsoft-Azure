@@ -1,0 +1,31 @@
+{
+  "userId": 83245,
+  "cartId": "3f24670f-0974-462c-850c-8de73ae49fd1",
+  "preferredProducts": [
+    4525,
+    1738,
+    2857,
+    4940,
+    3151,
+    3286,
+    142,
+    2854
+  ],
+  "productReviews": [
+    {
+      "productId": 108,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-07-31T12:27:45.9285859+03:00"
+    },
+    {
+      "productId": 3472,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-04-25T13:11:07.8809669+03:00"
+    },
+    {
+      "productId": 325,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-14T02:26:53.1255818+02:00"
+    }
+  ]
+}

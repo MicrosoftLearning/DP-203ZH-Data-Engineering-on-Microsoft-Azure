@@ -1,0 +1,33 @@
+{
+  "userId": 73483,
+  "cartId": "3aa66820-0372-40bd-8bbc-9209cc6b90d2",
+  "preferredProducts": [
+    1333,
+    783,
+    4375,
+    3476,
+    1304
+  ],
+  "productReviews": [
+    {
+      "productId": 3699,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-12-29T01:56:55.2049673+02:00"
+    },
+    {
+      "productId": 1696,
+      "reviewText": "This Awesome Frozen Bacon works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2020-02-25T01:47:06.2656646+02:00"
+    },
+    {
+      "productId": 216,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-05-05T21:42:05.0898431+03:00"
+    },
+    {
+      "productId": 3366,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-03-30T19:17:41.466426+02:00"
+    }
+  ]
+}

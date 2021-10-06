@@ -1,0 +1,25 @@
+{
+  "userId": 48371,
+  "cartId": "f7206ccd-3177-4106-a07c-657fd7eac380",
+  "preferredProducts": [
+    1104,
+    2231,
+    2119,
+    1085,
+    2117,
+    1409,
+    659
+  ],
+  "productReviews": [
+    {
+      "productId": 1785,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-10-25T20:46:32.5393445+03:00"
+    },
+    {
+      "productId": 3378,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-03-20T17:24:49.1470989+02:00"
+    }
+  ]
+}

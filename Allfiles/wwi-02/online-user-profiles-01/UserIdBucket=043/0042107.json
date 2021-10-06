@@ -1,0 +1,37 @@
+{
+  "userId": 42107,
+  "cartId": "b78d6c44-67fd-49d0-9975-99c5a24b199d",
+  "preferredProducts": [
+    3396,
+    1287,
+    4445,
+    1349,
+    3239,
+    2111,
+    2580,
+    532,
+    4836
+  ],
+  "productReviews": [
+    {
+      "productId": 3317,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-01-30T10:13:57.4082048+02:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-10-18T19:49:55.2713206+03:00"
+    },
+    {
+      "productId": 3511,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-02-08T22:13:28.1628156+02:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "This matrix works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-11-24T23:59:35.5179443+02:00"
+    }
+  ]
+}

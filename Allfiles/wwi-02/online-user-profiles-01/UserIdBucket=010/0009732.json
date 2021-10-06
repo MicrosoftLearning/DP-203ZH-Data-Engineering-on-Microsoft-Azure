@@ -1,0 +1,32 @@
+{
+  "userId": 9732,
+  "cartId": "27b5ff00-a734-4d27-bb8b-59fc903cbc29",
+  "preferredProducts": [
+    987,
+    2343,
+    3103,
+    85,
+    1555,
+    1881,
+    3042,
+    3970,
+    2836
+  ],
+  "productReviews": [
+    {
+      "productId": 1811,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-01-29T09:50:12.624758+02:00"
+    },
+    {
+      "productId": 405,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-12-26T09:04:08.3845627+02:00"
+    },
+    {
+      "productId": 2786,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-11-14T10:33:07.4549768+02:00"
+    }
+  ]
+}

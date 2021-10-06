@@ -1,0 +1,33 @@
+{
+  "userId": 55777,
+  "cartId": "3fe963a0-d7b0-4df9-a7e4-707efbe82399",
+  "preferredProducts": [
+    343,
+    422,
+    1609,
+    1121,
+    2370
+  ],
+  "productReviews": [
+    {
+      "productId": 681,
+      "reviewText": "this Assistant is honest.",
+      "reviewDate": "2019-04-22T20:44:25.7962448+03:00"
+    },
+    {
+      "productId": 1650,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-08-24T10:17:57.5170317+03:00"
+    },
+    {
+      "productId": 4947,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-02-21T06:26:36.0182754+02:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-07-31T11:53:27.885801+03:00"
+    }
+  ]
+}

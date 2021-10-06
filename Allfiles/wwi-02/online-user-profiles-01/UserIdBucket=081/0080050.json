@@ -1,0 +1,33 @@
+{
+  "userId": 80050,
+  "cartId": "624699b1-a7a9-4ed5-9ffa-e889cbaa4585",
+  "preferredProducts": [
+    3592,
+    342,
+    3117,
+    1933,
+    4483,
+    167,
+    1589,
+    1884,
+    529,
+    3855
+  ],
+  "productReviews": [
+    {
+      "productId": 3758,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-03-18T07:34:12.662788+02:00"
+    },
+    {
+      "productId": 3231,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-10-07T18:37:08.0106218+03:00"
+    },
+    {
+      "productId": 2770,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-12-25T21:56:48.1211072+02:00"
+    }
+  ]
+}

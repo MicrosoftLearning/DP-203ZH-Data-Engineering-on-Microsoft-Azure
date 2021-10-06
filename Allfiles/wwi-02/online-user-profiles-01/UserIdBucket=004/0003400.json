@@ -1,0 +1,36 @@
+{
+  "userId": 3400,
+  "cartId": "9ab70005-48ff-4970-a319-b71ea6ebeda2",
+  "preferredProducts": [
+    3484,
+    2859,
+    373,
+    1681,
+    4497,
+    3361,
+    4233,
+    515
+  ],
+  "productReviews": [
+    {
+      "productId": 1789,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-11-11T08:22:45.2938982+02:00"
+    },
+    {
+      "productId": 4502,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-04-03T11:45:00.1279497+03:00"
+    },
+    {
+      "productId": 4860,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-11-12T11:29:07.2368833+02:00"
+    },
+    {
+      "productId": 2425,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-08-06T23:26:45.1522617+03:00"
+    }
+  ]
+}

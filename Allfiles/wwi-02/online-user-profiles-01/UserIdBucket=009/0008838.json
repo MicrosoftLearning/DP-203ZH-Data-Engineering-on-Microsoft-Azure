@@ -1,0 +1,26 @@
+{
+  "userId": 8838,
+  "cartId": "20f49f71-6866-46f4-b8ae-0563968fb0be",
+  "preferredProducts": [
+    3456,
+    1645,
+    1790
+  ],
+  "productReviews": [
+    {
+      "productId": 3769,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-05-02T01:10:23.3813535+03:00"
+    },
+    {
+      "productId": 2955,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-06-25T04:55:27.6265315+03:00"
+    },
+    {
+      "productId": 1455,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-02-03T15:07:38.3545422+02:00"
+    }
+  ]
+}

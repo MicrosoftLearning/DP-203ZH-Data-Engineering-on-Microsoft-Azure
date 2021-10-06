@@ -1,0 +1,23 @@
+{
+  "userId": 87530,
+  "cartId": "85a09382-c3c6-4c77-8c74-26957750d596",
+  "preferredProducts": [
+    1449,
+    1256,
+    4377,
+    3857,
+    234
+  ],
+  "productReviews": [
+    {
+      "productId": 4420,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-06-03T02:06:41.2735711+03:00"
+    },
+    {
+      "productId": 2438,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-12-24T20:11:21.4553531+02:00"
+    }
+  ]
+}

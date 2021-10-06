@@ -1,0 +1,29 @@
+{
+  "userId": 28745,
+  "cartId": "8bbc3ad4-8ffb-4ba2-b212-b3baffaa9afc",
+  "preferredProducts": [
+    1717,
+    2562,
+    2076,
+    4997,
+    3009,
+    3150
+  ],
+  "productReviews": [
+    {
+      "productId": 3644,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-01-08T09:01:09.4572016+02:00"
+    },
+    {
+      "productId": 301,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-06-30T03:22:03.4939368+03:00"
+    },
+    {
+      "productId": 2483,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-07-03T03:34:48.4982399+03:00"
+    }
+  ]
+}

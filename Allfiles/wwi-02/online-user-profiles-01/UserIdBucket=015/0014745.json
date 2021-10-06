@@ -1,0 +1,31 @@
+{
+  "userId": 14745,
+  "cartId": "45c80cde-d171-4934-a8e5-ad7441cccdff",
+  "preferredProducts": [
+    702,
+    1210,
+    2941
+  ],
+  "productReviews": [
+    {
+      "productId": 565,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-02-08T21:34:17.6572226+02:00"
+    },
+    {
+      "productId": 4889,
+      "reviewText": "this full-range is papery.",
+      "reviewDate": "2017-07-12T10:55:56.128858+03:00"
+    },
+    {
+      "productId": 3333,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-11-19T22:27:09.8889185+02:00"
+    },
+    {
+      "productId": 2430,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-10-09T14:48:33.3981277+03:00"
+    }
+  ]
+}

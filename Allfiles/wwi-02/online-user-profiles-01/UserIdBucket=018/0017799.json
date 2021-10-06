@@ -1,0 +1,33 @@
+{
+  "userId": 17799,
+  "cartId": "c906ff5f-bf65-479c-a6f9-bbca29878019",
+  "preferredProducts": [
+    3930,
+    2467,
+    1486,
+    232,
+    2334,
+    2324,
+    4341,
+    3355,
+    1071,
+    1275
+  ],
+  "productReviews": [
+    {
+      "productId": 3785,
+      "reviewText": "this bus is vertical.",
+      "reviewDate": "2018-11-08T18:22:13.0753166+02:00"
+    },
+    {
+      "productId": 4179,
+      "reviewText": "This Borders works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-12-29T02:48:15.8438652+02:00"
+    },
+    {
+      "productId": 3666,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-06-22T01:55:39.9184792+03:00"
+    }
+  ]
+}

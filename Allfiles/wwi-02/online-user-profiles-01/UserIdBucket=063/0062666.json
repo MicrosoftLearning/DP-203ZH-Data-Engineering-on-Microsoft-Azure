@@ -1,0 +1,42 @@
+{
+  "userId": 62666,
+  "cartId": "b7e485b9-7c69-4148-b673-c85d6153f3d9",
+  "preferredProducts": [
+    4141,
+    3440,
+    4946,
+    515,
+    1410,
+    4785,
+    2187,
+    13,
+    347
+  ],
+  "productReviews": [
+    {
+      "productId": 300,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-02-01T06:55:35.7982772+02:00"
+    },
+    {
+      "productId": 3304,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-12-31T20:44:06.3671766+02:00"
+    },
+    {
+      "productId": 3089,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-01-15T05:30:20.3133372+02:00"
+    },
+    {
+      "productId": 2365,
+      "reviewText": "This lavender works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2017-08-12T08:58:31.6009348+03:00"
+    },
+    {
+      "productId": 2968,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-04-22T11:32:42.5646845+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 22217,
+  "cartId": "0d77d492-ebab-45f7-87bc-af911fd9a1c2",
+  "preferredProducts": [
+    4507,
+    3518,
+    1685,
+    1761,
+    1352,
+    2621
+  ],
+  "productReviews": [
+    {
+      "productId": 2125,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-12-05T06:36:47.4252276+02:00"
+    },
+    {
+      "productId": 2467,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-10-02T14:21:09.9831133+03:00"
+    },
+    {
+      "productId": 2385,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-01-15T14:25:26.7963944+02:00"
+    }
+  ]
+}

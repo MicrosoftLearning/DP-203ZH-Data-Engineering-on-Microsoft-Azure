@@ -1,0 +1,36 @@
+{
+  "userId": 42363,
+  "cartId": "d2d0c4da-58ae-40f7-8868-0e0ee26f954d",
+  "preferredProducts": [
+    3177,
+    4202,
+    3669
+  ],
+  "productReviews": [
+    {
+      "productId": 1431,
+      "reviewText": "this 1080p is hyper.",
+      "reviewDate": "2016-05-12T14:16:47.6241926+03:00"
+    },
+    {
+      "productId": 171,
+      "reviewText": "this bus is perplexed.",
+      "reviewDate": "2017-04-14T00:18:35.3990359+03:00"
+    },
+    {
+      "productId": 2108,
+      "reviewText": "This Associate works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-08-31T00:13:22.4111564+03:00"
+    },
+    {
+      "productId": 1339,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-04-26T18:16:54.4306394+03:00"
+    },
+    {
+      "productId": 4015,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-01-03T14:14:11.044169+02:00"
+    }
+  ]
+}

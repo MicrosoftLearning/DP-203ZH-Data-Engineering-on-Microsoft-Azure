@@ -1,0 +1,23 @@
+{
+  "userId": 32448,
+  "cartId": "8ffdae35-4962-40a5-9231-b39b9ba58cda",
+  "preferredProducts": [
+    2128,
+    3380,
+    1163,
+    4521,
+    3492
+  ],
+  "productReviews": [
+    {
+      "productId": 2224,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-05-22T14:42:01.0609818+03:00"
+    },
+    {
+      "productId": 3832,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-10-15T01:18:34.9592272+03:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 571,
+  "cartId": "d91bb6a9-064c-4136-8193-91ab974fcc47",
+  "preferredProducts": [
+    4343,
+    839,
+    2123,
+    3337,
+    3876,
+    3813,
+    1591,
+    3131,
+    2107,
+    2414
+  ],
+  "productReviews": [
+    {
+      "productId": 2649,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-08-24T15:13:49.3063814+03:00"
+    },
+    {
+      "productId": 1373,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-02-28T13:41:20.9077643+02:00"
+    },
+    {
+      "productId": 4482,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-06T04:00:32.7277517+02:00"
+    },
+    {
+      "productId": 2403,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-01-24T20:20:41.9238258+02:00"
+    },
+    {
+      "productId": 2514,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-12-08T13:04:51.1397286+02:00"
+    }
+  ]
+}

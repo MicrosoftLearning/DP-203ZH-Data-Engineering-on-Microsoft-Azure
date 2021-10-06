@@ -1,0 +1,29 @@
+{
+  "userId": 13579,
+  "cartId": "f6f1945f-22c8-479a-918d-7068cc85dfac",
+  "preferredProducts": [
+    161,
+    4439,
+    2950,
+    2355,
+    3362,
+    2872
+  ],
+  "productReviews": [
+    {
+      "productId": 861,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-11-18T01:22:22.4265425+02:00"
+    },
+    {
+      "productId": 3428,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-04-20T18:18:49.5888831+03:00"
+    },
+    {
+      "productId": 1025,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-06-18T17:45:40.2126739+03:00"
+    }
+  ]
+}

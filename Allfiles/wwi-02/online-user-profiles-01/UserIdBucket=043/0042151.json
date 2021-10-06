@@ -1,0 +1,27 @@
+{
+  "userId": 42151,
+  "cartId": "42425741-46d8-4d47-9034-b2875d71eb25",
+  "preferredProducts": [
+    2265,
+    2432,
+    1797,
+    1763
+  ],
+  "productReviews": [
+    {
+      "productId": 1955,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-08-05T16:06:41.3955359+03:00"
+    },
+    {
+      "productId": 1518,
+      "reviewText": "This Pre-emptive works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2017-07-24T05:59:23.8464069+03:00"
+    },
+    {
+      "productId": 1821,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-08-03T03:02:11.933853+03:00"
+    }
+  ]
+}

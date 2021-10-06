@@ -1,0 +1,33 @@
+{
+  "userId": 66245,
+  "cartId": "2a50d0ef-4143-4092-86c6-aafb8c0dc961",
+  "preferredProducts": [
+    3924,
+    4340,
+    4554,
+    1029,
+    2031
+  ],
+  "productReviews": [
+    {
+      "productId": 3766,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-05-15T13:39:22.033656+03:00"
+    },
+    {
+      "productId": 1364,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-04-09T19:16:55.7029073+03:00"
+    },
+    {
+      "productId": 3605,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-11-25T16:34:14.7856219+02:00"
+    },
+    {
+      "productId": 1032,
+      "reviewText": "This Maine, does exactly what it's suppose to do.",
+      "reviewDate": "2020-03-21T07:37:58.8243086+02:00"
+    }
+  ]
+}

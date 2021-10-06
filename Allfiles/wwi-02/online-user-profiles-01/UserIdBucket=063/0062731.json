@@ -1,0 +1,32 @@
+{
+  "userId": 62731,
+  "cartId": "bbaece1b-e224-42cc-ad90-d861b21fc025",
+  "preferredProducts": [
+    1976,
+    3261,
+    400,
+    1986
+  ],
+  "productReviews": [
+    {
+      "productId": 3727,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-05-16T11:20:08.1203587+03:00"
+    },
+    {
+      "productId": 2144,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-09-30T09:04:00.4335492+03:00"
+    },
+    {
+      "productId": 1052,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-10-16T21:32:05.2550534+03:00"
+    },
+    {
+      "productId": 2546,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-07-02T11:05:22.9977621+03:00"
+    }
+  ]
+}

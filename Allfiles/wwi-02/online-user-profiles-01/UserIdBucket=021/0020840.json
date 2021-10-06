@@ -1,0 +1,35 @@
+{
+  "userId": 20840,
+  "cartId": "98efce61-4a05-4331-a89f-4dea24343cc9",
+  "preferredProducts": [
+    467,
+    2779
+  ],
+  "productReviews": [
+    {
+      "productId": 651,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-01-21T19:12:10.399021+02:00"
+    },
+    {
+      "productId": 4341,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-10-25T17:56:40.5515866+03:00"
+    },
+    {
+      "productId": 2095,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-12-29T21:35:04.9963489+02:00"
+    },
+    {
+      "productId": 3945,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-06-24T12:06:44.8900873+03:00"
+    },
+    {
+      "productId": 24,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2016-11-20T22:56:31.3769343+02:00"
+    }
+  ]
+}

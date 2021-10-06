@@ -1,0 +1,43 @@
+{
+  "userId": 84128,
+  "cartId": "0712d5ab-7ef5-4af6-ae88-c4e69365bd0c",
+  "preferredProducts": [
+    1233,
+    2027,
+    3616,
+    4312,
+    4585,
+    55,
+    4971,
+    4750,
+    868,
+    2744
+  ],
+  "productReviews": [
+    {
+      "productId": 1482,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-09-09T08:29:52.1327906+03:00"
+    },
+    {
+      "productId": 1093,
+      "reviewText": "this JSON is flirty.",
+      "reviewDate": "2017-02-04T05:03:57.4270504+02:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-08-09T20:58:11.1084078+03:00"
+    },
+    {
+      "productId": 4415,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2018-10-25T11:48:28.6143941+03:00"
+    },
+    {
+      "productId": 1526,
+      "reviewText": "This payment, does exactly what it's suppose to do.",
+      "reviewDate": "2017-02-03T01:13:17.2059743+02:00"
+    }
+  ]
+}

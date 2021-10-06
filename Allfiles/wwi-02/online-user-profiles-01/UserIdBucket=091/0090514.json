@@ -1,0 +1,34 @@
+{
+  "userId": 90514,
+  "cartId": "e1c984c1-bde6-4f69-96eb-6ee9ea24e82d",
+  "preferredProducts": [
+    1060,
+    3467,
+    403,
+    2029,
+    1663,
+    4499
+  ],
+  "productReviews": [
+    {
+      "productId": 308,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-06-16T18:57:12.6546277+03:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-07-22T12:39:55.9181059+03:00"
+    },
+    {
+      "productId": 1720,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-11-21T13:36:32.9262794+02:00"
+    },
+    {
+      "productId": 4386,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-08-15T14:35:02.4827091+03:00"
+    }
+  ]
+}

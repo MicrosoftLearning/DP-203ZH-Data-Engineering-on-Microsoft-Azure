@@ -1,0 +1,39 @@
+{
+  "userId": 19007,
+  "cartId": "faa564ce-e016-4fb1-883d-6d7fb98dbfa8",
+  "preferredProducts": [
+    2665,
+    1829,
+    4458,
+    4404,
+    3815,
+    2588
+  ],
+  "productReviews": [
+    {
+      "productId": 1156,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-04-12T02:56:58.1458775+03:00"
+    },
+    {
+      "productId": 2855,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-04-12T18:56:15.2593531+03:00"
+    },
+    {
+      "productId": 2981,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-06-08T15:57:07.2509033+03:00"
+    },
+    {
+      "productId": 111,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-09-05T20:03:46.3122243+03:00"
+    },
+    {
+      "productId": 2816,
+      "reviewText": "this matrix is snowy.",
+      "reviewDate": "2017-04-06T17:24:35.8447746+03:00"
+    }
+  ]
+}

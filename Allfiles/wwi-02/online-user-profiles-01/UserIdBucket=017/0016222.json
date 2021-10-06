@@ -1,0 +1,32 @@
+{
+  "userId": 16222,
+  "cartId": "1edc6d23-bac5-4b08-ac64-8e424eef4dfa",
+  "preferredProducts": [
+    1482,
+    4135,
+    1959,
+    2038,
+    3320,
+    11,
+    3407,
+    3609,
+    3728
+  ],
+  "productReviews": [
+    {
+      "productId": 2149,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-05-04T13:04:56.983832+03:00"
+    },
+    {
+      "productId": 1346,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-07-01T06:59:30.5977639+03:00"
+    },
+    {
+      "productId": 1067,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2016-07-24T09:47:41.3080387+03:00"
+    }
+  ]
+}

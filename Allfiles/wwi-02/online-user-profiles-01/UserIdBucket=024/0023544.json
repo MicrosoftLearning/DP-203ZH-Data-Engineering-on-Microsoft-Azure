@@ -1,0 +1,43 @@
+{
+  "userId": 23544,
+  "cartId": "52e1bf6a-2b56-4328-a939-4b170dcb7b70",
+  "preferredProducts": [
+    2543,
+    2898,
+    1883,
+    4208,
+    3562,
+    1060,
+    346,
+    449,
+    886,
+    862
+  ],
+  "productReviews": [
+    {
+      "productId": 890,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-01-04T22:10:05.3850576+02:00"
+    },
+    {
+      "productId": 4334,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-13T09:16:37.0601013+02:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-01-11T07:42:43.2742042+02:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-11-02T21:36:56.9101597+02:00"
+    },
+    {
+      "productId": 943,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-06-23T01:28:55.9766951+03:00"
+    }
+  ]
+}

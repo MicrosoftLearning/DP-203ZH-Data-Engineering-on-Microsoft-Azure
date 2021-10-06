@@ -1,0 +1,32 @@
+{
+  "userId": 10361,
+  "cartId": "9b652719-721a-4190-808a-95da1bd94707",
+  "preferredProducts": [
+    3650,
+    4471,
+    4910,
+    880,
+    4750,
+    468,
+    2995,
+    1854,
+    4116
+  ],
+  "productReviews": [
+    {
+      "productId": 3552,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-12-28T08:43:09.6734254+02:00"
+    },
+    {
+      "productId": 2008,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-12-23T17:35:54.5249094+02:00"
+    },
+    {
+      "productId": 2127,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-03-05T12:17:39.7396487+02:00"
+    }
+  ]
+}

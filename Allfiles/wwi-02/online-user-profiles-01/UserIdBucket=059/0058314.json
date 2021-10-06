@@ -1,0 +1,27 @@
+{
+  "userId": 58314,
+  "cartId": "9eddd198-a359-4fe4-a1da-4288c4a5dc6c",
+  "preferredProducts": [
+    2666,
+    1096,
+    1814,
+    4544
+  ],
+  "productReviews": [
+    {
+      "productId": 1235,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2020-02-21T03:09:51.2355452+02:00"
+    },
+    {
+      "productId": 3362,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-11-08T06:55:28.7459185+02:00"
+    },
+    {
+      "productId": 2595,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-09-07T19:07:25.6840786+03:00"
+    }
+  ]
+}

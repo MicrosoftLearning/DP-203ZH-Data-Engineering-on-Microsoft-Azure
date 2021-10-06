@@ -1,0 +1,33 @@
+{
+  "userId": 10666,
+  "cartId": "532a9baa-6493-4ec5-ab84-6426269aff8a",
+  "preferredProducts": [
+    4536,
+    1870,
+    4383,
+    2150,
+    1636
+  ],
+  "productReviews": [
+    {
+      "productId": 646,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-08-17T02:46:26.6305827+03:00"
+    },
+    {
+      "productId": 3863,
+      "reviewText": "This is a really good Netherlands Antillian Guilder.",
+      "reviewDate": "2017-12-03T11:57:59.0316791+02:00"
+    },
+    {
+      "productId": 1538,
+      "reviewText": "This Ergonomic Wooden Salad works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-02-15T08:12:48.23922+02:00"
+    },
+    {
+      "productId": 4928,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-08-20T23:23:45.2708912+03:00"
+    }
+  ]
+}

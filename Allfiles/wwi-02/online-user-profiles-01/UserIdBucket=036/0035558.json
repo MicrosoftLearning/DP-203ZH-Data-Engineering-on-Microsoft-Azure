@@ -1,0 +1,31 @@
+{
+  "userId": 35558,
+  "cartId": "c144e57b-96f2-4be3-8102-a0aedaca52d9",
+  "preferredProducts": [
+    2239,
+    53,
+    543,
+    454,
+    2256,
+    1209,
+    4692,
+    3250
+  ],
+  "productReviews": [
+    {
+      "productId": 3153,
+      "reviewText": "this Turnpike is awesome.",
+      "reviewDate": "2019-12-30T21:35:16.9923014+02:00"
+    },
+    {
+      "productId": 616,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-02-11T06:12:17.8392008+02:00"
+    },
+    {
+      "productId": 1900,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-12-02T01:23:44.2193286+02:00"
+    }
+  ]
+}

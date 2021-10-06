@@ -1,0 +1,32 @@
+{
+  "userId": 4494,
+  "cartId": "480a1cbc-40ab-47e4-b13d-a278434eaa68",
+  "preferredProducts": [
+    2689,
+    687,
+    890,
+    1517
+  ],
+  "productReviews": [
+    {
+      "productId": 4221,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-09-03T04:01:22.9971803+03:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-06-04T02:49:23.5934587+03:00"
+    },
+    {
+      "productId": 2271,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-10-31T11:55:04.6617147+02:00"
+    },
+    {
+      "productId": 2333,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-06-12T19:25:54.3713602+03:00"
+    }
+  ]
+}

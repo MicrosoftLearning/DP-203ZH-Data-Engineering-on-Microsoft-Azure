@@ -1,0 +1,25 @@
+{
+  "userId": 23387,
+  "cartId": "1ca3c782-e4bd-48f4-8fcf-eafefe8cf8df",
+  "preferredProducts": [
+    4992,
+    1808
+  ],
+  "productReviews": [
+    {
+      "productId": 325,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-09-04T18:00:11.4159209+03:00"
+    },
+    {
+      "productId": 2769,
+      "reviewText": "This Buckinghamshire, does exactly what it's suppose to do.",
+      "reviewDate": "2017-08-20T03:42:43.435215+03:00"
+    },
+    {
+      "productId": 2169,
+      "reviewText": "this payment is mellow.",
+      "reviewDate": "2019-07-05T11:11:31.9707821+03:00"
+    }
+  ]
+}

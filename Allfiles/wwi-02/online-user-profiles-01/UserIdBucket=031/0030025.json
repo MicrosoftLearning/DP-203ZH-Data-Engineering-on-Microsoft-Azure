@@ -1,0 +1,41 @@
+{
+  "userId": 30025,
+  "cartId": "cbd9aa1f-d496-4db8-b251-f43c1fc02c82",
+  "preferredProducts": [
+    4748,
+    3551,
+    1101,
+    140,
+    366,
+    3769,
+    4938,
+    2004
+  ],
+  "productReviews": [
+    {
+      "productId": 1009,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-06-10T22:27:56.4615995+03:00"
+    },
+    {
+      "productId": 4457,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-04-10T11:25:57.9745162+03:00"
+    },
+    {
+      "productId": 1403,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-11-27T04:51:56.1609608+02:00"
+    },
+    {
+      "productId": 3060,
+      "reviewText": "this SAS is nifty.",
+      "reviewDate": "2019-02-07T19:34:33.5201768+02:00"
+    },
+    {
+      "productId": 4580,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-01-29T19:05:05.2413375+02:00"
+    }
+  ]
+}

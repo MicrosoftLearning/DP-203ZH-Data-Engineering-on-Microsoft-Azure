@@ -1,0 +1,27 @@
+{
+  "userId": 80789,
+  "cartId": "948ce515-a090-49c6-8b1a-a53e0fdaeee3",
+  "preferredProducts": [
+    3376,
+    1463,
+    2515,
+    4685,
+    4356,
+    1661,
+    2006,
+    3921,
+    584
+  ],
+  "productReviews": [
+    {
+      "productId": 127,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-02-26T21:23:42.2825337+02:00"
+    },
+    {
+      "productId": 1674,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-02-18T05:37:12.5469326+02:00"
+    }
+  ]
+}

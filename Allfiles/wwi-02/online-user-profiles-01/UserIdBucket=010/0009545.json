@@ -1,0 +1,34 @@
+{
+  "userId": 9545,
+  "cartId": "1d8a5b99-a73b-4cf0-a4ba-90f56c65c5d7",
+  "preferredProducts": [
+    1765,
+    4059,
+    2762,
+    3703,
+    3571,
+    2469
+  ],
+  "productReviews": [
+    {
+      "productId": 2553,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-04-07T00:39:29.2489952+03:00"
+    },
+    {
+      "productId": 4089,
+      "reviewText": "This Bridge works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-02-01T20:07:56.8114789+02:00"
+    },
+    {
+      "productId": 17,
+      "reviewText": "This is a really good HDD.",
+      "reviewDate": "2020-01-21T22:53:54.6382135+02:00"
+    },
+    {
+      "productId": 3415,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-03-11T13:23:21.7317836+02:00"
+    }
+  ]
+}

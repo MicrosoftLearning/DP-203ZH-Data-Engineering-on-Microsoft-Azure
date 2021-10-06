@@ -1,0 +1,29 @@
+{
+  "userId": 69900,
+  "cartId": "c53caa28-f2ba-4ef6-9719-40882e4ee226",
+  "preferredProducts": [
+    4208,
+    3595,
+    3198,
+    4916,
+    541,
+    3325
+  ],
+  "productReviews": [
+    {
+      "productId": 2152,
+      "reviewText": "This JSON works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-02-18T11:00:58.6276138+02:00"
+    },
+    {
+      "productId": 2433,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-11-02T03:47:00.4288331+02:00"
+    },
+    {
+      "productId": 2519,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-07-13T19:49:20.2824119+03:00"
+    }
+  ]
+}

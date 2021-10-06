@@ -1,0 +1,25 @@
+{
+  "userId": 61297,
+  "cartId": "c65a7b12-9980-43b4-9c78-f7cb35d60da1",
+  "preferredProducts": [
+    2214,
+    2498
+  ],
+  "productReviews": [
+    {
+      "productId": 395,
+      "reviewText": "this invoice is mellow.",
+      "reviewDate": "2018-03-26T08:46:56.0019569+03:00"
+    },
+    {
+      "productId": 3062,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-01-27T10:51:53.4102384+02:00"
+    },
+    {
+      "productId": 4630,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-07-01T21:21:25.2352787+03:00"
+    }
+  ]
+}

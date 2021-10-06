@@ -1,0 +1,26 @@
+{
+  "userId": 13469,
+  "cartId": "e217c1d2-8df4-42c6-9877-b41e9a973837",
+  "preferredProducts": [
+    2768,
+    4671,
+    3249
+  ],
+  "productReviews": [
+    {
+      "productId": 2770,
+      "reviewText": "This is a really good Concrete.",
+      "reviewDate": "2019-12-28T10:24:11.1243244+02:00"
+    },
+    {
+      "productId": 4207,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-27T08:46:15.7884715+02:00"
+    },
+    {
+      "productId": 3394,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-10-29T05:30:30.0433278+02:00"
+    }
+  ]
+}

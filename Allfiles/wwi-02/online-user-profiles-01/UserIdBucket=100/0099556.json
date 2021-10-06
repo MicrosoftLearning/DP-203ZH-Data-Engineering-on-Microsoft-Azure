@@ -1,0 +1,26 @@
+{
+  "userId": 99556,
+  "cartId": "9fc52664-b74b-47b0-910d-eb2cf09c5d29",
+  "preferredProducts": [
+    1088,
+    4395,
+    4292
+  ],
+  "productReviews": [
+    {
+      "productId": 4198,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-02-08T17:24:38.2358187+02:00"
+    },
+    {
+      "productId": 131,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-02-09T06:06:23.153303+02:00"
+    },
+    {
+      "productId": 3372,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-10-06T18:57:14.1227378+03:00"
+    }
+  ]
+}

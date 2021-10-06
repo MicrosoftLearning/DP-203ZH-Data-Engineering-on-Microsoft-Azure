@@ -1,0 +1,23 @@
+{
+  "userId": 91559,
+  "cartId": "9a6234bd-c76f-473f-9e79-aa731470e5db",
+  "preferredProducts": [
+    4824,
+    182,
+    3228,
+    4675,
+    4555
+  ],
+  "productReviews": [
+    {
+      "productId": 834,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-04-29T00:21:07.0021734+03:00"
+    },
+    {
+      "productId": 3607,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-09-11T08:37:18.4689566+03:00"
+    }
+  ]
+}

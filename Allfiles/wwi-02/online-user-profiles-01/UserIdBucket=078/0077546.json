@@ -1,0 +1,35 @@
+{
+  "userId": 77546,
+  "cartId": "421266e9-3397-42e7-89ff-a61127a64707",
+  "preferredProducts": [
+    65,
+    989,
+    4894,
+    4415,
+    3272,
+    2040,
+    2849
+  ],
+  "productReviews": [
+    {
+      "productId": 2834,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-06-23T06:23:55.282671+03:00"
+    },
+    {
+      "productId": 3744,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-10-17T22:58:13.4712467+03:00"
+    },
+    {
+      "productId": 2878,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2020-03-23T04:13:39.121773+02:00"
+    },
+    {
+      "productId": 3791,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-09-20T02:17:52.1692698+03:00"
+    }
+  ]
+}

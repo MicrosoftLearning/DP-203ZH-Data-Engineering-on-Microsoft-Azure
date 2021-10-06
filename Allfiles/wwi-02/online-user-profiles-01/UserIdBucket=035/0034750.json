@@ -1,0 +1,35 @@
+{
+  "userId": 34750,
+  "cartId": "a82d086d-3289-4504-999a-68f0e64b9a1e",
+  "preferredProducts": [
+    3045,
+    4907,
+    220,
+    965,
+    4955,
+    2376,
+    1025
+  ],
+  "productReviews": [
+    {
+      "productId": 4232,
+      "reviewText": "this value-added is papery.",
+      "reviewDate": "2017-08-02T00:18:12.0363718+03:00"
+    },
+    {
+      "productId": 1553,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-05-18T21:50:57.5662188+03:00"
+    },
+    {
+      "productId": 3399,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-07-03T11:56:03.9230362+03:00"
+    },
+    {
+      "productId": 2750,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-10-16T16:01:35.5953834+03:00"
+    }
+  ]
+}

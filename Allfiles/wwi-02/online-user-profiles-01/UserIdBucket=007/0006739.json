@@ -1,0 +1,28 @@
+{
+  "userId": 6739,
+  "cartId": "c02232d0-6a61-4d12-b8c6-47ae9e4306b2",
+  "preferredProducts": [
+    960,
+    836,
+    832,
+    2734,
+    4967
+  ],
+  "productReviews": [
+    {
+      "productId": 3949,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-06-14T14:04:22.4073022+03:00"
+    },
+    {
+      "productId": 1899,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-08-13T15:10:27.2779022+03:00"
+    },
+    {
+      "productId": 2736,
+      "reviewText": "This is a really good Motorway.",
+      "reviewDate": "2019-07-23T16:22:31.6793167+03:00"
+    }
+  ]
+}

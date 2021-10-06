@@ -1,0 +1,31 @@
+{
+  "userId": 7128,
+  "cartId": "a09c8381-50bc-46c5-8a7c-3912db02b917",
+  "preferredProducts": [
+    1968,
+    2476,
+    1475,
+    1520,
+    821,
+    1839,
+    3483,
+    3981
+  ],
+  "productReviews": [
+    {
+      "productId": 3343,
+      "reviewText": "this auxiliary is mellow.",
+      "reviewDate": "2018-08-08T11:59:19.4638119+03:00"
+    },
+    {
+      "productId": 2580,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-12-15T15:44:44.8120322+02:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-10-18T21:38:49.3592556+03:00"
+    }
+  ]
+}

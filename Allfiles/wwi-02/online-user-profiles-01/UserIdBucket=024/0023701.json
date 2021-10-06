@@ -1,0 +1,28 @@
+{
+  "userId": 23701,
+  "cartId": "aafa95bf-84ef-457b-91bb-0c15bac53159",
+  "preferredProducts": [
+    4802,
+    3696,
+    4782,
+    2159,
+    2998
+  ],
+  "productReviews": [
+    {
+      "productId": 225,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-18T08:19:49.0806109+03:00"
+    },
+    {
+      "productId": 4108,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2020-04-23T08:52:16.1955124+03:00"
+    },
+    {
+      "productId": 3712,
+      "reviewText": "this Sleek is honest.",
+      "reviewDate": "2020-02-05T10:07:20.2579919+02:00"
+    }
+  ]
+}

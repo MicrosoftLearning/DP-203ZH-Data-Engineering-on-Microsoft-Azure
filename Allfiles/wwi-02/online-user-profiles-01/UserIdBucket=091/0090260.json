@@ -1,0 +1,33 @@
+{
+  "userId": 90260,
+  "cartId": "28274cc3-cb6c-4be4-accd-c69c511c16e5",
+  "preferredProducts": [
+    3400,
+    2347,
+    4640,
+    306,
+    1405,
+    3361,
+    1515,
+    2751,
+    1675,
+    4555
+  ],
+  "productReviews": [
+    {
+      "productId": 325,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-07-12T15:03:38.0721506+03:00"
+    },
+    {
+      "productId": 2334,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-11-26T16:32:05.9741998+02:00"
+    },
+    {
+      "productId": 1007,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-04-12T10:25:05.7760729+03:00"
+    }
+  ]
+}

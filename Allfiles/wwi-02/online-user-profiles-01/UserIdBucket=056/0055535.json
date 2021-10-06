@@ -1,0 +1,38 @@
+{
+  "userId": 55535,
+  "cartId": "3d2610b1-9c38-49fe-b788-cb2949562b12",
+  "preferredProducts": [
+    998,
+    3735,
+    3970,
+    313,
+    4538,
+    915,
+    2291,
+    982,
+    3219,
+    2060
+  ],
+  "productReviews": [
+    {
+      "productId": 403,
+      "reviewText": "This is a really good Representative.",
+      "reviewDate": "2016-09-21T03:03:32.2023429+03:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-12-03T05:43:55.2346901+02:00"
+    },
+    {
+      "productId": 2330,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-09-13T05:37:26.2592935+03:00"
+    },
+    {
+      "productId": 1903,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-12-28T15:06:22.5442417+02:00"
+    }
+  ]
+}

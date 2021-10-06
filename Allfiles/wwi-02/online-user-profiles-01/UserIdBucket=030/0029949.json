@@ -1,0 +1,33 @@
+{
+  "userId": 29949,
+  "cartId": "f2a6b2a0-4716-49d9-b308-63f7246bc92b",
+  "preferredProducts": [
+    2132,
+    71,
+    3846,
+    3435,
+    950,
+    4826,
+    2813,
+    1429,
+    3326,
+    4593
+  ],
+  "productReviews": [
+    {
+      "productId": 3016,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-02-08T04:14:46.9468818+02:00"
+    },
+    {
+      "productId": 2178,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-11-30T22:13:26.5215316+02:00"
+    },
+    {
+      "productId": 1236,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-06-16T19:22:23.2378707+03:00"
+    }
+  ]
+}

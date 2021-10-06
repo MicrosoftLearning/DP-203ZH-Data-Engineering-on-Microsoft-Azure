@@ -1,0 +1,33 @@
+{
+  "userId": 38388,
+  "cartId": "b8321050-a655-44e2-8eb3-f567b4f4ddf4",
+  "preferredProducts": [
+    5000,
+    4531,
+    897,
+    2381,
+    1519
+  ],
+  "productReviews": [
+    {
+      "productId": 1215,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-02-03T06:11:59.4435419+02:00"
+    },
+    {
+      "productId": 711,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-05-14T09:58:40.2823621+03:00"
+    },
+    {
+      "productId": 4882,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-03-06T07:19:29.0383747+02:00"
+    },
+    {
+      "productId": 2882,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-04-06T00:32:40.497372+03:00"
+    }
+  ]
+}

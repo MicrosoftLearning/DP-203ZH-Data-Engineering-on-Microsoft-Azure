@@ -1,0 +1,33 @@
+{
+  "userId": 10223,
+  "cartId": "11009e95-40c9-4d2c-a4f2-e97a27d3f9b8",
+  "preferredProducts": [
+    4378,
+    4453,
+    1184,
+    1585,
+    303,
+    2205,
+    4876,
+    2000,
+    4940,
+    1765
+  ],
+  "productReviews": [
+    {
+      "productId": 674,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-05-02T07:45:37.3900907+03:00"
+    },
+    {
+      "productId": 1941,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-07-06T14:20:01.9854825+03:00"
+    },
+    {
+      "productId": 2812,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-08-15T21:38:20.7720869+03:00"
+    }
+  ]
+}

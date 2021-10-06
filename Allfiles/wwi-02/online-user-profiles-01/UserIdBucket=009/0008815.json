@@ -1,0 +1,25 @@
+{
+  "userId": 8815,
+  "cartId": "95bced7d-4465-408b-826a-b2434e8d90d2",
+  "preferredProducts": [
+    3828,
+    146,
+    1596,
+    977,
+    3135,
+    3210,
+    852
+  ],
+  "productReviews": [
+    {
+      "productId": 3146,
+      "reviewText": "this Tasty Wooden Computer is ratty.",
+      "reviewDate": "2016-06-12T08:27:44.1223406+03:00"
+    },
+    {
+      "productId": 4857,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-08-08T00:15:53.7169644+03:00"
+    }
+  ]
+}

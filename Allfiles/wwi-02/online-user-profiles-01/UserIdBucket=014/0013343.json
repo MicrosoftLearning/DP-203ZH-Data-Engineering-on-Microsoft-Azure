@@ -1,0 +1,28 @@
+{
+  "userId": 13343,
+  "cartId": "4c4d1946-331e-40cc-bc13-b18dba79fe97",
+  "preferredProducts": [
+    242,
+    4737,
+    3890,
+    2072,
+    326
+  ],
+  "productReviews": [
+    {
+      "productId": 2126,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-08-19T22:08:02.9706045+03:00"
+    },
+    {
+      "productId": 4268,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-05-23T16:30:49.5992832+03:00"
+    },
+    {
+      "productId": 3941,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-06-12T23:14:40.6097299+03:00"
+    }
+  ]
+}

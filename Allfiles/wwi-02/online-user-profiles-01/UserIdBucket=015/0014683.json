@@ -1,0 +1,27 @@
+{
+  "userId": 14683,
+  "cartId": "723f3f64-a8ab-4679-8d4e-352cf46e4980",
+  "preferredProducts": [
+    1529,
+    3741,
+    4128,
+    4077
+  ],
+  "productReviews": [
+    {
+      "productId": 525,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-01-17T21:58:13.7737724+02:00"
+    },
+    {
+      "productId": 1129,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-01-03T01:04:37.0789083+02:00"
+    },
+    {
+      "productId": 4327,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-09-26T17:15:58.3545717+03:00"
+    }
+  ]
+}

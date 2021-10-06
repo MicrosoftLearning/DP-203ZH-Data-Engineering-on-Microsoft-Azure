@@ -1,0 +1,29 @@
+{
+  "userId": 22224,
+  "cartId": "a0be5406-f289-4b1f-b7c2-85b6ad243e2c",
+  "preferredProducts": [
+    3327,
+    3845,
+    138,
+    4470,
+    1033,
+    2346
+  ],
+  "productReviews": [
+    {
+      "productId": 2123,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-11-18T09:06:44.3306592+02:00"
+    },
+    {
+      "productId": 213,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-03-17T07:03:21.463755+02:00"
+    },
+    {
+      "productId": 2615,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-09-01T21:29:59.4146952+03:00"
+    }
+  ]
+}

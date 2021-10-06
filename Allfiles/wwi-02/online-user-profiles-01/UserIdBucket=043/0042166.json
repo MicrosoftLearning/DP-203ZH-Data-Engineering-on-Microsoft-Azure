@@ -1,0 +1,26 @@
+{
+  "userId": 42166,
+  "cartId": "1961607c-44b5-4557-bb30-9b3f851f44f4",
+  "preferredProducts": [
+    1713,
+    2046,
+    1767
+  ],
+  "productReviews": [
+    {
+      "productId": 3129,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-01-10T19:41:35.5516313+02:00"
+    },
+    {
+      "productId": 4798,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-06-13T21:41:14.2650326+03:00"
+    },
+    {
+      "productId": 2784,
+      "reviewText": "This AI works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-06-19T07:24:25.2527693+03:00"
+    }
+  ]
+}

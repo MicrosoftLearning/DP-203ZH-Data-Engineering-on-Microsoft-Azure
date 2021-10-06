@@ -1,0 +1,35 @@
+{
+  "userId": 97199,
+  "cartId": "76a9ba95-c73c-415e-905d-2387bb83d4f0",
+  "preferredProducts": [
+    122,
+    4282,
+    2897,
+    1540,
+    3234,
+    2719,
+    3647
+  ],
+  "productReviews": [
+    {
+      "productId": 1243,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-04-30T00:30:33.0432324+03:00"
+    },
+    {
+      "productId": 774,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-01-20T23:28:02.1838445+02:00"
+    },
+    {
+      "productId": 3248,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-09-12T12:33:52.286846+03:00"
+    },
+    {
+      "productId": 3878,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-06-18T11:15:53.7003712+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 90753,
+  "cartId": "5c8f4bcb-3008-4807-a0da-35ff52b1c442",
+  "preferredProducts": [
+    451,
+    952,
+    3615,
+    1595,
+    2990,
+    3631,
+    518,
+    1786,
+    142,
+    443
+  ],
+  "productReviews": [
+    {
+      "productId": 4655,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-02-24T15:10:39.483197+02:00"
+    },
+    {
+      "productId": 3104,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-07-16T04:47:31.979479+03:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-06-23T01:38:10.1973128+03:00"
+    }
+  ]
+}

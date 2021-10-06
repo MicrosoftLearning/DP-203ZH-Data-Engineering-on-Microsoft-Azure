@@ -1,0 +1,31 @@
+{
+  "userId": 86417,
+  "cartId": "fa63a2fe-2d69-45fd-8b5e-1f13f102c243",
+  "preferredProducts": [
+    3533,
+    2722,
+    2149,
+    1962,
+    2280,
+    182,
+    4406,
+    4922
+  ],
+  "productReviews": [
+    {
+      "productId": 720,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-06-27T08:22:19.8890995+03:00"
+    },
+    {
+      "productId": 2264,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-04-09T09:54:13.8926773+03:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-12-05T19:42:09.1600239+02:00"
+    }
+  ]
+}

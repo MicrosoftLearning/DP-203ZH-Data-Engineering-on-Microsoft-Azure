@@ -1,0 +1,22 @@
+{
+  "userId": 70,
+  "cartId": "b7efd12c-31c4-4e80-b0d3-4107e4ae43e1",
+  "preferredProducts": [
+    3747,
+    3312,
+    2516,
+    2622
+  ],
+  "productReviews": [
+    {
+      "productId": 3503,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-02-01T08:42:21.9957837+02:00"
+    },
+    {
+      "productId": 3269,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-03-10T11:34:55.0276734+02:00"
+    }
+  ]
+}

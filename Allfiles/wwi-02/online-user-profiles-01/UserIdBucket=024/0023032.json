@@ -1,0 +1,37 @@
+{
+  "userId": 23032,
+  "cartId": "04a3a4ef-5c6e-44fd-9e0b-6e556bcf5dff",
+  "preferredProducts": [
+    3970,
+    4985,
+    4225,
+    634,
+    1001,
+    3997,
+    188,
+    2556,
+    2208
+  ],
+  "productReviews": [
+    {
+      "productId": 4525,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-12-11T01:33:11.7234967+02:00"
+    },
+    {
+      "productId": 2625,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-07-13T16:35:13.3650733+03:00"
+    },
+    {
+      "productId": 885,
+      "reviewText": "this Gorgeous is smooth.",
+      "reviewDate": "2020-02-27T06:21:35.0162226+02:00"
+    },
+    {
+      "productId": 1194,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-07-22T16:38:48.2274434+03:00"
+    }
+  ]
+}

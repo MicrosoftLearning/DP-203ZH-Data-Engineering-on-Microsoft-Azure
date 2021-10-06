@@ -1,0 +1,27 @@
+{
+  "userId": 1285,
+  "cartId": "4be6b22b-1c71-4e78-b8d9-b425263c09f7",
+  "preferredProducts": [
+    2671,
+    2252,
+    843,
+    1215
+  ],
+  "productReviews": [
+    {
+      "productId": 2773,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-08-26T02:01:39.9974525+03:00"
+    },
+    {
+      "productId": 2457,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-02-27T00:25:47.0838613+02:00"
+    },
+    {
+      "productId": 3125,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-05-04T01:21:08.6827473+03:00"
+    }
+  ]
+}

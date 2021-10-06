@@ -1,0 +1,42 @@
+{
+  "userId": 21496,
+  "cartId": "5965acf3-2573-4271-9569-4a93d44d3f39",
+  "preferredProducts": [
+    2142,
+    2063,
+    1552,
+    1819,
+    2589,
+    538,
+    2046,
+    3049,
+    2874
+  ],
+  "productReviews": [
+    {
+      "productId": 2791,
+      "reviewText": "this Internal is awesome.",
+      "reviewDate": "2019-11-07T09:38:20.4751888+02:00"
+    },
+    {
+      "productId": 1062,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-04-17T12:33:40.7031213+03:00"
+    },
+    {
+      "productId": 4079,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-10-18T00:49:13.4769244+03:00"
+    },
+    {
+      "productId": 3877,
+      "reviewText": "this task-force is tasty.",
+      "reviewDate": "2019-08-26T16:11:55.7458468+03:00"
+    },
+    {
+      "productId": 207,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-06-27T07:00:46.7464058+03:00"
+    }
+  ]
+}

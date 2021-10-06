@@ -1,0 +1,31 @@
+{
+  "userId": 87524,
+  "cartId": "4864ea95-587e-4f41-8dc4-8aaa07f51b4e",
+  "preferredProducts": [
+    4047,
+    264,
+    3625,
+    363,
+    687,
+    1162,
+    2696,
+    3917
+  ],
+  "productReviews": [
+    {
+      "productId": 1292,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-05-15T06:21:57.1172573+03:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-08-21T20:58:31.8365266+03:00"
+    },
+    {
+      "productId": 4500,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-07-21T20:03:20.4248376+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 2534,
+  "cartId": "b6cc8faa-fdfb-4e69-ba40-8ccab65fe424",
+  "preferredProducts": [
+    1828,
+    2139,
+    4866,
+    2345
+  ],
+  "productReviews": [
+    {
+      "productId": 2768,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-06-14T03:38:47.0123424+03:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-09-22T11:26:53.3972182+03:00"
+    },
+    {
+      "productId": 2037,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-12-01T19:01:14.1973493+02:00"
+    },
+    {
+      "productId": 1304,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-10-06T07:55:01.9563698+03:00"
+    }
+  ]
+}

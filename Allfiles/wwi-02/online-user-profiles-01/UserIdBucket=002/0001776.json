@@ -1,0 +1,33 @@
+{
+  "userId": 1776,
+  "cartId": "31bf966f-cdb6-4209-9af5-4803a291a5ec",
+  "preferredProducts": [
+    3847,
+    3560,
+    2053,
+    4420,
+    4437
+  ],
+  "productReviews": [
+    {
+      "productId": 2306,
+      "reviewText": "this Quality is perplexed.",
+      "reviewDate": "2018-04-25T11:26:13.9788647+03:00"
+    },
+    {
+      "productId": 2954,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-09-17T07:24:23.1780396+03:00"
+    },
+    {
+      "productId": 3857,
+      "reviewText": "This Frozen works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2019-04-20T00:20:13.1330936+03:00"
+    },
+    {
+      "productId": 4314,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-01-18T18:11:21.64971+02:00"
+    }
+  ]
+}

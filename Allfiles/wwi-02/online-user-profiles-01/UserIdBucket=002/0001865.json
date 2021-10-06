@@ -1,0 +1,38 @@
+{
+  "userId": 1865,
+  "cartId": "7a8dd740-2812-4fd3-a31c-c8f7cf783b4d",
+  "preferredProducts": [
+    3198,
+    2366,
+    3777,
+    4643,
+    4298
+  ],
+  "productReviews": [
+    {
+      "productId": 4900,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-02-05T23:58:03.2112236+02:00"
+    },
+    {
+      "productId": 1691,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-03-01T23:20:12.2364737+02:00"
+    },
+    {
+      "productId": 1265,
+      "reviewText": "This relationships works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-11-21T16:00:28.6134094+02:00"
+    },
+    {
+      "productId": 1696,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-08-05T11:06:51.1450199+03:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-10-23T04:36:46.5674034+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 39018,
+  "cartId": "e9ad7343-70e7-461a-b594-be899234c942",
+  "preferredProducts": [
+    1580,
+    3116,
+    1568,
+    3229,
+    1773,
+    678,
+    61,
+    4569
+  ],
+  "productReviews": [
+    {
+      "productId": 437,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-01-19T13:05:08.22397+02:00"
+    },
+    {
+      "productId": 2690,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-01-20T00:01:06.1388203+02:00"
+    },
+    {
+      "productId": 942,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-02-03T10:11:14.7461421+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 78001,
+  "cartId": "3bacc1bf-f433-4fc9-bd8f-44ad983dbbf9",
+  "preferredProducts": [
+    1389,
+    3698,
+    1433,
+    1881,
+    1977
+  ],
+  "productReviews": [
+    {
+      "productId": 258,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-10-24T13:33:18.2339203+03:00"
+    },
+    {
+      "productId": 4846,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-04-15T17:13:58.0045243+03:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-01-11T10:52:51.2973297+02:00"
+    },
+    {
+      "productId": 2648,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-09-22T05:45:27.4658566+03:00"
+    }
+  ]
+}

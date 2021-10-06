@@ -1,0 +1,27 @@
+{
+  "userId": 271,
+  "cartId": "2577205c-5d68-40c1-aae9-000ff858a8b4",
+  "preferredProducts": [
+    2306,
+    1552,
+    3912,
+    780
+  ],
+  "productReviews": [
+    {
+      "productId": 1091,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-01-03T02:54:00.6086506+02:00"
+    },
+    {
+      "productId": 3430,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-11-26T17:16:13.1539993+02:00"
+    },
+    {
+      "productId": 4814,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2019-08-23T15:17:32.8582451+03:00"
+    }
+  ]
+}

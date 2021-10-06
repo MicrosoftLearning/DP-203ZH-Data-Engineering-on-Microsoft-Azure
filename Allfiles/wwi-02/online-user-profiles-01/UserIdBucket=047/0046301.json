@@ -1,0 +1,39 @@
+{
+  "userId": 46301,
+  "cartId": "b1bbb123-39a3-49d4-bbad-a9f2b6a547cc",
+  "preferredProducts": [
+    1261,
+    1053,
+    1560,
+    743,
+    2519,
+    4019
+  ],
+  "productReviews": [
+    {
+      "productId": 511,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-05-26T11:05:04.7484411+03:00"
+    },
+    {
+      "productId": 2087,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-06-15T22:12:42.7210521+03:00"
+    },
+    {
+      "productId": 4883,
+      "reviewText": "This Data works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-09-27T03:39:27.1185311+03:00"
+    },
+    {
+      "productId": 2529,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-01-04T20:53:50.3898148+02:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-11-06T05:59:41.8982928+02:00"
+    }
+  ]
+}

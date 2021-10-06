@@ -1,0 +1,31 @@
+{
+  "userId": 54164,
+  "cartId": "f7b25d8b-6d17-4ba9-b3c7-33570b321d54",
+  "preferredProducts": [
+    477,
+    3465,
+    720
+  ],
+  "productReviews": [
+    {
+      "productId": 1103,
+      "reviewText": "This invoice works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-10-01T01:11:14.3110146+03:00"
+    },
+    {
+      "productId": 3128,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-08-07T14:48:42.2593277+03:00"
+    },
+    {
+      "productId": 2746,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-05-15T19:24:51.9431114+03:00"
+    },
+    {
+      "productId": 697,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-04-22T08:42:09.1619453+03:00"
+    }
+  ]
+}

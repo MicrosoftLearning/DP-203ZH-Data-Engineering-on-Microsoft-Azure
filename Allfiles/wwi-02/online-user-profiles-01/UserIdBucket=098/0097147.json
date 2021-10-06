@@ -1,0 +1,33 @@
+{
+  "userId": 97147,
+  "cartId": "247a8547-d179-468f-95e1-f10c3b47d8e3",
+  "preferredProducts": [
+    3641,
+    1980,
+    3458,
+    1900,
+    251
+  ],
+  "productReviews": [
+    {
+      "productId": 819,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-02-09T19:26:55.5525875+02:00"
+    },
+    {
+      "productId": 2534,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2019-09-11T07:49:07.3240352+03:00"
+    },
+    {
+      "productId": 1513,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-09-28T02:06:46.990943+03:00"
+    },
+    {
+      "productId": 3826,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-04-03T17:45:57.7757677+03:00"
+    }
+  ]
+}

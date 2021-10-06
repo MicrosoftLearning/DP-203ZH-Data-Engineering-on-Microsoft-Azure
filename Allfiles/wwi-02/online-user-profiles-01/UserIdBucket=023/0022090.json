@@ -1,0 +1,37 @@
+{
+  "userId": 22090,
+  "cartId": "d9958a01-ca26-4907-99fe-b56e5a1d05ab",
+  "preferredProducts": [
+    3237,
+    3531,
+    2137,
+    1795,
+    2073,
+    2987,
+    3121,
+    4876,
+    4325
+  ],
+  "productReviews": [
+    {
+      "productId": 4199,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-05-04T01:42:33.6953686+03:00"
+    },
+    {
+      "productId": 2882,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2016-09-26T10:38:10.1716174+03:00"
+    },
+    {
+      "productId": 3465,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-02-21T20:31:21.0677887+02:00"
+    },
+    {
+      "productId": 2494,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-12-23T16:16:34.5600749+02:00"
+    }
+  ]
+}

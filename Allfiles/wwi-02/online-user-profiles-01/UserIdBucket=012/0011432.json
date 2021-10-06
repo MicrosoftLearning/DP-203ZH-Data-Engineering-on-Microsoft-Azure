@@ -1,0 +1,21 @@
+{
+  "userId": 11432,
+  "cartId": "18bfa244-6d41-4607-9838-71aaf2ffdead",
+  "preferredProducts": [
+    3949,
+    2614,
+    315
+  ],
+  "productReviews": [
+    {
+      "productId": 231,
+      "reviewText": "this payment is nifty.",
+      "reviewDate": "2019-01-22T00:25:36.4002896+02:00"
+    },
+    {
+      "productId": 3156,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-09T03:53:32.9062006+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 30390,
+  "cartId": "9a62745f-be12-4e5a-b7db-380b11cb4331",
+  "preferredProducts": [
+    3,
+    1410,
+    4324
+  ],
+  "productReviews": [
+    {
+      "productId": 4622,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-08-17T18:20:52.6424791+03:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2020-04-18T14:18:53.1359537+03:00"
+    },
+    {
+      "productId": 3442,
+      "reviewText": "This Avon works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2016-12-20T22:23:09.1978057+02:00"
+    }
+  ]
+}

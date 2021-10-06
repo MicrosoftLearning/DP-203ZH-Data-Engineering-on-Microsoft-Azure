@@ -1,0 +1,29 @@
+{
+  "userId": 414,
+  "cartId": "f05e1616-04b1-42b7-98c9-2f8b1a5cf26b",
+  "preferredProducts": [
+    4099,
+    2057,
+    1290,
+    1923,
+    3874,
+    790
+  ],
+  "productReviews": [
+    {
+      "productId": 4265,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-11-04T17:24:07.8833251+02:00"
+    },
+    {
+      "productId": 860,
+      "reviewText": "this Sleek Concrete Shoes is slurpee.",
+      "reviewDate": "2017-01-26T08:07:59.0750171+02:00"
+    },
+    {
+      "productId": 4504,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-03-03T10:10:31.9546767+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 3595,
+  "cartId": "692d5fab-ebf4-463b-9b36-bc1ab8129544",
+  "preferredProducts": [
+    104,
+    1826,
+    3483,
+    4536,
+    1284,
+    2968,
+    4776,
+    1604,
+    1331
+  ],
+  "productReviews": [
+    {
+      "productId": 3163,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-05-12T11:30:47.520629+03:00"
+    },
+    {
+      "productId": 3077,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-05-17T13:56:15.5666782+03:00"
+    },
+    {
+      "productId": 1858,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2020-03-22T17:46:21.4286378+02:00"
+    },
+    {
+      "productId": 24,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This transparent keeps them away.",
+      "reviewDate": "2019-05-30T13:26:20.5933545+03:00"
+    }
+  ]
+}

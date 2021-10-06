@@ -1,0 +1,30 @@
+{
+  "userId": 4087,
+  "cartId": "809bce1f-1313-4e8c-b8f3-fd9c51f62f44",
+  "preferredProducts": [
+    4999,
+    29
+  ],
+  "productReviews": [
+    {
+      "productId": 385,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-04-20T08:29:54.2551508+03:00"
+    },
+    {
+      "productId": 1471,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-07-26T14:15:48.4632188+03:00"
+    },
+    {
+      "productId": 2552,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-09-22T20:06:24.3764501+03:00"
+    },
+    {
+      "productId": 953,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-05-30T22:34:55.5335551+03:00"
+    }
+  ]
+}

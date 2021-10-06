@@ -1,0 +1,26 @@
+{
+  "userId": 93937,
+  "cartId": "c047b3c0-73ff-474b-b156-7835e9299249",
+  "preferredProducts": [
+    424,
+    830,
+    1436,
+    2605,
+    2363,
+    1647,
+    2076,
+    4503
+  ],
+  "productReviews": [
+    {
+      "productId": 4924,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-12-28T22:25:38.7850177+02:00"
+    },
+    {
+      "productId": 969,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-12-26T18:15:52.7373094+02:00"
+    }
+  ]
+}

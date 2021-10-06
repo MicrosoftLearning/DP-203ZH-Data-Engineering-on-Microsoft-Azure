@@ -1,0 +1,41 @@
+{
+  "userId": 99,
+  "cartId": "7ed68a70-a497-4487-a1bc-05c4c280c790",
+  "preferredProducts": [
+    4127,
+    4821,
+    862,
+    3076,
+    2414,
+    3204,
+    4549,
+    565
+  ],
+  "productReviews": [
+    {
+      "productId": 1053,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-07-19T01:44:50.878757+03:00"
+    },
+    {
+      "productId": 3835,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-01-31T07:04:23.9310537+02:00"
+    },
+    {
+      "productId": 1782,
+      "reviewText": "this compress is awesome.",
+      "reviewDate": "2019-02-10T14:40:52.8832313+02:00"
+    },
+    {
+      "productId": 207,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2020-05-07T15:59:52.561256+03:00"
+    },
+    {
+      "productId": 2689,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2016-10-21T21:05:16.5425453+03:00"
+    }
+  ]
+}

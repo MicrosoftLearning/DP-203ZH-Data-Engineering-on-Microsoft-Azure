@@ -1,0 +1,35 @@
+{
+  "userId": 46719,
+  "cartId": "eb6be8d6-3122-449a-9e2a-637e54216a03",
+  "preferredProducts": [
+    249,
+    99
+  ],
+  "productReviews": [
+    {
+      "productId": 3503,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-03-21T06:03:37.6724912+02:00"
+    },
+    {
+      "productId": 4011,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2020-04-27T08:55:22.1303233+03:00"
+    },
+    {
+      "productId": 3877,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-10-12T19:01:39.8495048+03:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-05-06T11:34:50.2435137+03:00"
+    },
+    {
+      "productId": 3477,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-11-09T12:03:56.4700143+02:00"
+    }
+  ]
+}

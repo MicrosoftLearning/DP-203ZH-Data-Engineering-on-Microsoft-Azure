@@ -1,0 +1,30 @@
+{
+  "userId": 74682,
+  "cartId": "8810bba0-eea5-41d9-843a-22fe43fc5fe2",
+  "preferredProducts": [
+    2375,
+    4979
+  ],
+  "productReviews": [
+    {
+      "productId": 4882,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-05-27T22:37:31.982032+03:00"
+    },
+    {
+      "productId": 2366,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2020-04-18T15:27:44.2462238+03:00"
+    },
+    {
+      "productId": 1915,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-09-20T16:35:14.8318638+03:00"
+    },
+    {
+      "productId": 2195,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-12-01T17:58:05.5390084+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 65196,
+  "cartId": "2b3066be-41b2-4eaf-b6b8-45a460d69893",
+  "preferredProducts": [
+    4222,
+    1108,
+    4160,
+    615,
+    3708,
+    4678,
+    4385,
+    3711,
+    3474,
+    4115
+  ],
+  "productReviews": [
+    {
+      "productId": 2792,
+      "reviewText": "this bypassing is tasty.",
+      "reviewDate": "2017-07-07T20:28:39.4720915+03:00"
+    },
+    {
+      "productId": 3000,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-07-31T11:37:23.9954971+03:00"
+    },
+    {
+      "productId": 110,
+      "reviewText": "this River is papery.",
+      "reviewDate": "2017-07-05T21:53:21.8727497+03:00"
+    }
+  ]
+}

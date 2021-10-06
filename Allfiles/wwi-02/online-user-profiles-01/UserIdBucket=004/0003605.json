@@ -1,0 +1,38 @@
+{
+  "userId": 3605,
+  "cartId": "c48c2a9c-27f7-4852-b3cf-10dd0e4065b0",
+  "preferredProducts": [
+    2800,
+    1226,
+    1554,
+    4716,
+    2109
+  ],
+  "productReviews": [
+    {
+      "productId": 431,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-04-17T20:31:17.8110345+03:00"
+    },
+    {
+      "productId": 1762,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-07-21T03:56:29.4543227+03:00"
+    },
+    {
+      "productId": 4172,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-07-06T16:15:16.8958707+03:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-11-06T23:54:48.1304486+02:00"
+    },
+    {
+      "productId": 4095,
+      "reviewText": "this Bedfordshire is whole-grain.",
+      "reviewDate": "2019-07-22T01:08:54.5555819+03:00"
+    }
+  ]
+}

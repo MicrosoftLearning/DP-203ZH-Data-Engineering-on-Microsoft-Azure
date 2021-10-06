@@ -1,0 +1,38 @@
+{
+  "userId": 75602,
+  "cartId": "b751f863-f03a-41c0-952e-e2168280a3dd",
+  "preferredProducts": [
+    4241,
+    2264,
+    675,
+    3855,
+    310,
+    153,
+    4076,
+    4548,
+    3835,
+    4698
+  ],
+  "productReviews": [
+    {
+      "productId": 222,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-01-02T03:49:14.5416881+02:00"
+    },
+    {
+      "productId": 3408,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-05-10T00:37:42.1293151+03:00"
+    },
+    {
+      "productId": 3198,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-11-14T23:08:38.1807939+02:00"
+    },
+    {
+      "productId": 2082,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-06-16T08:39:57.7482513+03:00"
+    }
+  ]
+}

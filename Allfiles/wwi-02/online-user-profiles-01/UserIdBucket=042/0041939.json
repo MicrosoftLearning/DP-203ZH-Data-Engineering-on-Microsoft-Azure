@@ -1,0 +1,35 @@
+{
+  "userId": 41939,
+  "cartId": "c4685b1c-070d-4715-b212-fbfc8460b0e1",
+  "preferredProducts": [
+    1099,
+    2205,
+    4625,
+    771,
+    697,
+    3807,
+    328
+  ],
+  "productReviews": [
+    {
+      "productId": 1406,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-05-06T05:04:01.5462637+03:00"
+    },
+    {
+      "productId": 2008,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-05-09T20:04:01.4507429+03:00"
+    },
+    {
+      "productId": 2690,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-07-24T21:10:46.7947844+03:00"
+    },
+    {
+      "productId": 935,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-06-03T09:15:21.364233+03:00"
+    }
+  ]
+}

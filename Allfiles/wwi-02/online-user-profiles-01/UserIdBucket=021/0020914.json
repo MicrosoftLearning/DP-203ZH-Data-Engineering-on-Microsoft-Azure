@@ -1,0 +1,33 @@
+{
+  "userId": 20914,
+  "cartId": "e0ee9127-1aec-443e-9de4-6c4cc9668a73",
+  "preferredProducts": [
+    1462,
+    1558,
+    2407,
+    748,
+    1895
+  ],
+  "productReviews": [
+    {
+      "productId": 3906,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-06-20T18:16:36.9426871+03:00"
+    },
+    {
+      "productId": 3304,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-09-22T14:55:04.6509739+03:00"
+    },
+    {
+      "productId": 2390,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-01-31T18:16:51.0788194+02:00"
+    },
+    {
+      "productId": 2542,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-11-19T08:12:26.5840158+02:00"
+    }
+  ]
+}

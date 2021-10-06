@@ -1,0 +1,32 @@
+{
+  "userId": 12308,
+  "cartId": "9fed1b67-113f-4653-8f52-ce5f0995753a",
+  "preferredProducts": [
+    2395,
+    4888,
+    125,
+    4425
+  ],
+  "productReviews": [
+    {
+      "productId": 2512,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-07-13T02:11:27.9202436+03:00"
+    },
+    {
+      "productId": 261,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2020-03-07T14:28:00.7717502+02:00"
+    },
+    {
+      "productId": 4791,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-16T23:05:09.8878768+02:00"
+    },
+    {
+      "productId": 940,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-01-26T19:33:10.6979639+02:00"
+    }
+  ]
+}

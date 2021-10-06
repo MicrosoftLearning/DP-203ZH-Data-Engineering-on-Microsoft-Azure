@@ -1,0 +1,29 @@
+{
+  "userId": 75230,
+  "cartId": "912c5166-28d0-422b-8cf1-3aadb58a211d",
+  "preferredProducts": [
+    411,
+    2264,
+    2805,
+    3502,
+    1911,
+    4551
+  ],
+  "productReviews": [
+    {
+      "productId": 3505,
+      "reviewText": "this Wooden is brown.",
+      "reviewDate": "2016-09-08T18:09:04.7394477+03:00"
+    },
+    {
+      "productId": 3864,
+      "reviewText": "This Handmade Plastic Fish works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-07-26T12:24:40.5385562+03:00"
+    },
+    {
+      "productId": 4098,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-06-27T07:30:01.4896455+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 16398,
+  "cartId": "dddf92a4-bab6-4a8b-babe-b2a25d33c096",
+  "preferredProducts": [
+    4432,
+    944,
+    800,
+    3056,
+    823,
+    3364,
+    2199,
+    1475,
+    3303
+  ],
+  "productReviews": [
+    {
+      "productId": 3169,
+      "reviewText": "this Intelligent Soft Salad is papery.",
+      "reviewDate": "2016-06-01T18:43:26.6549594+03:00"
+    },
+    {
+      "productId": 2990,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-12-01T05:47:47.4566902+02:00"
+    },
+    {
+      "productId": 2066,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-06-11T17:35:35.2301478+03:00"
+    }
+  ]
+}

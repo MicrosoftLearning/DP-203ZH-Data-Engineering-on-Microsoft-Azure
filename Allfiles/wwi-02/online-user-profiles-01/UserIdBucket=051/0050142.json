@@ -1,0 +1,25 @@
+{
+  "userId": 50142,
+  "cartId": "b84b19de-da50-470b-84e8-cc81d46481b2",
+  "preferredProducts": [
+    1385,
+    193
+  ],
+  "productReviews": [
+    {
+      "productId": 3654,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-12-08T23:15:37.2211641+02:00"
+    },
+    {
+      "productId": 3359,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-05-24T23:12:14.8471813+03:00"
+    },
+    {
+      "productId": 278,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-10-17T09:29:12.6842342+03:00"
+    }
+  ]
+}

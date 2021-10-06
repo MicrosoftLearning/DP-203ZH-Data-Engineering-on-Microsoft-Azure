@@ -1,0 +1,31 @@
+{
+  "userId": 98343,
+  "cartId": "0faf7924-2ed6-41d8-adb6-4c54de40d895",
+  "preferredProducts": [
+    1668,
+    3293,
+    1841
+  ],
+  "productReviews": [
+    {
+      "productId": 4136,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2020-02-28T04:02:28.7305091+02:00"
+    },
+    {
+      "productId": 100,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-05-25T05:24:50.2023848+03:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "this Plaza is revolting.",
+      "reviewDate": "2018-01-29T01:54:22.1503007+02:00"
+    },
+    {
+      "productId": 70,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-20T10:21:54.5925479+03:00"
+    }
+  ]
+}

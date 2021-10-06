@@ -1,0 +1,36 @@
+{
+  "userId": 94596,
+  "cartId": "7a3156f9-682f-4361-9a45-0374d91a1ecc",
+  "preferredProducts": [
+    3758,
+    2769,
+    3806,
+    2585,
+    2703,
+    1788,
+    1615,
+    2456
+  ],
+  "productReviews": [
+    {
+      "productId": 2999,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-11-22T14:21:20.4463473+02:00"
+    },
+    {
+      "productId": 3163,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-08-07T19:56:46.7706451+03:00"
+    },
+    {
+      "productId": 4930,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-05-30T11:06:27.8392181+03:00"
+    },
+    {
+      "productId": 2417,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-08-15T19:36:02.4853537+03:00"
+    }
+  ]
+}

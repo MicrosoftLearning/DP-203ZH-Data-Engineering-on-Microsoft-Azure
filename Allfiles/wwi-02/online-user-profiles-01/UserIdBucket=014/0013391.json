@@ -1,0 +1,38 @@
+{
+  "userId": 13391,
+  "cartId": "b7fd62b8-ce89-415c-8ed7-03959c49cd89",
+  "preferredProducts": [
+    3063,
+    3851,
+    4052,
+    814,
+    4454,
+    798,
+    4696,
+    4908,
+    538,
+    616
+  ],
+  "productReviews": [
+    {
+      "productId": 3134,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-09-24T18:35:21.1483667+03:00"
+    },
+    {
+      "productId": 3516,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-07-22T12:11:48.697624+03:00"
+    },
+    {
+      "productId": 266,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2016-10-22T01:45:06.7803064+03:00"
+    },
+    {
+      "productId": 2996,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-06-12T20:52:34.2863328+03:00"
+    }
+  ]
+}

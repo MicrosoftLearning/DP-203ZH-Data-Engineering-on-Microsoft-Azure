@@ -1,0 +1,37 @@
+{
+  "userId": 62585,
+  "cartId": "8419576b-914c-41ab-833e-8d4b715a5bb8",
+  "preferredProducts": [
+    2389,
+    1693,
+    3414,
+    4375,
+    2054,
+    1784,
+    1013,
+    2670,
+    2823
+  ],
+  "productReviews": [
+    {
+      "productId": 2255,
+      "reviewText": "this Harbor is ratty.",
+      "reviewDate": "2019-10-19T03:11:44.2849372+03:00"
+    },
+    {
+      "productId": 4443,
+      "reviewText": "This Savings Account works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-02-13T12:27:46.3268573+02:00"
+    },
+    {
+      "productId": 3905,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-07-08T13:14:04.0792089+03:00"
+    },
+    {
+      "productId": 898,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-02-26T16:07:25.6765093+02:00"
+    }
+  ]
+}

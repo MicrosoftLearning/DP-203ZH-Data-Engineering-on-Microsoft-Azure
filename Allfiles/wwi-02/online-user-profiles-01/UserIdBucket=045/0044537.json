@@ -1,0 +1,37 @@
+{
+  "userId": 44537,
+  "cartId": "d513a284-2561-45a5-ad40-32ced79dbdf9",
+  "preferredProducts": [
+    2088,
+    2339,
+    3020,
+    741
+  ],
+  "productReviews": [
+    {
+      "productId": 883,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-12-04T09:11:04.4792981+02:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-08-12T01:14:42.2587957+03:00"
+    },
+    {
+      "productId": 603,
+      "reviewText": "this multi-byte is gracious.",
+      "reviewDate": "2019-10-06T00:53:17.9225748+03:00"
+    },
+    {
+      "productId": 3924,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-11-09T07:05:27.8768263+02:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-11-05T19:08:15.47252+02:00"
+    }
+  ]
+}

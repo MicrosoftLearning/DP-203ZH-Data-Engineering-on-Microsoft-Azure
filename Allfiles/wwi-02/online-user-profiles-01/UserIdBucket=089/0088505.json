@@ -1,0 +1,33 @@
+{
+  "userId": 88505,
+  "cartId": "a0f83827-2ddc-4d55-8097-8cc61cb634b5",
+  "preferredProducts": [
+    3876,
+    2694,
+    1815,
+    2673,
+    2321
+  ],
+  "productReviews": [
+    {
+      "productId": 558,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-05-26T09:13:08.3285701+03:00"
+    },
+    {
+      "productId": 620,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-03-11T11:52:57.0588098+02:00"
+    },
+    {
+      "productId": 33,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-07-30T02:56:06.0520219+03:00"
+    },
+    {
+      "productId": 760,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-07-05T22:05:52.3458669+03:00"
+    }
+  ]
+}

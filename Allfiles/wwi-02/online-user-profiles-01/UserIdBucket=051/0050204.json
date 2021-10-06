@@ -1,0 +1,37 @@
+{
+  "userId": 50204,
+  "cartId": "cce9d97a-ecaa-4f79-8cc0-b38ac0950d5d",
+  "preferredProducts": [
+    3337,
+    738,
+    56,
+    1501
+  ],
+  "productReviews": [
+    {
+      "productId": 4660,
+      "reviewText": "This Berkshire works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-03-12T01:00:30.6377131+02:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-10-30T05:01:25.9273503+02:00"
+    },
+    {
+      "productId": 1622,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-06-08T11:43:23.1156851+03:00"
+    },
+    {
+      "productId": 3767,
+      "reviewText": "this Tunnel is flirty.",
+      "reviewDate": "2018-01-08T09:47:14.1274543+02:00"
+    },
+    {
+      "productId": 4949,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-11-16T19:13:12.2437457+02:00"
+    }
+  ]
+}

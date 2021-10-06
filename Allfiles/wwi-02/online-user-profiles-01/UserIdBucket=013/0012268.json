@@ -1,0 +1,41 @@
+{
+  "userId": 12268,
+  "cartId": "48bc53a7-8921-47e9-81cf-cc01b3ddc638",
+  "preferredProducts": [
+    2303,
+    1518,
+    1770,
+    2857,
+    3489,
+    3706,
+    288,
+    385
+  ],
+  "productReviews": [
+    {
+      "productId": 3982,
+      "reviewText": "this white is mellow.",
+      "reviewDate": "2019-03-23T12:45:48.3283513+02:00"
+    },
+    {
+      "productId": 1665,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-10-26T14:59:24.8649305+03:00"
+    },
+    {
+      "productId": 1,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-12-22T02:18:16.1187866+02:00"
+    },
+    {
+      "productId": 1689,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-05-21T02:22:14.0906649+03:00"
+    },
+    {
+      "productId": 1857,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-01-24T21:13:50.8577698+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 42393,
+  "cartId": "55f351ff-10ab-42d3-8069-e7d836878b49",
+  "preferredProducts": [
+    4633,
+    4253,
+    2451,
+    1216,
+    2726,
+    4159,
+    3192,
+    3118,
+    4383,
+    790
+  ],
+  "productReviews": [
+    {
+      "productId": 2407,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-11-26T21:23:11.4397745+02:00"
+    },
+    {
+      "productId": 523,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-05-26T09:11:36.7963769+03:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-01-15T04:15:29.3792049+02:00"
+    },
+    {
+      "productId": 3359,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-09-19T01:58:43.8191246+03:00"
+    }
+  ]
+}

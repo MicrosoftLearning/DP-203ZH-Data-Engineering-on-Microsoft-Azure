@@ -1,0 +1,30 @@
+{
+  "userId": 31653,
+  "cartId": "d895279a-a73b-4d0c-bb5e-c24af1f179b8",
+  "preferredProducts": [
+    4290,
+    4480,
+    897,
+    2860,
+    1631,
+    4818,
+    1370
+  ],
+  "productReviews": [
+    {
+      "productId": 1160,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-12-20T20:54:16.4683123+02:00"
+    },
+    {
+      "productId": 32,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-03-02T00:12:49.6459663+02:00"
+    },
+    {
+      "productId": 3259,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-01-20T15:32:15.8379406+02:00"
+    }
+  ]
+}

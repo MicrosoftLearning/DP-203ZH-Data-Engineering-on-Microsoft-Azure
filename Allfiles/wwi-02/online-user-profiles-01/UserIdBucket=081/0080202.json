@@ -1,0 +1,27 @@
+{
+  "userId": 80202,
+  "cartId": "ae115ae6-0e62-4b00-930c-691be6da67fe",
+  "preferredProducts": [
+    264,
+    2997,
+    4607,
+    3510
+  ],
+  "productReviews": [
+    {
+      "productId": 462,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-07-25T14:53:34.3793617+03:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-01-06T15:51:07.7843813+02:00"
+    },
+    {
+      "productId": 4347,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-10-22T13:06:51.1781776+03:00"
+    }
+  ]
+}

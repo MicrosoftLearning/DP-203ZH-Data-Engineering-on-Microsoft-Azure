@@ -1,0 +1,25 @@
+{
+  "userId": 78149,
+  "cartId": "1fd3c324-14af-4a09-b096-0e729ea4a7b8",
+  "preferredProducts": [
+    3700,
+    3924
+  ],
+  "productReviews": [
+    {
+      "productId": 1947,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-01-15T05:43:14.8990854+02:00"
+    },
+    {
+      "productId": 781,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-05-18T04:51:53.6323248+03:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-07-12T00:21:24.5022043+03:00"
+    }
+  ]
+}

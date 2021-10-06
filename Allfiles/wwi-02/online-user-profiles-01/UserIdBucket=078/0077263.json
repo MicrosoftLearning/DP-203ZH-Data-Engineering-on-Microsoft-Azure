@@ -1,0 +1,27 @@
+{
+  "userId": 77263,
+  "cartId": "5510df51-9c4b-475c-9d32-d810f586f096",
+  "preferredProducts": [
+    2865,
+    4432,
+    2570,
+    376
+  ],
+  "productReviews": [
+    {
+      "productId": 4389,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-06-10T13:13:38.8765143+03:00"
+    },
+    {
+      "productId": 3711,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-05-11T06:17:09.1330822+03:00"
+    },
+    {
+      "productId": 2333,
+      "reviewText": "this withdrawal is gracious.",
+      "reviewDate": "2016-11-28T12:59:14.5649422+02:00"
+    }
+  ]
+}

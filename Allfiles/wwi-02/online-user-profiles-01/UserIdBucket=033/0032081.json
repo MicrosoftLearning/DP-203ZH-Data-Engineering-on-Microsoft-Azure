@@ -1,0 +1,31 @@
+{
+  "userId": 32081,
+  "cartId": "0d86dbf7-0af6-4703-87e1-4ace527ceaa8",
+  "preferredProducts": [
+    1233,
+    198,
+    1841,
+    4985,
+    2780,
+    287,
+    4750,
+    827
+  ],
+  "productReviews": [
+    {
+      "productId": 4873,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-08-26T18:12:23.0153331+03:00"
+    },
+    {
+      "productId": 2176,
+      "reviewText": "This is a really good Generic Cotton Computer.",
+      "reviewDate": "2019-06-01T14:32:06.2702859+03:00"
+    },
+    {
+      "productId": 610,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-01-08T21:59:23.2161901+02:00"
+    }
+  ]
+}

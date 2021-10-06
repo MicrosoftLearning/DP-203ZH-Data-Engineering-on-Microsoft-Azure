@@ -1,0 +1,41 @@
+{
+  "userId": 3711,
+  "cartId": "4d1c3a7b-5182-4c88-9b2c-66b0c0c763c7",
+  "preferredProducts": [
+    123,
+    3101,
+    2746,
+    4446,
+    636,
+    4104,
+    1429,
+    4742
+  ],
+  "productReviews": [
+    {
+      "productId": 3081,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2016-11-27T17:46:53.6324329+02:00"
+    },
+    {
+      "productId": 1018,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-08-25T11:10:45.8823284+03:00"
+    },
+    {
+      "productId": 2549,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-07-13T01:33:24.7001447+03:00"
+    },
+    {
+      "productId": 4647,
+      "reviewText": "this olive is honest.",
+      "reviewDate": "2020-04-16T23:14:30.8604148+03:00"
+    },
+    {
+      "productId": 1316,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-08-17T00:50:20.7976491+03:00"
+    }
+  ]
+}

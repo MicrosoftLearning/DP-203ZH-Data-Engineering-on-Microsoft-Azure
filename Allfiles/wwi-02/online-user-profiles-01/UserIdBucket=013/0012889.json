@@ -1,0 +1,30 @@
+{
+  "userId": 12889,
+  "cartId": "f11c65d9-46dc-41f0-bf99-2f09209608bc",
+  "preferredProducts": [
+    3317,
+    3377,
+    3135,
+    3198,
+    427,
+    739,
+    4125
+  ],
+  "productReviews": [
+    {
+      "productId": 3951,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-03-11T07:16:55.6960393+02:00"
+    },
+    {
+      "productId": 4441,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-09-05T02:53:55.2298778+03:00"
+    },
+    {
+      "productId": 3844,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-10-08T11:27:31.7037029+03:00"
+    }
+  ]
+}

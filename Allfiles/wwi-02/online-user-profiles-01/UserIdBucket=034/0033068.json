@@ -1,0 +1,38 @@
+{
+  "userId": 33068,
+  "cartId": "c4cd8553-8de7-4b7d-9fd8-3a6c27b2a079",
+  "preferredProducts": [
+    3422,
+    1372,
+    2453,
+    1347,
+    1864
+  ],
+  "productReviews": [
+    {
+      "productId": 973,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-08-23T20:30:31.1596099+03:00"
+    },
+    {
+      "productId": 3129,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-11-06T03:21:24.2238986+02:00"
+    },
+    {
+      "productId": 3433,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-11-30T01:38:38.4459336+02:00"
+    },
+    {
+      "productId": 2243,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-11-24T08:02:28.3608234+02:00"
+    },
+    {
+      "productId": 902,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-03-28T20:58:46.6058109+03:00"
+    }
+  ]
+}

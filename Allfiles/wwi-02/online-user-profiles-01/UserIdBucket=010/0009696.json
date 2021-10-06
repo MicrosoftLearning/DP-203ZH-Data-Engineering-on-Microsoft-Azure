@@ -1,0 +1,33 @@
+{
+  "userId": 9696,
+  "cartId": "428774f6-4524-4a66-ac41-d2ff94ba29c9",
+  "preferredProducts": [
+    4555,
+    463,
+    2378,
+    3391,
+    1995,
+    782,
+    2761,
+    2783,
+    4942,
+    2818
+  ],
+  "productReviews": [
+    {
+      "productId": 4098,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-10-05T22:05:15.5914766+03:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "this Stream is vertical.",
+      "reviewDate": "2019-06-03T08:37:50.5918722+03:00"
+    },
+    {
+      "productId": 3545,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-04-26T08:47:25.0143485+03:00"
+    }
+  ]
+}

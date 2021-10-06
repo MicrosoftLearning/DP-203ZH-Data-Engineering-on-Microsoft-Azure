@@ -1,0 +1,35 @@
+{
+  "userId": 4122,
+  "cartId": "eafcf8c9-c730-4015-9183-0c8ef6514948",
+  "preferredProducts": [
+    845,
+    1702,
+    354,
+    498,
+    842,
+    404,
+    2493
+  ],
+  "productReviews": [
+    {
+      "productId": 2053,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-06-23T14:35:19.3829191+03:00"
+    },
+    {
+      "productId": 2333,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-03-20T15:27:41.96794+02:00"
+    },
+    {
+      "productId": 4863,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-12-16T15:32:08.8190012+02:00"
+    },
+    {
+      "productId": 3563,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-04-16T04:25:03.574649+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 20701,
+  "cartId": "3edeb76d-4aa9-4169-afe1-953eefb3f01c",
+  "preferredProducts": [
+    4215,
+    2035,
+    15
+  ],
+  "productReviews": [
+    {
+      "productId": 4540,
+      "reviewText": "this parsing is snowy.",
+      "reviewDate": "2018-02-03T06:30:04.2639384+02:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-08-07T04:47:32.3262802+03:00"
+    },
+    {
+      "productId": 2851,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-10-10T13:43:42.913885+03:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-08-20T10:44:36.2445209+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-08-12T03:30:48.2996316+03:00"
+    }
+  ]
+}

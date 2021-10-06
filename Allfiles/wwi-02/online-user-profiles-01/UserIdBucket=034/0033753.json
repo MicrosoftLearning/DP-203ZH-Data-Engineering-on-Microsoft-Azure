@@ -1,0 +1,38 @@
+{
+  "userId": 33753,
+  "cartId": "08500e6a-73b0-42f2-9522-697bde91e528",
+  "preferredProducts": [
+    1424,
+    1252,
+    4096,
+    2474,
+    4658,
+    548,
+    908,
+    3387,
+    3127,
+    3138
+  ],
+  "productReviews": [
+    {
+      "productId": 3334,
+      "reviewText": "This Wooden works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-07-16T12:35:41.5445211+03:00"
+    },
+    {
+      "productId": 4756,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-04-07T04:56:56.2793705+03:00"
+    },
+    {
+      "productId": 1517,
+      "reviewText": "this Green is revolting.",
+      "reviewDate": "2019-10-30T16:53:31.2185872+02:00"
+    },
+    {
+      "productId": 556,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-03-29T22:22:18.7572602+03:00"
+    }
+  ]
+}

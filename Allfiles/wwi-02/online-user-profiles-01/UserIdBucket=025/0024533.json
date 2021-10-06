@@ -1,0 +1,32 @@
+{
+  "userId": 24533,
+  "cartId": "c5ba8c10-f580-4982-aa2b-e01e24c686fe",
+  "preferredProducts": [
+    3002,
+    3333,
+    3483,
+    460
+  ],
+  "productReviews": [
+    {
+      "productId": 1526,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-01-31T11:53:00.6501948+02:00"
+    },
+    {
+      "productId": 1418,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-11-07T03:10:06.2917794+02:00"
+    },
+    {
+      "productId": 3882,
+      "reviewText": "This card works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2019-03-05T19:53:56.496764+02:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-12-22T14:31:59.8414447+02:00"
+    }
+  ]
+}

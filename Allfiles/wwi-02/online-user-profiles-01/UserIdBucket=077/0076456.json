@@ -1,0 +1,33 @@
+{
+  "userId": 76456,
+  "cartId": "bb937daa-fa7e-47b0-94cf-0720f491936c",
+  "preferredProducts": [
+    535,
+    210,
+    4243,
+    3931,
+    3027,
+    3259,
+    321,
+    1785,
+    985,
+    275
+  ],
+  "productReviews": [
+    {
+      "productId": 4858,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-08-02T22:34:08.7759976+03:00"
+    },
+    {
+      "productId": 4156,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-12-29T10:42:22.1840963+02:00"
+    },
+    {
+      "productId": 1483,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-08-27T17:15:00.2157362+03:00"
+    }
+  ]
+}

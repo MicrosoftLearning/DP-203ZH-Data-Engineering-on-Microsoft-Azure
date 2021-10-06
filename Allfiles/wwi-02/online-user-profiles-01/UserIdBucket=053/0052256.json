@@ -1,0 +1,42 @@
+{
+  "userId": 52256,
+  "cartId": "3e6f6fc4-0efb-4267-ab56-bcc671ca39df",
+  "preferredProducts": [
+    13,
+    138,
+    3410,
+    3602,
+    4431,
+    3152,
+    3298,
+    3352,
+    3942
+  ],
+  "productReviews": [
+    {
+      "productId": 1622,
+      "reviewText": "this copying is nifty.",
+      "reviewDate": "2017-03-04T07:19:09.6849605+02:00"
+    },
+    {
+      "productId": 2817,
+      "reviewText": "this Lake is whole-grain.",
+      "reviewDate": "2019-06-12T15:15:53.6756795+03:00"
+    },
+    {
+      "productId": 3771,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-08-24T19:42:13.7084265+03:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2020-01-23T12:34:25.0514679+02:00"
+    },
+    {
+      "productId": 3691,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-04-30T10:51:20.5120918+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 53135,
+  "cartId": "e154e368-2ecb-46de-a8b0-4a3201f9a5ca",
+  "preferredProducts": [
+    473,
+    4454,
+    303,
+    3398,
+    991,
+    662,
+    4109,
+    1770,
+    4936
+  ],
+  "productReviews": [
+    {
+      "productId": 3197,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-01-13T22:04:04.9591672+02:00"
+    },
+    {
+      "productId": 3843,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2020-02-22T05:47:44.4042336+02:00"
+    },
+    {
+      "productId": 4543,
+      "reviewText": "This Metal works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-11-08T17:28:40.8824771+02:00"
+    }
+  ]
+}

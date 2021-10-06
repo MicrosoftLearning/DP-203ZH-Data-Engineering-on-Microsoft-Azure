@@ -1,0 +1,34 @@
+{
+  "userId": 24767,
+  "cartId": "4e3f9a2e-448a-4df9-88d4-fb344de2f6e2",
+  "preferredProducts": [
+    3181,
+    1027,
+    1878,
+    3726,
+    2442,
+    3675
+  ],
+  "productReviews": [
+    {
+      "productId": 3196,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-11-13T03:36:00.8096514+02:00"
+    },
+    {
+      "productId": 224,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-12-02T02:36:26.4316263+02:00"
+    },
+    {
+      "productId": 412,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-11-30T20:44:06.2840039+02:00"
+    },
+    {
+      "productId": 1870,
+      "reviewText": "this implementation is dominant.",
+      "reviewDate": "2017-07-07T14:56:16.7252167+03:00"
+    }
+  ]
+}

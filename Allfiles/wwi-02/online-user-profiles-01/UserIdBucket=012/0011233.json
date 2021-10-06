@@ -1,0 +1,29 @@
+{
+  "userId": 11233,
+  "cartId": "2a99ca31-8577-410d-aa14-544d8c79dbda",
+  "preferredProducts": [
+    1477,
+    3521,
+    1368,
+    4432,
+    424,
+    2489
+  ],
+  "productReviews": [
+    {
+      "productId": 3387,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-07-20T15:50:14.2447888+03:00"
+    },
+    {
+      "productId": 3739,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-07-11T16:23:50.5555723+03:00"
+    },
+    {
+      "productId": 4979,
+      "reviewText": "This Handmade Plastic Shoes works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2020-03-23T06:53:53.5219004+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 89646,
+  "cartId": "f2807ff0-4399-43b5-bbfc-a15327d234db",
+  "preferredProducts": [
+    4444,
+    4886,
+    3026,
+    4573
+  ],
+  "productReviews": [
+    {
+      "productId": 546,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-22T10:34:56.117676+03:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-07-07T18:39:09.5044732+03:00"
+    },
+    {
+      "productId": 4306,
+      "reviewText": "This open architecture works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-10-05T02:29:30.4767034+03:00"
+    },
+    {
+      "productId": 2883,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-05-25T02:17:35.9926736+03:00"
+    },
+    {
+      "productId": 2424,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-05-30T11:50:14.5760345+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 23262,
+  "cartId": "19d4bdee-2a8b-4de2-8217-99f662f1ac24",
+  "preferredProducts": [
+    2877,
+    1319,
+    3829,
+    3257,
+    2346
+  ],
+  "productReviews": [
+    {
+      "productId": 3460,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-06-15T20:00:28.6265449+03:00"
+    },
+    {
+      "productId": 1177,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-12-22T06:09:11.7820781+02:00"
+    },
+    {
+      "productId": 2905,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-04-18T04:29:46.9291006+03:00"
+    }
+  ]
+}

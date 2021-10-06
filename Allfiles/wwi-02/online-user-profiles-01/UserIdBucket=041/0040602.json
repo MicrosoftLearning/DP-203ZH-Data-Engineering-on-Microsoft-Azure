@@ -1,0 +1,32 @@
+{
+  "userId": 40602,
+  "cartId": "354a374b-c4d0-409f-bc89-4353a7d09096",
+  "preferredProducts": [
+    4977,
+    3643,
+    1797,
+    1870,
+    274,
+    2187,
+    160,
+    2331,
+    4640
+  ],
+  "productReviews": [
+    {
+      "productId": 2187,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-03-19T16:30:46.0873395+02:00"
+    },
+    {
+      "productId": 1469,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-02-15T09:02:21.0466297+02:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-04T16:19:43.5848129+03:00"
+    }
+  ]
+}

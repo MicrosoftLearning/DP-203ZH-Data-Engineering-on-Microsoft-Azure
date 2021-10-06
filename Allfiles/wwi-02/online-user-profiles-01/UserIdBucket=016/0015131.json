@@ -1,0 +1,31 @@
+{
+  "userId": 15131,
+  "cartId": "d9c49d8e-ce2f-4f2c-ac19-9be980bbc2da",
+  "preferredProducts": [
+    1318,
+    4234,
+    2304,
+    3343,
+    2579,
+    4516,
+    4342,
+    3473
+  ],
+  "productReviews": [
+    {
+      "productId": 1104,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-02-03T12:48:44.0836727+02:00"
+    },
+    {
+      "productId": 4517,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-12-10T04:37:13.0620147+02:00"
+    },
+    {
+      "productId": 1256,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-09-16T10:34:11.0181964+03:00"
+    }
+  ]
+}

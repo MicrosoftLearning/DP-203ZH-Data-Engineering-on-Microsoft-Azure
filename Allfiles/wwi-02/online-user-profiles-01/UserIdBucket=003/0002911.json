@@ -1,0 +1,31 @@
+{
+  "userId": 2911,
+  "cartId": "ff502bc3-27f5-42b4-ad4c-6de535632e11",
+  "preferredProducts": [
+    4516,
+    2255,
+    3388,
+    1358,
+    4096,
+    1259,
+    700,
+    1729
+  ],
+  "productReviews": [
+    {
+      "productId": 1217,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-04-29T03:41:08.7508866+03:00"
+    },
+    {
+      "productId": 1089,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-07-20T09:29:58.4029037+03:00"
+    },
+    {
+      "productId": 3652,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-05-09T10:01:27.3555281+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 7633,
+  "cartId": "d692efc0-c48c-406c-b586-7fa996f92ca9",
+  "preferredProducts": [
+    2224,
+    119,
+    207,
+    1128
+  ],
+  "productReviews": [
+    {
+      "productId": 898,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-08-09T09:51:22.0876903+03:00"
+    },
+    {
+      "productId": 3483,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-06-26T18:16:47.7689732+03:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-10-26T01:57:37.1006918+03:00"
+    },
+    {
+      "productId": 574,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2020-04-13T20:32:36.8292683+03:00"
+    }
+  ]
+}

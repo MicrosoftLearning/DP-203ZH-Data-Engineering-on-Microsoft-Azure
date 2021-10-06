@@ -1,0 +1,33 @@
+{
+  "userId": 77888,
+  "cartId": "b6e9493d-9732-42ca-8fcd-16e775babac2",
+  "preferredProducts": [
+    725,
+    1611,
+    4533,
+    4657,
+    4178,
+    3396,
+    458,
+    4409,
+    3002,
+    2483
+  ],
+  "productReviews": [
+    {
+      "productId": 984,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-04-05T10:48:11.1875431+03:00"
+    },
+    {
+      "productId": 1548,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-11-10T20:12:07.8187653+02:00"
+    },
+    {
+      "productId": 1093,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-01-22T13:17:21.7914014+02:00"
+    }
+  ]
+}

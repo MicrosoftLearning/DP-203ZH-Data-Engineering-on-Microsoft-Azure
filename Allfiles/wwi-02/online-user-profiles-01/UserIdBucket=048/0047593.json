@@ -1,0 +1,37 @@
+{
+  "userId": 47593,
+  "cartId": "6f5aac19-aeeb-4020-96d0-8fe6ceecae3a",
+  "preferredProducts": [
+    2025,
+    4243,
+    1234,
+    4504
+  ],
+  "productReviews": [
+    {
+      "productId": 745,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-12-18T19:24:16.3818111+02:00"
+    },
+    {
+      "productId": 469,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-05-16T14:27:22.7856128+03:00"
+    },
+    {
+      "productId": 885,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-08-30T04:40:44.695247+03:00"
+    },
+    {
+      "productId": 1560,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2020-03-20T12:33:14.5243926+02:00"
+    },
+    {
+      "productId": 4440,
+      "reviewText": "this PCI is snowy.",
+      "reviewDate": "2018-01-07T06:54:54.4643888+02:00"
+    }
+  ]
+}

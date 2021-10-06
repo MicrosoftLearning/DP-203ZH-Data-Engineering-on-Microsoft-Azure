@@ -1,0 +1,27 @@
+{
+  "userId": 13312,
+  "cartId": "83ab4cee-948f-458f-a752-a849e8886b42",
+  "preferredProducts": [
+    3623,
+    1146,
+    3578,
+    3570,
+    1230,
+    2511,
+    4425,
+    2411,
+    37
+  ],
+  "productReviews": [
+    {
+      "productId": 4548,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-10-11T04:30:58.6495651+03:00"
+    },
+    {
+      "productId": 1012,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-03-03T06:42:26.9746899+02:00"
+    }
+  ]
+}

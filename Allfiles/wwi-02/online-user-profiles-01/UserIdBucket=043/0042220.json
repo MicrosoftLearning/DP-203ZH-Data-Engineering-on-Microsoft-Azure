@@ -1,0 +1,38 @@
+{
+  "userId": 42220,
+  "cartId": "dfc3e7a9-b89c-4fa8-839c-35699fe95536",
+  "preferredProducts": [
+    613,
+    2319,
+    1596,
+    1545,
+    2820,
+    2314,
+    316,
+    1509,
+    4167,
+    357
+  ],
+  "productReviews": [
+    {
+      "productId": 3563,
+      "reviewText": "this invoice is brown.",
+      "reviewDate": "2020-01-21T13:08:16.5432587+02:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-04-04T19:22:33.9216102+03:00"
+    },
+    {
+      "productId": 1243,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-12-30T16:30:17.0971296+02:00"
+    },
+    {
+      "productId": 3284,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-11-04T03:52:15.7984818+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 6146,
+  "cartId": "fab44f89-b735-47fe-8555-dcb4bca954e8",
+  "preferredProducts": [
+    1491,
+    4640
+  ],
+  "productReviews": [
+    {
+      "productId": 2410,
+      "reviewText": "this Division is tasty.",
+      "reviewDate": "2018-03-27T02:13:19.3976101+03:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-09-03T11:47:20.8541222+03:00"
+    },
+    {
+      "productId": 2136,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-12-19T14:18:15.2072716+02:00"
+    },
+    {
+      "productId": 2094,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-02-06T15:42:35.1991841+02:00"
+    },
+    {
+      "productId": 3335,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-11-06T09:31:41.63861+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 68303,
+  "cartId": "90cee177-345d-4a13-8b64-20360ab96457",
+  "preferredProducts": [
+    4336,
+    906,
+    488,
+    1967,
+    3441,
+    3765,
+    3049,
+    1581,
+    2037
+  ],
+  "productReviews": [
+    {
+      "productId": 664,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-12-02T12:28:45.1818149+02:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "This is a really good Berkshire.",
+      "reviewDate": "2020-03-09T07:01:34.4227106+02:00"
+    }
+  ]
+}

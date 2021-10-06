@@ -1,0 +1,25 @@
+{
+  "userId": 2494,
+  "cartId": "547439e0-a0bb-4074-81e9-27aec96ada90",
+  "preferredProducts": [
+    973,
+    1382
+  ],
+  "productReviews": [
+    {
+      "productId": 2977,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-07-18T16:37:31.0671311+03:00"
+    },
+    {
+      "productId": 3047,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-05-14T13:26:30.0694736+03:00"
+    },
+    {
+      "productId": 4425,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-06-22T04:49:53.2616137+03:00"
+    }
+  ]
+}

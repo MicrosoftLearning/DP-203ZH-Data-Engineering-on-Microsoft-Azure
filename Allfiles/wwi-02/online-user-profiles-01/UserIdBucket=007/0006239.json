@@ -1,0 +1,39 @@
+{
+  "userId": 6239,
+  "cartId": "1e0aacd6-ac9c-43f2-ac2f-5f326f397533",
+  "preferredProducts": [
+    3255,
+    3053,
+    2961,
+    1781,
+    3245,
+    4731
+  ],
+  "productReviews": [
+    {
+      "productId": 665,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-12-27T21:50:28.8311344+02:00"
+    },
+    {
+      "productId": 4492,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-11-24T01:33:02.6620448+02:00"
+    },
+    {
+      "productId": 3997,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-03-17T01:20:25.2512708+02:00"
+    },
+    {
+      "productId": 4908,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-08-20T12:38:33.1773319+03:00"
+    },
+    {
+      "productId": 1028,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-01-17T06:23:55.0832757+02:00"
+    }
+  ]
+}

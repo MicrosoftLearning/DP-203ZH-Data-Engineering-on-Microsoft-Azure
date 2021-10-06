@@ -1,0 +1,31 @@
+{
+  "userId": 11701,
+  "cartId": "8d69e2e2-f083-4da2-9b2b-037816432dd7",
+  "preferredProducts": [
+    3536,
+    4685,
+    1563,
+    2808,
+    642,
+    706,
+    1177,
+    1791
+  ],
+  "productReviews": [
+    {
+      "productId": 2805,
+      "reviewText": "this functionalities is awesome.",
+      "reviewDate": "2018-12-07T11:46:59.2890783+02:00"
+    },
+    {
+      "productId": 2552,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-05-02T17:51:15.047689+03:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-05-23T03:43:18.876551+03:00"
+    }
+  ]
+}

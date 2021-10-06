@@ -1,0 +1,38 @@
+{
+  "userId": 54033,
+  "cartId": "72ad7101-3639-4b4c-b931-2a2e0effa2e0",
+  "preferredProducts": [
+    69,
+    729,
+    2342,
+    4854,
+    4313,
+    1667,
+    4670,
+    1214,
+    2947,
+    1886
+  ],
+  "productReviews": [
+    {
+      "productId": 3676,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-04-02T20:27:40.5017739+03:00"
+    },
+    {
+      "productId": 1355,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-05-10T01:58:24.0584998+03:00"
+    },
+    {
+      "productId": 4926,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-06-17T09:27:41.9024422+03:00"
+    },
+    {
+      "productId": 145,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2020-02-25T22:05:03.3668684+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 81286,
+  "cartId": "0d29d472-255a-464f-bfbe-2ea96ea228ed",
+  "preferredProducts": [
+    2112,
+    1622,
+    4528,
+    116,
+    2231
+  ],
+  "productReviews": [
+    {
+      "productId": 44,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-01-02T05:11:59.0323052+02:00"
+    },
+    {
+      "productId": 2523,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-04-28T17:00:08.6125802+03:00"
+    },
+    {
+      "productId": 1390,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-10-09T00:40:04.8916451+03:00"
+    }
+  ]
+}

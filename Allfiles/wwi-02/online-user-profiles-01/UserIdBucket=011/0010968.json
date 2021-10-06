@@ -1,0 +1,34 @@
+{
+  "userId": 10968,
+  "cartId": "91a0151a-d67d-4060-86f4-50d85e48b178",
+  "preferredProducts": [
+    4248,
+    1998,
+    4789,
+    4992,
+    4997,
+    1309
+  ],
+  "productReviews": [
+    {
+      "productId": 1151,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-08-29T09:38:23.7178456+03:00"
+    },
+    {
+      "productId": 3618,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-05-02T13:07:22.1129376+03:00"
+    },
+    {
+      "productId": 4388,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-04-19T07:26:16.2063178+03:00"
+    },
+    {
+      "productId": 2290,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-01-31T18:16:25.2087934+02:00"
+    }
+  ]
+}

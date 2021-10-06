@@ -1,0 +1,30 @@
+{
+  "userId": 90646,
+  "cartId": "711a18ef-83e6-4c77-86b4-4fd5ea4cf2d5",
+  "preferredProducts": [
+    760,
+    124,
+    3815,
+    3970,
+    2533,
+    2149,
+    2052
+  ],
+  "productReviews": [
+    {
+      "productId": 987,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-05-15T21:59:18.5383006+03:00"
+    },
+    {
+      "productId": 2825,
+      "reviewText": "This infrastructures works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2017-09-16T09:10:49.2504302+03:00"
+    },
+    {
+      "productId": 4128,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-08-04T13:24:25.9584912+03:00"
+    }
+  ]
+}

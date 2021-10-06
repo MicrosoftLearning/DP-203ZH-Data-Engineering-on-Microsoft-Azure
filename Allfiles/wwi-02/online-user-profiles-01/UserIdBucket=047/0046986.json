@@ -1,0 +1,33 @@
+{
+  "userId": 46986,
+  "cartId": "9ec5a497-c8f2-462c-b197-c1c1da05792e",
+  "preferredProducts": [
+    369,
+    1937,
+    4562,
+    4157,
+    656,
+    690,
+    1501,
+    2117,
+    4353,
+    4549
+  ],
+  "productReviews": [
+    {
+      "productId": 2955,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-03-09T23:43:28.6742628+02:00"
+    },
+    {
+      "productId": 3067,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-12-11T00:30:41.0121605+02:00"
+    },
+    {
+      "productId": 2734,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-12-21T16:31:23.2865468+02:00"
+    }
+  ]
+}

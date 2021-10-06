@@ -1,0 +1,30 @@
+{
+  "userId": 35099,
+  "cartId": "c7bcccc5-a6e3-433b-a52b-ef6dcc06774c",
+  "preferredProducts": [
+    3622,
+    4301,
+    2263,
+    1283,
+    2619,
+    1734,
+    760
+  ],
+  "productReviews": [
+    {
+      "productId": 4628,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-07-14T11:23:11.7219582+03:00"
+    },
+    {
+      "productId": 1322,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-05-21T22:46:31.2529038+03:00"
+    },
+    {
+      "productId": 4588,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-09-19T01:26:45.678493+03:00"
+    }
+  ]
+}

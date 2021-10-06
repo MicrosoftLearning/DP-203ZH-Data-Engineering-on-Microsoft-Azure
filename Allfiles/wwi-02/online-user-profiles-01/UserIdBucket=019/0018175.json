@@ -1,0 +1,38 @@
+{
+  "userId": 18175,
+  "cartId": "2a0d491d-c186-4e21-9bb9-baff364603dc",
+  "preferredProducts": [
+    1420,
+    4417,
+    3143,
+    1583,
+    2601
+  ],
+  "productReviews": [
+    {
+      "productId": 3526,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-06-01T16:45:38.1424023+03:00"
+    },
+    {
+      "productId": 3834,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-19T17:16:23.9857941+02:00"
+    },
+    {
+      "productId": 956,
+      "reviewText": "This Metal works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-07-03T23:13:48.7046158+03:00"
+    },
+    {
+      "productId": 957,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-06-16T15:51:31.7642562+03:00"
+    },
+    {
+      "productId": 2834,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-04-26T15:16:26.3148854+03:00"
+    }
+  ]
+}

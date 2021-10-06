@@ -1,0 +1,33 @@
+{
+  "userId": 21336,
+  "cartId": "b65dcf1b-d6a8-4786-97e3-bc02fa7c0f68",
+  "preferredProducts": [
+    2966,
+    584,
+    1243,
+    4645,
+    1972
+  ],
+  "productReviews": [
+    {
+      "productId": 4516,
+      "reviewText": "this Georgia is vertical.",
+      "reviewDate": "2018-01-26T20:32:04.8988442+02:00"
+    },
+    {
+      "productId": 1771,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-09-01T14:24:42.9871403+03:00"
+    },
+    {
+      "productId": 4116,
+      "reviewText": "This Wooden works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-05-23T16:34:18.3051828+03:00"
+    },
+    {
+      "productId": 709,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-05-31T04:46:41.6072706+03:00"
+    }
+  ]
+}

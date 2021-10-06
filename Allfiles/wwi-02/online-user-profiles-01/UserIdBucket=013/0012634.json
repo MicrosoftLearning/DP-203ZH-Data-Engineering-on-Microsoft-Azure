@@ -1,0 +1,41 @@
+{
+  "userId": 12634,
+  "cartId": "5f0686eb-f464-4aa6-8d6e-5f821de1f7a6",
+  "preferredProducts": [
+    1001,
+    458,
+    1413,
+    2811,
+    3013,
+    3899,
+    1131,
+    3794
+  ],
+  "productReviews": [
+    {
+      "productId": 491,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-03-28T13:37:47.7993416+02:00"
+    },
+    {
+      "productId": 3796,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-11-10T15:14:26.8566142+02:00"
+    },
+    {
+      "productId": 4644,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-11-28T14:55:13.2617478+02:00"
+    },
+    {
+      "productId": 4907,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-06-18T02:19:36.4866766+03:00"
+    },
+    {
+      "productId": 2337,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-12-14T12:59:15.1981423+02:00"
+    }
+  ]
+}

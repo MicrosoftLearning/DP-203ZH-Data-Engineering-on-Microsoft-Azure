@@ -1,0 +1,29 @@
+{
+  "userId": 63258,
+  "cartId": "798e05ae-7856-4d36-9f44-ed98fe59de5b",
+  "preferredProducts": [
+    4317,
+    3813,
+    2225,
+    2569,
+    1353,
+    223
+  ],
+  "productReviews": [
+    {
+      "productId": 2033,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-07-19T03:29:36.4285328+03:00"
+    },
+    {
+      "productId": 3263,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2020-01-31T00:42:51.4684408+02:00"
+    },
+    {
+      "productId": 3588,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-09-14T14:05:40.1989096+03:00"
+    }
+  ]
+}

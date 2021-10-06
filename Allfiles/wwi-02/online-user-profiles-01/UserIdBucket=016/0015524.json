@@ -1,0 +1,28 @@
+{
+  "userId": 15524,
+  "cartId": "e8f07c12-e778-4078-acd2-1ede492a27f3",
+  "preferredProducts": [
+    1367,
+    2442,
+    850,
+    1404,
+    630
+  ],
+  "productReviews": [
+    {
+      "productId": 4684,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-08-16T20:57:40.3300433+03:00"
+    },
+    {
+      "productId": 858,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-04-14T02:51:48.3313299+03:00"
+    },
+    {
+      "productId": 4521,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-10-20T16:17:12.6298539+03:00"
+    }
+  ]
+}

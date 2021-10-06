@@ -1,0 +1,34 @@
+{
+  "userId": 42507,
+  "cartId": "f2ad8475-7cef-426c-870c-9adf9aa5abb7",
+  "preferredProducts": [
+    3157,
+    2662,
+    1265,
+    230,
+    2223,
+    1312
+  ],
+  "productReviews": [
+    {
+      "productId": 939,
+      "reviewText": "this Marketing is standard.",
+      "reviewDate": "2016-05-31T15:00:48.3690319+03:00"
+    },
+    {
+      "productId": 4160,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-03-04T17:50:56.6104363+02:00"
+    },
+    {
+      "productId": 2731,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-29T00:41:03.9788548+03:00"
+    },
+    {
+      "productId": 1503,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-04-13T10:22:57.1654435+03:00"
+    }
+  ]
+}

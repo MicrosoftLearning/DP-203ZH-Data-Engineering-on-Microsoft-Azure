@@ -1,0 +1,33 @@
+{
+  "userId": 79893,
+  "cartId": "1c6a0404-7f9f-45b4-af8c-2c36c7468206",
+  "preferredProducts": [
+    3261,
+    2154,
+    2019,
+    837,
+    2597,
+    4841,
+    2067,
+    544,
+    2181,
+    330
+  ],
+  "productReviews": [
+    {
+      "productId": 4128,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-11-12T20:07:16.468507+02:00"
+    },
+    {
+      "productId": 1602,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-01-04T18:11:47.755583+02:00"
+    },
+    {
+      "productId": 2464,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-02-27T05:06:16.3703714+02:00"
+    }
+  ]
+}

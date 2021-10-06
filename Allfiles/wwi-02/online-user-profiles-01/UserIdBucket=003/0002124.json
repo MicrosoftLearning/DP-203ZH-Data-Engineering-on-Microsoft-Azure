@@ -1,0 +1,31 @@
+{
+  "userId": 2124,
+  "cartId": "63bdb243-c0b4-46df-8e32-5eb8d3ebb2d6",
+  "preferredProducts": [
+    2308,
+    4708,
+    2895,
+    3873,
+    2177,
+    2051,
+    1962,
+    629
+  ],
+  "productReviews": [
+    {
+      "productId": 3214,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-03-17T16:04:41.022636+02:00"
+    },
+    {
+      "productId": 3569,
+      "reviewText": "This silver, does exactly what it's suppose to do.",
+      "reviewDate": "2018-01-08T08:33:48.0018399+02:00"
+    },
+    {
+      "productId": 1542,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-03-16T02:13:53.5467143+02:00"
+    }
+  ]
+}

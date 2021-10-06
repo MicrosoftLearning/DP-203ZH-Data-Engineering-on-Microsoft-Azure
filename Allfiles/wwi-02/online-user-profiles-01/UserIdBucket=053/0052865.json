@@ -1,0 +1,41 @@
+{
+  "userId": 52865,
+  "cartId": "6d61756e-ec30-40d7-8c09-3607ff7c3782",
+  "preferredProducts": [
+    850,
+    437,
+    2742,
+    763,
+    4376,
+    3923,
+    15,
+    1849
+  ],
+  "productReviews": [
+    {
+      "productId": 1858,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-12-12T18:17:47.8650611+02:00"
+    },
+    {
+      "productId": 4706,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-11-30T11:20:42.6251935+02:00"
+    },
+    {
+      "productId": 3212,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-07-21T05:10:14.4751869+03:00"
+    },
+    {
+      "productId": 2898,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-09-09T23:10:52.0343404+03:00"
+    },
+    {
+      "productId": 1348,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-06-28T03:56:05.8593278+03:00"
+    }
+  ]
+}

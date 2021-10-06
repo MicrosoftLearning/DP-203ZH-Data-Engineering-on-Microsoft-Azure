@@ -1,0 +1,26 @@
+{
+  "userId": 30645,
+  "cartId": "65e48c49-62cf-4f07-890f-77dadfacd88c",
+  "preferredProducts": [
+    1967,
+    2414,
+    207
+  ],
+  "productReviews": [
+    {
+      "productId": 4066,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-09-05T06:45:39.932843+03:00"
+    },
+    {
+      "productId": 1751,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-01-08T16:56:06.5991846+02:00"
+    },
+    {
+      "productId": 326,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-05-02T14:09:27.2842852+03:00"
+    }
+  ]
+}

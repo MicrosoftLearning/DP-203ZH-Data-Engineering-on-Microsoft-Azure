@@ -1,0 +1,30 @@
+{
+  "userId": 40473,
+  "cartId": "ef7f256f-12fe-447b-acac-a5cb455942fc",
+  "preferredProducts": [
+    2012,
+    2173,
+    496,
+    4234,
+    1705,
+    1918,
+    3955
+  ],
+  "productReviews": [
+    {
+      "productId": 1591,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-09-27T18:28:27.6530685+03:00"
+    },
+    {
+      "productId": 4242,
+      "reviewText": "this Nevada is standard.",
+      "reviewDate": "2016-06-10T19:42:51.4985519+03:00"
+    },
+    {
+      "productId": 3930,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-07-01T22:04:50.2754475+03:00"
+    }
+  ]
+}

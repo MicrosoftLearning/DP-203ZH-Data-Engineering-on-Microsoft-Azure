@@ -1,0 +1,31 @@
+{
+  "userId": 37650,
+  "cartId": "9bb49b5c-90e7-4886-a32d-817ec2c006f2",
+  "preferredProducts": [
+    1880,
+    498,
+    2577,
+    865,
+    1937,
+    2043,
+    3319,
+    4433
+  ],
+  "productReviews": [
+    {
+      "productId": 351,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-10-26T19:24:19.1048721+03:00"
+    },
+    {
+      "productId": 919,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-10-31T13:17:35.4883109+02:00"
+    },
+    {
+      "productId": 2027,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-12-04T03:43:49.6902361+02:00"
+    }
+  ]
+}

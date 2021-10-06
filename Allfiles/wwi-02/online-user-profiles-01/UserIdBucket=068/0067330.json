@@ -1,0 +1,30 @@
+{
+  "userId": 67330,
+  "cartId": "08b89e93-0781-423a-a300-5116497b6563",
+  "preferredProducts": [
+    1134,
+    381
+  ],
+  "productReviews": [
+    {
+      "productId": 176,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-09-29T07:03:34.6694719+03:00"
+    },
+    {
+      "productId": 1932,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-01-10T00:38:32.6822052+02:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-06-28T05:25:20.0355945+03:00"
+    },
+    {
+      "productId": 3008,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2020-04-17T01:31:24.9417723+03:00"
+    }
+  ]
+}

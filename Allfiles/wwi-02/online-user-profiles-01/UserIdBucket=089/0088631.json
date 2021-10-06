@@ -1,0 +1,36 @@
+{
+  "userId": 88631,
+  "cartId": "1c183ea5-e7cc-41b2-a44f-0df18c6a0b4d",
+  "preferredProducts": [
+    1529,
+    3000,
+    2787,
+    426,
+    412,
+    1252,
+    2781,
+    4280
+  ],
+  "productReviews": [
+    {
+      "productId": 4195,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-09-28T20:27:43.3503714+03:00"
+    },
+    {
+      "productId": 2347,
+      "reviewText": "This middleware works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2016-05-22T23:50:14.5809173+03:00"
+    },
+    {
+      "productId": 1637,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-05-27T03:26:32.9242116+03:00"
+    },
+    {
+      "productId": 1449,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-04-26T16:54:45.6074989+03:00"
+    }
+  ]
+}

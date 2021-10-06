@@ -1,0 +1,29 @@
+{
+  "userId": 61534,
+  "cartId": "f7520290-b346-4c76-b50f-1428eb2ad6a0",
+  "preferredProducts": [
+    4968,
+    3225,
+    4252,
+    850,
+    1710,
+    2257
+  ],
+  "productReviews": [
+    {
+      "productId": 3927,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-12-17T10:20:12.7361019+02:00"
+    },
+    {
+      "productId": 3311,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-06-03T00:02:25.3704663+03:00"
+    },
+    {
+      "productId": 2287,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-12-04T13:50:57.6271839+02:00"
+    }
+  ]
+}

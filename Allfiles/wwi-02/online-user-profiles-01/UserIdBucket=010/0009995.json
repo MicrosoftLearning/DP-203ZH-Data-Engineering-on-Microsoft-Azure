@@ -1,0 +1,43 @@
+{
+  "userId": 9995,
+  "cartId": "958617c6-e071-47d2-bbfe-07e576c7df09",
+  "preferredProducts": [
+    1650,
+    321,
+    2015,
+    1694,
+    606,
+    2257,
+    3766,
+    1391,
+    1161,
+    4778
+  ],
+  "productReviews": [
+    {
+      "productId": 170,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-01-22T11:54:21.4630941+02:00"
+    },
+    {
+      "productId": 1873,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-02-02T06:53:00.0384958+02:00"
+    },
+    {
+      "productId": 1236,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-08-20T21:50:49.5001457+03:00"
+    },
+    {
+      "productId": 3253,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2020-01-11T04:14:23.7485793+02:00"
+    },
+    {
+      "productId": 4178,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-11-23T20:05:16.1485479+02:00"
+    }
+  ]
+}

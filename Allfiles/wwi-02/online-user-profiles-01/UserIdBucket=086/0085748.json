@@ -1,0 +1,30 @@
+{
+  "userId": 85748,
+  "cartId": "81e4027c-4d4a-4ef4-b1b8-81c5a64cd950",
+  "preferredProducts": [
+    2615,
+    2861
+  ],
+  "productReviews": [
+    {
+      "productId": 3181,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-03-04T10:49:22.9871433+02:00"
+    },
+    {
+      "productId": 367,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-03-28T13:08:24.5202269+03:00"
+    },
+    {
+      "productId": 3354,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-06-24T13:11:52.2996241+03:00"
+    },
+    {
+      "productId": 1864,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-01-04T12:38:37.8375023+02:00"
+    }
+  ]
+}

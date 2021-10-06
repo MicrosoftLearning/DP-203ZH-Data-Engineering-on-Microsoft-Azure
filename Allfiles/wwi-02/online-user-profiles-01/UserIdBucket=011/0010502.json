@@ -1,0 +1,41 @@
+{
+  "userId": 10502,
+  "cartId": "3fac895c-e199-46a8-98fa-309ff5e902c7",
+  "preferredProducts": [
+    160,
+    4176,
+    1167,
+    3067,
+    2384,
+    2377,
+    658,
+    3147
+  ],
+  "productReviews": [
+    {
+      "productId": 2383,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-04-12T17:41:58.9945428+03:00"
+    },
+    {
+      "productId": 2894,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-07-25T12:47:23.238001+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-08-23T22:30:41.2884632+03:00"
+    },
+    {
+      "productId": 1302,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-11-07T17:31:41.7357529+02:00"
+    },
+    {
+      "productId": 264,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-04-28T03:12:49.8097308+03:00"
+    }
+  ]
+}

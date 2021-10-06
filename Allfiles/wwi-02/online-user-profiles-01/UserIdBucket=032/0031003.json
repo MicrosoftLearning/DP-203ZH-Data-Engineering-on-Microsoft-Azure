@@ -1,0 +1,33 @@
+{
+  "userId": 31003,
+  "cartId": "3cd1a1ad-d124-44bf-97d7-0b98b11bd42f",
+  "preferredProducts": [
+    1035,
+    1733,
+    1560,
+    2124,
+    4334,
+    964,
+    2782,
+    1314,
+    4151,
+    1620
+  ],
+  "productReviews": [
+    {
+      "productId": 765,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-07-20T07:08:40.0327533+03:00"
+    },
+    {
+      "productId": 1539,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-07-02T10:12:44.1443792+03:00"
+    },
+    {
+      "productId": 3465,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-01-30T05:43:52.8450273+02:00"
+    }
+  ]
+}

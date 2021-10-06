@@ -1,0 +1,34 @@
+{
+  "userId": 95661,
+  "cartId": "a82951a7-fd74-4bf3-b806-451ac959afe7",
+  "preferredProducts": [
+    2781,
+    893,
+    4437,
+    347,
+    329,
+    816
+  ],
+  "productReviews": [
+    {
+      "productId": 1890,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-07-05T15:58:25.2020992+03:00"
+    },
+    {
+      "productId": 2841,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-09-30T04:18:08.566224+03:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-06-29T02:19:54.9842283+03:00"
+    },
+    {
+      "productId": 3977,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-03-29T22:18:56.5080862+03:00"
+    }
+  ]
+}

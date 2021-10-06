@@ -1,0 +1,23 @@
+{
+  "userId": 69145,
+  "cartId": "7c8602db-b62f-4c50-a7aa-f7bfff8d48bb",
+  "preferredProducts": [
+    3786,
+    115,
+    3238,
+    238,
+    2369
+  ],
+  "productReviews": [
+    {
+      "productId": 3514,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-11-01T04:57:32.9752416+02:00"
+    },
+    {
+      "productId": 330,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-03-19T01:51:34.8522217+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 21786,
+  "cartId": "17cec338-12fc-4f6f-afc6-9be2613a72f9",
+  "preferredProducts": [
+    3033,
+    2859,
+    2539,
+    3903,
+    2612,
+    4185,
+    4036,
+    4148,
+    995,
+    771
+  ],
+  "productReviews": [
+    {
+      "productId": 4429,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-07-14T16:43:34.5616599+03:00"
+    },
+    {
+      "productId": 4083,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-06-27T21:07:33.466477+03:00"
+    },
+    {
+      "productId": 732,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-12-10T05:00:42.5632052+02:00"
+    },
+    {
+      "productId": 3811,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-06-28T05:07:11.4115942+03:00"
+    }
+  ]
+}

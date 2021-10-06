@@ -1,0 +1,23 @@
+{
+  "userId": 42252,
+  "cartId": "39b63276-796f-4f0a-b046-8e5b3d642b9c",
+  "preferredProducts": [
+    4083,
+    1862,
+    2134,
+    4018,
+    1224
+  ],
+  "productReviews": [
+    {
+      "productId": 4752,
+      "reviewText": "this deposit is standard.",
+      "reviewDate": "2017-09-03T16:59:30.3494749+03:00"
+    },
+    {
+      "productId": 2839,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-06-22T04:43:45.4858324+03:00"
+    }
+  ]
+}

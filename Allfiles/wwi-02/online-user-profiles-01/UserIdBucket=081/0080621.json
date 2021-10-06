@@ -1,0 +1,30 @@
+{
+  "userId": 80621,
+  "cartId": "0ef18a8d-ea99-4438-82af-eb38d76c28ac",
+  "preferredProducts": [
+    152,
+    324,
+    777,
+    4677,
+    1179,
+    2339,
+    2167
+  ],
+  "productReviews": [
+    {
+      "productId": 2729,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-12-28T00:14:15.9476043+02:00"
+    },
+    {
+      "productId": 4991,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-24T04:39:25.9121396+02:00"
+    },
+    {
+      "productId": 2243,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-11-05T04:30:52.6703091+02:00"
+    }
+  ]
+}

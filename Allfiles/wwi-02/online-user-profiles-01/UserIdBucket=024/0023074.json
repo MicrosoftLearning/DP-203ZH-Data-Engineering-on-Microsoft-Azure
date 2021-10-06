@@ -1,0 +1,27 @@
+{
+  "userId": 23074,
+  "cartId": "caf5c65e-c290-46d1-9c3a-9385b29bcf8f",
+  "preferredProducts": [
+    1104,
+    210,
+    2781,
+    1650
+  ],
+  "productReviews": [
+    {
+      "productId": 3808,
+      "reviewText": "this SMTP is mellow.",
+      "reviewDate": "2019-02-16T20:05:45.1506459+02:00"
+    },
+    {
+      "productId": 2065,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-05-14T10:52:02.2854569+03:00"
+    },
+    {
+      "productId": 3297,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-04-23T10:40:48.2350831+03:00"
+    }
+  ]
+}

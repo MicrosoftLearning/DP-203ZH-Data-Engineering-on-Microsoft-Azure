@@ -1,0 +1,31 @@
+{
+  "userId": 4637,
+  "cartId": "df5cbbb5-f27a-4e72-a8a9-8b666a10fe8c",
+  "preferredProducts": [
+    2214,
+    3650,
+    1423
+  ],
+  "productReviews": [
+    {
+      "productId": 1404,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-01-08T19:40:36.4040158+02:00"
+    },
+    {
+      "productId": 1548,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-07-13T03:26:25.1396718+03:00"
+    },
+    {
+      "productId": 859,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-05-11T16:31:15.4342269+03:00"
+    },
+    {
+      "productId": 3733,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-08-29T17:38:18.8522003+03:00"
+    }
+  ]
+}

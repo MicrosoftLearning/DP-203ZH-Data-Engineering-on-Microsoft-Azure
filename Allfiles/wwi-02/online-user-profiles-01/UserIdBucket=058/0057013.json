@@ -1,0 +1,30 @@
+{
+  "userId": 57013,
+  "cartId": "1f2d7f9e-086c-497a-8994-52dffdd4de38",
+  "preferredProducts": [
+    763,
+    3312
+  ],
+  "productReviews": [
+    {
+      "productId": 231,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-12-01T16:23:44.3837958+02:00"
+    },
+    {
+      "productId": 369,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-07-30T15:34:55.7334607+03:00"
+    },
+    {
+      "productId": 366,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-03-13T12:18:04.3174202+02:00"
+    },
+    {
+      "productId": 972,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-09-12T06:42:00.5087199+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 61034,
+  "cartId": "01a65453-1d47-4474-a777-dbc5f00ee109",
+  "preferredProducts": [
+    1589,
+    37,
+    114,
+    4676,
+    3654
+  ],
+  "productReviews": [
+    {
+      "productId": 2313,
+      "reviewText": "this plum is flirty.",
+      "reviewDate": "2018-05-27T17:53:10.0616206+03:00"
+    },
+    {
+      "productId": 692,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-10-19T22:20:54.72204+03:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-02-25T01:37:08.6695346+02:00"
+    },
+    {
+      "productId": 4946,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-04-15T12:19:58.4507769+03:00"
+    }
+  ]
+}

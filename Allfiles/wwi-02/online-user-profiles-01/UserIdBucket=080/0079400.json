@@ -1,0 +1,30 @@
+{
+  "userId": 79400,
+  "cartId": "46767d6d-2578-4df9-a1c2-b2d981590479",
+  "preferredProducts": [
+    2497,
+    4292,
+    3948,
+    1305,
+    3649,
+    2485,
+    1016
+  ],
+  "productReviews": [
+    {
+      "productId": 3854,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-08-02T11:29:02.0221721+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-12-05T02:17:48.5589495+02:00"
+    },
+    {
+      "productId": 3064,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-01-23T15:20:26.0769163+02:00"
+    }
+  ]
+}

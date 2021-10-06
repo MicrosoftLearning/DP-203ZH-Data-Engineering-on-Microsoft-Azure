@@ -1,0 +1,25 @@
+{
+  "userId": 5030,
+  "cartId": "9d79476c-ca53-434b-ba2a-7a478cd1c6c2",
+  "preferredProducts": [
+    260,
+    1234
+  ],
+  "productReviews": [
+    {
+      "productId": 4611,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-07-18T05:33:30.9279589+03:00"
+    },
+    {
+      "productId": 572,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-07-15T15:25:31.2695838+03:00"
+    },
+    {
+      "productId": 3261,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-05-04T10:54:36.9138161+03:00"
+    }
+  ]
+}

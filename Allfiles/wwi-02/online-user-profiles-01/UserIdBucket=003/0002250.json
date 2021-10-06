@@ -1,0 +1,27 @@
+{
+  "userId": 2250,
+  "cartId": "571ca266-acaa-4ab9-9a14-7b15d10aa56f",
+  "preferredProducts": [
+    1118,
+    4590,
+    4047,
+    3403
+  ],
+  "productReviews": [
+    {
+      "productId": 3368,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-11-19T03:06:48.0918929+02:00"
+    },
+    {
+      "productId": 2698,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-08-16T13:17:21.1436526+03:00"
+    },
+    {
+      "productId": 165,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-03-15T21:08:05.5446863+02:00"
+    }
+  ]
+}

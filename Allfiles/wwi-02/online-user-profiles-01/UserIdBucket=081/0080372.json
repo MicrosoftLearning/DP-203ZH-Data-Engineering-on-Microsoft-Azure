@@ -1,0 +1,30 @@
+{
+  "userId": 80372,
+  "cartId": "c41247c3-2638-4247-949b-3059ca58733b",
+  "preferredProducts": [
+    4949,
+    2611,
+    4136,
+    2930,
+    2153,
+    1182,
+    4655
+  ],
+  "productReviews": [
+    {
+      "productId": 4995,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-11-13T06:36:26.8385093+02:00"
+    },
+    {
+      "productId": 4386,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-10-04T13:18:54.1019712+03:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-10-26T01:32:37.2868687+03:00"
+    }
+  ]
+}

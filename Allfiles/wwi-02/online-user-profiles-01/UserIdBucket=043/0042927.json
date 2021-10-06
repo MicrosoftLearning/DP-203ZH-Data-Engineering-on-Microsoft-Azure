@@ -1,0 +1,37 @@
+{
+  "userId": 42927,
+  "cartId": "121e8844-b81a-439e-97d1-3eed483b5b4e",
+  "preferredProducts": [
+    2601,
+    3437,
+    2328,
+    1529,
+    1660,
+    256,
+    946,
+    3687,
+    2234
+  ],
+  "productReviews": [
+    {
+      "productId": 2324,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-08-03T04:39:45.538314+03:00"
+    },
+    {
+      "productId": 1409,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-07-20T06:34:37.2872675+03:00"
+    },
+    {
+      "productId": 1379,
+      "reviewText": "This Unbranded Concrete Mouse works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2017-01-16T05:24:49.1226612+02:00"
+    },
+    {
+      "productId": 1797,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-11-09T02:14:52.1198649+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 4251,
+  "cartId": "9d4caefb-5ba7-4607-b54e-4d51a3b6b688",
+  "preferredProducts": [
+    2310,
+    1292,
+    2180,
+    1871,
+    1600,
+    3907,
+    4427,
+    28,
+    4226
+  ],
+  "productReviews": [
+    {
+      "productId": 1151,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-10-02T19:40:54.1233724+03:00"
+    },
+    {
+      "productId": 3607,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-10-02T22:44:01.785298+03:00"
+    },
+    {
+      "productId": 4584,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-03-21T23:55:30.9137665+02:00"
+    }
+  ]
+}

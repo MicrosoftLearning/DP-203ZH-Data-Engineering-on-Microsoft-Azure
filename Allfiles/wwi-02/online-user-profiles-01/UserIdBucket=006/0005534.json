@@ -1,0 +1,30 @@
+{
+  "userId": 5534,
+  "cartId": "014a39f5-46f9-4228-83e5-90bd6b9c78cd",
+  "preferredProducts": [
+    1241,
+    11,
+    4083,
+    1796,
+    2011,
+    2311,
+    1199
+  ],
+  "productReviews": [
+    {
+      "productId": 1931,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-02-28T16:54:29.9508793+02:00"
+    },
+    {
+      "productId": 2728,
+      "reviewText": "This Small Cotton Pants works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-07-25T02:10:26.6862486+03:00"
+    },
+    {
+      "productId": 2144,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-06-17T02:40:11.9730944+03:00"
+    }
+  ]
+}

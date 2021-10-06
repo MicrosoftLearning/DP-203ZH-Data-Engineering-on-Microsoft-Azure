@@ -1,0 +1,31 @@
+{
+  "userId": 2269,
+  "cartId": "de6c395a-0305-45c7-b64a-cd30aa456f06",
+  "preferredProducts": [
+    2881,
+    4125,
+    395,
+    2899,
+    2913,
+    541,
+    3022,
+    3622
+  ],
+  "productReviews": [
+    {
+      "productId": 1461,
+      "reviewText": "This teal works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2018-09-22T07:04:28.6058455+03:00"
+    },
+    {
+      "productId": 4434,
+      "reviewText": "this Argentine Peso is tasty.",
+      "reviewDate": "2018-07-20T05:51:40.306716+03:00"
+    },
+    {
+      "productId": 4303,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-10-17T11:55:11.5847641+03:00"
+    }
+  ]
+}

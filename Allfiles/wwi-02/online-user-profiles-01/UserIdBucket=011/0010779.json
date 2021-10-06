@@ -1,0 +1,36 @@
+{
+  "userId": 10779,
+  "cartId": "6400c44c-efe2-456f-9c3a-80cc2c4ea668",
+  "preferredProducts": [
+    233,
+    4677,
+    1497
+  ],
+  "productReviews": [
+    {
+      "productId": 1264,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-04-18T18:47:03.7276461+03:00"
+    },
+    {
+      "productId": 49,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-02-04T10:56:59.9732229+02:00"
+    },
+    {
+      "productId": 2043,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-01-07T21:25:27.3134082+02:00"
+    },
+    {
+      "productId": 355,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-03-18T01:28:04.121647+02:00"
+    },
+    {
+      "productId": 169,
+      "reviewText": "this Ranch is top-notch.",
+      "reviewDate": "2017-02-24T12:56:41.4325985+02:00"
+    }
+  ]
+}

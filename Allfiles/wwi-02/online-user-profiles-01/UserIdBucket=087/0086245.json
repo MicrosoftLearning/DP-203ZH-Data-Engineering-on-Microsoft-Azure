@@ -1,0 +1,28 @@
+{
+  "userId": 86245,
+  "cartId": "e18cb04d-965d-45e9-93ad-6206914cb1d5",
+  "preferredProducts": [
+    4893,
+    3924,
+    87,
+    4641,
+    2976
+  ],
+  "productReviews": [
+    {
+      "productId": 3506,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-01-03T00:50:25.9109712+02:00"
+    },
+    {
+      "productId": 3945,
+      "reviewText": "This program works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2020-02-03T20:10:57.4708459+02:00"
+    },
+    {
+      "productId": 2167,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-10-25T02:25:06.0001576+03:00"
+    }
+  ]
+}

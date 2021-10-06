@@ -1,0 +1,34 @@
+{
+  "userId": 16712,
+  "cartId": "db888218-e0ef-4ed6-b88b-df7a070a1d2d",
+  "preferredProducts": [
+    2755,
+    2617,
+    1603,
+    4334,
+    1857,
+    2393
+  ],
+  "productReviews": [
+    {
+      "productId": 3999,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-05-11T10:54:55.6715207+03:00"
+    },
+    {
+      "productId": 220,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-07-20T20:03:39.5132422+03:00"
+    },
+    {
+      "productId": 834,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-12-31T06:50:53.5494967+02:00"
+    },
+    {
+      "productId": 2717,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-06-20T16:10:37.8498713+03:00"
+    }
+  ]
+}

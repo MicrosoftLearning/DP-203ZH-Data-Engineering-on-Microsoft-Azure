@@ -1,0 +1,34 @@
+{
+  "userId": 83851,
+  "cartId": "ae58a698-7f2d-43e5-bdad-a1cd52ebd40d",
+  "preferredProducts": [
+    3740,
+    1386,
+    2004,
+    3369,
+    1617,
+    4989
+  ],
+  "productReviews": [
+    {
+      "productId": 1730,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-03-23T00:13:24.0880596+02:00"
+    },
+    {
+      "productId": 2469,
+      "reviewText": "this orange is revolting.",
+      "reviewDate": "2019-04-13T11:54:53.8824063+03:00"
+    },
+    {
+      "productId": 1383,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-05-06T21:01:16.8636111+03:00"
+    },
+    {
+      "productId": 2379,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-03-19T15:13:19.0843908+02:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 68928,
+  "cartId": "1b90d77c-c10e-4772-a51b-75c9364d585c",
+  "preferredProducts": [
+    2217,
+    4873,
+    449,
+    2722,
+    1708,
+    3554,
+    1195,
+    884,
+    3155
+  ],
+  "productReviews": [
+    {
+      "productId": 756,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-02-23T15:05:47.6728969+02:00"
+    },
+    {
+      "productId": 1162,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-10-26T08:36:21.3691017+03:00"
+    },
+    {
+      "productId": 4255,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-07-17T10:22:11.203626+03:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-05-06T20:54:12.2540061+03:00"
+    },
+    {
+      "productId": 4873,
+      "reviewText": "This cross-platform works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2017-10-25T10:47:07.6077072+03:00"
+    }
+  ]
+}

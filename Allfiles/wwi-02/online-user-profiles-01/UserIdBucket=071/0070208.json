@@ -1,0 +1,28 @@
+{
+  "userId": 70208,
+  "cartId": "6b2c689d-b28c-42fa-8a89-318bdb724685",
+  "preferredProducts": [
+    771,
+    2124,
+    2658,
+    2341,
+    4904
+  ],
+  "productReviews": [
+    {
+      "productId": 2480,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-01-21T00:47:10.9561848+02:00"
+    },
+    {
+      "productId": 390,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-05-05T10:20:03.4054218+03:00"
+    },
+    {
+      "productId": 116,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-01-18T13:42:36.8665266+02:00"
+    }
+  ]
+}

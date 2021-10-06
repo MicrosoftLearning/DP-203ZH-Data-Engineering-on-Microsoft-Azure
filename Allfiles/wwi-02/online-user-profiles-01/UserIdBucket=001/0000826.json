@@ -1,0 +1,35 @@
+{
+  "userId": 826,
+  "cartId": "c1cc11a9-d7c6-4321-bb7e-832131beb5a6",
+  "preferredProducts": [
+    4750,
+    3827
+  ],
+  "productReviews": [
+    {
+      "productId": 303,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-12-14T02:59:00.2922016+02:00"
+    },
+    {
+      "productId": 4437,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-01-29T20:24:23.1216108+02:00"
+    },
+    {
+      "productId": 3703,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-05-15T10:18:09.2589032+03:00"
+    },
+    {
+      "productId": 2763,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-03-04T18:00:38.2283431+02:00"
+    },
+    {
+      "productId": 4044,
+      "reviewText": "This solid state works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2020-04-12T19:18:59.6656519+03:00"
+    }
+  ]
+}

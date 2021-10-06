@@ -1,0 +1,33 @@
+{
+  "userId": 82337,
+  "cartId": "1fb921cb-83e4-4a82-89ea-f470d90889b9",
+  "preferredProducts": [
+    660,
+    4346,
+    3280,
+    4403,
+    233,
+    2448,
+    983,
+    1986,
+    3742,
+    3453
+  ],
+  "productReviews": [
+    {
+      "productId": 1112,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-11-16T23:46:45.0268157+02:00"
+    },
+    {
+      "productId": 205,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-02-13T05:09:18.008525+02:00"
+    },
+    {
+      "productId": 1393,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-03-18T07:28:12.8760578+02:00"
+    }
+  ]
+}

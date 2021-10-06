@@ -1,0 +1,33 @@
+{
+  "userId": 18600,
+  "cartId": "da2575f9-3a0e-444d-a74a-fb3c9c56a94c",
+  "preferredProducts": [
+    4654,
+    412,
+    2333,
+    2669,
+    189,
+    333,
+    2065,
+    1257,
+    1475,
+    2360
+  ],
+  "productReviews": [
+    {
+      "productId": 3476,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-08-02T14:48:06.6055574+03:00"
+    },
+    {
+      "productId": 2465,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2020-04-18T08:43:52.7481074+03:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-05-23T20:47:51.1135242+03:00"
+    }
+  ]
+}

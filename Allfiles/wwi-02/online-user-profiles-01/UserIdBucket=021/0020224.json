@@ -1,0 +1,26 @@
+{
+  "userId": 20224,
+  "cartId": "19fb94b1-2396-46d4-ad01-9ffb48ef34ac",
+  "preferredProducts": [
+    3943,
+    1438,
+    4732,
+    3980,
+    3898,
+    3263,
+    2399,
+    2383
+  ],
+  "productReviews": [
+    {
+      "productId": 2911,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-06-28T17:35:43.4473032+03:00"
+    },
+    {
+      "productId": 2958,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-08-15T10:50:47.4932278+03:00"
+    }
+  ]
+}

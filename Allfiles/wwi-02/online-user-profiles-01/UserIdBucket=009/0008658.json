@@ -1,0 +1,29 @@
+{
+  "userId": 8658,
+  "cartId": "e17e280c-ba72-4e4a-a71c-4bd96b84dd3e",
+  "preferredProducts": [
+    3393,
+    4114,
+    3703,
+    2157,
+    2973,
+    3545
+  ],
+  "productReviews": [
+    {
+      "productId": 3584,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-08-25T23:23:45.411004+03:00"
+    },
+    {
+      "productId": 4697,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-09-02T16:09:54.1643044+03:00"
+    },
+    {
+      "productId": 536,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-01-09T16:10:26.1294536+02:00"
+    }
+  ]
+}

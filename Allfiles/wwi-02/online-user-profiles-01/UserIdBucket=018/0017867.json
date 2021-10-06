@@ -1,0 +1,27 @@
+{
+  "userId": 17867,
+  "cartId": "2a907f5a-00d3-4b21-b9bf-d234b7332124",
+  "preferredProducts": [
+    4369,
+    2274,
+    3921,
+    4675
+  ],
+  "productReviews": [
+    {
+      "productId": 2206,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-01-12T14:11:53.7309028+02:00"
+    },
+    {
+      "productId": 99,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-09-24T05:40:29.4265247+03:00"
+    },
+    {
+      "productId": 1183,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-08-05T11:10:44.4586694+03:00"
+    }
+  ]
+}

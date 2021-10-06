@@ -1,0 +1,31 @@
+{
+  "userId": 90001,
+  "cartId": "5afe843b-3373-4b75-a33e-487dc9810a62",
+  "preferredProducts": [
+    4747,
+    1070,
+    4744
+  ],
+  "productReviews": [
+    {
+      "productId": 584,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-07-28T06:10:56.2707807+03:00"
+    },
+    {
+      "productId": 4981,
+      "reviewText": "this JBOD is flirty.",
+      "reviewDate": "2018-01-09T22:43:44.2867298+02:00"
+    },
+    {
+      "productId": 2629,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-06-15T14:52:18.4681624+03:00"
+    },
+    {
+      "productId": 2190,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-09-05T06:11:06.059192+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 5454,
+  "cartId": "bea752d3-535c-4c09-8333-c34533811284",
+  "preferredProducts": [
+    319,
+    4293,
+    2772
+  ],
+  "productReviews": [
+    {
+      "productId": 2853,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-02-17T16:53:02.6899772+02:00"
+    },
+    {
+      "productId": 3810,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-03-19T11:44:50.4810931+02:00"
+    },
+    {
+      "productId": 3346,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-09-08T05:50:47.3655813+03:00"
+    }
+  ]
+}

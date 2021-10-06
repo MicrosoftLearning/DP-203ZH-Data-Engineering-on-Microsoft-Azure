@@ -1,0 +1,42 @@
+{
+  "userId": 10279,
+  "cartId": "3fd3ebf1-3b43-4b14-ae4e-cc288f1f39b7",
+  "preferredProducts": [
+    3098,
+    2257,
+    261,
+    3675,
+    4710,
+    591,
+    1627,
+    2143,
+    1075
+  ],
+  "productReviews": [
+    {
+      "productId": 3849,
+      "reviewText": "this Cambridgeshire is top-notch.",
+      "reviewDate": "2019-01-22T06:20:03.0218575+02:00"
+    },
+    {
+      "productId": 4272,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-02-06T22:48:43.4473039+02:00"
+    },
+    {
+      "productId": 3394,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-02-07T14:38:06.368936+02:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-10-15T09:27:06.0053301+03:00"
+    },
+    {
+      "productId": 198,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-02-29T01:07:42.1954843+02:00"
+    }
+  ]
+}

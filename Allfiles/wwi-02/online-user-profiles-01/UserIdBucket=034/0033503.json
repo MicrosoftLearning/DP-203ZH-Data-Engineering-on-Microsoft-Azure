@@ -1,0 +1,37 @@
+{
+  "userId": 33503,
+  "cartId": "218eda64-61fc-4ca1-beef-16e8700dadda",
+  "preferredProducts": [
+    635,
+    1774,
+    3303,
+    512,
+    2229,
+    4645,
+    3666,
+    3413,
+    3248
+  ],
+  "productReviews": [
+    {
+      "productId": 397,
+      "reviewText": "this Plaza is slurpee.",
+      "reviewDate": "2018-05-24T02:34:20.1675865+03:00"
+    },
+    {
+      "productId": 4159,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-02-17T10:59:25.7855773+02:00"
+    },
+    {
+      "productId": 2881,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-06-10T01:16:42.628121+03:00"
+    },
+    {
+      "productId": 421,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2017-06-05T10:58:25.3345031+03:00"
+    }
+  ]
+}

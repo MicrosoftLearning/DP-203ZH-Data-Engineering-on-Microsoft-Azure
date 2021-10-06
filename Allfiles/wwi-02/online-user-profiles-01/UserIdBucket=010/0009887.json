@@ -1,0 +1,26 @@
+{
+  "userId": 9887,
+  "cartId": "6c1c95c9-31ed-48ea-844f-92ad6154dfe3",
+  "preferredProducts": [
+    2391,
+    3971,
+    1221
+  ],
+  "productReviews": [
+    {
+      "productId": 3924,
+      "reviewText": "this Small is mellow.",
+      "reviewDate": "2017-01-04T07:55:57.8955716+02:00"
+    },
+    {
+      "productId": 3672,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-06-16T13:25:23.2666342+03:00"
+    },
+    {
+      "productId": 2894,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-05-19T03:11:07.5036231+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 23767,
+  "cartId": "3882c050-42ff-4f9f-9647-72366f37709e",
+  "preferredProducts": [
+    1510,
+    4222,
+    2339,
+    2116,
+    3102,
+    34,
+    915,
+    2201,
+    3701,
+    4522
+  ],
+  "productReviews": [
+    {
+      "productId": 3177,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-11-02T01:34:04.9685034+02:00"
+    },
+    {
+      "productId": 4695,
+      "reviewText": "This red works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2016-06-23T17:35:51.4114428+03:00"
+    },
+    {
+      "productId": 2307,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-04-20T23:28:31.4352065+03:00"
+    }
+  ]
+}

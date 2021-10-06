@@ -1,0 +1,28 @@
+{
+  "userId": 43373,
+  "cartId": "e5bc0741-0706-438d-b648-ca47af576528",
+  "preferredProducts": [
+    4205,
+    2347,
+    3759,
+    4681,
+    2155
+  ],
+  "productReviews": [
+    {
+      "productId": 1319,
+      "reviewText": "this Rubber is smooth.",
+      "reviewDate": "2017-04-13T15:19:20.8747204+03:00"
+    },
+    {
+      "productId": 3806,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-04-14T09:37:46.2082454+03:00"
+    },
+    {
+      "productId": 1159,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-02-27T14:53:16.855692+02:00"
+    }
+  ]
+}

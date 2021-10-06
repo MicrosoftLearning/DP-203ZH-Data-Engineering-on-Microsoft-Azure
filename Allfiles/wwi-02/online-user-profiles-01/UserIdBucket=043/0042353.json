@@ -1,0 +1,31 @@
+{
+  "userId": 42353,
+  "cartId": "fed236fa-7222-4fb7-94a1-22d612c5acfa",
+  "preferredProducts": [
+    3897,
+    3841,
+    3282,
+    1244,
+    867,
+    1703,
+    389,
+    3409
+  ],
+  "productReviews": [
+    {
+      "productId": 4958,
+      "reviewText": "this Persevering is smooth.",
+      "reviewDate": "2017-12-25T21:47:15.196182+02:00"
+    },
+    {
+      "productId": 3481,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-04-15T09:13:02.0915168+03:00"
+    },
+    {
+      "productId": 3623,
+      "reviewText": "this Interactions is nifty.",
+      "reviewDate": "2018-06-12T01:14:28.8049246+03:00"
+    }
+  ]
+}

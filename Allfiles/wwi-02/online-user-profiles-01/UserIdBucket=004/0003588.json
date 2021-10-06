@@ -1,0 +1,30 @@
+{
+  "userId": 3588,
+  "cartId": "2d972d85-ee46-4725-b96b-0e60bb2fa44f",
+  "preferredProducts": [
+    3329,
+    3267,
+    2056,
+    168,
+    3898,
+    1849,
+    3991
+  ],
+  "productReviews": [
+    {
+      "productId": 2440,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-11-20T08:00:45.2620131+02:00"
+    },
+    {
+      "productId": 3542,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-06-18T16:54:28.8661272+03:00"
+    },
+    {
+      "productId": 3825,
+      "reviewText": "this Massachusetts is brown.",
+      "reviewDate": "2017-06-19T23:40:24.2543746+03:00"
+    }
+  ]
+}

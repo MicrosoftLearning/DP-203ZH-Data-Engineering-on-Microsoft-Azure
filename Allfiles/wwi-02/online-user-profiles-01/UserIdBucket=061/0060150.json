@@ -1,0 +1,29 @@
+{
+  "userId": 60150,
+  "cartId": "1eb25832-d44f-4b09-9a22-22b46945fbb4",
+  "preferredProducts": [
+    3122,
+    4418,
+    4859,
+    3695,
+    4595,
+    2931
+  ],
+  "productReviews": [
+    {
+      "productId": 2256,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-02-03T02:00:10.3141107+02:00"
+    },
+    {
+      "productId": 1348,
+      "reviewText": "This installation works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-08-17T19:57:34.4633786+03:00"
+    },
+    {
+      "productId": 663,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-01-28T19:47:21.4683165+02:00"
+    }
+  ]
+}

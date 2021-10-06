@@ -1,0 +1,36 @@
+{
+  "userId": 31081,
+  "cartId": "6c2552d6-6d05-43ab-8c55-8b983b6bebf4",
+  "preferredProducts": [
+    810,
+    74,
+    1725,
+    877,
+    2310,
+    3155,
+    1091,
+    2563
+  ],
+  "productReviews": [
+    {
+      "productId": 1759,
+      "reviewText": "this Concrete is hyper.",
+      "reviewDate": "2018-12-17T01:28:44.2799436+02:00"
+    },
+    {
+      "productId": 192,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-01-07T22:18:18.6304774+02:00"
+    },
+    {
+      "productId": 1855,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-01-06T04:22:59.2526667+02:00"
+    },
+    {
+      "productId": 3123,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-08-31T05:37:30.876496+03:00"
+    }
+  ]
+}

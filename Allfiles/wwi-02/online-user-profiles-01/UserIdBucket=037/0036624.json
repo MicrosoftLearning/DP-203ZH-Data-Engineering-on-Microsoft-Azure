@@ -1,0 +1,30 @@
+{
+  "userId": 36624,
+  "cartId": "90c2245e-2eae-4dbb-a691-70cf6b586076",
+  "preferredProducts": [
+    2753,
+    2241,
+    4787,
+    1352,
+    4111,
+    2615,
+    2564
+  ],
+  "productReviews": [
+    {
+      "productId": 2434,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-02-05T10:07:16.4511331+02:00"
+    },
+    {
+      "productId": 3256,
+      "reviewText": "This Forge works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-09-10T19:03:21.5746931+03:00"
+    },
+    {
+      "productId": 3042,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-12-10T00:22:38.5240804+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 50909,
+  "cartId": "a1453b64-f781-4af2-baf1-c8b641124fc6",
+  "preferredProducts": [
+    2963,
+    1165,
+    1347,
+    1037,
+    4060
+  ],
+  "productReviews": [
+    {
+      "productId": 1255,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-12-14T00:41:05.3624509+02:00"
+    },
+    {
+      "productId": 1283,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-11-13T15:51:33.6084431+02:00"
+    },
+    {
+      "productId": 3938,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-11-21T22:54:43.3084019+02:00"
+    },
+    {
+      "productId": 515,
+      "reviewText": "this Colorado is mellow.",
+      "reviewDate": "2020-01-23T08:59:34.6082161+02:00"
+    },
+    {
+      "productId": 445,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-02-26T06:13:01.6124492+02:00"
+    }
+  ]
+}

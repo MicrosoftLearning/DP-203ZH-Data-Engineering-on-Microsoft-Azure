@@ -1,0 +1,31 @@
+{
+  "userId": 23447,
+  "cartId": "7dd6cd4d-8887-43d3-8c88-b4026fa5f4ce",
+  "preferredProducts": [
+    1382,
+    2944,
+    4116,
+    4495,
+    3988,
+    3188,
+    738,
+    3871
+  ],
+  "productReviews": [
+    {
+      "productId": 1724,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-01-24T18:35:21.5824124+02:00"
+    },
+    {
+      "productId": 3343,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-05-25T15:28:19.5051318+03:00"
+    },
+    {
+      "productId": 3985,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-08-19T03:49:12.6720455+03:00"
+    }
+  ]
+}

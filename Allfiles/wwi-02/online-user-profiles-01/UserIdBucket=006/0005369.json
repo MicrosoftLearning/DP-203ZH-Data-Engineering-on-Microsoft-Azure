@@ -1,0 +1,27 @@
+{
+  "userId": 5369,
+  "cartId": "815e938b-cccc-4c34-b6f7-280ef5cf7774",
+  "preferredProducts": [
+    1289,
+    1005,
+    4704,
+    1351,
+    2821,
+    3007,
+    3164,
+    4828,
+    641
+  ],
+  "productReviews": [
+    {
+      "productId": 4109,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-05-21T17:14:04.4220505+03:00"
+    },
+    {
+      "productId": 2519,
+      "reviewText": "this Turkey is tasty.",
+      "reviewDate": "2016-06-10T03:00:18.3351085+03:00"
+    }
+  ]
+}

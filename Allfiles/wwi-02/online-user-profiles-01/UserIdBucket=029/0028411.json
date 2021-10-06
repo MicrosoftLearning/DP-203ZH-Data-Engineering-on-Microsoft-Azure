@@ -1,0 +1,32 @@
+{
+  "userId": 28411,
+  "cartId": "4af286bf-bc5c-4ff7-84d7-2516545208ac",
+  "preferredProducts": [
+    3685,
+    3038,
+    2875,
+    949
+  ],
+  "productReviews": [
+    {
+      "productId": 790,
+      "reviewText": "This deploy works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-05-03T08:20:52.5886177+03:00"
+    },
+    {
+      "productId": 2735,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-10-21T17:37:23.7946919+03:00"
+    },
+    {
+      "productId": 901,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-10-31T10:30:08.1687759+02:00"
+    },
+    {
+      "productId": 583,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-07-27T07:06:02.662874+03:00"
+    }
+  ]
+}

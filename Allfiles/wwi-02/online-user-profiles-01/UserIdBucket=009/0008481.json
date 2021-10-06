@@ -1,0 +1,27 @@
+{
+  "userId": 8481,
+  "cartId": "22e792de-17be-4960-a339-271f29f2c73d",
+  "preferredProducts": [
+    2861,
+    3013,
+    3958,
+    4508,
+    4273,
+    3972,
+    4407,
+    933,
+    3847
+  ],
+  "productReviews": [
+    {
+      "productId": 3275,
+      "reviewText": "this system is nifty.",
+      "reviewDate": "2018-05-23T15:13:22.2685525+03:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-08-13T05:34:01.1127755+03:00"
+    }
+  ]
+}

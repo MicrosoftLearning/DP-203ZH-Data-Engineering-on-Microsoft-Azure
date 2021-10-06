@@ -1,0 +1,32 @@
+{
+  "userId": 33390,
+  "cartId": "77f6681f-7c04-4264-8756-08a7e8b65d97",
+  "preferredProducts": [
+    1290,
+    1828,
+    3745,
+    4159
+  ],
+  "productReviews": [
+    {
+      "productId": 2452,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-04-11T17:39:15.6055264+03:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-08-02T23:07:22.0323434+03:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-01-26T22:15:41.5907834+02:00"
+    },
+    {
+      "productId": 3980,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-10-18T08:30:10.0832036+03:00"
+    }
+  ]
+}

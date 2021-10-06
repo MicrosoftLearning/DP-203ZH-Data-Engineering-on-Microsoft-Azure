@@ -1,0 +1,32 @@
+{
+  "userId": 25505,
+  "cartId": "6f4286f3-8130-47b7-9be2-abce1e02321f",
+  "preferredProducts": [
+    3730,
+    1296,
+    4321,
+    121
+  ],
+  "productReviews": [
+    {
+      "productId": 4191,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-10-29T03:33:38.9517955+02:00"
+    },
+    {
+      "productId": 4425,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-12-29T08:05:30.470738+02:00"
+    },
+    {
+      "productId": 3830,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2020-02-02T17:35:22.0157369+02:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-07-10T19:54:40.7995344+03:00"
+    }
+  ]
+}

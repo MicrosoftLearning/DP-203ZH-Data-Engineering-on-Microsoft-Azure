@@ -1,0 +1,30 @@
+{
+  "userId": 4817,
+  "cartId": "01c587de-f2db-4542-bf4f-312778acad75",
+  "preferredProducts": [
+    3154,
+    4533,
+    1965,
+    2700,
+    10,
+    4701,
+    4253
+  ],
+  "productReviews": [
+    {
+      "productId": 2206,
+      "reviewText": "this Interactions is awesome.",
+      "reviewDate": "2018-12-27T13:11:46.7127841+02:00"
+    },
+    {
+      "productId": 1918,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-08-13T15:27:45.2247726+03:00"
+    },
+    {
+      "productId": 4059,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-09-02T17:34:30.0858035+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 8932,
+  "cartId": "909de86a-b780-400d-a452-8d947c304873",
+  "preferredProducts": [
+    3020,
+    4801,
+    1531,
+    1540,
+    1252,
+    1918,
+    876,
+    1376,
+    1290
+  ],
+  "productReviews": [
+    {
+      "productId": 2768,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-05-26T04:00:36.6076177+03:00"
+    },
+    {
+      "productId": 548,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-02-13T20:02:37.7618686+02:00"
+    },
+    {
+      "productId": 3850,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-06-05T07:02:30.1988798+03:00"
+    },
+    {
+      "productId": 3585,
+      "reviewText": "this function is complimentary.",
+      "reviewDate": "2016-07-18T07:27:48.0904696+03:00"
+    }
+  ]
+}

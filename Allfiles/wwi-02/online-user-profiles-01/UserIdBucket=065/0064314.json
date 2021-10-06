@@ -1,0 +1,31 @@
+{
+  "userId": 64314,
+  "cartId": "a90be119-13aa-4cc7-a467-804e6da3c1ea",
+  "preferredProducts": [
+    2005,
+    3791,
+    434,
+    2730,
+    3080,
+    2923,
+    1653,
+    575
+  ],
+  "productReviews": [
+    {
+      "productId": 3254,
+      "reviewText": "this Quetzal is hyper.",
+      "reviewDate": "2018-08-24T02:14:06.9475119+03:00"
+    },
+    {
+      "productId": 62,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-12-12T23:39:33.8874026+02:00"
+    },
+    {
+      "productId": 3046,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2020-03-02T02:29:47.3628514+02:00"
+    }
+  ]
+}

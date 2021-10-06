@@ -1,0 +1,42 @@
+{
+  "userId": 23990,
+  "cartId": "76c027f7-45ff-471c-afda-85633c8b829a",
+  "preferredProducts": [
+    577,
+    414,
+    4079,
+    3214,
+    2449,
+    3366,
+    2534,
+    3682,
+    2444
+  ],
+  "productReviews": [
+    {
+      "productId": 1300,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-05-10T23:42:50.5656921+03:00"
+    },
+    {
+      "productId": 846,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-10-12T08:23:05.3761268+03:00"
+    },
+    {
+      "productId": 4725,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-08-29T17:57:16.4057979+03:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-11-04T06:03:30.3203422+02:00"
+    },
+    {
+      "productId": 1757,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-03-03T21:12:00.8856598+02:00"
+    }
+  ]
+}

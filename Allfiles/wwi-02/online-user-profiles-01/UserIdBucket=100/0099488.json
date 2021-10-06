@@ -1,0 +1,30 @@
+{
+  "userId": 99488,
+  "cartId": "ff7bc5ba-901d-46a2-8881-aa763732496b",
+  "preferredProducts": [
+    2267,
+    866
+  ],
+  "productReviews": [
+    {
+      "productId": 3019,
+      "reviewText": "this auxiliary is flirty.",
+      "reviewDate": "2016-11-11T12:34:47.3114965+02:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-04-21T17:55:54.8047296+03:00"
+    },
+    {
+      "productId": 65,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-05-10T13:54:37.0114401+03:00"
+    },
+    {
+      "productId": 436,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-12-15T19:22:10.6292668+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 93362,
+  "cartId": "4db89d78-fa52-49f2-aa93-2e3999ef688d",
+  "preferredProducts": [
+    3262,
+    399,
+    3763,
+    1839,
+    1650,
+    4794,
+    1435
+  ],
+  "productReviews": [
+    {
+      "productId": 2347,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-08-31T03:16:53.0929232+03:00"
+    },
+    {
+      "productId": 4354,
+      "reviewText": "this Generic Rubber Soap is awesome.",
+      "reviewDate": "2018-05-18T06:46:35.6535022+03:00"
+    },
+    {
+      "productId": 3106,
+      "reviewText": "This mint green works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-09-04T03:42:17.9917048+03:00"
+    },
+    {
+      "productId": 2455,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-05-03T08:58:50.1380702+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 3856,
+  "cartId": "e31fec6b-d58e-4d6a-9553-496ba3c4e225",
+  "preferredProducts": [
+    1323,
+    121,
+    3520,
+    4786,
+    3849
+  ],
+  "productReviews": [
+    {
+      "productId": 1214,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-03-26T06:15:07.9565842+02:00"
+    },
+    {
+      "productId": 1888,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-08-19T15:52:16.1703715+03:00"
+    },
+    {
+      "productId": 3774,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-10-23T01:54:49.6587659+03:00"
+    }
+  ]
+}

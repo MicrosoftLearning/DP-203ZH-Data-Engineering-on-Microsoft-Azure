@@ -1,0 +1,29 @@
+{
+  "userId": 83919,
+  "cartId": "a321b43f-ede3-4312-a33f-965b526a3e36",
+  "preferredProducts": [
+    750,
+    704,
+    874,
+    1780,
+    398,
+    804
+  ],
+  "productReviews": [
+    {
+      "productId": 208,
+      "reviewText": "this hard drive is gracious.",
+      "reviewDate": "2017-09-18T14:01:57.3123561+03:00"
+    },
+    {
+      "productId": 2278,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-08-23T14:51:06.9032094+03:00"
+    },
+    {
+      "productId": 4512,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-01-24T00:49:38.0599699+02:00"
+    }
+  ]
+}

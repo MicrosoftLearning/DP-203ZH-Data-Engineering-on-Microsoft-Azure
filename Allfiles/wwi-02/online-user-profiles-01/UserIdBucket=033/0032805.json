@@ -1,0 +1,27 @@
+{
+  "userId": 32805,
+  "cartId": "1dfb9af4-b8a7-4c72-a59d-5b6a8952d475",
+  "preferredProducts": [
+    3061,
+    123,
+    2276,
+    2060
+  ],
+  "productReviews": [
+    {
+      "productId": 1748,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-10-30T06:11:36.6933053+02:00"
+    },
+    {
+      "productId": 3273,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-03-05T08:15:32.3155508+02:00"
+    },
+    {
+      "productId": 4472,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-11-22T13:01:11.8915972+02:00"
+    }
+  ]
+}

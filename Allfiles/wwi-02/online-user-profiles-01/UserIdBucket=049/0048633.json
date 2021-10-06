@@ -1,0 +1,35 @@
+{
+  "userId": 48633,
+  "cartId": "45a8431a-5e8c-4a55-8ae6-e203ba896e05",
+  "preferredProducts": [
+    2064,
+    3665,
+    2863,
+    4805,
+    1519,
+    1748,
+    3509
+  ],
+  "productReviews": [
+    {
+      "productId": 664,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-01-21T14:09:40.4432184+02:00"
+    },
+    {
+      "productId": 229,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-06-04T00:17:17.530527+03:00"
+    },
+    {
+      "productId": 3293,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-10-12T23:52:49.7783216+03:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-08-18T19:20:16.8747809+03:00"
+    }
+  ]
+}

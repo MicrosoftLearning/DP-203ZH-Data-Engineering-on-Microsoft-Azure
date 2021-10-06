@@ -1,0 +1,32 @@
+{
+  "userId": 55024,
+  "cartId": "56f499aa-2ceb-4c24-b8df-19940d0323f5",
+  "preferredProducts": [
+    4167,
+    3444,
+    3191,
+    2502
+  ],
+  "productReviews": [
+    {
+      "productId": 3098,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-08-21T06:58:30.0229441+03:00"
+    },
+    {
+      "productId": 421,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-01-31T12:21:08.2906499+02:00"
+    },
+    {
+      "productId": 456,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-07-22T19:28:50.1565439+03:00"
+    },
+    {
+      "productId": 2579,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-01-24T04:35:55.2515925+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 20641,
+  "cartId": "49fe7977-68ce-452c-a61f-399d99cb1a62",
+  "preferredProducts": [
+    4849,
+    3526,
+    2313,
+    1891
+  ],
+  "productReviews": [
+    {
+      "productId": 2115,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-12-06T19:24:51.3097009+02:00"
+    },
+    {
+      "productId": 2244,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-05-10T08:44:42.026337+03:00"
+    },
+    {
+      "productId": 1448,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-03-06T11:58:24.1582375+02:00"
+    },
+    {
+      "productId": 2069,
+      "reviewText": "this withdrawal is mellow.",
+      "reviewDate": "2016-10-03T23:54:41.0751015+03:00"
+    }
+  ]
+}

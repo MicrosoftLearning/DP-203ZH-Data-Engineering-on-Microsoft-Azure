@@ -1,0 +1,30 @@
+{
+  "userId": 64223,
+  "cartId": "968814c0-3523-4d10-8dbd-92413ea6c123",
+  "preferredProducts": [
+    4072,
+    4963,
+    387,
+    2972,
+    25,
+    4952,
+    947
+  ],
+  "productReviews": [
+    {
+      "productId": 512,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-10-06T20:42:01.9699025+03:00"
+    },
+    {
+      "productId": 2387,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-04-02T21:57:04.5550817+03:00"
+    },
+    {
+      "productId": 4450,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-12-01T07:14:23.2445406+02:00"
+    }
+  ]
+}

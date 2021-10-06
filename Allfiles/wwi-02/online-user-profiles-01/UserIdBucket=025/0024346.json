@@ -1,0 +1,25 @@
+{
+  "userId": 24346,
+  "cartId": "469f73e9-a88b-4728-9700-bcc16ff69918",
+  "preferredProducts": [
+    4343,
+    2169
+  ],
+  "productReviews": [
+    {
+      "productId": 4578,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-05-10T00:59:03.1818845+03:00"
+    },
+    {
+      "productId": 1365,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-12-04T11:58:14.5238958+02:00"
+    },
+    {
+      "productId": 2167,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-10-30T10:25:56.9982785+02:00"
+    }
+  ]
+}

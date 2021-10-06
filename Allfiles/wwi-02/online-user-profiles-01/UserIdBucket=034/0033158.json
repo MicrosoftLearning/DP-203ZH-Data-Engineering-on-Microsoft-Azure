@@ -1,0 +1,26 @@
+{
+  "userId": 33158,
+  "cartId": "4879db61-dc8a-4c2d-98b3-c26486d14481",
+  "preferredProducts": [
+    646,
+    1386,
+    3107
+  ],
+  "productReviews": [
+    {
+      "productId": 3257,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-07-24T23:35:43.859789+03:00"
+    },
+    {
+      "productId": 197,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-06-24T22:37:29.710335+03:00"
+    },
+    {
+      "productId": 2406,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-07-03T21:41:45.2678865+03:00"
+    }
+  ]
+}

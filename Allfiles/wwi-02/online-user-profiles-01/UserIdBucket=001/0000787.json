@@ -1,0 +1,38 @@
+{
+  "userId": 787,
+  "cartId": "1c629790-fb93-4c95-81b4-7b5fc15a53c6",
+  "preferredProducts": [
+    619,
+    442,
+    3439,
+    3832,
+    4914,
+    4504,
+    1188,
+    3725,
+    735,
+    1701
+  ],
+  "productReviews": [
+    {
+      "productId": 3504,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-05-19T13:40:26.731187+03:00"
+    },
+    {
+      "productId": 1640,
+      "reviewText": "this Outdoors is awesome.",
+      "reviewDate": "2016-05-31T03:49:21.3261244+03:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-12-29T19:25:47.9670405+02:00"
+    },
+    {
+      "productId": 336,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-08-10T05:24:00.4460471+03:00"
+    }
+  ]
+}

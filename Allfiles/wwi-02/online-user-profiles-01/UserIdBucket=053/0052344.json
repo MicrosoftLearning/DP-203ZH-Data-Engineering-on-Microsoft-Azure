@@ -1,0 +1,25 @@
+{
+  "userId": 52344,
+  "cartId": "1e424c2f-1097-4c5e-82ce-ef80b7952af2",
+  "preferredProducts": [
+    3797,
+    4002
+  ],
+  "productReviews": [
+    {
+      "productId": 1638,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-01-02T17:40:04.9436808+02:00"
+    },
+    {
+      "productId": 2457,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-06-17T00:56:51.1585899+03:00"
+    },
+    {
+      "productId": 2174,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-12-19T20:18:38.6767681+02:00"
+    }
+  ]
+}

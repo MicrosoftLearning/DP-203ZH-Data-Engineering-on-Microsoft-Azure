@@ -1,0 +1,43 @@
+{
+  "userId": 8677,
+  "cartId": "2a18e62e-2ab6-4c3f-8931-5fae10ca03ba",
+  "preferredProducts": [
+    4528,
+    527,
+    1699,
+    1804,
+    4527,
+    2171,
+    4331,
+    1403,
+    4595,
+    1354
+  ],
+  "productReviews": [
+    {
+      "productId": 4553,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-11-13T11:28:07.4126825+02:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-10-02T05:11:38.3241448+03:00"
+    },
+    {
+      "productId": 2233,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-10-02T22:19:07.9788419+03:00"
+    },
+    {
+      "productId": 1011,
+      "reviewText": "This Rustic works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-03-05T03:16:26.0157932+02:00"
+    },
+    {
+      "productId": 1655,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-06-15T02:39:03.5352209+03:00"
+    }
+  ]
+}

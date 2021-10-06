@@ -1,0 +1,35 @@
+{
+  "userId": 2344,
+  "cartId": "c8a1daac-d124-4838-a581-b1561a5dd31a",
+  "preferredProducts": [
+    3918,
+    3982
+  ],
+  "productReviews": [
+    {
+      "productId": 990,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-01-26T03:01:35.4176959+02:00"
+    },
+    {
+      "productId": 4256,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-09-06T10:53:41.7152926+03:00"
+    },
+    {
+      "productId": 1816,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-10-22T05:55:38.9335885+03:00"
+    },
+    {
+      "productId": 2186,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-04-20T06:25:26.7423247+03:00"
+    },
+    {
+      "productId": 1040,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-09-12T00:49:18.2114425+03:00"
+    }
+  ]
+}

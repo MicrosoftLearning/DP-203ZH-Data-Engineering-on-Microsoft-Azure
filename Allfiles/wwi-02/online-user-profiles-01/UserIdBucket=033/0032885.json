@@ -1,0 +1,24 @@
+{
+  "userId": 32885,
+  "cartId": "68211e88-8ad8-4faa-ac2a-b8e7b84c1868",
+  "preferredProducts": [
+    3395,
+    4787,
+    575,
+    2959,
+    722,
+    4345
+  ],
+  "productReviews": [
+    {
+      "productId": 182,
+      "reviewText": "This is a really good deliver.",
+      "reviewDate": "2018-01-13T23:00:39.8083474+02:00"
+    },
+    {
+      "productId": 296,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-12-20T03:18:46.7693478+02:00"
+    }
+  ]
+}

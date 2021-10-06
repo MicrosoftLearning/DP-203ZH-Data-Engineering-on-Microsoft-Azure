@@ -1,0 +1,30 @@
+{
+  "userId": 54812,
+  "cartId": "66a1d886-de55-4051-99d5-54ded86b2f8f",
+  "preferredProducts": [
+    1986,
+    512,
+    4591,
+    3925,
+    4009,
+    4747,
+    2008
+  ],
+  "productReviews": [
+    {
+      "productId": 4603,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-01-06T19:54:13.9846841+02:00"
+    },
+    {
+      "productId": 355,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-07-14T23:11:57.450827+03:00"
+    },
+    {
+      "productId": 3041,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Sleek Frozen Tuna keeps them away.",
+      "reviewDate": "2018-09-14T05:33:54.6810728+03:00"
+    }
+  ]
+}

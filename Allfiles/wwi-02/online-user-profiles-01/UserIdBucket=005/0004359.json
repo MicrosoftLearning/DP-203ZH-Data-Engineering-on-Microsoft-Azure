@@ -1,0 +1,38 @@
+{
+  "userId": 4359,
+  "cartId": "ac7ac27a-f6f3-402d-9dfe-f8f5ba40904b",
+  "preferredProducts": [
+    4082,
+    1526,
+    2676,
+    2937,
+    404,
+    5000,
+    3626,
+    412,
+    1469,
+    4859
+  ],
+  "productReviews": [
+    {
+      "productId": 1688,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-08-26T17:07:55.0346255+03:00"
+    },
+    {
+      "productId": 4202,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-10-19T15:09:30.3436969+03:00"
+    },
+    {
+      "productId": 276,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-08-08T15:23:20.7912981+03:00"
+    },
+    {
+      "productId": 1097,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-01-15T14:42:57.9878669+02:00"
+    }
+  ]
+}

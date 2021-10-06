@@ -1,0 +1,23 @@
+{
+  "userId": 25654,
+  "cartId": "38bc68f3-714d-409e-8382-b8014a70a993",
+  "preferredProducts": [
+    4581,
+    1627,
+    3173,
+    3005,
+    1689
+  ],
+  "productReviews": [
+    {
+      "productId": 4277,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-12-19T01:51:27.9222582+02:00"
+    },
+    {
+      "productId": 3136,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-01-27T21:20:59.4600588+02:00"
+    }
+  ]
+}

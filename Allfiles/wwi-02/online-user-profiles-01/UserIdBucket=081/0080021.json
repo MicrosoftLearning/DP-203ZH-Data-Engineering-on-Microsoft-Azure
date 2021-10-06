@@ -1,0 +1,32 @@
+{
+  "userId": 80021,
+  "cartId": "30f5f140-6daf-4d73-8523-0bb7d75f0300",
+  "preferredProducts": [
+    4682,
+    4229,
+    3991,
+    1326
+  ],
+  "productReviews": [
+    {
+      "productId": 4103,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-09-29T14:42:06.3067308+03:00"
+    },
+    {
+      "productId": 1657,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-07-01T14:46:08.8135003+03:00"
+    },
+    {
+      "productId": 1123,
+      "reviewText": "this Music is awesome.",
+      "reviewDate": "2016-11-21T02:51:11.3427321+02:00"
+    },
+    {
+      "productId": 3209,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-09-19T06:03:17.4706914+03:00"
+    }
+  ]
+}

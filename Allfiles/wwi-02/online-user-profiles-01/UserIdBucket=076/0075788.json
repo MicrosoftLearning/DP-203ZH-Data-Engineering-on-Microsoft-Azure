@@ -1,0 +1,30 @@
+{
+  "userId": 75788,
+  "cartId": "1fc61a58-8c1f-4a41-b5c6-37a48b917e0a",
+  "preferredProducts": [
+    3235,
+    2080
+  ],
+  "productReviews": [
+    {
+      "productId": 1814,
+      "reviewText": "this Rest is mellow.",
+      "reviewDate": "2019-03-15T08:34:23.286981+02:00"
+    },
+    {
+      "productId": 3762,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-10-28T23:25:51.8289163+03:00"
+    },
+    {
+      "productId": 4022,
+      "reviewText": "this parsing is papery.",
+      "reviewDate": "2019-02-11T18:50:39.1328814+02:00"
+    },
+    {
+      "productId": 4949,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-09-08T20:19:53.3375211+03:00"
+    }
+  ]
+}

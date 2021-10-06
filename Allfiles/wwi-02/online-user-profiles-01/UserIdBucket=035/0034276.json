@@ -1,0 +1,35 @@
+{
+  "userId": 34276,
+  "cartId": "c3a1bd26-9de5-4159-8749-c535fe83c7f8",
+  "preferredProducts": [
+    2636,
+    515,
+    1398,
+    4824,
+    1592,
+    4266,
+    2973
+  ],
+  "productReviews": [
+    {
+      "productId": 2023,
+      "reviewText": "this Metal is ghetto.",
+      "reviewDate": "2017-01-22T10:39:30.5401348+02:00"
+    },
+    {
+      "productId": 1187,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-02-17T17:27:17.3267035+02:00"
+    },
+    {
+      "productId": 2031,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-02-20T05:48:41.1043552+02:00"
+    },
+    {
+      "productId": 282,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2020-04-29T05:19:09.465687+03:00"
+    }
+  ]
+}

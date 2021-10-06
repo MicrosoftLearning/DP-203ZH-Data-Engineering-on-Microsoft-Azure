@@ -1,0 +1,27 @@
+{
+  "userId": 9966,
+  "cartId": "ece2ad1b-d433-43bc-a153-567b74da3375",
+  "preferredProducts": [
+    2498,
+    3494,
+    2095,
+    3664,
+    4201,
+    2380,
+    3669,
+    1092,
+    1445
+  ],
+  "productReviews": [
+    {
+      "productId": 2789,
+      "reviewText": "this Rubber is revolting.",
+      "reviewDate": "2018-10-23T15:21:48.8456137+03:00"
+    },
+    {
+      "productId": 3018,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-05-31T14:08:32.7992446+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 98109,
+  "cartId": "c8976d68-64bf-405c-ad31-c2e1ef47b4f4",
+  "preferredProducts": [
+    4130,
+    4648,
+    1017,
+    263,
+    403,
+    1378,
+    537
+  ],
+  "productReviews": [
+    {
+      "productId": 3289,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-05-17T19:46:17.5162841+03:00"
+    },
+    {
+      "productId": 680,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-10-09T17:13:35.4409+03:00"
+    },
+    {
+      "productId": 1126,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-05-20T13:53:38.6885894+03:00"
+    },
+    {
+      "productId": 640,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-05-09T12:35:19.2173195+03:00"
+    }
+  ]
+}

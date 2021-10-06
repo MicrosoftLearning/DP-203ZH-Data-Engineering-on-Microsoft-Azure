@@ -1,0 +1,31 @@
+{
+  "userId": 29315,
+  "cartId": "5fe53e31-cbfb-4926-95a5-902373061b20",
+  "preferredProducts": [
+    1354,
+    3463,
+    2399
+  ],
+  "productReviews": [
+    {
+      "productId": 2181,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2020-03-14T23:24:55.9360086+02:00"
+    },
+    {
+      "productId": 4514,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-10-23T06:52:08.2757606+03:00"
+    },
+    {
+      "productId": 697,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-10-01T02:00:43.4460751+03:00"
+    },
+    {
+      "productId": 592,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-04-22T02:12:51.9349085+03:00"
+    }
+  ]
+}

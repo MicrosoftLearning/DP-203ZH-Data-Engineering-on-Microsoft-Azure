@@ -1,0 +1,30 @@
+{
+  "userId": 39848,
+  "cartId": "ac54ed47-262e-4b2e-be5d-8cfca819f430",
+  "preferredProducts": [
+    1500,
+    4184,
+    2580,
+    1756,
+    3299,
+    1490,
+    782
+  ],
+  "productReviews": [
+    {
+      "productId": 761,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-01-24T20:13:29.8338957+02:00"
+    },
+    {
+      "productId": 4576,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-02-18T22:13:25.0599412+02:00"
+    },
+    {
+      "productId": 1815,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2016-08-22T01:48:25.4891427+03:00"
+    }
+  ]
+}

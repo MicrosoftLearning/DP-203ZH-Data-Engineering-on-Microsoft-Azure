@@ -1,0 +1,29 @@
+{
+  "userId": 65931,
+  "cartId": "b098bdaa-c852-4672-8dba-1f082dcd7aa9",
+  "preferredProducts": [
+    4074,
+    1699,
+    4684,
+    2230,
+    2715,
+    1281
+  ],
+  "productReviews": [
+    {
+      "productId": 3184,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-11-10T03:05:13.5974595+02:00"
+    },
+    {
+      "productId": 3718,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-12-29T09:42:20.4161381+02:00"
+    },
+    {
+      "productId": 4227,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-10-06T06:58:48.8916438+03:00"
+    }
+  ]
+}

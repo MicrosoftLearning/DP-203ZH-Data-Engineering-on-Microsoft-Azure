@@ -1,0 +1,38 @@
+{
+  "userId": 7314,
+  "cartId": "ecaf00a6-802e-4493-b68d-85cefc938434",
+  "preferredProducts": [
+    3368,
+    3706,
+    702,
+    2548,
+    2543,
+    1320,
+    2175,
+    2652,
+    2704,
+    266
+  ],
+  "productReviews": [
+    {
+      "productId": 2800,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-09-17T10:43:19.1464656+03:00"
+    },
+    {
+      "productId": 2905,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-01-28T01:53:25.4202196+02:00"
+    },
+    {
+      "productId": 389,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-11-25T12:00:14.1711374+02:00"
+    },
+    {
+      "productId": 3444,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-10-03T23:28:25.8901807+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 19800,
+  "cartId": "aaefd776-9b69-471a-a227-70d3e66cd45a",
+  "preferredProducts": [
+    3804,
+    2996,
+    3428,
+    3346,
+    1695,
+    4504,
+    511,
+    4452
+  ],
+  "productReviews": [
+    {
+      "productId": 875,
+      "reviewText": "this parsing is light-hearted.",
+      "reviewDate": "2018-10-08T06:29:11.1544347+03:00"
+    },
+    {
+      "productId": 3110,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-09-08T23:36:26.0978536+03:00"
+    }
+  ]
+}

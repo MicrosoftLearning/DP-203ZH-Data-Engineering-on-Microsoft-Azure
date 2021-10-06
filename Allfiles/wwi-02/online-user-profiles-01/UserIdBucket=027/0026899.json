@@ -1,0 +1,33 @@
+{
+  "userId": 26899,
+  "cartId": "6a063090-a97e-4c86-b5dd-49ac9dd5c757",
+  "preferredProducts": [
+    1451,
+    2041,
+    174,
+    4716,
+    4271
+  ],
+  "productReviews": [
+    {
+      "productId": 3022,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-04-30T13:00:14.332008+03:00"
+    },
+    {
+      "productId": 3257,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-08-13T11:50:01.8739979+03:00"
+    },
+    {
+      "productId": 4063,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-01-05T15:49:47.4237024+02:00"
+    },
+    {
+      "productId": 666,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-10-20T01:06:10.4052434+03:00"
+    }
+  ]
+}

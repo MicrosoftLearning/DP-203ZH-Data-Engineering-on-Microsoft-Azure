@@ -1,0 +1,41 @@
+{
+  "userId": 42427,
+  "cartId": "a3f23f1b-65bc-4391-910b-64b7dd5dd76d",
+  "preferredProducts": [
+    1891,
+    4330,
+    3609,
+    1825,
+    1058,
+    4360,
+    4956,
+    3094
+  ],
+  "productReviews": [
+    {
+      "productId": 240,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-04-17T21:31:55.7589163+03:00"
+    },
+    {
+      "productId": 2697,
+      "reviewText": "This orchestrate works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-07-13T14:57:02.2512583+03:00"
+    },
+    {
+      "productId": 2239,
+      "reviewText": "This Expressway works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-07-14T01:44:23.7145905+03:00"
+    },
+    {
+      "productId": 4753,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2018-01-22T13:33:18.0277015+02:00"
+    },
+    {
+      "productId": 4863,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-06-30T09:04:40.2500661+03:00"
+    }
+  ]
+}

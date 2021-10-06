@@ -1,0 +1,28 @@
+{
+  "userId": 41429,
+  "cartId": "ee1e6908-c541-41c7-8460-a2b79537c2cd",
+  "preferredProducts": [
+    3078,
+    752,
+    3038,
+    1670,
+    4074
+  ],
+  "productReviews": [
+    {
+      "productId": 1493,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-03-19T20:46:09.9651138+02:00"
+    },
+    {
+      "productId": 2392,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-06-17T03:40:24.5717862+03:00"
+    },
+    {
+      "productId": 2063,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-07-14T23:16:52.4161888+03:00"
+    }
+  ]
+}

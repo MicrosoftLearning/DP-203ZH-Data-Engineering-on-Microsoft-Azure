@@ -1,0 +1,30 @@
+{
+  "userId": 24407,
+  "cartId": "447645fc-f716-4582-a7aa-177ab34f0de9",
+  "preferredProducts": [
+    4100,
+    3533,
+    669,
+    532,
+    865,
+    1530,
+    962
+  ],
+  "productReviews": [
+    {
+      "productId": 3406,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-08-29T15:00:42.3561315+03:00"
+    },
+    {
+      "productId": 4998,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-08-14T07:59:28.6759607+03:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-08-27T16:08:42.6068128+03:00"
+    }
+  ]
+}

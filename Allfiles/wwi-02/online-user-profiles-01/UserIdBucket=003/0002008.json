@@ -1,0 +1,27 @@
+{
+  "userId": 2008,
+  "cartId": "64c2a57f-0b9e-44cd-9f4d-38a3ed61ab9d",
+  "preferredProducts": [
+    4275,
+    3875,
+    910,
+    2754,
+    993,
+    4058,
+    3687,
+    2932,
+    1387
+  ],
+  "productReviews": [
+    {
+      "productId": 2232,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-02-05T02:26:18.6349744+02:00"
+    },
+    {
+      "productId": 780,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-09-07T08:55:52.7482466+03:00"
+    }
+  ]
+}

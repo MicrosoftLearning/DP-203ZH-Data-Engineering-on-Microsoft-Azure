@@ -1,0 +1,32 @@
+{
+  "userId": 1812,
+  "cartId": "304a210f-59e3-48bb-afd1-d8712859c272",
+  "preferredProducts": [
+    2350,
+    1090,
+    3435,
+    1405,
+    1442,
+    1225,
+    1553,
+    3203,
+    2437
+  ],
+  "productReviews": [
+    {
+      "productId": 4492,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-06-18T14:55:49.4729853+03:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-03-13T16:13:12.854692+02:00"
+    },
+    {
+      "productId": 2774,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-02-12T14:49:27.6422368+02:00"
+    }
+  ]
+}

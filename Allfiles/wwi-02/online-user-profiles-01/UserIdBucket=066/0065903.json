@@ -1,0 +1,32 @@
+{
+  "userId": 65903,
+  "cartId": "b2d7c2c2-0a43-4866-9942-717387238c3d",
+  "preferredProducts": [
+    194,
+    2667,
+    2408,
+    609
+  ],
+  "productReviews": [
+    {
+      "productId": 3628,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-03-20T10:13:19.2389131+02:00"
+    },
+    {
+      "productId": 4814,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-01-20T05:41:44.3234759+02:00"
+    },
+    {
+      "productId": 3829,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-02-23T13:07:31.0578764+02:00"
+    },
+    {
+      "productId": 4752,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-04-07T06:21:17.421171+03:00"
+    }
+  ]
+}

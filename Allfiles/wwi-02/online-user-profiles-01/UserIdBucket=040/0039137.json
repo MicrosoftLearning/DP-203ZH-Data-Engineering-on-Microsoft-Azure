@@ -1,0 +1,33 @@
+{
+  "userId": 39137,
+  "cartId": "3feda87e-da9b-4a9c-b92d-e89c8216a429",
+  "preferredProducts": [
+    3154,
+    4173,
+    2447,
+    3993,
+    1875
+  ],
+  "productReviews": [
+    {
+      "productId": 4307,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-03-04T18:04:30.5195191+02:00"
+    },
+    {
+      "productId": 4147,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-01-09T02:56:29.9955365+02:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-01-04T10:37:43.8087231+02:00"
+    },
+    {
+      "productId": 1608,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-11-09T02:57:32.9538889+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 89980,
+  "cartId": "1281eded-107b-4061-a2cf-a2fd9761e23e",
+  "preferredProducts": [
+    4536,
+    4352,
+    1049,
+    1737,
+    4359,
+    1645,
+    3097,
+    1074,
+    4104,
+    1592
+  ],
+  "productReviews": [
+    {
+      "productId": 4310,
+      "reviewText": "this application is ratty.",
+      "reviewDate": "2019-10-31T15:30:30.7520568+02:00"
+    },
+    {
+      "productId": 333,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-03-20T11:01:11.1352283+02:00"
+    },
+    {
+      "productId": 522,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-12-19T17:58:46.5349309+02:00"
+    },
+    {
+      "productId": 1148,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-01-18T20:18:26.7050948+02:00"
+    }
+  ]
+}

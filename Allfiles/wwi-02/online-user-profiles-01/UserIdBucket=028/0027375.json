@@ -1,0 +1,33 @@
+{
+  "userId": 27375,
+  "cartId": "a88fb1b0-eadc-4392-a39c-ca87c12cb1d8",
+  "preferredProducts": [
+    1608,
+    4191,
+    2211,
+    3432,
+    665,
+    1951,
+    207,
+    4155,
+    1062,
+    1458
+  ],
+  "productReviews": [
+    {
+      "productId": 3936,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-04-15T23:10:29.9997394+03:00"
+    },
+    {
+      "productId": 2558,
+      "reviewText": "this Engineer is flirty.",
+      "reviewDate": "2017-03-10T05:01:44.9780295+02:00"
+    },
+    {
+      "productId": 901,
+      "reviewText": "This Dale works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-07-15T13:35:47.1093336+03:00"
+    }
+  ]
+}

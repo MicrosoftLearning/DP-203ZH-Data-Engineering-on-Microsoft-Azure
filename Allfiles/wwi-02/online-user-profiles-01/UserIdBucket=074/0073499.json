@@ -1,0 +1,30 @@
+{
+  "userId": 73499,
+  "cartId": "31be6b87-69f8-4af2-85a6-3307ae5c03e0",
+  "preferredProducts": [
+    4436,
+    2714
+  ],
+  "productReviews": [
+    {
+      "productId": 4850,
+      "reviewText": "this Rustic Rubber Shirt is smooth.",
+      "reviewDate": "2016-11-02T00:04:24.0099265+02:00"
+    },
+    {
+      "productId": 4542,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-03-08T00:06:14.2962034+02:00"
+    },
+    {
+      "productId": 966,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-12-13T18:07:07.3241533+02:00"
+    },
+    {
+      "productId": 1196,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2020-02-09T19:09:48.6364875+02:00"
+    }
+  ]
+}

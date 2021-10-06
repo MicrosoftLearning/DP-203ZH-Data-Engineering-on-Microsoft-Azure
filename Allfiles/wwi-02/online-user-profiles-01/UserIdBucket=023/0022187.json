@@ -1,0 +1,25 @@
+{
+  "userId": 22187,
+  "cartId": "4dd6c5e4-95e0-476a-8ee1-55c8ccb3a2ab",
+  "preferredProducts": [
+    3113,
+    568,
+    3505,
+    773,
+    1941,
+    4852,
+    1333
+  ],
+  "productReviews": [
+    {
+      "productId": 1231,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-08-15T18:07:46.3127966+03:00"
+    },
+    {
+      "productId": 357,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-01-27T20:00:45.9311533+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 66004,
+  "cartId": "2f242cd9-b85f-4807-93c3-e8442ab1b857",
+  "preferredProducts": [
+    4884,
+    4337,
+    3101,
+    3558,
+    827,
+    253,
+    974
+  ],
+  "productReviews": [
+    {
+      "productId": 1474,
+      "reviewText": "this Manager is awesome.",
+      "reviewDate": "2020-02-26T16:36:44.9870183+02:00"
+    },
+    {
+      "productId": 2916,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2020-03-03T02:31:25.2449695+02:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-10-06T03:12:41.2276117+03:00"
+    },
+    {
+      "productId": 2840,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-05-19T01:05:23.517682+03:00"
+    }
+  ]
+}

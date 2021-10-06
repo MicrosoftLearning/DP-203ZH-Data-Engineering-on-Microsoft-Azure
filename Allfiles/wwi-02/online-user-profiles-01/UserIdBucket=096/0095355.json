@@ -1,0 +1,28 @@
+{
+  "userId": 95355,
+  "cartId": "9bb6c82f-ab10-43e7-b82b-7392b2589c38",
+  "preferredProducts": [
+    1533,
+    2813,
+    1242,
+    3642,
+    3377,
+    4453,
+    3324,
+    2340,
+    3942,
+    2136
+  ],
+  "productReviews": [
+    {
+      "productId": 1256,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-12-10T14:46:15.5873735+02:00"
+    },
+    {
+      "productId": 2822,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-09-03T06:08:23.9765067+03:00"
+    }
+  ]
+}

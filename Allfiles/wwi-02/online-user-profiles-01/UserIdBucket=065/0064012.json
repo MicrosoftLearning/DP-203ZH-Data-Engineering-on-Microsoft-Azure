@@ -1,0 +1,29 @@
+{
+  "userId": 64012,
+  "cartId": "a5d624e7-5040-4bda-a308-06d8c843f825",
+  "preferredProducts": [
+    4820,
+    1548,
+    1266,
+    1018,
+    151,
+    3640
+  ],
+  "productReviews": [
+    {
+      "productId": 128,
+      "reviewText": "this bottom-line is nifty.",
+      "reviewDate": "2019-01-01T01:11:13.4317478+02:00"
+    },
+    {
+      "productId": 2667,
+      "reviewText": "This orchid works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-09-22T09:26:48.0102952+03:00"
+    },
+    {
+      "productId": 1898,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-10-11T13:41:49.475772+03:00"
+    }
+  ]
+}

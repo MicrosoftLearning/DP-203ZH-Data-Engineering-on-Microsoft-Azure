@@ -1,0 +1,35 @@
+{
+  "userId": 90611,
+  "cartId": "9dd725da-dec8-4a11-9b72-967b6fff3182",
+  "preferredProducts": [
+    4341,
+    4286,
+    257,
+    4529,
+    2560,
+    3167,
+    540
+  ],
+  "productReviews": [
+    {
+      "productId": 3123,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-04-14T18:13:13.5329479+03:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-03-03T04:51:16.949503+02:00"
+    },
+    {
+      "productId": 3632,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-01-12T02:07:38.6398116+02:00"
+    },
+    {
+      "productId": 1062,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-07-05T16:06:48.9722477+03:00"
+    }
+  ]
+}

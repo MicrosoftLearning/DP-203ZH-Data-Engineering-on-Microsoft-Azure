@@ -1,0 +1,31 @@
+{
+  "userId": 34090,
+  "cartId": "1fade496-1d03-46ca-9cf1-2d7ac350da2a",
+  "preferredProducts": [
+    3627,
+    450,
+    4846
+  ],
+  "productReviews": [
+    {
+      "productId": 728,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-03-18T21:47:13.5493114+02:00"
+    },
+    {
+      "productId": 108,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-07-01T19:02:50.1585178+03:00"
+    },
+    {
+      "productId": 2309,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-02-05T17:01:31.2059248+02:00"
+    },
+    {
+      "productId": 2709,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-28T09:22:58.2445852+03:00"
+    }
+  ]
+}

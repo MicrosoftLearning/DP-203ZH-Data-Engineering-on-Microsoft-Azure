@@ -1,0 +1,41 @@
+{
+  "userId": 42923,
+  "cartId": "09379dcb-8589-4f54-b4d4-5134ad6e9283",
+  "preferredProducts": [
+    549,
+    809,
+    1851,
+    4700,
+    382,
+    3538,
+    504,
+    4041
+  ],
+  "productReviews": [
+    {
+      "productId": 614,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-05-22T18:30:01.9880859+03:00"
+    },
+    {
+      "productId": 3937,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-11-18T01:20:02.3004618+02:00"
+    },
+    {
+      "productId": 1685,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-01-19T07:17:39.4314873+02:00"
+    },
+    {
+      "productId": 4312,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-04-29T19:57:34.6002259+03:00"
+    },
+    {
+      "productId": 3384,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-01-27T11:58:31.8203783+02:00"
+    }
+  ]
+}

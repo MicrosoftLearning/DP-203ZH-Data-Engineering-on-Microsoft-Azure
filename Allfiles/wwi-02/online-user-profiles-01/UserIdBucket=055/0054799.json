@@ -1,0 +1,38 @@
+{
+  "userId": 54799,
+  "cartId": "84fb315d-8dd8-44dd-8904-3c4d02d0a2fa",
+  "preferredProducts": [
+    3597,
+    2312,
+    4753,
+    1232,
+    584
+  ],
+  "productReviews": [
+    {
+      "productId": 992,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-02-27T18:39:43.1105671+02:00"
+    },
+    {
+      "productId": 824,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-05-28T00:53:02.0346105+03:00"
+    },
+    {
+      "productId": 1052,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-08-11T19:01:07.2120978+03:00"
+    },
+    {
+      "productId": 1244,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-05-25T21:05:17.3050681+03:00"
+    },
+    {
+      "productId": 3603,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-06-08T13:26:57.7956391+03:00"
+    }
+  ]
+}

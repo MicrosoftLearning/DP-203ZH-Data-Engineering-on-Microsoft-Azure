@@ -1,0 +1,37 @@
+{
+  "userId": 90068,
+  "cartId": "e2a7ec66-b97a-48f7-a9bf-4eaac1af3865",
+  "preferredProducts": [
+    1922,
+    1975,
+    4547,
+    4726,
+    4433,
+    2519,
+    4670,
+    1253,
+    2424
+  ],
+  "productReviews": [
+    {
+      "productId": 1819,
+      "reviewText": "this HDD is hyper.",
+      "reviewDate": "2016-09-25T19:50:20.9188798+03:00"
+    },
+    {
+      "productId": 463,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-11-25T01:19:28.5486222+02:00"
+    },
+    {
+      "productId": 3973,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-07-08T13:40:25.6037872+03:00"
+    },
+    {
+      "productId": 2408,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-08-13T09:54:53.417316+03:00"
+    }
+  ]
+}

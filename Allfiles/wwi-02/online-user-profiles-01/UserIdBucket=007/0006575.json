@@ -1,0 +1,30 @@
+{
+  "userId": 6575,
+  "cartId": "cf1f775f-6919-49d0-b333-26cd7ab7119c",
+  "preferredProducts": [
+    3872,
+    811
+  ],
+  "productReviews": [
+    {
+      "productId": 1560,
+      "reviewText": "this Awesome Rubber Tuna is nifty.",
+      "reviewDate": "2016-05-28T09:19:02.6023119+03:00"
+    },
+    {
+      "productId": 4766,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2016-08-11T20:12:57.9766132+03:00"
+    },
+    {
+      "productId": 2078,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2016-08-26T15:47:29.5053722+03:00"
+    },
+    {
+      "productId": 2119,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-06-26T17:32:57.1622663+03:00"
+    }
+  ]
+}

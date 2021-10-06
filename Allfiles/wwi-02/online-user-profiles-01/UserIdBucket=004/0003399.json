@@ -1,0 +1,36 @@
+{
+  "userId": 3399,
+  "cartId": "edecb8d4-e682-46b9-9360-96ee069f975a",
+  "preferredProducts": [
+    1519,
+    3052,
+    759,
+    1832,
+    3139,
+    4730,
+    2640,
+    930
+  ],
+  "productReviews": [
+    {
+      "productId": 1560,
+      "reviewText": "this Direct is awesome.",
+      "reviewDate": "2019-04-04T12:34:46.0513361+03:00"
+    },
+    {
+      "productId": 1741,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2020-04-16T10:52:38.7918817+03:00"
+    },
+    {
+      "productId": 401,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-09-15T23:00:06.6034372+03:00"
+    },
+    {
+      "productId": 1472,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-04-03T16:32:34.0503731+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 25138,
+  "cartId": "cca14d65-1d64-43d6-a46a-4757af6cc1fd",
+  "preferredProducts": [
+    4408,
+    1369,
+    3429,
+    3701,
+    2457,
+    586,
+    2464
+  ],
+  "productReviews": [
+    {
+      "productId": 543,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-03-21T02:20:07.8752254+02:00"
+    },
+    {
+      "productId": 568,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-03-31T12:43:55.363862+03:00"
+    },
+    {
+      "productId": 2880,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-06-25T23:50:14.4506803+03:00"
+    },
+    {
+      "productId": 3524,
+      "reviewText": "This systematic works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-02-28T06:26:31.0093603+02:00"
+    }
+  ]
+}

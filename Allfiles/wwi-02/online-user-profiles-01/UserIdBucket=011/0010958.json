@@ -1,0 +1,31 @@
+{
+  "userId": 10958,
+  "cartId": "dc815b9f-3512-4018-8e37-8a691ef6cb50",
+  "preferredProducts": [
+    1533,
+    3330,
+    3394,
+    4362,
+    443,
+    1200,
+    4712,
+    3537
+  ],
+  "productReviews": [
+    {
+      "productId": 1744,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-04-25T23:10:34.7255881+03:00"
+    },
+    {
+      "productId": 2134,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-12-18T16:09:24.140831+02:00"
+    },
+    {
+      "productId": 1280,
+      "reviewText": "This Officer works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-12-01T00:08:27.9648632+02:00"
+    }
+  ]
+}

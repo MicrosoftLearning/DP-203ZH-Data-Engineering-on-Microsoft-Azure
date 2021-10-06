@@ -1,0 +1,35 @@
+{
+  "userId": 20081,
+  "cartId": "e3e54678-1ac1-4dbb-b572-7791327e3ce9",
+  "preferredProducts": [
+    1583,
+    317
+  ],
+  "productReviews": [
+    {
+      "productId": 62,
+      "reviewText": "this channels is top-notch.",
+      "reviewDate": "2018-05-30T03:36:35.7099847+03:00"
+    },
+    {
+      "productId": 3783,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2020-03-07T19:04:56.3303349+02:00"
+    },
+    {
+      "productId": 2151,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-07-03T02:31:34.1539797+03:00"
+    },
+    {
+      "productId": 1524,
+      "reviewText": "this Gibraltar is brown.",
+      "reviewDate": "2018-01-01T07:45:40.5509471+02:00"
+    },
+    {
+      "productId": 3063,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-04-05T10:31:54.3990893+03:00"
+    }
+  ]
+}

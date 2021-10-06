@@ -1,0 +1,30 @@
+{
+  "userId": 39661,
+  "cartId": "fdd133b9-5eed-4a0a-bc11-343b488bb331",
+  "preferredProducts": [
+    4661,
+    3936,
+    3334,
+    809,
+    1726,
+    800,
+    2418
+  ],
+  "productReviews": [
+    {
+      "productId": 4815,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-05-12T00:13:27.7145044+03:00"
+    },
+    {
+      "productId": 2652,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-08-10T20:45:24.8246257+03:00"
+    },
+    {
+      "productId": 4846,
+      "reviewText": "this tertiary is ratty.",
+      "reviewDate": "2019-06-16T08:15:28.247107+03:00"
+    }
+  ]
+}

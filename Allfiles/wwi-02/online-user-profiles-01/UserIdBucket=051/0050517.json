@@ -1,0 +1,43 @@
+{
+  "userId": 50517,
+  "cartId": "8f381d17-f062-443f-a2d4-031ea42f7cd4",
+  "preferredProducts": [
+    3617,
+    2994,
+    3254,
+    3944,
+    4947,
+    3489,
+    2243,
+    2126,
+    4706,
+    1866
+  ],
+  "productReviews": [
+    {
+      "productId": 2803,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-29T04:52:27.1708078+03:00"
+    },
+    {
+      "productId": 4126,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-05-08T14:58:33.1418607+03:00"
+    },
+    {
+      "productId": 3794,
+      "reviewText": "this withdrawal is ratty.",
+      "reviewDate": "2018-03-23T06:08:26.1509482+02:00"
+    },
+    {
+      "productId": 3711,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-01-06T20:49:34.5532106+02:00"
+    },
+    {
+      "productId": 2908,
+      "reviewText": "this Concrete is gracious.",
+      "reviewDate": "2016-06-21T14:58:41.5048306+03:00"
+    }
+  ]
+}

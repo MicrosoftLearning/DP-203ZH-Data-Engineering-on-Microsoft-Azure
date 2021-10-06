@@ -1,0 +1,32 @@
+{
+  "userId": 80204,
+  "cartId": "4416cde1-39e5-47d0-8f6b-3cc2785a9337",
+  "preferredProducts": [
+    1650,
+    3738,
+    4167,
+    3486,
+    2128,
+    2036,
+    2508,
+    1024,
+    2628
+  ],
+  "productReviews": [
+    {
+      "productId": 1330,
+      "reviewText": "this Small Rubber Bike is nifty.",
+      "reviewDate": "2016-12-25T21:33:17.4396375+02:00"
+    },
+    {
+      "productId": 3908,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-11-08T01:25:05.1602742+02:00"
+    },
+    {
+      "productId": 3752,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-02-18T15:28:03.6697364+02:00"
+    }
+  ]
+}

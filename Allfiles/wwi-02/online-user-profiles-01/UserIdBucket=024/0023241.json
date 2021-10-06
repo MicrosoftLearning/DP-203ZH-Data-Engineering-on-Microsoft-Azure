@@ -1,0 +1,24 @@
+{
+  "userId": 23241,
+  "cartId": "d8f7fcc0-c499-4ed1-b1bc-866c573726ae",
+  "preferredProducts": [
+    400,
+    924,
+    4976,
+    894,
+    1576,
+    1851
+  ],
+  "productReviews": [
+    {
+      "productId": 682,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-05-01T17:53:13.567044+03:00"
+    },
+    {
+      "productId": 3745,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-10-15T06:30:23.3127778+03:00"
+    }
+  ]
+}

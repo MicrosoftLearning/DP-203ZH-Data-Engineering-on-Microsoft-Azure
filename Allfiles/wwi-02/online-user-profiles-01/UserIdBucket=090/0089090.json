@@ -1,0 +1,28 @@
+{
+  "userId": 89090,
+  "cartId": "49d88ac5-aa2c-4ec7-af84-384a7214155a",
+  "preferredProducts": [
+    1082,
+    452,
+    4236,
+    4916,
+    874,
+    2044,
+    2055,
+    3248,
+    1582,
+    702
+  ],
+  "productReviews": [
+    {
+      "productId": 31,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-08-11T17:58:21.0816872+03:00"
+    },
+    {
+      "productId": 487,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-09-04T16:59:47.2496961+03:00"
+    }
+  ]
+}

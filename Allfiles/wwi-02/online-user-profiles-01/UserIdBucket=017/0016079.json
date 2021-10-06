@@ -1,0 +1,31 @@
+{
+  "userId": 16079,
+  "cartId": "fdbdbe93-7fca-44dd-99b1-2ef49d03c884",
+  "preferredProducts": [
+    3626,
+    4494,
+    4147,
+    3023,
+    1034,
+    183,
+    853,
+    3975
+  ],
+  "productReviews": [
+    {
+      "productId": 4045,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-07-07T20:25:23.4286718+03:00"
+    },
+    {
+      "productId": 4622,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-12-11T01:08:25.7222979+02:00"
+    },
+    {
+      "productId": 4792,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-09-21T03:07:42.2815799+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 19228,
+  "cartId": "91aeca47-e0e2-4b0c-b5fe-5fc38e4a2550",
+  "preferredProducts": [
+    3839,
+    2014,
+    3879,
+    3576,
+    2090,
+    3172,
+    835,
+    1965,
+    288
+  ],
+  "productReviews": [
+    {
+      "productId": 3868,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-01-01T09:07:20.6377459+02:00"
+    },
+    {
+      "productId": 4420,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-05-19T08:44:25.1416948+03:00"
+    },
+    {
+      "productId": 4659,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-07-19T13:45:57.4567316+03:00"
+    }
+  ]
+}

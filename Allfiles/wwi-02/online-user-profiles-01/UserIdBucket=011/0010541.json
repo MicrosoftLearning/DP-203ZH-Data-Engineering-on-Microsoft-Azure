@@ -1,0 +1,37 @@
+{
+  "userId": 10541,
+  "cartId": "ee80e08d-cbe3-45a6-af44-761324a36daa",
+  "preferredProducts": [
+    2833,
+    2369,
+    1216,
+    4110,
+    1790,
+    28,
+    184,
+    2501,
+    2527
+  ],
+  "productReviews": [
+    {
+      "productId": 4472,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-01-24T12:55:33.1524483+02:00"
+    },
+    {
+      "productId": 1100,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-07-20T19:49:53.4291746+03:00"
+    },
+    {
+      "productId": 2993,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-06-15T10:34:50.9084907+03:00"
+    },
+    {
+      "productId": 4436,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-04-30T02:42:27.5812682+03:00"
+    }
+  ]
+}

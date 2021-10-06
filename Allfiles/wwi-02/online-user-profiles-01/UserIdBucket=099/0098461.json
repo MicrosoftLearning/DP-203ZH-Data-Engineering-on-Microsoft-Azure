@@ -1,0 +1,41 @@
+{
+  "userId": 98461,
+  "cartId": "6dceb720-f44b-4d6a-a6e0-9344d1dd97bf",
+  "preferredProducts": [
+    4106,
+    707,
+    3230,
+    4701,
+    118,
+    489,
+    4646,
+    3878
+  ],
+  "productReviews": [
+    {
+      "productId": 865,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-06-24T04:14:31.1284053+03:00"
+    },
+    {
+      "productId": 1034,
+      "reviewText": "This connecting works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-10-07T06:53:58.6677259+03:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-02-05T14:51:19.2868057+02:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-07-19T16:48:45.8380496+03:00"
+    },
+    {
+      "productId": 3868,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2016-12-23T10:05:19.7426214+02:00"
+    }
+  ]
+}

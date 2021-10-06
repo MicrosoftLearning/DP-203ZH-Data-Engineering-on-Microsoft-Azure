@@ -1,0 +1,30 @@
+{
+  "userId": 42834,
+  "cartId": "5cee4240-bf89-4dd5-8460-eac5d7d39c21",
+  "preferredProducts": [
+    2550,
+    3816
+  ],
+  "productReviews": [
+    {
+      "productId": 2381,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-09-01T23:45:59.0248961+03:00"
+    },
+    {
+      "productId": 2431,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-11-09T14:03:58.2696741+02:00"
+    },
+    {
+      "productId": 3526,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-09-02T00:39:34.0891967+03:00"
+    },
+    {
+      "productId": 1761,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-09-16T04:15:01.142324+03:00"
+    }
+  ]
+}

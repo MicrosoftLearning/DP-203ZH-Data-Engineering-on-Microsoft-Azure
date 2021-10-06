@@ -1,0 +1,35 @@
+{
+  "userId": 84403,
+  "cartId": "55a7b6b7-455b-436f-99c0-704ac73fa089",
+  "preferredProducts": [
+    4070,
+    2913,
+    2650,
+    495,
+    1179,
+    488,
+    1636
+  ],
+  "productReviews": [
+    {
+      "productId": 1125,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-10-16T09:32:41.5353457+03:00"
+    },
+    {
+      "productId": 1922,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-01-18T14:57:18.6961452+02:00"
+    },
+    {
+      "productId": 4322,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-10-18T15:59:54.0649581+03:00"
+    },
+    {
+      "productId": 4647,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2019-05-27T07:34:49.208773+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 2037,
+  "cartId": "9234166a-5c5e-4894-8767-c119a02d569c",
+  "preferredProducts": [
+    4979,
+    3598,
+    3671,
+    1413,
+    691,
+    3849,
+    3630
+  ],
+  "productReviews": [
+    {
+      "productId": 1242,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-11-04T21:06:38.7770236+02:00"
+    },
+    {
+      "productId": 4185,
+      "reviewText": "this Avon is brown.",
+      "reviewDate": "2020-04-24T17:22:02.3001345+03:00"
+    },
+    {
+      "productId": 1136,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-11-22T20:10:07.9973206+02:00"
+    },
+    {
+      "productId": 3328,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-04-17T06:56:49.9333298+03:00"
+    }
+  ]
+}

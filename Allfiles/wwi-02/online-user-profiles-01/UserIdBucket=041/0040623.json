@@ -1,0 +1,32 @@
+{
+  "userId": 40623,
+  "cartId": "fb1c02e8-3064-475d-b5ab-48f8ee49aac4",
+  "preferredProducts": [
+    1942,
+    817,
+    2623,
+    2365,
+    3966,
+    2922,
+    196,
+    4477,
+    2686
+  ],
+  "productReviews": [
+    {
+      "productId": 1010,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-21T08:18:44.6770144+03:00"
+    },
+    {
+      "productId": 1150,
+      "reviewText": "this Licensed Rubber Bacon is ghetto.",
+      "reviewDate": "2016-11-30T03:37:15.4628083+02:00"
+    },
+    {
+      "productId": 125,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-11-28T08:35:22.2452912+02:00"
+    }
+  ]
+}

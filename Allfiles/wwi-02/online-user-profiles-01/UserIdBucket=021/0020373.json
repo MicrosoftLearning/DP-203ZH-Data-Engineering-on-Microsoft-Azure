@@ -1,0 +1,31 @@
+{
+  "userId": 20373,
+  "cartId": "2aee0359-c0f7-42e9-a5f8-f60ef3eacb48",
+  "preferredProducts": [
+    3712,
+    1643,
+    3909,
+    784,
+    2973,
+    3088,
+    1920,
+    2210
+  ],
+  "productReviews": [
+    {
+      "productId": 4238,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-02-11T08:59:53.3939814+02:00"
+    },
+    {
+      "productId": 4347,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-03-10T09:31:10.737042+02:00"
+    },
+    {
+      "productId": 3031,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-12-14T05:55:10.8044859+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 65289,
+  "cartId": "b75eea60-89b0-4c4d-97d4-d5bbf07a1fee",
+  "preferredProducts": [
+    3263,
+    1201,
+    2963,
+    1757,
+    2236,
+    3376,
+    2806,
+    3827,
+    2741
+  ],
+  "productReviews": [
+    {
+      "productId": 1845,
+      "reviewText": "This is a really good plum.",
+      "reviewDate": "2017-06-30T08:48:34.4482183+03:00"
+    },
+    {
+      "productId": 2993,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-03-16T15:37:06.4475728+02:00"
+    },
+    {
+      "productId": 4990,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-05-18T06:29:45.9999812+03:00"
+    }
+  ]
+}

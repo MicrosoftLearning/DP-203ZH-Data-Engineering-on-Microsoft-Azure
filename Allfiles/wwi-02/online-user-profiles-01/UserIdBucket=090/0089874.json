@@ -1,0 +1,40 @@
+{
+  "userId": 89874,
+  "cartId": "c65f02fb-e080-4ce4-8b14-3197213610d5",
+  "preferredProducts": [
+    614,
+    1980,
+    4816,
+    127,
+    2765,
+    870,
+    1809
+  ],
+  "productReviews": [
+    {
+      "productId": 898,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-10-15T04:52:43.2343658+03:00"
+    },
+    {
+      "productId": 1557,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-09-22T11:11:57.6547198+03:00"
+    },
+    {
+      "productId": 2585,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-06-30T06:29:49.0965307+03:00"
+    },
+    {
+      "productId": 3057,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2020-02-08T04:24:20.0070931+02:00"
+    },
+    {
+      "productId": 3720,
+      "reviewText": "this Ergonomic Rubber Fish is flirty.",
+      "reviewDate": "2019-05-01T07:07:59.2419911+03:00"
+    }
+  ]
+}

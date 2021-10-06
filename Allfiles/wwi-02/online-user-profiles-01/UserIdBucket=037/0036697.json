@@ -1,0 +1,30 @@
+{
+  "userId": 36697,
+  "cartId": "af1d49f4-178c-478b-a0d3-131137f8f3df",
+  "preferredProducts": [
+    1605,
+    3398
+  ],
+  "productReviews": [
+    {
+      "productId": 4245,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-12-06T18:41:23.4277448+02:00"
+    },
+    {
+      "productId": 4440,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-05-10T18:23:19.2868632+03:00"
+    },
+    {
+      "productId": 2878,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-08-06T19:52:13.6544009+03:00"
+    },
+    {
+      "productId": 2638,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-11-08T12:28:38.3784387+02:00"
+    }
+  ]
+}

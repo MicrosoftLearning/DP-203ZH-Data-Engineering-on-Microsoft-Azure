@@ -1,0 +1,31 @@
+{
+  "userId": 10884,
+  "cartId": "40418ff5-bbf1-4f77-8145-e31d8f35fce2",
+  "preferredProducts": [
+    942,
+    2049,
+    2598
+  ],
+  "productReviews": [
+    {
+      "productId": 2456,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-01-21T01:23:49.0756707+02:00"
+    },
+    {
+      "productId": 4581,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-05-14T12:18:43.404793+03:00"
+    },
+    {
+      "productId": 4492,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-08-23T09:33:34.580646+03:00"
+    },
+    {
+      "productId": 4457,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-03-30T07:24:00.3051305+03:00"
+    }
+  ]
+}

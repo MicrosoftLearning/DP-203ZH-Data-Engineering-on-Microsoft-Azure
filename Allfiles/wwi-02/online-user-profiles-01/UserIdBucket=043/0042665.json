@@ -1,0 +1,22 @@
+{
+  "userId": 42665,
+  "cartId": "b495bb5d-4cb9-403d-b5bb-6b97de4405fa",
+  "preferredProducts": [
+    391,
+    4120,
+    1537,
+    2282
+  ],
+  "productReviews": [
+    {
+      "productId": 1001,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-12-14T16:17:43.3929747+02:00"
+    },
+    {
+      "productId": 3699,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2020-03-27T19:24:07.5267716+02:00"
+    }
+  ]
+}

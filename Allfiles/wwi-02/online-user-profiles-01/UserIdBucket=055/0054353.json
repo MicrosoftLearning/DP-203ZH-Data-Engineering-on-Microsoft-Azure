@@ -1,0 +1,30 @@
+{
+  "userId": 54353,
+  "cartId": "aa60e697-e7ea-4b25-aa06-d73c5b14660c",
+  "preferredProducts": [
+    509,
+    4637,
+    1585,
+    256,
+    4966,
+    3872,
+    1823
+  ],
+  "productReviews": [
+    {
+      "productId": 1827,
+      "reviewText": "this CSS is awesome.",
+      "reviewDate": "2020-02-19T01:01:48.5717319+02:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-01-25T20:03:17.2613639+02:00"
+    },
+    {
+      "productId": 2643,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-09-26T04:18:45.0457394+03:00"
+    }
+  ]
+}

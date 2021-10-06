@@ -1,0 +1,38 @@
+{
+  "userId": 16512,
+  "cartId": "0f6927ce-2097-4276-968f-30f8bf6c5296",
+  "preferredProducts": [
+    3999,
+    4944,
+    1882,
+    2037,
+    3001,
+    1151,
+    1535,
+    2988,
+    1014,
+    4134
+  ],
+  "productReviews": [
+    {
+      "productId": 4949,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-11-27T08:38:11.6044553+02:00"
+    },
+    {
+      "productId": 4750,
+      "reviewText": "this alarm is tasty.",
+      "reviewDate": "2017-05-10T19:59:55.6434893+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-12-04T21:09:25.1563444+02:00"
+    },
+    {
+      "productId": 3170,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-03-04T09:01:41.0335178+02:00"
+    }
+  ]
+}

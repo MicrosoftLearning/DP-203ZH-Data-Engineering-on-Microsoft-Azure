@@ -1,0 +1,32 @@
+{
+  "userId": 96133,
+  "cartId": "a3e3bfac-69cb-48ea-9e90-e455ff2cea3c",
+  "preferredProducts": [
+    2512,
+    4063,
+    139,
+    2518,
+    3895,
+    4340,
+    4033,
+    1497,
+    2697
+  ],
+  "productReviews": [
+    {
+      "productId": 4326,
+      "reviewText": "This is a really good even-keeled.",
+      "reviewDate": "2016-05-11T06:56:11.3833674+03:00"
+    },
+    {
+      "productId": 4335,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-12-18T06:06:58.4810283+02:00"
+    },
+    {
+      "productId": 3088,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-05-20T07:08:54.8289707+03:00"
+    }
+  ]
+}

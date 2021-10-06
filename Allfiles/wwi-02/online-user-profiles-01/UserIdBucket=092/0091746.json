@@ -1,0 +1,30 @@
+{
+  "userId": 91746,
+  "cartId": "6ad948f2-8e06-472f-a317-a1048e49e5ff",
+  "preferredProducts": [
+    1009,
+    1364,
+    4344,
+    2807,
+    4108,
+    546,
+    491
+  ],
+  "productReviews": [
+    {
+      "productId": 1901,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-12-11T15:50:28.4761277+02:00"
+    },
+    {
+      "productId": 4131,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-12-26T11:39:54.9021907+02:00"
+    },
+    {
+      "productId": 1654,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-07-18T17:29:28.5349329+03:00"
+    }
+  ]
+}

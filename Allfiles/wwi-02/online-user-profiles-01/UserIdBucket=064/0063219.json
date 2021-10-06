@@ -1,0 +1,27 @@
+{
+  "userId": 63219,
+  "cartId": "20804ece-5336-4173-8660-2bff14464a5a",
+  "preferredProducts": [
+    873,
+    242,
+    3823,
+    4266
+  ],
+  "productReviews": [
+    {
+      "productId": 1824,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-06-26T11:08:48.6837374+03:00"
+    },
+    {
+      "productId": 4189,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-11-04T23:43:51.8516023+02:00"
+    },
+    {
+      "productId": 4568,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-12-29T00:08:32.6992191+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 48365,
+  "cartId": "a53e4240-9341-46e8-b7e4-50ab4b78ec19",
+  "preferredProducts": [
+    4000,
+    252
+  ],
+  "productReviews": [
+    {
+      "productId": 1775,
+      "reviewText": "this panel is nifty.",
+      "reviewDate": "2019-02-27T17:10:32.7939611+02:00"
+    },
+    {
+      "productId": 4092,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-05-13T03:24:18.9324422+03:00"
+    },
+    {
+      "productId": 1822,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-03-20T23:28:28.8596433+02:00"
+    },
+    {
+      "productId": 4655,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-05-12T03:53:46.8819439+03:00"
+    }
+  ]
+}

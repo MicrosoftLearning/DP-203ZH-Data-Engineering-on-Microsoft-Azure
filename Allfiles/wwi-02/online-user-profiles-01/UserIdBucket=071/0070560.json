@@ -1,0 +1,26 @@
+{
+  "userId": 70560,
+  "cartId": "66c6f719-6d9d-4c7d-bc09-6fc516bc6d9f",
+  "preferredProducts": [
+    4340,
+    3369,
+    78
+  ],
+  "productReviews": [
+    {
+      "productId": 469,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-02-17T08:34:17.303136+02:00"
+    },
+    {
+      "productId": 4251,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-01-23T18:33:10.1380437+02:00"
+    },
+    {
+      "productId": 4279,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-10-30T13:17:03.6824393+02:00"
+    }
+  ]
+}

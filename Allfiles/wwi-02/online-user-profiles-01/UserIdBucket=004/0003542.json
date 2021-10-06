@@ -1,0 +1,28 @@
+{
+  "userId": 3542,
+  "cartId": "edf10cbf-4b61-47bd-ab94-0e16d0023a60",
+  "preferredProducts": [
+    977,
+    4207,
+    3093,
+    1894,
+    4894
+  ],
+  "productReviews": [
+    {
+      "productId": 3002,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-11-14T04:12:31.7580585+02:00"
+    },
+    {
+      "productId": 3340,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-03-02T07:59:49.6742482+02:00"
+    },
+    {
+      "productId": 3664,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-05-20T17:32:24.2876861+03:00"
+    }
+  ]
+}

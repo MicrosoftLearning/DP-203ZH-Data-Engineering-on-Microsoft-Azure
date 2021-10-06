@@ -1,0 +1,28 @@
+{
+  "userId": 34160,
+  "cartId": "ca82e2f2-1bc5-4239-9184-0be080feb001",
+  "preferredProducts": [
+    3639,
+    1801,
+    2774,
+    3393,
+    3623
+  ],
+  "productReviews": [
+    {
+      "productId": 3153,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-08-15T00:10:37.8905673+03:00"
+    },
+    {
+      "productId": 1322,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-07-27T05:07:57.2110447+03:00"
+    },
+    {
+      "productId": 3374,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-11-08T12:04:36.4716835+02:00"
+    }
+  ]
+}

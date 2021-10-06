@@ -1,0 +1,41 @@
+{
+  "userId": 45305,
+  "cartId": "4dbfa895-3d3d-4389-b94f-9f239276b1ed",
+  "preferredProducts": [
+    724,
+    4619,
+    2447,
+    4096,
+    3956,
+    1940,
+    1521,
+    3838
+  ],
+  "productReviews": [
+    {
+      "productId": 102,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-04-13T04:05:51.7544802+03:00"
+    },
+    {
+      "productId": 391,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-01-30T22:45:34.6471738+02:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-01-14T07:43:07.0919286+02:00"
+    },
+    {
+      "productId": 3475,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-10-23T00:32:19.3300875+03:00"
+    },
+    {
+      "productId": 422,
+      "reviewText": "This generating works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-10-17T14:08:14.8234592+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 99898,
+  "cartId": "84298eb5-56b1-434a-a513-4c516edbdee2",
+  "preferredProducts": [
+    118,
+    2011,
+    1191,
+    3465,
+    3745
+  ],
+  "productReviews": [
+    {
+      "productId": 512,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-09-26T23:35:49.0028396+03:00"
+    },
+    {
+      "productId": 2192,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-11-20T06:29:34.5648907+02:00"
+    },
+    {
+      "productId": 802,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-08-21T09:16:00.5770788+03:00"
+    },
+    {
+      "productId": 3150,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-23T10:04:16.3698252+02:00"
+    },
+    {
+      "productId": 2422,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-03-20T02:07:28.315893+02:00"
+    }
+  ]
+}

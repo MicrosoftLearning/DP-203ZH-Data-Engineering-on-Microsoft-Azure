@@ -1,0 +1,33 @@
+{
+  "userId": 73885,
+  "cartId": "13bad0af-bf57-48dc-b9d7-443e86249160",
+  "preferredProducts": [
+    1563,
+    3876,
+    407,
+    797,
+    3820
+  ],
+  "productReviews": [
+    {
+      "productId": 3274,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-08-29T06:47:40.9389936+03:00"
+    },
+    {
+      "productId": 66,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-03-29T11:01:09.9653484+03:00"
+    },
+    {
+      "productId": 2000,
+      "reviewText": "this card is tasty.",
+      "reviewDate": "2020-02-06T10:57:13.2529376+02:00"
+    },
+    {
+      "productId": 1895,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-07-29T23:18:16.6747954+03:00"
+    }
+  ]
+}

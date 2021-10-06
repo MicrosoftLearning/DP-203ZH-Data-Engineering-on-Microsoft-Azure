@@ -1,0 +1,40 @@
+{
+  "userId": 73333,
+  "cartId": "9e55db39-9cbf-4c23-bb95-698466ee8e01",
+  "preferredProducts": [
+    13,
+    3125,
+    3672,
+    967,
+    304,
+    2457,
+    4675
+  ],
+  "productReviews": [
+    {
+      "productId": 1532,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-05-21T14:00:19.5988723+03:00"
+    },
+    {
+      "productId": 3937,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-12-09T18:39:24.0244613+02:00"
+    },
+    {
+      "productId": 2627,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-07-18T06:25:40.8855173+03:00"
+    },
+    {
+      "productId": 3627,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-10-19T06:12:04.6009524+03:00"
+    },
+    {
+      "productId": 3817,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-01-30T07:38:23.3761688+02:00"
+    }
+  ]
+}

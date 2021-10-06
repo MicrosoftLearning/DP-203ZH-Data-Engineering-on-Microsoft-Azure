@@ -1,0 +1,38 @@
+{
+  "userId": 50780,
+  "cartId": "635afe6a-fa18-4625-b87e-baf28f828afc",
+  "preferredProducts": [
+    3210,
+    4242,
+    2851,
+    2002,
+    4440,
+    2983,
+    5,
+    351,
+    4038,
+    1742
+  ],
+  "productReviews": [
+    {
+      "productId": 1026,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-05-04T05:52:19.4143704+03:00"
+    },
+    {
+      "productId": 2534,
+      "reviewText": "This Technician works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-01-20T23:08:46.082944+02:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This HTTP keeps them away.",
+      "reviewDate": "2018-10-31T03:11:32.9836263+02:00"
+    },
+    {
+      "productId": 4437,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-10-10T15:31:55.4926921+03:00"
+    }
+  ]
+}

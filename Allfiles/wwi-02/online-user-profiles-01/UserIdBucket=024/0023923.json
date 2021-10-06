@@ -1,0 +1,36 @@
+{
+  "userId": 23923,
+  "cartId": "a986287e-1cdb-4599-a267-5d5f9331e2e0",
+  "preferredProducts": [
+    4623,
+    3452,
+    3579
+  ],
+  "productReviews": [
+    {
+      "productId": 4779,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-12-10T17:15:46.9429419+02:00"
+    },
+    {
+      "productId": 3324,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-01-28T05:53:14.7498524+02:00"
+    },
+    {
+      "productId": 2736,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2020-04-29T00:34:10.7134718+03:00"
+    },
+    {
+      "productId": 3035,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-03-31T00:10:51.2485674+03:00"
+    },
+    {
+      "productId": 3936,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-10-09T07:43:21.7516084+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 62685,
+  "cartId": "554d5fd8-68c6-40c3-a31a-ebedc7e60df6",
+  "preferredProducts": [
+    2322,
+    983,
+    4705,
+    1068,
+    2455,
+    4695
+  ],
+  "productReviews": [
+    {
+      "productId": 59,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-04-26T19:45:13.4348595+03:00"
+    },
+    {
+      "productId": 585,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-06-09T22:17:35.9307337+03:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-02-25T14:08:34.5089037+02:00"
+    }
+  ]
+}

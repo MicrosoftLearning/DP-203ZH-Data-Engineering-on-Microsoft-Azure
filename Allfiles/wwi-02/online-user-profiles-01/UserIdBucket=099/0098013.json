@@ -1,0 +1,36 @@
+{
+  "userId": 98013,
+  "cartId": "e3e25343-dfb0-408c-ac44-60521a3d37ee",
+  "preferredProducts": [
+    4111,
+    837,
+    3888,
+    2646,
+    23,
+    4300,
+    1275,
+    3350
+  ],
+  "productReviews": [
+    {
+      "productId": 1764,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-01-07T16:03:29.1251928+02:00"
+    },
+    {
+      "productId": 4031,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-01-23T13:12:52.8244631+02:00"
+    },
+    {
+      "productId": 629,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-02-16T18:22:11.3843681+02:00"
+    },
+    {
+      "productId": 1311,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-10-10T15:37:34.3297548+03:00"
+    }
+  ]
+}

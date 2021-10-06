@@ -1,0 +1,41 @@
+{
+  "userId": 49122,
+  "cartId": "50a1a1cd-6223-47fd-8a40-5b8f8133ff65",
+  "preferredProducts": [
+    2807,
+    2790,
+    1071,
+    2814,
+    1173,
+    2671,
+    1175,
+    1994
+  ],
+  "productReviews": [
+    {
+      "productId": 1433,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-04-09T20:28:54.3740695+03:00"
+    },
+    {
+      "productId": 558,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-03-23T10:09:43.0874563+02:00"
+    },
+    {
+      "productId": 1631,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-09-05T10:31:38.8666448+03:00"
+    },
+    {
+      "productId": 4254,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-12-08T18:20:07.9601008+02:00"
+    },
+    {
+      "productId": 3792,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-03-17T10:12:29.9848912+02:00"
+    }
+  ]
+}

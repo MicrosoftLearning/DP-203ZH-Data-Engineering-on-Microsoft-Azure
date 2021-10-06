@@ -1,0 +1,26 @@
+{
+  "userId": 42512,
+  "cartId": "d55c1263-e4d7-4ade-9db2-dcbeb191f759",
+  "preferredProducts": [
+    1136,
+    4909,
+    3006,
+    2691,
+    557,
+    4450,
+    2045,
+    4894
+  ],
+  "productReviews": [
+    {
+      "productId": 1925,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-03-05T18:48:20.7451627+02:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "this Fresh is mellow.",
+      "reviewDate": "2016-06-04T13:21:46.0429171+03:00"
+    }
+  ]
+}

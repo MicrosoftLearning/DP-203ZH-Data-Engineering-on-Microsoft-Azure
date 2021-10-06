@@ -1,0 +1,31 @@
+{
+  "userId": 36059,
+  "cartId": "5bb65498-add7-4be1-bbbb-80dea2531fcf",
+  "preferredProducts": [
+    3873,
+    638,
+    227
+  ],
+  "productReviews": [
+    {
+      "productId": 1990,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-03-11T17:56:24.7806687+02:00"
+    },
+    {
+      "productId": 3715,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-08-31T15:18:47.690387+03:00"
+    },
+    {
+      "productId": 590,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-01-25T18:24:05.2631238+02:00"
+    },
+    {
+      "productId": 111,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-10-29T09:47:45.5192191+02:00"
+    }
+  ]
+}

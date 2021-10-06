@@ -1,0 +1,29 @@
+{
+  "userId": 75732,
+  "cartId": "fa36300b-6cfd-4618-9fcc-31513d8e1dbb",
+  "preferredProducts": [
+    3298,
+    3533,
+    841,
+    1511,
+    2434,
+    1492
+  ],
+  "productReviews": [
+    {
+      "productId": 1301,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-05-24T07:10:05.9740887+03:00"
+    },
+    {
+      "productId": 2304,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-06-05T05:40:08.5823401+03:00"
+    },
+    {
+      "productId": 763,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-02-06T21:17:20.2886477+02:00"
+    }
+  ]
+}

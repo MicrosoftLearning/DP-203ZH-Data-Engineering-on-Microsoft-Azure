@@ -1,0 +1,30 @@
+{
+  "userId": 43154,
+  "cartId": "56c3a3f8-e0d8-41ab-a681-f801ea8358a1",
+  "preferredProducts": [
+    3407,
+    3995,
+    1346,
+    2373,
+    3744,
+    2064,
+    1176
+  ],
+  "productReviews": [
+    {
+      "productId": 4322,
+      "reviewText": "this grey is whole-grain.",
+      "reviewDate": "2018-02-25T08:53:19.7728097+02:00"
+    },
+    {
+      "productId": 4714,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-07-18T13:21:32.150312+03:00"
+    },
+    {
+      "productId": 2294,
+      "reviewText": "this back up is honest.",
+      "reviewDate": "2020-01-20T15:10:54.1060342+02:00"
+    }
+  ]
+}

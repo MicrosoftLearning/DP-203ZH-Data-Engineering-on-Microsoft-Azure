@@ -1,0 +1,27 @@
+{
+  "userId": 21461,
+  "cartId": "2981d065-f09f-4fc9-87e5-4b74f193d143",
+  "preferredProducts": [
+    1927,
+    2109,
+    2234,
+    2127
+  ],
+  "productReviews": [
+    {
+      "productId": 1738,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-12-04T02:07:44.1570155+02:00"
+    },
+    {
+      "productId": 3481,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-01-28T10:11:55.0406219+02:00"
+    },
+    {
+      "productId": 2476,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-07-08T21:45:08.5802772+03:00"
+    }
+  ]
+}

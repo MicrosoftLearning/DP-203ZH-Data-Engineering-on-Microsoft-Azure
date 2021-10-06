@@ -1,0 +1,41 @@
+{
+  "userId": 1254,
+  "cartId": "9c690f8e-e0d6-4938-ab63-c67d7150a9f8",
+  "preferredProducts": [
+    500,
+    4644,
+    4008,
+    3882,
+    1005,
+    39,
+    4761,
+    3364
+  ],
+  "productReviews": [
+    {
+      "productId": 266,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-11-02T14:58:25.5713836+02:00"
+    },
+    {
+      "productId": 1242,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-05-02T19:00:54.9983152+03:00"
+    },
+    {
+      "productId": 1270,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-07-03T22:16:28.8170872+03:00"
+    },
+    {
+      "productId": 524,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-07-17T03:43:42.4328349+03:00"
+    },
+    {
+      "productId": 1473,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-09-14T05:35:08.4656619+03:00"
+    }
+  ]
+}

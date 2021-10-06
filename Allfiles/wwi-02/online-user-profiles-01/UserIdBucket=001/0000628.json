@@ -1,0 +1,35 @@
+{
+  "userId": 628,
+  "cartId": "cbc0f1f9-c7f3-42c4-956f-25db4020cc3b",
+  "preferredProducts": [
+    114,
+    2175,
+    518,
+    1536,
+    4115,
+    670,
+    2368
+  ],
+  "productReviews": [
+    {
+      "productId": 372,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-10-12T05:45:57.259908+03:00"
+    },
+    {
+      "productId": 4359,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-03-07T05:24:16.2581254+02:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "this Paradigm is awesome.",
+      "reviewDate": "2019-05-09T18:03:46.2860919+03:00"
+    },
+    {
+      "productId": 321,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-01-14T05:06:50.8420766+02:00"
+    }
+  ]
+}

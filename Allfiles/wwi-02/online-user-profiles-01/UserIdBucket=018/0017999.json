@@ -1,0 +1,29 @@
+{
+  "userId": 17999,
+  "cartId": "6eb1840b-573f-4f85-aca1-c61b9e8e90fd",
+  "preferredProducts": [
+    316
+  ],
+  "productReviews": [
+    {
+      "productId": 4057,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-10-14T06:18:34.0729331+03:00"
+    },
+    {
+      "productId": 2570,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-07-31T07:00:21.6904839+03:00"
+    },
+    {
+      "productId": 2443,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-08-17T08:51:20.3640918+03:00"
+    },
+    {
+      "productId": 2192,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-06-02T02:18:32.0849185+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 57133,
+  "cartId": "c5b96c94-e492-4f31-958d-896cdc359d12",
+  "preferredProducts": [
+    898,
+    233,
+    1250,
+    182,
+    4393,
+    4664,
+    3959,
+    1996
+  ],
+  "productReviews": [
+    {
+      "productId": 1277,
+      "reviewText": "this withdrawal is awesome.",
+      "reviewDate": "2017-10-25T16:13:57.581723+03:00"
+    },
+    {
+      "productId": 414,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-12-06T11:55:47.8215254+02:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2020-02-15T06:25:07.7933859+02:00"
+    },
+    {
+      "productId": 3564,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-07-25T10:09:51.1027986+03:00"
+    }
+  ]
+}

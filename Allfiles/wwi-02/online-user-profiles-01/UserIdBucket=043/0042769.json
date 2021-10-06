@@ -1,0 +1,31 @@
+{
+  "userId": 42769,
+  "cartId": "c1b98ae1-0bf0-4def-85e3-08768df0188b",
+  "preferredProducts": [
+    1010,
+    641,
+    4032
+  ],
+  "productReviews": [
+    {
+      "productId": 1228,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-03-22T08:58:22.3278746+02:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-08-15T22:57:57.8671424+03:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-04-26T23:15:47.8205086+03:00"
+    },
+    {
+      "productId": 3404,
+      "reviewText": "This channels works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-07-12T19:44:05.6901267+03:00"
+    }
+  ]
+}

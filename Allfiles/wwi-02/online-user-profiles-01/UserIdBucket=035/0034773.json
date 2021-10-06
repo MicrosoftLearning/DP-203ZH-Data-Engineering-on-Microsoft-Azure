@@ -1,0 +1,36 @@
+{
+  "userId": 34773,
+  "cartId": "6465344a-b749-4efd-92fe-d49fbd820172",
+  "preferredProducts": [
+    2330,
+    4783,
+    3308,
+    4993,
+    2569,
+    1271,
+    4035,
+    1929
+  ],
+  "productReviews": [
+    {
+      "productId": 541,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-11-15T10:06:31.183674+02:00"
+    },
+    {
+      "productId": 964,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-02-22T18:36:07.8942517+02:00"
+    },
+    {
+      "productId": 1029,
+      "reviewText": "This Strategist works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-01-14T09:50:53.7513547+02:00"
+    },
+    {
+      "productId": 667,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-08-02T23:30:31.4895874+03:00"
+    }
+  ]
+}

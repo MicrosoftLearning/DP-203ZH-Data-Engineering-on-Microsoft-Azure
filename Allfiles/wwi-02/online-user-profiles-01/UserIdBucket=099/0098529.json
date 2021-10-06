@@ -1,0 +1,39 @@
+{
+  "userId": 98529,
+  "cartId": "2830ad27-6b85-47f6-a77d-f522e2dbd6d2",
+  "preferredProducts": [
+    2242,
+    4484,
+    4551,
+    4877,
+    2076,
+    29
+  ],
+  "productReviews": [
+    {
+      "productId": 37,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-07-26T12:37:41.9939158+03:00"
+    },
+    {
+      "productId": 1353,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-08-27T00:20:23.4347097+03:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-08-18T12:54:09.377398+03:00"
+    },
+    {
+      "productId": 1585,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-10-21T14:43:46.4542638+03:00"
+    },
+    {
+      "productId": 115,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-08-03T15:11:41.7637078+03:00"
+    }
+  ]
+}

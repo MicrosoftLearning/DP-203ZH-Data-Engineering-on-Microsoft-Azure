@@ -1,0 +1,30 @@
+{
+  "userId": 62502,
+  "cartId": "8fa260df-fec2-4a47-a647-5ed2fb9e32b9",
+  "preferredProducts": [
+    4608,
+    4458,
+    4233,
+    3187,
+    2794,
+    4637,
+    557
+  ],
+  "productReviews": [
+    {
+      "productId": 785,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-03-08T08:20:07.6885734+02:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-05-07T10:30:02.4524244+03:00"
+    },
+    {
+      "productId": 273,
+      "reviewText": "this Liaison is awesome.",
+      "reviewDate": "2016-10-18T09:49:41.0718774+03:00"
+    }
+  ]
+}

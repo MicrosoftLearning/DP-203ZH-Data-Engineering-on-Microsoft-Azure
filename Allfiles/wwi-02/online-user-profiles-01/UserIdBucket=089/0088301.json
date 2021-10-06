@@ -1,0 +1,32 @@
+{
+  "userId": 88301,
+  "cartId": "5ca2921f-93b2-4d69-8eec-a231fa403667",
+  "preferredProducts": [
+    4551,
+    2470,
+    1975,
+    1807,
+    2964,
+    4331,
+    2632,
+    3429,
+    1775
+  ],
+  "productReviews": [
+    {
+      "productId": 1321,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-12-28T16:55:18.6693293+02:00"
+    },
+    {
+      "productId": 1791,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-10-25T10:23:07.0094347+03:00"
+    },
+    {
+      "productId": 4167,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-26T20:58:20.5422199+03:00"
+    }
+  ]
+}

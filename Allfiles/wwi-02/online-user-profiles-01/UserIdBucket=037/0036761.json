@@ -1,0 +1,39 @@
+{
+  "userId": 36761,
+  "cartId": "a112af99-1b7e-48c7-aa32-1765a7315ad2",
+  "preferredProducts": [
+    1000,
+    3086,
+    1638,
+    4469,
+    4604,
+    1385
+  ],
+  "productReviews": [
+    {
+      "productId": 1483,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-06-02T14:28:41.0144585+03:00"
+    },
+    {
+      "productId": 2592,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-09-04T17:51:06.5284815+03:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "This scale works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2020-01-24T18:35:09.2121206+02:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "This Designer works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-06-18T04:54:57.5504427+03:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "This Licensed works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2020-02-13T03:25:39.1174282+02:00"
+    }
+  ]
+}

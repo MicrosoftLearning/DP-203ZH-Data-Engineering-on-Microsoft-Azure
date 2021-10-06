@@ -1,0 +1,36 @@
+{
+  "userId": 7789,
+  "cartId": "aa44cf8f-38a7-4f0a-90cf-cb9d0c7a4e3e",
+  "preferredProducts": [
+    4169,
+    4890,
+    88,
+    1216,
+    3025,
+    4103,
+    4031,
+    862
+  ],
+  "productReviews": [
+    {
+      "productId": 186,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-09-28T19:45:27.5613774+03:00"
+    },
+    {
+      "productId": 2510,
+      "reviewText": "This invoice works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2018-09-04T19:30:42.3700535+03:00"
+    },
+    {
+      "productId": 1570,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-06-20T04:41:22.1214609+03:00"
+    },
+    {
+      "productId": 375,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-11-21T16:38:13.7301902+02:00"
+    }
+  ]
+}

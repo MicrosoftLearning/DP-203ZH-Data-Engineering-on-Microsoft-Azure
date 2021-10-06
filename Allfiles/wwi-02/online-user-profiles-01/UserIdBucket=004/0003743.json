@@ -1,0 +1,39 @@
+{
+  "userId": 3743,
+  "cartId": "250b6a87-6a8f-4f4e-afa1-164ba0c1563c",
+  "preferredProducts": [
+    2798,
+    2396,
+    4263,
+    4534,
+    4025,
+    3832
+  ],
+  "productReviews": [
+    {
+      "productId": 1633,
+      "reviewText": "This is a really good tan.",
+      "reviewDate": "2017-09-12T06:14:12.164552+03:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-11-29T15:43:29.1692807+02:00"
+    },
+    {
+      "productId": 3631,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-06-18T23:05:13.6680764+03:00"
+    },
+    {
+      "productId": 1539,
+      "reviewText": "This is a really good COM.",
+      "reviewDate": "2016-06-29T12:44:35.9202279+03:00"
+    },
+    {
+      "productId": 2096,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-08-01T02:19:13.7409972+03:00"
+    }
+  ]
+}

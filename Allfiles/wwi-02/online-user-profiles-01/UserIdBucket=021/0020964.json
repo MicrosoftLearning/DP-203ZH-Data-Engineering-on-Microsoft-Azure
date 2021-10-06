@@ -1,0 +1,26 @@
+{
+  "userId": 20964,
+  "cartId": "64c33330-8836-42a7-b308-3b8900e739a8",
+  "preferredProducts": [
+    3761,
+    517,
+    4058,
+    1400,
+    4514,
+    2907,
+    1643,
+    2491
+  ],
+  "productReviews": [
+    {
+      "productId": 3960,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-06-11T02:22:11.1707996+03:00"
+    },
+    {
+      "productId": 3623,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-07-23T02:23:38.4487572+03:00"
+    }
+  ]
+}

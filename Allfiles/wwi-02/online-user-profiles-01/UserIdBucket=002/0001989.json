@@ -1,0 +1,36 @@
+{
+  "userId": 1989,
+  "cartId": "20fba195-9e08-4b60-92c1-367df84dc2de",
+  "preferredProducts": [
+    2072,
+    751,
+    329,
+    3857,
+    3197,
+    2187,
+    385,
+    2419
+  ],
+  "productReviews": [
+    {
+      "productId": 4398,
+      "reviewText": "this 6th generation is top-notch.",
+      "reviewDate": "2019-09-18T16:14:58.7112392+03:00"
+    },
+    {
+      "productId": 2302,
+      "reviewText": "this EXE is dominant.",
+      "reviewDate": "2017-06-21T22:08:41.6962067+03:00"
+    },
+    {
+      "productId": 1935,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-11-29T14:35:23.5069284+02:00"
+    },
+    {
+      "productId": 4354,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-03-18T05:20:54.4058494+02:00"
+    }
+  ]
+}

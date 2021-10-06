@@ -1,0 +1,32 @@
+{
+  "userId": 16439,
+  "cartId": "2deb4ea6-473f-48d5-a27b-433f4ed95283",
+  "preferredProducts": [
+    2377,
+    4375,
+    4854,
+    4252
+  ],
+  "productReviews": [
+    {
+      "productId": 2008,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-09-03T03:31:53.6183993+03:00"
+    },
+    {
+      "productId": 3444,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This compress keeps them away.",
+      "reviewDate": "2019-06-28T01:32:45.0166622+03:00"
+    },
+    {
+      "productId": 4158,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-12-24T00:43:13.3482115+02:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-03-11T23:43:49.8292201+02:00"
+    }
+  ]
+}

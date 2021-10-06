@@ -1,0 +1,29 @@
+{
+  "userId": 45034,
+  "cartId": "b836a133-4d6f-40bc-80a7-483e08632e08",
+  "preferredProducts": [
+    2416,
+    2190,
+    4331,
+    293,
+    1619,
+    2438
+  ],
+  "productReviews": [
+    {
+      "productId": 1832,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-09-11T05:14:41.618899+03:00"
+    },
+    {
+      "productId": 4177,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-01-19T21:36:28.0459919+02:00"
+    },
+    {
+      "productId": 4233,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-04-15T05:38:47.3963425+03:00"
+    }
+  ]
+}

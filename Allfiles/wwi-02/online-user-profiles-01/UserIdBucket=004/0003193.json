@@ -1,0 +1,35 @@
+{
+  "userId": 3193,
+  "cartId": "0d955514-2990-4f89-a94d-8bee5e1c80c3",
+  "preferredProducts": [
+    2512,
+    3965,
+    2060,
+    2781,
+    3995,
+    397,
+    1558
+  ],
+  "productReviews": [
+    {
+      "productId": 4099,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-04-11T21:38:30.0100197+03:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-01-19T14:36:00.3662441+02:00"
+    },
+    {
+      "productId": 348,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-09-02T12:03:49.1697046+03:00"
+    },
+    {
+      "productId": 2602,
+      "reviewText": "this Multi-lateral is vertical.",
+      "reviewDate": "2018-06-22T02:33:31.3894091+03:00"
+    }
+  ]
+}

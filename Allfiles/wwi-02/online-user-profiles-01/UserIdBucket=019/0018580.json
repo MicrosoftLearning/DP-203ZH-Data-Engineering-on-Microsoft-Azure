@@ -1,0 +1,27 @@
+{
+  "userId": 18580,
+  "cartId": "d6a7fbc7-71fc-4cde-b2ee-2498a84ee89d",
+  "preferredProducts": [
+    1016,
+    359,
+    1862,
+    2654,
+    3532,
+    1607,
+    3015,
+    2385,
+    1181
+  ],
+  "productReviews": [
+    {
+      "productId": 1746,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-07-09T22:11:02.3567806+03:00"
+    },
+    {
+      "productId": 2036,
+      "reviewText": "This digital works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2020-02-09T11:06:33.2730211+02:00"
+    }
+  ]
+}

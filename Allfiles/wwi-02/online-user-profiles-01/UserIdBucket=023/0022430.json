@@ -1,0 +1,31 @@
+{
+  "userId": 22430,
+  "cartId": "4f14aa2e-fc05-4e23-ac61-4c62ff99f1e6",
+  "preferredProducts": [
+    586,
+    3112,
+    3903
+  ],
+  "productReviews": [
+    {
+      "productId": 120,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-02-26T14:26:25.4906375+02:00"
+    },
+    {
+      "productId": 4855,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-04-08T06:59:06.3752189+03:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-09-10T05:28:38.3472112+03:00"
+    },
+    {
+      "productId": 3447,
+      "reviewText": "this Frozen is tasty.",
+      "reviewDate": "2019-05-09T00:19:57.9473589+03:00"
+    }
+  ]
+}

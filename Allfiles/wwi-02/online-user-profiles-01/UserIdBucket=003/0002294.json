@@ -1,0 +1,30 @@
+{
+  "userId": 2294,
+  "cartId": "3b2d20cd-bc79-4687-8642-1331acffc82c",
+  "preferredProducts": [
+    744,
+    1747,
+    1920,
+    1486,
+    327,
+    2611,
+    3722
+  ],
+  "productReviews": [
+    {
+      "productId": 3165,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-11-11T08:47:45.0403804+02:00"
+    },
+    {
+      "productId": 3694,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-12-05T11:08:27.403496+02:00"
+    },
+    {
+      "productId": 4182,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-01-08T17:11:14.7847417+02:00"
+    }
+  ]
+}

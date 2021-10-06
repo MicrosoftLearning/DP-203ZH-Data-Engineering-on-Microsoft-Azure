@@ -1,0 +1,25 @@
+{
+  "userId": 8867,
+  "cartId": "29f5d3b8-1390-4744-aa49-7d6e3f8bec3a",
+  "preferredProducts": [
+    2312,
+    3236
+  ],
+  "productReviews": [
+    {
+      "productId": 769,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-06-10T00:06:25.4065762+03:00"
+    },
+    {
+      "productId": 4613,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-03-15T10:31:41.26604+02:00"
+    },
+    {
+      "productId": 3117,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-02-28T17:39:46.2656876+02:00"
+    }
+  ]
+}

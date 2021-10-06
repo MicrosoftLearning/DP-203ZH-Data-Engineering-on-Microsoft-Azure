@@ -1,0 +1,31 @@
+{
+  "userId": 71543,
+  "cartId": "c39e0059-bd0a-4c3c-af56-2eb541e6362c",
+  "preferredProducts": [
+    4272,
+    4389,
+    55
+  ],
+  "productReviews": [
+    {
+      "productId": 2506,
+      "reviewText": "this green is vertical.",
+      "reviewDate": "2016-05-30T21:49:01.5906495+03:00"
+    },
+    {
+      "productId": 4291,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2020-03-04T11:43:01.1983635+02:00"
+    },
+    {
+      "productId": 4273,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-02-20T04:22:27.8203061+02:00"
+    },
+    {
+      "productId": 3195,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-06-23T05:07:52.6458457+03:00"
+    }
+  ]
+}

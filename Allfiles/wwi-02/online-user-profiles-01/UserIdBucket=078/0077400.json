@@ -1,0 +1,37 @@
+{
+  "userId": 77400,
+  "cartId": "12f49eb4-093d-41d7-8d76-6d3945c92c5c",
+  "preferredProducts": [
+    2522,
+    4207,
+    2750,
+    1748,
+    1658,
+    3707,
+    818,
+    4208,
+    2673
+  ],
+  "productReviews": [
+    {
+      "productId": 2066,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-10-31T13:57:49.4085298+02:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-01-04T12:03:07.1900215+02:00"
+    },
+    {
+      "productId": 1808,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-10-15T18:17:20.6750868+03:00"
+    },
+    {
+      "productId": 323,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-12-11T06:24:26.4249233+02:00"
+    }
+  ]
+}

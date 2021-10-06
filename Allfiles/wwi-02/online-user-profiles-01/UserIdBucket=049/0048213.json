@@ -1,0 +1,30 @@
+{
+  "userId": 48213,
+  "cartId": "9971fd58-336b-44d9-9a45-ea1bd2afd806",
+  "preferredProducts": [
+    3743,
+    1403
+  ],
+  "productReviews": [
+    {
+      "productId": 528,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-07-15T23:53:12.5226183+03:00"
+    },
+    {
+      "productId": 2463,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-12-27T03:12:11.7367804+02:00"
+    },
+    {
+      "productId": 1206,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-04-08T17:28:43.7956177+03:00"
+    },
+    {
+      "productId": 1612,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-01-08T19:32:55.6317712+02:00"
+    }
+  ]
+}

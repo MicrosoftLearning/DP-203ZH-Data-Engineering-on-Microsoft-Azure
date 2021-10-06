@@ -1,0 +1,30 @@
+{
+  "userId": 24304,
+  "cartId": "cfeebb0a-b743-4e83-ab6e-6ce30b53a5b3",
+  "preferredProducts": [
+    642,
+    2559,
+    3685,
+    2577,
+    1441,
+    3603,
+    586
+  ],
+  "productReviews": [
+    {
+      "productId": 1987,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-01-29T12:58:17.5744408+02:00"
+    },
+    {
+      "productId": 3864,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-09-22T20:22:32.690595+03:00"
+    },
+    {
+      "productId": 4864,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-06-10T14:22:20.5075949+03:00"
+    }
+  ]
+}

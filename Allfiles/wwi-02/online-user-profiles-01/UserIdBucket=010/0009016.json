@@ -1,0 +1,37 @@
+{
+  "userId": 9016,
+  "cartId": "27ecea07-0d5a-4f8d-a445-c234717e56af",
+  "preferredProducts": [
+    2236,
+    3106,
+    3647,
+    279
+  ],
+  "productReviews": [
+    {
+      "productId": 1999,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-09-10T12:02:37.053833+03:00"
+    },
+    {
+      "productId": 4921,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-08-05T19:01:31.8487644+03:00"
+    },
+    {
+      "productId": 323,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-07-25T14:12:18.2589189+03:00"
+    },
+    {
+      "productId": 4295,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-09-28T01:04:44.7529086+03:00"
+    },
+    {
+      "productId": 2294,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-01-18T16:17:54.6603809+02:00"
+    }
+  ]
+}

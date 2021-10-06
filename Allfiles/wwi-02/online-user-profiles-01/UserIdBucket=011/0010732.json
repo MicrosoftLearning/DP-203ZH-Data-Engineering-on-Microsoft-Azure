@@ -1,0 +1,30 @@
+{
+  "userId": 10732,
+  "cartId": "396ce19e-a635-43a6-a2c2-393780600db6",
+  "preferredProducts": [
+    3060,
+    3570,
+    4939,
+    2671,
+    1734,
+    1720,
+    1479
+  ],
+  "productReviews": [
+    {
+      "productId": 3222,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-10-08T07:47:16.0486295+03:00"
+    },
+    {
+      "productId": 4920,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-06-25T07:51:19.3246482+03:00"
+    },
+    {
+      "productId": 2886,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-05-23T18:56:48.7300196+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 5408,
+  "cartId": "2bbe7758-29a7-48bc-842e-bd58b29a7d6b",
+  "preferredProducts": [
+    3610,
+    1106,
+    2288,
+    2291,
+    2012,
+    4886
+  ],
+  "productReviews": [
+    {
+      "productId": 1060,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-09-19T17:52:05.1599708+03:00"
+    },
+    {
+      "productId": 1816,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-01-21T05:24:15.4751164+02:00"
+    },
+    {
+      "productId": 2392,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-03-28T03:54:50.9081184+02:00"
+    },
+    {
+      "productId": 904,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-06-29T01:15:48.7169054+03:00"
+    }
+  ]
+}

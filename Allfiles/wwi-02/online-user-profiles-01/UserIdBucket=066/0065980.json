@@ -1,0 +1,30 @@
+{
+  "userId": 65980,
+  "cartId": "f72e9c8a-c587-4e0d-9ce1-73a57f22b520",
+  "preferredProducts": [
+    1304,
+    3006,
+    604,
+    201,
+    997,
+    4390,
+    29
+  ],
+  "productReviews": [
+    {
+      "productId": 1071,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-12-16T12:50:39.777405+02:00"
+    },
+    {
+      "productId": 903,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-05-31T03:52:55.9571897+03:00"
+    },
+    {
+      "productId": 1392,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-05-20T07:33:30.1938073+03:00"
+    }
+  ]
+}

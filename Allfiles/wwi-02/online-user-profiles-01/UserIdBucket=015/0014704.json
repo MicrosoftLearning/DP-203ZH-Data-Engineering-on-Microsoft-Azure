@@ -1,0 +1,31 @@
+{
+  "userId": 14704,
+  "cartId": "d4b10dd5-6ea9-4a76-83c2-acb94ab36114",
+  "preferredProducts": [
+    135,
+    556,
+    696,
+    2665,
+    625,
+    807,
+    602,
+    2044
+  ],
+  "productReviews": [
+    {
+      "productId": 3720,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-10-14T05:47:58.2565663+03:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-12-30T07:43:55.8730143+02:00"
+    },
+    {
+      "productId": 3106,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-04-04T01:41:59.7106137+03:00"
+    }
+  ]
+}

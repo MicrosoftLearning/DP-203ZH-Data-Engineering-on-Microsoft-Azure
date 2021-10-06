@@ -1,0 +1,26 @@
+{
+  "userId": 1127,
+  "cartId": "40f6a1b6-e070-4f1a-bedd-2842c9fb275d",
+  "preferredProducts": [
+    3627,
+    2444,
+    3321
+  ],
+  "productReviews": [
+    {
+      "productId": 1265,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-07-20T20:08:59.4498117+03:00"
+    },
+    {
+      "productId": 4854,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-23T05:29:16.1918303+02:00"
+    },
+    {
+      "productId": 4279,
+      "reviewText": "this interface is top-notch.",
+      "reviewDate": "2019-10-27T10:40:26.662821+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 24831,
+  "cartId": "c308add3-497c-4ef2-94e3-b5bdbeea30f6",
+  "preferredProducts": [
+    2981,
+    2863,
+    2406
+  ],
+  "productReviews": [
+    {
+      "productId": 1150,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-02-05T12:03:09.0165071+02:00"
+    },
+    {
+      "productId": 2714,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-05-08T23:22:34.1358781+03:00"
+    },
+    {
+      "productId": 4108,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-07-18T02:20:18.3268907+03:00"
+    }
+  ]
+}

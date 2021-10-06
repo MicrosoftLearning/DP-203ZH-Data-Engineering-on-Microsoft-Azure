@@ -1,0 +1,22 @@
+{
+  "userId": 44336,
+  "cartId": "603bc880-5d04-4fae-892f-4961830d4cd7",
+  "preferredProducts": [
+    3624,
+    4965,
+    4742,
+    152
+  ],
+  "productReviews": [
+    {
+      "productId": 4051,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-01-14T15:39:23.5476525+02:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-06-09T22:00:06.4678257+03:00"
+    }
+  ]
+}

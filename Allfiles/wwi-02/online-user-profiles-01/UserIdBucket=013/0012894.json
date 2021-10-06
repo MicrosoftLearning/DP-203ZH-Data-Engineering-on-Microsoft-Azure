@@ -1,0 +1,33 @@
+{
+  "userId": 12894,
+  "cartId": "9f24739e-5f62-4ecf-9cf9-971bfdd576b0",
+  "preferredProducts": [
+    3734,
+    3958,
+    1750,
+    837,
+    865,
+    4227,
+    3093,
+    4663,
+    572,
+    3145
+  ],
+  "productReviews": [
+    {
+      "productId": 1576,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-12-20T08:33:14.4107784+02:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-05-15T07:25:46.633627+03:00"
+    },
+    {
+      "productId": 3862,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-02-10T10:19:46.4098401+02:00"
+    }
+  ]
+}

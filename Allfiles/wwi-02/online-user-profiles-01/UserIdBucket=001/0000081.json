@@ -1,0 +1,30 @@
+{
+  "userId": 81,
+  "cartId": "7c31def3-0106-4b96-a78f-d6f797f01fd4",
+  "preferredProducts": [
+    4159,
+    4350
+  ],
+  "productReviews": [
+    {
+      "productId": 3689,
+      "reviewText": "this GB is vertical.",
+      "reviewDate": "2020-03-08T01:24:16.7611374+02:00"
+    },
+    {
+      "productId": 2669,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-10-30T18:31:32.3037881+02:00"
+    },
+    {
+      "productId": 3013,
+      "reviewText": "This open system, does exactly what it's suppose to do.",
+      "reviewDate": "2019-04-16T18:41:57.6307165+03:00"
+    },
+    {
+      "productId": 3225,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-01-02T16:22:54.4814012+02:00"
+    }
+  ]
+}

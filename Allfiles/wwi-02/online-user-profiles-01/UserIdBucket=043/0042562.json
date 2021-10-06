@@ -1,0 +1,37 @@
+{
+  "userId": 42562,
+  "cartId": "5e65bddc-7be7-4bca-8b87-e0dc2f660173",
+  "preferredProducts": [
+    1727,
+    4488,
+    4791,
+    176,
+    3967,
+    2971,
+    4335,
+    1011,
+    2052
+  ],
+  "productReviews": [
+    {
+      "productId": 4012,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-04-16T16:53:15.9587469+03:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-10-27T09:24:50.423854+03:00"
+    },
+    {
+      "productId": 2180,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-07-08T01:01:31.935137+03:00"
+    },
+    {
+      "productId": 3107,
+      "reviewText": "this Virtual is light-hearted.",
+      "reviewDate": "2020-03-10T12:30:38.552414+02:00"
+    }
+  ]
+}

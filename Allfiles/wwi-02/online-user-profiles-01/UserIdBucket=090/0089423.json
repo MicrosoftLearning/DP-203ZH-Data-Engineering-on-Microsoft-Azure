@@ -1,0 +1,32 @@
+{
+  "userId": 89423,
+  "cartId": "00f16d56-9afb-4ce3-8338-5f7473fe81b7",
+  "preferredProducts": [
+    1198,
+    24,
+    2420,
+    4566,
+    3960,
+    3570,
+    3729,
+    1159,
+    4747
+  ],
+  "productReviews": [
+    {
+      "productId": 509,
+      "reviewText": "This is a really good Factors.",
+      "reviewDate": "2020-03-21T02:29:28.1173304+02:00"
+    },
+    {
+      "productId": 148,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-04-12T22:18:09.3066257+03:00"
+    },
+    {
+      "productId": 4906,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2016-10-10T03:17:12.0844722+03:00"
+    }
+  ]
+}

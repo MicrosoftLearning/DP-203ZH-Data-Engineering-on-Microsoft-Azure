@@ -1,0 +1,35 @@
+{
+  "userId": 25337,
+  "cartId": "a28eaad6-2171-4361-9c0d-dcdf465ee092",
+  "preferredProducts": [
+    3171,
+    2652,
+    3388,
+    2402,
+    450,
+    1536,
+    4399
+  ],
+  "productReviews": [
+    {
+      "productId": 3641,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-11-24T15:05:05.1417737+02:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-10-21T20:34:40.8506656+03:00"
+    },
+    {
+      "productId": 2648,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2020-02-17T19:33:19.7369044+02:00"
+    },
+    {
+      "productId": 4584,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-04-08T10:38:11.9582431+03:00"
+    }
+  ]
+}

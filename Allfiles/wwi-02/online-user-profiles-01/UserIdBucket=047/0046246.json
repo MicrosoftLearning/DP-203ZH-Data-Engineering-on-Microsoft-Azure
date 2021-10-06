@@ -1,0 +1,35 @@
+{
+  "userId": 46246,
+  "cartId": "170fef86-be00-4781-8bf1-7c8cc8cb91ed",
+  "preferredProducts": [
+    1299,
+    1869,
+    950,
+    3576,
+    4897,
+    4583,
+    2371
+  ],
+  "productReviews": [
+    {
+      "productId": 506,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-02-06T21:18:36.2033779+02:00"
+    },
+    {
+      "productId": 2049,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-02-17T00:55:58.1016765+02:00"
+    },
+    {
+      "productId": 487,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-12-18T10:59:38.2428348+02:00"
+    },
+    {
+      "productId": 2498,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-11-13T14:27:22.6744502+02:00"
+    }
+  ]
+}

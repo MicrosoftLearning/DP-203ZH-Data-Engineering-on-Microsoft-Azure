@@ -1,0 +1,43 @@
+{
+  "userId": 98456,
+  "cartId": "31140e9e-f3dc-4601-8fa8-4089385c69a2",
+  "preferredProducts": [
+    3144,
+    4451,
+    4226,
+    1864,
+    1816,
+    249,
+    3232,
+    2001,
+    676,
+    4285
+  ],
+  "productReviews": [
+    {
+      "productId": 3427,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-02-23T22:30:33.3029313+02:00"
+    },
+    {
+      "productId": 929,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-05-31T07:53:05.9451039+03:00"
+    },
+    {
+      "productId": 91,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-10-26T16:14:40.7367821+03:00"
+    },
+    {
+      "productId": 3745,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-04-27T04:18:29.7729011+03:00"
+    },
+    {
+      "productId": 239,
+      "reviewText": "This North Carolina works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-10-01T03:02:33.3336454+03:00"
+    }
+  ]
+}

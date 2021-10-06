@@ -1,0 +1,29 @@
+{
+  "userId": 12668,
+  "cartId": "0b16d79d-a783-475a-9d3f-b31ee124c670",
+  "preferredProducts": [
+    3369,
+    4222,
+    590,
+    3914,
+    4821,
+    411
+  ],
+  "productReviews": [
+    {
+      "productId": 4384,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-04-16T01:32:19.162696+03:00"
+    },
+    {
+      "productId": 2056,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-05-03T19:03:09.0901347+03:00"
+    },
+    {
+      "productId": 3001,
+      "reviewText": "this Metal is light-hearted.",
+      "reviewDate": "2018-03-26T12:20:26.6757029+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 14151,
+  "cartId": "753bfe93-26b1-441e-89fa-9249cf8677bb",
+  "preferredProducts": [
+    4345,
+    3393,
+    899,
+    4384,
+    3082,
+    118,
+    786,
+    4830
+  ],
+  "productReviews": [
+    {
+      "productId": 731,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-11-24T02:51:05.3746205+02:00"
+    },
+    {
+      "productId": 2019,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-07-16T20:09:06.3121605+03:00"
+    },
+    {
+      "productId": 1363,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-01T10:20:03.303773+03:00"
+    },
+    {
+      "productId": 267,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-07-07T12:07:36.7660901+03:00"
+    }
+  ]
+}

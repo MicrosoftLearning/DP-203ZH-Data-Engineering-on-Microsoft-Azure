@@ -1,0 +1,25 @@
+{
+  "userId": 10926,
+  "cartId": "642cfe26-d8fe-4048-ad1b-f1e9976d0c72",
+  "preferredProducts": [
+    3138,
+    1217
+  ],
+  "productReviews": [
+    {
+      "productId": 2390,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-09-26T09:42:12.9217179+03:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-05-19T06:26:48.6002823+03:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "This monitor works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-02-27T14:39:57.4474526+02:00"
+    }
+  ]
+}

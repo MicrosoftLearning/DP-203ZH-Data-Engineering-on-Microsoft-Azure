@@ -1,0 +1,35 @@
+{
+  "userId": 6807,
+  "cartId": "08c8c9ed-e172-4df9-bc6f-8eccac2b3733",
+  "preferredProducts": [
+    3298,
+    3612,
+    3698,
+    4596,
+    4283,
+    4599,
+    1594
+  ],
+  "productReviews": [
+    {
+      "productId": 3122,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-12-31T18:43:11.9247068+02:00"
+    },
+    {
+      "productId": 2437,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-15T22:06:41.6840459+02:00"
+    },
+    {
+      "productId": 3358,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-09-23T09:22:54.9471984+03:00"
+    },
+    {
+      "productId": 4978,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-02-04T16:18:34.1613286+02:00"
+    }
+  ]
+}

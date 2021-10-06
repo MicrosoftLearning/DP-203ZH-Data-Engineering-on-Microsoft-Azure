@@ -1,0 +1,30 @@
+{
+  "userId": 44922,
+  "cartId": "3d7ca3c4-97aa-4843-abfa-b2e7ad03c116",
+  "preferredProducts": [
+    1268,
+    2896,
+    1870,
+    4205,
+    1962,
+    477,
+    4468
+  ],
+  "productReviews": [
+    {
+      "productId": 1051,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-03-13T00:47:39.4432654+02:00"
+    },
+    {
+      "productId": 231,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-10-09T00:36:48.086638+03:00"
+    },
+    {
+      "productId": 2222,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-05-07T05:04:24.7658813+03:00"
+    }
+  ]
+}

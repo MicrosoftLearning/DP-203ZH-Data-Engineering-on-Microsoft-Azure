@@ -1,0 +1,30 @@
+{
+  "userId": 512,
+  "cartId": "d9b0666e-e979-4391-bff2-64314f951b1f",
+  "preferredProducts": [
+    3135,
+    4983,
+    2484,
+    2681,
+    1808,
+    894,
+    2848
+  ],
+  "productReviews": [
+    {
+      "productId": 3920,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-02-20T22:34:19.7312421+02:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-08-31T01:26:17.6260874+03:00"
+    },
+    {
+      "productId": 1305,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-12-13T15:53:41.1615711+02:00"
+    }
+  ]
+}

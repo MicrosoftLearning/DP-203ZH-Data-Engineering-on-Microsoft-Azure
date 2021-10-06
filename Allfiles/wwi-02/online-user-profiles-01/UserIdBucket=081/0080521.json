@@ -1,0 +1,32 @@
+{
+  "userId": 80521,
+  "cartId": "32f0176d-be7a-4e94-b9fe-d45d3989dae2",
+  "preferredProducts": [
+    2549,
+    3629,
+    4551,
+    1102
+  ],
+  "productReviews": [
+    {
+      "productId": 2080,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-12-12T11:51:26.9577548+02:00"
+    },
+    {
+      "productId": 2072,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-11-02T19:02:14.8081235+02:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "this syndicate is gracious.",
+      "reviewDate": "2020-02-12T08:59:48.5905697+02:00"
+    },
+    {
+      "productId": 3651,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-02-15T11:24:39.5936883+02:00"
+    }
+  ]
+}

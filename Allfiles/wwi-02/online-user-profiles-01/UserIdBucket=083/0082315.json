@@ -1,0 +1,28 @@
+{
+  "userId": 82315,
+  "cartId": "812fbf64-25a6-4f5f-a1a4-5a96ffe789f5",
+  "preferredProducts": [
+    2597,
+    840,
+    1830,
+    4329,
+    687
+  ],
+  "productReviews": [
+    {
+      "productId": 3830,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-07-19T08:46:23.7882801+03:00"
+    },
+    {
+      "productId": 1855,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-02-08T01:37:33.5058741+02:00"
+    },
+    {
+      "productId": 3689,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-02-13T03:55:45.5761345+02:00"
+    }
+  ]
+}

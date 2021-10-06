@@ -1,0 +1,25 @@
+{
+  "userId": 4232,
+  "cartId": "e9158ecb-4f09-4965-a6b4-a8e443df3904",
+  "preferredProducts": [
+    4740,
+    4285
+  ],
+  "productReviews": [
+    {
+      "productId": 378,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-02-07T06:06:53.8491412+02:00"
+    },
+    {
+      "productId": 1666,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-02-07T04:58:26.5164952+02:00"
+    },
+    {
+      "productId": 4053,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-06-16T19:32:34.6966175+03:00"
+    }
+  ]
+}

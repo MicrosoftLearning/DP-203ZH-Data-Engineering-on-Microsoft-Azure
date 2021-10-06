@@ -1,0 +1,33 @@
+{
+  "userId": 30790,
+  "cartId": "a85f4bc9-6f6d-48df-8dae-564aa8063478",
+  "preferredProducts": [
+    716,
+    786,
+    1532,
+    4105,
+    1019,
+    2220,
+    1455,
+    3995,
+    2818,
+    297
+  ],
+  "productReviews": [
+    {
+      "productId": 2681,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-01-04T07:39:16.3684049+02:00"
+    },
+    {
+      "productId": 4934,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-10-28T19:16:20.8749548+03:00"
+    },
+    {
+      "productId": 2770,
+      "reviewText": "This copying works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-12-22T18:18:06.5479085+02:00"
+    }
+  ]
+}

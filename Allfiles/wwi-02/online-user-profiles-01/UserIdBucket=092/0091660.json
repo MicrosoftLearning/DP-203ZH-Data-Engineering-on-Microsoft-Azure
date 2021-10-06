@@ -1,0 +1,28 @@
+{
+  "userId": 91660,
+  "cartId": "2ad5b9b2-e01a-4f28-a37a-ce467af7adc3",
+  "preferredProducts": [
+    1136,
+    2807,
+    2081,
+    3122,
+    3478
+  ],
+  "productReviews": [
+    {
+      "productId": 236,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-03-09T17:10:55.7752269+02:00"
+    },
+    {
+      "productId": 236,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-06-25T11:12:33.2316688+03:00"
+    },
+    {
+      "productId": 284,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-08-09T05:25:02.2693229+03:00"
+    }
+  ]
+}

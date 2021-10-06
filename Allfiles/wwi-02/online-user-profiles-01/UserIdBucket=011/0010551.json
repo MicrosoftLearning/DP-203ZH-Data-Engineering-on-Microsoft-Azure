@@ -1,0 +1,35 @@
+{
+  "userId": 10551,
+  "cartId": "69253e56-fb9b-404c-a24f-f9dd19c083f4",
+  "preferredProducts": [
+    761,
+    4345,
+    3131,
+    99,
+    1945,
+    4840,
+    1589
+  ],
+  "productReviews": [
+    {
+      "productId": 4743,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-04-23T21:30:06.475171+03:00"
+    },
+    {
+      "productId": 1013,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-12-29T02:24:52.8771461+02:00"
+    },
+    {
+      "productId": 4303,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-02-17T08:34:11.9247071+02:00"
+    },
+    {
+      "productId": 3901,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-09-06T04:10:17.4796295+03:00"
+    }
+  ]
+}

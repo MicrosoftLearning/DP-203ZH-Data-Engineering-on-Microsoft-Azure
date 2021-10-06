@@ -1,0 +1,30 @@
+{
+  "userId": 78128,
+  "cartId": "540f2c4d-b7e1-4d40-9251-cdd4cad452d9",
+  "preferredProducts": [
+    1230,
+    4491
+  ],
+  "productReviews": [
+    {
+      "productId": 1747,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-01-10T10:50:42.7165821+02:00"
+    },
+    {
+      "productId": 719,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-03-27T01:01:23.4285809+03:00"
+    },
+    {
+      "productId": 3287,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-08-05T01:36:54.8668734+03:00"
+    },
+    {
+      "productId": 1243,
+      "reviewText": "this Uganda Shilling is tasty.",
+      "reviewDate": "2017-03-07T01:28:20.2835887+02:00"
+    }
+  ]
+}

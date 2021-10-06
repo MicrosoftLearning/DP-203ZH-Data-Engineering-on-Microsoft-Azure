@@ -1,0 +1,24 @@
+{
+  "userId": 42582,
+  "cartId": "567b880d-9164-4f2d-9584-a939b4614230",
+  "preferredProducts": [
+    742,
+    1165,
+    1070,
+    4039,
+    3965,
+    4752
+  ],
+  "productReviews": [
+    {
+      "productId": 2145,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2016-11-15T00:59:51.4827151+02:00"
+    },
+    {
+      "productId": 3560,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-10-06T22:01:45.5496791+03:00"
+    }
+  ]
+}

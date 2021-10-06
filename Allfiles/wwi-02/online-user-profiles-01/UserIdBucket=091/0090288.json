@@ -1,0 +1,31 @@
+{
+  "userId": 90288,
+  "cartId": "a081b577-fe50-445c-98f3-7ccfe407ff32",
+  "preferredProducts": [
+    1643,
+    4169,
+    3162,
+    4423,
+    2398,
+    2143,
+    807,
+    2751
+  ],
+  "productReviews": [
+    {
+      "productId": 738,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-10-08T07:30:08.8559272+03:00"
+    },
+    {
+      "productId": 4005,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-10-24T15:04:53.2568804+03:00"
+    },
+    {
+      "productId": 2331,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2016-06-09T21:07:30.2567481+03:00"
+    }
+  ]
+}

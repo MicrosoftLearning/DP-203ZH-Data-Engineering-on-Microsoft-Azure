@@ -1,0 +1,25 @@
+{
+  "userId": 12985,
+  "cartId": "e80ab862-c0e4-491d-be0d-8f94d72dcdfd",
+  "preferredProducts": [
+    1019,
+    1007
+  ],
+  "productReviews": [
+    {
+      "productId": 1625,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-02-28T05:30:25.8181471+02:00"
+    },
+    {
+      "productId": 1059,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-09-20T21:37:56.2665817+03:00"
+    },
+    {
+      "productId": 1025,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2016-10-13T01:10:32.8427419+03:00"
+    }
+  ]
+}

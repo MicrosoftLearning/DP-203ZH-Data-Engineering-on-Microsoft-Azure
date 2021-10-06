@@ -1,0 +1,27 @@
+{
+  "userId": 10263,
+  "cartId": "f85627bd-4b78-43d0-8482-ff10e4d327f4",
+  "preferredProducts": [
+    2718,
+    2487,
+    2809,
+    1112
+  ],
+  "productReviews": [
+    {
+      "productId": 4263,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-11-30T14:27:57.2744975+02:00"
+    },
+    {
+      "productId": 3045,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-04-20T05:31:37.1275348+03:00"
+    },
+    {
+      "productId": 254,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-07-26T14:17:47.5557504+03:00"
+    }
+  ]
+}

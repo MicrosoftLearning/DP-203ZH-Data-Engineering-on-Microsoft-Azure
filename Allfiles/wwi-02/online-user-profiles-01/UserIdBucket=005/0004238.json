@@ -1,0 +1,33 @@
+{
+  "userId": 4238,
+  "cartId": "41460500-d6e0-48f4-9294-c4d719ef6dc0",
+  "preferredProducts": [
+    901,
+    2540,
+    2225,
+    3968,
+    2503,
+    1741,
+    825,
+    3467,
+    4370,
+    1691
+  ],
+  "productReviews": [
+    {
+      "productId": 4714,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-02-09T12:58:31.9091166+02:00"
+    },
+    {
+      "productId": 3597,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-08-17T01:04:23.4835408+03:00"
+    },
+    {
+      "productId": 3607,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-02-07T11:13:01.8778789+02:00"
+    }
+  ]
+}

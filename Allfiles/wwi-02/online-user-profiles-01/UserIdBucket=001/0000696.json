@@ -1,0 +1,25 @@
+{
+  "userId": 696,
+  "cartId": "ddce02d5-4783-4550-9e9c-37ab5626d373",
+  "preferredProducts": [
+    1243,
+    2478,
+    1304,
+    2325,
+    1861,
+    1373,
+    1472
+  ],
+  "productReviews": [
+    {
+      "productId": 137,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-03-08T19:11:58.5995096+02:00"
+    },
+    {
+      "productId": 1639,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2020-02-11T15:19:17.3613837+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 23121,
+  "cartId": "34d742dc-3c34-489b-9da9-2c707f8773dd",
+  "preferredProducts": [
+    3210,
+    266,
+    734,
+    3831,
+    1262,
+    1347,
+    4217,
+    477
+  ],
+  "productReviews": [
+    {
+      "productId": 3098,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2020-03-24T02:37:21.2615505+02:00"
+    },
+    {
+      "productId": 1331,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-12-06T14:38:51.8590113+02:00"
+    },
+    {
+      "productId": 4975,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-01-31T05:25:45.9071204+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 4268,
+  "cartId": "98bc14a8-feee-42f0-aef7-21d7e308ff76",
+  "preferredProducts": [
+    1328,
+    1721,
+    4253,
+    4657,
+    2173,
+    1820,
+    2959,
+    2128,
+    1445
+  ],
+  "productReviews": [
+    {
+      "productId": 778,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-07-06T03:25:20.845655+03:00"
+    },
+    {
+      "productId": 1153,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-04-25T18:17:08.1252612+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-11-04T16:18:32.5387533+02:00"
+    }
+  ]
+}

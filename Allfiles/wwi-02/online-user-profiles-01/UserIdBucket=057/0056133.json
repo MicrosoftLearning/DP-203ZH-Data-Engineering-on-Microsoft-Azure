@@ -1,0 +1,37 @@
+{
+  "userId": 56133,
+  "cartId": "7dbc7eb4-f880-4074-b13b-514ab13bbb27",
+  "preferredProducts": [
+    3082,
+    386,
+    2110,
+    1073,
+    2301,
+    2334,
+    3499,
+    2005,
+    2913
+  ],
+  "productReviews": [
+    {
+      "productId": 690,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-11-02T00:46:12.5958692+02:00"
+    },
+    {
+      "productId": 4537,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-08-08T05:58:00.2471006+03:00"
+    },
+    {
+      "productId": 581,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-06-16T19:30:42.0361947+03:00"
+    },
+    {
+      "productId": 2589,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-12-10T21:08:50.0104203+02:00"
+    }
+  ]
+}

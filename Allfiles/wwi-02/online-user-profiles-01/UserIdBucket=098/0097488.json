@@ -1,0 +1,31 @@
+{
+  "userId": 97488,
+  "cartId": "0909ef90-2960-4f37-bba3-fce0aba530ee",
+  "preferredProducts": [
+    549,
+    1359,
+    287,
+    4410,
+    4671,
+    60,
+    2371,
+    2905
+  ],
+  "productReviews": [
+    {
+      "productId": 569,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-05-29T13:58:49.6677838+03:00"
+    },
+    {
+      "productId": 876,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-11-27T18:09:05.3161484+02:00"
+    },
+    {
+      "productId": 447,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2016-12-07T10:09:05.882648+02:00"
+    }
+  ]
+}

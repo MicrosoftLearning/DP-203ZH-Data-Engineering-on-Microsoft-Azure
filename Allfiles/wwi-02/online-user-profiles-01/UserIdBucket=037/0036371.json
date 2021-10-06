@@ -1,0 +1,26 @@
+{
+  "userId": 36371,
+  "cartId": "3e143616-0a46-4805-988f-37fd4c82a79d",
+  "preferredProducts": [
+    1360,
+    3171,
+    10
+  ],
+  "productReviews": [
+    {
+      "productId": 1339,
+      "reviewText": "this Technician is papery.",
+      "reviewDate": "2018-12-08T17:25:47.5042127+02:00"
+    },
+    {
+      "productId": 3913,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-08-15T10:54:33.0511727+03:00"
+    },
+    {
+      "productId": 4806,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-10-13T00:51:20.4507693+03:00"
+    }
+  ]
+}

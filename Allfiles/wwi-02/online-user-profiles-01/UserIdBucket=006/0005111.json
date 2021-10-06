@@ -1,0 +1,30 @@
+{
+  "userId": 5111,
+  "cartId": "b0fcb01a-7de2-4375-98f7-b63ba80a8b07",
+  "preferredProducts": [
+    2255,
+    3580,
+    3869,
+    2162,
+    590,
+    3404,
+    1087
+  ],
+  "productReviews": [
+    {
+      "productId": 574,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-04-25T11:57:57.1678553+03:00"
+    },
+    {
+      "productId": 2025,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-11-08T21:43:27.9100207+02:00"
+    },
+    {
+      "productId": 11,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-01-22T17:04:26.7814703+02:00"
+    }
+  ]
+}

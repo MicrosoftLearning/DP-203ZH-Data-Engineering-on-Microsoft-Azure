@@ -1,0 +1,27 @@
+{
+  "userId": 15737,
+  "cartId": "e58d6f45-7f37-48e6-97f1-ad50ea06e6cc",
+  "preferredProducts": [
+    1223,
+    4446,
+    2013,
+    198,
+    4916,
+    4307,
+    567,
+    1461,
+    2751
+  ],
+  "productReviews": [
+    {
+      "productId": 4235,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-05-16T09:22:59.4489321+03:00"
+    },
+    {
+      "productId": 4077,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-01-25T09:26:13.5499202+02:00"
+    }
+  ]
+}

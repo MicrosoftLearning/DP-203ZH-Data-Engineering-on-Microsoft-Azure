@@ -1,0 +1,27 @@
+{
+  "userId": 98447,
+  "cartId": "0a730006-da20-4b9b-b43c-8399820ff308",
+  "preferredProducts": [
+    1900,
+    4807,
+    1107,
+    2966
+  ],
+  "productReviews": [
+    {
+      "productId": 62,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-12-02T14:50:01.4253501+02:00"
+    },
+    {
+      "productId": 1631,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-28T21:11:23.2515304+02:00"
+    },
+    {
+      "productId": 387,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-17T14:41:31.8910925+03:00"
+    }
+  ]
+}

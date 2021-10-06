@@ -1,0 +1,35 @@
+{
+  "userId": 3234,
+  "cartId": "b406f4ef-5e7d-400d-9936-a0b52b166f03",
+  "preferredProducts": [
+    4563,
+    3309,
+    3922,
+    1275,
+    4643,
+    2834,
+    3624
+  ],
+  "productReviews": [
+    {
+      "productId": 2697,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-11-21T17:03:10.5659001+02:00"
+    },
+    {
+      "productId": 2621,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-03-12T10:30:21.7247633+02:00"
+    },
+    {
+      "productId": 2809,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-03-04T16:13:21.4813876+02:00"
+    },
+    {
+      "productId": 270,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-30T04:13:25.5213012+02:00"
+    }
+  ]
+}

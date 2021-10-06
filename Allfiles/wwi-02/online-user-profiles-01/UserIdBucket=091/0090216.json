@@ -1,0 +1,35 @@
+{
+  "userId": 90216,
+  "cartId": "fa4c1f13-42d7-4088-9295-f3c031f8b041",
+  "preferredProducts": [
+    3710,
+    4006,
+    2651,
+    3164,
+    4756,
+    1317,
+    2710
+  ],
+  "productReviews": [
+    {
+      "productId": 4465,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-05-21T17:32:50.7863107+03:00"
+    },
+    {
+      "productId": 4015,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-01-24T23:52:09.5555137+02:00"
+    },
+    {
+      "productId": 289,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-03-17T15:06:04.6431522+02:00"
+    },
+    {
+      "productId": 2140,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-07-05T21:26:30.7014935+03:00"
+    }
+  ]
+}

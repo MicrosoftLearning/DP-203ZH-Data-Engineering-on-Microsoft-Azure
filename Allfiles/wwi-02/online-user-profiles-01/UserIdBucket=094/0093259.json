@@ -1,0 +1,33 @@
+{
+  "userId": 93259,
+  "cartId": "b13ea5b7-1826-4388-a94a-a0e533c72e45",
+  "preferredProducts": [
+    4167,
+    3828,
+    172,
+    1212,
+    3924
+  ],
+  "productReviews": [
+    {
+      "productId": 2894,
+      "reviewText": "this Fort is tasty.",
+      "reviewDate": "2017-06-13T03:28:43.6906683+03:00"
+    },
+    {
+      "productId": 4487,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-12-20T09:30:15.1736524+02:00"
+    },
+    {
+      "productId": 2799,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-01-29T23:02:24.1488068+02:00"
+    },
+    {
+      "productId": 54,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-12-23T21:52:58.7916826+02:00"
+    }
+  ]
+}

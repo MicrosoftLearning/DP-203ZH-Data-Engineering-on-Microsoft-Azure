@@ -1,0 +1,25 @@
+{
+  "userId": 985,
+  "cartId": "ed99a934-0c5c-4c8e-87a1-7899a4f9fe2c",
+  "preferredProducts": [
+    1227,
+    2346,
+    727,
+    2035,
+    369,
+    2558,
+    1697
+  ],
+  "productReviews": [
+    {
+      "productId": 2480,
+      "reviewText": "this Argentina is smooth.",
+      "reviewDate": "2018-07-24T12:40:46.9974286+03:00"
+    },
+    {
+      "productId": 3241,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-06-05T17:30:41.4876091+03:00"
+    }
+  ]
+}

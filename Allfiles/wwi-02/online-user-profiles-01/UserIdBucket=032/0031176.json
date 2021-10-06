@@ -1,0 +1,36 @@
+{
+  "userId": 31176,
+  "cartId": "7e901a98-a3d8-4748-8b18-10fc7ebdd91c",
+  "preferredProducts": [
+    1212,
+    1509,
+    3924
+  ],
+  "productReviews": [
+    {
+      "productId": 781,
+      "reviewText": "this withdrawal is standard.",
+      "reviewDate": "2019-02-04T08:45:39.5867451+02:00"
+    },
+    {
+      "productId": 1070,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-05-02T02:32:02.147362+03:00"
+    },
+    {
+      "productId": 2853,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-03-16T13:54:20.3567599+02:00"
+    },
+    {
+      "productId": 1946,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-05-16T08:18:59.8133915+03:00"
+    },
+    {
+      "productId": 2867,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-10-22T07:07:06.9832756+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 13994,
+  "cartId": "4070c086-dea4-4ac4-ab1b-8ca384dd0c32",
+  "preferredProducts": [
+    4693,
+    4236,
+    3234,
+    3711,
+    3465,
+    632,
+    3149,
+    2458
+  ],
+  "productReviews": [
+    {
+      "productId": 693,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-11-09T23:01:18.4602708+02:00"
+    },
+    {
+      "productId": 3888,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-12-14T11:32:08.0447956+02:00"
+    },
+    {
+      "productId": 2041,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-06-10T14:15:28.4250432+03:00"
+    },
+    {
+      "productId": 2479,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-02-12T20:06:56.2572451+02:00"
+    }
+  ]
+}

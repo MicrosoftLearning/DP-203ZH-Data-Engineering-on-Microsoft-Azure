@@ -1,0 +1,22 @@
+{
+  "userId": 74425,
+  "cartId": "01dd2d80-9e54-4705-8b75-1e4c7b83b873",
+  "preferredProducts": [
+    2345,
+    1063,
+    883,
+    3006
+  ],
+  "productReviews": [
+    {
+      "productId": 2088,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-11-14T10:22:49.1180026+02:00"
+    },
+    {
+      "productId": 2508,
+      "reviewText": "This eyeballs works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-06-22T02:27:59.0006749+03:00"
+    }
+  ]
+}

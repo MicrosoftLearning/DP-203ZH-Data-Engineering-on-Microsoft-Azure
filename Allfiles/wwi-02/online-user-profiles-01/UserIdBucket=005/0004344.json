@@ -1,0 +1,37 @@
+{
+  "userId": 4344,
+  "cartId": "21fdd4d3-0619-4882-a0e1-e29cd6a09abc",
+  "preferredProducts": [
+    193,
+    4776,
+    417,
+    2351,
+    2542,
+    3532,
+    2834,
+    4487,
+    992
+  ],
+  "productReviews": [
+    {
+      "productId": 4933,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-09-03T09:51:30.9991589+03:00"
+    },
+    {
+      "productId": 2300,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-03-08T12:16:01.095136+02:00"
+    },
+    {
+      "productId": 11,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2020-01-25T20:10:34.7493603+02:00"
+    },
+    {
+      "productId": 2937,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-05-10T07:08:59.3924806+03:00"
+    }
+  ]
+}

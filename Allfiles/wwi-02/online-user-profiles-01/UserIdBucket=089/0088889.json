@@ -1,0 +1,37 @@
+{
+  "userId": 88889,
+  "cartId": "6372120e-7597-4e5d-a4eb-1c112754bf19",
+  "preferredProducts": [
+    3188,
+    610,
+    844,
+    1,
+    3615,
+    345,
+    736,
+    2773,
+    2676
+  ],
+  "productReviews": [
+    {
+      "productId": 1484,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-03-12T04:59:56.575289+02:00"
+    },
+    {
+      "productId": 152,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-01-16T23:07:15.760353+02:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-08-14T20:55:29.620697+03:00"
+    },
+    {
+      "productId": 141,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-01-21T03:57:21.2403345+02:00"
+    }
+  ]
+}

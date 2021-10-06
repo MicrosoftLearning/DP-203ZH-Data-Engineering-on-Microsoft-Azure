@@ -1,0 +1,29 @@
+{
+  "userId": 23551,
+  "cartId": "9d1b5d63-bd9a-4a1d-8124-0c5e6f848336",
+  "preferredProducts": [
+    1984,
+    2807,
+    1057,
+    3412,
+    442,
+    2917
+  ],
+  "productReviews": [
+    {
+      "productId": 1814,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2020-01-04T06:03:43.8851873+02:00"
+    },
+    {
+      "productId": 48,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-11-15T08:30:45.0520434+02:00"
+    },
+    {
+      "productId": 4559,
+      "reviewText": "This is a really good hacking.",
+      "reviewDate": "2019-09-04T13:43:14.3836743+03:00"
+    }
+  ]
+}

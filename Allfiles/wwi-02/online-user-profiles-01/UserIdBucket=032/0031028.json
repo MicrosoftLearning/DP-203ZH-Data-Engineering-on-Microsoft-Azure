@@ -1,0 +1,29 @@
+{
+  "userId": 31028,
+  "cartId": "bbf974bd-b78f-481c-a3eb-bd8cd68a9353",
+  "preferredProducts": [
+    4007,
+    4710,
+    736,
+    4161,
+    2869,
+    3764
+  ],
+  "productReviews": [
+    {
+      "productId": 3557,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-11-02T10:52:07.8022633+02:00"
+    },
+    {
+      "productId": 1825,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-09-11T07:03:12.8705674+03:00"
+    },
+    {
+      "productId": 3610,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-10-11T23:07:51.2473483+03:00"
+    }
+  ]
+}

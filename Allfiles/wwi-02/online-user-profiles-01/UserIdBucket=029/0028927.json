@@ -1,0 +1,33 @@
+{
+  "userId": 28927,
+  "cartId": "c3683f52-c9c6-4fc6-a2e2-d8b7c22bc83d",
+  "preferredProducts": [
+    1852,
+    2966,
+    1969,
+    3457,
+    534,
+    1264,
+    324,
+    3251,
+    3786,
+    2806
+  ],
+  "productReviews": [
+    {
+      "productId": 806,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-02-13T22:24:51.9000287+02:00"
+    },
+    {
+      "productId": 4559,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-03-27T01:10:50.3660395+03:00"
+    },
+    {
+      "productId": 4540,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-10-18T11:51:37.6733932+03:00"
+    }
+  ]
+}

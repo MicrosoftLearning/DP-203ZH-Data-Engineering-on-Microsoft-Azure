@@ -1,0 +1,33 @@
+{
+  "userId": 57218,
+  "cartId": "be91be86-3b85-4b1c-bbd8-4e2e1b1b6bd5",
+  "preferredProducts": [
+    3749,
+    4207,
+    1895,
+    1832,
+    2808
+  ],
+  "productReviews": [
+    {
+      "productId": 2467,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-02-12T05:03:29.6034016+02:00"
+    },
+    {
+      "productId": 607,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-12-05T23:02:21.137873+02:00"
+    },
+    {
+      "productId": 131,
+      "reviewText": "This is a really good open system.",
+      "reviewDate": "2017-11-15T18:43:52.1444213+02:00"
+    },
+    {
+      "productId": 1224,
+      "reviewText": "This HDD works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2017-02-26T20:40:05.66802+02:00"
+    }
+  ]
+}

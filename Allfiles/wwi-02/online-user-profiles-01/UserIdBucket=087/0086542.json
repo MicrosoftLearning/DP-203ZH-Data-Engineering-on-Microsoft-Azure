@@ -1,0 +1,28 @@
+{
+  "userId": 86542,
+  "cartId": "e3eb052e-ff94-4d9c-8c64-42c77757b560",
+  "preferredProducts": [
+    1423,
+    3193,
+    246,
+    3834,
+    4549
+  ],
+  "productReviews": [
+    {
+      "productId": 204,
+      "reviewText": "this Dalasi is slurpee.",
+      "reviewDate": "2019-01-02T21:54:58.1057477+02:00"
+    },
+    {
+      "productId": 927,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-08-21T21:10:18.478496+03:00"
+    },
+    {
+      "productId": 4117,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-03-06T19:49:29.9410459+02:00"
+    }
+  ]
+}

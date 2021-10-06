@@ -1,0 +1,26 @@
+{
+  "userId": 23597,
+  "cartId": "532325e7-2ccb-4b9b-af7f-8a11f195e661",
+  "preferredProducts": [
+    770,
+    3537,
+    3296
+  ],
+  "productReviews": [
+    {
+      "productId": 1369,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-10-07T03:54:20.4473608+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-02-18T09:17:50.6822904+02:00"
+    },
+    {
+      "productId": 4794,
+      "reviewText": "This e-markets, does exactly what it's suppose to do.",
+      "reviewDate": "2016-08-28T04:53:22.8944496+03:00"
+    }
+  ]
+}

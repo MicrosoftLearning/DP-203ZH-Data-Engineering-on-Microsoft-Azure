@@ -1,0 +1,27 @@
+{
+  "userId": 42824,
+  "cartId": "e1bb1b27-709c-4b0f-9fa1-102d857b02b6",
+  "preferredProducts": [
+    4489,
+    565,
+    58,
+    2387,
+    944,
+    4961,
+    4810,
+    4864,
+    1114
+  ],
+  "productReviews": [
+    {
+      "productId": 4436,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-10-12T06:22:54.5223785+03:00"
+    },
+    {
+      "productId": 3248,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-09-26T00:11:22.2799062+03:00"
+    }
+  ]
+}

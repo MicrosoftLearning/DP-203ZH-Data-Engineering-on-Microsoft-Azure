@@ -1,0 +1,30 @@
+{
+  "userId": 8401,
+  "cartId": "2cdc2882-2a78-4df7-83bd-c9b7cc11ed0c",
+  "preferredProducts": [
+    1585,
+    1128,
+    2560,
+    2929,
+    1076,
+    1435,
+    786
+  ],
+  "productReviews": [
+    {
+      "productId": 2020,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-06-10T01:20:03.0131138+03:00"
+    },
+    {
+      "productId": 4236,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-11-14T16:21:20.9757915+02:00"
+    },
+    {
+      "productId": 4071,
+      "reviewText": "This maroon works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2018-02-09T17:20:42.1400667+02:00"
+    }
+  ]
+}

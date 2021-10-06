@@ -1,0 +1,38 @@
+{
+  "userId": 19912,
+  "cartId": "1dfd848d-8fb5-4abb-a8a8-fa0d04df1604",
+  "preferredProducts": [
+    4868,
+    2319,
+    2634,
+    545,
+    2268,
+    4761,
+    1145,
+    607,
+    1822,
+    2086
+  ],
+  "productReviews": [
+    {
+      "productId": 276,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-09-14T23:44:25.6514735+03:00"
+    },
+    {
+      "productId": 1263,
+      "reviewText": "This B2B works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-11-22T20:03:25.9627064+02:00"
+    },
+    {
+      "productId": 3014,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-07-15T19:53:48.8551102+03:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-02-14T21:44:01.9123983+02:00"
+    }
+  ]
+}

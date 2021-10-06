@@ -1,0 +1,33 @@
+{
+  "userId": 51484,
+  "cartId": "9869011f-bcb8-4b6e-9388-134932109a2b",
+  "preferredProducts": [
+    4364,
+    3236,
+    4011,
+    1417,
+    1892
+  ],
+  "productReviews": [
+    {
+      "productId": 1153,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-06-01T21:37:43.7360676+03:00"
+    },
+    {
+      "productId": 283,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-10-01T22:26:32.5566854+03:00"
+    },
+    {
+      "productId": 4253,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-03-15T10:37:22.8025503+02:00"
+    },
+    {
+      "productId": 4232,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-02-21T11:50:28.2820883+02:00"
+    }
+  ]
+}

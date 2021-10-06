@@ -1,0 +1,38 @@
+{
+  "userId": 43152,
+  "cartId": "fb80e995-daa4-4c07-b147-930cab3e245b",
+  "preferredProducts": [
+    3426,
+    4711,
+    4942,
+    4610,
+    244
+  ],
+  "productReviews": [
+    {
+      "productId": 1406,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-01-24T00:44:36.915816+02:00"
+    },
+    {
+      "productId": 3462,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-10-28T06:12:59.2838813+02:00"
+    },
+    {
+      "productId": 33,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-10-20T15:48:43.502526+03:00"
+    },
+    {
+      "productId": 3873,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-07-11T20:03:04.322557+03:00"
+    },
+    {
+      "productId": 2172,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-04-11T21:39:18.7789921+03:00"
+    }
+  ]
+}

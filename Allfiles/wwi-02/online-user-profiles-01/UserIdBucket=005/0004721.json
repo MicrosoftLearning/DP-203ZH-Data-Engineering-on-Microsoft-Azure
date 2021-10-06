@@ -1,0 +1,30 @@
+{
+  "userId": 4721,
+  "cartId": "d673a038-69cd-4966-aae4-be058e37ce5a",
+  "preferredProducts": [
+    196,
+    3815
+  ],
+  "productReviews": [
+    {
+      "productId": 1312,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-01-26T16:53:50.5312402+02:00"
+    },
+    {
+      "productId": 1838,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-02-19T07:21:16.2013087+02:00"
+    },
+    {
+      "productId": 4318,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2020-02-15T22:24:54.0724192+02:00"
+    },
+    {
+      "productId": 2009,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-01-20T21:10:37.9703271+02:00"
+    }
+  ]
+}

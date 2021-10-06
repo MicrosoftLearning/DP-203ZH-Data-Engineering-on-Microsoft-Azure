@@ -1,0 +1,34 @@
+{
+  "userId": 16112,
+  "cartId": "3782cecc-680c-4de3-99f9-b5e36052a445",
+  "preferredProducts": [
+    211,
+    3208,
+    2820,
+    1907,
+    711,
+    202
+  ],
+  "productReviews": [
+    {
+      "productId": 3503,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-05-20T06:44:26.1870965+03:00"
+    },
+    {
+      "productId": 2747,
+      "reviewText": "this bus is whole-grain.",
+      "reviewDate": "2018-10-29T13:02:01.8859193+02:00"
+    },
+    {
+      "productId": 800,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-09-13T10:56:09.7521893+03:00"
+    },
+    {
+      "productId": 698,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-12-20T12:30:07.0465833+02:00"
+    }
+  ]
+}

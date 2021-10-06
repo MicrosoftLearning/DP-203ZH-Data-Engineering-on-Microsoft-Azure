@@ -1,0 +1,35 @@
+{
+  "userId": 21571,
+  "cartId": "edfc6485-582f-4e12-9224-b13fc18667a0",
+  "preferredProducts": [
+    2267,
+    3519,
+    2821,
+    525,
+    4184,
+    3208,
+    3717
+  ],
+  "productReviews": [
+    {
+      "productId": 2828,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-07-03T08:15:25.4650338+03:00"
+    },
+    {
+      "productId": 2138,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-02-06T14:40:01.513994+02:00"
+    },
+    {
+      "productId": 1650,
+      "reviewText": "This Regional works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-02-23T21:45:14.314727+02:00"
+    },
+    {
+      "productId": 2177,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-08-15T07:19:07.5783921+03:00"
+    }
+  ]
+}

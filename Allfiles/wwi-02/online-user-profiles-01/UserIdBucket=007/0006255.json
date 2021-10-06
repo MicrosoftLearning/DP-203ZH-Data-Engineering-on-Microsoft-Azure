@@ -1,0 +1,27 @@
+{
+  "userId": 6255,
+  "cartId": "d8c51ca6-7b6a-49af-9721-ee8a64d742de",
+  "preferredProducts": [
+    3063,
+    136,
+    4209,
+    2130
+  ],
+  "productReviews": [
+    {
+      "productId": 153,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-07-16T12:41:28.1122804+03:00"
+    },
+    {
+      "productId": 417,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-01-05T12:44:32.2765248+02:00"
+    },
+    {
+      "productId": 4970,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-09-27T20:29:16.1211934+03:00"
+    }
+  ]
+}

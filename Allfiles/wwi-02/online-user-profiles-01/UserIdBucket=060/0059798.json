@@ -1,0 +1,25 @@
+{
+  "userId": 59798,
+  "cartId": "db1daf3f-32fc-4f0d-b5ac-1b74dde34e96",
+  "preferredProducts": [
+    4518,
+    4467,
+    612,
+    1156,
+    439,
+    1386,
+    3545
+  ],
+  "productReviews": [
+    {
+      "productId": 117,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-09-27T00:20:28.4493215+03:00"
+    },
+    {
+      "productId": 1283,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-01-11T22:02:18.1300193+02:00"
+    }
+  ]
+}

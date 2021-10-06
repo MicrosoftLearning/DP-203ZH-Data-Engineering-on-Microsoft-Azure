@@ -1,0 +1,36 @@
+{
+  "userId": 37389,
+  "cartId": "b7fe7448-a364-4edc-b169-4a2f5e80f9c2",
+  "preferredProducts": [
+    731,
+    2239,
+    2595
+  ],
+  "productReviews": [
+    {
+      "productId": 2309,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-12-06T07:30:23.4023536+02:00"
+    },
+    {
+      "productId": 4335,
+      "reviewText": "This indexing works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-01-06T16:30:57.7425643+02:00"
+    },
+    {
+      "productId": 2481,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-02-20T12:31:57.9084529+02:00"
+    },
+    {
+      "productId": 3656,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-07-15T11:00:44.492719+03:00"
+    },
+    {
+      "productId": 2784,
+      "reviewText": "this deploy is snowy.",
+      "reviewDate": "2018-12-02T17:04:09.0777422+02:00"
+    }
+  ]
+}

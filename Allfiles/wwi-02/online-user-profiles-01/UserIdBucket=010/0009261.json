@@ -1,0 +1,37 @@
+{
+  "userId": 9261,
+  "cartId": "7a752e79-4257-4226-8ac0-c83a8086c4c5",
+  "preferredProducts": [
+    2225,
+    1792,
+    2842,
+    2475,
+    469,
+    2920,
+    1603,
+    3461,
+    813
+  ],
+  "productReviews": [
+    {
+      "productId": 2687,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-01-12T05:41:51.6447296+02:00"
+    },
+    {
+      "productId": 1270,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-06-05T06:33:32.5830239+03:00"
+    },
+    {
+      "productId": 3027,
+      "reviewText": "This Operations works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2020-02-27T08:14:11.9393722+02:00"
+    },
+    {
+      "productId": 956,
+      "reviewText": "this Home is perplexed.",
+      "reviewDate": "2019-10-05T03:03:31.138645+03:00"
+    }
+  ]
+}

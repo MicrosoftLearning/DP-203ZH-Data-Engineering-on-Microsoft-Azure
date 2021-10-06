@@ -1,0 +1,36 @@
+{
+  "userId": 5645,
+  "cartId": "42de9810-dbf1-4f4b-99b8-3136788d49ba",
+  "preferredProducts": [
+    2226,
+    4516,
+    236
+  ],
+  "productReviews": [
+    {
+      "productId": 1039,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-12-29T09:56:50.7514764+02:00"
+    },
+    {
+      "productId": 875,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-04-02T13:25:42.8655713+03:00"
+    },
+    {
+      "productId": 4272,
+      "reviewText": "This Customer works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2020-01-07T05:11:10.1095489+02:00"
+    },
+    {
+      "productId": 3704,
+      "reviewText": "This Crest works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-10-27T22:22:08.5430379+03:00"
+    },
+    {
+      "productId": 4354,
+      "reviewText": "this Cambridgeshire is flirty.",
+      "reviewDate": "2019-10-20T16:17:02.4921858+03:00"
+    }
+  ]
+}

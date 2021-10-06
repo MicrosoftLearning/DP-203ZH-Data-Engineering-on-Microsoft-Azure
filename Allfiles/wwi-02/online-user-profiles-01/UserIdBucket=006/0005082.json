@@ -1,0 +1,33 @@
+{
+  "userId": 5082,
+  "cartId": "97c97c9d-52dc-454d-b415-26f55a861864",
+  "preferredProducts": [
+    3261,
+    3233,
+    4369,
+    1114,
+    2164
+  ],
+  "productReviews": [
+    {
+      "productId": 2763,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-08-04T16:59:29.27893+03:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2020-01-01T17:43:18.2879197+02:00"
+    },
+    {
+      "productId": 868,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-06-08T10:12:14.6839536+03:00"
+    },
+    {
+      "productId": 4980,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-04-20T17:43:22.5816541+03:00"
+    }
+  ]
+}

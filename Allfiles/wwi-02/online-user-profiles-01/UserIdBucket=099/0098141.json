@@ -1,0 +1,33 @@
+{
+  "userId": 98141,
+  "cartId": "d9cdc665-34e3-42f0-b5c2-da06ee5aa937",
+  "preferredProducts": [
+    1225,
+    2,
+    4564,
+    1237,
+    4330,
+    4399,
+    342,
+    4244,
+    3116,
+    2995
+  ],
+  "productReviews": [
+    {
+      "productId": 4651,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-07-12T23:17:01.1918095+03:00"
+    },
+    {
+      "productId": 3832,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-03-08T23:05:41.6579051+02:00"
+    },
+    {
+      "productId": 3795,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-12-26T05:19:48.396356+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 31400,
+  "cartId": "9ef936fb-7458-430c-9b14-f6a6f6d549d8",
+  "preferredProducts": [
+    1983,
+    1662,
+    3443,
+    3305,
+    1502
+  ],
+  "productReviews": [
+    {
+      "productId": 70,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2020-01-10T09:26:20.2024366+02:00"
+    },
+    {
+      "productId": 1746,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-04-06T03:16:00.960128+03:00"
+    },
+    {
+      "productId": 1708,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-12-01T14:46:18.0634844+02:00"
+    },
+    {
+      "productId": 2022,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-01-16T12:35:14.4155722+02:00"
+    }
+  ]
+}

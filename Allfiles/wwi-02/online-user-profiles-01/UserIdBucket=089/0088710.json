@@ -1,0 +1,30 @@
+{
+  "userId": 88710,
+  "cartId": "b0c89eef-1ce8-4545-ab64-7862b46883fa",
+  "preferredProducts": [
+    717,
+    688,
+    757,
+    2554,
+    1315,
+    962,
+    1847
+  ],
+  "productReviews": [
+    {
+      "productId": 1721,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-06-27T18:24:27.5676385+03:00"
+    },
+    {
+      "productId": 4059,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-04-04T22:05:50.8422346+03:00"
+    },
+    {
+      "productId": 439,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-09-07T18:48:17.7945215+03:00"
+    }
+  ]
+}

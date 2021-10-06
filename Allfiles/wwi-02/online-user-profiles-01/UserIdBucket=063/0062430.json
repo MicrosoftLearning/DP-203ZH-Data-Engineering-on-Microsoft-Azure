@@ -1,0 +1,36 @@
+{
+  "userId": 62430,
+  "cartId": "a53c7c39-80ea-426b-b5fd-f94b45cb5651",
+  "preferredProducts": [
+    1382,
+    1428,
+    564
+  ],
+  "productReviews": [
+    {
+      "productId": 3773,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-07-01T23:16:13.0881802+03:00"
+    },
+    {
+      "productId": 1550,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-10-15T01:16:26.8379987+03:00"
+    },
+    {
+      "productId": 4862,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-11-06T07:27:29.5107801+02:00"
+    },
+    {
+      "productId": 2315,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-05-22T05:49:15.282481+03:00"
+    },
+    {
+      "productId": 2161,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-09-07T21:14:13.7142134+03:00"
+    }
+  ]
+}

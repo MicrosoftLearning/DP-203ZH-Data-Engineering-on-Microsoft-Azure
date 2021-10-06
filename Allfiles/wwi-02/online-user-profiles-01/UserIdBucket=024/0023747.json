@@ -1,0 +1,30 @@
+{
+  "userId": 23747,
+  "cartId": "891bb95d-a8f8-4540-9793-f3b21f4af54c",
+  "preferredProducts": [
+    1644,
+    4072,
+    4563,
+    4725,
+    1960,
+    1835,
+    980
+  ],
+  "productReviews": [
+    {
+      "productId": 1127,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-07-03T12:30:24.5273038+03:00"
+    },
+    {
+      "productId": 4179,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-01-25T07:17:19.1638289+02:00"
+    },
+    {
+      "productId": 1264,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2018-10-02T06:41:20.4036644+03:00"
+    }
+  ]
+}

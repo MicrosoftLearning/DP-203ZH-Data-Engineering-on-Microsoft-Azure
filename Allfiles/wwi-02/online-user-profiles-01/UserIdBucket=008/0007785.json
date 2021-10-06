@@ -1,0 +1,36 @@
+{
+  "userId": 7785,
+  "cartId": "979d7c97-e3aa-4713-a656-8a3e9e365a8a",
+  "preferredProducts": [
+    1926,
+    3561,
+    2489
+  ],
+  "productReviews": [
+    {
+      "productId": 264,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-06-06T07:06:23.1998432+03:00"
+    },
+    {
+      "productId": 4063,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-04-25T10:42:56.0935013+03:00"
+    },
+    {
+      "productId": 1681,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-09-02T04:46:57.0252389+03:00"
+    },
+    {
+      "productId": 4625,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-12-05T12:05:00.670622+02:00"
+    },
+    {
+      "productId": 1396,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-08-14T05:58:01.118759+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 28768,
+  "cartId": "2b5eb118-a406-4332-b223-98a5b5b41359",
+  "preferredProducts": [
+    3382,
+    4932,
+    1706,
+    1378,
+    4594
+  ],
+  "productReviews": [
+    {
+      "productId": 1770,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-08-09T21:53:39.0499584+03:00"
+    },
+    {
+      "productId": 3352,
+      "reviewText": "this Frozen is standard.",
+      "reviewDate": "2019-12-16T23:38:59.0385087+02:00"
+    },
+    {
+      "productId": 1964,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-11-29T11:20:31.2449826+02:00"
+    },
+    {
+      "productId": 701,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-04-21T17:08:32.6389614+03:00"
+    }
+  ]
+}

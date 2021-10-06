@@ -1,0 +1,30 @@
+{
+  "userId": 50778,
+  "cartId": "c0a945c4-81ef-4100-80fe-449009dcaac0",
+  "preferredProducts": [
+    1119,
+    1609
+  ],
+  "productReviews": [
+    {
+      "productId": 2017,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-04-07T03:39:49.0199103+03:00"
+    },
+    {
+      "productId": 3528,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-11-15T21:42:28.7723405+02:00"
+    },
+    {
+      "productId": 3231,
+      "reviewText": "This HDD works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2020-01-29T17:57:39.5898624+02:00"
+    },
+    {
+      "productId": 1787,
+      "reviewText": "This Anguilla works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2020-01-20T11:08:47.3865279+02:00"
+    }
+  ]
+}

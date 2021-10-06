@@ -1,0 +1,31 @@
+{
+  "userId": 6259,
+  "cartId": "051e8f5d-46a4-43bc-8311-8f205e92508a",
+  "preferredProducts": [
+    3378,
+    3701,
+    1628
+  ],
+  "productReviews": [
+    {
+      "productId": 704,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-01-13T03:55:06.6006609+02:00"
+    },
+    {
+      "productId": 4721,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-11-24T09:17:07.0051173+02:00"
+    },
+    {
+      "productId": 2624,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-04-21T13:02:44.1377764+03:00"
+    },
+    {
+      "productId": 3100,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-05-05T08:57:49.9894316+03:00"
+    }
+  ]
+}

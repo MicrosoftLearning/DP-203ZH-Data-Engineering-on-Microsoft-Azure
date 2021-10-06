@@ -1,0 +1,23 @@
+{
+  "userId": 29495,
+  "cartId": "93bcab51-a51b-4260-9e37-b38886d3752b",
+  "preferredProducts": [
+    4444,
+    4021,
+    2336,
+    1801,
+    240
+  ],
+  "productReviews": [
+    {
+      "productId": 1532,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-07-26T00:49:03.2193696+03:00"
+    },
+    {
+      "productId": 4733,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-02-09T17:23:49.1825792+02:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 56456,
+  "cartId": "3feed403-b974-4cbb-ba61-441f16df1c28",
+  "preferredProducts": [
+    911,
+    1177,
+    1922,
+    1881,
+    914
+  ],
+  "productReviews": [
+    {
+      "productId": 4452,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-07-22T13:51:57.5322096+03:00"
+    },
+    {
+      "productId": 1958,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-09-03T10:53:29.7672423+03:00"
+    }
+  ]
+}

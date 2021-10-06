@@ -1,0 +1,34 @@
+{
+  "userId": 22776,
+  "cartId": "09271c2c-cb93-4ccf-bb17-cd93e08c1c4d",
+  "preferredProducts": [
+    3890,
+    4514,
+    2108,
+    20,
+    2700,
+    3099
+  ],
+  "productReviews": [
+    {
+      "productId": 3890,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-09-25T17:09:15.3101022+03:00"
+    },
+    {
+      "productId": 1546,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-11-28T01:37:54.5627319+02:00"
+    },
+    {
+      "productId": 2397,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-09-14T07:47:35.6928865+03:00"
+    },
+    {
+      "productId": 4145,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-08-13T10:25:07.3840945+03:00"
+    }
+  ]
+}

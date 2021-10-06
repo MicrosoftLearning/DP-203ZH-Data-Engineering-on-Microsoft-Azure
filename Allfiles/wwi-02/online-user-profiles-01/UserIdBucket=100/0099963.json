@@ -1,0 +1,29 @@
+{
+  "userId": 99963,
+  "cartId": "b44cc588-4b29-4cb0-bf72-8f8e59a35ff1",
+  "preferredProducts": [
+    367,
+    2446,
+    386,
+    2861,
+    4981,
+    2366
+  ],
+  "productReviews": [
+    {
+      "productId": 3022,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-02T03:27:00.8897788+03:00"
+    },
+    {
+      "productId": 3025,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2020-01-27T18:09:12.4348961+02:00"
+    },
+    {
+      "productId": 689,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-05-18T22:23:15.1002494+03:00"
+    }
+  ]
+}

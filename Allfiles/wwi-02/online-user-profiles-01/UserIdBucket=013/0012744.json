@@ -1,0 +1,25 @@
+{
+  "userId": 12744,
+  "cartId": "6f4cc719-60cb-408e-bf10-0de203f10f49",
+  "preferredProducts": [
+    2490,
+    4433,
+    3411,
+    3934,
+    2659,
+    3661,
+    2784
+  ],
+  "productReviews": [
+    {
+      "productId": 3418,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-09-28T11:29:55.0653547+03:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "this parsing is ratty.",
+      "reviewDate": "2019-10-18T14:38:29.9821937+03:00"
+    }
+  ]
+}

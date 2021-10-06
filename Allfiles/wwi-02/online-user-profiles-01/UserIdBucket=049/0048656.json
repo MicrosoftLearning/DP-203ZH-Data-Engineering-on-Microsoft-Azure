@@ -1,0 +1,27 @@
+{
+  "userId": 48656,
+  "cartId": "7d10e8b3-d580-4eca-80cf-b0fd6bfdfe1d",
+  "preferredProducts": [
+    2316,
+    3605,
+    4388,
+    4908
+  ],
+  "productReviews": [
+    {
+      "productId": 4001,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-10-20T12:46:00.8200303+03:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-01-08T18:16:33.1120443+02:00"
+    },
+    {
+      "productId": 1446,
+      "reviewText": "This Generic works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-05-15T11:55:08.6484423+03:00"
+    }
+  ]
+}

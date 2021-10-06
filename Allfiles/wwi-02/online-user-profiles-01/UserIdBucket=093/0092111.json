@@ -1,0 +1,33 @@
+{
+  "userId": 92111,
+  "cartId": "99da2eda-5815-4ae4-94c7-7fd0cf8711a4",
+  "preferredProducts": [
+    1166,
+    4118,
+    3243,
+    1508,
+    63
+  ],
+  "productReviews": [
+    {
+      "productId": 1404,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-12-11T08:00:45.0002308+02:00"
+    },
+    {
+      "productId": 2085,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-11-14T15:37:58.5852284+02:00"
+    },
+    {
+      "productId": 4212,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-04-22T12:40:56.6132696+03:00"
+    },
+    {
+      "productId": 3959,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-08-31T23:23:27.5398951+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 8894,
+  "cartId": "33e319a4-7cb5-4e2a-a226-b87b85a12a12",
+  "preferredProducts": [
+    2523,
+    1844,
+    2253,
+    354,
+    2889,
+    342,
+    1588,
+    4956
+  ],
+  "productReviews": [
+    {
+      "productId": 3893,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-04-06T12:40:47.539346+03:00"
+    },
+    {
+      "productId": 2019,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-02-19T06:36:53.0479196+02:00"
+    },
+    {
+      "productId": 571,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-06-13T06:32:54.841208+03:00"
+    },
+    {
+      "productId": 3099,
+      "reviewText": "this indexing is tasty.",
+      "reviewDate": "2019-01-07T23:47:53.5275071+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 42653,
+  "cartId": "47f39f35-3db8-463b-93c8-9162ae6b79c0",
+  "preferredProducts": [
+    2969,
+    788,
+    3214,
+    4707,
+    2255,
+    1810,
+    1008,
+    2336
+  ],
+  "productReviews": [
+    {
+      "productId": 1174,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-09-28T12:14:34.2344744+03:00"
+    },
+    {
+      "productId": 2672,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-05-15T13:15:43.5536803+03:00"
+    },
+    {
+      "productId": 1073,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-03-12T13:44:11.1884401+02:00"
+    },
+    {
+      "productId": 2441,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-01-05T09:59:16.3755797+02:00"
+    }
+  ]
+}

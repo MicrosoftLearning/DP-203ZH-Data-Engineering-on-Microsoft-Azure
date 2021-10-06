@@ -1,0 +1,42 @@
+{
+  "userId": 31111,
+  "cartId": "38e6225b-22c1-4328-8b5d-6feaa4b1eda3",
+  "preferredProducts": [
+    295,
+    2147,
+    1764,
+    4831,
+    382,
+    3434,
+    2294,
+    4597,
+    4877
+  ],
+  "productReviews": [
+    {
+      "productId": 4058,
+      "reviewText": "this Awesome Fresh Pizza is complimentary.",
+      "reviewDate": "2016-10-27T12:17:53.2207431+03:00"
+    },
+    {
+      "productId": 2912,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-03-05T17:54:59.1684624+02:00"
+    },
+    {
+      "productId": 961,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-12-10T06:22:35.4542942+02:00"
+    },
+    {
+      "productId": 2200,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-09-09T20:33:12.8669304+03:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2019-08-28T23:22:09.5893454+03:00"
+    }
+  ]
+}

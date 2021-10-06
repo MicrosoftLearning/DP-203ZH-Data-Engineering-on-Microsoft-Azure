@@ -1,0 +1,27 @@
+{
+  "userId": 21319,
+  "cartId": "77441b1b-b2c2-4c20-a20a-8fd48fe04838",
+  "preferredProducts": [
+    1293,
+    4873,
+    63,
+    3709
+  ],
+  "productReviews": [
+    {
+      "productId": 2360,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-04-25T12:07:28.5982188+03:00"
+    },
+    {
+      "productId": 1793,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-11-20T18:14:09.4717857+02:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "this Ergonomic is awesome.",
+      "reviewDate": "2018-07-21T01:33:29.6288443+03:00"
+    }
+  ]
+}

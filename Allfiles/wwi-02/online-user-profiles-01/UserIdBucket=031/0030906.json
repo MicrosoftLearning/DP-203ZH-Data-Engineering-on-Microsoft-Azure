@@ -1,0 +1,25 @@
+{
+  "userId": 30906,
+  "cartId": "7f92e9b2-c632-422a-a1b1-9393673d4cb0",
+  "preferredProducts": [
+    2875,
+    3427
+  ],
+  "productReviews": [
+    {
+      "productId": 607,
+      "reviewText": "this Soft is brown.",
+      "reviewDate": "2017-07-10T22:01:26.9603569+03:00"
+    },
+    {
+      "productId": 4497,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-09-06T21:50:49.3882067+03:00"
+    },
+    {
+      "productId": 2221,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-12-20T10:20:02.838871+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 64920,
+  "cartId": "a441cbe9-181a-4539-9812-c742e31f6141",
+  "preferredProducts": [
+    718,
+    4210,
+    3818
+  ],
+  "productReviews": [
+    {
+      "productId": 1661,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-08-08T17:25:44.0827591+03:00"
+    },
+    {
+      "productId": 1093,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-07-25T19:01:58.2146745+03:00"
+    },
+    {
+      "productId": 3199,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-02-02T20:26:41.4985132+02:00"
+    }
+  ]
+}

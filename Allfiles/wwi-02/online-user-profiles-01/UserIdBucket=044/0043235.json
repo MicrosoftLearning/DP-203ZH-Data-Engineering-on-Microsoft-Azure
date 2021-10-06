@@ -1,0 +1,33 @@
+{
+  "userId": 43235,
+  "cartId": "f757867d-778c-470e-8637-712ac62df404",
+  "preferredProducts": [
+    3503,
+    354,
+    4316,
+    1346,
+    928,
+    3521,
+    195,
+    2146,
+    2563,
+    1046
+  ],
+  "productReviews": [
+    {
+      "productId": 2069,
+      "reviewText": "This is a really good Planner.",
+      "reviewDate": "2017-08-03T11:51:36.9372957+03:00"
+    },
+    {
+      "productId": 118,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-02-28T02:11:14.8297307+02:00"
+    },
+    {
+      "productId": 214,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-11-13T01:10:20.5175083+02:00"
+    }
+  ]
+}

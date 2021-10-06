@@ -1,0 +1,31 @@
+{
+  "userId": 91720,
+  "cartId": "ed387150-f4ad-4cd0-a4c0-c69928311d77",
+  "preferredProducts": [
+    121,
+    3264,
+    2325,
+    2372,
+    4501,
+    584,
+    4270,
+    2235
+  ],
+  "productReviews": [
+    {
+      "productId": 456,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-01-08T16:54:41.8329647+02:00"
+    },
+    {
+      "productId": 1072,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-01-11T04:55:27.0461705+02:00"
+    },
+    {
+      "productId": 216,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-01-03T05:53:02.9315957+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 71115,
+  "cartId": "b89ab001-3522-477b-8b45-d4c92885fece",
+  "preferredProducts": [
+    2409,
+    332,
+    4025,
+    219,
+    4648,
+    819,
+    2064,
+    1357,
+    936
+  ],
+  "productReviews": [
+    {
+      "productId": 3664,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-07-19T20:00:02.4710981+03:00"
+    },
+    {
+      "productId": 1827,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-06-08T12:28:27.7474073+03:00"
+    },
+    {
+      "productId": 1658,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-10-05T05:29:01.3961937+03:00"
+    }
+  ]
+}

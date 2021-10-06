@@ -1,0 +1,31 @@
+{
+  "userId": 34932,
+  "cartId": "af2c04e6-066d-48bb-aaf8-c3ea4c7c3db6",
+  "preferredProducts": [
+    3408,
+    4289,
+    2609,
+    434,
+    2773,
+    1083,
+    404,
+    34
+  ],
+  "productReviews": [
+    {
+      "productId": 1441,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-12-04T22:06:03.5504921+02:00"
+    },
+    {
+      "productId": 20,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-06-17T08:33:39.6029679+03:00"
+    },
+    {
+      "productId": 2101,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-02-19T23:17:10.4257056+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 23015,
+  "cartId": "4e40e6ee-3b63-4797-8979-c32e0a42f429",
+  "preferredProducts": [
+    512,
+    1536
+  ],
+  "productReviews": [
+    {
+      "productId": 4492,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-05-21T06:04:05.9174322+03:00"
+    },
+    {
+      "productId": 4655,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-10-22T11:55:43.4091702+03:00"
+    },
+    {
+      "productId": 716,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-03-25T10:47:50.5995677+02:00"
+    }
+  ]
+}

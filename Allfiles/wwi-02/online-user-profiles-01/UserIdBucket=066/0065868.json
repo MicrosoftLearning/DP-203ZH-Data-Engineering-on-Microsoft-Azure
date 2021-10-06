@@ -1,0 +1,28 @@
+{
+  "userId": 65868,
+  "cartId": "3806a81f-dcde-4a6e-88c2-ee57c7d6e453",
+  "preferredProducts": [
+    222,
+    1973,
+    4544,
+    456,
+    893
+  ],
+  "productReviews": [
+    {
+      "productId": 779,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-03-05T10:11:42.3026783+02:00"
+    },
+    {
+      "productId": 2841,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-09-20T05:58:07.3566033+03:00"
+    },
+    {
+      "productId": 4246,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-05-30T04:12:24.9087681+03:00"
+    }
+  ]
+}

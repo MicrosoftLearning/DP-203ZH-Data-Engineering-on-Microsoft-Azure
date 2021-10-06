@@ -1,0 +1,31 @@
+{
+  "userId": 23051,
+  "cartId": "87fd4d0d-a68e-41f3-b892-fb7711647cc1",
+  "preferredProducts": [
+    999,
+    4144,
+    1316
+  ],
+  "productReviews": [
+    {
+      "productId": 3908,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-10-29T21:27:35.8995562+03:00"
+    },
+    {
+      "productId": 3453,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-02-14T20:11:06.8939651+02:00"
+    },
+    {
+      "productId": 1510,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-07-14T14:24:07.1772741+03:00"
+    },
+    {
+      "productId": 230,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-04-17T09:19:12.7218838+03:00"
+    }
+  ]
+}

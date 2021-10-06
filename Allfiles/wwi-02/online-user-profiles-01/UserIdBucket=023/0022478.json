@@ -1,0 +1,24 @@
+{
+  "userId": 22478,
+  "cartId": "987d2462-b434-4a66-a09a-41f227625148",
+  "preferredProducts": [
+    1990,
+    1524,
+    3146,
+    1423,
+    1948,
+    1277
+  ],
+  "productReviews": [
+    {
+      "productId": 4255,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-08-12T19:35:02.3765706+03:00"
+    },
+    {
+      "productId": 4358,
+      "reviewText": "This Bulgaria, does exactly what it's suppose to do.",
+      "reviewDate": "2019-02-28T15:14:54.6371706+02:00"
+    }
+  ]
+}

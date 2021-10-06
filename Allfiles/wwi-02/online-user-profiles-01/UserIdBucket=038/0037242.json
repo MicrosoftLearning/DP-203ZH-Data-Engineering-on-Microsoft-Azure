@@ -1,0 +1,30 @@
+{
+  "userId": 37242,
+  "cartId": "4d92c171-f8ed-435c-84ae-270533a15800",
+  "preferredProducts": [
+    4367,
+    1463,
+    2867,
+    4678,
+    4937,
+    3798,
+    1685
+  ],
+  "productReviews": [
+    {
+      "productId": 3876,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-01-28T21:22:12.3427409+02:00"
+    },
+    {
+      "productId": 2876,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-06-17T05:53:46.9660969+03:00"
+    },
+    {
+      "productId": 224,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-09-29T15:33:11.3532923+03:00"
+    }
+  ]
+}

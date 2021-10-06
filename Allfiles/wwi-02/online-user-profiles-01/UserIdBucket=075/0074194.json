@@ -1,0 +1,30 @@
+{
+  "userId": 74194,
+  "cartId": "3a04e399-5f75-4ad1-b690-3b6f44c6d4c4",
+  "preferredProducts": [
+    2116,
+    2590,
+    412,
+    77,
+    725,
+    570,
+    36
+  ],
+  "productReviews": [
+    {
+      "productId": 256,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-01-12T14:46:04.8836629+02:00"
+    },
+    {
+      "productId": 4436,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-03-31T05:22:59.1637555+03:00"
+    },
+    {
+      "productId": 4608,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-03-05T06:13:20.0129155+02:00"
+    }
+  ]
+}

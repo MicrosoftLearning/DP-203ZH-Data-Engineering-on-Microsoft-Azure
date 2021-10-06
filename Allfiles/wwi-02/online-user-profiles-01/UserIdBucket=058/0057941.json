@@ -1,0 +1,28 @@
+{
+  "userId": 57941,
+  "cartId": "119be434-c841-471d-bf7b-2433cbd8f38c",
+  "preferredProducts": [
+    2335,
+    1138,
+    4434,
+    515,
+    3322
+  ],
+  "productReviews": [
+    {
+      "productId": 2276,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-12-12T21:59:43.2076859+02:00"
+    },
+    {
+      "productId": 2989,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-11-12T03:06:51.9011072+02:00"
+    },
+    {
+      "productId": 236,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-05-11T01:11:02.4636051+03:00"
+    }
+  ]
+}

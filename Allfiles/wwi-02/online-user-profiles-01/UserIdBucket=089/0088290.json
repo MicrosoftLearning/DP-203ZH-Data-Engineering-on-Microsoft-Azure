@@ -1,0 +1,23 @@
+{
+  "userId": 88290,
+  "cartId": "52dddcb4-4e9b-40b8-bd3d-3ed78ac27de7",
+  "preferredProducts": [
+    4472,
+    1718,
+    3674,
+    1477,
+    1037
+  ],
+  "productReviews": [
+    {
+      "productId": 584,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-10-09T23:32:35.4688821+03:00"
+    },
+    {
+      "productId": 570,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-10-08T07:22:23.8010862+03:00"
+    }
+  ]
+}

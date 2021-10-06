@@ -1,0 +1,33 @@
+{
+  "userId": 70646,
+  "cartId": "3a635131-c0eb-4b8a-abaf-09e01f53b26f",
+  "preferredProducts": [
+    4360,
+    4090,
+    2199,
+    643,
+    697
+  ],
+  "productReviews": [
+    {
+      "productId": 4561,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-08-17T05:36:35.8675869+03:00"
+    },
+    {
+      "productId": 4841,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-07-29T01:40:33.4102292+03:00"
+    },
+    {
+      "productId": 420,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-01-07T22:59:10.6520859+02:00"
+    },
+    {
+      "productId": 1643,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-01-06T23:13:14.6555183+02:00"
+    }
+  ]
+}

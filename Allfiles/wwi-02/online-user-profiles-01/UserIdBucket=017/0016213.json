@@ -1,0 +1,30 @@
+{
+  "userId": 16213,
+  "cartId": "195aa903-2d77-47bb-a512-6b393db974e8",
+  "preferredProducts": [
+    4102,
+    427,
+    1601,
+    3694,
+    926,
+    2658,
+    1508
+  ],
+  "productReviews": [
+    {
+      "productId": 4835,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-09-10T13:34:45.3456697+03:00"
+    },
+    {
+      "productId": 670,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-08-09T15:43:38.7570442+03:00"
+    },
+    {
+      "productId": 1037,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2020-01-19T15:00:22.5518172+02:00"
+    }
+  ]
+}

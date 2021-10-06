@@ -1,0 +1,36 @@
+{
+  "userId": 52247,
+  "cartId": "1fb78dee-fee1-412b-bd7e-78f3b32b60c2",
+  "preferredProducts": [
+    3077,
+    10,
+    4834,
+    306,
+    2423,
+    2207,
+    91,
+    2252
+  ],
+  "productReviews": [
+    {
+      "productId": 4007,
+      "reviewText": "this Creative is ratty.",
+      "reviewDate": "2019-07-24T10:30:43.1931491+03:00"
+    },
+    {
+      "productId": 2306,
+      "reviewText": "This Dynamic works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-08-20T01:40:00.8860338+03:00"
+    },
+    {
+      "productId": 1184,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-10-13T23:08:28.3098442+03:00"
+    },
+    {
+      "productId": 2355,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-04-14T00:37:17.3037611+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 66528,
+  "cartId": "e1800bef-95f8-409b-b0c7-507af74fe676",
+  "preferredProducts": [
+    2403,
+    2835,
+    4625,
+    503,
+    2240,
+    4050,
+    468,
+    1817
+  ],
+  "productReviews": [
+    {
+      "productId": 488,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-04-29T06:02:35.4275303+03:00"
+    },
+    {
+      "productId": 35,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-07-20T04:28:54.214214+03:00"
+    },
+    {
+      "productId": 3689,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-04-25T09:19:17.5789493+03:00"
+    },
+    {
+      "productId": 4336,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-12-27T10:02:45.0912239+02:00"
+    },
+    {
+      "productId": 2213,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-03-25T10:27:56.5072153+02:00"
+    }
+  ]
+}

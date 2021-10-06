@@ -1,0 +1,33 @@
+{
+  "userId": 46231,
+  "cartId": "63e72772-4ecd-483c-9290-97538b767976",
+  "preferredProducts": [
+    3717,
+    3588,
+    4202,
+    1066,
+    2340,
+    602,
+    1666,
+    3321,
+    1805,
+    4362
+  ],
+  "productReviews": [
+    {
+      "productId": 675,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-10-25T08:25:28.8270184+03:00"
+    },
+    {
+      "productId": 2467,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-12-15T21:52:35.7751207+02:00"
+    },
+    {
+      "productId": 3802,
+      "reviewText": "This Handcrafted Frozen Tuna works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2016-12-25T15:05:50.7962836+02:00"
+    }
+  ]
+}

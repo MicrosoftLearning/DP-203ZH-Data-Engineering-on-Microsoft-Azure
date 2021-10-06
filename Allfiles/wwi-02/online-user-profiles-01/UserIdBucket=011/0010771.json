@@ -1,0 +1,43 @@
+{
+  "userId": 10771,
+  "cartId": "4dea7732-8be3-4334-8eb3-bf95c663c6da",
+  "preferredProducts": [
+    3371,
+    2308,
+    2692,
+    1493,
+    1981,
+    1785,
+    2010,
+    313,
+    2271,
+    3380
+  ],
+  "productReviews": [
+    {
+      "productId": 4385,
+      "reviewText": "this Frozen is slurpee.",
+      "reviewDate": "2019-07-08T23:58:30.101315+03:00"
+    },
+    {
+      "productId": 362,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-01-27T17:46:53.6533938+02:00"
+    },
+    {
+      "productId": 4181,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-08-21T19:05:28.8317291+03:00"
+    },
+    {
+      "productId": 1033,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-03-18T00:36:28.118874+02:00"
+    },
+    {
+      "productId": 1893,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-06-14T04:36:45.3139927+03:00"
+    }
+  ]
+}

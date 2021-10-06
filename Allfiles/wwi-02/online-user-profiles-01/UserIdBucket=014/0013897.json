@@ -1,0 +1,25 @@
+{
+  "userId": 13897,
+  "cartId": "669afee4-290c-432c-8a18-81ee5d81de19",
+  "preferredProducts": [
+    2240,
+    417
+  ],
+  "productReviews": [
+    {
+      "productId": 778,
+      "reviewText": "this reboot is slurpee.",
+      "reviewDate": "2018-12-20T11:20:38.8997574+02:00"
+    },
+    {
+      "productId": 1830,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-04-20T23:01:22.5936063+03:00"
+    },
+    {
+      "productId": 4883,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-03-06T23:52:40.1853683+02:00"
+    }
+  ]
+}

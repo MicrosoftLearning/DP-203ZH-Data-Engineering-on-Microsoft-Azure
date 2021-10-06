@@ -1,0 +1,28 @@
+{
+  "userId": 92715,
+  "cartId": "c8259143-eb7a-499a-bff0-44af0e3cb765",
+  "preferredProducts": [
+    4343,
+    1755,
+    1859,
+    1408,
+    1530
+  ],
+  "productReviews": [
+    {
+      "productId": 1451,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-12-27T16:59:34.1327678+02:00"
+    },
+    {
+      "productId": 735,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-08-27T08:17:47.7542314+03:00"
+    },
+    {
+      "productId": 4170,
+      "reviewText": "This fresh-thinking works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2018-03-02T17:17:03.4921683+02:00"
+    }
+  ]
+}

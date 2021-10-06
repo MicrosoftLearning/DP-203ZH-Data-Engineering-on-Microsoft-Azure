@@ -1,0 +1,41 @@
+{
+  "userId": 82566,
+  "cartId": "27a6065b-b734-4960-a7be-eb22dddbcd5d",
+  "preferredProducts": [
+    2658,
+    3482,
+    4587,
+    1030,
+    924,
+    3901,
+    2460,
+    4275
+  ],
+  "productReviews": [
+    {
+      "productId": 3515,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-08-16T07:35:31.0824792+03:00"
+    },
+    {
+      "productId": 3307,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-09-06T08:04:36.4520605+03:00"
+    },
+    {
+      "productId": 3741,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-07-05T17:32:18.8684906+03:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-09-15T05:04:36.8222066+03:00"
+    },
+    {
+      "productId": 2465,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-04-02T18:03:10.9577539+03:00"
+    }
+  ]
+}

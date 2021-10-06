@@ -1,0 +1,38 @@
+{
+  "userId": 72101,
+  "cartId": "9d25567d-d4c9-4edc-9ee8-18931c1976ec",
+  "preferredProducts": [
+    3734,
+    1503,
+    3293,
+    2431,
+    3227
+  ],
+  "productReviews": [
+    {
+      "productId": 4575,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-06-01T05:20:49.7360187+03:00"
+    },
+    {
+      "productId": 2213,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-09-07T20:16:25.3494354+03:00"
+    },
+    {
+      "productId": 2647,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-11-01T12:24:51.6915463+02:00"
+    },
+    {
+      "productId": 860,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-07-24T17:28:27.1888983+03:00"
+    },
+    {
+      "productId": 60,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-09-04T17:46:41.3574184+03:00"
+    }
+  ]
+}

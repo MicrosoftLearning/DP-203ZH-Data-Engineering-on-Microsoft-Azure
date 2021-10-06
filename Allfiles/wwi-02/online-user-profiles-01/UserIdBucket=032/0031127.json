@@ -1,0 +1,23 @@
+{
+  "userId": 31127,
+  "cartId": "45b6ebbc-3337-4b66-9873-d53f8e2c955d",
+  "preferredProducts": [
+    10,
+    1225,
+    721,
+    479,
+    4605
+  ],
+  "productReviews": [
+    {
+      "productId": 604,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-01-17T12:08:01.6003711+02:00"
+    },
+    {
+      "productId": 610,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-05-13T00:20:04.1232173+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 16382,
+  "cartId": "4c949fb4-d88c-4860-ab78-004fe07ccd45",
+  "preferredProducts": [
+    1571
+  ],
+  "productReviews": [
+    {
+      "productId": 1724,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-04-20T08:58:17.6059699+03:00"
+    },
+    {
+      "productId": 3519,
+      "reviewText": "this multi-byte is nifty.",
+      "reviewDate": "2018-03-07T19:37:07.9396069+02:00"
+    },
+    {
+      "productId": 3789,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-08-13T09:19:10.4444671+03:00"
+    }
+  ]
+}

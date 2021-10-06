@@ -1,0 +1,29 @@
+{
+  "userId": 25379,
+  "cartId": "e35156ad-27a5-4d78-9756-6c30c645fdb3",
+  "preferredProducts": [
+    4237,
+    1931,
+    3938,
+    1199,
+    3615,
+    1117
+  ],
+  "productReviews": [
+    {
+      "productId": 2421,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-02-07T11:31:01.5294764+02:00"
+    },
+    {
+      "productId": 1256,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-03-23T18:58:13.6386433+02:00"
+    },
+    {
+      "productId": 838,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-03-27T03:01:20.7687404+02:00"
+    }
+  ]
+}

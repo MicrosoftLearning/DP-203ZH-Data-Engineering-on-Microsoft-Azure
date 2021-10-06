@@ -1,0 +1,31 @@
+{
+  "userId": 15503,
+  "cartId": "35a06785-2a22-42d3-a459-1b6355e170cc",
+  "preferredProducts": [
+    4077,
+    2349,
+    3843,
+    2381,
+    4731,
+    4739,
+    4215,
+    1124
+  ],
+  "productReviews": [
+    {
+      "productId": 1584,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-02-07T10:04:20.0955887+02:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2016-06-01T13:10:29.5970376+03:00"
+    },
+    {
+      "productId": 3950,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-01-23T11:33:15.8092897+02:00"
+    }
+  ]
+}

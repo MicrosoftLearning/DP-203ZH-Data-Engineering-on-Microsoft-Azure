@@ -1,0 +1,30 @@
+{
+  "userId": 47606,
+  "cartId": "45ffdd60-4603-48b2-88b3-e7c46c82eb20",
+  "preferredProducts": [
+    1568,
+    4337,
+    4183,
+    4872,
+    2681,
+    3460,
+    3490
+  ],
+  "productReviews": [
+    {
+      "productId": 4214,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-12-08T12:56:33.4702027+02:00"
+    },
+    {
+      "productId": 1660,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-10-16T17:09:46.7744918+03:00"
+    },
+    {
+      "productId": 277,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-03-31T12:19:15.0982639+03:00"
+    }
+  ]
+}

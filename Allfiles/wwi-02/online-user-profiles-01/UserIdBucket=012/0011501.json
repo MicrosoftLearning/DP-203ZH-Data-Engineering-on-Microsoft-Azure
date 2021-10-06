@@ -1,0 +1,38 @@
+{
+  "userId": 11501,
+  "cartId": "438bbb46-c109-4cfb-96bf-c5c547bab649",
+  "preferredProducts": [
+    4847,
+    4323,
+    2353,
+    1980,
+    3882
+  ],
+  "productReviews": [
+    {
+      "productId": 1887,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-01-09T13:07:07.2689906+02:00"
+    },
+    {
+      "productId": 4984,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2020-05-09T10:28:17.6456117+03:00"
+    },
+    {
+      "productId": 1145,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-06-06T19:01:42.2438292+03:00"
+    },
+    {
+      "productId": 118,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-11-07T21:34:18.0856289+02:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2016-05-29T07:54:14.0439843+03:00"
+    }
+  ]
+}

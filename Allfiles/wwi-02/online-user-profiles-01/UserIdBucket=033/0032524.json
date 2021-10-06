@@ -1,0 +1,27 @@
+{
+  "userId": 32524,
+  "cartId": "f1a059c8-2761-4292-9cac-d92aba768165",
+  "preferredProducts": [
+    1463,
+    3447,
+    2329,
+    2961,
+    1640,
+    3134,
+    1089,
+    4844,
+    4895
+  ],
+  "productReviews": [
+    {
+      "productId": 4885,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-12-29T23:31:07.7368894+02:00"
+    },
+    {
+      "productId": 2048,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-02-12T09:56:10.5892689+02:00"
+    }
+  ]
+}
