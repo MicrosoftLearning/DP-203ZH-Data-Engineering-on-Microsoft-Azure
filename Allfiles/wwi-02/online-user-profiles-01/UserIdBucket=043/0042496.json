@@ -1,0 +1,25 @@
+{
+  "userId": 42496,
+  "cartId": "de59f639-1ef3-415d-ab0f-3e787bc89109",
+  "preferredProducts": [
+    1849,
+    4309,
+    844,
+    4571,
+    4246,
+    2158,
+    1792
+  ],
+  "productReviews": [
+    {
+      "productId": 1356,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-02-15T00:45:03.0291784+02:00"
+    },
+    {
+      "productId": 1528,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-01-09T17:53:13.3145669+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 47307,
+  "cartId": "b9b9a7b2-c38e-4fd1-aa42-0116c03f5905",
+  "preferredProducts": [
+    3145,
+    1893
+  ],
+  "productReviews": [
+    {
+      "productId": 4132,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-10-25T14:07:18.891988+03:00"
+    },
+    {
+      "productId": 4036,
+      "reviewText": "this web-readiness is gracious.",
+      "reviewDate": "2020-02-12T06:09:47.136178+02:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-08-22T12:44:10.7196918+03:00"
+    }
+  ]
+}

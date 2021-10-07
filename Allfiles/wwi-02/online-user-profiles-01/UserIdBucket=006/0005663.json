@@ -1,0 +1,37 @@
+{
+  "userId": 5663,
+  "cartId": "320c61a0-dbc5-4be9-b0dd-f7dbb1144991",
+  "preferredProducts": [
+    1025,
+    1190,
+    4418,
+    1877
+  ],
+  "productReviews": [
+    {
+      "productId": 2595,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-09-20T09:02:28.5540947+03:00"
+    },
+    {
+      "productId": 333,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-04-20T11:52:20.0300285+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-12-21T13:45:17.2300479+02:00"
+    },
+    {
+      "productId": 4329,
+      "reviewText": "This solutions works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2020-03-29T23:47:22.7552633+03:00"
+    },
+    {
+      "productId": 1321,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-02-20T23:42:12.2944272+02:00"
+    }
+  ]
+}

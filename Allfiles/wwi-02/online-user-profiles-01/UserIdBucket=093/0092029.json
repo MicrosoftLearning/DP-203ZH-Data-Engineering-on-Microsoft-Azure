@@ -1,0 +1,40 @@
+{
+  "userId": 92029,
+  "cartId": "5e4b673d-d48e-44bc-8cb6-721fb923f89c",
+  "preferredProducts": [
+    1803,
+    1485,
+    1224,
+    3297,
+    4412,
+    1310,
+    4785
+  ],
+  "productReviews": [
+    {
+      "productId": 4260,
+      "reviewText": "this redundant is hyper.",
+      "reviewDate": "2020-02-04T18:13:24.6443647+02:00"
+    },
+    {
+      "productId": 2405,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-04-09T03:28:17.9840692+03:00"
+    },
+    {
+      "productId": 4812,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-01-12T16:06:56.1483747+02:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-06-04T02:32:31.4463631+03:00"
+    },
+    {
+      "productId": 181,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-03-25T20:36:03.7910119+03:00"
+    }
+  ]
+}

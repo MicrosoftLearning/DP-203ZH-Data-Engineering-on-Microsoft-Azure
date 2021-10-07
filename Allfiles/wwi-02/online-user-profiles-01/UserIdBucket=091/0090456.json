@@ -1,0 +1,28 @@
+{
+  "userId": 90456,
+  "cartId": "33d8f382-2bf7-41cd-88e9-ff8109ff01d1",
+  "preferredProducts": [
+    1047,
+    4944,
+    3097,
+    782,
+    1641
+  ],
+  "productReviews": [
+    {
+      "productId": 804,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-12-17T16:00:57.309389+02:00"
+    },
+    {
+      "productId": 1990,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-01-25T02:26:42.9895391+02:00"
+    },
+    {
+      "productId": 4693,
+      "reviewText": "this intangible is ratty.",
+      "reviewDate": "2016-11-10T15:23:41.0893509+02:00"
+    }
+  ]
+}

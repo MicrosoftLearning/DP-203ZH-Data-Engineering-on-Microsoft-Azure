@@ -1,0 +1,31 @@
+{
+  "userId": 11697,
+  "cartId": "9478aa4b-f486-47fc-b93e-cd5e40ab74ad",
+  "preferredProducts": [
+    4580,
+    4062,
+    520
+  ],
+  "productReviews": [
+    {
+      "productId": 520,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-08-03T01:40:02.3310508+03:00"
+    },
+    {
+      "productId": 885,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-10-05T04:57:39.8353681+03:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-12-29T16:47:18.862578+02:00"
+    },
+    {
+      "productId": 3321,
+      "reviewText": "This payment works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2020-04-26T07:19:54.4642827+03:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 2747,
+  "cartId": "2ace667a-ae00-4f31-8f93-ab0bdd228f01",
+  "preferredProducts": [
+    4817,
+    2070,
+    105,
+    872,
+    4705,
+    3185,
+    3074,
+    4749,
+    3006,
+    4680
+  ],
+  "productReviews": [
+    {
+      "productId": 593,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-05-25T14:58:03.9297605+03:00"
+    },
+    {
+      "productId": 3578,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2020-01-05T18:49:21.5691785+02:00"
+    },
+    {
+      "productId": 1591,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-03-26T03:05:38.8776961+03:00"
+    },
+    {
+      "productId": 2485,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-04-10T13:17:06.6356312+03:00"
+    },
+    {
+      "productId": 2828,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-06-04T21:44:15.3205315+03:00"
+    }
+  ]
+}

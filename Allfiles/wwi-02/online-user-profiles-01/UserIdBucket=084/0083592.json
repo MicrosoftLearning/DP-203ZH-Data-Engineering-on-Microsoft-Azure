@@ -1,0 +1,30 @@
+{
+  "userId": 83592,
+  "cartId": "2892d535-cebe-4629-82d8-ce5da89b432c",
+  "preferredProducts": [
+    1899,
+    876
+  ],
+  "productReviews": [
+    {
+      "productId": 3000,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-03-26T20:12:28.9141944+02:00"
+    },
+    {
+      "productId": 2917,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-04-21T20:18:25.7489214+03:00"
+    },
+    {
+      "productId": 4851,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-05-14T00:39:18.4082731+03:00"
+    },
+    {
+      "productId": 3311,
+      "reviewText": "this Rue is tasty.",
+      "reviewDate": "2020-03-17T23:32:43.388064+02:00"
+    }
+  ]
+}

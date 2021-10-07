@@ -1,0 +1,31 @@
+{
+  "userId": 84766,
+  "cartId": "f2ea9751-8d19-40bd-9bd3-a7f8906e9fc1",
+  "preferredProducts": [
+    2230,
+    2848,
+    2458
+  ],
+  "productReviews": [
+    {
+      "productId": 3627,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-07-23T15:13:59.8032777+03:00"
+    },
+    {
+      "productId": 3581,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-06-08T16:47:38.6946822+03:00"
+    },
+    {
+      "productId": 3665,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-02-01T15:32:31.9653579+02:00"
+    },
+    {
+      "productId": 2608,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-08-01T03:46:34.0558856+03:00"
+    }
+  ]
+}

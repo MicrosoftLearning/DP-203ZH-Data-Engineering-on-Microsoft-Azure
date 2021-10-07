@@ -1,0 +1,27 @@
+{
+  "userId": 5777,
+  "cartId": "487bb6d1-0b1d-4585-8cc8-d3b6c721407e",
+  "preferredProducts": [
+    4902,
+    1862,
+    2454,
+    4063,
+    3669,
+    3425,
+    3548,
+    4493,
+    4111
+  ],
+  "productReviews": [
+    {
+      "productId": 4334,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-12-16T15:41:34.8332079+02:00"
+    },
+    {
+      "productId": 3950,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-12-29T06:42:16.3523103+02:00"
+    }
+  ]
+}

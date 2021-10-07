@@ -1,0 +1,33 @@
+{
+  "userId": 22719,
+  "cartId": "a7ae2fbe-3af5-4e06-a778-68ffecd78565",
+  "preferredProducts": [
+    682,
+    4153,
+    4882,
+    1579,
+    3228
+  ],
+  "productReviews": [
+    {
+      "productId": 2128,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-01-15T15:42:13.4671137+02:00"
+    },
+    {
+      "productId": 4589,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-09-13T16:33:39.5640464+03:00"
+    },
+    {
+      "productId": 1058,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-02-22T16:04:41.010494+02:00"
+    },
+    {
+      "productId": 3722,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-12-13T15:48:53.3821238+02:00"
+    }
+  ]
+}

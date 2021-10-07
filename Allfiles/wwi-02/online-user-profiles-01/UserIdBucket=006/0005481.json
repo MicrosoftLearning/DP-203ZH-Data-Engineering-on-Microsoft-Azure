@@ -1,0 +1,22 @@
+{
+  "userId": 5481,
+  "cartId": "27f579e5-c23a-4664-8d18-fd64f61aa015",
+  "preferredProducts": [
+    1298,
+    2055,
+    3185,
+    2545
+  ],
+  "productReviews": [
+    {
+      "productId": 4125,
+      "reviewText": "This is a really good distributed.",
+      "reviewDate": "2016-09-05T18:09:48.572053+03:00"
+    },
+    {
+      "productId": 4263,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-09-25T07:42:51.5321038+03:00"
+    }
+  ]
+}

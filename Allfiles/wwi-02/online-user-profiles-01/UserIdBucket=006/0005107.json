@@ -1,0 +1,33 @@
+{
+  "userId": 5107,
+  "cartId": "c60067d4-2255-4691-8ece-0f3e4e6fdd23",
+  "preferredProducts": [
+    1840,
+    2788,
+    4481,
+    1444,
+    4178
+  ],
+  "productReviews": [
+    {
+      "productId": 3362,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-07-19T23:41:09.8174143+03:00"
+    },
+    {
+      "productId": 3565,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-04-23T03:22:01.227316+03:00"
+    },
+    {
+      "productId": 4982,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-07-14T13:21:38.3842361+03:00"
+    },
+    {
+      "productId": 4303,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2020-02-12T02:43:09.3267129+02:00"
+    }
+  ]
+}

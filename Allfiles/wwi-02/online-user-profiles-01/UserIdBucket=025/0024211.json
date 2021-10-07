@@ -1,0 +1,31 @@
+{
+  "userId": 24211,
+  "cartId": "a791d22c-cc0d-4867-97a8-3d8ff1d84873",
+  "preferredProducts": [
+    4581,
+    948,
+    4670,
+    4034,
+    2756,
+    4151,
+    1664,
+    4987
+  ],
+  "productReviews": [
+    {
+      "productId": 4024,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-03-23T15:42:53.1532189+02:00"
+    },
+    {
+      "productId": 1971,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-12-10T04:51:17.2015573+02:00"
+    },
+    {
+      "productId": 431,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-08-10T05:31:05.0871814+03:00"
+    }
+  ]
+}

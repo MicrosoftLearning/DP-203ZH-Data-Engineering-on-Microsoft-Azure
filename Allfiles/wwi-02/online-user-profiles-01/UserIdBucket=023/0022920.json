@@ -1,0 +1,31 @@
+{
+  "userId": 22920,
+  "cartId": "9217264d-1da6-435f-9fd2-cf4fd35f50d6",
+  "preferredProducts": [
+    276,
+    2574,
+    1773
+  ],
+  "productReviews": [
+    {
+      "productId": 3080,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-01-13T12:53:19.5935963+02:00"
+    },
+    {
+      "productId": 2409,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-02-26T01:16:37.7946986+02:00"
+    },
+    {
+      "productId": 3688,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-03-22T13:43:32.5203056+02:00"
+    },
+    {
+      "productId": 2745,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-07-19T22:41:44.098382+03:00"
+    }
+  ]
+}

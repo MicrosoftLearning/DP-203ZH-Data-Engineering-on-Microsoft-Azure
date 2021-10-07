@@ -1,0 +1,27 @@
+{
+  "userId": 9314,
+  "cartId": "92b69e5b-c8e1-4c47-851d-ca04e5231f64",
+  "preferredProducts": [
+    299,
+    2141,
+    2254,
+    2425
+  ],
+  "productReviews": [
+    {
+      "productId": 2013,
+      "reviewText": "this zero defect is hyper.",
+      "reviewDate": "2018-08-01T11:46:53.1606663+03:00"
+    },
+    {
+      "productId": 1124,
+      "reviewText": "this Handmade is snowy.",
+      "reviewDate": "2017-07-14T13:04:01.9990209+03:00"
+    },
+    {
+      "productId": 3417,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-03-10T04:42:14.5189436+02:00"
+    }
+  ]
+}

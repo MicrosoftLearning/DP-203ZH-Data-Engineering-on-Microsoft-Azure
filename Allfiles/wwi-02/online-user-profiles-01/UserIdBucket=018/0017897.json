@@ -1,0 +1,32 @@
+{
+  "userId": 17897,
+  "cartId": "1a2d7aa4-b83f-4acd-ad23-db69fbd81b18",
+  "preferredProducts": [
+    4232,
+    4114,
+    582,
+    4791
+  ],
+  "productReviews": [
+    {
+      "productId": 116,
+      "reviewText": "this Avon is honest.",
+      "reviewDate": "2018-01-19T05:51:30.9899246+02:00"
+    },
+    {
+      "productId": 4113,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-01-30T00:28:15.0383188+02:00"
+    },
+    {
+      "productId": 1766,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-09-12T11:52:07.2039565+03:00"
+    },
+    {
+      "productId": 38,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-01-07T17:07:45.8410698+02:00"
+    }
+  ]
+}

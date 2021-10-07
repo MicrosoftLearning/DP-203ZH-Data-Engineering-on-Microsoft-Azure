@@ -1,0 +1,33 @@
+{
+  "userId": 17537,
+  "cartId": "1ace2d90-22cb-42f5-836c-307c6c23ad8f",
+  "preferredProducts": [
+    2081,
+    1960,
+    1940,
+    3006,
+    4226,
+    4742,
+    464,
+    1754,
+    3620,
+    4665
+  ],
+  "productReviews": [
+    {
+      "productId": 3233,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-02-22T19:58:09.874198+02:00"
+    },
+    {
+      "productId": 752,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-05-20T10:44:39.6306274+03:00"
+    },
+    {
+      "productId": 4527,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-04-17T14:16:39.1923833+03:00"
+    }
+  ]
+}

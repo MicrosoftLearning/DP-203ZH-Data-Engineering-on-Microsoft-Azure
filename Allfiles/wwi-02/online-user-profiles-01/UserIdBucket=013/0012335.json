@@ -1,0 +1,33 @@
+{
+  "userId": 12335,
+  "cartId": "cd11680b-0b06-46b7-a9e2-2270d724bb5f",
+  "preferredProducts": [
+    2952,
+    3269,
+    4881,
+    653,
+    2032
+  ],
+  "productReviews": [
+    {
+      "productId": 2633,
+      "reviewText": "this multi-state is nifty.",
+      "reviewDate": "2018-12-17T11:31:44.5630926+02:00"
+    },
+    {
+      "productId": 3574,
+      "reviewText": "this Engineer is slurpee.",
+      "reviewDate": "2017-08-07T03:29:28.0921198+03:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-05-17T19:59:21.43912+03:00"
+    },
+    {
+      "productId": 4739,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-09-13T05:49:18.3218574+03:00"
+    }
+  ]
+}

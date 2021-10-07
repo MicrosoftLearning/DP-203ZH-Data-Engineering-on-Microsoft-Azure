@@ -1,0 +1,30 @@
+{
+  "userId": 90877,
+  "cartId": "b475b7af-1c7a-45cb-9d31-cce20e5f614b",
+  "preferredProducts": [
+    1770,
+    2638
+  ],
+  "productReviews": [
+    {
+      "productId": 4005,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-09-13T06:44:13.2952781+03:00"
+    },
+    {
+      "productId": 4142,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-11-25T03:12:05.877091+02:00"
+    },
+    {
+      "productId": 2696,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-01-07T00:36:04.1455315+02:00"
+    },
+    {
+      "productId": 2536,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-08-08T03:18:54.4746003+03:00"
+    }
+  ]
+}

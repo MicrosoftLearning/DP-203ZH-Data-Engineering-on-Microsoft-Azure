@@ -1,0 +1,35 @@
+{
+  "userId": 68788,
+  "cartId": "03579979-f3e0-4938-bb66-15012e406bde",
+  "preferredProducts": [
+    1111,
+    1629
+  ],
+  "productReviews": [
+    {
+      "productId": 3469,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-02-18T11:10:39.7394604+02:00"
+    },
+    {
+      "productId": 4848,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2020-01-10T20:13:42.6588986+02:00"
+    },
+    {
+      "productId": 4302,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-19T17:44:03.858116+03:00"
+    },
+    {
+      "productId": 1753,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-08-08T00:29:23.6680011+03:00"
+    },
+    {
+      "productId": 3296,
+      "reviewText": "this magenta is mellow.",
+      "reviewDate": "2017-07-14T16:10:38.247406+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 29564,
+  "cartId": "fdc45139-3fb2-4c9b-8664-d05790b267d3",
+  "preferredProducts": [
+    2875,
+    4862,
+    4498,
+    1556,
+    456,
+    897,
+    3732
+  ],
+  "productReviews": [
+    {
+      "productId": 2594,
+      "reviewText": "this Sleek is awesome.",
+      "reviewDate": "2017-01-23T09:23:04.9538772+02:00"
+    },
+    {
+      "productId": 3622,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-12-04T07:42:25.7033557+02:00"
+    },
+    {
+      "productId": 4114,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-05-20T21:41:30.384765+03:00"
+    }
+  ]
+}

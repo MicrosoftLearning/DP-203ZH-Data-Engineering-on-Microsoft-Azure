@@ -1,0 +1,27 @@
+{
+  "userId": 25401,
+  "cartId": "3c4cacb2-327b-40b5-9183-bd7f0bf6c25c",
+  "preferredProducts": [
+    2775,
+    4731,
+    1847,
+    4442
+  ],
+  "productReviews": [
+    {
+      "productId": 694,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-12-17T09:16:16.029638+02:00"
+    },
+    {
+      "productId": 4997,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-11-20T00:06:27.2403085+02:00"
+    },
+    {
+      "productId": 4071,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-10-17T01:10:41.440452+03:00"
+    }
+  ]
+}

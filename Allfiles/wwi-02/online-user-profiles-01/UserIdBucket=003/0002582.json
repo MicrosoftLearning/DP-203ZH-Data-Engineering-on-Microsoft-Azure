@@ -1,0 +1,38 @@
+{
+  "userId": 2582,
+  "cartId": "cdbdb1c3-144a-45dd-8f07-af6c36ec968c",
+  "preferredProducts": [
+    519,
+    306,
+    1391,
+    4955,
+    2514,
+    348,
+    3002,
+    2929,
+    2566,
+    877
+  ],
+  "productReviews": [
+    {
+      "productId": 776,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2019-01-03T06:39:41.1824495+02:00"
+    },
+    {
+      "productId": 4475,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2016-07-24T02:14:33.9355599+03:00"
+    },
+    {
+      "productId": 4290,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2016-09-29T07:24:32.647567+03:00"
+    },
+    {
+      "productId": 302,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-11-03T13:42:55.3833821+02:00"
+    }
+  ]
+}

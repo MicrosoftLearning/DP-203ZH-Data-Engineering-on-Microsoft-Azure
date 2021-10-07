@@ -1,0 +1,39 @@
+{
+  "userId": 29896,
+  "cartId": "15f9a2f2-75a5-4755-8ce4-b07b42b12e36",
+  "preferredProducts": [
+    376,
+    1363,
+    2416,
+    3349,
+    1153,
+    691
+  ],
+  "productReviews": [
+    {
+      "productId": 3345,
+      "reviewText": "this Steel is brown.",
+      "reviewDate": "2016-09-19T00:53:50.272027+03:00"
+    },
+    {
+      "productId": 979,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-06-04T18:32:06.5179498+03:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-10-14T07:15:17.0034245+03:00"
+    },
+    {
+      "productId": 1697,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-08-03T03:38:26.9522432+03:00"
+    },
+    {
+      "productId": 2260,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-12-14T05:47:38.6671941+02:00"
+    }
+  ]
+}

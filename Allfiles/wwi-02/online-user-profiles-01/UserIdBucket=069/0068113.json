@@ -1,0 +1,35 @@
+{
+  "userId": 68113,
+  "cartId": "db021698-b0d3-4edf-ab8b-29d1cc110134",
+  "preferredProducts": [
+    1225,
+    1156,
+    824,
+    3228,
+    3543,
+    1133,
+    3981
+  ],
+  "productReviews": [
+    {
+      "productId": 3234,
+      "reviewText": "this program is hyper.",
+      "reviewDate": "2018-01-27T13:39:41.4749546+02:00"
+    },
+    {
+      "productId": 3498,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-07-10T01:56:43.732171+03:00"
+    },
+    {
+      "productId": 2790,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-02-28T16:41:38.6975034+02:00"
+    },
+    {
+      "productId": 3172,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-07-29T03:12:32.359355+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 87513,
+  "cartId": "7ec3f04a-4120-4695-814d-1f4f63b7ceb3",
+  "preferredProducts": [
+    51,
+    541,
+    323,
+    1903,
+    2215,
+    2433,
+    4570,
+    3333,
+    1533
+  ],
+  "productReviews": [
+    {
+      "productId": 246,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-03-11T09:59:17.5547996+02:00"
+    },
+    {
+      "productId": 2379,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-07-04T18:31:20.1061059+03:00"
+    },
+    {
+      "productId": 3374,
+      "reviewText": "this functionalities is ratty.",
+      "reviewDate": "2017-05-22T19:50:44.4084983+03:00"
+    },
+    {
+      "productId": 2858,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-08-23T18:28:18.9998846+03:00"
+    }
+  ]
+}

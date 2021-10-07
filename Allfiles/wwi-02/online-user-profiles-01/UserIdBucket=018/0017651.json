@@ -1,0 +1,30 @@
+{
+  "userId": 17651,
+  "cartId": "c3bb7077-fb00-48db-a522-b191648ceeb9",
+  "preferredProducts": [
+    3402,
+    288
+  ],
+  "productReviews": [
+    {
+      "productId": 3332,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-11-21T16:01:07.5949282+02:00"
+    },
+    {
+      "productId": 3760,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-08-21T08:07:26.9865367+03:00"
+    },
+    {
+      "productId": 3273,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-12-09T23:39:52.2796173+02:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "This New Jersey works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-04-27T19:45:12.7126106+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 61242,
+  "cartId": "36ae6755-c71c-46cf-9c16-df18885614f5",
+  "preferredProducts": [
+    3695,
+    4496,
+    4434,
+    500,
+    99,
+    98,
+    4876
+  ],
+  "productReviews": [
+    {
+      "productId": 3424,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-03-31T06:30:45.6095765+03:00"
+    },
+    {
+      "productId": 4465,
+      "reviewText": "This Antarctica (the territory South of 60 deg S) works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2019-02-24T08:19:12.7063787+02:00"
+    },
+    {
+      "productId": 2152,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-06-06T03:48:56.8352078+03:00"
+    }
+  ]
+}

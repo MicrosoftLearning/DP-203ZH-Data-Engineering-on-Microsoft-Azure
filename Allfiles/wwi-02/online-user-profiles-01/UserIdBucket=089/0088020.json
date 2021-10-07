@@ -1,0 +1,35 @@
+{
+  "userId": 88020,
+  "cartId": "4fb5c357-c824-41d1-bee8-018e565eecb6",
+  "preferredProducts": [
+    2471,
+    491,
+    4251,
+    3817,
+    692,
+    4817,
+    1767
+  ],
+  "productReviews": [
+    {
+      "productId": 2462,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-11-24T10:38:41.6329462+02:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2020-05-01T03:00:02.3029073+03:00"
+    },
+    {
+      "productId": 2665,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-09-10T09:18:40.9396219+03:00"
+    },
+    {
+      "productId": 4422,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2020-02-04T13:54:28.0449316+02:00"
+    }
+  ]
+}

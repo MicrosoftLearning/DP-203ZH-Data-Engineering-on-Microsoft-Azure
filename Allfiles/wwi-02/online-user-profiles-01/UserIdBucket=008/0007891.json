@@ -1,0 +1,27 @@
+{
+  "userId": 7891,
+  "cartId": "0c14a96b-06e0-41d3-807a-f8f002f42595",
+  "preferredProducts": [
+    1690,
+    43,
+    4630,
+    147,
+    995,
+    3079,
+    1392,
+    951,
+    4187
+  ],
+  "productReviews": [
+    {
+      "productId": 1500,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-04-28T08:30:57.2041132+03:00"
+    },
+    {
+      "productId": 4542,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2020-03-07T18:36:21.1710636+02:00"
+    }
+  ]
+}

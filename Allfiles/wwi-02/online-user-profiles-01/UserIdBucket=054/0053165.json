@@ -1,0 +1,37 @@
+{
+  "userId": 53165,
+  "cartId": "dbe3a56d-2c44-4d42-823a-46891ab9fdd7",
+  "preferredProducts": [
+    3633,
+    1452,
+    740,
+    949,
+    2280,
+    3686,
+    4159,
+    4734,
+    4277
+  ],
+  "productReviews": [
+    {
+      "productId": 1496,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-05-09T23:33:39.3569916+03:00"
+    },
+    {
+      "productId": 3478,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-03-16T10:25:43.7487899+02:00"
+    },
+    {
+      "productId": 2881,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-01-11T00:05:20.8928598+02:00"
+    },
+    {
+      "productId": 1405,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-11-13T13:01:01.1143968+02:00"
+    }
+  ]
+}

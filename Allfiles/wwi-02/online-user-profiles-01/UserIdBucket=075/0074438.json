@@ -1,0 +1,42 @@
+{
+  "userId": 74438,
+  "cartId": "6378d33c-d103-4401-876a-fa5d635466d1",
+  "preferredProducts": [
+    647,
+    780,
+    2927,
+    1711,
+    3611,
+    4058,
+    3528,
+    570,
+    1137
+  ],
+  "productReviews": [
+    {
+      "productId": 4444,
+      "reviewText": "this feed is brown.",
+      "reviewDate": "2019-06-21T08:22:10.7940564+03:00"
+    },
+    {
+      "productId": 3080,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-06-22T22:34:37.417775+03:00"
+    },
+    {
+      "productId": 3925,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-12-16T13:21:58.4904373+02:00"
+    },
+    {
+      "productId": 1644,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-01-02T20:41:09.0212741+02:00"
+    },
+    {
+      "productId": 997,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-12-18T17:54:58.8730579+02:00"
+    }
+  ]
+}

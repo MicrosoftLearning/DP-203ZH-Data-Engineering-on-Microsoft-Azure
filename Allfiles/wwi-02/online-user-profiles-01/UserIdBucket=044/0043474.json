@@ -1,0 +1,28 @@
+{
+  "userId": 43474,
+  "cartId": "b3497a0a-d130-4133-b3ba-9d2d0ddaa2bc",
+  "preferredProducts": [
+    3082,
+    1882,
+    154,
+    3398,
+    2584
+  ],
+  "productReviews": [
+    {
+      "productId": 3044,
+      "reviewText": "this Oklahoma is hyper.",
+      "reviewDate": "2018-12-15T00:03:37.8685105+02:00"
+    },
+    {
+      "productId": 3934,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-03-23T23:11:48.9181807+02:00"
+    },
+    {
+      "productId": 3354,
+      "reviewText": "this Utah is awesome.",
+      "reviewDate": "2019-02-20T03:42:17.4634838+02:00"
+    }
+  ]
+}

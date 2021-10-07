@@ -1,0 +1,39 @@
+{
+  "userId": 40000,
+  "cartId": "f4ce44b6-3f94-4c84-8f6c-d6c72b8dd54c",
+  "preferredProducts": [
+    3064,
+    458,
+    3708,
+    4758,
+    3265,
+    4681
+  ],
+  "productReviews": [
+    {
+      "productId": 1699,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-05-11T02:11:52.6863055+03:00"
+    },
+    {
+      "productId": 4423,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-09-04T22:35:43.3057273+03:00"
+    },
+    {
+      "productId": 2480,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-25T18:52:28.4596907+02:00"
+    },
+    {
+      "productId": 85,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-07-04T08:52:51.7542733+03:00"
+    },
+    {
+      "productId": 95,
+      "reviewText": "This Heights works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-01-16T14:21:04.3031542+02:00"
+    }
+  ]
+}

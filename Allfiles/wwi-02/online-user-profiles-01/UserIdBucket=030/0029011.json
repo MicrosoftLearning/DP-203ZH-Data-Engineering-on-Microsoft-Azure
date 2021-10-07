@@ -1,0 +1,38 @@
+{
+  "userId": 29011,
+  "cartId": "f67669bb-9f0e-4f2e-811b-bb4a6116928e",
+  "preferredProducts": [
+    3140,
+    927,
+    976,
+    2337,
+    2928,
+    1029,
+    1887,
+    4581,
+    4655,
+    4099
+  ],
+  "productReviews": [
+    {
+      "productId": 2558,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-10-15T21:47:59.2089718+03:00"
+    },
+    {
+      "productId": 34,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-07-05T14:55:16.9953428+03:00"
+    },
+    {
+      "productId": 83,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-08-21T19:43:21.4884864+03:00"
+    },
+    {
+      "productId": 2258,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-02-06T10:49:19.1171118+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 9597,
+  "cartId": "3d463c85-3cfa-4ab6-ac73-58f9f58b77dd",
+  "preferredProducts": [
+    4256,
+    1664,
+    457,
+    2908,
+    1808,
+    4601,
+    4780,
+    1910
+  ],
+  "productReviews": [
+    {
+      "productId": 324,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-09-18T20:13:18.7114673+03:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-05-31T03:13:24.6676307+03:00"
+    },
+    {
+      "productId": 4168,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-07-04T01:31:01.860636+03:00"
+    },
+    {
+      "productId": 4234,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-09-10T03:59:32.8388631+03:00"
+    }
+  ]
+}

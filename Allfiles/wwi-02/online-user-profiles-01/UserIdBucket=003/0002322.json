@@ -1,0 +1,31 @@
+{
+  "userId": 2322,
+  "cartId": "f901f1d4-0479-4126-b3a9-188160a6d9ae",
+  "preferredProducts": [
+    3732,
+    470,
+    3171,
+    4002,
+    2090,
+    4340,
+    4469,
+    4195
+  ],
+  "productReviews": [
+    {
+      "productId": 531,
+      "reviewText": "this Rubber is hyper.",
+      "reviewDate": "2018-08-10T18:58:02.5871706+03:00"
+    },
+    {
+      "productId": 4363,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-06-19T10:57:06.0282193+03:00"
+    },
+    {
+      "productId": 619,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-06-01T02:48:04.221036+03:00"
+    }
+  ]
+}

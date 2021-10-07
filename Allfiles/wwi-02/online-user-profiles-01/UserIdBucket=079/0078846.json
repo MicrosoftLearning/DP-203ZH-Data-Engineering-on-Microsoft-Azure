@@ -1,0 +1,36 @@
+{
+  "userId": 78846,
+  "cartId": "eec7344c-e794-4779-a874-68536ee88d70",
+  "preferredProducts": [
+    4398,
+    4738,
+    239,
+    1885,
+    3793,
+    4795,
+    1655,
+    3622
+  ],
+  "productReviews": [
+    {
+      "productId": 1812,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-07-18T12:25:34.0753758+03:00"
+    },
+    {
+      "productId": 3959,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-12-26T00:43:13.7961238+02:00"
+    },
+    {
+      "productId": 2440,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-10-23T09:37:37.9707701+03:00"
+    },
+    {
+      "productId": 1044,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-01-29T12:06:00.2605321+02:00"
+    }
+  ]
+}

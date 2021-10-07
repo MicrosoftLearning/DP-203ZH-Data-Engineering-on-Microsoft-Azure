@@ -1,0 +1,32 @@
+{
+  "userId": 56424,
+  "cartId": "b7d07f2e-d3ca-4320-aa87-00764a10b542",
+  "preferredProducts": [
+    3362,
+    3845,
+    1367,
+    181
+  ],
+  "productReviews": [
+    {
+      "productId": 1780,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-04T21:33:57.4737169+02:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-07-12T05:14:33.8613539+03:00"
+    },
+    {
+      "productId": 684,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-02-03T07:16:22.6003539+02:00"
+    },
+    {
+      "productId": 616,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2020-05-03T18:18:40.6288895+03:00"
+    }
+  ]
+}

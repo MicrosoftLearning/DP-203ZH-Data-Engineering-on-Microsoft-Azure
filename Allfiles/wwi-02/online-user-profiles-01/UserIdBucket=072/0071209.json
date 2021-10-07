@@ -1,0 +1,29 @@
+{
+  "userId": 71209,
+  "cartId": "517946f6-fb27-48d8-b639-0d3f1f2689e9",
+  "preferredProducts": [
+    3169,
+    2709,
+    4754,
+    2012,
+    3772,
+    4678
+  ],
+  "productReviews": [
+    {
+      "productId": 4567,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-05-28T13:58:13.822789+03:00"
+    },
+    {
+      "productId": 1842,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-08-25T21:28:12.6235003+03:00"
+    },
+    {
+      "productId": 382,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-09-17T19:10:08.8513725+03:00"
+    }
+  ]
+}

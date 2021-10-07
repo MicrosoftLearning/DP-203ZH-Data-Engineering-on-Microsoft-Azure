@@ -1,0 +1,31 @@
+{
+  "userId": 24252,
+  "cartId": "da521865-905d-4f0d-8e87-8be8bc9abef1",
+  "preferredProducts": [
+    1344,
+    4686,
+    1457,
+    417,
+    4308,
+    288,
+    1007,
+    1269
+  ],
+  "productReviews": [
+    {
+      "productId": 1015,
+      "reviewText": "this HTTP is hyper.",
+      "reviewDate": "2017-04-10T17:04:21.6610675+03:00"
+    },
+    {
+      "productId": 2952,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-01-13T02:05:33.902947+02:00"
+    },
+    {
+      "productId": 3067,
+      "reviewText": "This mint green works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-04-12T16:34:47.5507695+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 99553,
+  "cartId": "31195d01-c3c8-451b-af4c-bae80e0bb34b",
+  "preferredProducts": [
+    1633,
+    1498,
+    4522,
+    305,
+    262
+  ],
+  "productReviews": [
+    {
+      "productId": 4306,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-03-03T15:12:58.6881202+02:00"
+    },
+    {
+      "productId": 2412,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-09-30T01:10:19.0027844+03:00"
+    }
+  ]
+}

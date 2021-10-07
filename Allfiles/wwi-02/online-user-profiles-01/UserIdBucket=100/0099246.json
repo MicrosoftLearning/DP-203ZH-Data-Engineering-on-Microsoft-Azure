@@ -1,0 +1,35 @@
+{
+  "userId": 99246,
+  "cartId": "8717f61e-8833-469a-bc62-7f0250bd96b4",
+  "preferredProducts": [
+    3400,
+    1120,
+    1734,
+    3686,
+    755,
+    2274,
+    4150
+  ],
+  "productReviews": [
+    {
+      "productId": 1312,
+      "reviewText": "this Monaco is slurpee.",
+      "reviewDate": "2018-05-20T20:23:07.3439066+03:00"
+    },
+    {
+      "productId": 3437,
+      "reviewText": "this Engineer is awesome.",
+      "reviewDate": "2019-06-12T02:36:37.1871358+03:00"
+    },
+    {
+      "productId": 1289,
+      "reviewText": "this Usability is ghetto.",
+      "reviewDate": "2017-05-10T16:09:33.8709762+03:00"
+    },
+    {
+      "productId": 4322,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-01-17T01:18:41.9379074+02:00"
+    }
+  ]
+}

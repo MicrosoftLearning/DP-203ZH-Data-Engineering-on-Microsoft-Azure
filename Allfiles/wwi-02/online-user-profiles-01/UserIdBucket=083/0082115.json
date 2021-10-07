@@ -1,0 +1,29 @@
+{
+  "userId": 82115,
+  "cartId": "2b23be9e-bd9f-4c6e-be43-6d539cff7c65",
+  "preferredProducts": [
+    160,
+    3074,
+    4527,
+    2619,
+    2638,
+    3492
+  ],
+  "productReviews": [
+    {
+      "productId": 4644,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-06-21T12:09:49.9931456+03:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-05-30T21:52:05.161688+03:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-02-09T08:28:29.0162412+02:00"
+    }
+  ]
+}

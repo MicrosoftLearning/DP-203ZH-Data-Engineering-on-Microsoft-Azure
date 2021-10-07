@@ -1,0 +1,35 @@
+{
+  "userId": 4159,
+  "cartId": "b2105fd8-c1a5-4b2f-93d3-150136b4c1f3",
+  "preferredProducts": [
+    333,
+    1064
+  ],
+  "productReviews": [
+    {
+      "productId": 156,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-02-10T13:52:29.0509164+02:00"
+    },
+    {
+      "productId": 2884,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-12-31T19:59:10.425825+02:00"
+    },
+    {
+      "productId": 2254,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-04-04T15:41:10.0683469+03:00"
+    },
+    {
+      "productId": 4060,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-12-04T19:46:06.8439575+02:00"
+    },
+    {
+      "productId": 3055,
+      "reviewText": "This is a really good dynamic.",
+      "reviewDate": "2020-04-18T10:16:11.5618721+03:00"
+    }
+  ]
+}

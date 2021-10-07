@@ -1,0 +1,35 @@
+{
+  "userId": 16383,
+  "cartId": "0bf7bb50-3baf-4207-b01f-414a7d7918e5",
+  "preferredProducts": [
+    421,
+    183
+  ],
+  "productReviews": [
+    {
+      "productId": 4496,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-03-02T23:24:40.5037966+02:00"
+    },
+    {
+      "productId": 3197,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-05-30T15:50:43.2793455+03:00"
+    },
+    {
+      "productId": 2157,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-11-22T00:56:12.4089846+02:00"
+    },
+    {
+      "productId": 2134,
+      "reviewText": "This benchmark works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-11-14T11:33:18.297463+02:00"
+    },
+    {
+      "productId": 476,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-04-26T22:09:50.5457309+03:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 14012,
+  "cartId": "eafd795f-d6de-4eb6-8ba9-3f49fa5bb04a",
+  "preferredProducts": [
+    3005,
+    3331,
+    1813,
+    4651,
+    4651,
+    886,
+    4033
+  ],
+  "productReviews": [
+    {
+      "productId": 210,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-01-10T03:27:54.019659+02:00"
+    },
+    {
+      "productId": 2692,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-09-30T18:43:17.2757246+03:00"
+    },
+    {
+      "productId": 4415,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-07-15T15:08:05.3598021+03:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-02-11T08:18:29.9156241+02:00"
+    },
+    {
+      "productId": 4787,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-11-16T02:43:09.8256831+02:00"
+    }
+  ]
+}

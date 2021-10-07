@@ -1,0 +1,32 @@
+{
+  "userId": 74264,
+  "cartId": "d6067bae-736b-4ecc-9eff-87c01053b2ae",
+  "preferredProducts": [
+    833,
+    1100,
+    2297,
+    2440
+  ],
+  "productReviews": [
+    {
+      "productId": 2576,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-11-22T19:22:15.3604817+02:00"
+    },
+    {
+      "productId": 781,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-07-27T18:28:29.0420827+03:00"
+    },
+    {
+      "productId": 3545,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-30T03:10:33.3564906+03:00"
+    },
+    {
+      "productId": 653,
+      "reviewText": "this Producer is standard.",
+      "reviewDate": "2016-06-26T00:36:55.8035088+03:00"
+    }
+  ]
+}

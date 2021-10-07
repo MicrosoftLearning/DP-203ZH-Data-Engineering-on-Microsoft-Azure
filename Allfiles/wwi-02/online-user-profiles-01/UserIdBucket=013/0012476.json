@@ -1,0 +1,36 @@
+{
+  "userId": 12476,
+  "cartId": "816ae01d-9f79-4393-baf0-776340a195cb",
+  "preferredProducts": [
+    4318,
+    4564,
+    3795
+  ],
+  "productReviews": [
+    {
+      "productId": 598,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-02-11T07:30:56.3650293+02:00"
+    },
+    {
+      "productId": 1682,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-10-30T17:52:44.0651777+02:00"
+    },
+    {
+      "productId": 3430,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-01-05T20:52:13.9427203+02:00"
+    },
+    {
+      "productId": 4014,
+      "reviewText": "This wireless works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-12-30T06:25:52.4671373+02:00"
+    },
+    {
+      "productId": 1518,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-11-06T13:02:46.6796858+02:00"
+    }
+  ]
+}

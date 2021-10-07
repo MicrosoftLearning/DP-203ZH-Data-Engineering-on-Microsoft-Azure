@@ -1,0 +1,32 @@
+{
+  "userId": 22854,
+  "cartId": "271c50bd-d7a2-476c-afe6-30d75aae673c",
+  "preferredProducts": [
+    4019,
+    2073,
+    1689,
+    1940
+  ],
+  "productReviews": [
+    {
+      "productId": 679,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-09-01T23:48:33.8663262+03:00"
+    },
+    {
+      "productId": 2183,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-10-09T15:36:12.0012088+03:00"
+    },
+    {
+      "productId": 2211,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-11-24T23:33:15.1667148+02:00"
+    },
+    {
+      "productId": 852,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2020-03-27T09:06:28.9492005+02:00"
+    }
+  ]
+}

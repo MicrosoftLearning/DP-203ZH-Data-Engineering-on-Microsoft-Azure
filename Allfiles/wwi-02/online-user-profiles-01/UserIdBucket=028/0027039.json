@@ -1,0 +1,27 @@
+{
+  "userId": 27039,
+  "cartId": "cfad59dc-330b-4d6c-97cd-7d6ef5c28b89",
+  "preferredProducts": [
+    1027,
+    4584,
+    2743,
+    813
+  ],
+  "productReviews": [
+    {
+      "productId": 423,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-04-03T23:59:54.15691+03:00"
+    },
+    {
+      "productId": 492,
+      "reviewText": "This fuchsia works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-03-09T04:03:27.9584355+02:00"
+    },
+    {
+      "productId": 1700,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-02-17T18:40:20.2098459+02:00"
+    }
+  ]
+}

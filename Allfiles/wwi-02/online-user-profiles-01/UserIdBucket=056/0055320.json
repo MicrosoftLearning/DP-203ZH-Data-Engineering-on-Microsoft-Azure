@@ -1,0 +1,37 @@
+{
+  "userId": 55320,
+  "cartId": "66d0b984-00bf-4c0a-91cd-5b720d53e1ca",
+  "preferredProducts": [
+    3814,
+    1728,
+    3777,
+    2022,
+    2102,
+    3501,
+    1193,
+    3124,
+    3158
+  ],
+  "productReviews": [
+    {
+      "productId": 3545,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-12-16T18:59:56.0336129+02:00"
+    },
+    {
+      "productId": 2574,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-02-25T03:36:19.8212777+02:00"
+    },
+    {
+      "productId": 472,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-02-08T11:20:38.6231528+02:00"
+    },
+    {
+      "productId": 3685,
+      "reviewText": "This XSS works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2018-06-07T01:06:55.2334306+03:00"
+    }
+  ]
+}

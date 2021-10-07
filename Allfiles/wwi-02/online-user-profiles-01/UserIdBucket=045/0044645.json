@@ -1,0 +1,30 @@
+{
+  "userId": 44645,
+  "cartId": "ce51a153-c513-40ad-806d-1d95ec667536",
+  "preferredProducts": [
+    2915,
+    441,
+    444,
+    2253,
+    351,
+    4435,
+    2505
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-11-07T05:42:55.3883285+02:00"
+    },
+    {
+      "productId": 1507,
+      "reviewText": "this Handmade is amiable.",
+      "reviewDate": "2019-10-20T10:48:40.5696744+03:00"
+    },
+    {
+      "productId": 1707,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-05-26T14:19:25.1550524+03:00"
+    }
+  ]
+}

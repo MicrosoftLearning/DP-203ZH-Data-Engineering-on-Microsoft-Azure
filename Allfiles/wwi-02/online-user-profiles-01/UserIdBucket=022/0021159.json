@@ -1,0 +1,41 @@
+{
+  "userId": 21159,
+  "cartId": "2eb1f05b-1fa4-4911-bd28-4fb24d5ce300",
+  "preferredProducts": [
+    3002,
+    1746,
+    4321,
+    3885,
+    1872,
+    1629,
+    4445,
+    3305
+  ],
+  "productReviews": [
+    {
+      "productId": 714,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-09-08T21:51:33.4725834+03:00"
+    },
+    {
+      "productId": 2773,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-03-14T11:06:32.3869751+02:00"
+    },
+    {
+      "productId": 2405,
+      "reviewText": "this navigating is complimentary.",
+      "reviewDate": "2016-08-28T00:05:06.8792271+03:00"
+    },
+    {
+      "productId": 1187,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-11-29T12:39:32.7336676+02:00"
+    },
+    {
+      "productId": 2289,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-10-15T23:30:08.7125957+03:00"
+    }
+  ]
+}

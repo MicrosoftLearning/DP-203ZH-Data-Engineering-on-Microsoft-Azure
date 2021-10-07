@@ -1,0 +1,38 @@
+{
+  "userId": 89898,
+  "cartId": "f8040ff7-cccc-4fef-ba69-6309146df595",
+  "preferredProducts": [
+    4083,
+    3192,
+    175,
+    763,
+    4496,
+    3840,
+    3418,
+    2411,
+    4551,
+    1074
+  ],
+  "productReviews": [
+    {
+      "productId": 601,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-07-15T14:26:17.6260951+03:00"
+    },
+    {
+      "productId": 1736,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-03-10T02:19:11.6318284+02:00"
+    },
+    {
+      "productId": 3573,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-11-13T02:19:30.233185+02:00"
+    },
+    {
+      "productId": 3061,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-06-25T07:39:08.5580598+03:00"
+    }
+  ]
+}

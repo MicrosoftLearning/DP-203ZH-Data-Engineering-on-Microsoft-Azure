@@ -1,0 +1,39 @@
+{
+  "userId": 20111,
+  "cartId": "c87e7133-8640-4008-9a72-fbebeccfe33c",
+  "preferredProducts": [
+    2264,
+    1748,
+    1185,
+    2116,
+    2346,
+    1300
+  ],
+  "productReviews": [
+    {
+      "productId": 3352,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-01-10T05:20:49.9682127+02:00"
+    },
+    {
+      "productId": 3627,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-06-19T19:40:45.482803+03:00"
+    },
+    {
+      "productId": 2642,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-09-22T12:33:29.3867477+03:00"
+    },
+    {
+      "productId": 1765,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-01-08T21:35:55.4382828+02:00"
+    },
+    {
+      "productId": 3669,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-01-02T13:20:37.3003703+02:00"
+    }
+  ]
+}

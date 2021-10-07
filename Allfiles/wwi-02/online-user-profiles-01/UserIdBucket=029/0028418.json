@@ -1,0 +1,27 @@
+{
+  "userId": 28418,
+  "cartId": "7f52e841-a277-4bd3-a597-0aeb29fcb7b1",
+  "preferredProducts": [
+    2343,
+    3445,
+    4621,
+    2306
+  ],
+  "productReviews": [
+    {
+      "productId": 4347,
+      "reviewText": "this value-added is awesome.",
+      "reviewDate": "2020-02-09T03:42:44.6940702+02:00"
+    },
+    {
+      "productId": 2887,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-12-07T06:59:05.9349508+02:00"
+    },
+    {
+      "productId": 1117,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-09-28T21:00:39.1860239+03:00"
+    }
+  ]
+}

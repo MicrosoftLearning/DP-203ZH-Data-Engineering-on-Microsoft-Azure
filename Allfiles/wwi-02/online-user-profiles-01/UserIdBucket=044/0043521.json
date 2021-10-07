@@ -1,0 +1,31 @@
+{
+  "userId": 43521,
+  "cartId": "43b02422-3ad9-40be-91af-f81c3b78a063",
+  "preferredProducts": [
+    1020,
+    182,
+    1791
+  ],
+  "productReviews": [
+    {
+      "productId": 3400,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-04-10T08:06:25.9730919+03:00"
+    },
+    {
+      "productId": 498,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-12-07T09:02:32.6673953+02:00"
+    },
+    {
+      "productId": 4800,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-03-14T19:05:02.046397+02:00"
+    },
+    {
+      "productId": 995,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-12-29T11:18:04.2678094+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 21202,
+  "cartId": "bceb3907-4082-46b7-9aa2-acd40dc85995",
+  "preferredProducts": [
+    3230,
+    1030,
+    4616,
+    3830,
+    113,
+    1433
+  ],
+  "productReviews": [
+    {
+      "productId": 4508,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-05-30T16:57:30.9519323+03:00"
+    },
+    {
+      "productId": 1385,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-06-30T15:36:38.4421869+03:00"
+    },
+    {
+      "productId": 2348,
+      "reviewText": "This is a really good Chief.",
+      "reviewDate": "2018-08-06T19:55:01.0670209+03:00"
+    },
+    {
+      "productId": 811,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-01-21T21:06:00.3876358+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 94326,
+  "cartId": "ccc7fa18-abfe-4f93-acda-e25b2c75a7ac",
+  "preferredProducts": [
+    4421,
+    3854,
+    2953,
+    3547,
+    4173,
+    1561,
+    2759
+  ],
+  "productReviews": [
+    {
+      "productId": 3436,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-01-14T23:45:03.1327843+02:00"
+    },
+    {
+      "productId": 1568,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-12T18:01:52.7056789+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 61626,
+  "cartId": "335198d9-1311-48cf-9b74-a1452c7a5060",
+  "preferredProducts": [
+    319,
+    1314,
+    3223,
+    1200
+  ],
+  "productReviews": [
+    {
+      "productId": 2270,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-07-26T06:49:28.577358+03:00"
+    },
+    {
+      "productId": 3670,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-05-28T23:56:18.400256+03:00"
+    },
+    {
+      "productId": 2060,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-02-21T08:26:35.0365812+02:00"
+    }
+  ]
+}

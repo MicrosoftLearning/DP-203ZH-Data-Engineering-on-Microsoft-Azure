@@ -1,0 +1,29 @@
+{
+  "userId": 58960,
+  "cartId": "08be6922-926b-4243-998f-a9a2d920aa2e",
+  "preferredProducts": [
+    2366,
+    2663,
+    4345,
+    3002,
+    2809,
+    3433
+  ],
+  "productReviews": [
+    {
+      "productId": 2353,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-05-05T08:17:01.7917232+03:00"
+    },
+    {
+      "productId": 3098,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-10-01T03:21:21.2861832+03:00"
+    },
+    {
+      "productId": 1154,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-10-22T09:08:15.0057788+03:00"
+    }
+  ]
+}

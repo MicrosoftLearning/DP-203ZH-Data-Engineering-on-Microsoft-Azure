@@ -1,0 +1,30 @@
+{
+  "userId": 4598,
+  "cartId": "4a7a2c04-394b-460e-9751-51d674b0d956",
+  "preferredProducts": [
+    107,
+    430,
+    3397,
+    1999,
+    3450,
+    432,
+    1738
+  ],
+  "productReviews": [
+    {
+      "productId": 2624,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-02-08T16:33:42.3290671+02:00"
+    },
+    {
+      "productId": 3806,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-01-26T18:02:29.862121+02:00"
+    },
+    {
+      "productId": 2851,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-11-21T13:09:46.5229409+02:00"
+    }
+  ]
+}

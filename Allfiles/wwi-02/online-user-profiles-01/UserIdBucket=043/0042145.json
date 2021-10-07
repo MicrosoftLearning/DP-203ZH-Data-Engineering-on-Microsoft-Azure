@@ -1,0 +1,37 @@
+{
+  "userId": 42145,
+  "cartId": "7871373f-f8cd-4896-a092-3b3c35f7f762",
+  "preferredProducts": [
+    1048,
+    2706,
+    1246,
+    4720
+  ],
+  "productReviews": [
+    {
+      "productId": 10,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-11-25T21:11:36.9145659+02:00"
+    },
+    {
+      "productId": 1479,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-04-01T04:05:37.2992759+03:00"
+    },
+    {
+      "productId": 4357,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-03-15T11:19:59.6754917+02:00"
+    },
+    {
+      "productId": 4300,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-09-18T14:32:00.97869+03:00"
+    },
+    {
+      "productId": 1593,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-12-15T18:14:10.5510992+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 91666,
+  "cartId": "a72408d4-1007-4101-8204-1f37216c964a",
+  "preferredProducts": [
+    461,
+    3792,
+    4690,
+    4076,
+    4808,
+    1319
+  ],
+  "productReviews": [
+    {
+      "productId": 1221,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-12-13T12:26:08.8414702+02:00"
+    },
+    {
+      "productId": 4157,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-04-13T20:46:19.5778124+03:00"
+    },
+    {
+      "productId": 455,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2020-03-25T06:35:46.3997204+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 52457,
+  "cartId": "de01444a-08b4-4ae8-8bda-c9baa2cbce4d",
+  "preferredProducts": [
+    4485,
+    3512,
+    805,
+    2181,
+    805,
+    4399,
+    3414,
+    4924,
+    709
+  ],
+  "productReviews": [
+    {
+      "productId": 2600,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-03-28T18:46:07.3382466+02:00"
+    },
+    {
+      "productId": 4794,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-03-28T10:49:05.8884168+02:00"
+    },
+    {
+      "productId": 2220,
+      "reviewText": "This tan works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-04-16T01:55:09.6184782+03:00"
+    }
+  ]
+}

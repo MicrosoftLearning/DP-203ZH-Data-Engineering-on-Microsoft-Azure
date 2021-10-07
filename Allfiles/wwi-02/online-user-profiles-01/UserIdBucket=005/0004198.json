@@ -1,0 +1,34 @@
+{
+  "userId": 4198,
+  "cartId": "3d4da1e2-81c4-4f95-b797-36948f3a26a5",
+  "preferredProducts": [
+    4441,
+    4467,
+    3939,
+    2636,
+    1146,
+    963
+  ],
+  "productReviews": [
+    {
+      "productId": 2200,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-06-03T11:25:51.955134+03:00"
+    },
+    {
+      "productId": 1036,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-06-02T23:37:30.1431301+03:00"
+    },
+    {
+      "productId": 2921,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-02-01T12:22:43.9378511+02:00"
+    },
+    {
+      "productId": 1683,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-08-18T09:36:53.703509+03:00"
+    }
+  ]
+}

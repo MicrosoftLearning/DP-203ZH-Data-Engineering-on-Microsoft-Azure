@@ -1,0 +1,30 @@
+{
+  "userId": 50013,
+  "cartId": "e20c511d-a5f6-427a-8415-9b368b309549",
+  "preferredProducts": [
+    4019,
+    120
+  ],
+  "productReviews": [
+    {
+      "productId": 4956,
+      "reviewText": "this Harbor is nifty.",
+      "reviewDate": "2016-09-15T13:04:12.3676157+03:00"
+    },
+    {
+      "productId": 1328,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-06-02T10:57:25.2042715+03:00"
+    },
+    {
+      "productId": 2403,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-05-25T23:16:01.9183432+03:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-12-18T22:50:03.7360192+02:00"
+    }
+  ]
+}

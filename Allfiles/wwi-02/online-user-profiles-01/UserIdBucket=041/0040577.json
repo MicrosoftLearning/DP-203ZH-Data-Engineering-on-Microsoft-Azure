@@ -1,0 +1,31 @@
+{
+  "userId": 40577,
+  "cartId": "45993692-ae93-412e-abd6-e1d346ec2c35",
+  "preferredProducts": [
+    2508,
+    4669,
+    3944,
+    4095,
+    2708,
+    101,
+    3363,
+    4674
+  ],
+  "productReviews": [
+    {
+      "productId": 1830,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-08-01T16:58:06.9699657+03:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-17T06:07:34.4876073+02:00"
+    },
+    {
+      "productId": 1018,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-05-04T17:04:26.0990836+03:00"
+    }
+  ]
+}

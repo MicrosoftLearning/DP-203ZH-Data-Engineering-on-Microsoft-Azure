@@ -1,0 +1,26 @@
+{
+  "userId": 36235,
+  "cartId": "c79dc31e-5ea6-4092-8048-ec02ed93927f",
+  "preferredProducts": [
+    2109,
+    3418,
+    2184
+  ],
+  "productReviews": [
+    {
+      "productId": 3200,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-04-11T23:21:48.6894316+03:00"
+    },
+    {
+      "productId": 1088,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-08-06T06:49:49.9014883+03:00"
+    },
+    {
+      "productId": 3365,
+      "reviewText": "This Guyana works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-10-17T18:12:38.1484582+03:00"
+    }
+  ]
+}

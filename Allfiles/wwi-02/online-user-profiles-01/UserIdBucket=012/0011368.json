@@ -1,0 +1,32 @@
+{
+  "userId": 11368,
+  "cartId": "a755b48e-2ff2-4778-88d6-89f0ae81c43a",
+  "preferredProducts": [
+    3116,
+    2676,
+    1351,
+    3401,
+    998,
+    3193,
+    473,
+    697,
+    1555
+  ],
+  "productReviews": [
+    {
+      "productId": 3283,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-01-15T22:43:39.1740993+02:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-11-12T17:27:31.8874018+02:00"
+    },
+    {
+      "productId": 3863,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-03-04T11:51:50.8537734+02:00"
+    }
+  ]
+}

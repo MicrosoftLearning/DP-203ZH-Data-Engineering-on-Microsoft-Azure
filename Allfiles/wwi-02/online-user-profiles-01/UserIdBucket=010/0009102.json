@@ -1,0 +1,37 @@
+{
+  "userId": 9102,
+  "cartId": "4b13014c-03b3-402f-a301-1fba87b192bb",
+  "preferredProducts": [
+    2901,
+    4627,
+    3505,
+    4577,
+    2897,
+    346,
+    3984,
+    4246,
+    4612
+  ],
+  "productReviews": [
+    {
+      "productId": 310,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-12-15T16:04:28.8986861+02:00"
+    },
+    {
+      "productId": 2256,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-09-29T22:45:24.1249794+03:00"
+    },
+    {
+      "productId": 2029,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-11-30T19:40:20.5809791+02:00"
+    },
+    {
+      "productId": 3306,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-07-24T04:22:17.6512038+03:00"
+    }
+  ]
+}

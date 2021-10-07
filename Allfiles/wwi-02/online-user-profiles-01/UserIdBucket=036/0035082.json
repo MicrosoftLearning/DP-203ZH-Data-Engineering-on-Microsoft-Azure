@@ -1,0 +1,33 @@
+{
+  "userId": 35082,
+  "cartId": "1c675db5-9a5e-4876-9915-e2747ed1d525",
+  "preferredProducts": [
+    119,
+    435,
+    3734,
+    472,
+    840,
+    727,
+    297,
+    4763,
+    3810,
+    3910
+  ],
+  "productReviews": [
+    {
+      "productId": 4781,
+      "reviewText": "this calculate is tasty.",
+      "reviewDate": "2019-11-28T12:09:56.1383667+02:00"
+    },
+    {
+      "productId": 2763,
+      "reviewText": "this Central is smooth.",
+      "reviewDate": "2020-01-19T11:32:09.1281838+02:00"
+    },
+    {
+      "productId": 2585,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-05-04T15:52:07.7131932+03:00"
+    }
+  ]
+}

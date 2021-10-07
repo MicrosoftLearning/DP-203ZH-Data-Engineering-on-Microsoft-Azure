@@ -1,0 +1,30 @@
+{
+  "userId": 7933,
+  "cartId": "a7d296ac-3979-4aef-9ff6-4c6731e39888",
+  "preferredProducts": [
+    695,
+    3085,
+    4657,
+    2468,
+    4242,
+    1612,
+    2553
+  ],
+  "productReviews": [
+    {
+      "productId": 1739,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-11-18T04:59:05.3862558+02:00"
+    },
+    {
+      "productId": 2466,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-01-31T08:18:14.0258292+02:00"
+    },
+    {
+      "productId": 3871,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-07-15T22:31:24.7467066+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 27076,
+  "cartId": "8a8bd370-b0ea-4871-b835-56da688e75d7",
+  "preferredProducts": [
+    645,
+    399,
+    4516,
+    350,
+    3766,
+    1843
+  ],
+  "productReviews": [
+    {
+      "productId": 2425,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-05-08T04:55:46.8067675+03:00"
+    },
+    {
+      "productId": 3047,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-03-24T13:35:53.7583857+02:00"
+    },
+    {
+      "productId": 3445,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-10-18T09:10:36.3444571+03:00"
+    },
+    {
+      "productId": 566,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-06-19T12:41:50.1639964+03:00"
+    }
+  ]
+}

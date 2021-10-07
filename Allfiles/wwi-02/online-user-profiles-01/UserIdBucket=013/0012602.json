@@ -1,0 +1,36 @@
+{
+  "userId": 12602,
+  "cartId": "af026646-9e6e-422f-b3f5-3266e2b15922",
+  "preferredProducts": [
+    2438,
+    3600,
+    116
+  ],
+  "productReviews": [
+    {
+      "productId": 2346,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-11-10T03:39:05.6426073+02:00"
+    },
+    {
+      "productId": 2844,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-06-09T07:24:59.4171268+03:00"
+    },
+    {
+      "productId": 966,
+      "reviewText": "This connect, does exactly what it's suppose to do.",
+      "reviewDate": "2019-12-19T01:51:03.2347138+02:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "this olive is standard.",
+      "reviewDate": "2016-09-26T15:17:28.8806834+03:00"
+    },
+    {
+      "productId": 95,
+      "reviewText": "this payment is brown.",
+      "reviewDate": "2020-01-17T22:45:09.5286478+02:00"
+    }
+  ]
+}

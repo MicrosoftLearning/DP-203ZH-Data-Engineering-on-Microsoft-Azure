@@ -1,0 +1,33 @@
+{
+  "userId": 55420,
+  "cartId": "bbedb012-c643-4a2c-b6cc-a300180c432b",
+  "preferredProducts": [
+    4310,
+    3723,
+    4419,
+    1569,
+    3660,
+    4001,
+    3888,
+    325,
+    1047,
+    4282
+  ],
+  "productReviews": [
+    {
+      "productId": 2405,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-09-08T04:33:44.4358032+03:00"
+    },
+    {
+      "productId": 1237,
+      "reviewText": "This systems works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-01-11T13:21:04.625404+02:00"
+    },
+    {
+      "productId": 3578,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-12-20T15:24:38.5569948+02:00"
+    }
+  ]
+}

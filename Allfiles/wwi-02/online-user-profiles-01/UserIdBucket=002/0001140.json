@@ -1,0 +1,24 @@
+{
+  "userId": 1140,
+  "cartId": "fa1f5f09-2044-466b-a161-eacc1e56741c",
+  "preferredProducts": [
+    4655,
+    1112,
+    1711,
+    7,
+    3415,
+    4666
+  ],
+  "productReviews": [
+    {
+      "productId": 3835,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-07-17T08:05:13.1634211+03:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-01-10T14:21:16.630357+02:00"
+    }
+  ]
+}

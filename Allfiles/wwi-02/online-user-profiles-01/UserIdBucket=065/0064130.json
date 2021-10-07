@@ -1,0 +1,31 @@
+{
+  "userId": 64130,
+  "cartId": "1e725caf-e43c-4278-a97d-7723c6f8f3b4",
+  "preferredProducts": [
+    102,
+    3085,
+    3425
+  ],
+  "productReviews": [
+    {
+      "productId": 2073,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-11-10T13:43:28.1590492+02:00"
+    },
+    {
+      "productId": 3891,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-03-07T00:44:10.9568483+02:00"
+    },
+    {
+      "productId": 2623,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-08-21T14:47:49.1657268+03:00"
+    },
+    {
+      "productId": 4775,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-12-04T20:59:42.965255+02:00"
+    }
+  ]
+}

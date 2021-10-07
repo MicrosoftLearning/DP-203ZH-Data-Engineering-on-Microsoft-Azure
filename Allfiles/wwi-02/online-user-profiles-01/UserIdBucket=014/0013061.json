@@ -1,0 +1,27 @@
+{
+  "userId": 13061,
+  "cartId": "5cde107a-b8e8-479a-9693-41c310db532e",
+  "preferredProducts": [
+    715,
+    1415,
+    3856,
+    1512,
+    2705,
+    2177,
+    1278,
+    4060,
+    992
+  ],
+  "productReviews": [
+    {
+      "productId": 517,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-09-19T18:47:34.6303068+03:00"
+    },
+    {
+      "productId": 750,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-07-21T13:16:59.2411335+03:00"
+    }
+  ]
+}

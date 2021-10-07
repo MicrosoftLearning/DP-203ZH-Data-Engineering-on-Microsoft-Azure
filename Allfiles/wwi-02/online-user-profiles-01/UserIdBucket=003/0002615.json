@@ -1,0 +1,33 @@
+{
+  "userId": 2615,
+  "cartId": "269e3fd4-e4c1-4ad4-a330-e0bba0ca21af",
+  "preferredProducts": [
+    1258,
+    3659,
+    4857,
+    1626,
+    2691
+  ],
+  "productReviews": [
+    {
+      "productId": 4883,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-12-08T10:57:00.3787566+02:00"
+    },
+    {
+      "productId": 4755,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-02-02T22:59:40.792936+02:00"
+    },
+    {
+      "productId": 60,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-08-08T12:32:14.3064766+03:00"
+    },
+    {
+      "productId": 50,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-12-23T17:08:10.4498404+02:00"
+    }
+  ]
+}

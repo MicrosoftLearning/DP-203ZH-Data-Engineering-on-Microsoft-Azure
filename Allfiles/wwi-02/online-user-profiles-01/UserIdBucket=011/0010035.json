@@ -1,0 +1,24 @@
+{
+  "userId": 10035,
+  "cartId": "b9e62796-5854-4cef-a75c-239d772ed8d6",
+  "preferredProducts": [
+    4088,
+    4995,
+    3742,
+    205,
+    3562,
+    32
+  ],
+  "productReviews": [
+    {
+      "productId": 1315,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2020-01-12T14:55:54.6039032+02:00"
+    },
+    {
+      "productId": 524,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-12-02T17:15:24.8464333+02:00"
+    }
+  ]
+}

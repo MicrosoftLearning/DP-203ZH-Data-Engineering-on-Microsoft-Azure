@@ -1,0 +1,23 @@
+{
+  "userId": 12424,
+  "cartId": "60252d5f-e8cc-461c-b468-b087322e6879",
+  "preferredProducts": [
+    2241,
+    1810,
+    5000,
+    2395,
+    2304
+  ],
+  "productReviews": [
+    {
+      "productId": 3842,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-05-13T08:09:04.4613028+03:00"
+    },
+    {
+      "productId": 4901,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-11-11T13:55:42.4171107+02:00"
+    }
+  ]
+}

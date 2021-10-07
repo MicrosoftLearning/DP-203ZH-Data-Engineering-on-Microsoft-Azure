@@ -1,0 +1,28 @@
+{
+  "userId": 17255,
+  "cartId": "5b8e1f76-8162-4bf0-8955-1a76b3326bbb",
+  "preferredProducts": [
+    24,
+    923,
+    3823,
+    3408,
+    2621
+  ],
+  "productReviews": [
+    {
+      "productId": 2375,
+      "reviewText": "this back-end is light-hearted.",
+      "reviewDate": "2017-09-13T12:34:08.3751927+03:00"
+    },
+    {
+      "productId": 1988,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-11-21T17:15:07.090934+02:00"
+    },
+    {
+      "productId": 4219,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-06-15T04:30:09.0106794+03:00"
+    }
+  ]
+}

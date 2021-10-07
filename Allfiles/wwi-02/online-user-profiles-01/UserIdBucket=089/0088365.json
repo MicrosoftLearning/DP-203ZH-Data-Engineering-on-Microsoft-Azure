@@ -1,0 +1,26 @@
+{
+  "userId": 88365,
+  "cartId": "6db17514-3709-481f-a9df-39a336b6a0bc",
+  "preferredProducts": [
+    416,
+    3911,
+    1714
+  ],
+  "productReviews": [
+    {
+      "productId": 2153,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-02-27T06:48:37.2660266+02:00"
+    },
+    {
+      "productId": 4831,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-01-30T05:02:40.1108596+02:00"
+    },
+    {
+      "productId": 1915,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-10-17T19:47:34.9898315+03:00"
+    }
+  ]
+}

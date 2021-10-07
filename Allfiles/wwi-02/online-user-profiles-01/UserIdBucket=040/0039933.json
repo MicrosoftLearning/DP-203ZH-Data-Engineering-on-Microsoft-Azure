@@ -1,0 +1,32 @@
+{
+  "userId": 39933,
+  "cartId": "3c206ed4-f44a-4144-ae39-d0004159704f",
+  "preferredProducts": [
+    3413,
+    1304,
+    997,
+    2137,
+    1664,
+    635,
+    2701,
+    1111,
+    3703
+  ],
+  "productReviews": [
+    {
+      "productId": 2501,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-04-01T01:25:04.8923057+03:00"
+    },
+    {
+      "productId": 1050,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-12-22T12:23:51.0274138+02:00"
+    },
+    {
+      "productId": 4092,
+      "reviewText": "This Regional works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-03-27T00:37:59.9742311+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 7182,
+  "cartId": "c119d7b4-2f3b-45f7-a876-8e88e4e06f5a",
+  "preferredProducts": [
+    4814,
+    3804,
+    4653,
+    666,
+    4192,
+    647,
+    4780,
+    4676,
+    3984
+  ],
+  "productReviews": [
+    {
+      "productId": 1480,
+      "reviewText": "This is a really good Tenge.",
+      "reviewDate": "2019-08-31T17:33:29.8906226+03:00"
+    },
+    {
+      "productId": 2385,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-10-20T05:44:10.2335365+03:00"
+    },
+    {
+      "productId": 1246,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-08-29T11:43:45.5412948+03:00"
+    }
+  ]
+}

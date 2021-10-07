@@ -1,0 +1,26 @@
+{
+  "userId": 49307,
+  "cartId": "dbecf001-c3dd-46ab-8018-7bf9dd066521",
+  "preferredProducts": [
+    456,
+    936,
+    3436,
+    1958,
+    1842,
+    4213,
+    2433,
+    1409
+  ],
+  "productReviews": [
+    {
+      "productId": 4393,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-08-31T15:20:19.259405+03:00"
+    },
+    {
+      "productId": 3836,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-06-16T16:44:19.7010393+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 2508,
+  "cartId": "3a2716ea-0205-44f4-848a-578a2eb12bee",
+  "preferredProducts": [
+    1523,
+    668,
+    340
+  ],
+  "productReviews": [
+    {
+      "productId": 891,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-05-26T13:31:32.5947119+03:00"
+    },
+    {
+      "productId": 3463,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-02-07T03:06:16.1886275+02:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-09-07T15:31:42.7428009+03:00"
+    },
+    {
+      "productId": 3689,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-08-20T04:11:07.2902099+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 76175,
+  "cartId": "7d07d43e-ff09-4d47-8fce-084607a83873",
+  "preferredProducts": [
+    450,
+    4545,
+    139
+  ],
+  "productReviews": [
+    {
+      "productId": 608,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-10-15T18:16:01.0911028+03:00"
+    },
+    {
+      "productId": 3087,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-07-10T19:08:22.1366791+03:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-08-01T13:02:28.9224141+03:00"
+    },
+    {
+      "productId": 1607,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-06-08T16:26:34.0903134+03:00"
+    }
+  ]
+}

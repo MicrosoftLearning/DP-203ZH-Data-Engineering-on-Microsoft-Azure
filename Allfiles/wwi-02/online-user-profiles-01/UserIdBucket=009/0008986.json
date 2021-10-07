@@ -1,0 +1,36 @@
+{
+  "userId": 8986,
+  "cartId": "8ad15d1b-dcba-479a-b678-50bbc58b8cd8",
+  "preferredProducts": [
+    2807,
+    499,
+    167,
+    2600,
+    2877,
+    3821,
+    4585,
+    4815
+  ],
+  "productReviews": [
+    {
+      "productId": 336,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-01-27T14:56:51.3299538+02:00"
+    },
+    {
+      "productId": 2348,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-12-25T22:36:22.3420111+02:00"
+    },
+    {
+      "productId": 1221,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2016-05-19T17:30:59.4209523+03:00"
+    },
+    {
+      "productId": 1649,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-07-03T19:32:13.8852239+03:00"
+    }
+  ]
+}

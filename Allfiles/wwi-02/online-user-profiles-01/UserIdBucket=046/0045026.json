@@ -1,0 +1,32 @@
+{
+  "userId": 45026,
+  "cartId": "7acd02d2-2c1d-4c18-91f4-320cb62ed75f",
+  "preferredProducts": [
+    3972,
+    3775,
+    3520,
+    948,
+    592,
+    207,
+    3964,
+    1256,
+    4763
+  ],
+  "productReviews": [
+    {
+      "productId": 332,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-07-01T10:34:42.5368238+03:00"
+    },
+    {
+      "productId": 1574,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-01-15T14:14:50.7249669+02:00"
+    },
+    {
+      "productId": 457,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-11-06T19:50:36.7436921+02:00"
+    }
+  ]
+}

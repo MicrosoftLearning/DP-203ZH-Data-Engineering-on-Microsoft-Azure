@@ -1,0 +1,34 @@
+{
+  "userId": 47823,
+  "cartId": "eb1355f1-ec9f-4e0d-8cbc-c1c7a58d8a19",
+  "preferredProducts": [
+    4889,
+    3691,
+    291,
+    1285,
+    2181,
+    1529
+  ],
+  "productReviews": [
+    {
+      "productId": 4875,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-09-10T06:06:28.9647758+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-09-21T01:10:34.0877542+03:00"
+    },
+    {
+      "productId": 3885,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-08-06T06:48:08.1806441+03:00"
+    },
+    {
+      "productId": 1630,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-01-04T18:12:07.1161464+02:00"
+    }
+  ]
+}

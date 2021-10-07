@@ -1,0 +1,29 @@
+{
+  "userId": 49037,
+  "cartId": "6197bb4e-4cc9-40f4-bbfd-3ad5a7fb0e05",
+  "preferredProducts": [
+    1159,
+    1293,
+    2767,
+    2156,
+    2899,
+    1006
+  ],
+  "productReviews": [
+    {
+      "productId": 1002,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-07-18T16:46:11.738508+03:00"
+    },
+    {
+      "productId": 2403,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-07-06T05:15:18.3861567+03:00"
+    },
+    {
+      "productId": 4609,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-02-12T04:15:31.7811919+02:00"
+    }
+  ]
+}

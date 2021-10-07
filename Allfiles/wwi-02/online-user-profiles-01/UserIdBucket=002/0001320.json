@@ -1,0 +1,32 @@
+{
+  "userId": 1320,
+  "cartId": "6f7a0013-e1b6-4769-b065-0078ee578fa0",
+  "preferredProducts": [
+    3021,
+    2259,
+    954,
+    1051,
+    4216,
+    4123,
+    2087,
+    2933,
+    1390
+  ],
+  "productReviews": [
+    {
+      "productId": 3862,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-02-29T18:52:29.9139488+02:00"
+    },
+    {
+      "productId": 3573,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-02-04T21:50:56.1678268+02:00"
+    },
+    {
+      "productId": 153,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-09-24T19:46:06.6519019+03:00"
+    }
+  ]
+}

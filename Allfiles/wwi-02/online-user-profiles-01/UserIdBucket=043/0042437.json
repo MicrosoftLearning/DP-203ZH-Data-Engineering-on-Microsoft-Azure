@@ -1,0 +1,37 @@
+{
+  "userId": 42437,
+  "cartId": "a6d8bb80-e5aa-47ff-acb2-569cb74fb17b",
+  "preferredProducts": [
+    3266,
+    3356,
+    3092,
+    2791,
+    1713,
+    3396,
+    298,
+    718,
+    3678
+  ],
+  "productReviews": [
+    {
+      "productId": 1241,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-06-05T00:27:17.6887574+03:00"
+    },
+    {
+      "productId": 162,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-04-26T02:36:17.8943499+03:00"
+    },
+    {
+      "productId": 4143,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-02-21T06:02:11.465816+02:00"
+    },
+    {
+      "productId": 402,
+      "reviewText": "this Customer is whole-grain.",
+      "reviewDate": "2018-07-04T10:13:26.9296608+03:00"
+    }
+  ]
+}

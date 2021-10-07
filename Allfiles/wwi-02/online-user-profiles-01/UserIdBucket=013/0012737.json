@@ -1,0 +1,38 @@
+{
+  "userId": 12737,
+  "cartId": "279b86ad-41b1-4963-b38e-95d00212545c",
+  "preferredProducts": [
+    3976,
+    2159,
+    1230,
+    2595,
+    1702
+  ],
+  "productReviews": [
+    {
+      "productId": 3690,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-02-18T17:09:43.5043819+02:00"
+    },
+    {
+      "productId": 989,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-03-19T09:59:51.7642124+02:00"
+    },
+    {
+      "productId": 3890,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-03-03T20:44:55.4934706+02:00"
+    },
+    {
+      "productId": 179,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-08-11T20:52:00.2903649+03:00"
+    },
+    {
+      "productId": 3926,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-03-29T17:42:18.7916457+02:00"
+    }
+  ]
+}

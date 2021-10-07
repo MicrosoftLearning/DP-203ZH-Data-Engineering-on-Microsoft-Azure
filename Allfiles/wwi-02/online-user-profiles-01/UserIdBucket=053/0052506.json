@@ -1,0 +1,28 @@
+{
+  "userId": 52506,
+  "cartId": "64b5590d-c1bb-4d4f-afdb-54ee1ac5f2d7",
+  "preferredProducts": [
+    2057,
+    1274,
+    714,
+    628,
+    545
+  ],
+  "productReviews": [
+    {
+      "productId": 1790,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-01-19T02:24:02.7229436+02:00"
+    },
+    {
+      "productId": 1713,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-11-14T10:48:08.7697329+02:00"
+    },
+    {
+      "productId": 3964,
+      "reviewText": "This invoice works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2020-04-18T18:26:20.8226825+03:00"
+    }
+  ]
+}

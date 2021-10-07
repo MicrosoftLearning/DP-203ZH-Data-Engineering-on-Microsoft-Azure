@@ -1,0 +1,35 @@
+{
+  "userId": 5360,
+  "cartId": "bf1bb115-8a9e-4c4b-850d-fdbc45b39453",
+  "preferredProducts": [
+    1261,
+    3062,
+    1741,
+    4927,
+    2387,
+    2373,
+    724
+  ],
+  "productReviews": [
+    {
+      "productId": 2313,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-03-28T03:27:04.7182538+03:00"
+    },
+    {
+      "productId": 3083,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-04-17T16:07:04.1690811+03:00"
+    },
+    {
+      "productId": 1670,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-09-09T14:07:31.405894+03:00"
+    },
+    {
+      "productId": 163,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-12-31T07:18:23.0557947+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 48522,
+  "cartId": "5cc1ff81-4770-4fda-b4d6-0025e6606ee2",
+  "preferredProducts": [
+    3759,
+    4204
+  ],
+  "productReviews": [
+    {
+      "productId": 452,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-09-30T03:23:33.1297673+03:00"
+    },
+    {
+      "productId": 3542,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-02-06T10:18:59.3726566+02:00"
+    },
+    {
+      "productId": 4534,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-08-16T00:21:31.7664377+03:00"
+    },
+    {
+      "productId": 1679,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-12-11T11:32:10.5894811+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 4710,
+  "cartId": "17fb1e1d-7395-4862-b845-0173f4e28298",
+  "preferredProducts": [
+    1033,
+    767,
+    4660,
+    349,
+    3286,
+    585,
+    97,
+    1057
+  ],
+  "productReviews": [
+    {
+      "productId": 3124,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-01-26T05:07:37.1361454+02:00"
+    },
+    {
+      "productId": 4591,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-09-15T00:55:26.1621315+03:00"
+    }
+  ]
+}

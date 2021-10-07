@@ -1,0 +1,36 @@
+{
+  "userId": 5320,
+  "cartId": "9fa6a402-f52a-4fb9-8e65-a5cee2f85265",
+  "preferredProducts": [
+    2390,
+    1441,
+    1688,
+    543,
+    3153,
+    3507,
+    3971,
+    1814
+  ],
+  "productReviews": [
+    {
+      "productId": 2290,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-08-06T17:10:43.4490328+03:00"
+    },
+    {
+      "productId": 2806,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-04-12T03:15:14.0690575+03:00"
+    },
+    {
+      "productId": 4038,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-08-26T08:40:22.5912282+03:00"
+    },
+    {
+      "productId": 4690,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-10-09T16:25:21.8035981+03:00"
+    }
+  ]
+}

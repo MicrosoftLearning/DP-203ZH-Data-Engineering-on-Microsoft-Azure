@@ -1,0 +1,32 @@
+{
+  "userId": 10081,
+  "cartId": "b975f6de-ef2d-4533-89f2-fbeb4fee5149",
+  "preferredProducts": [
+    2089,
+    2200,
+    4930,
+    1711,
+    4340,
+    2658,
+    1155,
+    3114,
+    2398
+  ],
+  "productReviews": [
+    {
+      "productId": 2409,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-05-22T02:57:11.8407639+03:00"
+    },
+    {
+      "productId": 2924,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-07-31T08:37:29.9474536+03:00"
+    },
+    {
+      "productId": 2491,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-05-09T16:59:25.6016676+03:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 5230,
+  "cartId": "229245c8-2b1b-40df-b33e-a8e70e45b0ad",
+  "preferredProducts": [
+    2145,
+    4187,
+    3597,
+    3302,
+    1455,
+    3172
+  ],
+  "productReviews": [
+    {
+      "productId": 3428,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-11-21T10:47:55.1904555+02:00"
+    },
+    {
+      "productId": 687,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-02-29T23:37:35.5830194+02:00"
+    },
+    {
+      "productId": 3035,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-06-09T19:59:26.8504703+03:00"
+    },
+    {
+      "productId": 1300,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-12-26T16:45:20.3151287+02:00"
+    },
+    {
+      "productId": 376,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-07-14T14:01:58.9244362+03:00"
+    }
+  ]
+}

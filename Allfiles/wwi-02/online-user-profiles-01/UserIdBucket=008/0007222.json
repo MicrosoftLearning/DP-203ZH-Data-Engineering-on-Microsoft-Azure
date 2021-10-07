@@ -1,0 +1,21 @@
+{
+  "userId": 7222,
+  "cartId": "97f5a075-04d7-473b-b1f8-0868e5fe7d07",
+  "preferredProducts": [
+    2122,
+    4807,
+    2146
+  ],
+  "productReviews": [
+    {
+      "productId": 3001,
+      "reviewText": "This Tasty Plastic Car works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-10-11T21:45:37.7750511+03:00"
+    },
+    {
+      "productId": 4805,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-06-12T21:41:45.1521461+03:00"
+    }
+  ]
+}

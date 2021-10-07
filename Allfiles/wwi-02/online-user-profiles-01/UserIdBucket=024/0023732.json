@@ -1,0 +1,29 @@
+{
+  "userId": 23732,
+  "cartId": "62d5c407-56d0-42d4-9ed4-9a7e61da46a5",
+  "preferredProducts": [
+    4427,
+    1240,
+    4216,
+    4219,
+    2259,
+    3414
+  ],
+  "productReviews": [
+    {
+      "productId": 3479,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-05-10T19:56:43.0215846+03:00"
+    },
+    {
+      "productId": 4653,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-01-03T16:56:38.6927332+02:00"
+    },
+    {
+      "productId": 469,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-03-22T06:57:07.0769696+02:00"
+    }
+  ]
+}

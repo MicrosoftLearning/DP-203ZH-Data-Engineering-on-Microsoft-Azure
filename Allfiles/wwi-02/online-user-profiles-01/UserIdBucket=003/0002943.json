@@ -1,0 +1,40 @@
+{
+  "userId": 2943,
+  "cartId": "9071654c-bfbe-4abb-9bca-5e8383c022ba",
+  "preferredProducts": [
+    2100,
+    4155,
+    2390,
+    3034,
+    4985,
+    817,
+    4413
+  ],
+  "productReviews": [
+    {
+      "productId": 521,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-07-16T13:37:51.0289105+03:00"
+    },
+    {
+      "productId": 4185,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-10-07T12:27:42.5599383+03:00"
+    },
+    {
+      "productId": 3957,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-11-04T15:42:58.7962974+02:00"
+    },
+    {
+      "productId": 4012,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-02-21T14:19:22.5468609+02:00"
+    },
+    {
+      "productId": 3988,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-02-22T01:22:41.8990243+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 5423,
+  "cartId": "8aeb2e35-f2b7-465a-819d-beea7135627c",
+  "preferredProducts": [
+    4275,
+    838,
+    4849,
+    2473,
+    2191,
+    3423,
+    4941,
+    2008,
+    3
+  ],
+  "productReviews": [
+    {
+      "productId": 4015,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-07-15T13:49:18.8955351+03:00"
+    },
+    {
+      "productId": 1001,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-03-21T10:02:17.4886519+02:00"
+    }
+  ]
+}

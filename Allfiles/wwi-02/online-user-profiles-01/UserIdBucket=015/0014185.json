@@ -1,0 +1,28 @@
+{
+  "userId": 14185,
+  "cartId": "132ed854-c7d2-4a16-8f01-321d67d491b0",
+  "preferredProducts": [
+    3814,
+    2975,
+    3690,
+    4210,
+    3060
+  ],
+  "productReviews": [
+    {
+      "productId": 1871,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-06-19T16:29:40.7206079+03:00"
+    },
+    {
+      "productId": 1173,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-01-31T07:01:47.0513084+02:00"
+    },
+    {
+      "productId": 3267,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-02-09T02:09:25.8144469+02:00"
+    }
+  ]
+}

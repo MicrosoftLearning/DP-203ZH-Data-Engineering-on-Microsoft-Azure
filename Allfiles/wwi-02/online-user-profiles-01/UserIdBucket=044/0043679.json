@@ -1,0 +1,30 @@
+{
+  "userId": 43679,
+  "cartId": "cd4c7d16-d29e-43f6-af78-42349b9b86ee",
+  "preferredProducts": [
+    2292,
+    4937
+  ],
+  "productReviews": [
+    {
+      "productId": 889,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-08-16T01:40:55.872958+03:00"
+    },
+    {
+      "productId": 3597,
+      "reviewText": "This Optional works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2016-12-07T00:12:00.1417766+02:00"
+    },
+    {
+      "productId": 3020,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-07-01T06:42:28.6403022+03:00"
+    },
+    {
+      "productId": 4353,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-06-11T01:57:36.8076372+03:00"
+    }
+  ]
+}

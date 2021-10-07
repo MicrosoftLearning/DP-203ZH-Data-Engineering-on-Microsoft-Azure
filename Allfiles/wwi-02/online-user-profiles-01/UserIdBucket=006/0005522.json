@@ -1,0 +1,42 @@
+{
+  "userId": 5522,
+  "cartId": "65c33ab7-8cf2-4a52-9089-ae44be6c79a8",
+  "preferredProducts": [
+    3870,
+    3739,
+    2459,
+    2644,
+    2045,
+    3943,
+    701,
+    2722,
+    3493
+  ],
+  "productReviews": [
+    {
+      "productId": 3186,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-08-30T20:16:53.9155745+03:00"
+    },
+    {
+      "productId": 4711,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-12-11T13:08:01.5547607+02:00"
+    },
+    {
+      "productId": 437,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-05-12T06:49:49.2276669+03:00"
+    },
+    {
+      "productId": 1530,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-07-11T18:56:47.8184193+03:00"
+    },
+    {
+      "productId": 4445,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-06-24T04:05:33.1562443+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 66008,
+  "cartId": "b2f45d36-46f5-4d85-9db3-514d9a6417da",
+  "preferredProducts": [
+    3057,
+    2574,
+    3725,
+    911,
+    855,
+    230,
+    826,
+    4913
+  ],
+  "productReviews": [
+    {
+      "productId": 2257,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-08-08T06:26:32.0888251+03:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-03-28T01:12:36.56818+03:00"
+    },
+    {
+      "productId": 1682,
+      "reviewText": "This cross-platform works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-02-27T07:25:22.4943144+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 73264,
+  "cartId": "7c0d1955-071b-42c7-a78c-0d9045ea3610",
+  "preferredProducts": [
+    73,
+    1135,
+    3334,
+    697,
+    3880,
+    1235
+  ],
+  "productReviews": [
+    {
+      "productId": 1456,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2020-02-04T02:20:05.1826255+02:00"
+    },
+    {
+      "productId": 4300,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-02-01T02:00:50.0838491+02:00"
+    }
+  ]
+}

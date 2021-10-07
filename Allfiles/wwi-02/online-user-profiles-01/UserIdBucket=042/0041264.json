@@ -1,0 +1,24 @@
+{
+  "userId": 41264,
+  "cartId": "0e7597d5-26ad-4604-b11f-0bd656e3af0b",
+  "preferredProducts": [
+    1983,
+    28,
+    2894,
+    4035,
+    1696,
+    4318
+  ],
+  "productReviews": [
+    {
+      "productId": 1712,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-09-23T11:52:51.3418563+03:00"
+    },
+    {
+      "productId": 3336,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-09-14T20:28:08.5181389+03:00"
+    }
+  ]
+}

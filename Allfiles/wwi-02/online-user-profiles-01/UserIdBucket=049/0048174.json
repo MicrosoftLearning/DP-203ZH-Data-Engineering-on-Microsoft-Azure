@@ -1,0 +1,27 @@
+{
+  "userId": 48174,
+  "cartId": "d8205da0-61ba-4cb8-a153-e14a6a8a7004",
+  "preferredProducts": [
+    1239,
+    4015,
+    1727,
+    2750
+  ],
+  "productReviews": [
+    {
+      "productId": 4669,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-11-27T23:51:23.8017258+02:00"
+    },
+    {
+      "productId": 747,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-11-10T04:28:34.5077149+02:00"
+    },
+    {
+      "productId": 589,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-02-05T05:14:30.3725542+02:00"
+    }
+  ]
+}

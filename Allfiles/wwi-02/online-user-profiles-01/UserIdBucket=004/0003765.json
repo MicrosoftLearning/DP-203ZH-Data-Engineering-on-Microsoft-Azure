@@ -1,0 +1,36 @@
+{
+  "userId": 3765,
+  "cartId": "dc819d7b-69e7-4d38-8837-4f398d9b1e30",
+  "preferredProducts": [
+    3885,
+    2739,
+    2578,
+    4002,
+    1161,
+    2606,
+    2472,
+    4151
+  ],
+  "productReviews": [
+    {
+      "productId": 2381,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-10-12T17:36:21.2646561+03:00"
+    },
+    {
+      "productId": 1713,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-12-08T22:53:43.9963084+02:00"
+    },
+    {
+      "productId": 3416,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-07-22T17:25:31.9651526+03:00"
+    },
+    {
+      "productId": 3683,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-11-10T10:59:15.9173258+02:00"
+    }
+  ]
+}

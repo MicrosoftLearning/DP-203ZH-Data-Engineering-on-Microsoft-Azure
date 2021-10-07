@@ -1,0 +1,27 @@
+{
+  "userId": 5951,
+  "cartId": "9556ef30-625d-48cb-893e-163cef0cffed",
+  "preferredProducts": [
+    702,
+    320,
+    1491,
+    233
+  ],
+  "productReviews": [
+    {
+      "productId": 881,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-06-11T06:10:01.5492751+03:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "this Avon is ratty.",
+      "reviewDate": "2020-01-11T12:48:48.4354064+02:00"
+    },
+    {
+      "productId": 4843,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-09-27T14:27:49.5936921+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 97043,
+  "cartId": "2fb39a6a-d0e7-407e-bf74-0bcb512741d7",
+  "preferredProducts": [
+    1243,
+    314,
+    2232,
+    2589,
+    1059
+  ],
+  "productReviews": [
+    {
+      "productId": 1657,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-04-01T16:15:14.6062491+03:00"
+    },
+    {
+      "productId": 4000,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-03-17T10:44:23.1222199+02:00"
+    },
+    {
+      "productId": 3181,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-02-13T17:54:29.1238048+02:00"
+    },
+    {
+      "productId": 2203,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-07-27T05:23:54.9372361+03:00"
+    }
+  ]
+}

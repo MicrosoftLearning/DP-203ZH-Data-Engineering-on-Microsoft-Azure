@@ -1,0 +1,38 @@
+{
+  "userId": 16560,
+  "cartId": "5eee760b-c32d-4952-9aa2-edb6f36be265",
+  "preferredProducts": [
+    4480,
+    3393,
+    1456,
+    4533,
+    512,
+    2738,
+    70,
+    3176,
+    358,
+    2456
+  ],
+  "productReviews": [
+    {
+      "productId": 3952,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-03-15T17:14:38.4262851+02:00"
+    },
+    {
+      "productId": 864,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-05-06T05:42:07.0246701+03:00"
+    },
+    {
+      "productId": 534,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-07-09T16:46:12.6714543+03:00"
+    },
+    {
+      "productId": 619,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-02-27T15:36:02.5632911+02:00"
+    }
+  ]
+}

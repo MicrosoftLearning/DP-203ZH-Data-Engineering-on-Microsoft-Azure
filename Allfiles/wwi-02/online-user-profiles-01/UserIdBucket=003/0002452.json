@@ -1,0 +1,43 @@
+{
+  "userId": 2452,
+  "cartId": "3f3894ac-5e26-4e82-bfd7-c1c623fdb7d4",
+  "preferredProducts": [
+    112,
+    4899,
+    858,
+    1557,
+    1264,
+    2959,
+    4031,
+    2903,
+    2842,
+    2306
+  ],
+  "productReviews": [
+    {
+      "productId": 35,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-11-15T09:32:04.316472+02:00"
+    },
+    {
+      "productId": 2218,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-02-05T21:48:13.299418+02:00"
+    },
+    {
+      "productId": 3173,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-08-11T07:30:48.0433361+03:00"
+    },
+    {
+      "productId": 1202,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-11-24T12:00:28.561458+02:00"
+    },
+    {
+      "productId": 1542,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-01-19T08:02:25.8823359+02:00"
+    }
+  ]
+}

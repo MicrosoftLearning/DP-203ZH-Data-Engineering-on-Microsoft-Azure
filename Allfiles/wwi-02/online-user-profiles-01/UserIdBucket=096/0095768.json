@@ -1,0 +1,38 @@
+{
+  "userId": 95768,
+  "cartId": "aab76efb-f6b7-433d-87ee-ef4ed4afb94d",
+  "preferredProducts": [
+    1301,
+    2560,
+    4061,
+    2140,
+    947,
+    4726,
+    469,
+    3781,
+    2102,
+    3451
+  ],
+  "productReviews": [
+    {
+      "productId": 2189,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-05-19T07:27:34.1829507+03:00"
+    },
+    {
+      "productId": 3364,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-01-26T01:29:17.4096291+02:00"
+    },
+    {
+      "productId": 2275,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-04-30T22:31:09.8630113+03:00"
+    },
+    {
+      "productId": 4151,
+      "reviewText": "This Trail works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-04-02T22:14:47.6127397+03:00"
+    }
+  ]
+}

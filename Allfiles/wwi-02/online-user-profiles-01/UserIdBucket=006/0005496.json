@@ -1,0 +1,36 @@
+{
+  "userId": 5496,
+  "cartId": "c3ad483d-76b4-4385-b80d-63da2323d304",
+  "preferredProducts": [
+    3960,
+    3696,
+    110,
+    431,
+    1812,
+    1871,
+    1583,
+    4559
+  ],
+  "productReviews": [
+    {
+      "productId": 3271,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-11-21T05:10:34.113992+02:00"
+    },
+    {
+      "productId": 3163,
+      "reviewText": "this Awesome is whole-grain.",
+      "reviewDate": "2019-12-29T07:52:43.7349411+02:00"
+    },
+    {
+      "productId": 4913,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-04-03T08:20:25.326739+03:00"
+    },
+    {
+      "productId": 3775,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-07-14T10:40:10.7494574+03:00"
+    }
+  ]
+}

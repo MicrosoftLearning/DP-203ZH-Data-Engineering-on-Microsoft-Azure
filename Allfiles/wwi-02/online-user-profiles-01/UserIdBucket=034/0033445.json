@@ -1,0 +1,25 @@
+{
+  "userId": 33445,
+  "cartId": "721f44be-c56b-4707-bf4e-817c6b67c97b",
+  "preferredProducts": [
+    93,
+    4652
+  ],
+  "productReviews": [
+    {
+      "productId": 4201,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-01-23T14:07:47.5820382+02:00"
+    },
+    {
+      "productId": 4056,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-05-11T05:11:59.3246759+03:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-12-04T05:30:40.597706+02:00"
+    }
+  ]
+}

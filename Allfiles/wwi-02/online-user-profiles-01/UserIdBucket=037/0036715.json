@@ -1,0 +1,32 @@
+{
+  "userId": 36715,
+  "cartId": "f0ba8250-3583-4d0d-bbc5-58bd1e2cd5d4",
+  "preferredProducts": [
+    4356,
+    4486,
+    2101,
+    985,
+    308,
+    870,
+    4947,
+    1077,
+    129
+  ],
+  "productReviews": [
+    {
+      "productId": 1233,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-09-19T09:34:37.2623175+03:00"
+    },
+    {
+      "productId": 2883,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-08-17T15:12:29.1170558+03:00"
+    },
+    {
+      "productId": 830,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-10-23T16:26:52.9894094+03:00"
+    }
+  ]
+}

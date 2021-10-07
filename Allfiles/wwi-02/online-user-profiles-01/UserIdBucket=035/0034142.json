@@ -1,0 +1,29 @@
+{
+  "userId": 34142,
+  "cartId": "9f2e76f8-d9b5-44fe-9aa9-7ca8348b36de",
+  "preferredProducts": [
+    3276,
+    3452,
+    823,
+    529,
+    884,
+    3255
+  ],
+  "productReviews": [
+    {
+      "productId": 2597,
+      "reviewText": "this Inverse is standard.",
+      "reviewDate": "2018-01-05T19:25:03.4867062+02:00"
+    },
+    {
+      "productId": 4811,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-07-07T03:53:36.2315842+03:00"
+    },
+    {
+      "productId": 4815,
+      "reviewText": "this Granite is mellow.",
+      "reviewDate": "2017-08-27T20:35:08.3419668+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 10655,
+  "cartId": "492c92ab-4888-470b-8019-44cd7896f025",
+  "preferredProducts": [
+    723,
+    2037,
+    3505
+  ],
+  "productReviews": [
+    {
+      "productId": 3084,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-01-19T10:15:57.8018104+02:00"
+    },
+    {
+      "productId": 3863,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-09-17T11:21:37.136803+03:00"
+    },
+    {
+      "productId": 2358,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-04-15T11:34:37.2056002+03:00"
+    }
+  ]
+}

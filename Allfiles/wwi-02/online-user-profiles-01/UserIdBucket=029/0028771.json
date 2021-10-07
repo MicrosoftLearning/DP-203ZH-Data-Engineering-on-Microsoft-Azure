@@ -1,0 +1,25 @@
+{
+  "userId": 28771,
+  "cartId": "5e4e3df6-f859-4f41-b85b-55b764f89546",
+  "preferredProducts": [
+    2351,
+    79
+  ],
+  "productReviews": [
+    {
+      "productId": 1651,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-12-14T17:23:50.2349103+02:00"
+    },
+    {
+      "productId": 2435,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-04-12T13:53:15.8886013+03:00"
+    },
+    {
+      "productId": 2440,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2017-10-12T08:20:57.1127793+03:00"
+    }
+  ]
+}

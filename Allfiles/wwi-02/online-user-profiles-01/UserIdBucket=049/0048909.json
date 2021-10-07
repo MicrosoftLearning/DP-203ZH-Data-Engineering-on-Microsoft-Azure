@@ -1,0 +1,33 @@
+{
+  "userId": 48909,
+  "cartId": "0b59fa01-31c0-4627-a412-31baa12179d5",
+  "preferredProducts": [
+    2082,
+    362,
+    350,
+    361,
+    4269,
+    2465,
+    2327,
+    984,
+    4964,
+    779
+  ],
+  "productReviews": [
+    {
+      "productId": 3580,
+      "reviewText": "this mesh is brown.",
+      "reviewDate": "2017-03-11T07:35:19.1627657+02:00"
+    },
+    {
+      "productId": 4835,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2016-05-18T05:17:45.844957+03:00"
+    },
+    {
+      "productId": 2334,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-09-09T01:18:27.5788802+03:00"
+    }
+  ]
+}

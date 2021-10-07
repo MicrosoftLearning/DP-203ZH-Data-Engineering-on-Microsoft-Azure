@@ -1,0 +1,42 @@
+{
+  "userId": 88389,
+  "cartId": "7d8cbaff-5a35-4bae-8ea6-fe475c9466cf",
+  "preferredProducts": [
+    1205,
+    1799,
+    210,
+    375,
+    822,
+    354,
+    2251,
+    1049,
+    3528
+  ],
+  "productReviews": [
+    {
+      "productId": 237,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-02-27T01:04:27.8217776+02:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-12-23T00:49:40.6381084+02:00"
+    },
+    {
+      "productId": 2366,
+      "reviewText": "this Cordoba Oro is whole-grain.",
+      "reviewDate": "2018-08-07T20:28:59.7727126+03:00"
+    },
+    {
+      "productId": 279,
+      "reviewText": "This Wyoming works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2019-06-11T09:23:12.8763175+03:00"
+    },
+    {
+      "productId": 3199,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-11-24T12:54:26.3626443+02:00"
+    }
+  ]
+}

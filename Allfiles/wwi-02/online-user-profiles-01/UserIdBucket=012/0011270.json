@@ -1,0 +1,36 @@
+{
+  "userId": 11270,
+  "cartId": "1c3498e9-9d3b-4a0e-8113-f3b6f9b23e6e",
+  "preferredProducts": [
+    4413,
+    1882,
+    2653
+  ],
+  "productReviews": [
+    {
+      "productId": 3943,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-05-05T05:31:15.8060733+03:00"
+    },
+    {
+      "productId": 4284,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-09-08T15:48:27.8559339+03:00"
+    },
+    {
+      "productId": 3443,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-02-02T22:35:11.5725854+02:00"
+    },
+    {
+      "productId": 2813,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-12-30T00:07:34.4646751+02:00"
+    },
+    {
+      "productId": 3343,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-12-21T18:38:31.0325515+02:00"
+    }
+  ]
+}

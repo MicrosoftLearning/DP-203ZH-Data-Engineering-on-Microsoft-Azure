@@ -1,0 +1,33 @@
+{
+  "userId": 69320,
+  "cartId": "014e92da-8bc9-42f3-87a9-c95c2fd49784",
+  "preferredProducts": [
+    4310,
+    4470,
+    952,
+    3252,
+    3127,
+    3094,
+    907,
+    2387,
+    2113,
+    2933
+  ],
+  "productReviews": [
+    {
+      "productId": 1658,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-08-09T03:32:24.1122747+03:00"
+    },
+    {
+      "productId": 3437,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-06-15T21:37:30.4318878+03:00"
+    },
+    {
+      "productId": 590,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-10-18T20:21:20.8461375+03:00"
+    }
+  ]
+}

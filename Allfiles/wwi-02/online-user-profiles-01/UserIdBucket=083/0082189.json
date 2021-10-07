@@ -1,0 +1,33 @@
+{
+  "userId": 82189,
+  "cartId": "8b0a45eb-7dfd-4db6-a4e4-85fa8d109f32",
+  "preferredProducts": [
+    649,
+    1150,
+    4570,
+    1896,
+    2065
+  ],
+  "productReviews": [
+    {
+      "productId": 1203,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-03-04T05:41:07.2108285+02:00"
+    },
+    {
+      "productId": 196,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-08-22T22:10:02.628848+03:00"
+    },
+    {
+      "productId": 3272,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-12-04T16:04:28.527175+02:00"
+    },
+    {
+      "productId": 1562,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-01-14T20:06:41.0702772+02:00"
+    }
+  ]
+}

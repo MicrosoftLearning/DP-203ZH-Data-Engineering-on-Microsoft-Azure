@@ -1,0 +1,23 @@
+{
+  "userId": 1025,
+  "cartId": "60cdbff9-80df-44d7-8b76-804bfc89aeac",
+  "preferredProducts": [
+    3055,
+    463,
+    4473,
+    3634,
+    4219
+  ],
+  "productReviews": [
+    {
+      "productId": 3306,
+      "reviewText": "this Handmade is light-hearted.",
+      "reviewDate": "2019-02-16T09:36:39.845978+02:00"
+    },
+    {
+      "productId": 2210,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-03-02T09:42:39.1130381+02:00"
+    }
+  ]
+}

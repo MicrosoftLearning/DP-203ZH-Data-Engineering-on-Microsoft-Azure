@@ -1,0 +1,33 @@
+{
+  "userId": 44993,
+  "cartId": "ea02c4d7-63d9-49d7-bec1-101a52acba9b",
+  "preferredProducts": [
+    3373,
+    2478,
+    2907,
+    2612,
+    2673
+  ],
+  "productReviews": [
+    {
+      "productId": 2135,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-04-11T00:50:33.928165+03:00"
+    },
+    {
+      "productId": 1226,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-09-10T10:17:51.1423442+03:00"
+    },
+    {
+      "productId": 1992,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-04-07T20:58:01.6814035+03:00"
+    },
+    {
+      "productId": 691,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-10-04T13:23:41.565686+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 42135,
+  "cartId": "32c5a004-2bcd-4da4-a3a5-2c5111f2dac2",
+  "preferredProducts": [
+    2017,
+    4276,
+    3817
+  ],
+  "productReviews": [
+    {
+      "productId": 3793,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-04-07T13:12:36.9729481+03:00"
+    },
+    {
+      "productId": 4059,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-11-15T10:08:16.1366353+02:00"
+    },
+    {
+      "productId": 3957,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-11-23T01:47:49.2616372+02:00"
+    },
+    {
+      "productId": 3437,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-10-16T14:26:49.1090792+03:00"
+    },
+    {
+      "productId": 3874,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-12-21T13:52:49.6436598+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 28483,
+  "cartId": "95fe1744-8016-42cf-a175-f945f274075b",
+  "preferredProducts": [
+    1032,
+    2057,
+    1499,
+    4646,
+    4349
+  ],
+  "productReviews": [
+    {
+      "productId": 2245,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-03-30T13:49:09.779367+02:00"
+    },
+    {
+      "productId": 4861,
+      "reviewText": "this Underpass is light-hearted.",
+      "reviewDate": "2019-07-25T21:18:28.3331399+03:00"
+    },
+    {
+      "productId": 1396,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-05-26T03:52:00.6586535+03:00"
+    },
+    {
+      "productId": 490,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-11-15T00:23:20.1045754+02:00"
+    }
+  ]
+}

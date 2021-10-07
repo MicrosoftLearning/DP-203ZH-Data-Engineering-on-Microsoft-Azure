@@ -1,0 +1,41 @@
+{
+  "userId": 98411,
+  "cartId": "1df218a3-9a05-4b43-8e7e-899b2a8ab685",
+  "preferredProducts": [
+    4606,
+    4045,
+    1109,
+    2532,
+    935,
+    2218,
+    2835,
+    2787
+  ],
+  "productReviews": [
+    {
+      "productId": 4871,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-10-03T07:36:25.0864598+03:00"
+    },
+    {
+      "productId": 4068,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-02-21T22:41:33.2816827+02:00"
+    },
+    {
+      "productId": 4282,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-10-09T09:29:08.3804674+03:00"
+    },
+    {
+      "productId": 3082,
+      "reviewText": "this front-end is nifty.",
+      "reviewDate": "2016-11-22T17:20:31.4314302+02:00"
+    },
+    {
+      "productId": 4745,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2018-09-26T22:13:19.032555+03:00"
+    }
+  ]
+}

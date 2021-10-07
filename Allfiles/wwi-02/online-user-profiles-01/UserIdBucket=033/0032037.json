@@ -1,0 +1,27 @@
+{
+  "userId": 32037,
+  "cartId": "d68f220e-2c88-47f7-8da6-778a5d1d2372",
+  "preferredProducts": [
+    3332,
+    4088,
+    2904,
+    3408
+  ],
+  "productReviews": [
+    {
+      "productId": 3067,
+      "reviewText": "this reintermediate is brown.",
+      "reviewDate": "2020-01-31T18:18:36.4390955+02:00"
+    },
+    {
+      "productId": 3323,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-03-13T21:11:51.5700509+02:00"
+    },
+    {
+      "productId": 1731,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-01-05T02:10:43.2329699+02:00"
+    }
+  ]
+}

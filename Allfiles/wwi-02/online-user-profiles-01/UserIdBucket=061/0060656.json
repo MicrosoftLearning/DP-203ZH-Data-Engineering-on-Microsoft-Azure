@@ -1,0 +1,37 @@
+{
+  "userId": 60656,
+  "cartId": "9b21aaaa-afcc-4d23-8ffd-8d1cc55fd250",
+  "preferredProducts": [
+    3134,
+    1177,
+    2302,
+    4510,
+    1550,
+    1969,
+    1932,
+    164,
+    2246
+  ],
+  "productReviews": [
+    {
+      "productId": 2567,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-08-24T01:09:05.0973698+03:00"
+    },
+    {
+      "productId": 1299,
+      "reviewText": "this Sleek Frozen Pizza is vertical.",
+      "reviewDate": "2018-01-19T19:21:28.3539648+02:00"
+    },
+    {
+      "productId": 563,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-02-27T04:14:11.6024839+02:00"
+    },
+    {
+      "productId": 378,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-06-11T11:35:59.2273005+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 76543,
+  "cartId": "449c8707-0233-4434-a467-8060ee9fdb49",
+  "preferredProducts": [
+    470,
+    651,
+    3657,
+    4447,
+    2309
+  ],
+  "productReviews": [
+    {
+      "productId": 282,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-10-07T07:37:24.4799361+03:00"
+    },
+    {
+      "productId": 511,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-04-04T23:01:57.7635157+03:00"
+    }
+  ]
+}

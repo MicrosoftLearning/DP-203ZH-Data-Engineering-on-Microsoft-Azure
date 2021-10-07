@@ -1,0 +1,33 @@
+{
+  "userId": 63756,
+  "cartId": "40b414c3-5051-4ca1-94da-18975eb7afae",
+  "preferredProducts": [
+    3007,
+    3508,
+    2355,
+    3860,
+    1224,
+    652,
+    2649,
+    3287,
+    4124,
+    154
+  ],
+  "productReviews": [
+    {
+      "productId": 2203,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-06-25T16:50:08.5803023+03:00"
+    },
+    {
+      "productId": 70,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-08-30T08:49:39.1999584+03:00"
+    },
+    {
+      "productId": 2126,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-04-16T18:39:19.3704558+03:00"
+    }
+  ]
+}

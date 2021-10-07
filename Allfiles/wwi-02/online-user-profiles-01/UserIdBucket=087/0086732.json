@@ -1,0 +1,36 @@
+{
+  "userId": 86732,
+  "cartId": "4593c827-3108-4f23-ab5c-35180ba4eda4",
+  "preferredProducts": [
+    3670,
+    3900,
+    858,
+    4842,
+    2861,
+    423,
+    4165,
+    2242
+  ],
+  "productReviews": [
+    {
+      "productId": 2180,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-12-06T02:50:11.1683884+02:00"
+    },
+    {
+      "productId": 288,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-01-31T02:33:30.1070784+02:00"
+    },
+    {
+      "productId": 2492,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-07-18T02:41:16.9239828+03:00"
+    },
+    {
+      "productId": 4289,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-12-09T22:57:19.8148475+02:00"
+    }
+  ]
+}

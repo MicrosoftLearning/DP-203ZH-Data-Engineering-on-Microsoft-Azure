@@ -1,0 +1,36 @@
+{
+  "userId": 10128,
+  "cartId": "213a498c-23e1-4677-90a0-96e2b98d9839",
+  "preferredProducts": [
+    4429,
+    3131,
+    1289
+  ],
+  "productReviews": [
+    {
+      "productId": 3487,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-06-19T17:09:10.2654946+03:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-12-31T23:03:59.9149948+02:00"
+    },
+    {
+      "productId": 4400,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-08-29T22:48:16.697342+03:00"
+    },
+    {
+      "productId": 4288,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-07-27T07:03:59.2252708+03:00"
+    },
+    {
+      "productId": 2783,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-05-03T10:49:34.172545+03:00"
+    }
+  ]
+}

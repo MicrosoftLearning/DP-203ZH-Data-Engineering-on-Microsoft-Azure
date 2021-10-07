@@ -1,0 +1,37 @@
+{
+  "userId": 49273,
+  "cartId": "b3d084ec-901e-4568-b70e-011d847c9ad8",
+  "preferredProducts": [
+    1249,
+    3398,
+    3206,
+    4973,
+    4101,
+    2915,
+    4839,
+    4737,
+    1188
+  ],
+  "productReviews": [
+    {
+      "productId": 2460,
+      "reviewText": "this invoice is papery.",
+      "reviewDate": "2017-06-18T14:11:02.4850666+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-06-14T01:39:19.0148706+03:00"
+    },
+    {
+      "productId": 2711,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-06-29T14:50:35.6174087+03:00"
+    },
+    {
+      "productId": 3899,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-12-29T06:59:01.3916284+02:00"
+    }
+  ]
+}

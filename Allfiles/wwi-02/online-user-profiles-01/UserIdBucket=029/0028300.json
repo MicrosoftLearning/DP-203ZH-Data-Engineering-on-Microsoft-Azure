@@ -1,0 +1,32 @@
+{
+  "userId": 28300,
+  "cartId": "8c8eb225-3b01-464e-83a7-7789f8b503e0",
+  "preferredProducts": [
+    666,
+    4289,
+    751,
+    1069
+  ],
+  "productReviews": [
+    {
+      "productId": 1937,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-11-02T04:23:38.2336496+02:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "this parsing is vertical.",
+      "reviewDate": "2018-08-30T16:47:45.3435517+03:00"
+    },
+    {
+      "productId": 4019,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-09-16T19:03:34.5920949+03:00"
+    },
+    {
+      "productId": 3769,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-07-14T04:35:32.1478005+03:00"
+    }
+  ]
+}

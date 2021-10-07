@@ -1,0 +1,30 @@
+{
+  "userId": 4970,
+  "cartId": "36af5810-6ba6-4c24-86d6-8be26e1ef10f",
+  "preferredProducts": [
+    4742,
+    2975
+  ],
+  "productReviews": [
+    {
+      "productId": 4656,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-08-10T10:39:03.4575112+03:00"
+    },
+    {
+      "productId": 3137,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-08-15T12:36:55.1247421+03:00"
+    },
+    {
+      "productId": 1421,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-03-29T14:02:11.5039962+03:00"
+    },
+    {
+      "productId": 1192,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-04-22T11:01:41.8959874+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 12710,
+  "cartId": "1c558f07-e444-48e2-8fa1-b5312c38171c",
+  "preferredProducts": [
+    2486,
+    1988,
+    47,
+    4640,
+    4299,
+    4848
+  ],
+  "productReviews": [
+    {
+      "productId": 2628,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-12-08T16:31:06.2898817+02:00"
+    },
+    {
+      "productId": 4216,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-05-08T21:08:01.7428517+03:00"
+    },
+    {
+      "productId": 2886,
+      "reviewText": "this benchmark is hyper.",
+      "reviewDate": "2017-11-10T09:19:20.6117744+02:00"
+    }
+  ]
+}

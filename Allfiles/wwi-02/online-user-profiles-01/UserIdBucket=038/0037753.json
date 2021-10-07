@@ -1,0 +1,33 @@
+{
+  "userId": 37753,
+  "cartId": "28d34ae5-5637-417e-8743-fa38bd98424c",
+  "preferredProducts": [
+    4619,
+    127,
+    3181,
+    3068,
+    2007
+  ],
+  "productReviews": [
+    {
+      "productId": 48,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-18T14:13:04.9617159+02:00"
+    },
+    {
+      "productId": 1311,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-01-06T19:37:36.1209373+02:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-08-26T12:36:06.3716811+03:00"
+    },
+    {
+      "productId": 2803,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-04-02T21:38:40.3511913+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 454,
+  "cartId": "0c972a27-b194-48a2-ae17-eb26c5876baa",
+  "preferredProducts": [
+    2915,
+    2517
+  ],
+  "productReviews": [
+    {
+      "productId": 684,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-05-22T05:41:39.2993792+03:00"
+    },
+    {
+      "productId": 3491,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-12-26T09:58:22.5013856+02:00"
+    },
+    {
+      "productId": 2049,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-06-02T12:39:56.508036+03:00"
+    },
+    {
+      "productId": 4536,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-05-09T23:55:32.3458441+03:00"
+    },
+    {
+      "productId": 2954,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-31T15:01:08.1441311+03:00"
+    }
+  ]
+}

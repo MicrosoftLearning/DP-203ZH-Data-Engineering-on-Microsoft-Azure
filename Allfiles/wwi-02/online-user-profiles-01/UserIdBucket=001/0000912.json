@@ -1,0 +1,41 @@
+{
+  "userId": 912,
+  "cartId": "81d86054-0a4a-4f8a-8a22-70543108c5cc",
+  "preferredProducts": [
+    1628,
+    3800,
+    4573,
+    1013,
+    843,
+    4963,
+    3993,
+    2357
+  ],
+  "productReviews": [
+    {
+      "productId": 4335,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-05-09T07:44:43.4181655+03:00"
+    },
+    {
+      "productId": 516,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-03-06T22:56:00.9231974+02:00"
+    },
+    {
+      "productId": 4599,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-07-10T09:59:33.2473006+03:00"
+    },
+    {
+      "productId": 3266,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-06-08T22:18:54.5830085+03:00"
+    },
+    {
+      "productId": 3676,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-04-02T13:42:42.5018323+03:00"
+    }
+  ]
+}

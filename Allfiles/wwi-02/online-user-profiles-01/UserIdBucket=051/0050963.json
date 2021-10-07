@@ -1,0 +1,31 @@
+{
+  "userId": 50963,
+  "cartId": "12161757-a773-4dce-8939-acbefcc6aec2",
+  "preferredProducts": [
+    2755,
+    4244,
+    727
+  ],
+  "productReviews": [
+    {
+      "productId": 503,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-11-24T01:56:16.7275628+02:00"
+    },
+    {
+      "productId": 4837,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-12-29T02:35:41.6822387+02:00"
+    },
+    {
+      "productId": 676,
+      "reviewText": "works okay.",
+      "reviewDate": "2020-01-22T08:07:25.206359+02:00"
+    },
+    {
+      "productId": 641,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-07-25T23:12:17.178008+03:00"
+    }
+  ]
+}

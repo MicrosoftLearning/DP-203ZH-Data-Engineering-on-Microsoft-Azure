@@ -1,0 +1,39 @@
+{
+  "userId": 18777,
+  "cartId": "59cf0cac-8a2a-4f19-8d1b-903d04673194",
+  "preferredProducts": [
+    3417,
+    1745,
+    395,
+    3041,
+    606,
+    2370
+  ],
+  "productReviews": [
+    {
+      "productId": 1347,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-11-02T00:35:23.8705363+02:00"
+    },
+    {
+      "productId": 4514,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-03-20T00:07:28.9572012+02:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-02-04T16:21:00.8047159+02:00"
+    },
+    {
+      "productId": 3308,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-12-24T16:04:13.7277825+02:00"
+    },
+    {
+      "productId": 2556,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-07-19T22:53:44.7987463+03:00"
+    }
+  ]
+}

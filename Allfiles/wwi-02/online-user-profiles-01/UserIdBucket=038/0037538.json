@@ -1,0 +1,31 @@
+{
+  "userId": 37538,
+  "cartId": "5fd3a467-a71f-49fa-b23a-3a095a8cfb6c",
+  "preferredProducts": [
+    2503,
+    4763,
+    1153,
+    4957,
+    2153,
+    3875,
+    1558,
+    1001
+  ],
+  "productReviews": [
+    {
+      "productId": 4422,
+      "reviewText": "This auxiliary works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-11-21T08:59:00.1677894+02:00"
+    },
+    {
+      "productId": 1019,
+      "reviewText": "This Ports works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-06-11T02:26:59.5812329+03:00"
+    },
+    {
+      "productId": 1028,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-05-19T23:19:45.0914951+03:00"
+    }
+  ]
+}

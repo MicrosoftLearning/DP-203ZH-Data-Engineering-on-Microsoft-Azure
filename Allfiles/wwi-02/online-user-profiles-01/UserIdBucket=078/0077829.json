@@ -1,0 +1,42 @@
+{
+  "userId": 77829,
+  "cartId": "895faed9-f673-4bc1-8cb8-eea69551dc08",
+  "preferredProducts": [
+    4566,
+    2444,
+    520,
+    2049,
+    3167,
+    4087,
+    4705,
+    384,
+    4493
+  ],
+  "productReviews": [
+    {
+      "productId": 3590,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-21T08:12:25.2636903+02:00"
+    },
+    {
+      "productId": 2555,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-01-01T17:59:35.800646+02:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-08-23T09:10:29.7289727+03:00"
+    },
+    {
+      "productId": 4017,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-05-09T23:05:53.5896132+03:00"
+    },
+    {
+      "productId": 4548,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-12-21T07:10:02.034363+02:00"
+    }
+  ]
+}

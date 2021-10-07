@@ -1,0 +1,35 @@
+{
+  "userId": 67549,
+  "cartId": "cedbe91f-965a-446c-a8d1-270d6ad92c54",
+  "preferredProducts": [
+    2175,
+    3263
+  ],
+  "productReviews": [
+    {
+      "productId": 3786,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-01-24T17:35:08.7873984+02:00"
+    },
+    {
+      "productId": 3472,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-01-03T18:16:08.2939491+02:00"
+    },
+    {
+      "productId": 681,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-10-22T19:37:55.3583083+03:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-05-23T15:56:54.3222475+03:00"
+    },
+    {
+      "productId": 3063,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-06-30T02:22:00.1967655+03:00"
+    }
+  ]
+}

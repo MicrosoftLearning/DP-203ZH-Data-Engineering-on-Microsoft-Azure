@@ -1,0 +1,32 @@
+{
+  "userId": 21782,
+  "cartId": "8b7f5808-f2be-4c40-a847-8c7e9819049d",
+  "preferredProducts": [
+    2865,
+    903,
+    1454,
+    2313
+  ],
+  "productReviews": [
+    {
+      "productId": 4466,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-16T12:48:48.9253934+03:00"
+    },
+    {
+      "productId": 4411,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-01-13T23:36:32.8624397+02:00"
+    },
+    {
+      "productId": 1270,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-04-20T23:54:19.4454735+03:00"
+    },
+    {
+      "productId": 2244,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-06-28T15:24:38.2113768+03:00"
+    }
+  ]
+}

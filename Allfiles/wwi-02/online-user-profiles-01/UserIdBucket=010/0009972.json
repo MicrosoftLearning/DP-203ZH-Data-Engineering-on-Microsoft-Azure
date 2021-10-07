@@ -1,0 +1,32 @@
+{
+  "userId": 9972,
+  "cartId": "122a44d7-428c-4a3e-83bd-bb958c3a4442",
+  "preferredProducts": [
+    3458,
+    2588,
+    3400,
+    330
+  ],
+  "productReviews": [
+    {
+      "productId": 1567,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-04-23T09:21:52.7579189+03:00"
+    },
+    {
+      "productId": 2595,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-06-12T19:17:37.9656329+03:00"
+    },
+    {
+      "productId": 1504,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-09-23T02:22:53.4935598+03:00"
+    },
+    {
+      "productId": 4575,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-10-08T21:43:58.0719599+03:00"
+    }
+  ]
+}

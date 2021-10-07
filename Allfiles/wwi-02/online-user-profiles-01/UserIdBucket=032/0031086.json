@@ -1,0 +1,32 @@
+{
+  "userId": 31086,
+  "cartId": "5c0a9b52-52eb-4368-9478-12cd561d74e1",
+  "preferredProducts": [
+    768,
+    1623,
+    2462,
+    4181
+  ],
+  "productReviews": [
+    {
+      "productId": 124,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-12-10T18:13:52.5470754+02:00"
+    },
+    {
+      "productId": 1561,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-04-18T01:44:27.5119662+03:00"
+    },
+    {
+      "productId": 3110,
+      "reviewText": "This Games works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2018-02-22T18:20:14.6107389+02:00"
+    },
+    {
+      "productId": 3794,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-06-07T10:24:57.8985371+03:00"
+    }
+  ]
+}

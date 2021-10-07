@@ -1,0 +1,30 @@
+{
+  "userId": 61245,
+  "cartId": "84f18287-09a3-4cd7-8dec-cef283747697",
+  "preferredProducts": [
+    2157,
+    2450
+  ],
+  "productReviews": [
+    {
+      "productId": 4630,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-01-01T05:19:18.3399468+02:00"
+    },
+    {
+      "productId": 1580,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-04-08T17:10:50.1772528+03:00"
+    },
+    {
+      "productId": 4618,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-12-21T15:34:53.0900336+02:00"
+    },
+    {
+      "productId": 3154,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-08-16T08:39:39.7312515+03:00"
+    }
+  ]
+}

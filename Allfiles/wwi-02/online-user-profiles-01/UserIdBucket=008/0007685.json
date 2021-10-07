@@ -1,0 +1,35 @@
+{
+  "userId": 7685,
+  "cartId": "09518dbf-9e05-47c7-8faf-55c52a98b81e",
+  "preferredProducts": [
+    4706,
+    4423,
+    1971,
+    3165,
+    3369,
+    405,
+    2378
+  ],
+  "productReviews": [
+    {
+      "productId": 109,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-02-14T04:50:22.1942013+02:00"
+    },
+    {
+      "productId": 826,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2017-05-06T15:00:20.100726+03:00"
+    },
+    {
+      "productId": 2323,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2020-03-26T21:25:25.8193881+02:00"
+    },
+    {
+      "productId": 1804,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-02-12T14:24:50.1602017+02:00"
+    }
+  ]
+}

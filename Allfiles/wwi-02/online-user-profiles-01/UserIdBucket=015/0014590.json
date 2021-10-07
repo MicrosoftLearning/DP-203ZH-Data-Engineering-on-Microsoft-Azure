@@ -1,0 +1,22 @@
+{
+  "userId": 14590,
+  "cartId": "7bcd9245-bf1c-4ed4-9e10-d256cfc0e17a",
+  "preferredProducts": [
+    1277,
+    1042,
+    2789,
+    4772
+  ],
+  "productReviews": [
+    {
+      "productId": 3,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-12-15T10:28:37.4507611+02:00"
+    },
+    {
+      "productId": 3846,
+      "reviewText": "This lime works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2020-03-20T23:44:54.7027652+02:00"
+    }
+  ]
+}

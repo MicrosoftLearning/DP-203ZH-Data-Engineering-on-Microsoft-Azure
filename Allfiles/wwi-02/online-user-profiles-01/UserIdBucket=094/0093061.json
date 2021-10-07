@@ -1,0 +1,31 @@
+{
+  "userId": 93061,
+  "cartId": "0abc937f-b95a-40fd-b4e1-363520c2b915",
+  "preferredProducts": [
+    4301,
+    3232,
+    4599,
+    4229,
+    2880,
+    693,
+    4619,
+    2056
+  ],
+  "productReviews": [
+    {
+      "productId": 4878,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-01-07T23:36:05.7025986+02:00"
+    },
+    {
+      "productId": 2073,
+      "reviewText": "this markets is dominant.",
+      "reviewDate": "2020-01-10T22:12:57.522221+02:00"
+    },
+    {
+      "productId": 1055,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-01-20T02:20:03.1444925+02:00"
+    }
+  ]
+}

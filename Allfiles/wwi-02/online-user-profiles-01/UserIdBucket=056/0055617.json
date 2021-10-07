@@ -1,0 +1,30 @@
+{
+  "userId": 55617,
+  "cartId": "01db271e-b21c-4954-9c30-d2bdb9407d0c",
+  "preferredProducts": [
+    4087,
+    4497
+  ],
+  "productReviews": [
+    {
+      "productId": 3333,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-12-06T21:29:27.9333584+02:00"
+    },
+    {
+      "productId": 4175,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2016-05-19T23:44:12.1123771+03:00"
+    },
+    {
+      "productId": 2671,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-08-03T21:59:32.0515301+03:00"
+    },
+    {
+      "productId": 1138,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-04-15T22:04:15.4889073+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 82872,
+  "cartId": "8100db35-d67a-4d7c-aea8-c3b76d5ff843",
+  "preferredProducts": [
+    2941,
+    4011,
+    1371
+  ],
+  "productReviews": [
+    {
+      "productId": 1472,
+      "reviewText": "this web-enabled is ratty.",
+      "reviewDate": "2019-07-05T08:52:15.2691427+03:00"
+    },
+    {
+      "productId": 3454,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-02-06T17:51:03.7328007+02:00"
+    },
+    {
+      "productId": 1123,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-09-23T11:22:39.2550942+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 77447,
+  "cartId": "536f86e2-36ce-451b-9ed8-a935a7a92b52",
+  "preferredProducts": [
+    3097,
+    1135,
+    2913
+  ],
+  "productReviews": [
+    {
+      "productId": 4194,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-08-28T19:02:29.9260745+03:00"
+    },
+    {
+      "productId": 4549,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-08-30T12:25:00.0896028+03:00"
+    },
+    {
+      "productId": 88,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-03-17T21:47:42.756627+02:00"
+    },
+    {
+      "productId": 2631,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-06-14T08:23:18.04061+03:00"
+    }
+  ]
+}

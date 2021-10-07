@@ -1,0 +1,29 @@
+{
+  "userId": 98083,
+  "cartId": "a8456c98-a87b-4bab-9f24-bdd689173e9c",
+  "preferredProducts": [
+    1175,
+    262,
+    1630,
+    3628,
+    90,
+    77
+  ],
+  "productReviews": [
+    {
+      "productId": 878,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-03-05T19:47:45.7183185+02:00"
+    },
+    {
+      "productId": 1439,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-10-12T00:32:55.3650285+03:00"
+    },
+    {
+      "productId": 4610,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-02-12T10:32:15.511943+02:00"
+    }
+  ]
+}

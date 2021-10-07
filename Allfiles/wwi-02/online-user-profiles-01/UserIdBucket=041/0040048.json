@@ -1,0 +1,39 @@
+{
+  "userId": 40048,
+  "cartId": "7c537f3d-932e-4c00-bd14-58148eb5e7a3",
+  "preferredProducts": [
+    1073,
+    2289,
+    4075,
+    4092,
+    1146,
+    408
+  ],
+  "productReviews": [
+    {
+      "productId": 4600,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-09-27T11:51:15.5797591+03:00"
+    },
+    {
+      "productId": 2275,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-10-07T08:04:27.5886742+03:00"
+    },
+    {
+      "productId": 1559,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-03-02T17:15:50.1099377+02:00"
+    },
+    {
+      "productId": 4954,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-07-09T08:03:13.863335+03:00"
+    },
+    {
+      "productId": 515,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-04-09T12:27:19.3406249+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 66378,
+  "cartId": "48d99e4d-bdf7-4426-82fd-16d61c31d37b",
+  "preferredProducts": [
+    25,
+    1332,
+    4123,
+    4871,
+    2738
+  ],
+  "productReviews": [
+    {
+      "productId": 1287,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-12-27T13:08:20.3452155+02:00"
+    },
+    {
+      "productId": 1544,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-09-21T18:09:23.0514882+03:00"
+    },
+    {
+      "productId": 3293,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-05-25T07:33:13.1184597+03:00"
+    },
+    {
+      "productId": 4737,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-05-11T09:38:24.2174174+03:00"
+    },
+    {
+      "productId": 3415,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-03-22T04:35:22.442325+02:00"
+    }
+  ]
+}

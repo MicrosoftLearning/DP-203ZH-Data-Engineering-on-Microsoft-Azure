@@ -1,0 +1,38 @@
+{
+  "userId": 35854,
+  "cartId": "afa5c93d-5251-4ab3-a06b-411669917bb0",
+  "preferredProducts": [
+    4123,
+    2884,
+    3833,
+    2657,
+    373
+  ],
+  "productReviews": [
+    {
+      "productId": 1271,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-12-26T04:19:27.4027504+02:00"
+    },
+    {
+      "productId": 244,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-03-08T00:31:24.2807634+02:00"
+    },
+    {
+      "productId": 1028,
+      "reviewText": "This invoice works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-01-16T06:49:11.3907014+02:00"
+    },
+    {
+      "productId": 4854,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-08-10T21:59:00.3727237+03:00"
+    },
+    {
+      "productId": 4993,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-09-30T05:12:22.1652004+03:00"
+    }
+  ]
+}

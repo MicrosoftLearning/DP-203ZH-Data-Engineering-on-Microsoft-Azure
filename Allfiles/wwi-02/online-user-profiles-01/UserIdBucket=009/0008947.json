@@ -1,0 +1,31 @@
+{
+  "userId": 8947,
+  "cartId": "36086dd7-0a64-4aa4-bf6e-2b3587bfa62f",
+  "preferredProducts": [
+    2421,
+    4787,
+    2693
+  ],
+  "productReviews": [
+    {
+      "productId": 629,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-05-16T14:38:33.7212764+03:00"
+    },
+    {
+      "productId": 411,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-01-30T09:00:19.6123985+02:00"
+    },
+    {
+      "productId": 3111,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-02-24T22:24:02.0587773+02:00"
+    },
+    {
+      "productId": 1254,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-05-19T10:32:23.1328475+03:00"
+    }
+  ]
+}

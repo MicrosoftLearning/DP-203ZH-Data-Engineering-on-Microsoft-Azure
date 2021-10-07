@@ -1,0 +1,31 @@
+{
+  "userId": 52352,
+  "cartId": "5f8c24fc-05e8-4ad1-bc26-5cb4e45fe8a2",
+  "preferredProducts": [
+    4223,
+    3417,
+    3682
+  ],
+  "productReviews": [
+    {
+      "productId": 2704,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-07-16T09:07:02.9034578+03:00"
+    },
+    {
+      "productId": 3731,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2016-12-30T16:24:06.9187496+02:00"
+    },
+    {
+      "productId": 3004,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-07-25T19:26:43.2084745+03:00"
+    },
+    {
+      "productId": 4892,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-09-13T16:26:15.2077379+03:00"
+    }
+  ]
+}

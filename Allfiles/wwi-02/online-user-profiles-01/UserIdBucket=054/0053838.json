@@ -1,0 +1,38 @@
+{
+  "userId": 53838,
+  "cartId": "3f6dbbee-d4da-4f38-a436-78e6c99daa1b",
+  "preferredProducts": [
+    4000,
+    4141,
+    3888,
+    1539,
+    1964
+  ],
+  "productReviews": [
+    {
+      "productId": 2888,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-07-01T11:58:24.745971+03:00"
+    },
+    {
+      "productId": 4674,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2020-05-09T09:57:05.5711755+03:00"
+    },
+    {
+      "productId": 4705,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-07-08T04:37:23.0376402+03:00"
+    },
+    {
+      "productId": 3831,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-03-29T21:36:52.097278+03:00"
+    },
+    {
+      "productId": 2076,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-11-01T13:30:34.9769359+02:00"
+    }
+  ]
+}

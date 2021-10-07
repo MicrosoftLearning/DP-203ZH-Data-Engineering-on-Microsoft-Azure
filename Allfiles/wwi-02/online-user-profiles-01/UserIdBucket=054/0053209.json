@@ -1,0 +1,25 @@
+{
+  "userId": 53209,
+  "cartId": "4795508d-8d96-4f37-8e5e-b4be2c8577c0",
+  "preferredProducts": [
+    1548,
+    1299
+  ],
+  "productReviews": [
+    {
+      "productId": 4449,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-01-01T01:08:19.6765162+02:00"
+    },
+    {
+      "productId": 2336,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-08T13:24:05.5850792+02:00"
+    },
+    {
+      "productId": 2655,
+      "reviewText": "this Georgia is top-notch.",
+      "reviewDate": "2019-11-17T00:50:09.4290979+02:00"
+    }
+  ]
+}

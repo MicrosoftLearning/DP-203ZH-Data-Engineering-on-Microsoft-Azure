@@ -1,0 +1,30 @@
+{
+  "userId": 5337,
+  "cartId": "c9094aa0-2d22-41b9-a7b7-c7855834d2ae",
+  "preferredProducts": [
+    3994,
+    1162,
+    1087,
+    418,
+    2347,
+    154,
+    386
+  ],
+  "productReviews": [
+    {
+      "productId": 2822,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-06-15T20:33:28.8141795+03:00"
+    },
+    {
+      "productId": 1502,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-01-02T23:58:44.1521904+02:00"
+    },
+    {
+      "productId": 1279,
+      "reviewText": "this Producer is ghetto.",
+      "reviewDate": "2016-07-09T16:23:42.9842732+03:00"
+    }
+  ]
+}

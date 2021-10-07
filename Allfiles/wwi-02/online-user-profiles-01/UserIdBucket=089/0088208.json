@@ -1,0 +1,25 @@
+{
+  "userId": 88208,
+  "cartId": "1ef03054-e84b-45a3-9d3a-d19ce8300abf",
+  "preferredProducts": [
+    2005,
+    1573,
+    745,
+    2744,
+    2297,
+    3155,
+    1301
+  ],
+  "productReviews": [
+    {
+      "productId": 3488,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-02-03T20:12:19.7256587+02:00"
+    },
+    {
+      "productId": 133,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-06-11T05:17:36.9158788+03:00"
+    }
+  ]
+}

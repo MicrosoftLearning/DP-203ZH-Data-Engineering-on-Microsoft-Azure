@@ -1,0 +1,32 @@
+{
+  "userId": 97845,
+  "cartId": "f4eeae35-ce5c-4be3-bbfd-e160ae21a3e8",
+  "preferredProducts": [
+    1341,
+    2497,
+    3228,
+    1428
+  ],
+  "productReviews": [
+    {
+      "productId": 4666,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-10-16T07:21:11.4352333+03:00"
+    },
+    {
+      "productId": 4883,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-08-01T10:03:24.6644112+03:00"
+    },
+    {
+      "productId": 4573,
+      "reviewText": "this withdrawal is flirty.",
+      "reviewDate": "2018-09-14T18:27:09.5366972+03:00"
+    },
+    {
+      "productId": 3750,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2020-02-24T00:29:45.9296663+02:00"
+    }
+  ]
+}

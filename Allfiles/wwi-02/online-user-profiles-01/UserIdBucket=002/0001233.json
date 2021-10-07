@@ -1,0 +1,28 @@
+{
+  "userId": 1233,
+  "cartId": "3ab262cb-af74-4f47-bc8a-9136cf668b3f",
+  "preferredProducts": [
+    3699,
+    4052,
+    4501,
+    2268,
+    4059
+  ],
+  "productReviews": [
+    {
+      "productId": 3281,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-06-25T08:18:16.4485778+03:00"
+    },
+    {
+      "productId": 3225,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-12-12T13:35:36.3412267+02:00"
+    },
+    {
+      "productId": 2951,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-08-13T01:44:32.0741322+03:00"
+    }
+  ]
+}

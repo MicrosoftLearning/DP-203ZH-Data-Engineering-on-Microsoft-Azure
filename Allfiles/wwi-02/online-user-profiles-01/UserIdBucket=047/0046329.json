@@ -1,0 +1,31 @@
+{
+  "userId": 46329,
+  "cartId": "eb35365b-bd70-459c-ba8f-910e11a4b160",
+  "preferredProducts": [
+    4060,
+    1555,
+    1931,
+    1277,
+    232,
+    2144,
+    3661,
+    720
+  ],
+  "productReviews": [
+    {
+      "productId": 3064,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-05-12T05:03:46.3999823+03:00"
+    },
+    {
+      "productId": 641,
+      "reviewText": "this user-facing is nifty.",
+      "reviewDate": "2016-09-03T05:05:31.1943493+03:00"
+    },
+    {
+      "productId": 111,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-06-12T13:16:53.0172352+03:00"
+    }
+  ]
+}

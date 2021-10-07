@@ -1,0 +1,35 @@
+{
+  "userId": 54653,
+  "cartId": "9e7f82d7-c315-475d-9907-7355fff3ee6c",
+  "preferredProducts": [
+    256,
+    3280,
+    4345,
+    3506,
+    1646,
+    1357,
+    1828
+  ],
+  "productReviews": [
+    {
+      "productId": 1215,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-21T14:13:45.2873411+03:00"
+    },
+    {
+      "productId": 482,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-04-06T02:07:18.660386+03:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-10-04T04:08:56.9539145+03:00"
+    },
+    {
+      "productId": 4179,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-10-10T08:53:54.1356693+03:00"
+    }
+  ]
+}

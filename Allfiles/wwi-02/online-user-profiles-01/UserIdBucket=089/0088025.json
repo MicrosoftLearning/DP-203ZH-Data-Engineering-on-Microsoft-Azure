@@ -1,0 +1,36 @@
+{
+  "userId": 88025,
+  "cartId": "6468badf-42fd-4f7b-b3f0-d150dc78be96",
+  "preferredProducts": [
+    3752,
+    2322,
+    4177,
+    2986,
+    473,
+    1411,
+    1956,
+    1193
+  ],
+  "productReviews": [
+    {
+      "productId": 1557,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-01-20T06:44:47.6921937+02:00"
+    },
+    {
+      "productId": 95,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-01-10T06:00:02.7399525+02:00"
+    },
+    {
+      "productId": 2698,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-01-04T14:54:32.4985942+02:00"
+    },
+    {
+      "productId": 3570,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-04-06T08:25:47.3011033+03:00"
+    }
+  ]
+}

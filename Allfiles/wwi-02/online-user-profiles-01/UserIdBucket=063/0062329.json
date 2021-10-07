@@ -1,0 +1,33 @@
+{
+  "userId": 62329,
+  "cartId": "470c0f8b-b97e-4f74-a9b4-c78e66ed9b9c",
+  "preferredProducts": [
+    3109,
+    959,
+    2385,
+    2992,
+    1380,
+    4626,
+    2903,
+    4310,
+    1195,
+    3685
+  ],
+  "productReviews": [
+    {
+      "productId": 3635,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-11-01T20:23:51.2651932+02:00"
+    },
+    {
+      "productId": 2113,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-09-05T23:17:54.7688193+03:00"
+    },
+    {
+      "productId": 4539,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2020-03-03T08:44:50.1367836+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 34297,
+  "cartId": "e2727742-ad45-4cee-ae48-523cf5412ebf",
+  "preferredProducts": [
+    2765,
+    4548,
+    2225,
+    1272,
+    2523,
+    3372,
+    4524
+  ],
+  "productReviews": [
+    {
+      "productId": 4192,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-06T09:20:53.5865432+02:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-12-08T07:14:52.1716752+02:00"
+    },
+    {
+      "productId": 70,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2020-01-27T20:28:25.9751623+02:00"
+    }
+  ]
+}

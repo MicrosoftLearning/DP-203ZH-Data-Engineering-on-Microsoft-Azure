@@ -1,0 +1,25 @@
+{
+  "userId": 48999,
+  "cartId": "042ab12c-1323-4217-ae1a-9b500dc48f92",
+  "preferredProducts": [
+    926,
+    3248,
+    1835,
+    251,
+    4497,
+    4352,
+    2703
+  ],
+  "productReviews": [
+    {
+      "productId": 3100,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-09-01T07:02:22.0074955+03:00"
+    },
+    {
+      "productId": 2569,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-02-21T07:54:41.2118918+02:00"
+    }
+  ]
+}

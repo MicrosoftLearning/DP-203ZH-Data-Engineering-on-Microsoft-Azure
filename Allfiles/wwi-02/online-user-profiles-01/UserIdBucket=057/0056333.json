@@ -1,0 +1,31 @@
+{
+  "userId": 56333,
+  "cartId": "cb395c15-a807-435f-8826-4913faa66709",
+  "preferredProducts": [
+    2069,
+    1234,
+    3733,
+    1362,
+    4846,
+    4709,
+    4346,
+    2858
+  ],
+  "productReviews": [
+    {
+      "productId": 1839,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-03-29T12:15:49.9427914+03:00"
+    },
+    {
+      "productId": 3941,
+      "reviewText": "This system works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-10-18T06:01:57.6366654+03:00"
+    },
+    {
+      "productId": 1946,
+      "reviewText": "this real-time is hyper.",
+      "reviewDate": "2018-02-13T13:09:54.6164176+02:00"
+    }
+  ]
+}

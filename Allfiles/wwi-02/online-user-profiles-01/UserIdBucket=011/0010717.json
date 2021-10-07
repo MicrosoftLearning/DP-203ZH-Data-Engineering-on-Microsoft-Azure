@@ -1,0 +1,40 @@
+{
+  "userId": 10717,
+  "cartId": "ac224da0-ed33-4c95-8256-9b50c4220744",
+  "preferredProducts": [
+    1220,
+    2329,
+    3752,
+    3603,
+    4643,
+    3389,
+    146
+  ],
+  "productReviews": [
+    {
+      "productId": 3734,
+      "reviewText": "This Chief, does exactly what it's suppose to do.",
+      "reviewDate": "2016-12-04T07:02:57.2884504+02:00"
+    },
+    {
+      "productId": 4269,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-05-05T17:50:24.3487019+03:00"
+    },
+    {
+      "productId": 1012,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-03-09T00:25:55.0593483+02:00"
+    },
+    {
+      "productId": 1760,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-10-18T18:02:49.1918227+03:00"
+    },
+    {
+      "productId": 1848,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-01-05T22:10:44.9706293+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 32204,
+  "cartId": "5aa1607a-11dc-41aa-b108-62081142cf64",
+  "preferredProducts": [
+    830,
+    3067,
+    3964,
+    572,
+    4321,
+    2806,
+    809,
+    4795,
+    1163
+  ],
+  "productReviews": [
+    {
+      "productId": 2624,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2016-08-23T12:30:58.6815939+03:00"
+    },
+    {
+      "productId": 4240,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-05-27T18:36:40.1419635+03:00"
+    }
+  ]
+}

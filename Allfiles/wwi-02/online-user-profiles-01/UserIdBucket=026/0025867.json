@@ -1,0 +1,23 @@
+{
+  "userId": 25867,
+  "cartId": "5be18ba0-2a83-4fd9-8756-8d9a46cc2251",
+  "preferredProducts": [
+    532,
+    4356,
+    2016,
+    2560,
+    3107
+  ],
+  "productReviews": [
+    {
+      "productId": 4704,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-11-06T08:05:34.6860621+02:00"
+    },
+    {
+      "productId": 2043,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-02-05T03:11:36.9241199+02:00"
+    }
+  ]
+}

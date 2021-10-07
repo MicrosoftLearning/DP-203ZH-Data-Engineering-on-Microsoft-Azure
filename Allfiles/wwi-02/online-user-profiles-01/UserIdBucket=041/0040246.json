@@ -1,0 +1,27 @@
+{
+  "userId": 40246,
+  "cartId": "14f05cf5-6956-4667-8439-04e611775060",
+  "preferredProducts": [
+    2176,
+    4724,
+    2452,
+    3787,
+    4441,
+    2455,
+    2118,
+    3991,
+    2566
+  ],
+  "productReviews": [
+    {
+      "productId": 2125,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-20T10:26:17.9808918+03:00"
+    },
+    {
+      "productId": 3094,
+      "reviewText": "This web-enabled works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-11-23T12:06:03.6353844+02:00"
+    }
+  ]
+}

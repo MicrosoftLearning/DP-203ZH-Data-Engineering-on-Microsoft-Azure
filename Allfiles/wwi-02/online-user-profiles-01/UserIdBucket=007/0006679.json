@@ -1,0 +1,25 @@
+{
+  "userId": 6679,
+  "cartId": "4eca8224-0b6c-4ea4-93b5-92f4f5c1463e",
+  "preferredProducts": [
+    1340,
+    130,
+    694,
+    590,
+    1916,
+    767,
+    1476
+  ],
+  "productReviews": [
+    {
+      "productId": 571,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-08-10T17:57:49.281558+03:00"
+    },
+    {
+      "productId": 2433,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-11-28T17:55:50.9214408+02:00"
+    }
+  ]
+}

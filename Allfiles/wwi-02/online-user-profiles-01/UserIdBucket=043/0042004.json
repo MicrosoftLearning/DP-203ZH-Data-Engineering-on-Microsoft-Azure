@@ -1,0 +1,35 @@
+{
+  "userId": 42004,
+  "cartId": "df14c839-b2de-450e-8893-df7ed3d22100",
+  "preferredProducts": [
+    2509,
+    1972,
+    368,
+    1376,
+    4399,
+    69,
+    4021
+  ],
+  "productReviews": [
+    {
+      "productId": 1185,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-10-05T17:39:01.7423272+03:00"
+    },
+    {
+      "productId": 2621,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-06-21T09:32:38.3005702+03:00"
+    },
+    {
+      "productId": 3655,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-06-16T12:31:14.4690523+03:00"
+    },
+    {
+      "productId": 2886,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2019-08-28T11:03:42.9878213+03:00"
+    }
+  ]
+}

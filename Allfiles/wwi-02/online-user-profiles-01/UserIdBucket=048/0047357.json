@@ -1,0 +1,37 @@
+{
+  "userId": 47357,
+  "cartId": "b5fe86c1-0531-464f-99d9-5e4ceab2f94c",
+  "preferredProducts": [
+    3285,
+    4596,
+    1464,
+    4834
+  ],
+  "productReviews": [
+    {
+      "productId": 3517,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-05-03T17:43:19.9253762+03:00"
+    },
+    {
+      "productId": 4051,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-02-03T09:06:48.3716449+02:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-03-22T11:37:44.3008946+02:00"
+    },
+    {
+      "productId": 1427,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-10-16T03:33:53.3705604+03:00"
+    },
+    {
+      "productId": 1919,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-12-07T00:18:08.6709955+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 384,
+  "cartId": "b1270a6a-ea6e-40a3-813f-b22bfc21da4e",
+  "preferredProducts": [
+    3650,
+    4185
+  ],
+  "productReviews": [
+    {
+      "productId": 4672,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-01-01T03:42:30.9687479+02:00"
+    },
+    {
+      "productId": 2331,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-01-08T11:16:50.9552528+02:00"
+    },
+    {
+      "productId": 2554,
+      "reviewText": "This International works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-12-02T17:42:15.6184917+02:00"
+    }
+  ]
+}

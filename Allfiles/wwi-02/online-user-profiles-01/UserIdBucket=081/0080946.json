@@ -1,0 +1,31 @@
+{
+  "userId": 80946,
+  "cartId": "5adf729c-733f-49ec-a263-e1f998defda5",
+  "preferredProducts": [
+    3615,
+    2270,
+    3339,
+    673,
+    940,
+    3168,
+    1112,
+    232
+  ],
+  "productReviews": [
+    {
+      "productId": 832,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-03-16T02:26:08.1784314+02:00"
+    },
+    {
+      "productId": 2465,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-06-28T15:58:20.0143187+03:00"
+    },
+    {
+      "productId": 3567,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-03-31T10:58:01.1862792+03:00"
+    }
+  ]
+}

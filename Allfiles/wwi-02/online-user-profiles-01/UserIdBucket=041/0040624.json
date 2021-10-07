@@ -1,0 +1,31 @@
+{
+  "userId": 40624,
+  "cartId": "aacd0d5f-3852-4f89-8d6b-d7a2101d199d",
+  "preferredProducts": [
+    4721,
+    51,
+    3406,
+    3469,
+    2343,
+    4820,
+    2381,
+    4590
+  ],
+  "productReviews": [
+    {
+      "productId": 678,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-08-22T13:34:49.084996+03:00"
+    },
+    {
+      "productId": 992,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-06-16T11:48:34.0573765+03:00"
+    },
+    {
+      "productId": 1766,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-11-04T18:03:16.0200174+02:00"
+    }
+  ]
+}

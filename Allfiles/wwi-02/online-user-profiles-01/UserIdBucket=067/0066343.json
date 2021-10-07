@@ -1,0 +1,25 @@
+{
+  "userId": 66343,
+  "cartId": "b655b211-d7cc-4a43-91e5-993afce5b2d4",
+  "preferredProducts": [
+    4067,
+    2624
+  ],
+  "productReviews": [
+    {
+      "productId": 3099,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-03-22T12:15:03.5742021+02:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-10-01T19:40:43.5271127+03:00"
+    },
+    {
+      "productId": 1829,
+      "reviewText": "This open-source, does exactly what it's suppose to do.",
+      "reviewDate": "2017-09-19T12:36:15.9307012+03:00"
+    }
+  ]
+}

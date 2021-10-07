@@ -1,0 +1,39 @@
+{
+  "userId": 48571,
+  "cartId": "ce81521d-3999-41a1-b3d8-6afcaa757945",
+  "preferredProducts": [
+    1076,
+    2897,
+    857,
+    4466,
+    2831,
+    774
+  ],
+  "productReviews": [
+    {
+      "productId": 3991,
+      "reviewText": "This Assurance works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2020-02-25T01:54:19.0768435+02:00"
+    },
+    {
+      "productId": 2165,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-04-24T19:46:56.1987346+03:00"
+    },
+    {
+      "productId": 4682,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-09-05T04:04:29.4232677+03:00"
+    },
+    {
+      "productId": 2162,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-01-10T00:25:41.0928889+02:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-01-01T04:45:37.6695395+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 76800,
+  "cartId": "a9b5cf81-0834-4fe4-b986-db6df44f71fe",
+  "preferredProducts": [
+    4273,
+    1591,
+    1673,
+    939,
+    1534,
+    3383,
+    1778
+  ],
+  "productReviews": [
+    {
+      "productId": 330,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-02-10T14:55:59.4585497+02:00"
+    },
+    {
+      "productId": 2442,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-11-02T00:16:32.586105+02:00"
+    },
+    {
+      "productId": 1810,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2020-04-04T10:51:00.8093336+03:00"
+    }
+  ]
+}

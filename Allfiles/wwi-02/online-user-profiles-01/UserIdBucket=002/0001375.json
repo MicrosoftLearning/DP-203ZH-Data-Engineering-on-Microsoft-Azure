@@ -1,0 +1,25 @@
+{
+  "userId": 1375,
+  "cartId": "7bed9fa8-3e8f-482b-93ba-cf4961a63bf4",
+  "preferredProducts": [
+    4480,
+    607,
+    3178,
+    576,
+    4712,
+    4721,
+    1721
+  ],
+  "productReviews": [
+    {
+      "productId": 1569,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-09-10T03:11:30.9096419+03:00"
+    },
+    {
+      "productId": 3426,
+      "reviewText": "this Hollow is standard.",
+      "reviewDate": "2017-02-28T10:21:25.7210681+02:00"
+    }
+  ]
+}

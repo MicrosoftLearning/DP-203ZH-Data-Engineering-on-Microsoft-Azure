@@ -1,0 +1,23 @@
+{
+  "userId": 1844,
+  "cartId": "81acad34-c7de-4d70-a4cb-8a572cfdfe58",
+  "preferredProducts": [
+    1634,
+    3166,
+    3379,
+    1022,
+    4595
+  ],
+  "productReviews": [
+    {
+      "productId": 4729,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-02-12T03:57:19.1632906+02:00"
+    },
+    {
+      "productId": 2881,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-01-03T05:41:53.401745+02:00"
+    }
+  ]
+}

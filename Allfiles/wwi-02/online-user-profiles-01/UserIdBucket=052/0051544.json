@@ -1,0 +1,31 @@
+{
+  "userId": 51544,
+  "cartId": "8ef50e17-436b-4e34-8685-64c70db29760",
+  "preferredProducts": [
+    1628,
+    99,
+    895
+  ],
+  "productReviews": [
+    {
+      "productId": 876,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-01-28T21:01:25.8776012+02:00"
+    },
+    {
+      "productId": 448,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-08-23T23:23:10.2040886+03:00"
+    },
+    {
+      "productId": 2518,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-10-27T01:28:21.6413255+03:00"
+    },
+    {
+      "productId": 1332,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-07-09T02:20:11.8169798+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 36949,
+  "cartId": "9581c5cc-73bf-4978-b1b8-ab14dafca51d",
+  "preferredProducts": [
+    4756,
+    4975,
+    2827,
+    909,
+    2369,
+    33,
+    1954
+  ],
+  "productReviews": [
+    {
+      "productId": 2961,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-08-12T10:11:24.2167879+03:00"
+    },
+    {
+      "productId": 223,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-03-10T13:10:47.8733313+02:00"
+    },
+    {
+      "productId": 764,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-07-28T04:24:57.9072132+03:00"
+    }
+  ]
+}

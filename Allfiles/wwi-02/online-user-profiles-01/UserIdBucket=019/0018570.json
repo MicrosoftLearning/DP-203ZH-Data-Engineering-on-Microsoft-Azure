@@ -1,0 +1,35 @@
+{
+  "userId": 18570,
+  "cartId": "d9839459-9a40-4bed-b840-667659ff82cc",
+  "preferredProducts": [
+    4749,
+    2474,
+    2062,
+    2392,
+    3061,
+    2894,
+    1505
+  ],
+  "productReviews": [
+    {
+      "productId": 4616,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-12-31T05:35:55.2590838+02:00"
+    },
+    {
+      "productId": 4307,
+      "reviewText": "This bluetooth works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-01-11T21:25:41.0827779+02:00"
+    },
+    {
+      "productId": 4005,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-07-14T01:11:10.3032729+03:00"
+    },
+    {
+      "productId": 1487,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-06-24T09:34:21.8238208+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 4691,
+  "cartId": "9fa81720-7864-4d0f-889a-3a7dfb6a1183",
+  "preferredProducts": [
+    2250,
+    3488,
+    870,
+    4843,
+    4551,
+    1007,
+    1798,
+    2394
+  ],
+  "productReviews": [
+    {
+      "productId": 2993,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-10-01T21:11:38.5221095+03:00"
+    },
+    {
+      "productId": 2262,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-05-19T15:26:43.2893622+03:00"
+    },
+    {
+      "productId": 2001,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-08-06T07:07:01.6853668+03:00"
+    },
+    {
+      "productId": 1387,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2020-02-04T04:12:02.1615651+02:00"
+    }
+  ]
+}

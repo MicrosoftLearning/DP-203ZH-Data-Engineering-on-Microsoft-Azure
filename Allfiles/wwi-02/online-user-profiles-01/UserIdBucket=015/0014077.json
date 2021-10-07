@@ -1,0 +1,38 @@
+{
+  "userId": 14077,
+  "cartId": "3a9b5726-f894-4b46-9cd3-b1286a0e0eed",
+  "preferredProducts": [
+    625,
+    4179,
+    1807,
+    418,
+    4070
+  ],
+  "productReviews": [
+    {
+      "productId": 2731,
+      "reviewText": "this Latvia is standard.",
+      "reviewDate": "2018-10-15T06:09:57.9675038+03:00"
+    },
+    {
+      "productId": 2841,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-04-15T18:52:10.7546018+03:00"
+    },
+    {
+      "productId": 4819,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-07-29T10:22:45.8107421+03:00"
+    },
+    {
+      "productId": 1100,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-08-02T07:48:41.4550482+03:00"
+    },
+    {
+      "productId": 3810,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-06-28T10:15:35.5732508+03:00"
+    }
+  ]
+}

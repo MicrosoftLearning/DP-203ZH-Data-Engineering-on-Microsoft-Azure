@@ -1,0 +1,35 @@
+{
+  "userId": 10266,
+  "cartId": "079adb3c-9dcc-40d4-8f53-c7c185957a26",
+  "preferredProducts": [
+    689,
+    3612,
+    1253,
+    2148,
+    531,
+    2033,
+    34
+  ],
+  "productReviews": [
+    {
+      "productId": 3530,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-12-30T00:43:43.4928891+02:00"
+    },
+    {
+      "productId": 2603,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-11-29T12:44:53.8186964+02:00"
+    },
+    {
+      "productId": 1360,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-04-25T18:43:44.2215478+03:00"
+    },
+    {
+      "productId": 3784,
+      "reviewText": "this methodology is tasty.",
+      "reviewDate": "2018-04-17T17:49:36.1357678+03:00"
+    }
+  ]
+}

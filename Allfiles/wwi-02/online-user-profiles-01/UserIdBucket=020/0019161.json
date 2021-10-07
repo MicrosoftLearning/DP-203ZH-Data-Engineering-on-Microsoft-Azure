@@ -1,0 +1,32 @@
+{
+  "userId": 19161,
+  "cartId": "6db88d10-a529-44b6-aef5-d185f1c45996",
+  "preferredProducts": [
+    3911,
+    1717,
+    3602,
+    840
+  ],
+  "productReviews": [
+    {
+      "productId": 288,
+      "reviewText": "this Platinum is snowy.",
+      "reviewDate": "2018-09-23T11:21:09.0099195+03:00"
+    },
+    {
+      "productId": 448,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-12-12T21:30:06.9652922+02:00"
+    },
+    {
+      "productId": 1067,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-09-23T09:15:19.0306825+03:00"
+    },
+    {
+      "productId": 1123,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-08-24T16:50:08.1157125+03:00"
+    }
+  ]
+}

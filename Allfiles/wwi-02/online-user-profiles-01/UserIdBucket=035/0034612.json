@@ -1,0 +1,37 @@
+{
+  "userId": 34612,
+  "cartId": "c3f4300b-ef45-4ca6-9102-bd1ea1009cd9",
+  "preferredProducts": [
+    4644,
+    2516,
+    2,
+    1376
+  ],
+  "productReviews": [
+    {
+      "productId": 1644,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-07-12T22:23:18.7375433+03:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-12-16T22:02:14.9529758+02:00"
+    },
+    {
+      "productId": 4044,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-07-13T18:33:25.3919659+03:00"
+    },
+    {
+      "productId": 4804,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-03-13T10:31:32.6024509+02:00"
+    },
+    {
+      "productId": 4748,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-03-03T13:30:48.146856+02:00"
+    }
+  ]
+}

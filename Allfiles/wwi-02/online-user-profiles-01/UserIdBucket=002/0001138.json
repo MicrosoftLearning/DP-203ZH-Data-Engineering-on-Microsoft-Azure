@@ -1,0 +1,31 @@
+{
+  "userId": 1138,
+  "cartId": "380dd0dd-e911-429f-b648-ded62ae1b7a9",
+  "preferredProducts": [
+    1982,
+    4185,
+    1378
+  ],
+  "productReviews": [
+    {
+      "productId": 4093,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-07-16T06:55:36.9491743+03:00"
+    },
+    {
+      "productId": 260,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-07-21T13:03:15.7536219+03:00"
+    },
+    {
+      "productId": 1292,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-08-17T14:22:49.6897527+03:00"
+    },
+    {
+      "productId": 900,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-12-07T11:52:49.2366135+02:00"
+    }
+  ]
+}

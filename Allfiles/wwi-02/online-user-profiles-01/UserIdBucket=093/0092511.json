@@ -1,0 +1,35 @@
+{
+  "userId": 92511,
+  "cartId": "3e7fde71-bd40-4add-bc89-b89d077d05f6",
+  "preferredProducts": [
+    1845,
+    4113
+  ],
+  "productReviews": [
+    {
+      "productId": 4643,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-12-29T07:05:58.6888815+02:00"
+    },
+    {
+      "productId": 359,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-08-17T21:45:24.7917687+03:00"
+    },
+    {
+      "productId": 3566,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-04-24T02:12:33.8906354+03:00"
+    },
+    {
+      "productId": 4755,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-12-24T21:39:06.7084602+02:00"
+    },
+    {
+      "productId": 4672,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-03-25T18:51:52.3786185+02:00"
+    }
+  ]
+}

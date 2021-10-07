@@ -1,0 +1,29 @@
+{
+  "userId": 76006,
+  "cartId": "2e0b724e-5fb9-4461-8049-4e82a9b0a917",
+  "preferredProducts": [
+    253,
+    2345,
+    4400,
+    1522,
+    4179,
+    4146
+  ],
+  "productReviews": [
+    {
+      "productId": 665,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-01-25T17:14:59.0685048+02:00"
+    },
+    {
+      "productId": 3528,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-04-17T09:59:43.2057806+03:00"
+    },
+    {
+      "productId": 2809,
+      "reviewText": "this Australian Dollar is gracious.",
+      "reviewDate": "2020-01-19T20:38:08.2314397+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 20939,
+  "cartId": "19d73355-bb3c-4b0b-b3dd-6dcece4021b5",
+  "preferredProducts": [
+    606,
+    953,
+    407,
+    2300,
+    398,
+    999,
+    109,
+    3079,
+    341
+  ],
+  "productReviews": [
+    {
+      "productId": 1349,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-06-22T18:30:32.74456+03:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-11-18T02:56:50.976192+02:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-03-18T16:13:06.3187314+02:00"
+    }
+  ]
+}

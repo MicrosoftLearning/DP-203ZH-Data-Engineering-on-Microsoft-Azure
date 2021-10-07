@@ -1,0 +1,36 @@
+{
+  "userId": 33121,
+  "cartId": "a8ec6c23-1222-446b-b257-7daec858d9fb",
+  "preferredProducts": [
+    2330,
+    1633,
+    1028
+  ],
+  "productReviews": [
+    {
+      "productId": 2342,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-11-13T14:11:21.2959287+02:00"
+    },
+    {
+      "productId": 1018,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-12-25T04:43:47.6358589+02:00"
+    },
+    {
+      "productId": 4256,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-06-04T07:50:10.7915052+03:00"
+    },
+    {
+      "productId": 4758,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-09-30T21:27:51.0559029+03:00"
+    },
+    {
+      "productId": 4795,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-07-20T13:46:03.2083907+03:00"
+    }
+  ]
+}

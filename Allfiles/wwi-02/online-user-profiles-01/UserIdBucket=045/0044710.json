@@ -1,0 +1,31 @@
+{
+  "userId": 44710,
+  "cartId": "838f1fc5-8d47-491d-9766-5ccb7c8c0462",
+  "preferredProducts": [
+    209,
+    4810,
+    2377
+  ],
+  "productReviews": [
+    {
+      "productId": 997,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-10-04T04:11:13.2645849+03:00"
+    },
+    {
+      "productId": 1846,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-01-14T11:08:48.6495661+02:00"
+    },
+    {
+      "productId": 1234,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-08-19T12:21:58.5876593+03:00"
+    },
+    {
+      "productId": 2606,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-09-05T01:29:38.2258943+03:00"
+    }
+  ]
+}

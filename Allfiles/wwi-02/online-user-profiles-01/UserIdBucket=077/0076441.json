@@ -1,0 +1,25 @@
+{
+  "userId": 76441,
+  "cartId": "6d0e92ca-89fb-49c1-a52d-58ade086dec3",
+  "preferredProducts": [
+    711,
+    2995
+  ],
+  "productReviews": [
+    {
+      "productId": 1029,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-02-27T15:44:26.1175981+02:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "This JSON works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-09-16T07:55:31.8672618+03:00"
+    },
+    {
+      "productId": 911,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-05-30T05:47:11.8933796+03:00"
+    }
+  ]
+}

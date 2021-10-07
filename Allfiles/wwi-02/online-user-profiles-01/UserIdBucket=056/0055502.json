@@ -1,0 +1,33 @@
+{
+  "userId": 55502,
+  "cartId": "6a1c7d58-7d3e-4a0b-8456-b909322da3d3",
+  "preferredProducts": [
+    798,
+    3289,
+    3268,
+    76,
+    2267
+  ],
+  "productReviews": [
+    {
+      "productId": 249,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-01-28T13:55:00.9364734+02:00"
+    },
+    {
+      "productId": 1348,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-11-23T19:47:14.8342988+02:00"
+    },
+    {
+      "productId": 1202,
+      "reviewText": "works okay.",
+      "reviewDate": "2020-01-30T10:29:21.310399+02:00"
+    },
+    {
+      "productId": 106,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-11-02T00:40:43.0871887+02:00"
+    }
+  ]
+}

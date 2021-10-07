@@ -1,0 +1,33 @@
+{
+  "userId": 56546,
+  "cartId": "76e4a356-d488-4c04-af76-9811166435fd",
+  "preferredProducts": [
+    1966,
+    1113,
+    2466,
+    184,
+    4921
+  ],
+  "productReviews": [
+    {
+      "productId": 449,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-02-03T13:59:48.800707+02:00"
+    },
+    {
+      "productId": 2454,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-08-22T13:34:41.8031373+03:00"
+    },
+    {
+      "productId": 4813,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-01-26T10:25:35.3216523+02:00"
+    },
+    {
+      "productId": 1305,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-04-12T04:32:49.1785958+03:00"
+    }
+  ]
+}

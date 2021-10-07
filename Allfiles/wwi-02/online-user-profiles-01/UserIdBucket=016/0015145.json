@@ -1,0 +1,29 @@
+{
+  "userId": 15145,
+  "cartId": "05deba2a-6b87-4bf9-a169-4758d3a8a1b7",
+  "preferredProducts": [
+    921,
+    557,
+    4011,
+    929,
+    743,
+    2168
+  ],
+  "productReviews": [
+    {
+      "productId": 1080,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-03-01T12:50:50.163638+02:00"
+    },
+    {
+      "productId": 112,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-07-01T20:36:30.3641109+03:00"
+    },
+    {
+      "productId": 1259,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-01-28T18:53:06.8210551+02:00"
+    }
+  ]
+}

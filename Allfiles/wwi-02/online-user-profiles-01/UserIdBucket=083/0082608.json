@@ -1,0 +1,30 @@
+{
+  "userId": 82608,
+  "cartId": "0d89e449-18ab-4512-9095-b646bf940635",
+  "preferredProducts": [
+    3576,
+    2381,
+    2663,
+    453,
+    774,
+    1870,
+    3551
+  ],
+  "productReviews": [
+    {
+      "productId": 3352,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-02-28T00:50:19.4241269+02:00"
+    },
+    {
+      "productId": 4949,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-03-14T13:39:34.392282+02:00"
+    },
+    {
+      "productId": 2393,
+      "reviewText": "this content is brown.",
+      "reviewDate": "2018-10-17T17:30:31.2685717+03:00"
+    }
+  ]
+}

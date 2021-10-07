@@ -1,0 +1,31 @@
+{
+  "userId": 42387,
+  "cartId": "4dac4700-49ab-4bb8-bb8b-0f3e68bc7a3f",
+  "preferredProducts": [
+    4765,
+    4598,
+    2814,
+    1159,
+    1283,
+    1062,
+    3427,
+    4977
+  ],
+  "productReviews": [
+    {
+      "productId": 2551,
+      "reviewText": "This Cambodia works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-09-30T19:11:24.7220872+03:00"
+    },
+    {
+      "productId": 1603,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-01-14T19:38:38.3860636+02:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-06-20T00:44:42.5692693+03:00"
+    }
+  ]
+}

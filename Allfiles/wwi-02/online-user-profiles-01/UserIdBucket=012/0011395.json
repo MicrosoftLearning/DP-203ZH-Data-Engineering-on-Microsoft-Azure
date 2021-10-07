@@ -1,0 +1,25 @@
+{
+  "userId": 11395,
+  "cartId": "267182da-0e4f-44ad-8e5b-4bf8e290bde5",
+  "preferredProducts": [
+    2992,
+    1937
+  ],
+  "productReviews": [
+    {
+      "productId": 632,
+      "reviewText": "this multi-byte is snowy.",
+      "reviewDate": "2019-11-29T14:28:15.5896874+02:00"
+    },
+    {
+      "productId": 235,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-02-07T14:18:54.0948184+02:00"
+    },
+    {
+      "productId": 2455,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-01-16T22:25:07.2514257+02:00"
+    }
+  ]
+}

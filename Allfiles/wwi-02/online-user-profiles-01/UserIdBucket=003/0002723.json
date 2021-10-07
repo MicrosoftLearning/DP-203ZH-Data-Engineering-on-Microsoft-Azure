@@ -1,0 +1,30 @@
+{
+  "userId": 2723,
+  "cartId": "92e841d0-c374-41ce-a65a-aa5d4f73997d",
+  "preferredProducts": [
+    4232,
+    3227,
+    4586,
+    4102,
+    1130,
+    3266,
+    4529
+  ],
+  "productReviews": [
+    {
+      "productId": 3001,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-08-28T03:23:58.6771234+03:00"
+    },
+    {
+      "productId": 450,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-11-19T00:26:33.9876899+02:00"
+    },
+    {
+      "productId": 3120,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-02-20T12:58:40.2706074+02:00"
+    }
+  ]
+}

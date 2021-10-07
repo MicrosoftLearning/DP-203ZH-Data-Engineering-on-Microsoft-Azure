@@ -1,0 +1,38 @@
+{
+  "userId": 2368,
+  "cartId": "37a609fd-642a-4743-82ac-89a81e1fbecb",
+  "preferredProducts": [
+    1159,
+    2730,
+    2708,
+    3082,
+    991
+  ],
+  "productReviews": [
+    {
+      "productId": 1971,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-09-13T09:40:03.0156751+03:00"
+    },
+    {
+      "productId": 391,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-02-11T18:15:29.7839046+02:00"
+    },
+    {
+      "productId": 2145,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-04-03T08:33:15.5132287+03:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-07-23T00:10:45.8352407+03:00"
+    },
+    {
+      "productId": 1517,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-03-05T08:28:33.7941964+02:00"
+    }
+  ]
+}

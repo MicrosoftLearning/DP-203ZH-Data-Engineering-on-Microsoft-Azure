@@ -1,0 +1,30 @@
+{
+  "userId": 81183,
+  "cartId": "d29feb02-8660-4eb8-b43e-85f8bcc0344e",
+  "preferredProducts": [
+    2560,
+    412,
+    896,
+    3681,
+    1751,
+    204,
+    1829
+  ],
+  "productReviews": [
+    {
+      "productId": 3988,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-01-11T22:16:12.9108365+02:00"
+    },
+    {
+      "productId": 1482,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-04-18T00:43:43.2113071+03:00"
+    },
+    {
+      "productId": 3627,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-06-03T04:46:00.8541003+03:00"
+    }
+  ]
+}

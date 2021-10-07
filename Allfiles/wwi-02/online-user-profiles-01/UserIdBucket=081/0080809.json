@@ -1,0 +1,35 @@
+{
+  "userId": 80809,
+  "cartId": "acb5ab71-6d7a-4381-8072-36ff9cb2e45d",
+  "preferredProducts": [
+    1796,
+    4006,
+    2460,
+    2051,
+    4310,
+    4098,
+    4548
+  ],
+  "productReviews": [
+    {
+      "productId": 295,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-06-05T11:59:22.9763561+03:00"
+    },
+    {
+      "productId": 1952,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-03-06T18:38:15.6876828+02:00"
+    },
+    {
+      "productId": 1425,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-09-09T08:01:47.8530794+03:00"
+    },
+    {
+      "productId": 1020,
+      "reviewText": "This Borders works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2020-05-01T19:29:36.8809964+03:00"
+    }
+  ]
+}

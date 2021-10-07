@@ -1,0 +1,28 @@
+{
+  "userId": 55721,
+  "cartId": "c78aa71f-1fa5-466b-b935-a9e0275c5e1c",
+  "preferredProducts": [
+    552,
+    2844,
+    770,
+    1476,
+    2051,
+    2590,
+    2776,
+    3086,
+    2990,
+    3241
+  ],
+  "productReviews": [
+    {
+      "productId": 649,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-01-25T21:35:35.5641108+02:00"
+    },
+    {
+      "productId": 511,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-03-20T13:33:57.2990089+02:00"
+    }
+  ]
+}

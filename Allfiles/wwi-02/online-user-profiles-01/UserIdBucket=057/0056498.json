@@ -1,0 +1,25 @@
+{
+  "userId": 56498,
+  "cartId": "6a4cd860-0157-47b4-9b53-ec5f6a59f83e",
+  "preferredProducts": [
+    3514,
+    938
+  ],
+  "productReviews": [
+    {
+      "productId": 356,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-10-04T18:01:21.2461575+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-10-17T17:36:57.1650331+03:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-03-31T15:02:39.5731229+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 3897,
+  "cartId": "ba0e24e8-de51-4ba6-aa6f-41f932808b25",
+  "preferredProducts": [
+    3636,
+    4753,
+    3699,
+    1477,
+    2602,
+    4030
+  ],
+  "productReviews": [
+    {
+      "productId": 1621,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-01-24T05:10:39.4641495+02:00"
+    },
+    {
+      "productId": 544,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-07-28T11:20:12.5508289+03:00"
+    },
+    {
+      "productId": 478,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-03-24T17:24:55.072614+02:00"
+    },
+    {
+      "productId": 713,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-11-26T02:16:09.1144334+02:00"
+    }
+  ]
+}

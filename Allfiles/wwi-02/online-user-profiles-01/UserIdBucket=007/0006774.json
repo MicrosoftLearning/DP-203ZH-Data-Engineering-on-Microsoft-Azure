@@ -1,0 +1,27 @@
+{
+  "userId": 6774,
+  "cartId": "b0bffd60-2cca-4647-abde-1f283de59d88",
+  "preferredProducts": [
+    1799,
+    1345,
+    2175,
+    3421,
+    405,
+    139,
+    3147,
+    4243,
+    4691
+  ],
+  "productReviews": [
+    {
+      "productId": 4003,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-02-24T19:56:01.4447457+02:00"
+    },
+    {
+      "productId": 2368,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-12-24T18:06:17.1814521+02:00"
+    }
+  ]
+}

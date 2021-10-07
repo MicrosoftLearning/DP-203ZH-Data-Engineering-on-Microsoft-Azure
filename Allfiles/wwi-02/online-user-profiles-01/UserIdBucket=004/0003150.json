@@ -1,0 +1,32 @@
+{
+  "userId": 3150,
+  "cartId": "854f9467-8ac5-413e-a8da-ee184e9fa433",
+  "preferredProducts": [
+    4857,
+    590,
+    4469,
+    4066
+  ],
+  "productReviews": [
+    {
+      "productId": 1599,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-06-25T01:38:54.4481111+03:00"
+    },
+    {
+      "productId": 74,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-05-04T22:22:20.4633304+03:00"
+    },
+    {
+      "productId": 3299,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-05-23T19:31:26.9732194+03:00"
+    },
+    {
+      "productId": 3692,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-01-05T07:01:20.4366709+02:00"
+    }
+  ]
+}

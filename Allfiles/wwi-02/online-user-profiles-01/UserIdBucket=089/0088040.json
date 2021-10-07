@@ -1,0 +1,41 @@
+{
+  "userId": 88040,
+  "cartId": "a4ce8b5a-15af-4c69-ade8-095b656ee000",
+  "preferredProducts": [
+    4300,
+    2955,
+    2964,
+    960,
+    2671,
+    13,
+    897,
+    1558
+  ],
+  "productReviews": [
+    {
+      "productId": 1470,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-10-05T03:00:16.2130861+03:00"
+    },
+    {
+      "productId": 2638,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-02-06T20:55:50.6840073+02:00"
+    },
+    {
+      "productId": 4301,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-07-05T00:34:55.7874902+03:00"
+    },
+    {
+      "productId": 2484,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-07-25T04:25:59.688+03:00"
+    },
+    {
+      "productId": 723,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-01-05T16:56:03.8347446+02:00"
+    }
+  ]
+}

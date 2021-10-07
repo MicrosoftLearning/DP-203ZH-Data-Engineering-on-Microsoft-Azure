@@ -1,0 +1,27 @@
+{
+  "userId": 36798,
+  "cartId": "0d300f46-d57d-499b-af3b-7ad8abace570",
+  "preferredProducts": [
+    2082,
+    3302,
+    270,
+    2553
+  ],
+  "productReviews": [
+    {
+      "productId": 3923,
+      "reviewText": "this Berkshire is complimentary.",
+      "reviewDate": "2019-03-06T20:16:42.0745531+02:00"
+    },
+    {
+      "productId": 4189,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-07-15T08:03:04.4227282+03:00"
+    },
+    {
+      "productId": 1522,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-09-22T16:27:04.0154334+03:00"
+    }
+  ]
+}

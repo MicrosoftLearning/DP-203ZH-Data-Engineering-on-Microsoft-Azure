@@ -1,0 +1,23 @@
+{
+  "userId": 18434,
+  "cartId": "2a5887bf-276a-4105-bf4d-de97e748330f",
+  "preferredProducts": [
+    1931,
+    744,
+    638,
+    3459,
+    4653
+  ],
+  "productReviews": [
+    {
+      "productId": 1528,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-05-05T17:59:51.0518558+03:00"
+    },
+    {
+      "productId": 1258,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-09-08T15:41:03.0399431+03:00"
+    }
+  ]
+}

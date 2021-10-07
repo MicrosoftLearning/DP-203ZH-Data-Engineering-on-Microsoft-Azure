@@ -1,0 +1,28 @@
+{
+  "userId": 5896,
+  "cartId": "01a0b28d-5c16-4ba4-bc4c-433d1a2a0cfe",
+  "preferredProducts": [
+    123,
+    81,
+    391,
+    2290,
+    3408
+  ],
+  "productReviews": [
+    {
+      "productId": 2668,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-11-27T00:27:06.7413465+02:00"
+    },
+    {
+      "productId": 4363,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-10-03T12:36:36.8212082+03:00"
+    },
+    {
+      "productId": 2317,
+      "reviewText": "this generate is brown.",
+      "reviewDate": "2016-07-03T08:30:14.6077335+03:00"
+    }
+  ]
+}

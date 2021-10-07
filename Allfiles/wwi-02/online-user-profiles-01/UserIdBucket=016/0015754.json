@@ -1,0 +1,24 @@
+{
+  "userId": 15754,
+  "cartId": "4aac78e6-ce27-499e-941b-b61b83b9ca69",
+  "preferredProducts": [
+    202,
+    3734,
+    2953,
+    1245,
+    2602,
+    828
+  ],
+  "productReviews": [
+    {
+      "productId": 1112,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-05-09T08:40:07.513637+03:00"
+    },
+    {
+      "productId": 2511,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-03-15T22:01:55.9552455+02:00"
+    }
+  ]
+}

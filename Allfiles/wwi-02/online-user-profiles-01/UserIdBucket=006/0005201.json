@@ -1,0 +1,35 @@
+{
+  "userId": 5201,
+  "cartId": "a1c5211b-bbb1-420e-b0f4-43db9699227f",
+  "preferredProducts": [
+    528,
+    4868,
+    3658,
+    3347,
+    3362,
+    3958,
+    4381
+  ],
+  "productReviews": [
+    {
+      "productId": 3756,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-02-02T06:39:57.3787619+02:00"
+    },
+    {
+      "productId": 2677,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-09-21T04:05:13.8299674+03:00"
+    },
+    {
+      "productId": 3411,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-12-09T04:49:57.2791468+02:00"
+    },
+    {
+      "productId": 817,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-08-09T03:04:02.4093717+03:00"
+    }
+  ]
+}

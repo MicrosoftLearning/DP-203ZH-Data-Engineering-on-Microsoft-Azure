@@ -1,0 +1,30 @@
+{
+  "userId": 50838,
+  "cartId": "ee8e2f15-5a3e-4c8f-a587-6291a8b07ae5",
+  "preferredProducts": [
+    3070,
+    2318,
+    540,
+    3292,
+    1700,
+    1839,
+    3755
+  ],
+  "productReviews": [
+    {
+      "productId": 3251,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-08-14T23:02:12.4709273+03:00"
+    },
+    {
+      "productId": 2143,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2020-04-04T01:10:50.8083551+03:00"
+    },
+    {
+      "productId": 1470,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-09-29T04:38:18.9713416+03:00"
+    }
+  ]
+}

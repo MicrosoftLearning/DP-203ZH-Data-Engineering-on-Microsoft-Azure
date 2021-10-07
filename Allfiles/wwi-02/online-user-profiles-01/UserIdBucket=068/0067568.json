@@ -1,0 +1,34 @@
+{
+  "userId": 67568,
+  "cartId": "598bfa4a-5211-4536-b75c-379bec4f595b",
+  "preferredProducts": [
+    432,
+    4668,
+    4987,
+    3474,
+    376,
+    486
+  ],
+  "productReviews": [
+    {
+      "productId": 4853,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-07-24T06:46:37.5849282+03:00"
+    },
+    {
+      "productId": 828,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-07-19T14:00:43.7042248+03:00"
+    },
+    {
+      "productId": 1280,
+      "reviewText": "This functionalities works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-02-23T21:10:44.2618229+02:00"
+    },
+    {
+      "productId": 799,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-11-14T04:47:05.3336415+02:00"
+    }
+  ]
+}

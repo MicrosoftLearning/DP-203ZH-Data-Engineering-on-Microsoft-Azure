@@ -1,0 +1,23 @@
+{
+  "userId": 18483,
+  "cartId": "d1cac81f-6909-4b72-9ca5-26578fd3529b",
+  "preferredProducts": [
+    4384,
+    2461,
+    4613,
+    646,
+    3352
+  ],
+  "productReviews": [
+    {
+      "productId": 463,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-07-15T12:48:19.9765802+03:00"
+    },
+    {
+      "productId": 1021,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-02-10T11:27:55.5867848+02:00"
+    }
+  ]
+}

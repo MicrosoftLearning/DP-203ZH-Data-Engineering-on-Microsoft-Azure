@@ -1,0 +1,31 @@
+{
+  "userId": 4083,
+  "cartId": "f747e92c-400e-41d2-af7e-1c9f3349682f",
+  "preferredProducts": [
+    2266,
+    116,
+    1688
+  ],
+  "productReviews": [
+    {
+      "productId": 3832,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-10-31T12:13:26.5552944+02:00"
+    },
+    {
+      "productId": 528,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-02-28T16:47:39.6716359+02:00"
+    },
+    {
+      "productId": 1383,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-10-01T20:27:04.5020285+03:00"
+    },
+    {
+      "productId": 948,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-07-19T00:06:52.2185606+03:00"
+    }
+  ]
+}

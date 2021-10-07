@@ -1,0 +1,30 @@
+{
+  "userId": 4790,
+  "cartId": "bfc00a2a-6104-4332-a3a1-6664ee9601ef",
+  "preferredProducts": [
+    4201,
+    4236,
+    4628,
+    4716,
+    2745,
+    2430,
+    4803
+  ],
+  "productReviews": [
+    {
+      "productId": 3876,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-09-16T19:38:54.0032504+03:00"
+    },
+    {
+      "productId": 2062,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-08-26T04:40:30.027783+03:00"
+    },
+    {
+      "productId": 2481,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-11-20T02:07:33.3425343+02:00"
+    }
+  ]
+}

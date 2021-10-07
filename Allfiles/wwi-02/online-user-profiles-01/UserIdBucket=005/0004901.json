@@ -1,0 +1,31 @@
+{
+  "userId": 4901,
+  "cartId": "b16399eb-6cb7-4a99-ab72-5a794fd79adc",
+  "preferredProducts": [
+    2895,
+    4712,
+    2884,
+    1187,
+    102,
+    4489,
+    272,
+    378
+  ],
+  "productReviews": [
+    {
+      "productId": 4557,
+      "reviewText": "this sensor is slurpee.",
+      "reviewDate": "2016-08-09T05:48:50.8921965+03:00"
+    },
+    {
+      "productId": 741,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-07-12T02:46:24.8581905+03:00"
+    },
+    {
+      "productId": 4179,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-02-16T01:37:49.3442844+02:00"
+    }
+  ]
+}

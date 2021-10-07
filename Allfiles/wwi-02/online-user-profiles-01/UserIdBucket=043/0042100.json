@@ -1,0 +1,27 @@
+{
+  "userId": 42100,
+  "cartId": "d1b18cc3-2de5-434e-8199-6535a112ce34",
+  "preferredProducts": [
+    3432,
+    879,
+    3560,
+    3473
+  ],
+  "productReviews": [
+    {
+      "productId": 2886,
+      "reviewText": "This Junction works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-07-25T10:54:17.2121466+03:00"
+    },
+    {
+      "productId": 4013,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2016-10-01T21:50:25.7701533+03:00"
+    },
+    {
+      "productId": 4027,
+      "reviewText": "This deposit works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-03-13T18:09:05.9538292+02:00"
+    }
+  ]
+}

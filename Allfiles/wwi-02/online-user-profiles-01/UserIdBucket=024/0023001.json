@@ -1,0 +1,33 @@
+{
+  "userId": 23001,
+  "cartId": "6d3df5ad-22a2-4e96-afc8-fd7b25d9d42e",
+  "preferredProducts": [
+    3365,
+    3329,
+    375,
+    4171,
+    1101
+  ],
+  "productReviews": [
+    {
+      "productId": 4098,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-08-27T16:16:30.0139816+03:00"
+    },
+    {
+      "productId": 3609,
+      "reviewText": "this Gorgeous Frozen Salad is gracious.",
+      "reviewDate": "2019-04-06T19:29:52.0836753+03:00"
+    },
+    {
+      "productId": 1675,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2020-03-08T12:42:08.4253459+02:00"
+    },
+    {
+      "productId": 3510,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-11-24T17:48:29.458038+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 55342,
+  "cartId": "23f8e668-565d-4fc1-a8e2-078e1c158387",
+  "preferredProducts": [
+    1701,
+    249,
+    2481,
+    1553,
+    4884,
+    2872,
+    553
+  ],
+  "productReviews": [
+    {
+      "productId": 3517,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-12-18T23:55:24.4953225+02:00"
+    },
+    {
+      "productId": 1668,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-06-24T23:22:32.5702439+03:00"
+    },
+    {
+      "productId": 4342,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-05-25T18:38:11.9958322+03:00"
+    },
+    {
+      "productId": 3821,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-05-05T23:11:26.7878874+03:00"
+    }
+  ]
+}

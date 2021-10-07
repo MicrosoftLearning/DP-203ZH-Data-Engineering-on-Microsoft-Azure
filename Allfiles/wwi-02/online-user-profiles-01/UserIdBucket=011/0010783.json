@@ -1,0 +1,25 @@
+{
+  "userId": 10783,
+  "cartId": "478dce70-d530-4b1f-a605-54873b2bcce9",
+  "preferredProducts": [
+    254,
+    2493
+  ],
+  "productReviews": [
+    {
+      "productId": 730,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-07-18T01:08:28.2945125+03:00"
+    },
+    {
+      "productId": 2138,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-09-09T01:38:50.1925044+03:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-04-19T06:13:07.6531328+03:00"
+    }
+  ]
+}

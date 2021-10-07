@@ -1,0 +1,37 @@
+{
+  "userId": 56389,
+  "cartId": "2837c699-b125-4a0d-8763-f2f16584c0ad",
+  "preferredProducts": [
+    313,
+    2400,
+    4204,
+    4647
+  ],
+  "productReviews": [
+    {
+      "productId": 4769,
+      "reviewText": "this payment is ratty.",
+      "reviewDate": "2016-09-17T02:03:28.9722825+03:00"
+    },
+    {
+      "productId": 1133,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-07-03T22:08:30.5221187+03:00"
+    },
+    {
+      "productId": 1100,
+      "reviewText": "this methodology is mellow.",
+      "reviewDate": "2016-08-29T20:51:09.9528857+03:00"
+    },
+    {
+      "productId": 3896,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-08-27T06:57:43.9132191+03:00"
+    },
+    {
+      "productId": 562,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-10-17T23:31:39.6891044+03:00"
+    }
+  ]
+}

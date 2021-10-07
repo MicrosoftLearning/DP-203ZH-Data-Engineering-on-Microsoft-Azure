@@ -1,0 +1,35 @@
+{
+  "userId": 11514,
+  "cartId": "f3b31a1c-4c4c-4140-927f-93379cce3e7d",
+  "preferredProducts": [
+    3311,
+    3047,
+    496,
+    1240,
+    326,
+    3553,
+    2472
+  ],
+  "productReviews": [
+    {
+      "productId": 1392,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-09-19T01:15:18.8413267+03:00"
+    },
+    {
+      "productId": 4962,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-10-06T00:25:20.3521534+03:00"
+    },
+    {
+      "productId": 1945,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-02-07T00:53:37.1534557+02:00"
+    },
+    {
+      "productId": 3391,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-04-15T13:52:41.1548584+03:00"
+    }
+  ]
+}

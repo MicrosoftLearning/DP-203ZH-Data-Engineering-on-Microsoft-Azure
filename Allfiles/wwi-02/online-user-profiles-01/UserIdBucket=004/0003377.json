@@ -1,0 +1,26 @@
+{
+  "userId": 3377,
+  "cartId": "0da7a375-8cd3-4bb0-a67b-a4725b3544f8",
+  "preferredProducts": [
+    4800,
+    3901,
+    621
+  ],
+  "productReviews": [
+    {
+      "productId": 2501,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-03-10T22:46:36.525024+02:00"
+    },
+    {
+      "productId": 4527,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-01-18T13:44:15.4109161+02:00"
+    },
+    {
+      "productId": 2954,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-05-25T10:42:31.6914205+03:00"
+    }
+  ]
+}

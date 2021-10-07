@@ -1,0 +1,30 @@
+{
+  "userId": 4403,
+  "cartId": "f3e71a55-3443-4902-879e-dac0d0cfd576",
+  "preferredProducts": [
+    534,
+    1889
+  ],
+  "productReviews": [
+    {
+      "productId": 393,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-07-13T08:20:46.6435266+03:00"
+    },
+    {
+      "productId": 99,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-09-04T07:59:42.4792015+03:00"
+    },
+    {
+      "productId": 575,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-04-27T10:12:35.7542083+03:00"
+    },
+    {
+      "productId": 1581,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-05-18T11:36:08.7916499+03:00"
+    }
+  ]
+}

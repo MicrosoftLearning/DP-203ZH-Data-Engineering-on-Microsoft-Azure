@@ -1,0 +1,31 @@
+{
+  "userId": 51489,
+  "cartId": "89d9dd16-d03d-44b5-ab6e-be841de743ba",
+  "preferredProducts": [
+    235,
+    999,
+    2204
+  ],
+  "productReviews": [
+    {
+      "productId": 3891,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-04-06T23:37:42.6502012+03:00"
+    },
+    {
+      "productId": 4472,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2020-02-17T03:00:55.3391012+02:00"
+    },
+    {
+      "productId": 382,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-02-09T06:43:29.2702587+02:00"
+    },
+    {
+      "productId": 2341,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-09-25T04:42:11.7425676+03:00"
+    }
+  ]
+}

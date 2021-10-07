@@ -1,0 +1,33 @@
+{
+  "userId": 62046,
+  "cartId": "4942a39d-b35a-4824-9b1e-0a82b20a3edd",
+  "preferredProducts": [
+    3880,
+    612,
+    1514,
+    2458,
+    532,
+    4668,
+    3908,
+    3740,
+    4134,
+    4235
+  ],
+  "productReviews": [
+    {
+      "productId": 3164,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-05-30T09:55:40.1752732+03:00"
+    },
+    {
+      "productId": 2587,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-06-12T11:30:52.2712857+03:00"
+    },
+    {
+      "productId": 3526,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-07-18T18:00:45.5353621+03:00"
+    }
+  ]
+}

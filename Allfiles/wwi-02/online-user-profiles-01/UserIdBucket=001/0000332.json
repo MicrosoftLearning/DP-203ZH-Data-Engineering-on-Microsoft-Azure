@@ -1,0 +1,39 @@
+{
+  "userId": 332,
+  "cartId": "364ccb3e-f56a-4450-b400-1df67a27d649",
+  "preferredProducts": [
+    3125,
+    738,
+    1507,
+    2094,
+    4276,
+    364
+  ],
+  "productReviews": [
+    {
+      "productId": 4387,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-11-05T20:15:00.3818491+02:00"
+    },
+    {
+      "productId": 2023,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-01-11T20:27:32.2586572+02:00"
+    },
+    {
+      "productId": 2662,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-11-03T03:20:14.3400139+02:00"
+    },
+    {
+      "productId": 2274,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-12-28T08:32:53.3315768+02:00"
+    },
+    {
+      "productId": 85,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-05-17T13:13:51.4481561+03:00"
+    }
+  ]
+}

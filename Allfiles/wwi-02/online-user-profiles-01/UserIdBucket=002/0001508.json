@@ -1,0 +1,29 @@
+{
+  "userId": 1508,
+  "cartId": "f7c65234-9f4e-4e60-8594-4e011a7c9de5",
+  "preferredProducts": [
+    3684,
+    982,
+    4193,
+    2182,
+    2445,
+    2720
+  ],
+  "productReviews": [
+    {
+      "productId": 736,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-10-15T00:48:05.8665872+03:00"
+    },
+    {
+      "productId": 4410,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-05-07T22:37:17.0309523+03:00"
+    },
+    {
+      "productId": 40,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-05-05T13:01:27.9031533+03:00"
+    }
+  ]
+}

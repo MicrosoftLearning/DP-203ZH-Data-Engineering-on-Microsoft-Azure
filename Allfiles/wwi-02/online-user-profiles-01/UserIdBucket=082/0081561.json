@@ -1,0 +1,28 @@
+{
+  "userId": 81561,
+  "cartId": "6937ef9a-d8ea-4b12-a681-7e38ad8a47b6",
+  "preferredProducts": [
+    583,
+    1705,
+    3769,
+    2002,
+    3129
+  ],
+  "productReviews": [
+    {
+      "productId": 4176,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-10-15T10:27:33.5076973+03:00"
+    },
+    {
+      "productId": 4281,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-06-29T03:58:46.2331851+03:00"
+    },
+    {
+      "productId": 4949,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-06-24T10:20:23.3525362+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 30000,
+  "cartId": "d0173d66-7c73-4935-8e0a-0a065cb70f85",
+  "preferredProducts": [
+    116,
+    3252,
+    858,
+    1699,
+    3055,
+    1821,
+    617,
+    4559,
+    1020
+  ],
+  "productReviews": [
+    {
+      "productId": 2991,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-02-09T07:26:04.3116479+02:00"
+    },
+    {
+      "productId": 3401,
+      "reviewText": "This input works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-03-08T11:53:08.503971+02:00"
+    },
+    {
+      "productId": 1817,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-07-12T22:22:43.3643994+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 40485,
+  "cartId": "274b439a-3c86-4e70-88a9-ea55a2ee5757",
+  "preferredProducts": [
+    2993,
+    4794,
+    4095,
+    4526
+  ],
+  "productReviews": [
+    {
+      "productId": 3609,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-09-27T09:30:11.6304215+03:00"
+    },
+    {
+      "productId": 554,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-09-23T17:19:28.1185729+03:00"
+    },
+    {
+      "productId": 4043,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-01-02T06:33:01.1121663+02:00"
+    },
+    {
+      "productId": 664,
+      "reviewText": "this Point is tasty.",
+      "reviewDate": "2018-03-28T07:25:05.3703007+03:00"
+    }
+  ]
+}

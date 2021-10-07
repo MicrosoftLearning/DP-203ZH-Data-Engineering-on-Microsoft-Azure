@@ -1,0 +1,41 @@
+{
+  "userId": 222,
+  "cartId": "4c00aa92-c45e-4a85-b50c-8116571ee569",
+  "preferredProducts": [
+    3832,
+    2202,
+    4631,
+    4436,
+    4237,
+    4747,
+    2008,
+    3543
+  ],
+  "productReviews": [
+    {
+      "productId": 2748,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-04-26T18:10:00.6957317+03:00"
+    },
+    {
+      "productId": 2962,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-12-17T20:47:35.2796397+02:00"
+    },
+    {
+      "productId": 4020,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-04-16T11:45:59.6065208+03:00"
+    },
+    {
+      "productId": 4345,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2016-12-23T17:14:29.6333606+02:00"
+    },
+    {
+      "productId": 4952,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-09-04T02:10:48.6157918+03:00"
+    }
+  ]
+}

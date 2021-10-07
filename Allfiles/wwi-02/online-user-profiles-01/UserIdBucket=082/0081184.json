@@ -1,0 +1,27 @@
+{
+  "userId": 81184,
+  "cartId": "2ec3b96b-143e-4612-b7e1-8ac176bfd0ae",
+  "preferredProducts": [
+    3456,
+    4554,
+    643,
+    3458,
+    739,
+    89,
+    67,
+    1910,
+    995
+  ],
+  "productReviews": [
+    {
+      "productId": 953,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-05-16T01:34:01.7859742+03:00"
+    },
+    {
+      "productId": 2871,
+      "reviewText": "this payment is nifty.",
+      "reviewDate": "2019-04-07T15:16:35.896105+03:00"
+    }
+  ]
+}

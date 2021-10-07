@@ -1,0 +1,37 @@
+{
+  "userId": 1434,
+  "cartId": "40b29fde-89de-44b5-88f2-d45aaa7e2351",
+  "preferredProducts": [
+    3697,
+    4123,
+    4014,
+    4869,
+    4532,
+    3661,
+    3039,
+    2720,
+    3515
+  ],
+  "productReviews": [
+    {
+      "productId": 3899,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-11-28T14:55:38.9707742+02:00"
+    },
+    {
+      "productId": 368,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-04-05T15:21:55.1826328+03:00"
+    },
+    {
+      "productId": 4997,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-09-19T07:15:13.2018491+03:00"
+    },
+    {
+      "productId": 310,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2016-08-31T12:21:35.3561927+03:00"
+    }
+  ]
+}

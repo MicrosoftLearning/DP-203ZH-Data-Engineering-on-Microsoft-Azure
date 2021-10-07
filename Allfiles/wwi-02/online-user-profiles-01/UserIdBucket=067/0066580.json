@@ -1,0 +1,30 @@
+{
+  "userId": 66580,
+  "cartId": "7a989081-cc1d-4185-af68-1c3e088c5be0",
+  "preferredProducts": [
+    2430,
+    1397,
+    4956,
+    2440,
+    4667,
+    3719,
+    3727
+  ],
+  "productReviews": [
+    {
+      "productId": 4368,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-11-29T10:51:36.8277193+02:00"
+    },
+    {
+      "productId": 3296,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-08-13T07:28:47.9648881+03:00"
+    },
+    {
+      "productId": 2554,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2016-11-12T05:55:21.8135636+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 43225,
+  "cartId": "440da8d5-6ad1-4188-90a3-81a4d51d4939",
+  "preferredProducts": [
+    3131,
+    2939,
+    1641,
+    2843,
+    1285,
+    2231,
+    2379
+  ],
+  "productReviews": [
+    {
+      "productId": 2232,
+      "reviewText": "this Optional is perplexed.",
+      "reviewDate": "2017-08-11T06:41:15.8201964+03:00"
+    },
+    {
+      "productId": 2068,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-12-26T14:55:20.0705316+02:00"
+    }
+  ]
+}

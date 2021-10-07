@@ -1,0 +1,23 @@
+{
+  "userId": 51001,
+  "cartId": "d05056b3-c61b-4267-b46e-b88109e678b1",
+  "preferredProducts": [
+    4324,
+    3797,
+    1697,
+    2819,
+    3370
+  ],
+  "productReviews": [
+    {
+      "productId": 583,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-10-11T13:33:45.5659239+03:00"
+    },
+    {
+      "productId": 2096,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-01-29T17:24:33.2599673+02:00"
+    }
+  ]
+}

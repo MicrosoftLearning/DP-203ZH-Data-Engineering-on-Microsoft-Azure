@@ -1,0 +1,32 @@
+{
+  "userId": 62100,
+  "cartId": "92c09fb5-849c-4749-9d07-9b09aa726a72",
+  "preferredProducts": [
+    705,
+    77,
+    3343,
+    4696,
+    3999,
+    3777,
+    4606,
+    3131,
+    1548
+  ],
+  "productReviews": [
+    {
+      "productId": 1535,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-06-10T21:44:29.4208222+03:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-06-26T18:06:25.3011612+03:00"
+    },
+    {
+      "productId": 996,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-03-21T10:19:30.5070258+02:00"
+    }
+  ]
+}

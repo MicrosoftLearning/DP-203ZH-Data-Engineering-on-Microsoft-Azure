@@ -1,0 +1,30 @@
+{
+  "userId": 2324,
+  "cartId": "70194666-c50d-4f24-93ef-6b6a07c8cbd7",
+  "preferredProducts": [
+    1898,
+    4952
+  ],
+  "productReviews": [
+    {
+      "productId": 3422,
+      "reviewText": "this auxiliary is flirty.",
+      "reviewDate": "2018-11-05T04:16:28.4273844+02:00"
+    },
+    {
+      "productId": 4675,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-01-10T17:48:11.6554589+02:00"
+    },
+    {
+      "productId": 3494,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-03-13T12:18:14.2402441+02:00"
+    },
+    {
+      "productId": 2214,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-09-01T18:30:17.4424536+03:00"
+    }
+  ]
+}

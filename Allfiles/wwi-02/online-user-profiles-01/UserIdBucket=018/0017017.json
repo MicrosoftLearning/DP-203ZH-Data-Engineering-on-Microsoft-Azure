@@ -1,0 +1,29 @@
+{
+  "userId": 17017,
+  "cartId": "8bf9ec78-5df0-453d-8f16-5e6557fbce30",
+  "preferredProducts": [
+    2933,
+    4906,
+    3591,
+    129,
+    2713,
+    78
+  ],
+  "productReviews": [
+    {
+      "productId": 1205,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-09-03T20:06:11.7117664+03:00"
+    },
+    {
+      "productId": 1087,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-04-25T00:13:21.0710584+03:00"
+    },
+    {
+      "productId": 1555,
+      "reviewText": "this Global is ghetto.",
+      "reviewDate": "2019-10-01T17:42:42.654831+03:00"
+    }
+  ]
+}

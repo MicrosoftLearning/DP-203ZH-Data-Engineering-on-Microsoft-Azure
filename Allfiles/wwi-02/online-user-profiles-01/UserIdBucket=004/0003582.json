@@ -1,0 +1,27 @@
+{
+  "userId": 3582,
+  "cartId": "9ddad699-4375-4f84-b803-02b82cf79b31",
+  "preferredProducts": [
+    1172,
+    259,
+    1882,
+    1587
+  ],
+  "productReviews": [
+    {
+      "productId": 3929,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-02-11T03:05:01.7660699+02:00"
+    },
+    {
+      "productId": 4332,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-01-07T23:41:00.8783361+02:00"
+    },
+    {
+      "productId": 1868,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-05-02T02:17:59.4979483+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 14261,
+  "cartId": "9f460679-42c1-4726-adb8-f23bcb791a5a",
+  "preferredProducts": [
+    3517,
+    4651,
+    4015,
+    4119,
+    4760,
+    2870,
+    548,
+    246,
+    1056,
+    3267
+  ],
+  "productReviews": [
+    {
+      "productId": 4883,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-03-18T23:30:44.4199931+02:00"
+    },
+    {
+      "productId": 637,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-09-25T15:03:07.5410143+03:00"
+    }
+  ]
+}

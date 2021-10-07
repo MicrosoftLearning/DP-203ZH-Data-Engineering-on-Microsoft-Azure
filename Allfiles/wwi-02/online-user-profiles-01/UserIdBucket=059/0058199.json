@@ -1,0 +1,30 @@
+{
+  "userId": 58199,
+  "cartId": "1b9fd040-7137-4765-a8c9-8d1b9d9afaa6",
+  "preferredProducts": [
+    4802,
+    3579,
+    4906,
+    1309,
+    4686,
+    2722,
+    290
+  ],
+  "productReviews": [
+    {
+      "productId": 2895,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-02-22T14:50:44.1897535+02:00"
+    },
+    {
+      "productId": 1921,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-03-03T23:30:37.8020728+02:00"
+    },
+    {
+      "productId": 3832,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-01-22T12:20:57.2212859+02:00"
+    }
+  ]
+}

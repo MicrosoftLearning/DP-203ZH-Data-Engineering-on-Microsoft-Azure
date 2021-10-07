@@ -1,0 +1,30 @@
+{
+  "userId": 43405,
+  "cartId": "d0828a02-336d-4ee7-943e-da3524a671d4",
+  "preferredProducts": [
+    2798,
+    986,
+    474,
+    2166,
+    4109,
+    2884,
+    2345
+  ],
+  "productReviews": [
+    {
+      "productId": 1654,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-02-22T21:48:49.8355234+02:00"
+    },
+    {
+      "productId": 2043,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-02-17T04:35:22.5201019+02:00"
+    },
+    {
+      "productId": 515,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-02-25T18:15:45.2513745+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 60528,
+  "cartId": "3cb6dd3d-23c5-4da4-9cc0-ecb3c4afd618",
+  "preferredProducts": [
+    4432,
+    1252,
+    2728,
+    4284,
+    405,
+    3980,
+    377,
+    2082
+  ],
+  "productReviews": [
+    {
+      "productId": 2054,
+      "reviewText": "this green is smooth.",
+      "reviewDate": "2020-04-11T04:29:05.3244876+03:00"
+    },
+    {
+      "productId": 4980,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-12-27T07:48:38.0625865+02:00"
+    },
+    {
+      "productId": 4512,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-02-06T01:52:50.702049+02:00"
+    }
+  ]
+}

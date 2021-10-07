@@ -1,0 +1,23 @@
+{
+  "userId": 30007,
+  "cartId": "9c7464e9-e3d3-4858-8829-33bd26b06ca5",
+  "preferredProducts": [
+    3993,
+    4520,
+    3221,
+    3530,
+    3778
+  ],
+  "productReviews": [
+    {
+      "productId": 166,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-06-23T10:09:42.1525133+03:00"
+    },
+    {
+      "productId": 254,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-10-06T11:14:04.4883376+03:00"
+    }
+  ]
+}

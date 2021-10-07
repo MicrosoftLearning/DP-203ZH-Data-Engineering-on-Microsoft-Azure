@@ -1,0 +1,26 @@
+{
+  "userId": 42479,
+  "cartId": "49c9e88d-6d05-4594-89bc-d4687790dde4",
+  "preferredProducts": [
+    3966,
+    4556,
+    3946
+  ],
+  "productReviews": [
+    {
+      "productId": 2034,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-08-23T17:37:19.5693395+03:00"
+    },
+    {
+      "productId": 1235,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-04-10T00:14:07.3395753+03:00"
+    },
+    {
+      "productId": 2998,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-12-21T20:26:27.2894655+02:00"
+    }
+  ]
+}

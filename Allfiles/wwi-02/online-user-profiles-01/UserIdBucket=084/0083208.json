@@ -1,0 +1,31 @@
+{
+  "userId": 83208,
+  "cartId": "ab84ce14-53c2-4481-9067-05b33bf3cdbb",
+  "preferredProducts": [
+    918,
+    3765,
+    3915
+  ],
+  "productReviews": [
+    {
+      "productId": 4995,
+      "reviewText": "This Buckinghamshire works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-04-03T04:21:05.7751699+03:00"
+    },
+    {
+      "productId": 4838,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-02-04T00:24:25.1226882+02:00"
+    },
+    {
+      "productId": 224,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-03-17T13:33:01.3757044+02:00"
+    },
+    {
+      "productId": 1167,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-10-05T18:20:53.2234924+03:00"
+    }
+  ]
+}

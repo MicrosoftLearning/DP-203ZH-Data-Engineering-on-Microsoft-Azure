@@ -1,0 +1,30 @@
+{
+  "userId": 32207,
+  "cartId": "9d25387c-709d-46d6-81ca-9220944852e1",
+  "preferredProducts": [
+    4870,
+    4685,
+    1233,
+    3082,
+    2770,
+    1565,
+    4123
+  ],
+  "productReviews": [
+    {
+      "productId": 2416,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-12-25T20:26:13.9985019+02:00"
+    },
+    {
+      "productId": 3185,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-12-05T05:59:14.3530678+02:00"
+    },
+    {
+      "productId": 4127,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2018-05-22T20:21:09.2591547+03:00"
+    }
+  ]
+}

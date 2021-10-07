@@ -1,0 +1,31 @@
+{
+  "userId": 44495,
+  "cartId": "7d5caf77-d9ed-4a36-af0b-e38638609188",
+  "preferredProducts": [
+    3004,
+    4024,
+    806,
+    3942,
+    3832,
+    4286,
+    38,
+    484
+  ],
+  "productReviews": [
+    {
+      "productId": 4815,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-01-09T12:47:40.4786063+02:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-04-30T10:06:56.1813711+03:00"
+    },
+    {
+      "productId": 510,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-12-14T20:42:36.2616632+02:00"
+    }
+  ]
+}

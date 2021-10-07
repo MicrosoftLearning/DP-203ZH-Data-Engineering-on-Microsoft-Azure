@@ -1,0 +1,32 @@
+{
+  "userId": 22351,
+  "cartId": "1747f444-3858-4c0e-8ac9-f883feba0019",
+  "preferredProducts": [
+    2,
+    3896,
+    4468,
+    631
+  ],
+  "productReviews": [
+    {
+      "productId": 911,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-08-25T23:46:03.2356526+03:00"
+    },
+    {
+      "productId": 812,
+      "reviewText": "this Awesome is ghetto.",
+      "reviewDate": "2017-09-04T15:45:35.1597931+03:00"
+    },
+    {
+      "productId": 1320,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-12-06T04:04:55.7178371+02:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-09-05T14:40:10.8648931+03:00"
+    }
+  ]
+}

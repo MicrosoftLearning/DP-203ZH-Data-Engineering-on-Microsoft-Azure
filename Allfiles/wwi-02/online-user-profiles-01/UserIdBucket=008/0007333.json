@@ -1,0 +1,32 @@
+{
+  "userId": 7333,
+  "cartId": "ea681db1-3a30-45a2-95d3-70e2576af8ee",
+  "preferredProducts": [
+    2135,
+    1169,
+    411,
+    4854
+  ],
+  "productReviews": [
+    {
+      "productId": 4417,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-30T12:11:27.902372+02:00"
+    },
+    {
+      "productId": 4849,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-12-18T03:55:24.8702833+02:00"
+    },
+    {
+      "productId": 2518,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-10-27T21:28:03.9493836+03:00"
+    },
+    {
+      "productId": 4020,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-02-19T14:30:59.8938771+02:00"
+    }
+  ]
+}

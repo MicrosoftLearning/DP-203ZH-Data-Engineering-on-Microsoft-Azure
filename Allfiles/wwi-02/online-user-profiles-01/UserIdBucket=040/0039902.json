@@ -1,0 +1,29 @@
+{
+  "userId": 39902,
+  "cartId": "ecba9ae5-9449-4366-ad4b-a667c68422f8",
+  "preferredProducts": [
+    4224,
+    1614,
+    1375,
+    4332,
+    4467,
+    3366
+  ],
+  "productReviews": [
+    {
+      "productId": 3202,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-02-02T16:41:30.3416174+02:00"
+    },
+    {
+      "productId": 2916,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-02-11T02:30:26.7039551+02:00"
+    },
+    {
+      "productId": 3962,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-04-19T08:04:52.5374367+03:00"
+    }
+  ]
+}

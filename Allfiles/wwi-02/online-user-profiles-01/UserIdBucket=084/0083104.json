@@ -1,0 +1,31 @@
+{
+  "userId": 83104,
+  "cartId": "f7ef6858-3fe5-46d4-93e1-c11472f035c2",
+  "preferredProducts": [
+    166,
+    4451,
+    4583,
+    2354,
+    4955,
+    3129,
+    201,
+    1079
+  ],
+  "productReviews": [
+    {
+      "productId": 662,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-09-01T14:08:10.7787955+03:00"
+    },
+    {
+      "productId": 2446,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-03-10T13:28:39.8471444+02:00"
+    },
+    {
+      "productId": 1403,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-07-19T08:00:01.260591+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 1004,
+  "cartId": "f097f055-0605-4c30-8d0a-a5cfc01ebb90",
+  "preferredProducts": [
+    947,
+    871,
+    4177,
+    2795,
+    1384,
+    4829,
+    2571
+  ],
+  "productReviews": [
+    {
+      "productId": 2433,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-09-19T16:21:30.1573103+03:00"
+    },
+    {
+      "productId": 2593,
+      "reviewText": "this turquoise is gracious.",
+      "reviewDate": "2017-11-02T21:34:03.6944697+02:00"
+    },
+    {
+      "productId": 2273,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-02-01T18:04:28.2413331+02:00"
+    },
+    {
+      "productId": 1147,
+      "reviewText": "this Checking Account is ratty.",
+      "reviewDate": "2018-06-26T11:01:57.1628615+03:00"
+    }
+  ]
+}

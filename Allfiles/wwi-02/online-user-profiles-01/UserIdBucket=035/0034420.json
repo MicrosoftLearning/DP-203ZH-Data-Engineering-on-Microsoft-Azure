@@ -1,0 +1,33 @@
+{
+  "userId": 34420,
+  "cartId": "59501cbb-012a-4d7e-8a1a-6c3253bcd495",
+  "preferredProducts": [
+    172,
+    4946,
+    2936,
+    641,
+    3373
+  ],
+  "productReviews": [
+    {
+      "productId": 418,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-03-28T23:58:15.3665135+02:00"
+    },
+    {
+      "productId": 4185,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-10-18T01:15:51.276781+03:00"
+    },
+    {
+      "productId": 3799,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-10-24T19:03:45.7248862+03:00"
+    },
+    {
+      "productId": 2847,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-02-21T23:52:07.0504565+02:00"
+    }
+  ]
+}

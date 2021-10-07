@@ -1,0 +1,32 @@
+{
+  "userId": 50193,
+  "cartId": "d5e5c108-33a8-4e50-9c67-d7c10a2e6540",
+  "preferredProducts": [
+    512,
+    1606,
+    3495,
+    412
+  ],
+  "productReviews": [
+    {
+      "productId": 4229,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-02-08T17:18:04.3339124+02:00"
+    },
+    {
+      "productId": 2300,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-08-29T10:21:59.1550645+03:00"
+    },
+    {
+      "productId": 3462,
+      "reviewText": "this architectures is slurpee.",
+      "reviewDate": "2018-02-25T03:59:44.8220481+02:00"
+    },
+    {
+      "productId": 2353,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2016-09-06T08:57:09.2487491+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 91464,
+  "cartId": "1c1012ff-6451-4d10-9ead-42edf38e3a53",
+  "preferredProducts": [
+    3837,
+    218,
+    1881,
+    3729,
+    1168
+  ],
+  "productReviews": [
+    {
+      "productId": 588,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-02-18T14:20:17.8357876+02:00"
+    },
+    {
+      "productId": 1090,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-02-27T02:59:03.8007528+02:00"
+    },
+    {
+      "productId": 4656,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-11-22T01:49:17.7256524+02:00"
+    },
+    {
+      "productId": 3360,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-10-12T11:38:25.7033652+03:00"
+    },
+    {
+      "productId": 721,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-06-16T01:55:12.3444552+03:00"
+    }
+  ]
+}

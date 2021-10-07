@@ -1,0 +1,33 @@
+{
+  "userId": 92538,
+  "cartId": "8045ada9-9689-4351-b350-c62de89ccc64",
+  "preferredProducts": [
+    4543,
+    1193,
+    760,
+    1764,
+    2608
+  ],
+  "productReviews": [
+    {
+      "productId": 3123,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-06-01T09:31:27.9569883+03:00"
+    },
+    {
+      "productId": 3145,
+      "reviewText": "this Kuwait is top-notch.",
+      "reviewDate": "2018-02-28T00:07:12.5622892+02:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-08-20T09:40:26.6517159+03:00"
+    },
+    {
+      "productId": 2153,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-06-03T00:24:40.7247158+03:00"
+    }
+  ]
+}

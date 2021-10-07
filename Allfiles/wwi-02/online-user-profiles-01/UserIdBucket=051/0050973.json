@@ -1,0 +1,36 @@
+{
+  "userId": 50973,
+  "cartId": "5cddf07a-28d1-43b6-a606-95e7a06d7860",
+  "preferredProducts": [
+    1799,
+    743,
+    3037,
+    4842,
+    4865,
+    2110,
+    3741,
+    1291
+  ],
+  "productReviews": [
+    {
+      "productId": 692,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-10-04T14:21:22.6668536+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-09-27T01:14:51.6559784+03:00"
+    },
+    {
+      "productId": 1851,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-02-26T09:07:55.2172293+02:00"
+    },
+    {
+      "productId": 3247,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-10-03T06:39:16.6970648+03:00"
+    }
+  ]
+}

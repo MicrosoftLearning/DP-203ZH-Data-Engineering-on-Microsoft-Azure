@@ -1,0 +1,25 @@
+{
+  "userId": 3259,
+  "cartId": "aefe95ab-53c3-424d-8f81-bbba246e5807",
+  "preferredProducts": [
+    1356,
+    2047
+  ],
+  "productReviews": [
+    {
+      "productId": 3045,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-03-26T18:47:03.0226421+02:00"
+    },
+    {
+      "productId": 3212,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-04-23T20:01:16.636884+03:00"
+    },
+    {
+      "productId": 619,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-08-12T18:45:03.3642056+03:00"
+    }
+  ]
+}

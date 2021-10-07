@@ -1,0 +1,31 @@
+{
+  "userId": 2130,
+  "cartId": "11bad41b-38fd-4717-ba7d-4bb49cf4e660",
+  "preferredProducts": [
+    1707,
+    3136,
+    1024
+  ],
+  "productReviews": [
+    {
+      "productId": 1729,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-04-11T06:29:15.4373246+03:00"
+    },
+    {
+      "productId": 2046,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-11-17T10:51:46.4502786+02:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-11-30T18:31:06.5350879+02:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-07-22T03:34:40.3170122+03:00"
+    }
+  ]
+}

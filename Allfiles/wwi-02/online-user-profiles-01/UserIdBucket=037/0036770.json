@@ -1,0 +1,32 @@
+{
+  "userId": 36770,
+  "cartId": "8657a501-4acb-4bf3-a234-8f57f588196b",
+  "preferredProducts": [
+    2922,
+    3783,
+    4859,
+    3317,
+    4955,
+    1576,
+    2650,
+    4180,
+    3175
+  ],
+  "productReviews": [
+    {
+      "productId": 62,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-11-02T02:14:13.8467009+02:00"
+    },
+    {
+      "productId": 3853,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-07-22T20:30:22.5418415+03:00"
+    },
+    {
+      "productId": 993,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-01-14T19:23:37.4768283+02:00"
+    }
+  ]
+}

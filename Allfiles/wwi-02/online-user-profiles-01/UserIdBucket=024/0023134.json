@@ -1,0 +1,33 @@
+{
+  "userId": 23134,
+  "cartId": "e216161f-a6b1-4ae2-94eb-98e91665c90c",
+  "preferredProducts": [
+    3368,
+    497,
+    1986,
+    4088,
+    1431
+  ],
+  "productReviews": [
+    {
+      "productId": 2035,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-09-26T14:28:36.5121344+03:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "this project is gracious.",
+      "reviewDate": "2018-08-30T03:30:49.5917793+03:00"
+    },
+    {
+      "productId": 2495,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-03-06T09:56:59.5185036+02:00"
+    },
+    {
+      "productId": 3862,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-12-18T18:29:34.1199633+02:00"
+    }
+  ]
+}

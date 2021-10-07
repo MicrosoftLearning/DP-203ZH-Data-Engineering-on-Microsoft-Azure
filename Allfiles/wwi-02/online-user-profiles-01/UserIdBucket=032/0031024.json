@@ -1,0 +1,35 @@
+{
+  "userId": 31024,
+  "cartId": "b13c7815-23ff-48cf-b34c-0889f806e2f3",
+  "preferredProducts": [
+    1572,
+    816,
+    4080,
+    1755,
+    1196,
+    1096,
+    4349
+  ],
+  "productReviews": [
+    {
+      "productId": 2465,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-02-20T23:50:28.2308389+02:00"
+    },
+    {
+      "productId": 4222,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-09-26T00:55:30.8776783+03:00"
+    },
+    {
+      "productId": 595,
+      "reviewText": "this Saint Helena is perplexed.",
+      "reviewDate": "2016-10-07T06:45:59.6400759+03:00"
+    },
+    {
+      "productId": 971,
+      "reviewText": "this copying is complimentary.",
+      "reviewDate": "2018-09-04T16:32:49.9029056+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 178,
+  "cartId": "4b2262b4-198c-4455-a3ad-496320fceaa5",
+  "preferredProducts": [
+    3050,
+    2894,
+    3437,
+    1146,
+    3662,
+    2450,
+    4802,
+    4351
+  ],
+  "productReviews": [
+    {
+      "productId": 252,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-01-18T01:57:51.6774115+02:00"
+    },
+    {
+      "productId": 4725,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-12-21T02:29:00.5381019+02:00"
+    },
+    {
+      "productId": 4872,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-06-11T05:06:28.7718351+03:00"
+    },
+    {
+      "productId": 3223,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-03-13T07:22:14.9032763+02:00"
+    },
+    {
+      "productId": 4968,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-07-24T02:25:51.5568416+03:00"
+    }
+  ]
+}

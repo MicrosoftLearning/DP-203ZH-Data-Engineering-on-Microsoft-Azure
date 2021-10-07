@@ -1,0 +1,27 @@
+{
+  "userId": 5147,
+  "cartId": "7a979343-14b2-4afa-9a2a-54cd12046c1d",
+  "preferredProducts": [
+    297,
+    2810,
+    4993,
+    629,
+    4331,
+    3236,
+    3173,
+    4274,
+    3387
+  ],
+  "productReviews": [
+    {
+      "productId": 1240,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-08-17T13:04:44.5288975+03:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-10-04T06:31:29.7636564+03:00"
+    }
+  ]
+}

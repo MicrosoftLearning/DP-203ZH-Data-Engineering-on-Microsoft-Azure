@@ -1,0 +1,29 @@
+{
+  "userId": 1001,
+  "cartId": "1513543b-b4df-46bb-a43b-df9ff7d21cc0",
+  "preferredProducts": [
+    3716,
+    3608,
+    2859,
+    2704,
+    139,
+    61
+  ],
+  "productReviews": [
+    {
+      "productId": 3522,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-02-20T07:53:41.0653216+02:00"
+    },
+    {
+      "productId": 2692,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-07-18T23:05:31.0928893+03:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-03-24T21:02:22.8244966+02:00"
+    }
+  ]
+}

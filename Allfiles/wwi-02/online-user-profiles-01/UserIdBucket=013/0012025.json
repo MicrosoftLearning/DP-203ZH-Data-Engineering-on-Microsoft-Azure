@@ -1,0 +1,31 @@
+{
+  "userId": 12025,
+  "cartId": "a26378fa-791a-4173-b8c0-b0a3524a1da7",
+  "preferredProducts": [
+    4123,
+    545,
+    2861
+  ],
+  "productReviews": [
+    {
+      "productId": 1775,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-12-15T05:10:36.4511884+02:00"
+    },
+    {
+      "productId": 70,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-12-26T11:23:13.542562+02:00"
+    },
+    {
+      "productId": 4998,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-12-01T11:42:50.0325066+02:00"
+    },
+    {
+      "productId": 3871,
+      "reviewText": "This Implementation works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2016-10-29T20:58:24.1683538+03:00"
+    }
+  ]
+}

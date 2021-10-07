@@ -1,0 +1,28 @@
+{
+  "userId": 22117,
+  "cartId": "c03b4b8f-3e44-4282-82f2-8791f3d96e36",
+  "preferredProducts": [
+    3011,
+    3193,
+    1189,
+    3771,
+    1202
+  ],
+  "productReviews": [
+    {
+      "productId": 2534,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-04-29T08:13:20.1131061+03:00"
+    },
+    {
+      "productId": 2425,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-04-18T15:08:20.1584732+03:00"
+    },
+    {
+      "productId": 3404,
+      "reviewText": "This Metical works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-02-16T03:55:37.6922923+02:00"
+    }
+  ]
+}

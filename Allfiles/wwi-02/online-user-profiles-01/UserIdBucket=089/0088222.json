@@ -1,0 +1,37 @@
+{
+  "userId": 88222,
+  "cartId": "a6534533-efbe-4185-8580-09cc5ea029c8",
+  "preferredProducts": [
+    4798,
+    4888,
+    785,
+    2872,
+    927,
+    2321,
+    245,
+    295,
+    4560
+  ],
+  "productReviews": [
+    {
+      "productId": 4499,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-04-28T05:41:47.1885434+03:00"
+    },
+    {
+      "productId": 4768,
+      "reviewText": "This Jewelery & Garden works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-10-20T01:51:30.0525509+03:00"
+    },
+    {
+      "productId": 4697,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-07-22T00:55:20.8059752+03:00"
+    },
+    {
+      "productId": 3627,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-07-24T02:48:20.7065235+03:00"
+    }
+  ]
+}

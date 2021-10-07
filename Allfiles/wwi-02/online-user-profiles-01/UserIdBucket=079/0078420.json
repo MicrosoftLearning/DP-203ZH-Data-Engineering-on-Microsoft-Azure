@@ -1,0 +1,23 @@
+{
+  "userId": 78420,
+  "cartId": "df1ca59a-8b5e-4bc1-a931-5adfd9254e0d",
+  "preferredProducts": [
+    1004,
+    1574,
+    237,
+    279,
+    1658
+  ],
+  "productReviews": [
+    {
+      "productId": 2447,
+      "reviewText": "This web-readiness works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-07-29T17:36:58.5946916+03:00"
+    },
+    {
+      "productId": 2860,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-05-25T04:20:15.2714271+03:00"
+    }
+  ]
+}

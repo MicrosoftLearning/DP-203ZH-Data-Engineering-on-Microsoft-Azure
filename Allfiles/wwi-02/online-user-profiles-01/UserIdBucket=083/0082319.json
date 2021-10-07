@@ -1,0 +1,32 @@
+{
+  "userId": 82319,
+  "cartId": "00edba95-41de-4ab8-a8ed-ed390cc7be81",
+  "preferredProducts": [
+    1972,
+    2153,
+    971,
+    3871
+  ],
+  "productReviews": [
+    {
+      "productId": 3580,
+      "reviewText": "this New York is tasty.",
+      "reviewDate": "2019-02-19T17:30:08.048298+02:00"
+    },
+    {
+      "productId": 1121,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2020-02-09T08:45:27.9068798+02:00"
+    },
+    {
+      "productId": 4181,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2020-01-06T13:26:36.5456893+02:00"
+    },
+    {
+      "productId": 387,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-11-08T07:51:22.0023244+02:00"
+    }
+  ]
+}

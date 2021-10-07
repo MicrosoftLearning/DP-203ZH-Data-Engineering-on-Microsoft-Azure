@@ -1,0 +1,31 @@
+{
+  "userId": 87594,
+  "cartId": "f56ae536-6f5d-4df8-8a39-83881c74c708",
+  "preferredProducts": [
+    896,
+    599,
+    2541,
+    748,
+    1915,
+    2919,
+    3073,
+    872
+  ],
+  "productReviews": [
+    {
+      "productId": 3047,
+      "reviewText": "this Ranch is nifty.",
+      "reviewDate": "2018-08-28T08:32:31.4925327+03:00"
+    },
+    {
+      "productId": 3473,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2016-06-27T00:57:35.897317+03:00"
+    },
+    {
+      "productId": 3981,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-02-26T01:26:19.7383833+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 86280,
+  "cartId": "5af2daf4-9c58-4d53-b74e-2a7dd6c9d8f9",
+  "preferredProducts": [
+    272,
+    1384,
+    487,
+    1618,
+    4085,
+    4330
+  ],
+  "productReviews": [
+    {
+      "productId": 119,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2020-03-02T18:30:23.9212329+02:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "this Mews is papery.",
+      "reviewDate": "2018-02-05T18:08:55.3287169+02:00"
+    },
+    {
+      "productId": 2826,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-09-03T08:12:51.9783691+03:00"
+    },
+    {
+      "productId": 567,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-03-19T22:47:59.5834734+02:00"
+    }
+  ]
+}

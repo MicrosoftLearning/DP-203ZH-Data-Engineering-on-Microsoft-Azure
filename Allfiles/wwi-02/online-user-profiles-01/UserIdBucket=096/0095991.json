@@ -1,0 +1,41 @@
+{
+  "userId": 95991,
+  "cartId": "4e5b3912-0c42-42a3-bb4e-04071e08cdef",
+  "preferredProducts": [
+    49,
+    4128,
+    1315,
+    2885,
+    1961,
+    4624,
+    4382,
+    2448
+  ],
+  "productReviews": [
+    {
+      "productId": 2761,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-06-16T18:07:24.3305244+03:00"
+    },
+    {
+      "productId": 841,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-08-19T01:20:36.2968554+03:00"
+    },
+    {
+      "productId": 139,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-10-08T15:43:36.6037948+03:00"
+    },
+    {
+      "productId": 1054,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-06-19T05:10:21.1346345+03:00"
+    },
+    {
+      "productId": 374,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2020-02-14T18:05:58.2805079+02:00"
+    }
+  ]
+}

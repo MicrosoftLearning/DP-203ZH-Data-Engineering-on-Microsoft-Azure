@@ -1,0 +1,39 @@
+{
+  "userId": 87756,
+  "cartId": "a4b5c340-0baf-4553-9876-0e56a57c00fd",
+  "preferredProducts": [
+    1709,
+    2843,
+    3754,
+    2431,
+    2571,
+    306
+  ],
+  "productReviews": [
+    {
+      "productId": 2112,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-04-11T00:19:26.3700624+03:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-03-24T08:12:28.3619432+02:00"
+    },
+    {
+      "productId": 3025,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-01-10T00:35:32.1073826+02:00"
+    },
+    {
+      "productId": 257,
+      "reviewText": "this Directives is light-hearted.",
+      "reviewDate": "2017-06-16T14:39:47.9591831+03:00"
+    },
+    {
+      "productId": 4035,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-09-06T19:33:14.3905914+03:00"
+    }
+  ]
+}

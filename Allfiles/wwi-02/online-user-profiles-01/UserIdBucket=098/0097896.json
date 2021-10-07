@@ -1,0 +1,27 @@
+{
+  "userId": 97896,
+  "cartId": "e3cf0a2f-1730-4b02-a228-7a0e3ba100e2",
+  "preferredProducts": [
+    3217,
+    4563,
+    3816,
+    4253
+  ],
+  "productReviews": [
+    {
+      "productId": 2019,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-11-21T07:40:10.5369163+02:00"
+    },
+    {
+      "productId": 3072,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-06-23T03:27:52.6734629+03:00"
+    },
+    {
+      "productId": 4520,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-24T18:21:27.3212058+02:00"
+    }
+  ]
+}

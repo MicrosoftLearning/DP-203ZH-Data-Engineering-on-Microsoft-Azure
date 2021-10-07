@@ -1,0 +1,24 @@
+{
+  "userId": 42637,
+  "cartId": "14f43c6d-cbb9-4053-b2f6-b06913004220",
+  "preferredProducts": [
+    2037,
+    561,
+    1853,
+    3774,
+    1726,
+    3190
+  ],
+  "productReviews": [
+    {
+      "productId": 443,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-03-05T18:56:28.2801354+02:00"
+    },
+    {
+      "productId": 1153,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-01-31T02:09:00.4843108+02:00"
+    }
+  ]
+}

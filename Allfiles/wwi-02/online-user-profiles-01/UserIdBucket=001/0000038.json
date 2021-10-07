@@ -1,0 +1,30 @@
+{
+  "userId": 38,
+  "cartId": "46b8667a-09e2-463e-9a69-86555b3168b3",
+  "preferredProducts": [
+    2601,
+    1559,
+    2202,
+    3767,
+    90,
+    47,
+    3724
+  ],
+  "productReviews": [
+    {
+      "productId": 216,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-03-17T01:07:01.6582296+02:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-07-13T11:36:30.79264+03:00"
+    },
+    {
+      "productId": 1685,
+      "reviewText": "this 24/7 is smooth.",
+      "reviewDate": "2018-09-16T16:17:50.7748003+03:00"
+    }
+  ]
+}

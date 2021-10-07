@@ -1,0 +1,27 @@
+{
+  "userId": 25136,
+  "cartId": "7b59c1e7-eba9-4ebd-8b1f-fc467a431705",
+  "preferredProducts": [
+    3583,
+    2178,
+    91,
+    1935
+  ],
+  "productReviews": [
+    {
+      "productId": 3775,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-05-27T09:01:00.4039513+03:00"
+    },
+    {
+      "productId": 1092,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-03-30T10:25:51.7029283+03:00"
+    },
+    {
+      "productId": 4844,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-08-11T14:21:56.7726759+03:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 70930,
+  "cartId": "7d80b903-3e09-4041-9844-ea40a865cb30",
+  "preferredProducts": [
+    2010,
+    3544,
+    1915,
+    352,
+    73,
+    3999,
+    222
+  ],
+  "productReviews": [
+    {
+      "productId": 4968,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-07-24T09:26:19.3198813+03:00"
+    },
+    {
+      "productId": 2145,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-08-26T01:19:31.1289988+03:00"
+    },
+    {
+      "productId": 1939,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-12-13T21:12:14.0451998+02:00"
+    },
+    {
+      "productId": 1235,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-02-04T23:37:06.6534996+02:00"
+    },
+    {
+      "productId": 4086,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-06-08T13:34:30.9164637+03:00"
+    }
+  ]
+}

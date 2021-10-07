@@ -1,0 +1,30 @@
+{
+  "userId": 67882,
+  "cartId": "a0ffbf09-e593-43cc-9035-4491f056a17b",
+  "preferredProducts": [
+    238,
+    1691,
+    78,
+    2579,
+    1187,
+    360,
+    1962
+  ],
+  "productReviews": [
+    {
+      "productId": 966,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-10-11T04:29:08.0573337+03:00"
+    },
+    {
+      "productId": 2785,
+      "reviewText": "this Meadow is papery.",
+      "reviewDate": "2017-06-24T23:51:32.6760199+03:00"
+    },
+    {
+      "productId": 2020,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-07-29T17:41:27.0466287+03:00"
+    }
+  ]
+}

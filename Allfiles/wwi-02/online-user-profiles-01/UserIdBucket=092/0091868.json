@@ -1,0 +1,35 @@
+{
+  "userId": 91868,
+  "cartId": "f4a0015d-4d4a-4f11-b38e-e4b89a031932",
+  "preferredProducts": [
+    2675,
+    4052,
+    1411,
+    3964,
+    2098,
+    1764,
+    2739
+  ],
+  "productReviews": [
+    {
+      "productId": 4323,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-05-31T15:05:31.5819356+03:00"
+    },
+    {
+      "productId": 1507,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-08-15T06:24:19.7212533+03:00"
+    },
+    {
+      "productId": 4184,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-04-09T20:13:43.0024419+03:00"
+    },
+    {
+      "productId": 2732,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-12-15T04:16:55.165702+02:00"
+    }
+  ]
+}

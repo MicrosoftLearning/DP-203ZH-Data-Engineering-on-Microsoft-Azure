@@ -1,0 +1,36 @@
+{
+  "userId": 29841,
+  "cartId": "8042fb22-9f0e-4b4e-96ef-f2983d321149",
+  "preferredProducts": [
+    114,
+    2211,
+    2971
+  ],
+  "productReviews": [
+    {
+      "productId": 4479,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-11-21T07:48:04.7946254+02:00"
+    },
+    {
+      "productId": 4972,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-05-08T22:23:47.7006131+03:00"
+    },
+    {
+      "productId": 4908,
+      "reviewText": "this online is ratty.",
+      "reviewDate": "2018-09-01T03:22:29.1331695+03:00"
+    },
+    {
+      "productId": 3104,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-07-18T18:18:14.2755177+03:00"
+    },
+    {
+      "productId": 4071,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-07-28T01:33:00.7557649+03:00"
+    }
+  ]
+}

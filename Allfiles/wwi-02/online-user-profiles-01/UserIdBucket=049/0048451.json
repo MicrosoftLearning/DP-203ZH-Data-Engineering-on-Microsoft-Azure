@@ -1,0 +1,32 @@
+{
+  "userId": 48451,
+  "cartId": "5b7092c3-3ff7-4592-8b56-8e6237baff66",
+  "preferredProducts": [
+    2971,
+    1282,
+    2079,
+    2945,
+    4180,
+    47,
+    2895,
+    3739,
+    4908
+  ],
+  "productReviews": [
+    {
+      "productId": 2899,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-02-04T16:32:37.7926535+02:00"
+    },
+    {
+      "productId": 1247,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-02-16T08:59:20.8797771+02:00"
+    },
+    {
+      "productId": 2755,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-07-17T07:39:11.0940795+03:00"
+    }
+  ]
+}

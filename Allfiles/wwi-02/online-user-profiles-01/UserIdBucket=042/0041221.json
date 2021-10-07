@@ -1,0 +1,33 @@
+{
+  "userId": 41221,
+  "cartId": "5b1811dd-3912-4060-82ba-a2fb80a27f9f",
+  "preferredProducts": [
+    1810,
+    4716,
+    3212,
+    1932,
+    3019,
+    2945,
+    241,
+    1853,
+    2445,
+    2757
+  ],
+  "productReviews": [
+    {
+      "productId": 370,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-01-09T12:01:31.0419594+02:00"
+    },
+    {
+      "productId": 4811,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-01-25T07:35:20.3186092+02:00"
+    },
+    {
+      "productId": 3714,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-01-29T02:37:27.22062+02:00"
+    }
+  ]
+}

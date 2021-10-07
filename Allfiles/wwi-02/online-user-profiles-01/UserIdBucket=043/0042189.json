@@ -1,0 +1,32 @@
+{
+  "userId": 42189,
+  "cartId": "0b0dd1fe-1695-4b58-93ef-5c3409c012c2",
+  "preferredProducts": [
+    2941,
+    4416,
+    3944,
+    752,
+    4712,
+    1577,
+    3227,
+    594,
+    131
+  ],
+  "productReviews": [
+    {
+      "productId": 611,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-01-16T16:26:00.0420891+02:00"
+    },
+    {
+      "productId": 4747,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2016-05-20T11:33:58.9129442+03:00"
+    },
+    {
+      "productId": 1810,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-12-04T22:12:44.5952152+02:00"
+    }
+  ]
+}

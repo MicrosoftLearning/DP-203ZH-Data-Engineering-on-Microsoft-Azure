@@ -1,0 +1,33 @@
+{
+  "userId": 82483,
+  "cartId": "720e29b7-896c-4abb-bfd1-a2bdf65e5450",
+  "preferredProducts": [
+    3490,
+    1249,
+    1748,
+    246,
+    3149
+  ],
+  "productReviews": [
+    {
+      "productId": 3410,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-10-20T22:21:02.0230331+03:00"
+    },
+    {
+      "productId": 4998,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-12-18T20:46:44.3840437+02:00"
+    },
+    {
+      "productId": 1657,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-09-28T13:53:58.6830418+03:00"
+    },
+    {
+      "productId": 61,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-01-30T07:44:34.9862735+02:00"
+    }
+  ]
+}

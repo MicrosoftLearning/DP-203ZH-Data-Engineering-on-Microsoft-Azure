@@ -1,0 +1,40 @@
+{
+  "userId": 10319,
+  "cartId": "00bd7160-5406-49ae-bc0f-98de55f8b1c5",
+  "preferredProducts": [
+    3451,
+    370,
+    4305,
+    2872,
+    2298,
+    2366,
+    894
+  ],
+  "productReviews": [
+    {
+      "productId": 3394,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-09-06T02:02:47.0605733+03:00"
+    },
+    {
+      "productId": 2755,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-11-28T06:07:59.4610598+02:00"
+    },
+    {
+      "productId": 389,
+      "reviewText": "this Knoll is mellow.",
+      "reviewDate": "2017-11-05T17:21:16.9029572+02:00"
+    },
+    {
+      "productId": 2513,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-10-21T04:30:27.2443256+03:00"
+    },
+    {
+      "productId": 176,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-06-19T23:38:51.0114803+03:00"
+    }
+  ]
+}

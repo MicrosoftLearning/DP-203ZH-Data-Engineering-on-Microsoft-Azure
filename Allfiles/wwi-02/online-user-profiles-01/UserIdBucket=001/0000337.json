@@ -1,0 +1,39 @@
+{
+  "userId": 337,
+  "cartId": "dd0e987d-d115-4127-bfa6-88f2473f49fe",
+  "preferredProducts": [
+    1600,
+    1635,
+    3581,
+    2710,
+    2381,
+    2610
+  ],
+  "productReviews": [
+    {
+      "productId": 1977,
+      "reviewText": "this dynamic is ratty.",
+      "reviewDate": "2019-09-30T21:35:16.3226958+03:00"
+    },
+    {
+      "productId": 4027,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-05-23T21:23:36.2409435+03:00"
+    },
+    {
+      "productId": 3409,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-03-31T08:58:26.3051309+03:00"
+    },
+    {
+      "productId": 4566,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2019-07-30T12:18:02.4285825+03:00"
+    },
+    {
+      "productId": 3492,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-12-16T12:09:23.4359695+02:00"
+    }
+  ]
+}

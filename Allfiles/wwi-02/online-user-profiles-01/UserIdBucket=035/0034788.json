@@ -1,0 +1,24 @@
+{
+  "userId": 34788,
+  "cartId": "9ec7b66d-8e75-4d6f-919a-635a15af12ff",
+  "preferredProducts": [
+    3071
+  ],
+  "productReviews": [
+    {
+      "productId": 4750,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-07-26T05:37:07.0105978+03:00"
+    },
+    {
+      "productId": 2247,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2020-04-24T12:08:10.2087565+03:00"
+    },
+    {
+      "productId": 3853,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-02-20T08:57:20.2729914+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 22683,
+  "cartId": "d99132d2-564f-4aba-8ff6-4185d873203c",
+  "preferredProducts": [
+    916,
+    4451,
+    50,
+    1041,
+    3944,
+    2949,
+    1517,
+    1502,
+    65
+  ],
+  "productReviews": [
+    {
+      "productId": 482,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-12-07T03:50:03.8626903+02:00"
+    },
+    {
+      "productId": 3121,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-08-25T00:18:32.7380161+03:00"
+    },
+    {
+      "productId": 2981,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2020-01-31T02:08:11.4473051+02:00"
+    }
+  ]
+}

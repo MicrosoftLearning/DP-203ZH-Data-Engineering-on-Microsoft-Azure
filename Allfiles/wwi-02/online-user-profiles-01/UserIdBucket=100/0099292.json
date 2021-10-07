@@ -1,0 +1,31 @@
+{
+  "userId": 99292,
+  "cartId": "6ea2b115-7513-4e16-865e-be7f86bba817",
+  "preferredProducts": [
+    1964,
+    2442,
+    4917,
+    3855,
+    837,
+    383,
+    3570,
+    4486
+  ],
+  "productReviews": [
+    {
+      "productId": 2800,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2016-12-24T09:17:29.2461614+02:00"
+    },
+    {
+      "productId": 1440,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-11-20T05:42:03.211631+02:00"
+    },
+    {
+      "productId": 1304,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-05-17T21:18:24.8441239+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 25066,
+  "cartId": "c63022ef-4fde-46f5-ab9d-dda42b13900c",
+  "preferredProducts": [
+    1318,
+    2643,
+    3674
+  ],
+  "productReviews": [
+    {
+      "productId": 1735,
+      "reviewText": "this 24/7 is brown.",
+      "reviewDate": "2016-12-19T19:16:55.6704037+02:00"
+    },
+    {
+      "productId": 1673,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-02-27T14:49:51.9409891+02:00"
+    },
+    {
+      "productId": 522,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-04-12T12:37:32.1610404+03:00"
+    }
+  ]
+}

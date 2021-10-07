@@ -1,0 +1,31 @@
+{
+  "userId": 73974,
+  "cartId": "df5e3fef-a5aa-4769-be5f-b28c16678dcc",
+  "preferredProducts": [
+    1524,
+    132,
+    4511,
+    912,
+    942,
+    2329,
+    4706,
+    2006
+  ],
+  "productReviews": [
+    {
+      "productId": 3966,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-02-06T15:28:33.9624332+02:00"
+    },
+    {
+      "productId": 1074,
+      "reviewText": "This back-end works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-02-13T13:49:00.4710425+02:00"
+    },
+    {
+      "productId": 4695,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-06-29T12:17:01.9726317+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 9169,
+  "cartId": "6ecad400-0bb8-447a-ab3e-83c755c1f6d5",
+  "preferredProducts": [
+    1148,
+    1050,
+    3546,
+    1569,
+    1138,
+    483,
+    1351
+  ],
+  "productReviews": [
+    {
+      "productId": 3717,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-05T00:02:57.5141301+02:00"
+    },
+    {
+      "productId": 852,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-05-20T18:55:35.7135396+03:00"
+    },
+    {
+      "productId": 1906,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-08-17T11:25:50.1288622+03:00"
+    }
+  ]
+}

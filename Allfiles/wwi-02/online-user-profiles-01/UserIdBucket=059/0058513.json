@@ -1,0 +1,32 @@
+{
+  "userId": 58513,
+  "cartId": "c0fc14a3-a319-4ee0-8d50-e847001ec8d0",
+  "preferredProducts": [
+    4883,
+    3619,
+    2884,
+    2657
+  ],
+  "productReviews": [
+    {
+      "productId": 394,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-05-27T17:03:59.5892679+03:00"
+    },
+    {
+      "productId": 4977,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2020-01-28T08:26:30.1255712+02:00"
+    },
+    {
+      "productId": 2737,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-09-12T04:53:01.5289014+03:00"
+    },
+    {
+      "productId": 2106,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-10-14T10:27:56.8946762+03:00"
+    }
+  ]
+}

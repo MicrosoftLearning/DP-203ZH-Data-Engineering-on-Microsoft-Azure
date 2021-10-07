@@ -1,0 +1,33 @@
+{
+  "userId": 97139,
+  "cartId": "89d24469-50ee-4d81-a105-6f2490a6f5e9",
+  "preferredProducts": [
+    4688,
+    2672,
+    3120,
+    1859,
+    4135
+  ],
+  "productReviews": [
+    {
+      "productId": 2980,
+      "reviewText": "this back-end is slurpee.",
+      "reviewDate": "2018-10-19T10:57:46.5828586+03:00"
+    },
+    {
+      "productId": 1287,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-07-20T14:08:37.2903039+03:00"
+    },
+    {
+      "productId": 4294,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-04-27T16:58:21.6150775+03:00"
+    },
+    {
+      "productId": 1721,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-08-23T18:41:32.2558995+03:00"
+    }
+  ]
+}

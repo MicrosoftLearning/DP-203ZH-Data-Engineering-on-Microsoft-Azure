@@ -1,0 +1,32 @@
+{
+  "userId": 65974,
+  "cartId": "77dd2bf0-bcb3-41d5-8160-3fba1c826ced",
+  "preferredProducts": [
+    1066,
+    2336,
+    3613,
+    1129,
+    4378,
+    495,
+    3630,
+    3073,
+    4921
+  ],
+  "productReviews": [
+    {
+      "productId": 4790,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-02-09T02:25:55.5602415+02:00"
+    },
+    {
+      "productId": 2682,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-09-08T11:28:47.6624506+03:00"
+    },
+    {
+      "productId": 4818,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-01-22T07:04:18.897785+02:00"
+    }
+  ]
+}

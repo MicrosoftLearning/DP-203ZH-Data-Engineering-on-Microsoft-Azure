@@ -1,0 +1,23 @@
+{
+  "userId": 89608,
+  "cartId": "42e4bb06-7e61-46dc-acd0-4b21a98eac71",
+  "preferredProducts": [
+    1278,
+    2062,
+    2779,
+    922,
+    3569
+  ],
+  "productReviews": [
+    {
+      "productId": 3566,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-02-03T10:34:11.2302975+02:00"
+    },
+    {
+      "productId": 1638,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-07-14T11:25:16.7623447+03:00"
+    }
+  ]
+}

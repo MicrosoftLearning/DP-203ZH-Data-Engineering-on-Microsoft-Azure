@@ -1,0 +1,32 @@
+{
+  "userId": 35123,
+  "cartId": "c431ef60-432b-4ff3-b064-20b727cf9824",
+  "preferredProducts": [
+    1074,
+    180,
+    1160,
+    1841,
+    2244,
+    790,
+    4307,
+    3572,
+    614
+  ],
+  "productReviews": [
+    {
+      "productId": 342,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-02-17T15:29:21.5010147+02:00"
+    },
+    {
+      "productId": 2558,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-08-05T12:47:26.0064696+03:00"
+    },
+    {
+      "productId": 649,
+      "reviewText": "This Agent works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2020-03-20T21:32:49.7326393+02:00"
+    }
+  ]
+}

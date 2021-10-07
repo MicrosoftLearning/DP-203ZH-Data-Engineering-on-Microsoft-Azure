@@ -1,0 +1,36 @@
+{
+  "userId": 42511,
+  "cartId": "120b98b4-b40f-4074-a9ef-2f0fd3a66b12",
+  "preferredProducts": [
+    3379,
+    3142,
+    1114,
+    2114,
+    1141,
+    2396,
+    4010,
+    4887
+  ],
+  "productReviews": [
+    {
+      "productId": 4940,
+      "reviewText": "this e-markets is gracious.",
+      "reviewDate": "2020-01-02T02:16:24.6591902+02:00"
+    },
+    {
+      "productId": 4955,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-10-14T16:49:31.8073776+03:00"
+    },
+    {
+      "productId": 442,
+      "reviewText": "This Movies, Home & Jewelery works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2020-02-19T14:51:42.0694216+02:00"
+    },
+    {
+      "productId": 2272,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-11-09T18:24:11.0389092+02:00"
+    }
+  ]
+}

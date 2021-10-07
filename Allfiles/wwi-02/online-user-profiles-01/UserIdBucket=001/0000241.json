@@ -1,0 +1,32 @@
+{
+  "userId": 241,
+  "cartId": "36394514-6fdf-4c58-bf00-8b2cd170387c",
+  "preferredProducts": [
+    3350,
+    662,
+    146,
+    1239
+  ],
+  "productReviews": [
+    {
+      "productId": 3013,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-03-16T16:52:47.3581518+02:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-05-05T09:13:04.5321777+03:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-08-05T10:30:25.0543872+03:00"
+    },
+    {
+      "productId": 220,
+      "reviewText": "this Awesome Cotton Towels is gracious.",
+      "reviewDate": "2018-09-09T15:41:12.6121554+03:00"
+    }
+  ]
+}

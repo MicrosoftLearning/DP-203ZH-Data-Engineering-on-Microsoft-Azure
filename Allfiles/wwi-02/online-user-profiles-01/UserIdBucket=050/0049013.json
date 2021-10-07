@@ -1,0 +1,31 @@
+{
+  "userId": 49013,
+  "cartId": "2e6e64d9-727c-4f5c-8df0-87249faf97f0",
+  "preferredProducts": [
+    12,
+    718,
+    2280
+  ],
+  "productReviews": [
+    {
+      "productId": 2654,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-07-24T11:52:22.8486901+03:00"
+    },
+    {
+      "productId": 1218,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-12-10T10:22:03.8243044+02:00"
+    },
+    {
+      "productId": 425,
+      "reviewText": "This silver works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-01-31T09:45:44.5897783+02:00"
+    },
+    {
+      "productId": 718,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2019-03-17T23:12:18.1697607+02:00"
+    }
+  ]
+}

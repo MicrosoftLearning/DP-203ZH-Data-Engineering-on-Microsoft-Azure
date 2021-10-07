@@ -1,0 +1,37 @@
+{
+  "userId": 35944,
+  "cartId": "d57b41aa-9deb-410f-9fa2-3f5605d29a22",
+  "preferredProducts": [
+    4377,
+    3831,
+    2913,
+    409,
+    4620,
+    847,
+    1855,
+    588,
+    388
+  ],
+  "productReviews": [
+    {
+      "productId": 3611,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-03-01T01:24:01.8244599+02:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-12-16T20:40:22.6782293+02:00"
+    },
+    {
+      "productId": 486,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-11-09T09:56:10.6780885+02:00"
+    },
+    {
+      "productId": 823,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-01-12T21:07:40.8826278+02:00"
+    }
+  ]
+}

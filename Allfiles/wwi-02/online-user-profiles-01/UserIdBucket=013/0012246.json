@@ -1,0 +1,30 @@
+{
+  "userId": 12246,
+  "cartId": "59c232c6-2462-48da-a0d8-e9e919e11691",
+  "preferredProducts": [
+    3004,
+    4225,
+    482,
+    304,
+    2608,
+    4766,
+    2419
+  ],
+  "productReviews": [
+    {
+      "productId": 816,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-10-08T08:54:04.4723018+03:00"
+    },
+    {
+      "productId": 3483,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2018-05-14T18:55:29.4558177+03:00"
+    },
+    {
+      "productId": 1619,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-07-05T15:08:24.8185548+03:00"
+    }
+  ]
+}

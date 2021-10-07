@@ -1,0 +1,27 @@
+{
+  "userId": 61401,
+  "cartId": "8b1c1695-3f2e-4d95-bbcc-59bd40d27b51",
+  "preferredProducts": [
+    158,
+    2775,
+    1239,
+    4146,
+    364,
+    2819,
+    240,
+    503,
+    3516
+  ],
+  "productReviews": [
+    {
+      "productId": 1235,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-03-06T18:11:03.1148002+02:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-12-04T02:06:30.7966627+02:00"
+    }
+  ]
+}

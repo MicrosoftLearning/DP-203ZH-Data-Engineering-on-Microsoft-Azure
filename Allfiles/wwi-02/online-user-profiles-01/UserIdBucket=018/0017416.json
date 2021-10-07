@@ -1,0 +1,32 @@
+{
+  "userId": 17416,
+  "cartId": "240173e0-e83c-4870-a989-f37b6d72f3c0",
+  "preferredProducts": [
+    4321,
+    975,
+    2465,
+    485
+  ],
+  "productReviews": [
+    {
+      "productId": 1633,
+      "reviewText": "this Creative is tasty.",
+      "reviewDate": "2019-12-29T19:43:15.3849515+02:00"
+    },
+    {
+      "productId": 3786,
+      "reviewText": "this Bedfordshire is smooth.",
+      "reviewDate": "2019-06-04T15:06:12.360617+03:00"
+    },
+    {
+      "productId": 3726,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-05-15T01:22:58.7176689+03:00"
+    },
+    {
+      "productId": 3165,
+      "reviewText": "this Decentralized is light-hearted.",
+      "reviewDate": "2016-12-19T21:30:07.9026786+02:00"
+    }
+  ]
+}

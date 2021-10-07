@@ -1,0 +1,33 @@
+{
+  "userId": 79346,
+  "cartId": "3e6cf40e-787c-4e47-8b92-b620de489470",
+  "preferredProducts": [
+    3275,
+    2751,
+    2768,
+    3386,
+    3906
+  ],
+  "productReviews": [
+    {
+      "productId": 3082,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-01-06T23:50:17.1739952+02:00"
+    },
+    {
+      "productId": 892,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-05-15T18:17:25.8835289+03:00"
+    },
+    {
+      "productId": 4622,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-02-01T12:59:56.6638542+02:00"
+    },
+    {
+      "productId": 2263,
+      "reviewText": "This Codes specifically reserved for testing purposes works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-10-26T10:28:47.6135062+03:00"
+    }
+  ]
+}

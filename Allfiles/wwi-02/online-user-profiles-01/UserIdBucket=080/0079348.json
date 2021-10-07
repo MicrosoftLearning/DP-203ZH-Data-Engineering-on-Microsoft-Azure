@@ -1,0 +1,33 @@
+{
+  "userId": 79348,
+  "cartId": "6791c67d-abdd-4719-98ea-1686b9c0ebc5",
+  "preferredProducts": [
+    168,
+    108,
+    4980,
+    1293,
+    4231
+  ],
+  "productReviews": [
+    {
+      "productId": 1950,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-06-28T15:25:05.5796244+03:00"
+    },
+    {
+      "productId": 3371,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-06-04T10:04:35.7025969+03:00"
+    },
+    {
+      "productId": 4175,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-12-03T03:39:12.7861668+02:00"
+    },
+    {
+      "productId": 3104,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2020-02-20T21:09:25.2447784+02:00"
+    }
+  ]
+}

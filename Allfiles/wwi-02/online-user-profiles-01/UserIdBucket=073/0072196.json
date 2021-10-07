@@ -1,0 +1,28 @@
+{
+  "userId": 72196,
+  "cartId": "6940ff2c-4a75-424b-b167-6a9911b1ca56",
+  "preferredProducts": [
+    4921,
+    2276,
+    3124,
+    518,
+    4615
+  ],
+  "productReviews": [
+    {
+      "productId": 3080,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-09-09T13:08:24.5830828+03:00"
+    },
+    {
+      "productId": 3132,
+      "reviewText": "this Pre-emptive is honest.",
+      "reviewDate": "2017-02-09T02:54:40.9644598+02:00"
+    },
+    {
+      "productId": 2249,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-03-26T17:55:41.5030456+03:00"
+    }
+  ]
+}

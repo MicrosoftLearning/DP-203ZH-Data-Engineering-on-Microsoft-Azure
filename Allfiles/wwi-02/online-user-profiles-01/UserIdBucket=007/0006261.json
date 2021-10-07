@@ -1,0 +1,30 @@
+{
+  "userId": 6261,
+  "cartId": "bca51eff-e3c7-4a18-aeae-82d4d515657f",
+  "preferredProducts": [
+    1108,
+    3325
+  ],
+  "productReviews": [
+    {
+      "productId": 1066,
+      "reviewText": "this Idaho is hyper.",
+      "reviewDate": "2016-12-28T07:48:36.6034273+02:00"
+    },
+    {
+      "productId": 2987,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-06-27T22:31:17.8449022+03:00"
+    },
+    {
+      "productId": 4664,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-04-08T12:05:44.7925879+03:00"
+    },
+    {
+      "productId": 348,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-05-06T23:36:35.4572183+03:00"
+    }
+  ]
+}

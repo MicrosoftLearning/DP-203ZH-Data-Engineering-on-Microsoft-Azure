@@ -1,0 +1,25 @@
+{
+  "userId": 1117,
+  "cartId": "f704e457-6abc-4309-84ee-2c301be4da45",
+  "preferredProducts": [
+    3014,
+    4828,
+    3730,
+    2329,
+    345,
+    4590,
+    4157
+  ],
+  "productReviews": [
+    {
+      "productId": 1537,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-03-30T04:07:44.5327827+02:00"
+    },
+    {
+      "productId": 959,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-10-16T23:53:58.22684+03:00"
+    }
+  ]
+}

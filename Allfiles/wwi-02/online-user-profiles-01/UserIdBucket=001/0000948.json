@@ -1,0 +1,30 @@
+{
+  "userId": 948,
+  "cartId": "dbfe9faf-a0e4-4bce-b3b1-f850837fdf78",
+  "preferredProducts": [
+    2072,
+    1014,
+    622,
+    1108,
+    3163,
+    2663,
+    2442
+  ],
+  "productReviews": [
+    {
+      "productId": 3162,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-10-04T01:51:17.5137451+03:00"
+    },
+    {
+      "productId": 963,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-11-04T11:22:55.065534+02:00"
+    },
+    {
+      "productId": 4109,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-10-25T10:01:26.1129335+03:00"
+    }
+  ]
+}

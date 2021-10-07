@@ -1,0 +1,29 @@
+{
+  "userId": 21147,
+  "cartId": "ea94f8da-7574-414f-9632-ada8ec4688a7",
+  "preferredProducts": [
+    668,
+    1745,
+    4052,
+    698,
+    4878,
+    3316
+  ],
+  "productReviews": [
+    {
+      "productId": 198,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-01-05T14:07:49.4680141+02:00"
+    },
+    {
+      "productId": 2794,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-07-08T14:56:54.1082854+03:00"
+    },
+    {
+      "productId": 3239,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-06-23T06:52:39.7605996+03:00"
+    }
+  ]
+}

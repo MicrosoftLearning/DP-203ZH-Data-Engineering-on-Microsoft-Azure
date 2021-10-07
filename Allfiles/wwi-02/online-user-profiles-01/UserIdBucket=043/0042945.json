@@ -1,0 +1,31 @@
+{
+  "userId": 42945,
+  "cartId": "ed2e93f6-57e2-4d30-a93c-6585d5ce0dee",
+  "preferredProducts": [
+    1208,
+    2892,
+    3366
+  ],
+  "productReviews": [
+    {
+      "productId": 4680,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-12-13T16:15:38.2763798+02:00"
+    },
+    {
+      "productId": 332,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-08-03T21:05:29.9412686+03:00"
+    },
+    {
+      "productId": 3256,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2018-10-08T02:04:11.2594439+03:00"
+    },
+    {
+      "productId": 4503,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-07-16T06:37:37.1054515+03:00"
+    }
+  ]
+}

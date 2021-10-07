@@ -1,0 +1,33 @@
+{
+  "userId": 98994,
+  "cartId": "0b6db77b-85fa-409c-8c40-d56dda9f086d",
+  "preferredProducts": [
+    367,
+    3164,
+    2385,
+    1478,
+    2228
+  ],
+  "productReviews": [
+    {
+      "productId": 1504,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-03-24T11:20:25.9077647+02:00"
+    },
+    {
+      "productId": 4765,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-11-01T12:37:03.5998391+02:00"
+    },
+    {
+      "productId": 2222,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-03-23T11:14:21.3017905+02:00"
+    },
+    {
+      "productId": 3816,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This visionary keeps them away.",
+      "reviewDate": "2018-05-27T07:39:43.5197763+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 42388,
+  "cartId": "67de919d-cebd-44f1-816c-52ae8d43d75d",
+  "preferredProducts": [
+    2791,
+    3961,
+    4618,
+    3891,
+    3902,
+    4484,
+    1217,
+    4468
+  ],
+  "productReviews": [
+    {
+      "productId": 1733,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-01-20T02:21:53.5759784+02:00"
+    },
+    {
+      "productId": 1137,
+      "reviewText": "this Customer is flirty.",
+      "reviewDate": "2016-06-27T14:14:20.507775+03:00"
+    }
+  ]
+}

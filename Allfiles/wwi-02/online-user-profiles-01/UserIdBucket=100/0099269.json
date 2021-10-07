@@ -1,0 +1,25 @@
+{
+  "userId": 99269,
+  "cartId": "009abeba-1b49-4f9d-9b44-125be51a096c",
+  "preferredProducts": [
+    1243,
+    3587,
+    342,
+    4356,
+    4703,
+    4430,
+    2196
+  ],
+  "productReviews": [
+    {
+      "productId": 708,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-09-01T11:02:42.4436193+03:00"
+    },
+    {
+      "productId": 1818,
+      "reviewText": "This is a really good challenge.",
+      "reviewDate": "2019-08-12T14:11:01.1983062+03:00"
+    }
+  ]
+}

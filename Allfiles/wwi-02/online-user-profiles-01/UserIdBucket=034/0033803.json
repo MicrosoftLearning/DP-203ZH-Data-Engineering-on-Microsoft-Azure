@@ -1,0 +1,25 @@
+{
+  "userId": 33803,
+  "cartId": "b14ff5db-d42f-48b3-ae49-e340d5ed1831",
+  "preferredProducts": [
+    1453,
+    941
+  ],
+  "productReviews": [
+    {
+      "productId": 1423,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-12-12T03:12:42.9654386+02:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-08-15T10:01:17.0285052+03:00"
+    },
+    {
+      "productId": 117,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-02-16T17:21:42.0480975+02:00"
+    }
+  ]
+}

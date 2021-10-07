@@ -1,0 +1,34 @@
+{
+  "userId": 5184,
+  "cartId": "31ac21a8-3286-459c-908f-a424cbfee21d",
+  "preferredProducts": [
+    907,
+    4800,
+    433,
+    2841,
+    1266,
+    1901
+  ],
+  "productReviews": [
+    {
+      "productId": 604,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-08-03T01:10:10.1770814+03:00"
+    },
+    {
+      "productId": 2849,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-09-20T11:51:06.949579+03:00"
+    },
+    {
+      "productId": 600,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-12-07T16:14:31.6843464+02:00"
+    },
+    {
+      "productId": 1497,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-07-20T08:00:40.1346985+03:00"
+    }
+  ]
+}

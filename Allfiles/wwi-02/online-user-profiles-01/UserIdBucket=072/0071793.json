@@ -1,0 +1,26 @@
+{
+  "userId": 71793,
+  "cartId": "20378cd3-2c89-413a-a003-d72287e61133",
+  "preferredProducts": [
+    4745,
+    3304,
+    1234
+  ],
+  "productReviews": [
+    {
+      "productId": 2539,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-03-26T00:51:40.2324052+02:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-05-19T23:58:31.1105053+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "this quantify is whole-grain.",
+      "reviewDate": "2020-02-11T11:17:25.8023157+02:00"
+    }
+  ]
+}

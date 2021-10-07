@@ -1,0 +1,32 @@
+{
+  "userId": 70251,
+  "cartId": "5cb9041e-4a9b-4718-a25e-33c10a83e58c",
+  "preferredProducts": [
+    4410,
+    341,
+    1432,
+    2235
+  ],
+  "productReviews": [
+    {
+      "productId": 4217,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-06-27T13:46:48.988764+03:00"
+    },
+    {
+      "productId": 3316,
+      "reviewText": "this web-readiness is whole-grain.",
+      "reviewDate": "2017-05-02T00:51:19.3967375+03:00"
+    },
+    {
+      "productId": 3655,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-06-25T10:25:31.8546258+03:00"
+    },
+    {
+      "productId": 2796,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-12-01T03:02:32.4214763+02:00"
+    }
+  ]
+}

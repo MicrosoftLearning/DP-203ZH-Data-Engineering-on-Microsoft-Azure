@@ -1,0 +1,22 @@
+{
+  "userId": 81043,
+  "cartId": "eaa88fe1-444f-4a1a-a8dd-ad02e9bc2e8a",
+  "preferredProducts": [
+    2332,
+    3643,
+    1756,
+    493
+  ],
+  "productReviews": [
+    {
+      "productId": 81,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-08-18T17:13:14.5291094+03:00"
+    },
+    {
+      "productId": 577,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-07-16T09:15:39.2632922+03:00"
+    }
+  ]
+}

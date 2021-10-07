@@ -1,0 +1,35 @@
+{
+  "userId": 39679,
+  "cartId": "aa0dd9cd-baea-4bd7-8fae-2a8e72e54b1c",
+  "preferredProducts": [
+    427,
+    2744,
+    2997,
+    3681,
+    4335,
+    4399,
+    2646
+  ],
+  "productReviews": [
+    {
+      "productId": 4477,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-02-13T17:26:24.7936082+02:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-08-16T01:05:57.167152+03:00"
+    },
+    {
+      "productId": 3963,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-11-05T19:22:39.2957682+02:00"
+    },
+    {
+      "productId": 1251,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-10-10T03:41:36.875992+03:00"
+    }
+  ]
+}

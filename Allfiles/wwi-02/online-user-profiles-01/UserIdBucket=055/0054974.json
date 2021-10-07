@@ -1,0 +1,38 @@
+{
+  "userId": 54974,
+  "cartId": "6cfca942-a25e-493f-a2b7-59402087c595",
+  "preferredProducts": [
+    3800,
+    2787,
+    3723,
+    1344,
+    3650,
+    1760,
+    3912,
+    4341,
+    3507,
+    644
+  ],
+  "productReviews": [
+    {
+      "productId": 2625,
+      "reviewText": "this firewall is mellow.",
+      "reviewDate": "2018-07-02T02:05:31.1105609+03:00"
+    },
+    {
+      "productId": 3322,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-08-31T07:21:02.7640777+03:00"
+    },
+    {
+      "productId": 4132,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-11-27T02:13:15.9857407+02:00"
+    },
+    {
+      "productId": 136,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-04-15T10:53:56.7611006+03:00"
+    }
+  ]
+}

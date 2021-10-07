@@ -1,0 +1,30 @@
+{
+  "userId": 10868,
+  "cartId": "25895dc5-ba54-4933-858b-c7627d455a99",
+  "preferredProducts": [
+    4771,
+    4395,
+    807,
+    1617,
+    1236,
+    1146,
+    4663
+  ],
+  "productReviews": [
+    {
+      "productId": 4499,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-04-21T12:25:27.1995123+03:00"
+    },
+    {
+      "productId": 2985,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-05-21T07:48:39.3794604+03:00"
+    },
+    {
+      "productId": 4454,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-09-24T01:46:07.254389+03:00"
+    }
+  ]
+}

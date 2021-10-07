@@ -1,0 +1,30 @@
+{
+  "userId": 3028,
+  "cartId": "6993f01c-0708-4d7f-933e-57f6e7c3ff02",
+  "preferredProducts": [
+    2427,
+    3445
+  ],
+  "productReviews": [
+    {
+      "productId": 1395,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-05-03T22:29:39.8891536+03:00"
+    },
+    {
+      "productId": 4252,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-10-02T16:55:41.4742105+03:00"
+    },
+    {
+      "productId": 2380,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-04-08T01:16:17.9055959+03:00"
+    },
+    {
+      "productId": 2765,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-20T00:44:43.71728+03:00"
+    }
+  ]
+}

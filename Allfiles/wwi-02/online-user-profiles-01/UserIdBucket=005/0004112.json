@@ -1,0 +1,31 @@
+{
+  "userId": 4112,
+  "cartId": "5a8ec7b2-df1e-4132-957b-f49f09bc0282",
+  "preferredProducts": [
+    150,
+    1432,
+    2862,
+    296,
+    3120,
+    4455,
+    1636,
+    2423
+  ],
+  "productReviews": [
+    {
+      "productId": 343,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-07-08T00:44:58.890485+03:00"
+    },
+    {
+      "productId": 2759,
+      "reviewText": "this Movies, Clothing & Music is ghetto.",
+      "reviewDate": "2016-12-25T20:59:04.0214292+02:00"
+    },
+    {
+      "productId": 4783,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-06-12T16:59:00.0228793+03:00"
+    }
+  ]
+}

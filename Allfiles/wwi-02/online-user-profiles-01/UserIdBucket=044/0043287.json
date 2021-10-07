@@ -1,0 +1,27 @@
+{
+  "userId": 43287,
+  "cartId": "e1b2d8a7-9272-4d6e-a2b9-f1b9edbe078b",
+  "preferredProducts": [
+    1119,
+    4571,
+    156,
+    2388
+  ],
+  "productReviews": [
+    {
+      "productId": 46,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-06-16T13:27:14.5147667+03:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2016-09-18T20:05:40.1104884+03:00"
+    },
+    {
+      "productId": 57,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-01-11T14:00:37.1878442+02:00"
+    }
+  ]
+}

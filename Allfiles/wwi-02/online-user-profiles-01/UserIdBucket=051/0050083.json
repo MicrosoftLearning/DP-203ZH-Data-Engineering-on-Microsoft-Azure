@@ -1,0 +1,38 @@
+{
+  "userId": 50083,
+  "cartId": "a6d4339a-cfa1-47f6-8f88-ea49375671f4",
+  "preferredProducts": [
+    2405,
+    14,
+    2298,
+    2408,
+    1797,
+    1839,
+    1342,
+    3181,
+    3088,
+    311
+  ],
+  "productReviews": [
+    {
+      "productId": 1589,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-03-15T11:20:38.2909105+02:00"
+    },
+    {
+      "productId": 3986,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-03-10T08:19:26.617352+02:00"
+    },
+    {
+      "productId": 2027,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-10-13T02:57:59.7579275+03:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-07-18T23:03:19.2105193+03:00"
+    }
+  ]
+}

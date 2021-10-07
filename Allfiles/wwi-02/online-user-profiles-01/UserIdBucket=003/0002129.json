@@ -1,0 +1,43 @@
+{
+  "userId": 2129,
+  "cartId": "ec2de14b-7836-40f7-a8cc-08cdbe4e0513",
+  "preferredProducts": [
+    972,
+    3839,
+    2927,
+    1154,
+    3515,
+    4723,
+    1145,
+    1277,
+    1946,
+    774
+  ],
+  "productReviews": [
+    {
+      "productId": 3249,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-12-22T18:23:35.282738+02:00"
+    },
+    {
+      "productId": 2400,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-01-23T04:23:49.0733144+02:00"
+    },
+    {
+      "productId": 4666,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2018-08-25T21:36:25.3686562+03:00"
+    },
+    {
+      "productId": 1026,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-09-02T15:40:41.212769+03:00"
+    },
+    {
+      "productId": 1852,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-08-05T14:00:07.3943206+03:00"
+    }
+  ]
+}

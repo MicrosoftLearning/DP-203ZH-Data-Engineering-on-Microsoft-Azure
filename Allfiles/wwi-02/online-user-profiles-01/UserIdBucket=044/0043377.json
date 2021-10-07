@@ -1,0 +1,32 @@
+{
+  "userId": 43377,
+  "cartId": "5d0dd614-a158-4f2b-8f11-020e60c8e70c",
+  "preferredProducts": [
+    3317,
+    927,
+    4005,
+    2515
+  ],
+  "productReviews": [
+    {
+      "productId": 18,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-09-25T02:29:49.1137447+03:00"
+    },
+    {
+      "productId": 3431,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-05-05T10:57:21.2384742+03:00"
+    },
+    {
+      "productId": 782,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2016-12-08T02:26:49.3523092+02:00"
+    },
+    {
+      "productId": 3569,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-26T21:29:23.4508717+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 28026,
+  "cartId": "e2c6ac05-b044-4abd-91d4-96d3f463a2da",
+  "preferredProducts": [
+    2009,
+    1109,
+    1980,
+    3733,
+    2302
+  ],
+  "productReviews": [
+    {
+      "productId": 378,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-08-14T03:54:34.3098727+03:00"
+    },
+    {
+      "productId": 4223,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-04-10T03:29:08.4527416+03:00"
+    },
+    {
+      "productId": 2150,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-10-02T07:48:22.3632786+03:00"
+    },
+    {
+      "productId": 1305,
+      "reviewText": "this parse is gracious.",
+      "reviewDate": "2019-01-13T13:08:06.0517258+02:00"
+    }
+  ]
+}

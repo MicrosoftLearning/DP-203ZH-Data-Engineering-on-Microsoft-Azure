@@ -1,0 +1,25 @@
+{
+  "userId": 72425,
+  "cartId": "c4ffa3a6-4127-4170-a225-0ce1ac9da9c0",
+  "preferredProducts": [
+    1417,
+    1601
+  ],
+  "productReviews": [
+    {
+      "productId": 3237,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-01-11T10:07:42.0396196+02:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-07-11T02:07:09.5749988+03:00"
+    },
+    {
+      "productId": 2050,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-04-27T21:58:57.4963661+03:00"
+    }
+  ]
+}

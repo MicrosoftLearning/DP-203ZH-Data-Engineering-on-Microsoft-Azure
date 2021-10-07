@@ -1,0 +1,29 @@
+{
+  "userId": 67287,
+  "cartId": "96b4731e-fe76-4b54-b2fe-65d283482ee8",
+  "preferredProducts": [
+    4105,
+    2277,
+    356,
+    519,
+    1504,
+    4540
+  ],
+  "productReviews": [
+    {
+      "productId": 3252,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-10-13T02:50:22.2668501+03:00"
+    },
+    {
+      "productId": 1989,
+      "reviewText": "This copying, does exactly what it's suppose to do.",
+      "reviewDate": "2018-02-09T05:37:38.0524602+02:00"
+    },
+    {
+      "productId": 117,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-05-24T18:29:25.0280286+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 5913,
+  "cartId": "ceb7f06a-1123-4894-a100-587b24b3ac08",
+  "preferredProducts": [
+    1467,
+    885
+  ],
+  "productReviews": [
+    {
+      "productId": 1649,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-08-26T02:08:38.3435689+03:00"
+    },
+    {
+      "productId": 925,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-06-01T10:16:47.3275539+03:00"
+    },
+    {
+      "productId": 2009,
+      "reviewText": "this Engineer is ratty.",
+      "reviewDate": "2019-12-24T03:30:26.0124363+02:00"
+    },
+    {
+      "productId": 4023,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-08-03T10:12:47.3281779+03:00"
+    }
+  ]
+}

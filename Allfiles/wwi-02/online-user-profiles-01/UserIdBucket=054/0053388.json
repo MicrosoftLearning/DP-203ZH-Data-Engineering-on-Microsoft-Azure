@@ -1,0 +1,28 @@
+{
+  "userId": 53388,
+  "cartId": "3bbe2521-2422-4253-9521-1f2d209aa1b0",
+  "preferredProducts": [
+    3258,
+    1608,
+    3030,
+    3750,
+    3318
+  ],
+  "productReviews": [
+    {
+      "productId": 621,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-09-21T08:54:45.18993+03:00"
+    },
+    {
+      "productId": 3189,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-09-13T03:49:43.2772957+03:00"
+    },
+    {
+      "productId": 3520,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-06-30T05:39:30.5631178+03:00"
+    }
+  ]
+}

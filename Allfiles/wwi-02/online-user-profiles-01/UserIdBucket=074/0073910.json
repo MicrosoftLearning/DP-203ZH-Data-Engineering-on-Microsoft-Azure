@@ -1,0 +1,29 @@
+{
+  "userId": 73910,
+  "cartId": "a7fc521a-73e8-41cf-9603-7bac64245a01",
+  "preferredProducts": [
+    1340,
+    2430,
+    586,
+    2723,
+    1770,
+    4297
+  ],
+  "productReviews": [
+    {
+      "productId": 132,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-07-28T22:17:15.6331478+03:00"
+    },
+    {
+      "productId": 2183,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2020-02-14T05:02:13.2486308+02:00"
+    },
+    {
+      "productId": 1845,
+      "reviewText": "this Concrete is complimentary.",
+      "reviewDate": "2017-03-09T04:10:10.3877603+02:00"
+    }
+  ]
+}

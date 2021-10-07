@@ -1,0 +1,31 @@
+{
+  "userId": 56915,
+  "cartId": "628251ca-a11e-4ce2-b7f2-981c1ec482ed",
+  "preferredProducts": [
+    4178,
+    1234,
+    4108,
+    4294,
+    1023,
+    3153,
+    2949,
+    3217
+  ],
+  "productReviews": [
+    {
+      "productId": 3965,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-04-06T03:25:01.5279355+03:00"
+    },
+    {
+      "productId": 518,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-09-27T09:52:48.0900331+03:00"
+    },
+    {
+      "productId": 2834,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-07-13T12:05:56.9458039+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 63463,
+  "cartId": "8ae84e67-3c38-42de-9305-2ea29ba9229e",
+  "preferredProducts": [
+    4772,
+    4568,
+    514,
+    1020,
+    2429,
+    751,
+    1756
+  ],
+  "productReviews": [
+    {
+      "productId": 4719,
+      "reviewText": "this grid-enabled is awesome.",
+      "reviewDate": "2017-04-22T15:10:59.9300189+03:00"
+    },
+    {
+      "productId": 2382,
+      "reviewText": "This Dobra works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2020-03-18T21:09:46.6433823+02:00"
+    },
+    {
+      "productId": 532,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-12-15T01:57:27.7756806+02:00"
+    },
+    {
+      "productId": 861,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-07-23T15:07:20.2899596+03:00"
+    }
+  ]
+}

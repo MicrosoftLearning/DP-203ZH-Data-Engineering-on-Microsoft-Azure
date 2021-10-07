@@ -1,0 +1,37 @@
+{
+  "userId": 13035,
+  "cartId": "29d267a0-b2db-4efc-a67e-ae75a6807c13",
+  "preferredProducts": [
+    645,
+    409,
+    1375,
+    2234,
+    3308,
+    3038,
+    1584,
+    1025,
+    4157
+  ],
+  "productReviews": [
+    {
+      "productId": 1335,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-06-15T01:01:17.6930251+03:00"
+    },
+    {
+      "productId": 3507,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-06-19T06:40:48.457284+03:00"
+    },
+    {
+      "productId": 2510,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-07-29T22:47:11.0236875+03:00"
+    },
+    {
+      "productId": 2673,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-01-21T16:14:35.8802751+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 1026,
+  "cartId": "29e391a1-d9f4-4828-9995-ba444032a0df",
+  "preferredProducts": [
+    2425,
+    2731,
+    876,
+    2473
+  ],
+  "productReviews": [
+    {
+      "productId": 1923,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-02-28T03:57:17.3879906+02:00"
+    },
+    {
+      "productId": 2020,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-12-16T11:51:46.5952539+02:00"
+    },
+    {
+      "productId": 310,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-05-03T06:07:05.3667273+03:00"
+    },
+    {
+      "productId": 1003,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2020-03-09T22:04:42.1965686+02:00"
+    }
+  ]
+}

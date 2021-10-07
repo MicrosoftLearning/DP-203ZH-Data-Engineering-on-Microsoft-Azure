@@ -1,0 +1,31 @@
+{
+  "userId": 1270,
+  "cartId": "e31fd5c4-8687-4301-91b0-45c827ecb6d9",
+  "preferredProducts": [
+    1670,
+    3545,
+    4904,
+    3805,
+    975,
+    1535,
+    2280,
+    1613
+  ],
+  "productReviews": [
+    {
+      "productId": 3200,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2020-01-29T07:30:18.7931953+02:00"
+    },
+    {
+      "productId": 2677,
+      "reviewText": "This Computers & Sports works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-10-28T05:11:07.9263829+03:00"
+    },
+    {
+      "productId": 25,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-03-26T13:04:12.0744516+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 42288,
+  "cartId": "f163a477-dbae-4616-a7b5-16909fb10f76",
+  "preferredProducts": [
+    1225,
+    733,
+    3063,
+    4987
+  ],
+  "productReviews": [
+    {
+      "productId": 598,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-08-26T12:46:17.7104791+03:00"
+    },
+    {
+      "productId": 2422,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-02-26T00:21:53.8812343+02:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-07-16T03:18:15.4417125+03:00"
+    },
+    {
+      "productId": 4955,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-03-05T20:40:36.5250122+02:00"
+    }
+  ]
+}

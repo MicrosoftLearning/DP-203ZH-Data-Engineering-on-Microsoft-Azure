@@ -1,0 +1,28 @@
+{
+  "userId": 90910,
+  "cartId": "fd5eeb91-7640-4b41-b024-66b66e26f55a",
+  "preferredProducts": [
+    242,
+    4373,
+    3204,
+    992,
+    608
+  ],
+  "productReviews": [
+    {
+      "productId": 1726,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-06-06T23:42:49.9019086+03:00"
+    },
+    {
+      "productId": 3867,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-06-06T21:10:07.671866+03:00"
+    },
+    {
+      "productId": 1245,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-12-20T19:14:27.0311378+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 60143,
+  "cartId": "d14e5045-a04c-48fc-a28c-e9c784a8f9bc",
+  "preferredProducts": [
+    2567,
+    1348,
+    153,
+    375,
+    2176,
+    467,
+    3865,
+    52,
+    2106
+  ],
+  "productReviews": [
+    {
+      "productId": 843,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-09-14T19:53:41.3093187+03:00"
+    },
+    {
+      "productId": 3571,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-10-12T12:05:41.859209+03:00"
+    },
+    {
+      "productId": 1365,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-05-10T10:56:29.9195902+03:00"
+    },
+    {
+      "productId": 2720,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-12-29T16:05:11.3103096+02:00"
+    }
+  ]
+}

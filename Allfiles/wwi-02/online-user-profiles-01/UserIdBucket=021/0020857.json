@@ -1,0 +1,31 @@
+{
+  "userId": 20857,
+  "cartId": "198a992d-539f-4283-bf17-863623354bd5",
+  "preferredProducts": [
+    2468,
+    532,
+    1753
+  ],
+  "productReviews": [
+    {
+      "productId": 1038,
+      "reviewText": "this Rustic is whole-grain.",
+      "reviewDate": "2019-12-12T03:20:29.4130058+02:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-10-02T07:49:43.2340753+03:00"
+    },
+    {
+      "productId": 3462,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-12-26T17:35:23.4098176+02:00"
+    },
+    {
+      "productId": 2316,
+      "reviewText": "This deliverables works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-01-17T00:20:04.5388413+02:00"
+    }
+  ]
+}

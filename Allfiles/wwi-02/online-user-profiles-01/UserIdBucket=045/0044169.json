@@ -1,0 +1,36 @@
+{
+  "userId": 44169,
+  "cartId": "ae000db7-bb04-41fc-85f3-e8fd1cfcc191",
+  "preferredProducts": [
+    340,
+    2110,
+    4831
+  ],
+  "productReviews": [
+    {
+      "productId": 1153,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-08-23T13:54:52.7216391+03:00"
+    },
+    {
+      "productId": 83,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-04-02T01:11:48.5054679+03:00"
+    },
+    {
+      "productId": 1877,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-10-06T13:56:57.3313563+03:00"
+    },
+    {
+      "productId": 2193,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-04-02T16:39:41.1713443+03:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "This Handmade Granite Table works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-02-01T05:56:42.5102156+02:00"
+    }
+  ]
+}

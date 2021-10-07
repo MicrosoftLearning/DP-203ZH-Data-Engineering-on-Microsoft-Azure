@@ -1,0 +1,28 @@
+{
+  "userId": 9941,
+  "cartId": "0239d9a1-b6c3-4784-8cff-c45cd4c854ab",
+  "preferredProducts": [
+    3775,
+    2758,
+    1585,
+    1213,
+    2902
+  ],
+  "productReviews": [
+    {
+      "productId": 251,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-04-04T18:25:15.3429847+03:00"
+    },
+    {
+      "productId": 1298,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-04-02T17:47:20.0357688+03:00"
+    },
+    {
+      "productId": 3982,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-04-09T22:57:53.3048617+03:00"
+    }
+  ]
+}

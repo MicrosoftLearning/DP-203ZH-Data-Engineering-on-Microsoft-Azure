@@ -1,0 +1,33 @@
+{
+  "userId": 94054,
+  "cartId": "ffcbe05f-4d87-4859-8fa1-5b15d4011d12",
+  "preferredProducts": [
+    113,
+    3224,
+    4341,
+    282,
+    4194
+  ],
+  "productReviews": [
+    {
+      "productId": 3287,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-02-25T09:12:38.3555684+02:00"
+    },
+    {
+      "productId": 4269,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2017-12-19T12:32:36.2121327+02:00"
+    },
+    {
+      "productId": 4679,
+      "reviewText": "This Concrete works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-05-03T20:45:56.4134947+03:00"
+    },
+    {
+      "productId": 2195,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-03-31T15:42:51.5189254+03:00"
+    }
+  ]
+}

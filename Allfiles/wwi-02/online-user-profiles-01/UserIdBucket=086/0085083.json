@@ -1,0 +1,26 @@
+{
+  "userId": 85083,
+  "cartId": "2bbcd8ef-618f-490d-97fe-688a1a587a7a",
+  "preferredProducts": [
+    4304,
+    4905,
+    3890,
+    1208,
+    2472,
+    1546,
+    3072,
+    4275
+  ],
+  "productReviews": [
+    {
+      "productId": 716,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-06-15T12:32:37.5087807+03:00"
+    },
+    {
+      "productId": 4351,
+      "reviewText": "this invoice is standard.",
+      "reviewDate": "2019-01-17T13:26:28.9673277+02:00"
+    }
+  ]
+}

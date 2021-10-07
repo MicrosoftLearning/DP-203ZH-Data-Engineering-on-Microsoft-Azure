@@ -1,0 +1,33 @@
+{
+  "userId": 83579,
+  "cartId": "cf8b85c9-5d6b-43c5-92f0-298ece0be1e8",
+  "preferredProducts": [
+    662,
+    4093,
+    3779,
+    1604,
+    3268
+  ],
+  "productReviews": [
+    {
+      "productId": 3472,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-08-08T07:18:24.8297763+03:00"
+    },
+    {
+      "productId": 2069,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-08-09T02:26:48.3594418+03:00"
+    },
+    {
+      "productId": 2176,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-09-13T02:07:39.2967216+03:00"
+    },
+    {
+      "productId": 711,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-05-17T21:25:14.0753315+03:00"
+    }
+  ]
+}

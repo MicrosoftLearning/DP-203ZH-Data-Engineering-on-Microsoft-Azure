@@ -1,0 +1,30 @@
+{
+  "userId": 29516,
+  "cartId": "23ed18e9-d641-46e4-85f1-78e38014a1de",
+  "preferredProducts": [
+    2489,
+    4403,
+    3729,
+    1112,
+    4575,
+    3106,
+    2597
+  ],
+  "productReviews": [
+    {
+      "productId": 1784,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-09-17T16:14:08.5974387+03:00"
+    },
+    {
+      "productId": 3443,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-06-15T11:04:07.3103291+03:00"
+    },
+    {
+      "productId": 4685,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-10-25T15:59:17.9940805+03:00"
+    }
+  ]
+}

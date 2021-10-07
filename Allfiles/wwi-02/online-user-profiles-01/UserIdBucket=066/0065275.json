@@ -1,0 +1,31 @@
+{
+  "userId": 65275,
+  "cartId": "126201f0-d706-4356-9493-547ecf9185a4",
+  "preferredProducts": [
+    2299,
+    4132,
+    1461
+  ],
+  "productReviews": [
+    {
+      "productId": 2592,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-06-27T00:26:53.491676+03:00"
+    },
+    {
+      "productId": 3214,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-08-03T04:21:10.7388102+03:00"
+    },
+    {
+      "productId": 3192,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-04-17T23:35:10.1867839+03:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2020-03-19T07:45:00.0482701+02:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 40688,
+  "cartId": "0302bff1-441f-4ba6-8506-80da32e9ea69",
+  "preferredProducts": [
+    2614,
+    4450,
+    1755,
+    4732,
+    1425
+  ],
+  "productReviews": [
+    {
+      "productId": 2665,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-04-21T18:03:16.1572696+03:00"
+    },
+    {
+      "productId": 1243,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-20T18:04:56.1660796+03:00"
+    }
+  ]
+}

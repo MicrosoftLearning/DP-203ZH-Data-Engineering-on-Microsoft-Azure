@@ -1,0 +1,31 @@
+{
+  "userId": 98515,
+  "cartId": "caaa19a8-abed-4d1b-bc02-7a4ab01b154b",
+  "preferredProducts": [
+    464,
+    4091,
+    1000
+  ],
+  "productReviews": [
+    {
+      "productId": 2150,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-07-15T22:30:42.6529657+03:00"
+    },
+    {
+      "productId": 480,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-12-15T04:30:48.0243924+02:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "this applications is papery.",
+      "reviewDate": "2018-06-19T03:02:50.7746452+03:00"
+    },
+    {
+      "productId": 4850,
+      "reviewText": "This Beauty & Baby works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-09-11T13:21:33.2991222+03:00"
+    }
+  ]
+}

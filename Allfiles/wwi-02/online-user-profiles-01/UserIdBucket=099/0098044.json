@@ -1,0 +1,26 @@
+{
+  "userId": 98044,
+  "cartId": "962b8eca-3b5d-4704-b9b3-4fbf4de9bd12",
+  "preferredProducts": [
+    2834,
+    3135,
+    440
+  ],
+  "productReviews": [
+    {
+      "productId": 4993,
+      "reviewText": "this Beauty is standard.",
+      "reviewDate": "2016-09-16T16:39:15.6530984+03:00"
+    },
+    {
+      "productId": 4686,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-11-23T13:29:46.4014717+02:00"
+    },
+    {
+      "productId": 2296,
+      "reviewText": "This is a really good engineer.",
+      "reviewDate": "2019-08-12T06:58:27.496266+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 45928,
+  "cartId": "af60ecb8-098a-4ce3-a800-318ae3af728a",
+  "preferredProducts": [
+    1845,
+    2550,
+    3720,
+    1595,
+    3715,
+    1429,
+    2403,
+    1961,
+    1080
+  ],
+  "productReviews": [
+    {
+      "productId": 845,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-12-22T03:24:03.7831512+02:00"
+    },
+    {
+      "productId": 3612,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-12-23T15:45:10.5620685+02:00"
+    },
+    {
+      "productId": 2833,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-07-01T01:27:02.4559268+03:00"
+    },
+    {
+      "productId": 3994,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-10-28T20:20:24.2542055+03:00"
+    }
+  ]
+}

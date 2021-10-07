@@ -1,0 +1,27 @@
+{
+  "userId": 83646,
+  "cartId": "9faa0de6-c822-47f2-8790-fa5f06355d58",
+  "preferredProducts": [
+    1360,
+    3292,
+    1688,
+    2617
+  ],
+  "productReviews": [
+    {
+      "productId": 4945,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-09-02T11:06:02.9872764+03:00"
+    },
+    {
+      "productId": 3581,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-10-24T16:13:26.1283416+03:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-12-11T12:47:30.9424878+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 3415,
+  "cartId": "06db6deb-d065-4106-b698-b2f522152d65",
+  "preferredProducts": [
+    3333,
+    2718,
+    3381,
+    3311,
+    3431
+  ],
+  "productReviews": [
+    {
+      "productId": 2052,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-04-16T15:05:18.0093444+03:00"
+    },
+    {
+      "productId": 844,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-05-03T18:32:44.0617493+03:00"
+    },
+    {
+      "productId": 239,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-11-09T17:20:22.7878127+02:00"
+    },
+    {
+      "productId": 1491,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-12-22T10:44:32.8823071+02:00"
+    }
+  ]
+}

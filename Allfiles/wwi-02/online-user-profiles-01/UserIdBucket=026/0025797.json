@@ -1,0 +1,31 @@
+{
+  "userId": 25797,
+  "cartId": "8c4bb7c5-4188-4481-b2d5-12c7503ba275",
+  "preferredProducts": [
+    3462,
+    4122,
+    4908,
+    4480,
+    4168,
+    1143,
+    2398,
+    3874
+  ],
+  "productReviews": [
+    {
+      "productId": 2376,
+      "reviewText": "this JBOD is awesome.",
+      "reviewDate": "2017-06-03T07:51:53.8916247+03:00"
+    },
+    {
+      "productId": 2542,
+      "reviewText": "This functionalities works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-08-19T11:26:58.8339534+03:00"
+    },
+    {
+      "productId": 4005,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-10-06T18:30:16.4519543+03:00"
+    }
+  ]
+}

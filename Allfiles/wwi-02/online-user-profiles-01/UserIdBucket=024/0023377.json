@@ -1,0 +1,27 @@
+{
+  "userId": 23377,
+  "cartId": "ed5a1947-fab9-4ddc-b2ce-2f1d19568557",
+  "preferredProducts": [
+    1170,
+    2183,
+    265,
+    1109
+  ],
+  "productReviews": [
+    {
+      "productId": 1542,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-11-13T15:45:07.1504423+02:00"
+    },
+    {
+      "productId": 3251,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2020-03-23T16:46:56.634316+02:00"
+    },
+    {
+      "productId": 813,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-01-11T07:35:16.1133023+02:00"
+    }
+  ]
+}

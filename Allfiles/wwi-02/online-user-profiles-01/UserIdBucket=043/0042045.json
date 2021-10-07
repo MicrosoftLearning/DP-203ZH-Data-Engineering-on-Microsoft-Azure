@@ -1,0 +1,37 @@
+{
+  "userId": 42045,
+  "cartId": "5c36ddcc-831b-440f-bc80-98565d6efeee",
+  "preferredProducts": [
+    3369,
+    913,
+    1150,
+    1785
+  ],
+  "productReviews": [
+    {
+      "productId": 4651,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-06-08T11:50:42.5063928+03:00"
+    },
+    {
+      "productId": 4916,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2018-08-01T12:44:50.3579489+03:00"
+    },
+    {
+      "productId": 449,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2016-10-04T22:23:23.5757186+03:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-10-13T03:41:25.3732963+03:00"
+    },
+    {
+      "productId": 3676,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-11-07T20:47:20.5178237+02:00"
+    }
+  ]
+}

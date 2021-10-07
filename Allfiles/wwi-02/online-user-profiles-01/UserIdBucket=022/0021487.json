@@ -1,0 +1,35 @@
+{
+  "userId": 21487,
+  "cartId": "b0b9f097-0749-4189-89dc-4230f0ac339a",
+  "preferredProducts": [
+    1732,
+    3764,
+    636,
+    3152,
+    3947,
+    2796,
+    3925
+  ],
+  "productReviews": [
+    {
+      "productId": 4603,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-11-08T05:59:09.8164304+02:00"
+    },
+    {
+      "productId": 3556,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-08-02T00:53:30.8874583+03:00"
+    },
+    {
+      "productId": 1659,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-02-24T15:20:37.4087108+02:00"
+    },
+    {
+      "productId": 159,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-06-11T18:11:48.9547659+03:00"
+    }
+  ]
+}

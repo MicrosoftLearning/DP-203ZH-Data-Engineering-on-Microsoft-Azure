@@ -1,0 +1,32 @@
+{
+  "userId": 33044,
+  "cartId": "75847811-87f1-40e6-9445-029e2223461e",
+  "preferredProducts": [
+    3442,
+    3651,
+    1158,
+    2136
+  ],
+  "productReviews": [
+    {
+      "productId": 3181,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-09-28T13:34:40.5653839+03:00"
+    },
+    {
+      "productId": 4281,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-01-25T23:02:10.4529384+02:00"
+    },
+    {
+      "productId": 1362,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-10-24T20:52:16.9438516+03:00"
+    },
+    {
+      "productId": 3890,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-03-03T06:11:36.5088529+02:00"
+    }
+  ]
+}

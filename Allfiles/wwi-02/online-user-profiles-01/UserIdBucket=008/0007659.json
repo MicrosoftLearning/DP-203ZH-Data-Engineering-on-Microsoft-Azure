@@ -1,0 +1,33 @@
+{
+  "userId": 7659,
+  "cartId": "edadb8f7-d714-4034-979c-941160ec5bdd",
+  "preferredProducts": [
+    1878,
+    2919,
+    2187,
+    630,
+    444,
+    802,
+    1533,
+    4785,
+    3519,
+    4157
+  ],
+  "productReviews": [
+    {
+      "productId": 3017,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-05-16T21:48:25.2408741+03:00"
+    },
+    {
+      "productId": 1893,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-12-29T06:15:24.1129984+02:00"
+    },
+    {
+      "productId": 4244,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-05-16T16:54:52.5926971+03:00"
+    }
+  ]
+}

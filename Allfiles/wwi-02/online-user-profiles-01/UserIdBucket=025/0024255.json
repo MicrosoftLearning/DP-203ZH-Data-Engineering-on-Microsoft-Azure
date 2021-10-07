@@ -1,0 +1,37 @@
+{
+  "userId": 24255,
+  "cartId": "25e07722-2e54-41ce-9d32-591e8ab51fc0",
+  "preferredProducts": [
+    1702,
+    2145,
+    858,
+    1635
+  ],
+  "productReviews": [
+    {
+      "productId": 1053,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-09-08T13:45:20.1317608+03:00"
+    },
+    {
+      "productId": 3327,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-05-27T13:34:23.3165158+03:00"
+    },
+    {
+      "productId": 4682,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-01-09T21:27:27.7602818+02:00"
+    },
+    {
+      "productId": 4617,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-06-20T22:47:13.3092661+03:00"
+    },
+    {
+      "productId": 749,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-03-20T02:32:54.051522+02:00"
+    }
+  ]
+}

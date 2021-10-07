@@ -1,0 +1,23 @@
+{
+  "userId": 83343,
+  "cartId": "223a8bc4-0c74-41db-9536-a98077c4fb9a",
+  "preferredProducts": [
+    1936,
+    3877,
+    3376,
+    4467,
+    2191
+  ],
+  "productReviews": [
+    {
+      "productId": 4089,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-12-13T20:30:34.3497128+02:00"
+    },
+    {
+      "productId": 3705,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-07-25T03:27:12.8418243+03:00"
+    }
+  ]
+}

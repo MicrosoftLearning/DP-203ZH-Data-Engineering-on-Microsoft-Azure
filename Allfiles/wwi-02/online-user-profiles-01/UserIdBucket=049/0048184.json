@@ -1,0 +1,27 @@
+{
+  "userId": 48184,
+  "cartId": "3ded292a-2bff-4ff2-9ac5-b13cb40c6c50",
+  "preferredProducts": [
+    1206,
+    3140,
+    2537,
+    3
+  ],
+  "productReviews": [
+    {
+      "productId": 3931,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-03-12T05:10:55.538876+02:00"
+    },
+    {
+      "productId": 4227,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-09-27T10:41:05.0196471+03:00"
+    },
+    {
+      "productId": 397,
+      "reviewText": "This Developer works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-04-08T21:48:36.95866+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 2035,
+  "cartId": "1bf4ed1b-43a2-4778-9bb8-70d60631d359",
+  "preferredProducts": [
+    2734,
+    1073,
+    377,
+    3178
+  ],
+  "productReviews": [
+    {
+      "productId": 3621,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-07-08T06:28:31.8944954+03:00"
+    },
+    {
+      "productId": 71,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-07-02T21:19:23.0090339+03:00"
+    },
+    {
+      "productId": 1190,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-09-23T17:06:50.0018263+03:00"
+    }
+  ]
+}

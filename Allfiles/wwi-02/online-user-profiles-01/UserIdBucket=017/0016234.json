@@ -1,0 +1,24 @@
+{
+  "userId": 16234,
+  "cartId": "d23aa350-9387-4468-88dd-bdf8dbdf0330",
+  "preferredProducts": [
+    2550
+  ],
+  "productReviews": [
+    {
+      "productId": 3744,
+      "reviewText": "this Hawaii is awesome.",
+      "reviewDate": "2019-11-27T11:24:17.8599087+02:00"
+    },
+    {
+      "productId": 1705,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2020-01-10T06:35:09.4253915+02:00"
+    },
+    {
+      "productId": 4801,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-04-14T07:02:25.8479428+03:00"
+    }
+  ]
+}

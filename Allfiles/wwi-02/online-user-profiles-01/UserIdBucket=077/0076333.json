@@ -1,0 +1,27 @@
+{
+  "userId": 76333,
+  "cartId": "eabd14eb-1eb4-4f66-a0cf-2f891ff15dbc",
+  "preferredProducts": [
+    2161,
+    1846,
+    151,
+    582,
+    1089,
+    1015,
+    257,
+    3622,
+    3473
+  ],
+  "productReviews": [
+    {
+      "productId": 1960,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-09-15T14:20:19.6762185+03:00"
+    },
+    {
+      "productId": 1107,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-03-23T12:14:17.7589593+02:00"
+    }
+  ]
+}

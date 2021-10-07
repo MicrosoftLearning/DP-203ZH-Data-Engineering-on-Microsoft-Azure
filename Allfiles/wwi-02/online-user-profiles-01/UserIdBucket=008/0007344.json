@@ -1,0 +1,37 @@
+{
+  "userId": 7344,
+  "cartId": "0ebecaa0-af88-4b48-9ca2-17b341c721aa",
+  "preferredProducts": [
+    440,
+    320,
+    3884,
+    1334,
+    794,
+    2709,
+    2483,
+    1314,
+    4141
+  ],
+  "productReviews": [
+    {
+      "productId": 2756,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-06-28T00:46:09.9557086+03:00"
+    },
+    {
+      "productId": 3778,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2016-08-22T15:58:24.0278451+03:00"
+    },
+    {
+      "productId": 168,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-10-21T12:57:46.006003+03:00"
+    },
+    {
+      "productId": 4708,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-02-06T15:09:35.5216301+02:00"
+    }
+  ]
+}

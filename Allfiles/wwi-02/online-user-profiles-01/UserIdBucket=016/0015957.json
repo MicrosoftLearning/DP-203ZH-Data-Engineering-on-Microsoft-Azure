@@ -1,0 +1,42 @@
+{
+  "userId": 15957,
+  "cartId": "1fdd4424-c553-4b48-9dcd-fb95f96e9feb",
+  "preferredProducts": [
+    4321,
+    1620,
+    2572,
+    473,
+    2090,
+    3071,
+    3281,
+    178,
+    4419
+  ],
+  "productReviews": [
+    {
+      "productId": 972,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-05-05T04:37:18.7413649+03:00"
+    },
+    {
+      "productId": 3069,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-05-08T08:49:53.0678744+03:00"
+    },
+    {
+      "productId": 605,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-02-17T12:42:18.5247317+02:00"
+    },
+    {
+      "productId": 2807,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2016-11-23T09:11:02.2836078+02:00"
+    },
+    {
+      "productId": 938,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-09-27T10:38:13.1439559+03:00"
+    }
+  ]
+}

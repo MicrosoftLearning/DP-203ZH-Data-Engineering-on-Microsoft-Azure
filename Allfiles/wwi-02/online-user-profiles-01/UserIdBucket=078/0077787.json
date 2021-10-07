@@ -1,0 +1,23 @@
+{
+  "userId": 77787,
+  "cartId": "30520bd0-2726-4ea2-94cb-2646a1ae998d",
+  "preferredProducts": [
+    1936,
+    2223,
+    3614,
+    3170,
+    3684
+  ],
+  "productReviews": [
+    {
+      "productId": 759,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-11-03T20:34:44.3437937+02:00"
+    },
+    {
+      "productId": 1981,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-01-28T11:30:54.5263319+02:00"
+    }
+  ]
+}

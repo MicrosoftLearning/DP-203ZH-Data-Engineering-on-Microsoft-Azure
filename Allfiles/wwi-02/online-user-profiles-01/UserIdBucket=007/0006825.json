@@ -1,0 +1,38 @@
+{
+  "userId": 6825,
+  "cartId": "df6d819a-caff-4bf1-8c1d-26b32bd4637b",
+  "preferredProducts": [
+    4381,
+    3498,
+    3234,
+    3001,
+    1313,
+    2880,
+    1551,
+    2183,
+    2821,
+    636
+  ],
+  "productReviews": [
+    {
+      "productId": 1828,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-10-07T08:24:41.0540626+03:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-02-01T11:42:57.1862102+02:00"
+    },
+    {
+      "productId": 2901,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-11-14T16:04:10.9592217+02:00"
+    },
+    {
+      "productId": 3806,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2020-02-26T09:43:00.3324317+02:00"
+    }
+  ]
+}

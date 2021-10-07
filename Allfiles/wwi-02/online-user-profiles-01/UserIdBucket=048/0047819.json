@@ -1,0 +1,30 @@
+{
+  "userId": 47819,
+  "cartId": "444b7198-102a-47ee-9537-025bd3cb31b2",
+  "preferredProducts": [
+    4110,
+    1206,
+    3007,
+    2110,
+    4249,
+    983,
+    4830
+  ],
+  "productReviews": [
+    {
+      "productId": 3754,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-09-27T14:28:12.1970215+03:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-06-23T02:43:37.4193124+03:00"
+    },
+    {
+      "productId": 876,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-09-30T10:58:53.2665593+03:00"
+    }
+  ]
+}

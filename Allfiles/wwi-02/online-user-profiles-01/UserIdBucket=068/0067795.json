@@ -1,0 +1,31 @@
+{
+  "userId": 67795,
+  "cartId": "2ab36b6a-4c7a-4718-9d1e-a8b765216ff8",
+  "preferredProducts": [
+    2221,
+    1594,
+    42
+  ],
+  "productReviews": [
+    {
+      "productId": 2997,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-04-01T20:15:45.5562449+03:00"
+    },
+    {
+      "productId": 2618,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-01-08T02:48:41.7550405+02:00"
+    },
+    {
+      "productId": 2994,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-03-29T03:43:54.146617+03:00"
+    },
+    {
+      "productId": 4467,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-07-30T12:43:56.7734151+03:00"
+    }
+  ]
+}

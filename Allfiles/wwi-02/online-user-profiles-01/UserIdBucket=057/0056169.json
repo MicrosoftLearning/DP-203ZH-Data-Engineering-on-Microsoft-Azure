@@ -1,0 +1,35 @@
+{
+  "userId": 56169,
+  "cartId": "f34676d0-d0ee-401c-8dcc-e631ce8b8b4e",
+  "preferredProducts": [
+    4365,
+    533,
+    4972,
+    4472,
+    4218,
+    618,
+    1759
+  ],
+  "productReviews": [
+    {
+      "productId": 121,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-05-14T22:31:58.9205704+03:00"
+    },
+    {
+      "productId": 1687,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-08-06T15:52:43.1169723+03:00"
+    },
+    {
+      "productId": 4072,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-05-15T15:16:31.4209313+03:00"
+    },
+    {
+      "productId": 262,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-02-04T14:51:14.9138919+02:00"
+    }
+  ]
+}

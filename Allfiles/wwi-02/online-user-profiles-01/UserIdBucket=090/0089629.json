@@ -1,0 +1,31 @@
+{
+  "userId": 89629,
+  "cartId": "2c476153-e416-4a83-a4f9-2846cc3b420d",
+  "preferredProducts": [
+    4588,
+    1610,
+    467
+  ],
+  "productReviews": [
+    {
+      "productId": 303,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-08-10T21:34:17.7945652+03:00"
+    },
+    {
+      "productId": 2300,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-10-01T15:46:47.9571747+03:00"
+    },
+    {
+      "productId": 2680,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-11-21T18:58:11.8529736+02:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-08-25T16:15:34.303282+03:00"
+    }
+  ]
+}

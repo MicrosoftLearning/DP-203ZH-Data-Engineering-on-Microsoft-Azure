@@ -1,0 +1,30 @@
+{
+  "userId": 35383,
+  "cartId": "b9034c83-c998-443e-a4dd-f159aaf85d85",
+  "preferredProducts": [
+    1646,
+    2159,
+    266,
+    1311,
+    545,
+    4209,
+    2553
+  ],
+  "productReviews": [
+    {
+      "productId": 1137,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-10-27T00:47:58.1913855+03:00"
+    },
+    {
+      "productId": 258,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-07-19T18:19:55.8981969+03:00"
+    },
+    {
+      "productId": 4449,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-11-21T13:59:14.803028+02:00"
+    }
+  ]
+}

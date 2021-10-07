@@ -1,0 +1,27 @@
+{
+  "userId": 42223,
+  "cartId": "da690a76-53de-43b5-a3e7-3c2177326649",
+  "preferredProducts": [
+    1164,
+    3227,
+    964,
+    3910,
+    3996,
+    2413,
+    611,
+    4795,
+    724
+  ],
+  "productReviews": [
+    {
+      "productId": 3875,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-02-12T07:00:02.7535805+02:00"
+    },
+    {
+      "productId": 748,
+      "reviewText": "this Chief is mellow.",
+      "reviewDate": "2020-01-16T04:29:55.3365457+02:00"
+    }
+  ]
+}

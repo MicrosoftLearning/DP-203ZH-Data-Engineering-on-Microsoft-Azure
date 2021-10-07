@@ -1,0 +1,30 @@
+{
+  "userId": 946,
+  "cartId": "89ba34c3-5643-4bbc-a3b4-ed92e325fdfe",
+  "preferredProducts": [
+    949,
+    1642,
+    1336,
+    1696,
+    4565,
+    4907,
+    2523
+  ],
+  "productReviews": [
+    {
+      "productId": 4990,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-12-11T14:44:12.5184+02:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-12-24T17:31:58.2805194+02:00"
+    },
+    {
+      "productId": 1895,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-11-07T14:30:08.4057579+02:00"
+    }
+  ]
+}

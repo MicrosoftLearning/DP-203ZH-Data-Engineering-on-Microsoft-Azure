@@ -1,0 +1,35 @@
+{
+  "userId": 23577,
+  "cartId": "9b00b37a-e4b3-4f6a-9b13-765ac89befb1",
+  "preferredProducts": [
+    860,
+    1645,
+    3727,
+    212,
+    3591,
+    2524,
+    3220
+  ],
+  "productReviews": [
+    {
+      "productId": 2329,
+      "reviewText": "this Avon is slurpee.",
+      "reviewDate": "2019-02-21T04:59:39.301108+02:00"
+    },
+    {
+      "productId": 3714,
+      "reviewText": "this communities is hyper.",
+      "reviewDate": "2019-08-26T08:52:23.4940589+03:00"
+    },
+    {
+      "productId": 534,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-10-25T14:10:44.9434713+03:00"
+    },
+    {
+      "productId": 56,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2016-10-12T03:08:41.2480766+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 57567,
+  "cartId": "b0149b06-ed10-47e3-964b-10fb4db865b4",
+  "preferredProducts": [
+    1412,
+    3022,
+    3514,
+    604,
+    1386,
+    4062,
+    848,
+    2353
+  ],
+  "productReviews": [
+    {
+      "productId": 923,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-03-07T07:26:36.7838172+02:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-12-15T12:03:22.4524975+02:00"
+    },
+    {
+      "productId": 715,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-01-19T14:40:22.3948932+02:00"
+    }
+  ]
+}

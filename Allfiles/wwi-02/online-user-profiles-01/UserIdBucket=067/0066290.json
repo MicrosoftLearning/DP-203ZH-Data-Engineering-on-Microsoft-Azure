@@ -1,0 +1,26 @@
+{
+  "userId": 66290,
+  "cartId": "9db1b61a-1c4f-4e7a-b18f-72550151a8af",
+  "preferredProducts": [
+    545,
+    4219,
+    4314,
+    4105,
+    2742,
+    2975,
+    3800,
+    1485
+  ],
+  "productReviews": [
+    {
+      "productId": 1083,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-09-17T20:03:50.7841789+03:00"
+    },
+    {
+      "productId": 4316,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-06-18T18:21:45.7150997+03:00"
+    }
+  ]
+}

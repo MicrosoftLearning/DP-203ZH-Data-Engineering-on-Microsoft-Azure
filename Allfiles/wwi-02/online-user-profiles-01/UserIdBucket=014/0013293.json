@@ -1,0 +1,26 @@
+{
+  "userId": 13293,
+  "cartId": "077cf320-b556-49de-a69f-f77867760b1f",
+  "preferredProducts": [
+    2995,
+    2324,
+    299
+  ],
+  "productReviews": [
+    {
+      "productId": 777,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-02-23T06:13:02.4864963+02:00"
+    },
+    {
+      "productId": 448,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-01-26T20:18:13.1983548+02:00"
+    },
+    {
+      "productId": 2615,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2019-06-11T01:43:54.1937639+03:00"
+    }
+  ]
+}

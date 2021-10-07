@@ -1,0 +1,32 @@
+{
+  "userId": 21382,
+  "cartId": "6ea1a8b7-7493-4a99-a53e-b0bab59c9d8a",
+  "preferredProducts": [
+    1734,
+    3507,
+    706,
+    1210
+  ],
+  "productReviews": [
+    {
+      "productId": 3019,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2020-01-06T14:12:02.7953329+02:00"
+    },
+    {
+      "productId": 782,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2020-02-14T17:46:38.8947429+02:00"
+    },
+    {
+      "productId": 3383,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-05-12T02:11:21.9060016+03:00"
+    },
+    {
+      "productId": 296,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-01-16T17:23:25.0677085+02:00"
+    }
+  ]
+}

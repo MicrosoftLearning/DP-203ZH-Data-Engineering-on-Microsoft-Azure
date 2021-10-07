@@ -1,0 +1,36 @@
+{
+  "userId": 1971,
+  "cartId": "aca669a5-a2df-4acd-9bda-f7c6fbc0b3c3",
+  "preferredProducts": [
+    1758,
+    2021,
+    4728,
+    3213,
+    1953,
+    1646,
+    3641,
+    4984
+  ],
+  "productReviews": [
+    {
+      "productId": 1984,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-12-29T08:15:42.5680686+02:00"
+    },
+    {
+      "productId": 810,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-10-10T12:21:58.279776+03:00"
+    },
+    {
+      "productId": 1219,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-12-10T09:22:20.9894488+02:00"
+    },
+    {
+      "productId": 1333,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2020-03-23T00:30:18.4212584+02:00"
+    }
+  ]
+}

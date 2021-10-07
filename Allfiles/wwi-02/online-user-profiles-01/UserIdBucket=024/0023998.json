@@ -1,0 +1,30 @@
+{
+  "userId": 23998,
+  "cartId": "1286f7e0-0a37-4e24-8e0d-2290f63c6258",
+  "preferredProducts": [
+    2047,
+    4498
+  ],
+  "productReviews": [
+    {
+      "productId": 3518,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-12-18T17:02:13.2743936+02:00"
+    },
+    {
+      "productId": 245,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-06-06T19:40:51.374849+03:00"
+    },
+    {
+      "productId": 1404,
+      "reviewText": "this Beauty is whole-grain.",
+      "reviewDate": "2017-10-03T11:49:00.8862755+03:00"
+    },
+    {
+      "productId": 4069,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-02-02T00:23:34.3659015+02:00"
+    }
+  ]
+}

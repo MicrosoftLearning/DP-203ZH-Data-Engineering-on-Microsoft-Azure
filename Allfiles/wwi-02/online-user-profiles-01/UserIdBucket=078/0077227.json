@@ -1,0 +1,33 @@
+{
+  "userId": 77227,
+  "cartId": "10077ebb-8b84-4fb5-9f8e-b54c9b9e6b5e",
+  "preferredProducts": [
+    1243,
+    3456,
+    1798,
+    1919,
+    640
+  ],
+  "productReviews": [
+    {
+      "productId": 3314,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-05-22T04:58:10.2733146+03:00"
+    },
+    {
+      "productId": 4343,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-04-24T06:31:46.6543292+03:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-10-28T21:26:57.0729099+03:00"
+    },
+    {
+      "productId": 1227,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-02-06T01:02:35.7744949+02:00"
+    }
+  ]
+}

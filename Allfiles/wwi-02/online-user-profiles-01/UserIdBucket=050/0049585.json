@@ -1,0 +1,42 @@
+{
+  "userId": 49585,
+  "cartId": "e1f43265-0136-4f35-acb1-6de163fc33a8",
+  "preferredProducts": [
+    1913,
+    4235,
+    1547,
+    2228,
+    2882,
+    2541,
+    4481,
+    257,
+    4584
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-03-02T05:31:28.9111436+02:00"
+    },
+    {
+      "productId": 3079,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2016-11-26T21:08:58.9761974+02:00"
+    },
+    {
+      "productId": 3286,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-04-07T01:33:43.9230382+03:00"
+    },
+    {
+      "productId": 3495,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-10-06T23:53:10.9137592+03:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-11-06T08:21:34.8125769+02:00"
+    }
+  ]
+}

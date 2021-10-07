@@ -1,0 +1,33 @@
+{
+  "userId": 33522,
+  "cartId": "4d18701e-8f85-4431-801a-56871892a454",
+  "preferredProducts": [
+    3681,
+    2004,
+    452,
+    4216,
+    3619
+  ],
+  "productReviews": [
+    {
+      "productId": 4524,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-03-21T04:35:37.7931143+02:00"
+    },
+    {
+      "productId": 886,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-05-10T07:01:05.0221896+03:00"
+    },
+    {
+      "productId": 3935,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-08-23T06:09:28.6529073+03:00"
+    },
+    {
+      "productId": 754,
+      "reviewText": "This program works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-08-29T03:03:17.1597472+03:00"
+    }
+  ]
+}

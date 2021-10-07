@@ -1,0 +1,25 @@
+{
+  "userId": 8977,
+  "cartId": "db2936d6-d26a-489c-8f57-7302d6a42119",
+  "preferredProducts": [
+    3977,
+    1044,
+    4984,
+    3018,
+    4340,
+    79,
+    4113
+  ],
+  "productReviews": [
+    {
+      "productId": 648,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-10-12T22:57:58.7861131+03:00"
+    },
+    {
+      "productId": 903,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-09-16T19:55:20.2166349+03:00"
+    }
+  ]
+}

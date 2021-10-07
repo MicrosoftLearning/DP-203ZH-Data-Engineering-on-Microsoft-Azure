@@ -1,0 +1,27 @@
+{
+  "userId": 43545,
+  "cartId": "c87f4cc5-b7c6-44b0-bece-9237ea50102a",
+  "preferredProducts": [
+    3133,
+    1826,
+    2946,
+    3741
+  ],
+  "productReviews": [
+    {
+      "productId": 375,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-01-20T05:28:07.9476516+02:00"
+    },
+    {
+      "productId": 1379,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-09-30T19:03:13.3693611+03:00"
+    },
+    {
+      "productId": 3587,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-07-25T18:59:07.2196634+03:00"
+    }
+  ]
+}

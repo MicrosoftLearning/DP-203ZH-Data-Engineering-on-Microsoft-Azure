@@ -1,0 +1,42 @@
+{
+  "userId": 42718,
+  "cartId": "a1ef7bb8-2b60-47f3-ad31-243698cb8b4c",
+  "preferredProducts": [
+    3657,
+    3276,
+    1417,
+    2850,
+    1645,
+    4431,
+    3935,
+    4508,
+    4217
+  ],
+  "productReviews": [
+    {
+      "productId": 3779,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-03-28T16:29:26.5646903+02:00"
+    },
+    {
+      "productId": 4386,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-05-30T20:22:29.2870552+03:00"
+    },
+    {
+      "productId": 3757,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-01-09T14:42:28.4681533+02:00"
+    },
+    {
+      "productId": 294,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-02-05T10:54:08.8390576+02:00"
+    },
+    {
+      "productId": 200,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2020-05-09T18:00:07.8378373+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 26953,
+  "cartId": "abfc1634-52d1-43d3-aafc-9471bd4dbf46",
+  "preferredProducts": [
+    1926,
+    2824,
+    1399,
+    2438
+  ],
+  "productReviews": [
+    {
+      "productId": 3334,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-09-05T00:17:50.809539+03:00"
+    },
+    {
+      "productId": 3055,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-09-29T05:50:33.1892696+03:00"
+    },
+    {
+      "productId": 2102,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-09-19T23:51:24.3958249+03:00"
+    },
+    {
+      "productId": 4984,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-08-30T02:45:04.282706+03:00"
+    }
+  ]
+}

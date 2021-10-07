@@ -1,0 +1,29 @@
+{
+  "userId": 84564,
+  "cartId": "c3e8fbf5-1b2f-41d3-a23f-be47a8387b42",
+  "preferredProducts": [
+    176,
+    475,
+    2265,
+    4960,
+    3364,
+    1922
+  ],
+  "productReviews": [
+    {
+      "productId": 1784,
+      "reviewText": "this bypassing is tasty.",
+      "reviewDate": "2019-04-07T05:52:17.2426839+03:00"
+    },
+    {
+      "productId": 1208,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-07-31T20:32:32.8178809+03:00"
+    },
+    {
+      "productId": 167,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-02-08T22:24:33.2217897+02:00"
+    }
+  ]
+}

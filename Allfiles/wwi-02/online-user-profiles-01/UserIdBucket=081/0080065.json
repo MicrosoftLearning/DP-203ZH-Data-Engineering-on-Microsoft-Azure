@@ -1,0 +1,29 @@
+{
+  "userId": 80065,
+  "cartId": "62230f04-7abd-4c7e-8dfe-d7fcfbdabfab",
+  "preferredProducts": [
+    2277,
+    1527,
+    4089,
+    3116,
+    976,
+    109
+  ],
+  "productReviews": [
+    {
+      "productId": 1073,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-08-28T08:01:00.9417428+03:00"
+    },
+    {
+      "productId": 2110,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-08-22T20:58:33.5618144+03:00"
+    },
+    {
+      "productId": 4779,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-10-29T09:12:51.5720782+02:00"
+    }
+  ]
+}

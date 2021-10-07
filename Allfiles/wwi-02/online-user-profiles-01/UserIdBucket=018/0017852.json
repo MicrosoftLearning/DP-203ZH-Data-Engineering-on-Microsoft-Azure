@@ -1,0 +1,37 @@
+{
+  "userId": 17852,
+  "cartId": "817c7419-26ac-43cc-8896-6c35b9e23b3c",
+  "preferredProducts": [
+    749,
+    2512,
+    4990,
+    520,
+    259,
+    576,
+    3726,
+    1187,
+    3939
+  ],
+  "productReviews": [
+    {
+      "productId": 2046,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-01-28T19:53:26.8474206+02:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "This Granite works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-05-12T01:52:34.4143308+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-08-16T04:09:54.7482784+03:00"
+    },
+    {
+      "productId": 2732,
+      "reviewText": "this Bedfordshire is vertical.",
+      "reviewDate": "2019-08-28T10:43:56.8804068+03:00"
+    }
+  ]
+}

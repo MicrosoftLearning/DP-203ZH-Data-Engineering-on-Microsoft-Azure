@@ -1,0 +1,27 @@
+{
+  "userId": 3849,
+  "cartId": "ce0cb378-06ce-43e6-959b-5a7642519502",
+  "preferredProducts": [
+    3562,
+    3176,
+    4210,
+    2242
+  ],
+  "productReviews": [
+    {
+      "productId": 4850,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-06-19T01:07:54.4559052+03:00"
+    },
+    {
+      "productId": 1229,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-01-30T06:53:09.8086171+02:00"
+    },
+    {
+      "productId": 2267,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-09-01T10:13:27.9193802+03:00"
+    }
+  ]
+}

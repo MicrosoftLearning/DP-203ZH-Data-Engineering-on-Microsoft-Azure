@@ -1,0 +1,31 @@
+{
+  "userId": 34555,
+  "cartId": "f576d01c-71a7-4dee-9937-5be8bec6f757",
+  "preferredProducts": [
+    3228,
+    4457,
+    3116
+  ],
+  "productReviews": [
+    {
+      "productId": 1403,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-12-06T04:14:41.3542945+02:00"
+    },
+    {
+      "productId": 2704,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-08-18T00:18:54.8034305+03:00"
+    },
+    {
+      "productId": 2523,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-04-25T22:16:57.1315549+03:00"
+    },
+    {
+      "productId": 2789,
+      "reviewText": "This array works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-02-17T21:55:40.5577528+02:00"
+    }
+  ]
+}

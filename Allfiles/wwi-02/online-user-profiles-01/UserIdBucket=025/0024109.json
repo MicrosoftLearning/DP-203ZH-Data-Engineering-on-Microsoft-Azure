@@ -1,0 +1,36 @@
+{
+  "userId": 24109,
+  "cartId": "a0a5d475-7848-4ef9-b536-aa03142e41e8",
+  "preferredProducts": [
+    2137,
+    3827,
+    2149,
+    4240,
+    3078,
+    3376,
+    2423,
+    1837
+  ],
+  "productReviews": [
+    {
+      "productId": 1943,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-04-16T22:25:13.049701+03:00"
+    },
+    {
+      "productId": 2654,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-05-25T00:46:18.1183065+03:00"
+    },
+    {
+      "productId": 3230,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-12-16T01:18:15.2372228+02:00"
+    },
+    {
+      "productId": 1317,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-04-18T11:14:29.0658158+03:00"
+    }
+  ]
+}

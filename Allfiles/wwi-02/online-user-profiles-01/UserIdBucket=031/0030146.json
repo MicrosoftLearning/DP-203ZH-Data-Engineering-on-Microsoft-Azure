@@ -1,0 +1,36 @@
+{
+  "userId": 30146,
+  "cartId": "39fa1338-087d-4902-8c64-f07cfd5f20ab",
+  "preferredProducts": [
+    2833,
+    2513,
+    3794,
+    171,
+    2243,
+    3016,
+    2448,
+    2785
+  ],
+  "productReviews": [
+    {
+      "productId": 3849,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-11-09T07:45:57.7165591+02:00"
+    },
+    {
+      "productId": 2253,
+      "reviewText": "this parse is light-hearted.",
+      "reviewDate": "2017-01-08T22:09:50.9138634+02:00"
+    },
+    {
+      "productId": 80,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-07-29T16:39:20.8729958+03:00"
+    },
+    {
+      "productId": 1235,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-10-15T15:31:49.8701855+03:00"
+    }
+  ]
+}

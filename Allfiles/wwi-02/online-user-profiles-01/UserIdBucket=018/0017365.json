@@ -1,0 +1,25 @@
+{
+  "userId": 17365,
+  "cartId": "3e46cb88-ac73-4d75-9056-30fc40ec4560",
+  "preferredProducts": [
+    4624,
+    4528
+  ],
+  "productReviews": [
+    {
+      "productId": 4102,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-12-02T07:44:34.7628261+02:00"
+    },
+    {
+      "productId": 60,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-08-26T02:12:11.3795976+03:00"
+    },
+    {
+      "productId": 3526,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-06-09T03:22:19.2252966+03:00"
+    }
+  ]
+}

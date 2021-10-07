@@ -1,0 +1,23 @@
+{
+  "userId": 40964,
+  "cartId": "1b3fb090-35a9-4a2d-9706-1db4216773a5",
+  "preferredProducts": [
+    3519,
+    2130,
+    3262,
+    1021,
+    3684
+  ],
+  "productReviews": [
+    {
+      "productId": 4910,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-04-15T17:36:00.7699112+03:00"
+    },
+    {
+      "productId": 1969,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-02-13T08:00:46.9106405+02:00"
+    }
+  ]
+}

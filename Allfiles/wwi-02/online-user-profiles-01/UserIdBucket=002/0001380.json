@@ -1,0 +1,33 @@
+{
+  "userId": 1380,
+  "cartId": "bea68fc1-1524-46f7-81ba-f924b8144392",
+  "preferredProducts": [
+    4312,
+    2806,
+    3624,
+    4103,
+    4000,
+    3457,
+    1071,
+    2981,
+    1588,
+    1843
+  ],
+  "productReviews": [
+    {
+      "productId": 4149,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-07-11T06:40:40.6368226+03:00"
+    },
+    {
+      "productId": 4320,
+      "reviewText": "This invoice works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-12-08T05:07:36.3679534+02:00"
+    },
+    {
+      "productId": 4414,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-09-18T01:12:15.9537912+03:00"
+    }
+  ]
+}

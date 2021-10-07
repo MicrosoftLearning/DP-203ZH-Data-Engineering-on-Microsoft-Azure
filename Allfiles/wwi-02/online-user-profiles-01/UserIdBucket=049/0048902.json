@@ -1,0 +1,25 @@
+{
+  "userId": 48902,
+  "cartId": "fe9214c3-8012-4f2a-99a3-e56e5362dddc",
+  "preferredProducts": [
+    295,
+    985
+  ],
+  "productReviews": [
+    {
+      "productId": 346,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-11-01T03:34:44.4408239+02:00"
+    },
+    {
+      "productId": 3420,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-04-27T04:38:39.93499+03:00"
+    },
+    {
+      "productId": 2463,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-09-02T02:58:35.5692487+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 42625,
+  "cartId": "3b23a36b-2b36-40d1-b290-80cb2e150c56",
+  "preferredProducts": [
+    2365,
+    4441,
+    773,
+    4264,
+    2142,
+    3558,
+    1710
+  ],
+  "productReviews": [
+    {
+      "productId": 4964,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-05-11T21:50:41.3591136+03:00"
+    },
+    {
+      "productId": 2165,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-05-17T20:25:57.084592+03:00"
+    }
+  ]
+}

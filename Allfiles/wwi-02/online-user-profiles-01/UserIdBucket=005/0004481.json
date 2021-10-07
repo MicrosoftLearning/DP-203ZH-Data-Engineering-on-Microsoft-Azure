@@ -1,0 +1,41 @@
+{
+  "userId": 4481,
+  "cartId": "d0bc6cb8-d28c-4a04-830b-2b5e2e5fcfc5",
+  "preferredProducts": [
+    2033,
+    1240,
+    891,
+    4156,
+    2084,
+    1075,
+    421,
+    3330
+  ],
+  "productReviews": [
+    {
+      "productId": 1818,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-01-06T17:42:40.0640385+02:00"
+    },
+    {
+      "productId": 4585,
+      "reviewText": "this Assistant is standard.",
+      "reviewDate": "2020-01-25T01:40:51.9553078+02:00"
+    },
+    {
+      "productId": 3997,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-12-12T15:07:08.6117862+02:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-12-13T03:04:27.2083404+02:00"
+    },
+    {
+      "productId": 4150,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-10-08T01:58:11.4025482+03:00"
+    }
+  ]
+}

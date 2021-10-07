@@ -1,0 +1,33 @@
+{
+  "userId": 17563,
+  "cartId": "9dc4ef83-9f6d-4453-80e9-a7b7a847ebd9",
+  "preferredProducts": [
+    3490,
+    3340,
+    4635,
+    793,
+    2172
+  ],
+  "productReviews": [
+    {
+      "productId": 3647,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-07-13T21:35:58.9582716+03:00"
+    },
+    {
+      "productId": 245,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-11-24T02:59:07.8771032+02:00"
+    },
+    {
+      "productId": 3020,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-12-21T17:22:49.4075573+02:00"
+    },
+    {
+      "productId": 216,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-10-16T17:11:52.7239357+03:00"
+    }
+  ]
+}

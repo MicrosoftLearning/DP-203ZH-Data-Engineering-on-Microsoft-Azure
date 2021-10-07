@@ -1,0 +1,37 @@
+{
+  "userId": 5161,
+  "cartId": "3d63ebba-1ff0-4a23-8e64-7166fcef4373",
+  "preferredProducts": [
+    1286,
+    2600,
+    524,
+    516,
+    1933,
+    3001,
+    947,
+    2486,
+    4237
+  ],
+  "productReviews": [
+    {
+      "productId": 3040,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-01-12T21:30:40.4340247+02:00"
+    },
+    {
+      "productId": 2865,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-06-12T11:30:04.7046349+03:00"
+    },
+    {
+      "productId": 2032,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-02-25T10:35:01.6014908+02:00"
+    },
+    {
+      "productId": 4708,
+      "reviewText": "this online is revolting.",
+      "reviewDate": "2019-05-22T10:33:06.9892005+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 79295,
+  "cartId": "7fa65eaf-5dd2-4a19-b096-621764e2cfb8",
+  "preferredProducts": [
+    2777,
+    1786,
+    4986,
+    2397,
+    1215,
+    3930,
+    4689,
+    1815,
+    895,
+    2899
+  ],
+  "productReviews": [
+    {
+      "productId": 3258,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-06-15T01:09:20.9000823+03:00"
+    },
+    {
+      "productId": 4305,
+      "reviewText": "This Generic works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2016-12-05T05:51:36.9880441+02:00"
+    },
+    {
+      "productId": 2265,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-09-28T04:09:01.2222399+03:00"
+    }
+  ]
+}

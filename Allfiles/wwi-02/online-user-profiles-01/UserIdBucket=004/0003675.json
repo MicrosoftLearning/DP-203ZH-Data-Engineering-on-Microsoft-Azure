@@ -1,0 +1,35 @@
+{
+  "userId": 3675,
+  "cartId": "edfe9cdc-122b-4b83-9c01-b1d5e0d3d9a5",
+  "preferredProducts": [
+    3284,
+    2423,
+    299,
+    1717,
+    4826,
+    3806,
+    3834
+  ],
+  "productReviews": [
+    {
+      "productId": 3085,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-03-08T13:22:38.4454401+02:00"
+    },
+    {
+      "productId": 374,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-06-06T03:56:21.4898849+03:00"
+    },
+    {
+      "productId": 4443,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-03-14T10:05:22.5975654+02:00"
+    },
+    {
+      "productId": 3001,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-12-27T06:41:40.5734502+02:00"
+    }
+  ]
+}

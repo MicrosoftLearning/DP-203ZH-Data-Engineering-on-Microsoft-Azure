@@ -1,0 +1,33 @@
+{
+  "userId": 10640,
+  "cartId": "7dd28f6d-aaad-4122-b0e8-ee2412c4763c",
+  "preferredProducts": [
+    1425,
+    1251,
+    3859,
+    2992,
+    2774
+  ],
+  "productReviews": [
+    {
+      "productId": 712,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-08-20T03:39:40.1827775+03:00"
+    },
+    {
+      "productId": 3508,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-08-14T18:19:25.7457459+03:00"
+    },
+    {
+      "productId": 212,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-08-23T00:10:10.8319308+03:00"
+    },
+    {
+      "productId": 3371,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-11-17T07:24:11.2776253+02:00"
+    }
+  ]
+}

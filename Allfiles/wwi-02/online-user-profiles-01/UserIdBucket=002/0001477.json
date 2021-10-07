@@ -1,0 +1,38 @@
+{
+  "userId": 1477,
+  "cartId": "db6abb9a-e114-4cdc-aaec-d647ca8c30ed",
+  "preferredProducts": [
+    3202,
+    2191,
+    1824,
+    2755,
+    4468,
+    2773,
+    2073,
+    4009,
+    2807,
+    1474
+  ],
+  "productReviews": [
+    {
+      "productId": 1618,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-09-22T16:55:06.7050165+03:00"
+    },
+    {
+      "productId": 4694,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-06-03T16:52:38.836628+03:00"
+    },
+    {
+      "productId": 4024,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-09-03T07:04:33.9597669+03:00"
+    },
+    {
+      "productId": 2638,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-03-31T17:23:16.93083+03:00"
+    }
+  ]
+}

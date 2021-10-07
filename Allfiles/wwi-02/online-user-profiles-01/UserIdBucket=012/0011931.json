@@ -1,0 +1,42 @@
+{
+  "userId": 11931,
+  "cartId": "64900816-ddbe-4604-a84e-11e2d30f8f52",
+  "preferredProducts": [
+    3834,
+    3986,
+    1943,
+    1904,
+    313,
+    3286,
+    1267,
+    1667,
+    2086
+  ],
+  "productReviews": [
+    {
+      "productId": 4393,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-09-16T07:53:03.6837884+03:00"
+    },
+    {
+      "productId": 364,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-05-15T03:05:46.2670464+03:00"
+    },
+    {
+      "productId": 4558,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-06-15T14:27:10.4750831+03:00"
+    },
+    {
+      "productId": 3209,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-09-21T19:06:03.9505351+03:00"
+    },
+    {
+      "productId": 1738,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-08-17T12:17:53.3011089+03:00"
+    }
+  ]
+}

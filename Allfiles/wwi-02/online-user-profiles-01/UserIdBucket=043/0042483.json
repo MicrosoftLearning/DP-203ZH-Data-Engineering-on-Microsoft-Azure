@@ -1,0 +1,32 @@
+{
+  "userId": 42483,
+  "cartId": "9f282a02-956a-4756-aa6c-8a8b16696dad",
+  "preferredProducts": [
+    3053,
+    681,
+    4213,
+    2640
+  ],
+  "productReviews": [
+    {
+      "productId": 4949,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-06-29T09:38:53.8666203+03:00"
+    },
+    {
+      "productId": 4124,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-03-01T18:45:12.9210966+02:00"
+    },
+    {
+      "productId": 395,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-05-28T04:59:01.3459017+03:00"
+    },
+    {
+      "productId": 152,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-05-16T21:43:21.391411+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 37886,
+  "cartId": "529b1c5d-4751-4b08-be81-9b996c775ad0",
+  "preferredProducts": [
+    3226,
+    1908,
+    4439,
+    1570,
+    1229,
+    1460,
+    613,
+    4170,
+    1006
+  ],
+  "productReviews": [
+    {
+      "productId": 3681,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-02-25T19:31:24.7697706+02:00"
+    },
+    {
+      "productId": 3703,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-02-03T16:46:11.764439+02:00"
+    },
+    {
+      "productId": 2660,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-07-17T22:17:38.4809672+03:00"
+    }
+  ]
+}

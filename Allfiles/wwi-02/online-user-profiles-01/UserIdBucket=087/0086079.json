@@ -1,0 +1,32 @@
+{
+  "userId": 86079,
+  "cartId": "639bbbfc-cad8-49c9-a104-cf71bcea4bb3",
+  "preferredProducts": [
+    791,
+    4451,
+    1238,
+    919
+  ],
+  "productReviews": [
+    {
+      "productId": 1889,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-11-16T03:26:22.346979+02:00"
+    },
+    {
+      "productId": 3684,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-07-14T15:12:19.7749179+03:00"
+    },
+    {
+      "productId": 4336,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-11T16:46:53.1353804+03:00"
+    },
+    {
+      "productId": 591,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-07-09T03:26:18.7370007+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 13223,
+  "cartId": "583a0040-c06e-44e6-ae02-90a490ba772d",
+  "preferredProducts": [
+    3558,
+    3087,
+    4501,
+    3536,
+    3119
+  ],
+  "productReviews": [
+    {
+      "productId": 1969,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-03-10T11:40:54.3673241+02:00"
+    },
+    {
+      "productId": 2345,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-06-07T15:27:57.9127179+03:00"
+    },
+    {
+      "productId": 2368,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-10-05T20:52:42.1473811+03:00"
+    },
+    {
+      "productId": 4024,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-06-25T20:53:31.6672922+03:00"
+    }
+  ]
+}

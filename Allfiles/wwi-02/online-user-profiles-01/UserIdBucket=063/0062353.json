@@ -1,0 +1,28 @@
+{
+  "userId": 62353,
+  "cartId": "d1c7fc30-572a-4069-9853-1c3fcf567bca",
+  "preferredProducts": [
+    1955,
+    4833,
+    4787,
+    4739,
+    1234
+  ],
+  "productReviews": [
+    {
+      "productId": 3580,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-06-02T10:57:14.5146197+03:00"
+    },
+    {
+      "productId": 1772,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-10-12T20:49:35.4574603+03:00"
+    },
+    {
+      "productId": 1961,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-11-20T08:25:36.5739269+02:00"
+    }
+  ]
+}

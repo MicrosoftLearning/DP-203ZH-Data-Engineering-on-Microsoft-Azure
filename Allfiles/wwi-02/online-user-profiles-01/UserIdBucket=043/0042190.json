@@ -1,0 +1,25 @@
+{
+  "userId": 42190,
+  "cartId": "aa697b23-9287-4266-a571-eccd3a6209fe",
+  "preferredProducts": [
+    1804,
+    1300,
+    4243,
+    2178,
+    1931,
+    2229,
+    4532
+  ],
+  "productReviews": [
+    {
+      "productId": 144,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-03-16T10:27:23.8405572+02:00"
+    },
+    {
+      "productId": 2495,
+      "reviewText": "this Borders is awesome.",
+      "reviewDate": "2018-05-21T09:28:10.0264935+03:00"
+    }
+  ]
+}

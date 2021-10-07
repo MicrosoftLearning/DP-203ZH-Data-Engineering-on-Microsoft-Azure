@@ -1,0 +1,33 @@
+{
+  "userId": 47223,
+  "cartId": "ca433e4d-4108-46d1-a7dc-5000afe6a93e",
+  "preferredProducts": [
+    378,
+    4815,
+    2021,
+    2788,
+    1399
+  ],
+  "productReviews": [
+    {
+      "productId": 666,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-05-09T07:39:48.3106835+03:00"
+    },
+    {
+      "productId": 4740,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2020-04-15T22:01:58.2479185+03:00"
+    },
+    {
+      "productId": 1236,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-02-07T13:58:11.6630571+02:00"
+    },
+    {
+      "productId": 2643,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-04-29T09:59:39.3300646+03:00"
+    }
+  ]
+}

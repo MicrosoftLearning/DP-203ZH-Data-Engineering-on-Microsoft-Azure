@@ -1,0 +1,37 @@
+{
+  "userId": 5832,
+  "cartId": "5cb25725-98f7-47f5-8681-1ab896168a3e",
+  "preferredProducts": [
+    3905,
+    18,
+    3203,
+    962,
+    3289,
+    2294,
+    1358,
+    4462,
+    383
+  ],
+  "productReviews": [
+    {
+      "productId": 2522,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-08-13T13:59:58.3174649+03:00"
+    },
+    {
+      "productId": 4076,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-07-02T05:41:27.8525612+03:00"
+    },
+    {
+      "productId": 3980,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-01-06T03:05:47.2390558+02:00"
+    },
+    {
+      "productId": 4791,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2016-12-19T21:17:17.0138694+02:00"
+    }
+  ]
+}

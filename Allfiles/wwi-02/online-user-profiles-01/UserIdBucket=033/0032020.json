@@ -1,0 +1,26 @@
+{
+  "userId": 32020,
+  "cartId": "7e75a7f8-0ee1-4279-9c4d-fe0c13ab6c32",
+  "preferredProducts": [
+    4935,
+    1394,
+    4703
+  ],
+  "productReviews": [
+    {
+      "productId": 4569,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-08-30T12:17:16.2058066+03:00"
+    },
+    {
+      "productId": 2485,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-06-09T05:26:25.1482863+03:00"
+    },
+    {
+      "productId": 1168,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-06-25T15:31:27.1990009+03:00"
+    }
+  ]
+}

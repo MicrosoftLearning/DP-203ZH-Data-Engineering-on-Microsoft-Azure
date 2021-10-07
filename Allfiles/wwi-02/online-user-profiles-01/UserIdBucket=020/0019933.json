@@ -1,0 +1,24 @@
+{
+  "userId": 19933,
+  "cartId": "a912fd7f-b0d7-4fd8-b359-227d493eecde",
+  "preferredProducts": [
+    625
+  ],
+  "productReviews": [
+    {
+      "productId": 3463,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-06-04T01:35:29.9151839+03:00"
+    },
+    {
+      "productId": 272,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-11-09T22:22:24.9029882+02:00"
+    },
+    {
+      "productId": 4517,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-12-08T12:24:56.2006585+02:00"
+    }
+  ]
+}

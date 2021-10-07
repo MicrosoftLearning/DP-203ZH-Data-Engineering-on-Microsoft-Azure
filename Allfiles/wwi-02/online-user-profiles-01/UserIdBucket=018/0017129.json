@@ -1,0 +1,31 @@
+{
+  "userId": 17129,
+  "cartId": "3dc180c2-f8c8-43fc-a5ae-27a6be48a340",
+  "preferredProducts": [
+    4048,
+    2061,
+    4441
+  ],
+  "productReviews": [
+    {
+      "productId": 2219,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-11-20T18:33:48.6933781+02:00"
+    },
+    {
+      "productId": 4625,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-06-09T01:39:13.5091941+03:00"
+    },
+    {
+      "productId": 636,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-12-15T12:54:13.7770543+02:00"
+    },
+    {
+      "productId": 17,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-08-06T12:55:07.3640566+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 25235,
+  "cartId": "9fda8efe-c593-4997-925f-71a5d16466e3",
+  "preferredProducts": [
+    1404,
+    699,
+    3374,
+    4740,
+    264
+  ],
+  "productReviews": [
+    {
+      "productId": 3970,
+      "reviewText": "This matrix works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2019-11-26T16:34:20.7346118+02:00"
+    },
+    {
+      "productId": 2251,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-05-07T08:00:01.6949899+03:00"
+    },
+    {
+      "productId": 4051,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-03-17T05:50:59.1425025+02:00"
+    },
+    {
+      "productId": 2945,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2020-04-04T10:01:55.7918052+03:00"
+    }
+  ]
+}

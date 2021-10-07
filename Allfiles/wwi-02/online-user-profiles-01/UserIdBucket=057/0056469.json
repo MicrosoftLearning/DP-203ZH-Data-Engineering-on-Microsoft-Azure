@@ -1,0 +1,32 @@
+{
+  "userId": 56469,
+  "cartId": "a7b8cd23-1240-42e2-b5cc-450440a23a43",
+  "preferredProducts": [
+    2725,
+    194,
+    3226,
+    1768,
+    3403,
+    1463,
+    4329,
+    2200,
+    1708
+  ],
+  "productReviews": [
+    {
+      "productId": 2494,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-04-11T16:35:31.9808043+03:00"
+    },
+    {
+      "productId": 2325,
+      "reviewText": "this monitor is snowy.",
+      "reviewDate": "2018-11-29T15:05:20.3270455+02:00"
+    },
+    {
+      "productId": 2562,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-08-12T03:19:58.295835+03:00"
+    }
+  ]
+}

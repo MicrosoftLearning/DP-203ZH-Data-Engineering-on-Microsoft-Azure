@@ -1,0 +1,37 @@
+{
+  "userId": 12052,
+  "cartId": "5d2f2e61-7702-451c-ae79-d41b87e98e5a",
+  "preferredProducts": [
+    3030,
+    2719,
+    2632,
+    310,
+    4558,
+    3215,
+    1040,
+    1326,
+    883
+  ],
+  "productReviews": [
+    {
+      "productId": 1327,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-05-05T08:34:54.5950359+03:00"
+    },
+    {
+      "productId": 1696,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-12-03T17:53:15.6660165+02:00"
+    },
+    {
+      "productId": 401,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-12-05T11:34:40.4341633+02:00"
+    },
+    {
+      "productId": 4299,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-12-07T07:53:09.1989301+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 25133,
+  "cartId": "8fd690ac-51bc-4de0-ae47-def275a8deb9",
+  "preferredProducts": [
+    1182,
+    3067,
+    4381,
+    2407,
+    1585,
+    542,
+    3202,
+    2931,
+    1128
+  ],
+  "productReviews": [
+    {
+      "productId": 3219,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-26T06:47:05.6639331+03:00"
+    },
+    {
+      "productId": 127,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-10-01T11:08:04.555765+03:00"
+    }
+  ]
+}

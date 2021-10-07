@@ -1,0 +1,33 @@
+{
+  "userId": 56918,
+  "cartId": "b00e4760-8ce5-46f0-b97b-178c8c1780c7",
+  "preferredProducts": [
+    2338,
+    2593,
+    206,
+    1952,
+    1504
+  ],
+  "productReviews": [
+    {
+      "productId": 2792,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-03-24T02:05:41.6517612+02:00"
+    },
+    {
+      "productId": 288,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-11-14T19:38:28.1941963+02:00"
+    },
+    {
+      "productId": 2507,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-02-06T20:54:14.4292892+02:00"
+    },
+    {
+      "productId": 2987,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-09-30T21:19:03.8026263+03:00"
+    }
+  ]
+}

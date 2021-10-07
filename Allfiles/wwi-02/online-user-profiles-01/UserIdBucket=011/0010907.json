@@ -1,0 +1,34 @@
+{
+  "userId": 10907,
+  "cartId": "d08cbb78-1a0d-4cec-abcb-6db493b710d1",
+  "preferredProducts": [
+    2875,
+    3017,
+    2260,
+    4090,
+    4883,
+    621
+  ],
+  "productReviews": [
+    {
+      "productId": 3671,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-05-31T18:00:52.0679362+03:00"
+    },
+    {
+      "productId": 1538,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-11-21T08:49:33.9842324+02:00"
+    },
+    {
+      "productId": 3376,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-04-22T17:32:36.0407071+03:00"
+    },
+    {
+      "productId": 4498,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-03-24T02:19:26.377255+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 66435,
+  "cartId": "7f8b6209-6efc-4b7d-ab95-27ceb5de5971",
+  "preferredProducts": [
+    3400,
+    2107,
+    293,
+    413,
+    3204,
+    1963,
+    4341
+  ],
+  "productReviews": [
+    {
+      "productId": 535,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-06-14T22:34:20.6771366+03:00"
+    },
+    {
+      "productId": 2132,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-11-16T00:15:05.7314715+02:00"
+    },
+    {
+      "productId": 3010,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-12-15T21:37:19.2214873+02:00"
+    },
+    {
+      "productId": 1389,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-07-25T18:09:24.9618479+03:00"
+    }
+  ]
+}

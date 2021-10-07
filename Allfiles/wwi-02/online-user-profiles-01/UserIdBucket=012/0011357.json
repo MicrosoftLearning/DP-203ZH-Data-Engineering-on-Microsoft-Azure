@@ -1,0 +1,30 @@
+{
+  "userId": 11357,
+  "cartId": "557c3597-0259-41e9-8b05-084390c0cf86",
+  "preferredProducts": [
+    4020,
+    2262,
+    2426,
+    2844,
+    2614,
+    1011,
+    2885
+  ],
+  "productReviews": [
+    {
+      "productId": 2644,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-04-29T22:50:09.4594045+03:00"
+    },
+    {
+      "productId": 3072,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-05-04T05:25:16.7873669+03:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-06-12T23:25:46.7385153+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 8120,
+  "cartId": "7c8d0800-96ff-457d-b869-5055e05022f0",
+  "preferredProducts": [
+    1343,
+    2369,
+    4356,
+    781,
+    4628,
+    3633,
+    1030,
+    665,
+    222,
+    2713
+  ],
+  "productReviews": [
+    {
+      "productId": 1231,
+      "reviewText": "this navigate is brown.",
+      "reviewDate": "2019-11-04T06:38:12.0869211+02:00"
+    },
+    {
+      "productId": 2595,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2020-04-12T21:51:36.0874213+03:00"
+    },
+    {
+      "productId": 1565,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-05-19T17:47:47.129751+03:00"
+    }
+  ]
+}

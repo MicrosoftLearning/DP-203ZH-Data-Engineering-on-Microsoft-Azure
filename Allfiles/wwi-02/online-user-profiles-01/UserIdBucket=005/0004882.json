@@ -1,0 +1,25 @@
+{
+  "userId": 4882,
+  "cartId": "10cc69b3-e5ee-4252-89ff-18be3a24e03e",
+  "preferredProducts": [
+    2217,
+    2444,
+    1615,
+    4637,
+    668,
+    4667,
+    439
+  ],
+  "productReviews": [
+    {
+      "productId": 2915,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-02-13T20:48:27.6581253+02:00"
+    },
+    {
+      "productId": 3337,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2018-05-23T04:28:02.1915837+03:00"
+    }
+  ]
+}

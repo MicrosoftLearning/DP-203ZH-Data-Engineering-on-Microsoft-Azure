@@ -1,0 +1,35 @@
+{
+  "userId": 32135,
+  "cartId": "c10bf0c0-7ee4-42b9-a0f3-6d9c41239767",
+  "preferredProducts": [
+    189,
+    4849,
+    1181,
+    201,
+    4590,
+    1401,
+    1526
+  ],
+  "productReviews": [
+    {
+      "productId": 110,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-09-13T20:37:38.9713837+03:00"
+    },
+    {
+      "productId": 1450,
+      "reviewText": "This Junction works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-10-19T10:35:09.887317+03:00"
+    },
+    {
+      "productId": 3803,
+      "reviewText": "This drive works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2017-12-10T02:36:14.123249+02:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "This Designer works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2016-10-09T23:43:21.4024454+03:00"
+    }
+  ]
+}

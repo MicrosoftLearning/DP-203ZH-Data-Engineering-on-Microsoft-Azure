@@ -1,0 +1,33 @@
+{
+  "userId": 38077,
+  "cartId": "80d777bf-fc66-449f-90f4-3e87d3326438",
+  "preferredProducts": [
+    3938,
+    3664,
+    2922,
+    3067,
+    143
+  ],
+  "productReviews": [
+    {
+      "productId": 4429,
+      "reviewText": "this vortals is papery.",
+      "reviewDate": "2017-10-16T16:06:50.681683+03:00"
+    },
+    {
+      "productId": 2664,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-07-25T17:09:28.1483384+03:00"
+    },
+    {
+      "productId": 2656,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-12-27T09:24:44.02989+02:00"
+    },
+    {
+      "productId": 1389,
+      "reviewText": "This is a really good Program.",
+      "reviewDate": "2019-05-01T04:08:55.3122654+03:00"
+    }
+  ]
+}

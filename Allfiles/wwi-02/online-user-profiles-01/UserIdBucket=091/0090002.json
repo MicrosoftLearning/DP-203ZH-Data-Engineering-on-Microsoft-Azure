@@ -1,0 +1,26 @@
+{
+  "userId": 90002,
+  "cartId": "8ab2d92c-b3aa-4e7e-ae3e-9bfe13c4f3cd",
+  "preferredProducts": [
+    373,
+    4249,
+    872,
+    1049,
+    1975,
+    3516,
+    2204,
+    2435
+  ],
+  "productReviews": [
+    {
+      "productId": 2127,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-03-13T10:32:30.7549677+02:00"
+    },
+    {
+      "productId": 4557,
+      "reviewText": "this dynamic is perplexed.",
+      "reviewDate": "2019-03-02T16:52:38.9210534+02:00"
+    }
+  ]
+}

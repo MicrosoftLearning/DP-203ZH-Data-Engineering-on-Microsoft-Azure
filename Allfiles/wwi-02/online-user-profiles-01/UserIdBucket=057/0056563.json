@@ -1,0 +1,37 @@
+{
+  "userId": 56563,
+  "cartId": "fc0125a9-9886-47da-8c97-8f14f9adf1f5",
+  "preferredProducts": [
+    2218,
+    3087,
+    4231,
+    4762
+  ],
+  "productReviews": [
+    {
+      "productId": 4690,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-02-21T08:43:52.5221874+02:00"
+    },
+    {
+      "productId": 4868,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-09-16T03:37:33.461431+03:00"
+    },
+    {
+      "productId": 2358,
+      "reviewText": "this alarm is papery.",
+      "reviewDate": "2018-08-11T02:13:59.9913016+03:00"
+    },
+    {
+      "productId": 4971,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-11-10T13:52:34.8908311+02:00"
+    },
+    {
+      "productId": 778,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-12-25T21:26:16.1387739+02:00"
+    }
+  ]
+}

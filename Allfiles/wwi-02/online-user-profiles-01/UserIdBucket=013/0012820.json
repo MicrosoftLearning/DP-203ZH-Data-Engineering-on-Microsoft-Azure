@@ -1,0 +1,26 @@
+{
+  "userId": 12820,
+  "cartId": "dcfe234c-5b8e-4530-b3ea-1c05dee198cc",
+  "preferredProducts": [
+    1725,
+    2187,
+    3115
+  ],
+  "productReviews": [
+    {
+      "productId": 282,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-01-09T00:20:58.5089557+02:00"
+    },
+    {
+      "productId": 4729,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-06-05T17:26:55.5260198+03:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-10-14T08:09:32.2172032+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 47885,
+  "cartId": "dcaa0ecb-2376-4341-ac6e-0fc0bbb157e4",
+  "preferredProducts": [
+    364,
+    4099,
+    3076,
+    3632,
+    1206
+  ],
+  "productReviews": [
+    {
+      "productId": 23,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-04-01T13:04:03.1330597+03:00"
+    },
+    {
+      "productId": 4144,
+      "reviewText": "this bi-directional is standard.",
+      "reviewDate": "2018-07-15T15:11:35.7220375+03:00"
+    },
+    {
+      "productId": 2471,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-11-10T03:52:22.3288345+02:00"
+    },
+    {
+      "productId": 1918,
+      "reviewText": "This gold, does exactly what it's suppose to do.",
+      "reviewDate": "2016-12-30T08:01:22.8022264+02:00"
+    }
+  ]
+}

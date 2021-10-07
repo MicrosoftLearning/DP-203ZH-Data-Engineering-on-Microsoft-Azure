@@ -1,0 +1,27 @@
+{
+  "userId": 82387,
+  "cartId": "7367c3ef-0385-4d5d-ad42-0460baca4cc4",
+  "preferredProducts": [
+    2289,
+    4300,
+    1362,
+    3460
+  ],
+  "productReviews": [
+    {
+      "productId": 4153,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-08-19T17:40:06.6388632+03:00"
+    },
+    {
+      "productId": 189,
+      "reviewText": "This back up works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-11-19T06:48:55.7241721+02:00"
+    },
+    {
+      "productId": 156,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-04-17T18:53:09.6124196+03:00"
+    }
+  ]
+}

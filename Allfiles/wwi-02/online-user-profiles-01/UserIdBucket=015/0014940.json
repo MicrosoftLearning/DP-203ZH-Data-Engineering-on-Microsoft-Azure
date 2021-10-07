@@ -1,0 +1,26 @@
+{
+  "userId": 14940,
+  "cartId": "a0013393-eae1-44f6-b965-e2c7c938b4a6",
+  "preferredProducts": [
+    1688,
+    1389,
+    4754
+  ],
+  "productReviews": [
+    {
+      "productId": 3272,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-11-14T09:45:13.6374132+02:00"
+    },
+    {
+      "productId": 681,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-10-31T01:42:53.4153014+02:00"
+    },
+    {
+      "productId": 2930,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-08-07T01:18:59.4899091+03:00"
+    }
+  ]
+}

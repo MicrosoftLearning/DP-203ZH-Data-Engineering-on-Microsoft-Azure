@@ -1,0 +1,29 @@
+{
+  "userId": 1143,
+  "cartId": "5f6e6009-ab46-4652-bb94-1b32ff8525b3",
+  "preferredProducts": [
+    472,
+    4206,
+    1536,
+    4724,
+    3092,
+    378
+  ],
+  "productReviews": [
+    {
+      "productId": 1515,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-05-25T08:03:14.018643+03:00"
+    },
+    {
+      "productId": 2697,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-06-14T20:22:35.2235435+03:00"
+    },
+    {
+      "productId": 1818,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-10-11T05:14:52.375823+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 68181,
+  "cartId": "5ec4fd44-73e7-47b3-895f-df685a043c74",
+  "preferredProducts": [
+    812,
+    1252,
+    2053,
+    4016,
+    1546
+  ],
+  "productReviews": [
+    {
+      "productId": 68,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-02-28T18:35:37.919087+02:00"
+    },
+    {
+      "productId": 2080,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-04-19T07:13:50.1165418+03:00"
+    },
+    {
+      "productId": 3738,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-10-05T10:43:13.3638816+03:00"
+    },
+    {
+      "productId": 3516,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-01-20T03:40:38.7069935+02:00"
+    }
+  ]
+}

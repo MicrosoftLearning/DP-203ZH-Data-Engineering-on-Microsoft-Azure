@@ -1,0 +1,37 @@
+{
+  "userId": 60155,
+  "cartId": "5b769d5e-f225-4031-8ce0-3af3ffe7b31d",
+  "preferredProducts": [
+    3442,
+    3883,
+    1605,
+    91
+  ],
+  "productReviews": [
+    {
+      "productId": 3272,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-02-14T02:25:41.6306898+02:00"
+    },
+    {
+      "productId": 4299,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-01-11T06:13:25.3742575+02:00"
+    },
+    {
+      "productId": 3142,
+      "reviewText": "this Sports is awesome.",
+      "reviewDate": "2020-04-17T04:47:54.5036847+03:00"
+    },
+    {
+      "productId": 3087,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-02-25T21:25:52.3903213+02:00"
+    },
+    {
+      "productId": 355,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-07-05T14:20:01.7142156+03:00"
+    }
+  ]
+}

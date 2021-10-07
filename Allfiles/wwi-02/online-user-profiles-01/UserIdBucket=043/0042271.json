@@ -1,0 +1,31 @@
+{
+  "userId": 42271,
+  "cartId": "a41ba040-5db1-469b-82ad-46840b84fa16",
+  "preferredProducts": [
+    527,
+    691,
+    1025
+  ],
+  "productReviews": [
+    {
+      "productId": 1615,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-12-30T12:02:35.1609055+02:00"
+    },
+    {
+      "productId": 2380,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2020-04-27T00:51:47.4897243+03:00"
+    },
+    {
+      "productId": 1439,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-01-30T17:33:45.4982933+02:00"
+    },
+    {
+      "productId": 4973,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-08-28T16:38:32.7745216+03:00"
+    }
+  ]
+}

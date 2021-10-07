@@ -1,0 +1,35 @@
+{
+  "userId": 12628,
+  "cartId": "fbe7c2c0-480f-4d48-a3ec-3ea88bb28f22",
+  "preferredProducts": [
+    1210,
+    3511
+  ],
+  "productReviews": [
+    {
+      "productId": 560,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-11-06T05:09:03.0931698+02:00"
+    },
+    {
+      "productId": 1620,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-10-07T15:35:18.3685394+03:00"
+    },
+    {
+      "productId": 3762,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-10-25T18:26:17.5420338+03:00"
+    },
+    {
+      "productId": 302,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-12-13T01:53:53.8596671+02:00"
+    },
+    {
+      "productId": 1656,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-09-13T03:11:38.757082+03:00"
+    }
+  ]
+}

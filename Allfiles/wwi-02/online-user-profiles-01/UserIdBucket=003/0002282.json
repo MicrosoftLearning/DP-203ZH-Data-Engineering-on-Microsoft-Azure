@@ -1,0 +1,26 @@
+{
+  "userId": 2282,
+  "cartId": "29dc0470-d3a8-4ef8-9730-2227d382acee",
+  "preferredProducts": [
+    1468,
+    331,
+    2183
+  ],
+  "productReviews": [
+    {
+      "productId": 2445,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-07-05T07:03:11.6768128+03:00"
+    },
+    {
+      "productId": 3393,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-06-12T09:46:45.6633069+03:00"
+    },
+    {
+      "productId": 4650,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-07-08T06:49:39.6611981+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 78715,
+  "cartId": "6aa94aaa-133f-40bd-a5d9-086712ea48f0",
+  "preferredProducts": [
+    4915,
+    4746,
+    4472,
+    3099,
+    4988,
+    969,
+    461
+  ],
+  "productReviews": [
+    {
+      "productId": 119,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-07-04T02:51:50.2037588+03:00"
+    },
+    {
+      "productId": 1780,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-04-16T09:51:52.3776154+03:00"
+    },
+    {
+      "productId": 1999,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-12-12T10:53:54.4270427+02:00"
+    }
+  ]
+}

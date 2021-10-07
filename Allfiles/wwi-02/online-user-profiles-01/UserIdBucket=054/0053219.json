@@ -1,0 +1,27 @@
+{
+  "userId": 53219,
+  "cartId": "36cd349f-238a-4d99-9363-9e7c629503b6",
+  "preferredProducts": [
+    3817,
+    2513,
+    2647,
+    239
+  ],
+  "productReviews": [
+    {
+      "productId": 4399,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-09-18T08:42:39.0468818+03:00"
+    },
+    {
+      "productId": 313,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-11-03T07:22:42.8651362+02:00"
+    },
+    {
+      "productId": 900,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-09-07T03:26:32.9711199+03:00"
+    }
+  ]
+}

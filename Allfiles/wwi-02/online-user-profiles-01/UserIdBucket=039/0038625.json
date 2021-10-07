@@ -1,0 +1,32 @@
+{
+  "userId": 38625,
+  "cartId": "7c20317f-f237-4371-b6ab-3a9cb5cfb608",
+  "preferredProducts": [
+    960,
+    443,
+    3692,
+    2932
+  ],
+  "productReviews": [
+    {
+      "productId": 343,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-08-01T08:46:24.7757527+03:00"
+    },
+    {
+      "productId": 667,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-10-20T23:46:47.9642512+03:00"
+    },
+    {
+      "productId": 527,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-11-12T11:05:09.0240972+02:00"
+    },
+    {
+      "productId": 2,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-06-12T23:36:57.4171121+03:00"
+    }
+  ]
+}

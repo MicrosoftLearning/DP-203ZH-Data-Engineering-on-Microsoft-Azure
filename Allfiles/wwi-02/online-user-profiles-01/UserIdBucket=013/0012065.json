@@ -1,0 +1,28 @@
+{
+  "userId": 12065,
+  "cartId": "92b10bea-8ab0-469b-9232-37b35b7a6d24",
+  "preferredProducts": [
+    3661,
+    4424,
+    704,
+    2361,
+    2594
+  ],
+  "productReviews": [
+    {
+      "productId": 2240,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-11-07T23:09:16.8758126+02:00"
+    },
+    {
+      "productId": 3238,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-10-13T07:19:48.8951533+03:00"
+    },
+    {
+      "productId": 2350,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-09-02T14:49:13.0105924+03:00"
+    }
+  ]
+}

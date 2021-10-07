@@ -1,0 +1,28 @@
+{
+  "userId": 11452,
+  "cartId": "90893244-6a41-493c-8fc3-e7892109e9c8",
+  "preferredProducts": [
+    3308,
+    3058,
+    3075,
+    4576,
+    18
+  ],
+  "productReviews": [
+    {
+      "productId": 1345,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-03-03T21:33:40.0846575+02:00"
+    },
+    {
+      "productId": 2541,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-07-26T04:48:38.9956225+03:00"
+    },
+    {
+      "productId": 4753,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-08-23T14:33:08.7685684+03:00"
+    }
+  ]
+}

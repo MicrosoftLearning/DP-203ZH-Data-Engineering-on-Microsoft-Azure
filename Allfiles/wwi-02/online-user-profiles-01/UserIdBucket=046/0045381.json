@@ -1,0 +1,35 @@
+{
+  "userId": 45381,
+  "cartId": "d78d73a8-280a-4e26-af82-ed8ed55897b3",
+  "preferredProducts": [
+    4640,
+    1125,
+    2297,
+    3270,
+    4666,
+    1429,
+    142
+  ],
+  "productReviews": [
+    {
+      "productId": 331,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-06-05T17:02:00.3683701+03:00"
+    },
+    {
+      "productId": 731,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-11-02T06:43:34.3504751+02:00"
+    },
+    {
+      "productId": 13,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-10-03T04:02:12.5586918+03:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-10-19T04:05:30.5053987+03:00"
+    }
+  ]
+}

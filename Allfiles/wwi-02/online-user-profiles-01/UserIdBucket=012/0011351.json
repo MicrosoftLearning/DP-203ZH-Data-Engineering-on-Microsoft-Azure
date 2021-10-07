@@ -1,0 +1,31 @@
+{
+  "userId": 11351,
+  "cartId": "834e359c-cc63-490e-b900-e2ac5ae13ebe",
+  "preferredProducts": [
+    678,
+    2860,
+    2727,
+    3805,
+    4544,
+    2109,
+    94,
+    3335
+  ],
+  "productReviews": [
+    {
+      "productId": 4890,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-08-26T10:45:20.8351798+03:00"
+    },
+    {
+      "productId": 3561,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-05-23T06:13:27.1343729+03:00"
+    },
+    {
+      "productId": 4804,
+      "reviewText": "talk about lust!!",
+      "reviewDate": "2017-03-05T07:35:36.3245805+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 5095,
+  "cartId": "ffdcd13b-54ba-47e3-b9bd-f03ce892c90a",
+  "preferredProducts": [
+    2774,
+    610,
+    4783
+  ],
+  "productReviews": [
+    {
+      "productId": 952,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-05-25T01:06:12.7827931+03:00"
+    },
+    {
+      "productId": 1904,
+      "reviewText": "this stable is honest.",
+      "reviewDate": "2017-10-07T16:09:37.1370193+03:00"
+    },
+    {
+      "productId": 1690,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-02-22T19:41:36.6648583+02:00"
+    },
+    {
+      "productId": 4517,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-10-02T23:24:21.6349815+03:00"
+    }
+  ]
+}

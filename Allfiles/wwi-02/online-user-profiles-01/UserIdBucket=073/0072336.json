@@ -1,0 +1,23 @@
+{
+  "userId": 72336,
+  "cartId": "e393c7c3-571d-428e-8d7b-c22850dc6f55",
+  "preferredProducts": [
+    3915,
+    1855,
+    722,
+    488,
+    4289
+  ],
+  "productReviews": [
+    {
+      "productId": 763,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-12-19T08:31:33.7203112+02:00"
+    },
+    {
+      "productId": 301,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-05-07T15:39:22.4089095+03:00"
+    }
+  ]
+}

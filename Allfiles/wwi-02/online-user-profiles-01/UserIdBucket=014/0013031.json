@@ -1,0 +1,26 @@
+{
+  "userId": 13031,
+  "cartId": "b3eea398-e83f-4e02-9ce9-511e6ede04c1",
+  "preferredProducts": [
+    3658,
+    4998,
+    8
+  ],
+  "productReviews": [
+    {
+      "productId": 3260,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-11-15T12:20:18.69982+02:00"
+    },
+    {
+      "productId": 721,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-12-15T03:22:19.4186526+02:00"
+    },
+    {
+      "productId": 4840,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-12-27T14:01:07.6461447+02:00"
+    }
+  ]
+}

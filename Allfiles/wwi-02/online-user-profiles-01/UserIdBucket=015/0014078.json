@@ -1,0 +1,33 @@
+{
+  "userId": 14078,
+  "cartId": "c6d68ca5-bdd9-47d7-8782-b7954dfd8871",
+  "preferredProducts": [
+    4084,
+    2227,
+    2486,
+    696,
+    3080
+  ],
+  "productReviews": [
+    {
+      "productId": 2192,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-06-24T07:34:53.2409997+03:00"
+    },
+    {
+      "productId": 2968,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-27T20:11:29.2648467+02:00"
+    },
+    {
+      "productId": 1344,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-10-20T06:07:21.9420759+03:00"
+    },
+    {
+      "productId": 4749,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-10-22T11:20:42.3011487+03:00"
+    }
+  ]
+}

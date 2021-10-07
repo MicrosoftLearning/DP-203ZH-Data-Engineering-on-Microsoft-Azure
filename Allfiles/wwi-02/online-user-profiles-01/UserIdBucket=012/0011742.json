@@ -1,0 +1,26 @@
+{
+  "userId": 11742,
+  "cartId": "fc7c4832-758c-4a6f-acc6-f1cd731e2b58",
+  "preferredProducts": [
+    4847,
+    275,
+    3409,
+    1850,
+    4498,
+    3207,
+    2909,
+    3069
+  ],
+  "productReviews": [
+    {
+      "productId": 2746,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-11-08T03:53:59.1106911+02:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-01-01T07:14:17.0455848+02:00"
+    }
+  ]
+}

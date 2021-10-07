@@ -1,0 +1,36 @@
+{
+  "userId": 29298,
+  "cartId": "a399401d-1e96-48a5-a00d-cb3817b48c55",
+  "preferredProducts": [
+    1133,
+    1011,
+    1150,
+    2204,
+    3343,
+    1749,
+    2871,
+    1785
+  ],
+  "productReviews": [
+    {
+      "productId": 4141,
+      "reviewText": "this Manager is nifty.",
+      "reviewDate": "2018-11-10T23:19:16.2266089+02:00"
+    },
+    {
+      "productId": 3051,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-02-24T10:40:12.7812085+02:00"
+    },
+    {
+      "productId": 1149,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-09-19T10:28:15.5892883+03:00"
+    },
+    {
+      "productId": 597,
+      "reviewText": "This deploy works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-04-21T10:53:33.5432391+03:00"
+    }
+  ]
+}

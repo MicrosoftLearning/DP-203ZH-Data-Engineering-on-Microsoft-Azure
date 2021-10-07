@@ -1,0 +1,32 @@
+{
+  "userId": 83244,
+  "cartId": "1e424e3c-0a02-468f-b24b-a0029f9ce513",
+  "preferredProducts": [
+    1748,
+    3787,
+    4500,
+    76
+  ],
+  "productReviews": [
+    {
+      "productId": 177,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-12-08T00:20:47.6957028+02:00"
+    },
+    {
+      "productId": 3231,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-01-15T09:30:59.7661983+02:00"
+    },
+    {
+      "productId": 3731,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-07-25T17:28:06.116598+03:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-05-30T18:28:24.6410121+03:00"
+    }
+  ]
+}

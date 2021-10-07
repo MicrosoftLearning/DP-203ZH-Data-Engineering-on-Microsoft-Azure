@@ -1,0 +1,36 @@
+{
+  "userId": 87729,
+  "cartId": "42695a6d-b40a-4014-b6e3-7c46e73c33b8",
+  "preferredProducts": [
+    1742,
+    531,
+    1627,
+    159,
+    3575,
+    876,
+    776,
+    2041
+  ],
+  "productReviews": [
+    {
+      "productId": 2221,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-12-27T20:45:38.20411+02:00"
+    },
+    {
+      "productId": 879,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-03-14T16:47:40.6733104+02:00"
+    },
+    {
+      "productId": 2120,
+      "reviewText": "This Generic works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-11-05T14:26:36.3143939+02:00"
+    },
+    {
+      "productId": 2051,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-12-21T12:19:30.3752718+02:00"
+    }
+  ]
+}

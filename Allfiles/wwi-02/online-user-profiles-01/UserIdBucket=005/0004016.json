@@ -1,0 +1,32 @@
+{
+  "userId": 4016,
+  "cartId": "dec22b51-c439-4775-877d-48798dbd3b74",
+  "preferredProducts": [
+    2840,
+    2333,
+    1307,
+    3245
+  ],
+  "productReviews": [
+    {
+      "productId": 3195,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-05-17T07:29:11.5770059+03:00"
+    },
+    {
+      "productId": 3709,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-07-08T00:46:22.9326727+03:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-08-10T05:12:13.710019+03:00"
+    },
+    {
+      "productId": 4146,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-02-17T10:54:28.7593805+02:00"
+    }
+  ]
+}

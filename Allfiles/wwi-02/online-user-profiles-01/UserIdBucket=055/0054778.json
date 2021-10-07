@@ -1,0 +1,36 @@
+{
+  "userId": 54778,
+  "cartId": "fbdd7bf4-6c36-4a73-8f75-5d81b6cd0a85",
+  "preferredProducts": [
+    3620,
+    2951,
+    4898,
+    152,
+    3736,
+    3713,
+    524,
+    2739
+  ],
+  "productReviews": [
+    {
+      "productId": 1841,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-03-02T08:07:45.8143781+02:00"
+    },
+    {
+      "productId": 1763,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-04-29T11:41:14.7558691+03:00"
+    },
+    {
+      "productId": 274,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-07-12T20:19:29.9023734+03:00"
+    },
+    {
+      "productId": 4302,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-07-16T18:34:17.5397522+03:00"
+    }
+  ]
+}

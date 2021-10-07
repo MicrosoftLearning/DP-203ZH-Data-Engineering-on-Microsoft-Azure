@@ -1,0 +1,41 @@
+{
+  "userId": 6019,
+  "cartId": "d72737cf-8758-4276-b62b-b7ba07e4906f",
+  "preferredProducts": [
+    2994,
+    4419,
+    3261,
+    1458,
+    3432,
+    2106,
+    2769,
+    1331
+  ],
+  "productReviews": [
+    {
+      "productId": 824,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-06-29T13:23:44.5604215+03:00"
+    },
+    {
+      "productId": 505,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-04-30T08:02:02.5140807+03:00"
+    },
+    {
+      "productId": 4327,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-09-27T02:41:51.2538038+03:00"
+    },
+    {
+      "productId": 788,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-06-14T06:57:06.952636+03:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-04-28T11:03:45.3707908+03:00"
+    }
+  ]
+}

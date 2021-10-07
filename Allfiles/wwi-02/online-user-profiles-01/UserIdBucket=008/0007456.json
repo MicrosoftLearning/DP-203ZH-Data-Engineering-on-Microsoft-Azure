@@ -1,0 +1,28 @@
+{
+  "userId": 7456,
+  "cartId": "a48b6afc-c7bb-47b7-89df-76bca1ec52e7",
+  "preferredProducts": [
+    951,
+    3152,
+    1005,
+    1983,
+    3787
+  ],
+  "productReviews": [
+    {
+      "productId": 1102,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-07-27T10:00:58.4729566+03:00"
+    },
+    {
+      "productId": 198,
+      "reviewText": "this blue is hyper.",
+      "reviewDate": "2020-02-08T20:59:09.469607+02:00"
+    },
+    {
+      "productId": 1849,
+      "reviewText": "This alarm works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-09-24T02:11:01.3662735+03:00"
+    }
+  ]
+}

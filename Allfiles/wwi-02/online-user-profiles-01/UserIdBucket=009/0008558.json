@@ -1,0 +1,36 @@
+{
+  "userId": 8558,
+  "cartId": "8de91c77-41cb-4fdc-ae05-76a0b3dd3c3f",
+  "preferredProducts": [
+    4896,
+    1047,
+    1439,
+    2715,
+    742,
+    918,
+    1286,
+    1119
+  ],
+  "productReviews": [
+    {
+      "productId": 1285,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-01-23T00:19:14.930509+02:00"
+    },
+    {
+      "productId": 4664,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-07-01T00:48:28.1958599+03:00"
+    },
+    {
+      "productId": 2696,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-09-29T17:11:53.8994677+03:00"
+    },
+    {
+      "productId": 4199,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-04-07T23:54:40.0085581+03:00"
+    }
+  ]
+}

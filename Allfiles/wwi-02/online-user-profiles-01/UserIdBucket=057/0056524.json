@@ -1,0 +1,31 @@
+{
+  "userId": 56524,
+  "cartId": "22c71727-78fc-4d35-ac5c-e91707e4bc0c",
+  "preferredProducts": [
+    27,
+    2732,
+    1083
+  ],
+  "productReviews": [
+    {
+      "productId": 3607,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-10-06T03:23:55.6080149+03:00"
+    },
+    {
+      "productId": 3047,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-10-12T16:14:37.1367658+03:00"
+    },
+    {
+      "productId": 2438,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-12-05T17:20:06.5282236+02:00"
+    },
+    {
+      "productId": 3474,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-12-24T17:02:12.9874816+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 68219,
+  "cartId": "c5a22f04-d8c7-4acc-8c7c-7a939a2dc3ba",
+  "preferredProducts": [
+    1322,
+    1460,
+    1148,
+    2829,
+    4524,
+    326,
+    1071,
+    4287
+  ],
+  "productReviews": [
+    {
+      "productId": 2358,
+      "reviewText": "this GB is mellow.",
+      "reviewDate": "2018-07-07T19:56:44.0978286+03:00"
+    },
+    {
+      "productId": 4001,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-03-10T11:36:09.2249681+02:00"
+    },
+    {
+      "productId": 2429,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-08-15T06:22:43.6927689+03:00"
+    },
+    {
+      "productId": 2930,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-01-05T12:38:33.0402793+02:00"
+    }
+  ]
+}

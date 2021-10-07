@@ -1,0 +1,30 @@
+{
+  "userId": 8742,
+  "cartId": "cc04e348-bc2f-4e8e-bf07-daf5b17149f3",
+  "preferredProducts": [
+    4121,
+    72
+  ],
+  "productReviews": [
+    {
+      "productId": 3650,
+      "reviewText": "this systematic is ratty.",
+      "reviewDate": "2019-01-02T17:30:06.6356844+02:00"
+    },
+    {
+      "productId": 4405,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-04-03T22:37:53.3567813+03:00"
+    },
+    {
+      "productId": 2749,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-08-26T01:42:37.9576626+03:00"
+    },
+    {
+      "productId": 3016,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-08-14T07:43:35.5196257+03:00"
+    }
+  ]
+}

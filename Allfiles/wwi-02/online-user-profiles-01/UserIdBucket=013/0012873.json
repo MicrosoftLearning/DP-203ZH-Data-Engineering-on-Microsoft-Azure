@@ -1,0 +1,33 @@
+{
+  "userId": 12873,
+  "cartId": "981a62c5-a2cb-474c-9370-db75fe0112cb",
+  "preferredProducts": [
+    718,
+    4800,
+    1610,
+    3403,
+    861,
+    986,
+    2413,
+    3193,
+    602,
+    483
+  ],
+  "productReviews": [
+    {
+      "productId": 4490,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-07-02T10:20:37.5177498+03:00"
+    },
+    {
+      "productId": 4114,
+      "reviewText": "This is a really good Plastic.",
+      "reviewDate": "2019-06-09T09:25:56.306103+03:00"
+    },
+    {
+      "productId": 1132,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2020-02-06T15:01:57.7325867+02:00"
+    }
+  ]
+}

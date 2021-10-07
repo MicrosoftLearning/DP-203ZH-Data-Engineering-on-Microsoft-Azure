@@ -1,0 +1,30 @@
+{
+  "userId": 58283,
+  "cartId": "c7aee732-8f98-4597-bb7b-5dbb9d50db20",
+  "preferredProducts": [
+    1834,
+    4133
+  ],
+  "productReviews": [
+    {
+      "productId": 4300,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-05-06T15:48:06.6538163+03:00"
+    },
+    {
+      "productId": 4611,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-10-21T17:15:33.4299146+03:00"
+    },
+    {
+      "productId": 921,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2016-10-31T14:10:37.0491836+02:00"
+    },
+    {
+      "productId": 888,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-10-25T20:55:20.348619+03:00"
+    }
+  ]
+}

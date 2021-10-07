@@ -1,0 +1,32 @@
+{
+  "userId": 88319,
+  "cartId": "065b5245-26b7-4e34-ac31-c2f912309e8e",
+  "preferredProducts": [
+    4387,
+    4069,
+    3214,
+    2038,
+    2990,
+    2510,
+    4771,
+    4008,
+    3134
+  ],
+  "productReviews": [
+    {
+      "productId": 1259,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-24T22:44:28.9042426+02:00"
+    },
+    {
+      "productId": 4629,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-08-01T02:40:31.8405188+03:00"
+    },
+    {
+      "productId": 2937,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-05-22T09:29:05.2048967+03:00"
+    }
+  ]
+}

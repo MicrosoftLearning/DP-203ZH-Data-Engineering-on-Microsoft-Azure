@@ -1,0 +1,25 @@
+{
+  "userId": 42771,
+  "cartId": "f3290886-3ae5-41e1-b928-912a96187438",
+  "preferredProducts": [
+    2920,
+    2813,
+    938,
+    1243,
+    4080,
+    2577,
+    1802
+  ],
+  "productReviews": [
+    {
+      "productId": 2173,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2020-01-27T05:48:09.3791701+02:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-07-27T20:30:50.855769+03:00"
+    }
+  ]
+}

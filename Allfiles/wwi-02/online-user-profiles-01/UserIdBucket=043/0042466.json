@@ -1,0 +1,24 @@
+{
+  "userId": 42466,
+  "cartId": "962d23fe-902a-4d43-b875-64f236b8cf6e",
+  "preferredProducts": [
+    4588,
+    2297,
+    4811,
+    2141,
+    1050,
+    1091
+  ],
+  "productReviews": [
+    {
+      "productId": 4653,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-10-07T15:42:31.2036756+03:00"
+    },
+    {
+      "productId": 3757,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-01-18T07:38:37.5099436+02:00"
+    }
+  ]
+}

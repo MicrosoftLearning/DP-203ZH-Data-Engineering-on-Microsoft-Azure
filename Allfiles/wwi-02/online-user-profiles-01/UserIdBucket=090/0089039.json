@@ -1,0 +1,34 @@
+{
+  "userId": 89039,
+  "cartId": "456f7542-8301-40d2-8857-6cd610ba8d37",
+  "preferredProducts": [
+    3047,
+    4295,
+    315,
+    2259,
+    3731,
+    242
+  ],
+  "productReviews": [
+    {
+      "productId": 1549,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-03-25T23:24:29.0708046+02:00"
+    },
+    {
+      "productId": 1634,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-08-21T13:52:08.8407699+03:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-07-29T05:59:49.0859296+03:00"
+    },
+    {
+      "productId": 4766,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-03-26T12:44:23.4231769+02:00"
+    }
+  ]
+}

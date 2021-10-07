@@ -1,0 +1,26 @@
+{
+  "userId": 55231,
+  "cartId": "91e459bf-b691-4418-9331-ac2dc2ae6c88",
+  "preferredProducts": [
+    4356,
+    2544,
+    700,
+    2032,
+    3928,
+    1861,
+    1134,
+    4141
+  ],
+  "productReviews": [
+    {
+      "productId": 732,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-07-30T21:25:35.8829277+03:00"
+    },
+    {
+      "productId": 3061,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-03-17T20:32:48.4242365+02:00"
+    }
+  ]
+}

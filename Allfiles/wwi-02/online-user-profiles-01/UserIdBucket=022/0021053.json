@@ -1,0 +1,33 @@
+{
+  "userId": 21053,
+  "cartId": "75bfa85d-970f-4fe4-84de-b33abe2bae84",
+  "preferredProducts": [
+    5000,
+    2768,
+    3280,
+    4691,
+    4300
+  ],
+  "productReviews": [
+    {
+      "productId": 1161,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-12-08T01:32:00.6120439+02:00"
+    },
+    {
+      "productId": 4508,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-10-28T14:31:34.7388227+03:00"
+    },
+    {
+      "productId": 2717,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-01-11T13:29:08.811446+02:00"
+    },
+    {
+      "productId": 3533,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-04-06T05:56:00.5177881+03:00"
+    }
+  ]
+}

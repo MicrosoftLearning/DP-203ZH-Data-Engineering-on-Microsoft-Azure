@@ -1,0 +1,30 @@
+{
+  "userId": 3045,
+  "cartId": "aa664caf-a780-4e88-a08f-b5195294d6bc",
+  "preferredProducts": [
+    4808,
+    1128,
+    4845,
+    4385,
+    2558,
+    480,
+    4459
+  ],
+  "productReviews": [
+    {
+      "productId": 4777,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-08-03T18:32:31.4181069+03:00"
+    },
+    {
+      "productId": 2156,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-07-19T20:23:46.666926+03:00"
+    },
+    {
+      "productId": 1675,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-04-11T20:36:28.9564588+03:00"
+    }
+  ]
+}

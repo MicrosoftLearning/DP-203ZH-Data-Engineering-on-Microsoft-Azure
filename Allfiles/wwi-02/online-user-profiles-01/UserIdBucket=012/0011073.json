@@ -1,0 +1,32 @@
+{
+  "userId": 11073,
+  "cartId": "8a626107-1965-4b1c-9ebc-6b0f25ed5f33",
+  "preferredProducts": [
+    1518,
+    2861,
+    1549,
+    4961,
+    3052,
+    2446,
+    771,
+    1188,
+    2245
+  ],
+  "productReviews": [
+    {
+      "productId": 543,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-03-05T05:55:00.0143916+02:00"
+    },
+    {
+      "productId": 3554,
+      "reviewText": "this architect is snowy.",
+      "reviewDate": "2018-09-07T07:01:08.837144+03:00"
+    },
+    {
+      "productId": 51,
+      "reviewText": "This parse works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2016-08-05T15:09:27.3900531+03:00"
+    }
+  ]
+}

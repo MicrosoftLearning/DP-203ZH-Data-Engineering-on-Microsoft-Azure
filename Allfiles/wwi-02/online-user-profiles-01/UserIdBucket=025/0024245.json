@@ -1,0 +1,29 @@
+{
+  "userId": 24245,
+  "cartId": "21f5d290-e7ad-4158-9ec3-0d2f3a811a3c",
+  "preferredProducts": [
+    2956,
+    4430,
+    4888,
+    982,
+    1649,
+    820
+  ],
+  "productReviews": [
+    {
+      "productId": 1518,
+      "reviewText": "this executive is vertical.",
+      "reviewDate": "2017-01-07T00:19:02.6565634+02:00"
+    },
+    {
+      "productId": 2375,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-09-01T20:22:59.8812876+03:00"
+    },
+    {
+      "productId": 1111,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-10-11T11:10:56.0706769+03:00"
+    }
+  ]
+}

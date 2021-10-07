@@ -1,0 +1,29 @@
+{
+  "userId": 34509,
+  "cartId": "fb9b6105-5e72-41f7-82a2-5fe25ca2ecf5",
+  "preferredProducts": [
+    149,
+    56,
+    3917,
+    147,
+    2554,
+    1917
+  ],
+  "productReviews": [
+    {
+      "productId": 489,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-07-29T07:00:56.1948421+03:00"
+    },
+    {
+      "productId": 3245,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-24T01:25:14.0744398+02:00"
+    },
+    {
+      "productId": 1288,
+      "reviewText": "this Incredible Granite Keyboard is ratty.",
+      "reviewDate": "2017-01-02T01:01:05.0707987+02:00"
+    }
+  ]
+}

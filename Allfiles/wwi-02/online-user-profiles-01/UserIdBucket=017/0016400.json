@@ -1,0 +1,28 @@
+{
+  "userId": 16400,
+  "cartId": "071e695c-5ea1-433c-8645-1e1fc5cbf29d",
+  "preferredProducts": [
+    1385,
+    4679,
+    3020,
+    2695,
+    4653
+  ],
+  "productReviews": [
+    {
+      "productId": 188,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-02-16T12:01:41.5561981+02:00"
+    },
+    {
+      "productId": 3767,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-05-13T03:10:20.7212706+03:00"
+    },
+    {
+      "productId": 4918,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-01-14T06:41:32.6284068+02:00"
+    }
+  ]
+}

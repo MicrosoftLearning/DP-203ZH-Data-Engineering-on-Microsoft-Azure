@@ -1,0 +1,42 @@
+{
+  "userId": 34118,
+  "cartId": "67e84d64-45d4-4657-83d7-7cce5300a0cc",
+  "preferredProducts": [
+    149,
+    184,
+    4760,
+    2038,
+    4829,
+    1524,
+    3249,
+    2836,
+    4958
+  ],
+  "productReviews": [
+    {
+      "productId": 3842,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-04-02T17:13:55.218395+03:00"
+    },
+    {
+      "productId": 1238,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-03-14T17:18:47.2496582+02:00"
+    },
+    {
+      "productId": 1923,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2016-07-17T15:00:10.3786978+03:00"
+    },
+    {
+      "productId": 2407,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-03-27T04:40:16.5321447+03:00"
+    },
+    {
+      "productId": 3870,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-04-13T11:40:02.6566979+03:00"
+    }
+  ]
+}

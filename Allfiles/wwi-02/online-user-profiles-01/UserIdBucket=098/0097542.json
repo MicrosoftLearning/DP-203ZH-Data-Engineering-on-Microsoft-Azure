@@ -1,0 +1,29 @@
+{
+  "userId": 97542,
+  "cartId": "fb69bee6-618e-4274-ac6d-9e0ec039a97b",
+  "preferredProducts": [
+    1994,
+    2312,
+    1242,
+    2513,
+    4138,
+    1787
+  ],
+  "productReviews": [
+    {
+      "productId": 299,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-02-28T21:22:51.1114281+02:00"
+    },
+    {
+      "productId": 4794,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-02-17T07:26:57.3905683+02:00"
+    },
+    {
+      "productId": 2505,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-10-25T15:03:12.3178204+03:00"
+    }
+  ]
+}

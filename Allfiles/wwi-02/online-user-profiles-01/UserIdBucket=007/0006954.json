@@ -1,0 +1,27 @@
+{
+  "userId": 6954,
+  "cartId": "351a74dc-e360-4723-8f03-582ee71a067e",
+  "preferredProducts": [
+    2496,
+    1360,
+    291,
+    3690
+  ],
+  "productReviews": [
+    {
+      "productId": 890,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-12-25T22:56:11.9971444+02:00"
+    },
+    {
+      "productId": 1930,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-12-21T20:34:10.6348911+02:00"
+    },
+    {
+      "productId": 2691,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-03-30T17:23:10.1141255+03:00"
+    }
+  ]
+}

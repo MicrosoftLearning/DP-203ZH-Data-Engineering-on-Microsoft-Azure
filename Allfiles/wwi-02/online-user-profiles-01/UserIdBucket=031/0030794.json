@@ -1,0 +1,31 @@
+{
+  "userId": 30794,
+  "cartId": "b69bdb12-52ba-475f-91cf-332675198087",
+  "preferredProducts": [
+    2703,
+    4886,
+    4826
+  ],
+  "productReviews": [
+    {
+      "productId": 2373,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-02-10T22:06:48.7113895+02:00"
+    },
+    {
+      "productId": 1904,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-05-03T00:41:14.8096036+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-07-09T21:33:53.7746978+03:00"
+    },
+    {
+      "productId": 519,
+      "reviewText": "This non-volatile works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2018-11-16T02:23:05.3879753+02:00"
+    }
+  ]
+}

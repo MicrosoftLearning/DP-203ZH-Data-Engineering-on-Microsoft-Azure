@@ -1,0 +1,28 @@
+{
+  "userId": 78133,
+  "cartId": "fd94ace2-7525-4113-a165-36031cc939bf",
+  "preferredProducts": [
+    1716,
+    369,
+    116,
+    4005,
+    83
+  ],
+  "productReviews": [
+    {
+      "productId": 4958,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-12-25T17:20:09.5742952+02:00"
+    },
+    {
+      "productId": 1933,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-09-23T00:56:58.8101177+03:00"
+    },
+    {
+      "productId": 2576,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-03-09T03:38:12.7492452+02:00"
+    }
+  ]
+}

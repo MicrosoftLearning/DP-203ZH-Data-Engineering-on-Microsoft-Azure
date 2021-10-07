@@ -1,0 +1,22 @@
+{
+  "userId": 729,
+  "cartId": "d8b93bdf-52e6-4a98-aef4-f7a0921c4592",
+  "preferredProducts": [
+    4487,
+    1413,
+    1983,
+    2481
+  ],
+  "productReviews": [
+    {
+      "productId": 801,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-04-16T15:33:47.0203795+03:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-11-30T03:10:39.5419721+02:00"
+    }
+  ]
+}

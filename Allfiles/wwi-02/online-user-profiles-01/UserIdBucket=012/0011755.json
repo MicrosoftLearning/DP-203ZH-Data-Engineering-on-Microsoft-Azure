@@ -1,0 +1,32 @@
+{
+  "userId": 11755,
+  "cartId": "ab1c3c05-16b5-4930-b939-ef3204f7ef22",
+  "preferredProducts": [
+    4157,
+    4979,
+    571,
+    830,
+    2358,
+    3767,
+    3707,
+    179,
+    4781
+  ],
+  "productReviews": [
+    {
+      "productId": 1967,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-11-12T01:43:57.205944+02:00"
+    },
+    {
+      "productId": 2382,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-02-16T23:39:53.0244423+02:00"
+    },
+    {
+      "productId": 4223,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-12-11T21:03:44.8080665+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 42192,
+  "cartId": "efbd534b-fbbc-4247-a864-5e3d2c2291d5",
+  "preferredProducts": [
+    4312,
+    3706,
+    2745,
+    2174,
+    2759,
+    1740
+  ],
+  "productReviews": [
+    {
+      "productId": 3781,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-02-27T22:28:52.2857641+02:00"
+    },
+    {
+      "productId": 1582,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-05-27T23:13:13.2310737+03:00"
+    }
+  ]
+}

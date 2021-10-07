@@ -1,0 +1,27 @@
+{
+  "userId": 75812,
+  "cartId": "861ac0a8-620b-4d02-8e17-45a5f795e913",
+  "preferredProducts": [
+    303,
+    933,
+    514,
+    1771
+  ],
+  "productReviews": [
+    {
+      "productId": 3700,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-02-26T22:42:25.5616273+02:00"
+    },
+    {
+      "productId": 1681,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-04-11T17:25:21.6871489+03:00"
+    },
+    {
+      "productId": 728,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-08-04T23:18:47.0535756+03:00"
+    }
+  ]
+}

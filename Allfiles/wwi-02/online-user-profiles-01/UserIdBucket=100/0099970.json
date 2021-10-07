@@ -1,0 +1,30 @@
+{
+  "userId": 99970,
+  "cartId": "ef6fb008-1fa2-4fdc-bcf6-5e8a4e1dd980",
+  "preferredProducts": [
+    492,
+    2121,
+    3456,
+    4551,
+    3220,
+    2769,
+    992
+  ],
+  "productReviews": [
+    {
+      "productId": 1745,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-10-06T08:47:04.9683505+03:00"
+    },
+    {
+      "productId": 2964,
+      "reviewText": "This Small works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2017-12-06T07:07:20.8253546+02:00"
+    },
+    {
+      "productId": 1153,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This transmit keeps them away.",
+      "reviewDate": "2018-10-29T18:22:36.7953709+02:00"
+    }
+  ]
+}

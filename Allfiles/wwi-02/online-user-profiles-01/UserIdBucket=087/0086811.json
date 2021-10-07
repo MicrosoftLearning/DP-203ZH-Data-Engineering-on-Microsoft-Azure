@@ -1,0 +1,32 @@
+{
+  "userId": 86811,
+  "cartId": "6cb6f8a0-c730-421c-a6cb-79d6532fb0ba",
+  "preferredProducts": [
+    359,
+    1251,
+    2578,
+    4566,
+    1214,
+    2254,
+    4045,
+    1900,
+    4891
+  ],
+  "productReviews": [
+    {
+      "productId": 4530,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-10-01T00:32:51.7374661+03:00"
+    },
+    {
+      "productId": 1597,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-07-14T12:08:45.574547+03:00"
+    },
+    {
+      "productId": 803,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-12-05T09:39:35.680947+02:00"
+    }
+  ]
+}

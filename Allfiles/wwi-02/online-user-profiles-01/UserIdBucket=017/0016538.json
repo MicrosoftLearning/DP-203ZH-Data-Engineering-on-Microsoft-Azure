@@ -1,0 +1,31 @@
+{
+  "userId": 16538,
+  "cartId": "ec2ef326-e1e1-43f2-bf22-3e9db22b9d31",
+  "preferredProducts": [
+    1953,
+    3432,
+    3170,
+    426,
+    4547,
+    3672,
+    2027,
+    1904
+  ],
+  "productReviews": [
+    {
+      "productId": 3330,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-03-17T15:48:04.0408282+02:00"
+    },
+    {
+      "productId": 1075,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2020-04-30T12:21:07.6471456+03:00"
+    },
+    {
+      "productId": 623,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-05-18T02:49:55.4317009+03:00"
+    }
+  ]
+}

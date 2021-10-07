@@ -1,0 +1,37 @@
+{
+  "userId": 67211,
+  "cartId": "a889c59b-b3e9-46da-83a0-0fc7df9344e2",
+  "preferredProducts": [
+    109,
+    3614,
+    1297,
+    842,
+    667,
+    426,
+    2085,
+    360,
+    2258
+  ],
+  "productReviews": [
+    {
+      "productId": 2104,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-12-24T02:00:05.1409896+02:00"
+    },
+    {
+      "productId": 731,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-12-29T22:43:06.4945392+02:00"
+    },
+    {
+      "productId": 4291,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-11-19T06:42:51.9271979+02:00"
+    },
+    {
+      "productId": 4017,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-02-04T11:11:42.1829072+02:00"
+    }
+  ]
+}

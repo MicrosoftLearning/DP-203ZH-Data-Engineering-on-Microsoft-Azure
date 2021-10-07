@@ -1,0 +1,28 @@
+{
+  "userId": 90352,
+  "cartId": "422650a4-ead4-4d8b-9b48-a7ff771d9da6",
+  "preferredProducts": [
+    4506,
+    1895,
+    277,
+    4328,
+    3275
+  ],
+  "productReviews": [
+    {
+      "productId": 1106,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-07-21T03:48:34.3725423+03:00"
+    },
+    {
+      "productId": 2176,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-04-16T00:45:32.2170515+03:00"
+    },
+    {
+      "productId": 2383,
+      "reviewText": "this Implementation is light-hearted.",
+      "reviewDate": "2020-02-05T17:43:34.5275722+02:00"
+    }
+  ]
+}

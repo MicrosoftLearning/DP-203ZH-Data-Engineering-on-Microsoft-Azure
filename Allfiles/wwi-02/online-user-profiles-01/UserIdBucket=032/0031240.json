@@ -1,0 +1,37 @@
+{
+  "userId": 31240,
+  "cartId": "4b4a96b7-98be-4b59-881c-33b54492c453",
+  "preferredProducts": [
+    1850,
+    3008,
+    3368,
+    3624
+  ],
+  "productReviews": [
+    {
+      "productId": 2208,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-25T09:15:47.1693864+02:00"
+    },
+    {
+      "productId": 4352,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-03-05T23:34:31.852486+02:00"
+    },
+    {
+      "productId": 3757,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-04-08T22:43:01.7415076+03:00"
+    },
+    {
+      "productId": 4105,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-07-22T15:09:44.4776743+03:00"
+    },
+    {
+      "productId": 1452,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-02-06T10:18:40.2540297+02:00"
+    }
+  ]
+}

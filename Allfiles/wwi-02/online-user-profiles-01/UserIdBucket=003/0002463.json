@@ -1,0 +1,39 @@
+{
+  "userId": 2463,
+  "cartId": "cb9f3c9f-efe9-444a-9743-1eb3221cf609",
+  "preferredProducts": [
+    599,
+    171,
+    991,
+    1028,
+    340,
+    1686
+  ],
+  "productReviews": [
+    {
+      "productId": 948,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-09-16T12:46:17.162347+03:00"
+    },
+    {
+      "productId": 4075,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-01-08T16:00:47.7685149+02:00"
+    },
+    {
+      "productId": 4694,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-07-29T05:00:22.6678803+03:00"
+    },
+    {
+      "productId": 1630,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-03-03T23:28:43.7208982+02:00"
+    },
+    {
+      "productId": 4590,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-04-03T13:15:43.1705567+03:00"
+    }
+  ]
+}

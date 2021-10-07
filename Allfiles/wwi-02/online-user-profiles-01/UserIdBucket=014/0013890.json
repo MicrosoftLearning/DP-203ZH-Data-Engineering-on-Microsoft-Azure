@@ -1,0 +1,24 @@
+{
+  "userId": 13890,
+  "cartId": "d0f63eae-a341-4f0b-b791-bcbe5b089032",
+  "preferredProducts": [
+    1829,
+    2553,
+    472,
+    4136,
+    3046,
+    3081
+  ],
+  "productReviews": [
+    {
+      "productId": 2789,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-07-06T01:49:46.1123572+03:00"
+    },
+    {
+      "productId": 679,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-04-17T07:57:25.1957488+03:00"
+    }
+  ]
+}

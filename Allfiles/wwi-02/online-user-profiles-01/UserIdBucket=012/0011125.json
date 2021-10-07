@@ -1,0 +1,35 @@
+{
+  "userId": 11125,
+  "cartId": "3db2e4f7-50c2-4148-9e68-de1058ac7b4d",
+  "preferredProducts": [
+    1120,
+    2117
+  ],
+  "productReviews": [
+    {
+      "productId": 708,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-11-03T14:59:35.9254775+02:00"
+    },
+    {
+      "productId": 2411,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-11-04T13:40:40.1966864+02:00"
+    },
+    {
+      "productId": 2242,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-06-08T05:24:27.826963+03:00"
+    },
+    {
+      "productId": 3842,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-10-19T13:10:43.326174+03:00"
+    },
+    {
+      "productId": 816,
+      "reviewText": "This Principal, does exactly what it's suppose to do.",
+      "reviewDate": "2018-11-22T09:52:25.1170414+02:00"
+    }
+  ]
+}

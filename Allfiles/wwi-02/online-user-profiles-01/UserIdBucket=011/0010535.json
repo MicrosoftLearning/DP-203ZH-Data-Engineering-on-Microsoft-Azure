@@ -1,0 +1,21 @@
+{
+  "userId": 10535,
+  "cartId": "3e396fe4-088d-40a3-a4c8-2cd56c9fd8f2",
+  "preferredProducts": [
+    3900,
+    625,
+    2530
+  ],
+  "productReviews": [
+    {
+      "productId": 4561,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-01-07T02:21:46.9762329+02:00"
+    },
+    {
+      "productId": 248,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-07-20T22:06:56.8060826+03:00"
+    }
+  ]
+}

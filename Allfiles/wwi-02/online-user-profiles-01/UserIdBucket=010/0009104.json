@@ -1,0 +1,30 @@
+{
+  "userId": 9104,
+  "cartId": "255d310e-57fa-405f-b3a4-e3a26b2c2861",
+  "preferredProducts": [
+    1578,
+    525,
+    4345,
+    1347,
+    1181,
+    496,
+    984
+  ],
+  "productReviews": [
+    {
+      "productId": 125,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-08-28T08:23:03.2664046+03:00"
+    },
+    {
+      "productId": 3426,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-05-13T13:05:48.3856768+03:00"
+    },
+    {
+      "productId": 912,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-12-09T11:17:53.911644+02:00"
+    }
+  ]
+}

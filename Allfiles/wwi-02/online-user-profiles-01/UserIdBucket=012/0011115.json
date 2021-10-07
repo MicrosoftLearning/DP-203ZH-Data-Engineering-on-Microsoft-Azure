@@ -1,0 +1,32 @@
+{
+  "userId": 11115,
+  "cartId": "610dc2d9-aea1-40c8-96e3-9b7b56ed0ba9",
+  "preferredProducts": [
+    1803,
+    424,
+    1910,
+    1467
+  ],
+  "productReviews": [
+    {
+      "productId": 174,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-07-11T17:48:44.3219167+03:00"
+    },
+    {
+      "productId": 2363,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-02-01T07:11:07.7362511+02:00"
+    },
+    {
+      "productId": 3987,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-11-24T12:17:16.1978867+02:00"
+    },
+    {
+      "productId": 1282,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2016-07-09T01:12:15.029988+03:00"
+    }
+  ]
+}

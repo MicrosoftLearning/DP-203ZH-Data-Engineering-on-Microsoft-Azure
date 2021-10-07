@@ -1,0 +1,33 @@
+{
+  "userId": 1032,
+  "cartId": "1c7d7e7e-320e-4541-bfd6-a2ea847dda61",
+  "preferredProducts": [
+    72,
+    3886,
+    1999,
+    1109,
+    4337
+  ],
+  "productReviews": [
+    {
+      "productId": 581,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-01-02T12:27:21.3789421+02:00"
+    },
+    {
+      "productId": 1582,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-04-21T22:27:38.7569339+03:00"
+    },
+    {
+      "productId": 4121,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-06-18T07:59:22.2870428+03:00"
+    },
+    {
+      "productId": 2454,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-09-28T21:33:01.7111047+03:00"
+    }
+  ]
+}

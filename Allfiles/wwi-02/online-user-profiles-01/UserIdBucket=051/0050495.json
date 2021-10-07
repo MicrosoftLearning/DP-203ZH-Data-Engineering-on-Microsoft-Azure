@@ -1,0 +1,33 @@
+{
+  "userId": 50495,
+  "cartId": "279daa82-24c2-4a29-966d-95f5ac0f1595",
+  "preferredProducts": [
+    2867,
+    2019,
+    1935,
+    3250,
+    1144
+  ],
+  "productReviews": [
+    {
+      "productId": 74,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-02-06T12:08:34.5450825+02:00"
+    },
+    {
+      "productId": 3619,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-09-30T16:07:38.5538769+03:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-03-03T11:51:05.3526742+02:00"
+    },
+    {
+      "productId": 1109,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-11-27T04:26:22.8048556+02:00"
+    }
+  ]
+}

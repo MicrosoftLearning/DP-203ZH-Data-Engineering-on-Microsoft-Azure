@@ -1,0 +1,33 @@
+{
+  "userId": 7838,
+  "cartId": "d1fc411c-da33-43f7-bd57-f9e27dec884c",
+  "preferredProducts": [
+    1378,
+    3486,
+    2126,
+    3559,
+    1197,
+    3813,
+    2298,
+    2106,
+    2640,
+    3673
+  ],
+  "productReviews": [
+    {
+      "productId": 896,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-11-19T05:13:34.1859832+02:00"
+    },
+    {
+      "productId": 3369,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-08-14T18:22:22.775207+03:00"
+    },
+    {
+      "productId": 3598,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-07-06T06:22:25.760973+03:00"
+    }
+  ]
+}

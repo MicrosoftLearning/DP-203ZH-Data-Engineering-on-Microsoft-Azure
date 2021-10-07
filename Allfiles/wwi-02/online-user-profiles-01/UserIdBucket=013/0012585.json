@@ -1,0 +1,29 @@
+{
+  "userId": 12585,
+  "cartId": "e65dc631-95c7-475c-b6c8-c6f8a5372e3e",
+  "preferredProducts": [
+    1352,
+    1686,
+    2218,
+    2351,
+    617,
+    2078
+  ],
+  "productReviews": [
+    {
+      "productId": 4471,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-03-27T11:34:35.4076483+03:00"
+    },
+    {
+      "productId": 532,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-01-29T14:26:40.0781568+02:00"
+    },
+    {
+      "productId": 3981,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-08-03T23:09:45.6259021+03:00"
+    }
+  ]
+}

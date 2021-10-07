@@ -1,0 +1,32 @@
+{
+  "userId": 72868,
+  "cartId": "ca54fe0d-a73f-4070-bdb7-180caf6dd8fc",
+  "preferredProducts": [
+    1919,
+    2447,
+    4896,
+    2951
+  ],
+  "productReviews": [
+    {
+      "productId": 1973,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-09-26T20:55:12.7399796+03:00"
+    },
+    {
+      "productId": 1305,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-05-17T15:28:13.93628+03:00"
+    },
+    {
+      "productId": 469,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-06-21T03:22:57.3377389+03:00"
+    },
+    {
+      "productId": 1907,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-01-15T14:36:20.1381678+02:00"
+    }
+  ]
+}

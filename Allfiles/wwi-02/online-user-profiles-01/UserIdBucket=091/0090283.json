@@ -1,0 +1,42 @@
+{
+  "userId": 90283,
+  "cartId": "9c58fc71-0eef-4370-8226-0f7a1aafd35e",
+  "preferredProducts": [
+    1183,
+    1319,
+    1641,
+    4998,
+    2508,
+    1980,
+    1903,
+    2046,
+    2267
+  ],
+  "productReviews": [
+    {
+      "productId": 2238,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-01-05T06:04:03.1442662+02:00"
+    },
+    {
+      "productId": 2303,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-08-15T20:16:24.6170022+03:00"
+    },
+    {
+      "productId": 965,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-07-26T14:56:25.4730989+03:00"
+    },
+    {
+      "productId": 991,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-10-22T10:11:50.4807813+03:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-05-23T12:46:33.0858431+03:00"
+    }
+  ]
+}

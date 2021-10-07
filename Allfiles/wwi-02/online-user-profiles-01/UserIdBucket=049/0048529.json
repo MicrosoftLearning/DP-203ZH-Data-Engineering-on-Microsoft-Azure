@@ -1,0 +1,38 @@
+{
+  "userId": 48529,
+  "cartId": "e665682d-7ce2-4e5d-a825-e311142654c5",
+  "preferredProducts": [
+    4019,
+    2286,
+    518,
+    4245,
+    4679,
+    3097,
+    1150,
+    3547,
+    4572,
+    572
+  ],
+  "productReviews": [
+    {
+      "productId": 1780,
+      "reviewText": "this Dale is top-notch.",
+      "reviewDate": "2019-01-12T10:18:31.1230623+02:00"
+    },
+    {
+      "productId": 1554,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-02-14T14:18:07.7556641+02:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-10-30T23:44:16.3208633+02:00"
+    },
+    {
+      "productId": 162,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-12-15T07:18:37.5872553+02:00"
+    }
+  ]
+}

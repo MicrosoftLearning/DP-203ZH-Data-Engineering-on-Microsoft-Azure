@@ -1,0 +1,37 @@
+{
+  "userId": 72358,
+  "cartId": "e9e08303-13eb-4c8c-964b-faa020c3feef",
+  "preferredProducts": [
+    655,
+    4149,
+    4294,
+    4550,
+    1606,
+    3001,
+    3188,
+    1175,
+    2472
+  ],
+  "productReviews": [
+    {
+      "productId": 3897,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-10-01T05:36:26.4069021+03:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-05-22T04:46:03.0318178+03:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-03-22T21:17:14.0836932+02:00"
+    },
+    {
+      "productId": 3980,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-10-07T04:07:24.7322743+03:00"
+    }
+  ]
+}

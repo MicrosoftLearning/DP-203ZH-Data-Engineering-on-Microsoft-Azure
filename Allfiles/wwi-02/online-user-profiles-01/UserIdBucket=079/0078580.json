@@ -1,0 +1,33 @@
+{
+  "userId": 78580,
+  "cartId": "a930b476-f3d3-461c-bd7a-cfbf018a6bbd",
+  "preferredProducts": [
+    271,
+    3257,
+    2957,
+    2289,
+    148,
+    3704,
+    4262,
+    3253,
+    4311,
+    1702
+  ],
+  "productReviews": [
+    {
+      "productId": 1643,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-10-05T22:25:30.8834883+03:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2020-03-12T10:52:18.123323+02:00"
+    },
+    {
+      "productId": 1797,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-01-22T09:24:58.4228774+02:00"
+    }
+  ]
+}

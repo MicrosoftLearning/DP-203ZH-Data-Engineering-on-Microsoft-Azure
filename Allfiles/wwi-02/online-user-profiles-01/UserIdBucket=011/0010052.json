@@ -1,0 +1,30 @@
+{
+  "userId": 10052,
+  "cartId": "e825ddd5-d4df-4450-90e9-34fd1ac864ef",
+  "preferredProducts": [
+    1888,
+    920,
+    2128,
+    367,
+    2476,
+    1394,
+    4127
+  ],
+  "productReviews": [
+    {
+      "productId": 4242,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-08-23T18:43:58.9870697+03:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-05-11T19:44:24.0079002+03:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-08-19T13:06:08.6415046+03:00"
+    }
+  ]
+}

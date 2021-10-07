@@ -1,0 +1,30 @@
+{
+  "userId": 90711,
+  "cartId": "7c47e615-4904-4bf1-ab13-73b197c7012f",
+  "preferredProducts": [
+    2142,
+    2155,
+    1049,
+    3757,
+    2116,
+    1560,
+    2747
+  ],
+  "productReviews": [
+    {
+      "productId": 3565,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-03-03T14:06:30.2139966+02:00"
+    },
+    {
+      "productId": 4853,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-09-02T14:34:39.9614711+03:00"
+    },
+    {
+      "productId": 1143,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-01-08T11:49:09.4624106+02:00"
+    }
+  ]
+}

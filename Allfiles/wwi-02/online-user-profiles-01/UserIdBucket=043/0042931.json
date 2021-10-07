@@ -1,0 +1,29 @@
+{
+  "userId": 42931,
+  "cartId": "b7c5d890-3cef-4005-b2f8-e1cb2152c4aa",
+  "preferredProducts": [
+    1105,
+    405,
+    3129,
+    1730,
+    3820,
+    3135
+  ],
+  "productReviews": [
+    {
+      "productId": 3594,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-10-01T11:55:08.7957687+03:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-03-15T15:24:24.0206919+02:00"
+    },
+    {
+      "productId": 1518,
+      "reviewText": "this Incredible Concrete Gloves is vertical.",
+      "reviewDate": "2016-07-19T19:00:48.2923803+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 80263,
+  "cartId": "5ae2815e-a97a-4466-acf7-f334446dfef5",
+  "preferredProducts": [
+    3820,
+    1688,
+    4149,
+    560,
+    740,
+    4882,
+    272,
+    2428,
+    1956
+  ],
+  "productReviews": [
+    {
+      "productId": 406,
+      "reviewText": "this reboot is smooth.",
+      "reviewDate": "2016-11-24T20:21:30.2268513+02:00"
+    },
+    {
+      "productId": 775,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-02-14T08:20:41.4498853+02:00"
+    },
+    {
+      "productId": 3334,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-12T13:02:41.7577688+02:00"
+    }
+  ]
+}

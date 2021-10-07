@@ -1,0 +1,32 @@
+{
+  "userId": 43223,
+  "cartId": "3cbc41f9-44a6-4ad4-ae54-e16729837664",
+  "preferredProducts": [
+    388,
+    1506,
+    3708,
+    1668
+  ],
+  "productReviews": [
+    {
+      "productId": 3982,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-12-30T00:12:42.8015379+02:00"
+    },
+    {
+      "productId": 1136,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-11-30T00:26:28.401653+02:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-12-02T22:41:31.8662272+02:00"
+    },
+    {
+      "productId": 908,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-10-14T04:21:04.4648912+03:00"
+    }
+  ]
+}

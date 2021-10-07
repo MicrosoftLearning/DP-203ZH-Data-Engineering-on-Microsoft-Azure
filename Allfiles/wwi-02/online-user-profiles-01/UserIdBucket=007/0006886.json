@@ -1,0 +1,26 @@
+{
+  "userId": 6886,
+  "cartId": "d2cd44bd-0b63-4a9f-8fe0-7e1fac667ffe",
+  "preferredProducts": [
+    1703,
+    437,
+    2213,
+    4711,
+    4129,
+    4223,
+    3605,
+    254
+  ],
+  "productReviews": [
+    {
+      "productId": 1986,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-05-28T02:08:51.0031899+03:00"
+    },
+    {
+      "productId": 1896,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-08-03T09:50:11.2232586+03:00"
+    }
+  ]
+}

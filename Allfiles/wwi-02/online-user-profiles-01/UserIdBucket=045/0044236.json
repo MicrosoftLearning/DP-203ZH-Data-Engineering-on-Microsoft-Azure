@@ -1,0 +1,24 @@
+{
+  "userId": 44236,
+  "cartId": "24f1b067-5b06-4a89-afce-8de9b7f35044",
+  "preferredProducts": [
+    3388,
+    3967,
+    3503,
+    328,
+    1850,
+    2165
+  ],
+  "productReviews": [
+    {
+      "productId": 1003,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-03-30T00:20:20.4937845+03:00"
+    },
+    {
+      "productId": 4164,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-11-14T10:56:00.2112612+02:00"
+    }
+  ]
+}

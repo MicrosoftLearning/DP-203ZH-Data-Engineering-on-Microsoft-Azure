@@ -1,0 +1,33 @@
+{
+  "userId": 56499,
+  "cartId": "422b54ab-79cc-4ff0-bed3-37c2e77f9f91",
+  "preferredProducts": [
+    1511,
+    3311,
+    2823,
+    1596,
+    4967
+  ],
+  "productReviews": [
+    {
+      "productId": 2591,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-11-24T06:13:29.2898313+02:00"
+    },
+    {
+      "productId": 3630,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-11-07T22:45:28.5742181+02:00"
+    },
+    {
+      "productId": 1940,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-01-31T08:56:49.8275864+02:00"
+    },
+    {
+      "productId": 4146,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-06-05T21:38:31.9464138+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 3971,
+  "cartId": "56deacda-6162-4f10-a382-58dee00d5a10",
+  "preferredProducts": [
+    2779,
+    2624,
+    4125,
+    4530,
+    2374,
+    3272,
+    3737,
+    3080
+  ],
+  "productReviews": [
+    {
+      "productId": 4689,
+      "reviewText": "This RAM works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-06-11T12:19:12.9507459+03:00"
+    },
+    {
+      "productId": 751,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-04-01T16:17:46.1157769+03:00"
+    },
+    {
+      "productId": 605,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-05-30T02:42:54.6485395+03:00"
+    },
+    {
+      "productId": 2624,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-05-14T06:48:11.9767276+03:00"
+    }
+  ]
+}

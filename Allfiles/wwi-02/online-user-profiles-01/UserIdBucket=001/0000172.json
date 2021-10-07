@@ -1,0 +1,35 @@
+{
+  "userId": 172,
+  "cartId": "c47b8e8d-1dd8-4be6-8a73-b79e442be6f7",
+  "preferredProducts": [
+    1255,
+    1290,
+    988,
+    4856,
+    3192,
+    2793,
+    2785
+  ],
+  "productReviews": [
+    {
+      "productId": 2278,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-05-19T20:47:30.6314897+03:00"
+    },
+    {
+      "productId": 2821,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-10-28T14:24:46.3781794+03:00"
+    },
+    {
+      "productId": 2591,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-01-01T06:41:32.8986682+02:00"
+    },
+    {
+      "productId": 4180,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-12-09T03:21:27.8052633+02:00"
+    }
+  ]
+}

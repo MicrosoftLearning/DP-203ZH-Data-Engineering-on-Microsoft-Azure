@@ -1,0 +1,27 @@
+{
+  "userId": 37721,
+  "cartId": "e9728e56-1776-4bde-9d09-e95276ef410c",
+  "preferredProducts": [
+    2476,
+    530,
+    3334,
+    2798,
+    3907,
+    556,
+    4065,
+    343,
+    434
+  ],
+  "productReviews": [
+    {
+      "productId": 3612,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-01-31T13:13:27.4308609+02:00"
+    },
+    {
+      "productId": 948,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-10-04T18:20:34.0185648+03:00"
+    }
+  ]
+}

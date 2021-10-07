@@ -1,0 +1,32 @@
+{
+  "userId": 21300,
+  "cartId": "4b51650b-5489-4a76-a94c-f6665145f601",
+  "preferredProducts": [
+    2834,
+    384,
+    1093,
+    4725
+  ],
+  "productReviews": [
+    {
+      "productId": 2341,
+      "reviewText": "this projection is gracious.",
+      "reviewDate": "2019-01-19T06:35:13.6216444+02:00"
+    },
+    {
+      "productId": 859,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-03-19T23:52:41.5513194+02:00"
+    },
+    {
+      "productId": 626,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-06-03T07:31:49.9508837+03:00"
+    },
+    {
+      "productId": 150,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-07-06T20:39:09.9411469+03:00"
+    }
+  ]
+}

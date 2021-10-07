@@ -1,0 +1,35 @@
+{
+  "userId": 43389,
+  "cartId": "298c3ce5-32dc-4cc5-ac4b-11a19851f3ad",
+  "preferredProducts": [
+    3103,
+    4766,
+    1041,
+    4277,
+    887,
+    3531,
+    1431
+  ],
+  "productReviews": [
+    {
+      "productId": 1788,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-05-20T13:20:15.1863766+03:00"
+    },
+    {
+      "productId": 4404,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-06-02T08:26:09.8685177+03:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-03-30T03:03:00.5157571+03:00"
+    },
+    {
+      "productId": 971,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2020-05-01T04:00:54.1355869+03:00"
+    }
+  ]
+}

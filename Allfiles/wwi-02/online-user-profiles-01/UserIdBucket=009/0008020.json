@@ -1,0 +1,33 @@
+{
+  "userId": 8020,
+  "cartId": "ba43e26a-0130-416e-8731-2aa7654e96d5",
+  "preferredProducts": [
+    3070,
+    3023,
+    869,
+    3514,
+    2756,
+    1771,
+    2433,
+    1501,
+    180,
+    796
+  ],
+  "productReviews": [
+    {
+      "productId": 1264,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-04-18T18:51:23.6919433+03:00"
+    },
+    {
+      "productId": 1080,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-14T14:06:49.1741184+03:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-06-15T10:07:12.8859317+03:00"
+    }
+  ]
+}

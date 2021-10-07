@@ -1,0 +1,36 @@
+{
+  "userId": 42643,
+  "cartId": "503ed5af-da35-4d2d-b54f-2889b91a9885",
+  "preferredProducts": [
+    3727,
+    3354,
+    1872,
+    4020,
+    2045,
+    1814,
+    3717,
+    1967
+  ],
+  "productReviews": [
+    {
+      "productId": 4257,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-03-19T02:13:25.4763136+02:00"
+    },
+    {
+      "productId": 2207,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-03-06T01:05:48.3109229+02:00"
+    },
+    {
+      "productId": 1150,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-06-03T14:31:19.2468683+03:00"
+    },
+    {
+      "productId": 3234,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-04-26T07:48:52.4630069+03:00"
+    }
+  ]
+}

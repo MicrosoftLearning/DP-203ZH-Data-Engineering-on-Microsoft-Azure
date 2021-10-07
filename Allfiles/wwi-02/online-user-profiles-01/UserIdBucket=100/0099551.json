@@ -1,0 +1,36 @@
+{
+  "userId": 99551,
+  "cartId": "7c29c12c-f0b2-4f97-a3db-7b9a792757ee",
+  "preferredProducts": [
+    4584,
+    2890,
+    3548,
+    1072,
+    3668,
+    3782,
+    1405,
+    1456
+  ],
+  "productReviews": [
+    {
+      "productId": 4782,
+      "reviewText": "this Borders is top-notch.",
+      "reviewDate": "2018-07-26T07:09:23.5833608+03:00"
+    },
+    {
+      "productId": 2439,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-04-06T06:28:58.6503948+03:00"
+    },
+    {
+      "productId": 4041,
+      "reviewText": "This Fantastic works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2017-02-16T22:02:45.4675536+02:00"
+    },
+    {
+      "productId": 1793,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-10-16T12:51:14.3272568+03:00"
+    }
+  ]
+}

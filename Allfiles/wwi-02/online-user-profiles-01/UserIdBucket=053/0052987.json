@@ -1,0 +1,30 @@
+{
+  "userId": 52987,
+  "cartId": "1e4ba663-61d6-48b2-b31c-47669c3b1616",
+  "preferredProducts": [
+    4579,
+    4344
+  ],
+  "productReviews": [
+    {
+      "productId": 4153,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2020-04-23T11:37:24.9396499+03:00"
+    },
+    {
+      "productId": 1868,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-10-26T22:48:55.7924729+03:00"
+    },
+    {
+      "productId": 2541,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-11-06T10:13:27.6201734+02:00"
+    },
+    {
+      "productId": 4501,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-01-31T07:21:30.2758921+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 86194,
+  "cartId": "eb9be874-3b40-47bf-bd9a-37088899bfaf",
+  "preferredProducts": [
+    3753,
+    3368,
+    2322
+  ],
+  "productReviews": [
+    {
+      "productId": 1605,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-02-21T11:53:47.6625049+02:00"
+    },
+    {
+      "productId": 2369,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-12-08T11:45:10.4673386+02:00"
+    },
+    {
+      "productId": 3293,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-10-01T00:45:43.5622915+03:00"
+    }
+  ]
+}

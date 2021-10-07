@@ -1,0 +1,31 @@
+{
+  "userId": 50454,
+  "cartId": "42a5e737-8d47-4f22-995c-b662cd6565b2",
+  "preferredProducts": [
+    1537,
+    1999,
+    146
+  ],
+  "productReviews": [
+    {
+      "productId": 2093,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-07-02T09:18:15.0516159+03:00"
+    },
+    {
+      "productId": 1408,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-16T15:31:23.7683817+03:00"
+    },
+    {
+      "productId": 3401,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-11-13T07:52:45.1619722+02:00"
+    },
+    {
+      "productId": 787,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-02-15T19:30:54.3328141+02:00"
+    }
+  ]
+}

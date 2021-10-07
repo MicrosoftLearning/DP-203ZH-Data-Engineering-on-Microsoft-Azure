@@ -1,0 +1,33 @@
+{
+  "userId": 89357,
+  "cartId": "10d4cb31-ef90-4fe8-a4c0-a6b9173e3569",
+  "preferredProducts": [
+    190,
+    2586,
+    1989,
+    1573,
+    3974
+  ],
+  "productReviews": [
+    {
+      "productId": 3314,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-09-05T00:20:25.4822693+03:00"
+    },
+    {
+      "productId": 1780,
+      "reviewText": "This Avon works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-01-16T03:57:49.173035+02:00"
+    },
+    {
+      "productId": 3879,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-03-22T16:10:59.905954+02:00"
+    },
+    {
+      "productId": 3814,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-11-20T17:34:33.7190799+02:00"
+    }
+  ]
+}

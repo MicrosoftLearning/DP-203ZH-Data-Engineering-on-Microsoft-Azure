@@ -1,0 +1,35 @@
+{
+  "userId": 33674,
+  "cartId": "9f9ac9f8-23e2-4271-ae66-6abc7a789ae4",
+  "preferredProducts": [
+    789,
+    2237,
+    2698,
+    4221,
+    3317,
+    2082,
+    2321
+  ],
+  "productReviews": [
+    {
+      "productId": 2119,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-06-20T03:26:40.6316567+03:00"
+    },
+    {
+      "productId": 2648,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-01-02T18:37:27.3858178+02:00"
+    },
+    {
+      "productId": 4901,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-12-24T13:23:58.5704713+02:00"
+    },
+    {
+      "productId": 4475,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-06-24T15:21:33.7583614+03:00"
+    }
+  ]
+}

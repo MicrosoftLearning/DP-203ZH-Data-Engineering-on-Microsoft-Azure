@@ -1,0 +1,33 @@
+{
+  "userId": 79580,
+  "cartId": "2eeb6632-2b20-4831-aae9-8dfe93ec832b",
+  "preferredProducts": [
+    3305,
+    3562,
+    3146,
+    1038,
+    1271,
+    3064,
+    4503,
+    4932,
+    60,
+    3054
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "this Beauty is nifty.",
+      "reviewDate": "2020-03-30T20:09:13.6806134+03:00"
+    },
+    {
+      "productId": 1759,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-05-19T02:21:58.3954597+03:00"
+    },
+    {
+      "productId": 1764,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-07-15T02:13:08.1404844+03:00"
+    }
+  ]
+}

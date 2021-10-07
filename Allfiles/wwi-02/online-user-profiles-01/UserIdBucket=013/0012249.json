@@ -1,0 +1,37 @@
+{
+  "userId": 12249,
+  "cartId": "ab660db9-3947-4aac-88a9-f0e97db094e4",
+  "preferredProducts": [
+    2627,
+    1155,
+    549,
+    3508,
+    849,
+    3448,
+    4353,
+    1273,
+    274
+  ],
+  "productReviews": [
+    {
+      "productId": 2359,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-02-18T07:32:20.8297339+02:00"
+    },
+    {
+      "productId": 1142,
+      "reviewText": "This Dynamic, does exactly what it's suppose to do.",
+      "reviewDate": "2017-03-12T13:13:29.5345037+02:00"
+    },
+    {
+      "productId": 4944,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-01-08T17:53:20.3103504+02:00"
+    },
+    {
+      "productId": 1902,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-12-11T07:25:52.4998946+02:00"
+    }
+  ]
+}

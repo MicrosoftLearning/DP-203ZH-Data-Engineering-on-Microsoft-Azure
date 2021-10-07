@@ -1,0 +1,32 @@
+{
+  "userId": 30543,
+  "cartId": "392d5fdb-d94a-4277-ab21-a2671c5b4028",
+  "preferredProducts": [
+    742,
+    801,
+    4415,
+    4923
+  ],
+  "productReviews": [
+    {
+      "productId": 2955,
+      "reviewText": "this Sleek Frozen Chicken is dominant.",
+      "reviewDate": "2016-11-27T08:00:52.4180562+02:00"
+    },
+    {
+      "productId": 2731,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-08-26T14:23:29.6002979+03:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-03-07T12:38:10.2635429+02:00"
+    },
+    {
+      "productId": 4608,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-09-10T00:59:20.9630129+03:00"
+    }
+  ]
+}

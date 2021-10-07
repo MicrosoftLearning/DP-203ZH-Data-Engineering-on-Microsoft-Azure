@@ -1,0 +1,32 @@
+{
+  "userId": 302,
+  "cartId": "2626e9e2-158b-4776-9ece-7f9bbfaae57a",
+  "preferredProducts": [
+    3078,
+    1174,
+    1514,
+    77
+  ],
+  "productReviews": [
+    {
+      "productId": 3614,
+      "reviewText": "This Hills works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-01-03T12:57:01.0997563+02:00"
+    },
+    {
+      "productId": 326,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-12-28T15:50:39.8322749+02:00"
+    },
+    {
+      "productId": 3651,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-03-29T07:09:09.9421142+03:00"
+    },
+    {
+      "productId": 391,
+      "reviewText": "this orchestrate is tasty.",
+      "reviewDate": "2017-06-07T23:42:27.9708836+03:00"
+    }
+  ]
+}

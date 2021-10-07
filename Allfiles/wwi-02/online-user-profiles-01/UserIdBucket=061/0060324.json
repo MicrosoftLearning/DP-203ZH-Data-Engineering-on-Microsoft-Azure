@@ -1,0 +1,32 @@
+{
+  "userId": 60324,
+  "cartId": "62f5a5e2-2bec-4ae7-ade5-65b4b048c2cc",
+  "preferredProducts": [
+    2166,
+    3512,
+    369,
+    2873,
+    2803,
+    1101,
+    548,
+    3193,
+    404
+  ],
+  "productReviews": [
+    {
+      "productId": 782,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2020-03-15T00:56:33.6189384+02:00"
+    },
+    {
+      "productId": 1436,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-09-17T17:56:24.2168288+03:00"
+    },
+    {
+      "productId": 1247,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-04-06T05:12:03.9092125+03:00"
+    }
+  ]
+}

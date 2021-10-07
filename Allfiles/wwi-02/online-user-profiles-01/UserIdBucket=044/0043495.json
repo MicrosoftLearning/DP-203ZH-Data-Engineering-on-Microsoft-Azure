@@ -1,0 +1,32 @@
+{
+  "userId": 43495,
+  "cartId": "9df7d08c-4b1e-4bf1-afbe-2d802bd26750",
+  "preferredProducts": [
+    3654,
+    2205,
+    3341,
+    624
+  ],
+  "productReviews": [
+    {
+      "productId": 86,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2020-01-15T22:52:46.8758733+02:00"
+    },
+    {
+      "productId": 4205,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-09-17T10:23:35.6639982+03:00"
+    },
+    {
+      "productId": 2626,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-07-02T04:33:33.2648948+03:00"
+    },
+    {
+      "productId": 3513,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-03-09T11:26:18.23169+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 10314,
+  "cartId": "8e27d063-56c2-4d8c-8fca-df086cf605f9",
+  "preferredProducts": [
+    354,
+    3816,
+    420,
+    2529,
+    3488,
+    111,
+    3277,
+    3679
+  ],
+  "productReviews": [
+    {
+      "productId": 131,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-18T21:24:43.1005238+02:00"
+    },
+    {
+      "productId": 2106,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-11-05T16:21:46.1415565+02:00"
+    },
+    {
+      "productId": 1787,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-12-19T10:06:03.8113341+02:00"
+    },
+    {
+      "productId": 2394,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-06-29T22:07:41.9197079+03:00"
+    }
+  ]
+}

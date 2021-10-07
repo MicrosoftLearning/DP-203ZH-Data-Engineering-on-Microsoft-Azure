@@ -1,0 +1,38 @@
+{
+  "userId": 12564,
+  "cartId": "6607cfe1-45fe-48a8-a561-2b3e16bd13d2",
+  "preferredProducts": [
+    1170,
+    3024,
+    2939,
+    602,
+    487
+  ],
+  "productReviews": [
+    {
+      "productId": 3705,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-06-13T20:42:13.7539916+03:00"
+    },
+    {
+      "productId": 87,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-09-20T10:32:10.3824362+03:00"
+    },
+    {
+      "productId": 3084,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-04-09T19:47:48.6595273+03:00"
+    },
+    {
+      "productId": 1341,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-07-21T10:58:08.7305967+03:00"
+    },
+    {
+      "productId": 3144,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-01-13T11:54:44.4095023+02:00"
+    }
+  ]
+}

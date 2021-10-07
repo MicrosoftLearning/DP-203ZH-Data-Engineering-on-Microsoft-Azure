@@ -1,0 +1,30 @@
+{
+  "userId": 93489,
+  "cartId": "1fd60417-b76f-4be1-bb93-ef05740d4a72",
+  "preferredProducts": [
+    4327,
+    1069,
+    3477,
+    1039,
+    2331,
+    658,
+    539
+  ],
+  "productReviews": [
+    {
+      "productId": 1433,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-08-07T15:00:58.9463402+03:00"
+    },
+    {
+      "productId": 1791,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-12-05T09:20:26.5453164+02:00"
+    },
+    {
+      "productId": 30,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-07-04T19:52:15.3178713+03:00"
+    }
+  ]
+}

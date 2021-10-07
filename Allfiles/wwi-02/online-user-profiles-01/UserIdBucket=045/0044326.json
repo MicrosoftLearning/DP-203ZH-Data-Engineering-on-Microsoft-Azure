@@ -1,0 +1,35 @@
+{
+  "userId": 44326,
+  "cartId": "b8433dfa-e72d-4dc3-b5fb-80eb23232619",
+  "preferredProducts": [
+    1957,
+    4076
+  ],
+  "productReviews": [
+    {
+      "productId": 4590,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-04-13T07:09:01.4412511+03:00"
+    },
+    {
+      "productId": 265,
+      "reviewText": "this bus is mellow.",
+      "reviewDate": "2018-03-22T04:24:18.4566018+02:00"
+    },
+    {
+      "productId": 1837,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-01-16T19:49:54.0168795+02:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-03-06T18:42:35.4756404+02:00"
+    },
+    {
+      "productId": 3016,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-03-20T03:46:02.0846389+02:00"
+    }
+  ]
+}

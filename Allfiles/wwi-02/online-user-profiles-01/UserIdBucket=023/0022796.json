@@ -1,0 +1,35 @@
+{
+  "userId": 22796,
+  "cartId": "eb5f6411-db65-45a8-81a4-9939f3a2661b",
+  "preferredProducts": [
+    1791,
+    3125,
+    4615,
+    2775,
+    4907,
+    2188,
+    4672
+  ],
+  "productReviews": [
+    {
+      "productId": 1424,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-08-12T11:55:00.6805135+03:00"
+    },
+    {
+      "productId": 1921,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-05-13T22:58:28.2125621+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-11-15T00:05:07.0397615+02:00"
+    },
+    {
+      "productId": 2925,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-12-13T09:18:22.122693+02:00"
+    }
+  ]
+}

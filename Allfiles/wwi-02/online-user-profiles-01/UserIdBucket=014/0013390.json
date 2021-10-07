@@ -1,0 +1,31 @@
+{
+  "userId": 13390,
+  "cartId": "ec5cf3c9-05bb-4964-97f7-7f62a8b4ee49",
+  "preferredProducts": [
+    1913,
+    2275,
+    4235,
+    2531,
+    2288,
+    1115,
+    2057,
+    2423
+  ],
+  "productReviews": [
+    {
+      "productId": 2256,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-04-25T18:03:00.0617922+03:00"
+    },
+    {
+      "productId": 459,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-11-14T16:47:21.6477922+02:00"
+    },
+    {
+      "productId": 4766,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2020-04-14T04:39:58.4517072+03:00"
+    }
+  ]
+}

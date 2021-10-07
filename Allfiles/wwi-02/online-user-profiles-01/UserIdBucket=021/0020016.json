@@ -1,0 +1,26 @@
+{
+  "userId": 20016,
+  "cartId": "77ad4827-d837-4770-abf2-866cd0a9600b",
+  "preferredProducts": [
+    1343,
+    1528,
+    1495,
+    4261,
+    4654,
+    3495,
+    3592,
+    3691
+  ],
+  "productReviews": [
+    {
+      "productId": 1645,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-01-02T20:13:36.8638606+02:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "This Tennessee works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-08-31T13:42:03.6192933+03:00"
+    }
+  ]
+}

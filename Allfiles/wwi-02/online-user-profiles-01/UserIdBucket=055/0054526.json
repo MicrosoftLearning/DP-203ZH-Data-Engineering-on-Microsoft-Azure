@@ -1,0 +1,37 @@
+{
+  "userId": 54526,
+  "cartId": "e7fa40fb-e088-4789-9ff8-f6484d5913bc",
+  "preferredProducts": [
+    3501,
+    1113,
+    2262,
+    1028
+  ],
+  "productReviews": [
+    {
+      "productId": 544,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-07-24T15:44:13.4464607+03:00"
+    },
+    {
+      "productId": 2269,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-08-14T18:26:08.382435+03:00"
+    },
+    {
+      "productId": 4216,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-11-16T06:08:56.3223559+02:00"
+    },
+    {
+      "productId": 2861,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-05-09T18:51:57.2264661+03:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-12-25T23:28:01.4144026+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 42900,
+  "cartId": "4dcb46a0-ec82-46fb-aa5f-39bc6d27cafd",
+  "preferredProducts": [
+    2762,
+    3529,
+    4472,
+    223,
+    1021,
+    1681,
+    1948
+  ],
+  "productReviews": [
+    {
+      "productId": 2636,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-03-19T15:55:11.3886633+02:00"
+    },
+    {
+      "productId": 537,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-12-06T06:57:08.2060516+02:00"
+    },
+    {
+      "productId": 3149,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-08-19T04:49:40.1141623+03:00"
+    }
+  ]
+}

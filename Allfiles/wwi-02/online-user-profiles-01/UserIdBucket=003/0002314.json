@@ -1,0 +1,42 @@
+{
+  "userId": 2314,
+  "cartId": "6f3e915a-8d9c-4f7f-b294-cb026ec1cb4a",
+  "preferredProducts": [
+    3837,
+    125,
+    3092,
+    4645,
+    4032,
+    4043,
+    1976,
+    2794,
+    2886
+  ],
+  "productReviews": [
+    {
+      "productId": 3754,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-08-27T23:37:54.8449629+03:00"
+    },
+    {
+      "productId": 3119,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-11-02T20:59:06.1318185+02:00"
+    },
+    {
+      "productId": 4586,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-11-04T05:17:06.507282+02:00"
+    },
+    {
+      "productId": 498,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-11-05T20:16:28.3746282+02:00"
+    },
+    {
+      "productId": 2694,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-04-15T14:31:27.6552019+03:00"
+    }
+  ]
+}

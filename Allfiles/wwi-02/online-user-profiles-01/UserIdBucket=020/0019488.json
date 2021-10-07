@@ -1,0 +1,35 @@
+{
+  "userId": 19488,
+  "cartId": "1d1a5e28-529c-4f5f-92f0-ffccabacd9ef",
+  "preferredProducts": [
+    4796,
+    3706
+  ],
+  "productReviews": [
+    {
+      "productId": 1076,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-03-02T03:16:10.6656513+02:00"
+    },
+    {
+      "productId": 1882,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-08-06T00:05:16.8720627+03:00"
+    },
+    {
+      "productId": 1175,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-09-09T02:18:27.392642+03:00"
+    },
+    {
+      "productId": 2108,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-01-19T04:37:28.2332269+02:00"
+    },
+    {
+      "productId": 4768,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-03-04T20:56:53.7908041+02:00"
+    }
+  ]
+}

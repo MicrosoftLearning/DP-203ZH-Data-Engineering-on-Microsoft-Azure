@@ -1,0 +1,27 @@
+{
+  "userId": 74847,
+  "cartId": "cc6348e2-83d0-4873-b2b3-4b55eecf0904",
+  "preferredProducts": [
+    3682,
+    4154,
+    1880,
+    4131
+  ],
+  "productReviews": [
+    {
+      "productId": 3389,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-08-27T02:33:31.4880788+03:00"
+    },
+    {
+      "productId": 2149,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-03-28T16:00:49.6162112+02:00"
+    },
+    {
+      "productId": 3713,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-10-28T05:04:39.7186566+03:00"
+    }
+  ]
+}

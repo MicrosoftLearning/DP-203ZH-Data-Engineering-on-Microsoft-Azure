@@ -1,0 +1,31 @@
+{
+  "userId": 4200,
+  "cartId": "164e50f8-a878-4324-8789-8b508b025acd",
+  "preferredProducts": [
+    3931,
+    1516,
+    1814,
+    494,
+    1994,
+    3714,
+    3720,
+    2945
+  ],
+  "productReviews": [
+    {
+      "productId": 1044,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-01-04T07:08:36.6380729+02:00"
+    },
+    {
+      "productId": 4951,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-12-16T20:00:12.5125576+02:00"
+    },
+    {
+      "productId": 310,
+      "reviewText": "this North Carolina is dominant.",
+      "reviewDate": "2018-02-16T12:28:20.3206086+02:00"
+    }
+  ]
+}

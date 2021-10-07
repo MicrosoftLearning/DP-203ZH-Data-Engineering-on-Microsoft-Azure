@@ -1,0 +1,36 @@
+{
+  "userId": 5795,
+  "cartId": "b31c8047-b8f4-42fb-939b-f34ec5c82a23",
+  "preferredProducts": [
+    3343,
+    1740,
+    3313,
+    4164,
+    1238,
+    4040,
+    4820,
+    2239
+  ],
+  "productReviews": [
+    {
+      "productId": 1083,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-12-28T23:28:15.9491998+02:00"
+    },
+    {
+      "productId": 826,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-12-28T16:07:55.3954192+02:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-06-02T10:48:21.8053902+03:00"
+    },
+    {
+      "productId": 1200,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-08-12T09:35:13.2549444+03:00"
+    }
+  ]
+}

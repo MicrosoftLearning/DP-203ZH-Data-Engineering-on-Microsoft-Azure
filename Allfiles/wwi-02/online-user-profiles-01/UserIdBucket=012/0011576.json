@@ -1,0 +1,30 @@
+{
+  "userId": 11576,
+  "cartId": "d3b32095-78d2-4445-a71d-133dc260e2f1",
+  "preferredProducts": [
+    4596,
+    1735,
+    336,
+    3234,
+    1887,
+    4589,
+    1732
+  ],
+  "productReviews": [
+    {
+      "productId": 4212,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-12-31T17:00:51.4957817+02:00"
+    },
+    {
+      "productId": 1544,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-03-16T01:04:55.3216105+02:00"
+    },
+    {
+      "productId": 1749,
+      "reviewText": "this connect is papery.",
+      "reviewDate": "2019-06-06T22:13:21.119673+03:00"
+    }
+  ]
+}

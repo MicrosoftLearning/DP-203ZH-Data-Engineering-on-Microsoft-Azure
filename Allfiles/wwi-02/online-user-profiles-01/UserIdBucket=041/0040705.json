@@ -1,0 +1,37 @@
+{
+  "userId": 40705,
+  "cartId": "10bce421-c121-4170-a6cf-014e373826e8",
+  "preferredProducts": [
+    2464,
+    2020,
+    1498,
+    3596,
+    4265,
+    2581,
+    1972,
+    4811,
+    180
+  ],
+  "productReviews": [
+    {
+      "productId": 4357,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-09-06T13:11:06.8920267+03:00"
+    },
+    {
+      "productId": 2565,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-03-14T14:32:07.1237388+02:00"
+    },
+    {
+      "productId": 192,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-04-22T08:42:11.4202376+03:00"
+    },
+    {
+      "productId": 2326,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-05-24T15:25:36.1597749+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 62836,
+  "cartId": "f52244a0-4ff1-48e1-add7-09a408dbc104",
+  "preferredProducts": [
+    3566,
+    2272,
+    2434
+  ],
+  "productReviews": [
+    {
+      "productId": 533,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-11-19T11:58:45.1184548+02:00"
+    },
+    {
+      "productId": 2374,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-12-03T15:29:18.2148221+02:00"
+    },
+    {
+      "productId": 3444,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-01-31T11:50:05.9841268+02:00"
+    }
+  ]
+}

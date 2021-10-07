@@ -1,0 +1,36 @@
+{
+  "userId": 34471,
+  "cartId": "4d4c42a4-0c26-497c-9258-197221dc2667",
+  "preferredProducts": [
+    2872,
+    269,
+    1759,
+    1448,
+    2720,
+    3431,
+    3130,
+    4120
+  ],
+  "productReviews": [
+    {
+      "productId": 2453,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-06-15T08:56:45.4889099+03:00"
+    },
+    {
+      "productId": 3011,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-12-04T18:08:00.6640683+02:00"
+    },
+    {
+      "productId": 3163,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-12-17T11:39:15.2559991+02:00"
+    },
+    {
+      "productId": 4065,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-05T22:45:13.8849874+03:00"
+    }
+  ]
+}

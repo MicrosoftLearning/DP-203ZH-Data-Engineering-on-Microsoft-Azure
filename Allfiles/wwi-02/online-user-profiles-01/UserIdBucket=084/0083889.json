@@ -1,0 +1,35 @@
+{
+  "userId": 83889,
+  "cartId": "09d1c31c-d969-4a14-a095-70ede6d1918c",
+  "preferredProducts": [
+    2900,
+    1315
+  ],
+  "productReviews": [
+    {
+      "productId": 266,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-06-14T14:33:23.4085686+03:00"
+    },
+    {
+      "productId": 1333,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-09-03T09:00:47.1376966+03:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "This interactive works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2020-01-12T12:54:33.7568175+02:00"
+    },
+    {
+      "productId": 3178,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-04-21T18:47:32.5007375+03:00"
+    },
+    {
+      "productId": 4855,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-08-07T18:31:28.06264+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 3990,
+  "cartId": "388d26bc-fa32-499e-837e-dbcacc530e25",
+  "preferredProducts": [
+    2945,
+    366,
+    4650,
+    986,
+    162,
+    1745,
+    4909,
+    2343
+  ],
+  "productReviews": [
+    {
+      "productId": 2143,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-10-31T16:12:41.5701307+02:00"
+    },
+    {
+      "productId": 4154,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2016-06-10T16:54:08.2477808+03:00"
+    },
+    {
+      "productId": 3858,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-09-13T19:33:19.9072246+03:00"
+    },
+    {
+      "productId": 3326,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-10-06T09:20:27.8182712+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 70985,
+  "cartId": "ae10cba9-3633-463d-991a-78fc645984af",
+  "preferredProducts": [
+    1581,
+    1282,
+    2633,
+    1783,
+    620
+  ],
+  "productReviews": [
+    {
+      "productId": 2078,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-03-11T19:02:44.6103519+02:00"
+    },
+    {
+      "productId": 2748,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-05-10T20:18:59.9175966+03:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-12-08T06:25:15.1678722+02:00"
+    },
+    {
+      "productId": 4734,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-04-08T07:08:44.814837+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 42881,
+  "cartId": "186d20a1-8577-41ff-ac43-7a874895d3d6",
+  "preferredProducts": [
+    1524,
+    1783,
+    3124,
+    2430,
+    927,
+    210
+  ],
+  "productReviews": [
+    {
+      "productId": 1405,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-12-18T22:09:54.572765+02:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-12-12T10:40:36.1643567+02:00"
+    },
+    {
+      "productId": 3400,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-12-28T03:49:40.4882284+02:00"
+    },
+    {
+      "productId": 604,
+      "reviewText": "this monitoring is mellow.",
+      "reviewDate": "2016-10-08T17:30:49.6290717+03:00"
+    }
+  ]
+}

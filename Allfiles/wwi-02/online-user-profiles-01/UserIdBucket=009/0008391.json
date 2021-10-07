@@ -1,0 +1,29 @@
+{
+  "userId": 8391,
+  "cartId": "8eed0689-b8e7-45f3-87c8-9849ba41f1f3",
+  "preferredProducts": [
+    4815,
+    4220,
+    4572,
+    4797,
+    213,
+    4267
+  ],
+  "productReviews": [
+    {
+      "productId": 851,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-11-11T06:55:11.1424962+02:00"
+    },
+    {
+      "productId": 3442,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-11-26T10:54:28.3603178+02:00"
+    },
+    {
+      "productId": 445,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-11-12T22:17:14.9728165+02:00"
+    }
+  ]
+}

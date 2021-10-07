@@ -1,0 +1,30 @@
+{
+  "userId": 81121,
+  "cartId": "789abe06-72a2-4bd0-b1e4-7bae56b1fd50",
+  "preferredProducts": [
+    2145,
+    1098
+  ],
+  "productReviews": [
+    {
+      "productId": 4805,
+      "reviewText": "This HDD works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-11-20T10:29:00.5702799+02:00"
+    },
+    {
+      "productId": 310,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-09-11T10:28:11.4947557+03:00"
+    },
+    {
+      "productId": 4147,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-06-17T13:14:31.1819336+03:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-12-30T02:28:43.6363035+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 85622,
+  "cartId": "2dc1aa08-8eb6-4e52-a2aa-a97c2e496ca7",
+  "preferredProducts": [
+    908,
+    2240,
+    4737,
+    1800,
+    4951,
+    938,
+    2630,
+    3903
+  ],
+  "productReviews": [
+    {
+      "productId": 324,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2020-01-26T03:51:36.6638494+02:00"
+    },
+    {
+      "productId": 2925,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-07-12T05:56:43.164272+03:00"
+    },
+    {
+      "productId": 4636,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-05-02T00:38:11.7769205+03:00"
+    },
+    {
+      "productId": 2867,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-05-20T07:58:12.3999899+03:00"
+    },
+    {
+      "productId": 2219,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-05-27T05:10:26.6024828+03:00"
+    }
+  ]
+}

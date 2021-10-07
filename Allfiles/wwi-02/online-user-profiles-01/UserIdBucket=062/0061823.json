@@ -1,0 +1,33 @@
+{
+  "userId": 61823,
+  "cartId": "9560e5cc-12c1-4db3-92ba-aeecbc25a496",
+  "preferredProducts": [
+    2847,
+    2073,
+    2121,
+    1990,
+    4426
+  ],
+  "productReviews": [
+    {
+      "productId": 1995,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-08-23T16:02:19.8273432+03:00"
+    },
+    {
+      "productId": 3731,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2016-09-07T06:41:24.35835+03:00"
+    },
+    {
+      "productId": 3266,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-06-14T19:46:56.3466679+03:00"
+    },
+    {
+      "productId": 817,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-02-21T17:53:05.7684287+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 17506,
+  "cartId": "a2b9546e-e190-475c-ab29-692553a22092",
+  "preferredProducts": [
+    869,
+    4899,
+    2383,
+    491,
+    3584,
+    873,
+    1375,
+    2082
+  ],
+  "productReviews": [
+    {
+      "productId": 594,
+      "reviewText": "this Health is standard.",
+      "reviewDate": "2019-10-08T00:51:34.2361414+03:00"
+    },
+    {
+      "productId": 4557,
+      "reviewText": "this Summit is mellow.",
+      "reviewDate": "2019-12-28T13:52:18.3672397+02:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-09-15T02:17:43.4213535+03:00"
+    }
+  ]
+}

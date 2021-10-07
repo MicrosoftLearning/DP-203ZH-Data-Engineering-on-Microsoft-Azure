@@ -1,0 +1,26 @@
+{
+  "userId": 32311,
+  "cartId": "d43c3fa3-774b-4e82-8c9f-fe337c452331",
+  "preferredProducts": [
+    2500,
+    4789,
+    2708,
+    1298,
+    4711,
+    3173,
+    673,
+    1151
+  ],
+  "productReviews": [
+    {
+      "productId": 3786,
+      "reviewText": "this Mobility is slurpee.",
+      "reviewDate": "2017-05-24T05:52:45.935188+03:00"
+    },
+    {
+      "productId": 2669,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-05-17T21:58:17.1153101+03:00"
+    }
+  ]
+}

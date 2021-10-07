@@ -1,0 +1,31 @@
+{
+  "userId": 56353,
+  "cartId": "2e4aa1c5-4881-442d-bb03-7c3265ba8c4f",
+  "preferredProducts": [
+    2166,
+    3655,
+    2534
+  ],
+  "productReviews": [
+    {
+      "productId": 4208,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-06-18T01:00:53.8718311+03:00"
+    },
+    {
+      "productId": 181,
+      "reviewText": "this Summit is revolting.",
+      "reviewDate": "2020-01-24T17:58:07.4899285+02:00"
+    },
+    {
+      "productId": 167,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-01-01T21:49:52.8420346+02:00"
+    },
+    {
+      "productId": 522,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-06-11T03:20:03.0779064+03:00"
+    }
+  ]
+}

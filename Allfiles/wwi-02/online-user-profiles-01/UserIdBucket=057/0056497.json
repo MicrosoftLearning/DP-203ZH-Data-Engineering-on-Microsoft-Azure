@@ -1,0 +1,27 @@
+{
+  "userId": 56497,
+  "cartId": "c3bea292-deaf-44e3-8f5d-12742a977637",
+  "preferredProducts": [
+    3455,
+    4930,
+    3999,
+    2144
+  ],
+  "productReviews": [
+    {
+      "productId": 605,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-12-22T17:16:31.0015467+02:00"
+    },
+    {
+      "productId": 1438,
+      "reviewText": "this Plastic is nifty.",
+      "reviewDate": "2018-05-12T20:59:00.4984101+03:00"
+    },
+    {
+      "productId": 2923,
+      "reviewText": "this SAS is mellow.",
+      "reviewDate": "2016-08-11T06:04:19.2514774+03:00"
+    }
+  ]
+}

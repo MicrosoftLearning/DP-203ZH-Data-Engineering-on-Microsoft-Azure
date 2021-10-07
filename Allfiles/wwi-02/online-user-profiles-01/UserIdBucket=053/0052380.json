@@ -1,0 +1,30 @@
+{
+  "userId": 52380,
+  "cartId": "107cc77c-f708-478f-abb5-e092bb17f27a",
+  "preferredProducts": [
+    128,
+    3973
+  ],
+  "productReviews": [
+    {
+      "productId": 3765,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-04-15T17:45:05.4101079+03:00"
+    },
+    {
+      "productId": 1822,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2016-11-16T13:54:22.9811079+02:00"
+    },
+    {
+      "productId": 4407,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-03-18T07:33:05.1151316+02:00"
+    },
+    {
+      "productId": 891,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-11-24T09:35:07.9137211+02:00"
+    }
+  ]
+}

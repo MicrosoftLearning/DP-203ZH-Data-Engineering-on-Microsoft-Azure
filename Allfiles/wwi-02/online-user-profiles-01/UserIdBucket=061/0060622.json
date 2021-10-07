@@ -1,0 +1,31 @@
+{
+  "userId": 60622,
+  "cartId": "498b1d9e-d073-4762-9a48-9e8a43341a9d",
+  "preferredProducts": [
+    2466,
+    1614,
+    3678,
+    4177,
+    1917,
+    2387,
+    1719,
+    3002
+  ],
+  "productReviews": [
+    {
+      "productId": 3733,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-04-05T00:33:56.1497432+03:00"
+    },
+    {
+      "productId": 3274,
+      "reviewText": "this Engineer is brown.",
+      "reviewDate": "2018-09-11T18:12:04.2476646+03:00"
+    },
+    {
+      "productId": 108,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-09-27T07:10:29.9424962+03:00"
+    }
+  ]
+}

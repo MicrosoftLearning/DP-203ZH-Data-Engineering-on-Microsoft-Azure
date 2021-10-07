@@ -1,0 +1,31 @@
+{
+  "userId": 40716,
+  "cartId": "7b9aea37-645f-4e9c-9ac3-99ca25383f8d",
+  "preferredProducts": [
+    3407,
+    1454,
+    1231,
+    372,
+    3935,
+    2596,
+    2695,
+    2152
+  ],
+  "productReviews": [
+    {
+      "productId": 3229,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-03-04T02:10:55.5113086+02:00"
+    },
+    {
+      "productId": 263,
+      "reviewText": "this access is slurpee.",
+      "reviewDate": "2019-03-05T18:10:25.6902946+02:00"
+    },
+    {
+      "productId": 211,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-07-03T05:53:22.7725509+03:00"
+    }
+  ]
+}

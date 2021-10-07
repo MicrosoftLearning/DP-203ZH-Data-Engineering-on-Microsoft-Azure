@@ -1,0 +1,32 @@
+{
+  "userId": 37406,
+  "cartId": "1bc94017-553b-447d-937b-69c444212a36",
+  "preferredProducts": [
+    1403,
+    621,
+    3485,
+    4699
+  ],
+  "productReviews": [
+    {
+      "productId": 442,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-01-23T10:11:29.2345466+02:00"
+    },
+    {
+      "productId": 3602,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-12-02T15:53:25.6470824+02:00"
+    },
+    {
+      "productId": 367,
+      "reviewText": "This Tools works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-07-27T15:58:23.8049945+03:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-12-10T23:51:47.1267097+02:00"
+    }
+  ]
+}

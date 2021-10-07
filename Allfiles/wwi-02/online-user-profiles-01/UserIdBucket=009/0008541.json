@@ -1,0 +1,39 @@
+{
+  "userId": 8541,
+  "cartId": "13ee5a73-09c1-4ca9-9507-9733bb171dc4",
+  "preferredProducts": [
+    4098,
+    4793,
+    79,
+    4352,
+    2606,
+    2440
+  ],
+  "productReviews": [
+    {
+      "productId": 4654,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-04-18T01:16:16.5920723+03:00"
+    },
+    {
+      "productId": 947,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-06-01T13:08:41.771919+03:00"
+    },
+    {
+      "productId": 354,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-03-28T21:53:20.6193808+03:00"
+    },
+    {
+      "productId": 4295,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-11-12T11:50:12.9013491+02:00"
+    },
+    {
+      "productId": 1218,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-03-07T06:28:11.7994624+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 7999,
+  "cartId": "afb95a48-3a9f-4000-9d75-1e06c355f546",
+  "preferredProducts": [
+    326,
+    1775
+  ],
+  "productReviews": [
+    {
+      "productId": 3145,
+      "reviewText": "this Saint Helena Pound is brown.",
+      "reviewDate": "2019-02-14T21:15:31.7589264+02:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2020-04-25T11:28:47.3479694+03:00"
+    },
+    {
+      "productId": 966,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2020-01-10T10:15:11.4853086+02:00"
+    },
+    {
+      "productId": 4187,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2020-02-17T10:44:29.5524621+02:00"
+    }
+  ]
+}

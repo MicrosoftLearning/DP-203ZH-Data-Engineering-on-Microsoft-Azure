@@ -1,0 +1,34 @@
+{
+  "userId": 1019,
+  "cartId": "01fabdbf-80e8-4f87-9de3-87ba1b01c139",
+  "preferredProducts": [
+    3313,
+    3479,
+    3275,
+    2735,
+    2128,
+    4746
+  ],
+  "productReviews": [
+    {
+      "productId": 317,
+      "reviewText": "this hardware is light-hearted.",
+      "reviewDate": "2020-05-04T08:14:30.2654989+03:00"
+    },
+    {
+      "productId": 3869,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-07-22T03:40:03.814689+03:00"
+    },
+    {
+      "productId": 1805,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-06-22T16:55:38.0254047+03:00"
+    },
+    {
+      "productId": 2361,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-07-06T07:40:54.5089611+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 18290,
+  "cartId": "6eb8edb3-0520-45cf-b648-efa49ce4c120",
+  "preferredProducts": [
+    4704,
+    4318,
+    1620,
+    1280,
+    430
+  ],
+  "productReviews": [
+    {
+      "productId": 4302,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-10-01T16:04:27.8535367+03:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-04-10T08:08:20.8461792+03:00"
+    },
+    {
+      "productId": 3928,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-07-06T00:54:00.8149199+03:00"
+    },
+    {
+      "productId": 2274,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-09-18T06:54:34.6556272+03:00"
+    },
+    {
+      "productId": 295,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-03-12T12:22:53.2620101+02:00"
+    }
+  ]
+}

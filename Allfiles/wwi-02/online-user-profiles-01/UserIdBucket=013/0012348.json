@@ -1,0 +1,32 @@
+{
+  "userId": 12348,
+  "cartId": "e4edae43-34ef-459b-ada4-1593b6e51f5a",
+  "preferredProducts": [
+    3851,
+    1403,
+    4718,
+    4300,
+    3293,
+    4537,
+    3429,
+    4881,
+    3923
+  ],
+  "productReviews": [
+    {
+      "productId": 3046,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-06-29T10:46:22.9400203+03:00"
+    },
+    {
+      "productId": 3750,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-08-28T08:07:09.1782443+03:00"
+    },
+    {
+      "productId": 4488,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-01-16T07:37:19.1410441+02:00"
+    }
+  ]
+}

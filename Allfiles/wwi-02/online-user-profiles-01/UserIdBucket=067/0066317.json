@@ -1,0 +1,32 @@
+{
+  "userId": 66317,
+  "cartId": "c899ab45-99d1-4efe-84a6-528b6349fc43",
+  "preferredProducts": [
+    3303,
+    1293,
+    1100,
+    1508
+  ],
+  "productReviews": [
+    {
+      "productId": 1761,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-01-21T21:11:25.9891947+02:00"
+    },
+    {
+      "productId": 3453,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-06-28T22:46:54.9497641+03:00"
+    },
+    {
+      "productId": 1819,
+      "reviewText": "this Avenue is awesome.",
+      "reviewDate": "2019-09-22T20:05:26.7019301+03:00"
+    },
+    {
+      "productId": 4067,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-02-21T23:58:07.4198187+02:00"
+    }
+  ]
+}

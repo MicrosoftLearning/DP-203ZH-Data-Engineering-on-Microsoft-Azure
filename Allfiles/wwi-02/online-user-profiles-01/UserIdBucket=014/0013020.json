@@ -1,0 +1,38 @@
+{
+  "userId": 13020,
+  "cartId": "66889afd-6867-46ad-87a2-da67139761af",
+  "preferredProducts": [
+    1769,
+    2987,
+    2135,
+    1478,
+    3723,
+    2250,
+    816,
+    1259,
+    2196,
+    4315
+  ],
+  "productReviews": [
+    {
+      "productId": 467,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-03-23T11:56:16.3085324+02:00"
+    },
+    {
+      "productId": 4702,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-02-09T05:25:21.3491832+02:00"
+    },
+    {
+      "productId": 2421,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-04-08T18:58:09.9919901+03:00"
+    },
+    {
+      "productId": 3762,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-04-04T06:57:16.7965698+03:00"
+    }
+  ]
+}

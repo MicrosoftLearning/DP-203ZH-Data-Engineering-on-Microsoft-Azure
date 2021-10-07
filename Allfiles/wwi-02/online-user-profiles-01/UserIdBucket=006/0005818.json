@@ -1,0 +1,37 @@
+{
+  "userId": 5818,
+  "cartId": "e3301105-4247-44e6-9a21-aadf612c479a",
+  "preferredProducts": [
+    2177,
+    2887,
+    937,
+    1353,
+    4900,
+    1702,
+    4748,
+    758,
+    787
+  ],
+  "productReviews": [
+    {
+      "productId": 2187,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-11-12T07:56:18.3498885+02:00"
+    },
+    {
+      "productId": 3784,
+      "reviewText": "this Light is mellow.",
+      "reviewDate": "2017-08-13T15:09:02.7116779+03:00"
+    },
+    {
+      "productId": 4618,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-09-27T05:04:05.5568232+03:00"
+    },
+    {
+      "productId": 3407,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-10-07T14:52:20.0952649+03:00"
+    }
+  ]
+}

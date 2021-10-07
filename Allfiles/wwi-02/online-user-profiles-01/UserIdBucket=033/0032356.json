@@ -1,0 +1,33 @@
+{
+  "userId": 32356,
+  "cartId": "294bb283-4da4-40a7-915c-adf9009a71fa",
+  "preferredProducts": [
+    4841,
+    2300,
+    3520,
+    4606,
+    223
+  ],
+  "productReviews": [
+    {
+      "productId": 18,
+      "reviewText": "this copying is smooth.",
+      "reviewDate": "2018-01-17T08:37:34.1859305+02:00"
+    },
+    {
+      "productId": 2643,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-10-24T22:11:11.6496463+03:00"
+    },
+    {
+      "productId": 482,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-07-22T01:49:16.5421969+03:00"
+    },
+    {
+      "productId": 4558,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-08-06T20:02:57.3297742+03:00"
+    }
+  ]
+}

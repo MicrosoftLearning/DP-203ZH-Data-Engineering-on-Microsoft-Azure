@@ -1,0 +1,26 @@
+{
+  "userId": 12591,
+  "cartId": "3abddd4e-12b0-407f-9d2e-6f5d35b1fb57",
+  "preferredProducts": [
+    4611,
+    4561,
+    749
+  ],
+  "productReviews": [
+    {
+      "productId": 374,
+      "reviewText": "This capacity, does exactly what it's suppose to do.",
+      "reviewDate": "2018-01-01T18:15:48.7574991+02:00"
+    },
+    {
+      "productId": 233,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-11-19T15:37:23.2224591+02:00"
+    },
+    {
+      "productId": 1191,
+      "reviewText": "this Antarctica (the territory South of 60 deg S) is brown.",
+      "reviewDate": "2017-07-24T22:28:25.4660936+03:00"
+    }
+  ]
+}

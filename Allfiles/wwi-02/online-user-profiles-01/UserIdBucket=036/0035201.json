@@ -1,0 +1,34 @@
+{
+  "userId": 35201,
+  "cartId": "db5f4537-5497-4cc1-8c93-fc622b9948cc",
+  "preferredProducts": [
+    1826,
+    3526,
+    1009,
+    1249,
+    4679,
+    2680
+  ],
+  "productReviews": [
+    {
+      "productId": 2157,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-06-24T17:56:59.0585392+03:00"
+    },
+    {
+      "productId": 4596,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-03-18T13:20:51.5258445+02:00"
+    },
+    {
+      "productId": 4207,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-11-14T06:32:54.6678137+02:00"
+    },
+    {
+      "productId": 2956,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-03-16T23:06:23.557679+02:00"
+    }
+  ]
+}

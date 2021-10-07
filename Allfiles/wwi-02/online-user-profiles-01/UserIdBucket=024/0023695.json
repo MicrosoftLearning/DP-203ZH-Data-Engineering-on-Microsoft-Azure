@@ -1,0 +1,32 @@
+{
+  "userId": 23695,
+  "cartId": "87dbdaa7-163e-408c-a9f2-8b23caee441d",
+  "preferredProducts": [
+    2539,
+    17,
+    1221,
+    3721
+  ],
+  "productReviews": [
+    {
+      "productId": 4716,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-11-09T08:08:26.2172095+02:00"
+    },
+    {
+      "productId": 4329,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-01-04T05:15:26.0041138+02:00"
+    },
+    {
+      "productId": 2993,
+      "reviewText": "This Gold works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-06-19T09:37:57.2807089+03:00"
+    },
+    {
+      "productId": 2712,
+      "reviewText": "this Handmade is smooth.",
+      "reviewDate": "2017-02-06T00:52:09.5662378+02:00"
+    }
+  ]
+}

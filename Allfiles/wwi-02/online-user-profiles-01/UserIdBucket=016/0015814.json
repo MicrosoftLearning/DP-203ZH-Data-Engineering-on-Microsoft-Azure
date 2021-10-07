@@ -1,0 +1,25 @@
+{
+  "userId": 15814,
+  "cartId": "dd681f36-4917-4555-afd4-492468e02738",
+  "preferredProducts": [
+    2462,
+    692
+  ],
+  "productReviews": [
+    {
+      "productId": 2725,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-04-14T20:48:17.0772793+03:00"
+    },
+    {
+      "productId": 3520,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-11-25T18:17:45.2463736+02:00"
+    },
+    {
+      "productId": 277,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-11-03T21:15:58.8634169+02:00"
+    }
+  ]
+}

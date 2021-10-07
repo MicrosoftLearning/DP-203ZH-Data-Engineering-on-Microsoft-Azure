@@ -1,0 +1,30 @@
+{
+  "userId": 27500,
+  "cartId": "1a9d7a38-321d-407e-ad06-d2b512d18187",
+  "preferredProducts": [
+    1563,
+    115,
+    2670,
+    4136,
+    2327,
+    3190,
+    1425
+  ],
+  "productReviews": [
+    {
+      "productId": 1058,
+      "reviewText": "this Sleek Frozen Car is brown.",
+      "reviewDate": "2019-04-26T20:09:05.3398332+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "this Practical Wooden Ball is smooth.",
+      "reviewDate": "2017-07-13T20:23:43.5401887+03:00"
+    },
+    {
+      "productId": 813,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-11-20T10:29:24.5388227+02:00"
+    }
+  ]
+}

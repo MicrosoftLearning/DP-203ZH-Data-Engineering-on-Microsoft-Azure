@@ -1,0 +1,25 @@
+{
+  "userId": 33458,
+  "cartId": "b141c06e-7899-42f2-acf5-0c962b979ba2",
+  "preferredProducts": [
+    1874,
+    3909,
+    4487,
+    931,
+    353,
+    14,
+    786
+  ],
+  "productReviews": [
+    {
+      "productId": 2690,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-08-25T17:39:33.8228836+03:00"
+    },
+    {
+      "productId": 1581,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-09-30T18:21:48.5521803+03:00"
+    }
+  ]
+}

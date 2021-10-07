@@ -1,0 +1,33 @@
+{
+  "userId": 23588,
+  "cartId": "df911999-4965-4990-94f7-2da5577029cc",
+  "preferredProducts": [
+    355,
+    4372,
+    1300,
+    1704,
+    3928
+  ],
+  "productReviews": [
+    {
+      "productId": 4342,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-12-20T04:12:27.5289722+02:00"
+    },
+    {
+      "productId": 2922,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-08-12T03:54:54.3358697+03:00"
+    },
+    {
+      "productId": 2099,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-02-28T13:40:04.9709966+02:00"
+    },
+    {
+      "productId": 113,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-08-05T02:33:56.4366557+03:00"
+    }
+  ]
+}

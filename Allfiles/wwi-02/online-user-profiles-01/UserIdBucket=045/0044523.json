@@ -1,0 +1,30 @@
+{
+  "userId": 44523,
+  "cartId": "9ba01d94-d45c-48f3-9d18-189e0a7ec25e",
+  "preferredProducts": [
+    1838,
+    4967,
+    1631,
+    128,
+    2092,
+    2791,
+    3858
+  ],
+  "productReviews": [
+    {
+      "productId": 700,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-10-08T12:57:00.241348+03:00"
+    },
+    {
+      "productId": 903,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-10-05T06:55:56.8652306+03:00"
+    },
+    {
+      "productId": 4279,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2020-02-07T15:29:40.7522535+02:00"
+    }
+  ]
+}

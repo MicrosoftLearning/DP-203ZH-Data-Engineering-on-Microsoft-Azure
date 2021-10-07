@@ -1,0 +1,37 @@
+{
+  "userId": 44953,
+  "cartId": "bbc3e5d1-7be8-45d1-8536-f72f93a86fd1",
+  "preferredProducts": [
+    3046,
+    1963,
+    4749,
+    247,
+    4157,
+    3524,
+    180,
+    1612,
+    3954
+  ],
+  "productReviews": [
+    {
+      "productId": 170,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-05-08T12:43:59.1638628+03:00"
+    },
+    {
+      "productId": 1602,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-02-09T03:23:46.7164794+02:00"
+    },
+    {
+      "productId": 2929,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-07-10T11:41:59.6675323+03:00"
+    },
+    {
+      "productId": 18,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-12-13T05:05:38.50563+02:00"
+    }
+  ]
+}

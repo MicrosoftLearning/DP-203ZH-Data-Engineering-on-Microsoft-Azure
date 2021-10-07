@@ -1,0 +1,30 @@
+{
+  "userId": 55870,
+  "cartId": "72bc96a9-e23d-46ea-9653-47f9a94d2879",
+  "preferredProducts": [
+    2054,
+    3151,
+    4616,
+    4523,
+    1042,
+    1326,
+    2756
+  ],
+  "productReviews": [
+    {
+      "productId": 1400,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-04-06T04:07:15.368539+03:00"
+    },
+    {
+      "productId": 217,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-10-11T04:27:36.6791294+03:00"
+    },
+    {
+      "productId": 4556,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-06-03T20:15:24.8791337+03:00"
+    }
+  ]
+}

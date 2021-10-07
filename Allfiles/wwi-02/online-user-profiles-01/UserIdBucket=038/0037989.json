@@ -1,0 +1,30 @@
+{
+  "userId": 37989,
+  "cartId": "22093ef8-dca0-4463-8db1-5c37e9c2acfc",
+  "preferredProducts": [
+    3470,
+    559,
+    608,
+    4943,
+    1327,
+    2241,
+    3414
+  ],
+  "productReviews": [
+    {
+      "productId": 960,
+      "reviewText": "This program works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2020-05-07T23:22:10.2092246+03:00"
+    },
+    {
+      "productId": 4840,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-12-27T10:26:35.7264318+02:00"
+    },
+    {
+      "productId": 859,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-01-18T08:04:52.996539+02:00"
+    }
+  ]
+}

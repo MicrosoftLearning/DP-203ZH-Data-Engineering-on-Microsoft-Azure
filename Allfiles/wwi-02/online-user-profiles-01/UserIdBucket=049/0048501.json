@@ -1,0 +1,35 @@
+{
+  "userId": 48501,
+  "cartId": "60d46d60-5970-45a1-b9b4-74876147ba35",
+  "preferredProducts": [
+    4326,
+    2515,
+    450,
+    922,
+    1336,
+    2995,
+    2103
+  ],
+  "productReviews": [
+    {
+      "productId": 3096,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-05-06T10:49:54.4743917+03:00"
+    },
+    {
+      "productId": 2719,
+      "reviewText": "this Grocery is nifty.",
+      "reviewDate": "2020-03-27T19:16:04.5684635+02:00"
+    },
+    {
+      "productId": 1553,
+      "reviewText": "this Sports & Grocery is flirty.",
+      "reviewDate": "2019-04-04T17:46:53.2698293+03:00"
+    },
+    {
+      "productId": 737,
+      "reviewText": "this Metal is perplexed.",
+      "reviewDate": "2017-11-28T07:22:51.4066408+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 52552,
+  "cartId": "b9170310-8b3d-425e-919d-19696c151caa",
+  "preferredProducts": [
+    1096,
+    828,
+    3895,
+    2182
+  ],
+  "productReviews": [
+    {
+      "productId": 4338,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-01-21T10:59:29.5951412+02:00"
+    },
+    {
+      "productId": 2712,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-08-15T08:47:09.7245562+03:00"
+    },
+    {
+      "productId": 2412,
+      "reviewText": "This Union works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2019-04-20T10:05:35.4542985+03:00"
+    }
+  ]
+}

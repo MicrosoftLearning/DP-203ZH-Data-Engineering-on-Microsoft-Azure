@@ -1,0 +1,36 @@
+{
+  "userId": 28,
+  "cartId": "a1864344-903b-44fd-a84d-0dbd8e3bb50c",
+  "preferredProducts": [
+    167,
+    2231,
+    566,
+    2349,
+    4367,
+    1596,
+    3581,
+    3543
+  ],
+  "productReviews": [
+    {
+      "productId": 464,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-07-16T17:52:58.0934284+03:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-07-13T23:34:45.8297329+03:00"
+    },
+    {
+      "productId": 3459,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-06-27T04:45:32.0175978+03:00"
+    },
+    {
+      "productId": 2937,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-10-06T19:53:25.6337587+03:00"
+    }
+  ]
+}

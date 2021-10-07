@@ -1,0 +1,35 @@
+{
+  "userId": 38306,
+  "cartId": "6962cb83-cfeb-46b8-9a9b-dabe64d27ac0",
+  "preferredProducts": [
+    276,
+    3684
+  ],
+  "productReviews": [
+    {
+      "productId": 4995,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-02-13T15:08:53.2754001+02:00"
+    },
+    {
+      "productId": 1388,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-11-23T07:00:51.9354076+02:00"
+    },
+    {
+      "productId": 4592,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-05-14T17:02:50.1027091+03:00"
+    },
+    {
+      "productId": 2231,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-05-04T07:00:27.9109246+03:00"
+    },
+    {
+      "productId": 1452,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-11-24T03:19:05.4645611+02:00"
+    }
+  ]
+}

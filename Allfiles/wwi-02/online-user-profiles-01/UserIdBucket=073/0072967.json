@@ -1,0 +1,36 @@
+{
+  "userId": 72967,
+  "cartId": "456c22f5-55c7-48a4-909d-b1879fbb01b0",
+  "preferredProducts": [
+    3736,
+    2126,
+    2633,
+    342,
+    3344,
+    241,
+    483,
+    2670
+  ],
+  "productReviews": [
+    {
+      "productId": 2981,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-06-05T19:17:15.5984511+03:00"
+    },
+    {
+      "productId": 3951,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-11-10T10:49:44.6817406+02:00"
+    },
+    {
+      "productId": 3684,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2016-10-07T20:36:53.796933+03:00"
+    },
+    {
+      "productId": 4315,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-02-09T18:33:11.5131517+02:00"
+    }
+  ]
+}

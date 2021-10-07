@@ -1,0 +1,26 @@
+{
+  "userId": 42422,
+  "cartId": "1079839f-5c30-4c7a-934f-94dce202913b",
+  "preferredProducts": [
+    4286,
+    672,
+    3713
+  ],
+  "productReviews": [
+    {
+      "productId": 2253,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-08-26T05:38:52.0692392+03:00"
+    },
+    {
+      "productId": 259,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-03-12T14:00:18.3506136+02:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2017-09-23T10:17:21.3070149+03:00"
+    }
+  ]
+}

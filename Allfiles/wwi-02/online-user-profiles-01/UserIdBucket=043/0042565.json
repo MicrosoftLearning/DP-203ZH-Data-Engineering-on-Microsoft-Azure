@@ -1,0 +1,26 @@
+{
+  "userId": 42565,
+  "cartId": "f29e3af2-6bee-42c7-ae31-24c00a44b112",
+  "preferredProducts": [
+    4899,
+    4472,
+    1597
+  ],
+  "productReviews": [
+    {
+      "productId": 94,
+      "reviewText": "This Bedfordshire works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2017-08-02T01:40:40.1331215+03:00"
+    },
+    {
+      "productId": 497,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-10-01T00:30:26.9587239+03:00"
+    },
+    {
+      "productId": 2034,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-03-28T13:23:05.3357111+02:00"
+    }
+  ]
+}

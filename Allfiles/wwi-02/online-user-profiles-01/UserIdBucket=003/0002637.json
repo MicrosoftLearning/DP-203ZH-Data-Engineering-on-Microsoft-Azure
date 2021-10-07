@@ -1,0 +1,27 @@
+{
+  "userId": 2637,
+  "cartId": "fc45dd8f-1771-466f-8a12-bba89e2ac704",
+  "preferredProducts": [
+    2667,
+    3111,
+    4112,
+    3474,
+    4881,
+    3809,
+    3592,
+    2113,
+    705
+  ],
+  "productReviews": [
+    {
+      "productId": 1303,
+      "reviewText": "this Spring is complimentary.",
+      "reviewDate": "2016-10-09T20:10:08.9761256+03:00"
+    },
+    {
+      "productId": 2051,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-07-20T07:05:16.6358046+03:00"
+    }
+  ]
+}

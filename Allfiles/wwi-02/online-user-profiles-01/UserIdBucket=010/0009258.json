@@ -1,0 +1,29 @@
+{
+  "userId": 9258,
+  "cartId": "eb9a3ce7-71fa-4039-b7ec-3d146763af2d",
+  "preferredProducts": [
+    2366,
+    1311,
+    1707,
+    3137,
+    2222,
+    4411
+  ],
+  "productReviews": [
+    {
+      "productId": 142,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-11-24T02:56:30.5280794+02:00"
+    },
+    {
+      "productId": 3097,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2019-01-19T16:31:25.0191819+02:00"
+    },
+    {
+      "productId": 2986,
+      "reviewText": "This is a really good deposit.",
+      "reviewDate": "2019-02-08T06:33:54.407132+02:00"
+    }
+  ]
+}

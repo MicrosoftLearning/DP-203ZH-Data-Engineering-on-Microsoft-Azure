@@ -1,0 +1,31 @@
+{
+  "userId": 4391,
+  "cartId": "7e04c1a0-5b4f-4f3f-b388-f7ed62077ce8",
+  "preferredProducts": [
+    2042,
+    4674,
+    2060,
+    2432,
+    1636,
+    1987,
+    1888,
+    3894
+  ],
+  "productReviews": [
+    {
+      "productId": 4252,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-02-18T11:47:51.4424923+02:00"
+    },
+    {
+      "productId": 4748,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-08-02T21:25:36.5662983+03:00"
+    },
+    {
+      "productId": 1067,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-03-06T06:55:22.5023155+02:00"
+    }
+  ]
+}

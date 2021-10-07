@@ -1,0 +1,37 @@
+{
+  "userId": 520,
+  "cartId": "eb5c2af0-e26e-4265-ae9c-76c7de3a1c1a",
+  "preferredProducts": [
+    1716,
+    958,
+    1732,
+    2198,
+    2614,
+    867,
+    2185,
+    2789,
+    4798
+  ],
+  "productReviews": [
+    {
+      "productId": 1747,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-12-22T08:45:00.9807614+02:00"
+    },
+    {
+      "productId": 1368,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-07-17T23:37:07.6582002+03:00"
+    },
+    {
+      "productId": 3516,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-06-17T00:58:58.5745979+03:00"
+    },
+    {
+      "productId": 4776,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-05-31T09:08:09.7097598+03:00"
+    }
+  ]
+}

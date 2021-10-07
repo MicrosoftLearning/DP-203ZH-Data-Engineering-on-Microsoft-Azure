@@ -1,0 +1,31 @@
+{
+  "userId": 65477,
+  "cartId": "59458767-d960-4316-95d5-9a322c70b9ac",
+  "preferredProducts": [
+    631,
+    1790,
+    3853,
+    1399,
+    801,
+    2234,
+    2027,
+    4909
+  ],
+  "productReviews": [
+    {
+      "productId": 852,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-11-16T19:39:46.5043449+02:00"
+    },
+    {
+      "productId": 1005,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-11-27T14:44:21.8030622+02:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-09-15T03:39:23.3095009+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 80570,
+  "cartId": "a41e669a-8e1a-44ee-91ae-db0cf9c80a1c",
+  "preferredProducts": [
+    2578,
+    2220,
+    4209,
+    2608,
+    217,
+    1156,
+    1703,
+    1917
+  ],
+  "productReviews": [
+    {
+      "productId": 1504,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-12-08T23:24:42.5065763+02:00"
+    },
+    {
+      "productId": 4571,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-05-29T07:27:31.160863+03:00"
+    },
+    {
+      "productId": 2425,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-03-11T12:17:10.6509161+02:00"
+    }
+  ]
+}

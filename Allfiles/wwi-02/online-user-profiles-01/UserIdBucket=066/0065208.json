@@ -1,0 +1,28 @@
+{
+  "userId": 65208,
+  "cartId": "08af03ad-3664-4462-9e53-b2cc0eb20adb",
+  "preferredProducts": [
+    1839,
+    4758,
+    1436,
+    1402,
+    3034,
+    4718,
+    4104,
+    4703,
+    2560,
+    155
+  ],
+  "productReviews": [
+    {
+      "productId": 1142,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-12-05T00:53:01.5547919+02:00"
+    },
+    {
+      "productId": 3779,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-01-20T10:20:04.0132868+02:00"
+    }
+  ]
+}

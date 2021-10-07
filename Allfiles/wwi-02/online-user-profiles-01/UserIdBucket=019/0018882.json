@@ -1,0 +1,36 @@
+{
+  "userId": 18882,
+  "cartId": "9b47f980-e626-4290-9d60-cbae57e3fbec",
+  "preferredProducts": [
+    4886,
+    4746,
+    2584,
+    2974,
+    1229,
+    1420,
+    494,
+    1466
+  ],
+  "productReviews": [
+    {
+      "productId": 4163,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-05-23T07:22:59.2364037+03:00"
+    },
+    {
+      "productId": 3683,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-05-05T02:00:33.4886057+03:00"
+    },
+    {
+      "productId": 1229,
+      "reviewText": "This SDD works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-05-31T08:16:50.0994984+03:00"
+    },
+    {
+      "productId": 4646,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-05-14T11:39:51.6959963+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 42123,
+  "cartId": "9df050e2-1b68-4a38-8d03-3dcf28782ae5",
+  "preferredProducts": [
+    3338,
+    2546,
+    3074,
+    4919,
+    183
+  ],
+  "productReviews": [
+    {
+      "productId": 560,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-04-03T17:40:37.3469789+03:00"
+    },
+    {
+      "productId": 2787,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2020-03-20T08:44:11.8047988+02:00"
+    },
+    {
+      "productId": 4713,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-06-13T03:34:26.5875991+03:00"
+    },
+    {
+      "productId": 860,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-01-16T14:51:13.7235948+02:00"
+    },
+    {
+      "productId": 2090,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-08-03T23:37:06.1008124+03:00"
+    }
+  ]
+}

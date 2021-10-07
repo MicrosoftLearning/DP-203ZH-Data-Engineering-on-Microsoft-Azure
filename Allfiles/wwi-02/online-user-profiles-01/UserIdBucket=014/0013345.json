@@ -1,0 +1,36 @@
+{
+  "userId": 13345,
+  "cartId": "f0ead2b4-a41a-4fc6-8669-dce08dace65a",
+  "preferredProducts": [
+    4897,
+    4650,
+    4572,
+    2032,
+    97,
+    1290,
+    2977,
+    2381
+  ],
+  "productReviews": [
+    {
+      "productId": 3102,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2017-04-24T17:28:47.3679964+03:00"
+    },
+    {
+      "productId": 4643,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-09-05T23:16:15.3604265+03:00"
+    },
+    {
+      "productId": 3514,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-02-11T17:08:25.6132187+02:00"
+    },
+    {
+      "productId": 3235,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-06-24T01:23:26.4246968+03:00"
+    }
+  ]
+}

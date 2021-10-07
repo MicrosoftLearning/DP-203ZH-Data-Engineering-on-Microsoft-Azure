@@ -1,0 +1,30 @@
+{
+  "userId": 18194,
+  "cartId": "e364e782-bd2f-42e2-8505-c2163c7a5948",
+  "preferredProducts": [
+    991,
+    3949,
+    1607,
+    3815,
+    1942,
+    4028,
+    2572
+  ],
+  "productReviews": [
+    {
+      "productId": 399,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-03-26T22:49:43.4184172+02:00"
+    },
+    {
+      "productId": 2510,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-11-30T20:29:09.6568043+02:00"
+    },
+    {
+      "productId": 146,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-06-13T04:37:34.9029783+03:00"
+    }
+  ]
+}

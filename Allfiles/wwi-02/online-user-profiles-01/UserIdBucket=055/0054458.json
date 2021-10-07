@@ -1,0 +1,36 @@
+{
+  "userId": 54458,
+  "cartId": "e739b244-3bcb-4a09-ba50-f1948fcd6faf",
+  "preferredProducts": [
+    2740,
+    3366,
+    461,
+    4919,
+    1198,
+    989,
+    1843,
+    1146
+  ],
+  "productReviews": [
+    {
+      "productId": 3001,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-05-05T01:59:43.4303339+03:00"
+    },
+    {
+      "productId": 762,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-03-25T12:32:08.7043304+02:00"
+    },
+    {
+      "productId": 2704,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2020-01-02T05:19:49.4798596+02:00"
+    },
+    {
+      "productId": 4727,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-06-04T20:08:52.2187163+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 24702,
+  "cartId": "37237e09-d46e-4396-9081-d4c47951ef1c",
+  "preferredProducts": [
+    3388,
+    1090,
+    1057,
+    3465,
+    3734,
+    263,
+    2541
+  ],
+  "productReviews": [
+    {
+      "productId": 245,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-05-18T04:30:49.9318328+03:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-03-08T17:18:32.32684+02:00"
+    },
+    {
+      "productId": 2085,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-08-30T22:02:16.4205104+03:00"
+    },
+    {
+      "productId": 246,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2020-01-15T02:14:46.3178291+02:00"
+    }
+  ]
+}

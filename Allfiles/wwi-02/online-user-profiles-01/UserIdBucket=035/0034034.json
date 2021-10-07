@@ -1,0 +1,37 @@
+{
+  "userId": 34034,
+  "cartId": "d48e66c7-ffd2-44a4-9f4e-cda4179b6274",
+  "preferredProducts": [
+    4662,
+    3466,
+    1595,
+    2138,
+    192,
+    4273,
+    2411,
+    4927,
+    1107
+  ],
+  "productReviews": [
+    {
+      "productId": 1545,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-06-24T06:32:16.473792+03:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-09-11T17:58:09.4813864+03:00"
+    },
+    {
+      "productId": 3659,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-10-25T14:22:30.7469769+03:00"
+    },
+    {
+      "productId": 2017,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-02-15T00:30:18.011481+02:00"
+    }
+  ]
+}

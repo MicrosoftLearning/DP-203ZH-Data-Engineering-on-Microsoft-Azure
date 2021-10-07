@@ -1,0 +1,29 @@
+{
+  "userId": 42222,
+  "cartId": "1eb00e7c-b936-4513-8097-5360881b0702",
+  "preferredProducts": [
+    1015,
+    3439,
+    2222,
+    2587,
+    4883,
+    555
+  ],
+  "productReviews": [
+    {
+      "productId": 558,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-11-10T14:51:04.8764054+02:00"
+    },
+    {
+      "productId": 115,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-11-16T02:01:24.0680618+02:00"
+    },
+    {
+      "productId": 1622,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-05-13T20:56:41.8516383+03:00"
+    }
+  ]
+}

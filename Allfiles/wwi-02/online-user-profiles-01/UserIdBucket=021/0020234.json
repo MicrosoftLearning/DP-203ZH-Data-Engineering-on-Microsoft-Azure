@@ -1,0 +1,32 @@
+{
+  "userId": 20234,
+  "cartId": "c35b2489-af6e-4238-830e-b4af2800cc47",
+  "preferredProducts": [
+    2006,
+    2412,
+    1407,
+    3581,
+    4012,
+    3633,
+    2395,
+    468,
+    2044
+  ],
+  "productReviews": [
+    {
+      "productId": 1066,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-11-06T21:27:10.7832419+02:00"
+    },
+    {
+      "productId": 4674,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-04-13T04:27:00.7209449+03:00"
+    },
+    {
+      "productId": 3945,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-11-12T20:22:26.2260507+02:00"
+    }
+  ]
+}

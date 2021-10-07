@@ -1,0 +1,36 @@
+{
+  "userId": 15993,
+  "cartId": "f1e98c3d-b167-42c9-a781-60aed7ee21cf",
+  "preferredProducts": [
+    3018,
+    4280,
+    3174
+  ],
+  "productReviews": [
+    {
+      "productId": 507,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-12-13T02:06:00.7130651+02:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-10-19T00:11:54.942918+03:00"
+    },
+    {
+      "productId": 1272,
+      "reviewText": "this Architect is amiable.",
+      "reviewDate": "2018-11-19T09:24:40.5189889+02:00"
+    },
+    {
+      "productId": 546,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-05-29T21:49:54.1070221+03:00"
+    },
+    {
+      "productId": 2009,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-09-30T00:20:03.0662921+03:00"
+    }
+  ]
+}

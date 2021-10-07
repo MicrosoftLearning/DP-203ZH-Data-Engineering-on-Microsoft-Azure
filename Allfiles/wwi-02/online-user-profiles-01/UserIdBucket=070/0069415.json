@@ -1,0 +1,27 @@
+{
+  "userId": 69415,
+  "cartId": "d5aa5647-d0ef-4487-a51a-76f8bede8785",
+  "preferredProducts": [
+    3174,
+    3345,
+    1717,
+    4679
+  ],
+  "productReviews": [
+    {
+      "productId": 236,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-05-09T00:00:22.8014276+03:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-02-27T17:32:14.4537617+02:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-05-13T15:28:44.9072694+03:00"
+    }
+  ]
+}

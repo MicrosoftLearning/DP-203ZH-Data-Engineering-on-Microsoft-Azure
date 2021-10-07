@@ -1,0 +1,29 @@
+{
+  "userId": 19390,
+  "cartId": "34bce84e-ba97-4bac-9599-8a405bfd49e6",
+  "preferredProducts": [
+    4410,
+    3869,
+    3804,
+    3599,
+    3310,
+    4175
+  ],
+  "productReviews": [
+    {
+      "productId": 4223,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-12-11T07:03:23.0565261+02:00"
+    },
+    {
+      "productId": 975,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-06-27T14:43:00.7577809+03:00"
+    },
+    {
+      "productId": 3231,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-04-01T20:05:03.3554608+03:00"
+    }
+  ]
+}

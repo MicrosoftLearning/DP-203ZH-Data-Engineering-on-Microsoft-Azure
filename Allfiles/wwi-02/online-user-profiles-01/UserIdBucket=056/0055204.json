@@ -1,0 +1,34 @@
+{
+  "userId": 55204,
+  "cartId": "e9bbb1cd-abcc-437e-93e7-aaa744482f75",
+  "preferredProducts": [
+    2797,
+    2739,
+    308,
+    1949,
+    4061,
+    4439
+  ],
+  "productReviews": [
+    {
+      "productId": 2642,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-11-05T02:12:22.0580578+02:00"
+    },
+    {
+      "productId": 1738,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-07-14T20:39:26.5857205+03:00"
+    },
+    {
+      "productId": 2759,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-03-16T01:18:17.6994082+02:00"
+    },
+    {
+      "productId": 1258,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Intranet keeps them away.",
+      "reviewDate": "2018-06-26T06:01:01.9759394+03:00"
+    }
+  ]
+}

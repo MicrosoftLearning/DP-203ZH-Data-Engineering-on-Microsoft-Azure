@@ -1,0 +1,35 @@
+{
+  "userId": 40530,
+  "cartId": "9538eef8-aaad-46e5-9dbb-afd662bb71b7",
+  "preferredProducts": [
+    3540,
+    2994,
+    400,
+    3791,
+    4410,
+    704,
+    3104
+  ],
+  "productReviews": [
+    {
+      "productId": 60,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-03-24T03:08:55.5185683+02:00"
+    },
+    {
+      "productId": 4256,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-05-08T10:20:09.7176326+03:00"
+    },
+    {
+      "productId": 4916,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-05-14T16:26:39.2683824+03:00"
+    },
+    {
+      "productId": 3082,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-11-13T23:56:23.7932461+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 66156,
+  "cartId": "c0006441-b47f-480e-b783-ed7b8c4313b9",
+  "preferredProducts": [
+    3693,
+    3104,
+    3999,
+    3120,
+    2573,
+    464,
+    1622,
+    3092,
+    678,
+    2098
+  ],
+  "productReviews": [
+    {
+      "productId": 688,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-28T21:20:55.7236605+02:00"
+    },
+    {
+      "productId": 2451,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-11T02:51:22.3706439+03:00"
+    },
+    {
+      "productId": 2272,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-12-11T15:22:59.6644211+02:00"
+    }
+  ]
+}

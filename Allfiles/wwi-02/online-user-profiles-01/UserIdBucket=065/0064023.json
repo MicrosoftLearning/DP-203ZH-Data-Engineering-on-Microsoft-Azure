@@ -1,0 +1,32 @@
+{
+  "userId": 64023,
+  "cartId": "4b1554f8-0075-49ef-9471-9d6f42c306b1",
+  "preferredProducts": [
+    3646,
+    42,
+    3069,
+    460
+  ],
+  "productReviews": [
+    {
+      "productId": 1055,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-12-02T19:44:51.9808317+02:00"
+    },
+    {
+      "productId": 852,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-12-27T15:53:45.0722736+02:00"
+    },
+    {
+      "productId": 3911,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-12-13T01:22:50.5952328+02:00"
+    },
+    {
+      "productId": 528,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-01-15T03:43:59.7602476+02:00"
+    }
+  ]
+}

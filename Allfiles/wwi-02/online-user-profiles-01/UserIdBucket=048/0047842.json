@@ -1,0 +1,33 @@
+{
+  "userId": 47842,
+  "cartId": "2c073a60-4626-4ea0-baa7-424e21145db2",
+  "preferredProducts": [
+    690,
+    4221,
+    749,
+    2416,
+    887,
+    2200,
+    2082,
+    3231,
+    1682,
+    1299
+  ],
+  "productReviews": [
+    {
+      "productId": 4058,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-01-15T04:44:28.3306121+02:00"
+    },
+    {
+      "productId": 4908,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-03-07T04:47:15.5481411+02:00"
+    },
+    {
+      "productId": 83,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-12-21T19:55:18.7875551+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 29302,
+  "cartId": "50390cc5-ffb1-461e-8c69-76a7d04e7850",
+  "preferredProducts": [
+    886,
+    2017,
+    3156,
+    869,
+    2516,
+    4688,
+    2997
+  ],
+  "productReviews": [
+    {
+      "productId": 4817,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-10-01T00:04:08.8990951+03:00"
+    },
+    {
+      "productId": 2713,
+      "reviewText": "This Metal works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-05-27T21:48:31.2975397+03:00"
+    },
+    {
+      "productId": 4280,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-07-09T06:51:19.4315147+03:00"
+    }
+  ]
+}

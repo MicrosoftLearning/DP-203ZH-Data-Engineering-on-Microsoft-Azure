@@ -1,0 +1,29 @@
+{
+  "userId": 2217,
+  "cartId": "4652f25b-1ee8-4ca1-b777-bc0d9d60531f",
+  "preferredProducts": [
+    1988,
+    2836,
+    2056,
+    955,
+    658,
+    785
+  ],
+  "productReviews": [
+    {
+      "productId": 1441,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-11T01:01:19.9593067+03:00"
+    },
+    {
+      "productId": 2385,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-09-01T05:59:34.9216942+03:00"
+    },
+    {
+      "productId": 4769,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-09-02T05:12:43.0072771+03:00"
+    }
+  ]
+}

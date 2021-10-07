@@ -1,0 +1,24 @@
+{
+  "userId": 49956,
+  "cartId": "60c38576-86cb-494b-888d-30a7425a8936",
+  "preferredProducts": [
+    3419
+  ],
+  "productReviews": [
+    {
+      "productId": 3115,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-20T03:34:48.9613142+03:00"
+    },
+    {
+      "productId": 4457,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-10-27T07:55:43.8714274+03:00"
+    },
+    {
+      "productId": 2597,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-11-30T08:27:16.8117175+02:00"
+    }
+  ]
+}

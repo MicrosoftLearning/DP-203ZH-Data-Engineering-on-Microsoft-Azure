@@ -1,0 +1,37 @@
+{
+  "userId": 43020,
+  "cartId": "edbfb151-929e-489a-87a4-1f5b6dc7f249",
+  "preferredProducts": [
+    898,
+    4276,
+    518,
+    2982,
+    1374,
+    1355,
+    4311,
+    4318,
+    980
+  ],
+  "productReviews": [
+    {
+      "productId": 1060,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-02-07T09:17:09.5207651+02:00"
+    },
+    {
+      "productId": 3309,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-05-15T07:01:20.1644959+03:00"
+    },
+    {
+      "productId": 2177,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-04-22T02:08:47.4533415+03:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "This Orchestrator works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-07-26T08:33:50.4322485+03:00"
+    }
+  ]
+}

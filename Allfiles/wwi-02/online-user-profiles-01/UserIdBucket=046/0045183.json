@@ -1,0 +1,32 @@
+{
+  "userId": 45183,
+  "cartId": "2d7e4fef-5ac6-4553-b3e3-aefa244d7d97",
+  "preferredProducts": [
+    1399,
+    2157,
+    3747,
+    2099,
+    3296,
+    4251,
+    1250,
+    2858,
+    4612
+  ],
+  "productReviews": [
+    {
+      "productId": 4244,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2020-03-02T16:02:48.2442933+02:00"
+    },
+    {
+      "productId": 1448,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-10-09T14:33:25.8670593+03:00"
+    },
+    {
+      "productId": 4845,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-08-19T05:51:00.997163+03:00"
+    }
+  ]
+}

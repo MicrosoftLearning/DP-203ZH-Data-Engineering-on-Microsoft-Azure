@@ -1,0 +1,32 @@
+{
+  "userId": 15818,
+  "cartId": "9365c9f1-8784-4e51-b6ea-ec090a306f82",
+  "preferredProducts": [
+    1750,
+    1615,
+    875,
+    1233
+  ],
+  "productReviews": [
+    {
+      "productId": 3225,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-03-12T03:39:16.5729098+02:00"
+    },
+    {
+      "productId": 2570,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-10-26T02:59:04.5778332+03:00"
+    },
+    {
+      "productId": 670,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-03-21T00:52:58.5622244+02:00"
+    },
+    {
+      "productId": 4120,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-06-28T20:32:05.215428+03:00"
+    }
+  ]
+}

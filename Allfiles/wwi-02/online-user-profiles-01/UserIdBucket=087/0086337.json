@@ -1,0 +1,31 @@
+{
+  "userId": 86337,
+  "cartId": "0dcac1f0-83db-4481-843b-8629486ce812",
+  "preferredProducts": [
+    1725,
+    1745,
+    3594,
+    894,
+    179,
+    3820,
+    4481,
+    2709
+  ],
+  "productReviews": [
+    {
+      "productId": 2479,
+      "reviewText": "this array is complimentary.",
+      "reviewDate": "2016-07-26T22:11:32.0538124+03:00"
+    },
+    {
+      "productId": 4327,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-07-07T15:36:10.4472952+03:00"
+    },
+    {
+      "productId": 3012,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-09-29T20:47:13.5625335+03:00"
+    }
+  ]
+}

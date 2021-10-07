@@ -1,0 +1,42 @@
+{
+  "userId": 5200,
+  "cartId": "aadb9580-363e-43af-b1a6-c9172501dbb3",
+  "preferredProducts": [
+    2885,
+    3202,
+    2678,
+    4680,
+    4554,
+    4893,
+    4928,
+    1889,
+    1857
+  ],
+  "productReviews": [
+    {
+      "productId": 1786,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-12-27T17:01:59.9371001+02:00"
+    },
+    {
+      "productId": 3533,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-12-17T01:19:05.6638726+02:00"
+    },
+    {
+      "productId": 1717,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-05-16T00:00:27.4421516+03:00"
+    },
+    {
+      "productId": 3890,
+      "reviewText": "this Handcrafted Steel Car is whole-grain.",
+      "reviewDate": "2018-11-03T02:02:22.1636978+02:00"
+    },
+    {
+      "productId": 822,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-08-03T13:00:40.1996138+03:00"
+    }
+  ]
+}

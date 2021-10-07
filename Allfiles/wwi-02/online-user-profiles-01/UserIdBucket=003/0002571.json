@@ -1,0 +1,42 @@
+{
+  "userId": 2571,
+  "cartId": "c59636aa-578f-4e1a-8ef7-42cb0a76f6b1",
+  "preferredProducts": [
+    4391,
+    2692,
+    646,
+    2330,
+    2009,
+    14,
+    3281,
+    3918,
+    3658
+  ],
+  "productReviews": [
+    {
+      "productId": 824,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-03-14T11:57:49.9323239+02:00"
+    },
+    {
+      "productId": 3692,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2017-11-11T23:40:42.6614398+02:00"
+    },
+    {
+      "productId": 2798,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-07-01T16:38:37.6438155+03:00"
+    },
+    {
+      "productId": 3288,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-20T22:20:24.9331578+03:00"
+    },
+    {
+      "productId": 978,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-12-18T21:14:22.096838+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 50030,
+  "cartId": "941cff10-909c-4ed5-ad82-c4af18c7cdff",
+  "preferredProducts": [
+    558,
+    3592,
+    4605,
+    2284,
+    769,
+    365,
+    1696,
+    4011,
+    1092
+  ],
+  "productReviews": [
+    {
+      "productId": 2594,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-10-04T08:47:06.5057671+03:00"
+    },
+    {
+      "productId": 4832,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-02-02T11:26:33.0569198+02:00"
+    },
+    {
+      "productId": 719,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-08-26T12:46:11.1619278+03:00"
+    }
+  ]
+}

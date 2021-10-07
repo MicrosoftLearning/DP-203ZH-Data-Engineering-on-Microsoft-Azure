@@ -1,0 +1,33 @@
+{
+  "userId": 4396,
+  "cartId": "7b4d34ce-6b43-416f-9583-58de872188a5",
+  "preferredProducts": [
+    4705,
+    4039,
+    4084,
+    4549,
+    2643,
+    2254,
+    2947,
+    2765,
+    1639,
+    4237
+  ],
+  "productReviews": [
+    {
+      "productId": 3627,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-09-20T17:04:55.5955223+03:00"
+    },
+    {
+      "productId": 438,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-04-01T19:44:57.5911692+03:00"
+    },
+    {
+      "productId": 1565,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-01-22T06:24:53.9902085+02:00"
+    }
+  ]
+}

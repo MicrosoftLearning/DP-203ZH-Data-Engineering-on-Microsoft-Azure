@@ -1,0 +1,38 @@
+{
+  "userId": 15418,
+  "cartId": "90e770f5-c73b-4a91-b18c-fcfe3365bedb",
+  "preferredProducts": [
+    453,
+    2001,
+    298,
+    3499,
+    3381,
+    4814,
+    2864,
+    3488,
+    97,
+    3544
+  ],
+  "productReviews": [
+    {
+      "productId": 459,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-07-25T14:35:49.426874+03:00"
+    },
+    {
+      "productId": 3089,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-09T18:48:39.8539996+03:00"
+    },
+    {
+      "productId": 68,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-12-04T20:08:42.945233+02:00"
+    },
+    {
+      "productId": 115,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-01-22T05:37:07.7188645+02:00"
+    }
+  ]
+}

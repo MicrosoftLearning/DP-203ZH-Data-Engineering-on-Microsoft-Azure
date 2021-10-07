@@ -1,0 +1,36 @@
+{
+  "userId": 731,
+  "cartId": "b29353b3-5c5f-46ae-8249-737eef2898e2",
+  "preferredProducts": [
+    2303,
+    434,
+    42
+  ],
+  "productReviews": [
+    {
+      "productId": 12,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-03-19T15:55:05.9526153+02:00"
+    },
+    {
+      "productId": 2577,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2020-03-28T07:22:09.048176+02:00"
+    },
+    {
+      "productId": 4575,
+      "reviewText": "this Mills is mellow.",
+      "reviewDate": "2019-01-29T22:03:42.4331652+02:00"
+    },
+    {
+      "productId": 4335,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-11-16T02:13:23.841516+02:00"
+    },
+    {
+      "productId": 2152,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-08-03T20:51:04.1969822+03:00"
+    }
+  ]
+}

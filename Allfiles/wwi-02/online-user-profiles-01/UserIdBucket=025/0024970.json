@@ -1,0 +1,30 @@
+{
+  "userId": 24970,
+  "cartId": "565404bc-94cd-4ed4-a2d9-2d670536f20c",
+  "preferredProducts": [
+    100,
+    203
+  ],
+  "productReviews": [
+    {
+      "productId": 1687,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-02-27T03:16:09.8685743+02:00"
+    },
+    {
+      "productId": 4649,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-12-19T23:44:23.2601328+02:00"
+    },
+    {
+      "productId": 1428,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-07-20T18:03:41.1732184+03:00"
+    },
+    {
+      "productId": 4257,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-02-14T17:42:02.9411979+02:00"
+    }
+  ]
+}

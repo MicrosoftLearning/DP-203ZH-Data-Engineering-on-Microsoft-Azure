@@ -1,0 +1,42 @@
+{
+  "userId": 29539,
+  "cartId": "3e5c5589-e561-4f39-a0c6-89a62df36636",
+  "preferredProducts": [
+    511,
+    208,
+    4478,
+    4648,
+    2392,
+    4893,
+    1173,
+    3929,
+    4127
+  ],
+  "productReviews": [
+    {
+      "productId": 700,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-03-28T08:27:08.0136949+03:00"
+    },
+    {
+      "productId": 987,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-08-23T03:08:35.4562066+03:00"
+    },
+    {
+      "productId": 2201,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-03-27T11:12:27.2305979+03:00"
+    },
+    {
+      "productId": 2993,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-10-26T03:24:21.1955225+03:00"
+    },
+    {
+      "productId": 1154,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-03-11T23:53:00.1945768+02:00"
+    }
+  ]
+}

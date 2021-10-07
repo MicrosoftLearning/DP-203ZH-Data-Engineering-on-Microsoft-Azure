@@ -1,0 +1,38 @@
+{
+  "userId": 21577,
+  "cartId": "34ad7574-c535-4fe6-97c7-2e3394c57743",
+  "preferredProducts": [
+    452,
+    575,
+    4474,
+    1120,
+    1587,
+    2259,
+    2804,
+    4737,
+    4193,
+    969
+  ],
+  "productReviews": [
+    {
+      "productId": 4973,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-05-09T09:27:09.1309286+03:00"
+    },
+    {
+      "productId": 993,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-07-30T04:42:00.4603814+03:00"
+    },
+    {
+      "productId": 2409,
+      "reviewText": "this Savings Account is nifty.",
+      "reviewDate": "2018-08-15T12:00:02.4580959+03:00"
+    },
+    {
+      "productId": 1028,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-08-30T15:35:58.1535942+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 46423,
+  "cartId": "c67e6d67-2d15-42cb-b880-6f252eb14a50",
+  "preferredProducts": [
+    161,
+    2880,
+    1295,
+    1920,
+    2774,
+    481,
+    4517
+  ],
+  "productReviews": [
+    {
+      "productId": 3340,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-11T10:07:53.1902664+02:00"
+    },
+    {
+      "productId": 3362,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-08-19T09:45:24.143414+03:00"
+    },
+    {
+      "productId": 3281,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-07-30T08:53:08.4310011+03:00"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "userId": 55508,
+  "cartId": "56c6772d-9b18-44c3-9f10-0afffc8dde32",
+  "preferredProducts": [
+    1215,
+    2248,
+    2882
+  ],
+  "productReviews": [
+    {
+      "productId": 2425,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-04-25T20:18:40.2085826+03:00"
+    },
+    {
+      "productId": 3159,
+      "reviewText": "this XML is brown.",
+      "reviewDate": "2018-07-05T14:40:46.6095965+03:00"
+    }
+  ]
+}

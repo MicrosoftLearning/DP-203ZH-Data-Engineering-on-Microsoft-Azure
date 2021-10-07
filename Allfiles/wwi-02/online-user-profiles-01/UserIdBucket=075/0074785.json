@@ -1,0 +1,33 @@
+{
+  "userId": 74785,
+  "cartId": "24f740aa-cb2e-4a90-8b1f-f391347fbbed",
+  "preferredProducts": [
+    1359,
+    3257,
+    2171,
+    819,
+    1511
+  ],
+  "productReviews": [
+    {
+      "productId": 3478,
+      "reviewText": "this Steel is honest.",
+      "reviewDate": "2019-04-19T19:20:43.7990549+03:00"
+    },
+    {
+      "productId": 3522,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-06-01T13:10:49.4585695+03:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-01-03T21:41:05.1302266+02:00"
+    },
+    {
+      "productId": 4777,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2016-11-27T12:31:13.2914224+02:00"
+    }
+  ]
+}

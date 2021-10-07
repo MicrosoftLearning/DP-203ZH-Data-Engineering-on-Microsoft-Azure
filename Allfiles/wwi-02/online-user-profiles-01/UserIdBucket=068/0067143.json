@@ -1,0 +1,32 @@
+{
+  "userId": 67143,
+  "cartId": "3e5a1238-a68b-4250-afd7-6ebd3e1f93cd",
+  "preferredProducts": [
+    781,
+    876,
+    2203,
+    1853
+  ],
+  "productReviews": [
+    {
+      "productId": 2647,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-12-16T01:27:43.0699587+02:00"
+    },
+    {
+      "productId": 4078,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-09-09T02:10:01.1491012+03:00"
+    },
+    {
+      "productId": 1124,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-03-27T05:27:02.1148064+03:00"
+    },
+    {
+      "productId": 2578,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2020-01-16T20:39:33.908625+02:00"
+    }
+  ]
+}

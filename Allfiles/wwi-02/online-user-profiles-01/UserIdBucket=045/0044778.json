@@ -1,0 +1,31 @@
+{
+  "userId": 44778,
+  "cartId": "b422e74d-9d36-4917-9286-bcf5110dd0ec",
+  "preferredProducts": [
+    1828,
+    585,
+    2328
+  ],
+  "productReviews": [
+    {
+      "productId": 3839,
+      "reviewText": "This orchestrate, does exactly what it's suppose to do.",
+      "reviewDate": "2019-01-28T21:34:26.405621+02:00"
+    },
+    {
+      "productId": 2851,
+      "reviewText": "This hard drive works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2016-06-08T16:41:36.7743471+03:00"
+    },
+    {
+      "productId": 2564,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-01-19T15:50:29.7322038+02:00"
+    },
+    {
+      "productId": 922,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-11-03T01:59:03.770381+02:00"
+    }
+  ]
+}

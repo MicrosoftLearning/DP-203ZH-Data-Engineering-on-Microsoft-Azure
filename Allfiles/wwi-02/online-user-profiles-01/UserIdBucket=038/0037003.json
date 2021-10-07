@@ -1,0 +1,26 @@
+{
+  "userId": 37003,
+  "cartId": "bc962646-d95a-4524-9118-a99db691b6b8",
+  "preferredProducts": [
+    4726,
+    2270,
+    4149
+  ],
+  "productReviews": [
+    {
+      "productId": 4183,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-10-06T02:41:36.5751276+03:00"
+    },
+    {
+      "productId": 3986,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-03-27T02:18:25.8568341+03:00"
+    },
+    {
+      "productId": 4103,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-11-15T17:34:16.7448045+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 18240,
+  "cartId": "a80d4b27-c495-4d7f-8d3a-f89eee11c89a",
+  "preferredProducts": [
+    4318,
+    4043,
+    2964,
+    1234,
+    1476,
+    4266,
+    2917
+  ],
+  "productReviews": [
+    {
+      "productId": 3140,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-06-12T20:00:00.5813774+03:00"
+    },
+    {
+      "productId": 1222,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-10-13T17:16:01.6604964+03:00"
+    }
+  ]
+}

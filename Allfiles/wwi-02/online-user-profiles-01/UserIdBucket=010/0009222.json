@@ -1,0 +1,31 @@
+{
+  "userId": 9222,
+  "cartId": "3890e56f-7275-4f99-aed9-17b66753bf9b",
+  "preferredProducts": [
+    1582,
+    4337,
+    3430,
+    346,
+    1667,
+    2841,
+    309,
+    1585
+  ],
+  "productReviews": [
+    {
+      "productId": 3258,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-03-03T22:20:17.2032746+02:00"
+    },
+    {
+      "productId": 1888,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-07-28T21:33:52.910276+03:00"
+    },
+    {
+      "productId": 3983,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2018-02-16T13:15:19.7083235+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 37087,
+  "cartId": "d3ff8e55-3b89-4404-b27b-5d54ae31ff2d",
+  "preferredProducts": [
+    365,
+    913,
+    3598,
+    407,
+    935
+  ],
+  "productReviews": [
+    {
+      "productId": 489,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2020-02-07T20:49:23.9237772+02:00"
+    },
+    {
+      "productId": 2787,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-06-09T12:32:25.6284186+03:00"
+    },
+    {
+      "productId": 2354,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-09-07T18:13:18.8554524+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 10845,
+  "cartId": "cb3966c7-d79f-4e34-a4c0-95ea8966638f",
+  "preferredProducts": [
+    4172,
+    709,
+    4927,
+    3120
+  ],
+  "productReviews": [
+    {
+      "productId": 4191,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-11-25T20:13:54.2174616+02:00"
+    },
+    {
+      "productId": 1434,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-11-18T04:02:37.6212505+02:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-12-10T06:17:10.61714+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 88882,
+  "cartId": "243f93db-fd9d-4c8c-87b0-b113072ad3dc",
+  "preferredProducts": [
+    3572,
+    4225,
+    2276,
+    763
+  ],
+  "productReviews": [
+    {
+      "productId": 1660,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-02-16T15:03:33.611902+02:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-08-11T15:05:50.1222958+03:00"
+    },
+    {
+      "productId": 3241,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-06-03T16:42:24.0857272+03:00"
+    },
+    {
+      "productId": 501,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-10-12T05:23:26.1406327+03:00"
+    }
+  ]
+}

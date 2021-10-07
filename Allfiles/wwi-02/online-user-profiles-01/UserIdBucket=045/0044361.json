@@ -1,0 +1,37 @@
+{
+  "userId": 44361,
+  "cartId": "a409105f-9a3a-4ae7-a1a6-eed1b4605fff",
+  "preferredProducts": [
+    2096,
+    1000,
+    1509,
+    3117,
+    2659,
+    3361,
+    1534,
+    2870,
+    1655
+  ],
+  "productReviews": [
+    {
+      "productId": 2970,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-04-24T04:33:36.3741268+03:00"
+    },
+    {
+      "productId": 676,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-05-05T17:03:20.1051806+03:00"
+    },
+    {
+      "productId": 2286,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-11-11T02:36:59.5004418+02:00"
+    },
+    {
+      "productId": 492,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-05-02T02:28:26.5742878+03:00"
+    }
+  ]
+}

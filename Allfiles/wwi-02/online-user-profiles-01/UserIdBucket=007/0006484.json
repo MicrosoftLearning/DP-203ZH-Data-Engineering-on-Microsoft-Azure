@@ -1,0 +1,26 @@
+{
+  "userId": 6484,
+  "cartId": "88e9b9b6-529c-4e57-82c8-e8e493e0036a",
+  "preferredProducts": [
+    1570,
+    2459,
+    3736
+  ],
+  "productReviews": [
+    {
+      "productId": 2019,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-04-07T12:26:08.1672142+03:00"
+    },
+    {
+      "productId": 125,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-02-18T16:51:04.1207237+02:00"
+    },
+    {
+      "productId": 3003,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-03-20T14:11:01.378563+02:00"
+    }
+  ]
+}

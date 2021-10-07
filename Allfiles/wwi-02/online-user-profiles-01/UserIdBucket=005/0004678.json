@@ -1,0 +1,36 @@
+{
+  "userId": 4678,
+  "cartId": "15635ea8-8ef5-4576-bf6f-57f6dc2a9255",
+  "preferredProducts": [
+    861,
+    3156,
+    2806
+  ],
+  "productReviews": [
+    {
+      "productId": 1343,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-10-03T11:58:10.2119028+03:00"
+    },
+    {
+      "productId": 2123,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-15T09:18:21.594796+03:00"
+    },
+    {
+      "productId": 1123,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-05-25T09:46:52.830097+03:00"
+    },
+    {
+      "productId": 1862,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2020-03-22T00:02:03.3900743+02:00"
+    },
+    {
+      "productId": 1696,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-09-26T08:23:14.6570813+03:00"
+    }
+  ]
+}

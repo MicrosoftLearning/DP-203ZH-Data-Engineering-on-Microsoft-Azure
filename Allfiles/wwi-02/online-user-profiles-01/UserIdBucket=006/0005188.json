@@ -1,0 +1,32 @@
+{
+  "userId": 5188,
+  "cartId": "69dfb653-544a-4214-84ca-5dbc661b1bab",
+  "preferredProducts": [
+    38,
+    1629,
+    1545,
+    4355,
+    1030,
+    3739,
+    191,
+    4175,
+    2503
+  ],
+  "productReviews": [
+    {
+      "productId": 4472,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-02-16T19:42:31.1113628+02:00"
+    },
+    {
+      "productId": 324,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-09-30T13:55:12.0090323+03:00"
+    },
+    {
+      "productId": 3487,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2016-11-20T05:44:06.3549834+02:00"
+    }
+  ]
+}

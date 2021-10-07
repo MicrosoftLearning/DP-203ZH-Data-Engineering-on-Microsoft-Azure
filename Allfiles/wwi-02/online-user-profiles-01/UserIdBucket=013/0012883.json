@@ -1,0 +1,31 @@
+{
+  "userId": 12883,
+  "cartId": "81aa1573-10f9-44cc-a6aa-03d21dfe5679",
+  "preferredProducts": [
+    3786,
+    4835,
+    4819
+  ],
+  "productReviews": [
+    {
+      "productId": 1003,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-07-11T21:16:08.074587+03:00"
+    },
+    {
+      "productId": 2501,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2020-02-25T01:49:28.111841+02:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-06-24T09:47:11.9806869+03:00"
+    },
+    {
+      "productId": 3236,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2020-03-03T14:45:28.5780536+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 5765,
+  "cartId": "ade72cd0-0ceb-47dd-b41d-f314ef452b18",
+  "preferredProducts": [
+    500,
+    2039,
+    537
+  ],
+  "productReviews": [
+    {
+      "productId": 517,
+      "reviewText": "this New Mexico is standard.",
+      "reviewDate": "2016-12-29T11:08:50.1460323+02:00"
+    },
+    {
+      "productId": 2283,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-04-25T21:31:34.5492139+03:00"
+    },
+    {
+      "productId": 3004,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-10-31T11:10:57.2031734+02:00"
+    }
+  ]
+}

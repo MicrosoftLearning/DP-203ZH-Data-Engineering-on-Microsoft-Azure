@@ -1,0 +1,27 @@
+{
+  "userId": 32312,
+  "cartId": "3174a75a-f77e-4683-aee3-df84bd30f178",
+  "preferredProducts": [
+    4728,
+    886,
+    2506,
+    287
+  ],
+  "productReviews": [
+    {
+      "productId": 204,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-02-17T13:49:13.9553036+02:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-11-25T12:17:51.1576111+02:00"
+    },
+    {
+      "productId": 2621,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-09-02T03:47:57.9033029+03:00"
+    }
+  ]
+}

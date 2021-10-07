@@ -1,0 +1,23 @@
+{
+  "userId": 42069,
+  "cartId": "d32c1e12-f261-46d3-9b70-9f0b7f5c8292",
+  "preferredProducts": [
+    936,
+    3633,
+    2177,
+    3720,
+    3236
+  ],
+  "productReviews": [
+    {
+      "productId": 398,
+      "reviewText": "this Practical is whole-grain.",
+      "reviewDate": "2016-10-15T01:09:35.2215587+03:00"
+    },
+    {
+      "productId": 177,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2016-12-06T15:31:54.6607792+02:00"
+    }
+  ]
+}

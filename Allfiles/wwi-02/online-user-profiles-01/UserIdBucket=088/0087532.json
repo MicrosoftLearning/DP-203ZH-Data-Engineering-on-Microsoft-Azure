@@ -1,0 +1,40 @@
+{
+  "userId": 87532,
+  "cartId": "41373b5c-1f67-49d1-bd3b-b2409df10291",
+  "preferredProducts": [
+    3848,
+    2074,
+    3079,
+    1094,
+    1472,
+    3699,
+    1813
+  ],
+  "productReviews": [
+    {
+      "productId": 2601,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-04-11T21:40:31.7789302+03:00"
+    },
+    {
+      "productId": 2972,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-12-30T05:00:06.0617161+02:00"
+    },
+    {
+      "productId": 3714,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-05-18T21:09:03.1448599+03:00"
+    },
+    {
+      "productId": 529,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-06-12T01:28:54.7321584+03:00"
+    },
+    {
+      "productId": 614,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-12-03T20:53:16.1765166+02:00"
+    }
+  ]
+}

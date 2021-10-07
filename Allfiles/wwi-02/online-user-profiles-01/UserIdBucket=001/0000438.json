@@ -1,0 +1,37 @@
+{
+  "userId": 438,
+  "cartId": "fc88c3cb-8bf0-4570-a96d-31b28a10b758",
+  "preferredProducts": [
+    1775,
+    4402,
+    3832,
+    2685
+  ],
+  "productReviews": [
+    {
+      "productId": 1117,
+      "reviewText": "this schemas is nifty.",
+      "reviewDate": "2016-08-07T22:53:11.5671905+03:00"
+    },
+    {
+      "productId": 2543,
+      "reviewText": "This Incredible works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2019-05-26T22:55:37.9199814+03:00"
+    },
+    {
+      "productId": 2625,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-06-23T04:27:51.3755838+03:00"
+    },
+    {
+      "productId": 288,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-05-08T06:57:04.4633392+03:00"
+    },
+    {
+      "productId": 51,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-11-12T19:32:20.4016351+02:00"
+    }
+  ]
+}

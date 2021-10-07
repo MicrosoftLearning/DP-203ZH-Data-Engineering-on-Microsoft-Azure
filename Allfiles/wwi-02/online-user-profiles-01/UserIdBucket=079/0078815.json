@@ -1,0 +1,33 @@
+{
+  "userId": 78815,
+  "cartId": "ee3b4475-ada4-46f9-8592-5ef67c084cc8",
+  "preferredProducts": [
+    2912,
+    4026,
+    3810,
+    891,
+    2374,
+    2236,
+    4563,
+    3509,
+    4352,
+    2377
+  ],
+  "productReviews": [
+    {
+      "productId": 4283,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-03-22T11:37:22.6922041+02:00"
+    },
+    {
+      "productId": 3183,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-04-04T16:16:02.5368891+03:00"
+    },
+    {
+      "productId": 237,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-12-02T01:35:56.7699836+02:00"
+    }
+  ]
+}

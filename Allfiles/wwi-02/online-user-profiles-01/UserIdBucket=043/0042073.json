@@ -1,0 +1,37 @@
+{
+  "userId": 42073,
+  "cartId": "fecc51a9-c297-4fd1-8943-c3572b0ecff0",
+  "preferredProducts": [
+    1943,
+    4236,
+    3702,
+    2746
+  ],
+  "productReviews": [
+    {
+      "productId": 79,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-04-24T04:12:30.5844916+03:00"
+    },
+    {
+      "productId": 653,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-02-03T00:13:10.0194189+02:00"
+    },
+    {
+      "productId": 4534,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-01-02T07:34:54.0032558+02:00"
+    },
+    {
+      "productId": 1362,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-12-16T09:13:05.6629565+02:00"
+    },
+    {
+      "productId": 2695,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-10-28T13:28:42.8743257+02:00"
+    }
+  ]
+}

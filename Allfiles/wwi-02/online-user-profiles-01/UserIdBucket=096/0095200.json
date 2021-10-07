@@ -1,0 +1,31 @@
+{
+  "userId": 95200,
+  "cartId": "fbde4ed7-8ee6-4b91-950d-3fd53566595b",
+  "preferredProducts": [
+    2603,
+    4638,
+    456,
+    4371,
+    3654,
+    4846,
+    4853,
+    235
+  ],
+  "productReviews": [
+    {
+      "productId": 1902,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-09-05T14:16:08.3961988+03:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-09-25T08:28:48.2829998+03:00"
+    },
+    {
+      "productId": 4234,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-09-19T09:26:32.7351848+03:00"
+    }
+  ]
+}

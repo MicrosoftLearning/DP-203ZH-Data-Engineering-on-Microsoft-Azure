@@ -1,0 +1,30 @@
+{
+  "userId": 73125,
+  "cartId": "25aeeea9-1949-4ea4-aad6-b9283517d3b1",
+  "preferredProducts": [
+    255,
+    3140,
+    1011,
+    247,
+    506,
+    1822,
+    2510
+  ],
+  "productReviews": [
+    {
+      "productId": 4120,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-08-11T03:39:10.1931178+03:00"
+    },
+    {
+      "productId": 3930,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-06-23T20:30:42.8763032+03:00"
+    },
+    {
+      "productId": 1983,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-08-08T18:37:19.5130485+03:00"
+    }
+  ]
+}

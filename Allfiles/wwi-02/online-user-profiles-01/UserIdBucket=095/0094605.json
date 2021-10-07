@@ -1,0 +1,29 @@
+{
+  "userId": 94605,
+  "cartId": "12ec04c2-b34b-4bf5-ae2e-e81782bb1220",
+  "preferredProducts": [
+    1205,
+    779,
+    2435,
+    1831,
+    101,
+    1704
+  ],
+  "productReviews": [
+    {
+      "productId": 3840,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-05-12T04:17:39.0412976+03:00"
+    },
+    {
+      "productId": 4119,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-06-11T19:49:44.3035992+03:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-11-24T14:41:21.804679+02:00"
+    }
+  ]
+}

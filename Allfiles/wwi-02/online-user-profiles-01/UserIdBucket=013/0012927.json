@@ -1,0 +1,29 @@
+{
+  "userId": 12927,
+  "cartId": "662bacab-bd1a-4b20-8968-5e2ac626cccb",
+  "preferredProducts": [
+    4897,
+    2301,
+    2013,
+    4422,
+    2432,
+    3100
+  ],
+  "productReviews": [
+    {
+      "productId": 528,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-02-22T18:12:21.5709193+02:00"
+    },
+    {
+      "productId": 1137,
+      "reviewText": "this Dynamic is brown.",
+      "reviewDate": "2017-01-06T01:36:43.856059+02:00"
+    },
+    {
+      "productId": 752,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-03-07T17:25:08.9442433+02:00"
+    }
+  ]
+}

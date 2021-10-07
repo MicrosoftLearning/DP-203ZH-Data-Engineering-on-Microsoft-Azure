@@ -1,0 +1,27 @@
+{
+  "userId": 10943,
+  "cartId": "8e4c7cfb-86ca-421a-af20-8805f3f4e015",
+  "preferredProducts": [
+    732,
+    2496,
+    914,
+    1800
+  ],
+  "productReviews": [
+    {
+      "productId": 186,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-12-31T18:31:59.7586097+02:00"
+    },
+    {
+      "productId": 2412,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-10-05T21:45:00.6934738+03:00"
+    },
+    {
+      "productId": 505,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-12-09T07:42:08.8882167+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 89758,
+  "cartId": "9fd2b6fd-82a4-4c94-968f-7ab65e62b567",
+  "preferredProducts": [
+    4417,
+    2319
+  ],
+  "productReviews": [
+    {
+      "productId": 185,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-06-12T03:16:07.8932679+03:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-11-10T03:52:04.3365872+02:00"
+    },
+    {
+      "productId": 3429,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-06-04T03:04:56.8933865+03:00"
+    }
+  ]
+}

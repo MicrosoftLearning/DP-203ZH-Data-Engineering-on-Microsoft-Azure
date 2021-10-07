@@ -1,0 +1,30 @@
+{
+  "userId": 3957,
+  "cartId": "9ad3696e-24e6-4a5a-b7ff-a9e8d9c7f9ca",
+  "preferredProducts": [
+    4102,
+    3524,
+    2476,
+    1095,
+    4289,
+    3145,
+    3948
+  ],
+  "productReviews": [
+    {
+      "productId": 4493,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-10-16T15:08:23.3648309+03:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-09-03T05:29:24.7243984+03:00"
+    },
+    {
+      "productId": 293,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-07-17T19:29:56.1889752+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 32647,
+  "cartId": "cd8d4928-4c80-4d21-8daa-757d7c59def1",
+  "preferredProducts": [
+    2517,
+    888,
+    2042,
+    161
+  ],
+  "productReviews": [
+    {
+      "productId": 3018,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-12-23T14:08:31.6812741+02:00"
+    },
+    {
+      "productId": 4130,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-01-04T18:55:26.6988849+02:00"
+    },
+    {
+      "productId": 1875,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-03-22T18:14:34.4587594+02:00"
+    },
+    {
+      "productId": 341,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-11-18T11:07:21.0172209+02:00"
+    },
+    {
+      "productId": 1624,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-11-13T22:07:05.4766043+02:00"
+    }
+  ]
+}

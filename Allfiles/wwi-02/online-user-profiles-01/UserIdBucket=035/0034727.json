@@ -1,0 +1,30 @@
+{
+  "userId": 34727,
+  "cartId": "6a452c46-3c50-4db9-805f-ab1dafab9bdb",
+  "preferredProducts": [
+    2704,
+    4547
+  ],
+  "productReviews": [
+    {
+      "productId": 2223,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-09-02T05:17:48.8824365+03:00"
+    },
+    {
+      "productId": 2938,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-10-09T08:33:19.8331876+03:00"
+    },
+    {
+      "productId": 4955,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-01-02T22:44:05.042885+02:00"
+    },
+    {
+      "productId": 3346,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-08-01T11:59:30.1500493+03:00"
+    }
+  ]
+}

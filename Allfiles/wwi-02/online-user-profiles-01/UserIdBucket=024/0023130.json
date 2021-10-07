@@ -1,0 +1,31 @@
+{
+  "userId": 23130,
+  "cartId": "5c2fcc23-7ccc-4c6f-9d66-513258ad3772",
+  "preferredProducts": [
+    2314,
+    4400,
+    1014,
+    1551,
+    4822,
+    3446,
+    1120,
+    4107
+  ],
+  "productReviews": [
+    {
+      "productId": 4139,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-11-08T04:21:00.7775661+02:00"
+    },
+    {
+      "productId": 2278,
+      "reviewText": "this Auto Loan Account is top-notch.",
+      "reviewDate": "2019-05-18T19:52:58.0138343+03:00"
+    },
+    {
+      "productId": 1354,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-07-27T21:28:49.0224376+03:00"
+    }
+  ]
+}

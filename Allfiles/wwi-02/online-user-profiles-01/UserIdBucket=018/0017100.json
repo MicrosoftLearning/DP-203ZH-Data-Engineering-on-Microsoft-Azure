@@ -1,0 +1,24 @@
+{
+  "userId": 17100,
+  "cartId": "8ea0891f-5b42-4356-9ba0-8d8bd3a69f33",
+  "preferredProducts": [
+    290,
+    4332,
+    1172,
+    2597,
+    2093,
+    2360
+  ],
+  "productReviews": [
+    {
+      "productId": 901,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-03-04T02:50:50.5813283+02:00"
+    },
+    {
+      "productId": 925,
+      "reviewText": "this XML is top-notch.",
+      "reviewDate": "2020-02-29T00:52:15.8015929+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 33612,
+  "cartId": "8b89f992-2e79-4791-9b90-b4242a178f30",
+  "preferredProducts": [
+    41,
+    1748,
+    2495,
+    2179,
+    3964,
+    4321,
+    3328,
+    4305,
+    3234,
+    4356
+  ],
+  "productReviews": [
+    {
+      "productId": 1431,
+      "reviewText": "This Plain works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-06-13T14:25:53.2710546+03:00"
+    },
+    {
+      "productId": 833,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-10-10T07:40:15.6463922+03:00"
+    },
+    {
+      "productId": 2208,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-08-22T16:03:40.9429679+03:00"
+    }
+  ]
+}

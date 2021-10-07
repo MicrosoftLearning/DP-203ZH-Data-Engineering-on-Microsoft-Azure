@@ -1,0 +1,28 @@
+{
+  "userId": 3569,
+  "cartId": "024f42ae-1d63-409c-8c96-5a541e91fba7",
+  "preferredProducts": [
+    4884,
+    1654,
+    3085,
+    685,
+    4374,
+    1302,
+    2081,
+    4549,
+    1154,
+    2347
+  ],
+  "productReviews": [
+    {
+      "productId": 4438,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-11-28T07:00:40.0123609+02:00"
+    },
+    {
+      "productId": 1308,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-02-05T04:18:57.0208654+02:00"
+    }
+  ]
+}

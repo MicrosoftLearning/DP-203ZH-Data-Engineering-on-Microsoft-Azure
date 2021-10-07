@@ -1,0 +1,26 @@
+{
+  "userId": 60758,
+  "cartId": "abc0848e-b79e-4409-bac5-a16baa4c4ca2",
+  "preferredProducts": [
+    4853,
+    4612,
+    798,
+    4221,
+    4100,
+    3781,
+    513,
+    1921
+  ],
+  "productReviews": [
+    {
+      "productId": 1148,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-10-04T04:46:11.5078427+03:00"
+    },
+    {
+      "productId": 4183,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-05-22T03:10:19.7383235+03:00"
+    }
+  ]
+}

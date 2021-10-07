@@ -1,0 +1,26 @@
+{
+  "userId": 77868,
+  "cartId": "7b8d22d2-efbc-4afc-8245-3fe10edbf4b3",
+  "preferredProducts": [
+    3423,
+    2563,
+    4924
+  ],
+  "productReviews": [
+    {
+      "productId": 3973,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-11-19T21:44:08.8724948+02:00"
+    },
+    {
+      "productId": 3057,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-06-13T23:39:19.3303059+03:00"
+    },
+    {
+      "productId": 4835,
+      "reviewText": "This Ergonomic Steel Mouse works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2020-03-01T02:49:05.9405753+02:00"
+    }
+  ]
+}

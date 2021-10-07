@@ -1,0 +1,32 @@
+{
+  "userId": 5883,
+  "cartId": "5842d557-65e0-4491-9c34-f8ef9a90ee5b",
+  "preferredProducts": [
+    4245,
+    145,
+    3094,
+    408,
+    2215,
+    3992,
+    432,
+    720,
+    880
+  ],
+  "productReviews": [
+    {
+      "productId": 3247,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-07-15T16:38:32.5638187+03:00"
+    },
+    {
+      "productId": 2026,
+      "reviewText": "This Hills works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-06-12T09:31:25.0071974+03:00"
+    },
+    {
+      "productId": 3560,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-06-25T01:22:53.8682071+03:00"
+    }
+  ]
+}

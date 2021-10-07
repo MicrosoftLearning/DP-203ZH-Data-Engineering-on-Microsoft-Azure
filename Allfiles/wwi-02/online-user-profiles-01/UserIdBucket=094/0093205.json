@@ -1,0 +1,40 @@
+{
+  "userId": 93205,
+  "cartId": "4dbefef0-6fea-42ba-952a-0ef4d380a021",
+  "preferredProducts": [
+    4552,
+    3772,
+    1639,
+    2098,
+    1864,
+    4813,
+    709
+  ],
+  "productReviews": [
+    {
+      "productId": 4780,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-02-04T07:23:31.919301+02:00"
+    },
+    {
+      "productId": 1905,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-11-22T11:33:46.5762015+02:00"
+    },
+    {
+      "productId": 4525,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-04-13T10:31:03.7127264+03:00"
+    },
+    {
+      "productId": 1676,
+      "reviewText": "this index is tasty.",
+      "reviewDate": "2017-03-08T01:32:11.9163278+02:00"
+    },
+    {
+      "productId": 3664,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-04-12T18:38:34.8731772+03:00"
+    }
+  ]
+}

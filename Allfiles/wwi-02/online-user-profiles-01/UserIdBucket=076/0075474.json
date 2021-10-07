@@ -1,0 +1,35 @@
+{
+  "userId": 75474,
+  "cartId": "7003fd5c-e878-4182-8921-d43c2a1f37d0",
+  "preferredProducts": [
+    4458,
+    4410,
+    148,
+    1828,
+    4510,
+    891,
+    3871
+  ],
+  "productReviews": [
+    {
+      "productId": 4337,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-08-31T18:02:12.3330492+03:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-11-19T01:52:22.1815981+02:00"
+    },
+    {
+      "productId": 3706,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-01-15T19:57:29.220441+02:00"
+    },
+    {
+      "productId": 18,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-12-15T01:49:07.9744511+02:00"
+    }
+  ]
+}

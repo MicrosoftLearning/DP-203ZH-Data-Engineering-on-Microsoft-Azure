@@ -1,0 +1,34 @@
+{
+  "userId": 62331,
+  "cartId": "d2afef33-0c38-4e71-91d6-0c1efa872cad",
+  "preferredProducts": [
+    129,
+    3646,
+    2177,
+    1611,
+    3050,
+    2025
+  ],
+  "productReviews": [
+    {
+      "productId": 2416,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-02-11T16:28:45.7448996+02:00"
+    },
+    {
+      "productId": 2072,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-03-09T10:01:13.2723889+02:00"
+    },
+    {
+      "productId": 2504,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-04-27T14:45:16.4934212+03:00"
+    },
+    {
+      "productId": 2329,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-12-20T17:25:38.7895418+02:00"
+    }
+  ]
+}

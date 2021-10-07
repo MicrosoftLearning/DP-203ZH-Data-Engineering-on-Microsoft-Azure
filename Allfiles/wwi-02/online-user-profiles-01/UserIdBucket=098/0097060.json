@@ -1,0 +1,27 @@
+{
+  "userId": 97060,
+  "cartId": "57dbcc7e-8b6c-4fcd-8d8e-d1d30a6fea99",
+  "preferredProducts": [
+    2740,
+    4123,
+    1911,
+    1388
+  ],
+  "productReviews": [
+    {
+      "productId": 3523,
+      "reviewText": "This Directives works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2019-06-05T12:35:28.3169756+03:00"
+    },
+    {
+      "productId": 4947,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-04-22T14:52:05.9624185+03:00"
+    },
+    {
+      "productId": 4335,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2020-04-09T00:07:08.3636588+03:00"
+    }
+  ]
+}

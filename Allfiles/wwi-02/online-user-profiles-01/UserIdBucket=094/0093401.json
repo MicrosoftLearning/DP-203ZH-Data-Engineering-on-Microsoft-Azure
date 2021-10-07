@@ -1,0 +1,30 @@
+{
+  "userId": 93401,
+  "cartId": "6c23e98c-68b7-499f-9f20-28e8f03d4c69",
+  "preferredProducts": [
+    4099,
+    2493,
+    3729,
+    551,
+    3206,
+    3983,
+    2941
+  ],
+  "productReviews": [
+    {
+      "productId": 4487,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-11-17T22:14:50.4854493+02:00"
+    },
+    {
+      "productId": 4882,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-11-04T06:05:44.6578762+02:00"
+    },
+    {
+      "productId": 3737,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-05-05T20:01:55.3010048+03:00"
+    }
+  ]
+}

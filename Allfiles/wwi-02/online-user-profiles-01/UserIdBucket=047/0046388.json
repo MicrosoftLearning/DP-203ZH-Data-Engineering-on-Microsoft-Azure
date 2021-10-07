@@ -1,0 +1,32 @@
+{
+  "userId": 46388,
+  "cartId": "9c1bf9cd-9739-47c6-9936-ea512f1a2f1d",
+  "preferredProducts": [
+    875,
+    3538,
+    786,
+    2649
+  ],
+  "productReviews": [
+    {
+      "productId": 359,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-08-17T19:09:29.4529557+03:00"
+    },
+    {
+      "productId": 4105,
+      "reviewText": "this projection is amiable.",
+      "reviewDate": "2016-05-10T11:34:00.3123506+03:00"
+    },
+    {
+      "productId": 2608,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-05-19T10:48:27.3270977+03:00"
+    },
+    {
+      "productId": 2870,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-08-09T06:38:13.4425303+03:00"
+    }
+  ]
+}

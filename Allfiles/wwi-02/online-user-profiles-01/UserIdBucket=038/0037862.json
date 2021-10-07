@@ -1,0 +1,28 @@
+{
+  "userId": 37862,
+  "cartId": "0afb7f99-40b8-4f7d-bdb3-a4f879f7d3ad",
+  "preferredProducts": [
+    3382,
+    4329,
+    3540,
+    4433,
+    2564
+  ],
+  "productReviews": [
+    {
+      "productId": 3928,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-01-23T03:57:09.2342233+02:00"
+    },
+    {
+      "productId": 2368,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-12-15T21:41:29.105867+02:00"
+    },
+    {
+      "productId": 417,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-05-30T20:06:14.862931+03:00"
+    }
+  ]
+}

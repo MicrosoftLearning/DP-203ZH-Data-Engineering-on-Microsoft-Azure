@@ -1,0 +1,35 @@
+{
+  "userId": 13241,
+  "cartId": "6bdfa672-2c0a-4f9c-9fd1-cc8737d04b59",
+  "preferredProducts": [
+    1620,
+    4696
+  ],
+  "productReviews": [
+    {
+      "productId": 4012,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-07-29T06:01:39.7938254+03:00"
+    },
+    {
+      "productId": 2981,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-12-17T13:42:50.2246924+02:00"
+    },
+    {
+      "productId": 462,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-01-22T17:11:24.7260434+02:00"
+    },
+    {
+      "productId": 2024,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-09-05T04:37:14.2975976+03:00"
+    },
+    {
+      "productId": 549,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-12-31T05:16:23.8282103+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 72471,
+  "cartId": "db96c535-d7e0-48e6-9b07-6400d93bad27",
+  "preferredProducts": [
+    4279,
+    4598,
+    1513,
+    1481,
+    3123,
+    675,
+    125
+  ],
+  "productReviews": [
+    {
+      "productId": 1311,
+      "reviewText": "This JSON works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2016-07-29T07:25:56.4458415+03:00"
+    },
+    {
+      "productId": 4671,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-06-22T00:09:39.8925223+03:00"
+    },
+    {
+      "productId": 196,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-12-25T18:20:15.2095714+02:00"
+    },
+    {
+      "productId": 1423,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-11-26T13:05:44.8114582+02:00"
+    }
+  ]
+}

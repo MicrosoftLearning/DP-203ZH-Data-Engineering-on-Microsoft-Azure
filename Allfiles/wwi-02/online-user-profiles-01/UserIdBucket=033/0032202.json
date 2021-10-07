@@ -1,0 +1,37 @@
+{
+  "userId": 32202,
+  "cartId": "65f6400d-c716-49b1-9188-38a0560bd236",
+  "preferredProducts": [
+    2417,
+    3487,
+    1791,
+    1200,
+    3241,
+    4410,
+    2807,
+    1132,
+    201
+  ],
+  "productReviews": [
+    {
+      "productId": 987,
+      "reviewText": "This schemas works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2016-08-11T14:22:30.0085528+03:00"
+    },
+    {
+      "productId": 3262,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-03-18T02:24:50.0101981+02:00"
+    },
+    {
+      "productId": 1242,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-07-15T05:02:15.8573831+03:00"
+    },
+    {
+      "productId": 1957,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-04-14T09:45:49.6631608+03:00"
+    }
+  ]
+}

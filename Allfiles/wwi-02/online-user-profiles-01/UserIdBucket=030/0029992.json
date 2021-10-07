@@ -1,0 +1,32 @@
+{
+  "userId": 29992,
+  "cartId": "1dfc233a-89ad-4a55-bad7-41945bb1708e",
+  "preferredProducts": [
+    4452,
+    4593,
+    1075,
+    4746,
+    2682,
+    1043,
+    4542,
+    1115,
+    1543
+  ],
+  "productReviews": [
+    {
+      "productId": 1528,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-12-04T10:19:20.9429272+02:00"
+    },
+    {
+      "productId": 4036,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-10-29T11:09:40.7036666+02:00"
+    },
+    {
+      "productId": 332,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-01-08T00:58:39.7970918+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 25264,
+  "cartId": "60c7368c-1c4f-4b92-b1a2-6b3e2877d5c7",
+  "preferredProducts": [
+    842,
+    3333,
+    3809,
+    4780,
+    2577,
+    6
+  ],
+  "productReviews": [
+    {
+      "productId": 205,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-10-22T12:52:51.2161528+03:00"
+    },
+    {
+      "productId": 2903,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-06-03T12:30:15.3951491+03:00"
+    },
+    {
+      "productId": 3539,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-12-10T22:35:44.3131894+02:00"
+    },
+    {
+      "productId": 2121,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-06-24T02:08:43.5457535+03:00"
+    }
+  ]
+}

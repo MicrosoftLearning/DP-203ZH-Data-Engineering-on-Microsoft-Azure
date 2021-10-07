@@ -1,0 +1,28 @@
+{
+  "userId": 21243,
+  "cartId": "9650ba29-8d22-4dca-a3f4-bf904ae2b99a",
+  "preferredProducts": [
+    280,
+    1872,
+    170,
+    14,
+    3022
+  ],
+  "productReviews": [
+    {
+      "productId": 3776,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-10-08T23:45:06.4588199+03:00"
+    },
+    {
+      "productId": 2408,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-06-27T05:36:05.4722772+03:00"
+    },
+    {
+      "productId": 206,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-05-09T15:47:29.3751936+03:00"
+    }
+  ]
+}

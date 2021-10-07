@@ -1,0 +1,27 @@
+{
+  "userId": 20348,
+  "cartId": "d654cbf3-264d-479f-a5cd-3bd5ba09cb63",
+  "preferredProducts": [
+    3896,
+    365,
+    2419,
+    1660
+  ],
+  "productReviews": [
+    {
+      "productId": 59,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-02-14T02:22:49.445576+02:00"
+    },
+    {
+      "productId": 1936,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-05-31T08:22:06.183273+03:00"
+    },
+    {
+      "productId": 3299,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-03-20T19:00:54.3907307+02:00"
+    }
+  ]
+}

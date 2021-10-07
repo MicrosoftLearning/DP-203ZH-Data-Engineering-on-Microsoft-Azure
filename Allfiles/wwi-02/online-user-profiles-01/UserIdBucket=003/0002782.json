@@ -1,0 +1,31 @@
+{
+  "userId": 2782,
+  "cartId": "bccecde5-3638-4e7f-9536-f293b68a6644",
+  "preferredProducts": [
+    3876,
+    1373,
+    884
+  ],
+  "productReviews": [
+    {
+      "productId": 2016,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-07-18T07:21:00.7116973+03:00"
+    },
+    {
+      "productId": 2918,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-12-31T11:45:49.7913336+02:00"
+    },
+    {
+      "productId": 821,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-10-25T19:10:03.348609+03:00"
+    },
+    {
+      "productId": 2005,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-11-22T07:57:38.6187223+02:00"
+    }
+  ]
+}

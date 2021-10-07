@@ -1,0 +1,35 @@
+{
+  "userId": 25688,
+  "cartId": "dd6b2b7e-f7d9-4058-b661-20815576ed68",
+  "preferredProducts": [
+    1900,
+    3773,
+    1242,
+    1297,
+    665,
+    3962,
+    972
+  ],
+  "productReviews": [
+    {
+      "productId": 1227,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-04-29T07:23:41.9961981+03:00"
+    },
+    {
+      "productId": 4300,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-01-02T13:02:17.3873379+02:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-11-17T02:29:06.2596541+02:00"
+    },
+    {
+      "productId": 4753,
+      "reviewText": "this supply-chains is ratty.",
+      "reviewDate": "2019-07-19T21:29:23.324359+03:00"
+    }
+  ]
+}

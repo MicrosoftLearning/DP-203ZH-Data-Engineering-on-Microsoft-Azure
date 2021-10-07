@@ -1,0 +1,32 @@
+{
+  "userId": 3763,
+  "cartId": "c8328f34-3fb7-4cab-84da-95df2e9e475e",
+  "preferredProducts": [
+    4459,
+    4405,
+    4216,
+    2297,
+    4327,
+    3682,
+    2482,
+    3819,
+    3834
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-03-30T12:22:48.3744894+03:00"
+    },
+    {
+      "productId": 4278,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-08-26T13:11:31.2733987+03:00"
+    },
+    {
+      "productId": 1666,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-06-22T03:32:08.3698097+03:00"
+    }
+  ]
+}

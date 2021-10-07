@@ -1,0 +1,32 @@
+{
+  "userId": 7261,
+  "cartId": "442e648b-50e8-4109-a05b-2747c7c0f61a",
+  "preferredProducts": [
+    122,
+    2033,
+    3394,
+    1449
+  ],
+  "productReviews": [
+    {
+      "productId": 1612,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-01-31T19:43:26.4080848+02:00"
+    },
+    {
+      "productId": 1148,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-01-16T16:52:58.1329311+02:00"
+    },
+    {
+      "productId": 4358,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-07-18T16:55:28.6300469+03:00"
+    },
+    {
+      "productId": 2543,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-02-08T14:53:42.2644473+02:00"
+    }
+  ]
+}

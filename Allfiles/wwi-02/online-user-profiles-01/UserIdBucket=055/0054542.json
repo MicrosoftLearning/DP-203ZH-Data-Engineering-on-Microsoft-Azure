@@ -1,0 +1,28 @@
+{
+  "userId": 54542,
+  "cartId": "42964c2a-99e5-421f-9194-14e8c93c7d12",
+  "preferredProducts": [
+    534,
+    4310,
+    2957,
+    2487,
+    1131
+  ],
+  "productReviews": [
+    {
+      "productId": 1924,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-02-22T01:06:57.3804176+02:00"
+    },
+    {
+      "productId": 4864,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-01-11T01:24:09.226531+02:00"
+    },
+    {
+      "productId": 2593,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-12-07T18:49:52.1987434+02:00"
+    }
+  ]
+}

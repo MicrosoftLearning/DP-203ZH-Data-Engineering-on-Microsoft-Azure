@@ -1,0 +1,28 @@
+{
+  "userId": 74494,
+  "cartId": "20b4e914-d863-4236-983e-94fe85b6abe4",
+  "preferredProducts": [
+    3840,
+    1889,
+    3466,
+    1105,
+    1936
+  ],
+  "productReviews": [
+    {
+      "productId": 1666,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-12-07T09:22:06.7911676+02:00"
+    },
+    {
+      "productId": 897,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-07-12T09:48:21.6031979+03:00"
+    },
+    {
+      "productId": 616,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-02-06T11:25:58.4996188+02:00"
+    }
+  ]
+}

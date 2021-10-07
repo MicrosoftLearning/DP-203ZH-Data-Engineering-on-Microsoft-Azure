@@ -1,0 +1,38 @@
+{
+  "userId": 24594,
+  "cartId": "b6bf88c2-7f13-46da-8aa3-707b4b4fc046",
+  "preferredProducts": [
+    2307,
+    1484,
+    396,
+    4875,
+    1225,
+    2994,
+    167,
+    1951,
+    3317,
+    3016
+  ],
+  "productReviews": [
+    {
+      "productId": 2202,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-04-03T09:14:58.3366171+03:00"
+    },
+    {
+      "productId": 4458,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-02-04T19:18:27.9195638+02:00"
+    },
+    {
+      "productId": 1516,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-15T00:16:47.7097517+03:00"
+    },
+    {
+      "productId": 1482,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-04-03T15:32:06.7718242+03:00"
+    }
+  ]
+}

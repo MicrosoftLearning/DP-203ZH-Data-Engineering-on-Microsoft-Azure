@@ -1,0 +1,33 @@
+{
+  "userId": 32811,
+  "cartId": "35c8bdf3-81bc-4359-8d22-6345bc4d440f",
+  "preferredProducts": [
+    366,
+    1632,
+    1267,
+    3465,
+    482,
+    2683,
+    3370,
+    1883,
+    593,
+    1253
+  ],
+  "productReviews": [
+    {
+      "productId": 2440,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-05-13T12:46:38.8676266+03:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-02-26T18:35:04.318807+02:00"
+    },
+    {
+      "productId": 4504,
+      "reviewText": "this parse is light-hearted.",
+      "reviewDate": "2020-01-03T04:21:13.149474+02:00"
+    }
+  ]
+}

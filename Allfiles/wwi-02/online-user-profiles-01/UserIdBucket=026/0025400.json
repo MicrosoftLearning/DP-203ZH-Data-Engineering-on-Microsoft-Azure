@@ -1,0 +1,43 @@
+{
+  "userId": 25400,
+  "cartId": "de2157f8-95c8-47ef-94b6-3483349d6e41",
+  "preferredProducts": [
+    4220,
+    3061,
+    2977,
+    1991,
+    3655,
+    3273,
+    2000,
+    4281,
+    2954,
+    2139
+  ],
+  "productReviews": [
+    {
+      "productId": 1078,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-11-16T11:09:16.7199904+02:00"
+    },
+    {
+      "productId": 4156,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-02-17T02:39:13.0083429+02:00"
+    },
+    {
+      "productId": 4354,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-06-11T04:19:21.67353+03:00"
+    },
+    {
+      "productId": 1641,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-10-23T00:20:29.9356995+03:00"
+    },
+    {
+      "productId": 992,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-07-04T05:44:30.2568195+03:00"
+    }
+  ]
+}

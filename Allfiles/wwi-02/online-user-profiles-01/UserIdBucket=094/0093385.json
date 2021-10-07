@@ -1,0 +1,33 @@
+{
+  "userId": 93385,
+  "cartId": "a86bd42e-b9e2-4f92-84cf-ee445b56a21e",
+  "preferredProducts": [
+    3729,
+    4321,
+    3032,
+    477,
+    1098,
+    3075,
+    4751,
+    4545,
+    951,
+    2211
+  ],
+  "productReviews": [
+    {
+      "productId": 4039,
+      "reviewText": "this collaborative is ratty.",
+      "reviewDate": "2017-02-09T08:47:58.0076697+02:00"
+    },
+    {
+      "productId": 3865,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2020-02-21T11:06:57.2545426+02:00"
+    },
+    {
+      "productId": 2718,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-05-04T06:01:55.0295342+03:00"
+    }
+  ]
+}

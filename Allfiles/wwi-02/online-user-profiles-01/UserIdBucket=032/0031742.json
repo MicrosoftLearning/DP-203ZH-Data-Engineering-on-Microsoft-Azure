@@ -1,0 +1,39 @@
+{
+  "userId": 31742,
+  "cartId": "7374674e-7668-42a0-a95e-900e407be64a",
+  "preferredProducts": [
+    2060,
+    2600,
+    1101,
+    24,
+    2539,
+    4170
+  ],
+  "productReviews": [
+    {
+      "productId": 3234,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-07-12T23:39:29.0840038+03:00"
+    },
+    {
+      "productId": 1773,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-02-16T11:21:00.1101642+02:00"
+    },
+    {
+      "productId": 137,
+      "reviewText": "this Montana is complimentary.",
+      "reviewDate": "2017-04-21T08:09:47.3448725+03:00"
+    },
+    {
+      "productId": 1175,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-12-28T11:05:18.821937+02:00"
+    },
+    {
+      "productId": 3603,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-06-02T22:13:07.1527267+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 5036,
+  "cartId": "638bf7af-2f7e-43f7-af9c-7e9c0e97a01e",
+  "preferredProducts": [
+    2341,
+    3013
+  ],
+  "productReviews": [
+    {
+      "productId": 585,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-05-17T21:44:42.132904+03:00"
+    },
+    {
+      "productId": 919,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-08-03T15:37:05.0257861+03:00"
+    },
+    {
+      "productId": 1717,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2020-02-19T19:27:03.3448783+02:00"
+    },
+    {
+      "productId": 745,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-09-27T08:27:25.3609036+03:00"
+    }
+  ]
+}

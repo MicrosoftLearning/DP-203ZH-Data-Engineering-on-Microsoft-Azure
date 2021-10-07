@@ -1,0 +1,25 @@
+{
+  "userId": 27132,
+  "cartId": "6edbdaca-ba9f-4a99-9548-dad7c557524e",
+  "preferredProducts": [
+    291,
+    4738
+  ],
+  "productReviews": [
+    {
+      "productId": 4472,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-01-29T04:56:29.1384031+02:00"
+    },
+    {
+      "productId": 4980,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-08-10T13:03:03.3419522+03:00"
+    },
+    {
+      "productId": 4915,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-01-22T21:28:14.0143426+02:00"
+    }
+  ]
+}

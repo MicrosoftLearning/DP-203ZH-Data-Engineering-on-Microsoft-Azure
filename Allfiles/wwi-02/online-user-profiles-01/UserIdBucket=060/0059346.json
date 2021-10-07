@@ -1,0 +1,28 @@
+{
+  "userId": 59346,
+  "cartId": "4ced7485-f642-4a39-9270-3c52937fe430",
+  "preferredProducts": [
+    3450,
+    2561,
+    2068,
+    3980,
+    2434
+  ],
+  "productReviews": [
+    {
+      "productId": 1767,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-04-03T03:02:42.083258+03:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-05-29T02:40:22.5631997+03:00"
+    },
+    {
+      "productId": 4270,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2020-03-04T09:26:14.1096673+02:00"
+    }
+  ]
+}

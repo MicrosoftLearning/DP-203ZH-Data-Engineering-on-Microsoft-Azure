@@ -1,0 +1,36 @@
+{
+  "userId": 83007,
+  "cartId": "e12ec0d7-6ac1-4fa5-bd59-973b852cb972",
+  "preferredProducts": [
+    2601,
+    2741,
+    796,
+    2942,
+    4573,
+    3343,
+    732,
+    2455
+  ],
+  "productReviews": [
+    {
+      "productId": 1105,
+      "reviewText": "this cross-platform is nifty.",
+      "reviewDate": "2017-04-07T02:22:37.8388751+03:00"
+    },
+    {
+      "productId": 4131,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-10-25T22:31:31.7324762+03:00"
+    },
+    {
+      "productId": 717,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-07-24T15:47:54.7120253+03:00"
+    },
+    {
+      "productId": 2413,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-05-11T15:17:06.4461329+03:00"
+    }
+  ]
+}

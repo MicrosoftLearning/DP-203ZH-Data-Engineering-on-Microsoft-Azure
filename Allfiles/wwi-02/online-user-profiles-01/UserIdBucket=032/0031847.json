@@ -1,0 +1,32 @@
+{
+  "userId": 31847,
+  "cartId": "ecbe3540-f943-4c15-926a-a72913f24c0a",
+  "preferredProducts": [
+    1818,
+    2769,
+    4234,
+    4154,
+    167,
+    2325,
+    3073,
+    4876,
+    902
+  ],
+  "productReviews": [
+    {
+      "productId": 434,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-03-01T05:39:23.1125577+02:00"
+    },
+    {
+      "productId": 4255,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-03-08T11:07:52.537075+02:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "This clicks-and-mortar works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-05-24T01:15:43.6082276+03:00"
+    }
+  ]
+}

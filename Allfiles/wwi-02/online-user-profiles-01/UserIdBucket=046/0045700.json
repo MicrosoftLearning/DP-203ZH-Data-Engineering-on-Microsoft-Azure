@@ -1,0 +1,35 @@
+{
+  "userId": 45700,
+  "cartId": "7229d0ac-335d-4e36-b0d6-f11c3de0eb3e",
+  "preferredProducts": [
+    957,
+    2938
+  ],
+  "productReviews": [
+    {
+      "productId": 206,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-04-02T23:38:13.4479215+03:00"
+    },
+    {
+      "productId": 780,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-07-08T06:21:16.6543309+03:00"
+    },
+    {
+      "productId": 3072,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-04-26T19:20:15.3516849+03:00"
+    },
+    {
+      "productId": 2803,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-08-22T16:31:33.8065671+03:00"
+    },
+    {
+      "productId": 1327,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-03-22T15:52:34.3569388+02:00"
+    }
+  ]
+}

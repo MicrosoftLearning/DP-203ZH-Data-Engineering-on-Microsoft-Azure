@@ -1,0 +1,35 @@
+{
+  "userId": 29136,
+  "cartId": "e57497a8-cecc-4046-92f2-def9b5bd374f",
+  "preferredProducts": [
+    2452,
+    4188,
+    4548,
+    4151,
+    2980,
+    4590,
+    2640
+  ],
+  "productReviews": [
+    {
+      "productId": 3801,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-07-14T03:02:09.0915826+03:00"
+    },
+    {
+      "productId": 473,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-01-22T20:00:13.2671564+02:00"
+    },
+    {
+      "productId": 2436,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-09-22T16:12:40.9609186+03:00"
+    },
+    {
+      "productId": 2221,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-07T20:24:44.1888174+03:00"
+    }
+  ]
+}

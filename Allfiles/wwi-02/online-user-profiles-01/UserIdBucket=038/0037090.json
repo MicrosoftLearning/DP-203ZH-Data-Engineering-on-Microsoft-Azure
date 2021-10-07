@@ -1,0 +1,36 @@
+{
+  "userId": 37090,
+  "cartId": "1c3770eb-1090-48ff-aaf0-ce522b8d5ab7",
+  "preferredProducts": [
+    734,
+    1080,
+    2999,
+    4295,
+    4050,
+    1526,
+    4678,
+    4942
+  ],
+  "productReviews": [
+    {
+      "productId": 985,
+      "reviewText": "this indigo is mellow.",
+      "reviewDate": "2019-06-03T08:54:57.3709145+03:00"
+    },
+    {
+      "productId": 2376,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-08-18T18:24:37.7790431+03:00"
+    },
+    {
+      "productId": 1678,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-05-13T20:10:01.4683497+03:00"
+    },
+    {
+      "productId": 2110,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-11-20T10:46:42.6553943+02:00"
+    }
+  ]
+}

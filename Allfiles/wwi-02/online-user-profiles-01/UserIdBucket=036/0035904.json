@@ -1,0 +1,35 @@
+{
+  "userId": 35904,
+  "cartId": "6a14d2b2-31a7-4abc-9b6d-1d3257989e87",
+  "preferredProducts": [
+    4620,
+    3695,
+    2208,
+    1772,
+    3393,
+    3260,
+    3362
+  ],
+  "productReviews": [
+    {
+      "productId": 649,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-09-01T06:59:29.7175904+03:00"
+    },
+    {
+      "productId": 4220,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-02-06T17:57:57.8965261+02:00"
+    },
+    {
+      "productId": 1331,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-08-27T07:05:49.9997917+03:00"
+    },
+    {
+      "productId": 2643,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-05-14T00:32:27.926925+03:00"
+    }
+  ]
+}

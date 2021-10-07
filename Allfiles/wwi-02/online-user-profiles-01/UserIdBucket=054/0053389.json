@@ -1,0 +1,24 @@
+{
+  "userId": 53389,
+  "cartId": "d487859c-7f36-4d8c-aaca-cd85f09625ab",
+  "preferredProducts": [
+    156
+  ],
+  "productReviews": [
+    {
+      "productId": 4003,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-02-17T06:11:25.8742042+02:00"
+    },
+    {
+      "productId": 1610,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-02-18T02:33:39.997462+02:00"
+    },
+    {
+      "productId": 3893,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-08-30T06:38:42.2265578+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 66185,
+  "cartId": "2a770b7f-eac3-4f08-addc-fa31b291a4bf",
+  "preferredProducts": [
+    1947,
+    2032,
+    3391,
+    1235,
+    1027,
+    2112,
+    1399,
+    3388,
+    1159,
+    1958
+  ],
+  "productReviews": [
+    {
+      "productId": 2328,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-10-18T16:13:45.8306901+03:00"
+    },
+    {
+      "productId": 4936,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-02-21T19:45:28.44698+02:00"
+    },
+    {
+      "productId": 3700,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-07-15T14:13:07.9149445+03:00"
+    }
+  ]
+}

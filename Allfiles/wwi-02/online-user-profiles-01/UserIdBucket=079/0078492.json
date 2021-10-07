@@ -1,0 +1,39 @@
+{
+  "userId": 78492,
+  "cartId": "f1938967-5f24-41b6-825d-a9231f8b2ca5",
+  "preferredProducts": [
+    4321,
+    4072,
+    1631,
+    3023,
+    2200,
+    751
+  ],
+  "productReviews": [
+    {
+      "productId": 272,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-03-04T04:12:08.595266+02:00"
+    },
+    {
+      "productId": 2930,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-02-22T01:32:32.5193516+02:00"
+    },
+    {
+      "productId": 3751,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-05-11T18:45:33.7734993+03:00"
+    },
+    {
+      "productId": 4190,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-01-14T06:23:17.3824623+02:00"
+    },
+    {
+      "productId": 4097,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-06-27T00:42:13.3897716+03:00"
+    }
+  ]
+}

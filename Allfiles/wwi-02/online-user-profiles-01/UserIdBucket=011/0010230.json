@@ -1,0 +1,37 @@
+{
+  "userId": 10230,
+  "cartId": "1a13e9f7-3fff-402a-9592-743baeb72aaf",
+  "preferredProducts": [
+    1897,
+    807,
+    3054,
+    573
+  ],
+  "productReviews": [
+    {
+      "productId": 1855,
+      "reviewText": "this olive is snowy.",
+      "reviewDate": "2019-06-22T05:12:36.5563877+03:00"
+    },
+    {
+      "productId": 1507,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-05-31T08:00:28.2907929+03:00"
+    },
+    {
+      "productId": 3103,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2020-03-29T08:30:51.1668885+03:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-05-29T17:43:57.449867+03:00"
+    },
+    {
+      "productId": 515,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-10-01T10:00:05.2773448+03:00"
+    }
+  ]
+}

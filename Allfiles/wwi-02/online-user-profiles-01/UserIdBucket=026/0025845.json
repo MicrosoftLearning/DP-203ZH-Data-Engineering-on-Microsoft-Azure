@@ -1,0 +1,25 @@
+{
+  "userId": 25845,
+  "cartId": "d8078923-7fca-445b-8c74-f40bd3af814c",
+  "preferredProducts": [
+    4389,
+    3125,
+    2997,
+    3534,
+    4326,
+    1864,
+    3360
+  ],
+  "productReviews": [
+    {
+      "productId": 4029,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-09-07T20:01:26.4985326+03:00"
+    },
+    {
+      "productId": 3547,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-03-30T07:19:24.7753232+03:00"
+    }
+  ]
+}

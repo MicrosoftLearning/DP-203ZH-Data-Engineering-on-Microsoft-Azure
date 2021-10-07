@@ -1,0 +1,29 @@
+{
+  "userId": 95491,
+  "cartId": "50c7a6bc-9e29-4a42-be1c-7e782ce782d0",
+  "preferredProducts": [
+    4379,
+    41,
+    2536,
+    838,
+    1580,
+    1345
+  ],
+  "productReviews": [
+    {
+      "productId": 2154,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-07-21T02:12:55.1322134+03:00"
+    },
+    {
+      "productId": 3905,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-04-21T22:45:09.0625273+03:00"
+    },
+    {
+      "productId": 4739,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-04-04T19:22:06.0533709+03:00"
+    }
+  ]
+}

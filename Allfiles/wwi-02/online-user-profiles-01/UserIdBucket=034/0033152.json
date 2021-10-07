@@ -1,0 +1,32 @@
+{
+  "userId": 33152,
+  "cartId": "16eafeee-efe6-437b-8d0a-a6ef18552e31",
+  "preferredProducts": [
+    4238,
+    4247,
+    3363,
+    2929,
+    4613,
+    3566,
+    1041,
+    4633,
+    4169
+  ],
+  "productReviews": [
+    {
+      "productId": 224,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-09-03T09:06:56.2584336+03:00"
+    },
+    {
+      "productId": 2345,
+      "reviewText": "this concept is awesome.",
+      "reviewDate": "2017-05-26T17:04:53.1123269+03:00"
+    },
+    {
+      "productId": 88,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-10-14T04:38:58.5847141+03:00"
+    }
+  ]
+}

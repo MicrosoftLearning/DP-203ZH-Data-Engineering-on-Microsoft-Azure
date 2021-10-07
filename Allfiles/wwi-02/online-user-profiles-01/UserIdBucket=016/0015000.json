@@ -1,0 +1,39 @@
+{
+  "userId": 15000,
+  "cartId": "ced88276-d4c6-4cf5-8079-4ea65c2373a1",
+  "preferredProducts": [
+    492,
+    3034,
+    3648,
+    4521,
+    4519,
+    100
+  ],
+  "productReviews": [
+    {
+      "productId": 683,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-12-16T10:40:36.8326394+02:00"
+    },
+    {
+      "productId": 4571,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-11-29T05:38:59.0995479+02:00"
+    },
+    {
+      "productId": 790,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-01-26T01:43:55.3759664+02:00"
+    },
+    {
+      "productId": 2355,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-07-09T03:58:45.9509188+03:00"
+    },
+    {
+      "productId": 3202,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-09-20T16:47:38.8123241+03:00"
+    }
+  ]
+}

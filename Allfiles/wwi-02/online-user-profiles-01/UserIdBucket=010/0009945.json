@@ -1,0 +1,34 @@
+{
+  "userId": 9945,
+  "cartId": "13aad782-eee0-4918-b1b9-518405324fb4",
+  "preferredProducts": [
+    153,
+    3520,
+    1827,
+    3052,
+    37,
+    2380
+  ],
+  "productReviews": [
+    {
+      "productId": 2524,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-10-31T21:07:30.5721473+02:00"
+    },
+    {
+      "productId": 61,
+      "reviewText": "This XML works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-08-28T01:37:10.3336915+03:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "This SQL works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-11-24T06:22:13.8989912+02:00"
+    },
+    {
+      "productId": 48,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-05-02T13:34:35.2515201+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 9788,
+  "cartId": "a1bb463d-62fb-43e9-83b6-350d95bf202a",
+  "preferredProducts": [
+    2770,
+    3164,
+    3233,
+    903,
+    3915
+  ],
+  "productReviews": [
+    {
+      "productId": 3834,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-11-26T00:56:05.6052857+02:00"
+    },
+    {
+      "productId": 4513,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2020-03-01T08:45:26.9820697+02:00"
+    },
+    {
+      "productId": 3513,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-03-09T13:04:44.1979579+02:00"
+    },
+    {
+      "productId": 3537,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-08-27T19:15:03.2510607+03:00"
+    }
+  ]
+}

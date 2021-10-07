@@ -1,0 +1,27 @@
+{
+  "userId": 39922,
+  "cartId": "647cee8c-7a52-4944-9f44-6271d114d87d",
+  "preferredProducts": [
+    3150,
+    2935,
+    236,
+    819
+  ],
+  "productReviews": [
+    {
+      "productId": 1850,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-02-12T16:50:00.4405944+02:00"
+    },
+    {
+      "productId": 3290,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-11-18T01:40:26.7109184+02:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-07-12T16:17:39.5277369+03:00"
+    }
+  ]
+}

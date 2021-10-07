@@ -1,0 +1,36 @@
+{
+  "userId": 42378,
+  "cartId": "f893b101-492e-481a-b3bd-219221f0383a",
+  "preferredProducts": [
+    4053,
+    4198,
+    1445,
+    4478,
+    169,
+    3328,
+    1074,
+    3846
+  ],
+  "productReviews": [
+    {
+      "productId": 3469,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-02-24T03:05:18.1627997+02:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-02-16T18:53:20.7870537+02:00"
+    },
+    {
+      "productId": 1087,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-02-28T12:48:00.1768057+02:00"
+    },
+    {
+      "productId": 2163,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-01-18T05:07:44.9508043+02:00"
+    }
+  ]
+}

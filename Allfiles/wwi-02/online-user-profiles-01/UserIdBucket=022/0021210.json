@@ -1,0 +1,31 @@
+{
+  "userId": 21210,
+  "cartId": "89603673-a256-491e-9c39-0ed4a8e814f4",
+  "preferredProducts": [
+    4370,
+    2506,
+    1560,
+    3598,
+    779,
+    4264,
+    4851,
+    4873
+  ],
+  "productReviews": [
+    {
+      "productId": 533,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-02-18T16:43:38.8005097+02:00"
+    },
+    {
+      "productId": 1146,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-10-15T23:24:56.4841846+03:00"
+    },
+    {
+      "productId": 1730,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-05-28T23:43:17.8051913+03:00"
+    }
+  ]
+}

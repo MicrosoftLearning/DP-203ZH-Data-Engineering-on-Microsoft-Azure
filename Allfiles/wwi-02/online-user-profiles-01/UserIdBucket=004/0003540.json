@@ -1,0 +1,40 @@
+{
+  "userId": 3540,
+  "cartId": "2d07be35-dd23-478a-9d9b-4e645eda89f1",
+  "preferredProducts": [
+    2326,
+    4822,
+    3461,
+    3387,
+    1929,
+    3324,
+    3743
+  ],
+  "productReviews": [
+    {
+      "productId": 3539,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-07-04T16:51:32.6379188+03:00"
+    },
+    {
+      "productId": 388,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-09-23T06:38:36.1351965+03:00"
+    },
+    {
+      "productId": 4517,
+      "reviewText": "This Gardens works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-04-06T12:20:25.1781832+03:00"
+    },
+    {
+      "productId": 1648,
+      "reviewText": "this Rubber is mellow.",
+      "reviewDate": "2019-06-19T05:37:45.6903085+03:00"
+    },
+    {
+      "productId": 690,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-04-04T09:29:45.6272488+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 36667,
+  "cartId": "4244e1d4-5193-43d1-8c2c-02282b4a750d",
+  "preferredProducts": [
+    1875,
+    3654,
+    4469,
+    4223,
+    4000,
+    4904,
+    2817,
+    1244,
+    3445
+  ],
+  "productReviews": [
+    {
+      "productId": 3930,
+      "reviewText": "this back-end is slurpee.",
+      "reviewDate": "2017-09-18T15:52:47.8047971+03:00"
+    },
+    {
+      "productId": 2932,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-01-27T11:42:46.7737145+02:00"
+    },
+    {
+      "productId": 1154,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-11-28T16:53:15.3425701+02:00"
+    }
+  ]
+}

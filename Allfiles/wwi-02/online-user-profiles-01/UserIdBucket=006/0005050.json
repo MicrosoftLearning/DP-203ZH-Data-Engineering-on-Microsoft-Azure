@@ -1,0 +1,28 @@
+{
+  "userId": 5050,
+  "cartId": "ad6aec8b-646d-4a65-8f84-b5113b1f9d8a",
+  "preferredProducts": [
+    33,
+    278,
+    638,
+    3243,
+    4087
+  ],
+  "productReviews": [
+    {
+      "productId": 318,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-11-15T05:49:03.0184801+02:00"
+    },
+    {
+      "productId": 3428,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-08-23T05:34:55.3820472+03:00"
+    },
+    {
+      "productId": 3684,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-01-23T04:53:06.3930832+02:00"
+    }
+  ]
+}

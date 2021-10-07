@@ -1,0 +1,42 @@
+{
+  "userId": 2,
+  "cartId": "96b9cdc6-b558-41a6-b91a-6efe74ca9eb8",
+  "preferredProducts": [
+    1638,
+    990,
+    3893,
+    2895,
+    3893,
+    2992,
+    2784,
+    4427,
+    1868
+  ],
+  "productReviews": [
+    {
+      "productId": 4151,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-02-19T03:53:23.7147695+02:00"
+    },
+    {
+      "productId": 374,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-02-05T05:41:38.9936265+02:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-22T04:54:44.8021034+02:00"
+    },
+    {
+      "productId": 1808,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-07-02T08:26:24.6423449+03:00"
+    },
+    {
+      "productId": 4450,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-03-03T03:15:01.6887626+02:00"
+    }
+  ]
+}

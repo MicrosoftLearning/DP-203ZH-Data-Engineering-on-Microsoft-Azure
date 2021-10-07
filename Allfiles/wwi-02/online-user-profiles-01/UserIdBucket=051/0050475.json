@@ -1,0 +1,36 @@
+{
+  "userId": 50475,
+  "cartId": "a1dcda2b-87f3-45d8-ad6e-74451b495d30",
+  "preferredProducts": [
+    632,
+    1610,
+    3273,
+    103,
+    4823,
+    3368,
+    1312,
+    4142
+  ],
+  "productReviews": [
+    {
+      "productId": 2128,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-11-15T11:22:06.521255+02:00"
+    },
+    {
+      "productId": 1367,
+      "reviewText": "This alarm works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-11-05T02:44:21.5259981+02:00"
+    },
+    {
+      "productId": 4490,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-11-26T09:16:03.9294957+02:00"
+    },
+    {
+      "productId": 4294,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-05-11T00:28:43.1037795+03:00"
+    }
+  ]
+}

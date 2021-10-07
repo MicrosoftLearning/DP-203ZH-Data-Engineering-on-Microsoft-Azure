@@ -1,0 +1,35 @@
+{
+  "userId": 13714,
+  "cartId": "60ca9c33-54ff-4986-84a8-8fd2d597f1d9",
+  "preferredProducts": [
+    3246,
+    1788,
+    3459,
+    224,
+    1961,
+    705,
+    4274
+  ],
+  "productReviews": [
+    {
+      "productId": 659,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-17T21:45:14.7191387+03:00"
+    },
+    {
+      "productId": 2013,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-10-06T10:33:04.8900835+03:00"
+    },
+    {
+      "productId": 3446,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-12-20T02:13:20.5862537+02:00"
+    },
+    {
+      "productId": 3185,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-01-13T17:05:33.1817788+02:00"
+    }
+  ]
+}

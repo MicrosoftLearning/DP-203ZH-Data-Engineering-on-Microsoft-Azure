@@ -1,0 +1,33 @@
+{
+  "userId": 18214,
+  "cartId": "06d2d5df-70d2-4766-8dc3-0550bec9e818",
+  "preferredProducts": [
+    1818,
+    3332,
+    3235,
+    4093,
+    1465
+  ],
+  "productReviews": [
+    {
+      "productId": 2439,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-04-27T12:47:57.6617435+03:00"
+    },
+    {
+      "productId": 929,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-08-21T02:05:56.6112145+03:00"
+    },
+    {
+      "productId": 1869,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-08-03T10:12:15.9570048+03:00"
+    },
+    {
+      "productId": 2561,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-10-31T10:21:30.5741161+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 7274,
+  "cartId": "3f420f1c-bc1f-4ddc-98d0-fab29f107c67",
+  "preferredProducts": [
+    1874,
+    3573,
+    2228,
+    4564,
+    3588
+  ],
+  "productReviews": [
+    {
+      "productId": 1615,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-05-16T14:04:10.6742665+03:00"
+    },
+    {
+      "productId": 499,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-08-25T00:58:53.6699131+03:00"
+    },
+    {
+      "productId": 3187,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-03-10T02:31:51.044294+02:00"
+    },
+    {
+      "productId": 834,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-08T11:01:52.0997731+02:00"
+    },
+    {
+      "productId": 1189,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-08-06T09:43:30.9311928+03:00"
+    }
+  ]
+}

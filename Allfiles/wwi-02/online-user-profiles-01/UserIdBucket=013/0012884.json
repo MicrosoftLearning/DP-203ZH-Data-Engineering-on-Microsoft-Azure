@@ -1,0 +1,28 @@
+{
+  "userId": 12884,
+  "cartId": "2ba3b7de-4e6b-404a-91c6-00c2941f5ba8",
+  "preferredProducts": [
+    2901,
+    1323,
+    2293,
+    3421,
+    1273
+  ],
+  "productReviews": [
+    {
+      "productId": 2162,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2016-07-13T06:00:31.158834+03:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-04-04T03:48:31.3484899+03:00"
+    },
+    {
+      "productId": 856,
+      "reviewText": "this Savings Account is papery.",
+      "reviewDate": "2019-04-23T23:10:37.8188068+03:00"
+    }
+  ]
+}

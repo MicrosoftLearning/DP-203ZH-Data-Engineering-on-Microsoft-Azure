@@ -1,0 +1,31 @@
+{
+  "userId": 8898,
+  "cartId": "8e92065d-c40f-47c0-8cbb-a26b04b19b19",
+  "preferredProducts": [
+    3502,
+    1120,
+    4216,
+    781,
+    3525,
+    2874,
+    2370,
+    4665
+  ],
+  "productReviews": [
+    {
+      "productId": 3681,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-06-14T13:34:17.3615184+03:00"
+    },
+    {
+      "productId": 4249,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-06-04T06:53:32.3582431+03:00"
+    },
+    {
+      "productId": 3782,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-11-18T12:30:08.7533165+02:00"
+    }
+  ]
+}

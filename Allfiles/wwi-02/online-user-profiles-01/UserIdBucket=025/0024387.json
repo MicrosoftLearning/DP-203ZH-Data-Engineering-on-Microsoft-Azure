@@ -1,0 +1,39 @@
+{
+  "userId": 24387,
+  "cartId": "d527ad33-c07b-4bc2-a591-a979644e5ddc",
+  "preferredProducts": [
+    4446,
+    649,
+    957,
+    413,
+    3058,
+    2042
+  ],
+  "productReviews": [
+    {
+      "productId": 4815,
+      "reviewText": "this Berkshire is mellow.",
+      "reviewDate": "2017-12-01T07:13:58.1859816+02:00"
+    },
+    {
+      "productId": 877,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-07-15T18:20:55.477787+03:00"
+    },
+    {
+      "productId": 4028,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-01-17T20:03:12.423347+02:00"
+    },
+    {
+      "productId": 4473,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-07-15T13:07:25.7574031+03:00"
+    },
+    {
+      "productId": 4787,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-06-14T09:52:32.4708362+03:00"
+    }
+  ]
+}

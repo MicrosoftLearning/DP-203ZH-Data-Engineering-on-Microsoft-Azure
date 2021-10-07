@@ -1,0 +1,31 @@
+{
+  "userId": 50225,
+  "cartId": "b6d4ce88-9674-4e12-b469-3bc426c24a97",
+  "preferredProducts": [
+    4492,
+    776,
+    435,
+    3790,
+    1762,
+    1536,
+    2825,
+    2968
+  ],
+  "productReviews": [
+    {
+      "productId": 3073,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-03-18T17:05:49.3812628+02:00"
+    },
+    {
+      "productId": 4438,
+      "reviewText": "This navigate works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2016-06-29T11:00:13.152345+03:00"
+    },
+    {
+      "productId": 2585,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-11-07T17:15:57.4721217+02:00"
+    }
+  ]
+}

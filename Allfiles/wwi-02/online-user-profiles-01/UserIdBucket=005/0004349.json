@@ -1,0 +1,36 @@
+{
+  "userId": 4349,
+  "cartId": "e65b2fe7-4cb7-49b0-b8a6-44b4f5520e04",
+  "preferredProducts": [
+    3989,
+    3747,
+    2821,
+    1049,
+    3835,
+    26,
+    4619,
+    102
+  ],
+  "productReviews": [
+    {
+      "productId": 1140,
+      "reviewText": "this magenta is smooth.",
+      "reviewDate": "2016-11-25T12:14:35.7275664+02:00"
+    },
+    {
+      "productId": 3407,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-06-14T13:22:35.0365295+03:00"
+    },
+    {
+      "productId": 795,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-08-07T04:09:51.0037275+03:00"
+    },
+    {
+      "productId": 1071,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-09-17T02:45:55.6578762+03:00"
+    }
+  ]
+}

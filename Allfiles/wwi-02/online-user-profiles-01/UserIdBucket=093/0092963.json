@@ -1,0 +1,29 @@
+{
+  "userId": 92963,
+  "cartId": "e3a29e5b-99cb-4e4b-8c4a-72829c57f18e",
+  "preferredProducts": [
+    2978,
+    3412,
+    220,
+    4180,
+    500,
+    1647
+  ],
+  "productReviews": [
+    {
+      "productId": 3561,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-01-14T23:10:28.5667914+02:00"
+    },
+    {
+      "productId": 1083,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-01-05T21:11:36.9524937+02:00"
+    },
+    {
+      "productId": 3026,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-07-23T08:15:05.5843488+03:00"
+    }
+  ]
+}

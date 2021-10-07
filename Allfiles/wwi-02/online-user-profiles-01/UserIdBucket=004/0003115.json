@@ -1,0 +1,32 @@
+{
+  "userId": 3115,
+  "cartId": "1a06a652-6012-4bdf-8d5a-c0ee7f4b094b",
+  "preferredProducts": [
+    4097,
+    2123,
+    2060,
+    2051
+  ],
+  "productReviews": [
+    {
+      "productId": 4460,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-03-22T02:06:32.0897215+02:00"
+    },
+    {
+      "productId": 2688,
+      "reviewText": "this mesh is vertical.",
+      "reviewDate": "2020-01-09T16:53:31.4294566+02:00"
+    },
+    {
+      "productId": 4451,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-11-24T05:25:09.3825368+02:00"
+    },
+    {
+      "productId": 1151,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-10-28T04:37:20.4459369+03:00"
+    }
+  ]
+}

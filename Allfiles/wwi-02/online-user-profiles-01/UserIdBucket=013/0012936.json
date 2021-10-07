@@ -1,0 +1,38 @@
+{
+  "userId": 12936,
+  "cartId": "c74dc123-395c-45ce-a8e2-bc50d67dd286",
+  "preferredProducts": [
+    4251,
+    331,
+    2752,
+    33,
+    4046
+  ],
+  "productReviews": [
+    {
+      "productId": 1030,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-06-09T13:23:32.2696434+03:00"
+    },
+    {
+      "productId": 3350,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-01-29T20:35:03.8783807+02:00"
+    },
+    {
+      "productId": 1988,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-10-25T05:24:30.3597264+03:00"
+    },
+    {
+      "productId": 601,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-06-06T20:57:28.7348222+03:00"
+    },
+    {
+      "productId": 451,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-10-26T03:34:45.1415756+03:00"
+    }
+  ]
+}

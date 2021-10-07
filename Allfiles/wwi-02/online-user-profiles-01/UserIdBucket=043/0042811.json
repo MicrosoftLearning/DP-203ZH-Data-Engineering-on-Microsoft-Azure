@@ -1,0 +1,30 @@
+{
+  "userId": 42811,
+  "cartId": "dcb02572-4dc3-41ea-ae0d-edce2d772d46",
+  "preferredProducts": [
+    4424,
+    1692,
+    3821,
+    1420,
+    107,
+    313,
+    3198
+  ],
+  "productReviews": [
+    {
+      "productId": 4311,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-11-05T06:10:12.0926104+02:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-07-28T12:29:31.5237296+03:00"
+    },
+    {
+      "productId": 4889,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-01-24T08:36:57.0407377+02:00"
+    }
+  ]
+}

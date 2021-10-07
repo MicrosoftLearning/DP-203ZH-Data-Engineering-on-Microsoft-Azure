@@ -1,0 +1,34 @@
+{
+  "userId": 30643,
+  "cartId": "a72540a1-2f9d-486d-9127-1afee98e806d",
+  "preferredProducts": [
+    10,
+    1880,
+    408,
+    2161,
+    1312,
+    3454
+  ],
+  "productReviews": [
+    {
+      "productId": 471,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-02-28T12:03:53.772785+02:00"
+    },
+    {
+      "productId": 275,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-01-10T00:57:26.2245136+02:00"
+    },
+    {
+      "productId": 2030,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-04-08T09:58:43.3456993+03:00"
+    },
+    {
+      "productId": 1344,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-10-08T09:01:23.047805+03:00"
+    }
+  ]
+}

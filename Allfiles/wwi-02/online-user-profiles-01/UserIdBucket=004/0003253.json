@@ -1,0 +1,32 @@
+{
+  "userId": 3253,
+  "cartId": "fcc6be98-cc67-4b97-856c-f345f6626270",
+  "preferredProducts": [
+    94,
+    4368,
+    845,
+    4196,
+    2797,
+    754,
+    4347,
+    4015,
+    2009
+  ],
+  "productReviews": [
+    {
+      "productId": 1114,
+      "reviewText": "this Small Steel Car is standard.",
+      "reviewDate": "2016-12-30T13:36:57.173348+02:00"
+    },
+    {
+      "productId": 4111,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-11-25T18:21:59.004963+02:00"
+    },
+    {
+      "productId": 2214,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-10-30T18:32:35.8139046+02:00"
+    }
+  ]
+}

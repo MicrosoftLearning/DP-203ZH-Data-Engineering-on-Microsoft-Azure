@@ -1,0 +1,25 @@
+{
+  "userId": 2030,
+  "cartId": "ed8069a6-23b5-444a-986e-4fa9343f9e80",
+  "preferredProducts": [
+    4754,
+    870,
+    4979,
+    4328,
+    3785,
+    2681,
+    639
+  ],
+  "productReviews": [
+    {
+      "productId": 4530,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-11-22T18:06:36.3859495+02:00"
+    },
+    {
+      "productId": 2503,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-04-07T22:46:59.0456795+03:00"
+    }
+  ]
+}

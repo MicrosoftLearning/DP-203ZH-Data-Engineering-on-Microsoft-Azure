@@ -1,0 +1,33 @@
+{
+  "userId": 65915,
+  "cartId": "9cba9422-b515-4af4-b347-48b4d581d360",
+  "preferredProducts": [
+    4987,
+    2635,
+    101,
+    3736,
+    2057,
+    797,
+    302,
+    87,
+    4370,
+    3269
+  ],
+  "productReviews": [
+    {
+      "productId": 1488,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-11-30T12:26:42.3542798+02:00"
+    },
+    {
+      "productId": 503,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-04-02T15:00:21.3417469+03:00"
+    },
+    {
+      "productId": 4651,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-12-21T18:31:30.6047219+02:00"
+    }
+  ]
+}

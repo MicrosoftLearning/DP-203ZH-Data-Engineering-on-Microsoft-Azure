@@ -1,0 +1,28 @@
+{
+  "userId": 69482,
+  "cartId": "04184402-44bc-4f0a-b3f8-2af496955da4",
+  "preferredProducts": [
+    1911,
+    3519,
+    2485,
+    436,
+    3826
+  ],
+  "productReviews": [
+    {
+      "productId": 1233,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-06-26T15:02:28.602903+03:00"
+    },
+    {
+      "productId": 4780,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-09-12T18:11:10.808382+03:00"
+    },
+    {
+      "productId": 56,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-07-31T06:55:19.7435484+03:00"
+    }
+  ]
+}

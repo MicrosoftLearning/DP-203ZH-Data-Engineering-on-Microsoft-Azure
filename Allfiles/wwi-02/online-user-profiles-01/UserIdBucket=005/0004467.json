@@ -1,0 +1,27 @@
+{
+  "userId": 4467,
+  "cartId": "ab42c8f1-5ea6-4665-85a0-975f2314b52b",
+  "preferredProducts": [
+    4459,
+    4999,
+    4655,
+    3933
+  ],
+  "productReviews": [
+    {
+      "productId": 2223,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-09-19T09:44:39.9139341+03:00"
+    },
+    {
+      "productId": 2837,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-07-19T01:16:59.9071111+03:00"
+    },
+    {
+      "productId": 1409,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-07-07T05:33:26.7535363+03:00"
+    }
+  ]
+}

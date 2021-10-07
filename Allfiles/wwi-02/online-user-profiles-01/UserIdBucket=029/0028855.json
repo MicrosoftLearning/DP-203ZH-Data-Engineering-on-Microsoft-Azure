@@ -1,0 +1,38 @@
+{
+  "userId": 28855,
+  "cartId": "7394103a-8c42-4981-a741-43b9b1a665c8",
+  "preferredProducts": [
+    841,
+    4318,
+    4092,
+    340,
+    101
+  ],
+  "productReviews": [
+    {
+      "productId": 2234,
+      "reviewText": "this invoice is mellow.",
+      "reviewDate": "2019-12-29T16:11:08.9065895+02:00"
+    },
+    {
+      "productId": 3489,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-11-22T18:47:03.5226506+02:00"
+    },
+    {
+      "productId": 4676,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-01-29T13:04:51.3629616+02:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-04-16T22:21:12.9211656+03:00"
+    },
+    {
+      "productId": 2416,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-03-20T00:25:23.5511279+02:00"
+    }
+  ]
+}

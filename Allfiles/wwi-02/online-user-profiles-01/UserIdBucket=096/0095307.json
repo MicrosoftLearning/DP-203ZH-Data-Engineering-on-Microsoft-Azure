@@ -1,0 +1,28 @@
+{
+  "userId": 95307,
+  "cartId": "d29c8b5f-38b6-4990-aec6-1b55d096cd33",
+  "preferredProducts": [
+    2218,
+    561,
+    1726,
+    744,
+    2440
+  ],
+  "productReviews": [
+    {
+      "productId": 1130,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-04T03:11:27.6842205+02:00"
+    },
+    {
+      "productId": 1992,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-04-27T07:47:10.6528838+03:00"
+    },
+    {
+      "productId": 3985,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-07-19T12:49:06.0767481+03:00"
+    }
+  ]
+}

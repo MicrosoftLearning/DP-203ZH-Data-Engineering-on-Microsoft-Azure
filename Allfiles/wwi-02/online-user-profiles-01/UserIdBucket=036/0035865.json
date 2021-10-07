@@ -1,0 +1,36 @@
+{
+  "userId": 35865,
+  "cartId": "6aa5f99f-e231-4c5f-9758-0d8f2ea6f24c",
+  "preferredProducts": [
+    4871,
+    298,
+    1076,
+    2813,
+    4326,
+    2081,
+    303,
+    3355
+  ],
+  "productReviews": [
+    {
+      "productId": 1101,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-10-14T18:03:39.069282+03:00"
+    },
+    {
+      "productId": 907,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-12-05T04:48:36.7257237+02:00"
+    },
+    {
+      "productId": 620,
+      "reviewText": "This pixel works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-12-19T19:05:17.8471501+02:00"
+    },
+    {
+      "productId": 2782,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-07-24T20:02:52.0678496+03:00"
+    }
+  ]
+}

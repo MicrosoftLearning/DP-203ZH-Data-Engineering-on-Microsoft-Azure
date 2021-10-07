@@ -1,0 +1,35 @@
+{
+  "userId": 22841,
+  "cartId": "e6cd7e10-560a-491a-978d-ec999260443d",
+  "preferredProducts": [
+    4070,
+    1302,
+    3557,
+    4591,
+    2672,
+    2752,
+    3538
+  ],
+  "productReviews": [
+    {
+      "productId": 2474,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2020-04-04T02:36:20.8619873+03:00"
+    },
+    {
+      "productId": 3812,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-05-09T11:21:04.325481+03:00"
+    },
+    {
+      "productId": 1990,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-11-26T12:19:02.1537356+02:00"
+    },
+    {
+      "productId": 4770,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-12-03T20:39:24.0860636+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 57668,
+  "cartId": "d347da57-172e-4a85-bf24-5f50f8586a25",
+  "preferredProducts": [
+    643,
+    2932
+  ],
+  "productReviews": [
+    {
+      "productId": 120,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-08-24T02:23:41.876885+03:00"
+    },
+    {
+      "productId": 3555,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-11-28T04:43:27.9654715+02:00"
+    },
+    {
+      "productId": 3648,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-11-09T22:57:49.6786371+02:00"
+    }
+  ]
+}

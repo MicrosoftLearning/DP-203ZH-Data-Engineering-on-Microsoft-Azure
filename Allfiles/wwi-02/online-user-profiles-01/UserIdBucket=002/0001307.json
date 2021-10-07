@@ -1,0 +1,33 @@
+{
+  "userId": 1307,
+  "cartId": "991f2c14-07b5-40c6-9ee6-c88562ce73a1",
+  "preferredProducts": [
+    1078,
+    3996,
+    1643,
+    2817,
+    2512,
+    209,
+    3362,
+    242,
+    3092,
+    3345
+  ],
+  "productReviews": [
+    {
+      "productId": 3919,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-11-25T02:00:35.5698378+02:00"
+    },
+    {
+      "productId": 4340,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-11-05T15:55:11.7480244+02:00"
+    },
+    {
+      "productId": 1921,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-12-19T10:15:12.3859634+02:00"
+    }
+  ]
+}

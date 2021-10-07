@@ -1,0 +1,33 @@
+{
+  "userId": 11021,
+  "cartId": "de5064be-b2cf-4ade-8997-39b721122939",
+  "preferredProducts": [
+    412,
+    2543,
+    1766,
+    3868,
+    3442,
+    3476,
+    2490,
+    4531,
+    1493,
+    4377
+  ],
+  "productReviews": [
+    {
+      "productId": 3776,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-08-01T18:23:21.9928807+03:00"
+    },
+    {
+      "productId": 2177,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-02-05T07:55:33.7099722+02:00"
+    },
+    {
+      "productId": 3140,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-06-14T17:01:59.0595853+03:00"
+    }
+  ]
+}

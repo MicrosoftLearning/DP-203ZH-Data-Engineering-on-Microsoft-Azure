@@ -1,0 +1,22 @@
+{
+  "userId": 23465,
+  "cartId": "6020d184-8f7e-4689-9f1f-6a75a8d669b5",
+  "preferredProducts": [
+    2500,
+    1001,
+    2552,
+    3460
+  ],
+  "productReviews": [
+    {
+      "productId": 4413,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-11-05T11:36:48.0974942+02:00"
+    },
+    {
+      "productId": 2304,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2020-04-26T15:44:56.8456402+03:00"
+    }
+  ]
+}

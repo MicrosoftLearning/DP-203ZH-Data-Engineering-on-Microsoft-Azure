@@ -1,0 +1,38 @@
+{
+  "userId": 99519,
+  "cartId": "6cf03030-3cd9-4abd-94a3-922a059188f9",
+  "preferredProducts": [
+    1421,
+    4181,
+    969,
+    1495,
+    1576,
+    1773,
+    1802,
+    3456,
+    3390,
+    2065
+  ],
+  "productReviews": [
+    {
+      "productId": 2625,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-05-02T17:30:40.4229451+03:00"
+    },
+    {
+      "productId": 2801,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-11-19T09:28:23.1919716+02:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-05-09T04:38:15.414008+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-02-27T19:55:13.1363804+02:00"
+    }
+  ]
+}

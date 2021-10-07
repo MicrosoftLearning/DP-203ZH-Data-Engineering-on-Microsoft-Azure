@@ -1,0 +1,27 @@
+{
+  "userId": 11123,
+  "cartId": "607188ba-ddbf-43fd-937a-2d16dc03750a",
+  "preferredProducts": [
+    1479,
+    2553,
+    1566,
+    3089
+  ],
+  "productReviews": [
+    {
+      "productId": 3253,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-04-13T05:45:58.9881204+03:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-05-24T04:08:13.6438413+03:00"
+    },
+    {
+      "productId": 1207,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-10-24T22:55:18.7991817+03:00"
+    }
+  ]
+}

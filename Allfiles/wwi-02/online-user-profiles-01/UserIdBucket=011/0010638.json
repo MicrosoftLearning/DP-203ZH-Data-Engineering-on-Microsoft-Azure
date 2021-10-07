@@ -1,0 +1,26 @@
+{
+  "userId": 10638,
+  "cartId": "91ca5536-76fd-4765-ad75-787cf3a50d39",
+  "preferredProducts": [
+    1707,
+    2533,
+    1278
+  ],
+  "productReviews": [
+    {
+      "productId": 3035,
+      "reviewText": "this withdrawal is ratty.",
+      "reviewDate": "2018-09-12T18:10:11.4824119+03:00"
+    },
+    {
+      "productId": 2660,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-02-22T02:05:30.0718252+02:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-08-30T17:57:40.5875251+03:00"
+    }
+  ]
+}

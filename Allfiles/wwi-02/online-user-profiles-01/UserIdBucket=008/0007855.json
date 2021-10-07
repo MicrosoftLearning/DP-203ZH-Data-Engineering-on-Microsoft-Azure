@@ -1,0 +1,32 @@
+{
+  "userId": 7855,
+  "cartId": "b8477747-aaf5-42db-8218-72632c49e273",
+  "preferredProducts": [
+    2728,
+    2915,
+    2583,
+    3325
+  ],
+  "productReviews": [
+    {
+      "productId": 3414,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-02-16T10:34:46.9885638+02:00"
+    },
+    {
+      "productId": 347,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-12-07T01:57:11.6588372+02:00"
+    },
+    {
+      "productId": 369,
+      "reviewText": "this initiatives is flirty.",
+      "reviewDate": "2020-05-05T11:56:10.8738009+03:00"
+    },
+    {
+      "productId": 1043,
+      "reviewText": "this US Dollar is tasty.",
+      "reviewDate": "2019-05-14T19:16:12.893436+03:00"
+    }
+  ]
+}

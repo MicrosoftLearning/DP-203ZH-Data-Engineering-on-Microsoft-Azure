@@ -1,0 +1,26 @@
+{
+  "userId": 5846,
+  "cartId": "ca92c496-0d94-4e69-a339-9025c01465e8",
+  "preferredProducts": [
+    1997,
+    647,
+    91
+  ],
+  "productReviews": [
+    {
+      "productId": 2753,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-10-19T04:48:25.2588697+03:00"
+    },
+    {
+      "productId": 2635,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-04-04T22:30:38.9511246+03:00"
+    },
+    {
+      "productId": 847,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-01-13T02:29:36.3672391+02:00"
+    }
+  ]
+}

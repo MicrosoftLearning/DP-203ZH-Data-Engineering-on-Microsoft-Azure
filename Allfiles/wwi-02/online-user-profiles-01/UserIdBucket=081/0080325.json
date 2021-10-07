@@ -1,0 +1,30 @@
+{
+  "userId": 80325,
+  "cartId": "cadfd39d-a6a9-4481-aa09-478de1330491",
+  "preferredProducts": [
+    930,
+    1823,
+    1273,
+    1687,
+    4230,
+    2917,
+    2288
+  ],
+  "productReviews": [
+    {
+      "productId": 683,
+      "reviewText": "this Agent is standard.",
+      "reviewDate": "2018-01-22T20:23:16.5308914+02:00"
+    },
+    {
+      "productId": 1407,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-11-30T23:46:19.7814646+02:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-10-12T20:30:12.2540214+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 23337,
+  "cartId": "ceaa3a0b-06e8-400a-a36a-bcb263e66c01",
+  "preferredProducts": [
+    4290,
+    3578,
+    1863,
+    2518,
+    2157
+  ],
+  "productReviews": [
+    {
+      "productId": 1743,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-12-13T13:46:08.8448698+02:00"
+    },
+    {
+      "productId": 842,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-05-02T17:02:10.21227+03:00"
+    },
+    {
+      "productId": 1680,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-01-30T16:46:32.8523203+02:00"
+    },
+    {
+      "productId": 2769,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-05-18T04:24:04.8839149+03:00"
+    }
+  ]
+}

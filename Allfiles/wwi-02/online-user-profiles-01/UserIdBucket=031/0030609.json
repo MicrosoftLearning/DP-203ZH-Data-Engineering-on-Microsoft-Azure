@@ -1,0 +1,31 @@
+{
+  "userId": 30609,
+  "cartId": "80824267-44bf-4a01-b393-abc551ae694f",
+  "preferredProducts": [
+    1288,
+    2777,
+    1876,
+    3386,
+    4504,
+    1932,
+    1390,
+    36
+  ],
+  "productReviews": [
+    {
+      "productId": 3331,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-06-25T02:51:47.4652374+03:00"
+    },
+    {
+      "productId": 2452,
+      "reviewText": "This Legacy, does exactly what it's suppose to do.",
+      "reviewDate": "2017-01-17T17:29:02.4833783+02:00"
+    },
+    {
+      "productId": 592,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-10-10T12:11:12.023626+03:00"
+    }
+  ]
+}

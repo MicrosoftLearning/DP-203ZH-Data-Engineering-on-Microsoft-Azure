@@ -1,0 +1,31 @@
+{
+  "userId": 7708,
+  "cartId": "8e9c8fd7-1634-46bc-b655-4d81fed8c38b",
+  "preferredProducts": [
+    2817,
+    455,
+    4906
+  ],
+  "productReviews": [
+    {
+      "productId": 1111,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-12-09T05:27:31.8121778+02:00"
+    },
+    {
+      "productId": 860,
+      "reviewText": "This Berkshire works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-07-06T22:58:47.5133021+03:00"
+    },
+    {
+      "productId": 2507,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-12-06T18:40:34.8330185+02:00"
+    },
+    {
+      "productId": 1529,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-06-22T01:27:06.4164022+03:00"
+    }
+  ]
+}

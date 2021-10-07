@@ -1,0 +1,33 @@
+{
+  "userId": 2963,
+  "cartId": "19108648-3442-4d26-9c27-23836a3f61cd",
+  "preferredProducts": [
+    855,
+    1069,
+    3688,
+    2015,
+    1898
+  ],
+  "productReviews": [
+    {
+      "productId": 3281,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-01-07T22:23:40.800125+02:00"
+    },
+    {
+      "productId": 3838,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-02-06T16:49:50.9654639+02:00"
+    },
+    {
+      "productId": 267,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-09-03T08:17:40.1221609+03:00"
+    },
+    {
+      "productId": 4861,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-02-17T05:51:05.316153+02:00"
+    }
+  ]
+}

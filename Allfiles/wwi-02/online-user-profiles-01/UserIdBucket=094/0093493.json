@@ -1,0 +1,35 @@
+{
+  "userId": 93493,
+  "cartId": "7bc9e09c-e98f-4162-a038-7ffd23cca771",
+  "preferredProducts": [
+    4627,
+    4609,
+    3641,
+    4632,
+    4998,
+    4724,
+    3343
+  ],
+  "productReviews": [
+    {
+      "productId": 2454,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-09-17T11:34:41.4812931+03:00"
+    },
+    {
+      "productId": 3553,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-07-08T13:04:24.2307878+03:00"
+    },
+    {
+      "productId": 790,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-11-22T13:23:50.2319915+02:00"
+    },
+    {
+      "productId": 2970,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-08-28T22:10:00.8654353+03:00"
+    }
+  ]
+}

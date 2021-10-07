@@ -1,0 +1,38 @@
+{
+  "userId": 37342,
+  "cartId": "c8456dbe-4563-48ee-9454-b6e710a50a07",
+  "preferredProducts": [
+    4683,
+    1784,
+    59,
+    3361,
+    3696,
+    4219,
+    3622,
+    4888,
+    1136,
+    848
+  ],
+  "productReviews": [
+    {
+      "productId": 4309,
+      "reviewText": "this digital is mellow.",
+      "reviewDate": "2017-08-22T16:00:53.2481472+03:00"
+    },
+    {
+      "productId": 2470,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-02-23T01:24:39.4408408+02:00"
+    },
+    {
+      "productId": 4041,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-05-05T10:19:24.6545156+03:00"
+    },
+    {
+      "productId": 3927,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-08-09T11:50:28.9514974+03:00"
+    }
+  ]
+}

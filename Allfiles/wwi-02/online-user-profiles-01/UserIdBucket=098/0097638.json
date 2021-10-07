@@ -1,0 +1,37 @@
+{
+  "userId": 97638,
+  "cartId": "84ef9f97-7ffb-42d0-991a-8b154c1bc145",
+  "preferredProducts": [
+    3221,
+    4503,
+    359,
+    1241,
+    2987,
+    4971,
+    1761,
+    4286,
+    3559
+  ],
+  "productReviews": [
+    {
+      "productId": 4621,
+      "reviewText": "this International is vertical.",
+      "reviewDate": "2019-02-07T02:25:39.6772301+02:00"
+    },
+    {
+      "productId": 1532,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-01-19T16:42:15.0423079+02:00"
+    },
+    {
+      "productId": 2812,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-05-19T07:27:02.8102293+03:00"
+    },
+    {
+      "productId": 4897,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-06-02T20:00:56.8625536+03:00"
+    }
+  ]
+}

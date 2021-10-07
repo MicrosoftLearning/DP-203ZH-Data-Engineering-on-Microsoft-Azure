@@ -1,0 +1,34 @@
+{
+  "userId": 32113,
+  "cartId": "bd6d744c-38a8-4c9d-b1bb-9d8a01ab8792",
+  "preferredProducts": [
+    4729,
+    4192,
+    2824,
+    1772,
+    3872,
+    1628
+  ],
+  "productReviews": [
+    {
+      "productId": 1008,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-02-05T06:39:44.847306+02:00"
+    },
+    {
+      "productId": 2576,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-08-20T11:50:04.8051082+03:00"
+    },
+    {
+      "productId": 1820,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-11-09T01:12:36.8149257+02:00"
+    },
+    {
+      "productId": 3362,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-09-06T02:32:16.093253+03:00"
+    }
+  ]
+}

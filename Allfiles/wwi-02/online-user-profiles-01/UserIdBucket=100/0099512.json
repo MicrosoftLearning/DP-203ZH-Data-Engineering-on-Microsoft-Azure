@@ -1,0 +1,33 @@
+{
+  "userId": 99512,
+  "cartId": "39ffbecc-c7ec-4377-9dcd-b72b0dcf709c",
+  "preferredProducts": [
+    1422,
+    2871,
+    3814,
+    4518,
+    3492,
+    1270,
+    580,
+    4468,
+    377,
+    3
+  ],
+  "productReviews": [
+    {
+      "productId": 851,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-01-03T06:16:54.8298149+02:00"
+    },
+    {
+      "productId": 4373,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-08-26T15:47:22.9297236+03:00"
+    },
+    {
+      "productId": 4252,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-07-27T15:13:37.4776669+03:00"
+    }
+  ]
+}

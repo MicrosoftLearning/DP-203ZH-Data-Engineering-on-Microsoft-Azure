@@ -1,0 +1,30 @@
+{
+  "userId": 14221,
+  "cartId": "11ec3717-4ea4-4b10-b15b-b22650c5d71e",
+  "preferredProducts": [
+    133,
+    1355,
+    888,
+    708,
+    362,
+    1679,
+    3862
+  ],
+  "productReviews": [
+    {
+      "productId": 1999,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-02-28T05:39:32.3860375+02:00"
+    },
+    {
+      "productId": 1805,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-12-21T11:29:01.5846516+02:00"
+    },
+    {
+      "productId": 2159,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-05-08T21:24:59.6336473+03:00"
+    }
+  ]
+}

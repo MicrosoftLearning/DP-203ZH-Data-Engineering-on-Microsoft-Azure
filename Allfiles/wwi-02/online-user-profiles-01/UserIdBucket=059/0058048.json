@@ -1,0 +1,29 @@
+{
+  "userId": 58048,
+  "cartId": "70ce3e46-e579-498d-b1a1-4026bd80530b",
+  "preferredProducts": [
+    2413,
+    2725,
+    4349,
+    2903,
+    747,
+    2453
+  ],
+  "productReviews": [
+    {
+      "productId": 2528,
+      "reviewText": "this Engineer is ratty.",
+      "reviewDate": "2019-07-06T04:04:54.0823348+03:00"
+    },
+    {
+      "productId": 4835,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-05-13T15:53:18.584226+03:00"
+    },
+    {
+      "productId": 1863,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-08-22T01:42:04.449974+03:00"
+    }
+  ]
+}

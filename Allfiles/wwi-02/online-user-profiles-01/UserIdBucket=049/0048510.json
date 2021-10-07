@@ -1,0 +1,27 @@
+{
+  "userId": 48510,
+  "cartId": "1db9805d-aa4c-4741-9e88-90dea065cc3b",
+  "preferredProducts": [
+    3202,
+    3581,
+    3047,
+    2060
+  ],
+  "productReviews": [
+    {
+      "productId": 3177,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-06-01T16:35:29.2401195+03:00"
+    },
+    {
+      "productId": 3297,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-01-16T04:56:13.4659076+02:00"
+    },
+    {
+      "productId": 205,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-04-19T22:27:56.4842536+03:00"
+    }
+  ]
+}

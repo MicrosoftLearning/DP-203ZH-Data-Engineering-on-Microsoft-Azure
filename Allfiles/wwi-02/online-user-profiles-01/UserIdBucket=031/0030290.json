@@ -1,0 +1,30 @@
+{
+  "userId": 30290,
+  "cartId": "68a4156d-934a-447f-a6e5-26d5774f59c0",
+  "preferredProducts": [
+    2881,
+    4689
+  ],
+  "productReviews": [
+    {
+      "productId": 4950,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-01-26T05:02:16.2242834+02:00"
+    },
+    {
+      "productId": 500,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-01-12T23:23:11.2618135+02:00"
+    },
+    {
+      "productId": 4007,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-08-16T03:18:31.3996373+03:00"
+    },
+    {
+      "productId": 1064,
+      "reviewText": "This eco-centric works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-10-14T11:43:32.7566009+03:00"
+    }
+  ]
+}

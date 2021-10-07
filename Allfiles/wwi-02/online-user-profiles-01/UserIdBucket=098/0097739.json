@@ -1,0 +1,30 @@
+{
+  "userId": 97739,
+  "cartId": "11cadfaa-97b8-426a-88d5-14bada65d92e",
+  "preferredProducts": [
+    2275,
+    1363,
+    3354,
+    548,
+    617,
+    1883,
+    3854
+  ],
+  "productReviews": [
+    {
+      "productId": 3675,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-11-14T14:07:22.9910559+02:00"
+    },
+    {
+      "productId": 3004,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-05-07T06:50:58.1845538+03:00"
+    },
+    {
+      "productId": 4884,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-12-10T11:40:07.0511165+02:00"
+    }
+  ]
+}

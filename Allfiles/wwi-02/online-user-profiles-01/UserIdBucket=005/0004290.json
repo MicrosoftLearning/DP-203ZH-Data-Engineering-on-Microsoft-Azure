@@ -1,0 +1,32 @@
+{
+  "userId": 4290,
+  "cartId": "a5778cfb-5d5b-4e7a-89a8-1a5e63cfc5d9",
+  "preferredProducts": [
+    2053,
+    3135,
+    2127,
+    3674,
+    2985,
+    3960,
+    2885,
+    4772,
+    1849
+  ],
+  "productReviews": [
+    {
+      "productId": 3419,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-04-06T08:55:01.9341594+03:00"
+    },
+    {
+      "productId": 1115,
+      "reviewText": "This front-end works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2020-01-14T10:09:02.1538208+02:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-12-27T23:48:27.7088569+02:00"
+    }
+  ]
+}

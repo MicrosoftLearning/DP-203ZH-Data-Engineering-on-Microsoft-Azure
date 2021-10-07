@@ -1,0 +1,36 @@
+{
+  "userId": 57556,
+  "cartId": "2f5decf0-d187-481a-9cf5-6578729814de",
+  "preferredProducts": [
+    2993,
+    4044,
+    2801,
+    1569,
+    1178,
+    4557,
+    1710,
+    95
+  ],
+  "productReviews": [
+    {
+      "productId": 3821,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-12-13T08:32:34.5303474+02:00"
+    },
+    {
+      "productId": 3514,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-11-15T14:54:45.4293657+02:00"
+    },
+    {
+      "productId": 4086,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2020-05-02T16:05:27.1695092+03:00"
+    },
+    {
+      "productId": 1780,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-10-21T23:29:19.7171224+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 65901,
+  "cartId": "8a625a37-2c4a-4b2b-987e-2343ded76ad2",
+  "preferredProducts": [
+    2725,
+    4634,
+    1602,
+    4069,
+    4238,
+    4633
+  ],
+  "productReviews": [
+    {
+      "productId": 4322,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-12-06T13:16:54.2065679+02:00"
+    },
+    {
+      "productId": 815,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-08-13T06:05:22.0695147+03:00"
+    }
+  ]
+}

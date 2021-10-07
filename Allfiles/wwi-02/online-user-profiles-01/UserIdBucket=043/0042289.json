@@ -1,0 +1,23 @@
+{
+  "userId": 42289,
+  "cartId": "3de57b84-6b42-46d0-a503-d201a770ac2c",
+  "preferredProducts": [
+    716,
+    1179,
+    3585,
+    1871,
+    2858
+  ],
+  "productReviews": [
+    {
+      "productId": 2506,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-05-11T05:15:07.9820486+03:00"
+    },
+    {
+      "productId": 4969,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-09-16T14:51:30.6073689+03:00"
+    }
+  ]
+}

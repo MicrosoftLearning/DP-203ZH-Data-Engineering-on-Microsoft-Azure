@@ -1,0 +1,28 @@
+{
+  "userId": 77907,
+  "cartId": "9195e401-6832-4cb3-97a7-56410a5d9cca",
+  "preferredProducts": [
+    312,
+    641,
+    1944,
+    1098,
+    449
+  ],
+  "productReviews": [
+    {
+      "productId": 4822,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-08-01T14:14:06.5652436+03:00"
+    },
+    {
+      "productId": 2609,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-05-05T12:35:22.7194138+03:00"
+    },
+    {
+      "productId": 2355,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-08-10T02:21:10.3633089+03:00"
+    }
+  ]
+}

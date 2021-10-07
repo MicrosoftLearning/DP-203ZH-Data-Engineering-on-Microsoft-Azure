@@ -1,0 +1,27 @@
+{
+  "userId": 77155,
+  "cartId": "d349800a-4d99-4fdd-8948-90afc4666080",
+  "preferredProducts": [
+    1120,
+    4370,
+    1735,
+    3023
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-03-17T05:12:53.8182443+02:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-12-04T14:58:22.2434598+02:00"
+    },
+    {
+      "productId": 121,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-10-16T09:53:22.0527947+03:00"
+    }
+  ]
+}

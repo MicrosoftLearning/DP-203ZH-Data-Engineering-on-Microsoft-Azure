@@ -1,0 +1,29 @@
+{
+  "userId": 53531,
+  "cartId": "f274cb2c-8de0-445b-9bca-730eb9fbb137",
+  "preferredProducts": [
+    2648,
+    1717,
+    2936,
+    2714,
+    729,
+    2093
+  ],
+  "productReviews": [
+    {
+      "productId": 123,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-01-28T05:27:08.256817+02:00"
+    },
+    {
+      "productId": 661,
+      "reviewText": "this Ferry is perplexed.",
+      "reviewDate": "2017-12-28T20:09:22.9158751+02:00"
+    },
+    {
+      "productId": 1682,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-07-11T19:11:43.7483607+03:00"
+    }
+  ]
+}

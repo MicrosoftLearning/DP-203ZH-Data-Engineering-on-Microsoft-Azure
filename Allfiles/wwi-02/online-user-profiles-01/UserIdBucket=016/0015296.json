@@ -1,0 +1,32 @@
+{
+  "userId": 15296,
+  "cartId": "174e876d-57d1-487f-a012-054be4128638",
+  "preferredProducts": [
+    747,
+    2470,
+    4069,
+    3660
+  ],
+  "productReviews": [
+    {
+      "productId": 2046,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-09-23T15:05:05.6623102+03:00"
+    },
+    {
+      "productId": 4284,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-10T08:25:45.6249765+02:00"
+    },
+    {
+      "productId": 535,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-10-18T02:15:10.5986012+03:00"
+    },
+    {
+      "productId": 590,
+      "reviewText": "This card works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-12-12T18:55:04.0496474+02:00"
+    }
+  ]
+}

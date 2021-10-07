@@ -1,0 +1,38 @@
+{
+  "userId": 803,
+  "cartId": "1debd54d-b765-4599-bdb9-a7f66f09dda0",
+  "preferredProducts": [
+    613,
+    4007,
+    433,
+    1070,
+    3239
+  ],
+  "productReviews": [
+    {
+      "productId": 2260,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-07-09T23:00:15.8842776+03:00"
+    },
+    {
+      "productId": 4513,
+      "reviewText": "this reinvent is awesome.",
+      "reviewDate": "2018-11-19T21:29:53.5499458+02:00"
+    },
+    {
+      "productId": 1375,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-04-10T19:59:52.2945121+03:00"
+    },
+    {
+      "productId": 193,
+      "reviewText": "This Generic works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-09-15T07:45:43.2314674+03:00"
+    },
+    {
+      "productId": 3251,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-07-17T18:51:53.1377647+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 1853,
+  "cartId": "d7300d3f-dc05-4f21-848a-0e6b29e162ac",
+  "preferredProducts": [
+    1034,
+    1852,
+    2221,
+    4526,
+    542,
+    4142,
+    515,
+    681,
+    529,
+    2504
+  ],
+  "productReviews": [
+    {
+      "productId": 2610,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-05-31T23:09:16.2147595+03:00"
+    },
+    {
+      "productId": 2463,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2016-05-28T07:13:40.2542404+03:00"
+    },
+    {
+      "productId": 1871,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-11-02T07:41:45.2902068+02:00"
+    },
+    {
+      "productId": 1395,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-08-02T22:56:02.5446118+03:00"
+    }
+  ]
+}

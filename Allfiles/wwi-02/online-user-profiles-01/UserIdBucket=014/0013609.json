@@ -1,0 +1,33 @@
+{
+  "userId": 13609,
+  "cartId": "621324d1-068f-4e4e-95bd-9bf339178bd0",
+  "preferredProducts": [
+    4914,
+    2472,
+    4949,
+    2896,
+    1017,
+    327,
+    119,
+    770,
+    1108,
+    1765
+  ],
+  "productReviews": [
+    {
+      "productId": 2206,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-12-23T04:05:05.5403605+02:00"
+    },
+    {
+      "productId": 2574,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-05-21T01:12:32.0109858+03:00"
+    },
+    {
+      "productId": 2738,
+      "reviewText": "this quantify is light-hearted.",
+      "reviewDate": "2016-10-06T19:15:12.1761159+03:00"
+    }
+  ]
+}

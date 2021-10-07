@@ -1,0 +1,31 @@
+{
+  "userId": 10133,
+  "cartId": "355e10d1-c825-4528-89af-adb677a3e131",
+  "preferredProducts": [
+    506,
+    3588,
+    4982,
+    2273,
+    2171,
+    4520,
+    4464,
+    201
+  ],
+  "productReviews": [
+    {
+      "productId": 3862,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-02-09T02:50:35.5859734+02:00"
+    },
+    {
+      "productId": 3229,
+      "reviewText": "this orange is snowy.",
+      "reviewDate": "2017-10-23T00:55:09.929074+03:00"
+    },
+    {
+      "productId": 762,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-04-21T18:21:54.346609+03:00"
+    }
+  ]
+}

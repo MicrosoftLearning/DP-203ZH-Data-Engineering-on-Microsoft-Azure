@@ -1,0 +1,33 @@
+{
+  "userId": 6849,
+  "cartId": "6611db60-1de2-4134-967f-781f70a61b52",
+  "preferredProducts": [
+    4973,
+    4008,
+    1290,
+    2538,
+    1339,
+    963,
+    3208,
+    1686,
+    2839,
+    2926
+  ],
+  "productReviews": [
+    {
+      "productId": 1585,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-01-13T05:09:22.229232+02:00"
+    },
+    {
+      "productId": 4541,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-06-01T13:17:57.746967+03:00"
+    },
+    {
+      "productId": 2625,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-11-17T14:29:07.9744236+02:00"
+    }
+  ]
+}

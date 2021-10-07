@@ -1,0 +1,36 @@
+{
+  "userId": 1014,
+  "cartId": "4725bf17-191c-4675-9f7d-abefa70dff80",
+  "preferredProducts": [
+    654,
+    3308,
+    1249,
+    1129,
+    1046,
+    2434,
+    1225,
+    4858
+  ],
+  "productReviews": [
+    {
+      "productId": 3624,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-06-18T15:28:02.8865531+03:00"
+    },
+    {
+      "productId": 1373,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-11-26T09:46:20.4290605+02:00"
+    },
+    {
+      "productId": 3176,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-12-15T15:41:11.8150978+02:00"
+    },
+    {
+      "productId": 171,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-01-02T15:22:41.3870203+02:00"
+    }
+  ]
+}

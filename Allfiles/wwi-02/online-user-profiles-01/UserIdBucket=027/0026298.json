@@ -1,0 +1,38 @@
+{
+  "userId": 26298,
+  "cartId": "84fe771c-5017-4b24-9382-50ba5c2e6b4a",
+  "preferredProducts": [
+    237,
+    1773,
+    3873,
+    2318,
+    708
+  ],
+  "productReviews": [
+    {
+      "productId": 4917,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-05-08T00:13:56.9712113+03:00"
+    },
+    {
+      "productId": 2941,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-11-19T10:25:02.6291998+02:00"
+    },
+    {
+      "productId": 1792,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-09-19T10:03:34.2536555+03:00"
+    },
+    {
+      "productId": 3815,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-01-02T19:27:06.7000113+02:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "This Knolls, does exactly what it's suppose to do.",
+      "reviewDate": "2019-04-02T19:34:14.1320969+03:00"
+    }
+  ]
+}

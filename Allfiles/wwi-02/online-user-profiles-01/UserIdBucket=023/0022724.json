@@ -1,0 +1,37 @@
+{
+  "userId": 22724,
+  "cartId": "3df572bb-d12f-4aec-bd6b-ed250e433fb5",
+  "preferredProducts": [
+    4374,
+    1316,
+    1025,
+    760,
+    793,
+    910,
+    1247,
+    1779,
+    4885
+  ],
+  "productReviews": [
+    {
+      "productId": 2988,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-05-23T17:58:09.1751247+03:00"
+    },
+    {
+      "productId": 4647,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-09-17T06:07:00.2657352+03:00"
+    },
+    {
+      "productId": 569,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-09-13T17:14:21.3866966+03:00"
+    },
+    {
+      "productId": 4728,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-09-27T15:39:09.6423017+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 95119,
+  "cartId": "fff57b97-9f99-42ea-8392-976e9e5facd3",
+  "preferredProducts": [
+    1120,
+    290
+  ],
+  "productReviews": [
+    {
+      "productId": 1888,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-08-15T03:01:03.3218761+03:00"
+    },
+    {
+      "productId": 2181,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-11-30T11:23:43.3235059+02:00"
+    },
+    {
+      "productId": 1958,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-12-09T07:55:31.0309721+02:00"
+    },
+    {
+      "productId": 4147,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-11-03T13:02:55.8606896+02:00"
+    },
+    {
+      "productId": 1336,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-04-11T18:53:39.5965294+03:00"
+    }
+  ]
+}

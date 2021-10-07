@@ -1,0 +1,40 @@
+{
+  "userId": 10579,
+  "cartId": "de05d7f5-f803-4693-89fd-ef5b2ebd2d8f",
+  "preferredProducts": [
+    3283,
+    218,
+    2305,
+    4105,
+    2259,
+    1288,
+    2212
+  ],
+  "productReviews": [
+    {
+      "productId": 2135,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2020-01-14T09:08:09.0004625+02:00"
+    },
+    {
+      "productId": 4668,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-01-28T11:22:09.7552186+02:00"
+    },
+    {
+      "productId": 3083,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2020-03-03T12:36:52.9168353+02:00"
+    },
+    {
+      "productId": 2697,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-03-17T11:55:24.7599062+02:00"
+    },
+    {
+      "productId": 4544,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-12-25T17:30:12.7682801+02:00"
+    }
+  ]
+}

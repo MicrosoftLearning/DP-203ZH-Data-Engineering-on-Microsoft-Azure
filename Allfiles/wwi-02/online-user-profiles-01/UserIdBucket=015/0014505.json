@@ -1,0 +1,29 @@
+{
+  "userId": 14505,
+  "cartId": "f62f5b96-5f07-497e-af25-2ee01938b5b5",
+  "preferredProducts": [
+    3937,
+    4992,
+    4891,
+    4467,
+    4068,
+    413
+  ],
+  "productReviews": [
+    {
+      "productId": 624,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-21T18:06:30.4498262+02:00"
+    },
+    {
+      "productId": 4017,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-07-04T08:20:09.7430745+03:00"
+    },
+    {
+      "productId": 3384,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-05-04T16:58:54.7596247+03:00"
+    }
+  ]
+}

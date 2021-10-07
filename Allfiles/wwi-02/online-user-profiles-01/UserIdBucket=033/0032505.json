@@ -1,0 +1,29 @@
+{
+  "userId": 32505,
+  "cartId": "8e962987-9249-4716-b1b5-a671c34770ee",
+  "preferredProducts": [
+    277,
+    3910,
+    926,
+    2871,
+    3325,
+    1941
+  ],
+  "productReviews": [
+    {
+      "productId": 678,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-05-10T23:34:43.717784+03:00"
+    },
+    {
+      "productId": 4331,
+      "reviewText": "this Island is revolting.",
+      "reviewDate": "2018-08-09T09:40:02.2968004+03:00"
+    },
+    {
+      "productId": 2036,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-09-03T06:34:46.5184271+03:00"
+    }
+  ]
+}

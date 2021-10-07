@@ -1,0 +1,33 @@
+{
+  "userId": 76433,
+  "cartId": "f512b666-9ea6-4504-8db7-a8b2a03ca3ab",
+  "preferredProducts": [
+    4054,
+    375,
+    1068,
+    1263,
+    307,
+    3941,
+    4220,
+    1942,
+    4394,
+    2463
+  ],
+  "productReviews": [
+    {
+      "productId": 3057,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-08-23T17:15:47.4968417+03:00"
+    },
+    {
+      "productId": 4688,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-09-13T11:27:35.4915154+03:00"
+    },
+    {
+      "productId": 3485,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-06-14T05:43:42.3471869+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 21356,
+  "cartId": "b08b6dc9-34f2-477f-b358-ec85ad4c8670",
+  "preferredProducts": [
+    4658,
+    3453,
+    2546,
+    194,
+    4370,
+    292,
+    1917,
+    2594,
+    4339,
+    786
+  ],
+  "productReviews": [
+    {
+      "productId": 916,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-06-10T21:27:22.2497407+03:00"
+    },
+    {
+      "productId": 4967,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2020-02-24T09:41:09.8334181+02:00"
+    },
+    {
+      "productId": 3762,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-11-30T18:28:15.4966613+02:00"
+    }
+  ]
+}

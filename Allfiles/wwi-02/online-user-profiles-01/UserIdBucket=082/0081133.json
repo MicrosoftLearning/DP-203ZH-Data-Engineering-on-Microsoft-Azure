@@ -1,0 +1,31 @@
+{
+  "userId": 81133,
+  "cartId": "5faca9c4-c87f-4ea7-b4ac-6cea2ce9406e",
+  "preferredProducts": [
+    986,
+    566,
+    2247
+  ],
+  "productReviews": [
+    {
+      "productId": 962,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-07-15T15:25:02.745286+03:00"
+    },
+    {
+      "productId": 3664,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-09-26T11:24:26.8260881+03:00"
+    },
+    {
+      "productId": 1483,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-03-02T15:58:27.2324011+02:00"
+    },
+    {
+      "productId": 319,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-11-22T05:25:53.0525359+02:00"
+    }
+  ]
+}

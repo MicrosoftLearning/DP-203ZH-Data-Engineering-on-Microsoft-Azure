@@ -1,0 +1,29 @@
+{
+  "userId": 5086,
+  "cartId": "2bc3cbf6-a6d5-404e-a943-8d253d2effc7",
+  "preferredProducts": [
+    1357,
+    3984,
+    4786,
+    4660,
+    3854,
+    2971
+  ],
+  "productReviews": [
+    {
+      "productId": 4382,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-07-29T21:36:51.983289+03:00"
+    },
+    {
+      "productId": 2893,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-10-26T12:57:12.5210733+03:00"
+    },
+    {
+      "productId": 2519,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-12-08T16:27:05.1925228+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 33017,
+  "cartId": "e1e0fae5-28d2-4522-afff-9372cd73e125",
+  "preferredProducts": [
+    656,
+    1522,
+    1727,
+    3875,
+    540,
+    4192,
+    4663,
+    1878
+  ],
+  "productReviews": [
+    {
+      "productId": 4673,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-07-13T16:11:32.684476+03:00"
+    },
+    {
+      "productId": 1866,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-05-30T00:51:40.1225593+03:00"
+    },
+    {
+      "productId": 1727,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-09-21T01:04:48.0540433+03:00"
+    }
+  ]
+}

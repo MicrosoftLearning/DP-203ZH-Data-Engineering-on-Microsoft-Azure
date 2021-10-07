@@ -1,0 +1,30 @@
+{
+  "userId": 62999,
+  "cartId": "7c6c72c2-bcb4-415b-a78a-30b80cf63edb",
+  "preferredProducts": [
+    3871,
+    2047,
+    4446,
+    1335,
+    2182,
+    9,
+    2440
+  ],
+  "productReviews": [
+    {
+      "productId": 146,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-01-01T16:33:02.8525148+02:00"
+    },
+    {
+      "productId": 2094,
+      "reviewText": "This sensor works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-12-29T02:41:29.5540714+02:00"
+    },
+    {
+      "productId": 3901,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-12-15T03:37:14.9562882+02:00"
+    }
+  ]
+}

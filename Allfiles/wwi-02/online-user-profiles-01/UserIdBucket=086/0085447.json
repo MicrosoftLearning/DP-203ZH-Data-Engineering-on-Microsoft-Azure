@@ -1,0 +1,35 @@
+{
+  "userId": 85447,
+  "cartId": "f3ee071d-5ead-4b4d-94b7-9ad70b2c8ce6",
+  "preferredProducts": [
+    560,
+    4726,
+    187,
+    3427,
+    1560,
+    3404,
+    4656
+  ],
+  "productReviews": [
+    {
+      "productId": 629,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-06-14T11:13:43.9614634+03:00"
+    },
+    {
+      "productId": 1180,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-08-11T09:21:01.2307802+03:00"
+    },
+    {
+      "productId": 4165,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-09-27T08:27:26.4136594+03:00"
+    },
+    {
+      "productId": 59,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-10-19T16:43:03.5913866+03:00"
+    }
+  ]
+}

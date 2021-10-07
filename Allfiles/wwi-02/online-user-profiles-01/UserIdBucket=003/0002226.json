@@ -1,0 +1,40 @@
+{
+  "userId": 2226,
+  "cartId": "78fc6302-77d7-44c9-b3de-b3d993481098",
+  "preferredProducts": [
+    1575,
+    305,
+    3386,
+    428,
+    329,
+    437,
+    2852
+  ],
+  "productReviews": [
+    {
+      "productId": 486,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-11-23T11:27:53.3449955+02:00"
+    },
+    {
+      "productId": 2440,
+      "reviewText": "this Berkshire is mellow.",
+      "reviewDate": "2016-09-04T16:05:22.2984814+03:00"
+    },
+    {
+      "productId": 772,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-11-12T21:26:26.6107016+02:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-08-29T14:06:09.3691089+03:00"
+    },
+    {
+      "productId": 3858,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-01-21T08:50:24.2390727+02:00"
+    }
+  ]
+}

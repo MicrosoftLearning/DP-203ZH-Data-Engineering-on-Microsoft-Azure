@@ -1,0 +1,33 @@
+{
+  "userId": 37222,
+  "cartId": "5810bcae-2753-4cc4-8b5f-782d355abdbb",
+  "preferredProducts": [
+    44,
+    1120,
+    2089,
+    2024,
+    709,
+    2671,
+    1336,
+    3492,
+    2076,
+    2212
+  ],
+  "productReviews": [
+    {
+      "productId": 1481,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-08-05T22:10:58.2363329+03:00"
+    },
+    {
+      "productId": 509,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-09-24T20:10:31.552341+03:00"
+    },
+    {
+      "productId": 3543,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2020-01-14T21:00:52.5105741+02:00"
+    }
+  ]
+}

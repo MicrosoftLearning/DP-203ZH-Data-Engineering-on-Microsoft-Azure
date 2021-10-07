@@ -1,0 +1,33 @@
+{
+  "userId": 32616,
+  "cartId": "99ded356-67c2-41a6-a970-261b0f50bb00",
+  "preferredProducts": [
+    1498,
+    1722,
+    4608,
+    420,
+    3797
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-10-30T06:10:45.6607084+02:00"
+    },
+    {
+      "productId": 2557,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-04-12T17:13:32.5726194+03:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-08-07T05:53:46.1872738+03:00"
+    },
+    {
+      "productId": 3228,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2020-03-09T12:00:29.3178952+02:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 67345,
+  "cartId": "797f5ea1-b493-4da5-9672-6212211402dd",
+  "preferredProducts": [
+    4820,
+    2084,
+    2596,
+    1476,
+    2104
+  ],
+  "productReviews": [
+    {
+      "productId": 4656,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-08-28T15:14:15.2934537+03:00"
+    },
+    {
+      "productId": 2809,
+      "reviewText": "This Bedfordshire works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-07-15T18:15:37.0218586+03:00"
+    }
+  ]
+}

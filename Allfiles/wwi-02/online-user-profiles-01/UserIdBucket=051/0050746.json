@@ -1,0 +1,28 @@
+{
+  "userId": 50746,
+  "cartId": "f2cf6e6c-11b7-45e6-9433-abc1310d7349",
+  "preferredProducts": [
+    2625,
+    2433,
+    3942,
+    4366,
+    1535
+  ],
+  "productReviews": [
+    {
+      "productId": 3016,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-12-27T09:47:07.5724119+02:00"
+    },
+    {
+      "productId": 2905,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-11-01T17:48:03.9421803+02:00"
+    },
+    {
+      "productId": 4905,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-08-06T12:00:10.0071234+03:00"
+    }
+  ]
+}

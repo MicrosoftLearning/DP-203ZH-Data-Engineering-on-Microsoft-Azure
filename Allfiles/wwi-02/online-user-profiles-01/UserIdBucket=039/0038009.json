@@ -1,0 +1,36 @@
+{
+  "userId": 38009,
+  "cartId": "8f0247b5-6aa5-4448-bc6d-8dcb2d6670e3",
+  "preferredProducts": [
+    3733,
+    818,
+    3618,
+    1896,
+    2058,
+    978,
+    3294,
+    4945
+  ],
+  "productReviews": [
+    {
+      "productId": 1229,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-07-22T08:40:25.65962+03:00"
+    },
+    {
+      "productId": 2809,
+      "reviewText": "this Mall is whole-grain.",
+      "reviewDate": "2018-01-17T15:41:41.5051257+02:00"
+    },
+    {
+      "productId": 4250,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-04-29T13:39:08.7720458+03:00"
+    },
+    {
+      "productId": 48,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-03-03T21:27:43.1380702+02:00"
+    }
+  ]
+}

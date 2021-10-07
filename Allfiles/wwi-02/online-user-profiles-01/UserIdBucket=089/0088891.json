@@ -1,0 +1,30 @@
+{
+  "userId": 88891,
+  "cartId": "964ed11b-9d43-4f1a-bbd1-65d79046002b",
+  "preferredProducts": [
+    893,
+    164,
+    3857,
+    2882,
+    4845,
+    6,
+    3894
+  ],
+  "productReviews": [
+    {
+      "productId": 3307,
+      "reviewText": "This magenta works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2018-04-18T00:58:04.0691933+03:00"
+    },
+    {
+      "productId": 3288,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-12-09T18:40:29.8195558+02:00"
+    },
+    {
+      "productId": 1963,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-10-17T18:22:06.178271+03:00"
+    }
+  ]
+}

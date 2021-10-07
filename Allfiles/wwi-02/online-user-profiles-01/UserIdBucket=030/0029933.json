@@ -1,0 +1,27 @@
+{
+  "userId": 29933,
+  "cartId": "30c17fe7-8960-4842-bb6a-5253181c64ec",
+  "preferredProducts": [
+    457,
+    1650,
+    4768,
+    546
+  ],
+  "productReviews": [
+    {
+      "productId": 1746,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-05-12T20:34:36.9720331+03:00"
+    },
+    {
+      "productId": 4534,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-04-14T07:39:45.3248192+03:00"
+    },
+    {
+      "productId": 1516,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-11-26T12:05:20.1203936+02:00"
+    }
+  ]
+}

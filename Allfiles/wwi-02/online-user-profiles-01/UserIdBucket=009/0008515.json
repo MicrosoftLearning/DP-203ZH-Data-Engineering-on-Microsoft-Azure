@@ -1,0 +1,36 @@
+{
+  "userId": 8515,
+  "cartId": "fb0ca0d4-92bf-4980-b802-c08ef270d7cf",
+  "preferredProducts": [
+    4623,
+    2251,
+    547,
+    217,
+    1771,
+    1362,
+    1839,
+    2487
+  ],
+  "productReviews": [
+    {
+      "productId": 4553,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-03-02T17:02:42.9788251+02:00"
+    },
+    {
+      "productId": 2260,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-08-06T17:23:54.632045+03:00"
+    },
+    {
+      "productId": 1463,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-08-21T08:20:41.7026443+03:00"
+    },
+    {
+      "productId": 2333,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-03-28T08:27:57.1386732+02:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 62240,
+  "cartId": "ed1e1540-e50c-489b-a7a1-d023c0ade927",
+  "preferredProducts": [
+    4538,
+    799,
+    1802,
+    4989,
+    4635,
+    3647,
+    1937
+  ],
+  "productReviews": [
+    {
+      "productId": 1739,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-02-03T02:54:04.5609135+02:00"
+    },
+    {
+      "productId": 819,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-10-02T12:02:18.0440817+03:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "this backing up is revolting.",
+      "reviewDate": "2020-03-04T14:00:42.0361751+02:00"
+    },
+    {
+      "productId": 3348,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-08-19T03:53:24.8574572+03:00"
+    },
+    {
+      "productId": 3244,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-04-15T14:37:19.4417666+03:00"
+    }
+  ]
+}

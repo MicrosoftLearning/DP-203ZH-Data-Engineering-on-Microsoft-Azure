@@ -1,0 +1,41 @@
+{
+  "userId": 5217,
+  "cartId": "e0d0102e-b22d-4464-825f-6c84b9385b0f",
+  "preferredProducts": [
+    1545,
+    4625,
+    2519,
+    1906,
+    1437,
+    1747,
+    3575,
+    3498
+  ],
+  "productReviews": [
+    {
+      "productId": 2993,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-02-09T15:29:49.1577455+02:00"
+    },
+    {
+      "productId": 4798,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-03-17T18:20:13.1520646+02:00"
+    },
+    {
+      "productId": 4065,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-08-03T01:46:05.0973833+03:00"
+    },
+    {
+      "productId": 4476,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2016-08-16T23:37:53.2855534+03:00"
+    },
+    {
+      "productId": 4463,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-08-07T12:51:34.0354491+03:00"
+    }
+  ]
+}

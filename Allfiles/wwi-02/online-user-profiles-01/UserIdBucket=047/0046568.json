@@ -1,0 +1,30 @@
+{
+  "userId": 46568,
+  "cartId": "228d9a7d-e6c7-4027-8f43-b1cb7a5fa485",
+  "preferredProducts": [
+    2186,
+    3349,
+    2179,
+    2588,
+    926,
+    645,
+    3765
+  ],
+  "productReviews": [
+    {
+      "productId": 1082,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-09-28T07:13:53.226041+03:00"
+    },
+    {
+      "productId": 2755,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-02-09T05:47:01.2087529+02:00"
+    },
+    {
+      "productId": 2715,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-03-12T21:01:46.2528663+02:00"
+    }
+  ]
+}

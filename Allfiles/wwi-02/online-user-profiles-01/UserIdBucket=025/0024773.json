@@ -1,0 +1,26 @@
+{
+  "userId": 24773,
+  "cartId": "577acc2d-9e71-45f5-9b50-8de9c93e2d82",
+  "preferredProducts": [
+    3357,
+    2048,
+    230
+  ],
+  "productReviews": [
+    {
+      "productId": 2048,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-10-10T05:10:04.5731278+03:00"
+    },
+    {
+      "productId": 2279,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-10-25T03:44:56.7305931+03:00"
+    },
+    {
+      "productId": 3569,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-10-19T19:08:56.4469016+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 2497,
+  "cartId": "257fcda0-3ddb-476c-bd60-1b7621d58cab",
+  "preferredProducts": [
+    3177,
+    1245,
+    1529
+  ],
+  "productReviews": [
+    {
+      "productId": 4904,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-07-30T13:42:48.6731776+03:00"
+    },
+    {
+      "productId": 4018,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-09-03T02:49:00.4312255+03:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-03-26T15:50:30.2426251+03:00"
+    },
+    {
+      "productId": 1289,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2020-02-15T17:59:14.5186582+02:00"
+    }
+  ]
+}

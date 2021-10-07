@@ -1,0 +1,38 @@
+{
+  "userId": 42056,
+  "cartId": "d8e3084a-57fb-4f69-963d-00fc1743ea0e",
+  "preferredProducts": [
+    4904,
+    1915,
+    4511,
+    2693,
+    216
+  ],
+  "productReviews": [
+    {
+      "productId": 1686,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-01-01T17:26:40.3852482+02:00"
+    },
+    {
+      "productId": 1177,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-05-08T05:01:11.3208294+03:00"
+    },
+    {
+      "productId": 23,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-08-19T17:42:41.4151733+03:00"
+    },
+    {
+      "productId": 4380,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-08-01T21:37:04.6215829+03:00"
+    },
+    {
+      "productId": 680,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-01-16T02:04:31.9761127+02:00"
+    }
+  ]
+}

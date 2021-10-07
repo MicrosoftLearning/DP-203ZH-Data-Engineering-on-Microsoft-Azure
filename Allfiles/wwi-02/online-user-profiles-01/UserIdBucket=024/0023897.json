@@ -1,0 +1,26 @@
+{
+  "userId": 23897,
+  "cartId": "2132d4c8-908c-43fb-8155-3c72a61c3a19",
+  "preferredProducts": [
+    292,
+    3993,
+    735
+  ],
+  "productReviews": [
+    {
+      "productId": 2681,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-04-01T13:21:59.1091549+03:00"
+    },
+    {
+      "productId": 4275,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2018-08-08T07:14:20.855672+03:00"
+    },
+    {
+      "productId": 4443,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-01-29T22:18:42.6688488+02:00"
+    }
+  ]
+}

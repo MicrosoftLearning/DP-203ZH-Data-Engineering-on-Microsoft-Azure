@@ -1,0 +1,37 @@
+{
+  "userId": 6675,
+  "cartId": "9274f812-875e-44b1-93c2-b7572ed97af1",
+  "preferredProducts": [
+    1961,
+    3892,
+    2449,
+    4228,
+    2130,
+    3074,
+    3940,
+    2493,
+    4035
+  ],
+  "productReviews": [
+    {
+      "productId": 3839,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-07-24T01:12:15.4388057+03:00"
+    },
+    {
+      "productId": 1369,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-04-03T21:24:13.0247098+03:00"
+    },
+    {
+      "productId": 2683,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2017-06-23T14:40:19.9141009+03:00"
+    },
+    {
+      "productId": 109,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-05-22T12:04:11.0905654+03:00"
+    }
+  ]
+}

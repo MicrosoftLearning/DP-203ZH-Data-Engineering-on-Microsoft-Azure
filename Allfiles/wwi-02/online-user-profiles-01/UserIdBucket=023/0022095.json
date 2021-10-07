@@ -1,0 +1,36 @@
+{
+  "userId": 22095,
+  "cartId": "89489382-8645-45a2-a8d6-3fa9aa4b9cba",
+  "preferredProducts": [
+    1698,
+    1425,
+    187,
+    2560,
+    3066,
+    4904,
+    2807,
+    1600
+  ],
+  "productReviews": [
+    {
+      "productId": 1238,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-07-13T12:57:25.3218816+03:00"
+    },
+    {
+      "productId": 3482,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-12-17T11:52:27.3430348+02:00"
+    },
+    {
+      "productId": 752,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-03-18T00:27:21.5612752+02:00"
+    },
+    {
+      "productId": 4521,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-05-18T02:09:09.3165315+03:00"
+    }
+  ]
+}

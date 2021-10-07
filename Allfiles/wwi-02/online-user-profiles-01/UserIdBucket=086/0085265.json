@@ -1,0 +1,38 @@
+{
+  "userId": 85265,
+  "cartId": "44ca49b1-187d-4fd9-bc40-a2fc122ed360",
+  "preferredProducts": [
+    2350,
+    3045,
+    2551,
+    3235,
+    2028,
+    3345,
+    1629,
+    4601,
+    888,
+    1710
+  ],
+  "productReviews": [
+    {
+      "productId": 1800,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-06-20T14:22:32.9769211+03:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "this programming is brown.",
+      "reviewDate": "2017-03-20T02:35:06.2942983+02:00"
+    },
+    {
+      "productId": 1808,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-06-29T08:31:34.3671164+03:00"
+    },
+    {
+      "productId": 3801,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-06-04T14:19:05.2564462+03:00"
+    }
+  ]
+}

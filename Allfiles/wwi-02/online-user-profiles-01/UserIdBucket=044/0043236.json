@@ -1,0 +1,35 @@
+{
+  "userId": 43236,
+  "cartId": "f4a65ef8-5d99-4acd-baf2-6e12507522b3",
+  "preferredProducts": [
+    4994,
+    401,
+    2868,
+    2526,
+    2481,
+    3947,
+    1205
+  ],
+  "productReviews": [
+    {
+      "productId": 1957,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-11-19T19:19:12.1656803+02:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-02-06T23:16:21.7138634+02:00"
+    },
+    {
+      "productId": 4848,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-02-13T23:12:30.0888502+02:00"
+    },
+    {
+      "productId": 4583,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-12-22T12:39:46.3073459+02:00"
+    }
+  ]
+}

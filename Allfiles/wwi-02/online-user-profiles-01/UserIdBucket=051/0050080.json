@@ -1,0 +1,27 @@
+{
+  "userId": 50080,
+  "cartId": "313846a4-0eb5-4057-b6b5-b5e85e35e871",
+  "preferredProducts": [
+    1152,
+    356,
+    1005,
+    4982
+  ],
+  "productReviews": [
+    {
+      "productId": 145,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-12-30T19:23:57.3554193+02:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-05-02T08:57:41.7403172+03:00"
+    },
+    {
+      "productId": 4633,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-11-12T10:03:38.8900107+02:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 6104,
+  "cartId": "474b9a02-aef6-42af-9d00-6325f92c0992",
+  "preferredProducts": [
+    12,
+    701,
+    4492,
+    442,
+    2354,
+    667,
+    663,
+    1508,
+    1232
+  ],
+  "productReviews": [
+    {
+      "productId": 1381,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-03-25T19:34:42.8747137+03:00"
+    },
+    {
+      "productId": 2214,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-03-27T06:51:43.8359033+03:00"
+    },
+    {
+      "productId": 374,
+      "reviewText": "this holistic is vertical.",
+      "reviewDate": "2016-07-18T07:55:34.8395903+03:00"
+    },
+    {
+      "productId": 4122,
+      "reviewText": "this Strategist is standard.",
+      "reviewDate": "2016-10-21T00:07:43.0662351+03:00"
+    },
+    {
+      "productId": 166,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-03-11T06:32:05.7438111+02:00"
+    }
+  ]
+}

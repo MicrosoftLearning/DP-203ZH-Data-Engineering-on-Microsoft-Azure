@@ -1,0 +1,40 @@
+{
+  "userId": 42936,
+  "cartId": "a4d36ab1-fe4e-4b82-a1d9-f006de7b9ec6",
+  "preferredProducts": [
+    1076,
+    1366,
+    4729,
+    2465,
+    39,
+    3420,
+    3596
+  ],
+  "productReviews": [
+    {
+      "productId": 4412,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-03-29T09:13:53.5071101+03:00"
+    },
+    {
+      "productId": 4463,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-07-13T20:46:28.2953056+03:00"
+    },
+    {
+      "productId": 1676,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-12-13T07:21:26.0527541+02:00"
+    },
+    {
+      "productId": 300,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-06-07T06:51:16.4222607+03:00"
+    },
+    {
+      "productId": 2906,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-11-18T01:28:58.4309468+02:00"
+    }
+  ]
+}

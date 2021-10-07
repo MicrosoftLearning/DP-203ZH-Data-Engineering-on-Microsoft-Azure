@@ -1,0 +1,25 @@
+{
+  "userId": 66600,
+  "cartId": "71f2ca11-27d6-47c6-b6e4-bc6617c177c1",
+  "preferredProducts": [
+    12,
+    404,
+    3991,
+    1146,
+    3457,
+    4177,
+    4774
+  ],
+  "productReviews": [
+    {
+      "productId": 3937,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-10-06T04:26:23.6588935+03:00"
+    },
+    {
+      "productId": 1912,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-04-25T13:30:09.4724199+03:00"
+    }
+  ]
+}

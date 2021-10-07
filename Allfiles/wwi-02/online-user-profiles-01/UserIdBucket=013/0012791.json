@@ -1,0 +1,37 @@
+{
+  "userId": 12791,
+  "cartId": "ac3a3509-a49d-40fa-ac53-29130f2c4f2f",
+  "preferredProducts": [
+    2403,
+    2727,
+    1507,
+    2866,
+    1214,
+    1915,
+    4170,
+    4174,
+    3572
+  ],
+  "productReviews": [
+    {
+      "productId": 1940,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-11-27T05:07:39.2055345+02:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-12T16:10:21.342778+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-12-24T07:24:34.4363092+02:00"
+    },
+    {
+      "productId": 4067,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-05-20T01:23:49.0486586+03:00"
+    }
+  ]
+}

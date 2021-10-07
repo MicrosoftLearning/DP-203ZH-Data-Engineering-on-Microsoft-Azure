@@ -1,0 +1,30 @@
+{
+  "userId": 20419,
+  "cartId": "64558cd7-7854-408b-bfbb-12a61106d71d",
+  "preferredProducts": [
+    3482,
+    1562,
+    4879,
+    3255,
+    1861,
+    609,
+    798
+  ],
+  "productReviews": [
+    {
+      "productId": 1472,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-08-27T21:51:12.6360348+03:00"
+    },
+    {
+      "productId": 2916,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2018-09-19T17:26:22.102592+03:00"
+    },
+    {
+      "productId": 815,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-08-24T08:57:59.0814282+03:00"
+    }
+  ]
+}

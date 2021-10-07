@@ -1,0 +1,39 @@
+{
+  "userId": 34163,
+  "cartId": "c1c6b934-e3e2-4e03-aae1-f6b263915285",
+  "preferredProducts": [
+    3423,
+    544,
+    1958,
+    2258,
+    540,
+    2321
+  ],
+  "productReviews": [
+    {
+      "productId": 3876,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-05-27T13:03:22.8667856+03:00"
+    },
+    {
+      "productId": 2031,
+      "reviewText": "This JSON works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2020-01-20T03:05:38.1938025+02:00"
+    },
+    {
+      "productId": 1639,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-05-21T03:07:59.0500525+03:00"
+    },
+    {
+      "productId": 1044,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-05-02T06:34:21.2167089+03:00"
+    },
+    {
+      "productId": 813,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-11-09T08:58:10.3709682+02:00"
+    }
+  ]
+}

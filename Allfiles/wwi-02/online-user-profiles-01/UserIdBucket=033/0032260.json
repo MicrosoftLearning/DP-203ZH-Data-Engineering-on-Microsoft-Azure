@@ -1,0 +1,35 @@
+{
+  "userId": 32260,
+  "cartId": "7cad2de3-b6ff-465d-ba0f-677c7ce1ef67",
+  "preferredProducts": [
+    1153,
+    543
+  ],
+  "productReviews": [
+    {
+      "productId": 1379,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-03-04T09:17:07.6087541+02:00"
+    },
+    {
+      "productId": 4826,
+      "reviewText": "This Ergonomic Frozen Towels works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-08-18T14:26:05.4926958+03:00"
+    },
+    {
+      "productId": 3457,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-04-28T05:06:57.6847909+03:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-11-28T20:36:16.7241226+02:00"
+    },
+    {
+      "productId": 3560,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-03-31T21:00:54.6740667+03:00"
+    }
+  ]
+}

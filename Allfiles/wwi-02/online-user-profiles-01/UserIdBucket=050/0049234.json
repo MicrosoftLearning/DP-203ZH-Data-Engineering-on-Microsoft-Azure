@@ -1,0 +1,27 @@
+{
+  "userId": 49234,
+  "cartId": "8b2419ea-adca-4f65-8407-0fecfe8938f8",
+  "preferredProducts": [
+    588,
+    1612,
+    2979,
+    1745
+  ],
+  "productReviews": [
+    {
+      "productId": 225,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-12-07T07:27:53.5050377+02:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-02-09T00:02:10.73402+02:00"
+    },
+    {
+      "productId": 541,
+      "reviewText": "this Quality is vertical.",
+      "reviewDate": "2018-01-12T02:11:22.6571843+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 47267,
+  "cartId": "c42f814b-5e21-4ca6-9282-49f928705e95",
+  "preferredProducts": [
+    2234,
+    3623,
+    1949,
+    593
+  ],
+  "productReviews": [
+    {
+      "productId": 2127,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-07-21T14:50:19.6147545+03:00"
+    },
+    {
+      "productId": 3422,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-12-14T23:00:14.8470882+02:00"
+    },
+    {
+      "productId": 1005,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-11-02T10:49:27.9696308+02:00"
+    }
+  ]
+}

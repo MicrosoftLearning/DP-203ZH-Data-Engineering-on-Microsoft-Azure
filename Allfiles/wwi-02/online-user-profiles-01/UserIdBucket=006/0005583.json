@@ -1,0 +1,32 @@
+{
+  "userId": 5583,
+  "cartId": "b32d349a-fd1f-484c-a51b-d0dc7a95931d",
+  "preferredProducts": [
+    3111,
+    4989,
+    2674,
+    3688,
+    174,
+    1399,
+    1626,
+    2156,
+    845
+  ],
+  "productReviews": [
+    {
+      "productId": 4533,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-02-15T07:14:30.8898248+02:00"
+    },
+    {
+      "productId": 3184,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-03-10T11:25:23.3728139+02:00"
+    },
+    {
+      "productId": 2598,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2020-03-12T14:38:29.4649236+02:00"
+    }
+  ]
+}

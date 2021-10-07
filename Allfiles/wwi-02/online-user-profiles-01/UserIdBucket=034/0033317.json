@@ -1,0 +1,30 @@
+{
+  "userId": 33317,
+  "cartId": "5178a52d-83c4-46be-af13-2b094707873d",
+  "preferredProducts": [
+    3925,
+    2559
+  ],
+  "productReviews": [
+    {
+      "productId": 2294,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-12-25T12:21:52.3702487+02:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-04-24T12:44:18.0466056+03:00"
+    },
+    {
+      "productId": 2000,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-12-03T01:18:42.2761089+02:00"
+    },
+    {
+      "productId": 4983,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-02-28T18:43:36.2431067+02:00"
+    }
+  ]
+}

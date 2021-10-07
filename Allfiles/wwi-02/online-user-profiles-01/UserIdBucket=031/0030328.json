@@ -1,0 +1,29 @@
+{
+  "userId": 30328,
+  "cartId": "48a7fab0-0f9b-41cb-8498-789aa77ded55",
+  "preferredProducts": [
+    911,
+    983,
+    1113,
+    289,
+    245,
+    1318
+  ],
+  "productReviews": [
+    {
+      "productId": 3050,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-10-30T05:38:43.9856978+02:00"
+    },
+    {
+      "productId": 4235,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-09-29T20:37:40.2288536+03:00"
+    },
+    {
+      "productId": 3567,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-04-03T09:09:37.3863357+03:00"
+    }
+  ]
+}

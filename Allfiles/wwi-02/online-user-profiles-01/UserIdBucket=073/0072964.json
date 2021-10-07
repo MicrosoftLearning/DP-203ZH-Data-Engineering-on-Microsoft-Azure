@@ -1,0 +1,35 @@
+{
+  "userId": 72964,
+  "cartId": "7496bad7-ed68-4f9f-8bf0-b25c67d88c6c",
+  "preferredProducts": [
+    1046,
+    3799,
+    4069,
+    3621,
+    4498,
+    2127,
+    1696
+  ],
+  "productReviews": [
+    {
+      "productId": 375,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-06-08T23:08:51.2528892+03:00"
+    },
+    {
+      "productId": 3100,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-04-05T01:08:17.4243307+03:00"
+    },
+    {
+      "productId": 1541,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-04-24T12:05:53.0346253+03:00"
+    },
+    {
+      "productId": 1478,
+      "reviewText": "this Avenue is tasty.",
+      "reviewDate": "2019-07-18T03:56:19.84946+03:00"
+    }
+  ]
+}

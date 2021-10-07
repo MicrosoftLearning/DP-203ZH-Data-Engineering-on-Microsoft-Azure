@@ -1,0 +1,25 @@
+{
+  "userId": 42933,
+  "cartId": "76d24c7b-de79-4b16-9cdd-5414c124a89e",
+  "preferredProducts": [
+    1266,
+    3982,
+    2494,
+    2358,
+    2771,
+    3926,
+    3732
+  ],
+  "productReviews": [
+    {
+      "productId": 3586,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-02-24T22:45:07.2799574+02:00"
+    },
+    {
+      "productId": 746,
+      "reviewText": "this programming is papery.",
+      "reviewDate": "2019-07-02T05:47:20.7062842+03:00"
+    }
+  ]
+}

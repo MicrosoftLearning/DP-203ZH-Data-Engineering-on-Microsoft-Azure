@@ -1,0 +1,31 @@
+{
+  "userId": 39772,
+  "cartId": "77891f49-6f7c-44e2-a9e2-67c23dc3f2f1",
+  "preferredProducts": [
+    388,
+    612,
+    2436
+  ],
+  "productReviews": [
+    {
+      "productId": 2653,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-04-14T03:54:43.3102575+03:00"
+    },
+    {
+      "productId": 3124,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-03-16T01:19:22.9442406+02:00"
+    },
+    {
+      "productId": 2840,
+      "reviewText": "this IB is slurpee.",
+      "reviewDate": "2018-11-20T06:05:58.5068266+02:00"
+    },
+    {
+      "productId": 3246,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2020-04-26T07:14:07.6109848+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 9535,
+  "cartId": "f2eb8d27-efeb-473c-93e1-81db40497b6d",
+  "preferredProducts": [
+    4231,
+    2882,
+    1671,
+    4920,
+    250
+  ],
+  "productReviews": [
+    {
+      "productId": 2076,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-01-02T16:44:01.3856508+02:00"
+    },
+    {
+      "productId": 1062,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-03-29T14:55:06.7662214+03:00"
+    },
+    {
+      "productId": 2549,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-03-24T08:42:40.0006484+02:00"
+    },
+    {
+      "productId": 609,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-02-11T19:59:08.4461383+02:00"
+    }
+  ]
+}

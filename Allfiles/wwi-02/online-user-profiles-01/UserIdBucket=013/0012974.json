@@ -1,0 +1,40 @@
+{
+  "userId": 12974,
+  "cartId": "701f38f5-5eb6-41cd-a6ce-8847d99d121a",
+  "preferredProducts": [
+    1809,
+    2764,
+    2382,
+    3807,
+    167,
+    4618,
+    1646
+  ],
+  "productReviews": [
+    {
+      "productId": 3582,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-11-01T08:09:03.0695981+02:00"
+    },
+    {
+      "productId": 3544,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-10-25T07:36:00.8729114+03:00"
+    },
+    {
+      "productId": 1817,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-03-23T11:28:50.9034839+02:00"
+    },
+    {
+      "productId": 928,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-04-19T20:18:14.3471481+03:00"
+    },
+    {
+      "productId": 1036,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-03-25T23:42:39.190187+02:00"
+    }
+  ]
+}

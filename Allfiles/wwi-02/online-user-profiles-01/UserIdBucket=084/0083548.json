@@ -1,0 +1,36 @@
+{
+  "userId": 83548,
+  "cartId": "cc04c548-b8a7-4797-9c9d-196f698d92af",
+  "preferredProducts": [
+    794,
+    1300,
+    2433,
+    4215,
+    1090,
+    3642,
+    4138,
+    4470
+  ],
+  "productReviews": [
+    {
+      "productId": 1611,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-11-05T08:14:11.3508854+02:00"
+    },
+    {
+      "productId": 1476,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-08-27T08:41:34.1526039+03:00"
+    },
+    {
+      "productId": 484,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-08-03T07:20:31.0584435+03:00"
+    },
+    {
+      "productId": 2098,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-01-12T06:30:13.7590594+02:00"
+    }
+  ]
+}

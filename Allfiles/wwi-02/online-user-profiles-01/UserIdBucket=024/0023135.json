@@ -1,0 +1,23 @@
+{
+  "userId": 23135,
+  "cartId": "bd61d182-7c5a-4993-bf9b-ecd6c8bab4f9",
+  "preferredProducts": [
+    3105,
+    2596,
+    2577,
+    2973,
+    992
+  ],
+  "productReviews": [
+    {
+      "productId": 1494,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-03-13T07:21:38.7223909+02:00"
+    },
+    {
+      "productId": 4535,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-11-07T04:26:56.265997+02:00"
+    }
+  ]
+}

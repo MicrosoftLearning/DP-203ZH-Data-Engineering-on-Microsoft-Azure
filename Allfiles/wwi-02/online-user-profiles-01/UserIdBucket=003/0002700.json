@@ -1,0 +1,35 @@
+{
+  "userId": 2700,
+  "cartId": "650f1d4b-dd1b-4555-a091-b8f63c05b28d",
+  "preferredProducts": [
+    2114,
+    3502,
+    3641,
+    1847,
+    3946,
+    1119,
+    2048
+  ],
+  "productReviews": [
+    {
+      "productId": 4137,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-11-02T23:19:19.3331974+02:00"
+    },
+    {
+      "productId": 3637,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-06-05T23:18:51.8009906+03:00"
+    },
+    {
+      "productId": 3707,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-12-17T08:30:44.3686588+02:00"
+    },
+    {
+      "productId": 2653,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-11-12T17:14:59.2284801+02:00"
+    }
+  ]
+}

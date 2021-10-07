@@ -1,0 +1,33 @@
+{
+  "userId": 97862,
+  "cartId": "3c84c87d-adcf-4e52-a9ea-ff89678b378b",
+  "preferredProducts": [
+    1180,
+    245,
+    1981,
+    105,
+    2321
+  ],
+  "productReviews": [
+    {
+      "productId": 3574,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-02-03T19:42:53.0435215+02:00"
+    },
+    {
+      "productId": 4661,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-09-14T22:53:07.8442647+03:00"
+    },
+    {
+      "productId": 73,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-12-19T05:21:59.8537132+02:00"
+    },
+    {
+      "productId": 4577,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-06-26T20:57:19.5405343+03:00"
+    }
+  ]
+}

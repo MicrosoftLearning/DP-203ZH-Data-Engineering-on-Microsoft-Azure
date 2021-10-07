@@ -1,0 +1,39 @@
+{
+  "userId": 30476,
+  "cartId": "31f9866e-e601-4ac2-b7a6-86816d1bf02b",
+  "preferredProducts": [
+    96,
+    3467,
+    1152,
+    3287,
+    739,
+    4142
+  ],
+  "productReviews": [
+    {
+      "productId": 1325,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-10-03T11:14:24.7369611+03:00"
+    },
+    {
+      "productId": 492,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-01-15T17:55:46.4109903+02:00"
+    },
+    {
+      "productId": 908,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-02-11T00:52:48.3165646+02:00"
+    },
+    {
+      "productId": 770,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-04-15T09:34:11.4607211+03:00"
+    },
+    {
+      "productId": 2809,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-08-17T03:02:08.1897127+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 50325,
+  "cartId": "1347c705-9a86-48fd-92b3-1a7d78eac545",
+  "preferredProducts": [
+    3856,
+    3160,
+    916,
+    862,
+    2965
+  ],
+  "productReviews": [
+    {
+      "productId": 358,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-10-28T16:59:11.7024733+02:00"
+    },
+    {
+      "productId": 2523,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-01-22T09:20:38.1706351+02:00"
+    },
+    {
+      "productId": 153,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-09-14T19:17:02.353426+03:00"
+    }
+  ]
+}

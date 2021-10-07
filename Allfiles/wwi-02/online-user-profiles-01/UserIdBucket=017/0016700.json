@@ -1,0 +1,31 @@
+{
+  "userId": 16700,
+  "cartId": "d6a48b0d-85c5-423c-89f3-643d073cf116",
+  "preferredProducts": [
+    3634,
+    1578,
+    1783,
+    4078,
+    2853,
+    339,
+    2360,
+    3756
+  ],
+  "productReviews": [
+    {
+      "productId": 30,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-10-28T06:03:50.8613941+02:00"
+    },
+    {
+      "productId": 3643,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-11-29T16:18:39.7300591+02:00"
+    },
+    {
+      "productId": 3947,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-01-31T09:42:11.8066207+02:00"
+    }
+  ]
+}

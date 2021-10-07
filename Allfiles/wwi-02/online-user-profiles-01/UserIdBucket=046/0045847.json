@@ -1,0 +1,33 @@
+{
+  "userId": 45847,
+  "cartId": "7ad8323a-9eda-4ff3-9166-600712c3359b",
+  "preferredProducts": [
+    519,
+    3795,
+    4451,
+    4352,
+    360
+  ],
+  "productReviews": [
+    {
+      "productId": 3271,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-09-11T22:47:42.9343406+03:00"
+    },
+    {
+      "productId": 2624,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-12-24T03:24:56.778677+02:00"
+    },
+    {
+      "productId": 1184,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-02-06T00:28:57.953629+02:00"
+    },
+    {
+      "productId": 1800,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-09-08T16:02:55.9981661+03:00"
+    }
+  ]
+}

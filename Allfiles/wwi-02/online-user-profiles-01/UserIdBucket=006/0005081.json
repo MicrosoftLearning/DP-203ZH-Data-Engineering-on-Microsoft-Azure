@@ -1,0 +1,38 @@
+{
+  "userId": 5081,
+  "cartId": "1e35bce9-aff5-4a4a-b19a-93c57e12c19e",
+  "preferredProducts": [
+    3527,
+    4228,
+    1610,
+    3110,
+    2125
+  ],
+  "productReviews": [
+    {
+      "productId": 719,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-09-03T05:45:38.462175+03:00"
+    },
+    {
+      "productId": 1968,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2020-03-24T16:26:08.7596695+02:00"
+    },
+    {
+      "productId": 1080,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-12-13T05:10:46.2137361+02:00"
+    },
+    {
+      "productId": 1901,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-11-07T05:03:56.7136513+02:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-02-16T20:06:41.6190944+02:00"
+    }
+  ]
+}

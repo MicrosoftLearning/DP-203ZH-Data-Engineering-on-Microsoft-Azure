@@ -1,0 +1,29 @@
+{
+  "userId": 63524,
+  "cartId": "c3ccce74-6cfd-4f33-a2e4-c261ba39bf50",
+  "preferredProducts": [
+    988,
+    4100,
+    403,
+    2919,
+    2924,
+    4885
+  ],
+  "productReviews": [
+    {
+      "productId": 730,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-01-23T12:22:15.1566209+02:00"
+    },
+    {
+      "productId": 1267,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-08-24T18:47:13.3212783+03:00"
+    },
+    {
+      "productId": 797,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-08-07T23:20:58.6751658+03:00"
+    }
+  ]
+}

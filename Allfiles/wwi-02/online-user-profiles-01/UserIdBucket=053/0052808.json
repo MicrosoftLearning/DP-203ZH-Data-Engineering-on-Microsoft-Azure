@@ -1,0 +1,33 @@
+{
+  "userId": 52808,
+  "cartId": "d8f2cece-fd65-4a7d-b486-0915f735e501",
+  "preferredProducts": [
+    742,
+    284,
+    2475,
+    388,
+    4626
+  ],
+  "productReviews": [
+    {
+      "productId": 2461,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2020-04-18T00:36:12.7111311+03:00"
+    },
+    {
+      "productId": 2299,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-11-01T23:51:56.4340543+02:00"
+    },
+    {
+      "productId": 123,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-05-19T16:11:33.4888877+03:00"
+    },
+    {
+      "productId": 3261,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-10-14T00:49:30.2905715+03:00"
+    }
+  ]
+}

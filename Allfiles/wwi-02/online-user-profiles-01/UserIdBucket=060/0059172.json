@@ -1,0 +1,37 @@
+{
+  "userId": 59172,
+  "cartId": "8808bffe-32d1-4a48-928c-e545b3b370b4",
+  "preferredProducts": [
+    945,
+    411,
+    1339,
+    4947
+  ],
+  "productReviews": [
+    {
+      "productId": 4284,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-08-08T14:06:57.2926171+03:00"
+    },
+    {
+      "productId": 4066,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-12-25T19:08:21.3639684+02:00"
+    },
+    {
+      "productId": 111,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-11-21T13:41:40.6360403+02:00"
+    },
+    {
+      "productId": 4878,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-05-01T09:31:30.3448927+03:00"
+    },
+    {
+      "productId": 4518,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-05-16T23:57:02.934247+03:00"
+    }
+  ]
+}

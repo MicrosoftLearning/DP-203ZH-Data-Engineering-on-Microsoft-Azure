@@ -1,0 +1,30 @@
+{
+  "userId": 24475,
+  "cartId": "e41096e1-4381-4c10-9b8f-e5d03f6d27b5",
+  "preferredProducts": [
+    499,
+    2806,
+    801,
+    501,
+    2086,
+    1317,
+    3808
+  ],
+  "productReviews": [
+    {
+      "productId": 4972,
+      "reviewText": "This pixel works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2020-04-24T19:23:44.3464155+03:00"
+    },
+    {
+      "productId": 2445,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-02-11T07:30:54.5963731+02:00"
+    },
+    {
+      "productId": 2837,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-14T21:56:37.1853138+03:00"
+    }
+  ]
+}

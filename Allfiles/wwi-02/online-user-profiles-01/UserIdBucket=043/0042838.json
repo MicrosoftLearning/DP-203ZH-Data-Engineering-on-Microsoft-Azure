@@ -1,0 +1,31 @@
+{
+  "userId": 42838,
+  "cartId": "01be0560-cccd-48ef-af83-762f722dfaf7",
+  "preferredProducts": [
+    4672,
+    2113,
+    2779,
+    650,
+    57,
+    1658,
+    2697,
+    4617
+  ],
+  "productReviews": [
+    {
+      "productId": 4464,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-04-17T16:43:30.5963754+03:00"
+    },
+    {
+      "productId": 4677,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-02-19T04:07:50.4188345+02:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-10-03T19:47:13.9356361+03:00"
+    }
+  ]
+}

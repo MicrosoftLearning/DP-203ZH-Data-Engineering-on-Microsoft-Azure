@@ -1,0 +1,36 @@
+{
+  "userId": 51379,
+  "cartId": "6c4fb570-e9f2-48d1-8c01-16a2fec64d5d",
+  "preferredProducts": [
+    3171,
+    4226,
+    336,
+    2700,
+    4401,
+    4676,
+    3734,
+    3362
+  ],
+  "productReviews": [
+    {
+      "productId": 1091,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-05-10T01:58:23.2389065+03:00"
+    },
+    {
+      "productId": 4051,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-06-26T21:40:43.677742+03:00"
+    },
+    {
+      "productId": 3853,
+      "reviewText": "this Concrete is standard.",
+      "reviewDate": "2019-06-14T16:36:02.3423777+03:00"
+    },
+    {
+      "productId": 749,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-08-30T23:24:37.0593118+03:00"
+    }
+  ]
+}

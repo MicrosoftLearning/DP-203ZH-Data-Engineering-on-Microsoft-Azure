@@ -1,0 +1,32 @@
+{
+  "userId": 42988,
+  "cartId": "7603538c-7625-44de-8f2f-77d10ab97286",
+  "preferredProducts": [
+    4583,
+    1256,
+    986,
+    2921,
+    3040,
+    943,
+    1928,
+    604,
+    1913
+  ],
+  "productReviews": [
+    {
+      "productId": 3558,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-01-07T14:23:27.0525408+02:00"
+    },
+    {
+      "productId": 3864,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-03-17T03:53:06.4359487+02:00"
+    },
+    {
+      "productId": 3586,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-10-21T14:32:22.4083324+03:00"
+    }
+  ]
+}

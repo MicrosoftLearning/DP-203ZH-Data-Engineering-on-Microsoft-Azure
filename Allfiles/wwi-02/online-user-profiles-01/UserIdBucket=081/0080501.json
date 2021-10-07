@@ -1,0 +1,31 @@
+{
+  "userId": 80501,
+  "cartId": "064f2018-9ce8-4b22-b510-9b13e48f9ef0",
+  "preferredProducts": [
+    4465,
+    4079,
+    4005,
+    4157,
+    1991,
+    990,
+    1740,
+    2286
+  ],
+  "productReviews": [
+    {
+      "productId": 200,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-01-06T05:07:37.3401901+02:00"
+    },
+    {
+      "productId": 2559,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-12-09T14:57:31.2518793+02:00"
+    },
+    {
+      "productId": 4513,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-04-15T23:41:09.9834723+03:00"
+    }
+  ]
+}

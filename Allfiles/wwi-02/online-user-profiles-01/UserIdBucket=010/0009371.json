@@ -1,0 +1,33 @@
+{
+  "userId": 9371,
+  "cartId": "bd0b1952-1a39-4e96-bfd4-65cb297b10fa",
+  "preferredProducts": [
+    3829,
+    476,
+    4675,
+    3596,
+    4285,
+    4453,
+    2916,
+    2442,
+    2370,
+    1478
+  ],
+  "productReviews": [
+    {
+      "productId": 1567,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-06-30T14:54:23.1315239+03:00"
+    },
+    {
+      "productId": 1691,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-10-20T04:03:56.6731599+03:00"
+    },
+    {
+      "productId": 1895,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-01-06T09:07:05.6721241+02:00"
+    }
+  ]
+}

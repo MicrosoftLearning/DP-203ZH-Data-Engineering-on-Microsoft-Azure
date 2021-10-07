@@ -1,0 +1,24 @@
+{
+  "userId": 84007,
+  "cartId": "8a2d8dbb-70fc-4226-992a-8d363a1a49d4",
+  "preferredProducts": [
+    4136,
+    3729,
+    3259,
+    2445,
+    2078,
+    2351
+  ],
+  "productReviews": [
+    {
+      "productId": 3398,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-03-19T06:45:14.3520883+02:00"
+    },
+    {
+      "productId": 4718,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-08-24T08:57:10.9719406+03:00"
+    }
+  ]
+}

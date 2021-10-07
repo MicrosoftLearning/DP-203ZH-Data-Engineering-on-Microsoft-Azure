@@ -1,0 +1,25 @@
+{
+  "userId": 4507,
+  "cartId": "2def928a-0ead-435a-8563-4bd289e2eeab",
+  "preferredProducts": [
+    2706,
+    4972,
+    1011,
+    3524,
+    1651,
+    600,
+    4655
+  ],
+  "productReviews": [
+    {
+      "productId": 3134,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-01-15T02:09:30.1128316+02:00"
+    },
+    {
+      "productId": 120,
+      "reviewText": "this Key is ghetto.",
+      "reviewDate": "2018-05-03T09:03:42.7867779+03:00"
+    }
+  ]
+}

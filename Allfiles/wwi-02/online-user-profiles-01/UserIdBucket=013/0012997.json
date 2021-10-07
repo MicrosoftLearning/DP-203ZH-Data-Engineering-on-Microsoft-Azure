@@ -1,0 +1,27 @@
+{
+  "userId": 12997,
+  "cartId": "9aa58ad2-d5f9-4c89-9c9f-8e52d917cf79",
+  "preferredProducts": [
+    1467,
+    1268,
+    1397,
+    2514
+  ],
+  "productReviews": [
+    {
+      "productId": 980,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-01-30T10:29:52.3968933+02:00"
+    },
+    {
+      "productId": 1505,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-12-01T13:11:42.0073683+02:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-12-14T13:17:28.4491055+02:00"
+    }
+  ]
+}

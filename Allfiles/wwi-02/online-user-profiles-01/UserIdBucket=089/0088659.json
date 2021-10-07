@@ -1,0 +1,33 @@
+{
+  "userId": 88659,
+  "cartId": "880c6942-0dd4-4f78-84af-d70acd92e35b",
+  "preferredProducts": [
+    2555,
+    4287,
+    2308,
+    4238,
+    2788
+  ],
+  "productReviews": [
+    {
+      "productId": 4258,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-03-13T08:29:52.3295425+02:00"
+    },
+    {
+      "productId": 1054,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-12-01T11:15:03.3711519+02:00"
+    },
+    {
+      "productId": 2090,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-11-23T21:44:19.0522419+02:00"
+    },
+    {
+      "productId": 4918,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2020-05-01T18:54:29.2778984+03:00"
+    }
+  ]
+}

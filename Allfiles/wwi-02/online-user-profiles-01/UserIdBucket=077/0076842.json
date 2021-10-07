@@ -1,0 +1,30 @@
+{
+  "userId": 76842,
+  "cartId": "045f23e3-0474-4e22-ae4f-6ba3ec682b3a",
+  "preferredProducts": [
+    3234,
+    4878,
+    2174,
+    61,
+    255,
+    3665,
+    3445
+  ],
+  "productReviews": [
+    {
+      "productId": 2808,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-07-20T04:41:40.3319013+03:00"
+    },
+    {
+      "productId": 636,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-12-03T00:20:13.4344521+02:00"
+    },
+    {
+      "productId": 4877,
+      "reviewText": "This navigating works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-09-04T22:47:54.2965701+03:00"
+    }
+  ]
+}

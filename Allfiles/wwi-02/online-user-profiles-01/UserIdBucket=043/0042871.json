@@ -1,0 +1,33 @@
+{
+  "userId": 42871,
+  "cartId": "c77d5115-5cda-443e-ac8b-4350e470a561",
+  "preferredProducts": [
+    2896,
+    4551,
+    3884,
+    3066,
+    1259
+  ],
+  "productReviews": [
+    {
+      "productId": 1599,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-09-19T01:16:54.0556417+03:00"
+    },
+    {
+      "productId": 4314,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-01-04T07:42:27.4180199+02:00"
+    },
+    {
+      "productId": 3959,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-03-31T12:16:48.9379167+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "This is a really good Intranet.",
+      "reviewDate": "2018-09-30T08:32:38.4996644+03:00"
+    }
+  ]
+}

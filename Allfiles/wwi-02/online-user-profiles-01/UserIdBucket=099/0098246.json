@@ -1,0 +1,36 @@
+{
+  "userId": 98246,
+  "cartId": "26286ef5-37de-4721-ab1f-548de2c96e68",
+  "preferredProducts": [
+    4530,
+    2939,
+    2068,
+    1150,
+    2083,
+    2738,
+    2693,
+    2276
+  ],
+  "productReviews": [
+    {
+      "productId": 2800,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-06-28T15:35:11.5895607+03:00"
+    },
+    {
+      "productId": 3187,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-11-29T22:48:20.002068+02:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-05-05T10:35:39.371419+03:00"
+    },
+    {
+      "productId": 326,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-11-04T11:00:07.3133543+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 2102,
+  "cartId": "fab23fc3-afe3-48c4-8a22-b16572a0bd68",
+  "preferredProducts": [
+    763,
+    4686,
+    342,
+    920,
+    1457,
+    3067,
+    2382,
+    1160,
+    2176,
+    3671
+  ],
+  "productReviews": [
+    {
+      "productId": 839,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-11-17T05:32:35.6046195+02:00"
+    },
+    {
+      "productId": 4305,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-11-19T10:57:29.3823429+02:00"
+    },
+    {
+      "productId": 221,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-07-20T18:16:24.0934707+03:00"
+    }
+  ]
+}

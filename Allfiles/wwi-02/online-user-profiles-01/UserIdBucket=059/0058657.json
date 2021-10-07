@@ -1,0 +1,33 @@
+{
+  "userId": 58657,
+  "cartId": "f101eb81-4edf-4d4d-9628-292db64fc196",
+  "preferredProducts": [
+    1302,
+    2574,
+    4268,
+    2768,
+    4100,
+    3279,
+    3404,
+    1905,
+    4204,
+    1700
+  ],
+  "productReviews": [
+    {
+      "productId": 1774,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-11-26T07:40:54.5957553+02:00"
+    },
+    {
+      "productId": 428,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-03-24T15:27:35.5683692+02:00"
+    },
+    {
+      "productId": 1085,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-11-29T01:43:23.9811821+02:00"
+    }
+  ]
+}

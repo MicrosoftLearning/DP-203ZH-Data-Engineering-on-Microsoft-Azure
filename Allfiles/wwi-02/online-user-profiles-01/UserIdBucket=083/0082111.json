@@ -1,0 +1,25 @@
+{
+  "userId": 82111,
+  "cartId": "3dcdfdcc-ce50-4ff6-87b2-79b439b44494",
+  "preferredProducts": [
+    4213,
+    4544,
+    3643,
+    250,
+    2718,
+    3969,
+    3369
+  ],
+  "productReviews": [
+    {
+      "productId": 1287,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-11-23T22:47:39.7373108+02:00"
+    },
+    {
+      "productId": 215,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-11-21T10:23:15.0704501+02:00"
+    }
+  ]
+}

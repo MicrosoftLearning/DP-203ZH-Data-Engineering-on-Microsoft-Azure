@@ -1,0 +1,27 @@
+{
+  "userId": 74814,
+  "cartId": "b6cdb34c-d255-444e-bc06-0a2122d00981",
+  "preferredProducts": [
+    3242,
+    166,
+    2043,
+    1739
+  ],
+  "productReviews": [
+    {
+      "productId": 3168,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-08-28T10:49:18.2112151+03:00"
+    },
+    {
+      "productId": 1975,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-03-18T15:35:27.1929382+02:00"
+    },
+    {
+      "productId": 509,
+      "reviewText": "this yellow is perplexed.",
+      "reviewDate": "2020-04-06T16:53:30.6414119+03:00"
+    }
+  ]
+}

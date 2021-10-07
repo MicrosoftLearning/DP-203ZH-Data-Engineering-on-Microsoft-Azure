@@ -1,0 +1,30 @@
+{
+  "userId": 89634,
+  "cartId": "15094cec-910c-42fe-b12a-1c1eb6aedc68",
+  "preferredProducts": [
+    4023,
+    875
+  ],
+  "productReviews": [
+    {
+      "productId": 2705,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-12-20T12:41:03.9038393+02:00"
+    },
+    {
+      "productId": 1241,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-06-16T18:34:57.8395037+03:00"
+    },
+    {
+      "productId": 3600,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-09-22T20:44:17.8831583+03:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-12-09T02:37:01.6350485+02:00"
+    }
+  ]
+}

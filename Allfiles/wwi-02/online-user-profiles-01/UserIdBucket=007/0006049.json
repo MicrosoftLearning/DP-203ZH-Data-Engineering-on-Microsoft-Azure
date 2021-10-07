@@ -1,0 +1,33 @@
+{
+  "userId": 6049,
+  "cartId": "bc192ed9-44ee-45da-8b6c-045769a248f9",
+  "preferredProducts": [
+    3487,
+    2409,
+    157,
+    4551,
+    2255,
+    891,
+    590,
+    1767,
+    1395,
+    1196
+  ],
+  "productReviews": [
+    {
+      "productId": 3735,
+      "reviewText": "This parse works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-01-02T06:46:45.6801831+02:00"
+    },
+    {
+      "productId": 3487,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-11-28T15:38:42.5718235+02:00"
+    },
+    {
+      "productId": 4490,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-05-28T20:35:39.4740309+03:00"
+    }
+  ]
+}

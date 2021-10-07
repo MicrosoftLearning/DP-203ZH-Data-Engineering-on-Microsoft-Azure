@@ -1,0 +1,30 @@
+{
+  "userId": 25006,
+  "cartId": "d614488d-0f3d-4eb1-ae3f-ea087e46fd55",
+  "preferredProducts": [
+    2540,
+    2491,
+    3000,
+    1608,
+    479,
+    1123,
+    245
+  ],
+  "productReviews": [
+    {
+      "productId": 2583,
+      "reviewText": "this array is awesome.",
+      "reviewDate": "2018-08-25T22:47:02.1275408+03:00"
+    },
+    {
+      "productId": 1993,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-12-12T05:08:04.113345+02:00"
+    },
+    {
+      "productId": 4974,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-02-24T17:59:52.8362276+02:00"
+    }
+  ]
+}

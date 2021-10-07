@@ -1,0 +1,30 @@
+{
+  "userId": 86722,
+  "cartId": "3cdc8fde-4d4b-4455-a368-82a84f21ed5d",
+  "preferredProducts": [
+    333,
+    3951,
+    4621,
+    4769,
+    4916,
+    4295,
+    1623
+  ],
+  "productReviews": [
+    {
+      "productId": 1109,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-12-10T06:09:21.1441286+02:00"
+    },
+    {
+      "productId": 426,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-01-22T04:27:01.4180334+02:00"
+    },
+    {
+      "productId": 1935,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-07-30T19:07:05.8571355+03:00"
+    }
+  ]
+}

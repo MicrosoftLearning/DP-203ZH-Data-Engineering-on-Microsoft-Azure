@@ -1,0 +1,35 @@
+{
+  "userId": 57509,
+  "cartId": "20f4d987-94f8-4590-ac7f-37b8d9cf8bd2",
+  "preferredProducts": [
+    3360,
+    4020,
+    2252,
+    2426,
+    3099,
+    4457,
+    1488
+  ],
+  "productReviews": [
+    {
+      "productId": 1083,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-08-12T21:18:41.5146631+03:00"
+    },
+    {
+      "productId": 2892,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-10-15T03:58:00.1407156+03:00"
+    },
+    {
+      "productId": 607,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2020-03-26T10:20:59.4805029+02:00"
+    },
+    {
+      "productId": 2272,
+      "reviewText": "this Intelligent is honest.",
+      "reviewDate": "2020-03-13T09:01:53.288786+02:00"
+    }
+  ]
+}

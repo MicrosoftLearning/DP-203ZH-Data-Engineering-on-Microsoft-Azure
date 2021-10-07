@@ -1,0 +1,36 @@
+{
+  "userId": 42423,
+  "cartId": "94f42d1e-4963-4ff5-aa61-42c095719efa",
+  "preferredProducts": [
+    1487,
+    3415,
+    1873,
+    4522,
+    3567,
+    3400,
+    4056,
+    4816
+  ],
+  "productReviews": [
+    {
+      "productId": 1825,
+      "reviewText": "this programming is ratty.",
+      "reviewDate": "2017-06-04T11:45:06.746273+03:00"
+    },
+    {
+      "productId": 4224,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-02-06T20:30:33.6247384+02:00"
+    },
+    {
+      "productId": 4541,
+      "reviewText": "This Home Loan Account works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-07-09T02:47:39.5664013+03:00"
+    },
+    {
+      "productId": 3172,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-01-02T05:52:39.3822448+02:00"
+    }
+  ]
+}

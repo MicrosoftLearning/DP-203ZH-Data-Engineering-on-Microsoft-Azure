@@ -1,0 +1,33 @@
+{
+  "userId": 11602,
+  "cartId": "6a919987-bcf2-48c9-9a9d-fe5e96619b88",
+  "preferredProducts": [
+    453,
+    4260,
+    2459,
+    2679,
+    161
+  ],
+  "productReviews": [
+    {
+      "productId": 3893,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-08-14T05:33:32.8996007+03:00"
+    },
+    {
+      "productId": 2054,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-01-01T00:51:34.2240407+02:00"
+    },
+    {
+      "productId": 1336,
+      "reviewText": "this USB is hyper.",
+      "reviewDate": "2017-12-03T13:13:35.150115+02:00"
+    },
+    {
+      "productId": 1992,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-05-27T07:23:05.6919734+03:00"
+    }
+  ]
+}

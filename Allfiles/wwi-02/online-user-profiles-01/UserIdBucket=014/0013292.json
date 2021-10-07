@@ -1,0 +1,33 @@
+{
+  "userId": 13292,
+  "cartId": "cfdaf49d-ef5b-4788-bbd4-80c0572327dc",
+  "preferredProducts": [
+    447,
+    4145,
+    4445,
+    3218,
+    1572
+  ],
+  "productReviews": [
+    {
+      "productId": 2209,
+      "reviewText": "this bi-directional is snowy.",
+      "reviewDate": "2019-02-19T19:20:09.9489269+02:00"
+    },
+    {
+      "productId": 771,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-09-11T20:10:07.3004402+03:00"
+    },
+    {
+      "productId": 2012,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-11-05T16:45:46.3692755+02:00"
+    },
+    {
+      "productId": 2278,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-05-12T23:02:31.8632932+03:00"
+    }
+  ]
+}

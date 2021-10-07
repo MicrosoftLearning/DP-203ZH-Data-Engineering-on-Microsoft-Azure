@@ -1,0 +1,33 @@
+{
+  "userId": 65924,
+  "cartId": "50f724a5-d873-42b0-874d-287d53e52803",
+  "preferredProducts": [
+    4703,
+    4742,
+    1925,
+    4927,
+    1812,
+    707,
+    3892,
+    1170,
+    3277,
+    58
+  ],
+  "productReviews": [
+    {
+      "productId": 1684,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-03-27T15:29:31.0179916+03:00"
+    },
+    {
+      "productId": 919,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-02-06T03:10:08.327524+02:00"
+    },
+    {
+      "productId": 4811,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-11-16T12:51:56.3385631+02:00"
+    }
+  ]
+}

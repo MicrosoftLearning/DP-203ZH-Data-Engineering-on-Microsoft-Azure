@@ -1,0 +1,22 @@
+{
+  "userId": 4504,
+  "cartId": "6d12bd66-88c5-4856-bcf0-b1889af7045f",
+  "preferredProducts": [
+    4124,
+    2361,
+    1432,
+    1711
+  ],
+  "productReviews": [
+    {
+      "productId": 4969,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-04-06T06:05:02.1415653+03:00"
+    },
+    {
+      "productId": 173,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-02-27T11:07:23.3947847+02:00"
+    }
+  ]
+}

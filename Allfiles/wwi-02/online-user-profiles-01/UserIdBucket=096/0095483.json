@@ -1,0 +1,38 @@
+{
+  "userId": 95483,
+  "cartId": "a4b741d1-7f79-4848-bf34-ffaee6a19d8c",
+  "preferredProducts": [
+    765,
+    1065,
+    2137,
+    4334,
+    3220
+  ],
+  "productReviews": [
+    {
+      "productId": 3292,
+      "reviewText": "this Forward is revolting.",
+      "reviewDate": "2017-06-30T21:56:37.6242408+03:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-09-16T16:26:30.168653+03:00"
+    },
+    {
+      "productId": 1464,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-10-23T22:58:48.5357031+03:00"
+    },
+    {
+      "productId": 2721,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-10-29T11:38:19.4830358+02:00"
+    },
+    {
+      "productId": 1018,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-07-29T04:03:43.1942816+03:00"
+    }
+  ]
+}

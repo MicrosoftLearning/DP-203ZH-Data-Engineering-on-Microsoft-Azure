@@ -1,0 +1,33 @@
+{
+  "userId": 22775,
+  "cartId": "9dedb2ef-86d7-4343-81c3-fabf7606b5ff",
+  "preferredProducts": [
+    2713,
+    45,
+    501,
+    1602,
+    3224
+  ],
+  "productReviews": [
+    {
+      "productId": 3915,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-06-25T01:45:31.5783754+03:00"
+    },
+    {
+      "productId": 4408,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-11-30T14:24:05.2760143+02:00"
+    },
+    {
+      "productId": 538,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-09-19T01:06:19.7284225+03:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2016-12-09T15:52:43.0544649+02:00"
+    }
+  ]
+}

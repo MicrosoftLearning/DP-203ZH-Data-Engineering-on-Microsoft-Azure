@@ -1,0 +1,30 @@
+{
+  "userId": 27090,
+  "cartId": "f679d1ee-0bbc-4128-b2c3-9cd7a211cfdb",
+  "preferredProducts": [
+    2462,
+    4859
+  ],
+  "productReviews": [
+    {
+      "productId": 2295,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-12-02T10:52:37.7559234+02:00"
+    },
+    {
+      "productId": 2086,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-01-15T00:03:03.1493487+02:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-07-24T12:45:39.5530519+03:00"
+    },
+    {
+      "productId": 3672,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-01-11T15:00:59.0723658+02:00"
+    }
+  ]
+}

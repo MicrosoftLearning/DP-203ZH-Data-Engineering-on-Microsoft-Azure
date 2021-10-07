@@ -1,0 +1,31 @@
+{
+  "userId": 99559,
+  "cartId": "0b112991-7c64-49fe-9d2a-0a601c275f88",
+  "preferredProducts": [
+    4823,
+    1340,
+    4118
+  ],
+  "productReviews": [
+    {
+      "productId": 124,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-04-04T12:30:52.9499349+03:00"
+    },
+    {
+      "productId": 1022,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-12-21T07:59:53.7458743+02:00"
+    },
+    {
+      "productId": 4868,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-01-07T14:03:38.2234068+02:00"
+    },
+    {
+      "productId": 4218,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-09-17T22:21:14.2437411+03:00"
+    }
+  ]
+}

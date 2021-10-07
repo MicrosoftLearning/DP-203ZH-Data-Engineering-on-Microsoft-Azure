@@ -1,0 +1,36 @@
+{
+  "userId": 4605,
+  "cartId": "ca33bb38-1794-4bdf-ade4-2f9eec166159",
+  "preferredProducts": [
+    4647,
+    950,
+    2054,
+    845,
+    2287,
+    2093,
+    4661,
+    3592
+  ],
+  "productReviews": [
+    {
+      "productId": 2099,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-01-21T05:51:34.6822467+02:00"
+    },
+    {
+      "productId": 1992,
+      "reviewText": "This Frozen works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2017-10-16T11:17:28.6475394+03:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-11-07T18:03:30.7711784+02:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-09-14T19:59:44.1036682+03:00"
+    }
+  ]
+}

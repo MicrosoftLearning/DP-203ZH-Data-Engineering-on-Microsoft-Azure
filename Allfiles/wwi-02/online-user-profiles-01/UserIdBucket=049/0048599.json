@@ -1,0 +1,30 @@
+{
+  "userId": 48599,
+  "cartId": "80d1f481-240a-41c1-ab42-ade8b4f32bad",
+  "preferredProducts": [
+    365,
+    2279,
+    779,
+    947,
+    3408,
+    3428,
+    1693
+  ],
+  "productReviews": [
+    {
+      "productId": 1397,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-13T04:54:19.2534238+02:00"
+    },
+    {
+      "productId": 1707,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-10-29T02:00:32.72572+02:00"
+    },
+    {
+      "productId": 250,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-11-03T11:39:36.5359195+02:00"
+    }
+  ]
+}

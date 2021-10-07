@@ -1,0 +1,33 @@
+{
+  "userId": 19352,
+  "cartId": "5b7cbb76-1431-4696-87f2-901c5ddd8e10",
+  "preferredProducts": [
+    3899,
+    3594,
+    1119,
+    1699,
+    4732
+  ],
+  "productReviews": [
+    {
+      "productId": 863,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-01-09T15:19:48.5696167+02:00"
+    },
+    {
+      "productId": 2150,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-06-04T23:57:33.0750147+03:00"
+    },
+    {
+      "productId": 2723,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-02-21T16:56:10.9732327+02:00"
+    },
+    {
+      "productId": 4904,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-10-19T04:12:52.5331172+03:00"
+    }
+  ]
+}

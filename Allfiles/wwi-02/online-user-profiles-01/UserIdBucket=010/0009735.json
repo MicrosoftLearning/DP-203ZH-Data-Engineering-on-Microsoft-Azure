@@ -1,0 +1,30 @@
+{
+  "userId": 9735,
+  "cartId": "69d783c9-501b-4aa9-b2a3-dca905405198",
+  "preferredProducts": [
+    4194,
+    666,
+    2670,
+    3177,
+    3067,
+    3901,
+    1439
+  ],
+  "productReviews": [
+    {
+      "productId": 266,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-07-07T12:52:15.0968361+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-08-24T23:02:58.7226178+03:00"
+    },
+    {
+      "productId": 1661,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-11-28T19:26:07.3757686+02:00"
+    }
+  ]
+}

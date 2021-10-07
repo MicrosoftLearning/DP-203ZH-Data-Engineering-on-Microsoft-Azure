@@ -1,0 +1,36 @@
+{
+  "userId": 72209,
+  "cartId": "1bc6e5c8-d3fd-4aa8-bcfd-29cfe8f3f13b",
+  "preferredProducts": [
+    3480,
+    2940,
+    4043,
+    798,
+    3690,
+    2132,
+    3037,
+    3363
+  ],
+  "productReviews": [
+    {
+      "productId": 1048,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-01-18T21:56:01.349304+02:00"
+    },
+    {
+      "productId": 84,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-01-13T14:42:05.7477341+02:00"
+    },
+    {
+      "productId": 484,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-05-29T04:08:34.679744+03:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-12-17T08:11:13.9523433+02:00"
+    }
+  ]
+}

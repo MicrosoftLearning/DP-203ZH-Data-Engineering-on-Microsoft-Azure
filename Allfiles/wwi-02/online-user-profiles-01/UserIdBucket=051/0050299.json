@@ -1,0 +1,20 @@
+{
+  "userId": 50299,
+  "cartId": "a393c849-0ee2-49dd-b6b6-a8e9bce222de",
+  "preferredProducts": [
+    1149,
+    3683
+  ],
+  "productReviews": [
+    {
+      "productId": 1855,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2016-11-13T17:46:31.0235215+02:00"
+    },
+    {
+      "productId": 3077,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-06-01T21:44:11.4332232+03:00"
+    }
+  ]
+}

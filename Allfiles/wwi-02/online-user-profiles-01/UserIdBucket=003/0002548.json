@@ -1,0 +1,35 @@
+{
+  "userId": 2548,
+  "cartId": "c605b973-7c6f-4867-9266-baa466b39e18",
+  "preferredProducts": [
+    517,
+    428
+  ],
+  "productReviews": [
+    {
+      "productId": 4802,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-11-22T07:08:42.3206244+02:00"
+    },
+    {
+      "productId": 3976,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-01-15T22:48:35.5981266+02:00"
+    },
+    {
+      "productId": 4132,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-08-16T07:32:50.0832969+03:00"
+    },
+    {
+      "productId": 3009,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-02-21T17:26:38.8654831+02:00"
+    },
+    {
+      "productId": 837,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-07-01T12:58:31.9264628+03:00"
+    }
+  ]
+}

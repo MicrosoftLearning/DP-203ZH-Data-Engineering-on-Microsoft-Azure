@@ -1,0 +1,36 @@
+{
+  "userId": 34123,
+  "cartId": "0b0ce1b8-d001-4812-a28e-352e7b21e8a8",
+  "preferredProducts": [
+    883,
+    1116,
+    681,
+    3802,
+    1437,
+    4214,
+    3998,
+    3552
+  ],
+  "productReviews": [
+    {
+      "productId": 2880,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-06-30T06:33:00.7959136+03:00"
+    },
+    {
+      "productId": 699,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-09-01T14:43:37.0532944+03:00"
+    },
+    {
+      "productId": 2438,
+      "reviewText": "This is a really good EXE.",
+      "reviewDate": "2017-11-28T08:15:26.994462+02:00"
+    },
+    {
+      "productId": 2694,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-07-26T00:59:23.7470659+03:00"
+    }
+  ]
+}

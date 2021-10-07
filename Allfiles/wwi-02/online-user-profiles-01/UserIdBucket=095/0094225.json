@@ -1,0 +1,32 @@
+{
+  "userId": 94225,
+  "cartId": "0ba16dad-f000-4e4c-906c-3bef543ae14c",
+  "preferredProducts": [
+    3161,
+    1578,
+    2346,
+    1017
+  ],
+  "productReviews": [
+    {
+      "productId": 81,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-03-08T22:05:50.6970977+02:00"
+    },
+    {
+      "productId": 3948,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-01-25T14:57:13.4270937+02:00"
+    },
+    {
+      "productId": 3416,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-03-02T11:24:28.3275918+02:00"
+    },
+    {
+      "productId": 2950,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-07-22T03:23:11.8597069+03:00"
+    }
+  ]
+}

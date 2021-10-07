@@ -1,0 +1,36 @@
+{
+  "userId": 2489,
+  "cartId": "e86d6f12-ee54-4f46-83ef-44efa4547169",
+  "preferredProducts": [
+    1972,
+    360,
+    1816
+  ],
+  "productReviews": [
+    {
+      "productId": 3144,
+      "reviewText": "This Wooden works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-01-15T19:24:39.2474493+02:00"
+    },
+    {
+      "productId": 119,
+      "reviewText": "this gold is slurpee.",
+      "reviewDate": "2020-04-25T07:59:29.6052835+03:00"
+    },
+    {
+      "productId": 3315,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-09-15T05:45:40.6214333+03:00"
+    },
+    {
+      "productId": 757,
+      "reviewText": "this firewall is vertical.",
+      "reviewDate": "2018-01-08T10:28:01.4920589+02:00"
+    },
+    {
+      "productId": 1676,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-01-24T23:58:33.1285249+02:00"
+    }
+  ]
+}

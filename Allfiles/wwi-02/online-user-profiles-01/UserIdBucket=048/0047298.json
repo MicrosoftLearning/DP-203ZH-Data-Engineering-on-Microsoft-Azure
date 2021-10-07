@@ -1,0 +1,33 @@
+{
+  "userId": 47298,
+  "cartId": "c9873cbd-c86b-414d-84ed-5a5d2c33d64c",
+  "preferredProducts": [
+    3205,
+    4177,
+    2608,
+    4812,
+    882,
+    1628,
+    4892,
+    2651,
+    3763,
+    719
+  ],
+  "productReviews": [
+    {
+      "productId": 4522,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-08-24T06:56:04.5818177+03:00"
+    },
+    {
+      "productId": 1484,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-01-22T05:02:35.2773814+02:00"
+    },
+    {
+      "productId": 3260,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-08-26T22:58:12.1651443+03:00"
+    }
+  ]
+}

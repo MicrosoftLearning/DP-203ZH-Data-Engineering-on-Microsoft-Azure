@@ -1,0 +1,24 @@
+{
+  "userId": 10253,
+  "cartId": "dd4b52c6-e250-4552-b5c0-0e977fb45e17",
+  "preferredProducts": [
+    108,
+    1189,
+    2813,
+    2425,
+    3173,
+    3355
+  ],
+  "productReviews": [
+    {
+      "productId": 1768,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-07-19T06:12:15.1319884+03:00"
+    },
+    {
+      "productId": 3247,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-06-20T18:31:37.783165+03:00"
+    }
+  ]
+}

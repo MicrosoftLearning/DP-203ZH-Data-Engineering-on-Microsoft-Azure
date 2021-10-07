@@ -1,0 +1,25 @@
+{
+  "userId": 75631,
+  "cartId": "02f662fe-5ccd-46ba-bcfc-59919ac45da1",
+  "preferredProducts": [
+    4242,
+    739,
+    4680,
+    4848,
+    3659,
+    4802,
+    3751
+  ],
+  "productReviews": [
+    {
+      "productId": 4722,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-06-23T10:59:40.625552+03:00"
+    },
+    {
+      "productId": 3083,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-04-27T22:26:44.1631582+03:00"
+    }
+  ]
+}

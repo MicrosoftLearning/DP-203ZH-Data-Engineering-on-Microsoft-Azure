@@ -1,0 +1,33 @@
+{
+  "userId": 24318,
+  "cartId": "ce6d6a37-9037-4532-a83f-65d317ce968a",
+  "preferredProducts": [
+    1481,
+    4038,
+    1118,
+    830,
+    4724
+  ],
+  "productReviews": [
+    {
+      "productId": 1263,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-05-17T23:30:06.3048417+03:00"
+    },
+    {
+      "productId": 3108,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-09-27T04:49:25.0114396+03:00"
+    },
+    {
+      "productId": 3322,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-08-26T17:00:10.2908837+03:00"
+    },
+    {
+      "productId": 3592,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2020-03-10T13:36:14.9917256+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 15534,
+  "cartId": "873a0cba-9332-4918-9db4-7cc7f2cad634",
+  "preferredProducts": [
+    2434,
+    3844,
+    4481,
+    4046,
+    109,
+    3293,
+    1690,
+    573,
+    1666,
+    3450
+  ],
+  "productReviews": [
+    {
+      "productId": 1280,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-04-14T16:58:04.9664335+03:00"
+    },
+    {
+      "productId": 2480,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-04-01T13:38:44.9030035+03:00"
+    },
+    {
+      "productId": 1289,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-01-26T00:11:22.361877+02:00"
+    },
+    {
+      "productId": 4430,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-06-29T06:22:58.3740477+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 65015,
+  "cartId": "2376c066-46d3-496d-937d-364f3039158d",
+  "preferredProducts": [
+    1088,
+    4646,
+    4418,
+    2202,
+    1652,
+    4094,
+    145
+  ],
+  "productReviews": [
+    {
+      "productId": 468,
+      "reviewText": "this Triple-buffered is slurpee.",
+      "reviewDate": "2016-11-20T08:52:33.5012461+02:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-11-18T23:47:07.6790762+02:00"
+    },
+    {
+      "productId": 1071,
+      "reviewText": "this Small is standard.",
+      "reviewDate": "2017-09-29T04:37:54.5792678+03:00"
+    },
+    {
+      "productId": 3697,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-11-04T12:08:36.532188+02:00"
+    }
+  ]
+}

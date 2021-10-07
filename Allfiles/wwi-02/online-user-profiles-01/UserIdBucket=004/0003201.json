@@ -1,0 +1,42 @@
+{
+  "userId": 3201,
+  "cartId": "31873dcb-c15f-48b1-baca-2c969672e278",
+  "preferredProducts": [
+    984,
+    4829,
+    3674,
+    3301,
+    3966,
+    2740,
+    2611,
+    4070,
+    2510
+  ],
+  "productReviews": [
+    {
+      "productId": 2454,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-03-17T03:27:18.7299209+02:00"
+    },
+    {
+      "productId": 193,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-09-10T06:32:10.3539849+03:00"
+    },
+    {
+      "productId": 4773,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-05-09T14:33:31.3013134+03:00"
+    },
+    {
+      "productId": 2596,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-07-28T17:53:13.0738756+03:00"
+    },
+    {
+      "productId": 1988,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-05-01T07:29:52.6813087+03:00"
+    }
+  ]
+}

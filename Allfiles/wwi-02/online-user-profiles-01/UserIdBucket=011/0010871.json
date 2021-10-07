@@ -1,0 +1,33 @@
+{
+  "userId": 10871,
+  "cartId": "815a390d-8ab3-4c15-a1d2-d46e5c9d565c",
+  "preferredProducts": [
+    2500,
+    3989,
+    1823,
+    4049,
+    3475,
+    4040,
+    73,
+    4642,
+    4082,
+    2505
+  ],
+  "productReviews": [
+    {
+      "productId": 3950,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-03-29T23:38:36.3979148+03:00"
+    },
+    {
+      "productId": 2845,
+      "reviewText": "This withdrawal works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-05-20T21:55:09.831143+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-06-15T04:36:05.099715+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 17430,
+  "cartId": "4a6ab41a-b1ab-473d-a2ae-a6ca7cf508dc",
+  "preferredProducts": [
+    4410,
+    4696,
+    2109,
+    875,
+    4111,
+    3387,
+    4301,
+    3140
+  ],
+  "productReviews": [
+    {
+      "productId": 2225,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-03-13T09:25:23.6439502+02:00"
+    },
+    {
+      "productId": 1901,
+      "reviewText": "this evolve is ratty.",
+      "reviewDate": "2019-12-15T22:05:32.4705906+02:00"
+    }
+  ]
+}

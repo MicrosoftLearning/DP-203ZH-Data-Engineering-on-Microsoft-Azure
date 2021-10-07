@@ -1,0 +1,35 @@
+{
+  "userId": 10296,
+  "cartId": "55a294a2-b2a2-4391-b96e-bcad0d6b6041",
+  "preferredProducts": [
+    4829,
+    785,
+    4137,
+    3862,
+    4728,
+    30,
+    1530
+  ],
+  "productReviews": [
+    {
+      "productId": 4212,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-02-18T19:10:09.3743989+02:00"
+    },
+    {
+      "productId": 574,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-06-07T02:35:49.825159+03:00"
+    },
+    {
+      "productId": 3178,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-19T07:12:05.8992917+03:00"
+    },
+    {
+      "productId": 846,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-08-18T17:09:05.4292302+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 70123,
+  "cartId": "1d5c0379-7a23-4fa1-a5ba-e59a90fdf3a5",
+  "preferredProducts": [
+    422,
+    2569,
+    3380,
+    1679
+  ],
+  "productReviews": [
+    {
+      "productId": 30,
+      "reviewText": "this Kwacha is whole-grain.",
+      "reviewDate": "2018-04-25T10:28:52.344941+03:00"
+    },
+    {
+      "productId": 3465,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-10-14T13:21:30.5400322+03:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-08-11T23:47:32.2939104+03:00"
+    },
+    {
+      "productId": 1964,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-02-04T09:42:35.1670627+02:00"
+    }
+  ]
+}

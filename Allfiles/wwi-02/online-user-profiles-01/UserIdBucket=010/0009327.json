@@ -1,0 +1,28 @@
+{
+  "userId": 9327,
+  "cartId": "48289b6b-f8aa-4ed1-a1c4-3028eb40bfae",
+  "preferredProducts": [
+    1245,
+    2504,
+    4034,
+    4922,
+    3950
+  ],
+  "productReviews": [
+    {
+      "productId": 2665,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-06-12T02:18:51.8060295+03:00"
+    },
+    {
+      "productId": 4331,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-09-25T21:22:25.3717269+03:00"
+    },
+    {
+      "productId": 3994,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-02-21T11:05:31.0566517+02:00"
+    }
+  ]
+}

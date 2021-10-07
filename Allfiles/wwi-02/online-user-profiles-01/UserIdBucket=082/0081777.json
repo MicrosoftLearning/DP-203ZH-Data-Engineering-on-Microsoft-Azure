@@ -1,0 +1,33 @@
+{
+  "userId": 81777,
+  "cartId": "2a9c8cae-a9ca-42c7-a5e4-4665dc2494d7",
+  "preferredProducts": [
+    1336,
+    258,
+    4703,
+    1976,
+    3638
+  ],
+  "productReviews": [
+    {
+      "productId": 1279,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-10-21T07:53:31.8428865+03:00"
+    },
+    {
+      "productId": 2152,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-10-10T19:54:57.7093255+03:00"
+    },
+    {
+      "productId": 4072,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-03-29T14:24:21.4317197+03:00"
+    },
+    {
+      "productId": 2794,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-07-13T12:35:50.2140091+03:00"
+    }
+  ]
+}

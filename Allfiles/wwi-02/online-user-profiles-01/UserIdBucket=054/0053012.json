@@ -1,0 +1,41 @@
+{
+  "userId": 53012,
+  "cartId": "f865d273-73d8-4932-879f-26d1d0f95b78",
+  "preferredProducts": [
+    4473,
+    1237,
+    3749,
+    4487,
+    2523,
+    3227,
+    1610,
+    3947
+  ],
+  "productReviews": [
+    {
+      "productId": 2532,
+      "reviewText": "this Loop is awesome.",
+      "reviewDate": "2019-07-11T12:04:37.2394985+03:00"
+    },
+    {
+      "productId": 785,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-08-28T06:37:04.3607992+03:00"
+    },
+    {
+      "productId": 4922,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-02-07T10:18:07.3943663+02:00"
+    },
+    {
+      "productId": 2409,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-03-01T22:10:02.9194483+02:00"
+    },
+    {
+      "productId": 2216,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-09-05T21:14:12.6643167+03:00"
+    }
+  ]
+}

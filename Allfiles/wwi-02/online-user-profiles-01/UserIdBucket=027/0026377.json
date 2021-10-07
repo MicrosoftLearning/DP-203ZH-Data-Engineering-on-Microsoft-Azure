@@ -1,0 +1,30 @@
+{
+  "userId": 26377,
+  "cartId": "5269301a-ec3f-4bc9-af41-9c40239166a5",
+  "preferredProducts": [
+    701,
+    2880
+  ],
+  "productReviews": [
+    {
+      "productId": 3683,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-10-07T14:26:25.1400508+03:00"
+    },
+    {
+      "productId": 3686,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2017-07-24T12:33:56.1795998+03:00"
+    },
+    {
+      "productId": 375,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-09-01T03:36:41.0993949+03:00"
+    },
+    {
+      "productId": 2042,
+      "reviewText": "this bandwidth is brown.",
+      "reviewDate": "2020-02-14T09:19:39.2684602+02:00"
+    }
+  ]
+}

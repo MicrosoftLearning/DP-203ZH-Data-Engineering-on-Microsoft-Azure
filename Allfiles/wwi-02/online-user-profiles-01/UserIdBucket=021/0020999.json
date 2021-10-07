@@ -1,0 +1,26 @@
+{
+  "userId": 20999,
+  "cartId": "1a73604f-37ef-4928-8263-aef15ef919f2",
+  "preferredProducts": [
+    1455,
+    3154,
+    3981
+  ],
+  "productReviews": [
+    {
+      "productId": 4377,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-10-13T02:45:54.2364223+03:00"
+    },
+    {
+      "productId": 2415,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-10-16T10:56:06.3716249+03:00"
+    },
+    {
+      "productId": 1781,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-08-12T18:37:19.7836396+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 51666,
+  "cartId": "f2a33f93-5f62-4e72-856a-15331bcc9c4f",
+  "preferredProducts": [
+    4772,
+    1439,
+    355,
+    2151,
+    1684,
+    1529,
+    3247,
+    4465
+  ],
+  "productReviews": [
+    {
+      "productId": 1513,
+      "reviewText": "this Greens is papery.",
+      "reviewDate": "2016-08-08T04:26:45.5407003+03:00"
+    },
+    {
+      "productId": 2663,
+      "reviewText": "this Grocery & Music is awesome.",
+      "reviewDate": "2018-10-04T10:40:31.352903+03:00"
+    },
+    {
+      "productId": 3321,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-07-26T17:27:44.3003444+03:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-10-28T04:47:57.8285796+03:00"
+    },
+    {
+      "productId": 2104,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-09-06T03:32:21.2232932+03:00"
+    }
+  ]
+}

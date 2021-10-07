@@ -1,0 +1,32 @@
+{
+  "userId": 43394,
+  "cartId": "ba92906a-c45a-43c0-ae5b-c536a2c30778",
+  "preferredProducts": [
+    3652,
+    4102,
+    920,
+    430
+  ],
+  "productReviews": [
+    {
+      "productId": 66,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-12-15T20:27:46.5799572+02:00"
+    },
+    {
+      "productId": 4846,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-12-29T14:24:02.0121534+02:00"
+    },
+    {
+      "productId": 2226,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-04-16T03:59:15.3372175+03:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-11-14T18:24:59.2686539+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 70400,
+  "cartId": "13a29449-9fed-42f7-8f16-0281d3cd157e",
+  "preferredProducts": [
+    3901,
+    2119,
+    4539,
+    275,
+    2926
+  ],
+  "productReviews": [
+    {
+      "productId": 1557,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-02-18T09:43:43.1854271+02:00"
+    },
+    {
+      "productId": 3981,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-08-24T20:39:12.0834374+03:00"
+    },
+    {
+      "productId": 1188,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-05-21T18:56:40.9841254+03:00"
+    },
+    {
+      "productId": 3516,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-02-07T21:16:13.7047576+02:00"
+    }
+  ]
+}

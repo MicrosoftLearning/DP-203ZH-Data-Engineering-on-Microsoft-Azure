@@ -1,0 +1,31 @@
+{
+  "userId": 37110,
+  "cartId": "23a10049-8154-4fce-875f-97268981626b",
+  "preferredProducts": [
+    4500,
+    1288,
+    3997,
+    1624,
+    2001,
+    222,
+    2429,
+    4317
+  ],
+  "productReviews": [
+    {
+      "productId": 2004,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-07-20T06:12:36.2091489+03:00"
+    },
+    {
+      "productId": 214,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-02-18T14:52:45.0025177+02:00"
+    },
+    {
+      "productId": 4142,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-04-18T04:15:53.208077+03:00"
+    }
+  ]
+}

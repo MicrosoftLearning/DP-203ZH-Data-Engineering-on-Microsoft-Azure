@@ -1,0 +1,36 @@
+{
+  "userId": 2579,
+  "cartId": "b6c4fe8c-2cee-4c02-97f8-57d8b0b6938a",
+  "preferredProducts": [
+    332,
+    2162,
+    42
+  ],
+  "productReviews": [
+    {
+      "productId": 2649,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-08-21T16:20:20.2562463+03:00"
+    },
+    {
+      "productId": 3698,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-06-22T22:00:11.7093383+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-01-01T23:42:36.5872196+02:00"
+    },
+    {
+      "productId": 1522,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-03-30T12:24:45.2731098+03:00"
+    },
+    {
+      "productId": 313,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-07-19T11:21:16.7949555+03:00"
+    }
+  ]
+}

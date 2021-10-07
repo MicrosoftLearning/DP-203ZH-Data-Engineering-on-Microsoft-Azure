@@ -1,0 +1,30 @@
+{
+  "userId": 1701,
+  "cartId": "427f5796-502e-4b54-a751-fdf90e42d046",
+  "preferredProducts": [
+    3262,
+    3551,
+    3801,
+    4952,
+    2200,
+    1189,
+    2071
+  ],
+  "productReviews": [
+    {
+      "productId": 4495,
+      "reviewText": "this Metal is top-notch.",
+      "reviewDate": "2020-04-05T15:31:10.5990506+03:00"
+    },
+    {
+      "productId": 3319,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-07-28T03:11:16.696645+03:00"
+    },
+    {
+      "productId": 3256,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-02-07T00:45:07.1225657+02:00"
+    }
+  ]
+}

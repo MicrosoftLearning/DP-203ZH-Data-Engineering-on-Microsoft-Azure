@@ -1,0 +1,24 @@
+{
+  "userId": 10802,
+  "cartId": "e8bc58f5-d193-4f7f-86ea-391888608ff4",
+  "preferredProducts": [
+    4906,
+    2512,
+    1507,
+    1434,
+    3217,
+    2640
+  ],
+  "productReviews": [
+    {
+      "productId": 4772,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-13T18:06:05.6895487+03:00"
+    },
+    {
+      "productId": 3891,
+      "reviewText": "This Health works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-04-27T14:01:51.8323682+03:00"
+    }
+  ]
+}

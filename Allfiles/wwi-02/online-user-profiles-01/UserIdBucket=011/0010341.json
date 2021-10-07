@@ -1,0 +1,26 @@
+{
+  "userId": 10341,
+  "cartId": "a2023416-ce2f-4839-8842-18d13363946d",
+  "preferredProducts": [
+    1388,
+    3913,
+    2853
+  ],
+  "productReviews": [
+    {
+      "productId": 1805,
+      "reviewText": "This asynchronous works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2020-01-13T11:06:01.6678895+02:00"
+    },
+    {
+      "productId": 4042,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-08-25T23:50:31.7765205+03:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Pre-emptive keeps them away.",
+      "reviewDate": "2019-09-19T02:09:50.7461553+03:00"
+    }
+  ]
+}

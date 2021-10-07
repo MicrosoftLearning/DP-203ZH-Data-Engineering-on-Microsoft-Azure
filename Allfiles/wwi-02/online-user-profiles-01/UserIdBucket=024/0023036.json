@@ -1,0 +1,25 @@
+{
+  "userId": 23036,
+  "cartId": "1ffd97d0-967d-42b5-8da8-86895bc2c824",
+  "preferredProducts": [
+    4762,
+    775
+  ],
+  "productReviews": [
+    {
+      "productId": 1815,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-06-09T04:26:03.7015617+03:00"
+    },
+    {
+      "productId": 3974,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-05-29T09:15:14.8733665+03:00"
+    },
+    {
+      "productId": 4576,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-11-20T21:45:21.1027409+02:00"
+    }
+  ]
+}

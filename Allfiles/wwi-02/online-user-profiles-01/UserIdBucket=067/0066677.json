@@ -1,0 +1,38 @@
+{
+  "userId": 66677,
+  "cartId": "9bddbe9a-cdd5-44b5-9cad-b44c943436ef",
+  "preferredProducts": [
+    4338,
+    1467,
+    4683,
+    2893,
+    4601,
+    2017,
+    1389,
+    2835,
+    2233,
+    469
+  ],
+  "productReviews": [
+    {
+      "productId": 4095,
+      "reviewText": "This is a really good US Dollar.",
+      "reviewDate": "2018-07-26T18:12:23.0183628+03:00"
+    },
+    {
+      "productId": 3551,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-06T01:12:15.4923984+03:00"
+    },
+    {
+      "productId": 4912,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-12-03T16:09:16.9028905+02:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2020-05-04T19:45:52.5982144+03:00"
+    }
+  ]
+}

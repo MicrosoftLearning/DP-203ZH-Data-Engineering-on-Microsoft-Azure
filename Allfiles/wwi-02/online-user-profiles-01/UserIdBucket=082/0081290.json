@@ -1,0 +1,27 @@
+{
+  "userId": 81290,
+  "cartId": "e53ada49-39a9-4265-a19e-7fdce3f73ae2",
+  "preferredProducts": [
+    1862,
+    4235,
+    4496,
+    616
+  ],
+  "productReviews": [
+    {
+      "productId": 201,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-08-09T21:34:22.9172058+03:00"
+    },
+    {
+      "productId": 4730,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-03-23T08:24:19.5100612+02:00"
+    },
+    {
+      "productId": 2359,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-01-10T19:12:16.3544519+02:00"
+    }
+  ]
+}

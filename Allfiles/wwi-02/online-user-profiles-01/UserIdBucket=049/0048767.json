@@ -1,0 +1,31 @@
+{
+  "userId": 48767,
+  "cartId": "15b5a0e8-7679-47f0-80b9-f68d2d714ef9",
+  "preferredProducts": [
+    4000,
+    3429,
+    39,
+    409,
+    4189,
+    3746,
+    3505,
+    2685
+  ],
+  "productReviews": [
+    {
+      "productId": 1014,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-02-21T10:15:16.0188002+02:00"
+    },
+    {
+      "productId": 4427,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-01-23T05:25:23.637909+02:00"
+    },
+    {
+      "productId": 536,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-06-02T02:44:45.8348633+03:00"
+    }
+  ]
+}

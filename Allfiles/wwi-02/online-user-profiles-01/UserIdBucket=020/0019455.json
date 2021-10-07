@@ -1,0 +1,26 @@
+{
+  "userId": 19455,
+  "cartId": "4927e466-7d4e-4225-963f-62932e635336",
+  "preferredProducts": [
+    2935,
+    3650,
+    3808,
+    2131,
+    3941,
+    4184,
+    1881,
+    926
+  ],
+  "productReviews": [
+    {
+      "productId": 430,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-01-12T21:28:51.7356854+02:00"
+    },
+    {
+      "productId": 1885,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-10-04T06:07:18.8252809+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 2339,
+  "cartId": "9d00435d-e332-4550-99e9-898dd2ef6c69",
+  "preferredProducts": [
+    2175,
+    2786,
+    2488,
+    4985,
+    1736,
+    1742,
+    277,
+    3467,
+    91
+  ],
+  "productReviews": [
+    {
+      "productId": 2229,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-08-10T11:23:15.7003907+03:00"
+    },
+    {
+      "productId": 993,
+      "reviewText": "this invoice is papery.",
+      "reviewDate": "2019-06-02T18:55:22.1893293+03:00"
+    },
+    {
+      "productId": 4170,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2016-11-20T02:37:58.3957767+02:00"
+    }
+  ]
+}

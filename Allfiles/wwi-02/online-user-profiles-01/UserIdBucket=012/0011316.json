@@ -1,0 +1,41 @@
+{
+  "userId": 11316,
+  "cartId": "ad8a749b-f448-4fba-99f0-1e38e51c3b9f",
+  "preferredProducts": [
+    2123,
+    4834,
+    3448,
+    3073,
+    4857,
+    2528,
+    4361,
+    10
+  ],
+  "productReviews": [
+    {
+      "productId": 1977,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-11-23T02:38:29.8418004+02:00"
+    },
+    {
+      "productId": 651,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-09-12T06:54:52.7977266+03:00"
+    },
+    {
+      "productId": 1134,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-09-20T19:50:52.0832517+03:00"
+    },
+    {
+      "productId": 1024,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-07-28T05:48:36.1922636+03:00"
+    },
+    {
+      "productId": 925,
+      "reviewText": "This extensible works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-10-21T08:44:28.9301245+03:00"
+    }
+  ]
+}

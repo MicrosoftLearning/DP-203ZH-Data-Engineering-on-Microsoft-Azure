@@ -1,0 +1,28 @@
+{
+  "userId": 15703,
+  "cartId": "0a39bfcb-a4dd-4ae7-868f-48fd4d4af185",
+  "preferredProducts": [
+    2542,
+    3328,
+    4593,
+    3931,
+    3737
+  ],
+  "productReviews": [
+    {
+      "productId": 3382,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-12-09T04:25:15.6692033+02:00"
+    },
+    {
+      "productId": 4011,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-11-01T07:45:46.106362+02:00"
+    },
+    {
+      "productId": 3102,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-07-20T05:54:36.5423836+03:00"
+    }
+  ]
+}

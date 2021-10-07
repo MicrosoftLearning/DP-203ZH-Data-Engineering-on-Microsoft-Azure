@@ -1,0 +1,33 @@
+{
+  "userId": 98924,
+  "cartId": "9740aac9-061b-4a5e-993f-d4021cf64e6a",
+  "preferredProducts": [
+    1897,
+    4111,
+    4147,
+    493,
+    3520
+  ],
+  "productReviews": [
+    {
+      "productId": 2438,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-08-08T10:04:09.2509129+03:00"
+    },
+    {
+      "productId": 2282,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-05-23T09:52:49.873965+03:00"
+    },
+    {
+      "productId": 4191,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2017-07-16T21:26:03.9621998+03:00"
+    },
+    {
+      "productId": 4415,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-08-24T05:23:30.1028348+03:00"
+    }
+  ]
+}

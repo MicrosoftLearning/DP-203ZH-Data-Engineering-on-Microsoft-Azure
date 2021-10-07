@@ -1,0 +1,30 @@
+{
+  "userId": 72574,
+  "cartId": "0fbcadea-ae3e-4700-ad23-5d63cf913dc5",
+  "preferredProducts": [
+    4496,
+    4851,
+    78,
+    576,
+    88,
+    3450,
+    4778
+  ],
+  "productReviews": [
+    {
+      "productId": 3020,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-11-11T06:45:30.8898985+02:00"
+    },
+    {
+      "productId": 2732,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-01-19T09:34:15.0685177+02:00"
+    },
+    {
+      "productId": 2428,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-04-26T08:47:29.4038343+03:00"
+    }
+  ]
+}

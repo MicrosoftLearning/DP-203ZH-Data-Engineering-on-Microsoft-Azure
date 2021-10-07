@@ -1,0 +1,30 @@
+{
+  "userId": 9801,
+  "cartId": "661834f3-4063-417f-8cb4-d52d7195539c",
+  "preferredProducts": [
+    4233,
+    4890,
+    3621,
+    4027,
+    1547,
+    4105,
+    3439
+  ],
+  "productReviews": [
+    {
+      "productId": 2218,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-05-21T14:05:48.5593866+03:00"
+    },
+    {
+      "productId": 1424,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-10-25T08:30:00.6381725+03:00"
+    },
+    {
+      "productId": 2159,
+      "reviewText": "this open-source is mellow.",
+      "reviewDate": "2018-07-14T03:53:09.8571363+03:00"
+    }
+  ]
+}

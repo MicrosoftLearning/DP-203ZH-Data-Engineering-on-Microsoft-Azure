@@ -1,0 +1,37 @@
+{
+  "userId": 85029,
+  "cartId": "94b8f57a-7227-4f83-810b-c01373c04c95",
+  "preferredProducts": [
+    2234,
+    4987,
+    635,
+    1356,
+    2423,
+    980,
+    3655,
+    448,
+    39
+  ],
+  "productReviews": [
+    {
+      "productId": 243,
+      "reviewText": "this Ergonomic Soft Bike is top-notch.",
+      "reviewDate": "2019-10-17T11:00:02.4306913+03:00"
+    },
+    {
+      "productId": 2586,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-03-08T02:02:07.5618116+02:00"
+    },
+    {
+      "productId": 1918,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2017-01-25T14:07:45.2707287+02:00"
+    },
+    {
+      "productId": 3336,
+      "reviewText": "this 24/7 is awesome.",
+      "reviewDate": "2017-05-04T01:01:40.0976908+03:00"
+    }
+  ]
+}

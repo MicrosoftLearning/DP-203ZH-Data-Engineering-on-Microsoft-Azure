@@ -1,0 +1,36 @@
+{
+  "userId": 53050,
+  "cartId": "0bf70647-eba5-4416-b372-c6af05bbf68a",
+  "preferredProducts": [
+    2914,
+    3971,
+    4171,
+    291,
+    1319,
+    525,
+    3234,
+    4741
+  ],
+  "productReviews": [
+    {
+      "productId": 810,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2020-03-09T20:32:59.155272+02:00"
+    },
+    {
+      "productId": 1347,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-05-16T11:30:36.828741+03:00"
+    },
+    {
+      "productId": 4539,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-09-24T15:52:16.5578828+03:00"
+    },
+    {
+      "productId": 3299,
+      "reviewText": "This parsing, does exactly what it's suppose to do.",
+      "reviewDate": "2020-02-13T01:17:36.0780843+02:00"
+    }
+  ]
+}

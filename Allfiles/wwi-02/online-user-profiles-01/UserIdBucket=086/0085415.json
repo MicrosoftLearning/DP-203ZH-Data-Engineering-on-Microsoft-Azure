@@ -1,0 +1,35 @@
+{
+  "userId": 85415,
+  "cartId": "ed3495a3-42cc-4d5a-8c22-335c849a7281",
+  "preferredProducts": [
+    1639,
+    326,
+    2222,
+    152,
+    2252,
+    479,
+    3888
+  ],
+  "productReviews": [
+    {
+      "productId": 2683,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-02-11T14:17:08.3458968+02:00"
+    },
+    {
+      "productId": 819,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-04-25T10:21:39.1489886+03:00"
+    },
+    {
+      "productId": 495,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-07-26T09:18:44.0673971+03:00"
+    },
+    {
+      "productId": 4682,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-11-13T04:17:41.5688647+02:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 60500,
+  "cartId": "78d077e7-6697-425a-98be-82302b23262e",
+  "preferredProducts": [
+    1298,
+    573,
+    3235,
+    2390,
+    3735,
+    3676,
+    1816,
+    4630,
+    4402,
+    3606
+  ],
+  "productReviews": [
+    {
+      "productId": 822,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-04-26T08:50:04.9959534+03:00"
+    },
+    {
+      "productId": 2408,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-06-04T17:42:01.5884196+03:00"
+    },
+    {
+      "productId": 4367,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-12-23T19:06:34.1619976+02:00"
+    },
+    {
+      "productId": 1316,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-01-24T07:52:56.9677691+02:00"
+    },
+    {
+      "productId": 3354,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Implementation keeps them away.",
+      "reviewDate": "2017-12-21T12:20:21.4436219+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 20674,
+  "cartId": "540eddfb-66d1-4cf5-81b7-60d296ad7cb9",
+  "preferredProducts": [
+    901,
+    4269,
+    2491,
+    23,
+    3427
+  ],
+  "productReviews": [
+    {
+      "productId": 3224,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2016-09-11T08:01:52.9743941+03:00"
+    },
+    {
+      "productId": 155,
+      "reviewText": "This alarm works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-05-30T16:31:50.1237856+03:00"
+    },
+    {
+      "productId": 2439,
+      "reviewText": "This back-end works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-06-28T10:12:58.9988166+03:00"
+    },
+    {
+      "productId": 990,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-09-02T09:24:01.4619508+03:00"
+    }
+  ]
+}

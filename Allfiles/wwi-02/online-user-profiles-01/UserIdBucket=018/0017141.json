@@ -1,0 +1,43 @@
+{
+  "userId": 17141,
+  "cartId": "1179c092-e367-4b44-8a73-a06a00cbc882",
+  "preferredProducts": [
+    743,
+    1595,
+    2799,
+    313,
+    4516,
+    755,
+    3201,
+    2129,
+    977,
+    4023
+  ],
+  "productReviews": [
+    {
+      "productId": 4673,
+      "reviewText": "This Ville, does exactly what it's suppose to do.",
+      "reviewDate": "2019-03-10T08:57:11.7659076+02:00"
+    },
+    {
+      "productId": 3268,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-08-27T14:48:06.1025292+03:00"
+    },
+    {
+      "productId": 3143,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-11-12T22:48:09.4953849+02:00"
+    },
+    {
+      "productId": 4872,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-02-27T10:29:56.933816+02:00"
+    },
+    {
+      "productId": 4400,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-07-25T13:53:10.5930572+03:00"
+    }
+  ]
+}

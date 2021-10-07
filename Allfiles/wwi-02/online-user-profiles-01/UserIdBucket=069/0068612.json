@@ -1,0 +1,28 @@
+{
+  "userId": 68612,
+  "cartId": "e7f13732-abef-4d59-916d-0b7083c52955",
+  "preferredProducts": [
+    2330,
+    4276,
+    3204,
+    3465,
+    2818
+  ],
+  "productReviews": [
+    {
+      "productId": 732,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-06-17T12:19:58.5179184+03:00"
+    },
+    {
+      "productId": 2035,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-03-16T18:18:25.1548144+02:00"
+    },
+    {
+      "productId": 1491,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-08-04T12:36:39.5049834+03:00"
+    }
+  ]
+}

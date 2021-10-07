@@ -1,0 +1,29 @@
+{
+  "userId": 91973,
+  "cartId": "47f1f2a4-3b89-4588-8242-d3a75d3e5ad3",
+  "preferredProducts": [
+    2580,
+    3613,
+    1362,
+    1345,
+    1086,
+    1165
+  ],
+  "productReviews": [
+    {
+      "productId": 1105,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-09-12T19:22:25.9938314+03:00"
+    },
+    {
+      "productId": 4342,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-12-06T12:52:25.3088989+02:00"
+    },
+    {
+      "productId": 4805,
+      "reviewText": "This is a really good Administrator.",
+      "reviewDate": "2019-04-01T19:32:05.8366564+03:00"
+    }
+  ]
+}

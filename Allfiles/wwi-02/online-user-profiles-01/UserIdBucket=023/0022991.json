@@ -1,0 +1,24 @@
+{
+  "userId": 22991,
+  "cartId": "5c4db155-261c-4d82-8492-dcadfc2e7350",
+  "preferredProducts": [
+    4522,
+    2345,
+    4317,
+    3126,
+    966,
+    1159
+  ],
+  "productReviews": [
+    {
+      "productId": 2677,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-03-13T18:33:18.7453578+02:00"
+    },
+    {
+      "productId": 3846,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-11-03T02:08:56.5172463+02:00"
+    }
+  ]
+}

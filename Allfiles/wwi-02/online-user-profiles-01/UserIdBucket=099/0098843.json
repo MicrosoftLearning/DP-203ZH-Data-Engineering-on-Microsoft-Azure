@@ -1,0 +1,31 @@
+{
+  "userId": 98843,
+  "cartId": "58ea7fc3-10b2-4a56-8ede-70ca3dc161ac",
+  "preferredProducts": [
+    546,
+    3920,
+    3120,
+    4094,
+    286,
+    3039,
+    2323,
+    318
+  ],
+  "productReviews": [
+    {
+      "productId": 177,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-06-02T00:23:35.557404+03:00"
+    },
+    {
+      "productId": 3320,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-05-26T17:19:23.6898592+03:00"
+    },
+    {
+      "productId": 4561,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-07-19T10:46:44.1737046+03:00"
+    }
+  ]
+}

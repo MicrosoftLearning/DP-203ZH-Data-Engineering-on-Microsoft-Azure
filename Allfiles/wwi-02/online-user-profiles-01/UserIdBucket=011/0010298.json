@@ -1,0 +1,24 @@
+{
+  "userId": 10298,
+  "cartId": "3b7cca97-f886-4cfd-8a0a-4c71e9f0d551",
+  "preferredProducts": [
+    134
+  ],
+  "productReviews": [
+    {
+      "productId": 4641,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-10-11T03:33:22.4877061+03:00"
+    },
+    {
+      "productId": 3518,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-05-02T12:12:34.5436233+03:00"
+    },
+    {
+      "productId": 3642,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-06-14T05:01:21.8675747+03:00"
+    }
+  ]
+}

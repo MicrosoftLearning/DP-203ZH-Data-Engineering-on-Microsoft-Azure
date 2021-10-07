@@ -1,0 +1,29 @@
+{
+  "userId": 69337,
+  "cartId": "2408c69c-5cce-4308-9d9e-65c70a15c40f",
+  "preferredProducts": [
+    2467,
+    4340,
+    4957,
+    92,
+    203,
+    1841
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-05-24T16:12:59.3210588+03:00"
+    },
+    {
+      "productId": 400,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2020-01-04T22:24:36.3424457+02:00"
+    },
+    {
+      "productId": 3989,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-10-08T20:33:30.0549279+03:00"
+    }
+  ]
+}

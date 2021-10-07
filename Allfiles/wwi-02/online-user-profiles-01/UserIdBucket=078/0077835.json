@@ -1,0 +1,38 @@
+{
+  "userId": 77835,
+  "cartId": "64ff5bb7-0e0a-4d08-bf6d-7179a2ad1c55",
+  "preferredProducts": [
+    1581,
+    1305,
+    2152,
+    3351,
+    51,
+    4210,
+    3703,
+    2410,
+    3981,
+    4379
+  ],
+  "productReviews": [
+    {
+      "productId": 3483,
+      "reviewText": "this silver is tasty.",
+      "reviewDate": "2018-03-18T13:51:32.0334018+02:00"
+    },
+    {
+      "productId": 1952,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-09-27T19:04:06.6991432+03:00"
+    },
+    {
+      "productId": 3527,
+      "reviewText": "This silver works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-07-20T04:58:10.1670667+03:00"
+    },
+    {
+      "productId": 410,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2019-01-04T00:15:28.1427493+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 50576,
+  "cartId": "e21f8985-63fc-42ca-86d2-63e136d014ea",
+  "preferredProducts": [
+    2732,
+    87,
+    2575,
+    4848,
+    2583,
+    4944,
+    3582
+  ],
+  "productReviews": [
+    {
+      "productId": 3188,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-06-12T23:49:17.4184564+03:00"
+    },
+    {
+      "productId": 933,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-11-03T15:43:46.8531443+02:00"
+    }
+  ]
+}

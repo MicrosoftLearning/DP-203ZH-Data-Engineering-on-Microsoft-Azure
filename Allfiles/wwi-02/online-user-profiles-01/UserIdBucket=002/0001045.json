@@ -1,0 +1,34 @@
+{
+  "userId": 1045,
+  "cartId": "6a9c8713-3594-4499-b419-d5efe33dc1d6",
+  "preferredProducts": [
+    2399,
+    4682,
+    4376,
+    2080,
+    3084,
+    2272
+  ],
+  "productReviews": [
+    {
+      "productId": 2508,
+      "reviewText": "this Fresh is flirty.",
+      "reviewDate": "2019-04-05T15:57:56.1526541+03:00"
+    },
+    {
+      "productId": 147,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-08-11T16:05:32.2087802+03:00"
+    },
+    {
+      "productId": 279,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-05-30T13:11:11.5902405+03:00"
+    },
+    {
+      "productId": 95,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-03-16T10:07:29.4396325+02:00"
+    }
+  ]
+}

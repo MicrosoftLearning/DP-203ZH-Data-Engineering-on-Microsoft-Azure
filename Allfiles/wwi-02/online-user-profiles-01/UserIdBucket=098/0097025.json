@@ -1,0 +1,34 @@
+{
+  "userId": 97025,
+  "cartId": "70ae325a-10b4-463f-bf7a-90310052bf1f",
+  "preferredProducts": [
+    2935,
+    456,
+    3375,
+    4180,
+    1231,
+    657
+  ],
+  "productReviews": [
+    {
+      "productId": 2303,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-09-21T12:57:11.4069809+03:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-10-18T07:33:48.2739691+03:00"
+    },
+    {
+      "productId": 729,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-08-01T06:10:03.8074098+03:00"
+    },
+    {
+      "productId": 2300,
+      "reviewText": "this optimize is ratty.",
+      "reviewDate": "2016-10-27T09:46:39.2759003+03:00"
+    }
+  ]
+}

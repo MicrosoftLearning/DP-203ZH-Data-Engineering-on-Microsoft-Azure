@@ -1,0 +1,32 @@
+{
+  "userId": 25246,
+  "cartId": "20a6265b-bc72-438e-8d3f-f8fc5363cbc4",
+  "preferredProducts": [
+    1181,
+    1745,
+    4276,
+    3663
+  ],
+  "productReviews": [
+    {
+      "productId": 317,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-05-24T22:54:52.342272+03:00"
+    },
+    {
+      "productId": 3243,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-05-15T23:35:32.0711032+03:00"
+    },
+    {
+      "productId": 1710,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-04-25T06:11:50.8510166+03:00"
+    },
+    {
+      "productId": 1303,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-11-08T00:39:45.4021382+02:00"
+    }
+  ]
+}

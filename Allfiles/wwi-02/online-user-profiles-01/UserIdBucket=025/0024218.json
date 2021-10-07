@@ -1,0 +1,31 @@
+{
+  "userId": 24218,
+  "cartId": "07951dce-44ba-4865-a099-bde81bf3b6bc",
+  "preferredProducts": [
+    811,
+    3242,
+    875,
+    3747,
+    1596,
+    4649,
+    1665,
+    506
+  ],
+  "productReviews": [
+    {
+      "productId": 2155,
+      "reviewText": "this next generation is standard.",
+      "reviewDate": "2016-07-25T01:37:10.3547629+03:00"
+    },
+    {
+      "productId": 3464,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-03-08T10:16:20.7516032+02:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-05-11T08:58:50.6142907+03:00"
+    }
+  ]
+}

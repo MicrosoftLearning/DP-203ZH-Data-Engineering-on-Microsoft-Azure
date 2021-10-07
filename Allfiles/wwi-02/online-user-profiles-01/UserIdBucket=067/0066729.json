@@ -1,0 +1,33 @@
+{
+  "userId": 66729,
+  "cartId": "11a5edc6-b3b4-47f5-b5d1-451edea6aca3",
+  "preferredProducts": [
+    1748,
+    3625,
+    2301,
+    2656,
+    1713,
+    432,
+    4214,
+    4694,
+    3491,
+    2820
+  ],
+  "productReviews": [
+    {
+      "productId": 624,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-07-30T12:02:14.2554015+03:00"
+    },
+    {
+      "productId": 572,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-03-21T19:38:24.6667342+02:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-01-25T23:22:39.8222876+02:00"
+    }
+  ]
+}

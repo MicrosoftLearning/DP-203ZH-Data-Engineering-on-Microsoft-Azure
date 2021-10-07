@@ -1,0 +1,38 @@
+{
+  "userId": 13576,
+  "cartId": "9c927f2c-145e-4e05-a9d6-5b5a77ca2329",
+  "preferredProducts": [
+    3771,
+    2503,
+    3735,
+    1211,
+    765,
+    4083,
+    1348,
+    4514,
+    2325,
+    2006
+  ],
+  "productReviews": [
+    {
+      "productId": 1623,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-06-03T01:52:20.9553763+03:00"
+    },
+    {
+      "productId": 659,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-05-25T02:14:47.5999483+03:00"
+    },
+    {
+      "productId": 1888,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-03-25T19:36:40.0943846+02:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "this interface is hyper.",
+      "reviewDate": "2019-01-16T05:17:53.4937418+02:00"
+    }
+  ]
+}

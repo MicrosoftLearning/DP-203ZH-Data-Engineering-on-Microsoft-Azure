@@ -1,0 +1,42 @@
+{
+  "userId": 67082,
+  "cartId": "fb91fd36-7db1-45be-894f-b432c97f10ee",
+  "preferredProducts": [
+    4452,
+    2616,
+    1700,
+    4591,
+    696,
+    362,
+    2890,
+    2634,
+    3993
+  ],
+  "productReviews": [
+    {
+      "productId": 4678,
+      "reviewText": "this RAM is top-notch.",
+      "reviewDate": "2017-11-17T17:23:11.0635294+02:00"
+    },
+    {
+      "productId": 4714,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-03-11T23:56:15.9704242+02:00"
+    },
+    {
+      "productId": 3990,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-11-10T17:26:21.6759049+02:00"
+    },
+    {
+      "productId": 866,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-01-18T12:34:55.8588551+02:00"
+    },
+    {
+      "productId": 4437,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-04-27T15:25:14.9256083+03:00"
+    }
+  ]
+}

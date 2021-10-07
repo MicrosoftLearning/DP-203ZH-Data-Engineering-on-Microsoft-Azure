@@ -1,0 +1,26 @@
+{
+  "userId": 11002,
+  "cartId": "65840e8d-95bd-4df0-8e41-1268dddd2072",
+  "preferredProducts": [
+    737,
+    2555,
+    3835
+  ],
+  "productReviews": [
+    {
+      "productId": 1433,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-04-13T05:26:19.2660201+03:00"
+    },
+    {
+      "productId": 2842,
+      "reviewText": "this invoice is ghetto.",
+      "reviewDate": "2018-06-16T16:20:50.0009438+03:00"
+    },
+    {
+      "productId": 594,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-06-12T00:06:01.592837+03:00"
+    }
+  ]
+}

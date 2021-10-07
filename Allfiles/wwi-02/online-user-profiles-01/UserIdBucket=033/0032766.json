@@ -1,0 +1,30 @@
+{
+  "userId": 32766,
+  "cartId": "a911444e-cc5a-475a-a8b9-4fa028cadcfc",
+  "preferredProducts": [
+    2237,
+    2761,
+    3434,
+    2217,
+    3059,
+    3191,
+    3109
+  ],
+  "productReviews": [
+    {
+      "productId": 2044,
+      "reviewText": "this Orchestrator is complimentary.",
+      "reviewDate": "2019-03-31T08:30:07.2843933+03:00"
+    },
+    {
+      "productId": 4823,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-04-05T21:53:49.9000741+03:00"
+    },
+    {
+      "productId": 1527,
+      "reviewText": "This Money Market Account works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-06-02T17:06:23.2785893+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 10288,
+  "cartId": "548443b6-02d2-4a82-88ff-988f076a9856",
+  "preferredProducts": [
+    452,
+    1039,
+    2323,
+    4709,
+    2728,
+    2422,
+    3766
+  ],
+  "productReviews": [
+    {
+      "productId": 4794,
+      "reviewText": "this Consultant is smooth.",
+      "reviewDate": "2019-04-22T04:41:49.9229399+03:00"
+    },
+    {
+      "productId": 3003,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-02-17T11:49:39.5738884+02:00"
+    }
+  ]
+}

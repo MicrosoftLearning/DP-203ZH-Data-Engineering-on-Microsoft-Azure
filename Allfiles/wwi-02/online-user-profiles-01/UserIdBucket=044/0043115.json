@@ -1,0 +1,33 @@
+{
+  "userId": 43115,
+  "cartId": "aa8783f6-d4af-47ce-a512-2a46bae8968b",
+  "preferredProducts": [
+    3587,
+    4564,
+    1735,
+    4569,
+    4999
+  ],
+  "productReviews": [
+    {
+      "productId": 3991,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-09-24T20:51:57.848228+03:00"
+    },
+    {
+      "productId": 2798,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-01-08T20:56:33.5786835+02:00"
+    },
+    {
+      "productId": 113,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-12-24T08:42:22.8814114+02:00"
+    },
+    {
+      "productId": 171,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-12-19T02:09:38.8230977+02:00"
+    }
+  ]
+}

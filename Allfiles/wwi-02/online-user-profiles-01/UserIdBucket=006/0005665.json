@@ -1,0 +1,25 @@
+{
+  "userId": 5665,
+  "cartId": "1ae1d276-3dcb-429b-82d4-99c591d18cb0",
+  "preferredProducts": [
+    1128,
+    889
+  ],
+  "productReviews": [
+    {
+      "productId": 871,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-01-08T01:18:22.7791279+02:00"
+    },
+    {
+      "productId": 3099,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-03-14T01:02:55.3141619+02:00"
+    },
+    {
+      "productId": 461,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-11-02T17:49:06.7362024+02:00"
+    }
+  ]
+}

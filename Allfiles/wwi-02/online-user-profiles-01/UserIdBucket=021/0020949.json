@@ -1,0 +1,35 @@
+{
+  "userId": 20949,
+  "cartId": "52547bc5-cc7e-4121-ab7f-946d21e15f54",
+  "preferredProducts": [
+    404,
+    2295,
+    1455,
+    1243,
+    200,
+    1919,
+    220
+  ],
+  "productReviews": [
+    {
+      "productId": 1327,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-10-16T18:59:43.5565059+03:00"
+    },
+    {
+      "productId": 3141,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2016-09-05T22:29:12.3592602+03:00"
+    },
+    {
+      "productId": 42,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-01-04T03:34:50.751055+02:00"
+    },
+    {
+      "productId": 3042,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-02-25T16:15:05.4431918+02:00"
+    }
+  ]
+}

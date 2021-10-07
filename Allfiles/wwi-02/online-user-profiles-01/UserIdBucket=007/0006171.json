@@ -1,0 +1,21 @@
+{
+  "userId": 6171,
+  "cartId": "47c5ba87-32bd-4058-a61c-1a11af64cc9c",
+  "preferredProducts": [
+    1275,
+    3428,
+    3891
+  ],
+  "productReviews": [
+    {
+      "productId": 1782,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-09-10T02:33:38.1824179+03:00"
+    },
+    {
+      "productId": 3917,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-08-15T10:23:25.009595+03:00"
+    }
+  ]
+}

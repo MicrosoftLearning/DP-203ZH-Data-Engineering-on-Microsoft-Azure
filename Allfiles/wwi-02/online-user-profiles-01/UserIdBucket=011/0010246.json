@@ -1,0 +1,33 @@
+{
+  "userId": 10246,
+  "cartId": "05c20b97-5f5c-4de2-b41a-17a65e4fc685",
+  "preferredProducts": [
+    4367,
+    3730,
+    1473,
+    1486,
+    2003
+  ],
+  "productReviews": [
+    {
+      "productId": 1859,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-08-15T23:41:07.5600402+03:00"
+    },
+    {
+      "productId": 3277,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-07-02T19:03:59.4547801+03:00"
+    },
+    {
+      "productId": 4181,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-06-26T13:05:35.2342577+03:00"
+    },
+    {
+      "productId": 105,
+      "reviewText": "This Granite works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-01-30T17:55:31.5641302+02:00"
+    }
+  ]
+}

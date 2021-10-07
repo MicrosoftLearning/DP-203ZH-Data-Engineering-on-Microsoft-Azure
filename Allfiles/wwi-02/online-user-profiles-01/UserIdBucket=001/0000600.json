@@ -1,0 +1,39 @@
+{
+  "userId": 600,
+  "cartId": "79eacb7d-45de-494e-b229-02f1cb94b921",
+  "preferredProducts": [
+    589,
+    4537,
+    3714,
+    1206,
+    1339,
+    2706
+  ],
+  "productReviews": [
+    {
+      "productId": 4488,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-03-23T06:27:20.1316577+02:00"
+    },
+    {
+      "productId": 3483,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-03-07T23:51:27.9875842+02:00"
+    },
+    {
+      "productId": 1405,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-12-02T11:39:54.6594025+02:00"
+    },
+    {
+      "productId": 2075,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-06-06T09:36:42.3657233+03:00"
+    },
+    {
+      "productId": 3718,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-11-18T13:11:32.3086102+02:00"
+    }
+  ]
+}

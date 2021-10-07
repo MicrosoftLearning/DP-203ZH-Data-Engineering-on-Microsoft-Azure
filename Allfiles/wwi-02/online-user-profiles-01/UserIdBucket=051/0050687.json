@@ -1,0 +1,27 @@
+{
+  "userId": 50687,
+  "cartId": "bfc6920a-cbe1-4746-b9a5-0bcf8a6c46ac",
+  "preferredProducts": [
+    3703,
+    2594,
+    2589,
+    2281
+  ],
+  "productReviews": [
+    {
+      "productId": 1368,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-11-29T00:14:34.9015831+02:00"
+    },
+    {
+      "productId": 3919,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-06-15T18:30:22.572706+03:00"
+    },
+    {
+      "productId": 240,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-08-13T02:27:00.8091164+03:00"
+    }
+  ]
+}

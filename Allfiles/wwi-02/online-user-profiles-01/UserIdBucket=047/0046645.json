@@ -1,0 +1,29 @@
+{
+  "userId": 46645,
+  "cartId": "1e53ce8f-5af9-4ceb-b91a-d477baa77bcf",
+  "preferredProducts": [
+    2626,
+    399,
+    1,
+    4381,
+    3128,
+    2776
+  ],
+  "productReviews": [
+    {
+      "productId": 4827,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-11-08T23:48:31.0901816+02:00"
+    },
+    {
+      "productId": 789,
+      "reviewText": "this Nauru is papery.",
+      "reviewDate": "2019-06-16T06:09:15.4370984+03:00"
+    },
+    {
+      "productId": 1035,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-12-31T05:36:06.7263418+02:00"
+    }
+  ]
+}

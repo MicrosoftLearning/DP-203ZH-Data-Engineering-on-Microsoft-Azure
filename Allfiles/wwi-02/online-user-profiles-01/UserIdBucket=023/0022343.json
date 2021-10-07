@@ -1,0 +1,33 @@
+{
+  "userId": 22343,
+  "cartId": "0031a6d9-f292-4e25-8f12-76d33d757842",
+  "preferredProducts": [
+    490,
+    2636,
+    1112,
+    853,
+    2169,
+    976,
+    4097,
+    225,
+    55,
+    3762
+  ],
+  "productReviews": [
+    {
+      "productId": 4499,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-05-12T00:50:19.1318283+03:00"
+    },
+    {
+      "productId": 4071,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2017-03-27T22:00:21.7804312+03:00"
+    },
+    {
+      "productId": 2674,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-02-02T20:00:44.1248154+02:00"
+    }
+  ]
+}

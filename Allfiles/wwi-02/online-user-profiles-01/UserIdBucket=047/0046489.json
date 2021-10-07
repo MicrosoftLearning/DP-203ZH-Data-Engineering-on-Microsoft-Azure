@@ -1,0 +1,33 @@
+{
+  "userId": 46489,
+  "cartId": "82a4c647-4dd4-44ec-9890-347ea50b7309",
+  "preferredProducts": [
+    913,
+    2594,
+    1332,
+    1105,
+    449
+  ],
+  "productReviews": [
+    {
+      "productId": 3396,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-01-02T09:59:50.8880574+02:00"
+    },
+    {
+      "productId": 4385,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-02-01T15:33:12.5352522+02:00"
+    },
+    {
+      "productId": 1330,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-05-15T20:20:45.2380643+03:00"
+    },
+    {
+      "productId": 3474,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-04-25T20:00:01.1657558+03:00"
+    }
+  ]
+}

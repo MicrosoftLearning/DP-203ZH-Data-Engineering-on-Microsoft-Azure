@@ -1,0 +1,31 @@
+{
+  "userId": 2061,
+  "cartId": "aef420a1-4d35-47c2-846d-33067993dc69",
+  "preferredProducts": [
+    2483,
+    3323,
+    805
+  ],
+  "productReviews": [
+    {
+      "productId": 2396,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-01-02T15:54:45.9942878+02:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-11-25T13:41:16.4916515+02:00"
+    },
+    {
+      "productId": 555,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-01-17T17:59:49.8469461+02:00"
+    },
+    {
+      "productId": 2076,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-09-22T11:07:42.8480062+03:00"
+    }
+  ]
+}

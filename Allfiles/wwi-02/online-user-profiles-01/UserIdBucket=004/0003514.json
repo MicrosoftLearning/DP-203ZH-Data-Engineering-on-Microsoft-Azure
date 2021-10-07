@@ -1,0 +1,38 @@
+{
+  "userId": 3514,
+  "cartId": "808004ce-f642-49d7-a3dc-a0113045ea2e",
+  "preferredProducts": [
+    3021,
+    2080,
+    2666,
+    2711,
+    3657,
+    4444,
+    4507,
+    4335,
+    841,
+    4269
+  ],
+  "productReviews": [
+    {
+      "productId": 530,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-10-29T02:25:54.3308541+03:00"
+    },
+    {
+      "productId": 4968,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-01-30T11:44:45.550537+02:00"
+    },
+    {
+      "productId": 1201,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-07-16T16:53:52.0539347+03:00"
+    },
+    {
+      "productId": 503,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-11-24T11:19:14.0239463+02:00"
+    }
+  ]
+}

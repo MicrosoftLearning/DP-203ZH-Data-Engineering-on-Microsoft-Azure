@@ -1,0 +1,37 @@
+{
+  "userId": 6380,
+  "cartId": "6f9373f2-a16a-4527-be0b-d46678d81a71",
+  "preferredProducts": [
+    3854,
+    1063,
+    1195,
+    1221,
+    4107,
+    2107,
+    4334,
+    2399,
+    3632
+  ],
+  "productReviews": [
+    {
+      "productId": 2759,
+      "reviewText": "this Savings Account is ratty.",
+      "reviewDate": "2016-06-09T21:51:59.0962915+03:00"
+    },
+    {
+      "productId": 3557,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-07-03T09:28:05.4695854+03:00"
+    },
+    {
+      "productId": 2879,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-05-12T07:44:39.1372065+03:00"
+    },
+    {
+      "productId": 1398,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-10-13T11:11:39.237586+03:00"
+    }
+  ]
+}

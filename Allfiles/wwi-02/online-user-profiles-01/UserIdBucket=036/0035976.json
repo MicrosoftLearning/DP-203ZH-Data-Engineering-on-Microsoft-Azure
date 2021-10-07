@@ -1,0 +1,30 @@
+{
+  "userId": 35976,
+  "cartId": "3075c41b-1040-4cec-b234-855bae43e88c",
+  "preferredProducts": [
+    533,
+    3364
+  ],
+  "productReviews": [
+    {
+      "productId": 1353,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-09-24T10:22:31.6185515+03:00"
+    },
+    {
+      "productId": 2717,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-06-30T08:34:19.941883+03:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-10-19T00:05:02.4226045+03:00"
+    },
+    {
+      "productId": 3345,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-02-05T17:33:00.9099848+02:00"
+    }
+  ]
+}

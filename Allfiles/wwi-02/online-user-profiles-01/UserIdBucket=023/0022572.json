@@ -1,0 +1,33 @@
+{
+  "userId": 22572,
+  "cartId": "1aceed2a-3221-45b3-8d1d-126eafbf3b4c",
+  "preferredProducts": [
+    2715,
+    4962,
+    4969,
+    2859,
+    3930
+  ],
+  "productReviews": [
+    {
+      "productId": 1941,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-06-11T22:17:43.9717233+03:00"
+    },
+    {
+      "productId": 841,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-08-28T20:56:05.2562482+03:00"
+    },
+    {
+      "productId": 2028,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-11-09T00:52:04.5109405+02:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-01-09T20:24:42.4125951+02:00"
+    }
+  ]
+}

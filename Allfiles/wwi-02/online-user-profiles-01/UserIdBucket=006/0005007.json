@@ -1,0 +1,26 @@
+{
+  "userId": 5007,
+  "cartId": "9986b24e-e537-4dae-9d4e-4a0ff0213960",
+  "preferredProducts": [
+    4111,
+    3054,
+    3206
+  ],
+  "productReviews": [
+    {
+      "productId": 2817,
+      "reviewText": "this Mobility is flirty.",
+      "reviewDate": "2016-05-22T19:05:42.0063495+03:00"
+    },
+    {
+      "productId": 2867,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-12-20T07:57:45.1321182+02:00"
+    },
+    {
+      "productId": 544,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-09-14T15:02:26.4591836+03:00"
+    }
+  ]
+}

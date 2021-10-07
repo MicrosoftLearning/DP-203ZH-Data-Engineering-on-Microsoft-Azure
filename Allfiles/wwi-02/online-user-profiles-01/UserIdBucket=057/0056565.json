@@ -1,0 +1,35 @@
+{
+  "userId": 56565,
+  "cartId": "be7b66c1-5f96-480a-8362-67fae200201a",
+  "preferredProducts": [
+    4,
+    3810
+  ],
+  "productReviews": [
+    {
+      "productId": 730,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-10-26T12:16:45.1474232+03:00"
+    },
+    {
+      "productId": 3723,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-12-29T09:19:31.8118434+02:00"
+    },
+    {
+      "productId": 180,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-10-30T22:16:09.1732104+02:00"
+    },
+    {
+      "productId": 3424,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-10-01T10:37:29.1768345+03:00"
+    },
+    {
+      "productId": 3491,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-10-30T11:49:00.8079222+02:00"
+    }
+  ]
+}

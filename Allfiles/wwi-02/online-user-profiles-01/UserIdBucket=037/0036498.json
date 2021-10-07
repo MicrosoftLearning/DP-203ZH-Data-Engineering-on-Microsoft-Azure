@@ -1,0 +1,41 @@
+{
+  "userId": 36498,
+  "cartId": "51b1816b-066d-49cf-a661-0b1dd6b9c7c5",
+  "preferredProducts": [
+    759,
+    4070,
+    3407,
+    4327,
+    1511,
+    1405,
+    1768,
+    3378
+  ],
+  "productReviews": [
+    {
+      "productId": 123,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-05-04T03:45:22.3864913+03:00"
+    },
+    {
+      "productId": 4837,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-10-13T08:35:26.6204981+03:00"
+    },
+    {
+      "productId": 4985,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-08-20T08:34:08.256976+03:00"
+    },
+    {
+      "productId": 1490,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-05-01T01:00:34.1723497+03:00"
+    },
+    {
+      "productId": 4597,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-06-29T11:29:27.1456975+03:00"
+    }
+  ]
+}

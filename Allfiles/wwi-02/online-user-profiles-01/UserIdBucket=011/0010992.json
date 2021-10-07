@@ -1,0 +1,28 @@
+{
+  "userId": 10992,
+  "cartId": "90dd35b3-63fe-4c0c-9af5-f31c350d4e54",
+  "preferredProducts": [
+    3361,
+    3566,
+    4545,
+    4708,
+    2079
+  ],
+  "productReviews": [
+    {
+      "productId": 1381,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-09-01T19:44:45.7702005+03:00"
+    },
+    {
+      "productId": 2373,
+      "reviewText": "this robust is smooth.",
+      "reviewDate": "2020-04-15T20:55:03.9979434+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-01-22T20:23:44.5641661+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 99832,
+  "cartId": "305d6b67-3cac-429e-819b-7f3e56969ef4",
+  "preferredProducts": [
+    1394,
+    2909,
+    4838,
+    4412
+  ],
+  "productReviews": [
+    {
+      "productId": 435,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-11-02T11:29:59.4393888+02:00"
+    },
+    {
+      "productId": 3631,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-06-23T10:10:03.0108562+03:00"
+    },
+    {
+      "productId": 2987,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-09-26T21:43:55.5992676+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 22207,
+  "cartId": "e1176aaf-6985-441c-8760-6ff96e7ec14f",
+  "preferredProducts": [
+    845,
+    2904,
+    4805,
+    1093,
+    2262,
+    679
+  ],
+  "productReviews": [
+    {
+      "productId": 3415,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2016-10-25T12:51:11.8168943+03:00"
+    },
+    {
+      "productId": 2024,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-12-20T07:33:58.9854281+02:00"
+    },
+    {
+      "productId": 3466,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-03-27T06:45:42.4621344+03:00"
+    }
+  ]
+}

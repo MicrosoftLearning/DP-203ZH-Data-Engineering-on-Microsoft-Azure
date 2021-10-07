@@ -1,0 +1,38 @@
+{
+  "userId": 8984,
+  "cartId": "0c9338f5-43dc-40de-8a51-4c85cf4aca34",
+  "preferredProducts": [
+    4224,
+    3390,
+    1958,
+    4453,
+    4637
+  ],
+  "productReviews": [
+    {
+      "productId": 3926,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-08-04T01:11:59.15316+03:00"
+    },
+    {
+      "productId": 2271,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2016-10-20T14:34:18.9893236+03:00"
+    },
+    {
+      "productId": 2177,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-11-14T22:07:42.0984412+02:00"
+    },
+    {
+      "productId": 4523,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2016-12-02T07:39:03.1653451+02:00"
+    },
+    {
+      "productId": 4045,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-11-03T04:48:39.9666407+02:00"
+    }
+  ]
+}

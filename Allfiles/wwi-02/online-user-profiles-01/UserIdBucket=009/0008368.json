@@ -1,0 +1,36 @@
+{
+  "userId": 8368,
+  "cartId": "68a705da-ab0a-4890-9521-6fe5b94a05a1",
+  "preferredProducts": [
+    4691,
+    362,
+    1878,
+    1672,
+    509,
+    872,
+    2408,
+    4569
+  ],
+  "productReviews": [
+    {
+      "productId": 1043,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-11-13T11:54:59.8859232+02:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-08-26T13:40:46.2766594+03:00"
+    },
+    {
+      "productId": 4941,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-12-14T11:26:29.1248272+02:00"
+    },
+    {
+      "productId": 4414,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-04-18T07:03:43.4181164+03:00"
+    }
+  ]
+}

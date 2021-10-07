@@ -1,0 +1,28 @@
+{
+  "userId": 23345,
+  "cartId": "a0f5f366-75ba-4859-b344-37840c13f840",
+  "preferredProducts": [
+    3165,
+    1440,
+    4461,
+    589,
+    3154
+  ],
+  "productReviews": [
+    {
+      "productId": 4008,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-08-08T17:13:40.8818176+03:00"
+    },
+    {
+      "productId": 531,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-09-12T15:33:49.5686767+03:00"
+    },
+    {
+      "productId": 2798,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2017-07-14T01:07:05.6674291+03:00"
+    }
+  ]
+}

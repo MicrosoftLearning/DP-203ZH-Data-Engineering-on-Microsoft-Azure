@@ -1,0 +1,43 @@
+{
+  "userId": 11543,
+  "cartId": "7a002b48-26ba-4615-84e2-8b6bcc85b693",
+  "preferredProducts": [
+    1130,
+    1037,
+    154,
+    2717,
+    2402,
+    3121,
+    2144,
+    1214,
+    4173,
+    1662
+  ],
+  "productReviews": [
+    {
+      "productId": 23,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-04-22T17:21:07.0598642+03:00"
+    },
+    {
+      "productId": 712,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-06-10T06:46:16.8785753+03:00"
+    },
+    {
+      "productId": 4816,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-03-10T23:15:22.1288729+02:00"
+    },
+    {
+      "productId": 4813,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2020-01-01T10:24:53.7187094+02:00"
+    },
+    {
+      "productId": 4373,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-09-19T09:59:28.0996699+03:00"
+    }
+  ]
+}

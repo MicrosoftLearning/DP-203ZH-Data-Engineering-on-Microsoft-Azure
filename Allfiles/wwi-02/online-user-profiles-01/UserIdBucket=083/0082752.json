@@ -1,0 +1,30 @@
+{
+  "userId": 82752,
+  "cartId": "c7698ed3-d299-45f9-add4-9f21534b9c97",
+  "preferredProducts": [
+    1163,
+    4987
+  ],
+  "productReviews": [
+    {
+      "productId": 216,
+      "reviewText": "this Awesome is smooth.",
+      "reviewDate": "2019-01-20T04:14:31.2766747+02:00"
+    },
+    {
+      "productId": 3056,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-06-09T05:49:52.1884076+03:00"
+    },
+    {
+      "productId": 1606,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-07-16T21:46:35.5134509+03:00"
+    },
+    {
+      "productId": 2113,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-11-11T12:58:14.0992286+02:00"
+    }
+  ]
+}

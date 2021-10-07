@@ -1,0 +1,29 @@
+{
+  "userId": 9926,
+  "cartId": "a2e54d51-9db4-4fe8-b67a-6c443b9dba78",
+  "preferredProducts": [
+    2879
+  ],
+  "productReviews": [
+    {
+      "productId": 1530,
+      "reviewText": "this integrate is ratty.",
+      "reviewDate": "2019-09-09T14:25:05.7693653+03:00"
+    },
+    {
+      "productId": 2091,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-10-16T11:12:46.5719287+03:00"
+    },
+    {
+      "productId": 1235,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-05-16T02:59:55.4122982+03:00"
+    },
+    {
+      "productId": 3000,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-05-14T10:40:42.1823327+03:00"
+    }
+  ]
+}

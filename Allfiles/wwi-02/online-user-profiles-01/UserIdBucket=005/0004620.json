@@ -1,0 +1,24 @@
+{
+  "userId": 4620,
+  "cartId": "42f87891-e7a0-4703-974a-cfc0c1445a9c",
+  "preferredProducts": [
+    3925
+  ],
+  "productReviews": [
+    {
+      "productId": 1722,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-09-04T21:36:36.9280945+03:00"
+    },
+    {
+      "productId": 3529,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-06-02T19:20:41.789557+03:00"
+    },
+    {
+      "productId": 2122,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-02-07T07:15:16.3084676+02:00"
+    }
+  ]
+}

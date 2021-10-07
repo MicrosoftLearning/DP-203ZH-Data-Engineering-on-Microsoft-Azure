@@ -1,0 +1,33 @@
+{
+  "userId": 25224,
+  "cartId": "aeb348be-53a7-42be-8ab7-da8c37c52bcd",
+  "preferredProducts": [
+    1630,
+    3309,
+    2814,
+    795,
+    2560
+  ],
+  "productReviews": [
+    {
+      "productId": 3353,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2016-08-11T19:32:10.0905164+03:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-09-03T09:07:53.5439269+03:00"
+    },
+    {
+      "productId": 3419,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-09-22T04:44:46.3721459+03:00"
+    },
+    {
+      "productId": 4513,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-07-03T22:05:00.2895256+03:00"
+    }
+  ]
+}

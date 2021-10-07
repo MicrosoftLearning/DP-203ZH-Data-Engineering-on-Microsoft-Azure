@@ -1,0 +1,23 @@
+{
+  "userId": 37708,
+  "cartId": "cf71d861-1c70-4f4d-865e-06de1962c831",
+  "preferredProducts": [
+    3925,
+    7,
+    4404,
+    2948,
+    3976
+  ],
+  "productReviews": [
+    {
+      "productId": 4749,
+      "reviewText": "This back-end works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-07-23T01:26:14.0565073+03:00"
+    },
+    {
+      "productId": 37,
+      "reviewText": "This open architecture works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-08-09T19:19:49.4625455+03:00"
+    }
+  ]
+}

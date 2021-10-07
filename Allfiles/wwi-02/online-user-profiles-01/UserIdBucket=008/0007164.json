@@ -1,0 +1,29 @@
+{
+  "userId": 7164,
+  "cartId": "51bcdd52-10cd-43b6-aa54-d7925ace730d",
+  "preferredProducts": [
+    2446,
+    1253,
+    1978,
+    4174,
+    3378,
+    4942
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-12-07T04:25:39.4375064+02:00"
+    },
+    {
+      "productId": 808,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-01-19T23:38:19.8433895+02:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-08-04T13:12:15.1349172+03:00"
+    }
+  ]
+}

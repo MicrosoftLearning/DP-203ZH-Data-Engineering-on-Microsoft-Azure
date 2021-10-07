@@ -1,0 +1,26 @@
+{
+  "userId": 83300,
+  "cartId": "646fe023-d659-45a9-8dd5-68ad78f11c7f",
+  "preferredProducts": [
+    1752,
+    3930,
+    4901
+  ],
+  "productReviews": [
+    {
+      "productId": 2872,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-05-08T20:02:59.773146+03:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-11-24T13:34:20.8143281+02:00"
+    },
+    {
+      "productId": 2523,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-05-27T13:15:53.3587431+03:00"
+    }
+  ]
+}

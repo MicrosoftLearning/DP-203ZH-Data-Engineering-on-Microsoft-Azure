@@ -1,0 +1,36 @@
+{
+  "userId": 83389,
+  "cartId": "2ae95eed-8842-403f-895d-03513f46ee4c",
+  "preferredProducts": [
+    2463,
+    765,
+    2603,
+    2879,
+    1820,
+    2185,
+    1157,
+    2468
+  ],
+  "productReviews": [
+    {
+      "productId": 2457,
+      "reviewText": "this matrix is honest.",
+      "reviewDate": "2017-06-11T22:39:11.1519133+03:00"
+    },
+    {
+      "productId": 2267,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-02-07T12:14:15.1152965+02:00"
+    },
+    {
+      "productId": 2785,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-08-23T18:01:14.8573823+03:00"
+    },
+    {
+      "productId": 4061,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-03-02T00:53:15.7703013+02:00"
+    }
+  ]
+}

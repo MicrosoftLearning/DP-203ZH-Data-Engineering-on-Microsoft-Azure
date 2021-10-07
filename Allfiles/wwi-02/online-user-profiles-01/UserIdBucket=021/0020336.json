@@ -1,0 +1,35 @@
+{
+  "userId": 20336,
+  "cartId": "6e58d5b6-c07e-4c04-aaf2-ca66da228919",
+  "preferredProducts": [
+    1441,
+    229
+  ],
+  "productReviews": [
+    {
+      "productId": 1525,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2020-04-08T23:18:00.8919694+03:00"
+    },
+    {
+      "productId": 2906,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-01-12T18:59:39.6597796+02:00"
+    },
+    {
+      "productId": 3218,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-04-11T18:57:47.0206838+03:00"
+    },
+    {
+      "productId": 3302,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-06-30T03:21:27.5937773+03:00"
+    },
+    {
+      "productId": 2774,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-11-12T16:34:47.5937143+02:00"
+    }
+  ]
+}

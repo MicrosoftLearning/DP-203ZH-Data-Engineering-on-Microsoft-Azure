@@ -1,0 +1,38 @@
+{
+  "userId": 33443,
+  "cartId": "213fbcfa-d547-4681-a260-d3cf0b5f00d8",
+  "preferredProducts": [
+    4010,
+    1043,
+    2743,
+    4673,
+    3121,
+    383,
+    770,
+    4517,
+    915,
+    2757
+  ],
+  "productReviews": [
+    {
+      "productId": 3508,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-04-04T12:51:32.0346969+03:00"
+    },
+    {
+      "productId": 4954,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-10-30T17:53:52.9620045+02:00"
+    },
+    {
+      "productId": 107,
+      "reviewText": "This XSS works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-01-01T04:18:10.3677888+02:00"
+    },
+    {
+      "productId": 4439,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-03-03T01:12:16.5876494+02:00"
+    }
+  ]
+}

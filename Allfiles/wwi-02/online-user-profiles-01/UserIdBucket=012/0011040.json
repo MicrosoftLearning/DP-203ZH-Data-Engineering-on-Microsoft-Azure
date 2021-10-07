@@ -1,0 +1,21 @@
+{
+  "userId": 11040,
+  "cartId": "5766bc05-dde3-42ee-be86-f7b7a0ad44ec",
+  "preferredProducts": [
+    4787,
+    1976,
+    968
+  ],
+  "productReviews": [
+    {
+      "productId": 4539,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-01-15T07:21:09.9564481+02:00"
+    },
+    {
+      "productId": 1705,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-09-05T11:50:11.0050772+03:00"
+    }
+  ]
+}

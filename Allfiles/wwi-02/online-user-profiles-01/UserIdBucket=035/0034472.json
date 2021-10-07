@@ -1,0 +1,40 @@
+{
+  "userId": 34472,
+  "cartId": "f10e0666-f1ac-47e8-8ae8-5b8ec53b4b74",
+  "preferredProducts": [
+    1967,
+    3135,
+    3853,
+    3554,
+    364,
+    705,
+    56
+  ],
+  "productReviews": [
+    {
+      "productId": 2202,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-03-12T02:06:13.0628149+02:00"
+    },
+    {
+      "productId": 1944,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-09-08T03:41:06.608008+03:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-08-01T15:15:22.0350773+03:00"
+    },
+    {
+      "productId": 1573,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-02-13T04:20:03.7135049+02:00"
+    },
+    {
+      "productId": 1854,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-04-30T23:25:00.5287739+03:00"
+    }
+  ]
+}

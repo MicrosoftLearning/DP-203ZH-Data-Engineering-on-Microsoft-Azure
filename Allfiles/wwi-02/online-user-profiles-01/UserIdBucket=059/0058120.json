@@ -1,0 +1,31 @@
+{
+  "userId": 58120,
+  "cartId": "5da848e5-fcab-4e42-b09f-2b32f66b57ff",
+  "preferredProducts": [
+    4460,
+    401,
+    3144,
+    2679,
+    2284,
+    632,
+    2724,
+    123
+  ],
+  "productReviews": [
+    {
+      "productId": 1608,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-11-03T13:58:23.6538161+02:00"
+    },
+    {
+      "productId": 1931,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-09-30T23:33:23.2641648+03:00"
+    },
+    {
+      "productId": 956,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-07-23T04:46:57.5331595+03:00"
+    }
+  ]
+}

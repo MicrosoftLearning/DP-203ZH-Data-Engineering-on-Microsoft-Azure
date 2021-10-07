@@ -1,0 +1,38 @@
+{
+  "userId": 50442,
+  "cartId": "c6fed520-302f-4e8d-aa3f-39e8525223ef",
+  "preferredProducts": [
+    3305,
+    4993,
+    1015,
+    1921,
+    501,
+    4771,
+    1445,
+    4313,
+    380,
+    373
+  ],
+  "productReviews": [
+    {
+      "productId": 1815,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-03-05T16:27:30.4919097+02:00"
+    },
+    {
+      "productId": 893,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-08-25T07:18:12.3469918+03:00"
+    },
+    {
+      "productId": 252,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2020-04-21T15:36:36.4823334+03:00"
+    },
+    {
+      "productId": 219,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-09-08T00:07:52.4398013+03:00"
+    }
+  ]
+}

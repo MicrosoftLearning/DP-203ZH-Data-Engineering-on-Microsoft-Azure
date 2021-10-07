@@ -1,0 +1,27 @@
+{
+  "userId": 880,
+  "cartId": "7538f65d-4223-4567-b7f2-7ff22dced096",
+  "preferredProducts": [
+    3613,
+    622,
+    389,
+    2550
+  ],
+  "productReviews": [
+    {
+      "productId": 3440,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-09-02T04:04:55.844915+03:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "this Global is tasty.",
+      "reviewDate": "2019-10-12T13:32:35.1406237+03:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-04-16T18:01:23.7106454+03:00"
+    }
+  ]
+}

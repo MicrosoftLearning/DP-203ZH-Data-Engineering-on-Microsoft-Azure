@@ -1,0 +1,33 @@
+{
+  "userId": 77248,
+  "cartId": "84bc4887-1c0b-4e7f-9e68-7aaf438d0586",
+  "preferredProducts": [
+    1224,
+    870,
+    624,
+    4628,
+    4188
+  ],
+  "productReviews": [
+    {
+      "productId": 343,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-12-10T07:07:44.4672671+02:00"
+    },
+    {
+      "productId": 2004,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-03-23T07:19:48.2437984+02:00"
+    },
+    {
+      "productId": 408,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-10-31T22:22:19.5138173+02:00"
+    },
+    {
+      "productId": 2789,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-05-07T18:02:46.7124234+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 2391,
+  "cartId": "e0a0c6fb-27cf-4317-816d-ed96beec073a",
+  "preferredProducts": [
+    2043,
+    2628,
+    1108,
+    1051,
+    1459,
+    2690,
+    1034
+  ],
+  "productReviews": [
+    {
+      "productId": 2378,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-04-20T03:19:34.9322594+03:00"
+    },
+    {
+      "productId": 2863,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-02-20T17:12:51.3949244+02:00"
+    },
+    {
+      "productId": 4647,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-12-05T09:05:31.732389+02:00"
+    }
+  ]
+}

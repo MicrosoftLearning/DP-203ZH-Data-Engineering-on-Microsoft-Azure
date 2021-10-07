@@ -1,0 +1,31 @@
+{
+  "userId": 62944,
+  "cartId": "f69564b4-d892-4b83-b9ee-4a969910287b",
+  "preferredProducts": [
+    3624,
+    3944,
+    679,
+    4188,
+    4600,
+    1849,
+    1232,
+    2334
+  ],
+  "productReviews": [
+    {
+      "productId": 2455,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-04-08T11:29:45.5121523+03:00"
+    },
+    {
+      "productId": 1920,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-06-19T11:10:27.3200935+03:00"
+    },
+    {
+      "productId": 562,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-10-15T03:26:44.7420074+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 1896,
+  "cartId": "dcc7d872-7714-49fd-af03-407d97261c34",
+  "preferredProducts": [
+    1390,
+    1749,
+    4887,
+    3268,
+    3722
+  ],
+  "productReviews": [
+    {
+      "productId": 712,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-02-26T18:27:22.9960031+02:00"
+    },
+    {
+      "productId": 252,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-08-05T20:39:13.4500436+03:00"
+    },
+    {
+      "productId": 3208,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-09-16T06:26:20.6262867+03:00"
+    }
+  ]
+}

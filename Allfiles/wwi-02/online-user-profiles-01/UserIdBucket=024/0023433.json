@@ -1,0 +1,42 @@
+{
+  "userId": 23433,
+  "cartId": "072859ea-3a60-41c9-97ed-6e582f62d11e",
+  "preferredProducts": [
+    1410,
+    1891,
+    4245,
+    3964,
+    3443,
+    2436,
+    2324,
+    3274,
+    3311
+  ],
+  "productReviews": [
+    {
+      "productId": 2775,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-11-19T17:42:55.9493261+02:00"
+    },
+    {
+      "productId": 592,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-09-05T20:36:10.2789676+03:00"
+    },
+    {
+      "productId": 641,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-01-16T07:53:28.0246938+02:00"
+    },
+    {
+      "productId": 3991,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2016-11-14T14:08:07.0965049+02:00"
+    },
+    {
+      "productId": 3324,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-09-08T08:43:23.7950964+03:00"
+    }
+  ]
+}

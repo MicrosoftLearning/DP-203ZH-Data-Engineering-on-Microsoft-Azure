@@ -1,0 +1,28 @@
+{
+  "userId": 23850,
+  "cartId": "ba4d0935-1138-4763-9bb5-2fa0d06e22dc",
+  "preferredProducts": [
+    1881,
+    1279,
+    2962,
+    3465,
+    4057
+  ],
+  "productReviews": [
+    {
+      "productId": 3739,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-05-31T13:51:31.9835245+03:00"
+    },
+    {
+      "productId": 4670,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-07-07T12:41:27.4519683+03:00"
+    },
+    {
+      "productId": 192,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-08-03T03:19:14.2313862+03:00"
+    }
+  ]
+}

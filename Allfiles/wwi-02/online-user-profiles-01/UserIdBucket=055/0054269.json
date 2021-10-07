@@ -1,0 +1,35 @@
+{
+  "userId": 54269,
+  "cartId": "5501d996-660b-4ba0-966b-3048c1b05214",
+  "preferredProducts": [
+    3928,
+    3605
+  ],
+  "productReviews": [
+    {
+      "productId": 3359,
+      "reviewText": "this compress is flirty.",
+      "reviewDate": "2020-03-24T19:41:30.8694748+02:00"
+    },
+    {
+      "productId": 3845,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2020-03-07T13:28:38.5353781+02:00"
+    },
+    {
+      "productId": 4973,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-07-01T04:03:11.6435896+03:00"
+    },
+    {
+      "productId": 3491,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-06-08T03:42:33.1919322+03:00"
+    },
+    {
+      "productId": 2369,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-08-06T03:29:46.0571703+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 64037,
+  "cartId": "96402fe4-5f8b-415d-b225-d2002eff2e8f",
+  "preferredProducts": [
+    1791,
+    3805,
+    4386,
+    458
+  ],
+  "productReviews": [
+    {
+      "productId": 4805,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-03-22T19:31:01.5975289+02:00"
+    },
+    {
+      "productId": 3671,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-05-25T16:10:04.8144505+03:00"
+    },
+    {
+      "productId": 4428,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-04-21T06:06:12.6367118+03:00"
+    },
+    {
+      "productId": 1473,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-06-06T12:33:06.9442041+03:00"
+    }
+  ]
+}

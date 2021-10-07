@@ -1,0 +1,31 @@
+{
+  "userId": 53666,
+  "cartId": "8d04cffd-ac88-43d9-9807-321b9a0a32fb",
+  "preferredProducts": [
+    555,
+    4612,
+    1787,
+    4006,
+    1550,
+    4321,
+    2146,
+    4771
+  ],
+  "productReviews": [
+    {
+      "productId": 3623,
+      "reviewText": "this Malagasy Ariary is ratty.",
+      "reviewDate": "2019-11-20T06:31:55.5123998+02:00"
+    },
+    {
+      "productId": 3834,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-02-22T01:05:25.7061639+02:00"
+    },
+    {
+      "productId": 2238,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-04-21T22:58:21.2253706+03:00"
+    }
+  ]
+}

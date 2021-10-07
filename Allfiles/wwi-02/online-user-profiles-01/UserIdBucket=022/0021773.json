@@ -1,0 +1,36 @@
+{
+  "userId": 21773,
+  "cartId": "a41d623c-eecd-4fe7-9110-70d39ac60db0",
+  "preferredProducts": [
+    671,
+    4256,
+    544
+  ],
+  "productReviews": [
+    {
+      "productId": 212,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-03-22T19:09:00.9655511+02:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-01-16T16:54:26.5164986+02:00"
+    },
+    {
+      "productId": 1250,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-01-29T00:15:47.5707096+02:00"
+    },
+    {
+      "productId": 2397,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-10-24T14:14:30.5192274+03:00"
+    },
+    {
+      "productId": 3884,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-06-29T12:31:32.5861708+03:00"
+    }
+  ]
+}

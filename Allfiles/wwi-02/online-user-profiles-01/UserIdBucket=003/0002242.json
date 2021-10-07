@@ -1,0 +1,31 @@
+{
+  "userId": 2242,
+  "cartId": "dca44181-8a3f-4b43-9466-21450cc57cac",
+  "preferredProducts": [
+    2876,
+    606,
+    4276
+  ],
+  "productReviews": [
+    {
+      "productId": 4861,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-04-30T02:20:13.0713246+03:00"
+    },
+    {
+      "productId": 1003,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-02-13T14:59:27.7761883+02:00"
+    },
+    {
+      "productId": 1954,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-02-28T23:06:13.9380075+02:00"
+    },
+    {
+      "productId": 2063,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-01-09T03:53:49.9400555+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 95935,
+  "cartId": "7752208d-c39a-4e71-9858-9e9fc8b170bd",
+  "preferredProducts": [
+    1178,
+    4293,
+    4484,
+    4978,
+    4985,
+    4062,
+    4324,
+    3577
+  ],
+  "productReviews": [
+    {
+      "productId": 31,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-03-06T05:24:48.1072668+02:00"
+    },
+    {
+      "productId": 2134,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-02-21T13:21:30.1595493+02:00"
+    },
+    {
+      "productId": 2480,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-10-24T07:27:29.0900035+03:00"
+    }
+  ]
+}

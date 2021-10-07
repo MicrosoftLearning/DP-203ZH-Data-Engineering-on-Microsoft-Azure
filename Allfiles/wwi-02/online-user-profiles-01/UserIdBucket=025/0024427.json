@@ -1,0 +1,25 @@
+{
+  "userId": 24427,
+  "cartId": "3b89e209-1057-4c30-8353-aad73bfd5cec",
+  "preferredProducts": [
+    345,
+    2982,
+    3963,
+    4233,
+    579,
+    2775,
+    2408
+  ],
+  "productReviews": [
+    {
+      "productId": 924,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-12-08T07:25:21.4507805+02:00"
+    },
+    {
+      "productId": 3760,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-10-18T07:06:33.2503541+03:00"
+    }
+  ]
+}

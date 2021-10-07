@@ -1,0 +1,28 @@
+{
+  "userId": 95331,
+  "cartId": "de36c149-b9c8-42cd-9abf-41cea9354058",
+  "preferredProducts": [
+    4960,
+    3493,
+    3990,
+    2397,
+    3210
+  ],
+  "productReviews": [
+    {
+      "productId": 252,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-06-30T09:48:20.2783549+03:00"
+    },
+    {
+      "productId": 2704,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-07-08T03:04:50.6903508+03:00"
+    },
+    {
+      "productId": 2907,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2016-08-11T09:20:34.6503682+03:00"
+    }
+  ]
+}

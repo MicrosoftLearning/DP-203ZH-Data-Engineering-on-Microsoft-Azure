@@ -1,0 +1,38 @@
+{
+  "userId": 58066,
+  "cartId": "9e4a34d3-54a7-4f2e-9660-588cfa9b9626",
+  "preferredProducts": [
+    2589,
+    3636,
+    4332,
+    1412,
+    4087,
+    279,
+    2160,
+    3958,
+    434,
+    3297
+  ],
+  "productReviews": [
+    {
+      "productId": 1408,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-09T18:52:25.6651369+03:00"
+    },
+    {
+      "productId": 1622,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-02-23T01:22:00.3660895+02:00"
+    },
+    {
+      "productId": 2240,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-06-03T06:40:21.4079798+03:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-06-29T16:24:51.6075973+03:00"
+    }
+  ]
+}

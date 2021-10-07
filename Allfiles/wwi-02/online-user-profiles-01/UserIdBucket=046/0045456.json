@@ -1,0 +1,33 @@
+{
+  "userId": 45456,
+  "cartId": "47191276-d7a8-4162-af2c-2c9e29839e63",
+  "preferredProducts": [
+    2621,
+    1183,
+    2343,
+    2171,
+    3003
+  ],
+  "productReviews": [
+    {
+      "productId": 1265,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-12-06T04:24:09.485338+02:00"
+    },
+    {
+      "productId": 2921,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-10-27T11:59:57.5344493+03:00"
+    },
+    {
+      "productId": 3383,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-07-12T21:26:59.0822617+03:00"
+    },
+    {
+      "productId": 4082,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-04-01T20:02:57.0844654+03:00"
+    }
+  ]
+}

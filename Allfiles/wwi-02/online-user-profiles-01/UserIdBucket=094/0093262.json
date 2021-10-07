@@ -1,0 +1,30 @@
+{
+  "userId": 93262,
+  "cartId": "97b401af-5304-4f19-9a9a-68ee83300d5a",
+  "preferredProducts": [
+    4323,
+    430,
+    2156,
+    701,
+    91,
+    2742,
+    1258
+  ],
+  "productReviews": [
+    {
+      "productId": 405,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-01-19T23:25:15.4867175+02:00"
+    },
+    {
+      "productId": 4879,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-12-02T17:00:43.3046815+02:00"
+    },
+    {
+      "productId": 3666,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-06-11T01:55:25.5536567+03:00"
+    }
+  ]
+}

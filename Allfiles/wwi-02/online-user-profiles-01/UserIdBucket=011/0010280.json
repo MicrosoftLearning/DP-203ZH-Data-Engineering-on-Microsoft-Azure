@@ -1,0 +1,22 @@
+{
+  "userId": 10280,
+  "cartId": "a8bed27a-c820-4ea3-bd1c-a9a9c5f86ea3",
+  "preferredProducts": [
+    4064,
+    2357,
+    3827,
+    3964
+  ],
+  "productReviews": [
+    {
+      "productId": 388,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-10-18T23:06:53.2855453+03:00"
+    },
+    {
+      "productId": 472,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-01-07T09:23:41.3358214+02:00"
+    }
+  ]
+}

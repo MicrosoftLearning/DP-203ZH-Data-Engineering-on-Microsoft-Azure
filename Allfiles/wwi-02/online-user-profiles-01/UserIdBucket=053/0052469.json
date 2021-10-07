@@ -1,0 +1,33 @@
+{
+  "userId": 52469,
+  "cartId": "9e07a1a4-2c0e-4816-8965-dd6addc0935c",
+  "preferredProducts": [
+    2771,
+    2082,
+    4059,
+    3849,
+    3563
+  ],
+  "productReviews": [
+    {
+      "productId": 1565,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-02-26T03:05:38.3509086+02:00"
+    },
+    {
+      "productId": 4216,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-25T01:40:36.6265057+03:00"
+    },
+    {
+      "productId": 4145,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-09-13T07:14:52.4569419+03:00"
+    },
+    {
+      "productId": 4051,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-10-02T19:59:05.0697759+03:00"
+    }
+  ]
+}

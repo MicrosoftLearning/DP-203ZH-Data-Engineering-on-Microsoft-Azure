@@ -1,0 +1,29 @@
+{
+  "userId": 53287,
+  "cartId": "02a01346-442c-4456-ad58-9ede379591cd",
+  "preferredProducts": [
+    2160,
+    3079,
+    4073,
+    452,
+    597,
+    3875
+  ],
+  "productReviews": [
+    {
+      "productId": 2441,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-09-12T20:10:39.8585642+03:00"
+    },
+    {
+      "productId": 587,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-06-19T14:46:26.7582901+03:00"
+    },
+    {
+      "productId": 2547,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-11-17T04:29:49.5169475+02:00"
+    }
+  ]
+}

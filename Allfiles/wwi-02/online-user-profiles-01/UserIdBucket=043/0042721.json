@@ -1,0 +1,28 @@
+{
+  "userId": 42721,
+  "cartId": "e42c0044-7aea-4391-8a09-e4ca599423e2",
+  "preferredProducts": [
+    1387,
+    3900,
+    1433,
+    1978,
+    525,
+    3702,
+    4610,
+    2337,
+    1812,
+    4339
+  ],
+  "productReviews": [
+    {
+      "productId": 2484,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-11-01T03:56:09.2877966+02:00"
+    },
+    {
+      "productId": 750,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-10-22T22:58:00.3464489+03:00"
+    }
+  ]
+}

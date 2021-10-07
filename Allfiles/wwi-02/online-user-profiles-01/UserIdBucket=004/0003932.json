@@ -1,0 +1,25 @@
+{
+  "userId": 3932,
+  "cartId": "c5b5ea4a-8e2b-4d1e-a800-193e2549dddb",
+  "preferredProducts": [
+    1153,
+    123
+  ],
+  "productReviews": [
+    {
+      "productId": 4258,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-08-28T13:09:18.5106508+03:00"
+    },
+    {
+      "productId": 4797,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-10-17T13:57:14.4452251+03:00"
+    },
+    {
+      "productId": 3816,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-02T22:13:27.103147+02:00"
+    }
+  ]
+}

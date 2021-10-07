@@ -1,0 +1,34 @@
+{
+  "userId": 60625,
+  "cartId": "a28cc8c9-839d-4ca3-b1ef-8d00b278359b",
+  "preferredProducts": [
+    4026,
+    3976,
+    136,
+    3253,
+    2637,
+    4633
+  ],
+  "productReviews": [
+    {
+      "productId": 1068,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-03-17T17:18:35.8829502+02:00"
+    },
+    {
+      "productId": 4304,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-11-22T05:14:15.7659181+02:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-10-01T23:07:37.7073235+03:00"
+    },
+    {
+      "productId": 1585,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-06-06T15:16:26.7665923+03:00"
+    }
+  ]
+}

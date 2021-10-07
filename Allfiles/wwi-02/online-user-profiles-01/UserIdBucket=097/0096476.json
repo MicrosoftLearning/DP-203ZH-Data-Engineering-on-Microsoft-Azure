@@ -1,0 +1,31 @@
+{
+  "userId": 96476,
+  "cartId": "fcc9e80c-482e-4930-b42c-fa0635e521cd",
+  "preferredProducts": [
+    2281,
+    1892,
+    2926,
+    72,
+    4590,
+    3833,
+    107,
+    3868
+  ],
+  "productReviews": [
+    {
+      "productId": 3190,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-02-02T19:30:43.9345567+02:00"
+    },
+    {
+      "productId": 4180,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-09-21T04:55:41.2739572+03:00"
+    },
+    {
+      "productId": 440,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-10-02T02:49:04.3543101+03:00"
+    }
+  ]
+}

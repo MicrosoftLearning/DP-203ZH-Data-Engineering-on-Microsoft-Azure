@@ -1,0 +1,28 @@
+{
+  "userId": 39058,
+  "cartId": "245ce676-9868-4fb1-886f-6b69ab5a4153",
+  "preferredProducts": [
+    761,
+    2047,
+    143,
+    1592,
+    1117
+  ],
+  "productReviews": [
+    {
+      "productId": 179,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-01-18T16:36:28.1868902+02:00"
+    },
+    {
+      "productId": 4896,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-04-27T14:48:32.8547723+03:00"
+    },
+    {
+      "productId": 2360,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-04-26T16:28:53.7577883+03:00"
+    }
+  ]
+}

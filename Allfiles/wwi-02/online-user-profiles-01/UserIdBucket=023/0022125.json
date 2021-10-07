@@ -1,0 +1,36 @@
+{
+  "userId": 22125,
+  "cartId": "43365071-06ad-44d2-8ac8-f240c8277c25",
+  "preferredProducts": [
+    1485,
+    4159,
+    1173,
+    4953,
+    1339,
+    1556,
+    1882,
+    1097
+  ],
+  "productReviews": [
+    {
+      "productId": 2103,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-08-16T03:05:20.4784984+03:00"
+    },
+    {
+      "productId": 2565,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-10-05T03:45:29.9675549+03:00"
+    },
+    {
+      "productId": 2963,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-07-20T01:41:48.4545609+03:00"
+    },
+    {
+      "productId": 4948,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-10-05T07:37:42.2066635+03:00"
+    }
+  ]
+}

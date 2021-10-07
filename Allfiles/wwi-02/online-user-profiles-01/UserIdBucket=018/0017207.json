@@ -1,0 +1,33 @@
+{
+  "userId": 17207,
+  "cartId": "8063b208-9564-4422-aadb-c5a4aca008f2",
+  "preferredProducts": [
+    2428,
+    4864,
+    2078,
+    2446,
+    4785,
+    446,
+    3520,
+    348,
+    3908,
+    850
+  ],
+  "productReviews": [
+    {
+      "productId": 3714,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-04-05T03:22:09.0367429+03:00"
+    },
+    {
+      "productId": 3503,
+      "reviewText": "this deposit is vertical.",
+      "reviewDate": "2018-01-18T15:59:31.7321117+02:00"
+    },
+    {
+      "productId": 1450,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-09-16T20:09:11.7541888+03:00"
+    }
+  ]
+}

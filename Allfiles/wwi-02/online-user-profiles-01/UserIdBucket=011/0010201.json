@@ -1,0 +1,27 @@
+{
+  "userId": 10201,
+  "cartId": "e0aed446-37a5-439d-a344-89c3843eafd8",
+  "preferredProducts": [
+    3954,
+    4673,
+    179,
+    2458
+  ],
+  "productReviews": [
+    {
+      "productId": 15,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-02-02T07:20:17.5252896+02:00"
+    },
+    {
+      "productId": 2598,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-01-23T13:15:02.8570077+02:00"
+    },
+    {
+      "productId": 595,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-03-12T01:05:31.1181494+02:00"
+    }
+  ]
+}

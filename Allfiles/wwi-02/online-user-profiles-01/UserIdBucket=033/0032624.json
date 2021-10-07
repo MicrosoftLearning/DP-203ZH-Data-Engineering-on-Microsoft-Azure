@@ -1,0 +1,32 @@
+{
+  "userId": 32624,
+  "cartId": "f8265703-399b-4f64-9c78-3091941a93c9",
+  "preferredProducts": [
+    2001,
+    3267,
+    4735,
+    383
+  ],
+  "productReviews": [
+    {
+      "productId": 972,
+      "reviewText": "This XML works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2018-02-22T15:56:25.4362471+02:00"
+    },
+    {
+      "productId": 4211,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-10-13T18:54:45.142458+03:00"
+    },
+    {
+      "productId": 3670,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-02-11T00:17:32.4249892+02:00"
+    },
+    {
+      "productId": 958,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-07-21T18:14:23.3024915+03:00"
+    }
+  ]
+}

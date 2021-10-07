@@ -1,0 +1,28 @@
+{
+  "userId": 37763,
+  "cartId": "6a44402a-29eb-4df0-99c2-6de67b1241d7",
+  "preferredProducts": [
+    2640,
+    878,
+    4132,
+    1992,
+    3701
+  ],
+  "productReviews": [
+    {
+      "productId": 2803,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-06-22T11:21:36.7843441+03:00"
+    },
+    {
+      "productId": 933,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-06-25T07:54:56.5666005+03:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-01T05:00:18.8234334+03:00"
+    }
+  ]
+}

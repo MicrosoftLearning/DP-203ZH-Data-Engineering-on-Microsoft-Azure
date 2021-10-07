@@ -1,0 +1,29 @@
+{
+  "userId": 23031,
+  "cartId": "aeb262ee-6a89-4ad3-af9b-8f9d474eb251",
+  "preferredProducts": [
+    4450,
+    994,
+    2487,
+    4480,
+    2244,
+    3364
+  ],
+  "productReviews": [
+    {
+      "productId": 3672,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-11-27T14:27:44.5122391+02:00"
+    },
+    {
+      "productId": 649,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-12-27T13:47:47.7064193+02:00"
+    },
+    {
+      "productId": 4549,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-03-23T14:47:49.6269398+02:00"
+    }
+  ]
+}

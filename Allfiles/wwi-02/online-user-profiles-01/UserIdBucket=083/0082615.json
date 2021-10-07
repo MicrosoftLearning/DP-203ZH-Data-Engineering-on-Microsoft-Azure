@@ -1,0 +1,35 @@
+{
+  "userId": 82615,
+  "cartId": "83953f1c-e056-4b2b-b5db-de140125458f",
+  "preferredProducts": [
+    2121,
+    4571,
+    4034,
+    2723,
+    3004,
+    2250,
+    1501
+  ],
+  "productReviews": [
+    {
+      "productId": 1879,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-06-25T18:18:36.4162914+03:00"
+    },
+    {
+      "productId": 2719,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-12-15T22:49:53.2472719+02:00"
+    },
+    {
+      "productId": 3006,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-09-13T08:42:07.5829768+03:00"
+    },
+    {
+      "productId": 1660,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-01-05T06:25:13.7129037+02:00"
+    }
+  ]
+}

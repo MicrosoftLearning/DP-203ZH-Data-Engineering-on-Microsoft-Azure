@@ -1,0 +1,33 @@
+{
+  "userId": 46196,
+  "cartId": "4a64be90-0447-497f-b887-c9c7a2418508",
+  "preferredProducts": [
+    1373,
+    2191,
+    1216,
+    4431,
+    3813
+  ],
+  "productReviews": [
+    {
+      "productId": 1632,
+      "reviewText": "this Mississippi is mellow.",
+      "reviewDate": "2018-10-14T11:18:56.8492185+03:00"
+    },
+    {
+      "productId": 1299,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-11-14T23:41:41.8617153+02:00"
+    },
+    {
+      "productId": 4999,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-06-16T08:49:53.9366893+03:00"
+    },
+    {
+      "productId": 2414,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-11-20T16:36:32.8234272+02:00"
+    }
+  ]
+}

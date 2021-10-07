@@ -1,0 +1,31 @@
+{
+  "userId": 45225,
+  "cartId": "1e92254a-1965-45c3-9b5f-f04a191ea97c",
+  "preferredProducts": [
+    3138,
+    939,
+    4025
+  ],
+  "productReviews": [
+    {
+      "productId": 726,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2020-01-05T20:22:19.5261091+02:00"
+    },
+    {
+      "productId": 1149,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-11-04T21:36:09.0233288+02:00"
+    },
+    {
+      "productId": 1630,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-12-08T08:11:09.6066318+02:00"
+    },
+    {
+      "productId": 532,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-05-14T09:25:35.9323195+03:00"
+    }
+  ]
+}

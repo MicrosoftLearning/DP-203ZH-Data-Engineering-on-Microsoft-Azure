@@ -1,0 +1,28 @@
+{
+  "userId": 48442,
+  "cartId": "81b1ff94-cd28-43da-81bb-0cc36b6b2136",
+  "preferredProducts": [
+    441,
+    4487,
+    3806,
+    4601,
+    613
+  ],
+  "productReviews": [
+    {
+      "productId": 4092,
+      "reviewText": "This is a really good Cotton.",
+      "reviewDate": "2016-06-29T12:31:50.7393504+03:00"
+    },
+    {
+      "productId": 4271,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-02-03T12:17:20.5618786+02:00"
+    },
+    {
+      "productId": 3190,
+      "reviewText": "this Oregon is ratty.",
+      "reviewDate": "2017-01-06T08:42:27.4576412+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 11096,
+  "cartId": "fa7ed43b-f5bb-4d4b-97e6-61255fd4dfd3",
+  "preferredProducts": [
+    652,
+    468
+  ],
+  "productReviews": [
+    {
+      "productId": 349,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-11-30T01:26:47.3620237+02:00"
+    },
+    {
+      "productId": 2283,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-06-20T10:22:07.2082664+03:00"
+    },
+    {
+      "productId": 1643,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-12-24T14:05:37.0949843+02:00"
+    },
+    {
+      "productId": 2664,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-12-13T09:18:12.9384214+02:00"
+    }
+  ]
+}

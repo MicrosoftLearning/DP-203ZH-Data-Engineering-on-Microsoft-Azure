@@ -1,0 +1,22 @@
+{
+  "userId": 65381,
+  "cartId": "3aa43ebb-08fb-4e44-b2ed-3af6a49b48eb",
+  "preferredProducts": [
+    1765,
+    4997,
+    3286,
+    658
+  ],
+  "productReviews": [
+    {
+      "productId": 2728,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-03-13T09:54:37.9342507+02:00"
+    },
+    {
+      "productId": 1362,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-08-27T17:19:18.2897781+03:00"
+    }
+  ]
+}

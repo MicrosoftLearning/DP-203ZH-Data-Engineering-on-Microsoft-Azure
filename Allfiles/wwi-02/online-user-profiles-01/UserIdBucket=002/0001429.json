@@ -1,0 +1,30 @@
+{
+  "userId": 1429,
+  "cartId": "120a0150-f63b-4223-af20-52b874dc95bd",
+  "preferredProducts": [
+    3347,
+    3792
+  ],
+  "productReviews": [
+    {
+      "productId": 1828,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-06-11T14:53:52.3527707+03:00"
+    },
+    {
+      "productId": 3945,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-11-03T14:43:16.6988595+02:00"
+    },
+    {
+      "productId": 4104,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-07-29T17:23:42.5227365+03:00"
+    },
+    {
+      "productId": 1118,
+      "reviewText": "this copy is brown.",
+      "reviewDate": "2016-07-12T02:47:26.6698081+03:00"
+    }
+  ]
+}

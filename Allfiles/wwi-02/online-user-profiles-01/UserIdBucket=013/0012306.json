@@ -1,0 +1,33 @@
+{
+  "userId": 12306,
+  "cartId": "8c4bed4e-ff4b-4a97-b772-b7106c29443a",
+  "preferredProducts": [
+    224,
+    364,
+    1365,
+    1669,
+    628,
+    2553,
+    298,
+    2240,
+    3235,
+    4695
+  ],
+  "productReviews": [
+    {
+      "productId": 3809,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-08-30T14:34:49.4209571+03:00"
+    },
+    {
+      "productId": 900,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-06-15T05:10:50.7046738+03:00"
+    },
+    {
+      "productId": 1887,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-03-23T00:34:21.2092579+02:00"
+    }
+  ]
+}

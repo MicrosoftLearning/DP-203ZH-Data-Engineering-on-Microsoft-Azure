@@ -1,0 +1,33 @@
+{
+  "userId": 4042,
+  "cartId": "ce997be5-c8a7-482a-9196-627631628638",
+  "preferredProducts": [
+    4690,
+    1853,
+    3282,
+    63,
+    3414
+  ],
+  "productReviews": [
+    {
+      "productId": 3844,
+      "reviewText": "This is a really good holistic.",
+      "reviewDate": "2018-01-17T19:52:59.3313864+02:00"
+    },
+    {
+      "productId": 702,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-09-15T17:14:59.6407906+03:00"
+    },
+    {
+      "productId": 2335,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-05-28T18:52:13.2447632+03:00"
+    },
+    {
+      "productId": 2250,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-12-03T05:52:18.6791689+02:00"
+    }
+  ]
+}

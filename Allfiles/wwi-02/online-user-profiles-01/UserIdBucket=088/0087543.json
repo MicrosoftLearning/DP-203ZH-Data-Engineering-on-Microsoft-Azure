@@ -1,0 +1,38 @@
+{
+  "userId": 87543,
+  "cartId": "0506c331-4381-45b9-b2e0-ef9b9b63bb7e",
+  "preferredProducts": [
+    2789,
+    4722,
+    3418,
+    1002,
+    711,
+    1569,
+    2705,
+    1573,
+    2222,
+    2613
+  ],
+  "productReviews": [
+    {
+      "productId": 1485,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-03-11T03:00:11.744911+02:00"
+    },
+    {
+      "productId": 3630,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-05-05T06:16:53.8110292+03:00"
+    },
+    {
+      "productId": 2745,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-09-12T14:31:49.2349712+03:00"
+    },
+    {
+      "productId": 3041,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-10-27T07:55:52.2767982+02:00"
+    }
+  ]
+}

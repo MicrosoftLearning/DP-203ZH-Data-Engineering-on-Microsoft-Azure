@@ -1,0 +1,31 @@
+{
+  "userId": 18291,
+  "cartId": "38b0d197-87ab-49dc-bcd4-0c79a2f12bb9",
+  "preferredProducts": [
+    4704,
+    2808,
+    1419
+  ],
+  "productReviews": [
+    {
+      "productId": 3798,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-03-17T12:42:00.3498465+02:00"
+    },
+    {
+      "productId": 3328,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-04-15T05:12:25.9062946+03:00"
+    },
+    {
+      "productId": 116,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-11-04T05:32:41.446195+02:00"
+    },
+    {
+      "productId": 646,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-04-03T00:39:48.3427541+03:00"
+    }
+  ]
+}

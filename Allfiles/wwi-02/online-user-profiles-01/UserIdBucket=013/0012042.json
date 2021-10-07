@@ -1,0 +1,33 @@
+{
+  "userId": 12042,
+  "cartId": "c7d0e8af-1b2b-4897-8860-d47bdeae266e",
+  "preferredProducts": [
+    1900,
+    967,
+    344,
+    2910,
+    4567
+  ],
+  "productReviews": [
+    {
+      "productId": 4223,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-09-03T09:42:44.3819912+03:00"
+    },
+    {
+      "productId": 2964,
+      "reviewText": "this Credit Card Account is whole-grain.",
+      "reviewDate": "2018-06-04T04:31:08.2401981+03:00"
+    },
+    {
+      "productId": 1351,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-06-04T12:54:00.6002369+03:00"
+    },
+    {
+      "productId": 3864,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-03-29T07:48:43.1372519+02:00"
+    }
+  ]
+}

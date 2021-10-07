@@ -1,0 +1,23 @@
+{
+  "userId": 51035,
+  "cartId": "8d766fd1-1021-4bf9-9a08-45d525f8f09a",
+  "preferredProducts": [
+    239,
+    177,
+    3640,
+    3233,
+    1865
+  ],
+  "productReviews": [
+    {
+      "productId": 2199,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-12-26T11:11:24.1751058+02:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-01-05T18:22:19.2310261+02:00"
+    }
+  ]
+}

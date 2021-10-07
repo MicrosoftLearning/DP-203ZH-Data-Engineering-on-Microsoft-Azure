@@ -1,0 +1,26 @@
+{
+  "userId": 54147,
+  "cartId": "bf99fcdd-05c5-407c-a829-8318eb274250",
+  "preferredProducts": [
+    3815,
+    917,
+    4875
+  ],
+  "productReviews": [
+    {
+      "productId": 686,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-09-04T21:16:13.3057226+03:00"
+    },
+    {
+      "productId": 1990,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-07-01T02:37:38.4357786+03:00"
+    },
+    {
+      "productId": 4988,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-12-01T08:28:06.4214747+02:00"
+    }
+  ]
+}

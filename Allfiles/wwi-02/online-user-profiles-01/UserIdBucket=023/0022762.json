@@ -1,0 +1,36 @@
+{
+  "userId": 22762,
+  "cartId": "1104f322-3af0-48dc-bfe2-c5eed2187196",
+  "preferredProducts": [
+    3013,
+    895,
+    3735,
+    2702,
+    2669,
+    2445,
+    811,
+    4281
+  ],
+  "productReviews": [
+    {
+      "productId": 1493,
+      "reviewText": "this Harbor is light-hearted.",
+      "reviewDate": "2019-01-04T11:53:21.0420799+02:00"
+    },
+    {
+      "productId": 2413,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-10-23T05:51:09.1451886+03:00"
+    },
+    {
+      "productId": 3275,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-01-04T13:42:09.9433556+02:00"
+    },
+    {
+      "productId": 3981,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-09-30T18:29:47.3238389+03:00"
+    }
+  ]
+}

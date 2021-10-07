@@ -1,0 +1,32 @@
+{
+  "userId": 8193,
+  "cartId": "e0b2a5e6-c48f-4b89-a4e8-18b2abf9e205",
+  "preferredProducts": [
+    911,
+    3264,
+    4206,
+    2812
+  ],
+  "productReviews": [
+    {
+      "productId": 1884,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-05-09T01:19:36.6853717+03:00"
+    },
+    {
+      "productId": 4709,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-09-09T00:20:46.2597545+03:00"
+    },
+    {
+      "productId": 3839,
+      "reviewText": "this Cambridgeshire is mellow.",
+      "reviewDate": "2017-04-25T13:56:43.4368424+03:00"
+    },
+    {
+      "productId": 3193,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-12-15T01:52:58.0105308+02:00"
+    }
+  ]
+}

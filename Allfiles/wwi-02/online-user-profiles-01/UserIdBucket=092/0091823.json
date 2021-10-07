@@ -1,0 +1,34 @@
+{
+  "userId": 91823,
+  "cartId": "c53da90c-e0db-4146-aa70-cc1335c8b2c3",
+  "preferredProducts": [
+    1702,
+    2317,
+    1131,
+    4782,
+    3260,
+    939
+  ],
+  "productReviews": [
+    {
+      "productId": 1295,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-09-03T23:57:56.7367694+03:00"
+    },
+    {
+      "productId": 3754,
+      "reviewText": "this hard drive is tasty.",
+      "reviewDate": "2017-09-17T22:00:26.200123+03:00"
+    },
+    {
+      "productId": 47,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-09-07T15:20:46.3470417+03:00"
+    },
+    {
+      "productId": 1615,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-12-10T19:28:25.9756876+02:00"
+    }
+  ]
+}

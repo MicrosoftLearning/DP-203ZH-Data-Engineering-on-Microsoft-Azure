@@ -1,0 +1,26 @@
+{
+  "userId": 10268,
+  "cartId": "b3125b36-90bd-4f7b-9444-97e0f00067c9",
+  "preferredProducts": [
+    789,
+    90,
+    2619
+  ],
+  "productReviews": [
+    {
+      "productId": 2037,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-08-15T23:48:39.6202772+03:00"
+    },
+    {
+      "productId": 2252,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-01-23T23:34:52.8604199+02:00"
+    },
+    {
+      "productId": 3018,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-12-06T03:00:36.1614563+02:00"
+    }
+  ]
+}

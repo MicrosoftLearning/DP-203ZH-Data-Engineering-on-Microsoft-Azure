@@ -1,0 +1,25 @@
+{
+  "userId": 1858,
+  "cartId": "b45c2cb1-6461-4c57-a8d2-74344de0ba3c",
+  "preferredProducts": [
+    2858,
+    4589,
+    1901,
+    736,
+    396,
+    1604,
+    2561
+  ],
+  "productReviews": [
+    {
+      "productId": 2276,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-01-20T16:50:08.3421917+02:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-12-30T23:17:23.0649885+02:00"
+    }
+  ]
+}

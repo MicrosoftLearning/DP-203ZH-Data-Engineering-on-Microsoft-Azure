@@ -1,0 +1,42 @@
+{
+  "userId": 23412,
+  "cartId": "7da4e986-d7cb-45fb-9abf-0fd5812aa738",
+  "preferredProducts": [
+    4898,
+    2491,
+    4012,
+    1401,
+    2149,
+    365,
+    3809,
+    2275,
+    1900
+  ],
+  "productReviews": [
+    {
+      "productId": 2303,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-12-17T19:16:06.3782909+02:00"
+    },
+    {
+      "productId": 4447,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-05-17T00:52:07.5415429+03:00"
+    },
+    {
+      "productId": 2097,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-10-10T08:44:01.5258297+03:00"
+    },
+    {
+      "productId": 1138,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-09-25T20:13:55.8574719+03:00"
+    },
+    {
+      "productId": 105,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-07-12T22:09:14.6071557+03:00"
+    }
+  ]
+}

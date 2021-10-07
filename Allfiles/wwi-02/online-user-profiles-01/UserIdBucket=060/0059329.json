@@ -1,0 +1,33 @@
+{
+  "userId": 59329,
+  "cartId": "5b8015b3-784d-4804-ac5d-729261d7f186",
+  "preferredProducts": [
+    4915,
+    1896,
+    2851,
+    1074,
+    3832
+  ],
+  "productReviews": [
+    {
+      "productId": 3437,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-03-30T18:05:01.8715338+03:00"
+    },
+    {
+      "productId": 1453,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-04-22T14:08:47.1441176+03:00"
+    },
+    {
+      "productId": 1754,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-01-20T06:21:00.9453057+02:00"
+    },
+    {
+      "productId": 671,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-03-01T10:45:43.1976135+02:00"
+    }
+  ]
+}

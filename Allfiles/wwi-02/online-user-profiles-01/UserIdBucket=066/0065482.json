@@ -1,0 +1,30 @@
+{
+  "userId": 65482,
+  "cartId": "83855d24-de66-42ff-ab28-8a416a3f2073",
+  "preferredProducts": [
+    4377,
+    1938,
+    4595,
+    1354,
+    669,
+    4094,
+    1233
+  ],
+  "productReviews": [
+    {
+      "productId": 3461,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-03-18T21:01:52.4755923+02:00"
+    },
+    {
+      "productId": 2171,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-02-26T10:52:42.401147+02:00"
+    },
+    {
+      "productId": 3498,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2019-05-27T11:45:53.9914457+03:00"
+    }
+  ]
+}

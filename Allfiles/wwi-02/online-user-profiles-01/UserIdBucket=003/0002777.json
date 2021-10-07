@@ -1,0 +1,28 @@
+{
+  "userId": 2777,
+  "cartId": "75339d7e-348e-497c-8af9-6e8e0610afc9",
+  "preferredProducts": [
+    1070,
+    1831,
+    2315,
+    3210,
+    303
+  ],
+  "productReviews": [
+    {
+      "productId": 404,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-12-26T15:40:49.1692759+02:00"
+    },
+    {
+      "productId": 1832,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-07-31T02:49:45.5364469+03:00"
+    },
+    {
+      "productId": 1410,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-12-28T12:24:05.4622521+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 34653,
+  "cartId": "3c58d0f3-12a6-4c50-99d1-72f465c0e524",
+  "preferredProducts": [
+    4308,
+    4628
+  ],
+  "productReviews": [
+    {
+      "productId": 4610,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-12-13T21:29:09.0949555+02:00"
+    },
+    {
+      "productId": 4462,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-03-04T06:27:57.3380583+02:00"
+    },
+    {
+      "productId": 3584,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-03-25T16:55:47.1456655+02:00"
+    }
+  ]
+}

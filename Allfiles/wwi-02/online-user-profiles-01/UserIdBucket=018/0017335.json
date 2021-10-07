@@ -1,0 +1,36 @@
+{
+  "userId": 17335,
+  "cartId": "e3e540e0-a111-47f5-9953-73efe3a65b8a",
+  "preferredProducts": [
+    4461,
+    1920,
+    3485,
+    3116,
+    4722,
+    3528,
+    3341,
+    1551
+  ],
+  "productReviews": [
+    {
+      "productId": 249,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-11-23T08:20:35.0387193+02:00"
+    },
+    {
+      "productId": 1111,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-10-17T11:50:48.9220787+03:00"
+    },
+    {
+      "productId": 593,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-12-31T11:05:26.557688+02:00"
+    },
+    {
+      "productId": 3247,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-07-18T09:02:26.1315753+03:00"
+    }
+  ]
+}

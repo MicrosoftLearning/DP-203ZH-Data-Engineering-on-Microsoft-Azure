@@ -1,0 +1,30 @@
+{
+  "userId": 23613,
+  "cartId": "c71d551a-0d37-44d1-9e41-dfde1ebe32db",
+  "preferredProducts": [
+    4435,
+    3276
+  ],
+  "productReviews": [
+    {
+      "productId": 3589,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-07-26T12:49:20.747211+03:00"
+    },
+    {
+      "productId": 4524,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-06-04T19:26:48.1930983+03:00"
+    },
+    {
+      "productId": 1515,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-08-12T22:40:28.1831955+03:00"
+    },
+    {
+      "productId": 3156,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-11-17T17:30:55.720421+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 57283,
+  "cartId": "c222b569-58b7-4b61-8b46-67fc751d222f",
+  "preferredProducts": [
+    3029,
+    2465,
+    2332,
+    464,
+    1145,
+    1628,
+    4020,
+    3114,
+    3814,
+    3200
+  ],
+  "productReviews": [
+    {
+      "productId": 894,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-01-21T12:43:13.3168636+02:00"
+    },
+    {
+      "productId": 2364,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2018-10-12T15:53:34.5823441+03:00"
+    },
+    {
+      "productId": 581,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-09-19T14:33:08.5949629+03:00"
+    }
+  ]
+}

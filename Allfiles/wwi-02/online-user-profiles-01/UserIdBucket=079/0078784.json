@@ -1,0 +1,33 @@
+{
+  "userId": 78784,
+  "cartId": "37093df0-0bc1-47b6-a16c-07d61105edb1",
+  "preferredProducts": [
+    2762,
+    3062,
+    1766,
+    1835,
+    2378
+  ],
+  "productReviews": [
+    {
+      "productId": 2740,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-12-11T03:25:52.6375356+02:00"
+    },
+    {
+      "productId": 4726,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-12-27T19:33:04.9557142+02:00"
+    },
+    {
+      "productId": 1861,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-06-22T14:42:16.7123494+03:00"
+    },
+    {
+      "productId": 1939,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-04-15T22:07:00.5355647+03:00"
+    }
+  ]
+}

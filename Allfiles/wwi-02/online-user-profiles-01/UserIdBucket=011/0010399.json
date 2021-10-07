@@ -1,0 +1,31 @@
+{
+  "userId": 10399,
+  "cartId": "efb10bff-ef9f-43fd-8229-0823120adfec",
+  "preferredProducts": [
+    1659,
+    2757,
+    183,
+    1304,
+    3465,
+    2280,
+    327,
+    1192
+  ],
+  "productReviews": [
+    {
+      "productId": 530,
+      "reviewText": "This indigo works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-10-25T09:07:07.8818613+03:00"
+    },
+    {
+      "productId": 3726,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-01-02T13:37:41.0168413+02:00"
+    },
+    {
+      "productId": 2859,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-07-23T18:34:22.2377398+03:00"
+    }
+  ]
+}

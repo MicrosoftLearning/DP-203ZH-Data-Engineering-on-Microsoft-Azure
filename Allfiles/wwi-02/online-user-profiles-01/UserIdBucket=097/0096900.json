@@ -1,0 +1,33 @@
+{
+  "userId": 96900,
+  "cartId": "3b43b56a-80f4-487c-b146-75bc2d6348ae",
+  "preferredProducts": [
+    4513,
+    3489,
+    303,
+    948,
+    2397
+  ],
+  "productReviews": [
+    {
+      "productId": 3282,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-02-21T00:12:15.3510213+02:00"
+    },
+    {
+      "productId": 1778,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-05-27T06:35:32.0495229+03:00"
+    },
+    {
+      "productId": 561,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-12-03T22:38:18.4863411+02:00"
+    },
+    {
+      "productId": 3524,
+      "reviewText": "This program works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-03-31T23:34:39.8305109+03:00"
+    }
+  ]
+}

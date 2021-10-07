@@ -1,0 +1,32 @@
+{
+  "userId": 99107,
+  "cartId": "3c80a156-3af2-4c5a-8fe8-4f4506ebbb2c",
+  "preferredProducts": [
+    4903,
+    2556,
+    3682,
+    3360
+  ],
+  "productReviews": [
+    {
+      "productId": 1078,
+      "reviewText": "this infomediaries is mellow.",
+      "reviewDate": "2019-02-10T16:18:09.7228318+02:00"
+    },
+    {
+      "productId": 719,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-02-23T03:37:17.0825701+02:00"
+    },
+    {
+      "productId": 4995,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-07-23T01:08:25.1778481+03:00"
+    },
+    {
+      "productId": 1014,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-06-21T07:55:27.3075163+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 11218,
+  "cartId": "ec9cfe0b-1820-4168-9354-53a1c687aa34",
+  "preferredProducts": [
+    1023,
+    2344,
+    1672
+  ],
+  "productReviews": [
+    {
+      "productId": 2882,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2016-06-13T15:24:20.2099296+03:00"
+    },
+    {
+      "productId": 1481,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-07-02T13:15:51.7327784+03:00"
+    },
+    {
+      "productId": 2871,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-09-02T03:51:23.7251174+03:00"
+    },
+    {
+      "productId": 4035,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-03-16T23:39:36.0577149+02:00"
+    }
+  ]
+}

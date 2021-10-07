@@ -1,0 +1,33 @@
+{
+  "userId": 556,
+  "cartId": "5ac5d6dd-5d7d-429a-8282-c9bec32ed61d",
+  "preferredProducts": [
+    1525,
+    1844,
+    2250,
+    4390,
+    4533
+  ],
+  "productReviews": [
+    {
+      "productId": 2890,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-02-10T20:39:51.5566768+02:00"
+    },
+    {
+      "productId": 4124,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-12-31T06:12:52.0906779+02:00"
+    },
+    {
+      "productId": 1860,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-10-30T06:46:17.1653825+02:00"
+    },
+    {
+      "productId": 4271,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-06-05T06:40:54.6254321+03:00"
+    }
+  ]
+}

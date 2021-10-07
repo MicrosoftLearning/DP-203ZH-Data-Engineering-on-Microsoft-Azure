@@ -1,0 +1,27 @@
+{
+  "userId": 99573,
+  "cartId": "6143268d-a689-4297-82ec-d255f7feff48",
+  "preferredProducts": [
+    1401,
+    2395,
+    3760,
+    3544
+  ],
+  "productReviews": [
+    {
+      "productId": 324,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-03-06T16:51:29.6402125+02:00"
+    },
+    {
+      "productId": 1603,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-01-22T08:04:42.6219544+02:00"
+    },
+    {
+      "productId": 3704,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-06-15T23:09:06.3374729+03:00"
+    }
+  ]
+}

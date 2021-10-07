@@ -1,0 +1,36 @@
+{
+  "userId": 15183,
+  "cartId": "2adda070-9973-4b53-85a5-4e7208364aca",
+  "preferredProducts": [
+    147,
+    4216,
+    2899,
+    4286,
+    4561,
+    4036,
+    2245,
+    3445
+  ],
+  "productReviews": [
+    {
+      "productId": 14,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-03-06T09:03:02.9185901+02:00"
+    },
+    {
+      "productId": 2949,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-08-28T09:22:57.0411575+03:00"
+    },
+    {
+      "productId": 947,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-06-01T14:53:03.7610163+03:00"
+    },
+    {
+      "productId": 559,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-08-02T22:23:32.9037428+03:00"
+    }
+  ]
+}

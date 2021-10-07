@@ -1,0 +1,34 @@
+{
+  "userId": 1356,
+  "cartId": "6bcf7995-5770-42b9-a10d-be7b5286ef48",
+  "preferredProducts": [
+    2866,
+    3302,
+    1675,
+    1549,
+    485,
+    3250
+  ],
+  "productReviews": [
+    {
+      "productId": 2187,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-06-26T02:57:56.8520504+03:00"
+    },
+    {
+      "productId": 4753,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-02-20T01:09:04.0250513+02:00"
+    },
+    {
+      "productId": 1547,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-06-24T06:46:21.3639805+03:00"
+    },
+    {
+      "productId": 4039,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-07-20T19:36:27.3739334+03:00"
+    }
+  ]
+}

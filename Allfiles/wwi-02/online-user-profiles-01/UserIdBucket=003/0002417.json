@@ -1,0 +1,27 @@
+{
+  "userId": 2417,
+  "cartId": "f59388cb-cf73-4d33-a04c-6a66c2d38099",
+  "preferredProducts": [
+    3008,
+    2180,
+    1586,
+    1600
+  ],
+  "productReviews": [
+    {
+      "productId": 3969,
+      "reviewText": "this clicks-and-mortar is standard.",
+      "reviewDate": "2018-03-07T21:15:30.0982869+02:00"
+    },
+    {
+      "productId": 3049,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-08-16T23:10:31.2364708+03:00"
+    },
+    {
+      "productId": 3691,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-01-28T06:49:24.6314275+02:00"
+    }
+  ]
+}

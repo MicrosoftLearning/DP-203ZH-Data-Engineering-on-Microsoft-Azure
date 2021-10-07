@@ -1,0 +1,27 @@
+{
+  "userId": 23780,
+  "cartId": "decef52a-b381-4da5-9be9-4ac02edb1c57",
+  "preferredProducts": [
+    1511,
+    2567,
+    3864,
+    1755
+  ],
+  "productReviews": [
+    {
+      "productId": 1583,
+      "reviewText": "this Georgia is light-hearted.",
+      "reviewDate": "2018-09-08T19:23:35.6631637+03:00"
+    },
+    {
+      "productId": 1792,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-09-05T01:09:36.6262154+03:00"
+    },
+    {
+      "productId": 3921,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-08-18T22:41:31.0917607+03:00"
+    }
+  ]
+}

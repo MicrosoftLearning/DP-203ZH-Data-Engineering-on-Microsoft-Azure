@@ -1,0 +1,35 @@
+{
+  "userId": 55,
+  "cartId": "e8e5ec87-cb0d-4f88-a4bb-f7d0eba368a9",
+  "preferredProducts": [
+    2709,
+    2958,
+    444,
+    1891,
+    1299,
+    786,
+    197
+  ],
+  "productReviews": [
+    {
+      "productId": 3481,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-02-22T20:25:56.0358347+02:00"
+    },
+    {
+      "productId": 1151,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-05-16T09:00:24.5851008+03:00"
+    },
+    {
+      "productId": 1708,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-11-15T02:43:25.0931805+02:00"
+    },
+    {
+      "productId": 1643,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2016-06-28T04:37:21.3231837+03:00"
+    }
+  ]
+}

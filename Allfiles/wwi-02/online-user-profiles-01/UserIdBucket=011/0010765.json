@@ -1,0 +1,38 @@
+{
+  "userId": 10765,
+  "cartId": "303de063-36b3-46bc-8e4c-0a118d06d8bb",
+  "preferredProducts": [
+    2020,
+    4075,
+    2861,
+    3660,
+    4169
+  ],
+  "productReviews": [
+    {
+      "productId": 2791,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-02-16T09:19:34.3398468+02:00"
+    },
+    {
+      "productId": 4399,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This matrix keeps them away.",
+      "reviewDate": "2017-07-11T09:50:34.6113224+03:00"
+    },
+    {
+      "productId": 4603,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-07-23T19:53:45.6346035+03:00"
+    },
+    {
+      "productId": 1639,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-11-27T17:44:42.6873858+02:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-05-20T15:56:48.5053353+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 20520,
+  "cartId": "9872453c-c93c-4d8c-8d51-bddbd35bb78d",
+  "preferredProducts": [
+    1562,
+    933,
+    2612,
+    4004,
+    1224,
+    612,
+    1414,
+    3465
+  ],
+  "productReviews": [
+    {
+      "productId": 4786,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-06-15T02:00:33.6501618+03:00"
+    },
+    {
+      "productId": 4643,
+      "reviewText": "This copying works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-07-08T20:12:52.2279711+03:00"
+    },
+    {
+      "productId": 2208,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-08-08T06:58:04.112406+03:00"
+    }
+  ]
+}

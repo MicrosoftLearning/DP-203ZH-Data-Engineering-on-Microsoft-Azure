@@ -1,0 +1,32 @@
+{
+  "userId": 6157,
+  "cartId": "a6f8998b-49ea-47d9-b5a8-6147266521fa",
+  "preferredProducts": [
+    2258,
+    3615,
+    3363,
+    1434
+  ],
+  "productReviews": [
+    {
+      "productId": 130,
+      "reviewText": "this reboot is ratty.",
+      "reviewDate": "2019-07-12T19:54:57.6355586+03:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-11-09T07:09:17.5385588+02:00"
+    },
+    {
+      "productId": 2216,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-11-23T21:14:16.135414+02:00"
+    },
+    {
+      "productId": 2005,
+      "reviewText": "this revolutionary is mellow.",
+      "reviewDate": "2018-01-07T20:58:52.0726758+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 14672,
+  "cartId": "dbdccd1e-4a07-4264-8ed8-c3f928b98c7d",
+  "preferredProducts": [
+    2004,
+    4315
+  ],
+  "productReviews": [
+    {
+      "productId": 1762,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-08-01T19:11:38.0246297+03:00"
+    },
+    {
+      "productId": 402,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-06-12T17:22:20.131499+03:00"
+    },
+    {
+      "productId": 4579,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-09-23T02:22:13.9443058+03:00"
+    },
+    {
+      "productId": 3833,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-04-16T11:41:32.0892388+03:00"
+    }
+  ]
+}

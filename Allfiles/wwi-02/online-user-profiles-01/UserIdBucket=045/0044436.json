@@ -1,0 +1,29 @@
+{
+  "userId": 44436,
+  "cartId": "4ec7d585-0644-4423-8959-dc3d02ce4c4b",
+  "preferredProducts": [
+    3315,
+    1096,
+    1213,
+    1192,
+    1586,
+    3447
+  ],
+  "productReviews": [
+    {
+      "productId": 1508,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-01-14T06:11:50.8531498+02:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-05-13T10:52:54.7921163+03:00"
+    },
+    {
+      "productId": 1909,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-07-06T03:41:15.2198572+03:00"
+    }
+  ]
+}

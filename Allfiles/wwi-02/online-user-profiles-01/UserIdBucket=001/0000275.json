@@ -1,0 +1,32 @@
+{
+  "userId": 275,
+  "cartId": "6ecbd544-cbea-4324-a4d2-3cc90b2eb1d1",
+  "preferredProducts": [
+    3157,
+    4253,
+    1883,
+    1138
+  ],
+  "productReviews": [
+    {
+      "productId": 3047,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-03-10T18:17:23.5520512+02:00"
+    },
+    {
+      "productId": 2180,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-05-16T11:53:03.055883+03:00"
+    },
+    {
+      "productId": 1798,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-05-18T16:44:33.1900751+03:00"
+    },
+    {
+      "productId": 2556,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-05-15T04:33:48.1279076+03:00"
+    }
+  ]
+}

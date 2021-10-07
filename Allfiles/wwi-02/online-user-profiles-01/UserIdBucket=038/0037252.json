@@ -1,0 +1,29 @@
+{
+  "userId": 37252,
+  "cartId": "b5eae834-e230-4f12-b65f-4574b74760bd",
+  "preferredProducts": [
+    3841,
+    2801,
+    1951,
+    295,
+    1931,
+    946
+  ],
+  "productReviews": [
+    {
+      "productId": 3010,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-06-29T17:03:47.4201228+03:00"
+    },
+    {
+      "productId": 588,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-12-30T17:08:46.0504649+02:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-04-26T05:58:28.0574097+03:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 78534,
+  "cartId": "cda1bdbd-643f-464b-94c8-875cefd4ec60",
+  "preferredProducts": [
+    2691,
+    3480,
+    2213,
+    3791,
+    2530,
+    334
+  ],
+  "productReviews": [
+    {
+      "productId": 332,
+      "reviewText": "This is a really good Landing.",
+      "reviewDate": "2017-04-30T21:51:18.3238253+03:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2020-01-25T10:46:03.9190433+02:00"
+    },
+    {
+      "productId": 2833,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-06-18T08:35:10.8290729+03:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-12-23T01:24:15.3378436+02:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "This Outdoors & Movies works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2017-06-16T15:47:38.310447+03:00"
+    }
+  ]
+}

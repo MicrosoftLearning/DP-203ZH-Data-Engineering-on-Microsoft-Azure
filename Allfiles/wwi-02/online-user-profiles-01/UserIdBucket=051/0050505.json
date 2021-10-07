@@ -1,0 +1,30 @@
+{
+  "userId": 50505,
+  "cartId": "dfa807ca-628c-4509-9034-90ac434d3472",
+  "preferredProducts": [
+    1357,
+    2517,
+    2329,
+    2216,
+    1375,
+    3217,
+    265
+  ],
+  "productReviews": [
+    {
+      "productId": 506,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-10-26T05:51:28.2064955+03:00"
+    },
+    {
+      "productId": 1119,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Accountability keeps them away.",
+      "reviewDate": "2019-06-27T04:05:12.9935645+03:00"
+    },
+    {
+      "productId": 1932,
+      "reviewText": "this District is mellow.",
+      "reviewDate": "2018-06-19T09:52:52.8935202+03:00"
+    }
+  ]
+}

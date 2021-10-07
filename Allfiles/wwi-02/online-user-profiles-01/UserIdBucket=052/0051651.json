@@ -1,0 +1,37 @@
+{
+  "userId": 51651,
+  "cartId": "2413def1-856c-4437-b1af-fe2e0c32ac5c",
+  "preferredProducts": [
+    2485,
+    3218,
+    885,
+    1018,
+    4889,
+    2283,
+    4108,
+    2609,
+    4920
+  ],
+  "productReviews": [
+    {
+      "productId": 1187,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-01-02T11:04:15.4024526+02:00"
+    },
+    {
+      "productId": 1357,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-12-02T11:46:46.2449198+02:00"
+    },
+    {
+      "productId": 812,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-06-04T12:04:33.5117966+03:00"
+    },
+    {
+      "productId": 3502,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-31T03:27:20.2192787+03:00"
+    }
+  ]
+}

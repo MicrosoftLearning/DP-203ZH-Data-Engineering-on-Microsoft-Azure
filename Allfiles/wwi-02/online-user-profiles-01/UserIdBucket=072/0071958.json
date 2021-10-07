@@ -1,0 +1,33 @@
+{
+  "userId": 71958,
+  "cartId": "42feb9d8-b6cf-4dec-86b6-3f16048447a7",
+  "preferredProducts": [
+    3369,
+    166,
+    3233,
+    621,
+    1417
+  ],
+  "productReviews": [
+    {
+      "productId": 1612,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-09-25T19:50:10.5690301+03:00"
+    },
+    {
+      "productId": 3385,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2020-01-18T16:18:27.8162967+02:00"
+    },
+    {
+      "productId": 2998,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-02-13T23:38:54.7548819+02:00"
+    },
+    {
+      "productId": 4250,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-04-22T19:58:47.8975397+03:00"
+    }
+  ]
+}

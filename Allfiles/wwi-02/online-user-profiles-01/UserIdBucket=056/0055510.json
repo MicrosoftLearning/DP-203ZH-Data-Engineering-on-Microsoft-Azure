@@ -1,0 +1,31 @@
+{
+  "userId": 55510,
+  "cartId": "e05fe374-bfb7-49f6-86db-5bec35b6dcae",
+  "preferredProducts": [
+    1457,
+    1276,
+    1817,
+    4226,
+    2578,
+    377,
+    2900,
+    2614
+  ],
+  "productReviews": [
+    {
+      "productId": 4880,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-19T13:30:28.3286138+02:00"
+    },
+    {
+      "productId": 4267,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-04-19T18:16:08.2860381+03:00"
+    },
+    {
+      "productId": 4606,
+      "reviewText": "this Granite is nifty.",
+      "reviewDate": "2017-09-10T08:33:57.0098742+03:00"
+    }
+  ]
+}

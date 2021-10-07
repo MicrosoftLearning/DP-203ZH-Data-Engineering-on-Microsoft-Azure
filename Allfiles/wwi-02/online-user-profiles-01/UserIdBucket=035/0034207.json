@@ -1,0 +1,27 @@
+{
+  "userId": 34207,
+  "cartId": "bd6dd5bf-3384-4f91-8517-081aede2a660",
+  "preferredProducts": [
+    576,
+    3972,
+    1576,
+    922
+  ],
+  "productReviews": [
+    {
+      "productId": 3749,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-07-16T04:25:37.7761783+03:00"
+    },
+    {
+      "productId": 2383,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-10-17T01:40:01.4021967+03:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-07-12T04:53:58.6610716+03:00"
+    }
+  ]
+}

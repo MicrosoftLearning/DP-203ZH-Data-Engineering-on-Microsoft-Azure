@@ -1,0 +1,38 @@
+{
+  "userId": 86155,
+  "cartId": "57efedc1-87d3-4869-8d18-61b23faa6511",
+  "preferredProducts": [
+    3746,
+    1194,
+    2868,
+    3874,
+    2248,
+    865,
+    3849,
+    990,
+    1468,
+    1181
+  ],
+  "productReviews": [
+    {
+      "productId": 3917,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-05-15T00:30:54.4759072+03:00"
+    },
+    {
+      "productId": 3958,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-11-30T19:25:51.5492488+02:00"
+    },
+    {
+      "productId": 2961,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-12-16T11:42:57.5029452+02:00"
+    },
+    {
+      "productId": 1961,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-03-11T00:34:27.7240677+02:00"
+    }
+  ]
+}

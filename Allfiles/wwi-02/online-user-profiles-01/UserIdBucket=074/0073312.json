@@ -1,0 +1,33 @@
+{
+  "userId": 73312,
+  "cartId": "17b6f032-48c8-4021-8e92-5d8448164fef",
+  "preferredProducts": [
+    2812,
+    889,
+    967,
+    1542,
+    1261
+  ],
+  "productReviews": [
+    {
+      "productId": 4312,
+      "reviewText": "this sensor is nifty.",
+      "reviewDate": "2017-10-19T01:42:14.3455698+03:00"
+    },
+    {
+      "productId": 4198,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-12-27T17:12:05.4369546+02:00"
+    },
+    {
+      "productId": 1851,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-01-31T12:10:14.1122132+02:00"
+    },
+    {
+      "productId": 1434,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-02-14T03:39:57.2906615+02:00"
+    }
+  ]
+}

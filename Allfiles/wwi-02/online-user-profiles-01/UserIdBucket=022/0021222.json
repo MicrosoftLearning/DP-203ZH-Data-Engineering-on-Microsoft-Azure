@@ -1,0 +1,25 @@
+{
+  "userId": 21222,
+  "cartId": "caf85ac2-6fd9-4862-9d05-f1caa847b3a9",
+  "preferredProducts": [
+    850,
+    4823
+  ],
+  "productReviews": [
+    {
+      "productId": 2622,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-10-12T13:59:07.3564102+03:00"
+    },
+    {
+      "productId": 1259,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-08-10T11:18:36.2265169+03:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2020-04-30T09:41:33.1256138+03:00"
+    }
+  ]
+}

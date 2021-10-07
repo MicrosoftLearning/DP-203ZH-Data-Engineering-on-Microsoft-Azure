@@ -1,0 +1,27 @@
+{
+  "userId": 52083,
+  "cartId": "3d0d71d1-977c-4c78-84d7-57ee7d638f83",
+  "preferredProducts": [
+    3347,
+    2504,
+    524,
+    3795
+  ],
+  "productReviews": [
+    {
+      "productId": 452,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-01-11T08:00:09.4883365+02:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-08-18T06:13:00.7972785+03:00"
+    },
+    {
+      "productId": 3112,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-12-11T16:51:22.24789+02:00"
+    }
+  ]
+}

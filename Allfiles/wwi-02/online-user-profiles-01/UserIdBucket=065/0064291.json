@@ -1,0 +1,27 @@
+{
+  "userId": 64291,
+  "cartId": "f1d85cb9-5f2a-46ff-9de0-655f58d8754b",
+  "preferredProducts": [
+    1204,
+    2757,
+    2572,
+    4236
+  ],
+  "productReviews": [
+    {
+      "productId": 4710,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-03-15T09:00:40.9241771+02:00"
+    },
+    {
+      "productId": 3423,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-11-01T21:53:26.5077239+02:00"
+    },
+    {
+      "productId": 4730,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-07-27T05:21:13.9241557+03:00"
+    }
+  ]
+}

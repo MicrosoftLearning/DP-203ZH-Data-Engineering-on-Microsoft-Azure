@@ -1,0 +1,31 @@
+{
+  "userId": 4309,
+  "cartId": "aa5ea339-3573-4092-b5de-8fa2d1947e3a",
+  "preferredProducts": [
+    1414,
+    1688,
+    3963
+  ],
+  "productReviews": [
+    {
+      "productId": 3511,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-07-07T22:33:29.7005089+03:00"
+    },
+    {
+      "productId": 3112,
+      "reviewText": "This Health & Beauty works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-10-01T04:32:38.8585991+03:00"
+    },
+    {
+      "productId": 4302,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2020-02-21T00:37:22.752345+02:00"
+    },
+    {
+      "productId": 4151,
+      "reviewText": "this Canada is complimentary.",
+      "reviewDate": "2018-03-11T13:36:41.3294463+02:00"
+    }
+  ]
+}

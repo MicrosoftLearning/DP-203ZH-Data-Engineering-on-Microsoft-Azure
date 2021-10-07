@@ -1,0 +1,26 @@
+{
+  "userId": 91861,
+  "cartId": "4e2f1733-b44c-4659-a934-cb7f120a0e09",
+  "preferredProducts": [
+    3931,
+    3030,
+    2090
+  ],
+  "productReviews": [
+    {
+      "productId": 433,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-04-16T19:51:58.1344463+03:00"
+    },
+    {
+      "productId": 1323,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-05-12T20:02:45.1903364+03:00"
+    },
+    {
+      "productId": 2005,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-01-20T17:11:58.8069744+02:00"
+    }
+  ]
+}

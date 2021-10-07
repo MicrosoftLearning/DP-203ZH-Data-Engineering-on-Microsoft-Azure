@@ -1,0 +1,35 @@
+{
+  "userId": 56372,
+  "cartId": "4fda5b2a-6e09-4860-8215-5916fec74e0c",
+  "preferredProducts": [
+    3988,
+    2096,
+    2245,
+    3408,
+    289,
+    4608,
+    3036
+  ],
+  "productReviews": [
+    {
+      "productId": 975,
+      "reviewText": "this Viaduct is snowy.",
+      "reviewDate": "2017-11-20T23:41:49.4865162+02:00"
+    },
+    {
+      "productId": 1730,
+      "reviewText": "this Investment Account is top-notch.",
+      "reviewDate": "2018-04-09T22:11:28.6936547+03:00"
+    },
+    {
+      "productId": 2491,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-06-16T23:55:14.7235819+03:00"
+    },
+    {
+      "productId": 3553,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-11-13T01:19:31.0860224+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 14312,
+  "cartId": "49e6a2bf-145f-47ee-8d83-3de91832af86",
+  "preferredProducts": [
+    3907,
+    95,
+    3280,
+    1150,
+    3910,
+    1145,
+    3164,
+    1308
+  ],
+  "productReviews": [
+    {
+      "productId": 3236,
+      "reviewText": "this policy is revolting.",
+      "reviewDate": "2018-02-04T07:33:20.8700415+02:00"
+    },
+    {
+      "productId": 1288,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-03-24T12:52:47.0430247+02:00"
+    },
+    {
+      "productId": 1610,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-04-04T07:02:10.3644466+03:00"
+    }
+  ]
+}

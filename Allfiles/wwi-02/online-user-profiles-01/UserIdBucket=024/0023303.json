@@ -1,0 +1,39 @@
+{
+  "userId": 23303,
+  "cartId": "841e5b92-6f36-4791-a11f-84191a54945d",
+  "preferredProducts": [
+    148,
+    13,
+    4620,
+    3140,
+    2768,
+    735
+  ],
+  "productReviews": [
+    {
+      "productId": 1501,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-02-08T14:14:31.3528846+02:00"
+    },
+    {
+      "productId": 1088,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-05-30T13:05:33.5269743+03:00"
+    },
+    {
+      "productId": 2143,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-05-07T01:50:54.8656092+03:00"
+    },
+    {
+      "productId": 751,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-03-09T19:36:14.3550299+02:00"
+    },
+    {
+      "productId": 2733,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-06-24T07:09:30.0545212+03:00"
+    }
+  ]
+}

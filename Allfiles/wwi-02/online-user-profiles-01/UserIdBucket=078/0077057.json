@@ -1,0 +1,32 @@
+{
+  "userId": 77057,
+  "cartId": "d2ec86a8-54df-42d9-864f-b4c8920daf5c",
+  "preferredProducts": [
+    4810,
+    4197,
+    161,
+    2561,
+    4176,
+    316,
+    4426,
+    1462,
+    3016
+  ],
+  "productReviews": [
+    {
+      "productId": 2188,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-12-30T20:53:23.0112093+02:00"
+    },
+    {
+      "productId": 928,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-08-18T05:30:06.3885978+03:00"
+    },
+    {
+      "productId": 3903,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-03-29T16:42:11.9198432+03:00"
+    }
+  ]
+}

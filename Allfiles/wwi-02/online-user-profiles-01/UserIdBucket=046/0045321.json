@@ -1,0 +1,31 @@
+{
+  "userId": 45321,
+  "cartId": "4adf7e55-f008-4c4d-89b6-df34e01524a2",
+  "preferredProducts": [
+    2436,
+    2155,
+    3726,
+    2601,
+    4385,
+    4958,
+    307,
+    4949
+  ],
+  "productReviews": [
+    {
+      "productId": 3901,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-04-11T23:23:59.5607647+03:00"
+    },
+    {
+      "productId": 977,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-01-22T03:41:51.5338793+02:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-05-15T05:02:04.5426802+03:00"
+    }
+  ]
+}

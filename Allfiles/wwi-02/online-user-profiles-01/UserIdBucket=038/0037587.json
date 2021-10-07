@@ -1,0 +1,34 @@
+{
+  "userId": 37587,
+  "cartId": "9318791a-156f-4056-956f-a3fb95895d2c",
+  "preferredProducts": [
+    2329,
+    1738,
+    493,
+    1005,
+    3238,
+    3355
+  ],
+  "productReviews": [
+    {
+      "productId": 4989,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-05-21T05:22:23.4826909+03:00"
+    },
+    {
+      "productId": 4911,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-03-21T14:51:15.0524817+02:00"
+    },
+    {
+      "productId": 253,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-05-10T01:01:49.4020608+03:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-01-13T09:21:18.9581694+02:00"
+    }
+  ]
+}

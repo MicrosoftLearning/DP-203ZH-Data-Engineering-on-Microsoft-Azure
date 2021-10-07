@@ -1,0 +1,42 @@
+{
+  "userId": 23068,
+  "cartId": "b6531afd-b638-441e-a8d5-84c9722a4d93",
+  "preferredProducts": [
+    2149,
+    686,
+    193,
+    702,
+    3405,
+    224,
+    1646,
+    2291,
+    2123
+  ],
+  "productReviews": [
+    {
+      "productId": 1535,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-07-11T11:48:26.2244272+03:00"
+    },
+    {
+      "productId": 3425,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2020-02-02T22:25:45.1281705+02:00"
+    },
+    {
+      "productId": 2264,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-11-18T11:58:35.7840804+02:00"
+    },
+    {
+      "productId": 1018,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-12-31T02:21:48.6244845+02:00"
+    },
+    {
+      "productId": 3626,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-01-10T02:32:56.4026026+02:00"
+    }
+  ]
+}

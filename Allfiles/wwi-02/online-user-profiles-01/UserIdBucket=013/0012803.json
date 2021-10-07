@@ -1,0 +1,31 @@
+{
+  "userId": 12803,
+  "cartId": "305fe9f8-0cac-4a04-8468-ae6230618bda",
+  "preferredProducts": [
+    3438,
+    4423,
+    4143,
+    4896,
+    1945,
+    3338,
+    1117,
+    1440
+  ],
+  "productReviews": [
+    {
+      "productId": 4656,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-09-23T18:15:53.0681637+03:00"
+    },
+    {
+      "productId": 1665,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2019-05-09T07:26:28.6605082+03:00"
+    },
+    {
+      "productId": 2963,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-04-12T22:07:23.4437741+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 72533,
+  "cartId": "0503dad7-bb9c-48c2-9512-ccd807605d39",
+  "preferredProducts": [
+    3623,
+    392,
+    1116,
+    1454
+  ],
+  "productReviews": [
+    {
+      "productId": 2485,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-03-14T05:33:33.3124598+02:00"
+    },
+    {
+      "productId": 1446,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-06-05T13:34:25.2550493+03:00"
+    },
+    {
+      "productId": 2156,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-10-28T05:19:24.3901068+03:00"
+    }
+  ]
+}

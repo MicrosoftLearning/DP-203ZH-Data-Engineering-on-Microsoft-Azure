@@ -1,0 +1,33 @@
+{
+  "userId": 23580,
+  "cartId": "29089cae-da69-4089-b656-e1fc97dce93b",
+  "preferredProducts": [
+    2223,
+    2893,
+    4595,
+    1400,
+    474,
+    1706,
+    88,
+    922,
+    225,
+    4736
+  ],
+  "productReviews": [
+    {
+      "productId": 2480,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-05-30T10:21:28.3486012+03:00"
+    },
+    {
+      "productId": 3838,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-02-28T17:50:25.2193721+02:00"
+    },
+    {
+      "productId": 4074,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-05-17T05:25:36.7329601+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 42886,
+  "cartId": "c387f6bb-3d75-4912-9514-6d85622ed49b",
+  "preferredProducts": [
+    3787,
+    1706,
+    1580,
+    2743,
+    3061,
+    675,
+    49,
+    2958,
+    4195,
+    763
+  ],
+  "productReviews": [
+    {
+      "productId": 798,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-05-21T09:41:23.9246656+03:00"
+    },
+    {
+      "productId": 2194,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-10-28T07:36:16.8335433+02:00"
+    },
+    {
+      "productId": 4614,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-02-06T13:42:01.2810539+02:00"
+    }
+  ]
+}

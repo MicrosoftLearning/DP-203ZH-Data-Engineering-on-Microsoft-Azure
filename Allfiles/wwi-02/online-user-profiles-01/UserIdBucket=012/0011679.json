@@ -1,0 +1,30 @@
+{
+  "userId": 11679,
+  "cartId": "763d8efa-0989-409a-b9b9-31e232582f84",
+  "preferredProducts": [
+    49,
+    154,
+    387,
+    4119,
+    1763,
+    566,
+    1419
+  ],
+  "productReviews": [
+    {
+      "productId": 827,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-03-21T17:39:09.7562462+02:00"
+    },
+    {
+      "productId": 1977,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-09-17T11:36:40.9642974+03:00"
+    },
+    {
+      "productId": 4731,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-10-04T04:28:02.5722238+03:00"
+    }
+  ]
+}

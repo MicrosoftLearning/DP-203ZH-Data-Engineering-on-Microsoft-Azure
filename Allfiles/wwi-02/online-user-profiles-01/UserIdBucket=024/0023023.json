@@ -1,0 +1,26 @@
+{
+  "userId": 23023,
+  "cartId": "bdb9825d-23d3-46ba-b628-36621f90013e",
+  "preferredProducts": [
+    2515,
+    3610,
+    1257
+  ],
+  "productReviews": [
+    {
+      "productId": 2597,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-10-24T00:27:12.9704328+03:00"
+    },
+    {
+      "productId": 337,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-05-16T23:10:23.3366232+03:00"
+    },
+    {
+      "productId": 3415,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-08-04T02:09:18.3937127+03:00"
+    }
+  ]
+}

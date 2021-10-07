@@ -1,0 +1,29 @@
+{
+  "userId": 32700,
+  "cartId": "671812f8-a5f1-4e5a-8311-a880254d2168",
+  "preferredProducts": [
+    1470,
+    3961,
+    2375,
+    2875,
+    2018,
+    4170
+  ],
+  "productReviews": [
+    {
+      "productId": 1487,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-10-25T14:58:14.4766551+03:00"
+    },
+    {
+      "productId": 3721,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-09-20T05:23:23.6370126+03:00"
+    },
+    {
+      "productId": 3089,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-04-25T20:48:25.490896+03:00"
+    }
+  ]
+}

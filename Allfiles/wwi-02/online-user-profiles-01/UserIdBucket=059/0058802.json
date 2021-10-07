@@ -1,0 +1,40 @@
+{
+  "userId": 58802,
+  "cartId": "481a24e4-a027-424d-8fa8-fccf064f1d86",
+  "preferredProducts": [
+    3263,
+    1184,
+    224,
+    4304,
+    3771,
+    916,
+    622
+  ],
+  "productReviews": [
+    {
+      "productId": 3327,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-12-08T20:45:45.7121503+02:00"
+    },
+    {
+      "productId": 4060,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-01-27T12:25:11.5158105+02:00"
+    },
+    {
+      "productId": 2712,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-09-03T09:54:55.9326447+03:00"
+    },
+    {
+      "productId": 2838,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-07-02T03:09:48.6737337+03:00"
+    },
+    {
+      "productId": 1797,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-01-20T20:06:54.6919422+02:00"
+    }
+  ]
+}

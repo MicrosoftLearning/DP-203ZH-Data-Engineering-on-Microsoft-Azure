@@ -1,0 +1,37 @@
+{
+  "userId": 12458,
+  "cartId": "0586fc48-8e45-4473-8a11-6a2e3d42e9a2",
+  "preferredProducts": [
+    2001,
+    4222,
+    1203,
+    4635
+  ],
+  "productReviews": [
+    {
+      "productId": 2882,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-10-10T14:49:56.6820729+03:00"
+    },
+    {
+      "productId": 3194,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-11-06T12:31:17.72873+02:00"
+    },
+    {
+      "productId": 163,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-03-05T12:18:04.5012982+02:00"
+    },
+    {
+      "productId": 3774,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-12-03T17:08:58.7978262+02:00"
+    },
+    {
+      "productId": 3468,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-03-25T01:31:34.8895257+02:00"
+    }
+  ]
+}

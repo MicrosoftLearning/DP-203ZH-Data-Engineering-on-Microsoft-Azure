@@ -1,0 +1,28 @@
+{
+  "userId": 57663,
+  "cartId": "67a69d68-0aad-4c25-a1c6-874b3447f634",
+  "preferredProducts": [
+    2915,
+    3722,
+    772,
+    2566,
+    1023
+  ],
+  "productReviews": [
+    {
+      "productId": 4663,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-06-26T03:22:49.6925609+03:00"
+    },
+    {
+      "productId": 3248,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-02-11T22:32:44.9933221+02:00"
+    },
+    {
+      "productId": 1751,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-05-21T06:44:41.9746169+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 12856,
+  "cartId": "d7a57b41-5ba3-4189-9cbc-ff6ee10db760",
+  "preferredProducts": [
+    1462,
+    4678,
+    4443,
+    3362,
+    3410,
+    926
+  ],
+  "productReviews": [
+    {
+      "productId": 706,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-09-23T15:57:36.0772583+03:00"
+    },
+    {
+      "productId": 727,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-08-17T11:56:09.1975972+03:00"
+    },
+    {
+      "productId": 2937,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-04-07T17:05:20.5826418+03:00"
+    },
+    {
+      "productId": 4463,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-03-30T23:59:52.0879845+03:00"
+    }
+  ]
+}

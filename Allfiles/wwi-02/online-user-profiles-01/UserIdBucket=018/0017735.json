@@ -1,0 +1,25 @@
+{
+  "userId": 17735,
+  "cartId": "5bd386df-34e4-4693-a1c0-f71506724284",
+  "preferredProducts": [
+    4598,
+    600,
+    1189,
+    533,
+    1099,
+    3322,
+    4543
+  ],
+  "productReviews": [
+    {
+      "productId": 2222,
+      "reviewText": "This is a really good Generic Wooden Salad.",
+      "reviewDate": "2019-12-24T20:11:10.4404611+02:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-07-13T21:01:52.3798472+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 34017,
+  "cartId": "afd42408-4606-4c80-bfd7-4d16213c0860",
+  "preferredProducts": [
+    2845,
+    1497,
+    4340,
+    539,
+    4407,
+    4876
+  ],
+  "productReviews": [
+    {
+      "productId": 2205,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-09-30T13:17:56.0943883+03:00"
+    },
+    {
+      "productId": 1764,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-06-11T04:16:50.1223393+03:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-04-23T22:31:26.9898363+03:00"
+    },
+    {
+      "productId": 2126,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-12-17T21:01:30.3971404+02:00"
+    }
+  ]
+}

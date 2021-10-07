@@ -1,0 +1,33 @@
+{
+  "userId": 38183,
+  "cartId": "273f4ef8-3e9f-4800-bca9-2582cbf9a173",
+  "preferredProducts": [
+    3373,
+    1073,
+    2280,
+    1499,
+    3259
+  ],
+  "productReviews": [
+    {
+      "productId": 3357,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-05-21T20:59:02.9941257+03:00"
+    },
+    {
+      "productId": 1787,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-01-04T11:11:49.4506044+02:00"
+    },
+    {
+      "productId": 4972,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-11-29T11:34:56.9538451+02:00"
+    },
+    {
+      "productId": 3662,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-09-30T03:17:40.2089728+03:00"
+    }
+  ]
+}

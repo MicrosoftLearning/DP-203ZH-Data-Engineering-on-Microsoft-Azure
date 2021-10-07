@@ -1,0 +1,33 @@
+{
+  "userId": 49662,
+  "cartId": "0bc0ab28-5de2-4c15-af45-f15673927662",
+  "preferredProducts": [
+    4818,
+    1150,
+    2217,
+    240,
+    2450
+  ],
+  "productReviews": [
+    {
+      "productId": 1223,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-10-02T15:12:28.7854766+03:00"
+    },
+    {
+      "productId": 4422,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2020-02-04T12:21:21.6326431+02:00"
+    },
+    {
+      "productId": 3499,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-08-06T22:15:47.0169234+03:00"
+    },
+    {
+      "productId": 3523,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-02-19T15:29:50.3491477+02:00"
+    }
+  ]
+}

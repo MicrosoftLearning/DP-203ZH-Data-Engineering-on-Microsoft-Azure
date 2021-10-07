@@ -1,0 +1,41 @@
+{
+  "userId": 14068,
+  "cartId": "0d42cf0d-0e51-471b-bec0-2734fb7eda21",
+  "preferredProducts": [
+    505,
+    1608,
+    2632,
+    3035,
+    1796,
+    4446,
+    4819,
+    4931
+  ],
+  "productReviews": [
+    {
+      "productId": 4524,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-11-28T04:32:24.5902952+02:00"
+    },
+    {
+      "productId": 631,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-07-04T00:35:07.194094+03:00"
+    },
+    {
+      "productId": 2374,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-02-15T04:58:33.1476391+02:00"
+    },
+    {
+      "productId": 1590,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-10-16T02:19:16.8719716+03:00"
+    },
+    {
+      "productId": 3255,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-02-04T07:47:08.442492+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 10763,
+  "cartId": "bfe60e66-d8f8-4158-921b-5e151d20e3f8",
+  "preferredProducts": [
+    4902,
+    4307,
+    4679,
+    777,
+    3029,
+    4273,
+    618,
+    1820,
+    3088,
+    4565
+  ],
+  "productReviews": [
+    {
+      "productId": 4536,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-08-10T19:56:42.8310491+03:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2020-03-04T07:54:55.7038525+02:00"
+    },
+    {
+      "productId": 4184,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-06-19T06:37:56.5488681+03:00"
+    },
+    {
+      "productId": 2619,
+      "reviewText": "this Junction is gracious.",
+      "reviewDate": "2018-11-14T09:25:43.0442259+02:00"
+    }
+  ]
+}

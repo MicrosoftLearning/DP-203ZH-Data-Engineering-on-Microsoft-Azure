@@ -1,0 +1,25 @@
+{
+  "userId": 78615,
+  "cartId": "605164cc-7b22-48a5-b957-dfc5be3e8a38",
+  "preferredProducts": [
+    3420,
+    1098,
+    3612,
+    2570,
+    4351,
+    1249,
+    2102
+  ],
+  "productReviews": [
+    {
+      "productId": 4812,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-07-14T19:09:55.6760639+03:00"
+    },
+    {
+      "productId": 2855,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-10-23T15:29:52.4926003+03:00"
+    }
+  ]
+}

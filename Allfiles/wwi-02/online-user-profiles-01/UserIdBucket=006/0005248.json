@@ -1,0 +1,31 @@
+{
+  "userId": 5248,
+  "cartId": "6808ae90-4858-423d-af6c-b18240eecccb",
+  "preferredProducts": [
+    622,
+    3346,
+    2249,
+    990,
+    4507,
+    302,
+    905,
+    2025
+  ],
+  "productReviews": [
+    {
+      "productId": 3360,
+      "reviewText": "This bricks-and-clicks works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2019-08-09T14:10:40.5487309+03:00"
+    },
+    {
+      "productId": 2829,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-04-19T04:17:23.2372784+03:00"
+    },
+    {
+      "productId": 12,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-12-31T22:55:57.0334532+02:00"
+    }
+  ]
+}

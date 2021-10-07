@@ -1,0 +1,31 @@
+{
+  "userId": 31374,
+  "cartId": "aabf13e6-8bf1-472e-b893-5e3f355c32c6",
+  "preferredProducts": [
+    899,
+    92,
+    3926,
+    2010,
+    2699,
+    1042,
+    3131,
+    2659
+  ],
+  "productReviews": [
+    {
+      "productId": 2994,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-03-14T06:45:26.7969702+02:00"
+    },
+    {
+      "productId": 4263,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-02-21T00:35:26.3465127+02:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-02-05T00:01:07.1918417+02:00"
+    }
+  ]
+}

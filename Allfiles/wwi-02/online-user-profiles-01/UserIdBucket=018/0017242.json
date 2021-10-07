@@ -1,0 +1,25 @@
+{
+  "userId": 17242,
+  "cartId": "b37cf596-787b-4481-bb2f-1f805abc3a7b",
+  "preferredProducts": [
+    837,
+    4041
+  ],
+  "productReviews": [
+    {
+      "productId": 1064,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-04-17T11:00:32.2943082+03:00"
+    },
+    {
+      "productId": 4224,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-08-27T22:13:22.336929+03:00"
+    },
+    {
+      "productId": 3573,
+      "reviewText": "This is a really good Arizona.",
+      "reviewDate": "2019-05-19T05:12:44.5906898+03:00"
+    }
+  ]
+}

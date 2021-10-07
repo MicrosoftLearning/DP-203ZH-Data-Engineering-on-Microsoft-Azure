@@ -1,0 +1,35 @@
+{
+  "userId": 7300,
+  "cartId": "7e37e4e7-85c8-4c04-b536-3a44f9441e15",
+  "preferredProducts": [
+    4903,
+    484,
+    268,
+    621,
+    38,
+    1218,
+    679
+  ],
+  "productReviews": [
+    {
+      "productId": 3108,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-01-24T00:45:33.3101481+02:00"
+    },
+    {
+      "productId": 248,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-10-20T00:35:28.5238216+03:00"
+    },
+    {
+      "productId": 1251,
+      "reviewText": "this red is gracious.",
+      "reviewDate": "2017-01-01T14:39:46.6642457+02:00"
+    },
+    {
+      "productId": 4265,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2016-07-08T02:01:38.5453561+03:00"
+    }
+  ]
+}

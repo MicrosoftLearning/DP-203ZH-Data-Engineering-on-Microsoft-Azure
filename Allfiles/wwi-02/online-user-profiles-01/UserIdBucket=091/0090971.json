@@ -1,0 +1,30 @@
+{
+  "userId": 90971,
+  "cartId": "386136a3-9850-46c4-b79a-25689ee91c41",
+  "preferredProducts": [
+    3235,
+    649
+  ],
+  "productReviews": [
+    {
+      "productId": 3592,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-11-22T11:57:08.3831204+02:00"
+    },
+    {
+      "productId": 4481,
+      "reviewText": "this online is gracious.",
+      "reviewDate": "2017-07-11T05:49:47.8922465+03:00"
+    },
+    {
+      "productId": 4274,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-01-28T10:07:52.0128971+02:00"
+    },
+    {
+      "productId": 4496,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-04-26T16:26:26.4975922+03:00"
+    }
+  ]
+}

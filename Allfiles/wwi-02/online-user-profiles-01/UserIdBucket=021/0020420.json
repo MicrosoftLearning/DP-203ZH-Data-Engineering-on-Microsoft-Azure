@@ -1,0 +1,28 @@
+{
+  "userId": 20420,
+  "cartId": "2cdc2e37-b7c4-4f80-b2c4-d4083c1b10c4",
+  "preferredProducts": [
+    2473,
+    4949,
+    4653,
+    4910,
+    4362,
+    372,
+    2590,
+    3327,
+    3099,
+    1113
+  ],
+  "productReviews": [
+    {
+      "productId": 1961,
+      "reviewText": "this Handcrafted is standard.",
+      "reviewDate": "2016-09-03T23:57:59.0821227+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-02-11T03:48:57.9200238+02:00"
+    }
+  ]
+}

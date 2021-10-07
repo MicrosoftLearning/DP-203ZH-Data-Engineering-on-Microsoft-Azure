@@ -1,0 +1,35 @@
+{
+  "userId": 16932,
+  "cartId": "ad4e8775-acc8-4a28-bb0b-60fc9d76aeaa",
+  "preferredProducts": [
+    2088,
+    2556,
+    3385,
+    1811,
+    2431,
+    2904,
+    3245
+  ],
+  "productReviews": [
+    {
+      "productId": 2035,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-12-20T09:05:38.1090511+02:00"
+    },
+    {
+      "productId": 4369,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-09-30T14:06:28.1997367+03:00"
+    },
+    {
+      "productId": 139,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-04-28T06:14:58.0236643+03:00"
+    },
+    {
+      "productId": 2590,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-05-05T18:57:39.7039435+03:00"
+    }
+  ]
+}

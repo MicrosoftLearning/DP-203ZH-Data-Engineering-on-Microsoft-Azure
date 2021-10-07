@@ -1,0 +1,25 @@
+{
+  "userId": 3498,
+  "cartId": "0c1181bc-2691-4aff-ae04-78f056ae79be",
+  "preferredProducts": [
+    2119,
+    2461,
+    1900,
+    4244,
+    2622,
+    1868,
+    4767
+  ],
+  "productReviews": [
+    {
+      "productId": 2113,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-07-10T23:52:11.9194324+03:00"
+    },
+    {
+      "productId": 2987,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-10-30T04:12:20.4778806+02:00"
+    }
+  ]
+}

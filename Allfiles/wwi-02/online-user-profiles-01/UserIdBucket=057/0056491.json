@@ -1,0 +1,40 @@
+{
+  "userId": 56491,
+  "cartId": "a7ab0a79-517f-4b46-90f8-b5731b954830",
+  "preferredProducts": [
+    51,
+    598,
+    3112,
+    3644,
+    730,
+    2095,
+    3416
+  ],
+  "productReviews": [
+    {
+      "productId": 4530,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-10-30T06:04:34.2601851+02:00"
+    },
+    {
+      "productId": 3386,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-07-12T17:17:42.5913505+03:00"
+    },
+    {
+      "productId": 4963,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-05-19T03:46:42.9561718+03:00"
+    },
+    {
+      "productId": 2700,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-09-06T06:08:47.221714+03:00"
+    },
+    {
+      "productId": 4761,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-12-27T07:56:48.0066853+02:00"
+    }
+  ]
+}

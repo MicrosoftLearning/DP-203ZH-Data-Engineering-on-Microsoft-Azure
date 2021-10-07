@@ -1,0 +1,31 @@
+{
+  "userId": 3153,
+  "cartId": "bf71f099-ef5d-46dc-a608-8099c8ae173b",
+  "preferredProducts": [
+    1724,
+    42,
+    1338
+  ],
+  "productReviews": [
+    {
+      "productId": 3598,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-07-13T16:53:03.2447465+03:00"
+    },
+    {
+      "productId": 2039,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-05-23T06:21:56.7086713+03:00"
+    },
+    {
+      "productId": 2295,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-02-16T05:44:48.9846071+02:00"
+    },
+    {
+      "productId": 894,
+      "reviewText": "This is a really good Metal.",
+      "reviewDate": "2017-10-11T06:54:18.0808481+03:00"
+    }
+  ]
+}

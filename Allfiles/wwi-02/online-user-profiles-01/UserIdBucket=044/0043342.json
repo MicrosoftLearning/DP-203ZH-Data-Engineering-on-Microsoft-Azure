@@ -1,0 +1,33 @@
+{
+  "userId": 43342,
+  "cartId": "d56f5a5c-7743-4297-9f4d-ed1437511f8f",
+  "preferredProducts": [
+    4214,
+    3423,
+    2972,
+    4679,
+    3852,
+    240,
+    3565,
+    2114,
+    2610,
+    1038
+  ],
+  "productReviews": [
+    {
+      "productId": 69,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-12-25T12:19:28.1981363+02:00"
+    },
+    {
+      "productId": 4999,
+      "reviewText": "This is a really good Kids & Books.",
+      "reviewDate": "2019-02-15T05:39:58.9375591+02:00"
+    },
+    {
+      "productId": 2432,
+      "reviewText": "this Steel is light-hearted.",
+      "reviewDate": "2018-09-27T18:01:51.978223+03:00"
+    }
+  ]
+}

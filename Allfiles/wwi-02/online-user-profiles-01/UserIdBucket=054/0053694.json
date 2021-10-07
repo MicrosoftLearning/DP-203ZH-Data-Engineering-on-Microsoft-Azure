@@ -1,0 +1,32 @@
+{
+  "userId": 53694,
+  "cartId": "6f98209b-5643-45f8-b0c3-b075e301eeb6",
+  "preferredProducts": [
+    2299,
+    3345,
+    4465,
+    1009,
+    3724,
+    1808,
+    3067,
+    1860,
+    1452
+  ],
+  "productReviews": [
+    {
+      "productId": 3345,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-03-23T01:11:20.4512147+02:00"
+    },
+    {
+      "productId": 4842,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-07-17T18:49:16.2053327+03:00"
+    },
+    {
+      "productId": 3028,
+      "reviewText": "this Unbranded Frozen Pants is smooth.",
+      "reviewDate": "2019-08-20T08:48:24.3592279+03:00"
+    }
+  ]
+}

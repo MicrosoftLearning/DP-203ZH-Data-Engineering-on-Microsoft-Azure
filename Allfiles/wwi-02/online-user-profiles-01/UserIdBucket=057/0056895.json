@@ -1,0 +1,33 @@
+{
+  "userId": 56895,
+  "cartId": "e2f66713-c947-4888-8fc1-09fc6fff1d3f",
+  "preferredProducts": [
+    881,
+    4354,
+    929,
+    842,
+    52,
+    3396,
+    2191,
+    3443,
+    1534,
+    4258
+  ],
+  "productReviews": [
+    {
+      "productId": 4722,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-09-15T12:27:41.6977875+03:00"
+    },
+    {
+      "productId": 4475,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-07-19T02:42:25.5733933+03:00"
+    },
+    {
+      "productId": 4482,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-01-29T10:39:29.0658337+02:00"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "userId": 42381,
+  "cartId": "5da08a05-d603-4639-9f87-c87678d56f97",
+  "preferredProducts": [
+    1956,
+    1789
+  ],
+  "productReviews": [
+    {
+      "productId": 2218,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-01-11T08:15:08.0245815+02:00"
+    },
+    {
+      "productId": 1914,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-05-24T13:49:09.6513104+03:00"
+    }
+  ]
+}

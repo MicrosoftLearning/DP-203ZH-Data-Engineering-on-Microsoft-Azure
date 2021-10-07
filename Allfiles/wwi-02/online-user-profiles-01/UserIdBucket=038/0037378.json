@@ -1,0 +1,30 @@
+{
+  "userId": 37378,
+  "cartId": "f9aa065f-33b4-40d7-b2bb-8f0faa7b57b8",
+  "preferredProducts": [
+    2747,
+    2967,
+    2651,
+    2404,
+    1394,
+    96,
+    3455
+  ],
+  "productReviews": [
+    {
+      "productId": 685,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-01-05T21:14:16.4844377+02:00"
+    },
+    {
+      "productId": 1494,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-10-11T02:14:15.9893635+03:00"
+    },
+    {
+      "productId": 3229,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-06-15T10:29:30.3089176+03:00"
+    }
+  ]
+}

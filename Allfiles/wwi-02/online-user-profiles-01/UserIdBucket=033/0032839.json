@@ -1,0 +1,29 @@
+{
+  "userId": 32839,
+  "cartId": "4b43b61b-b6b3-4432-8a11-aa07a9031843",
+  "preferredProducts": [
+    2212,
+    779,
+    1039,
+    1628,
+    3672,
+    4639
+  ],
+  "productReviews": [
+    {
+      "productId": 3069,
+      "reviewText": "this Switchable is ratty.",
+      "reviewDate": "2020-01-18T16:37:40.0684935+02:00"
+    },
+    {
+      "productId": 2282,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-10-16T16:48:09.5584384+03:00"
+    },
+    {
+      "productId": 2348,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-06-18T15:36:46.7325459+03:00"
+    }
+  ]
+}

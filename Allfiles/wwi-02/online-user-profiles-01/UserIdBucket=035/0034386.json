@@ -1,0 +1,33 @@
+{
+  "userId": 34386,
+  "cartId": "ad867ec8-f24a-4c39-b873-f4443a495a11",
+  "preferredProducts": [
+    1489,
+    1042,
+    1501,
+    1382,
+    1738
+  ],
+  "productReviews": [
+    {
+      "productId": 1930,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2020-01-09T20:34:44.4498332+02:00"
+    },
+    {
+      "productId": 2122,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-05-10T04:16:49.9987287+03:00"
+    },
+    {
+      "productId": 654,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-12-10T23:23:19.128566+02:00"
+    },
+    {
+      "productId": 2036,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-11-22T10:12:46.7655484+02:00"
+    }
+  ]
+}

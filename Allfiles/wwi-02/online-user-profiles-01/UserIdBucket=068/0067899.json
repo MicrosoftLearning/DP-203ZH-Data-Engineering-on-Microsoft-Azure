@@ -1,0 +1,32 @@
+{
+  "userId": 67899,
+  "cartId": "a5cab200-db87-4e8f-b87f-1796d6c3a044",
+  "preferredProducts": [
+    2860,
+    1878,
+    2003,
+    3559
+  ],
+  "productReviews": [
+    {
+      "productId": 830,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-12-09T01:29:29.5114969+02:00"
+    },
+    {
+      "productId": 1750,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-03-30T08:47:49.0286196+02:00"
+    },
+    {
+      "productId": 1225,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-03-08T10:03:08.8542839+02:00"
+    },
+    {
+      "productId": 4533,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-10-31T01:42:16.4131372+02:00"
+    }
+  ]
+}

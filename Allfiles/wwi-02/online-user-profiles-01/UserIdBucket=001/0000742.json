@@ -1,0 +1,27 @@
+{
+  "userId": 742,
+  "cartId": "03c5f922-f29a-4b30-ab94-59b0690a2d04",
+  "preferredProducts": [
+    595,
+    2554,
+    571,
+    1157
+  ],
+  "productReviews": [
+    {
+      "productId": 4203,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-04-08T03:12:59.7850713+03:00"
+    },
+    {
+      "productId": 3393,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-05-02T13:04:51.1058197+03:00"
+    },
+    {
+      "productId": 101,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2017-11-09T04:33:53.3522032+02:00"
+    }
+  ]
+}

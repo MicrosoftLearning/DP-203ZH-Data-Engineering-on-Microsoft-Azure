@@ -1,0 +1,32 @@
+{
+  "userId": 46575,
+  "cartId": "43c40ae8-438c-4dc4-b046-f7da46e7a06c",
+  "preferredProducts": [
+    1240,
+    4286,
+    3888,
+    3875,
+    1208,
+    645,
+    1842,
+    209,
+    4808
+  ],
+  "productReviews": [
+    {
+      "productId": 335,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-11-30T16:28:37.103079+02:00"
+    },
+    {
+      "productId": 1084,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-10-03T20:38:22.690893+03:00"
+    },
+    {
+      "productId": 1162,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-06-05T16:19:06.7218759+03:00"
+    }
+  ]
+}

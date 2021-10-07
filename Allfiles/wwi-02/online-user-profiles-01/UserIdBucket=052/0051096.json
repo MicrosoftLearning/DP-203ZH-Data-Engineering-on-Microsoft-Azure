@@ -1,0 +1,32 @@
+{
+  "userId": 51096,
+  "cartId": "8467be7c-f07c-4df0-8a2b-9b6d9f88f5bd",
+  "preferredProducts": [
+    2473,
+    183,
+    2579,
+    2608
+  ],
+  "productReviews": [
+    {
+      "productId": 894,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-10-07T14:20:15.028467+03:00"
+    },
+    {
+      "productId": 1512,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-05-10T13:50:08.3572302+03:00"
+    },
+    {
+      "productId": 2744,
+      "reviewText": "this Manager is top-notch.",
+      "reviewDate": "2019-11-02T17:14:36.2340127+02:00"
+    },
+    {
+      "productId": 2164,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-03-25T13:39:32.5052078+02:00"
+    }
+  ]
+}

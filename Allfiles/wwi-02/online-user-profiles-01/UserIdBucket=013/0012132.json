@@ -1,0 +1,36 @@
+{
+  "userId": 12132,
+  "cartId": "3edef43c-8467-405b-b740-38d698beab51",
+  "preferredProducts": [
+    3521,
+    1745,
+    4779,
+    2492,
+    2679,
+    3198,
+    4985,
+    4480
+  ],
+  "productReviews": [
+    {
+      "productId": 4796,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-12-22T02:19:05.0647009+02:00"
+    },
+    {
+      "productId": 2673,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-06-03T02:43:12.4739595+03:00"
+    },
+    {
+      "productId": 4155,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-02-27T16:37:14.8200558+02:00"
+    },
+    {
+      "productId": 4143,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-03-05T17:35:19.8231279+02:00"
+    }
+  ]
+}

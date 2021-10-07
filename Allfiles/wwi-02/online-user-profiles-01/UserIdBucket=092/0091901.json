@@ -1,0 +1,32 @@
+{
+  "userId": 91901,
+  "cartId": "f28e867b-de18-4f5c-b8bc-f4e2f61aa362",
+  "preferredProducts": [
+    2128,
+    1118,
+    3676,
+    4573,
+    2014,
+    447,
+    2135,
+    1833,
+    4393
+  ],
+  "productReviews": [
+    {
+      "productId": 181,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-09-26T17:45:01.7374712+03:00"
+    },
+    {
+      "productId": 3403,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-12-26T11:52:23.567261+02:00"
+    },
+    {
+      "productId": 4822,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-01-12T08:43:08.6076739+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 28105,
+  "cartId": "9a3a4be1-912f-46c9-b37e-6321e8e426f1",
+  "preferredProducts": [
+    3306,
+    1573,
+    4554,
+    2783
+  ],
+  "productReviews": [
+    {
+      "productId": 4689,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-12-27T05:32:28.9021286+02:00"
+    },
+    {
+      "productId": 4906,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-02-03T18:42:40.4000182+02:00"
+    },
+    {
+      "productId": 142,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-03-02T00:10:40.4463323+02:00"
+    }
+  ]
+}

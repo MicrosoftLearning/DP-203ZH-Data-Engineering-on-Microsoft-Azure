@@ -1,0 +1,37 @@
+{
+  "userId": 9090,
+  "cartId": "a913f52d-bfea-4277-8ea4-3db6ab566e41",
+  "preferredProducts": [
+    3537,
+    4016,
+    2560,
+    1621
+  ],
+  "productReviews": [
+    {
+      "productId": 3885,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-08-28T12:05:14.7038227+03:00"
+    },
+    {
+      "productId": 462,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-01-14T09:37:38.7984148+02:00"
+    },
+    {
+      "productId": 2138,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-10-19T13:27:22.1839726+03:00"
+    },
+    {
+      "productId": 4064,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-12-13T18:15:45.0409671+02:00"
+    },
+    {
+      "productId": 1323,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-02-14T21:43:05.082412+02:00"
+    }
+  ]
+}

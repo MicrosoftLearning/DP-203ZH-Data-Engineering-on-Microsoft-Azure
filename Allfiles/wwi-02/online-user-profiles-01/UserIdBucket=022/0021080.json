@@ -1,0 +1,30 @@
+{
+  "userId": 21080,
+  "cartId": "cd945132-13da-444c-9a05-8994b5adbd2f",
+  "preferredProducts": [
+    3270,
+    77,
+    4811,
+    3251,
+    4485,
+    1569,
+    4595
+  ],
+  "productReviews": [
+    {
+      "productId": 253,
+      "reviewText": "this AI is top-notch.",
+      "reviewDate": "2019-12-05T14:52:50.2329701+02:00"
+    },
+    {
+      "productId": 1577,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-01-22T13:09:46.6747626+02:00"
+    },
+    {
+      "productId": 3404,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-06-04T08:16:41.49905+03:00"
+    }
+  ]
+}

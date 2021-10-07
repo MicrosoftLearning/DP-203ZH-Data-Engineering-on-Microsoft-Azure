@@ -1,0 +1,27 @@
+{
+  "userId": 2103,
+  "cartId": "e8b79cc2-af7b-49e7-8d1a-0b66d041c35d",
+  "preferredProducts": [
+    1455,
+    4257,
+    1445,
+    4347,
+    2235,
+    415,
+    2540,
+    866,
+    2447
+  ],
+  "productReviews": [
+    {
+      "productId": 2667,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-03-24T05:39:04.8237474+02:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-07-04T06:55:32.1586085+03:00"
+    }
+  ]
+}

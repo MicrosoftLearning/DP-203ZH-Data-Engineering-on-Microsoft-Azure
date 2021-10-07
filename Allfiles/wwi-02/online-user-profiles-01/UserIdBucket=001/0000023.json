@@ -1,0 +1,28 @@
+{
+  "userId": 23,
+  "cartId": "16d8ba79-4fdb-4ae6-b5e7-1940df40aa6d",
+  "preferredProducts": [
+    2717,
+    3820,
+    3408,
+    387,
+    456
+  ],
+  "productReviews": [
+    {
+      "productId": 3325,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-01-17T08:49:41.8715502+02:00"
+    },
+    {
+      "productId": 2659,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2017-11-03T21:31:16.305556+02:00"
+    },
+    {
+      "productId": 1211,
+      "reviewText": "this Licensed is mellow.",
+      "reviewDate": "2019-03-30T10:37:10.5174321+02:00"
+    }
+  ]
+}

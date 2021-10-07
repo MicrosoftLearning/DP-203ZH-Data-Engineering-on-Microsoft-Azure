@@ -1,0 +1,36 @@
+{
+  "userId": 1248,
+  "cartId": "1b56fa8e-d46d-4556-b475-2f9084be8607",
+  "preferredProducts": [
+    2525,
+    3922,
+    3194
+  ],
+  "productReviews": [
+    {
+      "productId": 2573,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-11-29T09:23:57.2398623+02:00"
+    },
+    {
+      "productId": 1534,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-01-21T12:51:00.3059103+02:00"
+    },
+    {
+      "productId": 844,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-09-08T16:01:24.129452+03:00"
+    },
+    {
+      "productId": 3734,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-07-04T01:21:04.8691954+03:00"
+    },
+    {
+      "productId": 1790,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-05-21T11:10:02.6018614+03:00"
+    }
+  ]
+}

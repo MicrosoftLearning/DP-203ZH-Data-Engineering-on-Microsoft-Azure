@@ -1,0 +1,29 @@
+{
+  "userId": 70394,
+  "cartId": "88fa26c1-ca64-40ea-94ed-be9026ff168f",
+  "preferredProducts": [
+    501,
+    1357,
+    1735,
+    2011,
+    4492,
+    679
+  ],
+  "productReviews": [
+    {
+      "productId": 1610,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-06-14T08:29:19.431323+03:00"
+    },
+    {
+      "productId": 496,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-01-15T23:30:35.0000506+02:00"
+    },
+    {
+      "productId": 775,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-05-13T06:00:44.6829478+03:00"
+    }
+  ]
+}

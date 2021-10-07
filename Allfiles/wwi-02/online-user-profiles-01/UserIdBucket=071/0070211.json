@@ -1,0 +1,36 @@
+{
+  "userId": 70211,
+  "cartId": "ab55a33f-9658-47cc-9d98-b6c40ffe8ac3",
+  "preferredProducts": [
+    243,
+    3914,
+    4600
+  ],
+  "productReviews": [
+    {
+      "productId": 2170,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-06-20T19:04:30.248929+03:00"
+    },
+    {
+      "productId": 3123,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-01-18T19:44:13.7788036+02:00"
+    },
+    {
+      "productId": 4608,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-06-03T01:40:09.2941677+03:00"
+    },
+    {
+      "productId": 1475,
+      "reviewText": "this Islands is papery.",
+      "reviewDate": "2019-07-22T11:01:58.5067192+03:00"
+    },
+    {
+      "productId": 3504,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-07-15T04:29:03.0013945+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 37522,
+  "cartId": "df0e4605-8fee-45c0-8933-2e0db31ec3af",
+  "preferredProducts": [
+    3820,
+    2024,
+    50,
+    4617,
+    27,
+    2747,
+    2040
+  ],
+  "productReviews": [
+    {
+      "productId": 4538,
+      "reviewText": "this application is flirty.",
+      "reviewDate": "2018-07-18T23:44:53.6793526+03:00"
+    },
+    {
+      "productId": 1312,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-05-24T18:18:34.0891945+03:00"
+    },
+    {
+      "productId": 4406,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-01-03T13:19:42.397481+02:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-09-22T03:43:26.0069002+03:00"
+    }
+  ]
+}

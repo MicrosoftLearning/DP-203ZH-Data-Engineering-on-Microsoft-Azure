@@ -1,0 +1,35 @@
+{
+  "userId": 79011,
+  "cartId": "44f12423-34ab-4f6d-b22b-e08a172eff50",
+  "preferredProducts": [
+    3897,
+    4724,
+    329,
+    3012,
+    4567,
+    3639,
+    1469
+  ],
+  "productReviews": [
+    {
+      "productId": 4932,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-12-11T13:20:32.2865708+02:00"
+    },
+    {
+      "productId": 312,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-07-15T11:53:44.5103591+03:00"
+    },
+    {
+      "productId": 1936,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-12-21T01:25:25.3089131+02:00"
+    },
+    {
+      "productId": 4780,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-09-27T03:21:25.1959321+03:00"
+    }
+  ]
+}

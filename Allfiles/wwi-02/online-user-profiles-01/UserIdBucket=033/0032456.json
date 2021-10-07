@@ -1,0 +1,30 @@
+{
+  "userId": 32456,
+  "cartId": "f125a5e4-7577-4a51-87da-1bb4ae90d02c",
+  "preferredProducts": [
+    643,
+    2293,
+    2991,
+    3156,
+    1964,
+    2225,
+    200
+  ],
+  "productReviews": [
+    {
+      "productId": 4223,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-10-25T08:17:01.5871701+03:00"
+    },
+    {
+      "productId": 2278,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-03-05T20:41:27.4820068+02:00"
+    },
+    {
+      "productId": 929,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-05-25T05:05:54.9782415+03:00"
+    }
+  ]
+}

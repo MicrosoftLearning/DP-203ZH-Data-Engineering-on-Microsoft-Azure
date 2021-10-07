@@ -1,0 +1,28 @@
+{
+  "userId": 56124,
+  "cartId": "c961514e-3e79-49e4-8f9a-b238a053fb9e",
+  "preferredProducts": [
+    1224,
+    4793,
+    2849,
+    4555,
+    2137
+  ],
+  "productReviews": [
+    {
+      "productId": 3,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-09-05T18:05:39.1816364+03:00"
+    },
+    {
+      "productId": 3559,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-09-30T04:13:21.0061426+03:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-02-20T13:21:39.2142415+02:00"
+    }
+  ]
+}

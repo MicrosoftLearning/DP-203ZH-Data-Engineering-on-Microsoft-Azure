@@ -1,0 +1,36 @@
+{
+  "userId": 14222,
+  "cartId": "6ccfa1b8-8532-46d7-9362-233d715dbff5",
+  "preferredProducts": [
+    3317,
+    1113,
+    3236,
+    2349,
+    4637,
+    2875,
+    4104,
+    4222
+  ],
+  "productReviews": [
+    {
+      "productId": 459,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-11-01T03:21:06.5204403+02:00"
+    },
+    {
+      "productId": 1728,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-01-03T13:46:59.2045259+02:00"
+    },
+    {
+      "productId": 4742,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-07-19T02:14:05.2682338+03:00"
+    },
+    {
+      "productId": 4916,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-01-10T23:00:25.0149854+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 31862,
+  "cartId": "ce65aeb3-b413-4da1-99cb-c197068a7415",
+  "preferredProducts": [
+    3458,
+    837,
+    2850,
+    3613,
+    1824,
+    1368,
+    4727,
+    1099,
+    1699
+  ],
+  "productReviews": [
+    {
+      "productId": 3874,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-12-06T04:16:28.9865113+02:00"
+    },
+    {
+      "productId": 3235,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-10-18T19:09:28.9857672+03:00"
+    },
+    {
+      "productId": 2996,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-12-13T07:08:37.0306513+02:00"
+    }
+  ]
+}

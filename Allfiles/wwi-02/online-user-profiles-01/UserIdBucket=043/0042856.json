@@ -1,0 +1,35 @@
+{
+  "userId": 42856,
+  "cartId": "dba1e398-5a6f-4652-a625-d44253bfc97d",
+  "preferredProducts": [
+    1006,
+    4354,
+    3373,
+    3476,
+    3092,
+    2201,
+    621
+  ],
+  "productReviews": [
+    {
+      "productId": 3917,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-05-16T09:31:32.060948+03:00"
+    },
+    {
+      "productId": 2525,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-09-01T05:03:31.1308062+03:00"
+    },
+    {
+      "productId": 1575,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-06-05T16:55:22.8587793+03:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "this iterate is slurpee.",
+      "reviewDate": "2016-09-02T22:20:16.0970972+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 4399,
+  "cartId": "63ce2432-4dfd-4bd5-ab7c-4b9c475da47e",
+  "preferredProducts": [
+    2962,
+    145,
+    4462,
+    3285,
+    4635,
+    3098,
+    3318
+  ],
+  "productReviews": [
+    {
+      "productId": 4564,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-12-03T23:12:43.3365596+02:00"
+    },
+    {
+      "productId": 4533,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-10-20T09:56:45.9340691+03:00"
+    },
+    {
+      "productId": 4125,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-09-19T23:01:44.8753681+03:00"
+    }
+  ]
+}

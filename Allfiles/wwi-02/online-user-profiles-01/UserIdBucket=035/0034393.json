@@ -1,0 +1,38 @@
+{
+  "userId": 34393,
+  "cartId": "176dd4d9-b888-4868-9d98-7b693ff87f6c",
+  "preferredProducts": [
+    359,
+    2645,
+    1185,
+    4025,
+    2086,
+    3137,
+    3489,
+    809,
+    1270,
+    1701
+  ],
+  "productReviews": [
+    {
+      "productId": 2507,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-06-25T10:37:45.6070262+03:00"
+    },
+    {
+      "productId": 4150,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-07-19T17:42:37.2811723+03:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2020-03-25T08:27:23.4292267+02:00"
+    },
+    {
+      "productId": 4558,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-09-24T01:16:20.0593923+03:00"
+    }
+  ]
+}

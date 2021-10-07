@@ -1,0 +1,33 @@
+{
+  "userId": 2766,
+  "cartId": "6f2e98f5-d65a-4d52-b4ff-1a7f6aa987a7",
+  "preferredProducts": [
+    3359,
+    4161,
+    5,
+    1232,
+    1710
+  ],
+  "productReviews": [
+    {
+      "productId": 4085,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-06-11T02:06:07.6042727+03:00"
+    },
+    {
+      "productId": 1679,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-04-05T20:11:38.2327299+03:00"
+    },
+    {
+      "productId": 3450,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-01-05T13:32:01.2469421+02:00"
+    },
+    {
+      "productId": 1478,
+      "reviewText": "this Gibraltar is top-notch.",
+      "reviewDate": "2016-09-09T09:35:26.0176413+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 92344,
+  "cartId": "a2045161-8a8f-44f2-8202-3fc7fde83db0",
+  "preferredProducts": [
+    2811,
+    2876,
+    4113,
+    2084,
+    1133,
+    3088,
+    4258,
+    3006
+  ],
+  "productReviews": [
+    {
+      "productId": 2583,
+      "reviewText": "this Bedfordshire is awesome.",
+      "reviewDate": "2019-03-17T07:14:25.5407137+02:00"
+    },
+    {
+      "productId": 1610,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-06-04T22:33:34.7143573+03:00"
+    },
+    {
+      "productId": 2654,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-08-11T11:19:49.6140357+03:00"
+    },
+    {
+      "productId": 4444,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2017-10-01T16:42:35.5620333+03:00"
+    }
+  ]
+}

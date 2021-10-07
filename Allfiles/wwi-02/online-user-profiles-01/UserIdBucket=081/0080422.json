@@ -1,0 +1,25 @@
+{
+  "userId": 80422,
+  "cartId": "11be6ec0-eb70-416e-87b4-b3e724cd74e7",
+  "preferredProducts": [
+    1799,
+    2597,
+    3528,
+    244,
+    3003,
+    3949,
+    4614
+  ],
+  "productReviews": [
+    {
+      "productId": 799,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-01-06T16:16:56.5603576+02:00"
+    },
+    {
+      "productId": 1014,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-12-12T19:27:04.4783803+02:00"
+    }
+  ]
+}

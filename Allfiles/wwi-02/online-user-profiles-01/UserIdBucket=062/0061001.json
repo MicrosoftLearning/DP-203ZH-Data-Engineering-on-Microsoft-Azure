@@ -1,0 +1,20 @@
+{
+  "userId": 61001,
+  "cartId": "9b06af78-2279-4cae-b6fd-347a488913b2",
+  "preferredProducts": [
+    3479,
+    4600
+  ],
+  "productReviews": [
+    {
+      "productId": 2245,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-01-09T06:03:00.6412508+02:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "this array is ghetto.",
+      "reviewDate": "2019-06-02T06:08:18.3389144+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 87251,
+  "cartId": "891ce149-9dd8-486b-96e5-931892404a1e",
+  "preferredProducts": [
+    4797,
+    2833,
+    3244,
+    3680,
+    359,
+    3433,
+    66,
+    55
+  ],
+  "productReviews": [
+    {
+      "productId": 122,
+      "reviewText": "this e-business is nifty.",
+      "reviewDate": "2017-12-21T21:55:05.9983016+02:00"
+    },
+    {
+      "productId": 1956,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-04-17T02:21:51.3168715+03:00"
+    },
+    {
+      "productId": 3746,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-10-27T15:50:13.1875596+03:00"
+    },
+    {
+      "productId": 2414,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-05-07T04:04:25.3551028+03:00"
+    },
+    {
+      "productId": 3074,
+      "reviewText": "this Palladium is vertical.",
+      "reviewDate": "2018-08-05T00:30:35.8143209+03:00"
+    }
+  ]
+}

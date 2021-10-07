@@ -1,0 +1,27 @@
+{
+  "userId": 83718,
+  "cartId": "98921524-7e45-41de-bb36-6b3d5db53456",
+  "preferredProducts": [
+    1241,
+    405,
+    4711,
+    922
+  ],
+  "productReviews": [
+    {
+      "productId": 1947,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-01-21T09:48:26.7652148+02:00"
+    },
+    {
+      "productId": 1690,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-11-22T21:33:50.8511912+02:00"
+    },
+    {
+      "productId": 345,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-03-31T12:54:58.7473413+03:00"
+    }
+  ]
+}

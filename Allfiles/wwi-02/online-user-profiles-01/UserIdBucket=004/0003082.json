@@ -1,0 +1,33 @@
+{
+  "userId": 3082,
+  "cartId": "09934205-5798-437c-829b-2afed8312f7b",
+  "preferredProducts": [
+    3028,
+    1249,
+    4704,
+    4066,
+    2100,
+    1399,
+    467,
+    4540,
+    695,
+    2077
+  ],
+  "productReviews": [
+    {
+      "productId": 3819,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-07-26T08:07:16.5282483+03:00"
+    },
+    {
+      "productId": 887,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-02-12T06:23:12.5512754+02:00"
+    },
+    {
+      "productId": 2553,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-07-04T17:51:01.5936363+03:00"
+    }
+  ]
+}

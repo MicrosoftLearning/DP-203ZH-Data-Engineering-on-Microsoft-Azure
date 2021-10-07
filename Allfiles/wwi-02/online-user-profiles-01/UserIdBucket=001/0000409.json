@@ -1,0 +1,32 @@
+{
+  "userId": 409,
+  "cartId": "8b28acce-d078-4968-8ff2-6716c92420e0",
+  "preferredProducts": [
+    1658,
+    39,
+    4728,
+    4112,
+    225,
+    3201,
+    1090,
+    4294,
+    533
+  ],
+  "productReviews": [
+    {
+      "productId": 332,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-03-02T23:39:16.75756+02:00"
+    },
+    {
+      "productId": 848,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-07-24T03:53:29.7955854+03:00"
+    },
+    {
+      "productId": 4984,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-01-17T22:45:10.6673945+02:00"
+    }
+  ]
+}

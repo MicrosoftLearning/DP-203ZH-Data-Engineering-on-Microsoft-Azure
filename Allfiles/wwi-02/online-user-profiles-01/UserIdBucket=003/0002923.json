@@ -1,0 +1,34 @@
+{
+  "userId": 2923,
+  "cartId": "7df2dcd0-1f2c-4fa3-a4da-28accf5ed364",
+  "preferredProducts": [
+    2167,
+    1501,
+    4235,
+    2988,
+    4266,
+    2925
+  ],
+  "productReviews": [
+    {
+      "productId": 69,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-10-06T01:32:04.962447+03:00"
+    },
+    {
+      "productId": 2552,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-08-27T16:26:10.810148+03:00"
+    },
+    {
+      "productId": 170,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-08-21T08:16:00.3035998+03:00"
+    },
+    {
+      "productId": 4205,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-02-01T15:35:27.9189149+02:00"
+    }
+  ]
+}

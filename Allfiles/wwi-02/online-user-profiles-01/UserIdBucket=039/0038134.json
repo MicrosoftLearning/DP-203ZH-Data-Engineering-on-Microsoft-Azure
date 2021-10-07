@@ -1,0 +1,32 @@
+{
+  "userId": 38134,
+  "cartId": "4f02b9b1-58d2-4a5c-9278-4724a03b2bff",
+  "preferredProducts": [
+    3482,
+    4642,
+    2115,
+    2075,
+    583,
+    3940,
+    3291,
+    1573,
+    2078
+  ],
+  "productReviews": [
+    {
+      "productId": 1543,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-02-14T04:46:09.5877706+02:00"
+    },
+    {
+      "productId": 1352,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-10-19T09:12:31.0358505+03:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-07-25T11:32:29.6583798+03:00"
+    }
+  ]
+}

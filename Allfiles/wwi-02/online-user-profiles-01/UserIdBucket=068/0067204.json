@@ -1,0 +1,31 @@
+{
+  "userId": 67204,
+  "cartId": "7548c51c-01b2-4059-adcc-b909513a5c42",
+  "preferredProducts": [
+    3912,
+    3733,
+    2788,
+    4509,
+    4282,
+    347,
+    2032,
+    2618
+  ],
+  "productReviews": [
+    {
+      "productId": 1964,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-12-15T15:56:38.1775901+02:00"
+    },
+    {
+      "productId": 4611,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-11-09T10:07:13.8621407+02:00"
+    },
+    {
+      "productId": 2603,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-10-11T03:08:18.567773+03:00"
+    }
+  ]
+}

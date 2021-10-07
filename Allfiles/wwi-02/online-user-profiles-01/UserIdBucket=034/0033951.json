@@ -1,0 +1,27 @@
+{
+  "userId": 33951,
+  "cartId": "e8295e21-07ec-4e73-948d-df6b9ab7c4be",
+  "preferredProducts": [
+    938,
+    2529,
+    630,
+    3646
+  ],
+  "productReviews": [
+    {
+      "productId": 1284,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-04-16T21:14:20.5731531+03:00"
+    },
+    {
+      "productId": 3523,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-06-22T23:19:11.5506782+03:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "this Fresh is snowy.",
+      "reviewDate": "2019-11-30T08:26:23.8345495+02:00"
+    }
+  ]
+}

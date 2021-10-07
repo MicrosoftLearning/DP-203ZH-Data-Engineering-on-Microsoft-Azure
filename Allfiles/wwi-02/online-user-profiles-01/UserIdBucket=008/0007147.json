@@ -1,0 +1,30 @@
+{
+  "userId": 7147,
+  "cartId": "7cc0d9bd-7a98-4ad2-b784-8eb3bf60f8bd",
+  "preferredProducts": [
+    3061,
+    2097,
+    3318,
+    3739,
+    3968,
+    2194,
+    1966
+  ],
+  "productReviews": [
+    {
+      "productId": 3900,
+      "reviewText": "this Station is nifty.",
+      "reviewDate": "2016-07-30T20:30:50.2478064+03:00"
+    },
+    {
+      "productId": 4146,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-07-13T07:30:30.9402099+03:00"
+    },
+    {
+      "productId": 2283,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-05-26T23:41:00.8120877+03:00"
+    }
+  ]
+}

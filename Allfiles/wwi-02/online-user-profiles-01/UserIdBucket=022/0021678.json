@@ -1,0 +1,32 @@
+{
+  "userId": 21678,
+  "cartId": "5492a9c2-766b-44b0-aee1-a16a13c809dd",
+  "preferredProducts": [
+    4146,
+    3426,
+    2137,
+    508,
+    1489,
+    2301,
+    890,
+    3233,
+    195
+  ],
+  "productReviews": [
+    {
+      "productId": 2857,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-09-01T22:26:39.2773703+03:00"
+    },
+    {
+      "productId": 2750,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-12-23T10:24:25.5633412+02:00"
+    },
+    {
+      "productId": 7,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-08-20T08:03:49.5488309+03:00"
+    }
+  ]
+}

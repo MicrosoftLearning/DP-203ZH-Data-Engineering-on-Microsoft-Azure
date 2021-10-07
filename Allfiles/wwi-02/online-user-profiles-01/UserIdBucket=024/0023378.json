@@ -1,0 +1,29 @@
+{
+  "userId": 23378,
+  "cartId": "9cb56894-7717-4f66-bc7a-d2b44306c4ae",
+  "preferredProducts": [
+    362,
+    2519,
+    688,
+    1965,
+    2064,
+    1154
+  ],
+  "productReviews": [
+    {
+      "productId": 275,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-02-07T01:34:07.1312738+02:00"
+    },
+    {
+      "productId": 831,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-11-04T07:00:45.2093877+02:00"
+    },
+    {
+      "productId": 101,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-10-06T11:42:58.4338686+03:00"
+    }
+  ]
+}

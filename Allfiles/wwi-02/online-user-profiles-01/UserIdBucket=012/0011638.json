@@ -1,0 +1,36 @@
+{
+  "userId": 11638,
+  "cartId": "38657c7a-0bc3-485a-ab2d-7a181b4cae00",
+  "preferredProducts": [
+    137,
+    2541,
+    3372,
+    4196,
+    4630,
+    3683,
+    2469,
+    3316
+  ],
+  "productReviews": [
+    {
+      "productId": 2094,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-10-14T12:37:34.2700744+03:00"
+    },
+    {
+      "productId": 3402,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2020-02-20T11:30:12.6852073+02:00"
+    },
+    {
+      "productId": 4617,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-03-01T13:53:52.9509112+02:00"
+    },
+    {
+      "productId": 663,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-01-05T07:58:34.1276126+02:00"
+    }
+  ]
+}

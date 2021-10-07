@@ -1,0 +1,36 @@
+{
+  "userId": 91111,
+  "cartId": "3a3f3025-ec32-4826-abcf-eb78138f2b25",
+  "preferredProducts": [
+    1747,
+    4289,
+    739
+  ],
+  "productReviews": [
+    {
+      "productId": 558,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-08-04T17:34:35.2941066+03:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-01-24T14:46:59.2719779+02:00"
+    },
+    {
+      "productId": 3144,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-03-21T10:25:46.196293+02:00"
+    },
+    {
+      "productId": 3924,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-12-12T10:32:52.4421443+02:00"
+    },
+    {
+      "productId": 4122,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-07-21T14:41:11.6519708+03:00"
+    }
+  ]
+}

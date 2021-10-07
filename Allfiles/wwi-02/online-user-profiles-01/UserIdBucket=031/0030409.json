@@ -1,0 +1,33 @@
+{
+  "userId": 30409,
+  "cartId": "64e4037e-cea9-4a4d-84a6-7dca4f0aee02",
+  "preferredProducts": [
+    618,
+    3351,
+    1875,
+    4072,
+    1592,
+    4278,
+    4932,
+    1235,
+    4351,
+    3484
+  ],
+  "productReviews": [
+    {
+      "productId": 2564,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-09-18T08:02:58.9363919+03:00"
+    },
+    {
+      "productId": 1392,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-05-07T04:00:09.1084595+03:00"
+    },
+    {
+      "productId": 4362,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-02-07T05:24:30.5996633+02:00"
+    }
+  ]
+}

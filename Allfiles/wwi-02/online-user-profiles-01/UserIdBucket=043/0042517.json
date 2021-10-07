@@ -1,0 +1,27 @@
+{
+  "userId": 42517,
+  "cartId": "ac9f6154-83e0-4303-a76d-9b3fb552fb0f",
+  "preferredProducts": [
+    3177,
+    3922,
+    1003,
+    1543,
+    1996,
+    3696,
+    4566,
+    3509,
+    241
+  ],
+  "productReviews": [
+    {
+      "productId": 3058,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-08-28T12:31:46.108041+03:00"
+    },
+    {
+      "productId": 977,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-11-08T04:11:35.7684622+02:00"
+    }
+  ]
+}

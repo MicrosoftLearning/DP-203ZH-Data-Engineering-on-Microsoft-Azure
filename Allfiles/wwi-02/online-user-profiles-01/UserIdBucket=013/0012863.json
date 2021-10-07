@@ -1,0 +1,31 @@
+{
+  "userId": 12863,
+  "cartId": "ef0e230c-52b5-4980-af73-f1a39dfd5bae",
+  "preferredProducts": [
+    3870,
+    4191,
+    1035
+  ],
+  "productReviews": [
+    {
+      "productId": 3560,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-02-21T16:13:00.7611016+02:00"
+    },
+    {
+      "productId": 1824,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-07-25T02:56:51.5573561+03:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-08-30T05:20:11.0987719+03:00"
+    },
+    {
+      "productId": 1997,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-10-19T16:45:32.7925869+03:00"
+    }
+  ]
+}

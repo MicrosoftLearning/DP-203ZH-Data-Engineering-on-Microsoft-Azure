@@ -1,0 +1,42 @@
+{
+  "userId": 5581,
+  "cartId": "c345d787-40c7-44a0-9a05-7630ae3bb028",
+  "preferredProducts": [
+    3859,
+    1144,
+    1960,
+    2292,
+    4384,
+    942,
+    3420,
+    3112,
+    716
+  ],
+  "productReviews": [
+    {
+      "productId": 3563,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-03-29T10:47:23.5479456+02:00"
+    },
+    {
+      "productId": 3830,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-10-22T20:29:28.1556023+03:00"
+    },
+    {
+      "productId": 1875,
+      "reviewText": "this National is ghetto.",
+      "reviewDate": "2017-01-14T00:40:08.4130401+02:00"
+    },
+    {
+      "productId": 4965,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-02-21T18:23:28.751869+02:00"
+    },
+    {
+      "productId": 1255,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-05-09T08:06:06.9813789+03:00"
+    }
+  ]
+}

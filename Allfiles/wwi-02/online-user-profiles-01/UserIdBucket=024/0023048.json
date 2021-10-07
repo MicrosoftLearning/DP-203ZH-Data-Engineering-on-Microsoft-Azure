@@ -1,0 +1,27 @@
+{
+  "userId": 23048,
+  "cartId": "e8bcc97b-e854-49b7-b375-52dc30ec0de0",
+  "preferredProducts": [
+    1879,
+    3560,
+    1531,
+    2573
+  ],
+  "productReviews": [
+    {
+      "productId": 4950,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-05-24T11:55:22.164381+03:00"
+    },
+    {
+      "productId": 1650,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-06-30T16:32:07.2834265+03:00"
+    },
+    {
+      "productId": 556,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2017-06-16T05:14:32.9997593+03:00"
+    }
+  ]
+}

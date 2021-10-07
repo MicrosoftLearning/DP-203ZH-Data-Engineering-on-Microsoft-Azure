@@ -1,0 +1,39 @@
+{
+  "userId": 40230,
+  "cartId": "df0bb25e-e4da-4e17-bb3a-b62d2d329a2f",
+  "preferredProducts": [
+    3357,
+    2155,
+    586,
+    3607,
+    1107,
+    636
+  ],
+  "productReviews": [
+    {
+      "productId": 3744,
+      "reviewText": "This JSON works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-10-10T07:53:46.9376441+03:00"
+    },
+    {
+      "productId": 2689,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-06-21T02:37:10.4786612+03:00"
+    },
+    {
+      "productId": 463,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-11-12T01:35:17.8036884+02:00"
+    },
+    {
+      "productId": 1509,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2020-03-12T07:33:16.8921463+02:00"
+    },
+    {
+      "productId": 4140,
+      "reviewText": "This invoice, does exactly what it's suppose to do.",
+      "reviewDate": "2018-11-15T06:19:53.9622567+02:00"
+    }
+  ]
+}

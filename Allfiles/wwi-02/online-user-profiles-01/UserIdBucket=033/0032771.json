@@ -1,0 +1,29 @@
+{
+  "userId": 32771,
+  "cartId": "1f688233-9ad8-4e0e-8d8f-dfbf72284bff",
+  "preferredProducts": [
+    4525,
+    4259,
+    1036,
+    3795,
+    712,
+    1859
+  ],
+  "productReviews": [
+    {
+      "productId": 1590,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-12-26T00:07:43.6310192+02:00"
+    },
+    {
+      "productId": 1814,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-07-22T07:11:11.5139116+03:00"
+    },
+    {
+      "productId": 4161,
+      "reviewText": "this back-end is awesome.",
+      "reviewDate": "2017-08-10T17:21:14.0146146+03:00"
+    }
+  ]
+}

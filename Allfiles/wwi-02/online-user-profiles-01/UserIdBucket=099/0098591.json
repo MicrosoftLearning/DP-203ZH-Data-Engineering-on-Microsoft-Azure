@@ -1,0 +1,23 @@
+{
+  "userId": 98591,
+  "cartId": "3516e929-9061-43f0-adc5-ab7c1101c446",
+  "preferredProducts": [
+    1992,
+    3283,
+    1385,
+    1285,
+    3220
+  ],
+  "productReviews": [
+    {
+      "productId": 882,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-10-23T15:09:17.6596392+03:00"
+    },
+    {
+      "productId": 3953,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-10-07T00:01:10.7690023+03:00"
+    }
+  ]
+}

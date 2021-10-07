@@ -1,0 +1,28 @@
+{
+  "userId": 91112,
+  "cartId": "8b1b9b97-718a-43aa-9196-ad81e1426a22",
+  "preferredProducts": [
+    101,
+    4109,
+    4961,
+    660,
+    1182
+  ],
+  "productReviews": [
+    {
+      "productId": 4670,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-09-25T09:47:49.9000468+03:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-10-31T02:17:59.1235684+02:00"
+    },
+    {
+      "productId": 1841,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-07-15T15:27:43.0263881+03:00"
+    }
+  ]
+}

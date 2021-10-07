@@ -1,0 +1,31 @@
+{
+  "userId": 19677,
+  "cartId": "802f7ed1-4a17-41ab-afea-0d8cb5029945",
+  "preferredProducts": [
+    1464,
+    748,
+    2737
+  ],
+  "productReviews": [
+    {
+      "productId": 214,
+      "reviewText": "This blue works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2020-04-28T04:14:11.0439857+03:00"
+    },
+    {
+      "productId": 1570,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-03-31T12:56:37.370462+03:00"
+    },
+    {
+      "productId": 4954,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-02-07T07:51:58.7138927+02:00"
+    },
+    {
+      "productId": 2071,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-12-23T04:45:37.9730084+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 4751,
+  "cartId": "582da561-e027-49b6-b562-d50bedd461ed",
+  "preferredProducts": [
+    2925,
+    4012,
+    4152,
+    231,
+    2352,
+    2813,
+    3110,
+    1029,
+    4257
+  ],
+  "productReviews": [
+    {
+      "productId": 3006,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-06-11T14:46:33.2088705+03:00"
+    },
+    {
+      "productId": 3572,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-06-23T21:38:52.7273742+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 3376,
+  "cartId": "852f8980-d6bd-4899-9544-d3087377e85f",
+  "preferredProducts": [
+    2775,
+    4282,
+    4897,
+    241
+  ],
+  "productReviews": [
+    {
+      "productId": 3307,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-10-16T02:53:49.7593833+03:00"
+    },
+    {
+      "productId": 1458,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-06-14T15:50:24.5163402+03:00"
+    },
+    {
+      "productId": 1230,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-05-10T19:35:31.6359276+03:00"
+    },
+    {
+      "productId": 4355,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-03-30T21:59:23.0832699+03:00"
+    }
+  ]
+}

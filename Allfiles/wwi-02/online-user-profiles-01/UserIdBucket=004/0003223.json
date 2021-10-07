@@ -1,0 +1,38 @@
+{
+  "userId": 3223,
+  "cartId": "8f029cab-1020-49ed-8e19-1af6cb7abf7d",
+  "preferredProducts": [
+    802,
+    4717,
+    1018,
+    2804,
+    1594,
+    1870,
+    3251,
+    3789,
+    280,
+    1511
+  ],
+  "productReviews": [
+    {
+      "productId": 2098,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-09-29T06:08:52.9261294+03:00"
+    },
+    {
+      "productId": 1065,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2020-01-01T06:32:17.7581501+02:00"
+    },
+    {
+      "productId": 2846,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-10-31T20:31:57.6031601+02:00"
+    },
+    {
+      "productId": 40,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-08-07T11:57:15.0246108+03:00"
+    }
+  ]
+}

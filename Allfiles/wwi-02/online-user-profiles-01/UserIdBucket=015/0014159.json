@@ -1,0 +1,29 @@
+{
+  "userId": 14159,
+  "cartId": "37d4c874-38fa-45a2-af8e-986a0530f8e8",
+  "preferredProducts": [
+    4782,
+    132,
+    2631,
+    865,
+    922,
+    3859
+  ],
+  "productReviews": [
+    {
+      "productId": 4655,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-05-15T06:02:06.5627835+03:00"
+    },
+    {
+      "productId": 3735,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-06-14T22:29:00.7877246+03:00"
+    },
+    {
+      "productId": 1216,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-11-16T07:05:33.2361733+02:00"
+    }
+  ]
+}

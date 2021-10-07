@@ -1,0 +1,36 @@
+{
+  "userId": 85204,
+  "cartId": "a2add4f5-1f64-4616-a486-a8dc5bcc9643",
+  "preferredProducts": [
+    526,
+    884,
+    2146
+  ],
+  "productReviews": [
+    {
+      "productId": 3902,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-05-31T11:59:30.0113128+03:00"
+    },
+    {
+      "productId": 3390,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-05-22T18:22:55.8626557+03:00"
+    },
+    {
+      "productId": 2908,
+      "reviewText": "this methodology is snowy.",
+      "reviewDate": "2019-07-13T05:53:00.5212601+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-03-08T10:33:37.8869967+02:00"
+    },
+    {
+      "productId": 118,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-05-11T17:30:08.9944679+03:00"
+    }
+  ]
+}

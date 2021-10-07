@@ -1,0 +1,35 @@
+{
+  "userId": 82121,
+  "cartId": "cead10e0-dd5a-49f4-894d-73271332b168",
+  "preferredProducts": [
+    1209,
+    3785,
+    294,
+    4522,
+    4487,
+    3629,
+    2752
+  ],
+  "productReviews": [
+    {
+      "productId": 2034,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-07-09T12:02:42.7122331+03:00"
+    },
+    {
+      "productId": 3870,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-06-19T08:37:28.2524148+03:00"
+    },
+    {
+      "productId": 2822,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-12-11T05:48:09.8761709+02:00"
+    },
+    {
+      "productId": 2022,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-09-02T15:10:14.5575595+03:00"
+    }
+  ]
+}

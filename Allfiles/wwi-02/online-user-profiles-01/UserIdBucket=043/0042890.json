@@ -1,0 +1,27 @@
+{
+  "userId": 42890,
+  "cartId": "042d3cdc-d7e2-493e-abb6-e979ffae35d8",
+  "preferredProducts": [
+    135,
+    3152,
+    2032,
+    1170,
+    2865,
+    1844,
+    2706,
+    4673,
+    2826
+  ],
+  "productReviews": [
+    {
+      "productId": 132,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-12-25T11:47:58.3878564+02:00"
+    },
+    {
+      "productId": 1815,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-01-06T09:44:50.6207785+02:00"
+    }
+  ]
+}

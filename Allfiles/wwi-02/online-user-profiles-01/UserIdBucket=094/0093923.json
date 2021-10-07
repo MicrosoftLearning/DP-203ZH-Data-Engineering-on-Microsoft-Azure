@@ -1,0 +1,29 @@
+{
+  "userId": 93923,
+  "cartId": "0609addb-8bf1-418a-a4a2-83d83f59bcbc",
+  "preferredProducts": [
+    3712,
+    3367,
+    3997,
+    1552,
+    1803,
+    1225
+  ],
+  "productReviews": [
+    {
+      "productId": 30,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-12-29T01:22:46.437015+02:00"
+    },
+    {
+      "productId": 496,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-09-14T01:47:34.4988878+03:00"
+    },
+    {
+      "productId": 4793,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-10-09T14:50:20.5309918+03:00"
+    }
+  ]
+}

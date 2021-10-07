@@ -1,0 +1,41 @@
+{
+  "userId": 192,
+  "cartId": "5e899f0f-91e4-4267-90f0-cc1247670101",
+  "preferredProducts": [
+    2359,
+    2756,
+    1251,
+    4201,
+    1169,
+    1791,
+    4935,
+    1914
+  ],
+  "productReviews": [
+    {
+      "productId": 4311,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-05-25T13:11:30.371104+03:00"
+    },
+    {
+      "productId": 1000,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-09-03T04:40:49.6093938+03:00"
+    },
+    {
+      "productId": 3006,
+      "reviewText": "this Gorgeous Granite Pizza is awesome.",
+      "reviewDate": "2019-03-17T21:55:05.2581195+02:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-03-08T16:40:00.413023+02:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-08-18T18:52:31.3678155+03:00"
+    }
+  ]
+}

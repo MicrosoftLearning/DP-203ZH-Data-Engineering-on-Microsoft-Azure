@@ -1,0 +1,33 @@
+{
+  "userId": 27212,
+  "cartId": "dc862c06-f56c-4806-b732-d1a12c643dcf",
+  "preferredProducts": [
+    3268,
+    4602,
+    3509,
+    2534,
+    2221
+  ],
+  "productReviews": [
+    {
+      "productId": 1930,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-05-14T12:18:05.5006996+03:00"
+    },
+    {
+      "productId": 580,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-07-31T05:39:42.4260129+03:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "this Euro is whole-grain.",
+      "reviewDate": "2018-12-16T17:43:11.4282032+02:00"
+    },
+    {
+      "productId": 1231,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-10-19T15:43:49.3210863+03:00"
+    }
+  ]
+}

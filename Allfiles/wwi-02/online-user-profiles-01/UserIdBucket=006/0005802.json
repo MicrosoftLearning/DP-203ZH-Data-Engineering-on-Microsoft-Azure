@@ -1,0 +1,30 @@
+{
+  "userId": 5802,
+  "cartId": "f2c7cc92-a468-4be9-a6b7-d8c99a9e0f6a",
+  "preferredProducts": [
+    1606,
+    2704,
+    33,
+    1056,
+    1274,
+    3528,
+    4358
+  ],
+  "productReviews": [
+    {
+      "productId": 1385,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-04-20T20:33:40.1541245+03:00"
+    },
+    {
+      "productId": 3206,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-12-24T19:47:10.6719477+02:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-12-21T12:14:53.1325592+02:00"
+    }
+  ]
+}

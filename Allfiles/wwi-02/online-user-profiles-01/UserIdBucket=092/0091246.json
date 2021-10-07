@@ -1,0 +1,32 @@
+{
+  "userId": 91246,
+  "cartId": "4ede1fec-14d7-46ea-b706-b3412d12b4ca",
+  "preferredProducts": [
+    3558,
+    4678,
+    655,
+    2280,
+    2812,
+    105,
+    2341,
+    1748,
+    3645
+  ],
+  "productReviews": [
+    {
+      "productId": 796,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-08-26T20:36:41.4163804+03:00"
+    },
+    {
+      "productId": 2840,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-10-14T04:19:08.911926+03:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-11-16T02:17:46.4553108+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 91313,
+  "cartId": "32c7c3fc-bcfd-4960-90dc-7a0d25471a72",
+  "preferredProducts": [
+    2357,
+    2436,
+    3308,
+    112,
+    2377
+  ],
+  "productReviews": [
+    {
+      "productId": 772,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-10-06T11:59:31.7656943+03:00"
+    },
+    {
+      "productId": 2939,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-09-26T19:16:41.8561616+03:00"
+    },
+    {
+      "productId": 3232,
+      "reviewText": "this South Carolina is revolting.",
+      "reviewDate": "2017-07-10T16:50:16.1891098+03:00"
+    },
+    {
+      "productId": 4201,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-06-04T05:09:22.2773452+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 42395,
+  "cartId": "5eefff27-8048-4aad-9c58-0e347cfc912d",
+  "preferredProducts": [
+    3358,
+    3619,
+    4684,
+    716,
+    2484,
+    4060,
+    1222,
+    4812,
+    2340,
+    585
+  ],
+  "productReviews": [
+    {
+      "productId": 1804,
+      "reviewText": "This Jordan works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-04-29T16:14:08.1956301+03:00"
+    },
+    {
+      "productId": 2955,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-04-02T23:18:10.5295962+03:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "this invoice is light-hearted.",
+      "reviewDate": "2016-08-25T09:21:36.488858+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 3535,
+  "cartId": "8233a4a6-2f5b-483a-8351-b498590b6a65",
+  "preferredProducts": [
+    1061,
+    3793,
+    2301,
+    113,
+    2742
+  ],
+  "productReviews": [
+    {
+      "productId": 2459,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-01-17T14:45:37.8124147+02:00"
+    },
+    {
+      "productId": 422,
+      "reviewText": "this Walk is smooth.",
+      "reviewDate": "2016-09-22T16:57:56.8821467+03:00"
+    },
+    {
+      "productId": 507,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-06-19T13:59:27.2497516+03:00"
+    }
+  ]
+}

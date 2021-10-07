@@ -1,0 +1,33 @@
+{
+  "userId": 50623,
+  "cartId": "07e37745-21de-4512-8826-2d51270bae16",
+  "preferredProducts": [
+    4876,
+    1031,
+    126,
+    620,
+    4632
+  ],
+  "productReviews": [
+    {
+      "productId": 517,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-11-04T10:23:47.2315929+02:00"
+    },
+    {
+      "productId": 1734,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-10-23T10:35:31.2515113+03:00"
+    },
+    {
+      "productId": 2772,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-11-11T01:00:18.4581735+02:00"
+    },
+    {
+      "productId": 76,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2020-04-19T21:38:49.9636944+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 3421,
+  "cartId": "9974e96a-094c-44f8-8c9b-4be4a37800a1",
+  "preferredProducts": [
+    1795,
+    4470
+  ],
+  "productReviews": [
+    {
+      "productId": 2153,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-10-10T10:27:39.9181182+03:00"
+    },
+    {
+      "productId": 1135,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-11-03T18:01:04.3629764+02:00"
+    },
+    {
+      "productId": 4992,
+      "reviewText": "this Future is snowy.",
+      "reviewDate": "2016-09-25T06:11:20.6179981+03:00"
+    },
+    {
+      "productId": 480,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-05-23T20:47:32.3951955+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 45301,
+  "cartId": "bd1ddcc3-63c8-4d5e-849b-dbf8c1ccf3bf",
+  "preferredProducts": [
+    4513,
+    2220,
+    4596,
+    542,
+    4938,
+    346,
+    3027,
+    4298,
+    2939
+  ],
+  "productReviews": [
+    {
+      "productId": 89,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-06-24T23:37:18.2858579+03:00"
+    },
+    {
+      "productId": 4238,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-01-16T23:49:20.8925853+02:00"
+    }
+  ]
+}

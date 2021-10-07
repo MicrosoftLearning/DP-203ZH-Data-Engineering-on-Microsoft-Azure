@@ -1,0 +1,37 @@
+{
+  "userId": 33778,
+  "cartId": "fe91826a-3fdd-4533-9c4e-e6e6a91e6465",
+  "preferredProducts": [
+    2475,
+    708,
+    1219,
+    2755
+  ],
+  "productReviews": [
+    {
+      "productId": 3372,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-08-22T05:14:15.2447692+03:00"
+    },
+    {
+      "productId": 130,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-11-20T00:27:26.3988716+02:00"
+    },
+    {
+      "productId": 3677,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-10-08T15:59:17.9441965+03:00"
+    },
+    {
+      "productId": 4939,
+      "reviewText": "this local is brown.",
+      "reviewDate": "2019-01-11T00:32:18.5836287+02:00"
+    },
+    {
+      "productId": 1426,
+      "reviewText": "this lavender is mellow.",
+      "reviewDate": "2016-09-12T02:27:42.5588332+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 60288,
+  "cartId": "db8d3459-254b-43fd-821f-837c238ac018",
+  "preferredProducts": [
+    2641,
+    1079,
+    3895
+  ],
+  "productReviews": [
+    {
+      "productId": 1639,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-04-27T06:00:17.0683519+03:00"
+    },
+    {
+      "productId": 3540,
+      "reviewText": "this Sleek is ratty.",
+      "reviewDate": "2019-10-08T21:41:44.2101139+03:00"
+    },
+    {
+      "productId": 4428,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2020-02-28T00:23:02.0460645+02:00"
+    },
+    {
+      "productId": 1186,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-10-18T19:26:10.6072872+03:00"
+    }
+  ]
+}

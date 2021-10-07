@@ -1,0 +1,33 @@
+{
+  "userId": 53766,
+  "cartId": "48bb1474-838c-4ac8-8d18-ad19979deee4",
+  "preferredProducts": [
+    1113,
+    42,
+    719,
+    3388,
+    413
+  ],
+  "productReviews": [
+    {
+      "productId": 3225,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-07-28T14:21:22.4923712+03:00"
+    },
+    {
+      "productId": 2813,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-03-06T18:17:45.089651+02:00"
+    },
+    {
+      "productId": 4909,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-10-03T08:34:13.3456871+03:00"
+    },
+    {
+      "productId": 4784,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-03-21T02:23:15.6484629+02:00"
+    }
+  ]
+}

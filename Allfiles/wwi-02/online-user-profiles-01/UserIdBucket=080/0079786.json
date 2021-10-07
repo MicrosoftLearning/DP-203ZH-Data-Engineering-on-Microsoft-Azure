@@ -1,0 +1,32 @@
+{
+  "userId": 79786,
+  "cartId": "3d607c83-e5ae-4db5-a240-ecccafad4b13",
+  "preferredProducts": [
+    4321,
+    303,
+    1157,
+    2769,
+    3145,
+    1427,
+    4301,
+    722,
+    2870
+  ],
+  "productReviews": [
+    {
+      "productId": 3242,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2020-04-15T23:57:41.725492+03:00"
+    },
+    {
+      "productId": 1429,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-04-15T00:13:35.3497031+03:00"
+    },
+    {
+      "productId": 2427,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-03-29T17:54:37.0049552+03:00"
+    }
+  ]
+}

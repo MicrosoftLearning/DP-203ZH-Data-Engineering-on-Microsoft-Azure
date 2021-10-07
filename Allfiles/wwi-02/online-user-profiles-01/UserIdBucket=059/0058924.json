@@ -1,0 +1,28 @@
+{
+  "userId": 58924,
+  "cartId": "cba63423-2099-4e10-a2e5-f930c76d7d5e",
+  "preferredProducts": [
+    125,
+    4197,
+    1470,
+    2785,
+    295
+  ],
+  "productReviews": [
+    {
+      "productId": 1011,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-05-13T02:46:16.8118017+03:00"
+    },
+    {
+      "productId": 2636,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-10-04T03:41:15.5255639+03:00"
+    },
+    {
+      "productId": 4127,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-01-24T05:16:41.7438365+02:00"
+    }
+  ]
+}

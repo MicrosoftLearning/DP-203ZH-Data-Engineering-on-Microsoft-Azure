@@ -1,0 +1,27 @@
+{
+  "userId": 86507,
+  "cartId": "78bdbc6d-266c-465e-a808-10613c918eda",
+  "preferredProducts": [
+    4257,
+    337,
+    1003,
+    791
+  ],
+  "productReviews": [
+    {
+      "productId": 212,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-06-26T01:04:15.0685685+03:00"
+    },
+    {
+      "productId": 2603,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-12-02T17:11:46.1150719+02:00"
+    },
+    {
+      "productId": 2232,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-11-03T13:36:50.9850018+02:00"
+    }
+  ]
+}

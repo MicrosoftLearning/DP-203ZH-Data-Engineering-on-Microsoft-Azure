@@ -1,0 +1,41 @@
+{
+  "userId": 61514,
+  "cartId": "974264f8-53b3-4bc8-91b0-7cd055dfec77",
+  "preferredProducts": [
+    3298,
+    2704,
+    4698,
+    1602,
+    4203,
+    867,
+    1227,
+    2579
+  ],
+  "productReviews": [
+    {
+      "productId": 92,
+      "reviewText": "this parsing is ghetto.",
+      "reviewDate": "2019-10-30T06:44:43.4248318+02:00"
+    },
+    {
+      "productId": 4113,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-08-27T11:38:28.1424922+03:00"
+    },
+    {
+      "productId": 1365,
+      "reviewText": "This transmit works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-09-27T03:37:29.7114451+03:00"
+    },
+    {
+      "productId": 3333,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-06-11T15:32:41.601626+03:00"
+    },
+    {
+      "productId": 4156,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-02-16T22:04:36.0322192+02:00"
+    }
+  ]
+}

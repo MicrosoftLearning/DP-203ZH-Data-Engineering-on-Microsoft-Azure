@@ -1,0 +1,38 @@
+{
+  "userId": 23859,
+  "cartId": "f546d122-bea6-451c-b080-19de67d2a7f9",
+  "preferredProducts": [
+    135,
+    2735,
+    1207,
+    3666,
+    2820
+  ],
+  "productReviews": [
+    {
+      "productId": 1358,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-04-19T03:17:39.481283+03:00"
+    },
+    {
+      "productId": 1004,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-11-17T23:25:04.3850598+02:00"
+    },
+    {
+      "productId": 4084,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-12-04T20:10:42.7507046+02:00"
+    },
+    {
+      "productId": 1949,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-07-19T18:42:20.1815985+03:00"
+    },
+    {
+      "productId": 2639,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-08-06T08:05:26.1596894+03:00"
+    }
+  ]
+}

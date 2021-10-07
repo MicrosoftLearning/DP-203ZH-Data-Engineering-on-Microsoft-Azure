@@ -1,0 +1,27 @@
+{
+  "userId": 56462,
+  "cartId": "62dcf78d-20e0-4595-ae2b-082e0626efe6",
+  "preferredProducts": [
+    1874,
+    235,
+    1231,
+    3095
+  ],
+  "productReviews": [
+    {
+      "productId": 2829,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-09-22T23:46:37.0843304+03:00"
+    },
+    {
+      "productId": 4723,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-03-23T06:34:13.0001007+02:00"
+    },
+    {
+      "productId": 3852,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-07-31T14:39:17.0698177+03:00"
+    }
+  ]
+}

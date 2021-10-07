@@ -1,0 +1,32 @@
+{
+  "userId": 10787,
+  "cartId": "a07d6922-f665-4764-8e4c-7d1ff202aecd",
+  "preferredProducts": [
+    4230,
+    3582,
+    4871,
+    4407,
+    733,
+    2647,
+    2451,
+    4124,
+    3953
+  ],
+  "productReviews": [
+    {
+      "productId": 2666,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-05-28T14:26:03.7890696+03:00"
+    },
+    {
+      "productId": 1827,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-08-07T10:31:20.9214226+03:00"
+    },
+    {
+      "productId": 2407,
+      "reviewText": "this Licensed Granite Table is ratty.",
+      "reviewDate": "2020-03-14T20:38:30.8568957+02:00"
+    }
+  ]
+}

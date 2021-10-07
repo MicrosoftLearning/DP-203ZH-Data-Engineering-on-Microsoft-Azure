@@ -1,0 +1,22 @@
+{
+  "userId": 1300,
+  "cartId": "3c123741-f8aa-4760-bbd0-5eca2101f4bf",
+  "preferredProducts": [
+    2505,
+    1240,
+    4046,
+    4101
+  ],
+  "productReviews": [
+    {
+      "productId": 2936,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-09-23T02:28:49.0269956+03:00"
+    },
+    {
+      "productId": 1386,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-01-18T06:30:36.0763059+02:00"
+    }
+  ]
+}

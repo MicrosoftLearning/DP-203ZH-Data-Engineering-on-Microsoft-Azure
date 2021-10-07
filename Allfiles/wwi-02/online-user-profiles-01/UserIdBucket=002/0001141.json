@@ -1,0 +1,33 @@
+{
+  "userId": 1141,
+  "cartId": "e275f769-0e69-4633-aad5-71313d1f091e",
+  "preferredProducts": [
+    3009,
+    579,
+    4940,
+    2483,
+    4318,
+    682,
+    329,
+    1770,
+    3719,
+    3123
+  ],
+  "productReviews": [
+    {
+      "productId": 3915,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-02T03:09:29.5155705+02:00"
+    },
+    {
+      "productId": 3070,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2020-03-13T13:53:23.3603609+02:00"
+    },
+    {
+      "productId": 3401,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-10-28T08:36:46.6034875+03:00"
+    }
+  ]
+}

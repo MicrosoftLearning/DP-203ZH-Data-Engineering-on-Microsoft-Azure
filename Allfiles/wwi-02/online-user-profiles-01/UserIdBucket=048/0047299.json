@@ -1,0 +1,36 @@
+{
+  "userId": 47299,
+  "cartId": "a704b0ca-63dc-4474-86dd-8b0721d000ce",
+  "preferredProducts": [
+    513,
+    4585,
+    1928
+  ],
+  "productReviews": [
+    {
+      "productId": 1921,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-09-01T12:34:52.4822502+03:00"
+    },
+    {
+      "productId": 1045,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-09-24T13:20:22.5719792+03:00"
+    },
+    {
+      "productId": 4328,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-06-25T10:49:01.602326+03:00"
+    },
+    {
+      "productId": 2195,
+      "reviewText": "This schemas works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-09-02T22:25:23.371944+03:00"
+    },
+    {
+      "productId": 29,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-11-25T21:33:54.6310265+02:00"
+    }
+  ]
+}

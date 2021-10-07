@@ -1,0 +1,32 @@
+{
+  "userId": 82524,
+  "cartId": "a994efe0-1e68-4abc-89e1-5ecd2781469d",
+  "preferredProducts": [
+    4142,
+    2776,
+    338,
+    2511
+  ],
+  "productReviews": [
+    {
+      "productId": 2854,
+      "reviewText": "this USB is brown.",
+      "reviewDate": "2019-07-27T02:07:06.0352271+03:00"
+    },
+    {
+      "productId": 948,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Focused keeps them away.",
+      "reviewDate": "2019-11-01T16:56:05.1784956+02:00"
+    },
+    {
+      "productId": 1432,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-06-09T03:51:41.3023543+03:00"
+    },
+    {
+      "productId": 4311,
+      "reviewText": "this orange is light-hearted.",
+      "reviewDate": "2020-01-24T16:38:36.3173281+02:00"
+    }
+  ]
+}

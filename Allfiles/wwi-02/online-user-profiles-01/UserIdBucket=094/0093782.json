@@ -1,0 +1,31 @@
+{
+  "userId": 93782,
+  "cartId": "23ebe38c-3de0-41dc-b0ad-203262366567",
+  "preferredProducts": [
+    3392,
+    1720,
+    2717,
+    3695,
+    3957,
+    1836,
+    666,
+    3413
+  ],
+  "productReviews": [
+    {
+      "productId": 2112,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-08-18T11:44:16.1843309+03:00"
+    },
+    {
+      "productId": 4429,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-07-23T06:18:01.851921+03:00"
+    },
+    {
+      "productId": 2525,
+      "reviewText": "this SMS is hyper.",
+      "reviewDate": "2019-11-23T02:15:35.8760183+02:00"
+    }
+  ]
+}

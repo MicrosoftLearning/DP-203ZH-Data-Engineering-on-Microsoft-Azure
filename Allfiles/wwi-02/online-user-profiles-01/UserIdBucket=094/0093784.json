@@ -1,0 +1,38 @@
+{
+  "userId": 93784,
+  "cartId": "10682066-2bdb-4139-8935-a1f7121975bc",
+  "preferredProducts": [
+    3205,
+    1200,
+    4281,
+    2861,
+    4476
+  ],
+  "productReviews": [
+    {
+      "productId": 4643,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-12-29T03:50:11.788455+02:00"
+    },
+    {
+      "productId": 4245,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-02-02T10:22:22.7380142+02:00"
+    },
+    {
+      "productId": 370,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-06-08T21:59:31.7772208+03:00"
+    },
+    {
+      "productId": 1938,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-08-16T06:14:55.1798881+03:00"
+    },
+    {
+      "productId": 3533,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-08-23T00:35:12.5835776+03:00"
+    }
+  ]
+}

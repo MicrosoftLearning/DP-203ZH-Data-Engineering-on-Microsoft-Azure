@@ -1,0 +1,40 @@
+{
+  "userId": 4301,
+  "cartId": "a9649b83-d5c6-479f-8e2a-7501b80a3a8d",
+  "preferredProducts": [
+    2378,
+    4918,
+    1141,
+    268,
+    1775,
+    3768,
+    669
+  ],
+  "productReviews": [
+    {
+      "productId": 457,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-09-05T19:43:17.9747109+03:00"
+    },
+    {
+      "productId": 769,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-04-26T00:06:31.5974928+03:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-10-30T19:02:02.059246+02:00"
+    },
+    {
+      "productId": 2745,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-10-09T03:46:36.22542+03:00"
+    },
+    {
+      "productId": 3207,
+      "reviewText": "this hard drive is ratty.",
+      "reviewDate": "2017-10-27T01:19:19.1230397+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 64000,
+  "cartId": "a4be25f5-15cf-4a4d-ba65-2cd7086d0f5a",
+  "preferredProducts": [
+    3727,
+    1582,
+    2047
+  ],
+  "productReviews": [
+    {
+      "productId": 1195,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-08-29T05:13:00.4681755+03:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "this customer loyalty is smooth.",
+      "reviewDate": "2020-01-18T09:03:17.2445465+02:00"
+    },
+    {
+      "productId": 4516,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-08-04T17:22:45.1954738+03:00"
+    }
+  ]
+}

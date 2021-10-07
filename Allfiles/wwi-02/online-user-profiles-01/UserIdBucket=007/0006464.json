@@ -1,0 +1,26 @@
+{
+  "userId": 6464,
+  "cartId": "f0ff02e3-822f-4a96-b12a-543527cb8415",
+  "preferredProducts": [
+    1880,
+    4304,
+    1235,
+    137,
+    3303,
+    2224,
+    3136,
+    695
+  ],
+  "productReviews": [
+    {
+      "productId": 4159,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-02-17T01:44:06.4029302+02:00"
+    },
+    {
+      "productId": 2595,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-09-16T18:12:26.2839008+03:00"
+    }
+  ]
+}

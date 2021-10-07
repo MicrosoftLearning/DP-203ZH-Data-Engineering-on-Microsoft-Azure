@@ -1,0 +1,35 @@
+{
+  "userId": 3266,
+  "cartId": "62ac24c2-94fe-4e1a-a741-7a7a90b125e6",
+  "preferredProducts": [
+    831,
+    2666,
+    3879,
+    223,
+    877,
+    3539,
+    1281
+  ],
+  "productReviews": [
+    {
+      "productId": 1850,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-10-18T06:52:13.2937991+03:00"
+    },
+    {
+      "productId": 3556,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-11-21T11:09:33.7541018+02:00"
+    },
+    {
+      "productId": 4737,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-02-14T21:00:57.272461+02:00"
+    },
+    {
+      "productId": 1253,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-01-15T23:07:27.5803614+02:00"
+    }
+  ]
+}

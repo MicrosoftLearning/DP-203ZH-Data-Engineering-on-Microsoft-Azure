@@ -1,0 +1,35 @@
+{
+  "userId": 44935,
+  "cartId": "b8bc4c20-a056-43bb-badf-36d2a141ee34",
+  "preferredProducts": [
+    2840,
+    4520,
+    2897,
+    763,
+    859,
+    2651,
+    3791
+  ],
+  "productReviews": [
+    {
+      "productId": 756,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-07-19T06:10:11.2389501+03:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "this Sharable is dominant.",
+      "reviewDate": "2017-01-29T12:50:22.4145051+02:00"
+    },
+    {
+      "productId": 4509,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-05-12T18:17:18.455615+03:00"
+    },
+    {
+      "productId": 2397,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-06-22T22:18:07.4288762+03:00"
+    }
+  ]
+}

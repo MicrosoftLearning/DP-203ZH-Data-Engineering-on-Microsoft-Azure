@@ -1,0 +1,27 @@
+{
+  "userId": 15438,
+  "cartId": "23b955b8-9d32-405a-9d06-e89071a33d3f",
+  "preferredProducts": [
+    4896,
+    168,
+    4474,
+    2579
+  ],
+  "productReviews": [
+    {
+      "productId": 2568,
+      "reviewText": "this Product is vertical.",
+      "reviewDate": "2016-10-04T14:37:24.2907131+03:00"
+    },
+    {
+      "productId": 37,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-10-03T14:11:27.4163342+03:00"
+    },
+    {
+      "productId": 4418,
+      "reviewText": "this Sierra Leone is vertical.",
+      "reviewDate": "2017-10-01T11:36:50.007714+03:00"
+    }
+  ]
+}

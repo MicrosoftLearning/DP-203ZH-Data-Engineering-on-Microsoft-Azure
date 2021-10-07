@@ -1,0 +1,30 @@
+{
+  "userId": 6656,
+  "cartId": "3553460d-b725-4e16-b4d6-f545f5966ae9",
+  "preferredProducts": [
+    2424,
+    4343,
+    28,
+    808,
+    1197,
+    2378,
+    3027
+  ],
+  "productReviews": [
+    {
+      "productId": 1945,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-10-15T17:25:12.8381403+03:00"
+    },
+    {
+      "productId": 4491,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-06-02T13:54:05.4710053+03:00"
+    },
+    {
+      "productId": 4267,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-05-02T00:03:01.8568374+03:00"
+    }
+  ]
+}

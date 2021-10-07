@@ -1,0 +1,30 @@
+{
+  "userId": 47314,
+  "cartId": "3ef17cbd-a904-47ce-bd71-6bcdf3f5929d",
+  "preferredProducts": [
+    1909,
+    2081,
+    2706,
+    4964,
+    2468,
+    3320,
+    3688
+  ],
+  "productReviews": [
+    {
+      "productId": 561,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-09-12T21:45:01.497505+03:00"
+    },
+    {
+      "productId": 1646,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-02-16T07:59:04.1460222+02:00"
+    },
+    {
+      "productId": 255,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-07-13T18:33:44.6625273+03:00"
+    }
+  ]
+}

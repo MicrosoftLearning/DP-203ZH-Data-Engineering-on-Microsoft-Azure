@@ -1,0 +1,23 @@
+{
+  "userId": 99834,
+  "cartId": "8bf651d3-8e7b-465d-a6a5-a73219124f2f",
+  "preferredProducts": [
+    1624,
+    3375,
+    4492,
+    2602,
+    2350
+  ],
+  "productReviews": [
+    {
+      "productId": 352,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-06-29T01:59:52.5483345+03:00"
+    },
+    {
+      "productId": 4903,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-08-04T11:34:07.5591856+03:00"
+    }
+  ]
+}

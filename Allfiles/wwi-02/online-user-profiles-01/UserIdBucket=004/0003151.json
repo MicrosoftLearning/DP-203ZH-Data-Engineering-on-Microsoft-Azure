@@ -1,0 +1,40 @@
+{
+  "userId": 3151,
+  "cartId": "ce9bde0f-47c7-42d7-bbd6-42027a7f7293",
+  "preferredProducts": [
+    2222,
+    2999,
+    1198,
+    389,
+    2041,
+    1657,
+    1074
+  ],
+  "productReviews": [
+    {
+      "productId": 2160,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-09-08T17:22:31.4979319+03:00"
+    },
+    {
+      "productId": 822,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-12-13T17:28:05.663418+02:00"
+    },
+    {
+      "productId": 3636,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-11-04T12:48:34.8945514+02:00"
+    },
+    {
+      "productId": 2370,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-08-21T12:24:03.8126915+03:00"
+    },
+    {
+      "productId": 4762,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-01-25T02:45:06.5064256+02:00"
+    }
+  ]
+}

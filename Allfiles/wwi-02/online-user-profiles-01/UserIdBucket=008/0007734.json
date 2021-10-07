@@ -1,0 +1,43 @@
+{
+  "userId": 7734,
+  "cartId": "3b4f3555-b2d8-42f8-85e5-efe5d8635962",
+  "preferredProducts": [
+    3104,
+    1583,
+    3708,
+    1699,
+    4391,
+    1515,
+    3610,
+    3657,
+    1755,
+    4140
+  ],
+  "productReviews": [
+    {
+      "productId": 520,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-10-31T14:51:05.2665542+02:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-04-30T04:40:48.2829856+03:00"
+    },
+    {
+      "productId": 351,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-07-14T02:24:27.7538073+03:00"
+    },
+    {
+      "productId": 4387,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-09-17T15:29:26.6502675+03:00"
+    },
+    {
+      "productId": 4473,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-12-01T21:09:14.2731481+02:00"
+    }
+  ]
+}

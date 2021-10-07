@@ -1,0 +1,27 @@
+{
+  "userId": 397,
+  "cartId": "f12c8c30-1e8c-4306-aa3f-1114a1ef7248",
+  "preferredProducts": [
+    2739,
+    4855,
+    3006,
+    3639
+  ],
+  "productReviews": [
+    {
+      "productId": 1190,
+      "reviewText": "this Crest is ghetto.",
+      "reviewDate": "2018-02-03T11:31:38.9561346+02:00"
+    },
+    {
+      "productId": 940,
+      "reviewText": "This redundant works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-02-08T22:23:07.0699981+02:00"
+    },
+    {
+      "productId": 3268,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-04-26T10:27:49.2957703+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 358,
+  "cartId": "1ed2012a-ce5d-48fa-9952-f3ce9a330e2d",
+  "preferredProducts": [
+    2471,
+    2010,
+    4499,
+    3578,
+    3473,
+    2635,
+    2431,
+    3053,
+    522,
+    1322
+  ],
+  "productReviews": [
+    {
+      "productId": 2257,
+      "reviewText": "this Officer is awesome.",
+      "reviewDate": "2019-09-20T15:59:16.6399893+03:00"
+    },
+    {
+      "productId": 513,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-06-24T18:12:36.0023259+03:00"
+    },
+    {
+      "productId": 2882,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-10-04T09:54:25.5061847+03:00"
+    }
+  ]
+}

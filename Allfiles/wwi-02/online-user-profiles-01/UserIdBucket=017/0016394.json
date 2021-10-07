@@ -1,0 +1,41 @@
+{
+  "userId": 16394,
+  "cartId": "d4cae042-9efc-42a5-87d5-0b0b65a9da33",
+  "preferredProducts": [
+    892,
+    1959,
+    4926,
+    1936,
+    3497,
+    1411,
+    875,
+    3664
+  ],
+  "productReviews": [
+    {
+      "productId": 2906,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-11-05T00:02:22.3305508+02:00"
+    },
+    {
+      "productId": 2051,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-12-17T05:39:48.1462814+02:00"
+    },
+    {
+      "productId": 2403,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-11-06T06:38:26.1669548+02:00"
+    },
+    {
+      "productId": 2874,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2016-12-30T11:23:16.9272924+02:00"
+    },
+    {
+      "productId": 944,
+      "reviewText": "This is a really good open-source.",
+      "reviewDate": "2019-09-06T11:28:26.9152743+03:00"
+    }
+  ]
+}

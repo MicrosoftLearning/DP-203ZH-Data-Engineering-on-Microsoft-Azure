@@ -1,0 +1,30 @@
+{
+  "userId": 89697,
+  "cartId": "b24e87a8-e208-4666-921b-3ebc615412ae",
+  "preferredProducts": [
+    1443,
+    1767,
+    3409,
+    2264,
+    437,
+    4820,
+    1546
+  ],
+  "productReviews": [
+    {
+      "productId": 1742,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-08-22T04:07:01.3571722+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2018-03-04T10:16:46.7643973+02:00"
+    },
+    {
+      "productId": 950,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-12-01T09:36:16.0881046+02:00"
+    }
+  ]
+}

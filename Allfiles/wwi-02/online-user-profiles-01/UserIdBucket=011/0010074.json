@@ -1,0 +1,43 @@
+{
+  "userId": 10074,
+  "cartId": "7b507dde-5201-4d6a-9f95-38812677e403",
+  "preferredProducts": [
+    2446,
+    287,
+    189,
+    1370,
+    3297,
+    1901,
+    4091,
+    4473,
+    3194,
+    2653
+  ],
+  "productReviews": [
+    {
+      "productId": 1156,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-11T06:58:51.4088543+03:00"
+    },
+    {
+      "productId": 3893,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-05-04T09:57:46.3588584+03:00"
+    },
+    {
+      "productId": 332,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-10-15T01:10:19.5951969+03:00"
+    },
+    {
+      "productId": 2623,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-09-02T01:05:36.6366067+03:00"
+    },
+    {
+      "productId": 4011,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2018-06-03T16:06:47.0111864+03:00"
+    }
+  ]
+}

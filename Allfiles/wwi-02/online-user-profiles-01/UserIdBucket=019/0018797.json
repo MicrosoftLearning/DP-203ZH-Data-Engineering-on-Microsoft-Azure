@@ -1,0 +1,32 @@
+{
+  "userId": 18797,
+  "cartId": "f56be396-75fe-41ed-829b-6b04d4aec714",
+  "preferredProducts": [
+    1337,
+    4134,
+    1243,
+    1184
+  ],
+  "productReviews": [
+    {
+      "productId": 208,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-06-22T14:54:01.00309+03:00"
+    },
+    {
+      "productId": 2609,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-07-17T21:37:23.6772242+03:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-11-28T18:12:25.358333+02:00"
+    },
+    {
+      "productId": 3114,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-05-29T08:29:27.3068851+03:00"
+    }
+  ]
+}

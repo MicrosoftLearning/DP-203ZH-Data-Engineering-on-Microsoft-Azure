@@ -1,0 +1,26 @@
+{
+  "userId": 92598,
+  "cartId": "58fd1b62-2a9a-4458-9f89-b0f9943d1e34",
+  "preferredProducts": [
+    2841,
+    2149,
+    2710,
+    2784,
+    4047,
+    3619,
+    2472,
+    2672
+  ],
+  "productReviews": [
+    {
+      "productId": 456,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-04-01T10:58:44.1956877+03:00"
+    },
+    {
+      "productId": 2426,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-10-05T01:34:37.6243649+03:00"
+    }
+  ]
+}

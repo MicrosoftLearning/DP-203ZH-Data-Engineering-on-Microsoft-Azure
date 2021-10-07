@@ -1,0 +1,38 @@
+{
+  "userId": 66517,
+  "cartId": "caf01f33-6123-4feb-b4c2-2026276260cc",
+  "preferredProducts": [
+    2329,
+    4001,
+    4982,
+    888,
+    81,
+    3653,
+    3291,
+    850,
+    2847,
+    339
+  ],
+  "productReviews": [
+    {
+      "productId": 280,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-06-30T12:26:22.6406238+03:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-08-26T19:16:14.2407527+03:00"
+    },
+    {
+      "productId": 4080,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-01-10T23:56:22.7292777+02:00"
+    },
+    {
+      "productId": 4926,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-11-03T09:42:22.2300836+02:00"
+    }
+  ]
+}

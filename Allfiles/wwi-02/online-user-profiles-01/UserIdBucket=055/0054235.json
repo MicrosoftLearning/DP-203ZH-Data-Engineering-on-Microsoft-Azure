@@ -1,0 +1,37 @@
+{
+  "userId": 54235,
+  "cartId": "b31cc255-24e6-41e2-bef8-ac5a4383d0fc",
+  "preferredProducts": [
+    1225,
+    3273,
+    60,
+    2574,
+    2068,
+    1028,
+    583,
+    3582,
+    4341
+  ],
+  "productReviews": [
+    {
+      "productId": 4621,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-08-24T04:09:49.4790932+03:00"
+    },
+    {
+      "productId": 1121,
+      "reviewText": "this navigating is hyper.",
+      "reviewDate": "2018-03-14T10:55:11.5908834+02:00"
+    },
+    {
+      "productId": 938,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-02-24T01:47:02.1225142+02:00"
+    },
+    {
+      "productId": 1243,
+      "reviewText": "works okay.",
+      "reviewDate": "2020-03-21T16:10:52.7102476+02:00"
+    }
+  ]
+}

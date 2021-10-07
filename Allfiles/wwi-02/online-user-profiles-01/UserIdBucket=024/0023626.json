@@ -1,0 +1,30 @@
+{
+  "userId": 23626,
+  "cartId": "d3e90e15-08d1-403c-a547-3a4c3f3b78ac",
+  "preferredProducts": [
+    1212,
+    3973,
+    1882,
+    4250,
+    1886,
+    4678,
+    3586
+  ],
+  "productReviews": [
+    {
+      "productId": 815,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-03-26T11:05:48.7387893+03:00"
+    },
+    {
+      "productId": 472,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-08-26T01:50:13.0065528+03:00"
+    },
+    {
+      "productId": 707,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-04-02T23:42:30.1314435+03:00"
+    }
+  ]
+}

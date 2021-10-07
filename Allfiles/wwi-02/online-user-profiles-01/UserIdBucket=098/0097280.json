@@ -1,0 +1,33 @@
+{
+  "userId": 97280,
+  "cartId": "7d335038-c351-424f-9bab-67f9f5d83e56",
+  "preferredProducts": [
+    4763,
+    1412,
+    1774,
+    3317,
+    4704
+  ],
+  "productReviews": [
+    {
+      "productId": 4516,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-10-16T10:45:41.5393819+03:00"
+    },
+    {
+      "productId": 1730,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-01-30T23:13:20.4069841+02:00"
+    },
+    {
+      "productId": 3377,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-09-11T01:10:29.1161219+03:00"
+    },
+    {
+      "productId": 2038,
+      "reviewText": "this payment is vertical.",
+      "reviewDate": "2017-02-27T05:36:16.3257166+02:00"
+    }
+  ]
+}

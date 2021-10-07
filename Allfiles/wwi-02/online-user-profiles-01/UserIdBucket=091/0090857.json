@@ -1,0 +1,36 @@
+{
+  "userId": 90857,
+  "cartId": "dca40014-1ab0-4218-a323-3ad389c8cc0d",
+  "preferredProducts": [
+    1844,
+    2672,
+    1504,
+    4405,
+    4038,
+    4424,
+    483,
+    107
+  ],
+  "productReviews": [
+    {
+      "productId": 1747,
+      "reviewText": "this array is standard.",
+      "reviewDate": "2017-01-17T05:44:14.5737898+02:00"
+    },
+    {
+      "productId": 2272,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-01-11T05:49:10.7561414+02:00"
+    },
+    {
+      "productId": 2865,
+      "reviewText": "This internet solution works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2020-03-17T00:26:16.1620092+02:00"
+    },
+    {
+      "productId": 1473,
+      "reviewText": "this solid state is smooth.",
+      "reviewDate": "2018-04-25T14:26:42.7687446+03:00"
+    }
+  ]
+}

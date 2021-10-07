@@ -1,0 +1,38 @@
+{
+  "userId": 7973,
+  "cartId": "892b6bce-fcaf-4e40-a6b6-f593fbb0bdb9",
+  "preferredProducts": [
+    214,
+    1421,
+    4862,
+    4607,
+    3737,
+    447,
+    846,
+    3815,
+    3485,
+    2333
+  ],
+  "productReviews": [
+    {
+      "productId": 822,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-08-04T18:43:17.3350827+03:00"
+    },
+    {
+      "productId": 4698,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2017-11-06T17:58:34.9911232+02:00"
+    },
+    {
+      "productId": 523,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-01-27T11:33:56.8556635+02:00"
+    },
+    {
+      "productId": 981,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-05-18T13:14:06.4441149+03:00"
+    }
+  ]
+}

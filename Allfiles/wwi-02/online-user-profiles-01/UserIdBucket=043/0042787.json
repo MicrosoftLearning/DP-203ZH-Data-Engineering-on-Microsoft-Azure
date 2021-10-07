@@ -1,0 +1,28 @@
+{
+  "userId": 42787,
+  "cartId": "a5521293-7b01-4936-9bc3-60f74f405778",
+  "preferredProducts": [
+    399,
+    4793,
+    1790,
+    2126,
+    3694
+  ],
+  "productReviews": [
+    {
+      "productId": 2366,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-01-17T18:52:56.8860362+02:00"
+    },
+    {
+      "productId": 3171,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-07-04T18:55:58.5744181+03:00"
+    },
+    {
+      "productId": 790,
+      "reviewText": "this bypass is vertical.",
+      "reviewDate": "2018-02-18T05:29:47.8532599+02:00"
+    }
+  ]
+}

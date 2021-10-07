@@ -1,0 +1,30 @@
+{
+  "userId": 88382,
+  "cartId": "af88c9a9-7286-4502-9c2e-376d71878302",
+  "preferredProducts": [
+    609,
+    183
+  ],
+  "productReviews": [
+    {
+      "productId": 893,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-12-03T23:41:08.6099064+02:00"
+    },
+    {
+      "productId": 4809,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-01-08T14:38:13.9581831+02:00"
+    },
+    {
+      "productId": 1060,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-02-26T06:59:49.7482349+02:00"
+    },
+    {
+      "productId": 3420,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-11-04T18:50:46.6248308+02:00"
+    }
+  ]
+}

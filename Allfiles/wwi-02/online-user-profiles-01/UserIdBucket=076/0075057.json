@@ -1,0 +1,33 @@
+{
+  "userId": 75057,
+  "cartId": "42cf519b-73a7-49e5-8c5f-ee824cabb835",
+  "preferredProducts": [
+    342,
+    1632,
+    1625,
+    1284,
+    3020,
+    1123,
+    4245,
+    1068,
+    4625,
+    1861
+  ],
+  "productReviews": [
+    {
+      "productId": 1714,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-10-29T15:45:59.1266209+02:00"
+    },
+    {
+      "productId": 1629,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-05-23T18:12:02.5093986+03:00"
+    },
+    {
+      "productId": 4192,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-10-17T19:12:30.8070439+03:00"
+    }
+  ]
+}

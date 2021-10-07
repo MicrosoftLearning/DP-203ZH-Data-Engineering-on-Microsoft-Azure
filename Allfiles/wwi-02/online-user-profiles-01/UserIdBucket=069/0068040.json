@@ -1,0 +1,39 @@
+{
+  "userId": 68040,
+  "cartId": "e208a902-13d0-41f1-bf0a-524db9cb58a7",
+  "preferredProducts": [
+    1930,
+    3741,
+    4009,
+    562,
+    1747,
+    2121
+  ],
+  "productReviews": [
+    {
+      "productId": 511,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-06-03T07:31:42.3716222+03:00"
+    },
+    {
+      "productId": 2827,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-05-15T08:35:30.6869745+03:00"
+    },
+    {
+      "productId": 3977,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-08-12T10:08:31.3239945+03:00"
+    },
+    {
+      "productId": 206,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-08-07T15:04:01.9216458+03:00"
+    },
+    {
+      "productId": 1452,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-03-16T11:52:04.40163+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 60268,
+  "cartId": "a0f2cd87-4bf7-4b3f-98c2-9b5b7220d759",
+  "preferredProducts": [
+    3913,
+    2216,
+    193,
+    4355,
+    4368
+  ],
+  "productReviews": [
+    {
+      "productId": 841,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-04-11T21:57:20.4558754+03:00"
+    },
+    {
+      "productId": 3215,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-09-02T00:00:42.5954193+03:00"
+    },
+    {
+      "productId": 2652,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-10-06T20:04:07.5075746+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-01-02T04:58:39.0688992+02:00"
+    },
+    {
+      "productId": 886,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-04-05T08:36:09.1678714+03:00"
+    }
+  ]
+}

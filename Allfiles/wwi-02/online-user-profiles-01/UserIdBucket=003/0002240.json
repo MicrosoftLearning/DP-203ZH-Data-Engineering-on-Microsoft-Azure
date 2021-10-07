@@ -1,0 +1,30 @@
+{
+  "userId": 2240,
+  "cartId": "e5f7739a-0890-4260-8930-31a4ee6b805f",
+  "preferredProducts": [
+    2928,
+    4414
+  ],
+  "productReviews": [
+    {
+      "productId": 152,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-02-22T22:07:12.6151275+02:00"
+    },
+    {
+      "productId": 1478,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-11-25T18:45:52.9637841+02:00"
+    },
+    {
+      "productId": 1446,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-09-29T13:08:23.8989581+03:00"
+    },
+    {
+      "productId": 1053,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-07-06T05:13:41.3276697+03:00"
+    }
+  ]
+}

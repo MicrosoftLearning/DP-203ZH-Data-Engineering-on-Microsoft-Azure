@@ -1,0 +1,32 @@
+{
+  "userId": 86484,
+  "cartId": "e8dcbd6d-c5f1-4b4b-8534-c4264ba6a061",
+  "preferredProducts": [
+    1999,
+    2310,
+    4997,
+    2498
+  ],
+  "productReviews": [
+    {
+      "productId": 3364,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-08-24T00:34:29.2779642+03:00"
+    },
+    {
+      "productId": 1605,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-06-06T07:47:31.1978921+03:00"
+    },
+    {
+      "productId": 1218,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-11-04T19:14:33.1711459+02:00"
+    },
+    {
+      "productId": 2767,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-06-07T08:09:40.570053+03:00"
+    }
+  ]
+}

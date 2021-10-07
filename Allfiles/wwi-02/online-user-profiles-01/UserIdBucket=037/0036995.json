@@ -1,0 +1,32 @@
+{
+  "userId": 36995,
+  "cartId": "fd74ad0f-00b5-4eb8-bd06-0e90e99df44a",
+  "preferredProducts": [
+    4518,
+    4296,
+    2100,
+    2961
+  ],
+  "productReviews": [
+    {
+      "productId": 1400,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-06-16T12:45:55.4194381+03:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-07-27T17:00:55.7498966+03:00"
+    },
+    {
+      "productId": 1742,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-14T00:37:53.563664+03:00"
+    },
+    {
+      "productId": 3346,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-12-01T13:47:17.5520886+02:00"
+    }
+  ]
+}

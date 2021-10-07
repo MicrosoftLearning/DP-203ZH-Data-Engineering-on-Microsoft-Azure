@@ -1,0 +1,34 @@
+{
+  "userId": 12330,
+  "cartId": "869af4a3-720d-4666-a05d-e4141db94001",
+  "preferredProducts": [
+    1742,
+    1908,
+    4487,
+    4774,
+    4499,
+    2072
+  ],
+  "productReviews": [
+    {
+      "productId": 89,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-09-03T10:50:25.4085123+03:00"
+    },
+    {
+      "productId": 903,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-01-07T21:58:12.1036693+02:00"
+    },
+    {
+      "productId": 1768,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2020-02-01T11:09:32.177281+02:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-12-21T08:27:26.3436525+02:00"
+    }
+  ]
+}

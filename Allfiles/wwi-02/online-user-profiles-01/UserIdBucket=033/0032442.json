@@ -1,0 +1,27 @@
+{
+  "userId": 32442,
+  "cartId": "d9b2b075-b794-4d93-987b-ea2e046737ad",
+  "preferredProducts": [
+    3543,
+    4072,
+    3743,
+    753,
+    340,
+    3585,
+    2504,
+    4389,
+    2521
+  ],
+  "productReviews": [
+    {
+      "productId": 1110,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-02-15T19:20:22.5925993+02:00"
+    },
+    {
+      "productId": 732,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-07-12T20:05:38.2999865+03:00"
+    }
+  ]
+}

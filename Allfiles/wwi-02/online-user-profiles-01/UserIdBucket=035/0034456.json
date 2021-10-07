@@ -1,0 +1,27 @@
+{
+  "userId": 34456,
+  "cartId": "925fbbe2-cb73-43d4-a236-a2005f48f822",
+  "preferredProducts": [
+    3914,
+    2027,
+    2033,
+    3096,
+    2518,
+    572,
+    2732,
+    3950,
+    1019
+  ],
+  "productReviews": [
+    {
+      "productId": 1259,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-12-24T11:32:51.2672936+02:00"
+    },
+    {
+      "productId": 3760,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2020-04-28T13:28:26.1000181+03:00"
+    }
+  ]
+}

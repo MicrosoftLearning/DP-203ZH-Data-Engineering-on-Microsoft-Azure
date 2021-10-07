@@ -1,0 +1,29 @@
+{
+  "userId": 42064,
+  "cartId": "634ac8a7-8795-4640-9a7b-a0e9c9fab96e",
+  "preferredProducts": [
+    4757,
+    4963,
+    1609,
+    1323,
+    691,
+    1904
+  ],
+  "productReviews": [
+    {
+      "productId": 6,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-04-11T17:05:32.5622568+03:00"
+    },
+    {
+      "productId": 1484,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2020-04-05T22:24:49.0811808+03:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-02-23T03:48:36.2230936+02:00"
+    }
+  ]
+}

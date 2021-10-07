@@ -1,0 +1,32 @@
+{
+  "userId": 22846,
+  "cartId": "347d0747-fff7-4355-a9e7-1b56662386a7",
+  "preferredProducts": [
+    2988,
+    3085,
+    4768,
+    1794
+  ],
+  "productReviews": [
+    {
+      "productId": 1321,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-11-04T14:20:37.3975883+02:00"
+    },
+    {
+      "productId": 1394,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-05-04T11:11:35.2749323+03:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-08-08T19:13:43.6636857+03:00"
+    },
+    {
+      "productId": 4695,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-05-31T20:46:05.2606722+03:00"
+    }
+  ]
+}

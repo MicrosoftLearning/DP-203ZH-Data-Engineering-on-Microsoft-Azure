@@ -1,0 +1,31 @@
+{
+  "userId": 88483,
+  "cartId": "8cc85789-95cc-45c1-99f2-07d635fddecd",
+  "preferredProducts": [
+    3417,
+    4616,
+    1426,
+    3584,
+    2222,
+    3026,
+    1031,
+    2601
+  ],
+  "productReviews": [
+    {
+      "productId": 901,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-11-03T05:32:29.7341172+02:00"
+    },
+    {
+      "productId": 2532,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-01-15T02:21:56.8038211+02:00"
+    },
+    {
+      "productId": 2338,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-01-10T14:10:22.627123+02:00"
+    }
+  ]
+}

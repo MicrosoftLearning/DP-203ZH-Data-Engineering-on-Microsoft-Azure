@@ -1,0 +1,36 @@
+{
+  "userId": 20552,
+  "cartId": "923e28f8-3a96-423b-ab28-fb9b155d82b0",
+  "preferredProducts": [
+    3488,
+    1122,
+    1685,
+    1130,
+    2944,
+    117,
+    327,
+    4135
+  ],
+  "productReviews": [
+    {
+      "productId": 229,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-12-07T03:49:20.642011+02:00"
+    },
+    {
+      "productId": 3837,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-06-07T00:49:16.7896149+03:00"
+    },
+    {
+      "productId": 1789,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-07-07T11:07:23.8766248+03:00"
+    },
+    {
+      "productId": 1346,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-10-10T14:00:24.5190201+03:00"
+    }
+  ]
+}

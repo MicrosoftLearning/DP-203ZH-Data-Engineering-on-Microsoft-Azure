@@ -1,0 +1,27 @@
+{
+  "userId": 8333,
+  "cartId": "1b3dc753-d676-4207-8ea9-73b079c778e5",
+  "preferredProducts": [
+    988,
+    2436,
+    4044,
+    2800,
+    3839,
+    4542,
+    1184,
+    2632,
+    673
+  ],
+  "productReviews": [
+    {
+      "productId": 1171,
+      "reviewText": "this Berkshire is vertical.",
+      "reviewDate": "2020-02-08T04:14:20.8494828+02:00"
+    },
+    {
+      "productId": 3390,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-06-06T19:17:58.6371499+03:00"
+    }
+  ]
+}

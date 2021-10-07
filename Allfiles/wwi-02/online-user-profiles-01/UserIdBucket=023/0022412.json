@@ -1,0 +1,31 @@
+{
+  "userId": 22412,
+  "cartId": "7beac2cd-260d-4cd0-9133-0684fd5c48af",
+  "preferredProducts": [
+    4295,
+    3028,
+    3416,
+    3897,
+    2638,
+    2136,
+    3181,
+    4690
+  ],
+  "productReviews": [
+    {
+      "productId": 4210,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-09-30T00:56:18.1891419+03:00"
+    },
+    {
+      "productId": 850,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-12-12T04:34:23.2393285+02:00"
+    },
+    {
+      "productId": 488,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-12-02T13:29:13.0725724+02:00"
+    }
+  ]
+}

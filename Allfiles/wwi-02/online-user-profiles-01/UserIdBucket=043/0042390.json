@@ -1,0 +1,36 @@
+{
+  "userId": 42390,
+  "cartId": "dac8bc32-18ed-4bfc-bab2-29f23849c376",
+  "preferredProducts": [
+    1668,
+    251,
+    4701,
+    104,
+    4550,
+    1651,
+    619,
+    1152
+  ],
+  "productReviews": [
+    {
+      "productId": 2578,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-01-11T00:59:13.5819078+02:00"
+    },
+    {
+      "productId": 1556,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-01-27T21:21:48.1345451+02:00"
+    },
+    {
+      "productId": 2623,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-11-28T01:59:30.6146174+02:00"
+    },
+    {
+      "productId": 3749,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-11-25T23:51:29.8424429+02:00"
+    }
+  ]
+}

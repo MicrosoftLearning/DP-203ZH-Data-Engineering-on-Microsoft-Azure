@@ -1,0 +1,31 @@
+{
+  "userId": 80939,
+  "cartId": "702b90bf-6310-4f1f-b4fb-1bb7d38723c5",
+  "preferredProducts": [
+    4799,
+    1462,
+    2525
+  ],
+  "productReviews": [
+    {
+      "productId": 2425,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-12-12T13:13:08.0174631+02:00"
+    },
+    {
+      "productId": 3698,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2016-11-04T11:10:01.0390132+02:00"
+    },
+    {
+      "productId": 475,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-11-23T03:01:31.0863583+02:00"
+    },
+    {
+      "productId": 974,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2020-05-03T06:51:06.1730426+03:00"
+    }
+  ]
+}

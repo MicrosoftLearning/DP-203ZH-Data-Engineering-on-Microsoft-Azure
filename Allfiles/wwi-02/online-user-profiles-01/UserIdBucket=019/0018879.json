@@ -1,0 +1,25 @@
+{
+  "userId": 18879,
+  "cartId": "1feb9a77-172d-4dd2-9940-ab7b5382f2a8",
+  "preferredProducts": [
+    3449,
+    1887,
+    2975,
+    597,
+    3749,
+    1275,
+    2059
+  ],
+  "productReviews": [
+    {
+      "productId": 375,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-03-01T18:52:02.8874964+02:00"
+    },
+    {
+      "productId": 247,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-01-15T04:51:29.8767462+02:00"
+    }
+  ]
+}

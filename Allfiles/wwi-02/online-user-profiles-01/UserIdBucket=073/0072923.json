@@ -1,0 +1,25 @@
+{
+  "userId": 72923,
+  "cartId": "82a003d1-985b-465f-bc00-305e663ccbd2",
+  "preferredProducts": [
+    642,
+    1897
+  ],
+  "productReviews": [
+    {
+      "productId": 255,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-09-04T07:09:25.1826318+03:00"
+    },
+    {
+      "productId": 1198,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-05-17T22:06:08.7612086+03:00"
+    },
+    {
+      "productId": 911,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-05-13T11:25:19.9189278+03:00"
+    }
+  ]
+}

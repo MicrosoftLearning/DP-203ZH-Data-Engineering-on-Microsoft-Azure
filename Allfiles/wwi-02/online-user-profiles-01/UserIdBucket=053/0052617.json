@@ -1,0 +1,28 @@
+{
+  "userId": 52617,
+  "cartId": "543b54c6-b524-41bd-a80e-b187c55c454e",
+  "preferredProducts": [
+    4776,
+    348,
+    1382,
+    950,
+    3182
+  ],
+  "productReviews": [
+    {
+      "productId": 4146,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-07-15T23:24:30.9194213+03:00"
+    },
+    {
+      "productId": 3521,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-05-20T04:32:10.2811981+03:00"
+    },
+    {
+      "productId": 1802,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-12-17T06:44:30.3472554+02:00"
+    }
+  ]
+}

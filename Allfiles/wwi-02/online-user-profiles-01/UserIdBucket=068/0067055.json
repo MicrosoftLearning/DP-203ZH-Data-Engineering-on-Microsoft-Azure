@@ -1,0 +1,33 @@
+{
+  "userId": 67055,
+  "cartId": "a4839688-5d76-4d1d-be15-0249d6bcad64",
+  "preferredProducts": [
+    638,
+    635,
+    2678,
+    104,
+    1724
+  ],
+  "productReviews": [
+    {
+      "productId": 1264,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-11-16T03:45:04.4282591+02:00"
+    },
+    {
+      "productId": 419,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-08-20T01:23:43.3370299+03:00"
+    },
+    {
+      "productId": 1777,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-08-25T03:28:59.5408336+03:00"
+    },
+    {
+      "productId": 4211,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-03-11T17:47:31.5473173+02:00"
+    }
+  ]
+}

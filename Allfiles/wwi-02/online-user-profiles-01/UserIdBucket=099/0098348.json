@@ -1,0 +1,32 @@
+{
+  "userId": 98348,
+  "cartId": "f4cd28ea-6dc4-4d26-94ce-e146ecfc289a",
+  "preferredProducts": [
+    1818,
+    3564,
+    4126,
+    4201,
+    4499,
+    3200,
+    3541,
+    2959,
+    2871
+  ],
+  "productReviews": [
+    {
+      "productId": 2570,
+      "reviewText": "this emulation is nifty.",
+      "reviewDate": "2019-03-02T12:49:18.6716147+02:00"
+    },
+    {
+      "productId": 1778,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-08-03T11:45:28.9948265+03:00"
+    },
+    {
+      "productId": 3013,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-03-22T02:35:07.5592401+02:00"
+    }
+  ]
+}

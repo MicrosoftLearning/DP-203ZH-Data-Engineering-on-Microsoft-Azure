@@ -1,0 +1,36 @@
+{
+  "userId": 99199,
+  "cartId": "26c68bd9-9894-41b2-8f9a-1014f94eb051",
+  "preferredProducts": [
+    1484,
+    1077,
+    2586,
+    4165,
+    1127,
+    1856,
+    3603,
+    773
+  ],
+  "productReviews": [
+    {
+      "productId": 2016,
+      "reviewText": "This open-source works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-03-30T04:52:55.2254426+03:00"
+    },
+    {
+      "productId": 223,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-05-28T00:45:34.0940373+03:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-06-29T00:45:18.0853574+03:00"
+    },
+    {
+      "productId": 1371,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-09-21T17:00:43.4905748+03:00"
+    }
+  ]
+}

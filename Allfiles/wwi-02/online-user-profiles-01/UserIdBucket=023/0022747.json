@@ -1,0 +1,37 @@
+{
+  "userId": 22747,
+  "cartId": "5e955f35-061c-41df-8b07-ba31bb96cfac",
+  "preferredProducts": [
+    1471,
+    428,
+    4006,
+    1290
+  ],
+  "productReviews": [
+    {
+      "productId": 4675,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-08-12T18:34:57.5058307+03:00"
+    },
+    {
+      "productId": 2607,
+      "reviewText": "this connect is nifty.",
+      "reviewDate": "2017-05-31T15:22:46.3586017+03:00"
+    },
+    {
+      "productId": 1890,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-03-30T11:15:36.5063059+03:00"
+    },
+    {
+      "productId": 3893,
+      "reviewText": "this Drive is awesome.",
+      "reviewDate": "2017-02-28T01:30:30.6572807+02:00"
+    },
+    {
+      "productId": 1387,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-05-16T13:03:06.4448177+03:00"
+    }
+  ]
+}

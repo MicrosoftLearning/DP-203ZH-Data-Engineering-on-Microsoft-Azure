@@ -1,0 +1,29 @@
+{
+  "userId": 12141,
+  "cartId": "3bf691a4-5107-4ebd-bef8-5263a0ec36b7",
+  "preferredProducts": [
+    1643,
+    4316,
+    185,
+    4929,
+    2194,
+    3959
+  ],
+  "productReviews": [
+    {
+      "productId": 668,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-10-12T18:52:11.8531292+03:00"
+    },
+    {
+      "productId": 4737,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-02-28T17:09:31.5515503+02:00"
+    },
+    {
+      "productId": 4126,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2018-07-04T15:37:47.2051082+03:00"
+    }
+  ]
+}

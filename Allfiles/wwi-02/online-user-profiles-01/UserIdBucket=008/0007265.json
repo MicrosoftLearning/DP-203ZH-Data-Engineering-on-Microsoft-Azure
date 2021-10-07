@@ -1,0 +1,27 @@
+{
+  "userId": 7265,
+  "cartId": "440ce36f-2bc1-4d69-8cd2-b166b6f50b9b",
+  "preferredProducts": [
+    2926,
+    4220,
+    1578,
+    2239
+  ],
+  "productReviews": [
+    {
+      "productId": 3940,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-07-13T09:32:46.4483851+03:00"
+    },
+    {
+      "productId": 1122,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-07-20T21:04:57.6242723+03:00"
+    },
+    {
+      "productId": 1778,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-10-09T22:13:56.0972636+03:00"
+    }
+  ]
+}

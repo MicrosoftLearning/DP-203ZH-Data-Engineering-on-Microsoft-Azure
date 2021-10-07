@@ -1,0 +1,29 @@
+{
+  "userId": 17357,
+  "cartId": "889fc118-8348-451f-9aee-1a085ad7b186",
+  "preferredProducts": [
+    258,
+    934,
+    4211,
+    4860,
+    1775,
+    3969
+  ],
+  "productReviews": [
+    {
+      "productId": 4411,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-05-31T16:05:16.61072+03:00"
+    },
+    {
+      "productId": 2653,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-06-30T17:41:23.5501041+03:00"
+    },
+    {
+      "productId": 4671,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-04-02T05:10:00.3229663+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 99777,
+  "cartId": "edddd4c6-92ac-4e91-ade1-bb74093a3df9",
+  "preferredProducts": [
+    39,
+    4356
+  ],
+  "productReviews": [
+    {
+      "productId": 2017,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-05-20T20:53:13.7161641+03:00"
+    },
+    {
+      "productId": 2458,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-02-03T07:59:56.0360548+02:00"
+    },
+    {
+      "productId": 4398,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-02-26T03:45:13.3366881+02:00"
+    },
+    {
+      "productId": 780,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-06-28T06:57:15.2146956+03:00"
+    }
+  ]
+}

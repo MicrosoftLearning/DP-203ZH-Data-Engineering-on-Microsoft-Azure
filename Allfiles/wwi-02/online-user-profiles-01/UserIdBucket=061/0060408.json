@@ -1,0 +1,33 @@
+{
+  "userId": 60408,
+  "cartId": "36d5ae60-870c-4cb5-8c0d-e85ffa6b291f",
+  "preferredProducts": [
+    3000,
+    342,
+    4697,
+    2220,
+    2080
+  ],
+  "productReviews": [
+    {
+      "productId": 4900,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-05-16T21:39:03.1834814+03:00"
+    },
+    {
+      "productId": 406,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-03-18T15:05:09.7814357+02:00"
+    },
+    {
+      "productId": 1132,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-02-09T05:26:54.3467616+02:00"
+    },
+    {
+      "productId": 4146,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-02-20T06:05:48.7639584+02:00"
+    }
+  ]
+}

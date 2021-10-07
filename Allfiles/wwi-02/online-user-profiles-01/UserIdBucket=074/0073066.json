@@ -1,0 +1,31 @@
+{
+  "userId": 73066,
+  "cartId": "efda2a65-9726-4d09-8940-0510afe6a86b",
+  "preferredProducts": [
+    1285,
+    4867,
+    2834,
+    2529,
+    1399,
+    694,
+    2566,
+    1969
+  ],
+  "productReviews": [
+    {
+      "productId": 3540,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-01-05T22:11:08.0857307+02:00"
+    },
+    {
+      "productId": 4973,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-05-24T04:42:00.1625668+03:00"
+    },
+    {
+      "productId": 4273,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-10-09T20:50:57.8224048+03:00"
+    }
+  ]
+}

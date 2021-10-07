@@ -1,0 +1,29 @@
+{
+  "userId": 30137,
+  "cartId": "9e0ee1bf-858b-44b4-865e-179b4c2b8be1",
+  "preferredProducts": [
+    3004,
+    747,
+    2099,
+    1205,
+    2049,
+    4615
+  ],
+  "productReviews": [
+    {
+      "productId": 141,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-09-30T21:12:25.5304276+03:00"
+    },
+    {
+      "productId": 1342,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-03-21T01:15:51.5327029+02:00"
+    },
+    {
+      "productId": 478,
+      "reviewText": "this Incredible Soft Cheese is papery.",
+      "reviewDate": "2016-11-03T01:45:52.1676395+02:00"
+    }
+  ]
+}

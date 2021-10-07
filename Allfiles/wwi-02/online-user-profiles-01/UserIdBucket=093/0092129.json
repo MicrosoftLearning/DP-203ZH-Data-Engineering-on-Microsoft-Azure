@@ -1,0 +1,27 @@
+{
+  "userId": 92129,
+  "cartId": "450be888-f064-4668-8a5b-07c9255cfb6a",
+  "preferredProducts": [
+    4142,
+    1125,
+    3094,
+    2316
+  ],
+  "productReviews": [
+    {
+      "productId": 3445,
+      "reviewText": "this Nevada is brown.",
+      "reviewDate": "2016-09-18T16:31:39.3011827+03:00"
+    },
+    {
+      "productId": 3617,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-07-15T07:10:46.4694325+03:00"
+    },
+    {
+      "productId": 4143,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-07-28T23:32:39.292788+03:00"
+    }
+  ]
+}

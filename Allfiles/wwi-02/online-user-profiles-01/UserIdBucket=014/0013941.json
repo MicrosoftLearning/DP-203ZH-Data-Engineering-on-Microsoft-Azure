@@ -1,0 +1,42 @@
+{
+  "userId": 13941,
+  "cartId": "fc207124-0c9b-4c0b-b4cd-90387ce19e5c",
+  "preferredProducts": [
+    538,
+    2607,
+    2246,
+    4841,
+    3642,
+    2961,
+    2671,
+    2652,
+    3623
+  ],
+  "productReviews": [
+    {
+      "productId": 1088,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-02-24T05:42:51.4769538+02:00"
+    },
+    {
+      "productId": 2953,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2016-06-09T13:17:48.3388948+03:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-03-25T03:01:59.7969111+02:00"
+    },
+    {
+      "productId": 1771,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-10-21T13:49:11.2588485+03:00"
+    },
+    {
+      "productId": 2148,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-05-23T19:45:59.5508692+03:00"
+    }
+  ]
+}

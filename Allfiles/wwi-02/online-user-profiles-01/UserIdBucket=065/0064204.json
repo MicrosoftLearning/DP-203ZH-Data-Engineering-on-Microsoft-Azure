@@ -1,0 +1,34 @@
+{
+  "userId": 64204,
+  "cartId": "4433fd46-e437-4d4f-8cd9-5c3070c053ef",
+  "preferredProducts": [
+    2203,
+    1471,
+    1245,
+    2781,
+    1719,
+    1579
+  ],
+  "productReviews": [
+    {
+      "productId": 1660,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-11-10T10:16:36.0558561+02:00"
+    },
+    {
+      "productId": 803,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-07-14T14:23:39.3708428+03:00"
+    },
+    {
+      "productId": 738,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-06-30T14:33:09.9279216+03:00"
+    },
+    {
+      "productId": 2650,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-04-25T15:39:27.9028897+03:00"
+    }
+  ]
+}

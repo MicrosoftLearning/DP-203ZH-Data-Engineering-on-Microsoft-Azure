@@ -1,0 +1,27 @@
+{
+  "userId": 23665,
+  "cartId": "b0ee1e90-c005-48a1-a0f9-baf47f65ba62",
+  "preferredProducts": [
+    2182,
+    4940,
+    2265,
+    683
+  ],
+  "productReviews": [
+    {
+      "productId": 3524,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-04-02T07:32:15.5767035+03:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-07-21T17:24:28.1220786+03:00"
+    },
+    {
+      "productId": 778,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-05-26T22:49:20.0777614+03:00"
+    }
+  ]
+}

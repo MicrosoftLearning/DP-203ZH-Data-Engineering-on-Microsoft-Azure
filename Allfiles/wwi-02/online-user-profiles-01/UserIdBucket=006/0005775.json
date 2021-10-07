@@ -1,0 +1,30 @@
+{
+  "userId": 5775,
+  "cartId": "ed153870-0101-47e0-85c8-09f839dcbf6b",
+  "preferredProducts": [
+    3245,
+    4040
+  ],
+  "productReviews": [
+    {
+      "productId": 110,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-10-02T00:13:58.6255826+03:00"
+    },
+    {
+      "productId": 1482,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-07-01T16:46:00.9707213+03:00"
+    },
+    {
+      "productId": 1738,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-06-27T12:56:04.5989608+03:00"
+    },
+    {
+      "productId": 1776,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-09-27T22:14:05.2987309+03:00"
+    }
+  ]
+}

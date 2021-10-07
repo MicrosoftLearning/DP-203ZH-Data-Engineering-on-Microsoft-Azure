@@ -1,0 +1,33 @@
+{
+  "userId": 2606,
+  "cartId": "74248c75-e4fa-48ab-90f3-db4f948fed5a",
+  "preferredProducts": [
+    1972,
+    1937,
+    2438,
+    3548,
+    1435,
+    4238,
+    3096,
+    1782,
+    3265,
+    4025
+  ],
+  "productReviews": [
+    {
+      "productId": 703,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-11-16T14:17:48.7574114+02:00"
+    },
+    {
+      "productId": 4991,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-06-13T20:25:42.7915799+03:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-04-02T00:43:46.9829218+03:00"
+    }
+  ]
+}

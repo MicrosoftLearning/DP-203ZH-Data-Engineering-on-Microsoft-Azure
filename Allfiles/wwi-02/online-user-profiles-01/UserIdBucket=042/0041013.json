@@ -1,0 +1,31 @@
+{
+  "userId": 41013,
+  "cartId": "bcc5353d-9b2b-4ef6-991d-b7b4af9a6ebe",
+  "preferredProducts": [
+    3949,
+    1334,
+    4532,
+    1819,
+    842,
+    4205,
+    4394,
+    3631
+  ],
+  "productReviews": [
+    {
+      "productId": 3060,
+      "reviewText": "this invoice is flirty.",
+      "reviewDate": "2019-05-17T23:15:40.9408807+03:00"
+    },
+    {
+      "productId": 4168,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-01-17T17:28:26.2379169+02:00"
+    },
+    {
+      "productId": 1005,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-04-12T05:16:56.3955339+03:00"
+    }
+  ]
+}

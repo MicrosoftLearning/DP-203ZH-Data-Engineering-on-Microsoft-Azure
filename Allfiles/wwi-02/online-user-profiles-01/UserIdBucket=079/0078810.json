@@ -1,0 +1,28 @@
+{
+  "userId": 78810,
+  "cartId": "c8d50f4e-62ce-43ae-a082-b5936d5e5a06",
+  "preferredProducts": [
+    2727,
+    4586,
+    2774,
+    1669,
+    1374
+  ],
+  "productReviews": [
+    {
+      "productId": 410,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-07-15T06:27:59.5493728+03:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-10-03T20:09:38.4013388+03:00"
+    },
+    {
+      "productId": 3377,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-03-19T14:36:11.7440891+02:00"
+    }
+  ]
+}

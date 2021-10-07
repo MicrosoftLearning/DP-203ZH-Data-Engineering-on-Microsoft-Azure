@@ -1,0 +1,29 @@
+{
+  "userId": 13003,
+  "cartId": "2defac68-6d1e-4173-9c93-299907d1ae2a",
+  "preferredProducts": [
+    4297,
+    3104,
+    2922,
+    2871,
+    594,
+    1648
+  ],
+  "productReviews": [
+    {
+      "productId": 2465,
+      "reviewText": "this 24/7 is standard.",
+      "reviewDate": "2016-09-13T21:11:58.332797+03:00"
+    },
+    {
+      "productId": 820,
+      "reviewText": "This mobile works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-09-03T10:38:39.229101+03:00"
+    },
+    {
+      "productId": 3932,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-01-22T23:09:32.9624227+02:00"
+    }
+  ]
+}

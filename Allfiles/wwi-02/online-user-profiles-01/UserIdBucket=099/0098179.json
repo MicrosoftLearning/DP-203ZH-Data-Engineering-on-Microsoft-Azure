@@ -1,0 +1,32 @@
+{
+  "userId": 98179,
+  "cartId": "d5c9d3f2-c7b3-482f-ab0d-164f5c2e15e8",
+  "preferredProducts": [
+    4850,
+    2734,
+    1520,
+    3017
+  ],
+  "productReviews": [
+    {
+      "productId": 3232,
+      "reviewText": "this Bermuda is hyper.",
+      "reviewDate": "2016-07-05T13:52:38.7094071+03:00"
+    },
+    {
+      "productId": 3919,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-04-13T22:26:14.5156966+03:00"
+    },
+    {
+      "productId": 4246,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-10-31T03:49:31.9443518+02:00"
+    },
+    {
+      "productId": 1035,
+      "reviewText": "this SQL is vertical.",
+      "reviewDate": "2019-10-03T11:48:35.6579433+03:00"
+    }
+  ]
+}

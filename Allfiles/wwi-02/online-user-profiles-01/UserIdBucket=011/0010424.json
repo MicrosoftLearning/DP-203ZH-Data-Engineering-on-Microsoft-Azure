@@ -1,0 +1,40 @@
+{
+  "userId": 10424,
+  "cartId": "e577e3ac-6cbc-4643-83bb-429a01eec092",
+  "preferredProducts": [
+    2829,
+    1113,
+    4850,
+    3508,
+    4198,
+    3485,
+    3938
+  ],
+  "productReviews": [
+    {
+      "productId": 2188,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-06-09T18:03:03.4351891+03:00"
+    },
+    {
+      "productId": 4544,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2016-09-14T19:04:05.1984021+03:00"
+    },
+    {
+      "productId": 1912,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-08-11T20:43:04.0741822+03:00"
+    },
+    {
+      "productId": 3353,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-09-16T01:37:00.706795+03:00"
+    },
+    {
+      "productId": 63,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-01-12T14:30:45.6550088+02:00"
+    }
+  ]
+}

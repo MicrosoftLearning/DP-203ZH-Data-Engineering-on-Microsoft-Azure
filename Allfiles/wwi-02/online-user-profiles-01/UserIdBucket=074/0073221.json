@@ -1,0 +1,33 @@
+{
+  "userId": 73221,
+  "cartId": "ca14d290-5c80-44a1-ba08-b74cd7dfaff8",
+  "preferredProducts": [
+    4017,
+    611,
+    3305,
+    246,
+    3876,
+    3562,
+    2614,
+    2838,
+    2922,
+    2903
+  ],
+  "productReviews": [
+    {
+      "productId": 2054,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-12-05T03:22:12.1992251+02:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2020-01-23T17:50:46.3688898+02:00"
+    },
+    {
+      "productId": 2361,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-01-16T21:05:43.5583997+02:00"
+    }
+  ]
+}

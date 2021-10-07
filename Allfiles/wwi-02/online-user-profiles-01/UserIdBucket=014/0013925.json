@@ -1,0 +1,27 @@
+{
+  "userId": 13925,
+  "cartId": "f7cdb7ac-0eec-44b8-9ab5-b36c858ea38d",
+  "preferredProducts": [
+    163,
+    3411,
+    2794,
+    3934,
+    3269,
+    940,
+    1363,
+    633,
+    2038
+  ],
+  "productReviews": [
+    {
+      "productId": 178,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-03-10T01:09:14.8533098+02:00"
+    },
+    {
+      "productId": 2167,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-12-17T19:28:50.9334775+02:00"
+    }
+  ]
+}

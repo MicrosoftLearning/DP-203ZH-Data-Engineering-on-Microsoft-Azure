@@ -1,0 +1,32 @@
+{
+  "userId": 44246,
+  "cartId": "f75fe758-e854-4525-839a-dd08c9b2adff",
+  "preferredProducts": [
+    2687,
+    4280,
+    4743,
+    554,
+    2062,
+    951,
+    4457,
+    3742,
+    2622
+  ],
+  "productReviews": [
+    {
+      "productId": 1044,
+      "reviewText": "this Operations is mellow.",
+      "reviewDate": "2018-04-08T19:38:43.449395+03:00"
+    },
+    {
+      "productId": 1313,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-07-14T03:09:47.5847455+03:00"
+    },
+    {
+      "productId": 3971,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-12-22T21:49:20.7627777+02:00"
+    }
+  ]
+}

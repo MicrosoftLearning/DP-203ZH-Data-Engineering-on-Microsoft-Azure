@@ -1,0 +1,31 @@
+{
+  "userId": 51946,
+  "cartId": "91641fbd-6900-49b4-a8d2-2ff5a110d4c4",
+  "preferredProducts": [
+    2853,
+    275,
+    1587,
+    4677,
+    2358,
+    2627,
+    1960,
+    1205
+  ],
+  "productReviews": [
+    {
+      "productId": 2147,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-10-02T09:20:09.9382392+03:00"
+    },
+    {
+      "productId": 2032,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-10-16T15:46:32.4070012+03:00"
+    },
+    {
+      "productId": 1850,
+      "reviewText": "this Louisiana is papery.",
+      "reviewDate": "2016-06-29T07:46:18.8441861+03:00"
+    }
+  ]
+}

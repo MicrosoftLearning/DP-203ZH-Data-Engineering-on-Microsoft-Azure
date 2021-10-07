@@ -1,0 +1,29 @@
+{
+  "userId": 77,
+  "cartId": "ae978b04-2de3-41af-94fd-0c4fd4803a79",
+  "preferredProducts": [
+    4975,
+    3594,
+    3266,
+    4190,
+    3075,
+    2414
+  ],
+  "productReviews": [
+    {
+      "productId": 3155,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-10-29T07:36:30.0711967+02:00"
+    },
+    {
+      "productId": 2382,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-03-23T03:11:07.3975948+02:00"
+    },
+    {
+      "productId": 4912,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-05-14T14:03:10.8719107+03:00"
+    }
+  ]
+}

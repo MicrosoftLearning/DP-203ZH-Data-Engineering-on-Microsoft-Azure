@@ -1,0 +1,36 @@
+{
+  "userId": 12840,
+  "cartId": "0071789c-b5ba-4eb1-a85c-e0587b7dfd31",
+  "preferredProducts": [
+    4731,
+    3557,
+    1799,
+    3249,
+    4653,
+    813,
+    2772,
+    873
+  ],
+  "productReviews": [
+    {
+      "productId": 191,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-01-13T07:32:23.3210928+02:00"
+    },
+    {
+      "productId": 4776,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-09-14T09:02:54.4502034+03:00"
+    },
+    {
+      "productId": 1893,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-11-24T19:38:06.7499989+02:00"
+    },
+    {
+      "productId": 2240,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-09-20T23:02:08.5845929+03:00"
+    }
+  ]
+}

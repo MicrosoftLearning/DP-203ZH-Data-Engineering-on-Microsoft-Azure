@@ -1,0 +1,26 @@
+{
+  "userId": 22756,
+  "cartId": "f1a93572-57bc-463c-8f40-c17b330e5aed",
+  "preferredProducts": [
+    3137,
+    1661,
+    805,
+    3982,
+    3621,
+    2001,
+    2822,
+    2570
+  ],
+  "productReviews": [
+    {
+      "productId": 3342,
+      "reviewText": "this compressing is nifty.",
+      "reviewDate": "2020-03-01T18:27:11.0104457+02:00"
+    },
+    {
+      "productId": 4328,
+      "reviewText": "this SAS is ratty.",
+      "reviewDate": "2016-06-26T08:01:23.5168151+03:00"
+    }
+  ]
+}

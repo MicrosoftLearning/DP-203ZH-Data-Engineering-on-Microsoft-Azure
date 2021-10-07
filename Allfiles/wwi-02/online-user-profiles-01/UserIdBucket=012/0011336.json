@@ -1,0 +1,35 @@
+{
+  "userId": 11336,
+  "cartId": "ab5e42d7-da02-4faf-bfee-55f7fd951e3f",
+  "preferredProducts": [
+    235,
+    2955,
+    4384,
+    2682,
+    4640,
+    3038,
+    4081
+  ],
+  "productReviews": [
+    {
+      "productId": 3924,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-01-08T15:20:36.0316951+02:00"
+    },
+    {
+      "productId": 918,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-12-18T09:15:54.4534357+02:00"
+    },
+    {
+      "productId": 4689,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-12-07T20:28:23.2614587+02:00"
+    },
+    {
+      "productId": 1553,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-11-12T10:56:23.42877+02:00"
+    }
+  ]
+}

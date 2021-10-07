@@ -1,0 +1,32 @@
+{
+  "userId": 77451,
+  "cartId": "cb9a2ae2-2a0b-454f-adce-85fc5ba5d36b",
+  "preferredProducts": [
+    1280,
+    2106,
+    2501,
+    3625
+  ],
+  "productReviews": [
+    {
+      "productId": 1406,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-09-12T08:14:03.7424008+03:00"
+    },
+    {
+      "productId": 4337,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-10-01T11:45:33.2113856+03:00"
+    },
+    {
+      "productId": 2172,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-11-08T05:51:04.877333+02:00"
+    },
+    {
+      "productId": 2429,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-11-14T01:10:22.054462+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 16002,
+  "cartId": "08cfa4d1-5b29-4e8d-9c2c-4e36fc7133f6",
+  "preferredProducts": [
+    4035,
+    1710,
+    2718,
+    3779
+  ],
+  "productReviews": [
+    {
+      "productId": 2757,
+      "reviewText": "this Saudi Arabia is mellow.",
+      "reviewDate": "2019-09-21T03:20:47.2429192+03:00"
+    },
+    {
+      "productId": 2689,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-01-31T13:21:29.4029572+02:00"
+    },
+    {
+      "productId": 4315,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-01-30T22:02:40.5753043+02:00"
+    },
+    {
+      "productId": 1700,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-02-06T13:21:33.1030864+02:00"
+    }
+  ]
+}

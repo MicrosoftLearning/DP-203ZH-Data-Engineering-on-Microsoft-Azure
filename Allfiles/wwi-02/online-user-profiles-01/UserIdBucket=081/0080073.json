@@ -1,0 +1,27 @@
+{
+  "userId": 80073,
+  "cartId": "dd0fe07e-33f4-4e57-a529-d819de85bbdd",
+  "preferredProducts": [
+    3592,
+    2041,
+    2542,
+    991
+  ],
+  "productReviews": [
+    {
+      "productId": 1266,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-01-05T09:17:40.9666956+02:00"
+    },
+    {
+      "productId": 3354,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-01-12T09:22:16.5007986+02:00"
+    },
+    {
+      "productId": 961,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-11-08T19:00:44.1509938+02:00"
+    }
+  ]
+}

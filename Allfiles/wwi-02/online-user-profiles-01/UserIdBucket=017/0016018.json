@@ -1,0 +1,31 @@
+{
+  "userId": 16018,
+  "cartId": "03a96adc-60e2-403e-a79b-b2efbb8df7af",
+  "preferredProducts": [
+    3270,
+    973,
+    3400,
+    2947,
+    1085,
+    2098,
+    2632,
+    1545
+  ],
+  "productReviews": [
+    {
+      "productId": 3709,
+      "reviewText": "This back-end works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-02-12T06:49:01.7976637+02:00"
+    },
+    {
+      "productId": 1126,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-07-14T21:48:37.9878063+03:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-07-13T00:19:07.6240107+03:00"
+    }
+  ]
+}

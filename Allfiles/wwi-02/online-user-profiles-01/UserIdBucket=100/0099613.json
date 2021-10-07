@@ -1,0 +1,30 @@
+{
+  "userId": 99613,
+  "cartId": "58e4a3a5-38e8-49f8-9f54-250b8f496b6a",
+  "preferredProducts": [
+    4923,
+    3632,
+    4742,
+    2116,
+    3432,
+    2417,
+    3411
+  ],
+  "productReviews": [
+    {
+      "productId": 3892,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-05-29T05:48:18.0718282+03:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-01-19T04:22:19.6834526+02:00"
+    },
+    {
+      "productId": 2275,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-02-10T04:12:00.4591494+02:00"
+    }
+  ]
+}

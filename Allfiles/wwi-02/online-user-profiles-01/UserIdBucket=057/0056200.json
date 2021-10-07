@@ -1,0 +1,26 @@
+{
+  "userId": 56200,
+  "cartId": "cea80a99-a85d-40c2-b7f2-03b9a1f963e1",
+  "preferredProducts": [
+    4324,
+    211,
+    3722,
+    2409,
+    1157,
+    391,
+    1804,
+    4081
+  ],
+  "productReviews": [
+    {
+      "productId": 202,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-09-10T08:04:25.9177932+03:00"
+    },
+    {
+      "productId": 3565,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-02-23T20:15:44.6570583+02:00"
+    }
+  ]
+}

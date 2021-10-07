@@ -1,0 +1,28 @@
+{
+  "userId": 12230,
+  "cartId": "23e9fc74-471f-4228-b646-ee21b335c35b",
+  "preferredProducts": [
+    610,
+    506,
+    1642,
+    1308,
+    1292,
+    975,
+    759,
+    3213,
+    3537,
+    936
+  ],
+  "productReviews": [
+    {
+      "productId": 3953,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-06-18T09:01:20.6210162+03:00"
+    },
+    {
+      "productId": 3806,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-06-03T08:58:21.8530191+03:00"
+    }
+  ]
+}

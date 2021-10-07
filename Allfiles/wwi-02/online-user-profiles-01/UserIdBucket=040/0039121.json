@@ -1,0 +1,27 @@
+{
+  "userId": 39121,
+  "cartId": "b0d9f78c-6f79-4aeb-b99e-073f2c68cdd8",
+  "preferredProducts": [
+    4753,
+    4686,
+    1025,
+    1941
+  ],
+  "productReviews": [
+    {
+      "productId": 1041,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-12-09T18:57:46.0644416+02:00"
+    },
+    {
+      "productId": 666,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-10-02T08:32:24.6658575+03:00"
+    },
+    {
+      "productId": 1488,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-03-13T15:39:17.4783459+02:00"
+    }
+  ]
+}

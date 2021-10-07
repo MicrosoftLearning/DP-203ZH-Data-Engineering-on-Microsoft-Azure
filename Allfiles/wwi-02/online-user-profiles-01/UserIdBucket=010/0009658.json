@@ -1,0 +1,27 @@
+{
+  "userId": 9658,
+  "cartId": "cc19b29b-a1e0-44ef-8129-03a2fe866ccb",
+  "preferredProducts": [
+    175,
+    11,
+    2435,
+    4517
+  ],
+  "productReviews": [
+    {
+      "productId": 4741,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-04T16:18:55.5865694+03:00"
+    },
+    {
+      "productId": 2863,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-04-11T08:18:42.9954308+03:00"
+    },
+    {
+      "productId": 789,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-11-17T16:53:46.9231367+02:00"
+    }
+  ]
+}

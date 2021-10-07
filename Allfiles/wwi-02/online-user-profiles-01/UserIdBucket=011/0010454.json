@@ -1,0 +1,27 @@
+{
+  "userId": 10454,
+  "cartId": "72427ab5-d8f8-489f-b496-8fe67ce99880",
+  "preferredProducts": [
+    4492,
+    4251,
+    3605,
+    3875
+  ],
+  "productReviews": [
+    {
+      "productId": 3100,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-08-07T12:52:12.1774155+03:00"
+    },
+    {
+      "productId": 543,
+      "reviewText": "This Planner works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-05-09T17:24:02.7005478+03:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-04-30T08:01:57.6961757+03:00"
+    }
+  ]
+}

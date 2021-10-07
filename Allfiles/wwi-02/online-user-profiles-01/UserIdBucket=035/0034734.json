@@ -1,0 +1,37 @@
+{
+  "userId": 34734,
+  "cartId": "11c4d9da-5d35-4c96-932e-ec108e1ae8d8",
+  "preferredProducts": [
+    4214,
+    268,
+    1193,
+    1807,
+    1713,
+    2142,
+    2688,
+    175,
+    834
+  ],
+  "productReviews": [
+    {
+      "productId": 4404,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-11-16T19:48:35.6435022+02:00"
+    },
+    {
+      "productId": 3371,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-01-10T22:48:43.483222+02:00"
+    },
+    {
+      "productId": 3006,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-06-16T00:52:32.4905285+03:00"
+    },
+    {
+      "productId": 4514,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-06-19T12:05:49.2685413+03:00"
+    }
+  ]
+}

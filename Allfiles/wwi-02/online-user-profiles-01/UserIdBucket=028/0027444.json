@@ -1,0 +1,33 @@
+{
+  "userId": 27444,
+  "cartId": "04f9906e-33ea-4073-919f-3932ca3bb8be",
+  "preferredProducts": [
+    1022,
+    1734,
+    2064,
+    510,
+    1935,
+    992,
+    977,
+    3140,
+    4840,
+    1218
+  ],
+  "productReviews": [
+    {
+      "productId": 3366,
+      "reviewText": "this Technician is snowy.",
+      "reviewDate": "2018-10-19T20:19:43.2504522+03:00"
+    },
+    {
+      "productId": 2314,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-04-24T07:18:39.0663331+03:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-05-22T14:33:09.0362713+03:00"
+    }
+  ]
+}

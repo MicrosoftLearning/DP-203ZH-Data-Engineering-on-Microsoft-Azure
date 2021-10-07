@@ -1,0 +1,32 @@
+{
+  "userId": 17358,
+  "cartId": "779700be-575f-4492-8b06-e228b2b75855",
+  "preferredProducts": [
+    311,
+    2527,
+    320,
+    3676
+  ],
+  "productReviews": [
+    {
+      "productId": 2089,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-09-18T03:31:19.6802991+03:00"
+    },
+    {
+      "productId": 3099,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-06-20T00:52:01.8184891+03:00"
+    },
+    {
+      "productId": 3445,
+      "reviewText": "this Mountain is hyper.",
+      "reviewDate": "2019-08-24T07:16:38.9816463+03:00"
+    },
+    {
+      "productId": 2398,
+      "reviewText": "This Rest works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2020-03-31T12:59:35.5675361+03:00"
+    }
+  ]
+}

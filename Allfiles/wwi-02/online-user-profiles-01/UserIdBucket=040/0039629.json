@@ -1,0 +1,30 @@
+{
+  "userId": 39629,
+  "cartId": "a7483620-26c0-449b-a707-a706d407e723",
+  "preferredProducts": [
+    4383,
+    3819
+  ],
+  "productReviews": [
+    {
+      "productId": 294,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-02-05T10:40:58.7262647+02:00"
+    },
+    {
+      "productId": 3405,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-11-07T20:33:09.3709459+02:00"
+    },
+    {
+      "productId": 1398,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-10-13T10:11:50.0946422+03:00"
+    },
+    {
+      "productId": 4729,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-08-25T03:12:06.9133849+03:00"
+    }
+  ]
+}

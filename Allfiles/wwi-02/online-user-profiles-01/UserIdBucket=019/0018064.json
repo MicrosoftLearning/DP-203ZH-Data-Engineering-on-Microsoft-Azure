@@ -1,0 +1,32 @@
+{
+  "userId": 18064,
+  "cartId": "cf1136b2-2e13-48b5-a9b7-690bfe6f9d64",
+  "preferredProducts": [
+    2986,
+    403,
+    2533,
+    3451
+  ],
+  "productReviews": [
+    {
+      "productId": 103,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-02-09T20:06:36.0667358+02:00"
+    },
+    {
+      "productId": 2218,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-10-28T01:52:34.0697571+03:00"
+    },
+    {
+      "productId": 1782,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-04-02T02:12:49.0260359+03:00"
+    },
+    {
+      "productId": 3777,
+      "reviewText": "This Director works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-08-31T19:31:39.3567445+03:00"
+    }
+  ]
+}

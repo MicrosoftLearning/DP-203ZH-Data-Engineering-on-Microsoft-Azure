@@ -1,0 +1,33 @@
+{
+  "userId": 78819,
+  "cartId": "bf081949-d3e2-46ee-9810-6cb4d46cf536",
+  "preferredProducts": [
+    3928,
+    1625,
+    3833,
+    4762,
+    2461,
+    3620,
+    1456,
+    4824,
+    2489,
+    2571
+  ],
+  "productReviews": [
+    {
+      "productId": 2692,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-09-25T09:53:14.2440629+03:00"
+    },
+    {
+      "productId": 3271,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-09-14T23:30:19.4441613+03:00"
+    },
+    {
+      "productId": 2306,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-11-19T07:34:19.782699+02:00"
+    }
+  ]
+}

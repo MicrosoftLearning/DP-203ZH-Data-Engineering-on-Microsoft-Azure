@@ -1,0 +1,35 @@
+{
+  "userId": 18438,
+  "cartId": "1caff6f7-dda3-4b66-88bd-3a3b28f666aa",
+  "preferredProducts": [
+    2431,
+    244,
+    3166,
+    3176,
+    4887,
+    2809,
+    1369
+  ],
+  "productReviews": [
+    {
+      "productId": 2890,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-11-29T00:10:34.1622573+02:00"
+    },
+    {
+      "productId": 3450,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-10-11T10:24:01.937209+03:00"
+    },
+    {
+      "productId": 1190,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-04-25T17:40:41.5959611+03:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2019-08-29T19:56:41.0426378+03:00"
+    }
+  ]
+}

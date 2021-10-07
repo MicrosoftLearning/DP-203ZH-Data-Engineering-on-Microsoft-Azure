@@ -1,0 +1,30 @@
+{
+  "userId": 42312,
+  "cartId": "25a72774-c1e6-41db-9a98-7cd37a74aabd",
+  "preferredProducts": [
+    3834,
+    1311
+  ],
+  "productReviews": [
+    {
+      "productId": 1487,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-10-23T15:42:04.4619391+03:00"
+    },
+    {
+      "productId": 3646,
+      "reviewText": "this override is ratty.",
+      "reviewDate": "2019-04-19T01:45:18.8159983+03:00"
+    },
+    {
+      "productId": 2975,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-11-21T10:20:31.703704+02:00"
+    },
+    {
+      "productId": 4565,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-09-12T18:01:36.2915454+03:00"
+    }
+  ]
+}

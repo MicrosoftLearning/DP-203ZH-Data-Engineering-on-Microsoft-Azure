@@ -1,0 +1,40 @@
+{
+  "userId": 19999,
+  "cartId": "67c74515-de2c-4038-9f41-7dd40a9ec23e",
+  "preferredProducts": [
+    1655,
+    3792,
+    646,
+    541,
+    1094,
+    2963,
+    4007
+  ],
+  "productReviews": [
+    {
+      "productId": 4265,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-04-01T02:41:57.3636065+03:00"
+    },
+    {
+      "productId": 4775,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-12-15T20:25:07.8814172+02:00"
+    },
+    {
+      "productId": 492,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-01-03T11:45:37.0434778+02:00"
+    },
+    {
+      "productId": 733,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-02-22T22:41:45.6643615+02:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-10-08T00:13:21.077207+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 60821,
+  "cartId": "f00a750d-480b-4334-acbb-ba6502901f05",
+  "preferredProducts": [
+    3671,
+    1342,
+    1191,
+    259,
+    1339,
+    404,
+    461
+  ],
+  "productReviews": [
+    {
+      "productId": 10,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-11-12T12:22:06.3376935+02:00"
+    },
+    {
+      "productId": 2473,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-04-05T06:56:00.195589+03:00"
+    },
+    {
+      "productId": 3096,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-09-29T17:45:15.5124193+03:00"
+    },
+    {
+      "productId": 2980,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-10-30T05:00:16.8549818+02:00"
+    }
+  ]
+}

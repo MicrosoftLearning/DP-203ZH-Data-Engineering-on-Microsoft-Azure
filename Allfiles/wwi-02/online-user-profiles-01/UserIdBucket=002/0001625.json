@@ -1,0 +1,29 @@
+{
+  "userId": 1625,
+  "cartId": "774f9b42-6120-4cbd-b6cd-ff317e105f77",
+  "preferredProducts": [
+    2592
+  ],
+  "productReviews": [
+    {
+      "productId": 3675,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-03-22T18:52:37.8828982+02:00"
+    },
+    {
+      "productId": 989,
+      "reviewText": "this infrastructures is tasty.",
+      "reviewDate": "2016-12-19T17:10:39.6262976+02:00"
+    },
+    {
+      "productId": 3322,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-01-29T04:21:35.0611638+02:00"
+    },
+    {
+      "productId": 2537,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-01-28T09:36:34.9560894+02:00"
+    }
+  ]
+}

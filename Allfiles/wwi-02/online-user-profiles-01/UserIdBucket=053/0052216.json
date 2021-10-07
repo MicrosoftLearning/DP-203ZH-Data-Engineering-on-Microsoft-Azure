@@ -1,0 +1,31 @@
+{
+  "userId": 52216,
+  "cartId": "25596d1d-0720-4210-a122-9581eb465250",
+  "preferredProducts": [
+    2098,
+    3274,
+    4793,
+    546,
+    937,
+    4165,
+    4762,
+    4203
+  ],
+  "productReviews": [
+    {
+      "productId": 4456,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-05-28T10:25:07.7365937+03:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-09-04T04:15:40.0711962+03:00"
+    },
+    {
+      "productId": 4165,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-02-14T16:03:55.1777195+02:00"
+    }
+  ]
+}

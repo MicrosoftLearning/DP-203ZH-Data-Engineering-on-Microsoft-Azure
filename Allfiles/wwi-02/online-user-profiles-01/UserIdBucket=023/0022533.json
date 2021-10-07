@@ -1,0 +1,41 @@
+{
+  "userId": 22533,
+  "cartId": "afda10fc-d0bf-413f-ac1c-e3134488c1ad",
+  "preferredProducts": [
+    412,
+    3475,
+    4200,
+    3492,
+    936,
+    1474,
+    380,
+    484
+  ],
+  "productReviews": [
+    {
+      "productId": 2362,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-04-11T12:36:29.9467321+03:00"
+    },
+    {
+      "productId": 379,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-03-27T07:38:09.9627517+03:00"
+    },
+    {
+      "productId": 3338,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-07-18T20:37:52.8615892+03:00"
+    },
+    {
+      "productId": 2337,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2020-05-02T03:16:57.2377854+03:00"
+    },
+    {
+      "productId": 514,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-05-26T17:07:05.0073623+03:00"
+    }
+  ]
+}

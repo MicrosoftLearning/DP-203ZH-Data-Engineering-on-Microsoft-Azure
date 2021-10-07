@@ -1,0 +1,38 @@
+{
+  "userId": 9276,
+  "cartId": "aa7cedbf-ca80-408e-b555-9ae8add1417e",
+  "preferredProducts": [
+    2787,
+    1474,
+    2315,
+    4885,
+    285,
+    4693,
+    3618,
+    2834,
+    1042,
+    3993
+  ],
+  "productReviews": [
+    {
+      "productId": 278,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-04-29T22:21:37.7129208+03:00"
+    },
+    {
+      "productId": 465,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-08-04T17:54:27.9178715+03:00"
+    },
+    {
+      "productId": 1379,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-01-29T05:08:45.3194924+02:00"
+    },
+    {
+      "productId": 3521,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-05-26T04:53:30.330052+03:00"
+    }
+  ]
+}

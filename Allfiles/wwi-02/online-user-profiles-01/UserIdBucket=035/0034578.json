@@ -1,0 +1,22 @@
+{
+  "userId": 34578,
+  "cartId": "dc836fdc-e839-4c58-ba75-335746dfe50f",
+  "preferredProducts": [
+    5,
+    78,
+    2028,
+    24
+  ],
+  "productReviews": [
+    {
+      "productId": 2452,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-01-01T20:34:41.7936454+02:00"
+    },
+    {
+      "productId": 1378,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-10-18T19:32:53.3403431+03:00"
+    }
+  ]
+}

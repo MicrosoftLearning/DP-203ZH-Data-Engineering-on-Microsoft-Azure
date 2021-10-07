@@ -1,0 +1,28 @@
+{
+  "userId": 10553,
+  "cartId": "5d42312d-e7ad-4298-8765-84b4da8c4995",
+  "preferredProducts": [
+    4738,
+    1931,
+    4069,
+    2259,
+    4111,
+    1953,
+    1742,
+    93,
+    2555,
+    4800
+  ],
+  "productReviews": [
+    {
+      "productId": 3049,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-01-21T06:14:21.1460485+02:00"
+    },
+    {
+      "productId": 1275,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-11-04T05:00:55.8526697+02:00"
+    }
+  ]
+}

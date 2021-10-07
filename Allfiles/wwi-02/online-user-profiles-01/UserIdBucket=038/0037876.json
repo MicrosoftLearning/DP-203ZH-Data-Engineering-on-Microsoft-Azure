@@ -1,0 +1,35 @@
+{
+  "userId": 37876,
+  "cartId": "e413d028-581a-4161-804f-a48be2fab1a8",
+  "preferredProducts": [
+    4183,
+    3708,
+    1190,
+    1492,
+    508,
+    4670,
+    4014
+  ],
+  "productReviews": [
+    {
+      "productId": 467,
+      "reviewText": "this productize is tasty.",
+      "reviewDate": "2020-05-09T03:15:57.8821619+03:00"
+    },
+    {
+      "productId": 2330,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-07-17T06:14:24.9131266+03:00"
+    },
+    {
+      "productId": 2458,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-08-05T11:18:24.9551062+03:00"
+    },
+    {
+      "productId": 4437,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2020-03-21T20:33:58.229687+02:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 98546,
+  "cartId": "e89be6b9-de83-46f9-aa20-502e32e619b8",
+  "preferredProducts": [
+    3423,
+    3585,
+    1416,
+    2975,
+    3173
+  ],
+  "productReviews": [
+    {
+      "productId": 3660,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-04-09T03:51:14.1061858+03:00"
+    },
+    {
+      "productId": 393,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-11-28T18:42:48.1169436+02:00"
+    }
+  ]
+}

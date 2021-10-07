@@ -1,0 +1,36 @@
+{
+  "userId": 9816,
+  "cartId": "14a1b1a0-2aa1-4285-a4db-13fc5d43a6c6",
+  "preferredProducts": [
+    1192,
+    4439,
+    3013,
+    3994,
+    4796,
+    1870,
+    4168,
+    4466
+  ],
+  "productReviews": [
+    {
+      "productId": 3442,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-05-29T09:54:44.7330131+03:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-08-12T10:08:25.0223175+03:00"
+    },
+    {
+      "productId": 3149,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-10-29T05:24:01.5044073+02:00"
+    },
+    {
+      "productId": 2932,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-04-08T10:21:14.3504012+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 1998,
+  "cartId": "9f89aab2-1d95-4144-96af-75a8ec057877",
+  "preferredProducts": [
+    2011,
+    2640,
+    1768,
+    1889,
+    3226,
+    4055,
+    3136,
+    4088,
+    1629
+  ],
+  "productReviews": [
+    {
+      "productId": 129,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-03-25T07:31:56.4609178+02:00"
+    },
+    {
+      "productId": 1963,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-01-20T00:37:25.8425643+02:00"
+    },
+    {
+      "productId": 979,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-11-20T09:03:36.7464489+02:00"
+    }
+  ]
+}

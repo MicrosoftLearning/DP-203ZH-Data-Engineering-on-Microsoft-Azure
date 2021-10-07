@@ -1,0 +1,33 @@
+{
+  "userId": 27161,
+  "cartId": "66e5371b-9f17-44e1-9bab-c102c11a6acd",
+  "preferredProducts": [
+    2495,
+    229,
+    355,
+    3696,
+    365,
+    109,
+    362,
+    2821,
+    3137,
+    467
+  ],
+  "productReviews": [
+    {
+      "productId": 2551,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-18T03:38:57.3658334+02:00"
+    },
+    {
+      "productId": 1868,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-01-10T21:56:56.5390144+02:00"
+    },
+    {
+      "productId": 757,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-09-07T14:18:36.1928561+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 23996,
+  "cartId": "4fd34c00-f0fb-4a99-b581-1e071e0b9664",
+  "preferredProducts": [
+    4927,
+    2270,
+    3922,
+    3630,
+    3167,
+    3153,
+    3650
+  ],
+  "productReviews": [
+    {
+      "productId": 4406,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2019-01-03T10:38:38.2409951+02:00"
+    },
+    {
+      "productId": 321,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-02-05T18:14:36.4113144+02:00"
+    },
+    {
+      "productId": 3253,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-11-08T08:53:49.2671516+02:00"
+    }
+  ]
+}

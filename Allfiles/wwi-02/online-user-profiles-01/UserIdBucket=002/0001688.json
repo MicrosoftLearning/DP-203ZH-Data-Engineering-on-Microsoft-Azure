@@ -1,0 +1,22 @@
+{
+  "userId": 1688,
+  "cartId": "6cc0c5dd-9a52-445f-ae89-8661362a3124",
+  "preferredProducts": [
+    4351,
+    3831,
+    4913,
+    3502
+  ],
+  "productReviews": [
+    {
+      "productId": 1350,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-09-12T03:18:06.4644795+03:00"
+    },
+    {
+      "productId": 4031,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-05-01T12:53:05.4558636+03:00"
+    }
+  ]
+}

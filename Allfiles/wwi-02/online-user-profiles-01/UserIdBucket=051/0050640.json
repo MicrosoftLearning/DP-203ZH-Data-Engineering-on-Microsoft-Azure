@@ -1,0 +1,23 @@
+{
+  "userId": 50640,
+  "cartId": "f190c107-c75f-464c-9d47-17337953b28d",
+  "preferredProducts": [
+    285,
+    4795,
+    4066,
+    2805,
+    4263
+  ],
+  "productReviews": [
+    {
+      "productId": 3432,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-12-11T02:23:55.5490574+02:00"
+    },
+    {
+      "productId": 2406,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-11-26T12:14:39.7921132+02:00"
+    }
+  ]
+}

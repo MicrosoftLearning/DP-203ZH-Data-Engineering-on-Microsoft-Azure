@@ -1,0 +1,33 @@
+{
+  "userId": 42872,
+  "cartId": "195e3dbd-bec1-4df2-af59-c198b3d181c6",
+  "preferredProducts": [
+    3281,
+    75,
+    4160,
+    3799,
+    3982
+  ],
+  "productReviews": [
+    {
+      "productId": 2131,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-08-17T07:36:09.4554738+03:00"
+    },
+    {
+      "productId": 761,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-12-20T17:27:00.2531928+02:00"
+    },
+    {
+      "productId": 1263,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-07-01T11:07:08.7884352+03:00"
+    },
+    {
+      "productId": 963,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-05-18T07:18:39.60566+03:00"
+    }
+  ]
+}

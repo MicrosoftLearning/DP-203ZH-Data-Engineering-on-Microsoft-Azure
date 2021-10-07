@@ -1,0 +1,35 @@
+{
+  "userId": 77322,
+  "cartId": "2d2b1193-f42a-4e24-822b-b6095e722512",
+  "preferredProducts": [
+    381,
+    3816
+  ],
+  "productReviews": [
+    {
+      "productId": 413,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-10-24T01:09:03.2235875+03:00"
+    },
+    {
+      "productId": 837,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-10-20T01:53:22.4037047+03:00"
+    },
+    {
+      "productId": 885,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-09-04T15:35:12.9067371+03:00"
+    },
+    {
+      "productId": 4192,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-08-14T23:09:02.8351378+03:00"
+    },
+    {
+      "productId": 2154,
+      "reviewText": "this JSON is awesome.",
+      "reviewDate": "2016-08-22T21:37:43.1120145+03:00"
+    }
+  ]
+}

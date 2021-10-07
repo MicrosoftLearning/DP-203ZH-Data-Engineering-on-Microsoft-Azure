@@ -1,0 +1,27 @@
+{
+  "userId": 47354,
+  "cartId": "4054e53b-8f46-4e79-84e4-b1f0b5a321f5",
+  "preferredProducts": [
+    3370,
+    3342,
+    2746,
+    301
+  ],
+  "productReviews": [
+    {
+      "productId": 2512,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-11-04T00:19:04.1302664+02:00"
+    },
+    {
+      "productId": 3342,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-03-31T05:36:23.3895647+03:00"
+    },
+    {
+      "productId": 1374,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-09-14T17:23:27.9877189+03:00"
+    }
+  ]
+}

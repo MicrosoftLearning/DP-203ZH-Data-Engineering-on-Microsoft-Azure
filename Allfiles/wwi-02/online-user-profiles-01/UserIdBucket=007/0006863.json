@@ -1,0 +1,31 @@
+{
+  "userId": 6863,
+  "cartId": "0a52401f-a25b-4d55-9da1-6d97d1b56a7e",
+  "preferredProducts": [
+    2558,
+    2446,
+    3036,
+    3572,
+    4343,
+    4935,
+    146,
+    1075
+  ],
+  "productReviews": [
+    {
+      "productId": 1983,
+      "reviewText": "this Underpass is mellow.",
+      "reviewDate": "2020-03-13T18:25:43.5340329+02:00"
+    },
+    {
+      "productId": 4231,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-01-18T13:03:21.9090655+02:00"
+    },
+    {
+      "productId": 4509,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-06-25T14:09:56.1575323+03:00"
+    }
+  ]
+}

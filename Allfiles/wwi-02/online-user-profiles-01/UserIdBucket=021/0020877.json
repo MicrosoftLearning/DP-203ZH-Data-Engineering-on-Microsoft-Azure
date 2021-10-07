@@ -1,0 +1,25 @@
+{
+  "userId": 20877,
+  "cartId": "2e3744f1-dd7e-443e-ad5f-ac3887eaed3f",
+  "preferredProducts": [
+    4746,
+    2311
+  ],
+  "productReviews": [
+    {
+      "productId": 2656,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-03-30T09:04:46.4546935+03:00"
+    },
+    {
+      "productId": 3472,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-04-07T21:55:50.4852234+03:00"
+    },
+    {
+      "productId": 2056,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-09-21T17:41:47.6012123+03:00"
+    }
+  ]
+}

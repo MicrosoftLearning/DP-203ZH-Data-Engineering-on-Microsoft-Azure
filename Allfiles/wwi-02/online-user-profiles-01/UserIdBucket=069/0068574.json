@@ -1,0 +1,30 @@
+{
+  "userId": 68574,
+  "cartId": "63f9cc3a-5188-4506-98b4-9f672c2f6cca",
+  "preferredProducts": [
+    2381,
+    4357,
+    917,
+    4176,
+    4046,
+    1477,
+    4976
+  ],
+  "productReviews": [
+    {
+      "productId": 3379,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-12-20T02:53:36.8023883+02:00"
+    },
+    {
+      "productId": 549,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-08-25T01:10:14.6942907+03:00"
+    },
+    {
+      "productId": 4249,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-05-15T09:41:55.1396163+03:00"
+    }
+  ]
+}

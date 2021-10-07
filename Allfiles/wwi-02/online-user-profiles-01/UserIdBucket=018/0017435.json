@@ -1,0 +1,37 @@
+{
+  "userId": 17435,
+  "cartId": "a1e8bd1a-9d1b-4c31-9c72-4028d7c985f4",
+  "preferredProducts": [
+    4390,
+    3445,
+    3843,
+    23
+  ],
+  "productReviews": [
+    {
+      "productId": 3146,
+      "reviewText": "this contingency is top-notch.",
+      "reviewDate": "2016-08-09T21:44:42.9608599+03:00"
+    },
+    {
+      "productId": 2334,
+      "reviewText": "This structure works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-05-21T00:40:11.2332809+03:00"
+    },
+    {
+      "productId": 4171,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2016-09-07T09:14:48.1668055+03:00"
+    },
+    {
+      "productId": 2419,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-09-20T03:57:43.8961403+03:00"
+    },
+    {
+      "productId": 4221,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-04-12T21:44:49.8000319+03:00"
+    }
+  ]
+}

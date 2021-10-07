@@ -1,0 +1,33 @@
+{
+  "userId": 38622,
+  "cartId": "db043139-1a9a-4aab-8d96-2520f5670f9b",
+  "preferredProducts": [
+    1573,
+    994,
+    3279,
+    3973,
+    3233
+  ],
+  "productReviews": [
+    {
+      "productId": 956,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-03-15T07:13:47.1662144+02:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2020-01-01T18:32:48.5467849+02:00"
+    },
+    {
+      "productId": 3514,
+      "reviewText": "this interface is mellow.",
+      "reviewDate": "2018-02-18T23:29:43.642361+02:00"
+    },
+    {
+      "productId": 3780,
+      "reviewText": "this Automated is papery.",
+      "reviewDate": "2019-07-05T07:55:56.5472773+03:00"
+    }
+  ]
+}

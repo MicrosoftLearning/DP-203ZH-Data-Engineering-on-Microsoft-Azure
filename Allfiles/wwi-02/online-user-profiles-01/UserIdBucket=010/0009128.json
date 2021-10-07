@@ -1,0 +1,36 @@
+{
+  "userId": 9128,
+  "cartId": "1906a846-fc33-48a5-b213-77bcc3931189",
+  "preferredProducts": [
+    3743,
+    2790,
+    2157
+  ],
+  "productReviews": [
+    {
+      "productId": 809,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-04-04T11:41:59.8605732+03:00"
+    },
+    {
+      "productId": 3592,
+      "reviewText": "This generating, does exactly what it's suppose to do.",
+      "reviewDate": "2017-05-10T02:16:27.0990539+03:00"
+    },
+    {
+      "productId": 4050,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-10-09T07:30:15.7919897+03:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-01-20T23:21:58.4996311+02:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-07-08T00:28:18.1258875+03:00"
+    }
+  ]
+}

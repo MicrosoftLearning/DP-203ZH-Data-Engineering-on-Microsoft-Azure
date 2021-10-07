@@ -1,0 +1,25 @@
+{
+  "userId": 66769,
+  "cartId": "b03cb7f5-8858-4ce4-9aca-09527ce73ecf",
+  "preferredProducts": [
+    609,
+    2059
+  ],
+  "productReviews": [
+    {
+      "productId": 205,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-01-09T21:18:54.7535881+02:00"
+    },
+    {
+      "productId": 1030,
+      "reviewText": "this THX is hyper.",
+      "reviewDate": "2017-06-12T13:07:08.2315241+03:00"
+    },
+    {
+      "productId": 2984,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-08-13T13:05:56.3386187+03:00"
+    }
+  ]
+}

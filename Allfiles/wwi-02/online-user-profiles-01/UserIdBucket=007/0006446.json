@@ -1,0 +1,23 @@
+{
+  "userId": 6446,
+  "cartId": "290f5dfa-e605-44cf-9b68-08bfe946d74a",
+  "preferredProducts": [
+    3139,
+    2095,
+    1644,
+    3507,
+    4965
+  ],
+  "productReviews": [
+    {
+      "productId": 4823,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-03-30T22:20:33.8614854+02:00"
+    },
+    {
+      "productId": 4290,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-05-05T12:59:17.6773344+03:00"
+    }
+  ]
+}

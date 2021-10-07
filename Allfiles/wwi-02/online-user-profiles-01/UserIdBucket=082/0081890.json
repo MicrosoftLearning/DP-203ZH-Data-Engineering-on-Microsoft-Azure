@@ -1,0 +1,35 @@
+{
+  "userId": 81890,
+  "cartId": "29b704de-4254-4873-bcc3-94705ed3543f",
+  "preferredProducts": [
+    3486,
+    815,
+    4206,
+    86,
+    492,
+    572,
+    3361
+  ],
+  "productReviews": [
+    {
+      "productId": 464,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-10-30T18:56:48.7597371+02:00"
+    },
+    {
+      "productId": 1263,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-12-22T19:30:08.837777+02:00"
+    },
+    {
+      "productId": 4286,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-01-16T18:29:48.9229936+02:00"
+    },
+    {
+      "productId": 2430,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-03-09T01:06:28.9437844+02:00"
+    }
+  ]
+}

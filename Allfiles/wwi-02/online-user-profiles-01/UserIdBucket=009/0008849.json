@@ -1,0 +1,38 @@
+{
+  "userId": 8849,
+  "cartId": "f6c315fc-f9b3-4612-b297-c14110c4ec00",
+  "preferredProducts": [
+    643,
+    735,
+    3071,
+    350,
+    552,
+    3727,
+    4147,
+    1779,
+    238,
+    2437
+  ],
+  "productReviews": [
+    {
+      "productId": 3418,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-09-03T05:10:47.8713282+03:00"
+    },
+    {
+      "productId": 4631,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-06-05T10:57:50.6292647+03:00"
+    },
+    {
+      "productId": 4608,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-12-20T02:24:08.3618795+02:00"
+    },
+    {
+      "productId": 66,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-05-15T07:24:36.6635841+03:00"
+    }
+  ]
+}

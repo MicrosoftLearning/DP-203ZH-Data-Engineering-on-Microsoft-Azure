@@ -1,0 +1,32 @@
+{
+  "userId": 88566,
+  "cartId": "b6aa140e-12cf-4f89-8369-ec0d46b5f8db",
+  "preferredProducts": [
+    4344,
+    3372,
+    2284,
+    1994
+  ],
+  "productReviews": [
+    {
+      "productId": 4546,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-12-30T04:39:06.0732201+02:00"
+    },
+    {
+      "productId": 1342,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-11-02T15:58:21.9999235+02:00"
+    },
+    {
+      "productId": 1092,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-03-16T18:59:54.0639271+02:00"
+    },
+    {
+      "productId": 1323,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-08-02T11:02:41.7159811+03:00"
+    }
+  ]
+}

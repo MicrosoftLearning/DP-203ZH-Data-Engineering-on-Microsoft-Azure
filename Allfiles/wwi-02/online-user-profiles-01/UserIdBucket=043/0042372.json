@@ -1,0 +1,33 @@
+{
+  "userId": 42372,
+  "cartId": "cf0ce3b5-ef40-4b39-9cad-bd709ebab488",
+  "preferredProducts": [
+    319,
+    2366,
+    463,
+    2588,
+    2347,
+    4040,
+    1141,
+    3981,
+    2350,
+    3808
+  ],
+  "productReviews": [
+    {
+      "productId": 2180,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-07-09T15:21:40.2209785+03:00"
+    },
+    {
+      "productId": 1834,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-04-30T12:23:26.1694309+03:00"
+    },
+    {
+      "productId": 911,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-08-31T11:41:48.0063192+03:00"
+    }
+  ]
+}

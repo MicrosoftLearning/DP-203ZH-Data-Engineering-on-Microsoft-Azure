@@ -1,0 +1,33 @@
+{
+  "userId": 64463,
+  "cartId": "2ffd7578-18a2-4594-9605-2c5e7f304e42",
+  "preferredProducts": [
+    4430,
+    115,
+    2609,
+    3482,
+    4146
+  ],
+  "productReviews": [
+    {
+      "productId": 4333,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-12-29T08:46:01.7608754+02:00"
+    },
+    {
+      "productId": 1308,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-11-08T23:29:51.5037819+02:00"
+    },
+    {
+      "productId": 1074,
+      "reviewText": "this compress is light-hearted.",
+      "reviewDate": "2016-10-14T12:55:59.0877289+03:00"
+    },
+    {
+      "productId": 760,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-10-23T05:24:11.5466822+03:00"
+    }
+  ]
+}

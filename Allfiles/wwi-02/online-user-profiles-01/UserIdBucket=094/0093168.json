@@ -1,0 +1,33 @@
+{
+  "userId": 93168,
+  "cartId": "e699362d-1556-411f-aaa7-c91da39400dc",
+  "preferredProducts": [
+    1726,
+    4392,
+    464,
+    531,
+    1962
+  ],
+  "productReviews": [
+    {
+      "productId": 1287,
+      "reviewText": "This is a really good program.",
+      "reviewDate": "2020-01-11T08:05:52.6723674+02:00"
+    },
+    {
+      "productId": 873,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-01-01T12:10:06.7607095+02:00"
+    },
+    {
+      "productId": 43,
+      "reviewText": "This is a really good Savings Account.",
+      "reviewDate": "2019-12-27T17:20:46.5818474+02:00"
+    },
+    {
+      "productId": 3198,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-05-06T05:49:27.4771041+03:00"
+    }
+  ]
+}

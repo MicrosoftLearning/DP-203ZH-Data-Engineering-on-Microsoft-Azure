@@ -1,0 +1,30 @@
+{
+  "userId": 97605,
+  "cartId": "b5cbcaaf-05a3-43f6-89ee-8c4f4c6be0e8",
+  "preferredProducts": [
+    437,
+    4371
+  ],
+  "productReviews": [
+    {
+      "productId": 3991,
+      "reviewText": "this world-class is snowy.",
+      "reviewDate": "2018-06-22T18:59:17.0058734+03:00"
+    },
+    {
+      "productId": 3362,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-03-31T09:52:40.6492192+03:00"
+    },
+    {
+      "productId": 3795,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-07-20T20:43:43.2215914+03:00"
+    },
+    {
+      "productId": 4157,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-04-25T16:56:20.0181407+03:00"
+    }
+  ]
+}

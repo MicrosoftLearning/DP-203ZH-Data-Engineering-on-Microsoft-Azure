@@ -1,0 +1,25 @@
+{
+  "userId": 3101,
+  "cartId": "1ac0dbec-e749-40e2-85fa-7e8ec94eb926",
+  "preferredProducts": [
+    1845,
+    2670,
+    1257,
+    2196,
+    1930,
+    3472,
+    2544
+  ],
+  "productReviews": [
+    {
+      "productId": 4318,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-11-08T03:21:55.4721452+02:00"
+    },
+    {
+      "productId": 4073,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-05-21T14:37:42.8516402+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 18129,
+  "cartId": "f509e5ac-d28b-478a-a5a0-c4eaef9b6d05",
+  "preferredProducts": [
+    1714,
+    3734,
+    2942,
+    4681
+  ],
+  "productReviews": [
+    {
+      "productId": 3987,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-08-30T23:43:04.7022146+03:00"
+    },
+    {
+      "productId": 4282,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-01-23T20:53:07.0036763+02:00"
+    },
+    {
+      "productId": 4098,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-08-30T00:53:31.1558297+03:00"
+    }
+  ]
+}

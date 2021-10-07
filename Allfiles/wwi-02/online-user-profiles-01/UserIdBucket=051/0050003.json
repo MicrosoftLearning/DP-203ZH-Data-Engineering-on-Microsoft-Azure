@@ -1,0 +1,23 @@
+{
+  "userId": 50003,
+  "cartId": "4265b435-1ab3-4fdf-8d0a-f730c2879db1",
+  "preferredProducts": [
+    1962,
+    2270,
+    940,
+    3348,
+    2008
+  ],
+  "productReviews": [
+    {
+      "productId": 1373,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-10-29T10:50:34.396315+02:00"
+    },
+    {
+      "productId": 1312,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2018-12-17T01:45:27.2419181+02:00"
+    }
+  ]
+}

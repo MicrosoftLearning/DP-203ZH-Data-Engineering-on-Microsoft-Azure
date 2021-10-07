@@ -1,0 +1,33 @@
+{
+  "userId": 19808,
+  "cartId": "03ba6807-e254-48af-aaaa-d79e827145da",
+  "preferredProducts": [
+    3367,
+    3481,
+    713,
+    1083,
+    2472
+  ],
+  "productReviews": [
+    {
+      "productId": 1603,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-11-12T12:25:12.399974+02:00"
+    },
+    {
+      "productId": 4288,
+      "reviewText": "This SCSI works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-11-17T02:40:19.6984679+02:00"
+    },
+    {
+      "productId": 4745,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-06-29T18:17:26.9293886+03:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-07-21T06:52:18.3647431+03:00"
+    }
+  ]
+}

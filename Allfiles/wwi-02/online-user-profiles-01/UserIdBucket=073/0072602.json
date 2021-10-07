@@ -1,0 +1,38 @@
+{
+  "userId": 72602,
+  "cartId": "1b033893-3629-409d-a15a-1fe8cb0a2126",
+  "preferredProducts": [
+    4103,
+    910,
+    97,
+    4308,
+    4895,
+    1964,
+    1429,
+    4135,
+    1055,
+    2955
+  ],
+  "productReviews": [
+    {
+      "productId": 2474,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-09-23T01:22:49.1563912+03:00"
+    },
+    {
+      "productId": 4952,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-11-13T16:13:07.7539447+02:00"
+    },
+    {
+      "productId": 3329,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-07-28T04:05:03.028052+03:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-10-07T17:44:19.8093264+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 72601,
+  "cartId": "205c534b-0022-492f-ac56-c1b3eafe417f",
+  "preferredProducts": [
+    4136,
+    3948,
+    779,
+    4576
+  ],
+  "productReviews": [
+    {
+      "productId": 67,
+      "reviewText": "this payment is flirty.",
+      "reviewDate": "2018-12-18T03:01:30.2505141+02:00"
+    },
+    {
+      "productId": 2139,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-07-23T11:36:37.8429023+03:00"
+    },
+    {
+      "productId": 4718,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-10-15T20:48:11.0902966+03:00"
+    },
+    {
+      "productId": 854,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2020-01-14T08:20:37.5205304+02:00"
+    }
+  ]
+}

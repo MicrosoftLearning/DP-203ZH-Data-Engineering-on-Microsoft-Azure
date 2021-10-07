@@ -1,0 +1,33 @@
+{
+  "userId": 12754,
+  "cartId": "76fe3b39-5409-40a9-8784-96ce57566bd0",
+  "preferredProducts": [
+    1051,
+    1582,
+    3650,
+    4271,
+    2076
+  ],
+  "productReviews": [
+    {
+      "productId": 3200,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-09-13T11:30:28.1136739+03:00"
+    },
+    {
+      "productId": 1103,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-07-01T15:13:56.157641+03:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-04-05T19:07:54.5010621+03:00"
+    },
+    {
+      "productId": 4362,
+      "reviewText": "This Bedfordshire works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-01-30T01:13:17.8812583+02:00"
+    }
+  ]
+}

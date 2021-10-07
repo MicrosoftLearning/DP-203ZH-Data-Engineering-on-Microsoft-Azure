@@ -1,0 +1,36 @@
+{
+  "userId": 20337,
+  "cartId": "24eff785-a9e9-4baf-b531-facad440b9f6",
+  "preferredProducts": [
+    1723,
+    1805,
+    488,
+    4183,
+    1709,
+    3909,
+    127,
+    4687
+  ],
+  "productReviews": [
+    {
+      "productId": 3666,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-08-31T00:14:16.1526374+03:00"
+    },
+    {
+      "productId": 157,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-05-10T12:16:20.3229707+03:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-04-11T07:31:05.1726756+03:00"
+    },
+    {
+      "productId": 747,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-10-16T21:19:38.6759401+03:00"
+    }
+  ]
+}

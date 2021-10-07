@@ -1,0 +1,33 @@
+{
+  "userId": 66968,
+  "cartId": "d5ff4403-2e76-4610-9629-db42b9a6b5de",
+  "preferredProducts": [
+    446,
+    1662,
+    3843,
+    2239,
+    3520,
+    3976,
+    2932,
+    1685,
+    3514,
+    3634
+  ],
+  "productReviews": [
+    {
+      "productId": 449,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-07-22T15:23:34.0170792+03:00"
+    },
+    {
+      "productId": 2899,
+      "reviewText": "this yellow is tasty.",
+      "reviewDate": "2017-07-04T22:48:38.4265522+03:00"
+    },
+    {
+      "productId": 2161,
+      "reviewText": "this open-source is tasty.",
+      "reviewDate": "2017-11-08T16:13:18.8080273+02:00"
+    }
+  ]
+}

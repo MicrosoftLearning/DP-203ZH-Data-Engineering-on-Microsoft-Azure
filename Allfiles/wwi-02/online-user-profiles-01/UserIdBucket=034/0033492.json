@@ -1,0 +1,36 @@
+{
+  "userId": 33492,
+  "cartId": "41fb718f-4cdb-4c94-b790-098d99f4053c",
+  "preferredProducts": [
+    1858,
+    1288,
+    3967,
+    4286,
+    1925,
+    3726,
+    599,
+    3487
+  ],
+  "productReviews": [
+    {
+      "productId": 4355,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-04-21T17:10:45.014203+03:00"
+    },
+    {
+      "productId": 647,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-08-25T09:15:51.3196291+03:00"
+    },
+    {
+      "productId": 4265,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-03-06T11:11:22.8908506+02:00"
+    },
+    {
+      "productId": 3786,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2019-03-25T07:02:32.2376966+02:00"
+    }
+  ]
+}

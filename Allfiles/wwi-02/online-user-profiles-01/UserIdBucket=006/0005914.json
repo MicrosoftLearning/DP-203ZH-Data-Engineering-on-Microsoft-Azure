@@ -1,0 +1,41 @@
+{
+  "userId": 5914,
+  "cartId": "0a3b460a-a9aa-46a2-8339-144fd143fbc4",
+  "preferredProducts": [
+    1049,
+    2326,
+    2950,
+    1187,
+    1555,
+    4614,
+    2889,
+    2625
+  ],
+  "productReviews": [
+    {
+      "productId": 4295,
+      "reviewText": "this Buckinghamshire is awesome.",
+      "reviewDate": "2016-05-19T15:02:23.7492251+03:00"
+    },
+    {
+      "productId": 3592,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-03-25T20:16:50.5254822+03:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2020-04-18T19:53:24.8763041+03:00"
+    },
+    {
+      "productId": 563,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2018-05-29T17:46:49.8537698+03:00"
+    },
+    {
+      "productId": 1540,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-07-24T05:44:15.4602631+03:00"
+    }
+  ]
+}

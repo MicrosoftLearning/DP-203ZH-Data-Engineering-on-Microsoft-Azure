@@ -1,0 +1,35 @@
+{
+  "userId": 56195,
+  "cartId": "df634182-0cf3-4ed8-9c24-48404dc6c9f7",
+  "preferredProducts": [
+    4961,
+    1815,
+    4977,
+    2437,
+    376,
+    3808,
+    655
+  ],
+  "productReviews": [
+    {
+      "productId": 1020,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-01-23T07:12:59.7067303+02:00"
+    },
+    {
+      "productId": 1933,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-08-17T05:14:13.9475986+03:00"
+    },
+    {
+      "productId": 1791,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-12-15T06:19:26.0391201+02:00"
+    },
+    {
+      "productId": 3183,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2016-09-09T01:06:59.2851978+03:00"
+    }
+  ]
+}

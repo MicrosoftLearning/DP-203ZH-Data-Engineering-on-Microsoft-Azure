@@ -1,0 +1,34 @@
+{
+  "userId": 1861,
+  "cartId": "3f386ad1-9c45-438f-af85-af98ea6b3285",
+  "preferredProducts": [
+    2003,
+    1207,
+    3853,
+    3809,
+    3157,
+    2698
+  ],
+  "productReviews": [
+    {
+      "productId": 3456,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-07-14T22:42:30.3306275+03:00"
+    },
+    {
+      "productId": 397,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-01-01T01:06:39.2919758+02:00"
+    },
+    {
+      "productId": 1022,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-09-30T16:22:32.4651892+03:00"
+    },
+    {
+      "productId": 76,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-04-15T09:02:08.1519388+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 67509,
+  "cartId": "07d1018d-8f9e-4b10-bdd3-cd99ff6c99fd",
+  "preferredProducts": [
+    4076,
+    4051,
+    802,
+    1486,
+    1046,
+    2756,
+    655,
+    2102
+  ],
+  "productReviews": [
+    {
+      "productId": 4567,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-05-17T02:49:42.7467439+03:00"
+    },
+    {
+      "productId": 4949,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-18T17:23:57.7723033+02:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "This Senior works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-08-26T16:40:07.9972719+03:00"
+    },
+    {
+      "productId": 3204,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-09-23T13:40:28.1673086+03:00"
+    }
+  ]
+}

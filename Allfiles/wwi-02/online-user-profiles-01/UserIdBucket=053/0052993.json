@@ -1,0 +1,39 @@
+{
+  "userId": 52993,
+  "cartId": "7c6c5ed0-6a5d-46b9-a5f1-cc0e716fabff",
+  "preferredProducts": [
+    4332,
+    4723,
+    4771,
+    4042,
+    3695,
+    1203
+  ],
+  "productReviews": [
+    {
+      "productId": 35,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-06-04T05:22:32.8391844+03:00"
+    },
+    {
+      "productId": 1178,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-12-30T07:32:14.5117767+02:00"
+    },
+    {
+      "productId": 3919,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-12-01T12:33:56.4660737+02:00"
+    },
+    {
+      "productId": 3024,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-02-14T15:31:17.0556425+02:00"
+    },
+    {
+      "productId": 4941,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-07-21T22:53:30.1302883+03:00"
+    }
+  ]
+}

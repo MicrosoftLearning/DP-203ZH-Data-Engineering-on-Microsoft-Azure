@@ -1,0 +1,32 @@
+{
+  "userId": 40142,
+  "cartId": "9fef298f-ba12-49bd-9302-e1b55ff729c7",
+  "preferredProducts": [
+    4759,
+    1935,
+    3423,
+    25
+  ],
+  "productReviews": [
+    {
+      "productId": 433,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-10-30T18:16:56.8913499+02:00"
+    },
+    {
+      "productId": 3094,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-02-20T22:23:53.2746644+02:00"
+    },
+    {
+      "productId": 1147,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-04-14T10:45:08.0557043+03:00"
+    },
+    {
+      "productId": 1063,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-07-03T13:04:28.3873+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 4447,
+  "cartId": "be584388-1d5a-4596-aa39-c76d85f3f9b7",
+  "preferredProducts": [
+    730,
+    2236,
+    1554,
+    1956,
+    4259,
+    4871,
+    2198
+  ],
+  "productReviews": [
+    {
+      "productId": 3675,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-10-03T12:19:21.7956375+03:00"
+    },
+    {
+      "productId": 3323,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-11-12T16:42:35.7969801+02:00"
+    },
+    {
+      "productId": 3914,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-07-18T20:58:02.9479331+03:00"
+    }
+  ]
+}

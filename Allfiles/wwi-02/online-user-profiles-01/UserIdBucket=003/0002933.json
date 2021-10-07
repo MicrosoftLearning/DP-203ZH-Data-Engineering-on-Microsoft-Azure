@@ -1,0 +1,33 @@
+{
+  "userId": 2933,
+  "cartId": "1a3b24d4-89c6-41e2-846c-f6b8b98d3ddb",
+  "preferredProducts": [
+    112,
+    1999,
+    1063,
+    1000,
+    1954
+  ],
+  "productReviews": [
+    {
+      "productId": 1296,
+      "reviewText": "this pixel is mellow.",
+      "reviewDate": "2017-01-13T07:00:39.3378755+02:00"
+    },
+    {
+      "productId": 1071,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2020-02-09T15:51:42.4836053+02:00"
+    },
+    {
+      "productId": 1595,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-01-27T04:10:56.9378806+02:00"
+    },
+    {
+      "productId": 4906,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-04-26T13:39:26.974291+03:00"
+    }
+  ]
+}

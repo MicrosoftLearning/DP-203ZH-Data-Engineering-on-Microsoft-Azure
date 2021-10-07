@@ -1,0 +1,25 @@
+{
+  "userId": 42705,
+  "cartId": "2e35422a-f65e-43c9-9481-640dfe0c9312",
+  "preferredProducts": [
+    3138,
+    4512
+  ],
+  "productReviews": [
+    {
+      "productId": 4135,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-11-04T14:46:42.2764859+02:00"
+    },
+    {
+      "productId": 2362,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-11-03T19:18:21.8296906+02:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-02-27T10:28:58.9997898+02:00"
+    }
+  ]
+}

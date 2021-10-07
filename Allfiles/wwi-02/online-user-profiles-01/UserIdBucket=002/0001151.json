@@ -1,0 +1,37 @@
+{
+  "userId": 1151,
+  "cartId": "8d91a40e-3d2c-42ee-a770-4164bae880d5",
+  "preferredProducts": [
+    1302,
+    2564,
+    1355,
+    912,
+    1107,
+    3375,
+    3784,
+    2286,
+    3477
+  ],
+  "productReviews": [
+    {
+      "productId": 3152,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-09-25T08:15:07.0076228+03:00"
+    },
+    {
+      "productId": 1169,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-12-07T10:25:49.6503496+02:00"
+    },
+    {
+      "productId": 2087,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-08-09T22:02:21.4770444+03:00"
+    },
+    {
+      "productId": 2169,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-03-19T13:41:11.199058+02:00"
+    }
+  ]
+}

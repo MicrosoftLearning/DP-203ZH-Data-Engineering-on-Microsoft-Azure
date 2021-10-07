@@ -1,0 +1,35 @@
+{
+  "userId": 22976,
+  "cartId": "3fc5dfa2-8948-4dda-a291-a8e76e941854",
+  "preferredProducts": [
+    3022,
+    2712
+  ],
+  "productReviews": [
+    {
+      "productId": 230,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-10-15T03:54:54.0009611+03:00"
+    },
+    {
+      "productId": 4706,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-01-26T10:54:31.1317283+02:00"
+    },
+    {
+      "productId": 4080,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-11-23T10:24:44.5195743+02:00"
+    },
+    {
+      "productId": 915,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-03-25T07:14:05.5158668+03:00"
+    },
+    {
+      "productId": 2098,
+      "reviewText": "this grey is standard.",
+      "reviewDate": "2017-12-20T07:44:33.5100246+02:00"
+    }
+  ]
+}

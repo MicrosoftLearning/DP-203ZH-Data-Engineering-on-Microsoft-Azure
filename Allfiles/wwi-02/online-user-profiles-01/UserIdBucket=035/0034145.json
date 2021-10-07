@@ -1,0 +1,42 @@
+{
+  "userId": 34145,
+  "cartId": "d884087b-2bf4-4036-99e1-e674cf671b98",
+  "preferredProducts": [
+    988,
+    3679,
+    2454,
+    1159,
+    3403,
+    2894,
+    2500,
+    2837,
+    907
+  ],
+  "productReviews": [
+    {
+      "productId": 726,
+      "reviewText": "this Granite is nifty.",
+      "reviewDate": "2019-01-11T19:09:46.9085124+02:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-12-18T02:18:47.0839098+02:00"
+    },
+    {
+      "productId": 2724,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-06-17T20:15:51.3440806+03:00"
+    },
+    {
+      "productId": 905,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-05-04T23:34:38.0101608+03:00"
+    },
+    {
+      "productId": 594,
+      "reviewText": "This Concrete works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-11-19T05:25:35.7223517+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 77379,
+  "cartId": "b763d714-12d4-4d65-accb-91579d5933ea",
+  "preferredProducts": [
+    966,
+    3239
+  ],
+  "productReviews": [
+    {
+      "productId": 2004,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-06-19T07:19:25.292162+03:00"
+    },
+    {
+      "productId": 4496,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-02-28T19:47:38.4406092+02:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-11-07T10:30:53.7523477+02:00"
+    },
+    {
+      "productId": 3663,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-05-21T03:34:42.0620379+03:00"
+    },
+    {
+      "productId": 1813,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2016-10-06T11:29:04.1065884+03:00"
+    }
+  ]
+}

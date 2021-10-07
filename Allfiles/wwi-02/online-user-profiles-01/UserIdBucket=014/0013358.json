@@ -1,0 +1,30 @@
+{
+  "userId": 13358,
+  "cartId": "46767ce6-fe0d-46d4-89d5-bf389eb029f8",
+  "preferredProducts": [
+    3527,
+    3152,
+    4662,
+    3253,
+    1277,
+    759,
+    3792
+  ],
+  "productReviews": [
+    {
+      "productId": 3219,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-01-16T01:34:01.1483993+02:00"
+    },
+    {
+      "productId": 4088,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-07-20T19:09:56.5936092+03:00"
+    },
+    {
+      "productId": 4544,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-09-20T04:38:25.9460147+03:00"
+    }
+  ]
+}

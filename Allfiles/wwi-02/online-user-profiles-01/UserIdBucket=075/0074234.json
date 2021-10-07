@@ -1,0 +1,29 @@
+{
+  "userId": 74234,
+  "cartId": "9cda1252-bc4b-4964-bdb6-549134e30bf2",
+  "preferredProducts": [
+    1007,
+    1125,
+    4494,
+    3247,
+    4265,
+    2948
+  ],
+  "productReviews": [
+    {
+      "productId": 3821,
+      "reviewText": "works okay.",
+      "reviewDate": "2020-02-13T15:10:17.4652439+02:00"
+    },
+    {
+      "productId": 4043,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-09-07T03:55:37.5840547+03:00"
+    },
+    {
+      "productId": 4787,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-12-17T15:38:01.1279683+02:00"
+    }
+  ]
+}

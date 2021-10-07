@@ -1,0 +1,42 @@
+{
+  "userId": 75098,
+  "cartId": "eecc695c-5296-4035-a2fa-53dbe025d51e",
+  "preferredProducts": [
+    4473,
+    3128,
+    3142,
+    2033,
+    4979,
+    1059,
+    2878,
+    4949,
+    3866
+  ],
+  "productReviews": [
+    {
+      "productId": 4458,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-02-27T09:35:11.7512697+02:00"
+    },
+    {
+      "productId": 2895,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-11-17T02:20:37.030457+02:00"
+    },
+    {
+      "productId": 1636,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-03-22T05:41:36.2614941+02:00"
+    },
+    {
+      "productId": 3411,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-10-24T06:40:04.6130622+03:00"
+    },
+    {
+      "productId": 845,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-11-11T05:42:47.2739125+02:00"
+    }
+  ]
+}

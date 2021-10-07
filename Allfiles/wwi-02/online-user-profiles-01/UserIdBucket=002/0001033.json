@@ -1,0 +1,28 @@
+{
+  "userId": 1033,
+  "cartId": "8e76ea82-d93b-413f-b32e-2e0a6cc339aa",
+  "preferredProducts": [
+    1154,
+    4834,
+    287,
+    745,
+    3971
+  ],
+  "productReviews": [
+    {
+      "productId": 454,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-12-14T05:40:03.557044+02:00"
+    },
+    {
+      "productId": 3382,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2020-03-03T06:59:07.9243603+02:00"
+    },
+    {
+      "productId": 3749,
+      "reviewText": "This magenta works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2019-01-02T18:14:09.7039779+02:00"
+    }
+  ]
+}

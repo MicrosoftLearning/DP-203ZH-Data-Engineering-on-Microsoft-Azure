@@ -1,0 +1,31 @@
+{
+  "userId": 9772,
+  "cartId": "73e08b0e-b869-4573-a45b-f758dadf3404",
+  "preferredProducts": [
+    4132,
+    1983,
+    4544,
+    3863,
+    1593,
+    4817,
+    4529,
+    667
+  ],
+  "productReviews": [
+    {
+      "productId": 1977,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-08-22T15:01:09.5736602+03:00"
+    },
+    {
+      "productId": 2032,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-09-11T04:03:47.7859415+03:00"
+    },
+    {
+      "productId": 4879,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-12-29T07:32:13.7801175+02:00"
+    }
+  ]
+}

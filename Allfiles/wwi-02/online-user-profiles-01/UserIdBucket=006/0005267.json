@@ -1,0 +1,29 @@
+{
+  "userId": 5267,
+  "cartId": "d6809142-efcd-4d11-8bfb-63fd9aab3d70",
+  "preferredProducts": [
+    4450,
+    493,
+    2407,
+    1715,
+    1223,
+    188
+  ],
+  "productReviews": [
+    {
+      "productId": 3164,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-10-01T11:18:13.2379362+03:00"
+    },
+    {
+      "productId": 4475,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-02-11T18:14:27.5329626+02:00"
+    },
+    {
+      "productId": 2357,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2019-02-20T17:39:04.5141107+02:00"
+    }
+  ]
+}

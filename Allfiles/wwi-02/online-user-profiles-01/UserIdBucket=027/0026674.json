@@ -1,0 +1,33 @@
+{
+  "userId": 26674,
+  "cartId": "bea10035-f1d4-44be-a442-857d16d1feeb",
+  "preferredProducts": [
+    3668,
+    1733,
+    1433,
+    4162,
+    1136
+  ],
+  "productReviews": [
+    {
+      "productId": 1773,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-07-10T01:24:42.3524834+03:00"
+    },
+    {
+      "productId": 551,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-03-20T03:09:21.3523549+02:00"
+    },
+    {
+      "productId": 2569,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2020-02-25T15:00:27.5545497+02:00"
+    },
+    {
+      "productId": 1096,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-09-24T02:25:16.8121683+03:00"
+    }
+  ]
+}

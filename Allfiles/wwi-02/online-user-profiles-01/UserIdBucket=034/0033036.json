@@ -1,0 +1,43 @@
+{
+  "userId": 33036,
+  "cartId": "20defdbd-6ac6-45b0-a4a2-d9ced0e389fd",
+  "preferredProducts": [
+    1438,
+    2469,
+    4363,
+    725,
+    3584,
+    4861,
+    4641,
+    68,
+    1176,
+    2602
+  ],
+  "productReviews": [
+    {
+      "productId": 1591,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-03-18T16:39:19.4104057+02:00"
+    },
+    {
+      "productId": 3266,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-12-21T03:55:51.3494219+02:00"
+    },
+    {
+      "productId": 202,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-01-03T03:09:21.7655203+02:00"
+    },
+    {
+      "productId": 3163,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-03-12T22:34:39.5260487+02:00"
+    },
+    {
+      "productId": 491,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-08-31T06:47:10.9900777+03:00"
+    }
+  ]
+}

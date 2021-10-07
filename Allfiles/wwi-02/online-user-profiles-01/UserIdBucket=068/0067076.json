@@ -1,0 +1,31 @@
+{
+  "userId": 67076,
+  "cartId": "7f2af910-f2b7-403b-855d-118b51f0dd31",
+  "preferredProducts": [
+    1416,
+    1865,
+    1121,
+    930,
+    3993,
+    2317,
+    4445,
+    922
+  ],
+  "productReviews": [
+    {
+      "productId": 4809,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-01-14T04:24:29.9195017+02:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-09-11T20:10:55.2470805+03:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-10-31T23:25:07.4794025+02:00"
+    }
+  ]
+}

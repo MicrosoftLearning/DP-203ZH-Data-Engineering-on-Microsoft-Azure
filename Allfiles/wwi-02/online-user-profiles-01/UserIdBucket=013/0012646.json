@@ -1,0 +1,37 @@
+{
+  "userId": 12646,
+  "cartId": "f1cc9921-2087-4997-8465-befb219301e3",
+  "preferredProducts": [
+    2192,
+    3648,
+    4597,
+    4850,
+    246,
+    34,
+    3078,
+    3051,
+    3167
+  ],
+  "productReviews": [
+    {
+      "productId": 122,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-05-19T06:22:28.3063741+03:00"
+    },
+    {
+      "productId": 3871,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-09-24T14:53:14.3192098+03:00"
+    },
+    {
+      "productId": 3709,
+      "reviewText": "This compress works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-06-15T06:51:08.7874185+03:00"
+    },
+    {
+      "productId": 311,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-01-26T15:01:59.9969148+02:00"
+    }
+  ]
+}

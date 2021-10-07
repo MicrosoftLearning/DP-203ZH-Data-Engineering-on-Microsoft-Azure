@@ -1,0 +1,36 @@
+{
+  "userId": 11579,
+  "cartId": "4f8171d9-a6ae-4329-8e4a-609f6529ab8c",
+  "preferredProducts": [
+    3001,
+    1631,
+    2873,
+    2427,
+    4261,
+    4247,
+    4555,
+    2696
+  ],
+  "productReviews": [
+    {
+      "productId": 1752,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-12-01T10:31:06.2938544+02:00"
+    },
+    {
+      "productId": 3413,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-06-17T11:15:21.2139144+03:00"
+    },
+    {
+      "productId": 3204,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-08-16T14:08:23.9917771+03:00"
+    },
+    {
+      "productId": 1901,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-02-08T18:46:00.3275978+02:00"
+    }
+  ]
+}

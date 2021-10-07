@@ -1,0 +1,31 @@
+{
+  "userId": 60269,
+  "cartId": "d4c497d2-389e-4fd9-a807-e0622837894d",
+  "preferredProducts": [
+    1095,
+    3155,
+    2907,
+    1807,
+    3956,
+    4441,
+    3175,
+    1244
+  ],
+  "productReviews": [
+    {
+      "productId": 2694,
+      "reviewText": "this Legacy is hyper.",
+      "reviewDate": "2017-04-10T08:19:30.2833955+03:00"
+    },
+    {
+      "productId": 4483,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-09-27T03:46:09.246025+03:00"
+    },
+    {
+      "productId": 353,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-04-29T04:55:30.1525713+03:00"
+    }
+  ]
+}

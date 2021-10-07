@@ -1,0 +1,20 @@
+{
+  "userId": 42515,
+  "cartId": "520b633d-fdbc-4f92-b093-5cf13defc452",
+  "preferredProducts": [
+    4496,
+    4379
+  ],
+  "productReviews": [
+    {
+      "productId": 2945,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-03-25T22:24:33.5968504+02:00"
+    },
+    {
+      "productId": 117,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-12-31T15:41:57.0008226+02:00"
+    }
+  ]
+}

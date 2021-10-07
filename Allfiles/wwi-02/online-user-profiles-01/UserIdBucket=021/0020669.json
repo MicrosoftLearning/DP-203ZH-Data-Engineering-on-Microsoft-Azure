@@ -1,0 +1,37 @@
+{
+  "userId": 20669,
+  "cartId": "9a93dcac-974e-4b71-ac59-b26a71d24512",
+  "preferredProducts": [
+    4991,
+    4625,
+    2345,
+    2821,
+    4057,
+    3471,
+    2860,
+    3215,
+    1957
+  ],
+  "productReviews": [
+    {
+      "productId": 2910,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-04-11T09:44:58.3386412+03:00"
+    },
+    {
+      "productId": 4865,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-12-02T00:10:29.2714063+02:00"
+    },
+    {
+      "productId": 2086,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-12-07T21:56:32.8795537+02:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-01-20T02:30:15.1077732+02:00"
+    }
+  ]
+}

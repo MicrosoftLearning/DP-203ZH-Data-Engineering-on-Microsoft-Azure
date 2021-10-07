@@ -1,0 +1,32 @@
+{
+  "userId": 79567,
+  "cartId": "67e1ad19-76d5-4436-9ba0-4d34de664999",
+  "preferredProducts": [
+    1749,
+    3810,
+    1892,
+    4522,
+    2911,
+    1295,
+    2157,
+    4168,
+    3165
+  ],
+  "productReviews": [
+    {
+      "productId": 4411,
+      "reviewText": "This black works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-11-02T15:01:53.9144478+02:00"
+    },
+    {
+      "productId": 4649,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-10-06T08:15:44.7138671+03:00"
+    },
+    {
+      "productId": 3562,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-12-20T14:43:48.1310673+02:00"
+    }
+  ]
+}

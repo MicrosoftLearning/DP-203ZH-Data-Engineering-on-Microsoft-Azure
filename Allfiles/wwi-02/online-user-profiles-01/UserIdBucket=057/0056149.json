@@ -1,0 +1,33 @@
+{
+  "userId": 56149,
+  "cartId": "7d67f6c2-238d-41ee-8395-a1884e646ce5",
+  "preferredProducts": [
+    4445,
+    3880,
+    4273,
+    1520,
+    3477,
+    2727,
+    4007,
+    3180,
+    3179,
+    3709
+  ],
+  "productReviews": [
+    {
+      "productId": 912,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-05-06T00:50:59.9146609+03:00"
+    },
+    {
+      "productId": 1116,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-04-22T06:00:28.5069073+03:00"
+    },
+    {
+      "productId": 67,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-09-10T17:59:25.1369676+03:00"
+    }
+  ]
+}

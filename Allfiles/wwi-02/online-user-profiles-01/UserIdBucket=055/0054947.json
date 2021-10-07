@@ -1,0 +1,28 @@
+{
+  "userId": 54947,
+  "cartId": "b21235e6-5915-46c7-8d61-1842b09aaf79",
+  "preferredProducts": [
+    115,
+    4494,
+    1905,
+    4612,
+    3428
+  ],
+  "productReviews": [
+    {
+      "productId": 2948,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-12-14T11:45:01.5462292+02:00"
+    },
+    {
+      "productId": 1364,
+      "reviewText": "This integrated works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-08-06T15:24:55.7951392+03:00"
+    },
+    {
+      "productId": 3075,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-11-12T15:08:46.8755541+02:00"
+    }
+  ]
+}

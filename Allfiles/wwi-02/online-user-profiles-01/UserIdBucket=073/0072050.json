@@ -1,0 +1,30 @@
+{
+  "userId": 72050,
+  "cartId": "d26e8d95-c5f7-4f64-83e0-f4a0b8b96185",
+  "preferredProducts": [
+    330,
+    3257,
+    1362,
+    2785,
+    4173,
+    2275,
+    3375
+  ],
+  "productReviews": [
+    {
+      "productId": 3886,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-05-18T14:55:16.9642471+03:00"
+    },
+    {
+      "productId": 2533,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2017-11-29T07:05:04.031197+02:00"
+    },
+    {
+      "productId": 1620,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-12-08T19:57:05.6565896+02:00"
+    }
+  ]
+}

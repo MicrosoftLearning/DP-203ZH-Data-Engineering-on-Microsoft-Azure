@@ -1,0 +1,26 @@
+{
+  "userId": 33252,
+  "cartId": "869ac6de-698c-428b-b905-9e8eb9f16c8e",
+  "preferredProducts": [
+    103,
+    851,
+    3518,
+    745,
+    3582,
+    1366,
+    1700,
+    2769
+  ],
+  "productReviews": [
+    {
+      "productId": 638,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-10-07T13:16:10.5249424+03:00"
+    },
+    {
+      "productId": 4957,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-06-24T21:23:50.9294467+03:00"
+    }
+  ]
+}

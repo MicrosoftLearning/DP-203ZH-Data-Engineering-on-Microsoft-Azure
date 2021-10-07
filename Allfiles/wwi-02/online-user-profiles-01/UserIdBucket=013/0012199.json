@@ -1,0 +1,38 @@
+{
+  "userId": 12199,
+  "cartId": "b6a893c7-8c21-419b-94e2-ea25716efe66",
+  "preferredProducts": [
+    3208,
+    1005,
+    1563,
+    1465,
+    97
+  ],
+  "productReviews": [
+    {
+      "productId": 2316,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2016-07-24T18:58:34.2261105+03:00"
+    },
+    {
+      "productId": 47,
+      "reviewText": "this Central is brown.",
+      "reviewDate": "2020-03-14T21:56:35.9079581+02:00"
+    },
+    {
+      "productId": 1449,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-02-14T07:30:10.688721+02:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-04-29T18:44:02.8788106+03:00"
+    },
+    {
+      "productId": 1278,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-01-11T12:17:28.0532144+02:00"
+    }
+  ]
+}

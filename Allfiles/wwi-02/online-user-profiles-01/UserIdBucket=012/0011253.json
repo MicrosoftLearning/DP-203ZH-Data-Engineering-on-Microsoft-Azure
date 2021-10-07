@@ -1,0 +1,42 @@
+{
+  "userId": 11253,
+  "cartId": "fd13f4d1-1bd9-41cf-b9eb-6f9ffec4ee1c",
+  "preferredProducts": [
+    3517,
+    4363,
+    564,
+    3734,
+    420,
+    3152,
+    2199,
+    3883,
+    581
+  ],
+  "productReviews": [
+    {
+      "productId": 1836,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-05-20T21:59:43.5416815+03:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-12-20T17:51:07.1422866+02:00"
+    },
+    {
+      "productId": 2959,
+      "reviewText": "This Buckinghamshire works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2019-09-09T18:10:29.748054+03:00"
+    },
+    {
+      "productId": 2869,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-03-31T00:58:43.2215316+02:00"
+    },
+    {
+      "productId": 3299,
+      "reviewText": "This Portugal works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2016-12-24T00:12:49.5711358+02:00"
+    }
+  ]
+}

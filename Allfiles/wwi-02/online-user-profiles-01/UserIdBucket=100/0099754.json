@@ -1,0 +1,37 @@
+{
+  "userId": 99754,
+  "cartId": "60b44632-624f-433c-962b-42a62c044bd9",
+  "preferredProducts": [
+    1722,
+    4722,
+    3521,
+    3301,
+    4524,
+    4620,
+    1487,
+    4981,
+    2725
+  ],
+  "productReviews": [
+    {
+      "productId": 1610,
+      "reviewText": "this mindshare is brown.",
+      "reviewDate": "2016-06-27T14:47:50.7773917+03:00"
+    },
+    {
+      "productId": 460,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-09-02T04:52:10.1117667+03:00"
+    },
+    {
+      "productId": 3911,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-06-06T23:20:38.3206413+03:00"
+    },
+    {
+      "productId": 4545,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-11-29T14:47:27.8673148+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 57898,
+  "cartId": "23c99f6d-e4d6-4e86-8903-6541fad4c8c6",
+  "preferredProducts": [
+    2750,
+    1110,
+    449,
+    788,
+    3583,
+    4717,
+    2487
+  ],
+  "productReviews": [
+    {
+      "productId": 1833,
+      "reviewText": "this 1080p is snowy.",
+      "reviewDate": "2018-07-19T19:16:49.6368848+03:00"
+    },
+    {
+      "productId": 1707,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-14T04:38:18.0823869+02:00"
+    }
+  ]
+}

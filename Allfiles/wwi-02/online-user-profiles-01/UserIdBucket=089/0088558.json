@@ -1,0 +1,25 @@
+{
+  "userId": 88558,
+  "cartId": "fbff8277-1cb1-4a1f-8eb2-ffd61af95f1c",
+  "preferredProducts": [
+    355,
+    1891,
+    804,
+    4669,
+    2891,
+    868,
+    3391
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-05-31T04:34:51.2742751+03:00"
+    },
+    {
+      "productId": 1888,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-03-24T11:47:27.5486813+02:00"
+    }
+  ]
+}

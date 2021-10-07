@@ -1,0 +1,29 @@
+{
+  "userId": 66653,
+  "cartId": "138a2f7a-ef6d-451d-85a5-529fd4f5b6bd",
+  "preferredProducts": [
+    865,
+    1717,
+    3634,
+    1322,
+    528,
+    1490
+  ],
+  "productReviews": [
+    {
+      "productId": 4822,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-05-28T10:27:41.2803951+03:00"
+    },
+    {
+      "productId": 4175,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-02-26T03:37:11.3697353+02:00"
+    },
+    {
+      "productId": 444,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-03-03T17:14:21.417159+02:00"
+    }
+  ]
+}

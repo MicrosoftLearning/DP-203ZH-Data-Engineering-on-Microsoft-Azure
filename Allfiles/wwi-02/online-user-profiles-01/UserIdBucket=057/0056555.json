@@ -1,0 +1,28 @@
+{
+  "userId": 56555,
+  "cartId": "bcde485b-de67-4677-a51c-2bdf7c334833",
+  "preferredProducts": [
+    477,
+    3781,
+    4363,
+    2805,
+    4733
+  ],
+  "productReviews": [
+    {
+      "productId": 276,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-06-15T20:59:11.96613+03:00"
+    },
+    {
+      "productId": 3740,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-09-12T12:48:44.5710504+03:00"
+    },
+    {
+      "productId": 3253,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-04-21T14:09:27.3671197+03:00"
+    }
+  ]
+}

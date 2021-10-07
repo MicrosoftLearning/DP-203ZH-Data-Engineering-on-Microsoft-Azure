@@ -1,0 +1,34 @@
+{
+  "userId": 12893,
+  "cartId": "5d559124-e009-4f6b-8b2c-09d3ae9e25d0",
+  "preferredProducts": [
+    4181,
+    3123,
+    4379,
+    1481,
+    616,
+    4139
+  ],
+  "productReviews": [
+    {
+      "productId": 292,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-10-11T16:47:42.3849499+03:00"
+    },
+    {
+      "productId": 1423,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-12-19T12:39:59.0060667+02:00"
+    },
+    {
+      "productId": 1683,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-11-02T10:08:30.7637121+02:00"
+    },
+    {
+      "productId": 114,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-08-28T16:59:04.1813914+03:00"
+    }
+  ]
+}

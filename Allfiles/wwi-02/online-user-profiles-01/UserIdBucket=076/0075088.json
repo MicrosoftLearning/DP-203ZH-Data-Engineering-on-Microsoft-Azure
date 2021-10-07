@@ -1,0 +1,28 @@
+{
+  "userId": 75088,
+  "cartId": "a7afb1fd-a93d-44b3-8897-c7d0ccb8f87e",
+  "preferredProducts": [
+    1339,
+    3712,
+    4662,
+    2155,
+    1863,
+    2279,
+    4598,
+    1780,
+    3854,
+    54
+  ],
+  "productReviews": [
+    {
+      "productId": 1111,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-06-18T03:02:27.6892101+03:00"
+    },
+    {
+      "productId": 425,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-03-08T13:21:18.524568+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 33060,
+  "cartId": "6b8831cf-1234-4525-a9eb-cbb5743c0b5f",
+  "preferredProducts": [
+    1559,
+    2748,
+    2780
+  ],
+  "productReviews": [
+    {
+      "productId": 1791,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-09-21T13:06:56.3510428+03:00"
+    },
+    {
+      "productId": 4827,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-07-25T02:51:01.0188353+03:00"
+    },
+    {
+      "productId": 1599,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-12-24T22:40:55.6460292+02:00"
+    }
+  ]
+}

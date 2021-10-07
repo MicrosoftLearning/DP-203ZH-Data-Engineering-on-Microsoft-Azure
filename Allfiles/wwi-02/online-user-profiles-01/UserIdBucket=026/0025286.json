@@ -1,0 +1,42 @@
+{
+  "userId": 25286,
+  "cartId": "ac99392f-668b-4c27-95f2-12fdb77f5ec9",
+  "preferredProducts": [
+    2096,
+    2623,
+    1196,
+    910,
+    228,
+    2836,
+    838,
+    1803,
+    1096
+  ],
+  "productReviews": [
+    {
+      "productId": 3536,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-11-26T17:30:39.4663032+02:00"
+    },
+    {
+      "productId": 4977,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-04-16T15:47:24.7577764+03:00"
+    },
+    {
+      "productId": 991,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-03-01T11:59:34.3266324+02:00"
+    },
+    {
+      "productId": 1592,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-11-16T13:24:13.976027+02:00"
+    },
+    {
+      "productId": 1063,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-03-22T07:14:40.5328286+02:00"
+    }
+  ]
+}

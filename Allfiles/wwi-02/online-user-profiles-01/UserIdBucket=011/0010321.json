@@ -1,0 +1,21 @@
+{
+  "userId": 10321,
+  "cartId": "89e4713e-beef-425c-9628-77e92506fe67",
+  "preferredProducts": [
+    4272,
+    525,
+    1066
+  ],
+  "productReviews": [
+    {
+      "productId": 1374,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-04-28T06:24:18.0923608+03:00"
+    },
+    {
+      "productId": 2141,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-11-25T19:34:09.8019866+02:00"
+    }
+  ]
+}

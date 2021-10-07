@@ -1,0 +1,42 @@
+{
+  "userId": 25274,
+  "cartId": "42694a03-d616-426c-b032-11595a3618d8",
+  "preferredProducts": [
+    3414,
+    3052,
+    3391,
+    3277,
+    985,
+    1095,
+    2761,
+    2159,
+    4637
+  ],
+  "productReviews": [
+    {
+      "productId": 423,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-18T09:16:34.5170046+02:00"
+    },
+    {
+      "productId": 3401,
+      "reviewText": "This innovate, does exactly what it's suppose to do.",
+      "reviewDate": "2019-05-15T19:37:05.531061+03:00"
+    },
+    {
+      "productId": 4871,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-04-03T01:15:27.4085238+03:00"
+    },
+    {
+      "productId": 2801,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-09-12T04:03:01.1058819+03:00"
+    },
+    {
+      "productId": 3364,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-10-06T21:55:10.5614548+03:00"
+    }
+  ]
+}

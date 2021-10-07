@@ -1,0 +1,38 @@
+{
+  "userId": 75675,
+  "cartId": "c78dc42e-5fed-470f-a162-f11b1bd7e4cf",
+  "preferredProducts": [
+    4380,
+    1983,
+    3771,
+    3752,
+    1481,
+    4095,
+    286,
+    1259,
+    4884,
+    2233
+  ],
+  "productReviews": [
+    {
+      "productId": 1548,
+      "reviewText": "this open architecture is mellow.",
+      "reviewDate": "2018-12-25T21:38:09.0578742+02:00"
+    },
+    {
+      "productId": 694,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-08-03T15:28:40.8864206+03:00"
+    },
+    {
+      "productId": 4828,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-09-29T13:34:42.0611936+03:00"
+    },
+    {
+      "productId": 3839,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-11-18T11:32:44.3209613+02:00"
+    }
+  ]
+}

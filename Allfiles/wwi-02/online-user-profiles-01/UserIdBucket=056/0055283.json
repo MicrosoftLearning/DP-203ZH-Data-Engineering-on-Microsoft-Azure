@@ -1,0 +1,37 @@
+{
+  "userId": 55283,
+  "cartId": "2c209137-b59e-4be2-b6a5-1fe96d98ae0e",
+  "preferredProducts": [
+    3456,
+    4661,
+    3944,
+    2472,
+    4461,
+    2144,
+    3479,
+    3445,
+    115
+  ],
+  "productReviews": [
+    {
+      "productId": 227,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-09-13T18:19:21.2481523+03:00"
+    },
+    {
+      "productId": 2471,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-12-11T00:22:58.5856895+02:00"
+    },
+    {
+      "productId": 3827,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-12-03T22:07:09.0736306+02:00"
+    },
+    {
+      "productId": 4563,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-10-20T20:41:25.8341786+03:00"
+    }
+  ]
+}

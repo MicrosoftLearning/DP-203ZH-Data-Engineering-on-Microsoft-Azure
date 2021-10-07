@@ -1,0 +1,26 @@
+{
+  "userId": 33786,
+  "cartId": "62bb8328-a01b-4572-ab6e-62387cbad84a",
+  "preferredProducts": [
+    4083,
+    1697,
+    422
+  ],
+  "productReviews": [
+    {
+      "productId": 351,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-05-27T06:27:35.7226886+03:00"
+    },
+    {
+      "productId": 1514,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-12-07T18:10:40.6337122+02:00"
+    },
+    {
+      "productId": 1665,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-02-03T14:58:49.6640803+02:00"
+    }
+  ]
+}

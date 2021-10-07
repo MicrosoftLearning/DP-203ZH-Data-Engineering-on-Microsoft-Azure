@@ -1,0 +1,33 @@
+{
+  "userId": 9579,
+  "cartId": "2e63c5fb-4905-4783-ba14-3bacddf3409e",
+  "preferredProducts": [
+    1625,
+    813,
+    3441,
+    4488,
+    3997
+  ],
+  "productReviews": [
+    {
+      "productId": 4835,
+      "reviewText": "this override is whole-grain.",
+      "reviewDate": "2019-10-03T04:36:32.6715689+03:00"
+    },
+    {
+      "productId": 1521,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-06-05T18:59:39.9224922+03:00"
+    },
+    {
+      "productId": 2236,
+      "reviewText": "talk about lust!!",
+      "reviewDate": "2017-02-21T02:46:41.0553784+02:00"
+    },
+    {
+      "productId": 3143,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-01-02T10:53:21.66261+02:00"
+    }
+  ]
+}

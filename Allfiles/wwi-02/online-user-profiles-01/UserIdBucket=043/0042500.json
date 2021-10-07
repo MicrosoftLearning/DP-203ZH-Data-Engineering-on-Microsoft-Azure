@@ -1,0 +1,25 @@
+{
+  "userId": 42500,
+  "cartId": "4bebf642-4dd9-4436-bee8-efe8a0dd62d9",
+  "preferredProducts": [
+    2073,
+    4043,
+    2245,
+    1882,
+    4890,
+    3291,
+    2576
+  ],
+  "productReviews": [
+    {
+      "productId": 540,
+      "reviewText": "this Face to face is standard.",
+      "reviewDate": "2019-05-15T07:46:02.6667441+03:00"
+    },
+    {
+      "productId": 4410,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-11-25T04:01:42.9826791+02:00"
+    }
+  ]
+}

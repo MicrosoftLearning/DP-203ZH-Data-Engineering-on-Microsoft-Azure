@@ -1,0 +1,34 @@
+{
+  "userId": 10333,
+  "cartId": "39e2b839-a7fb-4bbc-9017-0a03465f253f",
+  "preferredProducts": [
+    322,
+    2282,
+    4138,
+    1852,
+    1328,
+    4107
+  ],
+  "productReviews": [
+    {
+      "productId": 3755,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-07-24T07:47:17.9212277+03:00"
+    },
+    {
+      "productId": 1954,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-07-29T09:37:16.757223+03:00"
+    },
+    {
+      "productId": 3305,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-02-07T18:51:28.0309199+02:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "this Ergonomic is flirty.",
+      "reviewDate": "2020-02-20T02:57:58.9569475+02:00"
+    }
+  ]
+}

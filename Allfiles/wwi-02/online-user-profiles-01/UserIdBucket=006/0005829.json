@@ -1,0 +1,33 @@
+{
+  "userId": 5829,
+  "cartId": "a1223448-7f89-4e03-baf1-370ab9851c7a",
+  "preferredProducts": [
+    2096,
+    1702,
+    1394,
+    115,
+    4963
+  ],
+  "productReviews": [
+    {
+      "productId": 3302,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-06-26T01:08:25.6713334+03:00"
+    },
+    {
+      "productId": 3758,
+      "reviewText": "this architect is flirty.",
+      "reviewDate": "2017-10-02T13:56:06.7868859+03:00"
+    },
+    {
+      "productId": 3543,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-07-02T10:48:52.982437+03:00"
+    },
+    {
+      "productId": 3074,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-03-21T08:30:17.0272604+02:00"
+    }
+  ]
+}

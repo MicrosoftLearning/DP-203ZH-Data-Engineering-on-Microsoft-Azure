@@ -1,0 +1,37 @@
+{
+  "userId": 98393,
+  "cartId": "35aad91d-f16e-4c92-ab20-17729f557f5d",
+  "preferredProducts": [
+    1293,
+    3648,
+    1229,
+    3030,
+    269,
+    1940,
+    4314,
+    2992,
+    2140
+  ],
+  "productReviews": [
+    {
+      "productId": 3557,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-10-07T02:41:35.75636+03:00"
+    },
+    {
+      "productId": 4568,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2020-03-04T21:06:40.4357064+02:00"
+    },
+    {
+      "productId": 4726,
+      "reviewText": "this multi-byte is mellow.",
+      "reviewDate": "2018-10-21T06:50:13.9651831+03:00"
+    },
+    {
+      "productId": 4555,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-05-25T10:30:11.0609416+03:00"
+    }
+  ]
+}

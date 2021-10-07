@@ -1,0 +1,28 @@
+{
+  "userId": 2482,
+  "cartId": "4af923b1-cefa-4e2e-b362-0d66ef6d3d38",
+  "preferredProducts": [
+    812,
+    1509,
+    1678,
+    144,
+    4228
+  ],
+  "productReviews": [
+    {
+      "productId": 2365,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-02-04T20:34:39.0447991+02:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-08-27T22:58:02.3031167+03:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2020-03-17T15:52:02.0242867+02:00"
+    }
+  ]
+}

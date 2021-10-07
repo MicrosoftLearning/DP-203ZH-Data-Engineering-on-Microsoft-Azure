@@ -1,0 +1,27 @@
+{
+  "userId": 54403,
+  "cartId": "a22b3776-b94f-4c3d-bcfd-d64c9c467782",
+  "preferredProducts": [
+    1535,
+    4386,
+    612,
+    4350
+  ],
+  "productReviews": [
+    {
+      "productId": 2429,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-07-19T20:01:06.9726417+03:00"
+    },
+    {
+      "productId": 3557,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-11-19T10:11:09.1041737+02:00"
+    },
+    {
+      "productId": 2681,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-07-31T00:50:26.2216681+03:00"
+    }
+  ]
+}

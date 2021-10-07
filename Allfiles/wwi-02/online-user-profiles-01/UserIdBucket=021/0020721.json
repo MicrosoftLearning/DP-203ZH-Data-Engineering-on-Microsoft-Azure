@@ -1,0 +1,39 @@
+{
+  "userId": 20721,
+  "cartId": "bb5a16fb-de3c-47ab-aa50-16c6e5ecbac1",
+  "preferredProducts": [
+    1428,
+    4907,
+    2783,
+    4653,
+    2991,
+    3785
+  ],
+  "productReviews": [
+    {
+      "productId": 4332,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-11-11T05:13:36.0816103+02:00"
+    },
+    {
+      "productId": 3461,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-07-11T18:29:53.0291396+03:00"
+    },
+    {
+      "productId": 4037,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-01-11T21:29:52.6017118+02:00"
+    },
+    {
+      "productId": 1345,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2018-12-28T07:56:04.4089657+02:00"
+    },
+    {
+      "productId": 3306,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-03-20T15:15:40.9287583+02:00"
+    }
+  ]
+}

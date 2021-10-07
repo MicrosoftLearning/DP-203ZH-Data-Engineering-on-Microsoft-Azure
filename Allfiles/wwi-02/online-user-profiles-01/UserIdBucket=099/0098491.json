@@ -1,0 +1,28 @@
+{
+  "userId": 98491,
+  "cartId": "80cae081-81e3-483f-9cb2-3efb31b10558",
+  "preferredProducts": [
+    1053,
+    4887,
+    3351,
+    1554,
+    4296
+  ],
+  "productReviews": [
+    {
+      "productId": 262,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-06-12T17:50:46.3009545+03:00"
+    },
+    {
+      "productId": 395,
+      "reviewText": "this hybrid is awesome.",
+      "reviewDate": "2018-10-25T07:48:06.7735632+03:00"
+    },
+    {
+      "productId": 1162,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-10-03T00:30:38.9679459+03:00"
+    }
+  ]
+}

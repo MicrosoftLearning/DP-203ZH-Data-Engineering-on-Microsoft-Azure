@@ -1,0 +1,38 @@
+{
+  "userId": 68085,
+  "cartId": "d6e0af44-2191-4f72-9e72-303827d7e287",
+  "preferredProducts": [
+    3435,
+    1985,
+    2880,
+    1891,
+    3253
+  ],
+  "productReviews": [
+    {
+      "productId": 330,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-01-24T07:09:02.708899+02:00"
+    },
+    {
+      "productId": 4881,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-04-07T00:58:41.6930751+03:00"
+    },
+    {
+      "productId": 2483,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-08-12T03:39:04.2803584+03:00"
+    },
+    {
+      "productId": 3203,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-10-09T15:03:16.1296114+03:00"
+    },
+    {
+      "productId": 4543,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-04-26T03:46:18.7311986+03:00"
+    }
+  ]
+}

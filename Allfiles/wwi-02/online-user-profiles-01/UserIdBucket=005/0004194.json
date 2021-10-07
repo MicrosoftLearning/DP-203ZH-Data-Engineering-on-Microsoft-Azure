@@ -1,0 +1,30 @@
+{
+  "userId": 4194,
+  "cartId": "8bb3dafc-9a3d-4baa-82d7-a75afedfbadb",
+  "preferredProducts": [
+    4808,
+    2274
+  ],
+  "productReviews": [
+    {
+      "productId": 2803,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-02-26T14:06:02.2403071+02:00"
+    },
+    {
+      "productId": 3002,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-10-23T10:28:16.9263852+03:00"
+    },
+    {
+      "productId": 4299,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-10-02T08:42:18.9673118+03:00"
+    },
+    {
+      "productId": 2546,
+      "reviewText": "This parse works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2016-12-24T07:37:42.1922434+02:00"
+    }
+  ]
+}

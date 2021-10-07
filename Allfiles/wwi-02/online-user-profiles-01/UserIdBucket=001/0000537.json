@@ -1,0 +1,36 @@
+{
+  "userId": 537,
+  "cartId": "0e889bb7-8508-42dd-95fe-f05fff46f3cf",
+  "preferredProducts": [
+    4331,
+    3534,
+    795,
+    2925,
+    429,
+    2049,
+    3779,
+    3404
+  ],
+  "productReviews": [
+    {
+      "productId": 1865,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-08-02T12:57:57.3461847+03:00"
+    },
+    {
+      "productId": 287,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-09-08T03:02:57.5918756+03:00"
+    },
+    {
+      "productId": 1105,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-03-02T10:43:06.7377734+02:00"
+    },
+    {
+      "productId": 282,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-08-27T17:56:55.899364+03:00"
+    }
+  ]
+}

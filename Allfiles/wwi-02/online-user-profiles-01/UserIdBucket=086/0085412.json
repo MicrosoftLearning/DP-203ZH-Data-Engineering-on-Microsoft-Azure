@@ -1,0 +1,37 @@
+{
+  "userId": 85412,
+  "cartId": "bc68fa8b-656a-4090-8518-8be705f7c0fc",
+  "preferredProducts": [
+    4102,
+    3008,
+    3677,
+    1034
+  ],
+  "productReviews": [
+    {
+      "productId": 2881,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-12-14T05:35:23.0751686+02:00"
+    },
+    {
+      "productId": 1336,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-05-31T20:48:20.1571694+03:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-10-29T10:39:24.7125173+03:00"
+    },
+    {
+      "productId": 3686,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-02-22T12:36:40.4198864+02:00"
+    },
+    {
+      "productId": 482,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-03-08T12:17:07.163932+02:00"
+    }
+  ]
+}

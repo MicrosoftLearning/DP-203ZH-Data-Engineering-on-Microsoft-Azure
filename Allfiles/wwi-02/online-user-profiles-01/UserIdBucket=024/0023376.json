@@ -1,0 +1,32 @@
+{
+  "userId": 23376,
+  "cartId": "55db57b8-61f9-4e5b-9b79-5640e0ecef0f",
+  "preferredProducts": [
+    4073,
+    4573,
+    4047,
+    4513
+  ],
+  "productReviews": [
+    {
+      "productId": 578,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-06-02T21:13:49.5459339+03:00"
+    },
+    {
+      "productId": 684,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-02-26T04:29:48.1057012+02:00"
+    },
+    {
+      "productId": 4829,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-02-10T00:45:15.1884722+02:00"
+    },
+    {
+      "productId": 1903,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2020-02-10T19:57:19.0329279+02:00"
+    }
+  ]
+}

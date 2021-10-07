@@ -1,0 +1,30 @@
+{
+  "userId": 5000,
+  "cartId": "233d1c08-4bca-4937-9925-46ee57721924",
+  "preferredProducts": [
+    2404,
+    3562,
+    1859,
+    1979,
+    3093,
+    4982,
+    4082
+  ],
+  "productReviews": [
+    {
+      "productId": 1647,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-30T23:00:08.6747114+02:00"
+    },
+    {
+      "productId": 4991,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-11-03T17:19:18.7676145+02:00"
+    },
+    {
+      "productId": 4892,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-10-28T20:56:03.9969832+03:00"
+    }
+  ]
+}

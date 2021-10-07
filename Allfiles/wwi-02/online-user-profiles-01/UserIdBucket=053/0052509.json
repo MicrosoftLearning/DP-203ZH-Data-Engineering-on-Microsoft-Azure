@@ -1,0 +1,25 @@
+{
+  "userId": 52509,
+  "cartId": "f67d202a-75f9-46e6-9894-dc10c1bd3930",
+  "preferredProducts": [
+    111,
+    494
+  ],
+  "productReviews": [
+    {
+      "productId": 101,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-02-20T03:13:37.4443459+02:00"
+    },
+    {
+      "productId": 1492,
+      "reviewText": "this Shoes is flirty.",
+      "reviewDate": "2019-01-04T19:25:16.8810535+02:00"
+    },
+    {
+      "productId": 4732,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2019-04-07T04:59:41.2905556+03:00"
+    }
+  ]
+}

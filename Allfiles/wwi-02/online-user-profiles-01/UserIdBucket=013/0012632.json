@@ -1,0 +1,24 @@
+{
+  "userId": 12632,
+  "cartId": "ae1b8e0f-6284-4eac-9de3-ce406f9123a6",
+  "preferredProducts": [
+    4141,
+    2510,
+    3379,
+    1171,
+    4489,
+    543
+  ],
+  "productReviews": [
+    {
+      "productId": 543,
+      "reviewText": "this models is vertical.",
+      "reviewDate": "2017-07-25T08:53:26.8344477+03:00"
+    },
+    {
+      "productId": 1921,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-05-13T13:48:09.105448+03:00"
+    }
+  ]
+}

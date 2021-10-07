@@ -1,0 +1,33 @@
+{
+  "userId": 86947,
+  "cartId": "2cd70c1e-ff9c-4740-be84-e4698c3edd21",
+  "preferredProducts": [
+    4516,
+    2958,
+    4414,
+    1690,
+    2539
+  ],
+  "productReviews": [
+    {
+      "productId": 4277,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-10-05T18:08:42.448928+03:00"
+    },
+    {
+      "productId": 4892,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-06-26T05:43:49.5098801+03:00"
+    },
+    {
+      "productId": 4539,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-10-12T23:45:50.9275241+03:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-09-26T15:09:47.5457113+03:00"
+    }
+  ]
+}

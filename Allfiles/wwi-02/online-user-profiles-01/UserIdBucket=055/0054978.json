@@ -1,0 +1,35 @@
+{
+  "userId": 54978,
+  "cartId": "52bdde23-d7c4-4d63-9dae-4cd0c7660adf",
+  "preferredProducts": [
+    1856,
+    1543,
+    4414,
+    3004,
+    1345,
+    3222,
+    1356
+  ],
+  "productReviews": [
+    {
+      "productId": 574,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2020-02-28T09:55:46.1823183+02:00"
+    },
+    {
+      "productId": 2020,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-04-14T05:53:31.34667+03:00"
+    },
+    {
+      "productId": 2753,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-10-05T03:01:14.0132881+03:00"
+    },
+    {
+      "productId": 2770,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-06-05T01:37:32.6830161+03:00"
+    }
+  ]
+}

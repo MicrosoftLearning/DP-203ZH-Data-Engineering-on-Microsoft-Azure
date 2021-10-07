@@ -1,0 +1,31 @@
+{
+  "userId": 30804,
+  "cartId": "2e23d7a0-a0c5-42b7-9489-593b3c47cce3",
+  "preferredProducts": [
+    1945,
+    1733,
+    933,
+    1640,
+    4615,
+    3390,
+    263,
+    593
+  ],
+  "productReviews": [
+    {
+      "productId": 2996,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-11-16T00:50:43.2714624+02:00"
+    },
+    {
+      "productId": 2603,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-05-10T01:02:47.4592768+03:00"
+    },
+    {
+      "productId": 3089,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-07-09T10:40:36.3068415+03:00"
+    }
+  ]
+}

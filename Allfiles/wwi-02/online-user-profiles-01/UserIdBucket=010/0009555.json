@@ -1,0 +1,25 @@
+{
+  "userId": 9555,
+  "cartId": "a9f3290b-021c-437c-928f-c0399a72350e",
+  "preferredProducts": [
+    3960,
+    2854,
+    4059,
+    180,
+    3726,
+    3352,
+    23
+  ],
+  "productReviews": [
+    {
+      "productId": 1517,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-15T07:08:46.2253985+02:00"
+    },
+    {
+      "productId": 2083,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2016-10-06T08:52:50.4269456+03:00"
+    }
+  ]
+}

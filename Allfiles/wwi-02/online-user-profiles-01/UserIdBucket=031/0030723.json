@@ -1,0 +1,21 @@
+{
+  "userId": 30723,
+  "cartId": "2804bc1c-075f-4d00-9d1f-5a3d0bb1827f",
+  "preferredProducts": [
+    4244,
+    4687,
+    1161
+  ],
+  "productReviews": [
+    {
+      "productId": 2625,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-02-14T19:58:16.9236456+02:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-02-09T02:02:49.3094825+02:00"
+    }
+  ]
+}

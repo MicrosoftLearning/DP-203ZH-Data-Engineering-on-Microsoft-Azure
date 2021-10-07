@@ -1,0 +1,27 @@
+{
+  "userId": 87525,
+  "cartId": "2db3769f-f9f8-4569-bcc1-f188ea833512",
+  "preferredProducts": [
+    3011,
+    2629,
+    2684,
+    1573
+  ],
+  "productReviews": [
+    {
+      "productId": 1172,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-06-29T08:04:17.9874519+03:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-10-28T15:37:44.2633632+02:00"
+    },
+    {
+      "productId": 1354,
+      "reviewText": "this interface is revolting.",
+      "reviewDate": "2018-03-24T06:04:41.1173986+02:00"
+    }
+  ]
+}

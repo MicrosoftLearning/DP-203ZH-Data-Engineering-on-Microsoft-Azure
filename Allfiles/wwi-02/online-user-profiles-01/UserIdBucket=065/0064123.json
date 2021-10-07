@@ -1,0 +1,27 @@
+{
+  "userId": 64123,
+  "cartId": "49434cda-ab91-442f-8d00-cb4dd08254bb",
+  "preferredProducts": [
+    3343,
+    4588,
+    3872,
+    3247
+  ],
+  "productReviews": [
+    {
+      "productId": 1138,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-04-21T19:03:33.6148609+03:00"
+    },
+    {
+      "productId": 1142,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-04-19T22:40:41.2570754+03:00"
+    },
+    {
+      "productId": 337,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-07-16T20:54:42.8142904+03:00"
+    }
+  ]
+}

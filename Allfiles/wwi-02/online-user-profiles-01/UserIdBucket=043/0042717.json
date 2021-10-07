@@ -1,0 +1,26 @@
+{
+  "userId": 42717,
+  "cartId": "a574b23b-a461-4e2d-ac9a-ba2040ce2989",
+  "preferredProducts": [
+    4181,
+    247,
+    840
+  ],
+  "productReviews": [
+    {
+      "productId": 3902,
+      "reviewText": "this Home is honest.",
+      "reviewDate": "2019-01-09T15:28:08.2520064+02:00"
+    },
+    {
+      "productId": 637,
+      "reviewText": "This Principal works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2016-08-31T05:02:38.8310561+03:00"
+    },
+    {
+      "productId": 641,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-03-21T20:28:37.6221075+02:00"
+    }
+  ]
+}

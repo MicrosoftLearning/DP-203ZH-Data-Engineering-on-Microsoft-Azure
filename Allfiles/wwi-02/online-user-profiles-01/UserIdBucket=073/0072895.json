@@ -1,0 +1,43 @@
+{
+  "userId": 72895,
+  "cartId": "a5439614-5cd1-4a24-bf51-77dededd7f0e",
+  "preferredProducts": [
+    1466,
+    2321,
+    111,
+    2425,
+    4703,
+    4641,
+    1296,
+    1318,
+    2686,
+    1559
+  ],
+  "productReviews": [
+    {
+      "productId": 1840,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-08-30T05:16:01.5731809+03:00"
+    },
+    {
+      "productId": 2783,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-08-25T08:28:03.3350941+03:00"
+    },
+    {
+      "productId": 1857,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-01-23T20:26:02.6418718+02:00"
+    },
+    {
+      "productId": 2538,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-12-14T17:03:46.4403888+02:00"
+    },
+    {
+      "productId": 1136,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-01-09T13:38:19.1459956+02:00"
+    }
+  ]
+}

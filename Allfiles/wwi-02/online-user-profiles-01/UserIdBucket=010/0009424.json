@@ -1,0 +1,29 @@
+{
+  "userId": 9424,
+  "cartId": "91eaa895-ab97-441f-89b5-097c9a5df1c5",
+  "preferredProducts": [
+    1298,
+    1532,
+    3279,
+    2400,
+    4814,
+    3534
+  ],
+  "productReviews": [
+    {
+      "productId": 4293,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-11-09T23:35:48.283377+02:00"
+    },
+    {
+      "productId": 557,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-10-24T23:06:04.9273394+03:00"
+    },
+    {
+      "productId": 2207,
+      "reviewText": "This Concrete works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-07-22T20:31:08.8196441+03:00"
+    }
+  ]
+}

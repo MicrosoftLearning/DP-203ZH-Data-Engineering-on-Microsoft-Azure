@@ -1,0 +1,33 @@
+{
+  "userId": 32005,
+  "cartId": "2fe536a6-0441-41dc-99d5-b43de356d954",
+  "preferredProducts": [
+    4423,
+    4034,
+    3782,
+    1867,
+    799
+  ],
+  "productReviews": [
+    {
+      "productId": 3876,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-06-03T23:17:19.8431621+03:00"
+    },
+    {
+      "productId": 4513,
+      "reviewText": "this Causeway is honest.",
+      "reviewDate": "2018-04-28T21:57:16.4762234+03:00"
+    },
+    {
+      "productId": 4878,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-12-12T06:23:32.9948812+02:00"
+    },
+    {
+      "productId": 2955,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-04-10T00:56:33.6898338+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 7804,
+  "cartId": "4c5443ee-7fc3-4a5c-b722-eba44cdc384c",
+  "preferredProducts": [
+    1129,
+    683,
+    3691,
+    2719,
+    4276,
+    4792,
+    510
+  ],
+  "productReviews": [
+    {
+      "productId": 4647,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-01-16T09:49:29.0981351+02:00"
+    },
+    {
+      "productId": 3749,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-07-20T01:30:29.2139019+03:00"
+    },
+    {
+      "productId": 3298,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-10-22T00:28:12.9498031+03:00"
+    }
+  ]
+}

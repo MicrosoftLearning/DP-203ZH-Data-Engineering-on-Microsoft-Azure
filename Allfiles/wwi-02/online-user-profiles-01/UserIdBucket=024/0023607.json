@@ -1,0 +1,34 @@
+{
+  "userId": 23607,
+  "cartId": "32d53f19-ebf9-4e9e-ae19-80ca20d2ed7c",
+  "preferredProducts": [
+    1722,
+    458,
+    2467,
+    3469,
+    524,
+    1994
+  ],
+  "productReviews": [
+    {
+      "productId": 1750,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-04-14T20:28:39.9581186+03:00"
+    },
+    {
+      "productId": 3499,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-07-05T17:35:08.5365041+03:00"
+    },
+    {
+      "productId": 4554,
+      "reviewText": "This alarm, does exactly what it's suppose to do.",
+      "reviewDate": "2017-03-18T13:09:24.031674+02:00"
+    },
+    {
+      "productId": 4777,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-06-28T07:47:49.5848033+03:00"
+    }
+  ]
+}

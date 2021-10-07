@@ -1,0 +1,39 @@
+{
+  "userId": 23942,
+  "cartId": "c3a4f016-3b55-4af8-8d76-29791c668824",
+  "preferredProducts": [
+    2093,
+    2031,
+    3821,
+    2563,
+    101,
+    3294
+  ],
+  "productReviews": [
+    {
+      "productId": 928,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-09-24T22:32:44.1978657+03:00"
+    },
+    {
+      "productId": 3079,
+      "reviewText": "this Borders is awesome.",
+      "reviewDate": "2018-07-14T09:07:42.935963+03:00"
+    },
+    {
+      "productId": 988,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-11-09T14:31:15.4309215+02:00"
+    },
+    {
+      "productId": 481,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-11-27T21:02:03.1887265+02:00"
+    },
+    {
+      "productId": 1452,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-12-30T09:36:51.4752305+02:00"
+    }
+  ]
+}

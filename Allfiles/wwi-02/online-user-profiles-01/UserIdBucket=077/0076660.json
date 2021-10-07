@@ -1,0 +1,30 @@
+{
+  "userId": 76660,
+  "cartId": "5ee4fc6f-c65e-4cc0-9470-41b158ef4354",
+  "preferredProducts": [
+    2761,
+    741,
+    318,
+    3056,
+    1673,
+    1580,
+    3252
+  ],
+  "productReviews": [
+    {
+      "productId": 2167,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2020-01-08T09:12:34.1140899+02:00"
+    },
+    {
+      "productId": 2233,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-10-03T08:23:17.6330913+03:00"
+    },
+    {
+      "productId": 1296,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-09-16T03:32:02.7231235+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 1520,
+  "cartId": "26bbf21c-6d4f-489d-89f5-da7e965522b9",
+  "preferredProducts": [
+    1640,
+    4025,
+    1947,
+    461,
+    3315,
+    4549,
+    544,
+    330,
+    4590
+  ],
+  "productReviews": [
+    {
+      "productId": 350,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-09-12T05:29:46.9489314+03:00"
+    },
+    {
+      "productId": 4240,
+      "reviewText": "this Bridge is hyper.",
+      "reviewDate": "2018-11-13T06:38:13.6095094+02:00"
+    }
+  ]
+}

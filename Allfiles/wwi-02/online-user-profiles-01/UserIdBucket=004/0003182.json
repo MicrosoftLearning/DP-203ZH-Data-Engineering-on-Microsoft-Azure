@@ -1,0 +1,40 @@
+{
+  "userId": 3182,
+  "cartId": "aa1ab09f-8a8c-4a4b-b352-1e77364cc928",
+  "preferredProducts": [
+    2033,
+    391,
+    860,
+    2855,
+    3624,
+    3174,
+    2659
+  ],
+  "productReviews": [
+    {
+      "productId": 1001,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-12-12T14:43:51.1178761+02:00"
+    },
+    {
+      "productId": 1103,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-07-12T11:55:21.5556217+03:00"
+    },
+    {
+      "productId": 3225,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-08-03T04:32:53.9687707+03:00"
+    },
+    {
+      "productId": 904,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-07-31T22:45:08.0377654+03:00"
+    },
+    {
+      "productId": 1541,
+      "reviewText": "This invoice works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-04-14T15:44:00.2602256+03:00"
+    }
+  ]
+}

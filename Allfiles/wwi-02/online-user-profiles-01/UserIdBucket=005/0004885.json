@@ -1,0 +1,34 @@
+{
+  "userId": 4885,
+  "cartId": "b0d85390-9b6a-4e52-bb80-3ec56f5a16e2",
+  "preferredProducts": [
+    3295,
+    4042,
+    3351,
+    1818,
+    3000,
+    1243
+  ],
+  "productReviews": [
+    {
+      "productId": 248,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-04-06T21:38:40.7827131+03:00"
+    },
+    {
+      "productId": 3218,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-02-12T19:52:44.4685774+02:00"
+    },
+    {
+      "productId": 2189,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-09-07T16:41:26.5879639+03:00"
+    },
+    {
+      "productId": 3189,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-04-25T04:49:31.4118325+03:00"
+    }
+  ]
+}

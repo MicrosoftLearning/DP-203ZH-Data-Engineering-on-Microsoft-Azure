@@ -1,0 +1,35 @@
+{
+  "userId": 14070,
+  "cartId": "fbebcbb0-e1a2-4bbf-a6f0-3deb7a6cafd0",
+  "preferredProducts": [
+    2784,
+    3681,
+    4045,
+    1978,
+    912,
+    491,
+    4282
+  ],
+  "productReviews": [
+    {
+      "productId": 2899,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-10-30T09:38:55.3990713+02:00"
+    },
+    {
+      "productId": 1859,
+      "reviewText": "This payment works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2020-05-08T08:26:51.7380434+03:00"
+    },
+    {
+      "productId": 409,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-08-13T21:31:18.2310789+03:00"
+    },
+    {
+      "productId": 3447,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-06-13T06:07:04.014402+03:00"
+    }
+  ]
+}

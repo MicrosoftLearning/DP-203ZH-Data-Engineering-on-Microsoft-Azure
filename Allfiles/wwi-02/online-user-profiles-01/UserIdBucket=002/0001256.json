@@ -1,0 +1,25 @@
+{
+  "userId": 1256,
+  "cartId": "9cf4c2db-c844-4ca2-bd0d-28271d25c5f1",
+  "preferredProducts": [
+    3481,
+    312,
+    4114,
+    2437,
+    2437,
+    2676,
+    763
+  ],
+  "productReviews": [
+    {
+      "productId": 4245,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-08-29T04:09:58.6963118+03:00"
+    },
+    {
+      "productId": 2885,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-12-29T18:07:30.6108993+02:00"
+    }
+  ]
+}

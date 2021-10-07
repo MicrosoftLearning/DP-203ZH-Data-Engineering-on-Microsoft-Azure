@@ -1,0 +1,27 @@
+{
+  "userId": 31989,
+  "cartId": "9def6870-d027-47e1-b2bd-f28e78c98124",
+  "preferredProducts": [
+    4623,
+    4161,
+    1238,
+    156
+  ],
+  "productReviews": [
+    {
+      "productId": 2443,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-08-16T23:01:22.563744+03:00"
+    },
+    {
+      "productId": 2600,
+      "reviewText": "this Island is dominant.",
+      "reviewDate": "2018-02-05T09:30:03.2293378+02:00"
+    },
+    {
+      "productId": 4225,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-07-08T19:23:40.4825163+03:00"
+    }
+  ]
+}

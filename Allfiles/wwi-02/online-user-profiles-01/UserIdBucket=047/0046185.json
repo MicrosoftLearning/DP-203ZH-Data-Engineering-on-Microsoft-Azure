@@ -1,0 +1,30 @@
+{
+  "userId": 46185,
+  "cartId": "11277d5e-a9b5-4055-bf50-c465ca37d7c6",
+  "preferredProducts": [
+    279,
+    2737,
+    3206,
+    4637,
+    2071,
+    3216,
+    3981
+  ],
+  "productReviews": [
+    {
+      "productId": 2920,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2020-03-02T18:35:58.0623893+02:00"
+    },
+    {
+      "productId": 2688,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2020-01-17T17:02:38.6316888+02:00"
+    },
+    {
+      "productId": 170,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-08-06T00:58:45.4190624+03:00"
+    }
+  ]
+}

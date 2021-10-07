@@ -1,0 +1,30 @@
+{
+  "userId": 33653,
+  "cartId": "c2d9cb25-d0a9-4e2f-9a26-65ab5b9945ee",
+  "preferredProducts": [
+    2528,
+    1386,
+    3659,
+    3162,
+    4631,
+    3961,
+    3484
+  ],
+  "productReviews": [
+    {
+      "productId": 246,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-07-29T20:20:53.1754421+03:00"
+    },
+    {
+      "productId": 2573,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-07-20T08:42:42.8064675+03:00"
+    },
+    {
+      "productId": 3496,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-03-09T17:30:00.6840452+02:00"
+    }
+  ]
+}

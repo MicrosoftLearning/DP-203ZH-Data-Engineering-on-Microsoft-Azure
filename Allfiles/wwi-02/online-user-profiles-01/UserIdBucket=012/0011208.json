@@ -1,0 +1,32 @@
+{
+  "userId": 11208,
+  "cartId": "00d637ef-dac4-4db8-9101-c99702b034b2",
+  "preferredProducts": [
+    2455,
+    3304,
+    2796,
+    3933
+  ],
+  "productReviews": [
+    {
+      "productId": 2681,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-04-09T09:50:17.0857685+03:00"
+    },
+    {
+      "productId": 1165,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-04-03T09:31:23.4459815+03:00"
+    },
+    {
+      "productId": 4269,
+      "reviewText": "This salmon works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2020-03-05T07:01:32.2625315+02:00"
+    },
+    {
+      "productId": 4606,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-10-29T21:37:51.4825767+02:00"
+    }
+  ]
+}

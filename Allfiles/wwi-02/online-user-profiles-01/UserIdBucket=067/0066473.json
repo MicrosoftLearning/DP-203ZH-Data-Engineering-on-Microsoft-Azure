@@ -1,0 +1,29 @@
+{
+  "userId": 66473,
+  "cartId": "ea8d2803-44bd-4962-8fcc-4feab84c79d4",
+  "preferredProducts": [
+    2068,
+    382,
+    1000,
+    202,
+    1671,
+    4447
+  ],
+  "productReviews": [
+    {
+      "productId": 3360,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-03-23T20:08:00.8674488+02:00"
+    },
+    {
+      "productId": 4664,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-06-27T00:49:58.0738768+03:00"
+    },
+    {
+      "productId": 4636,
+      "reviewText": "this groupware is brown.",
+      "reviewDate": "2019-08-26T11:45:47.1136961+03:00"
+    }
+  ]
+}

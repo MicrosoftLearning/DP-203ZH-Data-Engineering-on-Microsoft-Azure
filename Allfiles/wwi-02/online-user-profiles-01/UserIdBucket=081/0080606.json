@@ -1,0 +1,31 @@
+{
+  "userId": 80606,
+  "cartId": "413d6f2c-cc22-4014-871d-b9d8bafcaa69",
+  "preferredProducts": [
+    602,
+    686,
+    2064,
+    2879,
+    4145,
+    1923,
+    2855,
+    4279
+  ],
+  "productReviews": [
+    {
+      "productId": 333,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-09-20T19:45:26.7761916+03:00"
+    },
+    {
+      "productId": 3228,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-03-11T17:49:37.9822631+02:00"
+    },
+    {
+      "productId": 1625,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-02-04T22:18:34.5136213+02:00"
+    }
+  ]
+}

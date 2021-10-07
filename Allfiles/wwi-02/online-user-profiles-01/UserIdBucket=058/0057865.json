@@ -1,0 +1,24 @@
+{
+  "userId": 57865,
+  "cartId": "ccb3a4a1-7485-4c45-8e2d-99483cd2a412",
+  "preferredProducts": [
+    2046,
+    2838,
+    4145,
+    4646,
+    2449,
+    4071
+  ],
+  "productReviews": [
+    {
+      "productId": 1549,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-09-26T06:31:22.6018542+03:00"
+    },
+    {
+      "productId": 3291,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-05-14T08:18:45.9118363+03:00"
+    }
+  ]
+}

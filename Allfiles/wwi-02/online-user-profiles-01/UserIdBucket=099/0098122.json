@@ -1,0 +1,30 @@
+{
+  "userId": 98122,
+  "cartId": "857c099a-c3cd-4e3b-b4bf-406113b12ca1",
+  "preferredProducts": [
+    3761,
+    2359,
+    3484,
+    1693,
+    1237,
+    744,
+    4501
+  ],
+  "productReviews": [
+    {
+      "productId": 1069,
+      "reviewText": "This Awesome works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-10-16T20:52:31.6669432+03:00"
+    },
+    {
+      "productId": 4119,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-10-16T16:21:50.3653386+03:00"
+    },
+    {
+      "productId": 2573,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-12-31T20:20:48.4215152+02:00"
+    }
+  ]
+}

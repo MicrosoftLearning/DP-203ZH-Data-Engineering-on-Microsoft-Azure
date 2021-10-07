@@ -1,0 +1,39 @@
+{
+  "userId": 27343,
+  "cartId": "50b580a1-73a8-4097-8d96-df283a77475b",
+  "preferredProducts": [
+    3173,
+    3667,
+    2113,
+    2018,
+    2295,
+    4054
+  ],
+  "productReviews": [
+    {
+      "productId": 4098,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-11-15T20:33:00.5560949+02:00"
+    },
+    {
+      "productId": 433,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-04-11T22:52:46.374956+03:00"
+    },
+    {
+      "productId": 4729,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-12-02T21:59:30.2971823+02:00"
+    },
+    {
+      "productId": 4762,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-12-10T13:10:58.2996349+02:00"
+    },
+    {
+      "productId": 3145,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-02-14T11:24:53.8156686+02:00"
+    }
+  ]
+}

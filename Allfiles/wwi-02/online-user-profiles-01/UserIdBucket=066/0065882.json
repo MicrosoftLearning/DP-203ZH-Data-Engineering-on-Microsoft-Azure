@@ -1,0 +1,29 @@
+{
+  "userId": 65882,
+  "cartId": "9d623838-87aa-4652-9e3f-7e2d8e89d698",
+  "preferredProducts": [
+    1900,
+    472,
+    2145,
+    926,
+    1137,
+    3415
+  ],
+  "productReviews": [
+    {
+      "productId": 3216,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-10-16T05:08:27.1495125+03:00"
+    },
+    {
+      "productId": 323,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-05-25T00:18:37.1150496+03:00"
+    },
+    {
+      "productId": 3758,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-09-14T10:46:31.6157359+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 30212,
+  "cartId": "c7bd67aa-0f47-42b7-8cb5-4a976615e8f5",
+  "preferredProducts": [
+    2554,
+    2586,
+    2159,
+    2014,
+    1779,
+    2457,
+    3207,
+    4042,
+    3983,
+    1485
+  ],
+  "productReviews": [
+    {
+      "productId": 2105,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-11-01T01:59:01.9393632+02:00"
+    },
+    {
+      "productId": 70,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-06-12T14:45:43.6679242+03:00"
+    },
+    {
+      "productId": 1416,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-04-10T13:13:08.5406246+03:00"
+    }
+  ]
+}

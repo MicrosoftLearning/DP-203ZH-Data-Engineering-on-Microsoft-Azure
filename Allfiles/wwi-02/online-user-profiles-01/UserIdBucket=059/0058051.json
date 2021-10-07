@@ -1,0 +1,26 @@
+{
+  "userId": 58051,
+  "cartId": "c7ea512f-564a-4825-82fc-bbf87172dc0c",
+  "preferredProducts": [
+    2123,
+    2095,
+    2083
+  ],
+  "productReviews": [
+    {
+      "productId": 1481,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-08-07T10:12:31.2223186+03:00"
+    },
+    {
+      "productId": 4375,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-12-27T08:33:15.0992134+02:00"
+    },
+    {
+      "productId": 2205,
+      "reviewText": "This is a really good override.",
+      "reviewDate": "2017-05-15T00:22:54.6583473+03:00"
+    }
+  ]
+}

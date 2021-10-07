@@ -1,0 +1,29 @@
+{
+  "userId": 54370,
+  "cartId": "d90d5994-6756-4b19-a27f-94b5e9b538c1",
+  "preferredProducts": [
+    3549,
+    2022,
+    1496,
+    2342,
+    3284,
+    4792
+  ],
+  "productReviews": [
+    {
+      "productId": 4278,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-11-26T08:26:20.1975597+02:00"
+    },
+    {
+      "productId": 1000,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-06-25T05:03:21.9956243+03:00"
+    },
+    {
+      "productId": 2474,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-07-12T11:31:17.2211925+03:00"
+    }
+  ]
+}

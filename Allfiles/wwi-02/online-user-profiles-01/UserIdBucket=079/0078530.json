@@ -1,0 +1,27 @@
+{
+  "userId": 78530,
+  "cartId": "10f6ae51-4f7b-4131-9aab-4321e2a2df72",
+  "preferredProducts": [
+    3269,
+    3786,
+    4572,
+    4456
+  ],
+  "productReviews": [
+    {
+      "productId": 4542,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2020-03-05T06:18:46.4334728+02:00"
+    },
+    {
+      "productId": 174,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-05-27T05:11:44.4216592+03:00"
+    },
+    {
+      "productId": 3507,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-02-04T07:59:56.5734442+02:00"
+    }
+  ]
+}

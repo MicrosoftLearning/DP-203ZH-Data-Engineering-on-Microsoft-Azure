@@ -1,0 +1,30 @@
+{
+  "userId": 14053,
+  "cartId": "89f9d57b-1439-4569-abed-3a1e3c7fe9f5",
+  "preferredProducts": [
+    3469,
+    1040
+  ],
+  "productReviews": [
+    {
+      "productId": 283,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-05-21T22:59:15.0570377+03:00"
+    },
+    {
+      "productId": 2454,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-03-28T21:57:17.6659813+02:00"
+    },
+    {
+      "productId": 182,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Paraguay keeps them away.",
+      "reviewDate": "2019-10-22T12:07:38.8360985+03:00"
+    },
+    {
+      "productId": 2835,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-11-19T10:30:24.5341502+02:00"
+    }
+  ]
+}

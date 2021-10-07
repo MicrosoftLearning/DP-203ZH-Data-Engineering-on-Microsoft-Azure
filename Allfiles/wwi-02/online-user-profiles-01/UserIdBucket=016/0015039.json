@@ -1,0 +1,30 @@
+{
+  "userId": 15039,
+  "cartId": "381311df-f228-49dd-99ea-4740b2174825",
+  "preferredProducts": [
+    2870,
+    3279
+  ],
+  "productReviews": [
+    {
+      "productId": 4845,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-06-05T12:02:14.8178541+03:00"
+    },
+    {
+      "productId": 3766,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-07-28T11:07:28.4241822+03:00"
+    },
+    {
+      "productId": 4200,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-03-14T18:50:24.0295264+02:00"
+    },
+    {
+      "productId": 4768,
+      "reviewText": "this New York is hyper.",
+      "reviewDate": "2019-05-18T22:23:34.917228+03:00"
+    }
+  ]
+}

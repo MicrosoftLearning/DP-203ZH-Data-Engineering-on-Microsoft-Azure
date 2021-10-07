@@ -1,0 +1,31 @@
+{
+  "userId": 49909,
+  "cartId": "5d8f6e91-cc70-4377-aa24-5c41c0fcbaac",
+  "preferredProducts": [
+    2730,
+    213,
+    3823,
+    1353,
+    2311,
+    1975,
+    2050,
+    1015
+  ],
+  "productReviews": [
+    {
+      "productId": 3949,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-01-11T05:37:49.4514623+02:00"
+    },
+    {
+      "productId": 4554,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-01-25T07:05:50.365337+02:00"
+    },
+    {
+      "productId": 921,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-12-31T22:22:09.6085782+02:00"
+    }
+  ]
+}

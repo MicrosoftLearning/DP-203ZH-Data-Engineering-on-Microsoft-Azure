@@ -1,0 +1,33 @@
+{
+  "userId": 34564,
+  "cartId": "a80d3466-eefc-417f-b4a6-f99f09700387",
+  "preferredProducts": [
+    4889,
+    3031,
+    4885,
+    3685,
+    1371
+  ],
+  "productReviews": [
+    {
+      "productId": 4407,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-01-03T16:18:31.8705692+02:00"
+    },
+    {
+      "productId": 813,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-08-15T02:04:31.200324+03:00"
+    },
+    {
+      "productId": 205,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-09-19T21:36:17.0609405+03:00"
+    },
+    {
+      "productId": 3072,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-08-25T03:49:25.7898893+03:00"
+    }
+  ]
+}

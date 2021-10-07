@@ -1,0 +1,41 @@
+{
+  "userId": 97371,
+  "cartId": "bc9c50dd-14bf-45af-93f1-b3fc3afa0da8",
+  "preferredProducts": [
+    222,
+    4005,
+    3056,
+    2450,
+    3177,
+    4746,
+    608,
+    1424
+  ],
+  "productReviews": [
+    {
+      "productId": 3075,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-06-30T09:15:28.5135386+03:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-11-11T12:36:33.4108635+02:00"
+    },
+    {
+      "productId": 588,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2020-01-13T21:35:15.0320672+02:00"
+    },
+    {
+      "productId": 4627,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-09-02T03:58:24.2508779+03:00"
+    },
+    {
+      "productId": 445,
+      "reviewText": "this EXE is revolting.",
+      "reviewDate": "2018-01-01T21:26:45.1488389+02:00"
+    }
+  ]
+}

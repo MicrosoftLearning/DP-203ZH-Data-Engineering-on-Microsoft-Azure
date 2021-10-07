@@ -1,0 +1,23 @@
+{
+  "userId": 4999,
+  "cartId": "dfb59cf7-fa3d-4456-a37c-36b28a016076",
+  "preferredProducts": [
+    928,
+    3079,
+    3729,
+    4743,
+    4544
+  ],
+  "productReviews": [
+    {
+      "productId": 2661,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-05-17T08:43:25.3690978+03:00"
+    },
+    {
+      "productId": 1384,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-12-25T18:12:36.2262536+02:00"
+    }
+  ]
+}

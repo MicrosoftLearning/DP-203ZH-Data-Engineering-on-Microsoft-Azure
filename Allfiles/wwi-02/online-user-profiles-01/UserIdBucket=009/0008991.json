@@ -1,0 +1,33 @@
+{
+  "userId": 8991,
+  "cartId": "ab5975f5-f184-4069-9343-53085d59cae2",
+  "preferredProducts": [
+    4966,
+    2236,
+    1353,
+    505,
+    1023
+  ],
+  "productReviews": [
+    {
+      "productId": 4604,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-09-01T02:51:48.2481527+03:00"
+    },
+    {
+      "productId": 4262,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-01-19T01:21:54.5369215+02:00"
+    },
+    {
+      "productId": 1406,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-10-22T19:47:36.2892449+03:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-12-06T21:17:49.7168202+02:00"
+    }
+  ]
+}

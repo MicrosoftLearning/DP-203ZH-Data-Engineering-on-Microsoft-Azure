@@ -1,0 +1,30 @@
+{
+  "userId": 32993,
+  "cartId": "7a998e11-0247-46ef-9678-64b5d9a3fecf",
+  "preferredProducts": [
+    2201,
+    4406
+  ],
+  "productReviews": [
+    {
+      "productId": 1599,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-04-01T10:02:11.1857819+03:00"
+    },
+    {
+      "productId": 899,
+      "reviewText": "this streamline is flirty.",
+      "reviewDate": "2018-06-12T10:39:31.3785147+03:00"
+    },
+    {
+      "productId": 514,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-07-14T08:27:45.0508497+03:00"
+    },
+    {
+      "productId": 581,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2020-02-20T03:11:05.3732113+02:00"
+    }
+  ]
+}

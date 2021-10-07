@@ -1,0 +1,31 @@
+{
+  "userId": 10179,
+  "cartId": "2da5ed8c-fe71-4e1a-a1f0-bef3440ab48f",
+  "preferredProducts": [
+    4831,
+    777,
+    2371
+  ],
+  "productReviews": [
+    {
+      "productId": 3053,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-11-22T09:23:17.7442975+02:00"
+    },
+    {
+      "productId": 2113,
+      "reviewText": "This cohesive works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2017-04-17T18:30:10.8765822+03:00"
+    },
+    {
+      "productId": 1988,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2020-04-04T18:23:25.7292357+03:00"
+    },
+    {
+      "productId": 2707,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-03-02T10:58:54.9018923+02:00"
+    }
+  ]
+}

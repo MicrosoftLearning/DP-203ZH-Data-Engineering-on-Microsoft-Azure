@@ -1,0 +1,27 @@
+{
+  "userId": 98145,
+  "cartId": "56654eac-c83c-4ddb-b2e3-a50762537ca0",
+  "preferredProducts": [
+    2143,
+    1409,
+    1378,
+    218
+  ],
+  "productReviews": [
+    {
+      "productId": 4247,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-12-17T06:07:30.2403864+02:00"
+    },
+    {
+      "productId": 3532,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-05-31T07:22:02.959969+03:00"
+    },
+    {
+      "productId": 948,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-12-13T04:37:52.0800658+02:00"
+    }
+  ]
+}

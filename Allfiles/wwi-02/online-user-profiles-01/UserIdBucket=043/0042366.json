@@ -1,0 +1,33 @@
+{
+  "userId": 42366,
+  "cartId": "a98cec07-490d-4c7c-b375-af32f5119768",
+  "preferredProducts": [
+    690,
+    1138,
+    424,
+    1306,
+    4448,
+    49,
+    4392,
+    931,
+    897,
+    1716
+  ],
+  "productReviews": [
+    {
+      "productId": 2850,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-09-05T15:40:29.3371944+03:00"
+    },
+    {
+      "productId": 2209,
+      "reviewText": "this Seamless is mellow.",
+      "reviewDate": "2019-12-26T07:44:59.8239783+02:00"
+    },
+    {
+      "productId": 912,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-01-24T19:10:32.3579222+02:00"
+    }
+  ]
+}

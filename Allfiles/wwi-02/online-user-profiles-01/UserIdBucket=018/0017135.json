@@ -1,0 +1,26 @@
+{
+  "userId": 17135,
+  "cartId": "c3158ea9-9004-4140-9e44-0ab944bbbd7d",
+  "preferredProducts": [
+    118,
+    634,
+    4807
+  ],
+  "productReviews": [
+    {
+      "productId": 484,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-12-16T00:45:55.2156002+02:00"
+    },
+    {
+      "productId": 3079,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-11-01T03:41:58.1390924+02:00"
+    },
+    {
+      "productId": 61,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-09-19T03:48:28.2823429+03:00"
+    }
+  ]
+}

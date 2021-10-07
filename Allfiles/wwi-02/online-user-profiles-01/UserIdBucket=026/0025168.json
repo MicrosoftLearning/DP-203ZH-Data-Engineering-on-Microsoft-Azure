@@ -1,0 +1,33 @@
+{
+  "userId": 25168,
+  "cartId": "0b5ce809-23c1-464b-88c7-466e5817ba42",
+  "preferredProducts": [
+    820,
+    154,
+    2632,
+    2012,
+    4500
+  ],
+  "productReviews": [
+    {
+      "productId": 3591,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-05-02T12:52:01.4450708+03:00"
+    },
+    {
+      "productId": 3815,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-04-30T15:06:23.2960277+03:00"
+    },
+    {
+      "productId": 2833,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-03-22T09:39:21.1861601+02:00"
+    },
+    {
+      "productId": 2260,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-09-19T03:52:29.3682812+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 66075,
+  "cartId": "5613cf0b-db6f-462e-a7fc-c03ec45c0915",
+  "preferredProducts": [
+    189,
+    3153,
+    902,
+    1162,
+    3947,
+    350,
+    3003,
+    1390,
+    1299,
+    4983
+  ],
+  "productReviews": [
+    {
+      "productId": 235,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-11-18T11:03:27.8900559+02:00"
+    },
+    {
+      "productId": 393,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-02-05T07:04:37.6604055+02:00"
+    },
+    {
+      "productId": 4956,
+      "reviewText": "This hack works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-09-19T22:29:43.9744934+03:00"
+    }
+  ]
+}

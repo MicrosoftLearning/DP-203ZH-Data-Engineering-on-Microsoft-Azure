@@ -1,0 +1,31 @@
+{
+  "userId": 12416,
+  "cartId": "049ae127-7fbc-4e16-b6a4-fb7140d28b09",
+  "preferredProducts": [
+    223,
+    2929,
+    1635
+  ],
+  "productReviews": [
+    {
+      "productId": 1021,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2018-06-01T15:20:15.3217528+03:00"
+    },
+    {
+      "productId": 3649,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-07-08T15:28:15.5835718+03:00"
+    },
+    {
+      "productId": 4340,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-11-03T05:15:33.9390606+02:00"
+    },
+    {
+      "productId": 1605,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-01-06T04:44:51.7352944+02:00"
+    }
+  ]
+}

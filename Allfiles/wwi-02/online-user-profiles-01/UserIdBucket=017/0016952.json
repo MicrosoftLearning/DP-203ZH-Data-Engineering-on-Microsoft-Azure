@@ -1,0 +1,32 @@
+{
+  "userId": 16952,
+  "cartId": "b107fd35-51f7-4a00-84a2-26dfd0ee9e77",
+  "preferredProducts": [
+    3883,
+    1738,
+    4382,
+    4133
+  ],
+  "productReviews": [
+    {
+      "productId": 654,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-05-17T13:46:45.0940285+03:00"
+    },
+    {
+      "productId": 215,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-07-15T01:40:36.2536542+03:00"
+    },
+    {
+      "productId": 3815,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-08-01T20:21:55.38718+03:00"
+    },
+    {
+      "productId": 4791,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-07-18T12:05:42.6339948+03:00"
+    }
+  ]
+}

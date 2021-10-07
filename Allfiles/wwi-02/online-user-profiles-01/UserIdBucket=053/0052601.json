@@ -1,0 +1,35 @@
+{
+  "userId": 52601,
+  "cartId": "ce3a87dd-c0a6-44d3-b115-21797f0580dd",
+  "preferredProducts": [
+    2093,
+    2712,
+    647,
+    4205,
+    758,
+    4001,
+    4435
+  ],
+  "productReviews": [
+    {
+      "productId": 3825,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-12-07T00:46:19.7848942+02:00"
+    },
+    {
+      "productId": 4186,
+      "reviewText": "this Overpass is vertical.",
+      "reviewDate": "2016-12-17T09:19:26.1757859+02:00"
+    },
+    {
+      "productId": 2348,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-06-18T20:08:03.8162638+03:00"
+    },
+    {
+      "productId": 4182,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-07-31T13:11:59.9685191+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 7104,
+  "cartId": "4fc1e256-c50c-4c64-87ad-c652ee528cf2",
+  "preferredProducts": [
+    3697,
+    879,
+    313,
+    3117,
+    4403,
+    2304,
+    3709,
+    2668
+  ],
+  "productReviews": [
+    {
+      "productId": 4444,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-02-04T08:44:08.9271205+02:00"
+    },
+    {
+      "productId": 4439,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-05-04T21:35:21.5961411+03:00"
+    },
+    {
+      "productId": 4746,
+      "reviewText": "this connect is snowy.",
+      "reviewDate": "2019-02-28T01:37:43.5849477+02:00"
+    }
+  ]
+}

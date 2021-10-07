@@ -1,0 +1,28 @@
+{
+  "userId": 987,
+  "cartId": "5f957a6c-cced-4c19-8366-49d034da0185",
+  "preferredProducts": [
+    531,
+    2775,
+    1716,
+    3870,
+    3206,
+    3197,
+    3368,
+    3471,
+    4262,
+    399
+  ],
+  "productReviews": [
+    {
+      "productId": 3101,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-06-18T22:37:22.6850506+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-01-10T16:16:00.8207529+02:00"
+    }
+  ]
+}

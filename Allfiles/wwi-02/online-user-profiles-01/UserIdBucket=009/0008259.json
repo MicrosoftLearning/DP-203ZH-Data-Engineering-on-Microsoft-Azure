@@ -1,0 +1,41 @@
+{
+  "userId": 8259,
+  "cartId": "cc4e3ee3-b665-4e92-b1b2-9725380153fa",
+  "preferredProducts": [
+    3379,
+    799,
+    4623,
+    3123,
+    634,
+    97,
+    3261,
+    147
+  ],
+  "productReviews": [
+    {
+      "productId": 4248,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-07-17T05:05:46.4248981+03:00"
+    },
+    {
+      "productId": 4341,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-11-26T22:46:19.6370387+02:00"
+    },
+    {
+      "productId": 4185,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-11-25T14:34:51.5897332+02:00"
+    },
+    {
+      "productId": 2276,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-05-14T06:01:19.1661452+03:00"
+    },
+    {
+      "productId": 1566,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-11-20T04:48:07.3672373+02:00"
+    }
+  ]
+}

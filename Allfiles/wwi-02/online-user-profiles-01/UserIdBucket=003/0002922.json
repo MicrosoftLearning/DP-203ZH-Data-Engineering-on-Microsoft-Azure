@@ -1,0 +1,32 @@
+{
+  "userId": 2922,
+  "cartId": "6aee8f01-fcb8-407a-8cbd-ca52c0e6cff6",
+  "preferredProducts": [
+    4776,
+    2006,
+    422,
+    3291
+  ],
+  "productReviews": [
+    {
+      "productId": 4861,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-07-20T05:19:12.1482113+03:00"
+    },
+    {
+      "productId": 2952,
+      "reviewText": "this Parks is smooth.",
+      "reviewDate": "2017-10-02T07:55:20.3351899+03:00"
+    },
+    {
+      "productId": 1390,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-08-13T22:54:30.6573544+03:00"
+    },
+    {
+      "productId": 231,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-11-17T15:51:03.4790061+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 6973,
+  "cartId": "23088fd2-f45e-45c8-85e2-6387cd0d8276",
+  "preferredProducts": [
+    645,
+    1140,
+    2,
+    1075,
+    1688
+  ],
+  "productReviews": [
+    {
+      "productId": 1929,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-02-16T10:26:25.7327447+02:00"
+    },
+    {
+      "productId": 3739,
+      "reviewText": "This gold works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-10-28T09:15:50.4208237+02:00"
+    },
+    {
+      "productId": 2215,
+      "reviewText": "This Corner works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-06-08T08:30:14.9276785+03:00"
+    },
+    {
+      "productId": 1063,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-12-06T10:27:38.0493343+02:00"
+    },
+    {
+      "productId": 3055,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-01-02T13:16:26.8615937+02:00"
+    }
+  ]
+}

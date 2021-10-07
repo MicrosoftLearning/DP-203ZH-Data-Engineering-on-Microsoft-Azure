@@ -1,0 +1,30 @@
+{
+  "userId": 24222,
+  "cartId": "95a1e8da-6dfe-4f00-9382-8f8dbbd4a648",
+  "preferredProducts": [
+    660,
+    210,
+    1797,
+    4194,
+    3414,
+    1697,
+    307
+  ],
+  "productReviews": [
+    {
+      "productId": 4368,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-01-13T07:33:04.9610058+02:00"
+    },
+    {
+      "productId": 2142,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-03-12T19:46:22.504286+02:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-11-12T09:23:38.9500247+02:00"
+    }
+  ]
+}

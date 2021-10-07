@@ -1,0 +1,26 @@
+{
+  "userId": 30740,
+  "cartId": "9a50fc01-6a5f-4252-890c-6f3de523f3ae",
+  "preferredProducts": [
+    1604,
+    1787,
+    1999
+  ],
+  "productReviews": [
+    {
+      "productId": 834,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-11-04T18:24:45.9710377+02:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-04-28T11:42:17.8339223+03:00"
+    },
+    {
+      "productId": 906,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-02-11T19:38:09.1678332+02:00"
+    }
+  ]
+}

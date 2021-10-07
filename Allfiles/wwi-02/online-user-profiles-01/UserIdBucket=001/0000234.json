@@ -1,0 +1,29 @@
+{
+  "userId": 234,
+  "cartId": "4cf0bcde-c044-4f59-b77e-10225bfb6c97",
+  "preferredProducts": [
+    2516
+  ],
+  "productReviews": [
+    {
+      "productId": 3353,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-05-29T09:43:31.6315792+03:00"
+    },
+    {
+      "productId": 1654,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-02-10T17:04:13.6649227+02:00"
+    },
+    {
+      "productId": 2662,
+      "reviewText": "this Awesome Frozen Soap is snowy.",
+      "reviewDate": "2019-06-21T02:08:03.8071248+03:00"
+    },
+    {
+      "productId": 3208,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-10-03T19:49:42.1381041+03:00"
+    }
+  ]
+}

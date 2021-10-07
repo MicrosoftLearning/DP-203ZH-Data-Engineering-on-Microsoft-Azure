@@ -1,0 +1,23 @@
+{
+  "userId": 10620,
+  "cartId": "e2f6eda0-18e9-4eea-82b6-b7d2407c2b90",
+  "preferredProducts": [
+    4756,
+    1837,
+    2713,
+    4566,
+    2841
+  ],
+  "productReviews": [
+    {
+      "productId": 1512,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-12-29T18:21:12.3824811+02:00"
+    },
+    {
+      "productId": 3537,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-02-14T23:21:16.1365773+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 4210,
+  "cartId": "b84dc040-3a74-41fb-95ff-fcc51719a9a0",
+  "preferredProducts": [
+    1142,
+    1293,
+    1002
+  ],
+  "productReviews": [
+    {
+      "productId": 3903,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-09-22T19:42:40.4905795+03:00"
+    },
+    {
+      "productId": 3853,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-12-25T05:06:27.6969818+02:00"
+    },
+    {
+      "productId": 4043,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-07-06T23:32:34.7748604+03:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-06-28T02:48:11.7152708+03:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 55227,
+  "cartId": "e7e017e8-c3a5-4273-8f08-d27c4d2a4884",
+  "preferredProducts": [
+    111,
+    1778
+  ],
+  "productReviews": [
+    {
+      "productId": 4410,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-10-09T02:07:31.2757347+03:00"
+    },
+    {
+      "productId": 3259,
+      "reviewText": "This invoice works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-05-22T19:49:09.9286584+03:00"
+    },
+    {
+      "productId": 4524,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-09-28T16:58:50.1063591+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 12759,
+  "cartId": "e0042bcc-aceb-4185-a317-15280f15d4c3",
+  "preferredProducts": [
+    4711,
+    2391,
+    1567,
+    2135,
+    2412
+  ],
+  "productReviews": [
+    {
+      "productId": 892,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-02-27T10:51:24.4178826+02:00"
+    },
+    {
+      "productId": 616,
+      "reviewText": "This Fantastic Steel Towels works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2016-05-24T09:13:46.0318819+03:00"
+    },
+    {
+      "productId": 1814,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-04-29T23:39:39.7996013+03:00"
+    },
+    {
+      "productId": 778,
+      "reviewText": "this yellow is perplexed.",
+      "reviewDate": "2019-04-23T11:25:55.5354621+03:00"
+    }
+  ]
+}

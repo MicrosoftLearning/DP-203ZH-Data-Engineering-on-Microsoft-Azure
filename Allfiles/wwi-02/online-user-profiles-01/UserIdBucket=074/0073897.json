@@ -1,0 +1,33 @@
+{
+  "userId": 73897,
+  "cartId": "e79b7ea8-5a71-4339-86df-216318d17b6a",
+  "preferredProducts": [
+    2606,
+    701,
+    537,
+    1603,
+    4443,
+    543,
+    4938,
+    1224,
+    44,
+    316
+  ],
+  "productReviews": [
+    {
+      "productId": 2130,
+      "reviewText": "this salmon is revolting.",
+      "reviewDate": "2019-07-27T07:27:03.6925091+03:00"
+    },
+    {
+      "productId": 1969,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-04-19T14:09:08.4911407+03:00"
+    },
+    {
+      "productId": 1286,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-09-28T15:59:08.8326975+03:00"
+    }
+  ]
+}

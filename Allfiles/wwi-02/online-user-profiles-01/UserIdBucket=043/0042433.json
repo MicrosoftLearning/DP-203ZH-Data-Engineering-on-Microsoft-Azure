@@ -1,0 +1,26 @@
+{
+  "userId": 42433,
+  "cartId": "bcab6073-aeae-4990-9afd-4f91467c58c2",
+  "preferredProducts": [
+    2191,
+    2489,
+    149,
+    2771,
+    2602,
+    1545,
+    575,
+    4665
+  ],
+  "productReviews": [
+    {
+      "productId": 3087,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-06-16T20:37:31.7507697+03:00"
+    },
+    {
+      "productId": 4741,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-09-04T00:54:54.7233082+03:00"
+    }
+  ]
+}

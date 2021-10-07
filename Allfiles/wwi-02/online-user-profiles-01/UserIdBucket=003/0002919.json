@@ -1,0 +1,36 @@
+{
+  "userId": 2919,
+  "cartId": "c09e73cc-2c42-463d-9c45-7bbca9eee5cc",
+  "preferredProducts": [
+    2170,
+    1953,
+    3353,
+    3463,
+    1762,
+    1130,
+    2147,
+    2591
+  ],
+  "productReviews": [
+    {
+      "productId": 387,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-05-19T01:27:39.4377677+03:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-07-20T14:35:24.7249588+03:00"
+    },
+    {
+      "productId": 220,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-09-30T08:58:16.6708083+03:00"
+    },
+    {
+      "productId": 459,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-02-20T02:44:54.4544324+02:00"
+    }
+  ]
+}

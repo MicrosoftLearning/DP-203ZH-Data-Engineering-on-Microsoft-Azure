@@ -1,0 +1,25 @@
+{
+  "userId": 50664,
+  "cartId": "966e67a1-2df1-45b7-8578-9956107bb9b8",
+  "preferredProducts": [
+    3061,
+    3841
+  ],
+  "productReviews": [
+    {
+      "productId": 4115,
+      "reviewText": "This is a really good Outdoors & Health.",
+      "reviewDate": "2019-11-24T22:14:20.8203245+02:00"
+    },
+    {
+      "productId": 2231,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-03-26T21:00:15.0417531+03:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-12-05T19:28:03.5798642+02:00"
+    }
+  ]
+}

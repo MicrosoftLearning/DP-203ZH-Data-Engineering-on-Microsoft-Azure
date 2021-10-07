@@ -1,0 +1,23 @@
+{
+  "userId": 23110,
+  "cartId": "d1de92f1-f769-4590-95a9-7331e0d2e5ad",
+  "preferredProducts": [
+    2354,
+    2666,
+    2128,
+    362,
+    4474
+  ],
+  "productReviews": [
+    {
+      "productId": 3831,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-07-16T13:48:35.8978515+03:00"
+    },
+    {
+      "productId": 1898,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-06T00:11:12.2557504+03:00"
+    }
+  ]
+}

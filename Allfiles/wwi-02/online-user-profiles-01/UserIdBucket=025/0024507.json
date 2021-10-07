@@ -1,0 +1,27 @@
+{
+  "userId": 24507,
+  "cartId": "d05e74cc-3d3f-4e1b-8486-44ce41785e35",
+  "preferredProducts": [
+    2008,
+    1350,
+    133,
+    2333
+  ],
+  "productReviews": [
+    {
+      "productId": 3975,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-03-05T16:27:22.1115038+02:00"
+    },
+    {
+      "productId": 975,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-08-17T16:18:26.8193429+03:00"
+    },
+    {
+      "productId": 254,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-05-22T02:08:17.1409728+03:00"
+    }
+  ]
+}

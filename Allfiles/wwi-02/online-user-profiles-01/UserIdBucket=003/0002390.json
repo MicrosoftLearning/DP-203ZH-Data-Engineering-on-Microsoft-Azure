@@ -1,0 +1,35 @@
+{
+  "userId": 2390,
+  "cartId": "0e68a50f-73e9-411d-a489-8a3b2d82e2b6",
+  "preferredProducts": [
+    655,
+    4758
+  ],
+  "productReviews": [
+    {
+      "productId": 4545,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-07-31T21:57:05.0471503+03:00"
+    },
+    {
+      "productId": 4024,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-11-13T20:29:10.9687459+02:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-01-01T06:47:02.9501042+02:00"
+    },
+    {
+      "productId": 3282,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-06-05T14:57:24.1239129+03:00"
+    },
+    {
+      "productId": 1853,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-04-29T21:20:50.3817184+03:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 32045,
+  "cartId": "db6b3174-6ffe-4e97-9177-be50c1ea98a8",
+  "preferredProducts": [
+    2805,
+    4356,
+    2584,
+    3665,
+    365,
+    2112,
+    2231,
+    4288,
+    2610,
+    3375
+  ],
+  "productReviews": [
+    {
+      "productId": 1363,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-03-11T22:48:48.5973376+02:00"
+    },
+    {
+      "productId": 2217,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-02-02T16:46:42.8104992+02:00"
+    },
+    {
+      "productId": 4895,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-11-20T01:44:05.1877151+02:00"
+    },
+    {
+      "productId": 1467,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-06-03T14:05:49.4275772+03:00"
+    },
+    {
+      "productId": 3159,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-02-20T11:25:00.3494348+02:00"
+    }
+  ]
+}

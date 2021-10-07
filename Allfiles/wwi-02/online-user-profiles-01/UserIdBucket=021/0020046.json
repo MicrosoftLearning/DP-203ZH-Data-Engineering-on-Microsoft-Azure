@@ -1,0 +1,36 @@
+{
+  "userId": 20046,
+  "cartId": "e33346ec-fabc-4dc1-a339-c927a0bc8f2a",
+  "preferredProducts": [
+    3083,
+    2427,
+    854,
+    3902,
+    1758,
+    2995,
+    3645,
+    4930
+  ],
+  "productReviews": [
+    {
+      "productId": 2011,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-03-12T00:26:39.3168528+02:00"
+    },
+    {
+      "productId": 7,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-11-16T18:32:11.9956754+02:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-07-30T16:33:15.6903556+03:00"
+    },
+    {
+      "productId": 2880,
+      "reviewText": "this USB is light-hearted.",
+      "reviewDate": "2020-05-05T21:14:04.2608335+03:00"
+    }
+  ]
+}

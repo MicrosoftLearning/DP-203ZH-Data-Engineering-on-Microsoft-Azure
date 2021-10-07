@@ -1,0 +1,33 @@
+{
+  "userId": 10030,
+  "cartId": "7ce61ec3-b11a-4859-a8eb-87c319ac1c15",
+  "preferredProducts": [
+    2434,
+    2911,
+    2514,
+    1715,
+    1990,
+    1398,
+    4934,
+    4986,
+    897,
+    1056
+  ],
+  "productReviews": [
+    {
+      "productId": 3239,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2020-04-15T15:28:44.3871313+03:00"
+    },
+    {
+      "productId": 1013,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2019-04-06T11:22:38.7636633+03:00"
+    },
+    {
+      "productId": 1556,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-12-31T03:50:02.3214957+02:00"
+    }
+  ]
+}

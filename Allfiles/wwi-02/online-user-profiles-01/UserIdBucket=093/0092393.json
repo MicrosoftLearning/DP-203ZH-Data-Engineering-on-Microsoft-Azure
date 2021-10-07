@@ -1,0 +1,28 @@
+{
+  "userId": 92393,
+  "cartId": "a891c5c0-8848-4d84-b173-a5cf3e6968a6",
+  "preferredProducts": [
+    1516,
+    4737,
+    2072,
+    2399,
+    4326
+  ],
+  "productReviews": [
+    {
+      "productId": 2273,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-03-03T05:47:08.5048669+02:00"
+    },
+    {
+      "productId": 1761,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-01-21T13:03:03.7079119+02:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-10-14T16:25:40.0897823+03:00"
+    }
+  ]
+}

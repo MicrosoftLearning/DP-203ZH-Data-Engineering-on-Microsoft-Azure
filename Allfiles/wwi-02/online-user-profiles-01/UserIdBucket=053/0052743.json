@@ -1,0 +1,31 @@
+{
+  "userId": 52743,
+  "cartId": "4cb655f6-0d01-4c22-bd89-08f01e5e38a8",
+  "preferredProducts": [
+    3046,
+    1441,
+    4370,
+    998,
+    4186,
+    2064,
+    2676,
+    1530
+  ],
+  "productReviews": [
+    {
+      "productId": 318,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-03-26T13:21:21.6762472+02:00"
+    },
+    {
+      "productId": 750,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-05-17T05:35:04.325959+03:00"
+    },
+    {
+      "productId": 2921,
+      "reviewText": "This Plains works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-08-22T00:31:52.7513204+03:00"
+    }
+  ]
+}

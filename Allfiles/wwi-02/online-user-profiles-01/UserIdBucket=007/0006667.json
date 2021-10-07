@@ -1,0 +1,27 @@
+{
+  "userId": 6667,
+  "cartId": "fe383ee3-bf53-4ee7-9641-23dd024ef1b7",
+  "preferredProducts": [
+    823,
+    2606,
+    4200,
+    2310
+  ],
+  "productReviews": [
+    {
+      "productId": 3074,
+      "reviewText": "this Global is whole-grain.",
+      "reviewDate": "2019-09-12T18:00:42.8052835+03:00"
+    },
+    {
+      "productId": 2522,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-03-24T12:04:35.8835634+02:00"
+    },
+    {
+      "productId": 1967,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-09-04T07:38:49.533481+03:00"
+    }
+  ]
+}

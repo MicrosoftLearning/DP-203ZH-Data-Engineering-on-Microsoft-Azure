@@ -1,0 +1,25 @@
+{
+  "userId": 5756,
+  "cartId": "7269eb71-eb95-42fe-8033-ab281bd1e5d4",
+  "preferredProducts": [
+    1640,
+    1705,
+    1950,
+    959,
+    3944,
+    1819,
+    3757
+  ],
+  "productReviews": [
+    {
+      "productId": 1971,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-10-21T12:56:48.1062433+03:00"
+    },
+    {
+      "productId": 1736,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-01-10T15:06:08.8330303+02:00"
+    }
+  ]
+}

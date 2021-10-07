@@ -1,0 +1,29 @@
+{
+  "userId": 89383,
+  "cartId": "30d4b392-2efb-4e1c-a1c4-8ad4c924c98f",
+  "preferredProducts": [
+    3255,
+    2252,
+    439,
+    803,
+    1231,
+    3404
+  ],
+  "productReviews": [
+    {
+      "productId": 2376,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-05-22T06:37:10.0785213+03:00"
+    },
+    {
+      "productId": 4692,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-03T09:57:01.6678863+02:00"
+    },
+    {
+      "productId": 1786,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-07-26T15:32:49.726106+03:00"
+    }
+  ]
+}

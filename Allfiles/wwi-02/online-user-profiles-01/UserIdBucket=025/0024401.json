@@ -1,0 +1,31 @@
+{
+  "userId": 24401,
+  "cartId": "aa05da89-48b3-4e38-878d-eebcc9fb9389",
+  "preferredProducts": [
+    2589,
+    3017,
+    476
+  ],
+  "productReviews": [
+    {
+      "productId": 3893,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-07-20T11:30:59.7341739+03:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2020-02-15T04:49:41.7604513+02:00"
+    },
+    {
+      "productId": 1945,
+      "reviewText": "this Guadeloupe is whole-grain.",
+      "reviewDate": "2017-09-23T05:46:36.6366472+03:00"
+    },
+    {
+      "productId": 1607,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-02-02T00:25:26.0282729+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 2425,
+  "cartId": "3f45f496-a64e-4c70-bc83-732191f15b17",
+  "preferredProducts": [
+    759,
+    3322,
+    4246,
+    4003,
+    707,
+    3407,
+    4824,
+    985,
+    2641,
+    873
+  ],
+  "productReviews": [
+    {
+      "productId": 1941,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-04-07T06:05:50.9322718+03:00"
+    },
+    {
+      "productId": 346,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2018-01-01T03:42:39.9724067+02:00"
+    },
+    {
+      "productId": 932,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-02-08T22:27:08.745292+02:00"
+    },
+    {
+      "productId": 4707,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-08-20T05:35:47.7854074+03:00"
+    }
+  ]
+}

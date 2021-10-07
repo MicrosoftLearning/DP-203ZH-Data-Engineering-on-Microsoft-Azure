@@ -1,0 +1,38 @@
+{
+  "userId": 38047,
+  "cartId": "2e38fa74-ca54-40f1-b3d6-5215694beae1",
+  "preferredProducts": [
+    1224,
+    1123,
+    797,
+    4739,
+    125
+  ],
+  "productReviews": [
+    {
+      "productId": 1694,
+      "reviewText": "this Frozen is nifty.",
+      "reviewDate": "2016-12-19T05:22:19.1359023+02:00"
+    },
+    {
+      "productId": 2881,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-05-21T12:23:20.2873464+03:00"
+    },
+    {
+      "productId": 2062,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-03-24T19:07:15.4319116+02:00"
+    },
+    {
+      "productId": 3980,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-11-12T14:24:30.9893035+02:00"
+    },
+    {
+      "productId": 31,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-11-23T22:08:09.6601582+02:00"
+    }
+  ]
+}

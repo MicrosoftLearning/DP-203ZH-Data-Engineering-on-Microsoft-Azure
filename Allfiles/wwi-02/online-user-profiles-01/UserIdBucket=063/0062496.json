@@ -1,0 +1,37 @@
+{
+  "userId": 62496,
+  "cartId": "ecf89997-d8e3-49a4-a974-10cff9d60936",
+  "preferredProducts": [
+    1915,
+    2354,
+    1537,
+    791,
+    3698,
+    1576,
+    1524,
+    4461,
+    508
+  ],
+  "productReviews": [
+    {
+      "productId": 351,
+      "reviewText": "this maroon is awesome.",
+      "reviewDate": "2017-04-15T20:15:53.5195879+03:00"
+    },
+    {
+      "productId": 416,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-09-21T08:53:13.8215307+03:00"
+    },
+    {
+      "productId": 4270,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-02-24T18:23:32.95761+02:00"
+    },
+    {
+      "productId": 490,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-02-26T01:04:14.2810553+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 56522,
+  "cartId": "dec997b3-4dd6-4028-b4bf-d6e0c45b5bb8",
+  "preferredProducts": [
+    4199,
+    2689,
+    2758,
+    2402,
+    3147
+  ],
+  "productReviews": [
+    {
+      "productId": 1956,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-01-11T17:59:19.8193054+02:00"
+    },
+    {
+      "productId": 2874,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-10-05T08:36:51.8097519+03:00"
+    },
+    {
+      "productId": 2396,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-08-29T22:18:57.9463752+03:00"
+    },
+    {
+      "productId": 4068,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-01-13T17:20:40.4976411+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 91178,
+  "cartId": "c4ba256a-f5b3-4061-b179-6d4db75fe43e",
+  "preferredProducts": [
+    2335,
+    3863,
+    4253,
+    628,
+    3123,
+    1888
+  ],
+  "productReviews": [
+    {
+      "productId": 2203,
+      "reviewText": "this hacking is slurpee.",
+      "reviewDate": "2019-06-01T15:27:22.6102442+03:00"
+    },
+    {
+      "productId": 4488,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-18T05:35:54.564665+03:00"
+    },
+    {
+      "productId": 570,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-10-21T10:19:01.7643491+03:00"
+    }
+  ]
+}

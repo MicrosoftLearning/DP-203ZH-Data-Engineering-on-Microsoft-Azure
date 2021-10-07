@@ -1,0 +1,39 @@
+{
+  "userId": 3161,
+  "cartId": "29d9e747-18ff-4038-8ca7-87d08ee1bc03",
+  "preferredProducts": [
+    3506,
+    2532,
+    3907,
+    1264,
+    4710,
+    1206
+  ],
+  "productReviews": [
+    {
+      "productId": 835,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-12-19T10:11:39.2935249+02:00"
+    },
+    {
+      "productId": 2353,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-10-06T09:09:39.4479254+03:00"
+    },
+    {
+      "productId": 1774,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-07-19T13:02:14.9724808+03:00"
+    },
+    {
+      "productId": 2087,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-07-24T11:24:56.6916957+03:00"
+    },
+    {
+      "productId": 335,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-07-15T14:11:38.2095728+03:00"
+    }
+  ]
+}

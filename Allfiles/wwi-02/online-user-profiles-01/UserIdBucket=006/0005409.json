@@ -1,0 +1,33 @@
+{
+  "userId": 5409,
+  "cartId": "cf301027-1b7e-49fc-8487-6278d0ca9ed5",
+  "preferredProducts": [
+    4665,
+    247,
+    3691,
+    4092,
+    1082
+  ],
+  "productReviews": [
+    {
+      "productId": 2994,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-10-27T03:37:44.1798276+02:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2020-04-30T22:19:16.5527173+03:00"
+    },
+    {
+      "productId": 1585,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-01-23T04:29:44.1854967+02:00"
+    },
+    {
+      "productId": 1434,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-06-19T01:07:06.85389+03:00"
+    }
+  ]
+}

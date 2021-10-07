@@ -1,0 +1,31 @@
+{
+  "userId": 38599,
+  "cartId": "e3226ea9-852b-4453-a6e2-0bdfdcfbdc85",
+  "preferredProducts": [
+    3353,
+    3798,
+    2098
+  ],
+  "productReviews": [
+    {
+      "productId": 1167,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-10-20T07:53:16.9884496+03:00"
+    },
+    {
+      "productId": 4931,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-01-30T03:55:40.3925985+02:00"
+    },
+    {
+      "productId": 1082,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2020-01-19T05:24:51.9942744+02:00"
+    },
+    {
+      "productId": 735,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-05-14T11:45:33.6527712+03:00"
+    }
+  ]
+}

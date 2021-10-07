@@ -1,0 +1,27 @@
+{
+  "userId": 68154,
+  "cartId": "c333e7ab-c3c4-492e-a9c9-f9efb595dfb7",
+  "preferredProducts": [
+    2322,
+    4559,
+    2474,
+    2190
+  ],
+  "productReviews": [
+    {
+      "productId": 4300,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-02-16T22:59:32.9347171+02:00"
+    },
+    {
+      "productId": 2229,
+      "reviewText": "This Wooden works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-09-05T23:43:08.7828213+03:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-02-18T00:27:49.1964516+02:00"
+    }
+  ]
+}

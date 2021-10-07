@@ -1,0 +1,36 @@
+{
+  "userId": 11981,
+  "cartId": "27d3affe-de5e-4c90-b59d-068c981ac6da",
+  "preferredProducts": [
+    1283,
+    1490,
+    2671,
+    2928,
+    657,
+    263,
+    1980,
+    4824
+  ],
+  "productReviews": [
+    {
+      "productId": 1142,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-06-29T02:47:34.732434+03:00"
+    },
+    {
+      "productId": 4668,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-02-22T22:52:40.2713678+02:00"
+    },
+    {
+      "productId": 1288,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-04-22T14:40:23.3407196+03:00"
+    },
+    {
+      "productId": 1702,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-07-03T10:54:43.3819353+03:00"
+    }
+  ]
+}

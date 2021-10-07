@@ -1,0 +1,33 @@
+{
+  "userId": 6437,
+  "cartId": "a1f419d5-c353-4be0-b1b6-7a46f8d3a0b4",
+  "preferredProducts": [
+    1897,
+    818,
+    2873,
+    1961,
+    624,
+    4716,
+    541,
+    3633,
+    4353,
+    1796
+  ],
+  "productReviews": [
+    {
+      "productId": 1781,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-01-14T01:44:34.2855101+02:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "This Leone works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-02-15T12:31:18.6916416+02:00"
+    },
+    {
+      "productId": 2842,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-05-18T02:15:08.71352+03:00"
+    }
+  ]
+}

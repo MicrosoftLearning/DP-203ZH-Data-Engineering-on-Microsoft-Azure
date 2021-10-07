@@ -1,0 +1,39 @@
+{
+  "userId": 60567,
+  "cartId": "9a5adff4-fce3-440f-bccd-e0adab80539a",
+  "preferredProducts": [
+    1131,
+    1672,
+    5000,
+    590,
+    195,
+    4200
+  ],
+  "productReviews": [
+    {
+      "productId": 3355,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-11-29T07:51:17.7845354+02:00"
+    },
+    {
+      "productId": 2713,
+      "reviewText": "this next-generation is revolting.",
+      "reviewDate": "2016-09-11T05:53:26.9505962+03:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-03-31T04:15:41.3656746+03:00"
+    },
+    {
+      "productId": 52,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-11-17T22:13:46.3541808+02:00"
+    },
+    {
+      "productId": 4016,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-09-13T20:08:46.9021261+03:00"
+    }
+  ]
+}

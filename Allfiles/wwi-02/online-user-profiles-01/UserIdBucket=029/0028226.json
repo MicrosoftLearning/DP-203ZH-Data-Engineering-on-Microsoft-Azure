@@ -1,0 +1,28 @@
+{
+  "userId": 28226,
+  "cartId": "6db683d8-3120-4485-800c-b0130a9597bf",
+  "preferredProducts": [
+    4361,
+    2335,
+    2414,
+    1624,
+    50
+  ],
+  "productReviews": [
+    {
+      "productId": 3489,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-01-18T10:36:49.7101612+02:00"
+    },
+    {
+      "productId": 2321,
+      "reviewText": "This Incredible Plastic Hat works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-06-02T01:18:29.5513685+03:00"
+    },
+    {
+      "productId": 655,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-12-28T05:08:24.4378509+02:00"
+    }
+  ]
+}

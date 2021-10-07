@@ -1,0 +1,38 @@
+{
+  "userId": 42177,
+  "cartId": "4bffb402-b19e-44d5-9571-8822cc774e55",
+  "preferredProducts": [
+    1293,
+    3825,
+    1504,
+    2133,
+    1337,
+    1491,
+    4862,
+    2463,
+    1294,
+    2511
+  ],
+  "productReviews": [
+    {
+      "productId": 2953,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-01-23T05:49:03.0109504+02:00"
+    },
+    {
+      "productId": 4813,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-04-21T00:03:40.3503498+03:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-07-05T16:49:35.0690027+03:00"
+    },
+    {
+      "productId": 3824,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2020-04-29T05:51:21.6295726+03:00"
+    }
+  ]
+}

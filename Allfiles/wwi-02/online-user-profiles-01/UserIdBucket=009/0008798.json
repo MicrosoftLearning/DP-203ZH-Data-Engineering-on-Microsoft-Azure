@@ -1,0 +1,33 @@
+{
+  "userId": 8798,
+  "cartId": "ce4e379a-493d-4d3f-b6ea-ec7280d70774",
+  "preferredProducts": [
+    538,
+    163,
+    2373,
+    749,
+    1361,
+    2981,
+    1959,
+    425,
+    2775,
+    1551
+  ],
+  "productReviews": [
+    {
+      "productId": 4888,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-01-25T01:40:14.4612932+02:00"
+    },
+    {
+      "productId": 4143,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-01-10T17:58:12.9112258+02:00"
+    },
+    {
+      "productId": 826,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-04-08T02:03:37.1965219+03:00"
+    }
+  ]
+}

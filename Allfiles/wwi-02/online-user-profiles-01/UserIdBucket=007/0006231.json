@@ -1,0 +1,35 @@
+{
+  "userId": 6231,
+  "cartId": "8c471d2a-7a0b-4a12-a358-af8335a23b00",
+  "preferredProducts": [
+    3151,
+    2773,
+    593,
+    454,
+    1917,
+    1880,
+    2111
+  ],
+  "productReviews": [
+    {
+      "productId": 1747,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-12-02T02:12:15.2153477+02:00"
+    },
+    {
+      "productId": 2588,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-12-31T10:11:38.822987+02:00"
+    },
+    {
+      "productId": 1921,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-05-25T22:38:19.0527548+03:00"
+    },
+    {
+      "productId": 105,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-02-22T02:30:50.7302579+02:00"
+    }
+  ]
+}

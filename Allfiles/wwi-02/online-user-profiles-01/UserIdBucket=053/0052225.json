@@ -1,0 +1,30 @@
+{
+  "userId": 52225,
+  "cartId": "d93d1508-e86c-4dd4-8fe1-2e3f53eb7d67",
+  "preferredProducts": [
+    3607,
+    4743,
+    3755,
+    3015,
+    425,
+    1717,
+    4174
+  ],
+  "productReviews": [
+    {
+      "productId": 3340,
+      "reviewText": "this US Dollar is vertical.",
+      "reviewDate": "2019-05-21T01:26:48.5039942+03:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-02-19T10:37:48.6472502+02:00"
+    },
+    {
+      "productId": 4228,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-03-04T10:11:42.4642003+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 5511,
+  "cartId": "4c917019-cdf2-4b8d-aacb-5e4cf3ef36e7",
+  "preferredProducts": [
+    3565,
+    327,
+    2708,
+    2856,
+    1385,
+    4788,
+    2196,
+    604,
+    4282
+  ],
+  "productReviews": [
+    {
+      "productId": 308,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-02-07T12:16:06.0705375+02:00"
+    },
+    {
+      "productId": 4623,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2020-03-16T22:54:05.9631837+02:00"
+    },
+    {
+      "productId": 1890,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-10-31T12:01:40.9764226+02:00"
+    },
+    {
+      "productId": 1636,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2020-04-30T00:13:24.975082+03:00"
+    }
+  ]
+}

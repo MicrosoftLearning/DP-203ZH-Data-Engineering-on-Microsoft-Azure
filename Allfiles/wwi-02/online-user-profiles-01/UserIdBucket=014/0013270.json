@@ -1,0 +1,31 @@
+{
+  "userId": 13270,
+  "cartId": "7fc42d82-8e7e-4d42-ac47-6662a4553b54",
+  "preferredProducts": [
+    2776,
+    3358,
+    1447,
+    2213,
+    2889,
+    1730,
+    3938,
+    3541
+  ],
+  "productReviews": [
+    {
+      "productId": 3723,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-06-30T15:18:00.394258+03:00"
+    },
+    {
+      "productId": 1492,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-06-01T09:10:50.0468009+03:00"
+    },
+    {
+      "productId": 2369,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-09-22T13:03:48.6462673+03:00"
+    }
+  ]
+}

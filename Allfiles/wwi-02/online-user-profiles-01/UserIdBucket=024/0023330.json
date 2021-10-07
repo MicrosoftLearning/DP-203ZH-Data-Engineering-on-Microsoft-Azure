@@ -1,0 +1,33 @@
+{
+  "userId": 23330,
+  "cartId": "b3863eb5-49ff-4592-8485-b680bdad9c1b",
+  "preferredProducts": [
+    4103,
+    2522,
+    4255,
+    3675,
+    2704,
+    4437,
+    1385,
+    485,
+    1242,
+    1350
+  ],
+  "productReviews": [
+    {
+      "productId": 4110,
+      "reviewText": "This bluetooth works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2020-04-02T06:38:36.5780599+03:00"
+    },
+    {
+      "productId": 3383,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-01-04T23:39:42.0743587+02:00"
+    },
+    {
+      "productId": 4746,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-02-21T11:00:54.6924382+02:00"
+    }
+  ]
+}

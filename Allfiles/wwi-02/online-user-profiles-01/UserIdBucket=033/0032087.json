@@ -1,0 +1,30 @@
+{
+  "userId": 32087,
+  "cartId": "62015343-d206-41bc-962b-97d112c297a3",
+  "preferredProducts": [
+    2655,
+    400
+  ],
+  "productReviews": [
+    {
+      "productId": 2192,
+      "reviewText": "this Granite is awesome.",
+      "reviewDate": "2018-09-02T13:07:35.0373442+03:00"
+    },
+    {
+      "productId": 2771,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-09-17T23:04:23.9663774+03:00"
+    },
+    {
+      "productId": 1084,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-08-11T02:47:39.1504601+03:00"
+    },
+    {
+      "productId": 4845,
+      "reviewText": "This invoice works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-04-04T03:22:24.5591891+03:00"
+    }
+  ]
+}

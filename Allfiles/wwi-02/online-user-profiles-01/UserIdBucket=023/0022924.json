@@ -1,0 +1,33 @@
+{
+  "userId": 22924,
+  "cartId": "31ce67b4-2fdf-4fd8-9d91-974159902397",
+  "preferredProducts": [
+    3210,
+    4450,
+    3623,
+    698,
+    538,
+    3320,
+    4391,
+    2588,
+    2458,
+    4047
+  ],
+  "productReviews": [
+    {
+      "productId": 2101,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2018-06-13T08:30:53.0737863+03:00"
+    },
+    {
+      "productId": 1191,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-02-18T18:49:33.6499448+02:00"
+    },
+    {
+      "productId": 2173,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-04-21T00:58:20.2384142+03:00"
+    }
+  ]
+}

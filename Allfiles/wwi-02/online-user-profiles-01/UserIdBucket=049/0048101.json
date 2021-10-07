@@ -1,0 +1,33 @@
+{
+  "userId": 48101,
+  "cartId": "0d42ccab-e255-4945-8706-246651ec6d98",
+  "preferredProducts": [
+    3244,
+    1537,
+    3490,
+    4003,
+    1042
+  ],
+  "productReviews": [
+    {
+      "productId": 174,
+      "reviewText": "this Underpass is dominant.",
+      "reviewDate": "2020-02-12T09:23:09.1978077+02:00"
+    },
+    {
+      "productId": 1484,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-05-23T03:11:25.4289408+03:00"
+    },
+    {
+      "productId": 1230,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-05-14T20:31:29.55611+03:00"
+    },
+    {
+      "productId": 2186,
+      "reviewText": "this Kazakhstan is ghetto.",
+      "reviewDate": "2020-01-28T14:32:15.9338062+02:00"
+    }
+  ]
+}

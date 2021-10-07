@@ -1,0 +1,35 @@
+{
+  "userId": 68141,
+  "cartId": "00e2db49-96c8-43b9-a216-003979085e3e",
+  "preferredProducts": [
+    269,
+    2628,
+    4468,
+    3793,
+    662,
+    3310,
+    499
+  ],
+  "productReviews": [
+    {
+      "productId": 3439,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-12-19T22:39:57.2077997+02:00"
+    },
+    {
+      "productId": 202,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-01-04T19:15:15.7370106+02:00"
+    },
+    {
+      "productId": 1298,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-03-22T19:49:14.9020564+02:00"
+    },
+    {
+      "productId": 3711,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-03-03T02:35:35.9004767+02:00"
+    }
+  ]
+}

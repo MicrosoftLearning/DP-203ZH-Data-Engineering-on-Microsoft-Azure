@@ -1,0 +1,32 @@
+{
+  "userId": 22955,
+  "cartId": "9822d5b3-d64d-4485-87d9-3d6e12716de0",
+  "preferredProducts": [
+    2010,
+    4312,
+    434,
+    2015
+  ],
+  "productReviews": [
+    {
+      "productId": 2814,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-04-15T17:49:38.9680743+03:00"
+    },
+    {
+      "productId": 4655,
+      "reviewText": "this purple is complimentary.",
+      "reviewDate": "2018-11-15T16:56:59.1610461+02:00"
+    },
+    {
+      "productId": 309,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-01-18T07:10:35.9858656+02:00"
+    },
+    {
+      "productId": 3821,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-01-14T15:53:42.821232+02:00"
+    }
+  ]
+}

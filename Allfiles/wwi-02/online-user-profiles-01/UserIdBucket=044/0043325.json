@@ -1,0 +1,35 @@
+{
+  "userId": 43325,
+  "cartId": "0f120370-dbb0-4ed6-830e-f30b5bff19bd",
+  "preferredProducts": [
+    316,
+    2354
+  ],
+  "productReviews": [
+    {
+      "productId": 4025,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-09-02T18:56:16.5993138+03:00"
+    },
+    {
+      "productId": 4777,
+      "reviewText": "this Tasty is honest.",
+      "reviewDate": "2018-02-13T19:34:46.331278+02:00"
+    },
+    {
+      "productId": 3675,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-02-15T00:24:01.2589214+02:00"
+    },
+    {
+      "productId": 691,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-10-13T13:09:00.9452893+03:00"
+    },
+    {
+      "productId": 2598,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-08-08T06:49:10.1288498+03:00"
+    }
+  ]
+}

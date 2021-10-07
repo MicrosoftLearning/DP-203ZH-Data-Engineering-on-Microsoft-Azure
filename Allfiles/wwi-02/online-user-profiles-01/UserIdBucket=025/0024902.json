@@ -1,0 +1,29 @@
+{
+  "userId": 24902,
+  "cartId": "0c733af4-e1b6-45b6-95b2-7e4aca325b92",
+  "preferredProducts": [
+    4650,
+    575,
+    1705,
+    4823,
+    3035,
+    305
+  ],
+  "productReviews": [
+    {
+      "productId": 500,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-12-31T02:03:43.309493+02:00"
+    },
+    {
+      "productId": 1205,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-11-18T03:45:19.6231027+02:00"
+    },
+    {
+      "productId": 677,
+      "reviewText": "this indexing is ratty.",
+      "reviewDate": "2018-03-30T02:14:21.6727858+03:00"
+    }
+  ]
+}

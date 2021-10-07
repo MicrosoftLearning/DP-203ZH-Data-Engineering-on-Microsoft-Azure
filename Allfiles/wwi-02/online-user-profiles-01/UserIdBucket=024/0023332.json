@@ -1,0 +1,39 @@
+{
+  "userId": 23332,
+  "cartId": "7a47bf36-cbcc-4ac1-8fab-2ed8dcd8af23",
+  "preferredProducts": [
+    3753,
+    4138,
+    4665,
+    4099,
+    263,
+    3147
+  ],
+  "productReviews": [
+    {
+      "productId": 793,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-05-23T02:04:01.8431673+03:00"
+    },
+    {
+      "productId": 2501,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-05-17T00:13:42.3825619+03:00"
+    },
+    {
+      "productId": 396,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-03-14T16:59:56.9289076+02:00"
+    },
+    {
+      "productId": 3671,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2016-10-01T16:05:46.0606039+03:00"
+    },
+    {
+      "productId": 1681,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-10-28T09:11:43.6475643+02:00"
+    }
+  ]
+}

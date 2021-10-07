@@ -1,0 +1,31 @@
+{
+  "userId": 19975,
+  "cartId": "03325f0e-a999-4198-830c-4c1c69292362",
+  "preferredProducts": [
+    2540,
+    3893,
+    2461,
+    3108,
+    3676,
+    3177,
+    1310,
+    3107
+  ],
+  "productReviews": [
+    {
+      "productId": 3333,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-11-28T23:54:19.3306959+02:00"
+    },
+    {
+      "productId": 1417,
+      "reviewText": "this Movies is ratty.",
+      "reviewDate": "2017-02-01T18:13:42.0044116+02:00"
+    },
+    {
+      "productId": 302,
+      "reviewText": "This is a really good compelling.",
+      "reviewDate": "2016-09-08T18:33:03.1833511+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 21273,
+  "cartId": "91352318-f766-470d-b556-40fff96a5849",
+  "preferredProducts": [
+    3940,
+    4089,
+    789,
+    183,
+    4157,
+    1282
+  ],
+  "productReviews": [
+    {
+      "productId": 3423,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-09-11T01:43:44.8195283+03:00"
+    },
+    {
+      "productId": 4036,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-04-04T17:02:08.2757012+03:00"
+    },
+    {
+      "productId": 3,
+      "reviewText": "this driver is revolting.",
+      "reviewDate": "2019-06-01T02:06:56.3007917+03:00"
+    },
+    {
+      "productId": 3681,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-03T21:36:29.6008311+03:00"
+    }
+  ]
+}

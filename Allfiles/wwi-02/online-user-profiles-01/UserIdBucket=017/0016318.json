@@ -1,0 +1,32 @@
+{
+  "userId": 16318,
+  "cartId": "10cc0496-cc58-4105-aebb-d81d0a4d6126",
+  "preferredProducts": [
+    2690,
+    820,
+    3392,
+    4529
+  ],
+  "productReviews": [
+    {
+      "productId": 4950,
+      "reviewText": "this Avon is snowy.",
+      "reviewDate": "2019-11-26T08:16:43.8533198+02:00"
+    },
+    {
+      "productId": 3214,
+      "reviewText": "this mission-critical is awesome.",
+      "reviewDate": "2019-09-10T14:28:11.3753802+03:00"
+    },
+    {
+      "productId": 799,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-12-02T04:57:05.1847653+02:00"
+    },
+    {
+      "productId": 3862,
+      "reviewText": "This Refined Plastic Cheese works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2020-04-04T09:11:33.0821677+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 15901,
+  "cartId": "4a616d32-afe8-4eef-b22c-7de81a8774e2",
+  "preferredProducts": [
+    4420,
+    3579,
+    3238
+  ],
+  "productReviews": [
+    {
+      "productId": 275,
+      "reviewText": "This orchid works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-01-31T05:42:24.9203763+02:00"
+    },
+    {
+      "productId": 96,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-04-04T05:02:31.3007782+03:00"
+    },
+    {
+      "productId": 106,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-06-05T19:44:24.4265959+03:00"
+    },
+    {
+      "productId": 1925,
+      "reviewText": "this Generic Cotton Keyboard is mellow.",
+      "reviewDate": "2018-02-21T08:40:57.5072327+02:00"
+    }
+  ]
+}

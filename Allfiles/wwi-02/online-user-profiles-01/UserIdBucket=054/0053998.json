@@ -1,0 +1,32 @@
+{
+  "userId": 53998,
+  "cartId": "4672bc25-d608-46d1-ae4d-32cfc3e3a1cc",
+  "preferredProducts": [
+    4975,
+    365,
+    3934,
+    793
+  ],
+  "productReviews": [
+    {
+      "productId": 2123,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-02-24T06:06:05.7088763+02:00"
+    },
+    {
+      "productId": 142,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-11-06T05:06:36.2003526+02:00"
+    },
+    {
+      "productId": 39,
+      "reviewText": "this Functionality is gracious.",
+      "reviewDate": "2018-08-29T15:07:36.2576089+03:00"
+    },
+    {
+      "productId": 662,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-06-29T23:37:49.7277876+03:00"
+    }
+  ]
+}

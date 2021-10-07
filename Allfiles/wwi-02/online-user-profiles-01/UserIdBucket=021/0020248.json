@@ -1,0 +1,32 @@
+{
+  "userId": 20248,
+  "cartId": "b208259e-b393-4f18-9bb6-47aed0169b48",
+  "preferredProducts": [
+    4240,
+    563,
+    4465,
+    4090,
+    4687,
+    1433,
+    4933,
+    4393,
+    1330
+  ],
+  "productReviews": [
+    {
+      "productId": 1049,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-11-16T09:02:11.2307863+02:00"
+    },
+    {
+      "productId": 2714,
+      "reviewText": "this Shoes is amiable.",
+      "reviewDate": "2018-12-14T08:56:55.8841488+02:00"
+    },
+    {
+      "productId": 2467,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-10-23T05:59:44.3285002+03:00"
+    }
+  ]
+}

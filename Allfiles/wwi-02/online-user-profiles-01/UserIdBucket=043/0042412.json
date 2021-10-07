@@ -1,0 +1,37 @@
+{
+  "userId": 42412,
+  "cartId": "534b536b-4be7-4d78-a6cb-92c191e1e922",
+  "preferredProducts": [
+    2963,
+    3258,
+    3079,
+    4752,
+    1216,
+    468,
+    2864,
+    1650,
+    841
+  ],
+  "productReviews": [
+    {
+      "productId": 100,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-06-25T04:53:50.2188044+03:00"
+    },
+    {
+      "productId": 786,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-11-16T22:00:25.6824531+02:00"
+    },
+    {
+      "productId": 1876,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-09-08T22:15:25.8823618+03:00"
+    },
+    {
+      "productId": 4195,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-04-03T14:48:18.888454+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 78021,
+  "cartId": "8243e1db-9bf8-4e47-9dc3-af84b32805b8",
+  "preferredProducts": [
+    735,
+    250,
+    724,
+    4100,
+    3621,
+    1371,
+    1307,
+    2303,
+    4210
+  ],
+  "productReviews": [
+    {
+      "productId": 998,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-09-09T18:41:59.1879328+03:00"
+    },
+    {
+      "productId": 4896,
+      "reviewText": "This Progressive works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-10-11T13:58:16.2439822+03:00"
+    },
+    {
+      "productId": 19,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-11-04T06:22:25.0521983+02:00"
+    }
+  ]
+}

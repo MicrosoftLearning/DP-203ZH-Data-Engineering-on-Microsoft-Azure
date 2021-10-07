@@ -1,0 +1,33 @@
+{
+  "userId": 31350,
+  "cartId": "8d8f529b-3597-4b19-ba07-6cc5f75b2aa6",
+  "preferredProducts": [
+    4819,
+    2883,
+    3014,
+    4114,
+    638,
+    4873,
+    985,
+    2665,
+    365,
+    815
+  ],
+  "productReviews": [
+    {
+      "productId": 4495,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-04-21T07:34:19.8797625+03:00"
+    },
+    {
+      "productId": 2450,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-07-17T03:03:43.5418569+03:00"
+    },
+    {
+      "productId": 323,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-05-20T18:31:00.6030543+03:00"
+    }
+  ]
+}

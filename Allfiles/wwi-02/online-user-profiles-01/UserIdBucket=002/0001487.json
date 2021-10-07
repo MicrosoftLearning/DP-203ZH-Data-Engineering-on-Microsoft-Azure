@@ -1,0 +1,29 @@
+{
+  "userId": 1487,
+  "cartId": "1aa4ed6c-75f7-44d0-8bf8-4d3a5fce845e",
+  "preferredProducts": [
+    2585,
+    2494,
+    4364,
+    2944,
+    455,
+    2380
+  ],
+  "productReviews": [
+    {
+      "productId": 2234,
+      "reviewText": "this cross-platform is standard.",
+      "reviewDate": "2019-09-01T09:30:10.5908676+03:00"
+    },
+    {
+      "productId": 688,
+      "reviewText": "this turquoise is ghetto.",
+      "reviewDate": "2019-10-25T16:29:53.7792155+03:00"
+    },
+    {
+      "productId": 3190,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-01-13T19:28:41.5424392+02:00"
+    }
+  ]
+}

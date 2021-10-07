@@ -1,0 +1,31 @@
+{
+  "userId": 42672,
+  "cartId": "97bee2af-b5c8-408d-9413-0b4c9c2bf4f2",
+  "preferredProducts": [
+    2042,
+    3483,
+    2834,
+    2260,
+    1269,
+    2754,
+    952,
+    4198
+  ],
+  "productReviews": [
+    {
+      "productId": 4650,
+      "reviewText": "this Reactive is standard.",
+      "reviewDate": "2017-03-21T22:44:05.5808836+02:00"
+    },
+    {
+      "productId": 967,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-03-22T21:44:29.1283524+02:00"
+    },
+    {
+      "productId": 4768,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-03-27T16:03:28.4227505+02:00"
+    }
+  ]
+}

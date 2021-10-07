@@ -1,0 +1,26 @@
+{
+  "userId": 54341,
+  "cartId": "1e8cbd14-43dc-4a8b-9925-705dbbc95883",
+  "preferredProducts": [
+    778,
+    3718,
+    3778
+  ],
+  "productReviews": [
+    {
+      "productId": 3835,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-01-03T10:45:23.1251597+02:00"
+    },
+    {
+      "productId": 726,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-08-08T19:52:44.3594479+03:00"
+    },
+    {
+      "productId": 384,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-06-12T13:05:43.8748794+03:00"
+    }
+  ]
+}

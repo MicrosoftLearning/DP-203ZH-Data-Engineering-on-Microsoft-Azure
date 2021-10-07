@@ -1,0 +1,31 @@
+{
+  "userId": 3961,
+  "cartId": "5fc016e9-8677-426a-982a-476105d37496",
+  "preferredProducts": [
+    3071,
+    1294,
+    2752
+  ],
+  "productReviews": [
+    {
+      "productId": 2133,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-09-22T01:26:16.3559644+03:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-07-20T06:03:42.8842014+03:00"
+    },
+    {
+      "productId": 3537,
+      "reviewText": "This Architect works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-07-10T15:37:41.1842496+03:00"
+    },
+    {
+      "productId": 4372,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-02-15T21:00:54.7465023+02:00"
+    }
+  ]
+}

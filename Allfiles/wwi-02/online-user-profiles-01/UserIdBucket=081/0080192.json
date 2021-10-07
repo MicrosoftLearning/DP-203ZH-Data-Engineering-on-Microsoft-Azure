@@ -1,0 +1,33 @@
+{
+  "userId": 80192,
+  "cartId": "5b6a39d5-7279-42df-aa86-1fc559f0e7e7",
+  "preferredProducts": [
+    669,
+    1172,
+    1969,
+    3342,
+    3560,
+    4156,
+    2204,
+    1247,
+    97,
+    1989
+  ],
+  "productReviews": [
+    {
+      "productId": 871,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2020-04-27T18:40:41.3441402+03:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-09-06T13:02:52.8599189+03:00"
+    },
+    {
+      "productId": 2001,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-11-09T15:20:44.4855087+02:00"
+    }
+  ]
+}

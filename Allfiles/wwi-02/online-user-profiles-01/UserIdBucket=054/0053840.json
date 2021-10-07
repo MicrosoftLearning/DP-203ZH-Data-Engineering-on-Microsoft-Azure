@@ -1,0 +1,33 @@
+{
+  "userId": 53840,
+  "cartId": "a25f7b5c-7546-48f0-b043-65b10ff8b78a",
+  "preferredProducts": [
+    3671,
+    4009,
+    4461,
+    195,
+    1727,
+    3331,
+    4327,
+    4672,
+    1401,
+    605
+  ],
+  "productReviews": [
+    {
+      "productId": 1868,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-05-07T00:55:44.8113558+03:00"
+    },
+    {
+      "productId": 2772,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-02-10T11:03:06.4713861+02:00"
+    },
+    {
+      "productId": 3318,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-08-06T17:53:48.0279536+03:00"
+    }
+  ]
+}

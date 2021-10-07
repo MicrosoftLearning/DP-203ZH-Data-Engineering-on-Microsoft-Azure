@@ -1,0 +1,33 @@
+{
+  "userId": 12258,
+  "cartId": "45e1afdb-b9c0-49ba-bc5d-05989e492d45",
+  "preferredProducts": [
+    3498,
+    551,
+    1298,
+    2310,
+    1448
+  ],
+  "productReviews": [
+    {
+      "productId": 3460,
+      "reviewText": "this Tactics is top-notch.",
+      "reviewDate": "2020-03-21T18:58:10.3966755+02:00"
+    },
+    {
+      "productId": 1663,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-12-11T17:32:48.190711+02:00"
+    },
+    {
+      "productId": 3235,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2020-01-25T19:45:03.2314851+02:00"
+    },
+    {
+      "productId": 3118,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-09-11T20:18:49.5312611+03:00"
+    }
+  ]
+}

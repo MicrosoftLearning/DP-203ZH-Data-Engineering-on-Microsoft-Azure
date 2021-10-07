@@ -1,0 +1,26 @@
+{
+  "userId": 80083,
+  "cartId": "34ecebc5-f138-4a8a-b58c-97c26418606a",
+  "preferredProducts": [
+    2233,
+    4912,
+    3960
+  ],
+  "productReviews": [
+    {
+      "productId": 2897,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-12-18T18:52:19.2257668+02:00"
+    },
+    {
+      "productId": 4491,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2020-01-13T12:07:59.531277+02:00"
+    },
+    {
+      "productId": 2999,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-28T04:40:32.5138215+02:00"
+    }
+  ]
+}

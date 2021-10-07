@@ -1,0 +1,29 @@
+{
+  "userId": 60112,
+  "cartId": "e1c3440b-2a45-41c1-a57d-dafa142e6930",
+  "preferredProducts": [
+    527,
+    4057,
+    4479,
+    2030,
+    3921,
+    3492
+  ],
+  "productReviews": [
+    {
+      "productId": 1008,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-05-28T12:55:46.4063138+03:00"
+    },
+    {
+      "productId": 2386,
+      "reviewText": "This Turnpike works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-03-25T00:00:23.4747352+02:00"
+    },
+    {
+      "productId": 1935,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-04-01T02:24:04.2309596+03:00"
+    }
+  ]
+}

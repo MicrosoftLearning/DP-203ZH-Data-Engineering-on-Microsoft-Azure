@@ -1,0 +1,24 @@
+{
+  "userId": 71614,
+  "cartId": "edcf20db-3324-424a-a887-2cf68d9e7c32",
+  "preferredProducts": [
+    99
+  ],
+  "productReviews": [
+    {
+      "productId": 1873,
+      "reviewText": "this Engineer is awesome.",
+      "reviewDate": "2018-01-01T08:52:46.6676141+02:00"
+    },
+    {
+      "productId": 3777,
+      "reviewText": "this best-of-breed is standard.",
+      "reviewDate": "2019-06-01T11:44:26.0101917+03:00"
+    },
+    {
+      "productId": 1521,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-09-07T06:35:26.0965866+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 50583,
+  "cartId": "c20fcb4c-bcef-4b50-954d-2c276dfde23e",
+  "preferredProducts": [
+    2580,
+    2250,
+    798,
+    443,
+    4611,
+    4171,
+    1338,
+    3122
+  ],
+  "productReviews": [
+    {
+      "productId": 2211,
+      "reviewText": "this Stream is revolting.",
+      "reviewDate": "2017-12-11T16:19:07.6852053+02:00"
+    },
+    {
+      "productId": 1555,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-06-07T16:23:35.9928727+03:00"
+    },
+    {
+      "productId": 29,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-08-06T09:55:19.1429264+03:00"
+    },
+    {
+      "productId": 895,
+      "reviewText": "this gold is gracious.",
+      "reviewDate": "2020-04-23T05:39:37.3278475+03:00"
+    },
+    {
+      "productId": 672,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-05-03T21:40:43.8999027+03:00"
+    }
+  ]
+}

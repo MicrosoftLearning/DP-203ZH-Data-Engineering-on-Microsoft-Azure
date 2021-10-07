@@ -1,0 +1,26 @@
+{
+  "userId": 23993,
+  "cartId": "a05ce41e-e833-42a7-b65f-76f325ad8b6b",
+  "preferredProducts": [
+    4729,
+    1657,
+    1077
+  ],
+  "productReviews": [
+    {
+      "productId": 1805,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-07-31T18:38:45.5240397+03:00"
+    },
+    {
+      "productId": 473,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-11-02T02:57:02.6913728+02:00"
+    },
+    {
+      "productId": 4137,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-08-24T11:51:22.5456724+03:00"
+    }
+  ]
+}

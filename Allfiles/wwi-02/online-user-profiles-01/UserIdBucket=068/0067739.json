@@ -1,0 +1,32 @@
+{
+  "userId": 67739,
+  "cartId": "70765ee2-b7ee-41f7-9e69-8db2245a3534",
+  "preferredProducts": [
+    3650,
+    1543,
+    298,
+    3028
+  ],
+  "productReviews": [
+    {
+      "productId": 1743,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-12-27T01:03:20.7979265+02:00"
+    },
+    {
+      "productId": 2475,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-01-26T23:00:08.9232446+02:00"
+    },
+    {
+      "productId": 3517,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-12-13T07:20:04.0162906+02:00"
+    },
+    {
+      "productId": 2091,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-12-23T01:21:09.3585165+02:00"
+    }
+  ]
+}

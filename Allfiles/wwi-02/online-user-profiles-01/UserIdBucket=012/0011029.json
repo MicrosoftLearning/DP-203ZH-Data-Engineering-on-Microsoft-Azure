@@ -1,0 +1,37 @@
+{
+  "userId": 11029,
+  "cartId": "65850b5a-d7c5-4b0d-9077-00a22cf48461",
+  "preferredProducts": [
+    3641,
+    2831,
+    1579,
+    4330
+  ],
+  "productReviews": [
+    {
+      "productId": 2300,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-06-11T15:32:11.0892644+03:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-10-25T01:09:44.9110604+03:00"
+    },
+    {
+      "productId": 2924,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-06-29T00:12:25.2190378+03:00"
+    },
+    {
+      "productId": 1904,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2016-06-26T22:02:54.3361821+03:00"
+    },
+    {
+      "productId": 546,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-12-04T02:50:59.5759313+02:00"
+    }
+  ]
+}

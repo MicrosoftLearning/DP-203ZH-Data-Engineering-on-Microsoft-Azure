@@ -1,0 +1,32 @@
+{
+  "userId": 46270,
+  "cartId": "cb8a1daf-35de-4c19-b95b-d1361bb13731",
+  "preferredProducts": [
+    219,
+    1604,
+    2345,
+    4669
+  ],
+  "productReviews": [
+    {
+      "productId": 483,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-12-26T15:22:45.3285821+02:00"
+    },
+    {
+      "productId": 291,
+      "reviewText": "this programming is papery.",
+      "reviewDate": "2019-01-12T04:07:34.0318874+02:00"
+    },
+    {
+      "productId": 343,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-12-23T11:00:53.8046507+02:00"
+    },
+    {
+      "productId": 1807,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-03-24T16:38:47.3829301+02:00"
+    }
+  ]
+}

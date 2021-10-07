@@ -1,0 +1,31 @@
+{
+  "userId": 7023,
+  "cartId": "04370f13-8e44-48d6-bc2c-62062e364d9a",
+  "preferredProducts": [
+    4233,
+    475,
+    4030
+  ],
+  "productReviews": [
+    {
+      "productId": 4368,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-03-29T23:35:28.2849436+03:00"
+    },
+    {
+      "productId": 1025,
+      "reviewText": "this Isle is snowy.",
+      "reviewDate": "2020-02-02T04:42:15.4819572+02:00"
+    },
+    {
+      "productId": 4032,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-09-28T23:57:30.1995707+03:00"
+    },
+    {
+      "productId": 1098,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-04-08T22:35:52.1779827+03:00"
+    }
+  ]
+}

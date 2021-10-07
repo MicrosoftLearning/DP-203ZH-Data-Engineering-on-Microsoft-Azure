@@ -1,0 +1,28 @@
+{
+  "userId": 10079,
+  "cartId": "5b2bf5fb-83d8-43b5-9fc0-b66428f2148f",
+  "preferredProducts": [
+    4691,
+    4115,
+    1301,
+    3594,
+    1781
+  ],
+  "productReviews": [
+    {
+      "productId": 3259,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-10-10T04:16:33.0290977+03:00"
+    },
+    {
+      "productId": 1519,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-12-23T23:54:49.4583963+02:00"
+    },
+    {
+      "productId": 4492,
+      "reviewText": "this AI is slurpee.",
+      "reviewDate": "2018-08-22T02:04:24.0951415+03:00"
+    }
+  ]
+}

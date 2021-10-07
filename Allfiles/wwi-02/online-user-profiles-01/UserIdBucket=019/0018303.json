@@ -1,0 +1,39 @@
+{
+  "userId": 18303,
+  "cartId": "56d3210b-f5ae-47c1-8822-90877b057329",
+  "preferredProducts": [
+    275,
+    4534,
+    3792,
+    637,
+    4248,
+    51
+  ],
+  "productReviews": [
+    {
+      "productId": 123,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-10-30T17:35:40.4354954+02:00"
+    },
+    {
+      "productId": 1454,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-08-10T03:24:32.2922413+03:00"
+    },
+    {
+      "productId": 3300,
+      "reviewText": "this Designer is revolting.",
+      "reviewDate": "2019-10-25T06:36:48.1216529+03:00"
+    },
+    {
+      "productId": 3106,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-07-31T03:01:55.0976398+03:00"
+    },
+    {
+      "productId": 4723,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-10-04T15:26:30.3306594+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 19709,
+  "cartId": "0bd065ec-8104-4fb7-8a4d-547781003ca9",
+  "preferredProducts": [
+    4932,
+    3945,
+    4865,
+    3560,
+    1840
+  ],
+  "productReviews": [
+    {
+      "productId": 1067,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-07-27T09:05:16.6178827+03:00"
+    },
+    {
+      "productId": 271,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-29T04:12:23.747309+03:00"
+    },
+    {
+      "productId": 489,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-04-24T21:12:13.463929+03:00"
+    },
+    {
+      "productId": 4426,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-06-25T02:30:59.184666+03:00"
+    }
+  ]
+}

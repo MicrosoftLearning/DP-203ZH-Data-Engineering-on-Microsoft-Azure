@@ -1,0 +1,33 @@
+{
+  "userId": 88131,
+  "cartId": "3ad0612b-e17b-416b-a931-b35fea611b83",
+  "preferredProducts": [
+    2425,
+    4368,
+    20,
+    3945,
+    3803,
+    3516,
+    4002,
+    4997,
+    1186,
+    708
+  ],
+  "productReviews": [
+    {
+      "productId": 3654,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-06-28T23:14:00.7335266+03:00"
+    },
+    {
+      "productId": 4526,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-05-23T20:21:13.7605158+03:00"
+    },
+    {
+      "productId": 3225,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-05-16T13:43:24.2558613+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 99644,
+  "cartId": "24ea75df-34b9-4d1a-89f1-594c37a378d5",
+  "preferredProducts": [
+    1582,
+    4312,
+    2735,
+    1339,
+    921,
+    4733,
+    2446
+  ],
+  "productReviews": [
+    {
+      "productId": 4499,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-03-09T05:00:28.3427487+02:00"
+    },
+    {
+      "productId": 1758,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-03-16T14:33:36.6802454+02:00"
+    },
+    {
+      "productId": 1099,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-03-08T09:03:14.7775702+02:00"
+    },
+    {
+      "productId": 877,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-05-25T19:30:38.9617412+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 80817,
+  "cartId": "2c1f54e6-88aa-4bc6-9f6c-3c3a710dbbd5",
+  "preferredProducts": [
+    1599,
+    2834,
+    4755,
+    3602,
+    361
+  ],
+  "productReviews": [
+    {
+      "productId": 1644,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-09-17T15:50:51.9028151+03:00"
+    },
+    {
+      "productId": 2795,
+      "reviewText": "this transform is mellow.",
+      "reviewDate": "2018-05-27T14:53:06.8834396+03:00"
+    },
+    {
+      "productId": 1221,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-07-10T09:55:19.865077+03:00"
+    },
+    {
+      "productId": 169,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-02-14T01:09:38.8465733+02:00"
+    },
+    {
+      "productId": 1819,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-02-08T15:05:48.5659473+02:00"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "userId": 45112,
+  "cartId": "387dd2a2-87a0-42c1-a23c-da16c040f9a1",
+  "preferredProducts": [
+    1698,
+    3940,
+    542,
+    3061,
+    4239,
+    3797,
+    3142,
+    1779,
+    3322,
+    4699
+  ],
+  "productReviews": [
+    {
+      "productId": 2367,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-06-11T20:21:25.6203778+03:00"
+    },
+    {
+      "productId": 3456,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-01-02T01:45:04.2759229+02:00"
+    },
+    {
+      "productId": 2410,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-09-03T19:28:30.1142216+03:00"
+    },
+    {
+      "productId": 4286,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-07-06T19:01:56.0105784+03:00"
+    },
+    {
+      "productId": 1839,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-03-04T14:16:00.7265613+02:00"
+    }
+  ]
+}

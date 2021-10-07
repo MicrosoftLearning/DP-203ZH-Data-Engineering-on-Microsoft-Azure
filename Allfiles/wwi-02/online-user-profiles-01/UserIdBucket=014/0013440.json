@@ -1,0 +1,32 @@
+{
+  "userId": 13440,
+  "cartId": "58af9819-50c9-4fb0-b670-166a8d1e1e9c",
+  "preferredProducts": [
+    1349,
+    2180,
+    3757,
+    190,
+    4628,
+    2087,
+    3580,
+    3529,
+    2101
+  ],
+  "productReviews": [
+    {
+      "productId": 1586,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-12-27T11:44:33.6611287+02:00"
+    },
+    {
+      "productId": 4218,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-10-09T01:34:18.4579137+03:00"
+    },
+    {
+      "productId": 1645,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-10-06T06:35:42.0766367+03:00"
+    }
+  ]
+}

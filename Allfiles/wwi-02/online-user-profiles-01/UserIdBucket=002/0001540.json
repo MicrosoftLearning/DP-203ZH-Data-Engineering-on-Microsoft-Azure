@@ -1,0 +1,34 @@
+{
+  "userId": 1540,
+  "cartId": "10798d70-6014-4aa8-9279-ad190cd3109a",
+  "preferredProducts": [
+    471,
+    4141,
+    1482,
+    2467,
+    3443,
+    1205
+  ],
+  "productReviews": [
+    {
+      "productId": 291,
+      "reviewText": "this hierarchy is dominant.",
+      "reviewDate": "2017-03-31T02:31:23.7105208+03:00"
+    },
+    {
+      "productId": 483,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-12-13T16:07:17.7985151+02:00"
+    },
+    {
+      "productId": 1716,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-12-08T01:40:12.8364236+02:00"
+    },
+    {
+      "productId": 87,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-06-20T06:33:30.88723+03:00"
+    }
+  ]
+}

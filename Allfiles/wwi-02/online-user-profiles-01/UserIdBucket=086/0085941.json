@@ -1,0 +1,28 @@
+{
+  "userId": 85941,
+  "cartId": "65387dc4-c764-4825-bd7c-71b79407d93b",
+  "preferredProducts": [
+    504,
+    399,
+    2414,
+    533,
+    3768
+  ],
+  "productReviews": [
+    {
+      "productId": 164,
+      "reviewText": "This Program works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-02-15T07:00:01.0728428+02:00"
+    },
+    {
+      "productId": 425,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-08-09T17:11:38.0163321+03:00"
+    },
+    {
+      "productId": 3805,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-07-21T22:55:52.5115175+03:00"
+    }
+  ]
+}

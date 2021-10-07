@@ -1,0 +1,33 @@
+{
+  "userId": 23373,
+  "cartId": "153e2db5-e417-4db9-b981-06f9a6186c40",
+  "preferredProducts": [
+    3309,
+    1515,
+    3303,
+    4058,
+    2262
+  ],
+  "productReviews": [
+    {
+      "productId": 3544,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-04-08T14:13:53.0922613+03:00"
+    },
+    {
+      "productId": 2121,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-10-16T07:05:29.5286411+03:00"
+    },
+    {
+      "productId": 4441,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-01-01T14:08:24.008286+02:00"
+    },
+    {
+      "productId": 4929,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-01-02T00:55:35.4201354+02:00"
+    }
+  ]
+}

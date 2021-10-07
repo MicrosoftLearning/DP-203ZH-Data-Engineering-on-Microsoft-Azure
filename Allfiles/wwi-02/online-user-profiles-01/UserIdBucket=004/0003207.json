@@ -1,0 +1,35 @@
+{
+  "userId": 3207,
+  "cartId": "531cbd0d-f9ac-4323-a734-f220b2cd82b4",
+  "preferredProducts": [
+    1061,
+    1772,
+    1676,
+    1875,
+    2642,
+    3829,
+    2046
+  ],
+  "productReviews": [
+    {
+      "productId": 1833,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-02-02T04:53:17.2739152+02:00"
+    },
+    {
+      "productId": 4164,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-12-09T14:56:03.0450401+02:00"
+    },
+    {
+      "productId": 1408,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-12-28T21:51:52.9362803+02:00"
+    },
+    {
+      "productId": 572,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-07-12T18:38:30.9232075+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 143,
+  "cartId": "bb4fee7b-8a8a-496a-9ad5-0e6e2b697491",
+  "preferredProducts": [
+    2007,
+    900,
+    1227,
+    1313,
+    1714,
+    4226,
+    2087,
+    3161,
+    1891
+  ],
+  "productReviews": [
+    {
+      "productId": 2477,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-09-10T00:43:12.9862934+03:00"
+    },
+    {
+      "productId": 4953,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-07-30T23:06:15.8605833+03:00"
+    }
+  ]
+}

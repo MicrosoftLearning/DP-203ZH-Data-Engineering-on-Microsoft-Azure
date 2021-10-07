@@ -1,0 +1,34 @@
+{
+  "userId": 24228,
+  "cartId": "810d65c0-6989-448f-bf88-2feef85aac82",
+  "preferredProducts": [
+    305,
+    4772,
+    4391,
+    3441,
+    2907,
+    1248
+  ],
+  "productReviews": [
+    {
+      "productId": 2987,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-09-27T04:26:12.075167+03:00"
+    },
+    {
+      "productId": 2750,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-12-23T22:50:21.7025953+02:00"
+    },
+    {
+      "productId": 1905,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-01-28T04:52:19.2378807+02:00"
+    },
+    {
+      "productId": 1651,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-12-22T19:09:42.2406344+02:00"
+    }
+  ]
+}

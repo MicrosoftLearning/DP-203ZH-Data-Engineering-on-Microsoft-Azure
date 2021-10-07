@@ -1,0 +1,30 @@
+{
+  "userId": 33045,
+  "cartId": "a8cf5114-44be-42db-ad4b-83e613c0fbba",
+  "preferredProducts": [
+    3989,
+    1393,
+    730,
+    2727,
+    3394,
+    396,
+    4414
+  ],
+  "productReviews": [
+    {
+      "productId": 3298,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-01-30T21:36:16.0639761+02:00"
+    },
+    {
+      "productId": 212,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-09-16T10:30:34.5198869+03:00"
+    },
+    {
+      "productId": 1505,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-05-04T22:06:36.8813178+03:00"
+    }
+  ]
+}

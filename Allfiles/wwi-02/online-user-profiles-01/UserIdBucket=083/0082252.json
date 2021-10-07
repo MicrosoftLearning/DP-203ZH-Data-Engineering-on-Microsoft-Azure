@@ -1,0 +1,32 @@
+{
+  "userId": 82252,
+  "cartId": "c4cc7fe5-35ba-44c4-9b09-52e7b5e625e5",
+  "preferredProducts": [],
+  "productReviews": [
+    {
+      "productId": 279,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-07-06T11:06:49.7192077+03:00"
+    },
+    {
+      "productId": 1050,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-03-06T21:30:49.4822027+02:00"
+    },
+    {
+      "productId": 1191,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-06-18T10:18:43.557848+03:00"
+    },
+    {
+      "productId": 4638,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-12-13T04:11:12.8463862+02:00"
+    },
+    {
+      "productId": 3904,
+      "reviewText": "this XSS is standard.",
+      "reviewDate": "2019-09-13T12:39:49.6701769+03:00"
+    }
+  ]
+}

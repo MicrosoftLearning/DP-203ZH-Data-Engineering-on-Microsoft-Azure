@@ -1,0 +1,31 @@
+{
+  "userId": 54622,
+  "cartId": "51e76372-ee3c-48ac-8ab8-19f24751e677",
+  "preferredProducts": [
+    592,
+    189,
+    4848,
+    3299,
+    3685,
+    1260,
+    3653,
+    3774
+  ],
+  "productReviews": [
+    {
+      "productId": 2304,
+      "reviewText": "this EXE is perplexed.",
+      "reviewDate": "2018-02-06T01:27:06.1874574+02:00"
+    },
+    {
+      "productId": 3464,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-01-03T13:00:39.095886+02:00"
+    },
+    {
+      "productId": 157,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-04-30T20:59:07.5731562+03:00"
+    }
+  ]
+}

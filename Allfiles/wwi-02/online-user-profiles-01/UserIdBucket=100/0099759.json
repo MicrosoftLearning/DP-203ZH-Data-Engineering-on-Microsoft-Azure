@@ -1,0 +1,29 @@
+{
+  "userId": 99759,
+  "cartId": "afa68c9f-71da-4271-8d52-968d5de07bb4",
+  "preferredProducts": [
+    795,
+    3244,
+    2210,
+    3098,
+    2011,
+    813
+  ],
+  "productReviews": [
+    {
+      "productId": 999,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-05-14T10:27:44.0176913+03:00"
+    },
+    {
+      "productId": 797,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-09-23T04:26:22.5651431+03:00"
+    },
+    {
+      "productId": 3798,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-01-12T08:30:54.6521784+02:00"
+    }
+  ]
+}

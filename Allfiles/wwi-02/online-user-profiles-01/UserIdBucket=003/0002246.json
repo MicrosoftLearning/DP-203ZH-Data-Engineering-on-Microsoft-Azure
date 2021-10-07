@@ -1,0 +1,26 @@
+{
+  "userId": 2246,
+  "cartId": "f7de8882-c8f4-42b5-8abc-02f4758d2eca",
+  "preferredProducts": [
+    1389,
+    2066,
+    1244
+  ],
+  "productReviews": [
+    {
+      "productId": 304,
+      "reviewText": "this Wisconsin is complimentary.",
+      "reviewDate": "2017-08-16T20:31:12.629515+03:00"
+    },
+    {
+      "productId": 3912,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-06-30T11:25:44.6315734+03:00"
+    },
+    {
+      "productId": 3208,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-06-20T22:40:30.0994278+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 23757,
+  "cartId": "a7a21898-2519-4018-86ae-2fd95d02290b",
+  "preferredProducts": [
+    4297,
+    4434,
+    2044,
+    4582,
+    4801,
+    868,
+    4220,
+    3364,
+    2212
+  ],
+  "productReviews": [
+    {
+      "productId": 4364,
+      "reviewText": "this matrix is top-notch.",
+      "reviewDate": "2019-01-17T04:27:16.0252442+02:00"
+    },
+    {
+      "productId": 2443,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-06-06T15:41:17.1954182+03:00"
+    },
+    {
+      "productId": 2163,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-04-07T05:45:16.2203545+03:00"
+    },
+    {
+      "productId": 4822,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-05-16T05:23:24.780236+03:00"
+    }
+  ]
+}

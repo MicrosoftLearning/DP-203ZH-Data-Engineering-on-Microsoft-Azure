@@ -1,0 +1,34 @@
+{
+  "userId": 6028,
+  "cartId": "9454c27a-c556-4348-8bfe-ef2bed3aca0c",
+  "preferredProducts": [
+    2284,
+    3234,
+    3789,
+    1077,
+    2355,
+    3049
+  ],
+  "productReviews": [
+    {
+      "productId": 2877,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-04-08T10:22:03.618512+03:00"
+    },
+    {
+      "productId": 1249,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-02-12T02:46:28.2095494+02:00"
+    },
+    {
+      "productId": 677,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2016-12-23T04:39:05.9306966+02:00"
+    },
+    {
+      "productId": 1071,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-05-24T10:41:24.5628292+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 45257,
+  "cartId": "c09e2f17-007d-4c6e-a292-d84d15f56ac5",
+  "preferredProducts": [
+    2373,
+    2071,
+    3058,
+    4844,
+    3557,
+    2064,
+    1397,
+    4840,
+    4424,
+    3833
+  ],
+  "productReviews": [
+    {
+      "productId": 912,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-02-01T05:30:42.9975228+02:00"
+    },
+    {
+      "productId": 1961,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-06-08T14:33:13.4058662+03:00"
+    }
+  ]
+}

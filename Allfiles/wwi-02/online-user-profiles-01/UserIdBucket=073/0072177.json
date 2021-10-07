@@ -1,0 +1,29 @@
+{
+  "userId": 72177,
+  "cartId": "ffe15fb5-53a3-40fa-9714-0d82d5b79927",
+  "preferredProducts": [
+    4262,
+    1491,
+    3622,
+    2391,
+    4641,
+    4308
+  ],
+  "productReviews": [
+    {
+      "productId": 4762,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-04-08T02:21:00.7569535+03:00"
+    },
+    {
+      "productId": 1700,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-07-23T09:09:48.4693991+03:00"
+    },
+    {
+      "productId": 2350,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-08-30T07:05:50.1336832+03:00"
+    }
+  ]
+}

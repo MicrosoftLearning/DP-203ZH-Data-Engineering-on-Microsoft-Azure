@@ -1,0 +1,22 @@
+{
+  "userId": 79630,
+  "cartId": "6431c957-f7c1-4040-a3af-fb356d76b4db",
+  "preferredProducts": [
+    3233,
+    984,
+    2176,
+    1024
+  ],
+  "productReviews": [
+    {
+      "productId": 1459,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-05-14T11:48:19.7858028+03:00"
+    },
+    {
+      "productId": 577,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-01-26T02:18:18.0557558+02:00"
+    }
+  ]
+}

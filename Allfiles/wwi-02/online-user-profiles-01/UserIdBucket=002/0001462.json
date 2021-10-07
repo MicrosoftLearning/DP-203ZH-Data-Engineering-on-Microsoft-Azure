@@ -1,0 +1,31 @@
+{
+  "userId": 1462,
+  "cartId": "3a1f1d77-1b30-491a-bb7e-fb71c48536fd",
+  "preferredProducts": [
+    3098,
+    784,
+    521,
+    676,
+    3196,
+    69,
+    1285,
+    2340
+  ],
+  "productReviews": [
+    {
+      "productId": 2120,
+      "reviewText": "this haptic is ratty.",
+      "reviewDate": "2018-06-01T16:07:18.5529497+03:00"
+    },
+    {
+      "productId": 2649,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-09-23T17:57:00.5216419+03:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-10-05T08:26:47.5601082+03:00"
+    }
+  ]
+}

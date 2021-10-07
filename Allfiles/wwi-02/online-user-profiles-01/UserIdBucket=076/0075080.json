@@ -1,0 +1,33 @@
+{
+  "userId": 75080,
+  "cartId": "ff6a8e02-94e0-45de-a8ec-074dbb258a5f",
+  "preferredProducts": [
+    4963,
+    4370,
+    1834,
+    3430,
+    4090
+  ],
+  "productReviews": [
+    {
+      "productId": 2132,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-02-14T20:50:10.1679246+02:00"
+    },
+    {
+      "productId": 3292,
+      "reviewText": "this PCI is smooth.",
+      "reviewDate": "2019-07-08T22:19:02.615819+03:00"
+    },
+    {
+      "productId": 4013,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-11-28T10:28:59.5396215+02:00"
+    },
+    {
+      "productId": 2333,
+      "reviewText": "This is a really good indexing.",
+      "reviewDate": "2017-05-28T09:41:33.4863414+03:00"
+    }
+  ]
+}

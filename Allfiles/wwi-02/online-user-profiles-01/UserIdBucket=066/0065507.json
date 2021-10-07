@@ -1,0 +1,25 @@
+{
+  "userId": 65507,
+  "cartId": "4d8d166a-82b7-4408-afd8-f34b16876e78",
+  "preferredProducts": [
+    4185,
+    4290,
+    3508,
+    1549,
+    4287,
+    2052,
+    714
+  ],
+  "productReviews": [
+    {
+      "productId": 1962,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-08-01T00:12:28.7240993+03:00"
+    },
+    {
+      "productId": 4678,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-02-18T03:30:01.6299687+02:00"
+    }
+  ]
+}

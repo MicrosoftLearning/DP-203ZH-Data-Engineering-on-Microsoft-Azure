@@ -1,0 +1,25 @@
+{
+  "userId": 10212,
+  "cartId": "ae6e6489-3651-4d4b-b3c1-9c585dfd2fc2",
+  "preferredProducts": [
+    1318,
+    4418
+  ],
+  "productReviews": [
+    {
+      "productId": 2982,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-12-30T04:09:06.3545289+02:00"
+    },
+    {
+      "productId": 3394,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2020-03-05T14:22:51.2556017+02:00"
+    },
+    {
+      "productId": 3117,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2019-10-21T14:55:45.8710095+03:00"
+    }
+  ]
+}

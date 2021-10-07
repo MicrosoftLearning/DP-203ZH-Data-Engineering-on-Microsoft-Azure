@@ -1,0 +1,28 @@
+{
+  "userId": 8699,
+  "cartId": "e57049fb-9f00-4fd6-bdf4-a14b4fee6550",
+  "preferredProducts": [
+    4160,
+    4234,
+    752,
+    1483,
+    2648
+  ],
+  "productReviews": [
+    {
+      "productId": 4699,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-11-13T07:42:59.4543336+02:00"
+    },
+    {
+      "productId": 3587,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-12-09T11:39:22.0602605+02:00"
+    },
+    {
+      "productId": 1752,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-05-12T04:58:04.5204411+03:00"
+    }
+  ]
+}

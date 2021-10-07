@@ -1,0 +1,27 @@
+{
+  "userId": 22054,
+  "cartId": "22cfd7d4-9bd9-4a02-912c-e53d88f02844",
+  "preferredProducts": [
+    3855,
+    824,
+    3444,
+    2743
+  ],
+  "productReviews": [
+    {
+      "productId": 4245,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-03-28T15:40:29.1082879+03:00"
+    },
+    {
+      "productId": 2981,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-01-16T07:34:58.9398363+02:00"
+    },
+    {
+      "productId": 1275,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-08-29T22:44:04.6074748+03:00"
+    }
+  ]
+}

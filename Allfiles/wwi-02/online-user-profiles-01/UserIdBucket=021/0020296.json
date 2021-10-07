@@ -1,0 +1,33 @@
+{
+  "userId": 20296,
+  "cartId": "f092a0ef-f3de-486f-aaa1-54ffb6264135",
+  "preferredProducts": [
+    2448,
+    4834,
+    886,
+    3619,
+    4348
+  ],
+  "productReviews": [
+    {
+      "productId": 2086,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-02-04T17:12:34.9494857+02:00"
+    },
+    {
+      "productId": 1047,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-09-23T13:13:42.5954019+03:00"
+    },
+    {
+      "productId": 3526,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-04-08T20:41:14.1848598+03:00"
+    },
+    {
+      "productId": 67,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-02-12T14:16:36.5012394+02:00"
+    }
+  ]
+}

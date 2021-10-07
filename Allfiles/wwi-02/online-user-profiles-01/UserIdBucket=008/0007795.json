@@ -1,0 +1,35 @@
+{
+  "userId": 7795,
+  "cartId": "bdd2e12a-38ba-4c82-b236-32bd4a942117",
+  "preferredProducts": [
+    116,
+    2826,
+    4379,
+    3572,
+    4398,
+    380,
+    224
+  ],
+  "productReviews": [
+    {
+      "productId": 51,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-12-27T20:45:23.102434+02:00"
+    },
+    {
+      "productId": 273,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-08-05T22:06:55.9583203+03:00"
+    },
+    {
+      "productId": 1774,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-01-07T17:23:11.2424944+02:00"
+    },
+    {
+      "productId": 207,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-10-10T05:38:39.8284291+03:00"
+    }
+  ]
+}

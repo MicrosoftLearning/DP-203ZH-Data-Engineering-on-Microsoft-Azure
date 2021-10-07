@@ -1,0 +1,31 @@
+{
+  "userId": 999,
+  "cartId": "0cdee675-ae0b-4d35-9e1b-075ec5f9d99b",
+  "preferredProducts": [
+    2112,
+    2769,
+    300,
+    2913,
+    1667,
+    2150,
+    2588,
+    298
+  ],
+  "productReviews": [
+    {
+      "productId": 1091,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-09-27T09:09:05.6183481+03:00"
+    },
+    {
+      "productId": 1423,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-11-10T16:04:08.8630519+02:00"
+    },
+    {
+      "productId": 4687,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2020-04-18T19:22:47.8445196+03:00"
+    }
+  ]
+}

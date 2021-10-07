@@ -1,0 +1,35 @@
+{
+  "userId": 66265,
+  "cartId": "18f00e2f-ec1f-4e97-a1f7-b8aff54e5405",
+  "preferredProducts": [
+    2418,
+    1800,
+    1779,
+    2900,
+    4141,
+    1142,
+    2639
+  ],
+  "productReviews": [
+    {
+      "productId": 1829,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-01-29T22:42:54.3018198+02:00"
+    },
+    {
+      "productId": 3645,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-09-20T07:47:55.6067906+03:00"
+    },
+    {
+      "productId": 3581,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-03-31T23:42:25.7862288+03:00"
+    },
+    {
+      "productId": 2149,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-03-19T19:47:30.4907628+02:00"
+    }
+  ]
+}

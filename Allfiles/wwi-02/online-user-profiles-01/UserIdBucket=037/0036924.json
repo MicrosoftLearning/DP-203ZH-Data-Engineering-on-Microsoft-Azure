@@ -1,0 +1,32 @@
+{
+  "userId": 36924,
+  "cartId": "45c8d0d0-c47e-4234-839b-7eaa364445e6",
+  "preferredProducts": [
+    4872,
+    1422,
+    128,
+    2094
+  ],
+  "productReviews": [
+    {
+      "productId": 1744,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-11-23T05:43:26.8961868+02:00"
+    },
+    {
+      "productId": 1699,
+      "reviewText": "This intermediate, does exactly what it's suppose to do.",
+      "reviewDate": "2016-10-03T07:49:45.2960152+03:00"
+    },
+    {
+      "productId": 129,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-12-28T23:11:04.179191+02:00"
+    },
+    {
+      "productId": 3014,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-03-12T08:31:10.1871118+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 26266,
+  "cartId": "5d33f618-a3b1-42cf-9eae-d7038e39d308",
+  "preferredProducts": [
+    661,
+    719,
+    4777,
+    877,
+    3327
+  ],
+  "productReviews": [
+    {
+      "productId": 2495,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-06-09T14:51:19.6913844+03:00"
+    },
+    {
+      "productId": 2046,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-01-29T01:03:50.2426257+02:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-12-28T11:53:35.3273492+02:00"
+    },
+    {
+      "productId": 1287,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-03-17T22:14:39.9124109+02:00"
+    }
+  ]
+}

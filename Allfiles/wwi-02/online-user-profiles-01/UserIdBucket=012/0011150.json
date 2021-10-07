@@ -1,0 +1,32 @@
+{
+  "userId": 11150,
+  "cartId": "080ac9d5-6326-46b0-9302-2b4c451ad22d",
+  "preferredProducts": [
+    759,
+    2854,
+    3952,
+    3089,
+    1791,
+    2861,
+    1221,
+    1833,
+    4749
+  ],
+  "productReviews": [
+    {
+      "productId": 1567,
+      "reviewText": "This Shoes & Books, does exactly what it's suppose to do.",
+      "reviewDate": "2016-10-07T15:55:45.8959051+03:00"
+    },
+    {
+      "productId": 4855,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-08-11T06:26:04.5970608+03:00"
+    },
+    {
+      "productId": 1011,
+      "reviewText": "This XSS works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-02-17T15:02:41.4620637+02:00"
+    }
+  ]
+}

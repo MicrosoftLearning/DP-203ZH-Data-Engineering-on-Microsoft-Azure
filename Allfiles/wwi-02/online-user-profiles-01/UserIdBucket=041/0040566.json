@@ -1,0 +1,30 @@
+{
+  "userId": 40566,
+  "cartId": "dcac8810-85d1-44a5-8a9d-fea8585e702a",
+  "preferredProducts": [
+    4748,
+    1895,
+    4438,
+    673,
+    3109,
+    4237,
+    1793
+  ],
+  "productReviews": [
+    {
+      "productId": 23,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-08-16T02:16:12.313818+03:00"
+    },
+    {
+      "productId": 4398,
+      "reviewText": "This discrete works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2020-04-10T19:31:38.9532695+03:00"
+    },
+    {
+      "productId": 1759,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-01-03T03:27:52.1883886+02:00"
+    }
+  ]
+}

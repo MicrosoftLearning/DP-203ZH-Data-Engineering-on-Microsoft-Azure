@@ -1,0 +1,29 @@
+{
+  "userId": 71815,
+  "cartId": "a4add8ea-69cf-4f9c-bb21-1305cb71018d",
+  "preferredProducts": [
+    3440,
+    3486,
+    1593,
+    3689,
+    3138,
+    1574
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-02-15T00:26:22.9051604+02:00"
+    },
+    {
+      "productId": 1416,
+      "reviewText": "this Frozen is whole-grain.",
+      "reviewDate": "2018-02-11T07:19:30.61773+02:00"
+    },
+    {
+      "productId": 1722,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-02-27T06:36:10.9387758+02:00"
+    }
+  ]
+}

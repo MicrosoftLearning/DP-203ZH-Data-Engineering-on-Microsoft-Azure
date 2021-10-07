@@ -1,0 +1,24 @@
+{
+  "userId": 1189,
+  "cartId": "43cd3bcd-93a3-4023-8f28-bdc4b7a99306",
+  "preferredProducts": [
+    2035,
+    1369,
+    3675,
+    328,
+    4778,
+    4358
+  ],
+  "productReviews": [
+    {
+      "productId": 1565,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-03-11T11:39:57.4413737+02:00"
+    },
+    {
+      "productId": 1598,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-10-10T02:02:33.6113375+03:00"
+    }
+  ]
+}

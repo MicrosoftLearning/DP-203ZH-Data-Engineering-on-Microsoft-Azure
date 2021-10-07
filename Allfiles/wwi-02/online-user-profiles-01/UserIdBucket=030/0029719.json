@@ -1,0 +1,27 @@
+{
+  "userId": 29719,
+  "cartId": "fe5db670-a695-436d-a397-104eefdc557e",
+  "preferredProducts": [
+    432,
+    600,
+    1700,
+    4143
+  ],
+  "productReviews": [
+    {
+      "productId": 534,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-09-22T05:42:44.5378038+03:00"
+    },
+    {
+      "productId": 4087,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-04-06T18:59:34.4015884+03:00"
+    },
+    {
+      "productId": 1040,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-14T07:11:48.9240818+03:00"
+    }
+  ]
+}

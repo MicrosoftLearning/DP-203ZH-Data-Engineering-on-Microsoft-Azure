@@ -1,0 +1,33 @@
+{
+  "userId": 78462,
+  "cartId": "faad308b-7e22-4f1f-af4b-a75e26fe0d2a",
+  "preferredProducts": [
+    487,
+    2330,
+    4104,
+    4194,
+    1822
+  ],
+  "productReviews": [
+    {
+      "productId": 414,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-03-08T17:49:30.8129055+02:00"
+    },
+    {
+      "productId": 253,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-07-29T09:38:34.7469217+03:00"
+    },
+    {
+      "productId": 1413,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-07-16T14:56:30.0442337+03:00"
+    },
+    {
+      "productId": 4165,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-09-01T19:35:58.780086+03:00"
+    }
+  ]
+}

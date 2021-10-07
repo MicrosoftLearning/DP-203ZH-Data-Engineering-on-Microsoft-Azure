@@ -1,0 +1,42 @@
+{
+  "userId": 78741,
+  "cartId": "db17e035-5bbf-4c88-8fd0-ad97ee5db537",
+  "preferredProducts": [
+    243,
+    2000,
+    4977,
+    311,
+    2079,
+    1284,
+    846,
+    790,
+    2719
+  ],
+  "productReviews": [
+    {
+      "productId": 1859,
+      "reviewText": "This is a really good Ergonomic Rubber Ball.",
+      "reviewDate": "2019-04-28T05:39:57.1418351+03:00"
+    },
+    {
+      "productId": 4582,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-01-06T01:14:35.5655163+02:00"
+    },
+    {
+      "productId": 4744,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-12-28T16:35:35.9999478+02:00"
+    },
+    {
+      "productId": 76,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-07-31T01:25:14.2710099+03:00"
+    },
+    {
+      "productId": 1951,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-04-12T17:13:31.6494494+03:00"
+    }
+  ]
+}

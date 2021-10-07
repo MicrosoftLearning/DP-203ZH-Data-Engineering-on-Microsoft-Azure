@@ -1,0 +1,37 @@
+{
+  "userId": 55644,
+  "cartId": "72fb2ecc-1d5d-4699-8dc8-38cfccc77973",
+  "preferredProducts": [
+    165,
+    2692,
+    4389,
+    2446
+  ],
+  "productReviews": [
+    {
+      "productId": 3232,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-04-08T21:19:43.0018439+03:00"
+    },
+    {
+      "productId": 4094,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-07-31T09:25:25.8972368+03:00"
+    },
+    {
+      "productId": 2231,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-01-03T21:16:28.0613134+02:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-06-16T06:07:53.032502+03:00"
+    },
+    {
+      "productId": 2705,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-01-02T21:14:39.4448908+02:00"
+    }
+  ]
+}

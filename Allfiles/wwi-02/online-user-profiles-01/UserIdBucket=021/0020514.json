@@ -1,0 +1,25 @@
+{
+  "userId": 20514,
+  "cartId": "f5f53458-9cbc-41f8-bf99-9ecbdffe8037",
+  "preferredProducts": [
+    1780,
+    1988
+  ],
+  "productReviews": [
+    {
+      "productId": 4598,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-11-22T23:34:45.8747001+02:00"
+    },
+    {
+      "productId": 2973,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-11-26T09:34:19.0803682+02:00"
+    },
+    {
+      "productId": 1582,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-11-15T18:33:49.0457878+02:00"
+    }
+  ]
+}

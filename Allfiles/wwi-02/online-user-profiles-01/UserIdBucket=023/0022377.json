@@ -1,0 +1,26 @@
+{
+  "userId": 22377,
+  "cartId": "689500bd-f680-42a3-9dc3-efb27e9baf51",
+  "preferredProducts": [
+    4220,
+    3390,
+    323
+  ],
+  "productReviews": [
+    {
+      "productId": 579,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2020-04-23T06:15:39.2670347+03:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-06-08T19:24:27.3420352+03:00"
+    },
+    {
+      "productId": 4461,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-12-29T05:36:37.5653999+02:00"
+    }
+  ]
+}

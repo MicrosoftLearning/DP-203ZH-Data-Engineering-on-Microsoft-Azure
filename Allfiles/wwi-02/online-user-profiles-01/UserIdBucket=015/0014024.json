@@ -1,0 +1,37 @@
+{
+  "userId": 14024,
+  "cartId": "243c5306-ea62-4197-9932-21a896dc72af",
+  "preferredProducts": [
+    1463,
+    4372,
+    2490,
+    668,
+    4346,
+    4378,
+    1999,
+    4363,
+    1934
+  ],
+  "productReviews": [
+    {
+      "productId": 1628,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-09-29T22:35:47.0383344+03:00"
+    },
+    {
+      "productId": 4825,
+      "reviewText": "this JSON is top-notch.",
+      "reviewDate": "2017-06-02T16:53:11.2817933+03:00"
+    },
+    {
+      "productId": 791,
+      "reviewText": "This collaboration works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-05-08T14:03:25.1432381+03:00"
+    },
+    {
+      "productId": 3389,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-08-26T20:09:58.0077069+03:00"
+    }
+  ]
+}

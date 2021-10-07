@@ -1,0 +1,37 @@
+{
+  "userId": 98783,
+  "cartId": "24ab6b72-2101-4458-8c6c-bde971a63f09",
+  "preferredProducts": [
+    285,
+    1643,
+    1446,
+    3831
+  ],
+  "productReviews": [
+    {
+      "productId": 86,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-01-07T19:32:58.7731923+02:00"
+    },
+    {
+      "productId": 206,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-08-03T23:56:49.0447366+03:00"
+    },
+    {
+      "productId": 3805,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-11-08T22:56:04.2229865+02:00"
+    },
+    {
+      "productId": 3597,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-04-25T11:04:25.0282605+03:00"
+    },
+    {
+      "productId": 700,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2020-03-15T21:07:12.1512802+02:00"
+    }
+  ]
+}

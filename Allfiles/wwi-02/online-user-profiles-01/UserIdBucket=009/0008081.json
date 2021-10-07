@@ -1,0 +1,27 @@
+{
+  "userId": 8081,
+  "cartId": "5ff2026f-984e-4403-9710-340bb75f1304",
+  "preferredProducts": [
+    3149,
+    774,
+    459,
+    2897
+  ],
+  "productReviews": [
+    {
+      "productId": 2947,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-08-13T06:28:12.4674259+03:00"
+    },
+    {
+      "productId": 938,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-09-12T12:51:25.8662873+03:00"
+    },
+    {
+      "productId": 385,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-02-11T21:20:20.2671699+02:00"
+    }
+  ]
+}

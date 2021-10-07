@@ -1,0 +1,34 @@
+{
+  "userId": 10925,
+  "cartId": "d9e4b528-964a-4d03-9b6b-1b0c3fb09be0",
+  "preferredProducts": [
+    4540,
+    4515,
+    1793,
+    2474,
+    1775,
+    1380
+  ],
+  "productReviews": [
+    {
+      "productId": 4632,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-12-12T13:00:28.8433085+02:00"
+    },
+    {
+      "productId": 4544,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-06-27T10:07:31.204006+03:00"
+    },
+    {
+      "productId": 4309,
+      "reviewText": "This pink works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2017-08-03T10:19:35.7367524+03:00"
+    },
+    {
+      "productId": 3635,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-04-14T18:28:37.8118551+03:00"
+    }
+  ]
+}

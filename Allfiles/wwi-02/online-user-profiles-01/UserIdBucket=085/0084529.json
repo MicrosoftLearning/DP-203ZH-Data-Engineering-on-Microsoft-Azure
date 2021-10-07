@@ -1,0 +1,27 @@
+{
+  "userId": 84529,
+  "cartId": "b187df11-02b9-4f23-aba6-54dfd7586e15",
+  "preferredProducts": [
+    426,
+    1799,
+    1928,
+    3447
+  ],
+  "productReviews": [
+    {
+      "productId": 4732,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-02-05T20:06:12.3068416+02:00"
+    },
+    {
+      "productId": 690,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-05-08T05:35:14.2672052+03:00"
+    },
+    {
+      "productId": 1286,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-29T00:22:22.7561845+03:00"
+    }
+  ]
+}

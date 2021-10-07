@@ -1,0 +1,30 @@
+{
+  "userId": 92414,
+  "cartId": "7a62609b-a38b-4900-8d15-29a44ed64127",
+  "preferredProducts": [
+    2322,
+    4712,
+    532,
+    3280,
+    942,
+    4741,
+    4225
+  ],
+  "productReviews": [
+    {
+      "productId": 2950,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-12-29T14:24:00.7236416+02:00"
+    },
+    {
+      "productId": 208,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-10-26T20:18:28.9625151+03:00"
+    },
+    {
+      "productId": 789,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-02-13T19:49:35.4399144+02:00"
+    }
+  ]
+}

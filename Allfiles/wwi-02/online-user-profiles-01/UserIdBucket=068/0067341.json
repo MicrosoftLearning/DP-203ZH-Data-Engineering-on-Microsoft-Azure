@@ -1,0 +1,30 @@
+{
+  "userId": 67341,
+  "cartId": "8d54a8a6-db73-4adb-9d73-efe5097be22c",
+  "preferredProducts": [
+    4597,
+    3035,
+    688,
+    1789,
+    967,
+    2325,
+    3686
+  ],
+  "productReviews": [
+    {
+      "productId": 2787,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-02-26T20:34:43.7500824+02:00"
+    },
+    {
+      "productId": 4871,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2020-02-16T06:05:40.1879996+02:00"
+    },
+    {
+      "productId": 1958,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-09-23T11:22:10.8730181+03:00"
+    }
+  ]
+}

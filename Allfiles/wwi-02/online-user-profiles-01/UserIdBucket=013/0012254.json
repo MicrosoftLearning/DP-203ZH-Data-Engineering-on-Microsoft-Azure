@@ -1,0 +1,25 @@
+{
+  "userId": 12254,
+  "cartId": "2da6093b-5f33-4983-8a20-157833e3da9b",
+  "preferredProducts": [
+    2612,
+    34
+  ],
+  "productReviews": [
+    {
+      "productId": 2075,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-10-11T10:06:30.2019656+03:00"
+    },
+    {
+      "productId": 1670,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-12-22T16:55:44.457284+02:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-09-23T13:15:39.3386463+03:00"
+    }
+  ]
+}

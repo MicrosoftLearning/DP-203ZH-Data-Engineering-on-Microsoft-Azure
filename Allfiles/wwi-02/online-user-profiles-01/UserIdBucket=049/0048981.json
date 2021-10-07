@@ -1,0 +1,29 @@
+{
+  "userId": 48981,
+  "cartId": "3a85ba65-17a3-482d-9f40-8cbe1a8c45df",
+  "preferredProducts": [
+    4425,
+    916,
+    2297,
+    3600,
+    2989,
+    1837
+  ],
+  "productReviews": [
+    {
+      "productId": 2296,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-03-19T12:34:47.6721474+02:00"
+    },
+    {
+      "productId": 3170,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-08-05T16:25:25.2609178+03:00"
+    },
+    {
+      "productId": 4894,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-08-10T20:10:59.4397412+03:00"
+    }
+  ]
+}

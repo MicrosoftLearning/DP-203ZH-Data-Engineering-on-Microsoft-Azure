@@ -1,0 +1,33 @@
+{
+  "userId": 2458,
+  "cartId": "9bf058a7-05b4-49ef-a049-61bc52d74bf1",
+  "preferredProducts": [
+    5000,
+    304,
+    1427,
+    1773,
+    2419
+  ],
+  "productReviews": [
+    {
+      "productId": 703,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-09-30T02:13:03.7602455+03:00"
+    },
+    {
+      "productId": 957,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-12-16T01:54:45.0399824+02:00"
+    },
+    {
+      "productId": 4129,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-09-17T17:20:37.5200264+03:00"
+    },
+    {
+      "productId": 1192,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-09-13T14:25:19.9469411+03:00"
+    }
+  ]
+}

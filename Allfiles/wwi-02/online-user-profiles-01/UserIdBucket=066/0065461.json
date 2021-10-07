@@ -1,0 +1,38 @@
+{
+  "userId": 65461,
+  "cartId": "aa4bc9b5-5432-459d-982b-733a180af987",
+  "preferredProducts": [
+    2057,
+    2457,
+    1029,
+    449,
+    1504
+  ],
+  "productReviews": [
+    {
+      "productId": 3810,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-04-01T08:12:09.4198657+03:00"
+    },
+    {
+      "productId": 4546,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-06-06T04:48:24.4664658+03:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-09-20T07:35:45.9436922+03:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2020-02-17T19:18:57.7747305+02:00"
+    },
+    {
+      "productId": 1555,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-05-27T05:21:46.2847868+03:00"
+    }
+  ]
+}

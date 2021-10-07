@@ -1,0 +1,33 @@
+{
+  "userId": 76428,
+  "cartId": "5e9830e5-72f1-4fcf-9e2b-e9ac6c9f64a9",
+  "preferredProducts": [
+    577,
+    2360,
+    1701,
+    3612,
+    3488
+  ],
+  "productReviews": [
+    {
+      "productId": 121,
+      "reviewText": "this connecting is awesome.",
+      "reviewDate": "2016-08-23T04:04:18.8543429+03:00"
+    },
+    {
+      "productId": 4489,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-01-11T07:24:55.3687162+02:00"
+    },
+    {
+      "productId": 4729,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-06-28T03:51:21.9623353+03:00"
+    },
+    {
+      "productId": 3126,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-10-18T17:44:04.5283796+03:00"
+    }
+  ]
+}

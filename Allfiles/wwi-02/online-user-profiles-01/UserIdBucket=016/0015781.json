@@ -1,0 +1,25 @@
+{
+  "userId": 15781,
+  "cartId": "78f7cb56-1f57-4392-8a24-fc69169f42d4",
+  "preferredProducts": [
+    1,
+    3111
+  ],
+  "productReviews": [
+    {
+      "productId": 1047,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-01-05T02:34:06.4115916+02:00"
+    },
+    {
+      "productId": 233,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-01-03T20:15:56.144284+02:00"
+    },
+    {
+      "productId": 788,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-08-10T08:39:55.801437+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 10283,
+  "cartId": "7798a5eb-f8fd-4c39-af88-3243236fbf12",
+  "preferredProducts": [
+    426,
+    3902,
+    4223,
+    2749,
+    1861,
+    3115,
+    2535,
+    4580
+  ],
+  "productReviews": [
+    {
+      "productId": 722,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-11-11T03:46:17.7690434+02:00"
+    },
+    {
+      "productId": 443,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-12-16T02:18:49.6992281+02:00"
+    }
+  ]
+}

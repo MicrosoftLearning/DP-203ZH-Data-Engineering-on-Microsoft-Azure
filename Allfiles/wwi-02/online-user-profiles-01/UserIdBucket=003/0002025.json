@@ -1,0 +1,32 @@
+{
+  "userId": 2025,
+  "cartId": "2cfde91a-e641-481b-9430-e28f91e1d349",
+  "preferredProducts": [
+    4016,
+    783,
+    4263,
+    4674
+  ],
+  "productReviews": [
+    {
+      "productId": 1204,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-26T03:32:06.1432728+03:00"
+    },
+    {
+      "productId": 4582,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-12-17T10:45:04.1415965+02:00"
+    },
+    {
+      "productId": 1612,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2020-03-19T08:16:07.0967693+02:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "This Dominican Republic works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-05-01T19:36:09.3311731+03:00"
+    }
+  ]
+}

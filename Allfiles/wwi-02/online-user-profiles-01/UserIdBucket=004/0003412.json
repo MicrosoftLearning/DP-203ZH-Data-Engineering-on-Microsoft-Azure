@@ -1,0 +1,33 @@
+{
+  "userId": 3412,
+  "cartId": "5b8990bd-565e-48db-9538-11f81e48292c",
+  "preferredProducts": [
+    436,
+    3351,
+    946,
+    4244,
+    984,
+    2935,
+    3001,
+    2178,
+    2890,
+    3363
+  ],
+  "productReviews": [
+    {
+      "productId": 551,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-09-06T10:04:17.0056815+03:00"
+    },
+    {
+      "productId": 3290,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-01-03T23:58:02.4000756+02:00"
+    },
+    {
+      "productId": 462,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-11-23T05:09:07.1361851+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 40486,
+  "cartId": "e80ecc18-2119-4a22-bd1e-e6b1b2b1387f",
+  "preferredProducts": [
+    1582,
+    1653,
+    779,
+    1918,
+    231,
+    704
+  ],
+  "productReviews": [
+    {
+      "productId": 3341,
+      "reviewText": "This B2B, does exactly what it's suppose to do.",
+      "reviewDate": "2016-10-16T08:57:58.5151982+03:00"
+    },
+    {
+      "productId": 2953,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-09-14T23:53:40.493497+03:00"
+    },
+    {
+      "productId": 1640,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-06-17T11:13:37.5920489+03:00"
+    },
+    {
+      "productId": 3156,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-07-23T06:32:26.1328016+03:00"
+    }
+  ]
+}

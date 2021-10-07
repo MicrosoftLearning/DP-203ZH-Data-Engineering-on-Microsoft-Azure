@@ -1,0 +1,26 @@
+{
+  "userId": 46595,
+  "cartId": "c8abca1b-843a-4c7f-a88d-d28bafb23c7c",
+  "preferredProducts": [
+    1331,
+    4534,
+    532,
+    332,
+    2305,
+    2002,
+    3309,
+    4638
+  ],
+  "productReviews": [
+    {
+      "productId": 513,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-07-04T13:44:13.1116057+03:00"
+    },
+    {
+      "productId": 464,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-04-10T17:50:27.1755705+03:00"
+    }
+  ]
+}

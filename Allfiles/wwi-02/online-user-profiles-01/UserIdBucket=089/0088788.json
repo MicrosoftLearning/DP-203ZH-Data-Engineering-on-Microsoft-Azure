@@ -1,0 +1,33 @@
+{
+  "userId": 88788,
+  "cartId": "6ceb8aec-01b6-4ed2-b59e-485824b65a70",
+  "preferredProducts": [
+    1986,
+    2762,
+    273,
+    1136,
+    2071,
+    2564,
+    4195,
+    1787,
+    4528,
+    459
+  ],
+  "productReviews": [
+    {
+      "productId": 3671,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-03-29T00:37:34.0170305+02:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "This withdrawal works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-12-30T01:21:18.1915054+02:00"
+    },
+    {
+      "productId": 3567,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-02-08T23:29:32.3594821+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 21597,
+  "cartId": "36d1ef5a-286c-45e6-bae6-c41d92f48b6b",
+  "preferredProducts": [
+    2005,
+    1662,
+    2203,
+    1031,
+    2190,
+    2657,
+    2553,
+    780,
+    4535,
+    3138
+  ],
+  "productReviews": [
+    {
+      "productId": 1484,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-11-12T17:38:33.972128+02:00"
+    },
+    {
+      "productId": 4135,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-05-04T18:15:47.3034574+03:00"
+    },
+    {
+      "productId": 4779,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-01-19T09:29:47.0037804+02:00"
+    }
+  ]
+}

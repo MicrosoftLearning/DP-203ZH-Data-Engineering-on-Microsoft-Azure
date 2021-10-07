@@ -1,0 +1,33 @@
+{
+  "userId": 17581,
+  "cartId": "617ccf86-4e6d-4cab-88f4-b8812fbec2ee",
+  "preferredProducts": [
+    4481,
+    3321,
+    1208,
+    2357,
+    4128
+  ],
+  "productReviews": [
+    {
+      "productId": 3305,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-02-11T10:43:30.5437165+02:00"
+    },
+    {
+      "productId": 3769,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-08-03T07:18:54.1640822+03:00"
+    },
+    {
+      "productId": 1321,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-08-27T12:34:38.3622864+03:00"
+    },
+    {
+      "productId": 3088,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-10-14T11:40:47.8294603+03:00"
+    }
+  ]
+}

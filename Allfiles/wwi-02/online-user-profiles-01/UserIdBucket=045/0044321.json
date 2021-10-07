@@ -1,0 +1,33 @@
+{
+  "userId": 44321,
+  "cartId": "997208ee-8dc1-4609-9e06-8e9706049495",
+  "preferredProducts": [
+    2456,
+    2155,
+    3612,
+    3039,
+    2471
+  ],
+  "productReviews": [
+    {
+      "productId": 3866,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-07-05T13:50:10.4257857+03:00"
+    },
+    {
+      "productId": 4159,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-14T23:14:55.1516968+02:00"
+    },
+    {
+      "productId": 2337,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-05-27T06:04:04.0292194+03:00"
+    },
+    {
+      "productId": 3642,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-10-21T04:42:49.8716707+03:00"
+    }
+  ]
+}

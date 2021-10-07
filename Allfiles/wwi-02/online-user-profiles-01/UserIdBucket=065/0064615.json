@@ -1,0 +1,31 @@
+{
+  "userId": 64615,
+  "cartId": "c14ee1f6-f5ef-4170-b451-242aec06ffc0",
+  "preferredProducts": [
+    1147,
+    2617,
+    645,
+    4686,
+    9,
+    778,
+    1520,
+    2529
+  ],
+  "productReviews": [
+    {
+      "productId": 469,
+      "reviewText": "this Algerian Dinar is nifty.",
+      "reviewDate": "2019-06-06T23:32:06.856281+03:00"
+    },
+    {
+      "productId": 371,
+      "reviewText": "This optimal, does exactly what it's suppose to do.",
+      "reviewDate": "2018-05-11T00:30:16.1757708+03:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-08-02T14:14:35.9700481+03:00"
+    }
+  ]
+}

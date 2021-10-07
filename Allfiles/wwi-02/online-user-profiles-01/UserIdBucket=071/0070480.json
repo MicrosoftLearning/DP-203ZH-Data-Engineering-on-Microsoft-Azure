@@ -1,0 +1,30 @@
+{
+  "userId": 70480,
+  "cartId": "813df09a-90a8-47a0-a0e1-38ff75c82c46",
+  "preferredProducts": [
+    1507,
+    4585,
+    4258,
+    3697,
+    4940,
+    1302,
+    1708
+  ],
+  "productReviews": [
+    {
+      "productId": 1769,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-11-26T21:11:13.7394658+02:00"
+    },
+    {
+      "productId": 3881,
+      "reviewText": "this HTTP is slurpee.",
+      "reviewDate": "2017-04-30T07:44:10.1048195+03:00"
+    },
+    {
+      "productId": 977,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-12-30T19:31:51.238965+02:00"
+    }
+  ]
+}

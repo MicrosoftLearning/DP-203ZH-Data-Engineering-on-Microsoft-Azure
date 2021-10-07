@@ -1,0 +1,31 @@
+{
+  "userId": 22850,
+  "cartId": "99ccc5ac-7336-4a23-b14f-28daefe7b9d4",
+  "preferredProducts": [
+    1036,
+    2559,
+    903,
+    2137,
+    3778,
+    3095,
+    1775,
+    4455
+  ],
+  "productReviews": [
+    {
+      "productId": 1110,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-08-21T05:14:44.3455099+03:00"
+    },
+    {
+      "productId": 4574,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-08-24T00:06:21.033283+03:00"
+    },
+    {
+      "productId": 940,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-12-31T02:11:58.208652+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 50,
+  "cartId": "f520c6ea-c251-4ef8-a57b-55db296c9434",
+  "preferredProducts": [
+    4947,
+    1310,
+    2008
+  ],
+  "productReviews": [
+    {
+      "productId": 4765,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-10-05T08:49:58.1398465+03:00"
+    },
+    {
+      "productId": 1972,
+      "reviewText": "this generate is top-notch.",
+      "reviewDate": "2019-04-14T19:57:54.4718049+03:00"
+    },
+    {
+      "productId": 4288,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-11-25T18:31:37.6283507+02:00"
+    }
+  ]
+}

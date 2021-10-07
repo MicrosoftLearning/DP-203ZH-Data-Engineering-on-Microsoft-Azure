@@ -1,0 +1,32 @@
+{
+  "userId": 2883,
+  "cartId": "5ca04292-1ab7-4ba6-bb64-78f4f7a0e54d",
+  "preferredProducts": [
+    795,
+    3481,
+    4378,
+    1253
+  ],
+  "productReviews": [
+    {
+      "productId": 916,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-11-25T10:38:21.3741387+02:00"
+    },
+    {
+      "productId": 3868,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-07-18T07:19:09.310266+03:00"
+    },
+    {
+      "productId": 1143,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-11-25T03:40:53.5614602+02:00"
+    },
+    {
+      "productId": 4312,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-11-07T09:43:28.0344269+02:00"
+    }
+  ]
+}

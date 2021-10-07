@@ -1,0 +1,30 @@
+{
+  "userId": 4489,
+  "cartId": "0c29f2e9-011f-44bb-bf62-6f1218f87e6c",
+  "preferredProducts": [
+    2963,
+    4616
+  ],
+  "productReviews": [
+    {
+      "productId": 4611,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-08-19T11:01:41.5350833+03:00"
+    },
+    {
+      "productId": 32,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-09-26T21:54:58.0950276+03:00"
+    },
+    {
+      "productId": 3594,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-03-15T21:54:17.3849316+02:00"
+    },
+    {
+      "productId": 2833,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-09-02T17:30:54.4088456+03:00"
+    }
+  ]
+}

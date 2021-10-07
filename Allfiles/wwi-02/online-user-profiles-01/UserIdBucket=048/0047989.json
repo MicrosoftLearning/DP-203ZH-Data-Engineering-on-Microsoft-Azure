@@ -1,0 +1,28 @@
+{
+  "userId": 47989,
+  "cartId": "fe5d3ba4-c9e4-40ea-8c34-675cfb9ca792",
+  "preferredProducts": [
+    271,
+    3995,
+    992,
+    4117,
+    2075
+  ],
+  "productReviews": [
+    {
+      "productId": 1369,
+      "reviewText": "this SDD is standard.",
+      "reviewDate": "2019-04-30T11:33:19.6982923+03:00"
+    },
+    {
+      "productId": 3027,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-01-24T14:40:15.7039025+02:00"
+    },
+    {
+      "productId": 2561,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-02-28T14:06:17.4668825+02:00"
+    }
+  ]
+}

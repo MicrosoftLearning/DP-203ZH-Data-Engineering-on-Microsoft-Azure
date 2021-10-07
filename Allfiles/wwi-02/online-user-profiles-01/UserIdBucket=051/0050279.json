@@ -1,0 +1,32 @@
+{
+  "userId": 50279,
+  "cartId": "e25414b7-fab1-436b-b553-597b3f9e0c76",
+  "preferredProducts": [
+    1467,
+    3104,
+    1112,
+    617
+  ],
+  "productReviews": [
+    {
+      "productId": 4669,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-06-09T20:39:34.7629648+03:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-07-03T10:25:41.238149+03:00"
+    },
+    {
+      "productId": 4776,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-02-28T03:49:59.9282515+02:00"
+    },
+    {
+      "productId": 811,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-02-07T01:56:54.2013889+02:00"
+    }
+  ]
+}

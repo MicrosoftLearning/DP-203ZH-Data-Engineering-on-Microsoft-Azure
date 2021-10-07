@@ -1,0 +1,38 @@
+{
+  "userId": 12162,
+  "cartId": "5f2cb037-89e1-4900-9258-f59b0b0df5a4",
+  "preferredProducts": [
+    2732,
+    3115,
+    3987,
+    2432,
+    923
+  ],
+  "productReviews": [
+    {
+      "productId": 3837,
+      "reviewText": "this IB is vertical.",
+      "reviewDate": "2019-02-06T04:48:27.4105614+02:00"
+    },
+    {
+      "productId": 4464,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-07-17T12:56:28.3095004+03:00"
+    },
+    {
+      "productId": 3001,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-09-20T07:29:25.1210215+03:00"
+    },
+    {
+      "productId": 3463,
+      "reviewText": "this matrix is tasty.",
+      "reviewDate": "2018-03-22T13:27:33.8989862+02:00"
+    },
+    {
+      "productId": 4296,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2020-02-17T05:50:19.7841311+02:00"
+    }
+  ]
+}

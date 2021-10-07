@@ -1,0 +1,28 @@
+{
+  "userId": 42493,
+  "cartId": "4eea8a8a-fad9-4e95-8056-866fcf272fd6",
+  "preferredProducts": [
+    1734,
+    2533,
+    791,
+    713,
+    4638
+  ],
+  "productReviews": [
+    {
+      "productId": 170,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-09-21T12:30:03.1512015+03:00"
+    },
+    {
+      "productId": 2158,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-11-12T16:54:31.957922+02:00"
+    },
+    {
+      "productId": 851,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-02-16T05:26:44.8303471+02:00"
+    }
+  ]
+}

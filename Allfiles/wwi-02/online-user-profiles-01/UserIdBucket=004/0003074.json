@@ -1,0 +1,28 @@
+{
+  "userId": 3074,
+  "cartId": "3ad68bcc-b643-4a3e-81fb-09cfdaeba3d1",
+  "preferredProducts": [
+    4757,
+    2362,
+    56,
+    4488,
+    626
+  ],
+  "productReviews": [
+    {
+      "productId": 3780,
+      "reviewText": "this Response is mellow.",
+      "reviewDate": "2019-11-28T07:19:35.1718375+02:00"
+    },
+    {
+      "productId": 2245,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-10-20T12:12:43.9035317+03:00"
+    },
+    {
+      "productId": 1736,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-12-20T11:47:41.4294068+02:00"
+    }
+  ]
+}

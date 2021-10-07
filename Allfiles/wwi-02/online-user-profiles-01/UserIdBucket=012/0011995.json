@@ -1,0 +1,29 @@
+{
+  "userId": 11995,
+  "cartId": "ca04aa89-01f2-43af-ab05-3c2e65f314a8",
+  "preferredProducts": [
+    4689,
+    4684,
+    4808,
+    124,
+    2643,
+    1875
+  ],
+  "productReviews": [
+    {
+      "productId": 408,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-04-20T10:50:38.7478689+03:00"
+    },
+    {
+      "productId": 4965,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-09-08T07:56:47.6883087+03:00"
+    },
+    {
+      "productId": 3870,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-02-15T01:50:14.3082594+02:00"
+    }
+  ]
+}

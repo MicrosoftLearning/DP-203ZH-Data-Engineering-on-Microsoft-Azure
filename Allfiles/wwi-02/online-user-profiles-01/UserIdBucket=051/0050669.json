@@ -1,0 +1,32 @@
+{
+  "userId": 50669,
+  "cartId": "234040ef-bc19-485f-8638-e18e58b1e48e",
+  "preferredProducts": [
+    2786,
+    4605,
+    4971,
+    4169
+  ],
+  "productReviews": [
+    {
+      "productId": 1575,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-02-11T17:20:45.4849606+02:00"
+    },
+    {
+      "productId": 820,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-02-05T19:56:49.9608784+02:00"
+    },
+    {
+      "productId": 4093,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-05T04:46:09.1953119+03:00"
+    },
+    {
+      "productId": 3918,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-13T07:39:23.2408542+03:00"
+    }
+  ]
+}

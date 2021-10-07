@@ -1,0 +1,30 @@
+{
+  "userId": 85579,
+  "cartId": "b585eb95-b5da-4e06-88ca-279fdce8f84f",
+  "preferredProducts": [
+    399,
+    1308,
+    4194,
+    2277,
+    2434,
+    4251,
+    123
+  ],
+  "productReviews": [
+    {
+      "productId": 840,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2020-01-08T18:12:20.3594556+02:00"
+    },
+    {
+      "productId": 2618,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-06-13T03:10:07.9843414+03:00"
+    },
+    {
+      "productId": 4593,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-07-12T15:58:28.7354389+03:00"
+    }
+  ]
+}

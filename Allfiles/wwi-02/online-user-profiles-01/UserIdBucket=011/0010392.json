@@ -1,0 +1,40 @@
+{
+  "userId": 10392,
+  "cartId": "032c1e19-5401-42e9-8034-3e08de0e65d1",
+  "preferredProducts": [
+    273,
+    2480,
+    1430,
+    3145,
+    2941,
+    3225,
+    2456
+  ],
+  "productReviews": [
+    {
+      "productId": 4134,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-08-24T10:36:17.0336175+03:00"
+    },
+    {
+      "productId": 1837,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-04-26T04:01:07.0183113+03:00"
+    },
+    {
+      "productId": 335,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2020-01-06T07:29:18.1193073+02:00"
+    },
+    {
+      "productId": 1664,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-04-23T06:40:34.8224308+03:00"
+    },
+    {
+      "productId": 95,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-02-24T14:07:06.415812+02:00"
+    }
+  ]
+}

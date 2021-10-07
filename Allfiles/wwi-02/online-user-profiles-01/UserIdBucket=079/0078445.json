@@ -1,0 +1,33 @@
+{
+  "userId": 78445,
+  "cartId": "3b692869-2b6c-4a7a-91b6-59be9ffd527f",
+  "preferredProducts": [
+    1075,
+    2849,
+    137,
+    4240,
+    732
+  ],
+  "productReviews": [
+    {
+      "productId": 1235,
+      "reviewText": "this harness is whole-grain.",
+      "reviewDate": "2016-10-31T07:51:34.5959022+02:00"
+    },
+    {
+      "productId": 1641,
+      "reviewText": "this evolve is standard.",
+      "reviewDate": "2016-10-07T02:09:58.3119047+03:00"
+    },
+    {
+      "productId": 4149,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-06-30T13:20:16.3859957+03:00"
+    },
+    {
+      "productId": 138,
+      "reviewText": "this THX is awesome.",
+      "reviewDate": "2019-08-03T04:15:42.9929779+03:00"
+    }
+  ]
+}

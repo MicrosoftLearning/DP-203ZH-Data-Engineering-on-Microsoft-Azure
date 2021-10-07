@@ -1,0 +1,25 @@
+{
+  "userId": 1557,
+  "cartId": "248b4065-c6f0-44ed-8262-4388dce16cec",
+  "preferredProducts": [
+    1799,
+    1762,
+    3507,
+    2293,
+    3180,
+    4878,
+    4063
+  ],
+  "productReviews": [
+    {
+      "productId": 3370,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-08-23T07:50:40.6498773+03:00"
+    },
+    {
+      "productId": 4063,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-11-14T04:07:26.8582655+02:00"
+    }
+  ]
+}

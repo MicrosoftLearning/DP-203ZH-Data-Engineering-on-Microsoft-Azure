@@ -1,0 +1,27 @@
+{
+  "userId": 67950,
+  "cartId": "62c9f31b-95a7-48e3-8051-3b5d710944ce",
+  "preferredProducts": [
+    1437,
+    516,
+    4854,
+    3986
+  ],
+  "productReviews": [
+    {
+      "productId": 4327,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-08-30T11:36:03.822025+03:00"
+    },
+    {
+      "productId": 4620,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-10-21T08:00:31.3852409+03:00"
+    },
+    {
+      "productId": 3133,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-06-10T23:23:20.9137962+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 7326,
+  "cartId": "3380db20-e8d3-44d4-b66e-796f2cf091a9",
+  "preferredProducts": [
+    4521,
+    4404,
+    472,
+    4511,
+    4687,
+    4133,
+    3147,
+    3441,
+    1013
+  ],
+  "productReviews": [
+    {
+      "productId": 4953,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-06-23T05:42:35.528972+03:00"
+    },
+    {
+      "productId": 2079,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2020-03-18T09:36:14.1454466+02:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-05-05T16:06:43.8899523+03:00"
+    }
+  ]
+}

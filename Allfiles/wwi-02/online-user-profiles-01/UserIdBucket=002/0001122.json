@@ -1,0 +1,41 @@
+{
+  "userId": 1122,
+  "cartId": "90a05d05-fba7-45c3-96f5-976d1dc7e9a1",
+  "preferredProducts": [
+    2667,
+    4183,
+    4395,
+    4030,
+    128,
+    3589,
+    409,
+    319
+  ],
+  "productReviews": [
+    {
+      "productId": 4362,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-09-22T06:35:32.8510857+03:00"
+    },
+    {
+      "productId": 3263,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-06-10T18:27:50.2712819+03:00"
+    },
+    {
+      "productId": 1794,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-27T22:47:48.6263962+03:00"
+    },
+    {
+      "productId": 711,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-05-28T14:20:17.2826816+03:00"
+    },
+    {
+      "productId": 3082,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-02-09T12:19:19.4515302+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 3970,
+  "cartId": "d832b444-76df-42d0-ba96-ef0d6c0ef571",
+  "preferredProducts": [
+    872,
+    4776
+  ],
+  "productReviews": [
+    {
+      "productId": 3392,
+      "reviewText": "this invoice is revolting.",
+      "reviewDate": "2018-01-28T02:35:07.0552827+02:00"
+    },
+    {
+      "productId": 1587,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-01-05T18:59:07.4569877+02:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-06-29T07:29:40.5916676+03:00"
+    },
+    {
+      "productId": 650,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-07-30T13:19:16.5386178+03:00"
+    },
+    {
+      "productId": 2638,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-05-03T00:28:54.2932377+03:00"
+    }
+  ]
+}

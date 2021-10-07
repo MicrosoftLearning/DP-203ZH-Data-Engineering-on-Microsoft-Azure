@@ -1,0 +1,33 @@
+{
+  "userId": 79691,
+  "cartId": "4e37d606-ea93-47a7-8015-7cfc46520e56",
+  "preferredProducts": [
+    3091,
+    3170,
+    1863,
+    4109,
+    918,
+    1965,
+    4650,
+    834,
+    4776,
+    4036
+  ],
+  "productReviews": [
+    {
+      "productId": 2290,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-09-10T02:26:25.8002044+03:00"
+    },
+    {
+      "productId": 3235,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-10-21T12:49:56.344731+03:00"
+    },
+    {
+      "productId": 4194,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-02-21T11:20:57.9025149+02:00"
+    }
+  ]
+}

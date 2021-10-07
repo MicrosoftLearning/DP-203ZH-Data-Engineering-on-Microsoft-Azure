@@ -1,0 +1,37 @@
+{
+  "userId": 23199,
+  "cartId": "b55ecf34-9216-40aa-aa61-8fa8ccf71974",
+  "preferredProducts": [
+    1365,
+    4767,
+    4643,
+    1573
+  ],
+  "productReviews": [
+    {
+      "productId": 495,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-06-09T09:41:11.6560187+03:00"
+    },
+    {
+      "productId": 3219,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-09-15T05:27:56.3591953+03:00"
+    },
+    {
+      "productId": 20,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-11-11T21:59:00.1280254+02:00"
+    },
+    {
+      "productId": 431,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-09-12T01:29:42.0356082+03:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2016-06-13T12:22:17.8619506+03:00"
+    }
+  ]
+}

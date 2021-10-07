@@ -1,0 +1,41 @@
+{
+  "userId": 7990,
+  "cartId": "368fc688-f3df-4d80-a3e2-7d74947718a8",
+  "preferredProducts": [
+    4121,
+    2371,
+    3027,
+    3706,
+    4316,
+    4357,
+    3591,
+    603
+  ],
+  "productReviews": [
+    {
+      "productId": 1493,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-04-17T22:28:09.3178843+03:00"
+    },
+    {
+      "productId": 4064,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-05-20T02:15:43.3280091+03:00"
+    },
+    {
+      "productId": 1991,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-01-31T01:02:39.387275+02:00"
+    },
+    {
+      "productId": 1315,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-08-11T05:10:28.6009415+03:00"
+    },
+    {
+      "productId": 3171,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-07-11T08:03:10.4409859+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 70931,
+  "cartId": "60c59d10-36b2-4efe-a28e-1762773156f4",
+  "preferredProducts": [
+    4860,
+    4263,
+    527,
+    237,
+    2011
+  ],
+  "productReviews": [
+    {
+      "productId": 1316,
+      "reviewText": "this Product is perplexed.",
+      "reviewDate": "2018-05-23T15:40:47.0480129+03:00"
+    },
+    {
+      "productId": 4782,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-09-12T02:03:50.0607185+03:00"
+    },
+    {
+      "productId": 4766,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2020-01-03T03:38:35.2450554+02:00"
+    },
+    {
+      "productId": 2746,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-02-06T01:22:43.7657512+02:00"
+    },
+    {
+      "productId": 2200,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2017-09-20T22:35:03.9480561+03:00"
+    }
+  ]
+}

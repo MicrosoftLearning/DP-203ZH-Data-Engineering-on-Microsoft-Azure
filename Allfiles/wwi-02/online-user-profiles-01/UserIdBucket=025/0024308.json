@@ -1,0 +1,37 @@
+{
+  "userId": 24308,
+  "cartId": "3985f1d2-53ea-4947-ab14-c98c46fed992",
+  "preferredProducts": [
+    1061,
+    1688,
+    2329,
+    771,
+    1147,
+    1576,
+    4009,
+    952,
+    3928
+  ],
+  "productReviews": [
+    {
+      "productId": 2170,
+      "reviewText": "this system is slurpee.",
+      "reviewDate": "2016-10-05T12:52:16.8823613+03:00"
+    },
+    {
+      "productId": 3723,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-04-14T06:03:54.1691242+03:00"
+    },
+    {
+      "productId": 4730,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-08-18T13:42:17.7806523+03:00"
+    },
+    {
+      "productId": 132,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2020-02-11T21:02:21.2510945+02:00"
+    }
+  ]
+}

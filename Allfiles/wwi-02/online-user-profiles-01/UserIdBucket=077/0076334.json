@@ -1,0 +1,37 @@
+{
+  "userId": 76334,
+  "cartId": "56b21ff7-c5a3-4574-9977-0a11b705490d",
+  "preferredProducts": [
+    4705,
+    4616,
+    1376,
+    621,
+    2372,
+    2139,
+    2422,
+    2776,
+    1928
+  ],
+  "productReviews": [
+    {
+      "productId": 4214,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-12-16T13:41:55.5992508+02:00"
+    },
+    {
+      "productId": 3351,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-01-20T01:23:50.1878271+02:00"
+    },
+    {
+      "productId": 1526,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2020-04-01T04:59:44.1086016+03:00"
+    },
+    {
+      "productId": 906,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-04-03T00:02:36.9010479+03:00"
+    }
+  ]
+}

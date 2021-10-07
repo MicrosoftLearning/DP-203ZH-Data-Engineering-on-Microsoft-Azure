@@ -1,0 +1,38 @@
+{
+  "userId": 78451,
+  "cartId": "1cb1a978-9c6c-439b-8a9e-cb45cf62d25d",
+  "preferredProducts": [
+    3745,
+    2099,
+    2966,
+    4082,
+    1326,
+    894,
+    3190,
+    2588,
+    819,
+    2886
+  ],
+  "productReviews": [
+    {
+      "productId": 2453,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-03-28T08:55:42.5658974+02:00"
+    },
+    {
+      "productId": 3364,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-10-21T18:36:50.19386+03:00"
+    },
+    {
+      "productId": 970,
+      "reviewText": "this Ports is light-hearted.",
+      "reviewDate": "2019-01-03T01:00:55.6985667+02:00"
+    },
+    {
+      "productId": 1307,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-01-30T08:46:13.9335963+02:00"
+    }
+  ]
+}

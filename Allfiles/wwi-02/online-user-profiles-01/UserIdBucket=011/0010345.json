@@ -1,0 +1,34 @@
+{
+  "userId": 10345,
+  "cartId": "227e7db2-ab12-48a0-8e9e-8a69e8678fc2",
+  "preferredProducts": [
+    3679,
+    339,
+    2653,
+    1653,
+    2115,
+    1983
+  ],
+  "productReviews": [
+    {
+      "productId": 635,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-08-15T00:10:38.3329177+03:00"
+    },
+    {
+      "productId": 1624,
+      "reviewText": "this architectures is brown.",
+      "reviewDate": "2018-06-28T18:51:15.077694+03:00"
+    },
+    {
+      "productId": 3382,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-09-02T05:32:11.2258356+03:00"
+    },
+    {
+      "productId": 2179,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-04-22T22:28:38.1613312+03:00"
+    }
+  ]
+}

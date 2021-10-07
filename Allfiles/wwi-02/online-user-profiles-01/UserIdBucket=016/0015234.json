@@ -1,0 +1,35 @@
+{
+  "userId": 15234,
+  "cartId": "f0b900ec-2f7d-4e26-90a6-d23c79ff2a34",
+  "preferredProducts": [
+    4129,
+    3521,
+    642,
+    1854,
+    2047,
+    1973,
+    4363
+  ],
+  "productReviews": [
+    {
+      "productId": 1778,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-05-11T05:22:35.5502925+03:00"
+    },
+    {
+      "productId": 1443,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-02T23:13:13.4383622+02:00"
+    },
+    {
+      "productId": 2197,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-08-29T07:46:19.8817357+03:00"
+    },
+    {
+      "productId": 188,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-02-16T22:34:01.6759476+02:00"
+    }
+  ]
+}

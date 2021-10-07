@@ -1,0 +1,30 @@
+{
+  "userId": 80855,
+  "cartId": "dbcba312-b680-4bef-9f2a-150ac71c764d",
+  "preferredProducts": [
+    4343,
+    4645,
+    2262,
+    3360,
+    2653,
+    3451,
+    3251
+  ],
+  "productReviews": [
+    {
+      "productId": 394,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-04-16T09:18:07.5962548+03:00"
+    },
+    {
+      "productId": 4294,
+      "reviewText": "this Cotton is tasty.",
+      "reviewDate": "2020-04-18T02:22:23.5749347+03:00"
+    },
+    {
+      "productId": 4,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-05-07T20:02:54.5010173+03:00"
+    }
+  ]
+}

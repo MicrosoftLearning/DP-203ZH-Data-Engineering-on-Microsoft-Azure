@@ -1,0 +1,31 @@
+{
+  "userId": 102,
+  "cartId": "f8cb3d09-ec0f-40ec-a60c-caea59093c14",
+  "preferredProducts": [
+    2250,
+    2248,
+    2121
+  ],
+  "productReviews": [
+    {
+      "productId": 2637,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-04-30T07:12:47.6815946+03:00"
+    },
+    {
+      "productId": 1029,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-09-10T22:12:15.1961823+03:00"
+    },
+    {
+      "productId": 1459,
+      "reviewText": "this context-sensitive is light-hearted.",
+      "reviewDate": "2018-04-19T10:59:04.1325381+03:00"
+    },
+    {
+      "productId": 3677,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-03-17T09:17:23.9488371+02:00"
+    }
+  ]
+}

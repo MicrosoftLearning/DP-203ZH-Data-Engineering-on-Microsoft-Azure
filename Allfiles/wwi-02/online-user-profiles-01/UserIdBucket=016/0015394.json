@@ -1,0 +1,30 @@
+{
+  "userId": 15394,
+  "cartId": "cb20bd13-bbb5-4f54-9dd4-70d08cad57bb",
+  "preferredProducts": [
+    775,
+    1781,
+    3488,
+    2576,
+    974,
+    2741,
+    2585
+  ],
+  "productReviews": [
+    {
+      "productId": 3733,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-07-17T18:15:54.2479609+03:00"
+    },
+    {
+      "productId": 3766,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-09-08T17:15:40.8797274+03:00"
+    },
+    {
+      "productId": 3097,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-12-28T03:36:00.3110622+02:00"
+    }
+  ]
+}

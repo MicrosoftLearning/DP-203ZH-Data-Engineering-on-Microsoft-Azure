@@ -1,0 +1,26 @@
+{
+  "userId": 56837,
+  "cartId": "4507516f-0c0a-4719-8c10-0592980a3bf7",
+  "preferredProducts": [
+    292,
+    1826,
+    3029
+  ],
+  "productReviews": [
+    {
+      "productId": 188,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-10-09T12:21:13.0458435+03:00"
+    },
+    {
+      "productId": 3245,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-10-28T09:45:36.2444311+02:00"
+    },
+    {
+      "productId": 2519,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-08-11T20:24:23.9421331+03:00"
+    }
+  ]
+}

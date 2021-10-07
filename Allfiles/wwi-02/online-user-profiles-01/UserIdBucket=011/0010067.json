@@ -1,0 +1,25 @@
+{
+  "userId": 10067,
+  "cartId": "fa32159e-65b5-4507-a1c8-7b7855480c3d",
+  "preferredProducts": [
+    956,
+    4695
+  ],
+  "productReviews": [
+    {
+      "productId": 1827,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-11-09T08:43:47.4376402+02:00"
+    },
+    {
+      "productId": 1560,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-01-14T01:48:46.0928792+02:00"
+    },
+    {
+      "productId": 637,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-08-28T20:31:15.2304846+03:00"
+    }
+  ]
+}

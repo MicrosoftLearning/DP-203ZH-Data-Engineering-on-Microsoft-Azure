@@ -1,0 +1,35 @@
+{
+  "userId": 87314,
+  "cartId": "38b40963-5137-4d6d-a892-6fca69d7645d",
+  "preferredProducts": [
+    1206,
+    1363,
+    2167,
+    3289,
+    1473,
+    1363,
+    4999
+  ],
+  "productReviews": [
+    {
+      "productId": 848,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-06-23T20:17:35.8235778+03:00"
+    },
+    {
+      "productId": 2271,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-05-16T20:50:18.9217712+03:00"
+    },
+    {
+      "productId": 3616,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-06-24T16:14:42.6782075+03:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2017-09-02T15:48:43.6338006+03:00"
+    }
+  ]
+}

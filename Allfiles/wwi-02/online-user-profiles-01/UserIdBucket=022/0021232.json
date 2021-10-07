@@ -1,0 +1,33 @@
+{
+  "userId": 21232,
+  "cartId": "b60c110a-f99c-4d81-85ac-edc6e381556f",
+  "preferredProducts": [
+    4958,
+    4637,
+    727,
+    2086,
+    3743
+  ],
+  "productReviews": [
+    {
+      "productId": 4339,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-01-24T02:15:42.5894491+02:00"
+    },
+    {
+      "productId": 517,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-03-15T12:25:17.4692752+02:00"
+    },
+    {
+      "productId": 2901,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-02-02T13:36:26.8075822+02:00"
+    },
+    {
+      "productId": 4875,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-08-07T09:28:27.0772232+03:00"
+    }
+  ]
+}

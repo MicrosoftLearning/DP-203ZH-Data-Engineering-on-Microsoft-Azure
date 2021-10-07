@@ -1,0 +1,42 @@
+{
+  "userId": 5785,
+  "cartId": "fb5e4398-02ef-4f9d-8b5e-cecdee21e863",
+  "preferredProducts": [
+    1279,
+    263,
+    2049,
+    291,
+    3414,
+    2609,
+    4630,
+    4402,
+    2891
+  ],
+  "productReviews": [
+    {
+      "productId": 1737,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-08-01T13:24:13.0278692+03:00"
+    },
+    {
+      "productId": 1159,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-27T01:37:13.4607614+02:00"
+    },
+    {
+      "productId": 216,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-08-11T14:36:34.2465439+03:00"
+    },
+    {
+      "productId": 908,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-06-08T17:23:31.9677561+03:00"
+    },
+    {
+      "productId": 2541,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-08-25T10:51:17.9004622+03:00"
+    }
+  ]
+}

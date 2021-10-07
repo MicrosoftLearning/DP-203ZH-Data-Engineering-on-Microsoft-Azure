@@ -1,0 +1,32 @@
+{
+  "userId": 12717,
+  "cartId": "743462ca-30fa-4356-94c5-1786d4c98eee",
+  "preferredProducts": [
+    3677,
+    2353,
+    4735,
+    3209
+  ],
+  "productReviews": [
+    {
+      "productId": 1052,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-09-13T21:43:53.8547586+03:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-03-21T09:08:51.1410668+02:00"
+    },
+    {
+      "productId": 1267,
+      "reviewText": "This hack, does exactly what it's suppose to do.",
+      "reviewDate": "2018-08-24T11:10:31.8941505+03:00"
+    },
+    {
+      "productId": 4925,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-10-03T16:57:30.0506067+03:00"
+    }
+  ]
+}

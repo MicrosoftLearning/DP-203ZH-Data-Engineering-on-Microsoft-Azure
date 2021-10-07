@@ -1,0 +1,28 @@
+{
+  "userId": 89059,
+  "cartId": "3a955775-2e02-4ae0-b58d-c262b4b42f46",
+  "preferredProducts": [
+    4221,
+    2317,
+    157,
+    208,
+    1695
+  ],
+  "productReviews": [
+    {
+      "productId": 3645,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-06-29T15:10:15.0594022+03:00"
+    },
+    {
+      "productId": 2738,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-08T18:49:08.3905233+02:00"
+    },
+    {
+      "productId": 1072,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-03-06T15:29:19.9408466+02:00"
+    }
+  ]
+}

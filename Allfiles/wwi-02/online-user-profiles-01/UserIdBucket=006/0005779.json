@@ -1,0 +1,31 @@
+{
+  "userId": 5779,
+  "cartId": "c1606e85-2573-4058-9797-369e95b9da83",
+  "preferredProducts": [
+    442,
+    882,
+    3119,
+    4819,
+    4708,
+    4814,
+    22,
+    3959
+  ],
+  "productReviews": [
+    {
+      "productId": 3511,
+      "reviewText": "This alarm, does exactly what it's suppose to do.",
+      "reviewDate": "2017-02-02T05:11:36.2331994+02:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "This Research works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-12-04T14:10:30.4420897+02:00"
+    },
+    {
+      "productId": 1010,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-07-28T02:04:29.3187231+03:00"
+    }
+  ]
+}

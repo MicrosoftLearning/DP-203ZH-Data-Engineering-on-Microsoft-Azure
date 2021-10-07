@@ -1,0 +1,43 @@
+{
+  "userId": 57550,
+  "cartId": "c0a11b47-79df-444f-b7a7-28ac3cf2f502",
+  "preferredProducts": [
+    3480,
+    2040,
+    2413,
+    3913,
+    1900,
+    1864,
+    3228,
+    3048,
+    4771,
+    4571
+  ],
+  "productReviews": [
+    {
+      "productId": 3467,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-10-06T04:43:58.1718113+03:00"
+    },
+    {
+      "productId": 753,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-11-05T23:50:56.5607195+02:00"
+    },
+    {
+      "productId": 2890,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-22T00:32:10.8521118+02:00"
+    },
+    {
+      "productId": 2948,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-09-07T00:40:10.8733699+03:00"
+    },
+    {
+      "productId": 3973,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-05-16T18:18:58.901307+03:00"
+    }
+  ]
+}

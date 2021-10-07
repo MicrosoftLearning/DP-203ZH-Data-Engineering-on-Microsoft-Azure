@@ -1,0 +1,32 @@
+{
+  "userId": 60289,
+  "cartId": "3f56d893-105a-4996-bef3-c91aa7423e62",
+  "preferredProducts": [
+    1410,
+    3709,
+    3579,
+    1795,
+    4023,
+    2655,
+    3115,
+    2115,
+    942
+  ],
+  "productReviews": [
+    {
+      "productId": 4238,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-12-09T17:15:10.9665+02:00"
+    },
+    {
+      "productId": 3090,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-06-22T02:04:30.0747803+03:00"
+    },
+    {
+      "productId": 3113,
+      "reviewText": "This metrics works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-03-14T12:47:30.7561918+02:00"
+    }
+  ]
+}

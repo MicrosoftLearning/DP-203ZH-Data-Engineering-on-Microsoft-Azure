@@ -1,0 +1,35 @@
+{
+  "userId": 11508,
+  "cartId": "fd4cc690-db0a-47c4-a8fc-b53842d3ef12",
+  "preferredProducts": [
+    344,
+    1212,
+    4364,
+    9,
+    2567,
+    4097,
+    2813
+  ],
+  "productReviews": [
+    {
+      "productId": 1182,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-03-16T13:29:47.0075118+02:00"
+    },
+    {
+      "productId": 2867,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-02-04T11:43:09.3219232+02:00"
+    },
+    {
+      "productId": 3080,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-12-02T06:32:14.5342273+02:00"
+    },
+    {
+      "productId": 3236,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-08-12T03:50:47.5182922+03:00"
+    }
+  ]
+}

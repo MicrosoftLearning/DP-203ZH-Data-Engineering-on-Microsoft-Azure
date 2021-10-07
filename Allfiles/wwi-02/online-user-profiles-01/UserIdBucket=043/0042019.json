@@ -1,0 +1,35 @@
+{
+  "userId": 42019,
+  "cartId": "50d1d9cf-bbad-4ba4-996d-05d62ef33681",
+  "preferredProducts": [
+    3539,
+    3672
+  ],
+  "productReviews": [
+    {
+      "productId": 3738,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-14T22:01:59.303888+03:00"
+    },
+    {
+      "productId": 1247,
+      "reviewText": "This Small works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2016-07-30T07:34:16.0793666+03:00"
+    },
+    {
+      "productId": 1145,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-10-26T05:18:30.0057084+03:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-04-10T07:29:18.9132959+03:00"
+    },
+    {
+      "productId": 179,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-04-21T12:58:36.3524317+03:00"
+    }
+  ]
+}

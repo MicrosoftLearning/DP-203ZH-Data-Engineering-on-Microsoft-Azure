@@ -1,0 +1,40 @@
+{
+  "userId": 78811,
+  "cartId": "625db2dc-a761-42e5-a09b-114b4629da15",
+  "preferredProducts": [
+    1555,
+    2202,
+    1043,
+    1650,
+    4889,
+    1936,
+    819
+  ],
+  "productReviews": [
+    {
+      "productId": 4234,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-05-25T21:57:54.0585438+03:00"
+    },
+    {
+      "productId": 4027,
+      "reviewText": "this firewall is standard.",
+      "reviewDate": "2018-02-02T04:28:24.7379188+02:00"
+    },
+    {
+      "productId": 863,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-01-02T13:45:56.1896079+02:00"
+    },
+    {
+      "productId": 1436,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-03-02T19:31:58.8479995+02:00"
+    },
+    {
+      "productId": 1148,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-11-09T00:21:16.8862684+02:00"
+    }
+  ]
+}

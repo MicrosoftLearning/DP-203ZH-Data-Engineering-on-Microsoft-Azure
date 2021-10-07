@@ -1,0 +1,24 @@
+{
+  "userId": 22283,
+  "cartId": "c6b5d0ed-9b43-436d-aa11-858d2496dbb2",
+  "preferredProducts": [
+    3514,
+    3821,
+    2980,
+    1409,
+    2208,
+    3123
+  ],
+  "productReviews": [
+    {
+      "productId": 3631,
+      "reviewText": "This SDD works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-01-31T05:31:28.5847136+02:00"
+    },
+    {
+      "productId": 724,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-08-10T12:27:19.8588556+03:00"
+    }
+  ]
+}

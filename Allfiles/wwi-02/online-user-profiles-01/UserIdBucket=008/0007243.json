@@ -1,0 +1,30 @@
+{
+  "userId": 7243,
+  "cartId": "3da9f5cb-3ffa-49e0-86bd-920d68c04166",
+  "preferredProducts": [
+    4920,
+    2797,
+    15,
+    2415,
+    4565,
+    4612,
+    3138
+  ],
+  "productReviews": [
+    {
+      "productId": 3913,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-01-23T08:00:38.2432814+02:00"
+    },
+    {
+      "productId": 1087,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-11-04T22:34:06.4187202+02:00"
+    },
+    {
+      "productId": 1296,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-03-21T03:19:25.0175325+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 87344,
+  "cartId": "604f5799-24c4-46ca-a73d-92dc7e164aa7",
+  "preferredProducts": [
+    966,
+    4834,
+    3838,
+    1618,
+    4089
+  ],
+  "productReviews": [
+    {
+      "productId": 4454,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-04-06T08:09:27.2661901+03:00"
+    },
+    {
+      "productId": 163,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-06-07T20:07:09.8146616+03:00"
+    },
+    {
+      "productId": 3487,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-08-08T06:49:02.754006+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 6760,
+  "cartId": "f1c539ad-f3a7-43a0-b574-e665187c562c",
+  "preferredProducts": [
+    168,
+    3677,
+    2205,
+    101
+  ],
+  "productReviews": [
+    {
+      "productId": 1835,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-11-11T15:48:58.8318861+02:00"
+    },
+    {
+      "productId": 1958,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-12-20T08:08:00.4688117+02:00"
+    },
+    {
+      "productId": 264,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-04-27T12:18:06.3718993+03:00"
+    },
+    {
+      "productId": 1266,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-16T16:40:01.681922+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 31034,
+  "cartId": "5340d7d9-11bc-48d7-87e5-cbeb09b53b16",
+  "preferredProducts": [
+    927,
+    2411,
+    2474,
+    1727,
+    1561,
+    2215,
+    2778,
+    193,
+    4206
+  ],
+  "productReviews": [
+    {
+      "productId": 4003,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-05-10T04:14:09.3624163+03:00"
+    },
+    {
+      "productId": 1820,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-05-22T00:14:19.6490028+03:00"
+    },
+    {
+      "productId": 2890,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-08-18T18:18:37.5319685+03:00"
+    },
+    {
+      "productId": 974,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-05-02T09:38:34.6923984+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 28380,
+  "cartId": "c4ae0706-5de6-4d49-ba6c-d36ed7aafa69",
+  "preferredProducts": [
+    3219,
+    217,
+    3382,
+    4195
+  ],
+  "productReviews": [
+    {
+      "productId": 4368,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-11-25T11:50:39.4669098+02:00"
+    },
+    {
+      "productId": 2126,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-04-07T08:25:48.4956018+03:00"
+    },
+    {
+      "productId": 1556,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-09-14T17:35:45.8138448+03:00"
+    },
+    {
+      "productId": 2982,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-06-08T23:39:33.5570669+03:00"
+    }
+  ]
+}

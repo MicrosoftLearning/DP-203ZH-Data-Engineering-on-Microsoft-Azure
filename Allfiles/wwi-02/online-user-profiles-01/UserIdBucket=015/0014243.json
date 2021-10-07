@@ -1,0 +1,40 @@
+{
+  "userId": 14243,
+  "cartId": "5815f9e5-1009-4571-861c-8a4f10c94e61",
+  "preferredProducts": [
+    4078,
+    2932,
+    838,
+    4116,
+    632,
+    1540,
+    4296
+  ],
+  "productReviews": [
+    {
+      "productId": 4595,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2020-01-08T00:21:00.3919684+02:00"
+    },
+    {
+      "productId": 4260,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-05-05T14:13:09.0010476+03:00"
+    },
+    {
+      "productId": 1317,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-03-10T03:42:10.8260122+02:00"
+    },
+    {
+      "productId": 4778,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-11-05T17:10:11.6328438+02:00"
+    },
+    {
+      "productId": 1537,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-09-13T05:41:58.3574276+03:00"
+    }
+  ]
+}

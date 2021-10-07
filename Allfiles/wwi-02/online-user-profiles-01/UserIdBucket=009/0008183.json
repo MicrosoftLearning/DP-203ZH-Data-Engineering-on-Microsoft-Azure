@@ -1,0 +1,33 @@
+{
+  "userId": 8183,
+  "cartId": "a3fadb6b-0360-4f39-bba8-67d93287d152",
+  "preferredProducts": [
+    1596,
+    3865,
+    4291,
+    959,
+    4161,
+    1375,
+    732,
+    419,
+    2138,
+    3938
+  ],
+  "productReviews": [
+    {
+      "productId": 4528,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-01-09T17:53:29.8229656+02:00"
+    },
+    {
+      "productId": 3292,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-06-22T04:34:18.5685387+03:00"
+    },
+    {
+      "productId": 3616,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-09-27T13:09:09.0439334+03:00"
+    }
+  ]
+}

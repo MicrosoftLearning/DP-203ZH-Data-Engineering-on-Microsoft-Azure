@@ -1,0 +1,26 @@
+{
+  "userId": 11808,
+  "cartId": "de7b0dad-d3d1-426c-be39-de20072880a5",
+  "preferredProducts": [
+    857,
+    100,
+    312,
+    619,
+    3695,
+    4950,
+    3448,
+    4638
+  ],
+  "productReviews": [
+    {
+      "productId": 440,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2020-01-04T09:14:52.7953138+02:00"
+    },
+    {
+      "productId": 2897,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-09-10T04:23:47.2540441+03:00"
+    }
+  ]
+}

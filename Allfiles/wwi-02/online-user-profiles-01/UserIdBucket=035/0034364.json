@@ -1,0 +1,30 @@
+{
+  "userId": 34364,
+  "cartId": "8045021e-7fb3-4450-9c9a-dffc56d08c3f",
+  "preferredProducts": [
+    4817,
+    2815
+  ],
+  "productReviews": [
+    {
+      "productId": 3089,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-08-10T12:56:50.6833489+03:00"
+    },
+    {
+      "productId": 4431,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-23T14:26:54.3532641+03:00"
+    },
+    {
+      "productId": 2254,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-12-01T21:50:55.1244493+02:00"
+    },
+    {
+      "productId": 3044,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-03-30T16:28:51.3145917+02:00"
+    }
+  ]
+}

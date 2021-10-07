@@ -1,0 +1,41 @@
+{
+  "userId": 39687,
+  "cartId": "043cbd78-5a9e-460d-b94e-8047e61ed4f0",
+  "preferredProducts": [
+    666,
+    420,
+    631,
+    4643,
+    1783,
+    3042,
+    3086,
+    3270
+  ],
+  "productReviews": [
+    {
+      "productId": 4321,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-07-02T20:08:38.6172332+03:00"
+    },
+    {
+      "productId": 613,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-09-01T20:10:51.5585434+03:00"
+    },
+    {
+      "productId": 2359,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-01-21T00:20:02.3892317+02:00"
+    },
+    {
+      "productId": 2094,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-04-12T12:46:14.4075237+03:00"
+    },
+    {
+      "productId": 4890,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-08-14T03:20:33.5076825+03:00"
+    }
+  ]
+}

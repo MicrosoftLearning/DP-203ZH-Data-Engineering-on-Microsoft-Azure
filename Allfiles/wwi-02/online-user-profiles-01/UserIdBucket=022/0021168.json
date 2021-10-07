@@ -1,0 +1,43 @@
+{
+  "userId": 21168,
+  "cartId": "a010e823-c82b-4e95-803b-9c76fe1f4aaa",
+  "preferredProducts": [
+    1223,
+    476,
+    2948,
+    690,
+    4229,
+    388,
+    3783,
+    1749,
+    3470,
+    2468
+  ],
+  "productReviews": [
+    {
+      "productId": 4759,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-12-21T05:06:20.7249841+02:00"
+    },
+    {
+      "productId": 1643,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-07-14T07:12:13.6274992+03:00"
+    },
+    {
+      "productId": 4470,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-09-12T12:32:39.0239359+03:00"
+    },
+    {
+      "productId": 4857,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-11-10T00:46:49.8011599+02:00"
+    },
+    {
+      "productId": 4673,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-08-28T13:15:30.4831397+03:00"
+    }
+  ]
+}

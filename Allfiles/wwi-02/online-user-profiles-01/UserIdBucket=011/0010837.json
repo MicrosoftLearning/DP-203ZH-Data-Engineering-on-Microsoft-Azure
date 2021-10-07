@@ -1,0 +1,30 @@
+{
+  "userId": 10837,
+  "cartId": "e9288741-3350-42b6-9150-f3b63a568d30",
+  "preferredProducts": [
+    1098,
+    2560,
+    842,
+    4312,
+    3882,
+    2944,
+    997
+  ],
+  "productReviews": [
+    {
+      "productId": 3159,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-09-27T22:26:39.5186824+03:00"
+    },
+    {
+      "productId": 4913,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-07-19T20:10:23.917351+03:00"
+    },
+    {
+      "productId": 3254,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-05-04T16:30:16.3511693+03:00"
+    }
+  ]
+}

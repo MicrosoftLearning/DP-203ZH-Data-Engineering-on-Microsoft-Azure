@@ -1,0 +1,31 @@
+{
+  "userId": 31887,
+  "cartId": "423543ff-abb6-495e-9a74-adad0ea17325",
+  "preferredProducts": [
+    4650,
+    3886,
+    2405
+  ],
+  "productReviews": [
+    {
+      "productId": 2859,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-07-15T11:48:49.1153503+03:00"
+    },
+    {
+      "productId": 3101,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-06-29T11:59:27.205285+03:00"
+    },
+    {
+      "productId": 3119,
+      "reviewText": "this invoice is awesome.",
+      "reviewDate": "2019-01-21T01:42:38.2492216+02:00"
+    },
+    {
+      "productId": 4564,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Light keeps them away.",
+      "reviewDate": "2020-03-20T11:13:19.0664949+02:00"
+    }
+  ]
+}

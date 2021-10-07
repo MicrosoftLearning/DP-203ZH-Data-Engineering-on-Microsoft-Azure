@@ -1,0 +1,29 @@
+{
+  "userId": 90314,
+  "cartId": "39ea8973-a046-484f-a3cc-0d0ea1b092d7",
+  "preferredProducts": [
+    1890,
+    4110,
+    3094,
+    2224,
+    261,
+    3730
+  ],
+  "productReviews": [
+    {
+      "productId": 1333,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-03-14T07:13:12.8027454+02:00"
+    },
+    {
+      "productId": 4374,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-02-19T02:48:17.7585289+02:00"
+    },
+    {
+      "productId": 4085,
+      "reviewText": "this Licensed is light-hearted.",
+      "reviewDate": "2017-08-04T22:40:40.1226394+03:00"
+    }
+  ]
+}

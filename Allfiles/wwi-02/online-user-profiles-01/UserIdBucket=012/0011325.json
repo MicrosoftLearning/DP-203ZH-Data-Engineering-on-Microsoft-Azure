@@ -1,0 +1,30 @@
+{
+  "userId": 11325,
+  "cartId": "597dda29-0a72-4914-87d6-2e61dca80b27",
+  "preferredProducts": [
+    3411,
+    2229,
+    1282,
+    95,
+    1715,
+    925,
+    500
+  ],
+  "productReviews": [
+    {
+      "productId": 3367,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-02-22T00:23:37.5777004+02:00"
+    },
+    {
+      "productId": 2315,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-06-21T23:22:17.2605128+03:00"
+    },
+    {
+      "productId": 4135,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-02-06T07:43:39.6683587+02:00"
+    }
+  ]
+}

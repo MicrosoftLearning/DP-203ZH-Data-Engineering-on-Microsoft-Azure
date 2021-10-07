@@ -1,0 +1,26 @@
+{
+  "userId": 91250,
+  "cartId": "5b8f872d-31ee-4cbc-8e92-fe952ea2cf18",
+  "preferredProducts": [
+    1201,
+    3547,
+    875,
+    4780,
+    2695,
+    3120,
+    3839,
+    2537
+  ],
+  "productReviews": [
+    {
+      "productId": 2154,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-01-26T12:58:20.5780864+02:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-03-25T13:57:01.3388944+02:00"
+    }
+  ]
+}

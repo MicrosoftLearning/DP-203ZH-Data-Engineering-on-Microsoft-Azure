@@ -1,0 +1,23 @@
+{
+  "userId": 25305,
+  "cartId": "872cd7f4-8b17-4cb8-bea5-4ef18588fa7c",
+  "preferredProducts": [
+    3333,
+    738,
+    4282,
+    1397,
+    4592
+  ],
+  "productReviews": [
+    {
+      "productId": 2800,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-03-07T16:19:35.745849+02:00"
+    },
+    {
+      "productId": 2006,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-02-09T10:49:01.6432011+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 20459,
+  "cartId": "3e7deca3-8fc5-4738-9613-e3e8cd20705f",
+  "preferredProducts": [
+    1197,
+    4604,
+    3344,
+    85,
+    4134,
+    249,
+    422
+  ],
+  "productReviews": [
+    {
+      "productId": 3007,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-02-26T14:12:12.4732195+02:00"
+    },
+    {
+      "productId": 93,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-10-13T07:44:41.0794785+03:00"
+    }
+  ]
+}

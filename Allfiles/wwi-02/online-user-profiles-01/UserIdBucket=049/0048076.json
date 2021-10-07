@@ -1,0 +1,33 @@
+{
+  "userId": 48076,
+  "cartId": "0ae12b87-96f4-4ed1-a79d-7c3093559eb2",
+  "preferredProducts": [
+    339,
+    836,
+    149,
+    976,
+    2975
+  ],
+  "productReviews": [
+    {
+      "productId": 822,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-03-29T13:20:08.9217038+03:00"
+    },
+    {
+      "productId": 3605,
+      "reviewText": "this web-enabled is top-notch.",
+      "reviewDate": "2018-05-15T07:10:54.9756431+03:00"
+    },
+    {
+      "productId": 581,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-11-22T15:35:28.1661972+02:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-04-06T18:32:51.0277704+03:00"
+    }
+  ]
+}

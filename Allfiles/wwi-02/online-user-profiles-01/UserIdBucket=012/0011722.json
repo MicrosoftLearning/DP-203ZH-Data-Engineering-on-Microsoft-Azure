@@ -1,0 +1,33 @@
+{
+  "userId": 11722,
+  "cartId": "b042fb7b-70ad-485d-b39d-1833392da8bf",
+  "preferredProducts": [
+    334,
+    2312,
+    2129,
+    4872,
+    2560
+  ],
+  "productReviews": [
+    {
+      "productId": 914,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-09-20T00:00:45.8460604+03:00"
+    },
+    {
+      "productId": 4092,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-09-07T04:51:33.8234632+03:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-07-14T21:39:35.0971371+03:00"
+    },
+    {
+      "productId": 598,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-08-30T13:24:32.3849315+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 5421,
+  "cartId": "6aa484d2-c7ba-4cf4-aafa-14ac1144a125",
+  "preferredProducts": [
+    2112,
+    4711,
+    4104,
+    4043,
+    3153,
+    1306,
+    3967,
+    2001,
+    1286
+  ],
+  "productReviews": [
+    {
+      "productId": 729,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-01-07T07:37:02.8541118+02:00"
+    },
+    {
+      "productId": 2550,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-09-07T15:41:55.3811062+03:00"
+    },
+    {
+      "productId": 2422,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-12-10T11:11:28.5737333+02:00"
+    },
+    {
+      "productId": 562,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-07-07T10:44:33.0225316+03:00"
+    }
+  ]
+}

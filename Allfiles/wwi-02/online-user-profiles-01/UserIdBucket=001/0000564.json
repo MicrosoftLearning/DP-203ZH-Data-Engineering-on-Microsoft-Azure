@@ -1,0 +1,35 @@
+{
+  "userId": 564,
+  "cartId": "6a16ab1a-ce56-4b4a-bc67-d3f7ae500316",
+  "preferredProducts": [
+    2110,
+    555
+  ],
+  "productReviews": [
+    {
+      "productId": 3502,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-11-10T05:25:13.6157816+02:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-11-30T10:00:11.0427096+02:00"
+    },
+    {
+      "productId": 462,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-08-13T13:38:31.7584244+03:00"
+    },
+    {
+      "productId": 429,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-02-20T22:39:14.7227241+02:00"
+    },
+    {
+      "productId": 4330,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-03-05T22:09:00.0578151+02:00"
+    }
+  ]
+}

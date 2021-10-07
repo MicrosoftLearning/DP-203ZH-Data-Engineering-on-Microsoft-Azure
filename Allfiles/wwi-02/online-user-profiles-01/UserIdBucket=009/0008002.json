@@ -1,0 +1,37 @@
+{
+  "userId": 8002,
+  "cartId": "22096bca-4685-46db-87f2-b2dcbdfa576b",
+  "preferredProducts": [
+    1191,
+    1282,
+    364,
+    1167,
+    145,
+    1008,
+    130,
+    1472,
+    1595
+  ],
+  "productReviews": [
+    {
+      "productId": 4230,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-02-03T07:11:52.9416795+02:00"
+    },
+    {
+      "productId": 2094,
+      "reviewText": "this protocol is hyper.",
+      "reviewDate": "2018-08-26T06:26:55.787738+03:00"
+    },
+    {
+      "productId": 4650,
+      "reviewText": "This Sleek works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-06-23T23:17:57.7925516+03:00"
+    },
+    {
+      "productId": 1872,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-04-20T19:32:12.1516778+03:00"
+    }
+  ]
+}

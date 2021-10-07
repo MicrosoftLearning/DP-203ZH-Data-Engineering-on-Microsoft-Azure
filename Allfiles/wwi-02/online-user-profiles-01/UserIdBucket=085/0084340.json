@@ -1,0 +1,31 @@
+{
+  "userId": 84340,
+  "cartId": "f03f8139-4039-4a9e-acf6-c8b911a9cbdf",
+  "preferredProducts": [
+    3850,
+    3428,
+    1121,
+    3421,
+    3761,
+    2782,
+    1041,
+    1572
+  ],
+  "productReviews": [
+    {
+      "productId": 4752,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2020-04-18T02:36:19.8341905+03:00"
+    },
+    {
+      "productId": 1737,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2019-01-09T02:13:25.0421483+02:00"
+    },
+    {
+      "productId": 371,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-12-18T10:47:36.0963548+02:00"
+    }
+  ]
+}

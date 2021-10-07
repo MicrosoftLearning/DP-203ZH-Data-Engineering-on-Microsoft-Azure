@@ -1,0 +1,31 @@
+{
+  "userId": 42967,
+  "cartId": "ce63324c-f25c-4bef-ac8d-d9338b71b179",
+  "preferredProducts": [
+    3019,
+    1668,
+    4285
+  ],
+  "productReviews": [
+    {
+      "productId": 1672,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-07-31T01:43:39.1217943+03:00"
+    },
+    {
+      "productId": 3702,
+      "reviewText": "this microchip is tasty.",
+      "reviewDate": "2017-02-05T07:12:01.5113871+02:00"
+    },
+    {
+      "productId": 3501,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-01-23T00:35:20.4679172+02:00"
+    },
+    {
+      "productId": 2939,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-03-22T16:01:04.3453092+02:00"
+    }
+  ]
+}

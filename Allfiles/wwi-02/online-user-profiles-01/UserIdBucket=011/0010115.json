@@ -1,0 +1,27 @@
+{
+  "userId": 10115,
+  "cartId": "c54ac483-1d79-4a63-98e1-80fe6b4aed52",
+  "preferredProducts": [
+    1610,
+    1685,
+    2115,
+    1703
+  ],
+  "productReviews": [
+    {
+      "productId": 553,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-01-07T06:50:29.9051186+02:00"
+    },
+    {
+      "productId": 2329,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2020-04-14T15:52:39.4565622+03:00"
+    },
+    {
+      "productId": 3435,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-12-27T11:58:41.7734584+02:00"
+    }
+  ]
+}

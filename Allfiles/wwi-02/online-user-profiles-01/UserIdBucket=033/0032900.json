@@ -1,0 +1,30 @@
+{
+  "userId": 32900,
+  "cartId": "0b408554-1740-4b74-a8d4-3499be699b84",
+  "preferredProducts": [
+    76,
+    2090,
+    133,
+    278,
+    581,
+    772,
+    2652
+  ],
+  "productReviews": [
+    {
+      "productId": 1061,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-04-11T12:17:21.5624047+03:00"
+    },
+    {
+      "productId": 2189,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-01-23T08:30:21.2702036+02:00"
+    },
+    {
+      "productId": 2695,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-11-26T12:55:37.1574521+02:00"
+    }
+  ]
+}

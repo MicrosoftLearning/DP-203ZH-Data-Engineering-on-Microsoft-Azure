@@ -1,0 +1,31 @@
+{
+  "userId": 55040,
+  "cartId": "b8a8910b-a253-42d2-94c0-8bb96be265dc",
+  "preferredProducts": [
+    1337,
+    3517,
+    179
+  ],
+  "productReviews": [
+    {
+      "productId": 1542,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-12-24T01:50:16.0870275+02:00"
+    },
+    {
+      "productId": 1527,
+      "reviewText": "This GB, does exactly what it's suppose to do.",
+      "reviewDate": "2018-03-27T19:26:20.7215253+03:00"
+    },
+    {
+      "productId": 4176,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2020-01-02T05:54:25.3725438+02:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-10-08T10:51:39.8014345+03:00"
+    }
+  ]
+}

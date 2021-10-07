@@ -1,0 +1,32 @@
+{
+  "userId": 65566,
+  "cartId": "094e956b-ba00-4847-b270-e79bb8fb353b",
+  "preferredProducts": [
+    320,
+    2625,
+    3093,
+    1765
+  ],
+  "productReviews": [
+    {
+      "productId": 696,
+      "reviewText": "this SCSI is gracious.",
+      "reviewDate": "2016-11-28T00:57:44.3199105+02:00"
+    },
+    {
+      "productId": 4210,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-04-23T18:06:12.044393+03:00"
+    },
+    {
+      "productId": 577,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-08-20T22:51:42.0008046+03:00"
+    },
+    {
+      "productId": 1456,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-10-16T08:29:40.3961632+03:00"
+    }
+  ]
+}

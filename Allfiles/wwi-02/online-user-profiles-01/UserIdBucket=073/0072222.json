@@ -1,0 +1,38 @@
+{
+  "userId": 72222,
+  "cartId": "6f94e773-67c9-4194-b6fe-060405fe2c02",
+  "preferredProducts": [
+    1874,
+    641,
+    179,
+    2881,
+    2990,
+    4101,
+    2058,
+    53,
+    2574,
+    3359
+  ],
+  "productReviews": [
+    {
+      "productId": 1750,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-09-05T15:39:03.2265358+03:00"
+    },
+    {
+      "productId": 4851,
+      "reviewText": "This teal works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2016-11-10T09:16:30.1438299+02:00"
+    },
+    {
+      "productId": 1713,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-10-07T17:53:23.160947+03:00"
+    },
+    {
+      "productId": 1272,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-03-11T05:09:52.0518163+02:00"
+    }
+  ]
+}

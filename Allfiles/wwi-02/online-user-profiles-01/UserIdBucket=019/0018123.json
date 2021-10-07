@@ -1,0 +1,30 @@
+{
+  "userId": 18123,
+  "cartId": "af62f5bc-434e-4673-9402-ed7f1312c8a2",
+  "preferredProducts": [
+    575,
+    2393
+  ],
+  "productReviews": [
+    {
+      "productId": 4811,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-01-21T09:09:30.720791+02:00"
+    },
+    {
+      "productId": 962,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2016-12-18T02:08:58.0198745+02:00"
+    },
+    {
+      "productId": 1767,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-09-11T08:22:56.9476653+03:00"
+    },
+    {
+      "productId": 4311,
+      "reviewText": "this Corners is whole-grain.",
+      "reviewDate": "2017-10-18T07:48:33.654896+03:00"
+    }
+  ]
+}

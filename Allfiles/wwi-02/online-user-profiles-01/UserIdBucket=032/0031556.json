@@ -1,0 +1,28 @@
+{
+  "userId": 31556,
+  "cartId": "65fbb4f4-1337-483c-ad48-527079020e83",
+  "preferredProducts": [
+    1681,
+    1902,
+    3248,
+    4502,
+    1663
+  ],
+  "productReviews": [
+    {
+      "productId": 1242,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-05-26T00:17:34.7191462+03:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-07-23T13:30:59.7835635+03:00"
+    },
+    {
+      "productId": 201,
+      "reviewText": "This Concrete works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-03-12T23:37:48.3542775+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 5438,
+  "cartId": "70795c98-9f65-4e6a-a8f9-f5c3f8fcbe78",
+  "preferredProducts": [
+    4346,
+    4594,
+    1293,
+    613,
+    2281
+  ],
+  "productReviews": [
+    {
+      "productId": 1515,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-10-04T04:14:16.7413325+03:00"
+    },
+    {
+      "productId": 4825,
+      "reviewText": "this Graphic Interface is light-hearted.",
+      "reviewDate": "2018-05-10T03:22:15.095066+03:00"
+    },
+    {
+      "productId": 2094,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-04-16T15:27:11.3220485+03:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-06-28T12:51:05.1555097+03:00"
+    }
+  ]
+}

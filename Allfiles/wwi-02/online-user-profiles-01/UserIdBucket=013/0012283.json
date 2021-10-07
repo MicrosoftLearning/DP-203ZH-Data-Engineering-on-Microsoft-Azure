@@ -1,0 +1,27 @@
+{
+  "userId": 12283,
+  "cartId": "2a629142-975f-4793-98e6-59ed038e750e",
+  "preferredProducts": [
+    918,
+    2390,
+    2395,
+    4627
+  ],
+  "productReviews": [
+    {
+      "productId": 1630,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-09-01T18:43:03.2094884+03:00"
+    },
+    {
+      "productId": 808,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-03-01T05:04:38.7392401+02:00"
+    },
+    {
+      "productId": 2675,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-02-15T11:33:36.2611916+02:00"
+    }
+  ]
+}

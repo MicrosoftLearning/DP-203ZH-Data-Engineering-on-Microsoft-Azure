@@ -1,0 +1,33 @@
+{
+  "userId": 65613,
+  "cartId": "86ccf594-2616-4f54-8844-926557a86691",
+  "preferredProducts": [
+    456,
+    2550,
+    1082,
+    1918,
+    2566,
+    2780,
+    3225,
+    3503,
+    2395,
+    1163
+  ],
+  "productReviews": [
+    {
+      "productId": 1178,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-11-20T14:49:50.4890263+02:00"
+    },
+    {
+      "productId": 4309,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-12-05T16:51:04.8621778+02:00"
+    },
+    {
+      "productId": 911,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-07-03T04:34:42.9578503+03:00"
+    }
+  ]
+}

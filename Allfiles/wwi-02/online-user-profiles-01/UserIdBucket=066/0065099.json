@@ -1,0 +1,36 @@
+{
+  "userId": 65099,
+  "cartId": "4c2e5ffe-3209-45bc-9408-032905a674e7",
+  "preferredProducts": [
+    3275,
+    3987,
+    831,
+    3258,
+    2748,
+    568,
+    2617,
+    4697
+  ],
+  "productReviews": [
+    {
+      "productId": 4080,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-09-10T13:16:42.1988952+03:00"
+    },
+    {
+      "productId": 3193,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-11-23T22:27:06.1186503+02:00"
+    },
+    {
+      "productId": 3506,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-04-21T13:04:04.9673268+03:00"
+    },
+    {
+      "productId": 1763,
+      "reviewText": "this Trail is smooth.",
+      "reviewDate": "2019-01-06T21:43:37.8040579+02:00"
+    }
+  ]
+}

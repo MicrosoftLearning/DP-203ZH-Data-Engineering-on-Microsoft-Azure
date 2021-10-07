@@ -1,0 +1,31 @@
+{
+  "userId": 87748,
+  "cartId": "e7437033-080e-4a65-b95e-eaa64a9d1cc0",
+  "preferredProducts": [
+    4496,
+    4419,
+    3646
+  ],
+  "productReviews": [
+    {
+      "productId": 1185,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-11-15T02:43:34.5829433+02:00"
+    },
+    {
+      "productId": 2997,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-08-08T14:55:21.3116298+03:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-11-29T12:33:42.3444549+02:00"
+    },
+    {
+      "productId": 4488,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-12-18T18:52:36.1641094+02:00"
+    }
+  ]
+}

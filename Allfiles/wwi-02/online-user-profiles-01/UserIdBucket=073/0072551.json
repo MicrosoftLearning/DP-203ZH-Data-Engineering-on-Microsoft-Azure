@@ -1,0 +1,27 @@
+{
+  "userId": 72551,
+  "cartId": "8e95ecd4-f442-4195-8009-3f735e9ac22c",
+  "preferredProducts": [
+    3253,
+    4750,
+    192,
+    1516,
+    4696,
+    3253,
+    2136,
+    532,
+    3499
+  ],
+  "productReviews": [
+    {
+      "productId": 551,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-07-20T15:04:31.1581881+03:00"
+    },
+    {
+      "productId": 697,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-07-07T04:44:48.2222675+03:00"
+    }
+  ]
+}

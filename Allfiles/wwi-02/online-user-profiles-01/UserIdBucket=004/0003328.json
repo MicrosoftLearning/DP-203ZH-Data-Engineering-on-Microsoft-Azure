@@ -1,0 +1,28 @@
+{
+  "userId": 3328,
+  "cartId": "1f4972a1-174b-49ce-b387-44cc0f428e93",
+  "preferredProducts": [
+    2349,
+    1102,
+    4978,
+    2659,
+    4160
+  ],
+  "productReviews": [
+    {
+      "productId": 3322,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-10-11T04:10:51.4216773+03:00"
+    },
+    {
+      "productId": 4453,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2020-04-27T03:26:02.9064773+03:00"
+    },
+    {
+      "productId": 4153,
+      "reviewText": "This Texas works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-12-26T18:05:28.6981952+02:00"
+    }
+  ]
+}

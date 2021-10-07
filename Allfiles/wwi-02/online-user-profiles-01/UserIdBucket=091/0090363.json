@@ -1,0 +1,33 @@
+{
+  "userId": 90363,
+  "cartId": "a2c43083-6d19-41f7-9046-fc46712f2604",
+  "preferredProducts": [
+    1409,
+    1478,
+    2584,
+    317,
+    4099,
+    410,
+    3497,
+    4792,
+    1767,
+    239
+  ],
+  "productReviews": [
+    {
+      "productId": 3487,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-01-08T06:46:52.7024109+02:00"
+    },
+    {
+      "productId": 3847,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-03-25T18:43:55.1513249+02:00"
+    },
+    {
+      "productId": 1000,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-10-10T07:28:31.6630438+03:00"
+    }
+  ]
+}

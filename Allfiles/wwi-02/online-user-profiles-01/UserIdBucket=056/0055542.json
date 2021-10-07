@@ -1,0 +1,36 @@
+{
+  "userId": 55542,
+  "cartId": "c892bbe6-6c4e-443b-8e86-cfb99af16ca1",
+  "preferredProducts": [
+    333,
+    4958,
+    105,
+    4651,
+    2685,
+    522,
+    1442,
+    3567
+  ],
+  "productReviews": [
+    {
+      "productId": 2405,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-08-22T13:02:30.9900794+03:00"
+    },
+    {
+      "productId": 2300,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-02-04T17:38:02.659351+02:00"
+    },
+    {
+      "productId": 4694,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-12-11T06:45:55.8973954+02:00"
+    },
+    {
+      "productId": 4223,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-10-07T11:58:25.1732608+03:00"
+    }
+  ]
+}

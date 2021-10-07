@@ -1,0 +1,30 @@
+{
+  "userId": 96617,
+  "cartId": "9231af23-ea25-410a-93d8-a0034cb89c75",
+  "preferredProducts": [
+    3470,
+    446,
+    3982,
+    3055,
+    318,
+    3674,
+    1699
+  ],
+  "productReviews": [
+    {
+      "productId": 456,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-02-05T03:42:47.0075316+02:00"
+    },
+    {
+      "productId": 1633,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-02-11T02:40:36.8295024+02:00"
+    },
+    {
+      "productId": 2813,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-12-10T23:22:08.3360556+02:00"
+    }
+  ]
+}

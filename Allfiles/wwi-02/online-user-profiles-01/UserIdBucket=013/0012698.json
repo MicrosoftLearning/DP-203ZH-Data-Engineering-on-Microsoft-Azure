@@ -1,0 +1,30 @@
+{
+  "userId": 12698,
+  "cartId": "2a0bbfcd-b537-4c2f-b187-17c29728c534",
+  "preferredProducts": [
+    543,
+    2022,
+    1968,
+    3124,
+    2330,
+    739,
+    4872
+  ],
+  "productReviews": [
+    {
+      "productId": 2580,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-11-12T11:07:19.6462925+02:00"
+    },
+    {
+      "productId": 3613,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-02-08T10:51:22.6875826+02:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "this FTP is standard.",
+      "reviewDate": "2017-12-10T04:29:36.8769964+02:00"
+    }
+  ]
+}

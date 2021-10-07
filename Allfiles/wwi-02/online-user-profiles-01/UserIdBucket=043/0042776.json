@@ -1,0 +1,37 @@
+{
+  "userId": 42776,
+  "cartId": "69c811c9-b334-4b30-b6b7-5cc641270fb3",
+  "preferredProducts": [
+    131,
+    4599,
+    4449,
+    3026
+  ],
+  "productReviews": [
+    {
+      "productId": 1379,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-05-23T02:01:57.7708334+03:00"
+    },
+    {
+      "productId": 1184,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-05-20T12:27:02.7009238+03:00"
+    },
+    {
+      "productId": 2372,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-03-29T03:20:06.5624738+02:00"
+    },
+    {
+      "productId": 4164,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-12-28T16:21:42.876026+02:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-16T02:54:34.8881968+03:00"
+    }
+  ]
+}

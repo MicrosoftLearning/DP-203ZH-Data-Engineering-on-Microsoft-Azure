@@ -1,0 +1,29 @@
+{
+  "userId": 12444,
+  "cartId": "ccafb3f7-73b6-4400-8324-70fa1be5518d",
+  "preferredProducts": [
+    35
+  ],
+  "productReviews": [
+    {
+      "productId": 2660,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-04-30T21:16:07.5947793+03:00"
+    },
+    {
+      "productId": 2748,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-05-20T02:58:15.4369039+03:00"
+    },
+    {
+      "productId": 30,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-06-30T05:11:26.3871713+03:00"
+    },
+    {
+      "productId": 2934,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-04-29T18:36:14.4866563+03:00"
+    }
+  ]
+}

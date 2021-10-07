@@ -1,0 +1,27 @@
+{
+  "userId": 15331,
+  "cartId": "3e0abe00-e93e-4f50-b810-74fc581dbccf",
+  "preferredProducts": [
+    4486,
+    2451,
+    4413,
+    904
+  ],
+  "productReviews": [
+    {
+      "productId": 4402,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-09-10T17:33:29.7961119+03:00"
+    },
+    {
+      "productId": 1749,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2020-02-01T21:37:44.3573136+02:00"
+    },
+    {
+      "productId": 2894,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-03-31T03:26:16.7562694+03:00"
+    }
+  ]
+}

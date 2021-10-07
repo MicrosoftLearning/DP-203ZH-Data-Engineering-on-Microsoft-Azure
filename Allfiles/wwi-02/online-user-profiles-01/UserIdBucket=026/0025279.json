@@ -1,0 +1,25 @@
+{
+  "userId": 25279,
+  "cartId": "e0d25378-5ba3-4192-8b4e-edb407a425a2",
+  "preferredProducts": [
+    171,
+    957,
+    2258,
+    1286,
+    721,
+    939,
+    2917
+  ],
+  "productReviews": [
+    {
+      "productId": 278,
+      "reviewText": "this database is ratty.",
+      "reviewDate": "2020-01-06T00:12:04.6213757+02:00"
+    },
+    {
+      "productId": 1242,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-03-26T05:00:57.4068128+03:00"
+    }
+  ]
+}

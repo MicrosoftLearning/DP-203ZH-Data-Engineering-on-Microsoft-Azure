@@ -1,0 +1,31 @@
+{
+  "userId": 91503,
+  "cartId": "12ccd561-6023-474f-9d2a-ee0fb3cce275",
+  "preferredProducts": [
+    3582,
+    1361,
+    871
+  ],
+  "productReviews": [
+    {
+      "productId": 331,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-06-14T18:23:11.794077+03:00"
+    },
+    {
+      "productId": 730,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-01-24T08:50:47.9630133+02:00"
+    },
+    {
+      "productId": 816,
+      "reviewText": "this Ergonomic is honest.",
+      "reviewDate": "2017-04-21T21:48:14.7219737+03:00"
+    },
+    {
+      "productId": 4681,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-07-26T18:59:50.6854075+03:00"
+    }
+  ]
+}

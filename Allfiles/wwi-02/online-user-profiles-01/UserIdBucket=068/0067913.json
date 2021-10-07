@@ -1,0 +1,35 @@
+{
+  "userId": 67913,
+  "cartId": "933b1026-b565-4420-adc5-1ad684270204",
+  "preferredProducts": [
+    4953,
+    3760
+  ],
+  "productReviews": [
+    {
+      "productId": 3444,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-07-11T04:08:40.9840256+03:00"
+    },
+    {
+      "productId": 4031,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-09-17T21:24:59.7157227+03:00"
+    },
+    {
+      "productId": 459,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-10-21T23:44:39.2676636+03:00"
+    },
+    {
+      "productId": 3310,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-07-24T08:43:40.4764094+03:00"
+    },
+    {
+      "productId": 4531,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-11-15T14:06:18.2608223+02:00"
+    }
+  ]
+}

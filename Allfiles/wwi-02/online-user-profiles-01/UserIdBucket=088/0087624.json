@@ -1,0 +1,28 @@
+{
+  "userId": 87624,
+  "cartId": "fc18cf3a-b423-4ff7-a57b-53c56176fc16",
+  "preferredProducts": [
+    1546,
+    3277,
+    4882,
+    1096,
+    3300
+  ],
+  "productReviews": [
+    {
+      "productId": 3054,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-03-01T02:57:24.0045075+02:00"
+    },
+    {
+      "productId": 498,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-10-06T11:09:22.2056746+03:00"
+    },
+    {
+      "productId": 1236,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-02-19T18:58:05.9668047+02:00"
+    }
+  ]
+}

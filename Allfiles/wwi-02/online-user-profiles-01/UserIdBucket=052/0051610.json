@@ -1,0 +1,30 @@
+{
+  "userId": 51610,
+  "cartId": "42a783fb-ed4e-4c52-bb14-2fad6f0b9517",
+  "preferredProducts": [
+    3550,
+    4699,
+    62,
+    4933,
+    4088,
+    4989,
+    4158
+  ],
+  "productReviews": [
+    {
+      "productId": 2415,
+      "reviewText": "This Home works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-09-14T16:14:44.9644588+03:00"
+    },
+    {
+      "productId": 976,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-06-09T05:19:27.6632462+03:00"
+    },
+    {
+      "productId": 2854,
+      "reviewText": "this Mississippi is vertical.",
+      "reviewDate": "2018-09-19T19:47:35.7270748+03:00"
+    }
+  ]
+}

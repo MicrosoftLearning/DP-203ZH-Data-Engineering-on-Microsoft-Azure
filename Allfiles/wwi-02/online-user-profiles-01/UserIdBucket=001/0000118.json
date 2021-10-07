@@ -1,0 +1,33 @@
+{
+  "userId": 118,
+  "cartId": "b51f9e25-eee1-4120-ab90-ceef09971725",
+  "preferredProducts": [
+    4450,
+    1132,
+    1732,
+    2252,
+    3274
+  ],
+  "productReviews": [
+    {
+      "productId": 3260,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-10-14T14:26:48.8286503+03:00"
+    },
+    {
+      "productId": 4494,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2016-10-30T13:37:57.6807663+02:00"
+    },
+    {
+      "productId": 1876,
+      "reviewText": "this reboot is whole-grain.",
+      "reviewDate": "2016-08-26T06:45:55.0344883+03:00"
+    },
+    {
+      "productId": 190,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2016-07-07T22:11:45.0871836+03:00"
+    }
+  ]
+}

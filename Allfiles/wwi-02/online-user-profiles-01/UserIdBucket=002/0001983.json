@@ -1,0 +1,26 @@
+{
+  "userId": 1983,
+  "cartId": "60c20e74-b79a-45a0-a2bc-b4341198edad",
+  "preferredProducts": [
+    2631,
+    4421,
+    4654
+  ],
+  "productReviews": [
+    {
+      "productId": 403,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2019-12-27T03:26:23.6216215+02:00"
+    },
+    {
+      "productId": 1095,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-01-05T09:29:41.7411444+02:00"
+    },
+    {
+      "productId": 1954,
+      "reviewText": "this challenge is papery.",
+      "reviewDate": "2018-01-24T11:38:34.8665372+02:00"
+    }
+  ]
+}

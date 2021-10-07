@@ -1,0 +1,26 @@
+{
+  "userId": 32001,
+  "cartId": "93f3598e-b918-4523-b47c-054f6e0dc653",
+  "preferredProducts": [
+    1995,
+    2029,
+    3601,
+    1929,
+    4489,
+    331,
+    4707,
+    4156
+  ],
+  "productReviews": [
+    {
+      "productId": 4447,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-11-08T22:01:03.9425711+02:00"
+    },
+    {
+      "productId": 3389,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-04-20T14:24:28.0426837+03:00"
+    }
+  ]
+}

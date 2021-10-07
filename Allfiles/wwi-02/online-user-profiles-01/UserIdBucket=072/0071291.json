@@ -1,0 +1,36 @@
+{
+  "userId": 71291,
+  "cartId": "e60f8b2f-a78e-4163-9b5a-58084724a76b",
+  "preferredProducts": [
+    1950,
+    784,
+    3834
+  ],
+  "productReviews": [
+    {
+      "productId": 610,
+      "reviewText": "this grey is revolting.",
+      "reviewDate": "2017-01-15T09:21:09.6769653+02:00"
+    },
+    {
+      "productId": 2360,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2016-12-14T18:01:09.6225168+02:00"
+    },
+    {
+      "productId": 4609,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-09-16T23:17:14.3202672+03:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "this Skyway is vertical.",
+      "reviewDate": "2020-02-06T03:41:16.6389745+02:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-10-28T08:24:53.8185806+02:00"
+    }
+  ]
+}

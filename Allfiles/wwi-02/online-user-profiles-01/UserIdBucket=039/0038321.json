@@ -1,0 +1,25 @@
+{
+  "userId": 38321,
+  "cartId": "061b77ae-eec6-4217-b35e-ec40eb4cbb2d",
+  "preferredProducts": [
+    2469,
+    3567
+  ],
+  "productReviews": [
+    {
+      "productId": 4730,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-01-27T08:37:35.8579341+02:00"
+    },
+    {
+      "productId": 1147,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-10-09T09:42:31.8127992+03:00"
+    },
+    {
+      "productId": 4088,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-06-18T12:56:03.5285025+03:00"
+    }
+  ]
+}

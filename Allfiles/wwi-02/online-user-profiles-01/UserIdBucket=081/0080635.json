@@ -1,0 +1,35 @@
+{
+  "userId": 80635,
+  "cartId": "4e7d2840-c72e-42dd-8756-40f4dc2a64ab",
+  "preferredProducts": [
+    2708,
+    4113,
+    4927,
+    4486,
+    3001,
+    3565,
+    2421
+  ],
+  "productReviews": [
+    {
+      "productId": 2381,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2016-11-01T17:15:21.3571307+02:00"
+    },
+    {
+      "productId": 165,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-02-13T19:48:00.8090153+02:00"
+    },
+    {
+      "productId": 109,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-02-21T16:00:59.5862136+02:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-12-07T19:02:01.0879201+02:00"
+    }
+  ]
+}

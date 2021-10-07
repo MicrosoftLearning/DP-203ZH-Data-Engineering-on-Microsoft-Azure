@@ -1,0 +1,36 @@
+{
+  "userId": 33279,
+  "cartId": "b9335501-0dc1-4541-8c12-01bdc820ebbd",
+  "preferredProducts": [
+    4368,
+    2451,
+    1230,
+    3599,
+    2729,
+    2411,
+    1988,
+    2526
+  ],
+  "productReviews": [
+    {
+      "productId": 62,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-05-09T09:15:46.841395+03:00"
+    },
+    {
+      "productId": 4066,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-08-27T18:24:44.1316841+03:00"
+    },
+    {
+      "productId": 2948,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-07-19T00:39:59.9230716+03:00"
+    },
+    {
+      "productId": 3296,
+      "reviewText": "this Rustic Granite Hat is slurpee.",
+      "reviewDate": "2018-02-12T06:21:11.918022+02:00"
+    }
+  ]
+}

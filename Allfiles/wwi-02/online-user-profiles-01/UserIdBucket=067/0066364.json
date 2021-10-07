@@ -1,0 +1,30 @@
+{
+  "userId": 66364,
+  "cartId": "69b7678f-01e0-4d6f-ac71-49d7ecc47314",
+  "preferredProducts": [
+    1103,
+    524,
+    3055,
+    4282,
+    1946,
+    890,
+    2437
+  ],
+  "productReviews": [
+    {
+      "productId": 3638,
+      "reviewText": "This is a really good Vietnam.",
+      "reviewDate": "2019-10-14T19:56:21.1379538+03:00"
+    },
+    {
+      "productId": 271,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-08-13T12:09:13.1207553+03:00"
+    },
+    {
+      "productId": 1766,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-02-19T23:44:00.6880929+02:00"
+    }
+  ]
+}

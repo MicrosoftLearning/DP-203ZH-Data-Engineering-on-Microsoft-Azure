@@ -1,0 +1,42 @@
+{
+  "userId": 8024,
+  "cartId": "91bf0270-c8e2-4b3e-8a76-b6752d712db1",
+  "preferredProducts": [
+    1328,
+    3638,
+    4824,
+    3621,
+    2722,
+    4005,
+    836,
+    3067,
+    1840
+  ],
+  "productReviews": [
+    {
+      "productId": 2911,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-02-17T14:26:45.1339895+02:00"
+    },
+    {
+      "productId": 2414,
+      "reviewText": "this digital is brown.",
+      "reviewDate": "2017-04-14T04:38:19.4357201+03:00"
+    },
+    {
+      "productId": 2570,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-10-15T07:20:29.2650299+03:00"
+    },
+    {
+      "productId": 1793,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-06-22T17:42:55.1415602+03:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-04-21T19:11:43.9608243+03:00"
+    }
+  ]
+}

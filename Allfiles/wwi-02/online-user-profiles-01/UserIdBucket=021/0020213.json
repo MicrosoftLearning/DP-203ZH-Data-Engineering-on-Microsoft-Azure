@@ -1,0 +1,30 @@
+{
+  "userId": 20213,
+  "cartId": "89312ac8-738c-4665-9d74-3e41e8f206e8",
+  "preferredProducts": [
+    4373,
+    3385,
+    1550,
+    1423,
+    3226,
+    3279,
+    762
+  ],
+  "productReviews": [
+    {
+      "productId": 165,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-03-12T22:46:30.543699+02:00"
+    },
+    {
+      "productId": 970,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-07-26T07:54:34.9728504+03:00"
+    },
+    {
+      "productId": 1951,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2020-03-27T04:47:03.3366744+02:00"
+    }
+  ]
+}

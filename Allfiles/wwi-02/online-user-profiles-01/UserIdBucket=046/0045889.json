@@ -1,0 +1,35 @@
+{
+  "userId": 45889,
+  "cartId": "b107ef45-e452-4a3b-bf77-37091fe1c7d5",
+  "preferredProducts": [
+    144,
+    1954,
+    4923,
+    3430,
+    1105,
+    2557,
+    505
+  ],
+  "productReviews": [
+    {
+      "productId": 3873,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-02-20T22:07:02.8691548+02:00"
+    },
+    {
+      "productId": 4311,
+      "reviewText": "this application is perplexed.",
+      "reviewDate": "2016-07-10T16:52:39.5333677+03:00"
+    },
+    {
+      "productId": 1892,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-05-02T14:02:35.1567293+03:00"
+    },
+    {
+      "productId": 1526,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-07-09T18:10:46.843178+03:00"
+    }
+  ]
+}

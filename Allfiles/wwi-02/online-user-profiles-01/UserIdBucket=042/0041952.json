@@ -1,0 +1,30 @@
+{
+  "userId": 41952,
+  "cartId": "aab59f51-4d3a-4728-8784-b12bc91d9bb1",
+  "preferredProducts": [
+    3690,
+    2137,
+    1249,
+    4654,
+    3431,
+    2814,
+    2911
+  ],
+  "productReviews": [
+    {
+      "productId": 397,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-04-22T17:15:55.5448226+03:00"
+    },
+    {
+      "productId": 234,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-05-10T20:51:22.3962696+03:00"
+    },
+    {
+      "productId": 4399,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-06-18T21:18:36.1748592+03:00"
+    }
+  ]
+}

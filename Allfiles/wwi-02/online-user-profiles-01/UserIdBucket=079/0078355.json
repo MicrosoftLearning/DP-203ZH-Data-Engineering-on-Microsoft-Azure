@@ -1,0 +1,41 @@
+{
+  "userId": 78355,
+  "cartId": "dd083eed-41ce-4d68-9014-d1efe18600ca",
+  "preferredProducts": [
+    3295,
+    764,
+    1748,
+    4618,
+    1208,
+    3806,
+    3006,
+    1096
+  ],
+  "productReviews": [
+    {
+      "productId": 4428,
+      "reviewText": "this sensor is nifty.",
+      "reviewDate": "2018-01-21T08:54:03.6272949+02:00"
+    },
+    {
+      "productId": 4841,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-06-03T00:18:37.7805497+03:00"
+    },
+    {
+      "productId": 1343,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-05-19T10:47:47.3353003+03:00"
+    },
+    {
+      "productId": 752,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-03-29T10:29:12.9270244+03:00"
+    },
+    {
+      "productId": 2955,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2016-09-12T16:57:38.169811+03:00"
+    }
+  ]
+}

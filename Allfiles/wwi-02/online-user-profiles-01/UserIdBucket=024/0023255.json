@@ -1,0 +1,38 @@
+{
+  "userId": 23255,
+  "cartId": "7cf59e31-ef95-41b3-bb29-39851d0bd6ea",
+  "preferredProducts": [
+    4328,
+    2863,
+    115,
+    988,
+    4050
+  ],
+  "productReviews": [
+    {
+      "productId": 3953,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-11-04T19:41:13.9518446+02:00"
+    },
+    {
+      "productId": 1169,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-06-22T21:30:39.0339908+03:00"
+    },
+    {
+      "productId": 612,
+      "reviewText": "this user-centric is top-notch.",
+      "reviewDate": "2016-12-20T16:23:36.043915+02:00"
+    },
+    {
+      "productId": 879,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-07-22T04:02:19.4229135+03:00"
+    },
+    {
+      "productId": 3826,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-02-19T22:41:28.8453362+02:00"
+    }
+  ]
+}

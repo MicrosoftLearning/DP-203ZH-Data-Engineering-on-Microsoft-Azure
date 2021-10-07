@@ -1,0 +1,28 @@
+{
+  "userId": 13432,
+  "cartId": "4f61ca99-9c70-43f8-9d3c-ebdf5ed64d98",
+  "preferredProducts": [
+    1846,
+    4301,
+    4361,
+    3318,
+    1386
+  ],
+  "productReviews": [
+    {
+      "productId": 1556,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-04-07T18:35:30.0000747+03:00"
+    },
+    {
+      "productId": 4037,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-04-22T13:43:09.1179394+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-22T15:45:47.0302849+03:00"
+    }
+  ]
+}

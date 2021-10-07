@@ -1,0 +1,39 @@
+{
+  "userId": 9837,
+  "cartId": "d3fd6356-b0cb-4fa1-b570-b04f4dceade7",
+  "preferredProducts": [
+    85,
+    1477,
+    1147,
+    3250,
+    1155,
+    3384
+  ],
+  "productReviews": [
+    {
+      "productId": 4602,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-12-17T20:24:01.1059167+02:00"
+    },
+    {
+      "productId": 3089,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-09-15T09:35:03.9834907+03:00"
+    },
+    {
+      "productId": 2564,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2020-01-29T23:56:14.0866812+02:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-12-10T18:56:16.5837325+02:00"
+    },
+    {
+      "productId": 4508,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-07-28T20:04:21.5142706+03:00"
+    }
+  ]
+}

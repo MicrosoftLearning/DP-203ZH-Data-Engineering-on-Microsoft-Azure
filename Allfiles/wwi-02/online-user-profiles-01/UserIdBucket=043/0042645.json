@@ -1,0 +1,33 @@
+{
+  "userId": 42645,
+  "cartId": "30cc8875-0e55-4b09-8d0a-4968bb91b8c1",
+  "preferredProducts": [
+    3668,
+    3598,
+    3749,
+    4167,
+    4194,
+    458,
+    3429,
+    219,
+    4166,
+    1518
+  ],
+  "productReviews": [
+    {
+      "productId": 3160,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-02-24T15:54:02.4218195+02:00"
+    },
+    {
+      "productId": 779,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-05-30T08:42:42.384885+03:00"
+    },
+    {
+      "productId": 98,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-09-18T01:31:11.1805922+03:00"
+    }
+  ]
+}

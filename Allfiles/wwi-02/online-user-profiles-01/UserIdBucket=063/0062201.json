@@ -1,0 +1,23 @@
+{
+  "userId": 62201,
+  "cartId": "ba95a0b5-733f-4a45-93bf-f6dc6d1cc6f7",
+  "preferredProducts": [
+    246,
+    4370,
+    173,
+    3627,
+    4518
+  ],
+  "productReviews": [
+    {
+      "productId": 3819,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-04-01T07:27:45.5706222+03:00"
+    },
+    {
+      "productId": 2716,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-01-14T06:16:31.1553129+02:00"
+    }
+  ]
+}

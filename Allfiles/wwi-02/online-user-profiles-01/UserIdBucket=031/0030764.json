@@ -1,0 +1,25 @@
+{
+  "userId": 30764,
+  "cartId": "1abbb0ab-cb9f-4300-b288-78f16465cf0d",
+  "preferredProducts": [
+    445,
+    3402
+  ],
+  "productReviews": [
+    {
+      "productId": 271,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-12-11T18:18:45.6132435+02:00"
+    },
+    {
+      "productId": 3055,
+      "reviewText": "this Colorado is awesome.",
+      "reviewDate": "2017-05-14T10:11:29.4282677+03:00"
+    },
+    {
+      "productId": 811,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-01-26T07:18:32.7191515+02:00"
+    }
+  ]
+}

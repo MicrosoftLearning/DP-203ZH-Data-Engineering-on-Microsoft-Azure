@@ -1,0 +1,23 @@
+{
+  "userId": 36012,
+  "cartId": "8597f293-d2ab-4d23-b419-fdc6c402ea32",
+  "preferredProducts": [
+    3089,
+    345,
+    1370,
+    3120,
+    4550
+  ],
+  "productReviews": [
+    {
+      "productId": 2730,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-02-20T05:14:52.4807763+02:00"
+    },
+    {
+      "productId": 2001,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-02-16T14:21:49.3734107+02:00"
+    }
+  ]
+}

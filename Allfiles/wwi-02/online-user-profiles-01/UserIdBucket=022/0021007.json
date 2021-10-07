@@ -1,0 +1,32 @@
+{
+  "userId": 21007,
+  "cartId": "e715533b-8963-4ea8-af67-76d1597f730f",
+  "preferredProducts": [
+    1027,
+    3974,
+    4115,
+    2276
+  ],
+  "productReviews": [
+    {
+      "productId": 4515,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-02-19T19:57:43.8065352+02:00"
+    },
+    {
+      "productId": 2053,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-02-02T17:12:00.279875+02:00"
+    },
+    {
+      "productId": 2652,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-11-24T16:43:29.1825806+02:00"
+    },
+    {
+      "productId": 4051,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-03-05T06:23:18.1755495+02:00"
+    }
+  ]
+}

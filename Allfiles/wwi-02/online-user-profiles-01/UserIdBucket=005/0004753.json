@@ -1,0 +1,30 @@
+{
+  "userId": 4753,
+  "cartId": "b1c082f3-030a-40bc-b2de-80ab6a0521c2",
+  "preferredProducts": [
+    2979,
+    2089,
+    2962,
+    4787,
+    2877,
+    2710,
+    1622
+  ],
+  "productReviews": [
+    {
+      "productId": 781,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-01-11T04:18:11.8399104+02:00"
+    },
+    {
+      "productId": 2715,
+      "reviewText": "talk about lust!!",
+      "reviewDate": "2020-01-02T09:37:40.7719703+02:00"
+    },
+    {
+      "productId": 1595,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-10-18T03:42:54.3186227+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 58,
+  "cartId": "0c07bbd5-7a3a-4f41-bc3d-2a5c1302008b",
+  "preferredProducts": [
+    3362,
+    408,
+    4089,
+    4755,
+    1215
+  ],
+  "productReviews": [
+    {
+      "productId": 1820,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-02-07T08:01:48.941107+02:00"
+    },
+    {
+      "productId": 1286,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-07-03T01:55:58.3859549+03:00"
+    },
+    {
+      "productId": 543,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-11-10T20:23:52.1700716+02:00"
+    },
+    {
+      "productId": 3617,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-05-06T09:42:04.554784+03:00"
+    },
+    {
+      "productId": 4663,
+      "reviewText": "this Guarani is flirty.",
+      "reviewDate": "2018-12-31T02:11:45.1404347+02:00"
+    }
+  ]
+}

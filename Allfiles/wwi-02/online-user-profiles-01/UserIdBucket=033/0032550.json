@@ -1,0 +1,27 @@
+{
+  "userId": 32550,
+  "cartId": "a9981e77-ea39-4325-aa75-d4dd8c32955a",
+  "preferredProducts": [
+    1049,
+    2463,
+    2450,
+    264
+  ],
+  "productReviews": [
+    {
+      "productId": 860,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-07-30T14:57:43.7452495+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-07-09T00:26:34.0359661+03:00"
+    },
+    {
+      "productId": 1777,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-03-09T16:58:57.2645109+02:00"
+    }
+  ]
+}

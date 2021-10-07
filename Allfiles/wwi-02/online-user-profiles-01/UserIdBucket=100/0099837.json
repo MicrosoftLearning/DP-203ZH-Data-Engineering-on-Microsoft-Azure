@@ -1,0 +1,25 @@
+{
+  "userId": 99837,
+  "cartId": "44cd17d4-430d-4c0f-85e6-c8b30c92f8a3",
+  "preferredProducts": [
+    3343,
+    1237,
+    3115,
+    4484,
+    2492,
+    3779,
+    2978
+  ],
+  "productReviews": [
+    {
+      "productId": 4942,
+      "reviewText": "this Human is nifty.",
+      "reviewDate": "2020-01-31T13:21:48.0673818+02:00"
+    },
+    {
+      "productId": 4068,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-07-12T00:10:14.4301669+03:00"
+    }
+  ]
+}

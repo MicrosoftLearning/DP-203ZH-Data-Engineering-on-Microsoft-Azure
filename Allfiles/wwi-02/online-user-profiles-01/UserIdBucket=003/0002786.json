@@ -1,0 +1,32 @@
+{
+  "userId": 2786,
+  "cartId": "fceb22ec-77c1-4325-8a44-a92bf3b4fd9e",
+  "preferredProducts": [
+    4999,
+    3455,
+    2179,
+    2624,
+    574,
+    1655,
+    2632,
+    3437,
+    2038
+  ],
+  "productReviews": [
+    {
+      "productId": 1695,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-12-10T09:45:38.1093379+02:00"
+    },
+    {
+      "productId": 239,
+      "reviewText": "this ivory is standard.",
+      "reviewDate": "2017-03-30T13:59:58.9642583+03:00"
+    },
+    {
+      "productId": 2926,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-06-24T18:05:48.8464851+03:00"
+    }
+  ]
+}

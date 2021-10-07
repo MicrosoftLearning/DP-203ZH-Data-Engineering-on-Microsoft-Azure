@@ -1,0 +1,37 @@
+{
+  "userId": 25178,
+  "cartId": "e73a4a63-2ff2-44de-b5ce-b8c7e537d7c9",
+  "preferredProducts": [
+    1573,
+    391,
+    1233,
+    4507
+  ],
+  "productReviews": [
+    {
+      "productId": 2660,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-10-22T18:55:59.6295661+03:00"
+    },
+    {
+      "productId": 3890,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-12-11T09:17:06.4362223+02:00"
+    },
+    {
+      "productId": 3060,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-02-09T23:53:51.8181876+02:00"
+    },
+    {
+      "productId": 1,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-07-28T17:34:22.4306804+03:00"
+    },
+    {
+      "productId": 211,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2017-05-31T00:46:32.5455723+03:00"
+    }
+  ]
+}

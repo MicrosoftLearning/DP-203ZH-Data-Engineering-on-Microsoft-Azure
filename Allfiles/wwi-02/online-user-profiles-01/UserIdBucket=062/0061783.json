@@ -1,0 +1,33 @@
+{
+  "userId": 61783,
+  "cartId": "8135f959-e951-427d-9c5c-e0a6f41bbd38",
+  "preferredProducts": [
+    2954,
+    511,
+    842,
+    3420,
+    867
+  ],
+  "productReviews": [
+    {
+      "productId": 3120,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-03-04T04:11:28.1263693+02:00"
+    },
+    {
+      "productId": 2572,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-04-15T03:10:18.660503+03:00"
+    },
+    {
+      "productId": 875,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-02-07T00:44:25.7007781+02:00"
+    },
+    {
+      "productId": 1300,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-10-11T06:49:35.2747718+03:00"
+    }
+  ]
+}

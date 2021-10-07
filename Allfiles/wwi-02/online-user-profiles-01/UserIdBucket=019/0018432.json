@@ -1,0 +1,32 @@
+{
+  "userId": 18432,
+  "cartId": "67ab4174-1863-4788-9439-c4d9acb44f89",
+  "preferredProducts": [
+    4133,
+    4691,
+    3677,
+    3103,
+    2262,
+    91,
+    2982,
+    2084,
+    4482
+  ],
+  "productReviews": [
+    {
+      "productId": 3734,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-04-20T12:54:27.4190961+03:00"
+    },
+    {
+      "productId": 1344,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-06-22T07:56:53.6709174+03:00"
+    },
+    {
+      "productId": 4710,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2020-04-07T23:18:33.2980154+03:00"
+    }
+  ]
+}

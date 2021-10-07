@@ -1,0 +1,32 @@
+{
+  "userId": 64119,
+  "cartId": "35334bb9-5585-4e76-8be5-e7b5fef4f5ca",
+  "preferredProducts": [
+    141,
+    1329,
+    4993,
+    4407
+  ],
+  "productReviews": [
+    {
+      "productId": 2334,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-04-24T02:59:47.1087362+03:00"
+    },
+    {
+      "productId": 2779,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-05-13T23:19:56.8004811+03:00"
+    },
+    {
+      "productId": 2430,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-12-26T00:47:48.7345178+02:00"
+    },
+    {
+      "productId": 701,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-04-27T12:44:47.9513756+03:00"
+    }
+  ]
+}

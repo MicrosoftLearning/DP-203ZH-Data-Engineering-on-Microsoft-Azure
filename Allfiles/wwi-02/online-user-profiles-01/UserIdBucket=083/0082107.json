@@ -1,0 +1,31 @@
+{
+  "userId": 82107,
+  "cartId": "884dca30-f3e2-47f8-a45c-bdb7ee3c01ab",
+  "preferredProducts": [
+    3456,
+    323,
+    85
+  ],
+  "productReviews": [
+    {
+      "productId": 4351,
+      "reviewText": "this overriding is light-hearted.",
+      "reviewDate": "2017-11-12T06:23:08.0048456+02:00"
+    },
+    {
+      "productId": 4092,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-11-27T14:58:12.3385102+02:00"
+    },
+    {
+      "productId": 4482,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-06-30T01:59:56.5445381+03:00"
+    },
+    {
+      "productId": 4146,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-04-28T20:57:56.0198857+03:00"
+    }
+  ]
+}

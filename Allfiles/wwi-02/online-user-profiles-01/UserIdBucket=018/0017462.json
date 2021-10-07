@@ -1,0 +1,35 @@
+{
+  "userId": 17462,
+  "cartId": "bf016c84-337f-46e4-a628-9192a9bfd2eb",
+  "preferredProducts": [
+    4123,
+    2428
+  ],
+  "productReviews": [
+    {
+      "productId": 2061,
+      "reviewText": "this Officer is snowy.",
+      "reviewDate": "2020-02-08T05:27:42.3953495+02:00"
+    },
+    {
+      "productId": 3451,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-08-16T02:55:31.7573299+03:00"
+    },
+    {
+      "productId": 4252,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-07-15T21:05:13.9423773+03:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "this Savings Account is standard.",
+      "reviewDate": "2018-12-20T13:29:52.510436+02:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-01-30T22:56:56.6239142+02:00"
+    }
+  ]
+}

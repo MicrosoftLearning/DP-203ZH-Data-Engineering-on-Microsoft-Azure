@@ -1,0 +1,34 @@
+{
+  "userId": 80659,
+  "cartId": "1b408f52-943b-445f-9657-4297c6075bb0",
+  "preferredProducts": [
+    2431,
+    2144,
+    872,
+    1189,
+    3694,
+    400
+  ],
+  "productReviews": [
+    {
+      "productId": 3642,
+      "reviewText": "This is a really good Indian Rupee.",
+      "reviewDate": "2016-08-03T05:44:47.8229571+03:00"
+    },
+    {
+      "productId": 1729,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-04-14T03:35:30.5531902+03:00"
+    },
+    {
+      "productId": 1233,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-05-09T21:01:50.1353343+03:00"
+    },
+    {
+      "productId": 3585,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-11-02T18:53:19.9206692+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 70600,
+  "cartId": "42b58d53-c8a9-4598-98c3-59aacd30895f",
+  "preferredProducts": [
+    1001,
+    1715
+  ],
+  "productReviews": [
+    {
+      "productId": 1248,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-10-20T13:04:23.7710121+03:00"
+    },
+    {
+      "productId": 3257,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-06-29T04:00:19.351165+03:00"
+    },
+    {
+      "productId": 2878,
+      "reviewText": "this Plastic is ghetto.",
+      "reviewDate": "2019-05-04T11:10:28.2776563+03:00"
+    },
+    {
+      "productId": 1111,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-05-27T21:53:34.6140723+03:00"
+    }
+  ]
+}

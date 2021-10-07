@@ -1,0 +1,38 @@
+{
+  "userId": 23277,
+  "cartId": "f5c6b1d7-f01c-461c-b9c9-c4a451e7ef40",
+  "preferredProducts": [
+    4165,
+    1052,
+    3204,
+    1108,
+    4150,
+    1447,
+    4412,
+    2744,
+    3397,
+    3434
+  ],
+  "productReviews": [
+    {
+      "productId": 3152,
+      "reviewText": "this Motorway is ratty.",
+      "reviewDate": "2020-01-21T13:08:36.1085187+02:00"
+    },
+    {
+      "productId": 2859,
+      "reviewText": "This Multi-layered works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2017-05-31T08:02:08.3362805+03:00"
+    },
+    {
+      "productId": 101,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-07-14T02:35:42.7117106+03:00"
+    },
+    {
+      "productId": 4910,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-07-15T13:56:11.2272312+03:00"
+    }
+  ]
+}

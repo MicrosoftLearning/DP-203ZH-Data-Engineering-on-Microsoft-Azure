@@ -1,0 +1,36 @@
+{
+  "userId": 46002,
+  "cartId": "2c6011bc-a88c-4378-af72-829fd9759ca5",
+  "preferredProducts": [
+    1662,
+    3616,
+    2621,
+    1901,
+    3534,
+    3666,
+    1227,
+    4665
+  ],
+  "productReviews": [
+    {
+      "productId": 31,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-03-31T00:32:46.0127953+02:00"
+    },
+    {
+      "productId": 4393,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-10-26T12:26:17.2423362+03:00"
+    },
+    {
+      "productId": 3364,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-09-12T11:05:21.124886+03:00"
+    },
+    {
+      "productId": 946,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-01-18T20:14:42.0144438+02:00"
+    }
+  ]
+}

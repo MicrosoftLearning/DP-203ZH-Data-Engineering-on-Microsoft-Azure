@@ -1,0 +1,35 @@
+{
+  "userId": 73226,
+  "cartId": "76bd9c85-4e6e-493f-8c7a-9a614d3387b5",
+  "preferredProducts": [
+    1306,
+    2737,
+    3516,
+    2384,
+    2128,
+    2151,
+    3051
+  ],
+  "productReviews": [
+    {
+      "productId": 4549,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-08-02T00:43:06.3624729+03:00"
+    },
+    {
+      "productId": 2067,
+      "reviewText": "this Human is amiable.",
+      "reviewDate": "2017-06-05T07:23:25.96362+03:00"
+    },
+    {
+      "productId": 540,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-12-31T05:39:03.5163207+02:00"
+    },
+    {
+      "productId": 2049,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-06-22T18:15:26.5182655+03:00"
+    }
+  ]
+}

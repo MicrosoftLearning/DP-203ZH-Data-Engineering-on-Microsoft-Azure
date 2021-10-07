@@ -1,0 +1,36 @@
+{
+  "userId": 20719,
+  "cartId": "5985c8ee-cb81-433b-ad6f-dee5e5d137c1",
+  "preferredProducts": [
+    441,
+    2337,
+    4198
+  ],
+  "productReviews": [
+    {
+      "productId": 1253,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-04-02T00:45:03.2609975+03:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-08-06T10:38:50.8069487+03:00"
+    },
+    {
+      "productId": 3431,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-11-07T07:54:58.0682497+02:00"
+    },
+    {
+      "productId": 2983,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-07-23T23:20:00.931422+03:00"
+    },
+    {
+      "productId": 759,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-05-26T19:57:57.468151+03:00"
+    }
+  ]
+}

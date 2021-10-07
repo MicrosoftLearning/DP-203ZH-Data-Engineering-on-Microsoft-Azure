@@ -1,0 +1,32 @@
+{
+  "userId": 35278,
+  "cartId": "a569d231-f99c-4f1d-954d-b465c37d2996",
+  "preferredProducts": [
+    160,
+    4166,
+    1191,
+    3819,
+    4353,
+    327,
+    2317,
+    2426,
+    1621
+  ],
+  "productReviews": [
+    {
+      "productId": 828,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-05-21T01:37:09.7727149+03:00"
+    },
+    {
+      "productId": 4785,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-03-24T13:34:01.2715878+02:00"
+    },
+    {
+      "productId": 3133,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-10-10T10:26:31.462803+03:00"
+    }
+  ]
+}

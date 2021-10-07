@@ -1,0 +1,37 @@
+{
+  "userId": 40634,
+  "cartId": "29d5b4df-4e0f-4d27-aaf1-d5add36368eb",
+  "preferredProducts": [
+    1117,
+    1366,
+    3284,
+    3665,
+    84,
+    4398,
+    1841,
+    419,
+    3298
+  ],
+  "productReviews": [
+    {
+      "productId": 1895,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-07-07T15:27:40.3611447+03:00"
+    },
+    {
+      "productId": 3630,
+      "reviewText": "This SQL works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-02-11T14:35:47.1691536+02:00"
+    },
+    {
+      "productId": 4901,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-01-03T10:27:20.2797398+02:00"
+    },
+    {
+      "productId": 1759,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-04-03T17:20:20.5187902+03:00"
+    }
+  ]
+}

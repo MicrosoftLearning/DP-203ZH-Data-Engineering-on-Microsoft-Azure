@@ -1,0 +1,25 @@
+{
+  "userId": 16393,
+  "cartId": "1c572896-a7db-49d7-a37e-8e23a2a3151f",
+  "preferredProducts": [
+    313,
+    3351,
+    4824,
+    1458,
+    1980,
+    3721,
+    3152
+  ],
+  "productReviews": [
+    {
+      "productId": 1400,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-08-02T13:46:52.7663115+03:00"
+    },
+    {
+      "productId": 1603,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-06-15T08:19:32.0199788+03:00"
+    }
+  ]
+}

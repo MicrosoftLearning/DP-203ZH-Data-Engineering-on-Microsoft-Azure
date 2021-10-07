@@ -1,0 +1,32 @@
+{
+  "userId": 18200,
+  "cartId": "890900bc-936a-4b0d-ac62-580ead786165",
+  "preferredProducts": [
+    4033,
+    4861,
+    3316,
+    4891
+  ],
+  "productReviews": [
+    {
+      "productId": 2902,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-02T09:14:31.9694075+02:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-03-17T06:10:17.2719817+02:00"
+    },
+    {
+      "productId": 96,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-01-02T01:28:23.9419895+02:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "this Nevada is mellow.",
+      "reviewDate": "2020-04-27T15:19:41.2933651+03:00"
+    }
+  ]
+}

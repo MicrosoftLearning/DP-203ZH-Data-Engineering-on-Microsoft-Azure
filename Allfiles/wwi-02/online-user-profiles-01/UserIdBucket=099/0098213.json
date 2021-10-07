@@ -1,0 +1,32 @@
+{
+  "userId": 98213,
+  "cartId": "be98bfbe-3a4c-447b-bada-3d0c2f566be2",
+  "preferredProducts": [
+    1071,
+    4519,
+    3056,
+    1731,
+    35,
+    130,
+    737,
+    4626,
+    4592
+  ],
+  "productReviews": [
+    {
+      "productId": 2149,
+      "reviewText": "This plum works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-03-01T05:08:34.2775029+02:00"
+    },
+    {
+      "productId": 4561,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-07-13T17:16:11.8669738+03:00"
+    },
+    {
+      "productId": 1012,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-06-27T11:02:12.8655228+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 90234,
+  "cartId": "bd0af7a4-c12b-41df-90be-5ad29c2d4d9c",
+  "preferredProducts": [
+    401,
+    3249,
+    2207,
+    302,
+    1250,
+    1327,
+    4192,
+    3307,
+    3172
+  ],
+  "productReviews": [
+    {
+      "productId": 1515,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-05-01T14:00:26.37257+03:00"
+    },
+    {
+      "productId": 3886,
+      "reviewText": "this Avon is papery.",
+      "reviewDate": "2018-11-28T10:43:55.1834138+02:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-10-14T11:33:37.8607063+03:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-07-14T18:50:15.9230506+03:00"
+    }
+  ]
+}

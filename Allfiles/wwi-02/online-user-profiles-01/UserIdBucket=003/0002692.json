@@ -1,0 +1,31 @@
+{
+  "userId": 2692,
+  "cartId": "95ec22df-6c90-4927-8749-9fa89df44467",
+  "preferredProducts": [
+    2172,
+    4290,
+    2458,
+    829,
+    3527,
+    363,
+    823,
+    1336
+  ],
+  "productReviews": [
+    {
+      "productId": 2726,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-06-13T19:58:16.7281539+03:00"
+    },
+    {
+      "productId": 563,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-11-02T01:30:39.218439+02:00"
+    },
+    {
+      "productId": 3739,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-03-16T06:35:31.9540242+02:00"
+    }
+  ]
+}

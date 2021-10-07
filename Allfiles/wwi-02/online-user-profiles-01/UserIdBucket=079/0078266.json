@@ -1,0 +1,31 @@
+{
+  "userId": 78266,
+  "cartId": "fe1a44d8-4bf0-4000-b2ed-b145943973d3",
+  "preferredProducts": [
+    4707,
+    161,
+    3373,
+    1818,
+    1986,
+    1588,
+    4466,
+    1068
+  ],
+  "productReviews": [
+    {
+      "productId": 3773,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-01-09T04:22:15.5982365+02:00"
+    },
+    {
+      "productId": 1334,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-02-09T12:48:08.6984478+02:00"
+    },
+    {
+      "productId": 2788,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-09-05T18:20:10.6406554+03:00"
+    }
+  ]
+}

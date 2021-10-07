@@ -1,0 +1,33 @@
+{
+  "userId": 44200,
+  "cartId": "9ef04519-6f1d-4699-96f8-b91bde3b0370",
+  "preferredProducts": [
+    3933,
+    5000,
+    2008,
+    4733,
+    3800,
+    1702,
+    1713,
+    4379,
+    2030,
+    3526
+  ],
+  "productReviews": [
+    {
+      "productId": 37,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-02-25T21:41:20.2142958+02:00"
+    },
+    {
+      "productId": 2925,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-05-12T01:15:07.8702621+03:00"
+    },
+    {
+      "productId": 3782,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2020-02-08T21:07:24.9559849+02:00"
+    }
+  ]
+}

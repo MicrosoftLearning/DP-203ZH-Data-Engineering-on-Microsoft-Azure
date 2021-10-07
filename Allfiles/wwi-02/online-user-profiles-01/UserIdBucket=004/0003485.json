@@ -1,0 +1,36 @@
+{
+  "userId": 3485,
+  "cartId": "5ad9ebf5-7db1-49b7-9a3f-421b44eb6820",
+  "preferredProducts": [
+    4939,
+    631,
+    1384,
+    1109,
+    794,
+    387,
+    1476,
+    527
+  ],
+  "productReviews": [
+    {
+      "productId": 3380,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-05-15T21:45:52.464925+03:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-12-22T18:09:31.7616883+02:00"
+    },
+    {
+      "productId": 4739,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2020-04-21T23:51:00.3218683+03:00"
+    },
+    {
+      "productId": 503,
+      "reviewText": "This JSON works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-05-15T02:23:23.317434+03:00"
+    }
+  ]
+}

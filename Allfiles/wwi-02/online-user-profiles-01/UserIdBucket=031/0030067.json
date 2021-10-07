@@ -1,0 +1,37 @@
+{
+  "userId": 30067,
+  "cartId": "a524b933-d21a-4eff-9023-7f7e9f924092",
+  "preferredProducts": [
+    801,
+    2042,
+    4122,
+    1435,
+    1879,
+    80,
+    4954,
+    2288,
+    1031
+  ],
+  "productReviews": [
+    {
+      "productId": 1294,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-02-14T19:08:07.8832558+02:00"
+    },
+    {
+      "productId": 2373,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-08-02T23:41:58.9424083+03:00"
+    },
+    {
+      "productId": 3860,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-12-20T16:55:46.8266371+02:00"
+    },
+    {
+      "productId": 509,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-05-26T06:56:31.666184+03:00"
+    }
+  ]
+}

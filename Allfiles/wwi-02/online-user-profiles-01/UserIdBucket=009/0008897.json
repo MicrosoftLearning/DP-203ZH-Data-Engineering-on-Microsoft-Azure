@@ -1,0 +1,36 @@
+{
+  "userId": 8897,
+  "cartId": "1d84e77a-558a-496c-b782-a6d49fcaf8aa",
+  "preferredProducts": [
+    2208,
+    3851,
+    457,
+    4508,
+    4774,
+    791,
+    2506,
+    4669
+  ],
+  "productReviews": [
+    {
+      "productId": 295,
+      "reviewText": "this indexing is mellow.",
+      "reviewDate": "2018-05-16T18:36:57.1033504+03:00"
+    },
+    {
+      "productId": 255,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-03-10T15:30:42.2274178+02:00"
+    },
+    {
+      "productId": 1725,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-11-14T13:03:42.3521879+02:00"
+    },
+    {
+      "productId": 3375,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-01-25T16:36:01.3710508+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 80786,
+  "cartId": "58d4a114-53b2-411c-b5a1-8794d8745c2f",
+  "preferredProducts": [
+    4357,
+    3859,
+    2005
+  ],
+  "productReviews": [
+    {
+      "productId": 1538,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-02-02T13:30:25.8908342+02:00"
+    },
+    {
+      "productId": 1321,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2016-12-20T23:05:16.1571114+02:00"
+    },
+    {
+      "productId": 2396,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-06-26T23:02:44.3100608+03:00"
+    },
+    {
+      "productId": 3496,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-07-12T02:30:19.4886596+03:00"
+    }
+  ]
+}

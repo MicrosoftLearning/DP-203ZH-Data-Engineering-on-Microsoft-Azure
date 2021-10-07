@@ -1,0 +1,31 @@
+{
+  "userId": 4515,
+  "cartId": "73b78b55-6899-4298-a36d-5267eb9ce09d",
+  "preferredProducts": [
+    3664,
+    1109,
+    3264,
+    3917,
+    1997,
+    2933,
+    3208,
+    3862
+  ],
+  "productReviews": [
+    {
+      "productId": 3142,
+      "reviewText": "this Representative is awesome.",
+      "reviewDate": "2017-08-28T13:06:02.8985795+03:00"
+    },
+    {
+      "productId": 4139,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-05-22T05:29:41.5182278+03:00"
+    },
+    {
+      "productId": 4095,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-07-02T13:53:26.8384702+03:00"
+    }
+  ]
+}

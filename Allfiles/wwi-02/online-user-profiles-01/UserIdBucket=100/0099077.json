@@ -1,0 +1,35 @@
+{
+  "userId": 99077,
+  "cartId": "20198cd2-a4cc-4399-9fb1-606329a33fb8",
+  "preferredProducts": [
+    3228,
+    4472
+  ],
+  "productReviews": [
+    {
+      "productId": 1533,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-05-22T00:49:15.9307191+03:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-12-12T02:32:36.9268327+02:00"
+    },
+    {
+      "productId": 3015,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-05-04T16:00:54.2745889+03:00"
+    },
+    {
+      "productId": 501,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-06-13T10:33:40.6516123+03:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-01-20T20:06:50.3019584+02:00"
+    }
+  ]
+}

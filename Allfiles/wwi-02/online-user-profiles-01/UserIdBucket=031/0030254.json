@@ -1,0 +1,33 @@
+{
+  "userId": 30254,
+  "cartId": "52dd32bc-2c4f-42af-b400-7b2ce99d9212",
+  "preferredProducts": [
+    2875,
+    621,
+    3909,
+    278,
+    2747
+  ],
+  "productReviews": [
+    {
+      "productId": 1212,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-07-13T19:34:39.4578744+03:00"
+    },
+    {
+      "productId": 1469,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-25T07:59:40.2344418+03:00"
+    },
+    {
+      "productId": 4638,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2020-01-03T00:09:51.3687424+02:00"
+    },
+    {
+      "productId": 3832,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-08-08T10:01:45.5337247+03:00"
+    }
+  ]
+}

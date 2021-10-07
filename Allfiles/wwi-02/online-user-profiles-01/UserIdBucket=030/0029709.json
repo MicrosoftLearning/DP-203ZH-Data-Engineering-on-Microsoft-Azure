@@ -1,0 +1,35 @@
+{
+  "userId": 29709,
+  "cartId": "8a7a133f-412f-4ea9-80e9-a058408628f7",
+  "preferredProducts": [
+    2782,
+    1982,
+    1214,
+    2446,
+    3539,
+    435,
+    1299
+  ],
+  "productReviews": [
+    {
+      "productId": 2764,
+      "reviewText": "this Dynamic is mellow.",
+      "reviewDate": "2017-06-24T20:38:23.5532702+03:00"
+    },
+    {
+      "productId": 2927,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-01-21T17:47:12.4507471+02:00"
+    },
+    {
+      "productId": 4258,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-07-28T05:02:37.2027573+03:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-09-11T00:50:09.9368946+03:00"
+    }
+  ]
+}

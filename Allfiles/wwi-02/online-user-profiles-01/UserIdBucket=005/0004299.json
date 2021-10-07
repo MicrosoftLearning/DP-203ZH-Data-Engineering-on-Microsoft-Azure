@@ -1,0 +1,31 @@
+{
+  "userId": 4299,
+  "cartId": "7ead4f9c-2368-4e7a-be61-cba5f1b9bdb6",
+  "preferredProducts": [
+    1349,
+    3935,
+    3550,
+    1088,
+    2497,
+    4606,
+    2266,
+    581
+  ],
+  "productReviews": [
+    {
+      "productId": 2330,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-04-30T13:02:30.6666699+03:00"
+    },
+    {
+      "productId": 1028,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-09-27T23:03:29.2496089+03:00"
+    },
+    {
+      "productId": 1271,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-06-26T01:31:52.1854779+03:00"
+    }
+  ]
+}

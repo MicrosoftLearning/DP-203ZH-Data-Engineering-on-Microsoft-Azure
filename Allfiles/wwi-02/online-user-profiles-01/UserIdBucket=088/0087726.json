@@ -1,0 +1,23 @@
+{
+  "userId": 87726,
+  "cartId": "8bd6b88a-a86a-4794-adb4-7b1a9763f834",
+  "preferredProducts": [
+    4602,
+    4616,
+    363,
+    1543,
+    4394
+  ],
+  "productReviews": [
+    {
+      "productId": 2197,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-03-14T04:23:12.3958167+02:00"
+    },
+    {
+      "productId": 2315,
+      "reviewText": "This Lead works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-11-23T23:52:45.2464708+02:00"
+    }
+  ]
+}

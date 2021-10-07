@@ -1,0 +1,32 @@
+{
+  "userId": 28856,
+  "cartId": "4e571b1f-0893-4e79-a074-77ab8e20fbc0",
+  "preferredProducts": [
+    905,
+    3335,
+    727,
+    1637,
+    2046,
+    1855,
+    3,
+    3405,
+    2314
+  ],
+  "productReviews": [
+    {
+      "productId": 1002,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-02-20T06:14:39.7453664+02:00"
+    },
+    {
+      "productId": 301,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-12-18T10:41:02.5705867+02:00"
+    },
+    {
+      "productId": 1946,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-07-18T16:02:14.6090181+03:00"
+    }
+  ]
+}

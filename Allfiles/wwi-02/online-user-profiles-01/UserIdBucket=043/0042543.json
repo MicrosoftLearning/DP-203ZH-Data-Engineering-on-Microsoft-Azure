@@ -1,0 +1,35 @@
+{
+  "userId": 42543,
+  "cartId": "2fe07c05-3b9e-4170-86f1-d8bd117a5b9d",
+  "preferredProducts": [
+    2773,
+    3743,
+    2202,
+    1608,
+    1023,
+    1245,
+    3529
+  ],
+  "productReviews": [
+    {
+      "productId": 3744,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-06-27T12:43:41.8776603+03:00"
+    },
+    {
+      "productId": 2345,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-01-31T07:13:12.9170973+02:00"
+    },
+    {
+      "productId": 3737,
+      "reviewText": "This Checking Account works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-05-31T04:09:33.2477977+03:00"
+    },
+    {
+      "productId": 132,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-03-19T02:01:09.7976483+02:00"
+    }
+  ]
+}

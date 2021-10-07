@@ -1,0 +1,31 @@
+{
+  "userId": 77023,
+  "cartId": "62fc1954-68cb-4b3e-aa12-274cbef8a776",
+  "preferredProducts": [
+    2223,
+    3481,
+    2977,
+    3165,
+    905,
+    2969,
+    2058,
+    3213
+  ],
+  "productReviews": [
+    {
+      "productId": 3849,
+      "reviewText": "This Avon works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-11-06T22:44:42.3403417+02:00"
+    },
+    {
+      "productId": 3009,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-02-23T23:03:11.5382846+02:00"
+    },
+    {
+      "productId": 813,
+      "reviewText": "This New Leu works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2020-03-25T02:23:03.6431961+02:00"
+    }
+  ]
+}

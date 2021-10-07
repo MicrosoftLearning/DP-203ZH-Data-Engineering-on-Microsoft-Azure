@@ -1,0 +1,33 @@
+{
+  "userId": 53987,
+  "cartId": "29f91099-8423-489a-b147-0068200bb812",
+  "preferredProducts": [
+    701,
+    1283,
+    1167,
+    3053,
+    281
+  ],
+  "productReviews": [
+    {
+      "productId": 3287,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-01-02T06:32:13.6527737+02:00"
+    },
+    {
+      "productId": 4140,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-18T09:56:50.8666676+03:00"
+    },
+    {
+      "productId": 1666,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-09-14T05:43:19.3645404+03:00"
+    },
+    {
+      "productId": 315,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-08-24T10:55:57.9226445+03:00"
+    }
+  ]
+}

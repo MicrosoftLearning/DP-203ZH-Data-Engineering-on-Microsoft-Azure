@@ -1,0 +1,25 @@
+{
+  "userId": 91011,
+  "cartId": "3a93e6af-acf4-41af-abdc-c3c409c5834c",
+  "preferredProducts": [
+    1246,
+    2421,
+    1412,
+    880,
+    3861,
+    3994,
+    77
+  ],
+  "productReviews": [
+    {
+      "productId": 2971,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2017-04-10T23:23:41.0907895+03:00"
+    },
+    {
+      "productId": 1023,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-07-28T23:51:17.6963357+03:00"
+    }
+  ]
+}

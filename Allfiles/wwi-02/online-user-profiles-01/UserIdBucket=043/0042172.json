@@ -1,0 +1,27 @@
+{
+  "userId": 42172,
+  "cartId": "de6ceb7f-0f32-4c54-aa49-84c36391c9d3",
+  "preferredProducts": [
+    4940,
+    228,
+    84,
+    4325
+  ],
+  "productReviews": [
+    {
+      "productId": 3921,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-02-04T09:04:22.4577803+02:00"
+    },
+    {
+      "productId": 2000,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-02-14T06:04:22.5340374+02:00"
+    },
+    {
+      "productId": 557,
+      "reviewText": "This Borders works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-11-29T18:27:35.1817089+02:00"
+    }
+  ]
+}

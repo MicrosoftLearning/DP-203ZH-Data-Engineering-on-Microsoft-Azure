@@ -1,0 +1,27 @@
+{
+  "userId": 5726,
+  "cartId": "77f48ff2-edea-429b-aefe-2f4cfcfc8c8f",
+  "preferredProducts": [
+    1478,
+    451,
+    1267,
+    3168
+  ],
+  "productReviews": [
+    {
+      "productId": 4185,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-03-18T03:34:11.5321946+02:00"
+    },
+    {
+      "productId": 2432,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-02-14T18:11:50.3176138+02:00"
+    },
+    {
+      "productId": 3134,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2017-04-22T10:51:11.6784703+03:00"
+    }
+  ]
+}

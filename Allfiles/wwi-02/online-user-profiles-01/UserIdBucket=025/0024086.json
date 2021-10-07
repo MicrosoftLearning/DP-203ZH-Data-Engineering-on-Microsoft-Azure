@@ -1,0 +1,27 @@
+{
+  "userId": 24086,
+  "cartId": "e05b7179-e940-48eb-841f-d30f99f70e60",
+  "preferredProducts": [
+    4058,
+    3625,
+    918,
+    4980
+  ],
+  "productReviews": [
+    {
+      "productId": 809,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-03-31T07:32:08.9135819+03:00"
+    },
+    {
+      "productId": 307,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-01-27T01:07:30.4846229+02:00"
+    },
+    {
+      "productId": 3453,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-11-14T09:25:35.2090466+02:00"
+    }
+  ]
+}

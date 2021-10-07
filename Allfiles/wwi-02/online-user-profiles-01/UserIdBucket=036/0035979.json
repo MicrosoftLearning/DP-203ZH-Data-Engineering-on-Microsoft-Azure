@@ -1,0 +1,33 @@
+{
+  "userId": 35979,
+  "cartId": "27b74413-d6b8-4fb2-a554-8421db1c74f9",
+  "preferredProducts": [
+    4939,
+    7,
+    1173,
+    1195,
+    3949
+  ],
+  "productReviews": [
+    {
+      "productId": 303,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-05-06T12:26:26.1015547+03:00"
+    },
+    {
+      "productId": 3610,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-06-23T05:49:17.7847327+03:00"
+    },
+    {
+      "productId": 3387,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-10-16T13:56:55.7634099+03:00"
+    },
+    {
+      "productId": 1117,
+      "reviewText": "this Tasty is snowy.",
+      "reviewDate": "2016-08-03T20:32:42.4512772+03:00"
+    }
+  ]
+}

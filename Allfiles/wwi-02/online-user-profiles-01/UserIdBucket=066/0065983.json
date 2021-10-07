@@ -1,0 +1,31 @@
+{
+  "userId": 65983,
+  "cartId": "05f33e96-f1bc-4b74-8514-14cbe5eebf39",
+  "preferredProducts": [
+    3460,
+    3550,
+    1200
+  ],
+  "productReviews": [
+    {
+      "productId": 3257,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-06-15T09:31:48.2810844+03:00"
+    },
+    {
+      "productId": 2583,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-05-05T11:50:00.5268103+03:00"
+    },
+    {
+      "productId": 2487,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-10-12T10:03:20.7610403+03:00"
+    },
+    {
+      "productId": 4595,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2019-01-10T07:10:10.7811452+02:00"
+    }
+  ]
+}

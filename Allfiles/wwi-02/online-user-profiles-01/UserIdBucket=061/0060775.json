@@ -1,0 +1,36 @@
+{
+  "userId": 60775,
+  "cartId": "04840f60-81ec-4177-8894-619bfd095215",
+  "preferredProducts": [
+    3528,
+    2568,
+    1068,
+    1031,
+    532,
+    601,
+    1734,
+    2000
+  ],
+  "productReviews": [
+    {
+      "productId": 2941,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-07-01T14:42:11.0860233+03:00"
+    },
+    {
+      "productId": 4690,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-12-16T07:21:01.0790454+02:00"
+    },
+    {
+      "productId": 3051,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2016-08-11T15:28:43.3351907+03:00"
+    },
+    {
+      "productId": 2522,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-29T11:35:00.5971267+03:00"
+    }
+  ]
+}

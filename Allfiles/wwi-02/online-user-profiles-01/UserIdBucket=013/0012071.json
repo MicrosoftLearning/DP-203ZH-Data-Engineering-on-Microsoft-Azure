@@ -1,0 +1,26 @@
+{
+  "userId": 12071,
+  "cartId": "64d330c3-7af5-4cc8-bd1a-d5aa04ec1540",
+  "preferredProducts": [
+    1925,
+    4799,
+    1122
+  ],
+  "productReviews": [
+    {
+      "productId": 1493,
+      "reviewText": "this Planner is snowy.",
+      "reviewDate": "2019-07-03T22:55:19.0131058+03:00"
+    },
+    {
+      "productId": 4088,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-06-16T05:56:50.3316298+03:00"
+    },
+    {
+      "productId": 1305,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-05-28T16:57:51.3446928+03:00"
+    }
+  ]
+}

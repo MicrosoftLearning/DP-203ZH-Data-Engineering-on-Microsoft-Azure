@@ -1,0 +1,27 @@
+{
+  "userId": 20042,
+  "cartId": "b2a5d127-1ce3-40a2-a3e4-0f49dfe5dfa3",
+  "preferredProducts": [
+    2548,
+    4370,
+    3363,
+    2391
+  ],
+  "productReviews": [
+    {
+      "productId": 600,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-05-29T07:24:13.0709029+03:00"
+    },
+    {
+      "productId": 239,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-09-14T20:46:28.0981219+03:00"
+    },
+    {
+      "productId": 2557,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-12-23T04:28:36.8080512+02:00"
+    }
+  ]
+}

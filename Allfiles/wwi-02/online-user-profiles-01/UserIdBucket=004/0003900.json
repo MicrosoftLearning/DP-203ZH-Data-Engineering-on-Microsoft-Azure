@@ -1,0 +1,31 @@
+{
+  "userId": 3900,
+  "cartId": "85222db4-abfc-4575-a6e1-6ba65fcc02b4",
+  "preferredProducts": [
+    2300,
+    3864,
+    3358,
+    1896,
+    4093,
+    452,
+    1020,
+    3889
+  ],
+  "productReviews": [
+    {
+      "productId": 3622,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-08-29T22:33:02.2855082+03:00"
+    },
+    {
+      "productId": 4553,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-08-26T23:23:07.2881687+03:00"
+    },
+    {
+      "productId": 421,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-09-14T00:10:06.6798408+03:00"
+    }
+  ]
+}

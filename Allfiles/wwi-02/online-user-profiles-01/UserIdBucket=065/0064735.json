@@ -1,0 +1,29 @@
+{
+  "userId": 64735,
+  "cartId": "ee2530e7-5610-430c-9672-38f41a643d30",
+  "preferredProducts": [
+    1791,
+    4475,
+    342,
+    3290,
+    1153,
+    3611
+  ],
+  "productReviews": [
+    {
+      "productId": 173,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-06-11T12:11:10.9987351+03:00"
+    },
+    {
+      "productId": 1549,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-04-06T19:25:58.7287947+03:00"
+    },
+    {
+      "productId": 741,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-06-12T13:15:53.8806906+03:00"
+    }
+  ]
+}

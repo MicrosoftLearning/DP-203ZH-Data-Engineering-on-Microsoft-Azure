@@ -1,0 +1,37 @@
+{
+  "userId": 42866,
+  "cartId": "25feaa92-8d5a-46b8-93a0-1802d8f04602",
+  "preferredProducts": [
+    2825,
+    3591,
+    508,
+    1868,
+    489,
+    2086,
+    3792,
+    1527,
+    4276
+  ],
+  "productReviews": [
+    {
+      "productId": 2716,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2020-01-09T04:24:58.4157728+02:00"
+    },
+    {
+      "productId": 1192,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-06-09T00:18:40.6141354+03:00"
+    },
+    {
+      "productId": 175,
+      "reviewText": "this seamless is brown.",
+      "reviewDate": "2019-02-21T19:47:49.5957814+02:00"
+    },
+    {
+      "productId": 4895,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-01-21T21:32:45.2283085+02:00"
+    }
+  ]
+}

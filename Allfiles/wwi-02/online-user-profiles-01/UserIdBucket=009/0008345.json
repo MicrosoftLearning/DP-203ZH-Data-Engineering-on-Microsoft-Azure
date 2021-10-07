@@ -1,0 +1,42 @@
+{
+  "userId": 8345,
+  "cartId": "7a66472c-443d-4962-970d-b8ecd0864fac",
+  "preferredProducts": [
+    1321,
+    1282,
+    3214,
+    3310,
+    3617,
+    4819,
+    1328,
+    1391,
+    1792
+  ],
+  "productReviews": [
+    {
+      "productId": 4923,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-11-09T10:13:22.3269982+02:00"
+    },
+    {
+      "productId": 3399,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-03-01T21:46:22.4040129+02:00"
+    },
+    {
+      "productId": 3874,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-05-21T02:55:32.5145559+03:00"
+    },
+    {
+      "productId": 3483,
+      "reviewText": "this didactic is revolting.",
+      "reviewDate": "2016-09-26T02:11:51.9885012+03:00"
+    },
+    {
+      "productId": 1513,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-10-10T21:12:44.6972485+03:00"
+    }
+  ]
+}

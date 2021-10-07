@@ -1,0 +1,24 @@
+{
+  "userId": 10625,
+  "cartId": "9707ff5c-cea4-4709-b223-00ee5decef70",
+  "preferredProducts": [
+    2394,
+    1570,
+    1062,
+    764,
+    2942,
+    868
+  ],
+  "productReviews": [
+    {
+      "productId": 3662,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-06-04T00:31:05.4794424+03:00"
+    },
+    {
+      "productId": 2131,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-08-05T15:41:16.8946719+03:00"
+    }
+  ]
+}

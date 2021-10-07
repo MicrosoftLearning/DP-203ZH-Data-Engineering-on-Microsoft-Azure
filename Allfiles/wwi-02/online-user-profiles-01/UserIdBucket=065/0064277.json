@@ -1,0 +1,32 @@
+{
+  "userId": 64277,
+  "cartId": "f2416a91-fe3b-4e16-9b75-f46a797ae063",
+  "preferredProducts": [
+    3391,
+    4644,
+    534,
+    2294,
+    2607,
+    4284,
+    3458,
+    1354,
+    2184
+  ],
+  "productReviews": [
+    {
+      "productId": 858,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-10-26T19:41:19.5635041+03:00"
+    },
+    {
+      "productId": 3244,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-05-25T18:48:31.1684255+03:00"
+    },
+    {
+      "productId": 4788,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-06-23T09:01:17.0761609+03:00"
+    }
+  ]
+}

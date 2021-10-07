@@ -1,0 +1,33 @@
+{
+  "userId": 51765,
+  "cartId": "9987adde-8767-4dbc-9d0b-2d90ddd8a224",
+  "preferredProducts": [
+    3437,
+    3771,
+    4115,
+    2908,
+    3363,
+    4254,
+    1054,
+    2374,
+    1844,
+    442
+  ],
+  "productReviews": [
+    {
+      "productId": 4980,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-11-30T17:58:47.0578776+02:00"
+    },
+    {
+      "productId": 614,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-04-30T06:17:07.9108926+03:00"
+    },
+    {
+      "productId": 3942,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-04-01T07:34:22.2331049+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 42504,
+  "cartId": "be4e6b3e-3085-4ace-8ff1-82f0a9e04366",
+  "preferredProducts": [
+    4416,
+    2144,
+    951,
+    2188,
+    2573,
+    1321
+  ],
+  "productReviews": [
+    {
+      "productId": 508,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-01-24T02:17:18.4279307+02:00"
+    },
+    {
+      "productId": 3277,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2017-05-15T20:25:09.2121795+03:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-01-07T08:43:34.7349555+02:00"
+    },
+    {
+      "productId": 2666,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-04-23T05:12:40.1042975+03:00"
+    }
+  ]
+}

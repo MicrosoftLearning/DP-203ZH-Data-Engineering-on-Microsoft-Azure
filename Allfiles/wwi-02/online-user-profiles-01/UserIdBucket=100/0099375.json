@@ -1,0 +1,36 @@
+{
+  "userId": 99375,
+  "cartId": "1fb449aa-f123-4979-9016-2b8c887493db",
+  "preferredProducts": [
+    345,
+    4351,
+    2920
+  ],
+  "productReviews": [
+    {
+      "productId": 431,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-10-15T20:01:16.8807103+03:00"
+    },
+    {
+      "productId": 3964,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-10-07T11:43:56.0778061+03:00"
+    },
+    {
+      "productId": 3086,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2020-03-01T10:00:01.2717533+02:00"
+    },
+    {
+      "productId": 4526,
+      "reviewText": "this Overpass is hyper.",
+      "reviewDate": "2019-01-15T21:29:39.6627861+02:00"
+    },
+    {
+      "productId": 1192,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-03-14T22:37:01.2785681+02:00"
+    }
+  ]
+}

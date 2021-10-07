@@ -1,0 +1,37 @@
+{
+  "userId": 17765,
+  "cartId": "ae2ce764-1d5a-4691-9789-1378b4177706",
+  "preferredProducts": [
+    1984,
+    454,
+    1549,
+    3889,
+    1215,
+    4996,
+    3657,
+    3321,
+    967
+  ],
+  "productReviews": [
+    {
+      "productId": 4885,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-08-16T15:55:37.3285576+03:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "this Generic Frozen Bike is complimentary.",
+      "reviewDate": "2017-03-09T11:27:56.018692+02:00"
+    },
+    {
+      "productId": 4413,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-11-18T01:35:02.8072882+02:00"
+    },
+    {
+      "productId": 2293,
+      "reviewText": "this networks is slurpee.",
+      "reviewDate": "2017-08-10T18:40:48.9344037+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 30246,
+  "cartId": "670e41e1-643c-4be0-8a2b-e24e82e68fc1",
+  "preferredProducts": [
+    3121,
+    1040,
+    1410,
+    3241
+  ],
+  "productReviews": [
+    {
+      "productId": 745,
+      "reviewText": "this Tasty is whole-grain.",
+      "reviewDate": "2018-07-24T02:47:28.8564313+03:00"
+    },
+    {
+      "productId": 2866,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-11-20T11:11:11.789776+02:00"
+    },
+    {
+      "productId": 255,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-02-05T06:35:20.8012931+02:00"
+    },
+    {
+      "productId": 715,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-03-09T21:17:48.1382356+02:00"
+    },
+    {
+      "productId": 3403,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2020-02-15T04:24:39.6590856+02:00"
+    }
+  ]
+}

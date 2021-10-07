@@ -1,0 +1,29 @@
+{
+  "userId": 48685,
+  "cartId": "ca1f4a61-4c61-4b26-8d1a-c0ef965afc12",
+  "preferredProducts": [
+    3203,
+    1198,
+    2099,
+    2203,
+    339,
+    1030
+  ],
+  "productReviews": [
+    {
+      "productId": 3240,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-01-04T03:51:30.2892354+02:00"
+    },
+    {
+      "productId": 3178,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2020-02-18T11:25:45.3998887+02:00"
+    },
+    {
+      "productId": 3271,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-05-18T02:22:16.3491912+03:00"
+    }
+  ]
+}

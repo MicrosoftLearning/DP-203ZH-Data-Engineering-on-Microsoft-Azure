@@ -1,0 +1,36 @@
+{
+  "userId": 57000,
+  "cartId": "b8699837-fcd3-4838-8359-5292f5999f25",
+  "preferredProducts": [
+    2176,
+    2387,
+    4923,
+    2056,
+    2115,
+    3438,
+    4309,
+    2899
+  ],
+  "productReviews": [
+    {
+      "productId": 3320,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-03-23T12:15:20.6825585+02:00"
+    },
+    {
+      "productId": 2412,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2016-10-29T21:47:01.4404096+03:00"
+    },
+    {
+      "productId": 2033,
+      "reviewText": "this implement is snowy.",
+      "reviewDate": "2019-05-24T03:29:05.8291601+03:00"
+    },
+    {
+      "productId": 2258,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-02-16T01:11:29.7896519+02:00"
+    }
+  ]
+}

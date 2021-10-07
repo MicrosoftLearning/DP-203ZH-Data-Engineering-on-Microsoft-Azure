@@ -1,0 +1,27 @@
+{
+  "userId": 37444,
+  "cartId": "1bb50968-98bf-4d67-87cc-f030efae5752",
+  "preferredProducts": [
+    4476,
+    1579,
+    3294,
+    2132
+  ],
+  "productReviews": [
+    {
+      "productId": 1757,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-02-12T12:50:24.8731853+02:00"
+    },
+    {
+      "productId": 2629,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-03-05T21:30:59.8822206+02:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-04-01T06:20:59.0158544+03:00"
+    }
+  ]
+}

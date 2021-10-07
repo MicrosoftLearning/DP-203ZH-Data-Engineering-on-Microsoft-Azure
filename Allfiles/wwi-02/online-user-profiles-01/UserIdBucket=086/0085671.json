@@ -1,0 +1,36 @@
+{
+  "userId": 85671,
+  "cartId": "0e73185e-26cc-4ec8-8e3a-f0c700a0c515",
+  "preferredProducts": [
+    4899,
+    287,
+    3928,
+    2662,
+    1326,
+    695,
+    1973,
+    2277
+  ],
+  "productReviews": [
+    {
+      "productId": 3757,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-06-15T00:09:33.7050617+03:00"
+    },
+    {
+      "productId": 1902,
+      "reviewText": "this Human is honest.",
+      "reviewDate": "2016-10-10T00:39:43.7097378+03:00"
+    },
+    {
+      "productId": 2405,
+      "reviewText": "This override works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-11-07T01:56:20.6949485+02:00"
+    },
+    {
+      "productId": 3833,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2016-07-29T01:53:36.398358+03:00"
+    }
+  ]
+}

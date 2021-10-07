@@ -1,0 +1,27 @@
+{
+  "userId": 5602,
+  "cartId": "f061e5c0-746f-496c-a78b-d5174394f830",
+  "preferredProducts": [
+    4038,
+    4988,
+    2452,
+    3514,
+    3014,
+    3311,
+    2210,
+    44,
+    3950
+  ],
+  "productReviews": [
+    {
+      "productId": 3257,
+      "reviewText": "this violet is snowy.",
+      "reviewDate": "2017-11-16T06:05:12.3462459+02:00"
+    },
+    {
+      "productId": 2369,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-05-21T22:03:37.7849638+03:00"
+    }
+  ]
+}

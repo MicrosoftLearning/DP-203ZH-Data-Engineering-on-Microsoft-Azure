@@ -1,0 +1,38 @@
+{
+  "userId": 54313,
+  "cartId": "23f09130-947a-4a46-842f-31495ef2bfa7",
+  "preferredProducts": [
+    540,
+    769,
+    1586,
+    373,
+    4295,
+    874,
+    2614,
+    4612,
+    2754,
+    2271
+  ],
+  "productReviews": [
+    {
+      "productId": 2978,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-11-13T18:32:22.7350168+02:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-11-23T02:07:46.350601+02:00"
+    },
+    {
+      "productId": 1099,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-11-01T12:44:41.9099486+02:00"
+    },
+    {
+      "productId": 3902,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-09-17T18:37:03.0346791+03:00"
+    }
+  ]
+}

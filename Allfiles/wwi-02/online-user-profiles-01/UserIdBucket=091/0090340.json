@@ -1,0 +1,36 @@
+{
+  "userId": 90340,
+  "cartId": "c03be76a-170d-4ee5-bd52-e7e0e8ee8bf7",
+  "preferredProducts": [
+    3400,
+    818,
+    3332
+  ],
+  "productReviews": [
+    {
+      "productId": 2139,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-10-28T02:55:02.9286956+03:00"
+    },
+    {
+      "productId": 3291,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-04-28T13:35:39.4124558+03:00"
+    },
+    {
+      "productId": 3016,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2020-01-31T01:42:29.5645561+02:00"
+    },
+    {
+      "productId": 709,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-10-06T03:15:32.6324089+03:00"
+    },
+    {
+      "productId": 831,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-02-19T10:04:10.9033794+02:00"
+    }
+  ]
+}

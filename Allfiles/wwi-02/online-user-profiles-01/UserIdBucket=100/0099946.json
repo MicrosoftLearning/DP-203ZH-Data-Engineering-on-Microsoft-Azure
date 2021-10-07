@@ -1,0 +1,36 @@
+{
+  "userId": 99946,
+  "cartId": "288b8f95-4fbf-4055-bc59-9c8c6256b6f0",
+  "preferredProducts": [
+    3822,
+    1025,
+    314,
+    2813,
+    1962,
+    4931,
+    1991,
+    1646
+  ],
+  "productReviews": [
+    {
+      "productId": 445,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-06-11T05:30:56.9408399+03:00"
+    },
+    {
+      "productId": 86,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-07-22T16:50:39.8090596+03:00"
+    },
+    {
+      "productId": 2007,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-07-26T04:10:29.5729528+03:00"
+    },
+    {
+      "productId": 3014,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-11-02T19:26:59.4044749+02:00"
+    }
+  ]
+}

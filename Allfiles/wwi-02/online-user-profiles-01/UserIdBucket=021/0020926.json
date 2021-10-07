@@ -1,0 +1,37 @@
+{
+  "userId": 20926,
+  "cartId": "a04812df-572d-492c-b8ea-0dd45a586491",
+  "preferredProducts": [
+    3235,
+    4807,
+    1274,
+    4566,
+    1912,
+    4230,
+    1795,
+    3829,
+    871
+  ],
+  "productReviews": [
+    {
+      "productId": 885,
+      "reviewText": "this Fort is tasty.",
+      "reviewDate": "2016-07-17T04:38:05.7724168+03:00"
+    },
+    {
+      "productId": 798,
+      "reviewText": "this Intranet is amiable.",
+      "reviewDate": "2017-10-21T09:02:04.5796253+03:00"
+    },
+    {
+      "productId": 4409,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-02-27T12:40:29.6890397+02:00"
+    },
+    {
+      "productId": 1713,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-12-12T05:56:24.9514556+02:00"
+    }
+  ]
+}

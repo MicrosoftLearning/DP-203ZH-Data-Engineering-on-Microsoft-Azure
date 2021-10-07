@@ -1,0 +1,27 @@
+{
+  "userId": 23225,
+  "cartId": "cb00aca0-8a99-4ea3-a1a7-8dde4fd191fa",
+  "preferredProducts": [
+    1370,
+    3130,
+    2823,
+    1197
+  ],
+  "productReviews": [
+    {
+      "productId": 3388,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-06-19T21:24:56.4013808+03:00"
+    },
+    {
+      "productId": 2192,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-12-20T10:58:29.3674732+02:00"
+    },
+    {
+      "productId": 712,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-08-24T20:28:20.9260733+03:00"
+    }
+  ]
+}

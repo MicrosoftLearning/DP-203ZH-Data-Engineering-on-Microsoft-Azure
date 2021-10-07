@@ -1,0 +1,36 @@
+{
+  "userId": 10471,
+  "cartId": "fde43ce2-b3a4-4365-95e8-ad39753f7e1e",
+  "preferredProducts": [
+    985,
+    1265,
+    4263,
+    3674,
+    1751,
+    666,
+    2029,
+    1598
+  ],
+  "productReviews": [
+    {
+      "productId": 1658,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-03-16T18:22:29.3352156+02:00"
+    },
+    {
+      "productId": 1652,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-10-17T11:17:14.3701285+03:00"
+    },
+    {
+      "productId": 2068,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-10-11T02:15:19.1518638+03:00"
+    },
+    {
+      "productId": 813,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-12-05T21:53:38.3205885+02:00"
+    }
+  ]
+}

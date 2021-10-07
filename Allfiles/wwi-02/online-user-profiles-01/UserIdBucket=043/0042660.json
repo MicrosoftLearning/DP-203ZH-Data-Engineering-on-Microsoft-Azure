@@ -1,0 +1,33 @@
+{
+  "userId": 42660,
+  "cartId": "26d0151c-d270-42b3-9d5e-278e221bae15",
+  "preferredProducts": [
+    945,
+    4972,
+    4108,
+    4435,
+    2509,
+    1954,
+    4903,
+    3715,
+    1730,
+    4719
+  ],
+  "productReviews": [
+    {
+      "productId": 1335,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-07-26T08:47:11.007328+03:00"
+    },
+    {
+      "productId": 3789,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-04-30T23:58:36.5331577+03:00"
+    },
+    {
+      "productId": 1190,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-10-04T11:50:54.5242204+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 85601,
+  "cartId": "d9e9c98c-9dd9-4b20-807a-00cb3b876676",
+  "preferredProducts": [
+    3706,
+    2945,
+    3962,
+    1801,
+    2338,
+    4880,
+    4719
+  ],
+  "productReviews": [
+    {
+      "productId": 718,
+      "reviewText": "This Awesome Metal Shoes, does exactly what it's suppose to do.",
+      "reviewDate": "2017-06-09T09:27:41.1779877+03:00"
+    },
+    {
+      "productId": 4868,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-12-03T15:31:56.7074622+02:00"
+    },
+    {
+      "productId": 1622,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-04-10T16:17:02.0999133+03:00"
+    }
+  ]
+}

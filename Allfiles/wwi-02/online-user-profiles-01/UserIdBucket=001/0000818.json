@@ -1,0 +1,30 @@
+{
+  "userId": 818,
+  "cartId": "1bcb5c5b-322e-4d31-9039-81c30e374dc6",
+  "preferredProducts": [
+    3599,
+    3630,
+    4150,
+    2234,
+    2069,
+    714,
+    1749
+  ],
+  "productReviews": [
+    {
+      "productId": 3943,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-08-16T15:06:47.5163644+03:00"
+    },
+    {
+      "productId": 3107,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-10-23T06:40:29.9412876+03:00"
+    },
+    {
+      "productId": 3981,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-08-10T06:24:35.7447054+03:00"
+    }
+  ]
+}

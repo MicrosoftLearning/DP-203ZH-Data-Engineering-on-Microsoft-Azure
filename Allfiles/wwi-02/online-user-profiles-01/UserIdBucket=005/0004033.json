@@ -1,0 +1,37 @@
+{
+  "userId": 4033,
+  "cartId": "1ed80d2a-02c4-4a54-afd8-54e02fcd7aa8",
+  "preferredProducts": [
+    4971,
+    4936,
+    3024,
+    4362
+  ],
+  "productReviews": [
+    {
+      "productId": 2100,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-11-28T19:51:28.2088772+02:00"
+    },
+    {
+      "productId": 1055,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-03-12T07:12:25.9919183+02:00"
+    },
+    {
+      "productId": 1091,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-05-06T17:29:50.2581996+03:00"
+    },
+    {
+      "productId": 1078,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-05-30T16:22:34.9671937+03:00"
+    },
+    {
+      "productId": 160,
+      "reviewText": "this Lodge is ghetto.",
+      "reviewDate": "2018-01-25T22:16:52.2507388+02:00"
+    }
+  ]
+}

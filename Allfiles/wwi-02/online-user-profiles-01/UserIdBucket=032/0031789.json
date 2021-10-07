@@ -1,0 +1,31 @@
+{
+  "userId": 31789,
+  "cartId": "81c4bc9e-57ab-4069-855f-07d64812e5e8",
+  "preferredProducts": [
+    1122,
+    3666,
+    780
+  ],
+  "productReviews": [
+    {
+      "productId": 274,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-05-17T08:01:25.580443+03:00"
+    },
+    {
+      "productId": 4484,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-10-12T17:56:00.3889743+03:00"
+    },
+    {
+      "productId": 586,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-11-14T15:08:14.520466+02:00"
+    },
+    {
+      "productId": 3566,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2018-01-18T22:45:18.2695818+02:00"
+    }
+  ]
+}

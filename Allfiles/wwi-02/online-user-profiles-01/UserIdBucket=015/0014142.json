@@ -1,0 +1,36 @@
+{
+  "userId": 14142,
+  "cartId": "a3ad5849-942a-4c41-8874-26618570053c",
+  "preferredProducts": [
+    1196,
+    2661,
+    566
+  ],
+  "productReviews": [
+    {
+      "productId": 3000,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-05-31T15:27:12.8533042+03:00"
+    },
+    {
+      "productId": 2901,
+      "reviewText": "this Cotton is ghetto.",
+      "reviewDate": "2017-06-14T20:27:07.0139771+03:00"
+    },
+    {
+      "productId": 4361,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-07-12T18:19:28.0280458+03:00"
+    },
+    {
+      "productId": 1975,
+      "reviewText": "This is a really good neural-net.",
+      "reviewDate": "2018-04-16T17:57:47.3689156+03:00"
+    },
+    {
+      "productId": 4696,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-11-24T05:14:04.7740777+02:00"
+    }
+  ]
+}

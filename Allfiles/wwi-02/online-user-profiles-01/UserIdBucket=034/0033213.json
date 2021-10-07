@@ -1,0 +1,22 @@
+{
+  "userId": 33213,
+  "cartId": "603e10df-36e1-4f65-a104-8a5f138cb7f1",
+  "preferredProducts": [
+    266,
+    1821,
+    3986,
+    4877
+  ],
+  "productReviews": [
+    {
+      "productId": 4742,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-05-16T17:27:38.0090596+03:00"
+    },
+    {
+      "productId": 3840,
+      "reviewText": "This Plastic works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-05-06T00:52:25.0914065+03:00"
+    }
+  ]
+}

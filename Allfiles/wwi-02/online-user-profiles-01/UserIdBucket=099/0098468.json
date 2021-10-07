@@ -1,0 +1,36 @@
+{
+  "userId": 98468,
+  "cartId": "cf74df44-ce67-4a17-96b5-7cfb704ca4cb",
+  "preferredProducts": [
+    1233,
+    1091,
+    3791
+  ],
+  "productReviews": [
+    {
+      "productId": 3876,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-07-14T22:13:37.8559683+03:00"
+    },
+    {
+      "productId": 4600,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-11-29T16:33:53.063143+02:00"
+    },
+    {
+      "productId": 4734,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-03-06T06:26:48.2984803+02:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-05-09T12:56:27.1885411+03:00"
+    },
+    {
+      "productId": 4475,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-09-05T09:51:36.5011256+03:00"
+    }
+  ]
+}

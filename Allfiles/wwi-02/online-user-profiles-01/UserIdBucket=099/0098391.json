@@ -1,0 +1,35 @@
+{
+  "userId": 98391,
+  "cartId": "85066a6e-a808-4b16-9e14-10b518cb53cc",
+  "preferredProducts": [
+    473,
+    4081,
+    3593,
+    4060,
+    2737,
+    1730,
+    757
+  ],
+  "productReviews": [
+    {
+      "productId": 4661,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-09-04T06:10:52.8981178+03:00"
+    },
+    {
+      "productId": 3284,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-05-29T04:12:57.9424953+03:00"
+    },
+    {
+      "productId": 4837,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-03-22T14:54:53.0418794+02:00"
+    },
+    {
+      "productId": 192,
+      "reviewText": "this salmon is vertical.",
+      "reviewDate": "2019-12-22T07:52:46.6397548+02:00"
+    }
+  ]
+}

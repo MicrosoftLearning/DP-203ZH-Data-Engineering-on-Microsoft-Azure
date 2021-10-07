@@ -1,0 +1,30 @@
+{
+  "userId": 48132,
+  "cartId": "78b79528-a004-4c2e-948c-0d31b977d2c1",
+  "preferredProducts": [
+    4835,
+    2727,
+    4520,
+    3389,
+    626,
+    1526,
+    31
+  ],
+  "productReviews": [
+    {
+      "productId": 792,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-10-12T04:28:43.2099252+03:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-12-14T08:56:56.6001213+02:00"
+    },
+    {
+      "productId": 2420,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-03-10T22:09:43.6009645+02:00"
+    }
+  ]
+}

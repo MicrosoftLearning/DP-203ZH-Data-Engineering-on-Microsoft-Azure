@@ -1,0 +1,31 @@
+{
+  "userId": 42840,
+  "cartId": "7aa9b026-958b-449d-ae45-fea0e11a808d",
+  "preferredProducts": [
+    1936,
+    18,
+    487,
+    2801,
+    3606,
+    4625,
+    2017,
+    3016
+  ],
+  "productReviews": [
+    {
+      "productId": 2813,
+      "reviewText": "this Seamless is nifty.",
+      "reviewDate": "2017-05-11T13:09:19.3831656+03:00"
+    },
+    {
+      "productId": 1092,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-10-06T23:03:25.3780567+03:00"
+    },
+    {
+      "productId": 4255,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-10-08T03:27:12.3412305+03:00"
+    }
+  ]
+}

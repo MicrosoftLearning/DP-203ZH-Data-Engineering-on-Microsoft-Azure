@@ -1,0 +1,40 @@
+{
+  "userId": 6235,
+  "cartId": "6747d80f-fbbe-4182-a2c2-db9fdb5a27ea",
+  "preferredProducts": [
+    3488,
+    2210,
+    97,
+    2023,
+    3871,
+    4307,
+    403
+  ],
+  "productReviews": [
+    {
+      "productId": 1262,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-11-28T23:06:15.786599+02:00"
+    },
+    {
+      "productId": 1398,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-03-31T17:23:29.9333121+03:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-09-02T02:15:42.9252417+03:00"
+    },
+    {
+      "productId": 3603,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-02-04T20:33:28.0188338+02:00"
+    },
+    {
+      "productId": 403,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-06-05T09:20:55.3502681+03:00"
+    }
+  ]
+}

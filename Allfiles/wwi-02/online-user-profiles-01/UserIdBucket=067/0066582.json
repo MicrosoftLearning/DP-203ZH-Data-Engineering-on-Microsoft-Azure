@@ -1,0 +1,30 @@
+{
+  "userId": 66582,
+  "cartId": "ed8ebf6e-db3b-4210-bbbd-a8302150554d",
+  "preferredProducts": [
+    2483,
+    63
+  ],
+  "productReviews": [
+    {
+      "productId": 105,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-06-24T11:07:22.2186456+03:00"
+    },
+    {
+      "productId": 3292,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-08-15T10:42:27.4468363+03:00"
+    },
+    {
+      "productId": 925,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-02-29T03:27:14.5481925+02:00"
+    },
+    {
+      "productId": 2338,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-04-24T18:24:26.8720452+03:00"
+    }
+  ]
+}

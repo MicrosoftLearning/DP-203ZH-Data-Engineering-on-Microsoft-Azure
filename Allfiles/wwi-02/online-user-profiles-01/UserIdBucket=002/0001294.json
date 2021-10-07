@@ -1,0 +1,25 @@
+{
+  "userId": 1294,
+  "cartId": "3e03b921-cca8-4c39-a3ab-ec55221e58af",
+  "preferredProducts": [
+    1663,
+    1949
+  ],
+  "productReviews": [
+    {
+      "productId": 893,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-06-05T18:24:42.2889857+03:00"
+    },
+    {
+      "productId": 1109,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-04-18T04:17:19.1274113+03:00"
+    },
+    {
+      "productId": 1113,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2020-02-27T21:47:36.5188885+02:00"
+    }
+  ]
+}

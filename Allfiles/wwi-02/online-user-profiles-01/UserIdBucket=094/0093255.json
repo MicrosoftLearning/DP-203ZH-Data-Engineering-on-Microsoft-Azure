@@ -1,0 +1,38 @@
+{
+  "userId": 93255,
+  "cartId": "20f8edf9-7644-42ae-b1ac-424b9dec795b",
+  "preferredProducts": [
+    798,
+    4152,
+    4857,
+    3820,
+    989
+  ],
+  "productReviews": [
+    {
+      "productId": 1724,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-12-30T20:26:31.4708391+02:00"
+    },
+    {
+      "productId": 3091,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-04-17T14:56:05.9968834+03:00"
+    },
+    {
+      "productId": 4601,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-01-29T06:37:46.4946399+02:00"
+    },
+    {
+      "productId": 4104,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-08-20T16:19:28.9298481+03:00"
+    },
+    {
+      "productId": 4929,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-02-22T13:57:34.2254802+02:00"
+    }
+  ]
+}

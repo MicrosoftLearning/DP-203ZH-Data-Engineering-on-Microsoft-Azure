@@ -1,0 +1,32 @@
+{
+  "userId": 3252,
+  "cartId": "ab2f1ddd-3b68-4c86-98c8-b604af25f41a",
+  "preferredProducts": [
+    248,
+    1697,
+    1144,
+    1897
+  ],
+  "productReviews": [
+    {
+      "productId": 3088,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-05-10T03:26:09.1638559+03:00"
+    },
+    {
+      "productId": 1640,
+      "reviewText": "This program works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-12-19T22:12:34.1333638+02:00"
+    },
+    {
+      "productId": 4951,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-01-01T18:37:02.5479822+02:00"
+    },
+    {
+      "productId": 3467,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-11-26T23:11:38.1309699+02:00"
+    }
+  ]
+}

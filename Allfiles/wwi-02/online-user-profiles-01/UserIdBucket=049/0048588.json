@@ -1,0 +1,35 @@
+{
+  "userId": 48588,
+  "cartId": "37faee72-e0e2-4786-bdff-70ac91ca4c1c",
+  "preferredProducts": [
+    4302,
+    801,
+    1418,
+    4818,
+    1633,
+    481,
+    4236
+  ],
+  "productReviews": [
+    {
+      "productId": 721,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-10-28T15:19:05.8658415+02:00"
+    },
+    {
+      "productId": 2243,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-07-29T01:17:13.7892137+03:00"
+    },
+    {
+      "productId": 3139,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-08-07T20:52:04.9699671+03:00"
+    },
+    {
+      "productId": 1191,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2018-10-09T20:25:16.8143792+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 63943,
+  "cartId": "0d60e3ca-4138-41ae-99ba-1eafb7bfb5fe",
+  "preferredProducts": [
+    932,
+    1314,
+    511
+  ],
+  "productReviews": [
+    {
+      "productId": 1089,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-06-28T10:45:39.8886709+03:00"
+    },
+    {
+      "productId": 2857,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-01-12T14:51:00.0154388+02:00"
+    },
+    {
+      "productId": 823,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-02-05T04:10:33.1833785+02:00"
+    },
+    {
+      "productId": 3569,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-11-06T11:06:36.826545+02:00"
+    }
+  ]
+}

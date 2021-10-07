@@ -1,0 +1,34 @@
+{
+  "userId": 99189,
+  "cartId": "ca665af6-b300-453b-9ab1-fbf58dc02009",
+  "preferredProducts": [
+    1295,
+    2579,
+    1343,
+    606,
+    1126,
+    893
+  ],
+  "productReviews": [
+    {
+      "productId": 3079,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-01-06T06:24:15.3312543+02:00"
+    },
+    {
+      "productId": 1227,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-06-13T08:28:07.7964888+03:00"
+    },
+    {
+      "productId": 3208,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-06-25T19:28:07.7212084+03:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-11-18T13:40:42.7379883+02:00"
+    }
+  ]
+}

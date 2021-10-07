@@ -1,0 +1,33 @@
+{
+  "userId": 32840,
+  "cartId": "6040dec4-fff7-4aa5-9f0e-8679da447c2d",
+  "preferredProducts": [
+    2420,
+    2777,
+    940,
+    3135,
+    614,
+    1170,
+    661,
+    1740,
+    4416,
+    4448
+  ],
+  "productReviews": [
+    {
+      "productId": 2614,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-01-26T04:10:14.2982843+02:00"
+    },
+    {
+      "productId": 4984,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-03-22T01:48:09.5427972+02:00"
+    },
+    {
+      "productId": 4999,
+      "reviewText": "This program works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2020-01-19T16:09:14.7910546+02:00"
+    }
+  ]
+}

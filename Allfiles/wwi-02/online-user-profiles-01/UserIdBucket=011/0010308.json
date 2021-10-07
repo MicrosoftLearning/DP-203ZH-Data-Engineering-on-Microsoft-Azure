@@ -1,0 +1,38 @@
+{
+  "userId": 10308,
+  "cartId": "3d9863c0-9477-4030-aa1a-8f889105e68f",
+  "preferredProducts": [
+    2445,
+    1603,
+    771,
+    563,
+    4596,
+    4870,
+    1767,
+    560,
+    4360,
+    951
+  ],
+  "productReviews": [
+    {
+      "productId": 1114,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-12-12T18:46:56.623412+02:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-06-23T12:08:49.0340473+03:00"
+    },
+    {
+      "productId": 218,
+      "reviewText": "this Personal Loan Account is complimentary.",
+      "reviewDate": "2018-04-08T05:46:32.3738201+03:00"
+    },
+    {
+      "productId": 694,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-05-09T19:14:21.2041702+03:00"
+    }
+  ]
+}

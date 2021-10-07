@@ -1,0 +1,31 @@
+{
+  "userId": 53827,
+  "cartId": "a09d8ec3-50f2-4e86-9132-e22399310591",
+  "preferredProducts": [
+    1716,
+    3732,
+    3670,
+    97,
+    4049,
+    333,
+    3309,
+    628
+  ],
+  "productReviews": [
+    {
+      "productId": 1507,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-09-03T14:30:00.5420477+03:00"
+    },
+    {
+      "productId": 575,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-05-25T19:00:10.0547866+03:00"
+    },
+    {
+      "productId": 2224,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-10-16T16:53:37.6243938+03:00"
+    }
+  ]
+}

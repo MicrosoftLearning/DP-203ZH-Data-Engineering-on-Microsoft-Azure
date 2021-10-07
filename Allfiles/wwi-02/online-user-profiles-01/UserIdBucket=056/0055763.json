@@ -1,0 +1,35 @@
+{
+  "userId": 55763,
+  "cartId": "cf1b197e-53db-4e3b-b564-456e7dc127dc",
+  "preferredProducts": [
+    3775,
+    954,
+    1041,
+    3467,
+    2213,
+    714,
+    309
+  ],
+  "productReviews": [
+    {
+      "productId": 1614,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-01-28T03:33:22.1235619+02:00"
+    },
+    {
+      "productId": 4003,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-08-02T19:11:57.7677272+03:00"
+    },
+    {
+      "productId": 65,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-06-12T09:19:38.1796736+03:00"
+    },
+    {
+      "productId": 1702,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-09-05T17:30:04.3936084+03:00"
+    }
+  ]
+}

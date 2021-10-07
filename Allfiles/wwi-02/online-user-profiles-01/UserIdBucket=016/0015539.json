@@ -1,0 +1,30 @@
+{
+  "userId": 15539,
+  "cartId": "5b3613ab-ccbc-4fd9-a373-92a865fdbaf0",
+  "preferredProducts": [
+    1892,
+    3652
+  ],
+  "productReviews": [
+    {
+      "productId": 3404,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-06-30T02:01:43.7175407+03:00"
+    },
+    {
+      "productId": 738,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-05-10T05:19:20.1276516+03:00"
+    },
+    {
+      "productId": 3789,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-04-28T17:35:40.1271512+03:00"
+    },
+    {
+      "productId": 1143,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2020-01-24T16:52:41.985515+02:00"
+    }
+  ]
+}

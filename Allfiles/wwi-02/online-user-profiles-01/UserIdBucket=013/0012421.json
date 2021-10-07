@@ -1,0 +1,26 @@
+{
+  "userId": 12421,
+  "cartId": "e074043b-b6c9-47d4-9c2c-a55b2e01b2ea",
+  "preferredProducts": [
+    1000,
+    3302,
+    930
+  ],
+  "productReviews": [
+    {
+      "productId": 3219,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-05-01T16:57:24.0179803+03:00"
+    },
+    {
+      "productId": 2508,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-09-20T04:17:44.8471874+03:00"
+    },
+    {
+      "productId": 4303,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-06-10T02:13:22.6327477+03:00"
+    }
+  ]
+}

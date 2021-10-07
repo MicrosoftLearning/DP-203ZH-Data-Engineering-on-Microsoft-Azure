@@ -1,0 +1,36 @@
+{
+  "userId": 30618,
+  "cartId": "811bfa8b-e33d-47df-b30c-41a541fe96b7",
+  "preferredProducts": [
+    3120,
+    4456,
+    4118,
+    4555,
+    2202,
+    2961,
+    3260,
+    2990
+  ],
+  "productReviews": [
+    {
+      "productId": 619,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-10-16T06:10:17.8057522+03:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-10-18T11:45:04.3970801+03:00"
+    },
+    {
+      "productId": 1885,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-09-06T00:07:11.3137454+03:00"
+    },
+    {
+      "productId": 184,
+      "reviewText": "This Handmade Granite Tuna works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-11-12T00:31:35.9498978+02:00"
+    }
+  ]
+}

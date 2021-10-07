@@ -1,0 +1,30 @@
+{
+  "userId": 22212,
+  "cartId": "561a5d00-e58c-48b1-a55b-0ac3505948ce",
+  "preferredProducts": [
+    3140,
+    4645
+  ],
+  "productReviews": [
+    {
+      "productId": 2796,
+      "reviewText": "this Investor is dominant.",
+      "reviewDate": "2017-03-23T04:25:37.2745149+02:00"
+    },
+    {
+      "productId": 4900,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-05-08T23:15:33.0735675+03:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-05-05T05:32:58.9382385+03:00"
+    },
+    {
+      "productId": 2109,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-09-23T06:48:54.5192886+03:00"
+    }
+  ]
+}

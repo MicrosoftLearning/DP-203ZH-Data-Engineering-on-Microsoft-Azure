@@ -1,0 +1,38 @@
+{
+  "userId": 94248,
+  "cartId": "1e6f4c2f-6070-4859-8a74-2a4e54d31256",
+  "preferredProducts": [
+    4634,
+    648,
+    2978,
+    383,
+    1132,
+    1682,
+    4217,
+    1276,
+    551,
+    60
+  ],
+  "productReviews": [
+    {
+      "productId": 1169,
+      "reviewText": "this invoice is tasty.",
+      "reviewDate": "2016-05-30T20:28:55.7085217+03:00"
+    },
+    {
+      "productId": 2104,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-02-21T12:32:30.4637798+02:00"
+    },
+    {
+      "productId": 4006,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-09-18T01:24:35.1705355+03:00"
+    },
+    {
+      "productId": 4540,
+      "reviewText": "this Montana is light-hearted.",
+      "reviewDate": "2018-07-31T03:43:19.8763449+03:00"
+    }
+  ]
+}

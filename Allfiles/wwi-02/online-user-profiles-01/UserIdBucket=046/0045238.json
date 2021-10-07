@@ -1,0 +1,38 @@
+{
+  "userId": 45238,
+  "cartId": "165efe3d-6f2a-4129-a4b0-b14f499be85b",
+  "preferredProducts": [
+    3613,
+    4467,
+    540,
+    4566,
+    754
+  ],
+  "productReviews": [
+    {
+      "productId": 3609,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-05-20T03:24:00.2056303+03:00"
+    },
+    {
+      "productId": 2163,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-03-25T22:42:48.8783955+02:00"
+    },
+    {
+      "productId": 4019,
+      "reviewText": "this grid-enabled is brown.",
+      "reviewDate": "2019-02-11T06:16:41.9354061+02:00"
+    },
+    {
+      "productId": 429,
+      "reviewText": "this backing up is complimentary.",
+      "reviewDate": "2019-02-23T08:40:48.8348008+02:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-07-12T10:01:37.1002299+03:00"
+    }
+  ]
+}

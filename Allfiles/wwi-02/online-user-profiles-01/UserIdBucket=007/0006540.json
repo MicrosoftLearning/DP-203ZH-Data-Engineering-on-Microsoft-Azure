@@ -1,0 +1,38 @@
+{
+  "userId": 6540,
+  "cartId": "72f61508-a566-4688-87be-20efcfc81ab7",
+  "preferredProducts": [
+    1718,
+    3030,
+    3644,
+    450,
+    2959
+  ],
+  "productReviews": [
+    {
+      "productId": 2225,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-04-27T23:00:29.9194297+03:00"
+    },
+    {
+      "productId": 3153,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2017-02-18T15:55:22.7648391+02:00"
+    },
+    {
+      "productId": 3175,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2016-05-28T06:20:52.0663012+03:00"
+    },
+    {
+      "productId": 1932,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-06-09T04:31:01.0754567+03:00"
+    },
+    {
+      "productId": 4839,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-02-18T02:19:11.7402434+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 63103,
+  "cartId": "00c7a841-d673-406f-810a-b862764ad7dd",
+  "preferredProducts": [
+    57,
+    1333,
+    2709,
+    3288,
+    73
+  ],
+  "productReviews": [
+    {
+      "productId": 2919,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-07-27T02:25:27.4680176+03:00"
+    },
+    {
+      "productId": 4710,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2020-01-10T07:13:43.5740609+02:00"
+    },
+    {
+      "productId": 302,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-12-14T23:12:08.2938059+02:00"
+    }
+  ]
+}

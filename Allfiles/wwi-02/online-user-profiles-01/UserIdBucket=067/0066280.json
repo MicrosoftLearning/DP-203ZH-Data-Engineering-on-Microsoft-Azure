@@ -1,0 +1,33 @@
+{
+  "userId": 66280,
+  "cartId": "30a0f105-b14b-4b01-8fd0-a9580b6eb3a3",
+  "preferredProducts": [
+    2994,
+    3060,
+    272,
+    1232,
+    447
+  ],
+  "productReviews": [
+    {
+      "productId": 1585,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2016-05-16T14:58:56.9776985+03:00"
+    },
+    {
+      "productId": 4924,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-07-24T05:59:27.1671864+03:00"
+    },
+    {
+      "productId": 2502,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-05-29T04:26:52.6621306+03:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-07-30T18:27:48.6357944+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 55507,
+  "cartId": "b26dc210-6559-48f7-a984-8858ea88a628",
+  "preferredProducts": [
+    4645,
+    4527,
+    3189,
+    3040
+  ],
+  "productReviews": [
+    {
+      "productId": 315,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-01-25T02:19:55.655152+02:00"
+    },
+    {
+      "productId": 2408,
+      "reviewText": "this benchmark is flirty.",
+      "reviewDate": "2018-10-03T17:49:26.5498343+03:00"
+    },
+    {
+      "productId": 2864,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-06-02T04:40:25.5524424+03:00"
+    }
+  ]
+}

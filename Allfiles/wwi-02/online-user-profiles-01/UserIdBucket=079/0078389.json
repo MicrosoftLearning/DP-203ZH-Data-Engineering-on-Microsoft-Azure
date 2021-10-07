@@ -1,0 +1,40 @@
+{
+  "userId": 78389,
+  "cartId": "87b2e660-b58d-4132-8699-e679cb4a60b7",
+  "preferredProducts": [
+    275,
+    1807,
+    4298,
+    496,
+    4258,
+    3135,
+    3601
+  ],
+  "productReviews": [
+    {
+      "productId": 46,
+      "reviewText": "this e-tailers is awesome.",
+      "reviewDate": "2018-12-16T03:27:08.7504199+02:00"
+    },
+    {
+      "productId": 3019,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-08-04T18:10:40.9464353+03:00"
+    },
+    {
+      "productId": 2583,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-03-24T06:01:08.8898545+02:00"
+    },
+    {
+      "productId": 3733,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-08-11T14:07:42.4114677+03:00"
+    },
+    {
+      "productId": 4301,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-01-28T23:30:15.1446432+02:00"
+    }
+  ]
+}

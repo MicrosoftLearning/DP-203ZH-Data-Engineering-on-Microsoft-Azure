@@ -1,0 +1,26 @@
+{
+  "userId": 23955,
+  "cartId": "2c43b5fb-f604-4c31-ba7f-38e39fd745de",
+  "preferredProducts": [
+    2650,
+    2781,
+    2609
+  ],
+  "productReviews": [
+    {
+      "productId": 41,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-10-19T22:45:27.1760283+03:00"
+    },
+    {
+      "productId": 4617,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-01-03T09:09:18.8510762+02:00"
+    },
+    {
+      "productId": 3636,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-09-16T13:12:22.916863+03:00"
+    }
+  ]
+}

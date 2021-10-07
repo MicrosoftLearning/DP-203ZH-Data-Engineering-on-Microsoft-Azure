@@ -1,0 +1,29 @@
+{
+  "userId": 20289,
+  "cartId": "d5b1cc47-1d34-4ca0-ae3e-21642a214ad8",
+  "preferredProducts": [
+    1913,
+    4372,
+    4050,
+    3492,
+    4586,
+    3882
+  ],
+  "productReviews": [
+    {
+      "productId": 3879,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-06-20T16:17:14.0608351+03:00"
+    },
+    {
+      "productId": 4481,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2016-05-18T18:37:15.4399221+03:00"
+    },
+    {
+      "productId": 2503,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-10-16T02:19:33.1137524+03:00"
+    }
+  ]
+}

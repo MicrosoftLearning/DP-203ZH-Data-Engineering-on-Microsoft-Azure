@@ -1,0 +1,39 @@
+{
+  "userId": 15129,
+  "cartId": "095748bb-1df7-4751-9d21-f045b95107ed",
+  "preferredProducts": [
+    4447,
+    883,
+    2882,
+    3555,
+    3536,
+    4512
+  ],
+  "productReviews": [
+    {
+      "productId": 1042,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-02-06T07:28:47.7423414+02:00"
+    },
+    {
+      "productId": 2694,
+      "reviewText": "this Anguilla is brown.",
+      "reviewDate": "2020-04-12T02:31:04.5291059+03:00"
+    },
+    {
+      "productId": 3533,
+      "reviewText": "this orange is standard.",
+      "reviewDate": "2018-05-31T06:53:45.183578+03:00"
+    },
+    {
+      "productId": 249,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2016-10-31T23:16:34.9902883+02:00"
+    },
+    {
+      "productId": 954,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-06-13T05:49:49.5612191+03:00"
+    }
+  ]
+}

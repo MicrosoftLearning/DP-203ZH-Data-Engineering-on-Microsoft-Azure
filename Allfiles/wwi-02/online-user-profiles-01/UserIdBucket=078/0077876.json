@@ -1,0 +1,27 @@
+{
+  "userId": 77876,
+  "cartId": "fb15c79f-b75f-42f7-ae4b-83a03297de5f",
+  "preferredProducts": [
+    1027,
+    164,
+    968,
+    621
+  ],
+  "productReviews": [
+    {
+      "productId": 4990,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-03-24T23:31:45.1369639+02:00"
+    },
+    {
+      "productId": 2203,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2016-09-11T21:40:52.8912263+03:00"
+    },
+    {
+      "productId": 3816,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-05-29T20:34:41.9177154+03:00"
+    }
+  ]
+}

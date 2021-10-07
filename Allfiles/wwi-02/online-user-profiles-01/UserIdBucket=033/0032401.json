@@ -1,0 +1,29 @@
+{
+  "userId": 32401,
+  "cartId": "2e46f9d1-b7eb-45f0-8a9a-d02565b1a21c",
+  "preferredProducts": [
+    1216,
+    2117,
+    3071,
+    2522,
+    4142,
+    1498
+  ],
+  "productReviews": [
+    {
+      "productId": 790,
+      "reviewText": "this approach is tasty.",
+      "reviewDate": "2016-11-06T06:33:43.7537046+02:00"
+    },
+    {
+      "productId": 2893,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-11-04T20:42:23.6322429+02:00"
+    },
+    {
+      "productId": 4760,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-12-11T06:31:47.7227234+02:00"
+    }
+  ]
+}

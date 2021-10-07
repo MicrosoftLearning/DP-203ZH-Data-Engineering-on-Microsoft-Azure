@@ -1,0 +1,27 @@
+{
+  "userId": 235,
+  "cartId": "75c25dec-58e9-4046-8441-b31341142930",
+  "preferredProducts": [
+    4032,
+    844,
+    2529,
+    1164,
+    4795,
+    4379,
+    926,
+    2980,
+    3433
+  ],
+  "productReviews": [
+    {
+      "productId": 2466,
+      "reviewText": "This cyan, does exactly what it's suppose to do.",
+      "reviewDate": "2018-01-24T04:39:14.6068038+02:00"
+    },
+    {
+      "productId": 2641,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-05-17T15:34:20.7133257+03:00"
+    }
+  ]
+}

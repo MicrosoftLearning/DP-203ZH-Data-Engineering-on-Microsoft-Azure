@@ -1,0 +1,40 @@
+{
+  "userId": 26667,
+  "cartId": "9b410a7d-9dc6-44db-bbf9-57279c19dedb",
+  "preferredProducts": [
+    1316,
+    4086,
+    887,
+    4497,
+    2823,
+    2572,
+    274
+  ],
+  "productReviews": [
+    {
+      "productId": 1243,
+      "reviewText": "this program is light-hearted.",
+      "reviewDate": "2018-09-06T22:44:07.7659876+03:00"
+    },
+    {
+      "productId": 2751,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-03-14T17:41:07.6017304+02:00"
+    },
+    {
+      "productId": 2545,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2020-02-22T06:03:26.3464178+02:00"
+    },
+    {
+      "productId": 2304,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2018-11-27T04:24:25.0163829+02:00"
+    },
+    {
+      "productId": 3980,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2020-03-25T08:45:31.8132115+02:00"
+    }
+  ]
+}

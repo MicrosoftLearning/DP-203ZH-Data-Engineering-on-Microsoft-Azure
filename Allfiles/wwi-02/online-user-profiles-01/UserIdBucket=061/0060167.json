@@ -1,0 +1,26 @@
+{
+  "userId": 60167,
+  "cartId": "65088c95-a445-41db-b311-f0315fbca022",
+  "preferredProducts": [
+    3356,
+    1167,
+    4427
+  ],
+  "productReviews": [
+    {
+      "productId": 2504,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-02-28T14:50:43.6367263+02:00"
+    },
+    {
+      "productId": 2023,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-04-27T14:32:06.6711997+03:00"
+    },
+    {
+      "productId": 4579,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-04-08T15:05:22.2983196+03:00"
+    }
+  ]
+}

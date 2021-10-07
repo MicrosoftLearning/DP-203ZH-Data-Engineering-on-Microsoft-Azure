@@ -1,0 +1,28 @@
+{
+  "userId": 20130,
+  "cartId": "7938f904-2c1b-413f-aeb0-72ba5177ae56",
+  "preferredProducts": [
+    1441,
+    4406,
+    3403,
+    2159,
+    2443
+  ],
+  "productReviews": [
+    {
+      "productId": 3690,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-08-07T22:30:34.0692135+03:00"
+    },
+    {
+      "productId": 1762,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-12-31T13:16:31.0583302+02:00"
+    },
+    {
+      "productId": 222,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-12-25T19:51:22.2925856+02:00"
+    }
+  ]
+}

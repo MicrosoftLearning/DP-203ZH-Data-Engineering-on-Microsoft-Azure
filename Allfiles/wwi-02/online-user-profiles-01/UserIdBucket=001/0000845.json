@@ -1,0 +1,32 @@
+{
+  "userId": 845,
+  "cartId": "d3314993-7fd2-496f-85c3-58ca8ee9c592",
+  "preferredProducts": [
+    2035,
+    4680,
+    2676,
+    3623
+  ],
+  "productReviews": [
+    {
+      "productId": 3951,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-09-12T19:32:51.313393+03:00"
+    },
+    {
+      "productId": 4427,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-08-28T15:53:48.0114811+03:00"
+    },
+    {
+      "productId": 1518,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-04-10T02:04:39.246822+03:00"
+    },
+    {
+      "productId": 3070,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-04-01T04:56:18.5898418+03:00"
+    }
+  ]
+}

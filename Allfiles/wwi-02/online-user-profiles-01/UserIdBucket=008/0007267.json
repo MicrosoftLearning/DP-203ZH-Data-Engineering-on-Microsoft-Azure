@@ -1,0 +1,30 @@
+{
+  "userId": 7267,
+  "cartId": "a925906e-23e8-4057-bb7f-b3df2129af2b",
+  "preferredProducts": [
+    4855,
+    2623
+  ],
+  "productReviews": [
+    {
+      "productId": 1725,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-11-26T11:54:37.6752102+02:00"
+    },
+    {
+      "productId": 883,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-06-18T12:47:24.1385119+03:00"
+    },
+    {
+      "productId": 1266,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-09-12T11:38:16.3483431+03:00"
+    },
+    {
+      "productId": 1663,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-01-10T01:25:41.3521152+02:00"
+    }
+  ]
+}

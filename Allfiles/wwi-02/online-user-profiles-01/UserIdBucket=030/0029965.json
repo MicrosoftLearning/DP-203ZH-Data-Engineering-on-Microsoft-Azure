@@ -1,0 +1,32 @@
+{
+  "userId": 29965,
+  "cartId": "88c9ed2f-8ac9-47bc-a2c9-f391ec23507b",
+  "preferredProducts": [
+    764,
+    303,
+    4202,
+    1084,
+    2762,
+    2920,
+    1570,
+    4541,
+    4730
+  ],
+  "productReviews": [
+    {
+      "productId": 140,
+      "reviewText": "This is a really good 5th generation.",
+      "reviewDate": "2018-02-07T19:47:45.4128636+02:00"
+    },
+    {
+      "productId": 1732,
+      "reviewText": "this Frozen is complimentary.",
+      "reviewDate": "2018-12-08T06:48:38.880854+02:00"
+    },
+    {
+      "productId": 4446,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-01-06T19:54:24.6549301+02:00"
+    }
+  ]
+}

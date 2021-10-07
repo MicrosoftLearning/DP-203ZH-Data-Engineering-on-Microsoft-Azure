@@ -1,0 +1,26 @@
+{
+  "userId": 99259,
+  "cartId": "232b0640-1780-4676-8f58-82b2068e634a",
+  "preferredProducts": [
+    3155,
+    3156,
+    2870
+  ],
+  "productReviews": [
+    {
+      "productId": 3073,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-04-30T16:28:49.4962747+03:00"
+    },
+    {
+      "productId": 4531,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-08-12T04:32:26.544411+03:00"
+    },
+    {
+      "productId": 3202,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-03-09T05:20:40.4328829+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 80109,
+  "cartId": "06692122-242b-4426-808a-bf26fc968e35",
+  "preferredProducts": [
+    669,
+    4022,
+    1333
+  ],
+  "productReviews": [
+    {
+      "productId": 4913,
+      "reviewText": "This is a really good Alabama.",
+      "reviewDate": "2019-08-14T04:51:10.5503579+03:00"
+    },
+    {
+      "productId": 2257,
+      "reviewText": "this array is ghetto.",
+      "reviewDate": "2016-05-31T09:25:01.1146141+03:00"
+    },
+    {
+      "productId": 2419,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-07-28T07:11:54.6729601+03:00"
+    },
+    {
+      "productId": 4778,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-01-18T06:20:17.2119904+02:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-05-16T10:19:09.8278022+03:00"
+    }
+  ]
+}

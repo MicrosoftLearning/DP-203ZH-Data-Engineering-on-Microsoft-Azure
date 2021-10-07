@@ -1,0 +1,37 @@
+{
+  "userId": 95392,
+  "cartId": "563a9b23-bad7-4ada-a932-c9d2e5e2d20a",
+  "preferredProducts": [
+    598,
+    1431,
+    501,
+    3742,
+    4463,
+    1571,
+    2468,
+    2297,
+    2820
+  ],
+  "productReviews": [
+    {
+      "productId": 1493,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-03-07T11:27:35.6588842+02:00"
+    },
+    {
+      "productId": 4140,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-11-17T00:04:00.5497017+02:00"
+    },
+    {
+      "productId": 2017,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-07-10T18:56:52.8772912+03:00"
+    },
+    {
+      "productId": 1273,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-06-04T14:09:53.5971585+03:00"
+    }
+  ]
+}

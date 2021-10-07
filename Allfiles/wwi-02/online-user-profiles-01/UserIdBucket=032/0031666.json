@@ -1,0 +1,24 @@
+{
+  "userId": 31666,
+  "cartId": "92fd7866-e231-4199-8e8e-5a6338972e5d",
+  "preferredProducts": [
+    2330
+  ],
+  "productReviews": [
+    {
+      "productId": 3123,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-12-18T20:58:27.3839077+02:00"
+    },
+    {
+      "productId": 4889,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-01-22T11:47:29.421799+02:00"
+    },
+    {
+      "productId": 686,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-01-09T16:53:22.3429047+02:00"
+    }
+  ]
+}

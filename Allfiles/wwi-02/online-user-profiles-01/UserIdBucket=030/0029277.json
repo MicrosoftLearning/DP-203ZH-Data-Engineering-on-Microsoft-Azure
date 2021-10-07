@@ -1,0 +1,43 @@
+{
+  "userId": 29277,
+  "cartId": "475bd647-e0de-4e06-8c0b-4154236ab058",
+  "preferredProducts": [
+    686,
+    1706,
+    3141,
+    2232,
+    4551,
+    2364,
+    2610,
+    3862,
+    3467,
+    1465
+  ],
+  "productReviews": [
+    {
+      "productId": 1603,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-05-21T20:04:30.2093136+03:00"
+    },
+    {
+      "productId": 1600,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2017-08-19T10:05:33.8396011+03:00"
+    },
+    {
+      "productId": 746,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-01-27T04:15:42.5088344+02:00"
+    },
+    {
+      "productId": 1302,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-08-28T12:03:55.6846065+03:00"
+    },
+    {
+      "productId": 666,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-11-17T04:55:17.8558394+02:00"
+    }
+  ]
+}

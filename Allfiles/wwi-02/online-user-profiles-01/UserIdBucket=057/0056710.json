@@ -1,0 +1,30 @@
+{
+  "userId": 56710,
+  "cartId": "c2697a2e-8a2f-48fd-8075-bfdf5513dfd6",
+  "preferredProducts": [
+    4804,
+    1985,
+    2148,
+    397,
+    2981,
+    2647,
+    412
+  ],
+  "productReviews": [
+    {
+      "productId": 3424,
+      "reviewText": "this Granite is standard.",
+      "reviewDate": "2017-06-16T16:11:50.500676+03:00"
+    },
+    {
+      "productId": 2670,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-01-07T03:38:51.6701206+02:00"
+    },
+    {
+      "productId": 4448,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-06-08T07:26:56.5306039+03:00"
+    }
+  ]
+}

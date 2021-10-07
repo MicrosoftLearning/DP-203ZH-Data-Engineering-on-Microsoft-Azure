@@ -1,0 +1,43 @@
+{
+  "userId": 9342,
+  "cartId": "0cdcbaa3-96b9-4be2-a769-e894b23cb5a9",
+  "preferredProducts": [
+    3533,
+    2499,
+    489,
+    3131,
+    1294,
+    1429,
+    2729,
+    1614,
+    4172,
+    2508
+  ],
+  "productReviews": [
+    {
+      "productId": 1538,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-04-29T06:40:25.0349038+03:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-03-17T09:34:34.9080682+02:00"
+    },
+    {
+      "productId": 4332,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-09-20T22:50:36.4562343+03:00"
+    },
+    {
+      "productId": 2031,
+      "reviewText": "This indigo works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2018-11-05T05:00:22.4658636+02:00"
+    },
+    {
+      "productId": 2372,
+      "reviewText": "This alarm works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2020-01-19T07:18:30.6928927+02:00"
+    }
+  ]
+}

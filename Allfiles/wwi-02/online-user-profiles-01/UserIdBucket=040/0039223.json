@@ -1,0 +1,30 @@
+{
+  "userId": 39223,
+  "cartId": "4d2e8ea6-df24-4c1e-a685-e6022606c218",
+  "preferredProducts": [
+    2033,
+    3448
+  ],
+  "productReviews": [
+    {
+      "productId": 4104,
+      "reviewText": "This is a really good Technician.",
+      "reviewDate": "2019-03-24T09:51:22.3716056+02:00"
+    },
+    {
+      "productId": 3953,
+      "reviewText": "This Nuevo Sol works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-02-06T11:16:06.7921964+02:00"
+    },
+    {
+      "productId": 4850,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-08-20T11:35:20.9246308+03:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2020-02-12T21:34:49.1010318+02:00"
+    }
+  ]
+}

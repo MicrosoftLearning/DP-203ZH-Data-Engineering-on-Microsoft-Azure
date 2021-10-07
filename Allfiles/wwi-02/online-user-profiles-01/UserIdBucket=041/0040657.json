@@ -1,0 +1,40 @@
+{
+  "userId": 40657,
+  "cartId": "1d5de34d-b050-4ed2-ad7f-bc7236d2e6fc",
+  "preferredProducts": [
+    3246,
+    4487,
+    3541,
+    4933,
+    2463,
+    4725,
+    1351
+  ],
+  "productReviews": [
+    {
+      "productId": 2279,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-07-04T11:52:10.4543262+03:00"
+    },
+    {
+      "productId": 4542,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-04-12T19:47:45.0601058+03:00"
+    },
+    {
+      "productId": 2802,
+      "reviewText": "this hierarchy is tasty.",
+      "reviewDate": "2018-03-14T01:27:10.5908538+02:00"
+    },
+    {
+      "productId": 899,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-07-27T00:20:39.3941171+03:00"
+    },
+    {
+      "productId": 1575,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-01-24T22:27:54.0635624+02:00"
+    }
+  ]
+}

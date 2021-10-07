@@ -1,0 +1,29 @@
+{
+  "userId": 23145,
+  "cartId": "e09c794c-dc3b-4b5b-bd3b-8e5ad949fca8",
+  "preferredProducts": [
+    1734,
+    4368,
+    2449,
+    1675,
+    4518,
+    2589
+  ],
+  "productReviews": [
+    {
+      "productId": 3111,
+      "reviewText": "This is a really good collaboration.",
+      "reviewDate": "2017-09-12T05:23:36.316265+03:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-06-30T09:18:57.5241025+03:00"
+    },
+    {
+      "productId": 2834,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-09-04T10:01:48.4570944+03:00"
+    }
+  ]
+}

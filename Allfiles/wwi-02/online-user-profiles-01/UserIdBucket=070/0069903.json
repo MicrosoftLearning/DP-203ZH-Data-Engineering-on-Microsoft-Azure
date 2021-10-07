@@ -1,0 +1,32 @@
+{
+  "userId": 69903,
+  "cartId": "8f7b822a-bf7b-43d9-b995-0665a201ee91",
+  "preferredProducts": [
+    4600,
+    1724,
+    4552,
+    4617
+  ],
+  "productReviews": [
+    {
+      "productId": 420,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-10-12T11:23:59.5234804+03:00"
+    },
+    {
+      "productId": 4877,
+      "reviewText": "This Mountain, does exactly what it's suppose to do.",
+      "reviewDate": "2017-06-17T20:47:55.529318+03:00"
+    },
+    {
+      "productId": 2992,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-05-22T22:29:42.1091967+03:00"
+    },
+    {
+      "productId": 1321,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-06-22T23:36:53.4445258+03:00"
+    }
+  ]
+}

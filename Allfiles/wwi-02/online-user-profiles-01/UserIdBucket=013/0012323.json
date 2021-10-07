@@ -1,0 +1,32 @@
+{
+  "userId": 12323,
+  "cartId": "a19db61e-0772-4a20-9b7a-caa02ca16279",
+  "preferredProducts": [
+    995,
+    900,
+    4646,
+    1134
+  ],
+  "productReviews": [
+    {
+      "productId": 4058,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-01-17T04:44:49.6709384+02:00"
+    },
+    {
+      "productId": 907,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-09T18:31:42.9515309+03:00"
+    },
+    {
+      "productId": 1173,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-11-23T05:09:38.0772401+02:00"
+    },
+    {
+      "productId": 1919,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-07-08T19:47:09.7646902+03:00"
+    }
+  ]
+}

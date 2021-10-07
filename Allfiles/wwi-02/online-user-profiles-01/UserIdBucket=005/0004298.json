@@ -1,0 +1,36 @@
+{
+  "userId": 4298,
+  "cartId": "7cfb40ef-df79-4ac9-bdd6-fadcb5546273",
+  "preferredProducts": [
+    2959,
+    3922,
+    3460,
+    3761,
+    3006,
+    4249,
+    355,
+    1310
+  ],
+  "productReviews": [
+    {
+      "productId": 841,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-09-18T10:58:13.5468105+03:00"
+    },
+    {
+      "productId": 1121,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-12-30T02:55:16.1223283+02:00"
+    },
+    {
+      "productId": 794,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-02-03T09:33:39.7460182+02:00"
+    },
+    {
+      "productId": 4519,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-03-05T02:01:31.5860936+02:00"
+    }
+  ]
+}

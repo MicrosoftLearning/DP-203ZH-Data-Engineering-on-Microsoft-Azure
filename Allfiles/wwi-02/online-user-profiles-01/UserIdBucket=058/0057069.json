@@ -1,0 +1,33 @@
+{
+  "userId": 57069,
+  "cartId": "4e2cc8fc-085a-43e3-bb79-d96487924b78",
+  "preferredProducts": [
+    681,
+    1331,
+    339,
+    4401,
+    3174
+  ],
+  "productReviews": [
+    {
+      "productId": 3762,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-04-08T12:04:00.6852507+03:00"
+    },
+    {
+      "productId": 4968,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-12-04T18:16:13.5151392+02:00"
+    },
+    {
+      "productId": 4858,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-02-26T15:39:47.8212474+02:00"
+    },
+    {
+      "productId": 2130,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-05-01T17:40:43.0500165+03:00"
+    }
+  ]
+}

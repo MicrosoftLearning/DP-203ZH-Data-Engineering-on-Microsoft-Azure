@@ -1,0 +1,31 @@
+{
+  "userId": 10368,
+  "cartId": "ee15a498-b0f9-4fa0-b4c5-27b82c7ae322",
+  "preferredProducts": [
+    241,
+    1724,
+    4380,
+    1256,
+    4310,
+    735,
+    2407,
+    2229
+  ],
+  "productReviews": [
+    {
+      "productId": 3146,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-08-29T06:53:46.7012374+03:00"
+    },
+    {
+      "productId": 4514,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-03-21T16:00:06.4621863+02:00"
+    },
+    {
+      "productId": 3965,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-09-18T11:24:50.3951772+03:00"
+    }
+  ]
+}

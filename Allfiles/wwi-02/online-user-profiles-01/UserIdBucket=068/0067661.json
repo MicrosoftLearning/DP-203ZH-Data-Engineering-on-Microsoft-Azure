@@ -1,0 +1,33 @@
+{
+  "userId": 67661,
+  "cartId": "e40d008e-e971-4233-960c-52603430cc91",
+  "preferredProducts": [
+    2466,
+    408,
+    4100,
+    3655,
+    4983
+  ],
+  "productReviews": [
+    {
+      "productId": 1485,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-11-21T05:19:33.4183099+02:00"
+    },
+    {
+      "productId": 4282,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-12-24T12:37:04.3220541+02:00"
+    },
+    {
+      "productId": 1139,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-07-07T22:49:36.6925533+03:00"
+    },
+    {
+      "productId": 3408,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-11-19T02:33:33.5455307+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 42905,
+  "cartId": "8a7e8aeb-071a-4abd-8a71-5ff042da05b7",
+  "preferredProducts": [
+    4174,
+    510,
+    620,
+    4972,
+    4763,
+    2012,
+    1183,
+    3680,
+    1682,
+    1350
+  ],
+  "productReviews": [
+    {
+      "productId": 749,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-05-30T06:06:53.0927624+03:00"
+    },
+    {
+      "productId": 3175,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-02-24T19:45:52.3285266+02:00"
+    },
+    {
+      "productId": 3670,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-11-03T01:58:52.036927+02:00"
+    }
+  ]
+}

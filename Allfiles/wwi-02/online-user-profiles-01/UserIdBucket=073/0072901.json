@@ -1,0 +1,38 @@
+{
+  "userId": 72901,
+  "cartId": "30fa595b-0b25-46ad-a219-a9d52c7ba0c8",
+  "preferredProducts": [
+    1962,
+    275,
+    1150,
+    2324,
+    4256,
+    3225,
+    4880,
+    2264,
+    4087,
+    684
+  ],
+  "productReviews": [
+    {
+      "productId": 3168,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-10-10T05:26:30.6588368+03:00"
+    },
+    {
+      "productId": 1039,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-06T01:17:13.9995613+03:00"
+    },
+    {
+      "productId": 846,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-12-07T11:35:57.1634249+02:00"
+    },
+    {
+      "productId": 4237,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-12-05T17:02:21.7024739+02:00"
+    }
+  ]
+}

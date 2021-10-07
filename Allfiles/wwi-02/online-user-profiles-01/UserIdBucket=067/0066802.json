@@ -1,0 +1,33 @@
+{
+  "userId": 66802,
+  "cartId": "560fe458-18d2-481b-b9bf-a51189a0cbed",
+  "preferredProducts": [
+    2737,
+    2233,
+    1756,
+    1411,
+    3931
+  ],
+  "productReviews": [
+    {
+      "productId": 2798,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-02-03T19:46:44.833854+02:00"
+    },
+    {
+      "productId": 3111,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-02-07T01:59:40.1181846+02:00"
+    },
+    {
+      "productId": 1417,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-08-13T16:30:21.0640672+03:00"
+    },
+    {
+      "productId": 4897,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-02-03T20:38:16.7689905+02:00"
+    }
+  ]
+}

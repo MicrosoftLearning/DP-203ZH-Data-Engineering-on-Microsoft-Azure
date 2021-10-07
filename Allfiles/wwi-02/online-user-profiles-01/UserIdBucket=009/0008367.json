@@ -1,0 +1,30 @@
+{
+  "userId": 8367,
+  "cartId": "d28657d7-bd25-446a-8905-3a1a6d9e12c2",
+  "preferredProducts": [
+    3533,
+    1401,
+    3898,
+    2723,
+    2848,
+    114,
+    2899
+  ],
+  "productReviews": [
+    {
+      "productId": 2445,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-07-31T03:04:57.7973945+03:00"
+    },
+    {
+      "productId": 489,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-09-07T23:19:49.0603305+03:00"
+    },
+    {
+      "productId": 2354,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-02-03T17:02:08.7190226+02:00"
+    }
+  ]
+}

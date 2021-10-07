@@ -1,0 +1,36 @@
+{
+  "userId": 26087,
+  "cartId": "3a02b1e6-5871-494e-86fa-557cae3b9590",
+  "preferredProducts": [
+    2428,
+    4127,
+    600
+  ],
+  "productReviews": [
+    {
+      "productId": 1015,
+      "reviewText": "this calculating is smooth.",
+      "reviewDate": "2018-02-24T12:35:27.4800756+02:00"
+    },
+    {
+      "productId": 2345,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-02-15T14:41:10.7603962+02:00"
+    },
+    {
+      "productId": 3712,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-12-03T21:15:38.4471234+02:00"
+    },
+    {
+      "productId": 883,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-04-26T23:48:54.3894865+03:00"
+    },
+    {
+      "productId": 2410,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-09-30T21:26:27.073104+03:00"
+    }
+  ]
+}

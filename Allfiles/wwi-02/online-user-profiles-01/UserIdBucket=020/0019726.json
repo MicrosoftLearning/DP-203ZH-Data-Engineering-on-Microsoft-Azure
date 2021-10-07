@@ -1,0 +1,27 @@
+{
+  "userId": 19726,
+  "cartId": "6298c0e0-8d4a-4286-9485-a88d9e084ea3",
+  "preferredProducts": [
+    1149,
+    1234,
+    846,
+    3683
+  ],
+  "productReviews": [
+    {
+      "productId": 4749,
+      "reviewText": "This Incredible Plastic Chair works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2018-03-20T07:12:50.9985372+02:00"
+    },
+    {
+      "productId": 1058,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-09-14T16:08:12.3377075+03:00"
+    },
+    {
+      "productId": 4343,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2016-08-23T22:47:48.5292641+03:00"
+    }
+  ]
+}

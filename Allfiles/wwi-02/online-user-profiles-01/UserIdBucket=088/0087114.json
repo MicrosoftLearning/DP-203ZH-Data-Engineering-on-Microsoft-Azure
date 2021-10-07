@@ -1,0 +1,36 @@
+{
+  "userId": 87114,
+  "cartId": "88fdc7d8-ec65-45b6-b27a-fdd6ed42b9b3",
+  "preferredProducts": [
+    3264,
+    4477,
+    1383
+  ],
+  "productReviews": [
+    {
+      "productId": 2027,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-11-13T19:24:01.3528269+02:00"
+    },
+    {
+      "productId": 3178,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-07T03:07:29.5367151+03:00"
+    },
+    {
+      "productId": 1520,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-01-25T22:20:57.6122984+02:00"
+    },
+    {
+      "productId": 4651,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-05-09T07:57:58.088344+03:00"
+    },
+    {
+      "productId": 3226,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-01-24T22:57:57.8623831+02:00"
+    }
+  ]
+}

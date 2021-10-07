@@ -1,0 +1,28 @@
+{
+  "userId": 42646,
+  "cartId": "7e502c19-8b0a-4d8e-878f-dfedfcb8f365",
+  "preferredProducts": [
+    4382,
+    229,
+    583,
+    916,
+    2501
+  ],
+  "productReviews": [
+    {
+      "productId": 1030,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2017-01-06T06:52:05.7658371+02:00"
+    },
+    {
+      "productId": 4893,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-07-01T19:27:08.260645+03:00"
+    },
+    {
+      "productId": 2226,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-06-25T00:52:39.6762275+03:00"
+    }
+  ]
+}

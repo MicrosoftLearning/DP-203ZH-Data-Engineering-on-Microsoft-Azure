@@ -1,0 +1,32 @@
+{
+  "userId": 43566,
+  "cartId": "3fd9550a-5a4d-45d3-8a4c-8fc5000a51f9",
+  "preferredProducts": [
+    2298,
+    4134,
+    3946,
+    3992
+  ],
+  "productReviews": [
+    {
+      "productId": 787,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-12-12T06:31:23.602295+02:00"
+    },
+    {
+      "productId": 1674,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-08-28T08:54:31.3626714+03:00"
+    },
+    {
+      "productId": 304,
+      "reviewText": "this connect is top-notch.",
+      "reviewDate": "2019-04-04T04:55:00.1017341+03:00"
+    },
+    {
+      "productId": 823,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-07-15T23:20:30.6274443+03:00"
+    }
+  ]
+}

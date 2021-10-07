@@ -1,0 +1,32 @@
+{
+  "userId": 42986,
+  "cartId": "8bbcb068-6a95-4ed0-96ee-c6afaf6b1e43",
+  "preferredProducts": [
+    2607,
+    171,
+    2612,
+    1284
+  ],
+  "productReviews": [
+    {
+      "productId": 4161,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-03-29T13:55:41.1576796+03:00"
+    },
+    {
+      "productId": 4907,
+      "reviewText": "this Centers is ratty.",
+      "reviewDate": "2017-10-19T17:54:26.9648445+03:00"
+    },
+    {
+      "productId": 2278,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-09-19T10:10:40.2127317+03:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-12-03T09:05:19.6268764+02:00"
+    }
+  ]
+}

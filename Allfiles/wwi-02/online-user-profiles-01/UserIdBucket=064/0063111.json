@@ -1,0 +1,33 @@
+{
+  "userId": 63111,
+  "cartId": "1a040e4a-be48-4510-b621-2a85bc2f7fbd",
+  "preferredProducts": [
+    2553,
+    2449,
+    783,
+    3184,
+    4627
+  ],
+  "productReviews": [
+    {
+      "productId": 3878,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-07-29T00:08:04.497256+03:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-06-30T04:47:59.1332722+03:00"
+    },
+    {
+      "productId": 1026,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-01-17T04:04:52.8598345+02:00"
+    },
+    {
+      "productId": 4624,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-03-20T15:03:45.910323+02:00"
+    }
+  ]
+}

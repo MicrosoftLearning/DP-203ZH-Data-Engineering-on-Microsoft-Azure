@@ -1,0 +1,29 @@
+{
+  "userId": 2769,
+  "cartId": "20053808-2ade-48b7-8518-ac1d1aef38ca",
+  "preferredProducts": [
+    449,
+    2659,
+    2048,
+    632,
+    3329,
+    4119
+  ],
+  "productReviews": [
+    {
+      "productId": 1313,
+      "reviewText": "This Object-based works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-01-03T10:09:46.1578347+02:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-09-13T06:00:25.4681565+03:00"
+    },
+    {
+      "productId": 2628,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-08-14T21:13:55.961395+03:00"
+    }
+  ]
+}

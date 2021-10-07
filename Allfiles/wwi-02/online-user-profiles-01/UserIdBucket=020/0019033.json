@@ -1,0 +1,25 @@
+{
+  "userId": 19033,
+  "cartId": "a6b3fa75-ae48-47e2-abf0-36ebb5440f8a",
+  "preferredProducts": [
+    4112,
+    4699
+  ],
+  "productReviews": [
+    {
+      "productId": 3688,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-01-23T07:35:31.9291475+02:00"
+    },
+    {
+      "productId": 2215,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-03-28T19:45:25.6182094+03:00"
+    },
+    {
+      "productId": 2854,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-09-13T01:00:06.0329723+03:00"
+    }
+  ]
+}

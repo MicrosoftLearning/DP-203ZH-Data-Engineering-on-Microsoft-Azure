@@ -1,0 +1,31 @@
+{
+  "userId": 8672,
+  "cartId": "1ba5f6d5-6bde-4bf4-810d-bda123388618",
+  "preferredProducts": [
+    4720,
+    1352,
+    4508,
+    2372,
+    4819,
+    2137,
+    612,
+    1771
+  ],
+  "productReviews": [
+    {
+      "productId": 4791,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-08-07T23:08:25.7469264+03:00"
+    },
+    {
+      "productId": 1203,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-08-17T00:27:41.8016489+03:00"
+    },
+    {
+      "productId": 4476,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2020-03-08T17:13:37.3580768+02:00"
+    }
+  ]
+}

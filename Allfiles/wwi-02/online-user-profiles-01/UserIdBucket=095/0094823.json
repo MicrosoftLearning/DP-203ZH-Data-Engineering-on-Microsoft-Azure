@@ -1,0 +1,25 @@
+{
+  "userId": 94823,
+  "cartId": "c1056c1b-7416-44f4-a06a-c49ca253c3f3",
+  "preferredProducts": [
+    2829,
+    1246
+  ],
+  "productReviews": [
+    {
+      "productId": 488,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-09-08T16:56:01.7970847+03:00"
+    },
+    {
+      "productId": 2002,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-09-18T15:52:59.9468354+03:00"
+    },
+    {
+      "productId": 4444,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-02-13T14:28:39.6959489+02:00"
+    }
+  ]
+}

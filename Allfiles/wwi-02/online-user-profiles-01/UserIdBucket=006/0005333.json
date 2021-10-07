@@ -1,0 +1,23 @@
+{
+  "userId": 5333,
+  "cartId": "beac7982-feb1-42f4-86fe-b015b23f6619",
+  "preferredProducts": [
+    3318,
+    1033,
+    1894,
+    555,
+    3768
+  ],
+  "productReviews": [
+    {
+      "productId": 3233,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This bypassing keeps them away.",
+      "reviewDate": "2018-10-25T21:29:47.7230131+03:00"
+    },
+    {
+      "productId": 2668,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-02-15T04:22:44.2831567+02:00"
+    }
+  ]
+}

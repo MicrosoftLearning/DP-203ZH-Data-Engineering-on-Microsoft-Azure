@@ -1,0 +1,30 @@
+{
+  "userId": 33211,
+  "cartId": "99ca1b5e-b413-41a7-9094-1ce5665572a3",
+  "preferredProducts": [
+    1102,
+    3448,
+    77,
+    57,
+    1517,
+    26,
+    4198
+  ],
+  "productReviews": [
+    {
+      "productId": 2852,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-01-22T23:19:02.8014081+02:00"
+    },
+    {
+      "productId": 381,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-07-27T22:17:00.7690573+03:00"
+    },
+    {
+      "productId": 4681,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2020-02-28T06:51:31.4411426+02:00"
+    }
+  ]
+}

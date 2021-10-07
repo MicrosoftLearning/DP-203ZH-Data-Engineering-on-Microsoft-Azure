@@ -1,0 +1,37 @@
+{
+  "userId": 3346,
+  "cartId": "010066fe-c5b3-466e-967a-fb9463fe0e51",
+  "preferredProducts": [
+    4235,
+    3292,
+    4121,
+    68,
+    4399,
+    830,
+    425,
+    1373,
+    1034
+  ],
+  "productReviews": [
+    {
+      "productId": 642,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-04-09T02:18:35.9010166+03:00"
+    },
+    {
+      "productId": 4395,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-01-03T23:03:53.1718343+02:00"
+    },
+    {
+      "productId": 1915,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-08-25T09:33:23.9355627+03:00"
+    },
+    {
+      "productId": 3090,
+      "reviewText": "This Coordinator works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-11-14T05:08:25.8192555+02:00"
+    }
+  ]
+}

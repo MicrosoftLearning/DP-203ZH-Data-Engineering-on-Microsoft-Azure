@@ -1,0 +1,26 @@
+{
+  "userId": 82485,
+  "cartId": "e7f6d1e4-6719-4bf8-8c28-f97bcd8091da",
+  "preferredProducts": [
+    1100,
+    27,
+    3319,
+    2311,
+    2593,
+    3128,
+    3582,
+    4489
+  ],
+  "productReviews": [
+    {
+      "productId": 445,
+      "reviewText": "this hard drive is ratty.",
+      "reviewDate": "2019-10-19T18:00:07.7744686+03:00"
+    },
+    {
+      "productId": 3123,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-06-23T14:13:54.0913555+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 10892,
+  "cartId": "e0350356-6399-44c4-a02c-f4f5d28b814e",
+  "preferredProducts": [
+    136,
+    3837,
+    2266,
+    3807
+  ],
+  "productReviews": [
+    {
+      "productId": 2528,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-02-12T08:40:50.222464+02:00"
+    },
+    {
+      "productId": 3129,
+      "reviewText": "This plum works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2016-11-22T01:37:33.1802127+02:00"
+    },
+    {
+      "productId": 3838,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-11-07T07:24:41.2342624+02:00"
+    },
+    {
+      "productId": 3916,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-03-07T23:51:14.2026684+02:00"
+    }
+  ]
+}

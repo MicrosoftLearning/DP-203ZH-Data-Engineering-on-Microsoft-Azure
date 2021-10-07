@@ -1,0 +1,27 @@
+{
+  "userId": 48567,
+  "cartId": "57dba056-0c7c-471c-9bda-cd0d80e2d544",
+  "preferredProducts": [
+    3649,
+    2803,
+    3469,
+    1323
+  ],
+  "productReviews": [
+    {
+      "productId": 3730,
+      "reviewText": "this Configuration is slurpee.",
+      "reviewDate": "2017-04-12T16:59:37.2981441+03:00"
+    },
+    {
+      "productId": 2631,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-02-20T11:28:16.6721995+02:00"
+    },
+    {
+      "productId": 1413,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2016-06-24T07:25:02.699896+03:00"
+    }
+  ]
+}

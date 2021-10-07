@@ -1,0 +1,41 @@
+{
+  "userId": 96381,
+  "cartId": "9a7d45ba-113e-489d-b5aa-de465f3d0f53",
+  "preferredProducts": [
+    3572,
+    2021,
+    4942,
+    1812,
+    2558,
+    955,
+    843,
+    2892
+  ],
+  "productReviews": [
+    {
+      "productId": 3303,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-08-30T20:45:24.1250789+03:00"
+    },
+    {
+      "productId": 1448,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-05-03T05:36:18.1065064+03:00"
+    },
+    {
+      "productId": 2160,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2017-12-30T16:26:02.7567119+02:00"
+    },
+    {
+      "productId": 4151,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-08-08T12:19:45.7555098+03:00"
+    },
+    {
+      "productId": 4972,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-03-25T07:11:32.9623073+02:00"
+    }
+  ]
+}

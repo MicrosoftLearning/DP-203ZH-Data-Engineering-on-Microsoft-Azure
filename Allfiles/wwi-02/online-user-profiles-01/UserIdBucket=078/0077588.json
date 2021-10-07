@@ -1,0 +1,32 @@
+{
+  "userId": 77588,
+  "cartId": "ab65ee44-10ad-4fa8-8bee-bd10366e3663",
+  "preferredProducts": [
+    4563,
+    1012,
+    3421,
+    1154
+  ],
+  "productReviews": [
+    {
+      "productId": 306,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-12-30T07:17:27.3456492+02:00"
+    },
+    {
+      "productId": 4802,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-12-25T13:19:12.8431833+02:00"
+    },
+    {
+      "productId": 97,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-12-07T13:27:46.7073876+02:00"
+    },
+    {
+      "productId": 3944,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-08-24T10:42:47.5066035+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 11838,
+  "cartId": "1722ca77-9d3f-4e2d-ae94-9c143f99cb57",
+  "preferredProducts": [
+    3686,
+    1269
+  ],
+  "productReviews": [
+    {
+      "productId": 2147,
+      "reviewText": "this JSON is whole-grain.",
+      "reviewDate": "2016-11-12T19:45:39.9944609+02:00"
+    },
+    {
+      "productId": 4381,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2019-08-26T22:03:53.1189641+03:00"
+    },
+    {
+      "productId": 1253,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-04-19T20:54:41.375885+03:00"
+    },
+    {
+      "productId": 2595,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2020-01-24T12:10:54.7615007+02:00"
+    },
+    {
+      "productId": 4344,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-06-09T05:58:28.0180716+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 45988,
+  "cartId": "56fb78a2-8010-480f-b512-57a33c749581",
+  "preferredProducts": [
+    53,
+    3159,
+    1929,
+    429,
+    1714,
+    3001
+  ],
+  "productReviews": [
+    {
+      "productId": 2288,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-09-23T12:58:52.6791868+03:00"
+    },
+    {
+      "productId": 628,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-11-17T10:18:33.7660741+02:00"
+    },
+    {
+      "productId": 353,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-04-13T22:29:59.8995795+03:00"
+    }
+  ]
+}

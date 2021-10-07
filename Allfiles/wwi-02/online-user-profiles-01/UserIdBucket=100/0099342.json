@@ -1,0 +1,31 @@
+{
+  "userId": 99342,
+  "cartId": "45807981-5552-4fc2-a9b1-67cfd5561443",
+  "preferredProducts": [
+    2542,
+    1891,
+    2070
+  ],
+  "productReviews": [
+    {
+      "productId": 1349,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-01-07T21:08:51.2001174+02:00"
+    },
+    {
+      "productId": 1512,
+      "reviewText": "this Customizable is amiable.",
+      "reviewDate": "2019-02-04T02:39:22.5163179+02:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-04-07T01:20:36.9949+03:00"
+    },
+    {
+      "productId": 2127,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-03-07T16:23:21.777058+02:00"
+    }
+  ]
+}

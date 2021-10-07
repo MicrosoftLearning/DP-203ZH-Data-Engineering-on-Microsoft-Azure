@@ -1,0 +1,30 @@
+{
+  "userId": 139,
+  "cartId": "1a762d84-2971-4c30-9a69-6a555e2e12ec",
+  "preferredProducts": [
+    3274,
+    2767
+  ],
+  "productReviews": [
+    {
+      "productId": 724,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-08-29T01:59:20.3661443+03:00"
+    },
+    {
+      "productId": 4002,
+      "reviewText": "This USB works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-06-05T17:46:57.8365461+03:00"
+    },
+    {
+      "productId": 1958,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-03-29T15:50:05.2794935+03:00"
+    },
+    {
+      "productId": 879,
+      "reviewText": "This Gateway works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2016-11-05T18:51:01.4658014+02:00"
+    }
+  ]
+}

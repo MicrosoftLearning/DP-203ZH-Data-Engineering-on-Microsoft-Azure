@@ -1,0 +1,29 @@
+{
+  "userId": 87800,
+  "cartId": "0f2da7ec-ca11-46aa-a1a9-8012424f612d",
+  "preferredProducts": [
+    1164,
+    3234,
+    4921,
+    2883,
+    1220,
+    2682
+  ],
+  "productReviews": [
+    {
+      "productId": 3150,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-05-05T10:25:35.9374241+03:00"
+    },
+    {
+      "productId": 4798,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-03-11T17:59:50.3115655+02:00"
+    },
+    {
+      "productId": 3045,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-12-29T13:38:39.5186312+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 22994,
+  "cartId": "2db2ab00-9fd7-4505-aa52-0bf5030f3a64",
+  "preferredProducts": [
+    108,
+    4322,
+    4305,
+    4814,
+    1691,
+    2090,
+    2092
+  ],
+  "productReviews": [
+    {
+      "productId": 1764,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-04-25T15:22:13.7273918+03:00"
+    },
+    {
+      "productId": 4894,
+      "reviewText": "This compress works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2018-05-22T14:58:17.160633+03:00"
+    },
+    {
+      "productId": 3078,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-07-23T15:17:36.1499415+03:00"
+    }
+  ]
+}

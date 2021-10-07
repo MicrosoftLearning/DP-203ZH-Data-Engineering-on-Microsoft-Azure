@@ -1,0 +1,33 @@
+{
+  "userId": 17782,
+  "cartId": "e2999eaa-054b-4b46-96c5-79a736059e5e",
+  "preferredProducts": [
+    2102,
+    184,
+    1424,
+    3564,
+    1324
+  ],
+  "productReviews": [
+    {
+      "productId": 2711,
+      "reviewText": "this Generic is vertical.",
+      "reviewDate": "2019-01-28T17:29:17.4234922+02:00"
+    },
+    {
+      "productId": 195,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-08-27T14:28:31.206405+03:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-10-18T16:50:31.3037518+03:00"
+    },
+    {
+      "productId": 659,
+      "reviewText": "This online works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-11-01T15:26:55.2015303+02:00"
+    }
+  ]
+}

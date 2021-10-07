@@ -1,0 +1,27 @@
+{
+  "userId": 53167,
+  "cartId": "db6822e1-ad96-491c-9dc8-91576306cf90",
+  "preferredProducts": [
+    1181,
+    3297,
+    1333,
+    3274
+  ],
+  "productReviews": [
+    {
+      "productId": 3065,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-08-01T08:40:59.1631094+03:00"
+    },
+    {
+      "productId": 1938,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-03-18T22:30:30.4465915+02:00"
+    },
+    {
+      "productId": 1139,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-03-29T13:33:50.2345121+03:00"
+    }
+  ]
+}

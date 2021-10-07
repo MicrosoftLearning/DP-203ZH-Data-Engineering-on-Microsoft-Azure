@@ -1,0 +1,27 @@
+{
+  "userId": 52711,
+  "cartId": "ee77722c-398d-4969-8618-da85dac0954d",
+  "preferredProducts": [
+    3411,
+    2691,
+    1593,
+    969
+  ],
+  "productReviews": [
+    {
+      "productId": 2112,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-04-04T15:44:03.6726647+03:00"
+    },
+    {
+      "productId": 4666,
+      "reviewText": "this product is flirty.",
+      "reviewDate": "2016-07-08T13:56:28.0523369+03:00"
+    },
+    {
+      "productId": 895,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-02-01T05:47:08.2232044+02:00"
+    }
+  ]
+}

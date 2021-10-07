@@ -1,0 +1,28 @@
+{
+  "userId": 44040,
+  "cartId": "b36a3275-c705-4bc7-886d-bb5714d97bac",
+  "preferredProducts": [
+    1846,
+    387,
+    3654,
+    4035,
+    2574
+  ],
+  "productReviews": [
+    {
+      "productId": 1238,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-04-29T18:18:56.9212819+03:00"
+    },
+    {
+      "productId": 3071,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-06-11T11:49:06.5930035+03:00"
+    },
+    {
+      "productId": 1880,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-05-05T21:15:03.1069797+03:00"
+    }
+  ]
+}

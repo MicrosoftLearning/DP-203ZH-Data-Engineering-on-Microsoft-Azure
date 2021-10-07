@@ -1,0 +1,31 @@
+{
+  "userId": 10480,
+  "cartId": "b55fedf8-4b8a-40bd-ad11-c1951af7a5a2",
+  "preferredProducts": [
+    3987,
+    3648,
+    4828
+  ],
+  "productReviews": [
+    {
+      "productId": 2864,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-01-20T18:22:59.214538+02:00"
+    },
+    {
+      "productId": 1288,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-04-21T17:32:46.1860651+03:00"
+    },
+    {
+      "productId": 567,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-04-07T07:39:18.5167871+03:00"
+    },
+    {
+      "productId": 3277,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-08-16T12:27:38.1527965+03:00"
+    }
+  ]
+}

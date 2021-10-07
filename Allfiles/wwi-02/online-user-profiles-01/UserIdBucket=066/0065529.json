@@ -1,0 +1,33 @@
+{
+  "userId": 65529,
+  "cartId": "4098ddf5-0323-469f-b9ec-7210c82c01ff",
+  "preferredProducts": [
+    318,
+    2361,
+    2184,
+    2547,
+    2869
+  ],
+  "productReviews": [
+    {
+      "productId": 3803,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-10-06T07:41:52.1392536+03:00"
+    },
+    {
+      "productId": 1877,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-04-10T09:35:59.8812419+03:00"
+    },
+    {
+      "productId": 4138,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-07-17T08:32:25.2159563+03:00"
+    },
+    {
+      "productId": 1385,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2016-09-05T13:53:04.0853429+03:00"
+    }
+  ]
+}

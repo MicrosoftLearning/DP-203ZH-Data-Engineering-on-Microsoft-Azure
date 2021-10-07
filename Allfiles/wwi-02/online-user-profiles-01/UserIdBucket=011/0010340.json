@@ -1,0 +1,41 @@
+{
+  "userId": 10340,
+  "cartId": "1ba19742-8784-414e-bb3c-a87edfc4b53f",
+  "preferredProducts": [
+    4311,
+    170,
+    1210,
+    3406,
+    4993,
+    2248,
+    2499,
+    724
+  ],
+  "productReviews": [
+    {
+      "productId": 1763,
+      "reviewText": "this Small Rubber Ball is whole-grain.",
+      "reviewDate": "2016-11-30T02:17:00.878385+02:00"
+    },
+    {
+      "productId": 3552,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-03-20T05:49:38.5235266+02:00"
+    },
+    {
+      "productId": 2936,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-09-01T15:10:48.5128766+03:00"
+    },
+    {
+      "productId": 2182,
+      "reviewText": "this array is hyper.",
+      "reviewDate": "2016-12-17T05:12:23.8643614+02:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-07-06T07:00:31.6713417+03:00"
+    }
+  ]
+}

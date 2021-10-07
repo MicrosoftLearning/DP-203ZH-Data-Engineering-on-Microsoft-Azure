@@ -1,0 +1,26 @@
+{
+  "userId": 12154,
+  "cartId": "7c0b3ef9-2daa-472e-8071-1be39675d130",
+  "preferredProducts": [
+    1006,
+    3371,
+    2403
+  ],
+  "productReviews": [
+    {
+      "productId": 1041,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-03-25T23:46:00.3033635+02:00"
+    },
+    {
+      "productId": 1058,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-07-09T12:38:09.6268335+03:00"
+    },
+    {
+      "productId": 4658,
+      "reviewText": "this synthesizing is honest.",
+      "reviewDate": "2018-04-17T02:20:43.0418472+03:00"
+    }
+  ]
+}

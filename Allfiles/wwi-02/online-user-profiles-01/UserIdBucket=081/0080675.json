@@ -1,0 +1,35 @@
+{
+  "userId": 80675,
+  "cartId": "99040683-25eb-4263-8c78-f43da5e86180",
+  "preferredProducts": [
+    3418,
+    2411,
+    2425,
+    3073,
+    3276,
+    2832,
+    498
+  ],
+  "productReviews": [
+    {
+      "productId": 74,
+      "reviewText": "this alarm is mellow.",
+      "reviewDate": "2017-07-27T02:47:13.5504116+03:00"
+    },
+    {
+      "productId": 1115,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-05-12T08:22:53.8917592+03:00"
+    },
+    {
+      "productId": 3981,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-10-09T23:44:35.3010162+03:00"
+    },
+    {
+      "productId": 1831,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-03-23T10:22:28.517543+02:00"
+    }
+  ]
+}

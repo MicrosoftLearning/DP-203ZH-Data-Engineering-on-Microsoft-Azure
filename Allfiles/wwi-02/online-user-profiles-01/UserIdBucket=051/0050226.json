@@ -1,0 +1,31 @@
+{
+  "userId": 50226,
+  "cartId": "a9c4c5a0-fd9d-470c-9e8b-909938596e02",
+  "preferredProducts": [
+    3277,
+    1193,
+    3861
+  ],
+  "productReviews": [
+    {
+      "productId": 1558,
+      "reviewText": "This Shoes, Grocery & Kids works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-08-28T16:57:06.5896077+03:00"
+    },
+    {
+      "productId": 3,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-08-10T03:31:09.2608665+03:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-04-01T06:07:55.5321684+03:00"
+    },
+    {
+      "productId": 3053,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-09-27T11:26:03.2438166+03:00"
+    }
+  ]
+}

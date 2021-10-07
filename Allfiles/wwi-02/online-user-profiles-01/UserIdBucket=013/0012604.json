@@ -1,0 +1,32 @@
+{
+  "userId": 12604,
+  "cartId": "5ccb2a54-b432-4121-be7b-1aa58add7b87",
+  "preferredProducts": [
+    1369,
+    2463,
+    44,
+    2518
+  ],
+  "productReviews": [
+    {
+      "productId": 3095,
+      "reviewText": "This Technician, does exactly what it's suppose to do.",
+      "reviewDate": "2020-03-14T13:04:09.3837264+02:00"
+    },
+    {
+      "productId": 1218,
+      "reviewText": "this Manors is slurpee.",
+      "reviewDate": "2019-04-05T06:21:58.427911+03:00"
+    },
+    {
+      "productId": 3459,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-12-10T01:13:06.0935443+02:00"
+    },
+    {
+      "productId": 1544,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-02-29T11:35:32.341088+02:00"
+    }
+  ]
+}

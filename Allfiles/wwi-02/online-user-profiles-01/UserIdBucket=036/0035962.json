@@ -1,0 +1,37 @@
+{
+  "userId": 35962,
+  "cartId": "e6e929a6-0a65-4bfe-8ccc-c73a53bcf517",
+  "preferredProducts": [
+    4366,
+    2902,
+    3570,
+    1696
+  ],
+  "productReviews": [
+    {
+      "productId": 2314,
+      "reviewText": "this JSON is slurpee.",
+      "reviewDate": "2019-08-06T15:08:49.0693639+03:00"
+    },
+    {
+      "productId": 4464,
+      "reviewText": "this Grass-roots is slurpee.",
+      "reviewDate": "2017-10-07T18:54:56.4854318+03:00"
+    },
+    {
+      "productId": 2410,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-10-27T16:51:28.7623048+02:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-10-17T11:32:33.5270905+03:00"
+    },
+    {
+      "productId": 1984,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-08-08T14:45:17.5928831+03:00"
+    }
+  ]
+}

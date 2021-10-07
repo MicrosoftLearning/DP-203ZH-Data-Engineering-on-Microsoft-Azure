@@ -1,0 +1,39 @@
+{
+  "userId": 38123,
+  "cartId": "4ada3984-66b3-4dc7-abd6-93e64cdcfa38",
+  "preferredProducts": [
+    3226,
+    4376,
+    4238,
+    180,
+    297,
+    4516
+  ],
+  "productReviews": [
+    {
+      "productId": 2105,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-10-13T09:18:10.3336095+03:00"
+    },
+    {
+      "productId": 2207,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-10-26T21:40:27.8032723+03:00"
+    },
+    {
+      "productId": 3148,
+      "reviewText": "This is a really good Designer.",
+      "reviewDate": "2016-05-21T09:02:45.2984889+03:00"
+    },
+    {
+      "productId": 4490,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-11-05T13:55:12.1575396+02:00"
+    },
+    {
+      "productId": 3485,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-01-08T07:36:37.2903552+02:00"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "userId": 1428,
+  "cartId": "d86c73cd-f3e6-4f88-96dd-5ab13e5c60c9",
+  "preferredProducts": [
+    539,
+    2966,
+    4929,
+    2970,
+    3004,
+    4619
+  ],
+  "productReviews": [
+    {
+      "productId": 228,
+      "reviewText": "this US Dollar is flirty.",
+      "reviewDate": "2019-10-05T20:07:17.7081397+03:00"
+    },
+    {
+      "productId": 1301,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2020-04-26T15:13:02.101917+03:00"
+    },
+    {
+      "productId": 2389,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-10-09T10:30:05.4777199+03:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-03-10T17:14:08.5276916+02:00"
+    },
+    {
+      "productId": 4777,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-07-15T10:32:11.4133952+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 8148,
+  "cartId": "818af5ae-605c-4ff5-9de9-2cd25d46cbd7",
+  "preferredProducts": [
+    3554,
+    373,
+    1504,
+    334,
+    3166,
+    1332,
+    1660
+  ],
+  "productReviews": [
+    {
+      "productId": 4123,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-09-23T07:16:34.0543024+03:00"
+    },
+    {
+      "productId": 3034,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-09-02T22:24:59.0478541+03:00"
+    },
+    {
+      "productId": 4128,
+      "reviewText": "This Crescent works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2016-08-03T01:44:20.287034+03:00"
+    }
+  ]
+}

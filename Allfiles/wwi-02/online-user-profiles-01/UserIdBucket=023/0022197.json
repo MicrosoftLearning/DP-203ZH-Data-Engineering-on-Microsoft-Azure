@@ -1,0 +1,23 @@
+{
+  "userId": 22197,
+  "cartId": "1b9b6383-8a9c-4d90-aa6f-ef6650d8535c",
+  "preferredProducts": [
+    2923,
+    4972,
+    2095,
+    4943,
+    1068
+  ],
+  "productReviews": [
+    {
+      "productId": 2167,
+      "reviewText": "this COM is complimentary.",
+      "reviewDate": "2017-07-24T16:25:23.0999884+03:00"
+    },
+    {
+      "productId": 3900,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-05-20T05:18:12.2780841+03:00"
+    }
+  ]
+}

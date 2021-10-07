@@ -1,0 +1,35 @@
+{
+  "userId": 53125,
+  "cartId": "e8334ffd-6d99-4d26-962b-b7830d24cf5f",
+  "preferredProducts": [
+    4487,
+    959,
+    193,
+    3739,
+    2411,
+    2051,
+    2562
+  ],
+  "productReviews": [
+    {
+      "productId": 456,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2019-02-18T21:26:46.3159895+02:00"
+    },
+    {
+      "productId": 355,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-05-06T09:48:43.043019+03:00"
+    },
+    {
+      "productId": 4794,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-03-09T13:00:04.4997218+02:00"
+    },
+    {
+      "productId": 2462,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-05T08:50:31.0982574+02:00"
+    }
+  ]
+}

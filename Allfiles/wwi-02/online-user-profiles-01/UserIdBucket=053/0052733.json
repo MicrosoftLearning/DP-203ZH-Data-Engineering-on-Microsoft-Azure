@@ -1,0 +1,25 @@
+{
+  "userId": 52733,
+  "cartId": "12a54bcf-c3e8-4006-bdf4-db9166e42dee",
+  "preferredProducts": [
+    773,
+    4805,
+    2455,
+    3247,
+    1088,
+    1749,
+    1199
+  ],
+  "productReviews": [
+    {
+      "productId": 3297,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-01-24T11:05:55.6181637+02:00"
+    },
+    {
+      "productId": 427,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-06-28T16:44:04.6363148+03:00"
+    }
+  ]
+}

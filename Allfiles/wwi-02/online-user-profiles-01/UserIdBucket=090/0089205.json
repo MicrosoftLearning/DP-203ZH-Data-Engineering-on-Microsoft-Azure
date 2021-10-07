@@ -1,0 +1,33 @@
+{
+  "userId": 89205,
+  "cartId": "657bd823-a9b4-44c4-93dc-47a74823379f",
+  "preferredProducts": [
+    1959,
+    3222,
+    3540,
+    709,
+    4955
+  ],
+  "productReviews": [
+    {
+      "productId": 1261,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-09-23T16:33:43.7098169+03:00"
+    },
+    {
+      "productId": 761,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-12-29T07:27:11.1328624+02:00"
+    },
+    {
+      "productId": 1996,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-03-15T04:29:07.9715361+02:00"
+    },
+    {
+      "productId": 3069,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-05-15T03:05:54.4956699+03:00"
+    }
+  ]
+}

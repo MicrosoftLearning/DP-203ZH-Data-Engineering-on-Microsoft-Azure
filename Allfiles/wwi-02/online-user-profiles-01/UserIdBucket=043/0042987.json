@@ -1,0 +1,23 @@
+{
+  "userId": 42987,
+  "cartId": "213ed454-6b67-43f8-9870-12e7d299fa30",
+  "preferredProducts": [
+    368,
+    3836,
+    4818,
+    2078,
+    2884
+  ],
+  "productReviews": [
+    {
+      "productId": 1771,
+      "reviewText": "this Solutions is honest.",
+      "reviewDate": "2020-02-20T17:03:17.9765777+02:00"
+    },
+    {
+      "productId": 3424,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2018-11-19T06:20:36.3872589+02:00"
+    }
+  ]
+}

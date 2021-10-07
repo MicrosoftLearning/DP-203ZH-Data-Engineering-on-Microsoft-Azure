@@ -1,0 +1,37 @@
+{
+  "userId": 56604,
+  "cartId": "ab1c724c-8934-42f0-be54-8b825a0fa8b8",
+  "preferredProducts": [
+    367,
+    3336,
+    750,
+    1797,
+    2983,
+    3951,
+    564,
+    4990,
+    3904
+  ],
+  "productReviews": [
+    {
+      "productId": 1487,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-08-15T02:00:27.2819831+03:00"
+    },
+    {
+      "productId": 2778,
+      "reviewText": "this responsive is slurpee.",
+      "reviewDate": "2017-02-11T05:26:41.6712457+02:00"
+    },
+    {
+      "productId": 2513,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-09-24T19:13:43.5273273+03:00"
+    },
+    {
+      "productId": 1866,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-01-11T20:08:23.039176+02:00"
+    }
+  ]
+}

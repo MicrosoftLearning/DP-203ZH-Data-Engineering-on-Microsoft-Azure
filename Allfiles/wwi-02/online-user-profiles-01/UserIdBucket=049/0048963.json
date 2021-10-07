@@ -1,0 +1,32 @@
+{
+  "userId": 48963,
+  "cartId": "e847d96b-d600-4ec6-9838-78699ab53d10",
+  "preferredProducts": [
+    838,
+    4683,
+    3059,
+    3544,
+    2526,
+    414,
+    2799,
+    3054,
+    1619
+  ],
+  "productReviews": [
+    {
+      "productId": 3972,
+      "reviewText": "this lavender is nifty.",
+      "reviewDate": "2018-06-07T12:24:11.3068798+03:00"
+    },
+    {
+      "productId": 2553,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-08-15T15:08:40.7141182+03:00"
+    },
+    {
+      "productId": 4238,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-06-22T15:32:34.7969898+03:00"
+    }
+  ]
+}

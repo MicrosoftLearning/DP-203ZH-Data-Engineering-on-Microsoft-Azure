@@ -1,0 +1,29 @@
+{
+  "userId": 87565,
+  "cartId": "e718aedd-22bc-435c-8fe1-2108d56d3050",
+  "preferredProducts": [
+    1219,
+    1053,
+    3272,
+    2087,
+    2705,
+    3275
+  ],
+  "productReviews": [
+    {
+      "productId": 2649,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-10-15T02:57:24.9439295+03:00"
+    },
+    {
+      "productId": 1729,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-07-04T03:43:59.4383043+03:00"
+    },
+    {
+      "productId": 2384,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-08-30T01:18:21.2564916+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 83893,
+  "cartId": "424f28c3-58a1-446e-9f57-b05a697cab8a",
+  "preferredProducts": [
+    1032,
+    2568,
+    2528
+  ],
+  "productReviews": [
+    {
+      "productId": 4669,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-07-10T08:00:43.4003778+03:00"
+    },
+    {
+      "productId": 19,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-10-06T04:52:06.9306435+03:00"
+    },
+    {
+      "productId": 1052,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-06-27T17:32:21.2087018+03:00"
+    }
+  ]
+}

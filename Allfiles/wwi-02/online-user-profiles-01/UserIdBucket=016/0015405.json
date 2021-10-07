@@ -1,0 +1,30 @@
+{
+  "userId": 15405,
+  "cartId": "84e76723-331c-405f-8572-868573cd2b8b",
+  "preferredProducts": [
+    1731,
+    979,
+    3688,
+    4261,
+    1089,
+    2762,
+    4784
+  ],
+  "productReviews": [
+    {
+      "productId": 4961,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-04-08T03:56:49.411894+03:00"
+    },
+    {
+      "productId": 374,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-10-28T08:42:59.6817295+02:00"
+    },
+    {
+      "productId": 3508,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-09-24T11:53:22.7246299+03:00"
+    }
+  ]
+}

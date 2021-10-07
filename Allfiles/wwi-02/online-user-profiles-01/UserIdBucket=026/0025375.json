@@ -1,0 +1,38 @@
+{
+  "userId": 25375,
+  "cartId": "8810f3d5-7680-42a9-b89c-eb964bea5880",
+  "preferredProducts": [
+    3055,
+    3125,
+    1322,
+    2717,
+    411,
+    295,
+    1638,
+    2765,
+    3262,
+    3473
+  ],
+  "productReviews": [
+    {
+      "productId": 3557,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-08-20T06:34:57.4237326+03:00"
+    },
+    {
+      "productId": 3270,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-04-10T10:00:44.5741152+03:00"
+    },
+    {
+      "productId": 237,
+      "reviewText": "this Canadian Dollar is tasty.",
+      "reviewDate": "2018-06-09T07:13:35.5923825+03:00"
+    },
+    {
+      "productId": 2992,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2020-01-27T02:00:36.0896529+02:00"
+    }
+  ]
+}

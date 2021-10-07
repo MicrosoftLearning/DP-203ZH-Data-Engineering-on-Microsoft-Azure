@@ -1,0 +1,26 @@
+{
+  "userId": 8001,
+  "cartId": "c1f39ebe-9969-421f-af50-15c539abc6d1",
+  "preferredProducts": [
+    2180,
+    3569,
+    2492,
+    4013,
+    3556,
+    137,
+    3759,
+    4908
+  ],
+  "productReviews": [
+    {
+      "productId": 3222,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-06-23T02:16:17.1760488+03:00"
+    },
+    {
+      "productId": 2127,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-03-29T20:55:20.6756288+02:00"
+    }
+  ]
+}

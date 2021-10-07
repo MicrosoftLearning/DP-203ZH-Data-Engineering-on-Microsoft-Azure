@@ -1,0 +1,27 @@
+{
+  "userId": 99790,
+  "cartId": "e9f31d59-3e3d-442b-86b1-853820f5d1dd",
+  "preferredProducts": [
+    2374,
+    735,
+    3443,
+    1260,
+    4166,
+    3348,
+    2261,
+    4802,
+    1538
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-05-01T13:12:27.5109034+03:00"
+    },
+    {
+      "productId": 2033,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2020-02-17T15:22:25.8435155+02:00"
+    }
+  ]
+}

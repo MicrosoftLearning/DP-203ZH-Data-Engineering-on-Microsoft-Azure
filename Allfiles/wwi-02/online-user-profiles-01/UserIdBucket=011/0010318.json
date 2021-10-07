@@ -1,0 +1,31 @@
+{
+  "userId": 10318,
+  "cartId": "5ac23c09-86db-49ef-a7fb-c80f4853cf33",
+  "preferredProducts": [
+    2050,
+    432,
+    2337,
+    2886,
+    3563,
+    931,
+    1449,
+    1866
+  ],
+  "productReviews": [
+    {
+      "productId": 4791,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-08-11T22:47:56.7463494+03:00"
+    },
+    {
+      "productId": 1908,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-08-20T03:46:20.9331902+03:00"
+    },
+    {
+      "productId": 4882,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-11-21T04:10:30.9350672+02:00"
+    }
+  ]
+}

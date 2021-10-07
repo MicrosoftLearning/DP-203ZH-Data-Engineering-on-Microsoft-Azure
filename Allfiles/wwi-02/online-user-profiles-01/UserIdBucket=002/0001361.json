@@ -1,0 +1,28 @@
+{
+  "userId": 1361,
+  "cartId": "ff268ebb-67bd-49cc-b592-af1fd868d66d",
+  "preferredProducts": [
+    2207,
+    771,
+    1125,
+    3273,
+    4464
+  ],
+  "productReviews": [
+    {
+      "productId": 624,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-03-08T20:17:22.271387+02:00"
+    },
+    {
+      "productId": 1872,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-12-06T02:05:25.5135554+02:00"
+    },
+    {
+      "productId": 1155,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2016-11-03T20:56:05.5936229+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 42078,
+  "cartId": "adb18b15-eb71-4cb0-8e5c-b9545ece99ba",
+  "preferredProducts": [
+    2271,
+    4432,
+    4870,
+    1851,
+    1349,
+    4651,
+    4040,
+    1051,
+    1328
+  ],
+  "productReviews": [
+    {
+      "productId": 3573,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-06-08T03:42:40.0469178+03:00"
+    },
+    {
+      "productId": 2116,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-11-06T03:31:59.0034079+02:00"
+    },
+    {
+      "productId": 3989,
+      "reviewText": "this internet solution is tasty.",
+      "reviewDate": "2017-08-20T18:53:04.2539869+03:00"
+    },
+    {
+      "productId": 1447,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-07-09T21:14:38.4323827+03:00"
+    }
+  ]
+}

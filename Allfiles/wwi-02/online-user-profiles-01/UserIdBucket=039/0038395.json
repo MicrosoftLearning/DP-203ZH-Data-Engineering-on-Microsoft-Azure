@@ -1,0 +1,35 @@
+{
+  "userId": 38395,
+  "cartId": "a79b8e97-9c33-4b1b-83a3-b3c2fb52a986",
+  "preferredProducts": [
+    713,
+    1412,
+    1540,
+    1330,
+    904,
+    2919,
+    2309
+  ],
+  "productReviews": [
+    {
+      "productId": 2238,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-03-13T09:10:48.5776691+02:00"
+    },
+    {
+      "productId": 4666,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-09-07T01:06:39.2920126+03:00"
+    },
+    {
+      "productId": 3954,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-09-08T21:37:14.819949+03:00"
+    },
+    {
+      "productId": 4337,
+      "reviewText": "this primary is slurpee.",
+      "reviewDate": "2017-12-31T18:38:03.6260395+02:00"
+    }
+  ]
+}

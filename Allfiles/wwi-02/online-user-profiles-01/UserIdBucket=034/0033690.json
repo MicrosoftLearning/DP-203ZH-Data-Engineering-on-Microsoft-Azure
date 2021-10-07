@@ -1,0 +1,40 @@
+{
+  "userId": 33690,
+  "cartId": "3de953a9-5a7c-4ca4-8d70-a989efa598ed",
+  "preferredProducts": [
+    184,
+    3526,
+    4956,
+    1349,
+    93,
+    3129,
+    4415
+  ],
+  "productReviews": [
+    {
+      "productId": 2414,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-12-23T15:24:52.672889+02:00"
+    },
+    {
+      "productId": 2670,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-04-07T02:51:31.891203+03:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-07-31T05:32:00.9028397+03:00"
+    },
+    {
+      "productId": 372,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-12-15T01:21:33.4974836+02:00"
+    },
+    {
+      "productId": 607,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-10-15T17:53:50.0846656+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 43722,
+  "cartId": "75628efe-0862-401f-bdb9-25f8a2b8f7a9",
+  "preferredProducts": [
+    1316,
+    2416,
+    1238
+  ],
+  "productReviews": [
+    {
+      "productId": 3044,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-10-22T20:57:02.4161545+03:00"
+    },
+    {
+      "productId": 477,
+      "reviewText": "this back-end is nifty.",
+      "reviewDate": "2018-05-05T06:01:25.9425321+03:00"
+    },
+    {
+      "productId": 2564,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-06-13T00:25:15.7002103+03:00"
+    }
+  ]
+}

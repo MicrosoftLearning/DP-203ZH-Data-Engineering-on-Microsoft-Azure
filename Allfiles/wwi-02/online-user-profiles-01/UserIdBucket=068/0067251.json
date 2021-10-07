@@ -1,0 +1,30 @@
+{
+  "userId": 67251,
+  "cartId": "43c7b472-e60c-40aa-a8cd-09563e72e043",
+  "preferredProducts": [
+    4013,
+    2459,
+    3750,
+    457,
+    2465,
+    2192,
+    2940
+  ],
+  "productReviews": [
+    {
+      "productId": 1625,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-01-04T16:29:33.463377+02:00"
+    },
+    {
+      "productId": 4618,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-08-21T05:12:06.5894542+03:00"
+    },
+    {
+      "productId": 2036,
+      "reviewText": "This generate works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-02-15T17:49:03.2635601+02:00"
+    }
+  ]
+}

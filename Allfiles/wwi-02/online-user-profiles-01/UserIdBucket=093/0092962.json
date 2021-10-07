@@ -1,0 +1,23 @@
+{
+  "userId": 92962,
+  "cartId": "f61b1f36-5176-483d-887b-2995918a6676",
+  "preferredProducts": [
+    3959,
+    2284,
+    2457,
+    4333,
+    3517
+  ],
+  "productReviews": [
+    {
+      "productId": 3120,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-06-02T05:39:35.3157676+03:00"
+    },
+    {
+      "productId": 459,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-01-02T13:59:30.6158655+02:00"
+    }
+  ]
+}

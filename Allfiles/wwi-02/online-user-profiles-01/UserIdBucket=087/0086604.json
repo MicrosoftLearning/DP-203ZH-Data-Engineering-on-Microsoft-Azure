@@ -1,0 +1,38 @@
+{
+  "userId": 86604,
+  "cartId": "177655b9-b08a-40df-8b8d-ec4ba3a34892",
+  "preferredProducts": [
+    3289,
+    2060,
+    590,
+    3792,
+    1626
+  ],
+  "productReviews": [
+    {
+      "productId": 69,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-06-11T04:52:26.5865177+03:00"
+    },
+    {
+      "productId": 4100,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-04-05T07:22:11.3814282+03:00"
+    },
+    {
+      "productId": 459,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-11-01T09:14:52.0033851+02:00"
+    },
+    {
+      "productId": 3944,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-05-31T20:06:08.6078283+03:00"
+    },
+    {
+      "productId": 2341,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-08-27T08:57:56.9556699+03:00"
+    }
+  ]
+}

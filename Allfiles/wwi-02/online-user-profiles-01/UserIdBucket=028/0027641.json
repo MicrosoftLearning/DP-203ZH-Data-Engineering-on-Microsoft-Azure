@@ -1,0 +1,38 @@
+{
+  "userId": 27641,
+  "cartId": "df85da84-b2e5-47d9-9ee0-7f6ef85318d7",
+  "preferredProducts": [
+    1233,
+    1117,
+    2919,
+    1396,
+    3883,
+    3173,
+    417,
+    4924,
+    3052,
+    487
+  ],
+  "productReviews": [
+    {
+      "productId": 1729,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-02-17T16:50:32.2941441+02:00"
+    },
+    {
+      "productId": 3784,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-05-16T03:19:32.4275071+03:00"
+    },
+    {
+      "productId": 1729,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-04-05T19:37:21.6874658+03:00"
+    },
+    {
+      "productId": 2032,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-12-14T19:13:40.8175252+02:00"
+    }
+  ]
+}

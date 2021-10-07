@@ -1,0 +1,23 @@
+{
+  "userId": 2892,
+  "cartId": "646f400d-dd1f-44d3-afe7-a7e909c47db1",
+  "preferredProducts": [
+    1989,
+    1773,
+    1992,
+    4123,
+    1438
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-07-17T10:34:19.9249276+03:00"
+    },
+    {
+      "productId": 3963,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-01-27T14:42:21.2159827+02:00"
+    }
+  ]
+}

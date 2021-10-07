@@ -1,0 +1,32 @@
+{
+  "userId": 42369,
+  "cartId": "bb95651b-3ad7-43f1-b4e6-e4ff64137e2e",
+  "preferredProducts": [
+    543,
+    132,
+    4311,
+    2862,
+    361,
+    3067,
+    4417,
+    2820,
+    3175
+  ],
+  "productReviews": [
+    {
+      "productId": 3319,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-10-08T05:17:29.4345673+03:00"
+    },
+    {
+      "productId": 2513,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-09-30T13:24:47.6663525+03:00"
+    },
+    {
+      "productId": 4109,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-02-05T06:20:18.9881934+02:00"
+    }
+  ]
+}

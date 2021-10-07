@@ -1,0 +1,27 @@
+{
+  "userId": 29740,
+  "cartId": "2caa17de-5019-4039-b348-fc46ded18401",
+  "preferredProducts": [
+    29,
+    2849,
+    835,
+    700
+  ],
+  "productReviews": [
+    {
+      "productId": 3115,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-10-31T10:41:24.2001034+02:00"
+    },
+    {
+      "productId": 3671,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-11-18T17:13:18.8340338+02:00"
+    },
+    {
+      "productId": 2719,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-06-01T05:27:28.7474115+03:00"
+    }
+  ]
+}

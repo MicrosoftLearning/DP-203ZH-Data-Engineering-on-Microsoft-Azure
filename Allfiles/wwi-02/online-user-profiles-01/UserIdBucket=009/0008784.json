@@ -1,0 +1,32 @@
+{
+  "userId": 8784,
+  "cartId": "e5443f80-6da9-4f5c-9ce7-d6b3259a0578",
+  "preferredProducts": [
+    1089,
+    15,
+    4025,
+    261,
+    278,
+    4023,
+    259,
+    4307,
+    2578
+  ],
+  "productReviews": [
+    {
+      "productId": 774,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-03-15T10:05:39.1999422+02:00"
+    },
+    {
+      "productId": 4886,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2018-02-26T23:14:30.7147982+02:00"
+    },
+    {
+      "productId": 2110,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-08-29T06:45:30.9754404+03:00"
+    }
+  ]
+}

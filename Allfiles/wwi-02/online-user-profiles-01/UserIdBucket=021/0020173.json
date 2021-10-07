@@ -1,0 +1,25 @@
+{
+  "userId": 20173,
+  "cartId": "ea85d0f5-2de6-4bf9-ace6-f4aa5cd62444",
+  "preferredProducts": [
+    4090,
+    1544
+  ],
+  "productReviews": [
+    {
+      "productId": 4980,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-02-12T13:12:37.3526551+02:00"
+    },
+    {
+      "productId": 3465,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-05-21T04:26:52.1326857+03:00"
+    },
+    {
+      "productId": 953,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-12-29T21:06:20.2995001+02:00"
+    }
+  ]
+}

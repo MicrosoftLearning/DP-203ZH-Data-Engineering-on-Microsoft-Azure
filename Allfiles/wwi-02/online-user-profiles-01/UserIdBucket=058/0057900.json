@@ -1,0 +1,31 @@
+{
+  "userId": 57900,
+  "cartId": "ed9f7a54-2e60-4728-93f6-55134859e1b7",
+  "preferredProducts": [
+    1112,
+    569,
+    4641
+  ],
+  "productReviews": [
+    {
+      "productId": 180,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-04-05T10:06:40.9042928+03:00"
+    },
+    {
+      "productId": 237,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-05-19T09:47:36.6970308+03:00"
+    },
+    {
+      "productId": 4314,
+      "reviewText": "this Curve is mellow.",
+      "reviewDate": "2019-01-20T18:46:19.1599268+02:00"
+    },
+    {
+      "productId": 4918,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-01-01T23:45:38.7992375+02:00"
+    }
+  ]
+}

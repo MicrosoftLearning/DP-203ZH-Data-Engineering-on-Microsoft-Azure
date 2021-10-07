@@ -1,0 +1,32 @@
+{
+  "userId": 91977,
+  "cartId": "9891d03e-f40f-4db2-84bf-6580982fcf9f",
+  "preferredProducts": [
+    335,
+    1183,
+    2283,
+    3229
+  ],
+  "productReviews": [
+    {
+      "productId": 3761,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-04-17T09:38:47.2905219+03:00"
+    },
+    {
+      "productId": 2526,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-01-25T09:50:02.1418254+02:00"
+    },
+    {
+      "productId": 2027,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-02-02T16:26:02.3844781+02:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-02-05T13:52:12.9053525+02:00"
+    }
+  ]
+}

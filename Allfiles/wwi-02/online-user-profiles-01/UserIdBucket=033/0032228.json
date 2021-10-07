@@ -1,0 +1,41 @@
+{
+  "userId": 32228,
+  "cartId": "e4db6145-d25f-4952-8f05-17167630cabe",
+  "preferredProducts": [
+    234,
+    2425,
+    4370,
+    4576,
+    776,
+    1722,
+    4287,
+    1483
+  ],
+  "productReviews": [
+    {
+      "productId": 1709,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-06-04T22:53:36.8783199+03:00"
+    },
+    {
+      "productId": 4396,
+      "reviewText": "this Music & Garden is top-notch.",
+      "reviewDate": "2016-06-23T14:36:12.6387144+03:00"
+    },
+    {
+      "productId": 4206,
+      "reviewText": "This Front-line works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-10-06T14:24:58.3082785+03:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-04-19T23:47:32.6325166+03:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-04-22T18:40:57.0438181+03:00"
+    }
+  ]
+}

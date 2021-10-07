@@ -1,0 +1,35 @@
+{
+  "userId": 76231,
+  "cartId": "659fa387-548d-4221-a745-d047db0ad0d0",
+  "preferredProducts": [
+    4098,
+    4785,
+    1484,
+    2038,
+    979,
+    4758,
+    3242
+  ],
+  "productReviews": [
+    {
+      "productId": 3503,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-11-28T01:53:23.5699369+02:00"
+    },
+    {
+      "productId": 3686,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-09-02T01:57:43.5618956+03:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-10-10T02:21:08.512637+03:00"
+    },
+    {
+      "productId": 2704,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-03-19T18:18:59.0367504+02:00"
+    }
+  ]
+}

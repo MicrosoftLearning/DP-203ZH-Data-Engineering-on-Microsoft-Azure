@@ -1,0 +1,23 @@
+{
+  "userId": 88835,
+  "cartId": "7575670a-a88c-4b82-85db-99368fec34a0",
+  "preferredProducts": [
+    50,
+    1811,
+    1791,
+    4295,
+    4478
+  ],
+  "productReviews": [
+    {
+      "productId": 3798,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-10-05T08:59:45.4498442+03:00"
+    },
+    {
+      "productId": 1222,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-08-25T16:10:45.2965232+03:00"
+    }
+  ]
+}

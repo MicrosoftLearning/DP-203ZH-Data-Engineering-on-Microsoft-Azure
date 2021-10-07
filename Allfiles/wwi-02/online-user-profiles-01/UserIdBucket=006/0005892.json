@@ -1,0 +1,30 @@
+{
+  "userId": 5892,
+  "cartId": "7402697a-8ac5-4228-97b1-0454ce073405",
+  "preferredProducts": [
+    1622,
+    2948,
+    2874,
+    949,
+    2118,
+    4596,
+    641
+  ],
+  "productReviews": [
+    {
+      "productId": 1384,
+      "reviewText": "this haptic is nifty.",
+      "reviewDate": "2019-04-03T07:54:20.6211938+03:00"
+    },
+    {
+      "productId": 3207,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-08-09T20:08:30.0827575+03:00"
+    },
+    {
+      "productId": 4125,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-08-24T02:48:54.0922355+03:00"
+    }
+  ]
+}

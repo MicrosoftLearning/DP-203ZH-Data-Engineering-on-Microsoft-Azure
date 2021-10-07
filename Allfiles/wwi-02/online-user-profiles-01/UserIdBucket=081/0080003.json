@@ -1,0 +1,22 @@
+{
+  "userId": 80003,
+  "cartId": "2cdc7d54-5458-48a1-924f-a50faa48dfdd",
+  "preferredProducts": [
+    3049,
+    1846,
+    1746,
+    1477
+  ],
+  "productReviews": [
+    {
+      "productId": 2054,
+      "reviewText": "This Course works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-12-11T11:06:40.0089346+02:00"
+    },
+    {
+      "productId": 4275,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2020-02-28T10:26:28.6862195+02:00"
+    }
+  ]
+}

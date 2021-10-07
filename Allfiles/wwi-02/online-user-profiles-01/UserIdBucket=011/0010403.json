@@ -1,0 +1,28 @@
+{
+  "userId": 10403,
+  "cartId": "b4fb1419-fa94-49a6-8a0f-39ec77871e26",
+  "preferredProducts": [
+    959,
+    1507,
+    1763,
+    2943,
+    497
+  ],
+  "productReviews": [
+    {
+      "productId": 1122,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-05-25T06:22:49.0792243+03:00"
+    },
+    {
+      "productId": 4143,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-11-10T15:20:34.5718317+02:00"
+    },
+    {
+      "productId": 3074,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-03-23T05:22:57.3206881+02:00"
+    }
+  ]
+}

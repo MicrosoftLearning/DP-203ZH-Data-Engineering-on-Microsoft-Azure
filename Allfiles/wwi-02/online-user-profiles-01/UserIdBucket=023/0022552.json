@@ -1,0 +1,30 @@
+{
+  "userId": 22552,
+  "cartId": "67c1f135-b645-4e6a-9b0a-70c189728c62",
+  "preferredProducts": [
+    1480,
+    4506,
+    1255,
+    4355,
+    1106,
+    2146,
+    3866
+  ],
+  "productReviews": [
+    {
+      "productId": 3,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2016-07-10T17:36:08.0941813+03:00"
+    },
+    {
+      "productId": 3930,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-01-02T22:44:43.4468806+02:00"
+    },
+    {
+      "productId": 4485,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-03-13T02:09:37.3941666+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 94985,
+  "cartId": "9313d58d-f15f-4818-a408-1d850e24930b",
+  "preferredProducts": [
+    1669,
+    4995,
+    485,
+    1848,
+    3950,
+    3315
+  ],
+  "productReviews": [
+    {
+      "productId": 4238,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-12-08T12:30:32.7460719+02:00"
+    },
+    {
+      "productId": 86,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-10-24T05:17:45.8338116+03:00"
+    },
+    {
+      "productId": 1908,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-08-31T07:01:09.3166486+03:00"
+    }
+  ]
+}

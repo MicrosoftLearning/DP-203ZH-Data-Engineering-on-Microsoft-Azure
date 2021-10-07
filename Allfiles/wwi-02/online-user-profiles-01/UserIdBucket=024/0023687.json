@@ -1,0 +1,32 @@
+{
+  "userId": 23687,
+  "cartId": "17f35285-59e1-4386-802b-85b867be682a",
+  "preferredProducts": [
+    663,
+    507,
+    2778,
+    2243,
+    3520,
+    4317,
+    2903,
+    3784,
+    1130
+  ],
+  "productReviews": [
+    {
+      "productId": 3297,
+      "reviewText": "this forecast is mellow.",
+      "reviewDate": "2016-09-09T23:46:39.4486589+03:00"
+    },
+    {
+      "productId": 3921,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-07-17T15:23:23.8663899+03:00"
+    },
+    {
+      "productId": 926,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2016-10-05T03:03:28.167205+03:00"
+    }
+  ]
+}

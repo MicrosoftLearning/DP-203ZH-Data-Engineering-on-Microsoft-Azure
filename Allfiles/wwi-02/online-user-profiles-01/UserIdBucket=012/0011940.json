@@ -1,0 +1,28 @@
+{
+  "userId": 11940,
+  "cartId": "4ecc4943-cd1b-462f-ab26-07cfe3d5436b",
+  "preferredProducts": [
+    891,
+    2513,
+    1036,
+    1794,
+    762
+  ],
+  "productReviews": [
+    {
+      "productId": 3580,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-10-10T12:20:00.1385123+03:00"
+    },
+    {
+      "productId": 2176,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-09-27T09:58:30.1509492+03:00"
+    },
+    {
+      "productId": 2551,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-10-24T20:28:49.4933721+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 10095,
+  "cartId": "a9fa556d-986c-4b40-9e8c-872738600942",
+  "preferredProducts": [
+    1905,
+    4367,
+    566
+  ],
+  "productReviews": [
+    {
+      "productId": 3478,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-06-17T23:40:40.2934407+03:00"
+    },
+    {
+      "productId": 12,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-01-17T18:22:56.1366041+02:00"
+    },
+    {
+      "productId": 982,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-03-27T08:07:25.2609526+03:00"
+    },
+    {
+      "productId": 2175,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-01-22T13:07:40.8960181+02:00"
+    }
+  ]
+}

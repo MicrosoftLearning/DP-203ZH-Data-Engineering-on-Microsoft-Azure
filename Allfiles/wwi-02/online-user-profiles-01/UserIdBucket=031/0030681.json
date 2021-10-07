@@ -1,0 +1,29 @@
+{
+  "userId": 30681,
+  "cartId": "92780d46-0476-4810-ada6-4e1e3e35baab",
+  "preferredProducts": [
+    4236,
+    4402,
+    3636,
+    1841,
+    3371,
+    3400
+  ],
+  "productReviews": [
+    {
+      "productId": 83,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-08-14T15:50:45.4187565+03:00"
+    },
+    {
+      "productId": 4755,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-06-26T04:11:31.1087665+03:00"
+    },
+    {
+      "productId": 1153,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-11-05T13:38:09.2531255+02:00"
+    }
+  ]
+}

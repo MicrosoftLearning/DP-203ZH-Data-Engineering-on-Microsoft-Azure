@@ -1,0 +1,28 @@
+{
+  "userId": 23946,
+  "cartId": "b8b1a21b-b981-4247-946f-e2514de450fc",
+  "preferredProducts": [
+    2004,
+    693,
+    4414,
+    1989,
+    1018
+  ],
+  "productReviews": [
+    {
+      "productId": 1963,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2016-08-19T12:28:25.6283425+03:00"
+    },
+    {
+      "productId": 537,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-06-10T11:30:26.5065661+03:00"
+    },
+    {
+      "productId": 2748,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-12-02T15:23:19.630142+02:00"
+    }
+  ]
+}

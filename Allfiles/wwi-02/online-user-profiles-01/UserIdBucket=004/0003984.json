@@ -1,0 +1,33 @@
+{
+  "userId": 3984,
+  "cartId": "87eff4e7-dbae-4a30-bc52-1ebc38cfafaa",
+  "preferredProducts": [
+    363,
+    3616,
+    4109,
+    3110,
+    2726
+  ],
+  "productReviews": [
+    {
+      "productId": 739,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-10-07T02:45:22.1607515+03:00"
+    },
+    {
+      "productId": 1949,
+      "reviewText": "this Home Loan Account is top-notch.",
+      "reviewDate": "2020-03-26T01:39:03.5024471+02:00"
+    },
+    {
+      "productId": 2012,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-09-17T18:59:29.8198006+03:00"
+    },
+    {
+      "productId": 3953,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-04-22T01:16:28.1329791+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 2189,
+  "cartId": "fedee268-777f-4bc5-85ec-48514ecaba28",
+  "preferredProducts": [
+    3806,
+    1325,
+    2156,
+    4672,
+    1041,
+    1360,
+    2270,
+    3299,
+    1048,
+    2258
+  ],
+  "productReviews": [
+    {
+      "productId": 1768,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-08-24T21:18:47.2116128+03:00"
+    },
+    {
+      "productId": 2857,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-11-10T17:19:35.8148652+02:00"
+    },
+    {
+      "productId": 84,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-10-15T07:27:08.6318821+03:00"
+    }
+  ]
+}

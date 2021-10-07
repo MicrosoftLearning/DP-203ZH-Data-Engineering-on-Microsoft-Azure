@@ -1,0 +1,33 @@
+{
+  "userId": 23416,
+  "cartId": "beafef10-c7b1-455e-8018-1c2249c2e405",
+  "preferredProducts": [
+    3265,
+    4238,
+    2201,
+    3516,
+    1369,
+    3607,
+    2984,
+    3560,
+    137,
+    3043
+  ],
+  "productReviews": [
+    {
+      "productId": 2486,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2016-05-19T17:30:30.8738998+03:00"
+    },
+    {
+      "productId": 4293,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-12-18T05:06:25.560471+02:00"
+    },
+    {
+      "productId": 2647,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-06-29T09:04:20.4383169+03:00"
+    }
+  ]
+}

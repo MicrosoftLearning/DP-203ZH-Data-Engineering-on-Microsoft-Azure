@@ -1,0 +1,32 @@
+{
+  "userId": 44443,
+  "cartId": "7884adf5-8ccf-4b6f-a4bc-ebf87f80827f",
+  "preferredProducts": [
+    3932,
+    4444,
+    2980,
+    814
+  ],
+  "productReviews": [
+    {
+      "productId": 1436,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-06-13T18:58:29.0462706+03:00"
+    },
+    {
+      "productId": 4757,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-04-03T07:29:52.2414356+03:00"
+    },
+    {
+      "productId": 149,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-05-25T01:17:57.86888+03:00"
+    },
+    {
+      "productId": 4505,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-07-04T08:33:50.600869+03:00"
+    }
+  ]
+}

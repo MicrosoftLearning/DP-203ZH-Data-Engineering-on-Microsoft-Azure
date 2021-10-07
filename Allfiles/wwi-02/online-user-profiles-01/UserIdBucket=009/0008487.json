@@ -1,0 +1,41 @@
+{
+  "userId": 8487,
+  "cartId": "7f6be577-2750-4b06-8541-af8f8084d7e6",
+  "preferredProducts": [
+    495,
+    1180,
+    2560,
+    712,
+    3708,
+    3409,
+    3221,
+    4828
+  ],
+  "productReviews": [
+    {
+      "productId": 4005,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-10-05T02:43:58.2750694+03:00"
+    },
+    {
+      "productId": 1172,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-05-06T04:40:08.9637487+03:00"
+    },
+    {
+      "productId": 536,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-03-02T23:44:05.0924916+02:00"
+    },
+    {
+      "productId": 622,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-10-30T07:18:46.3630003+02:00"
+    },
+    {
+      "productId": 2153,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2020-01-28T07:08:55.4047954+02:00"
+    }
+  ]
+}

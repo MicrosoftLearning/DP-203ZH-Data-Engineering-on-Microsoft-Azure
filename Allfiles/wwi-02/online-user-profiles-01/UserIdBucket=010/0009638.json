@@ -1,0 +1,33 @@
+{
+  "userId": 9638,
+  "cartId": "af447835-a0b3-4e78-bb06-cb38c5a3dcac",
+  "preferredProducts": [
+    1538,
+    1758,
+    1339,
+    4528,
+    3770
+  ],
+  "productReviews": [
+    {
+      "productId": 3608,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-09-11T12:39:52.7191757+03:00"
+    },
+    {
+      "productId": 20,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-06-19T20:37:55.3284637+03:00"
+    },
+    {
+      "productId": 156,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-04-04T02:15:51.6932098+03:00"
+    },
+    {
+      "productId": 4253,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-12-07T05:29:32.5766779+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 50092,
+  "cartId": "44e51647-dee2-4023-865a-d56f1ab36e8a",
+  "preferredProducts": [
+    549,
+    2409
+  ],
+  "productReviews": [
+    {
+      "productId": 4250,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-10-22T20:41:37.3818046+03:00"
+    },
+    {
+      "productId": 3653,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-07-19T14:00:58.7868662+03:00"
+    },
+    {
+      "productId": 1279,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-06-01T15:24:41.3905282+03:00"
+    }
+  ]
+}

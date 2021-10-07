@@ -1,0 +1,36 @@
+{
+  "userId": 78585,
+  "cartId": "15a4596d-431c-4f0d-800f-e9f809ae5cc2",
+  "preferredProducts": [
+    4047,
+    2470,
+    2418,
+    2400,
+    745,
+    1782,
+    4445,
+    1104
+  ],
+  "productReviews": [
+    {
+      "productId": 4176,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-11-13T13:28:14.7354047+02:00"
+    },
+    {
+      "productId": 2543,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-11-15T04:24:17.6729536+02:00"
+    },
+    {
+      "productId": 1771,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-12-22T14:17:01.1371256+02:00"
+    },
+    {
+      "productId": 2949,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-10-25T22:33:04.8858514+03:00"
+    }
+  ]
+}

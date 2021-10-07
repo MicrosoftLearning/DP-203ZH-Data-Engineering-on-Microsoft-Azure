@@ -1,0 +1,36 @@
+{
+  "userId": 42131,
+  "cartId": "60c4eb96-9762-4f0e-b3f3-1bc1d998cb6f",
+  "preferredProducts": [
+    4339,
+    979,
+    855,
+    2630,
+    1909,
+    3605,
+    3506,
+    4598
+  ],
+  "productReviews": [
+    {
+      "productId": 4932,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-06-05T17:14:52.5473279+03:00"
+    },
+    {
+      "productId": 1372,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-03-21T02:35:49.7313+02:00"
+    },
+    {
+      "productId": 1091,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-04-03T14:48:12.5762982+03:00"
+    },
+    {
+      "productId": 1990,
+      "reviewText": "This Dalasi works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2017-04-12T03:07:42.0489563+03:00"
+    }
+  ]
+}

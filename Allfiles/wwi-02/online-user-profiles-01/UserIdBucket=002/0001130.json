@@ -1,0 +1,32 @@
+{
+  "userId": 1130,
+  "cartId": "33988558-fda0-4a59-96f2-20ff45a97387",
+  "preferredProducts": [
+    4673,
+    936,
+    4546,
+    4693,
+    2542,
+    1401,
+    2173,
+    2176,
+    3179
+  ],
+  "productReviews": [
+    {
+      "productId": 2003,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-08-06T20:56:41.9444244+03:00"
+    },
+    {
+      "productId": 1562,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-05-28T14:11:52.3278392+03:00"
+    },
+    {
+      "productId": 3119,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-07-08T13:05:09.7198192+03:00"
+    }
+  ]
+}

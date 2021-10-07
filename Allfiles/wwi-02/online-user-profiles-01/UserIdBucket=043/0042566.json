@@ -1,0 +1,41 @@
+{
+  "userId": 42566,
+  "cartId": "14bd6a22-d292-4e3b-8bc9-98f00c752822",
+  "preferredProducts": [
+    3694,
+    1375,
+    3113,
+    1178,
+    1556,
+    964,
+    1233,
+    3051
+  ],
+  "productReviews": [
+    {
+      "productId": 2331,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-02-05T12:17:37.0184314+02:00"
+    },
+    {
+      "productId": 3239,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-12-06T14:37:52.5626184+02:00"
+    },
+    {
+      "productId": 2863,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-12-18T17:32:43.0945804+02:00"
+    },
+    {
+      "productId": 3895,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-03-11T16:53:27.9569641+02:00"
+    },
+    {
+      "productId": 4746,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-11-01T16:58:25.5047794+02:00"
+    }
+  ]
+}

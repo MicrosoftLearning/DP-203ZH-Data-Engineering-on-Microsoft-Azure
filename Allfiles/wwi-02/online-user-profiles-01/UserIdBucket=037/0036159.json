@@ -1,0 +1,36 @@
+{
+  "userId": 36159,
+  "cartId": "c9385567-a5ca-42ff-a331-4e7758f5b299",
+  "preferredProducts": [
+    295,
+    794,
+    1481,
+    2890,
+    3226,
+    1709,
+    2856,
+    4681
+  ],
+  "productReviews": [
+    {
+      "productId": 1805,
+      "reviewText": "This is a really good sensor.",
+      "reviewDate": "2016-12-04T09:29:33.3202934+02:00"
+    },
+    {
+      "productId": 597,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2020-02-26T12:37:19.5311352+02:00"
+    },
+    {
+      "productId": 8,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-11-07T19:03:21.8992992+02:00"
+    },
+    {
+      "productId": 2263,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-03-11T18:57:43.2669008+02:00"
+    }
+  ]
+}

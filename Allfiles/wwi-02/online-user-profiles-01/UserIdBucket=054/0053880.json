@@ -1,0 +1,33 @@
+{
+  "userId": 53880,
+  "cartId": "c4a3bbc8-99a1-4a37-93c2-524c8393a291",
+  "preferredProducts": [
+    2114,
+    4810,
+    4106,
+    2147,
+    563
+  ],
+  "productReviews": [
+    {
+      "productId": 3231,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-01-12T20:38:12.8517783+02:00"
+    },
+    {
+      "productId": 4915,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-02-15T20:35:18.2803817+02:00"
+    },
+    {
+      "productId": 2077,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-04-07T03:32:55.4522308+03:00"
+    },
+    {
+      "productId": 4509,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-12-01T21:29:02.091031+02:00"
+    }
+  ]
+}

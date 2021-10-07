@@ -1,0 +1,37 @@
+{
+  "userId": 70164,
+  "cartId": "bfcdecff-8d9c-472d-a2b4-2d38e883f287",
+  "preferredProducts": [
+    3554,
+    4865,
+    4657,
+    2266,
+    1247,
+    1434,
+    3389,
+    1593,
+    599
+  ],
+  "productReviews": [
+    {
+      "productId": 477,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-03-06T05:58:39.1226402+02:00"
+    },
+    {
+      "productId": 2037,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-06-10T02:16:59.1255078+03:00"
+    },
+    {
+      "productId": 1294,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-07-09T10:45:33.0221007+03:00"
+    },
+    {
+      "productId": 4995,
+      "reviewText": "This AI, does exactly what it's suppose to do.",
+      "reviewDate": "2017-10-01T11:04:57.0958549+03:00"
+    }
+  ]
+}

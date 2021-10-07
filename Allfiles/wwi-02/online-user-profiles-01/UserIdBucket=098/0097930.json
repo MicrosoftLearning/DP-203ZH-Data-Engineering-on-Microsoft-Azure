@@ -1,0 +1,28 @@
+{
+  "userId": 97930,
+  "cartId": "3da5f945-2bb8-4c51-b2ee-b652a6cf3fde",
+  "preferredProducts": [
+    1234,
+    3170,
+    4895,
+    904,
+    1660
+  ],
+  "productReviews": [
+    {
+      "productId": 544,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-08-18T16:20:43.2047074+03:00"
+    },
+    {
+      "productId": 4825,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-10-14T06:12:01.7795823+03:00"
+    },
+    {
+      "productId": 1831,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-09-11T13:02:20.9469342+03:00"
+    }
+  ]
+}

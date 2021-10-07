@@ -1,0 +1,38 @@
+{
+  "userId": 54111,
+  "cartId": "e022bae5-10f8-44f6-8dab-8ca2627e75a9",
+  "preferredProducts": [
+    2030,
+    3585,
+    4492,
+    685,
+    2625,
+    2432,
+    2500,
+    667,
+    1942,
+    743
+  ],
+  "productReviews": [
+    {
+      "productId": 250,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-03-10T06:38:06.1453333+02:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "This parse works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2018-08-09T12:55:56.9366336+03:00"
+    },
+    {
+      "productId": 3289,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-07-22T10:54:34.215648+03:00"
+    },
+    {
+      "productId": 1077,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-11-01T15:22:30.6535866+02:00"
+    }
+  ]
+}

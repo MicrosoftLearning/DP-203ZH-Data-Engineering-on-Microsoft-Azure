@@ -1,0 +1,33 @@
+{
+  "userId": 72165,
+  "cartId": "85f16dac-6985-4091-80fe-dfe04062bd1e",
+  "preferredProducts": [
+    1186,
+    1304,
+    1620,
+    2512,
+    2645,
+    2058,
+    4627,
+    4098,
+    2762,
+    1814
+  ],
+  "productReviews": [
+    {
+      "productId": 399,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-09-13T02:33:43.5538203+03:00"
+    },
+    {
+      "productId": 1333,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-08-08T23:03:53.2417057+03:00"
+    },
+    {
+      "productId": 589,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2016-08-31T13:27:01.8063292+03:00"
+    }
+  ]
+}

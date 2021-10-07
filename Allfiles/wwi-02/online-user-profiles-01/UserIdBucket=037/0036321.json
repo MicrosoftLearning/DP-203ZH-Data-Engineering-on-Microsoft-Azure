@@ -1,0 +1,35 @@
+{
+  "userId": 36321,
+  "cartId": "3328c0b5-0490-49e8-bd56-2cbe71fa204a",
+  "preferredProducts": [
+    2710,
+    3608,
+    1359,
+    1457,
+    2951,
+    4753,
+    4805
+  ],
+  "productReviews": [
+    {
+      "productId": 761,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-03-18T17:10:11.2639308+02:00"
+    },
+    {
+      "productId": 2570,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-06-27T00:26:51.6093863+03:00"
+    },
+    {
+      "productId": 3354,
+      "reviewText": "This Wisconsin works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-10-14T02:59:36.1234781+03:00"
+    },
+    {
+      "productId": 1169,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-07-13T19:59:41.6513951+03:00"
+    }
+  ]
+}

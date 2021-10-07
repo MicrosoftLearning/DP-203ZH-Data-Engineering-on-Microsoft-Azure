@@ -1,0 +1,28 @@
+{
+  "userId": 12256,
+  "cartId": "b1a465ab-e710-4160-b04d-66542b0debd0",
+  "preferredProducts": [
+    2970,
+    193,
+    443,
+    1536,
+    2663
+  ],
+  "productReviews": [
+    {
+      "productId": 3577,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-22T01:33:42.1251052+03:00"
+    },
+    {
+      "productId": 4500,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-02-11T08:23:54.9088659+02:00"
+    },
+    {
+      "productId": 1447,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-02-05T19:43:10.1918739+02:00"
+    }
+  ]
+}

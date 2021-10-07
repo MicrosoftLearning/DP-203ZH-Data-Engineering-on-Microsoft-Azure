@@ -1,0 +1,38 @@
+{
+  "userId": 42990,
+  "cartId": "cb3efa0f-7885-4cc0-ab0c-5b7df281d10f",
+  "preferredProducts": [
+    4451,
+    2040,
+    4576,
+    1242,
+    2330,
+    198,
+    2263,
+    450,
+    2622,
+    264
+  ],
+  "productReviews": [
+    {
+      "productId": 4863,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-08-28T20:23:41.571951+03:00"
+    },
+    {
+      "productId": 2543,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-12-27T16:43:11.7040698+02:00"
+    },
+    {
+      "productId": 4596,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-04-05T04:03:34.9432562+03:00"
+    },
+    {
+      "productId": 1875,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-02-04T11:44:38.2308039+02:00"
+    }
+  ]
+}

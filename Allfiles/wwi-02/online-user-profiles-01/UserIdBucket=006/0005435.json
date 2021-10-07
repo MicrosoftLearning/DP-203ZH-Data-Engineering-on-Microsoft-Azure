@@ -1,0 +1,40 @@
+{
+  "userId": 5435,
+  "cartId": "e0a581ab-db9e-4246-b8cb-6839301712f5",
+  "preferredProducts": [
+    1110,
+    1870,
+    2439,
+    3284,
+    2922,
+    4952,
+    3333
+  ],
+  "productReviews": [
+    {
+      "productId": 710,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-03-25T22:20:26.4197471+02:00"
+    },
+    {
+      "productId": 2056,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2016-09-03T17:20:10.7084178+03:00"
+    },
+    {
+      "productId": 4517,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2020-01-10T16:22:43.358017+02:00"
+    },
+    {
+      "productId": 2312,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-09-22T07:12:13.6646995+03:00"
+    },
+    {
+      "productId": 4207,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-09-05T23:47:09.7022738+03:00"
+    }
+  ]
+}

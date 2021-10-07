@@ -1,0 +1,27 @@
+{
+  "userId": 65101,
+  "cartId": "fc1558f9-8eb9-45a4-be4c-d2cb7165e9cd",
+  "preferredProducts": [
+    3717,
+    2587,
+    968,
+    3118
+  ],
+  "productReviews": [
+    {
+      "productId": 4151,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-11-12T16:10:16.9813208+02:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-09-01T18:19:10.981618+03:00"
+    },
+    {
+      "productId": 24,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-05-02T20:58:52.0856829+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 42323,
+  "cartId": "7eae2064-8714-49d8-8615-d267a45badb5",
+  "preferredProducts": [
+    1068,
+    12,
+    744,
+    2033,
+    1772
+  ],
+  "productReviews": [
+    {
+      "productId": 4753,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-08-31T17:38:20.2527904+03:00"
+    },
+    {
+      "productId": 3123,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-08-28T02:53:33.9327931+03:00"
+    }
+  ]
+}

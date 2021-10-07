@@ -1,0 +1,37 @@
+{
+  "userId": 46151,
+  "cartId": "863ecf94-69d2-4b19-a842-1746dc2be438",
+  "preferredProducts": [
+    2236,
+    4016,
+    1535,
+    1155
+  ],
+  "productReviews": [
+    {
+      "productId": 1211,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-07-17T04:33:58.8295386+03:00"
+    },
+    {
+      "productId": 3477,
+      "reviewText": "this application is revolting.",
+      "reviewDate": "2019-06-05T16:40:50.4520397+03:00"
+    },
+    {
+      "productId": 4218,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2016-08-03T01:58:48.7672308+03:00"
+    },
+    {
+      "productId": 1827,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-08-26T12:28:35.9657916+03:00"
+    },
+    {
+      "productId": 3823,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-01-20T08:22:00.4428206+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 39999,
+  "cartId": "38b5e885-2f5c-41e7-aaa2-47035165f8ce",
+  "preferredProducts": [
+    3812,
+    3536,
+    2652,
+    1815,
+    4034
+  ],
+  "productReviews": [
+    {
+      "productId": 4929,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-01-16T10:57:58.5189273+02:00"
+    },
+    {
+      "productId": 219,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-04-05T03:07:10.2588772+03:00"
+    },
+    {
+      "productId": 531,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-11-02T06:18:15.1255279+02:00"
+    }
+  ]
+}

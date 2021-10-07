@@ -1,0 +1,25 @@
+{
+  "userId": 26111,
+  "cartId": "6cf1539b-0c80-4c7f-886c-7793469cfff7",
+  "preferredProducts": [
+    2246,
+    770
+  ],
+  "productReviews": [
+    {
+      "productId": 744,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-02-21T20:34:22.9136777+02:00"
+    },
+    {
+      "productId": 2001,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-10-07T15:46:49.4022379+03:00"
+    },
+    {
+      "productId": 1686,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-11-12T05:10:22.5703664+02:00"
+    }
+  ]
+}

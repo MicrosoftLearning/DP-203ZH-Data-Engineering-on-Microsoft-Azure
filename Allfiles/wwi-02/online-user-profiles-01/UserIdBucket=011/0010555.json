@@ -1,0 +1,30 @@
+{
+  "userId": 10555,
+  "cartId": "9725a539-d635-42f2-96a0-6cbf47db0350",
+  "preferredProducts": [
+    852,
+    4449
+  ],
+  "productReviews": [
+    {
+      "productId": 1016,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-03-28T00:21:03.1309973+02:00"
+    },
+    {
+      "productId": 3501,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2017-05-03T20:21:31.0182541+03:00"
+    },
+    {
+      "productId": 2244,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-05-02T21:31:41.264627+03:00"
+    },
+    {
+      "productId": 1472,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-11-24T05:45:46.5282286+02:00"
+    }
+  ]
+}

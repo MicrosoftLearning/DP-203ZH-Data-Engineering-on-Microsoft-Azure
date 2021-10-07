@@ -1,0 +1,30 @@
+{
+  "userId": 94683,
+  "cartId": "f08a72c1-ee42-4e60-aa3f-534649bdb3ec",
+  "preferredProducts": [
+    4855,
+    4096,
+    484,
+    2840,
+    3697,
+    1550,
+    2139
+  ],
+  "productReviews": [
+    {
+      "productId": 712,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-05-12T12:07:51.6308526+03:00"
+    },
+    {
+      "productId": 4731,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-06-04T07:23:31.7159452+03:00"
+    },
+    {
+      "productId": 2410,
+      "reviewText": "this USB is snowy.",
+      "reviewDate": "2019-08-29T05:51:45.9598913+03:00"
+    }
+  ]
+}

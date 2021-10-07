@@ -1,0 +1,33 @@
+{
+  "userId": 38290,
+  "cartId": "f16dc689-2f1e-4c97-83b7-a1e97c05a2c8",
+  "preferredProducts": [
+    3514,
+    3758,
+    958,
+    2030,
+    4334
+  ],
+  "productReviews": [
+    {
+      "productId": 4597,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-12-24T04:24:42.8586425+02:00"
+    },
+    {
+      "productId": 3634,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-12-22T22:21:24.0793553+02:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-05-29T12:10:51.9274046+03:00"
+    },
+    {
+      "productId": 4183,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-07-17T17:18:13.2716077+03:00"
+    }
+  ]
+}

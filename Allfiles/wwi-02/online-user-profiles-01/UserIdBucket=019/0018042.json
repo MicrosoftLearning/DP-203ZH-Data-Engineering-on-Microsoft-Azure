@@ -1,0 +1,29 @@
+{
+  "userId": 18042,
+  "cartId": "3bfdf8fb-9631-4786-bb14-fd7a5dc9e7c8",
+  "preferredProducts": [
+    1522,
+    4416,
+    3422,
+    1179,
+    4128,
+    4727
+  ],
+  "productReviews": [
+    {
+      "productId": 4740,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-04-08T13:36:40.0241654+03:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-02-25T20:28:46.4357524+02:00"
+    },
+    {
+      "productId": 54,
+      "reviewText": "this Human is mellow.",
+      "reviewDate": "2018-07-01T00:46:39.5849079+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 6771,
+  "cartId": "dce1e5ce-2c26-43af-b8a2-5ab1fab5c7fb",
+  "preferredProducts": [
+    4676,
+    3334,
+    1790,
+    2023,
+    3586,
+    3203,
+    3905,
+    1379,
+    4196,
+    4732
+  ],
+  "productReviews": [
+    {
+      "productId": 2474,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2020-01-30T07:52:45.7270158+02:00"
+    },
+    {
+      "productId": 4183,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-10-13T12:42:07.3154237+03:00"
+    },
+    {
+      "productId": 2361,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-04-13T07:41:48.0255078+03:00"
+    }
+  ]
+}

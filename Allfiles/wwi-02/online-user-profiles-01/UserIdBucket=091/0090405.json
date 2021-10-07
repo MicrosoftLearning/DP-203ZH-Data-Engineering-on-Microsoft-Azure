@@ -1,0 +1,30 @@
+{
+  "userId": 90405,
+  "cartId": "e2c87dcd-8c80-44af-bbb6-f0f3c2bba49e",
+  "preferredProducts": [
+    429,
+    1220,
+    388,
+    4238,
+    1911,
+    3055,
+    4912
+  ],
+  "productReviews": [
+    {
+      "productId": 1055,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-10-03T02:36:50.077729+03:00"
+    },
+    {
+      "productId": 3647,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-06-22T10:39:57.2172538+03:00"
+    },
+    {
+      "productId": 4468,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-03-26T11:40:09.8839645+02:00"
+    }
+  ]
+}

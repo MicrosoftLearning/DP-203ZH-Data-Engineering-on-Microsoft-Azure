@@ -1,0 +1,27 @@
+{
+  "userId": 42522,
+  "cartId": "cedf27da-c50b-488c-a9c6-54954148ac22",
+  "preferredProducts": [
+    899,
+    77,
+    1930,
+    1931
+  ],
+  "productReviews": [
+    {
+      "productId": 1696,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-10-08T11:53:47.337766+03:00"
+    },
+    {
+      "productId": 1705,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-10-06T02:01:23.2842859+03:00"
+    },
+    {
+      "productId": 241,
+      "reviewText": "this Proactive is ratty.",
+      "reviewDate": "2018-01-02T21:29:42.7589373+02:00"
+    }
+  ]
+}

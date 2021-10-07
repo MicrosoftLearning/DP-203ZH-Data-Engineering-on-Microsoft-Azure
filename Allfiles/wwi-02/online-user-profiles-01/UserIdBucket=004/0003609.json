@@ -1,0 +1,36 @@
+{
+  "userId": 3609,
+  "cartId": "74f98490-8162-4fd9-a8fa-0a48ca0672cf",
+  "preferredProducts": [
+    3424,
+    1604,
+    4069,
+    2865,
+    2031,
+    3519,
+    607,
+    2220
+  ],
+  "productReviews": [
+    {
+      "productId": 2203,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-12-22T12:33:21.9673043+02:00"
+    },
+    {
+      "productId": 912,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-06-08T01:55:07.6577681+03:00"
+    },
+    {
+      "productId": 29,
+      "reviewText": "This heuristic works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-08-10T07:06:45.8731973+03:00"
+    },
+    {
+      "productId": 2818,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-10-09T06:37:20.6923095+03:00"
+    }
+  ]
+}

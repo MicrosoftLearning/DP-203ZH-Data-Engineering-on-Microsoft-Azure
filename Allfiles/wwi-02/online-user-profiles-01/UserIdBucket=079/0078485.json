@@ -1,0 +1,43 @@
+{
+  "userId": 78485,
+  "cartId": "b048e738-5fa2-484d-ac32-990e4b29b8c1",
+  "preferredProducts": [
+    1186,
+    4291,
+    865,
+    2393,
+    2761,
+    1354,
+    2740,
+    1736,
+    4226,
+    2106
+  ],
+  "productReviews": [
+    {
+      "productId": 637,
+      "reviewText": "this SQL is ghetto.",
+      "reviewDate": "2016-07-17T10:08:16.3228553+03:00"
+    },
+    {
+      "productId": 3234,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-06-30T06:07:22.6025595+03:00"
+    },
+    {
+      "productId": 281,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-04-22T14:30:50.8736904+03:00"
+    },
+    {
+      "productId": 4658,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-09-23T03:12:25.7473682+03:00"
+    },
+    {
+      "productId": 467,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-05-06T10:41:33.4531587+03:00"
+    }
+  ]
+}

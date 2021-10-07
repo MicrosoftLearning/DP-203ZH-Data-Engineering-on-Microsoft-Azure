@@ -1,0 +1,37 @@
+{
+  "userId": 3316,
+  "cartId": "b89da583-2ee5-400e-8790-ecef324a796e",
+  "preferredProducts": [
+    3775,
+    1546,
+    360,
+    2264,
+    1865,
+    1225,
+    2118,
+    2573,
+    1094
+  ],
+  "productReviews": [
+    {
+      "productId": 3173,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-10-15T16:34:50.3749763+03:00"
+    },
+    {
+      "productId": 4533,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-08-05T10:11:38.1690966+03:00"
+    },
+    {
+      "productId": 4769,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-08-27T13:11:18.9150964+03:00"
+    },
+    {
+      "productId": 1765,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-08-27T09:38:37.1368018+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 16752,
+  "cartId": "b0f2f2cb-fa59-4ef8-93c8-88babdddc9c5",
+  "preferredProducts": [
+    2976,
+    2074,
+    565,
+    2129,
+    2604,
+    389,
+    1585,
+    2108,
+    3652
+  ],
+  "productReviews": [
+    {
+      "productId": 800,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-10-09T19:47:03.7160719+03:00"
+    },
+    {
+      "productId": 2983,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-03-11T14:21:57.079173+02:00"
+    },
+    {
+      "productId": 792,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-13T00:54:16.196282+02:00"
+    },
+    {
+      "productId": 547,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-05-07T05:51:34.1493874+03:00"
+    }
+  ]
+}

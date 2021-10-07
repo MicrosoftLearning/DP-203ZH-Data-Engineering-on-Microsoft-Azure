@@ -1,0 +1,30 @@
+{
+  "userId": 60030,
+  "cartId": "4aa29f9b-cfa3-4749-8979-21f73b5d2adc",
+  "preferredProducts": [
+    1464,
+    3101,
+    3258,
+    2088,
+    632,
+    2378,
+    4718
+  ],
+  "productReviews": [
+    {
+      "productId": 2063,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-11-21T15:31:24.3040034+02:00"
+    },
+    {
+      "productId": 875,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-04-16T17:45:30.1459486+03:00"
+    },
+    {
+      "productId": 78,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-07-27T08:09:20.9108322+03:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 79321,
+  "cartId": "acf39581-5cdc-43ae-9f72-ecb2c604eddb",
+  "preferredProducts": [
+    324,
+    1423,
+    1966,
+    2701,
+    3753,
+    2972,
+    2798
+  ],
+  "productReviews": [
+    {
+      "productId": 3315,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-05-15T01:30:05.2228543+03:00"
+    },
+    {
+      "productId": 2100,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-04-17T03:41:27.2011594+03:00"
+    },
+    {
+      "productId": 1896,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-09-09T13:15:17.414387+03:00"
+    },
+    {
+      "productId": 1592,
+      "reviewText": "This programming works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-04-23T06:51:44.5351383+03:00"
+    },
+    {
+      "productId": 272,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-03-03T18:27:04.8084053+02:00"
+    }
+  ]
+}

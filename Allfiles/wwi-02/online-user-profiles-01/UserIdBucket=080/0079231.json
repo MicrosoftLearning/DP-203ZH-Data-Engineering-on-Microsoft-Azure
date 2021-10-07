@@ -1,0 +1,29 @@
+{
+  "userId": 79231,
+  "cartId": "f1991cbe-8041-4a30-8ba1-828b905b6e95",
+  "preferredProducts": [
+    2578
+  ],
+  "productReviews": [
+    {
+      "productId": 3142,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-10-23T06:34:45.746132+03:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-01-15T03:03:36.1720864+02:00"
+    },
+    {
+      "productId": 2948,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-11-10T14:22:29.662862+02:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-05-05T19:53:43.8367915+03:00"
+    }
+  ]
+}

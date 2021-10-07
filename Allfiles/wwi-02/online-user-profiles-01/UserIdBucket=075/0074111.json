@@ -1,0 +1,25 @@
+{
+  "userId": 74111,
+  "cartId": "8d88bf24-e18d-46af-a550-c06fd449f1f2",
+  "preferredProducts": [
+    36,
+    2849
+  ],
+  "productReviews": [
+    {
+      "productId": 1008,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-11-19T00:12:19.8555734+02:00"
+    },
+    {
+      "productId": 4481,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-07-26T18:07:17.7575108+03:00"
+    },
+    {
+      "productId": 3765,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2016-11-15T22:14:21.5684447+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 57688,
+  "cartId": "1daf6153-3f75-4888-bc2d-0349283f95ff",
+  "preferredProducts": [
+    1293,
+    958,
+    1319,
+    4269,
+    3606
+  ],
+  "productReviews": [
+    {
+      "productId": 4577,
+      "reviewText": "this card is vertical.",
+      "reviewDate": "2018-01-29T03:16:01.7112464+02:00"
+    },
+    {
+      "productId": 4652,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-02-10T20:15:46.2341868+02:00"
+    },
+    {
+      "productId": 551,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-08-17T10:56:15.1574464+03:00"
+    },
+    {
+      "productId": 1107,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-09-02T19:07:36.8776976+03:00"
+    }
+  ]
+}

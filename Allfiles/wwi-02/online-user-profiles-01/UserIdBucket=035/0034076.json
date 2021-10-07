@@ -1,0 +1,38 @@
+{
+  "userId": 34076,
+  "cartId": "97e0c777-325a-4110-ba50-d7dfac57149a",
+  "preferredProducts": [
+    218,
+    617,
+    1928,
+    4066,
+    4012
+  ],
+  "productReviews": [
+    {
+      "productId": 1245,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-11-12T03:02:08.8488455+02:00"
+    },
+    {
+      "productId": 1043,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2020-02-21T02:46:53.3243499+02:00"
+    },
+    {
+      "productId": 812,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-04-26T06:05:13.867355+03:00"
+    },
+    {
+      "productId": 4614,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-12-23T03:16:35.4240682+02:00"
+    },
+    {
+      "productId": 4503,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-10-10T14:59:56.1346426+03:00"
+    }
+  ]
+}

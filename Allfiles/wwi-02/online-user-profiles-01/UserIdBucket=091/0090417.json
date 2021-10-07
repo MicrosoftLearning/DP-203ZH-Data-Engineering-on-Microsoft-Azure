@@ -1,0 +1,32 @@
+{
+  "userId": 90417,
+  "cartId": "692b6b68-5735-4ef1-9240-7c1a62953a42",
+  "preferredProducts": [
+    2235,
+    2677,
+    2245,
+    3565
+  ],
+  "productReviews": [
+    {
+      "productId": 3932,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-04-28T12:16:08.2266849+03:00"
+    },
+    {
+      "productId": 618,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-02-08T09:33:44.2907697+02:00"
+    },
+    {
+      "productId": 4084,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-08-27T20:21:47.1715799+03:00"
+    },
+    {
+      "productId": 3797,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-09-21T12:34:35.9580526+03:00"
+    }
+  ]
+}

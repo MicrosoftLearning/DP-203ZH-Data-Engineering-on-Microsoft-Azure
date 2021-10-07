@@ -1,0 +1,35 @@
+{
+  "userId": 97697,
+  "cartId": "54fc093a-ce99-48ea-86d2-e87c65835096",
+  "preferredProducts": [
+    1916,
+    3572,
+    1128,
+    3549,
+    132,
+    4295,
+    561
+  ],
+  "productReviews": [
+    {
+      "productId": 2887,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-02-20T18:12:04.2192876+02:00"
+    },
+    {
+      "productId": 4249,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-03-14T04:51:49.5795154+02:00"
+    },
+    {
+      "productId": 212,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-12-06T21:19:45.0815701+02:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-04-13T15:46:10.9450996+03:00"
+    }
+  ]
+}

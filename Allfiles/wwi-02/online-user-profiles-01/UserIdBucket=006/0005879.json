@@ -1,0 +1,36 @@
+{
+  "userId": 5879,
+  "cartId": "318d7b44-a656-47ec-904a-51731c30e745",
+  "preferredProducts": [
+    2997,
+    3335,
+    3389
+  ],
+  "productReviews": [
+    {
+      "productId": 4373,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-05-16T17:28:32.182474+03:00"
+    },
+    {
+      "productId": 1881,
+      "reviewText": "this Senior is standard.",
+      "reviewDate": "2016-09-03T23:50:57.6029569+03:00"
+    },
+    {
+      "productId": 4479,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-05-03T15:25:07.0072821+03:00"
+    },
+    {
+      "productId": 4791,
+      "reviewText": "this service-desk is complimentary.",
+      "reviewDate": "2018-05-01T08:10:47.5417833+03:00"
+    },
+    {
+      "productId": 1358,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-02-06T11:57:26.554854+02:00"
+    }
+  ]
+}

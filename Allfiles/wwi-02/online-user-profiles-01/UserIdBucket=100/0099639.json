@@ -1,0 +1,36 @@
+{
+  "userId": 99639,
+  "cartId": "c469e432-2eb9-471e-8fcc-314950bce830",
+  "preferredProducts": [
+    947,
+    3730,
+    4024,
+    2425,
+    3615,
+    1622,
+    2729,
+    4997
+  ],
+  "productReviews": [
+    {
+      "productId": 1457,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-04-29T14:54:41.2947508+03:00"
+    },
+    {
+      "productId": 3384,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-02-17T00:00:39.2377122+02:00"
+    },
+    {
+      "productId": 1678,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-10-31T13:39:09.468284+02:00"
+    },
+    {
+      "productId": 3951,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-05-20T16:37:35.1529717+03:00"
+    }
+  ]
+}

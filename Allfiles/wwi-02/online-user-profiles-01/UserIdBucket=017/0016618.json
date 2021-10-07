@@ -1,0 +1,33 @@
+{
+  "userId": 16618,
+  "cartId": "f1e581c8-97a6-4d47-ad06-6e85ba646615",
+  "preferredProducts": [
+    231,
+    1335,
+    4669,
+    488,
+    2398
+  ],
+  "productReviews": [
+    {
+      "productId": 3205,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2020-01-25T17:23:13.6346268+02:00"
+    },
+    {
+      "productId": 3356,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-09-17T01:42:14.891303+03:00"
+    },
+    {
+      "productId": 1611,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-06-16T16:44:02.5804299+03:00"
+    },
+    {
+      "productId": 1537,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-04-16T13:52:32.5898125+03:00"
+    }
+  ]
+}

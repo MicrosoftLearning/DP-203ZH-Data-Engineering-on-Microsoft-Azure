@@ -1,0 +1,39 @@
+{
+  "userId": 5077,
+  "cartId": "5f73b913-79e9-4234-8a9b-c16036df1921",
+  "preferredProducts": [
+    1588,
+    2852,
+    4545,
+    3458,
+    2784,
+    341
+  ],
+  "productReviews": [
+    {
+      "productId": 2472,
+      "reviewText": "this parsing is revolting.",
+      "reviewDate": "2018-08-02T02:25:29.0826634+03:00"
+    },
+    {
+      "productId": 2439,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-11-07T19:54:46.2246341+02:00"
+    },
+    {
+      "productId": 3384,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-06-16T22:10:26.9980699+03:00"
+    },
+    {
+      "productId": 945,
+      "reviewText": "This engage works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-09-04T22:49:22.6910229+03:00"
+    },
+    {
+      "productId": 3554,
+      "reviewText": "This Soft works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2017-12-22T17:34:29.0822931+02:00"
+    }
+  ]
+}

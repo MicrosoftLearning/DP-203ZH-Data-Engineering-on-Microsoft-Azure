@@ -1,0 +1,31 @@
+{
+  "userId": 99602,
+  "cartId": "87378f76-6298-476c-996e-7487f971e29e",
+  "preferredProducts": [
+    2048,
+    1648,
+    3817
+  ],
+  "productReviews": [
+    {
+      "productId": 478,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-08-13T05:41:53.6086551+03:00"
+    },
+    {
+      "productId": 4260,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-04-13T03:32:25.7330721+03:00"
+    },
+    {
+      "productId": 3588,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-12-26T19:27:57.2123996+02:00"
+    },
+    {
+      "productId": 2058,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-08-27T03:55:36.4464802+03:00"
+    }
+  ]
+}

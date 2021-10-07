@@ -1,0 +1,37 @@
+{
+  "userId": 22128,
+  "cartId": "b87a109f-d502-4865-99d2-3f26b45a34fc",
+  "preferredProducts": [
+    2184,
+    1260,
+    3571,
+    4176,
+    2070,
+    2232,
+    289,
+    2583,
+    676
+  ],
+  "productReviews": [
+    {
+      "productId": 1603,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-07-09T01:28:46.0903724+03:00"
+    },
+    {
+      "productId": 681,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-10-05T00:36:26.2011945+03:00"
+    },
+    {
+      "productId": 1763,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-01-11T17:19:25.612691+02:00"
+    },
+    {
+      "productId": 1542,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-12-03T20:14:28.0742253+02:00"
+    }
+  ]
+}

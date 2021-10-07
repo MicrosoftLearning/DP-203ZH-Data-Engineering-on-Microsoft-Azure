@@ -1,0 +1,35 @@
+{
+  "userId": 20645,
+  "cartId": "9ab45dac-b208-4cb0-86ef-8208f3cb494b",
+  "preferredProducts": [
+    4553,
+    3278,
+    2828,
+    4608,
+    2839,
+    982,
+    1394
+  ],
+  "productReviews": [
+    {
+      "productId": 2363,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-10-23T16:45:11.3938155+03:00"
+    },
+    {
+      "productId": 2307,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-12-25T20:18:56.8009593+02:00"
+    },
+    {
+      "productId": 2045,
+      "reviewText": "This bypassing works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-06-25T16:18:04.5698317+03:00"
+    },
+    {
+      "productId": 262,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-10-25T19:33:42.5679313+03:00"
+    }
+  ]
+}

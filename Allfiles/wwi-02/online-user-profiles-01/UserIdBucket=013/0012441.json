@@ -1,0 +1,27 @@
+{
+  "userId": 12441,
+  "cartId": "01ab0799-6765-4dc2-82a6-b200d094f4b4",
+  "preferredProducts": [
+    1311,
+    2244,
+    4184,
+    3523,
+    2975,
+    2720,
+    4652,
+    605,
+    1161
+  ],
+  "productReviews": [
+    {
+      "productId": 804,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-03-20T03:34:48.485267+02:00"
+    },
+    {
+      "productId": 73,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-10-07T01:06:33.6740106+03:00"
+    }
+  ]
+}

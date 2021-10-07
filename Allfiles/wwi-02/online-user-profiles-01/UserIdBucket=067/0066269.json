@@ -1,0 +1,34 @@
+{
+  "userId": 66269,
+  "cartId": "bce06205-8a77-41a4-b2c0-8566dfff9b32",
+  "preferredProducts": [
+    1162,
+    3225,
+    4628,
+    3609,
+    176,
+    1505
+  ],
+  "productReviews": [
+    {
+      "productId": 215,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-08-20T20:54:12.8923359+03:00"
+    },
+    {
+      "productId": 4223,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-10-02T15:07:14.5258712+03:00"
+    },
+    {
+      "productId": 2373,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-09-10T08:04:45.8872532+03:00"
+    },
+    {
+      "productId": 547,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2019-10-22T12:56:56.0448133+03:00"
+    }
+  ]
+}

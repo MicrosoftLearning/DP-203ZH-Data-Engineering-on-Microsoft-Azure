@@ -1,0 +1,25 @@
+{
+  "userId": 86008,
+  "cartId": "f253d744-01fa-4cd3-8acf-c64dd002a817",
+  "preferredProducts": [
+    3915,
+    1009
+  ],
+  "productReviews": [
+    {
+      "productId": 3303,
+      "reviewText": "this Puerto Rico is awesome.",
+      "reviewDate": "2017-08-24T09:34:04.5924018+03:00"
+    },
+    {
+      "productId": 3290,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-01-08T03:24:57.9146159+02:00"
+    },
+    {
+      "productId": 3692,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-10-14T03:52:18.9681612+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 93111,
+  "cartId": "b0bc79c7-c95a-4ecc-9c5a-f4a2fa0ffd8e",
+  "preferredProducts": [
+    3514,
+    4820,
+    4686,
+    4356,
+    4414,
+    2919
+  ],
+  "productReviews": [
+    {
+      "productId": 1071,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-05-01T04:16:41.5642156+03:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-12-01T21:19:34.6971085+02:00"
+    },
+    {
+      "productId": 684,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-08-20T04:08:22.4131729+03:00"
+    }
+  ]
+}

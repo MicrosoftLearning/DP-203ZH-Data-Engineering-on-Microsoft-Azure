@@ -1,0 +1,30 @@
+{
+  "userId": 5972,
+  "cartId": "1a8e828f-128e-4509-a404-7792fc8d6e55",
+  "preferredProducts": [
+    1964,
+    30,
+    2834,
+    4540,
+    4529,
+    3568,
+    1726
+  ],
+  "productReviews": [
+    {
+      "productId": 1705,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-09-03T03:22:19.8169071+03:00"
+    },
+    {
+      "productId": 1872,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-01-22T01:59:21.3217668+02:00"
+    },
+    {
+      "productId": 4101,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-08-11T15:18:16.0963583+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 15080,
+  "cartId": "0e3660e6-cdb7-4cec-bd99-6930a191e639",
+  "preferredProducts": [
+    2119,
+    3485,
+    1858,
+    942,
+    967,
+    3442,
+    4101
+  ],
+  "productReviews": [
+    {
+      "productId": 4599,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-03-30T20:20:13.8923901+02:00"
+    },
+    {
+      "productId": 4312,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2020-03-23T17:31:13.534761+02:00"
+    },
+    {
+      "productId": 2506,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-02-23T12:57:24.4879604+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 15895,
+  "cartId": "0364f68a-7bc7-46e5-913a-43c06d194429",
+  "preferredProducts": [
+    3678,
+    3357,
+    669,
+    434,
+    1592,
+    2417
+  ],
+  "productReviews": [
+    {
+      "productId": 1455,
+      "reviewText": "this CSS is top-notch.",
+      "reviewDate": "2016-07-28T14:46:12.8739782+03:00"
+    },
+    {
+      "productId": 4363,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-02-08T03:39:50.10653+02:00"
+    },
+    {
+      "productId": 3662,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-10-25T14:03:32.1663757+03:00"
+    },
+    {
+      "productId": 1503,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-10-05T13:47:00.7118484+03:00"
+    }
+  ]
+}

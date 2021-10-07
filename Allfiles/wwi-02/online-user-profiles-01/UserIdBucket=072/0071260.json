@@ -1,0 +1,28 @@
+{
+  "userId": 71260,
+  "cartId": "f7aba623-ad1d-4228-a774-4a9bb447e7ac",
+  "preferredProducts": [
+    3646,
+    2553,
+    574,
+    3964,
+    1922
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-04-10T21:40:21.5717158+03:00"
+    },
+    {
+      "productId": 3998,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-11-11T21:40:47.2146749+02:00"
+    },
+    {
+      "productId": 740,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-09-06T22:11:21.850956+03:00"
+    }
+  ]
+}

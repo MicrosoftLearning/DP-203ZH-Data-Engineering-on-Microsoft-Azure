@@ -1,0 +1,41 @@
+{
+  "userId": 88955,
+  "cartId": "a285f109-4c65-40b0-be57-23c660a7d654",
+  "preferredProducts": [
+    511,
+    833,
+    824,
+    4961,
+    1542,
+    337,
+    1047,
+    4236
+  ],
+  "productReviews": [
+    {
+      "productId": 618,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-04-08T12:02:52.3096241+03:00"
+    },
+    {
+      "productId": 1778,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-01-15T02:03:17.1988938+02:00"
+    },
+    {
+      "productId": 3003,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2017-03-15T11:16:16.2194314+02:00"
+    },
+    {
+      "productId": 3169,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-01-16T18:46:32.007135+02:00"
+    },
+    {
+      "productId": 4020,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-10-26T13:20:58.5284104+03:00"
+    }
+  ]
+}

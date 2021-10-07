@@ -1,0 +1,31 @@
+{
+  "userId": 21530,
+  "cartId": "7a3a665b-d3d1-4c01-ba6a-58c52c7adadb",
+  "preferredProducts": [
+    1726,
+    3869,
+    2811,
+    3354,
+    2147,
+    1783,
+    4983,
+    841
+  ],
+  "productReviews": [
+    {
+      "productId": 4636,
+      "reviewText": "works okay.",
+      "reviewDate": "2020-01-16T15:18:11.4615899+02:00"
+    },
+    {
+      "productId": 3900,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-07-18T06:40:56.2320947+03:00"
+    },
+    {
+      "productId": 2220,
+      "reviewText": "This granular works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-06-07T23:06:32.4502935+03:00"
+    }
+  ]
+}

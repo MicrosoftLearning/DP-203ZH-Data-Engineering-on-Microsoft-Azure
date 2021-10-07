@@ -1,0 +1,29 @@
+{
+  "userId": 90082,
+  "cartId": "24b9e6ac-4c7b-428c-9d4d-bc5e013015fb",
+  "preferredProducts": [
+    3613,
+    3008,
+    4416,
+    2627,
+    3396,
+    2822
+  ],
+  "productReviews": [
+    {
+      "productId": 4710,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-03-30T18:24:36.5818243+03:00"
+    },
+    {
+      "productId": 3412,
+      "reviewText": "this magenta is brown.",
+      "reviewDate": "2017-09-02T08:13:21.7379328+03:00"
+    },
+    {
+      "productId": 1380,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-04-14T17:49:20.2659741+03:00"
+    }
+  ]
+}

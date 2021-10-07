@@ -1,0 +1,32 @@
+{
+  "userId": 74121,
+  "cartId": "57cc136f-c3fb-4ce4-bec6-77a4e6d2e7ea",
+  "preferredProducts": [
+    2375,
+    3635,
+    4543,
+    2477
+  ],
+  "productReviews": [
+    {
+      "productId": 1147,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-05-30T16:57:25.3303365+03:00"
+    },
+    {
+      "productId": 4051,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-11-01T16:00:36.6777785+02:00"
+    },
+    {
+      "productId": 4524,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-12-26T15:05:00.0915326+02:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-10-24T13:34:19.7627667+03:00"
+    }
+  ]
+}

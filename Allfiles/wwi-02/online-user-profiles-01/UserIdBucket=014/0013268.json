@@ -1,0 +1,30 @@
+{
+  "userId": 13268,
+  "cartId": "004d5ee8-f5c0-42cc-8e58-bdab3200795d",
+  "preferredProducts": [
+    2602,
+    583,
+    560,
+    940,
+    642,
+    4377,
+    2856
+  ],
+  "productReviews": [
+    {
+      "productId": 3125,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-07-25T19:17:14.5548836+03:00"
+    },
+    {
+      "productId": 2485,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-06-23T08:18:58.0182383+03:00"
+    },
+    {
+      "productId": 1673,
+      "reviewText": "this Virginia is tasty.",
+      "reviewDate": "2016-05-25T00:19:47.9301553+03:00"
+    }
+  ]
+}

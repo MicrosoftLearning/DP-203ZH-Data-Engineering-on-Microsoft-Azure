@@ -1,0 +1,35 @@
+{
+  "userId": 28523,
+  "cartId": "a4dd9a80-2b67-4cff-9f0f-dcd9de67dff8",
+  "preferredProducts": [
+    283,
+    3906,
+    4312,
+    3649,
+    541,
+    452,
+    2811
+  ],
+  "productReviews": [
+    {
+      "productId": 42,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-05-07T05:40:07.9450312+03:00"
+    },
+    {
+      "productId": 2731,
+      "reviewText": "this Licensed Cotton Fish is flirty.",
+      "reviewDate": "2019-09-03T05:18:14.7068202+03:00"
+    },
+    {
+      "productId": 831,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-11-17T16:15:42.744298+02:00"
+    },
+    {
+      "productId": 3011,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-08-20T03:51:10.195499+03:00"
+    }
+  ]
+}

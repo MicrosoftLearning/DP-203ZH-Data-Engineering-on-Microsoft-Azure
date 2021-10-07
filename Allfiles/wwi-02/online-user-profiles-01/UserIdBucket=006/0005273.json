@@ -1,0 +1,40 @@
+{
+  "userId": 5273,
+  "cartId": "63236175-4e3c-4b6a-8c1a-ba5b99daaa26",
+  "preferredProducts": [
+    3245,
+    1524,
+    2873,
+    497,
+    1802,
+    3369,
+    4699
+  ],
+  "productReviews": [
+    {
+      "productId": 4163,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-02-21T15:50:25.0398535+02:00"
+    },
+    {
+      "productId": 2379,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-05-19T18:39:04.6082055+03:00"
+    },
+    {
+      "productId": 4746,
+      "reviewText": "this Street is standard.",
+      "reviewDate": "2019-01-06T21:31:05.5422955+02:00"
+    },
+    {
+      "productId": 3711,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-07-11T03:51:40.3810351+03:00"
+    },
+    {
+      "productId": 4129,
+      "reviewText": "this metrics is vertical.",
+      "reviewDate": "2017-12-23T22:43:00.1516519+02:00"
+    }
+  ]
+}

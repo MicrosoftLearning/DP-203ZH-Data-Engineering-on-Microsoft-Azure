@@ -1,0 +1,21 @@
+{
+  "userId": 50023,
+  "cartId": "d2d4a360-6f08-4da3-90fc-fe1dd891e446",
+  "preferredProducts": [
+    1900,
+    2320,
+    598
+  ],
+  "productReviews": [
+    {
+      "productId": 3160,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-03-28T23:56:33.8347445+02:00"
+    },
+    {
+      "productId": 3080,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-09-19T04:52:12.9996202+03:00"
+    }
+  ]
+}

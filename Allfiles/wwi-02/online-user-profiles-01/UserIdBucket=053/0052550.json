@@ -1,0 +1,33 @@
+{
+  "userId": 52550,
+  "cartId": "f1b8c9a1-807c-449b-84f5-4e9bbb5b2be3",
+  "preferredProducts": [
+    2492,
+    4474,
+    2767,
+    276,
+    1082,
+    3694,
+    1107,
+    4105,
+    1999,
+    3049
+  ],
+  "productReviews": [
+    {
+      "productId": 875,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-03-29T05:49:07.6309473+03:00"
+    },
+    {
+      "productId": 533,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-04-01T16:43:37.1356966+03:00"
+    },
+    {
+      "productId": 4196,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-05-24T09:34:34.4590225+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 2650,
+  "cartId": "d2c4c871-d03a-4d66-8a5d-7b1e2cb38cb8",
+  "preferredProducts": [
+    4810,
+    2796,
+    3340,
+    562,
+    4678,
+    3458,
+    3288
+  ],
+  "productReviews": [
+    {
+      "productId": 2223,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2020-03-18T06:41:16.9469881+02:00"
+    },
+    {
+      "productId": 3571,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-03-03T01:30:41.5000109+02:00"
+    },
+    {
+      "productId": 211,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-10-31T06:11:01.1525048+02:00"
+    }
+  ]
+}

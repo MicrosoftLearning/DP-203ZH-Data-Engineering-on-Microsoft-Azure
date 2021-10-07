@@ -1,0 +1,40 @@
+{
+  "userId": 49562,
+  "cartId": "243f3430-4764-4301-99a0-d296b177bfe3",
+  "preferredProducts": [
+    777,
+    910,
+    3602,
+    4986,
+    2139,
+    4765,
+    1589
+  ],
+  "productReviews": [
+    {
+      "productId": 3553,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-07-03T16:36:53.8227302+03:00"
+    },
+    {
+      "productId": 874,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-09-12T02:59:58.0496783+03:00"
+    },
+    {
+      "productId": 3081,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-05-20T19:14:59.1162242+03:00"
+    },
+    {
+      "productId": 3041,
+      "reviewText": "this FTP is mellow.",
+      "reviewDate": "2016-09-15T23:14:54.8036327+03:00"
+    },
+    {
+      "productId": 805,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-02-23T11:07:16.6326565+02:00"
+    }
+  ]
+}

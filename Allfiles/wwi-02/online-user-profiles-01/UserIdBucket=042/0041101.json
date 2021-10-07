@@ -1,0 +1,32 @@
+{
+  "userId": 41101,
+  "cartId": "3cb7ca8e-ee2a-4405-9b39-309f165b7fa2",
+  "preferredProducts": [
+    4806,
+    1461,
+    3946,
+    3091
+  ],
+  "productReviews": [
+    {
+      "productId": 4748,
+      "reviewText": "This is a really good content.",
+      "reviewDate": "2020-03-28T20:21:59.0235488+02:00"
+    },
+    {
+      "productId": 3662,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-01-05T16:58:35.8447262+02:00"
+    },
+    {
+      "productId": 3795,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-02-07T21:28:16.7481627+02:00"
+    },
+    {
+      "productId": 2743,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-06-12T06:15:06.8471356+03:00"
+    }
+  ]
+}

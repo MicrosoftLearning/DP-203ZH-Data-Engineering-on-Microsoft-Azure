@@ -1,0 +1,36 @@
+{
+  "userId": 20085,
+  "cartId": "868be1a2-a06a-43ed-9acf-bd587535d51b",
+  "preferredProducts": [
+    4797,
+    3884,
+    3031,
+    405,
+    527,
+    3937,
+    704,
+    1189
+  ],
+  "productReviews": [
+    {
+      "productId": 300,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-10-25T07:40:43.059737+03:00"
+    },
+    {
+      "productId": 4812,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-07-16T09:19:21.6533536+03:00"
+    },
+    {
+      "productId": 852,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-01-25T14:10:08.9633172+02:00"
+    },
+    {
+      "productId": 2852,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-06-15T21:25:50.0564641+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 24342,
+  "cartId": "3461d369-c36a-4bf8-8486-5c843fd0e2cc",
+  "preferredProducts": [
+    446,
+    1599,
+    563,
+    4002,
+    1314
+  ],
+  "productReviews": [
+    {
+      "productId": 182,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-02-27T18:27:43.2453625+02:00"
+    },
+    {
+      "productId": 2782,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-11-16T09:53:30.6226841+02:00"
+    },
+    {
+      "productId": 102,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-08-23T06:29:09.7790673+03:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-01-31T05:05:04.5699032+02:00"
+    }
+  ]
+}

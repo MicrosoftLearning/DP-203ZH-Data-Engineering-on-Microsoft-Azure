@@ -1,0 +1,26 @@
+{
+  "userId": 63119,
+  "cartId": "4c4e63be-010a-4fdb-805e-58229643c36f",
+  "preferredProducts": [
+    240,
+    3620,
+    3553
+  ],
+  "productReviews": [
+    {
+      "productId": 122,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-06-13T10:35:07.000676+03:00"
+    },
+    {
+      "productId": 2164,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-07-25T10:25:48.5786862+03:00"
+    },
+    {
+      "productId": 4273,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-10-06T01:43:30.7063681+03:00"
+    }
+  ]
+}

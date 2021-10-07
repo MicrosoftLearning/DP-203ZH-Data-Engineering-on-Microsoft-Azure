@@ -1,0 +1,27 @@
+{
+  "userId": 56345,
+  "cartId": "a40be8bb-39cd-4abe-bb04-0b788cbbbe31",
+  "preferredProducts": [
+    3892,
+    4175,
+    2922,
+    716
+  ],
+  "productReviews": [
+    {
+      "productId": 1972,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2016-09-09T03:03:33.8843916+03:00"
+    },
+    {
+      "productId": 3893,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-03-16T06:22:52.5477661+02:00"
+    },
+    {
+      "productId": 4144,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-12-05T16:09:48.011855+02:00"
+    }
+  ]
+}

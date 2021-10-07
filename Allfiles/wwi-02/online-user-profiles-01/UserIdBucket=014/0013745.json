@@ -1,0 +1,27 @@
+{
+  "userId": 13745,
+  "cartId": "09c57bb2-884d-4f6b-b77c-833c0f7444bb",
+  "preferredProducts": [
+    3724,
+    2310,
+    1003,
+    1202
+  ],
+  "productReviews": [
+    {
+      "productId": 4004,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-02-01T15:40:35.4979818+02:00"
+    },
+    {
+      "productId": 4402,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-07-06T19:05:51.3590627+03:00"
+    },
+    {
+      "productId": 4773,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-01-16T06:04:16.9910744+02:00"
+    }
+  ]
+}

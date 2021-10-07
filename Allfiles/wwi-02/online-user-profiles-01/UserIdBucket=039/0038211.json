@@ -1,0 +1,31 @@
+{
+  "userId": 38211,
+  "cartId": "9820bc5e-e6f8-41fe-9bcf-d440c9d6e3c7",
+  "preferredProducts": [
+    1969,
+    2195,
+    595
+  ],
+  "productReviews": [
+    {
+      "productId": 958,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-11-18T23:34:56.4252824+02:00"
+    },
+    {
+      "productId": 3689,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-01-17T03:37:37.0026095+02:00"
+    },
+    {
+      "productId": 2628,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2018-06-19T18:09:20.0350975+03:00"
+    },
+    {
+      "productId": 2727,
+      "reviewText": "This Garden & Outdoors works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-11-29T16:18:51.437416+02:00"
+    }
+  ]
+}

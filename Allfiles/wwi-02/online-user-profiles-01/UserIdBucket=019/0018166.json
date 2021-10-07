@@ -1,0 +1,32 @@
+{
+  "userId": 18166,
+  "cartId": "3c6a8166-b927-4c2f-993e-f2f906338e6e",
+  "preferredProducts": [
+    3380,
+    3562,
+    2578,
+    4387
+  ],
+  "productReviews": [
+    {
+      "productId": 4808,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-29T11:48:21.9851401+02:00"
+    },
+    {
+      "productId": 3415,
+      "reviewText": "this Checking Account is ghetto.",
+      "reviewDate": "2018-05-30T00:48:41.0046497+03:00"
+    },
+    {
+      "productId": 435,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2020-03-11T17:17:12.9415105+02:00"
+    },
+    {
+      "productId": 1201,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-05-03T17:03:21.4450392+03:00"
+    }
+  ]
+}

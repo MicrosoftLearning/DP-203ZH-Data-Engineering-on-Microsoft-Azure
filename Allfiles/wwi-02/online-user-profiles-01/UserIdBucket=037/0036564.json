@@ -1,0 +1,38 @@
+{
+  "userId": 36564,
+  "cartId": "3bec350c-69fc-4c24-a63d-e666f257dc18",
+  "preferredProducts": [
+    4522,
+    3703,
+    939,
+    4971,
+    3605,
+    2630,
+    37,
+    903,
+    403,
+    4090
+  ],
+  "productReviews": [
+    {
+      "productId": 391,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-03-04T01:23:44.920507+02:00"
+    },
+    {
+      "productId": 2285,
+      "reviewText": "This SCSI works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-07-05T18:16:23.9067396+03:00"
+    },
+    {
+      "productId": 680,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-03-16T05:48:37.1605439+02:00"
+    },
+    {
+      "productId": 2664,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-05-27T01:19:17.4137944+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 33710,
+  "cartId": "e912508e-3e0b-48a5-8b67-d7442574ce81",
+  "preferredProducts": [
+    4324,
+    1792,
+    1547,
+    1441,
+    1821
+  ],
+  "productReviews": [
+    {
+      "productId": 1073,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-02-21T22:03:47.9723682+02:00"
+    },
+    {
+      "productId": 1099,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-02-01T00:24:07.9878208+02:00"
+    },
+    {
+      "productId": 1750,
+      "reviewText": "This disintermediate works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-08-24T14:20:46.3299743+03:00"
+    },
+    {
+      "productId": 1210,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-06-29T02:22:12.8906628+03:00"
+    }
+  ]
+}

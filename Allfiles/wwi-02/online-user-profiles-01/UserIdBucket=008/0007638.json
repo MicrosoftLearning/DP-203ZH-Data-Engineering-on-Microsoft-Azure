@@ -1,0 +1,38 @@
+{
+  "userId": 7638,
+  "cartId": "6fa348f7-72bb-4fda-8682-d69ff1a53ee6",
+  "preferredProducts": [
+    902,
+    257,
+    238,
+    4902,
+    1758,
+    3261,
+    1293,
+    2690,
+    545,
+    3639
+  ],
+  "productReviews": [
+    {
+      "productId": 2574,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2019-10-04T12:08:00.9036007+03:00"
+    },
+    {
+      "productId": 1413,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-02-12T21:00:54.451178+02:00"
+    },
+    {
+      "productId": 3385,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-02-23T00:29:32.2878964+02:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-08-16T09:36:09.688174+03:00"
+    }
+  ]
+}

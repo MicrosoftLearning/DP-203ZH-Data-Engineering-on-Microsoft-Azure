@@ -1,0 +1,36 @@
+{
+  "userId": 917,
+  "cartId": "50e210c9-affd-4cee-9e32-25d65b276eef",
+  "preferredProducts": [
+    946,
+    4137,
+    3492,
+    4726,
+    15,
+    399,
+    551,
+    245
+  ],
+  "productReviews": [
+    {
+      "productId": 4135,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-07-27T10:25:42.9816223+03:00"
+    },
+    {
+      "productId": 1379,
+      "reviewText": "this redefine is nifty.",
+      "reviewDate": "2018-07-04T13:50:20.7199075+03:00"
+    },
+    {
+      "productId": 1710,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-11-19T07:37:40.4445232+02:00"
+    },
+    {
+      "productId": 3399,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-10-08T02:04:25.7983533+03:00"
+    }
+  ]
+}

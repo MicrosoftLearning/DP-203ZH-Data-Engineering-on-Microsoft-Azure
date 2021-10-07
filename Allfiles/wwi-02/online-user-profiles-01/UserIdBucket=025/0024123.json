@@ -1,0 +1,26 @@
+{
+  "userId": 24123,
+  "cartId": "f9a73867-2a6e-4b0f-87a9-2b7736182c5f",
+  "preferredProducts": [
+    1881,
+    1601,
+    1942,
+    2274,
+    1111,
+    45,
+    3704,
+    3458
+  ],
+  "productReviews": [
+    {
+      "productId": 222,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-11-09T19:37:11.9218901+02:00"
+    },
+    {
+      "productId": 3584,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-11-08T12:03:59.2310783+02:00"
+    }
+  ]
+}

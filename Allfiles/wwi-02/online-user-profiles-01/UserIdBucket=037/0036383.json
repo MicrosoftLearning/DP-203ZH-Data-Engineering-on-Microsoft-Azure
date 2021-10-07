@@ -1,0 +1,30 @@
+{
+  "userId": 36383,
+  "cartId": "f04d457f-bc05-4456-abdb-fba5b0575dd7",
+  "preferredProducts": [
+    2624,
+    1585,
+    2786,
+    2663,
+    3622,
+    2980,
+    3456
+  ],
+  "productReviews": [
+    {
+      "productId": 1629,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-07-29T11:08:59.2118861+03:00"
+    },
+    {
+      "productId": 4714,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-10-23T00:39:31.797886+03:00"
+    },
+    {
+      "productId": 4478,
+      "reviewText": "this bandwidth is snowy.",
+      "reviewDate": "2016-11-25T06:25:06.3926594+02:00"
+    }
+  ]
+}

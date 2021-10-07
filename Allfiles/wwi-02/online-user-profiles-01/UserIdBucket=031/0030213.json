@@ -1,0 +1,32 @@
+{
+  "userId": 30213,
+  "cartId": "2ffc2e1e-d3fc-42a9-a74f-8d48c53d046d",
+  "preferredProducts": [
+    4826,
+    1190,
+    4660,
+    738,
+    3648,
+    1637,
+    2502,
+    3000,
+    1993
+  ],
+  "productReviews": [
+    {
+      "productId": 2957,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-05-24T21:07:48.8235705+03:00"
+    },
+    {
+      "productId": 2680,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-04-27T00:13:31.8589433+03:00"
+    },
+    {
+      "productId": 4929,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-12-27T17:36:53.6352129+02:00"
+    }
+  ]
+}

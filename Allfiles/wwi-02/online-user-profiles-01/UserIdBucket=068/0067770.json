@@ -1,0 +1,29 @@
+{
+  "userId": 67770,
+  "cartId": "40a682a2-2fe5-489f-a096-85306963e64d",
+  "preferredProducts": [
+    2163,
+    2497,
+    3787,
+    3252,
+    1069,
+    1883
+  ],
+  "productReviews": [
+    {
+      "productId": 3085,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-11-26T06:38:34.555245+02:00"
+    },
+    {
+      "productId": 3721,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-03-05T02:44:32.4951984+02:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2020-03-24T02:56:35.9527165+02:00"
+    }
+  ]
+}

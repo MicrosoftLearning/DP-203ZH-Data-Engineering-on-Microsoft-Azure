@@ -1,0 +1,28 @@
+{
+  "userId": 42108,
+  "cartId": "188ee42e-8193-4565-80e1-de3edea45e31",
+  "preferredProducts": [
+    937,
+    4411,
+    3198,
+    4609,
+    4441
+  ],
+  "productReviews": [
+    {
+      "productId": 2050,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-04-17T07:49:37.852449+03:00"
+    },
+    {
+      "productId": 3543,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-03-08T07:58:51.973331+02:00"
+    },
+    {
+      "productId": 2207,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-08-24T05:08:25.0638036+03:00"
+    }
+  ]
+}

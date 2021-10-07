@@ -1,0 +1,30 @@
+{
+  "userId": 47790,
+  "cartId": "44c00f46-614c-44f2-8cbe-937668f2699a",
+  "preferredProducts": [
+    2701,
+    2360,
+    1354,
+    3501,
+    1224,
+    1743,
+    244
+  ],
+  "productReviews": [
+    {
+      "productId": 833,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-03-27T06:06:53.7033175+03:00"
+    },
+    {
+      "productId": 1851,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-02-12T17:10:18.6610498+02:00"
+    },
+    {
+      "productId": 1200,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2020-05-03T15:52:16.3554889+03:00"
+    }
+  ]
+}

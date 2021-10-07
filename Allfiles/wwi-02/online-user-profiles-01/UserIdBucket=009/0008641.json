@@ -1,0 +1,27 @@
+{
+  "userId": 8641,
+  "cartId": "4c4aa815-dc48-4f70-a9c1-da65ca0f8f40",
+  "preferredProducts": [
+    1994,
+    4552,
+    2522,
+    2302
+  ],
+  "productReviews": [
+    {
+      "productId": 2577,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-04-07T17:49:10.0163598+03:00"
+    },
+    {
+      "productId": 4045,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-03-08T16:07:32.276035+02:00"
+    },
+    {
+      "productId": 450,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-08-13T20:31:11.5800619+03:00"
+    }
+  ]
+}

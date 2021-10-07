@@ -1,0 +1,33 @@
+{
+  "userId": 51,
+  "cartId": "32a9071b-29ab-4937-836a-ffc7bdae6533",
+  "preferredProducts": [
+    1456,
+    4126,
+    193,
+    3317,
+    3757,
+    111,
+    456,
+    1432,
+    4213,
+    4583
+  ],
+  "productReviews": [
+    {
+      "productId": 3203,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-07-20T07:44:05.4242792+03:00"
+    },
+    {
+      "productId": 4251,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-10-08T04:12:38.3478105+03:00"
+    },
+    {
+      "productId": 2073,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-05-23T00:41:13.9524021+03:00"
+    }
+  ]
+}

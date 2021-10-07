@@ -1,0 +1,29 @@
+{
+  "userId": 35072,
+  "cartId": "6e1bf946-f5b9-4883-981f-e412d93fd9f1",
+  "preferredProducts": [
+    3431,
+    2165,
+    4978,
+    3445,
+    2528,
+    4021
+  ],
+  "productReviews": [
+    {
+      "productId": 233,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-08-27T06:22:32.0257039+03:00"
+    },
+    {
+      "productId": 1241,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-04-20T17:55:34.4992026+03:00"
+    },
+    {
+      "productId": 618,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-08-29T07:55:54.8829219+03:00"
+    }
+  ]
+}

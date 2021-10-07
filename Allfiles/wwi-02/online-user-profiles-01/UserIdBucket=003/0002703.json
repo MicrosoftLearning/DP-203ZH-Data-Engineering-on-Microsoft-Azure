@@ -1,0 +1,27 @@
+{
+  "userId": 2703,
+  "cartId": "7ce9419e-ce63-4c98-9c91-2d8daa85b5f0",
+  "preferredProducts": [
+    2945,
+    140,
+    173,
+    3797
+  ],
+  "productReviews": [
+    {
+      "productId": 1262,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-06-25T06:54:11.7609393+03:00"
+    },
+    {
+      "productId": 571,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-01-24T11:44:40.4607137+02:00"
+    },
+    {
+      "productId": 2,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-11-26T16:54:52.9561096+02:00"
+    }
+  ]
+}

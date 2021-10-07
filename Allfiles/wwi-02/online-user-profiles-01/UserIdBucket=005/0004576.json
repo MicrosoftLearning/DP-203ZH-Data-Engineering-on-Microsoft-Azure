@@ -1,0 +1,27 @@
+{
+  "userId": 4576,
+  "cartId": "8ecabf8c-ab3b-4cf0-be8b-2e2839ac48df",
+  "preferredProducts": [
+    3897,
+    3542,
+    92,
+    624
+  ],
+  "productReviews": [
+    {
+      "productId": 1311,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-09-30T21:56:04.4478599+03:00"
+    },
+    {
+      "productId": 2137,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2016-10-13T04:46:25.4646482+03:00"
+    },
+    {
+      "productId": 3341,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-06-28T05:29:55.9524043+03:00"
+    }
+  ]
+}

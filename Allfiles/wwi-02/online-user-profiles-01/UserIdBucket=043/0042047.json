@@ -1,0 +1,36 @@
+{
+  "userId": 42047,
+  "cartId": "022e45c9-f641-4e2c-a8b5-475cc7a2e16d",
+  "preferredProducts": [
+    3870,
+    1,
+    3255,
+    4600,
+    1307,
+    2922,
+    3090,
+    268
+  ],
+  "productReviews": [
+    {
+      "productId": 568,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-14T14:03:12.2227875+03:00"
+    },
+    {
+      "productId": 117,
+      "reviewText": "this pixel is awesome.",
+      "reviewDate": "2019-11-17T07:41:20.3928467+02:00"
+    },
+    {
+      "productId": 3750,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-05-22T21:33:17.567396+03:00"
+    },
+    {
+      "productId": 338,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-12-15T04:07:12.0970341+02:00"
+    }
+  ]
+}

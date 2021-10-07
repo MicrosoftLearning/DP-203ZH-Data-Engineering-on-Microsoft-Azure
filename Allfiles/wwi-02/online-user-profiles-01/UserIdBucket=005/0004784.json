@@ -1,0 +1,35 @@
+{
+  "userId": 4784,
+  "cartId": "cf501058-5f07-454f-8ec1-029a46eb5f72",
+  "preferredProducts": [
+    4484,
+    3171
+  ],
+  "productReviews": [
+    {
+      "productId": 3712,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-10-30T13:45:45.2544381+02:00"
+    },
+    {
+      "productId": 1536,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-07-12T19:16:57.2289575+03:00"
+    },
+    {
+      "productId": 102,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-05-28T17:03:51.5618731+03:00"
+    },
+    {
+      "productId": 4079,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-04-10T08:16:58.0280857+03:00"
+    },
+    {
+      "productId": 2986,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-03-29T04:52:52.0659137+03:00"
+    }
+  ]
+}

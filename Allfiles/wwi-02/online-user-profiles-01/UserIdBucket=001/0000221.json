@@ -1,0 +1,32 @@
+{
+  "userId": 221,
+  "cartId": "f0ce14bf-5745-4775-ab1d-0d2c5f6f810e",
+  "preferredProducts": [
+    1981,
+    3625,
+    149,
+    369
+  ],
+  "productReviews": [
+    {
+      "productId": 2866,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-06-09T02:24:02.1198691+03:00"
+    },
+    {
+      "productId": 554,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-09-05T19:21:42.6862008+03:00"
+    },
+    {
+      "productId": 3328,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-11-02T10:05:06.5632526+02:00"
+    },
+    {
+      "productId": 4584,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-08-26T10:27:00.8675005+03:00"
+    }
+  ]
+}

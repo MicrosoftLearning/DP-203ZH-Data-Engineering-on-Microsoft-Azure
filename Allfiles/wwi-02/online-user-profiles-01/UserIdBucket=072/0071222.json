@@ -1,0 +1,35 @@
+{
+  "userId": 71222,
+  "cartId": "10384fb1-fd48-499e-81af-d58070d8a8bd",
+  "preferredProducts": [
+    4081,
+    101,
+    157,
+    3150,
+    2132,
+    1861,
+    373
+  ],
+  "productReviews": [
+    {
+      "productId": 1230,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-10-06T11:14:12.241663+03:00"
+    },
+    {
+      "productId": 3255,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-05-29T00:22:36.1948093+03:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-01-06T03:59:04.8565345+02:00"
+    },
+    {
+      "productId": 896,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-01-07T18:05:44.0493398+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 66907,
+  "cartId": "99e33575-b7cb-4ea5-a801-7eb1b036ea6d",
+  "preferredProducts": [
+    4685,
+    922,
+    893,
+    3843,
+    2388,
+    3534,
+    4769
+  ],
+  "productReviews": [
+    {
+      "productId": 3018,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-01-04T08:18:30.9245218+02:00"
+    },
+    {
+      "productId": 4128,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-01-11T07:30:36.9772955+02:00"
+    },
+    {
+      "productId": 598,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-07-08T12:26:33.4733094+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 40092,
+  "cartId": "a6df2f8b-5058-4bd3-ba5d-960b9d210ab1",
+  "preferredProducts": [
+    1395,
+    1307,
+    1098
+  ],
+  "productReviews": [
+    {
+      "productId": 4582,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-20T08:02:17.7516471+02:00"
+    },
+    {
+      "productId": 2590,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2020-01-24T12:09:26.626328+02:00"
+    },
+    {
+      "productId": 3666,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-11-10T08:09:42.41724+02:00"
+    },
+    {
+      "productId": 1761,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-12-25T23:55:05.7975493+02:00"
+    }
+  ]
+}

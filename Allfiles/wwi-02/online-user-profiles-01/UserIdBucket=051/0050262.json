@@ -1,0 +1,26 @@
+{
+  "userId": 50262,
+  "cartId": "01bfcd1d-165a-4c09-8592-64f78713aca0",
+  "preferredProducts": [
+    1086,
+    1349,
+    3668,
+    700,
+    1853,
+    312,
+    3586,
+    3500
+  ],
+  "productReviews": [
+    {
+      "productId": 1140,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-03-13T18:47:16.0328179+02:00"
+    },
+    {
+      "productId": 4913,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-03-26T02:22:48.6792386+02:00"
+    }
+  ]
+}

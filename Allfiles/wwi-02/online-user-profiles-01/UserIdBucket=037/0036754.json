@@ -1,0 +1,30 @@
+{
+  "userId": 36754,
+  "cartId": "b8cfdcc7-adb7-4216-ac8a-19b12a1bcf4e",
+  "preferredProducts": [
+    118,
+    643,
+    2765,
+    4214,
+    4815,
+    923,
+    1834
+  ],
+  "productReviews": [
+    {
+      "productId": 796,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-04-27T06:46:13.849641+03:00"
+    },
+    {
+      "productId": 2752,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-02-15T13:00:54.4629482+02:00"
+    },
+    {
+      "productId": 3331,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-08-22T11:09:33.7734158+03:00"
+    }
+  ]
+}

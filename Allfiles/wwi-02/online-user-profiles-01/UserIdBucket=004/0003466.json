@@ -1,0 +1,29 @@
+{
+  "userId": 3466,
+  "cartId": "5069fe8c-a1e1-4904-bd28-bb60a90bf67a",
+  "preferredProducts": [
+    1605
+  ],
+  "productReviews": [
+    {
+      "productId": 3270,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-05-18T08:31:25.6706857+03:00"
+    },
+    {
+      "productId": 2282,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-10-13T23:41:01.3257782+03:00"
+    },
+    {
+      "productId": 3321,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-11-12T12:20:33.0726648+02:00"
+    },
+    {
+      "productId": 1253,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-11-03T18:33:00.9344459+02:00"
+    }
+  ]
+}

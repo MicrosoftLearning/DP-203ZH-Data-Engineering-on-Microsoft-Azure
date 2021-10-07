@@ -1,0 +1,28 @@
+{
+  "userId": 76286,
+  "cartId": "c783dd4f-cdae-42ca-ab80-0ccfbe7e9299",
+  "preferredProducts": [
+    4509,
+    3937,
+    1734,
+    3488,
+    987
+  ],
+  "productReviews": [
+    {
+      "productId": 2973,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-01-05T18:47:12.6436985+02:00"
+    },
+    {
+      "productId": 3501,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-09-22T06:43:12.4998642+03:00"
+    },
+    {
+      "productId": 3897,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-12T05:40:28.8577162+03:00"
+    }
+  ]
+}

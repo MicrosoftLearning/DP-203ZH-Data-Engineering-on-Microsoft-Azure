@@ -1,0 +1,37 @@
+{
+  "userId": 12844,
+  "cartId": "7b89c69c-1e45-4b3c-8d72-b67dad97cc80",
+  "preferredProducts": [
+    4286,
+    3352,
+    3550,
+    3499,
+    721,
+    4869,
+    3773,
+    2925,
+    1223
+  ],
+  "productReviews": [
+    {
+      "productId": 4114,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-11-11T21:31:37.8621345+02:00"
+    },
+    {
+      "productId": 2326,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2020-01-07T02:09:56.6257483+02:00"
+    },
+    {
+      "productId": 4938,
+      "reviewText": "This ability works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2017-04-13T14:56:54.3125664+03:00"
+    },
+    {
+      "productId": 4303,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-12-25T16:58:37.6831389+02:00"
+    }
+  ]
+}

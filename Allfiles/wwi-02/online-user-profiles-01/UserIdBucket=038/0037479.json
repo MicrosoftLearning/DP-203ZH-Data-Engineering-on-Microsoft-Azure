@@ -1,0 +1,29 @@
+{
+  "userId": 37479,
+  "cartId": "4c969b8d-3077-4925-921f-44074cec2a5f",
+  "preferredProducts": [
+    1233,
+    1776,
+    2048,
+    2318,
+    2165,
+    3626
+  ],
+  "productReviews": [
+    {
+      "productId": 4213,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-04-18T11:22:31.0136037+03:00"
+    },
+    {
+      "productId": 383,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-06-05T02:55:11.3050396+03:00"
+    },
+    {
+      "productId": 2554,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-10-27T02:14:10.7584199+03:00"
+    }
+  ]
+}

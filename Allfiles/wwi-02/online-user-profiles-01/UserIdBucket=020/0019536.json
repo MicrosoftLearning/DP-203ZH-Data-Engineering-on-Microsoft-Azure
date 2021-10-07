@@ -1,0 +1,34 @@
+{
+  "userId": 19536,
+  "cartId": "36d3e105-4b9b-4f65-aad1-9f7720acf97d",
+  "preferredProducts": [
+    1612,
+    3672,
+    1347,
+    595,
+    2612,
+    967
+  ],
+  "productReviews": [
+    {
+      "productId": 2077,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-08-02T17:11:34.0055162+03:00"
+    },
+    {
+      "productId": 3787,
+      "reviewText": "This is a really good Buckinghamshire.",
+      "reviewDate": "2017-03-02T14:12:02.7073536+02:00"
+    },
+    {
+      "productId": 1146,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2016-12-27T05:22:55.9544524+02:00"
+    },
+    {
+      "productId": 851,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-09-09T19:25:07.4039093+03:00"
+    }
+  ]
+}

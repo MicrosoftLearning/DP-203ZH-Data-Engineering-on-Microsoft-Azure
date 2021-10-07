@@ -1,0 +1,30 @@
+{
+  "userId": 68290,
+  "cartId": "6c8346fe-465b-4187-b3d4-23483ef55bcf",
+  "preferredProducts": [
+    4693,
+    1164,
+    2320,
+    1560,
+    470,
+    4696,
+    1506
+  ],
+  "productReviews": [
+    {
+      "productId": 492,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-03-12T06:15:05.5809002+02:00"
+    },
+    {
+      "productId": 117,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-09-25T04:56:45.8547858+03:00"
+    },
+    {
+      "productId": 583,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-06-25T11:15:16.6398474+03:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 17179,
+  "cartId": "02a1c15c-9ba8-4f5d-8f3c-c2167755c380",
+  "preferredProducts": [
+    352,
+    1760,
+    2726,
+    2334,
+    4603,
+    613,
+    985,
+    471,
+    2500
+  ],
+  "productReviews": [
+    {
+      "productId": 3793,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-12-07T23:08:00.1606305+02:00"
+    },
+    {
+      "productId": 3620,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-08-23T09:36:39.5216813+03:00"
+    },
+    {
+      "productId": 2221,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-06-21T23:12:09.6331362+03:00"
+    },
+    {
+      "productId": 1313,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-06-09T01:15:55.2012383+03:00"
+    },
+    {
+      "productId": 427,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-02-24T05:30:50.333305+02:00"
+    }
+  ]
+}

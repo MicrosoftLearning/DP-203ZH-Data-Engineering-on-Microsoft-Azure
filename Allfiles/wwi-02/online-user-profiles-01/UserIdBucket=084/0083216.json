@@ -1,0 +1,32 @@
+{
+  "userId": 83216,
+  "cartId": "003e5786-fdd5-413e-85b9-72712880040b",
+  "preferredProducts": [
+    1336,
+    3447,
+    4935,
+    3125,
+    541,
+    885,
+    3361,
+    948,
+    789
+  ],
+  "productReviews": [
+    {
+      "productId": 1870,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-10-01T05:45:59.4469094+03:00"
+    },
+    {
+      "productId": 779,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-04-25T03:59:49.1149044+03:00"
+    },
+    {
+      "productId": 1980,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-09-17T21:51:44.972564+03:00"
+    }
+  ]
+}

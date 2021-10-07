@@ -1,0 +1,32 @@
+{
+  "userId": 25575,
+  "cartId": "d5c101a4-fbdb-44ae-b22a-473b0144c4f0",
+  "preferredProducts": [
+    4567,
+    1275,
+    2536,
+    4846,
+    3495,
+    3498,
+    2344,
+    2280,
+    262
+  ],
+  "productReviews": [
+    {
+      "productId": 4662,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-12-26T20:55:44.0797934+02:00"
+    },
+    {
+      "productId": 4233,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-09-18T21:18:32.9264666+03:00"
+    },
+    {
+      "productId": 3292,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-05-15T13:30:21.4824896+03:00"
+    }
+  ]
+}

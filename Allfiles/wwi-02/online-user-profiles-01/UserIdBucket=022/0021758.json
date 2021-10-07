@@ -1,0 +1,25 @@
+{
+  "userId": 21758,
+  "cartId": "5471ffb7-f7fe-4db4-b7fb-3d90515a5998",
+  "preferredProducts": [
+    4730,
+    3275,
+    1135,
+    2476,
+    384,
+    2946,
+    3874
+  ],
+  "productReviews": [
+    {
+      "productId": 3366,
+      "reviewText": "this yellow is smooth.",
+      "reviewDate": "2018-01-21T09:23:52.3119264+02:00"
+    },
+    {
+      "productId": 1729,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-07-02T16:33:05.8401971+03:00"
+    }
+  ]
+}

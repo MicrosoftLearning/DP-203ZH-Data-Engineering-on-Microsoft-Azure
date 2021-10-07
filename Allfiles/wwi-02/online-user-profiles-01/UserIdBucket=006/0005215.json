@@ -1,0 +1,35 @@
+{
+  "userId": 5215,
+  "cartId": "f1c274f0-c860-4f98-bab5-56abad976fe0",
+  "preferredProducts": [
+    3926,
+    1699,
+    1881,
+    3082,
+    2944,
+    927,
+    2503
+  ],
+  "productReviews": [
+    {
+      "productId": 4391,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-02-17T14:57:28.9811166+02:00"
+    },
+    {
+      "productId": 2305,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-04-06T08:22:04.7171289+03:00"
+    },
+    {
+      "productId": 1033,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-09-26T20:21:20.1741236+03:00"
+    },
+    {
+      "productId": 1303,
+      "reviewText": "this yellow is tasty.",
+      "reviewDate": "2018-08-07T12:17:13.3321875+03:00"
+    }
+  ]
+}

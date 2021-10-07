@@ -1,0 +1,26 @@
+{
+  "userId": 24187,
+  "cartId": "d516bad5-b72e-4b7a-a96c-43385660ad87",
+  "preferredProducts": [
+    1493,
+    1235,
+    2309
+  ],
+  "productReviews": [
+    {
+      "productId": 1608,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-08-15T11:26:16.2208072+03:00"
+    },
+    {
+      "productId": 4259,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-01-19T15:16:18.7722279+02:00"
+    },
+    {
+      "productId": 3327,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-03-27T21:34:56.0389236+02:00"
+    }
+  ]
+}

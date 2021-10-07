@@ -1,0 +1,41 @@
+{
+  "userId": 3674,
+  "cartId": "938e9c1e-15d6-4f72-87f4-00421ad15c20",
+  "preferredProducts": [
+    196,
+    3607,
+    1608,
+    4940,
+    2454,
+    2347,
+    3342,
+    4194
+  ],
+  "productReviews": [
+    {
+      "productId": 1725,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-04-18T21:41:37.7278573+03:00"
+    },
+    {
+      "productId": 454,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-04-06T00:52:00.3774802+03:00"
+    },
+    {
+      "productId": 3133,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-06-17T00:46:47.723214+03:00"
+    },
+    {
+      "productId": 3756,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-09-11T22:38:12.3778712+03:00"
+    },
+    {
+      "productId": 4017,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-02-27T02:32:20.1183855+02:00"
+    }
+  ]
+}

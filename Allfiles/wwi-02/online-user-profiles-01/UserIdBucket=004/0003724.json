@@ -1,0 +1,31 @@
+{
+  "userId": 3724,
+  "cartId": "ffa568f1-bda1-437e-a6c3-ba9a86b72b6f",
+  "preferredProducts": [
+    3474,
+    4632,
+    1615
+  ],
+  "productReviews": [
+    {
+      "productId": 2269,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-04-29T12:11:33.4030212+03:00"
+    },
+    {
+      "productId": 4922,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-09-19T18:32:28.4309937+03:00"
+    },
+    {
+      "productId": 4305,
+      "reviewText": "this Rustic Wooden Car is slurpee.",
+      "reviewDate": "2019-11-30T03:18:55.4202136+02:00"
+    },
+    {
+      "productId": 1323,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-11-23T22:32:04.5942719+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 31124,
+  "cartId": "3e63d5ac-4508-489f-a6f4-7e927a9375e7",
+  "preferredProducts": [
+    3711,
+    1623,
+    1178,
+    224,
+    3825,
+    507
+  ],
+  "productReviews": [
+    {
+      "productId": 3313,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-05-25T14:33:04.9989348+03:00"
+    },
+    {
+      "productId": 2268,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-02-12T16:18:22.2102289+02:00"
+    },
+    {
+      "productId": 3223,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-02-23T14:41:21.0741108+02:00"
+    }
+  ]
+}

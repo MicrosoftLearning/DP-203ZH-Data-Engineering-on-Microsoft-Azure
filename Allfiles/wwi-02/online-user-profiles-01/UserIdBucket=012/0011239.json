@@ -1,0 +1,33 @@
+{
+  "userId": 11239,
+  "cartId": "a835b6fe-cf33-4d7f-b1b1-3f32d74379ee",
+  "preferredProducts": [
+    4881,
+    3358,
+    1789,
+    3858,
+    3083,
+    4877,
+    2613,
+    2874,
+    2286,
+    3404
+  ],
+  "productReviews": [
+    {
+      "productId": 4230,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-05-08T21:38:54.7489924+03:00"
+    },
+    {
+      "productId": 1721,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-07-28T07:51:15.3849793+03:00"
+    },
+    {
+      "productId": 4471,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-11-19T22:01:20.7788456+02:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 98733,
+  "cartId": "38ef8fac-404f-4915-824a-d3274cb1de0e",
+  "preferredProducts": [
+    1234,
+    4151,
+    1414,
+    2453,
+    3417
+  ],
+  "productReviews": [
+    {
+      "productId": 4295,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-07-09T23:52:20.2110563+03:00"
+    },
+    {
+      "productId": 271,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-12-08T14:48:02.203037+02:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-08-16T15:53:29.5183727+03:00"
+    }
+  ]
+}

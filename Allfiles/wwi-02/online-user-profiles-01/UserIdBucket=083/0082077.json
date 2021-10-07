@@ -1,0 +1,29 @@
+{
+  "userId": 82077,
+  "cartId": "f20c50aa-4797-46a2-9fb3-a61e60098cab",
+  "preferredProducts": [
+    3337,
+    1667,
+    4133,
+    3800,
+    2143,
+    4365
+  ],
+  "productReviews": [
+    {
+      "productId": 4646,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-11-28T12:32:20.1779571+02:00"
+    },
+    {
+      "productId": 4475,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-03-15T07:11:12.6546292+02:00"
+    },
+    {
+      "productId": 4301,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-09-28T21:20:41.2445053+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 70990,
+  "cartId": "7cbef3e8-a1f9-4e6d-9b81-1479cb36c351",
+  "preferredProducts": [
+    1823,
+    267,
+    255,
+    2660,
+    735,
+    4704,
+    163,
+    1628,
+    2226,
+    191
+  ],
+  "productReviews": [
+    {
+      "productId": 2659,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-01-11T03:26:02.2766196+02:00"
+    },
+    {
+      "productId": 2808,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-05-16T17:24:37.5577144+03:00"
+    },
+    {
+      "productId": 1326,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-02-05T08:57:33.8044383+02:00"
+    }
+  ]
+}

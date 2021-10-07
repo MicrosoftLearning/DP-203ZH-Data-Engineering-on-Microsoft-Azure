@@ -1,0 +1,37 @@
+{
+  "userId": 65412,
+  "cartId": "0b2a6d57-4934-47cd-bab6-17e565d89dce",
+  "preferredProducts": [
+    371,
+    791,
+    1848,
+    3004
+  ],
+  "productReviews": [
+    {
+      "productId": 2324,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-04-03T05:30:19.9512501+03:00"
+    },
+    {
+      "productId": 3257,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2020-05-03T03:26:58.1102132+03:00"
+    },
+    {
+      "productId": 3058,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-03-26T09:49:31.5506025+03:00"
+    },
+    {
+      "productId": 3797,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-01-09T18:44:09.6248668+02:00"
+    },
+    {
+      "productId": 3788,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-06-12T09:55:43.574903+03:00"
+    }
+  ]
+}

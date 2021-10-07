@@ -1,0 +1,33 @@
+{
+  "userId": 20849,
+  "cartId": "0552d4de-4422-4071-a2d9-bb921afd8571",
+  "preferredProducts": [
+    2638,
+    4719,
+    203,
+    2443,
+    2786,
+    1081,
+    1595,
+    2032,
+    503,
+    1667
+  ],
+  "productReviews": [
+    {
+      "productId": 3465,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-04-24T10:00:05.0356803+03:00"
+    },
+    {
+      "productId": 1704,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-06-13T08:58:38.6602313+03:00"
+    },
+    {
+      "productId": 4506,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-05-24T13:50:01.3263095+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 2241,
+  "cartId": "dc65cdc8-258a-4257-b700-c88c2a2bd165",
+  "preferredProducts": [
+    191,
+    1533,
+    2723,
+    1064
+  ],
+  "productReviews": [
+    {
+      "productId": 3365,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2020-02-08T03:51:48.7070962+02:00"
+    },
+    {
+      "productId": 4032,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2018-04-28T06:49:28.7976269+03:00"
+    },
+    {
+      "productId": 4423,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-11-16T13:35:08.0307842+02:00"
+    },
+    {
+      "productId": 1030,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-12-09T14:11:56.6777123+02:00"
+    }
+  ]
+}

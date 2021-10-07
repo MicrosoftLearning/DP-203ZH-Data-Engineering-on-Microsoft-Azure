@@ -1,0 +1,28 @@
+{
+  "userId": 64101,
+  "cartId": "3bb05c5a-b81b-4a2f-970d-4344740f5077",
+  "preferredProducts": [
+    4832,
+    3471,
+    2560,
+    1196,
+    409
+  ],
+  "productReviews": [
+    {
+      "productId": 4534,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-04-16T13:03:07.1792166+03:00"
+    },
+    {
+      "productId": 3039,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-08-13T01:16:03.2522165+03:00"
+    },
+    {
+      "productId": 3465,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-12-24T17:25:17.1070851+02:00"
+    }
+  ]
+}

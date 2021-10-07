@@ -1,0 +1,32 @@
+{
+  "userId": 65164,
+  "cartId": "98a2d37a-8b78-48cb-b7d6-92dcf9a6879c",
+  "preferredProducts": [
+    692,
+    2536,
+    4708,
+    2217
+  ],
+  "productReviews": [
+    {
+      "productId": 4933,
+      "reviewText": "this auxiliary is hyper.",
+      "reviewDate": "2019-11-13T11:42:02.0763824+02:00"
+    },
+    {
+      "productId": 4364,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-12-05T00:13:56.6945983+02:00"
+    },
+    {
+      "productId": 3142,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-08-13T13:19:14.0628353+03:00"
+    },
+    {
+      "productId": 862,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-05-10T04:31:35.5873469+03:00"
+    }
+  ]
+}

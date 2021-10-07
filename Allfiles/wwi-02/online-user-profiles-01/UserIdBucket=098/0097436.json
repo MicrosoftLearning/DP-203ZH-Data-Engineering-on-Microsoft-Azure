@@ -1,0 +1,27 @@
+{
+  "userId": 97436,
+  "cartId": "6b3a2b93-ec82-44d5-b5bb-af7b7f26e0d9",
+  "preferredProducts": [
+    733,
+    4007,
+    3048,
+    2695
+  ],
+  "productReviews": [
+    {
+      "productId": 1003,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2016-12-22T09:43:02.7037153+02:00"
+    },
+    {
+      "productId": 2350,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-09-07T22:46:30.2991464+03:00"
+    },
+    {
+      "productId": 2461,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-12-31T15:27:44.6058005+02:00"
+    }
+  ]
+}

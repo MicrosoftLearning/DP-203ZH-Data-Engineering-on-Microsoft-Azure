@@ -1,0 +1,36 @@
+{
+  "userId": 12402,
+  "cartId": "340d9eac-1c83-480b-8965-24672daeb9a3",
+  "preferredProducts": [
+    371,
+    4086,
+    243,
+    4384,
+    800,
+    2410,
+    1045,
+    847
+  ],
+  "productReviews": [
+    {
+      "productId": 3234,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-01-04T05:41:29.3689609+02:00"
+    },
+    {
+      "productId": 2828,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-06-01T22:09:23.2244805+03:00"
+    },
+    {
+      "productId": 4984,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-10-08T10:38:33.2049944+03:00"
+    },
+    {
+      "productId": 3279,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2018-09-26T02:08:30.379392+03:00"
+    }
+  ]
+}

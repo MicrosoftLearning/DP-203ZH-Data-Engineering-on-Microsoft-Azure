@@ -1,0 +1,39 @@
+{
+  "userId": 34042,
+  "cartId": "5bde3c3d-a1ff-4a19-9bff-c7f7d36d995e",
+  "preferredProducts": [
+    3236,
+    4178,
+    1857,
+    4705,
+    3466,
+    3280
+  ],
+  "productReviews": [
+    {
+      "productId": 2130,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-11-25T04:25:30.6462086+02:00"
+    },
+    {
+      "productId": 3193,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-11-21T16:20:09.951379+02:00"
+    },
+    {
+      "productId": 1142,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-10-03T06:42:11.0725975+03:00"
+    },
+    {
+      "productId": 2757,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-04-14T03:04:44.038555+03:00"
+    },
+    {
+      "productId": 2182,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-02-16T23:49:36.7156517+02:00"
+    }
+  ]
+}

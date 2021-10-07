@@ -1,0 +1,39 @@
+{
+  "userId": 91524,
+  "cartId": "3ea68cea-4d45-4fa0-a569-65d18f25faeb",
+  "preferredProducts": [
+    3426,
+    4805,
+    881,
+    353,
+    1234,
+    2563
+  ],
+  "productReviews": [
+    {
+      "productId": 269,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-11-10T22:16:08.03978+02:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-12-17T23:33:21.9371684+02:00"
+    },
+    {
+      "productId": 3188,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-04-15T13:16:32.8799981+03:00"
+    },
+    {
+      "productId": 4379,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-11-10T01:10:44.3631021+02:00"
+    },
+    {
+      "productId": 4423,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-03-27T04:10:28.0903782+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 9274,
+  "cartId": "2f90c02c-c576-4e23-b5e4-f6dbc89ded5a",
+  "preferredProducts": [
+    4187,
+    3176,
+    2026,
+    529,
+    4997,
+    1351,
+    3757
+  ],
+  "productReviews": [
+    {
+      "productId": 3058,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-12-26T12:20:01.4594544+02:00"
+    },
+    {
+      "productId": 1151,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-11-13T08:57:15.8291659+02:00"
+    },
+    {
+      "productId": 135,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2016-11-30T23:13:08.2761864+02:00"
+    }
+  ]
+}

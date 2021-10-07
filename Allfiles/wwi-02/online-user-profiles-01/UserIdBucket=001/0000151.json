@@ -1,0 +1,23 @@
+{
+  "userId": 151,
+  "cartId": "654ec1e6-79ca-417c-8e8f-ba5fd8dc0090",
+  "preferredProducts": [
+    2549,
+    3035,
+    1534,
+    3500,
+    2288
+  ],
+  "productReviews": [
+    {
+      "productId": 2948,
+      "reviewText": "This Ergonomic Cotton Hat works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-10-10T15:20:02.8293534+03:00"
+    },
+    {
+      "productId": 109,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-10-23T15:39:39.5310075+03:00"
+    }
+  ]
+}

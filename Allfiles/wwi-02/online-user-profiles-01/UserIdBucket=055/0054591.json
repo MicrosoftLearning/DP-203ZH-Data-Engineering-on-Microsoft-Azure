@@ -1,0 +1,29 @@
+{
+  "userId": 54591,
+  "cartId": "a94fc524-63cf-4c9a-9818-37bb02628f50",
+  "preferredProducts": [
+    522,
+    605,
+    3088,
+    2500,
+    3625,
+    2663
+  ],
+  "productReviews": [
+    {
+      "productId": 388,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-07-04T08:39:59.1479915+03:00"
+    },
+    {
+      "productId": 3558,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-09-14T10:51:24.7217693+03:00"
+    },
+    {
+      "productId": 1201,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-03-11T10:38:53.1645563+02:00"
+    }
+  ]
+}

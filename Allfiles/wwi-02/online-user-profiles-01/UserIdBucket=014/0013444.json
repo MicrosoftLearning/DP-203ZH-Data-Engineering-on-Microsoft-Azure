@@ -1,0 +1,36 @@
+{
+  "userId": 13444,
+  "cartId": "eccbc24d-3192-4b3e-add2-b40b9e8069b7",
+  "preferredProducts": [
+    3063,
+    4162,
+    2877,
+    4837,
+    1629,
+    2645,
+    2539,
+    1191
+  ],
+  "productReviews": [
+    {
+      "productId": 517,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-10-09T11:34:49.3392474+03:00"
+    },
+    {
+      "productId": 133,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-03-12T08:23:43.6871761+02:00"
+    },
+    {
+      "productId": 2384,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2020-01-14T03:57:49.8016284+02:00"
+    },
+    {
+      "productId": 3397,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-10-17T23:49:06.6230226+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 37899,
+  "cartId": "0b9aafec-fc83-44dd-8821-2971d70f2352",
+  "preferredProducts": [
+    1195,
+    3020,
+    2643,
+    2114,
+    874
+  ],
+  "productReviews": [
+    {
+      "productId": 3911,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-08-03T19:34:09.9700514+03:00"
+    },
+    {
+      "productId": 3364,
+      "reviewText": "This non-volatile works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-11-30T09:57:54.4889475+02:00"
+    }
+  ]
+}

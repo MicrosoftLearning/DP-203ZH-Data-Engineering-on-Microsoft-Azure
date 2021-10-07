@@ -1,0 +1,32 @@
+{
+  "userId": 98008,
+  "cartId": "0ef15779-eeb1-4000-988a-343f67b153d0",
+  "preferredProducts": [
+    3950,
+    3181,
+    2198,
+    3233,
+    3714,
+    3721,
+    548,
+    4944,
+    3819
+  ],
+  "productReviews": [
+    {
+      "productId": 532,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-08-12T18:41:54.2004726+03:00"
+    },
+    {
+      "productId": 3898,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-03-01T08:42:19.327118+02:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-02-23T06:13:10.3936808+02:00"
+    }
+  ]
+}

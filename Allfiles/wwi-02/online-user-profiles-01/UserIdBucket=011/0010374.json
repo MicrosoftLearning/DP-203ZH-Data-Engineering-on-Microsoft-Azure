@@ -1,0 +1,38 @@
+{
+  "userId": 10374,
+  "cartId": "6577fbae-a28d-4c15-b723-131aa0d691a9",
+  "preferredProducts": [
+    2244,
+    2493,
+    4326,
+    2643,
+    4845
+  ],
+  "productReviews": [
+    {
+      "productId": 1178,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-08-25T00:47:38.2187872+03:00"
+    },
+    {
+      "productId": 435,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-07-20T00:07:22.6590969+03:00"
+    },
+    {
+      "productId": 679,
+      "reviewText": "This Niue works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-11-06T01:05:07.0623261+02:00"
+    },
+    {
+      "productId": 2718,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-06-12T17:22:24.2587696+03:00"
+    },
+    {
+      "productId": 1055,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-04T00:23:01.7611675+02:00"
+    }
+  ]
+}

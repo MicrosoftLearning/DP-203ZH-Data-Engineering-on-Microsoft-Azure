@@ -1,0 +1,27 @@
+{
+  "userId": 2361,
+  "cartId": "abd32ea0-f359-4a0d-ac1b-bbc3365e236b",
+  "preferredProducts": [
+    4540,
+    634,
+    3584,
+    1400,
+    4207,
+    2577,
+    3547,
+    2709,
+    3999
+  ],
+  "productReviews": [
+    {
+      "productId": 1442,
+      "reviewText": "this reboot is smooth.",
+      "reviewDate": "2020-04-28T18:25:50.7590673+03:00"
+    },
+    {
+      "productId": 1965,
+      "reviewText": "this copy is gracious.",
+      "reviewDate": "2016-11-28T15:40:01.8917233+02:00"
+    }
+  ]
+}

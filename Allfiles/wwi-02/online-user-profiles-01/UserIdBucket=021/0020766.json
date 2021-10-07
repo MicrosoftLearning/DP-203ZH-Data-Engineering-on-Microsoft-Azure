@@ -1,0 +1,31 @@
+{
+  "userId": 20766,
+  "cartId": "7165ed81-26ef-463d-ace4-437119da1a01",
+  "preferredProducts": [
+    2489,
+    102,
+    2893,
+    3274,
+    544,
+    2224,
+    926,
+    4042
+  ],
+  "productReviews": [
+    {
+      "productId": 80,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-05-20T22:15:23.5475587+03:00"
+    },
+    {
+      "productId": 2491,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-08-19T07:30:57.3860119+03:00"
+    },
+    {
+      "productId": 1872,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-04-07T06:29:03.8240192+03:00"
+    }
+  ]
+}

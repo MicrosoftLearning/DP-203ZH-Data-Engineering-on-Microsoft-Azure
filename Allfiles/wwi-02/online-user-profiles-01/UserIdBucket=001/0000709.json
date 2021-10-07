@@ -1,0 +1,32 @@
+{
+  "userId": 709,
+  "cartId": "4fe30b6d-efa8-42ee-8261-3826dfeba44f",
+  "preferredProducts": [
+    4935,
+    4614,
+    1439,
+    3601,
+    3328,
+    494,
+    2636,
+    2380,
+    1907
+  ],
+  "productReviews": [
+    {
+      "productId": 4031,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-09-19T17:00:33.187056+03:00"
+    },
+    {
+      "productId": 1010,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-09-18T07:55:47.6316739+03:00"
+    },
+    {
+      "productId": 1671,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-07-12T09:48:11.8374329+03:00"
+    }
+  ]
+}

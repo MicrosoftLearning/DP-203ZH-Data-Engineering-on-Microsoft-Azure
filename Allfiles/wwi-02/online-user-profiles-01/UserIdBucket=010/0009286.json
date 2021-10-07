@@ -1,0 +1,30 @@
+{
+  "userId": 9286,
+  "cartId": "06d29350-45b3-400f-b41d-0785c319f8bf",
+  "preferredProducts": [
+    277,
+    3737,
+    493,
+    1672,
+    3796,
+    1581,
+    3123
+  ],
+  "productReviews": [
+    {
+      "productId": 2320,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-12-10T11:05:34.1474817+02:00"
+    },
+    {
+      "productId": 1218,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2016-06-24T03:22:41.1181952+03:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "This magenta works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-01-20T19:38:51.2267299+02:00"
+    }
+  ]
+}

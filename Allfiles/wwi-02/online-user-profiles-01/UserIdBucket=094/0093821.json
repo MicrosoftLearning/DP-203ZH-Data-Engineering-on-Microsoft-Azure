@@ -1,0 +1,31 @@
+{
+  "userId": 93821,
+  "cartId": "ff643a5a-65f9-458e-b967-0d2506a14d82",
+  "preferredProducts": [
+    3582,
+    3423,
+    3397,
+    1018,
+    3310,
+    3299,
+    1867,
+    383
+  ],
+  "productReviews": [
+    {
+      "productId": 2045,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-02-04T12:55:07.5745243+02:00"
+    },
+    {
+      "productId": 1169,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-03-08T17:37:10.8233614+02:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-06-22T19:20:35.5189248+03:00"
+    }
+  ]
+}

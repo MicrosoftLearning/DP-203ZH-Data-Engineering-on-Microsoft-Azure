@@ -1,0 +1,28 @@
+{
+  "userId": 28375,
+  "cartId": "7189b54e-8d67-466e-ac07-ede78969d8ad",
+  "preferredProducts": [
+    2271,
+    770,
+    3228,
+    915,
+    1335
+  ],
+  "productReviews": [
+    {
+      "productId": 3006,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-11-14T06:17:51.0324773+02:00"
+    },
+    {
+      "productId": 342,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-01-11T19:32:53.3038035+02:00"
+    },
+    {
+      "productId": 4719,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-05-24T02:26:17.4552983+03:00"
+    }
+  ]
+}

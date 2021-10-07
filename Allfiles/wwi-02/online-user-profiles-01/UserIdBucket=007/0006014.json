@@ -1,0 +1,34 @@
+{
+  "userId": 6014,
+  "cartId": "34cc59dd-c325-4ded-bcf6-ff6ef8c9b3ae",
+  "preferredProducts": [
+    362,
+    3905,
+    357,
+    4138,
+    1792,
+    486
+  ],
+  "productReviews": [
+    {
+      "productId": 1514,
+      "reviewText": "this Program is ratty.",
+      "reviewDate": "2017-03-04T01:28:56.9821559+02:00"
+    },
+    {
+      "productId": 1778,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2017-06-24T17:53:49.8228845+03:00"
+    },
+    {
+      "productId": 1782,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-04-07T18:39:33.1922374+03:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-06-05T17:49:55.8102391+03:00"
+    }
+  ]
+}

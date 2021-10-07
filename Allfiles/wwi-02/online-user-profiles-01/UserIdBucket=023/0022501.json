@@ -1,0 +1,25 @@
+{
+  "userId": 22501,
+  "cartId": "15a4569f-aad4-45cc-8667-9cfe6fcc4a13",
+  "preferredProducts": [
+    4800,
+    2292
+  ],
+  "productReviews": [
+    {
+      "productId": 3250,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-11-07T19:21:08.638897+02:00"
+    },
+    {
+      "productId": 1588,
+      "reviewText": "this Concrete is awesome.",
+      "reviewDate": "2019-02-23T08:59:57.1435649+02:00"
+    },
+    {
+      "productId": 2327,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-10-06T01:15:38.9623724+03:00"
+    }
+  ]
+}

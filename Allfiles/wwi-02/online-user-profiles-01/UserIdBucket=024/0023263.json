@@ -1,0 +1,36 @@
+{
+  "userId": 23263,
+  "cartId": "91404c6a-471f-4994-b328-8fa72d87bb5d",
+  "preferredProducts": [
+    2704,
+    2433,
+    2038,
+    2672,
+    1543,
+    3597,
+    2689,
+    3673
+  ],
+  "productReviews": [
+    {
+      "productId": 2160,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-05-21T21:47:11.6039127+03:00"
+    },
+    {
+      "productId": 3309,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-06-10T03:37:25.1715079+03:00"
+    },
+    {
+      "productId": 2375,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2019-02-13T23:38:13.2229576+02:00"
+    },
+    {
+      "productId": 3206,
+      "reviewText": "this Avon is vertical.",
+      "reviewDate": "2018-05-03T06:53:22.1399827+03:00"
+    }
+  ]
+}

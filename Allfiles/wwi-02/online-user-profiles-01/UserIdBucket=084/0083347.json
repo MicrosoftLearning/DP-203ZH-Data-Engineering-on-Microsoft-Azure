@@ -1,0 +1,38 @@
+{
+  "userId": 83347,
+  "cartId": "fc70301a-6db7-467a-a08a-d8ae1892d74d",
+  "preferredProducts": [
+    4891,
+    1431,
+    1800,
+    795,
+    962,
+    2897,
+    4412,
+    2581,
+    4806,
+    793
+  ],
+  "productReviews": [
+    {
+      "productId": 212,
+      "reviewText": "this Point is mellow.",
+      "reviewDate": "2017-08-18T10:37:25.450898+03:00"
+    },
+    {
+      "productId": 1512,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-10-23T04:20:55.9688337+03:00"
+    },
+    {
+      "productId": 3176,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-07-21T02:49:19.8938375+03:00"
+    },
+    {
+      "productId": 533,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-06-21T23:59:02.8245297+03:00"
+    }
+  ]
+}

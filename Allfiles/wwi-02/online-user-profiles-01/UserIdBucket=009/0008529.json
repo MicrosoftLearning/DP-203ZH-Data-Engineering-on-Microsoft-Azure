@@ -1,0 +1,38 @@
+{
+  "userId": 8529,
+  "cartId": "f27aee01-6375-467e-a866-d27ae6080237",
+  "preferredProducts": [
+    4168,
+    2206,
+    1164,
+    4415,
+    4436
+  ],
+  "productReviews": [
+    {
+      "productId": 2031,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-09-27T22:15:04.6171764+03:00"
+    },
+    {
+      "productId": 2516,
+      "reviewText": "This is a really good override.",
+      "reviewDate": "2018-10-16T16:59:16.2079422+03:00"
+    },
+    {
+      "productId": 792,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-10-04T06:42:54.7993053+03:00"
+    },
+    {
+      "productId": 4655,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-12-25T07:25:17.4997161+02:00"
+    },
+    {
+      "productId": 983,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-03-01T04:30:23.7579271+02:00"
+    }
+  ]
+}

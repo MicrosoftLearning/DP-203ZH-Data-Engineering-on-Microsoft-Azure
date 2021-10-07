@@ -1,0 +1,31 @@
+{
+  "userId": 80417,
+  "cartId": "888eff1a-b8c5-4983-9c0a-1434b3ad3a2a",
+  "preferredProducts": [
+    3995,
+    3999,
+    4950
+  ],
+  "productReviews": [
+    {
+      "productId": 2921,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-11-09T08:18:04.7878601+02:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-01-25T05:19:59.2064161+02:00"
+    },
+    {
+      "productId": 2385,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-04-23T11:25:18.1330446+03:00"
+    },
+    {
+      "productId": 3031,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-10-10T08:31:41.6884759+03:00"
+    }
+  ]
+}

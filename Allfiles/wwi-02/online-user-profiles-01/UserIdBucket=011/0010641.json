@@ -1,0 +1,35 @@
+{
+  "userId": 10641,
+  "cartId": "07b80b19-dcd7-4997-8352-1b2c0e2fab5b",
+  "preferredProducts": [
+    1300,
+    2164,
+    423,
+    3035,
+    4933,
+    422,
+    3075
+  ],
+  "productReviews": [
+    {
+      "productId": 354,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2020-02-05T05:24:38.8738052+02:00"
+    },
+    {
+      "productId": 3104,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2018-12-02T03:47:22.9454595+02:00"
+    },
+    {
+      "productId": 2038,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2019-09-04T14:07:04.694921+03:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-09-12T09:16:05.9323214+03:00"
+    }
+  ]
+}

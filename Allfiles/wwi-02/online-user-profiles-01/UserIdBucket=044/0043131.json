@@ -1,0 +1,24 @@
+{
+  "userId": 43131,
+  "cartId": "f766e537-de2a-4715-b0ec-f656e2010c73",
+  "preferredProducts": [
+    4320,
+    4065,
+    79,
+    3037,
+    1543,
+    3961
+  ],
+  "productReviews": [
+    {
+      "productId": 1185,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-03-02T02:30:49.1904798+02:00"
+    },
+    {
+      "productId": 821,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-12-18T06:52:07.9294352+02:00"
+    }
+  ]
+}

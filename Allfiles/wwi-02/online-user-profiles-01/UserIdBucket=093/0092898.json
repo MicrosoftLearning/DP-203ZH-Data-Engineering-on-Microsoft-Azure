@@ -1,0 +1,38 @@
+{
+  "userId": 92898,
+  "cartId": "28dead64-c343-4ec5-9e7d-d2373c0d922c",
+  "preferredProducts": [
+    3988,
+    1713,
+    3473,
+    403,
+    1376
+  ],
+  "productReviews": [
+    {
+      "productId": 72,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2019-01-22T15:48:15.948589+02:00"
+    },
+    {
+      "productId": 1927,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-09-22T14:11:57.422705+03:00"
+    },
+    {
+      "productId": 4790,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-11-26T18:34:32.5953154+02:00"
+    },
+    {
+      "productId": 3012,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-07-10T20:13:09.9405061+03:00"
+    },
+    {
+      "productId": 4495,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-08-28T17:49:06.1786216+03:00"
+    }
+  ]
+}

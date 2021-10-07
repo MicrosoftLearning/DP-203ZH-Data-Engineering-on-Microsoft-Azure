@@ -1,0 +1,32 @@
+{
+  "userId": 72412,
+  "cartId": "2aeb583c-041f-4c91-b64e-515c987c809c",
+  "preferredProducts": [
+    339,
+    4496,
+    812,
+    4128
+  ],
+  "productReviews": [
+    {
+      "productId": 2718,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-04-24T12:56:12.9944854+03:00"
+    },
+    {
+      "productId": 1432,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-04-16T20:53:55.9829955+03:00"
+    },
+    {
+      "productId": 366,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-07-16T22:49:59.2261015+03:00"
+    },
+    {
+      "productId": 4095,
+      "reviewText": "this XSS is revolting.",
+      "reviewDate": "2017-02-14T11:55:56.9838187+02:00"
+    }
+  ]
+}

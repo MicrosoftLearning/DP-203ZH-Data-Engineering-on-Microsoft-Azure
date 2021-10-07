@@ -1,0 +1,40 @@
+{
+  "userId": 46706,
+  "cartId": "ddd5440b-2c4e-4934-974d-1c46b8522e53",
+  "preferredProducts": [
+    3127,
+    4257,
+    2666,
+    2052,
+    3374,
+    4628,
+    2752
+  ],
+  "productReviews": [
+    {
+      "productId": 2747,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-12-31T08:40:59.5052311+02:00"
+    },
+    {
+      "productId": 4173,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-05-11T21:12:23.8379666+03:00"
+    },
+    {
+      "productId": 4458,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-05-05T21:10:49.2579546+03:00"
+    },
+    {
+      "productId": 2288,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-09-06T12:57:19.0783796+03:00"
+    },
+    {
+      "productId": 942,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-04-30T15:05:04.941935+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 63079,
+  "cartId": "0ff1da26-ee83-4220-adbd-b3770d69f768",
+  "preferredProducts": [
+    4880,
+    1750,
+    4372,
+    2662,
+    646
+  ],
+  "productReviews": [
+    {
+      "productId": 99,
+      "reviewText": "this Incredible is awesome.",
+      "reviewDate": "2016-10-10T01:35:47.8101316+03:00"
+    },
+    {
+      "productId": 160,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-08-19T05:29:13.8585821+03:00"
+    },
+    {
+      "productId": 3065,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-02-17T23:08:52.2627081+02:00"
+    },
+    {
+      "productId": 3330,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2016-06-27T16:00:53.5036532+03:00"
+    }
+  ]
+}

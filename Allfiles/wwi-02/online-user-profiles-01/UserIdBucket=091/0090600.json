@@ -1,0 +1,31 @@
+{
+  "userId": 90600,
+  "cartId": "ab0e4a72-8bef-42b7-bb68-52307aab5541",
+  "preferredProducts": [
+    935,
+    1544,
+    2520,
+    650,
+    3855,
+    2656,
+    3911,
+    2077
+  ],
+  "productReviews": [
+    {
+      "productId": 641,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-07-10T23:33:51.4205138+03:00"
+    },
+    {
+      "productId": 107,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-11-22T01:41:44.1242074+02:00"
+    },
+    {
+      "productId": 165,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-03-06T05:03:42.8697093+02:00"
+    }
+  ]
+}

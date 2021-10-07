@@ -1,0 +1,32 @@
+{
+  "userId": 60001,
+  "cartId": "3c6046a7-b68d-42a2-9489-3bc9b87c8226",
+  "preferredProducts": [
+    1227,
+    1625,
+    3715,
+    2936,
+    4467,
+    4800,
+    172,
+    4287,
+    4268
+  ],
+  "productReviews": [
+    {
+      "productId": 438,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-11-01T19:49:12.4523283+02:00"
+    },
+    {
+      "productId": 303,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-12-14T03:48:55.01364+02:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-08-13T08:57:46.8015224+03:00"
+    }
+  ]
+}

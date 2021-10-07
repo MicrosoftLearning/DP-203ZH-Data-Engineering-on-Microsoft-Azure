@@ -1,0 +1,26 @@
+{
+  "userId": 84036,
+  "cartId": "30e3f0a6-ee8d-478a-b909-2531e3047654",
+  "preferredProducts": [
+    1776,
+    837,
+    1058
+  ],
+  "productReviews": [
+    {
+      "productId": 567,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-09-16T07:41:11.2695623+03:00"
+    },
+    {
+      "productId": 4321,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-09-20T12:07:22.4600794+03:00"
+    },
+    {
+      "productId": 3059,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-03-06T03:37:51.5113029+02:00"
+    }
+  ]
+}

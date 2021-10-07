@@ -1,0 +1,27 @@
+{
+  "userId": 55070,
+  "cartId": "0eeedabd-3f8c-4431-a3a0-5a7675987a6d",
+  "preferredProducts": [
+    2393,
+    3446,
+    4660,
+    3922,
+    3155,
+    2967,
+    436,
+    564,
+    918
+  ],
+  "productReviews": [
+    {
+      "productId": 4007,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-10-16T11:30:05.8978237+03:00"
+    },
+    {
+      "productId": 789,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-11-22T09:41:22.6049472+02:00"
+    }
+  ]
+}

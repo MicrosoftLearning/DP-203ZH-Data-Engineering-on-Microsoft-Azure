@@ -1,0 +1,31 @@
+{
+  "userId": 14241,
+  "cartId": "e7c63c00-1059-4d94-b892-f396c27794f1",
+  "preferredProducts": [
+    668,
+    4205,
+    2660
+  ],
+  "productReviews": [
+    {
+      "productId": 4643,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-02-18T12:10:25.9021186+02:00"
+    },
+    {
+      "productId": 178,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-02-20T22:28:15.5272635+02:00"
+    },
+    {
+      "productId": 1072,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-02-06T08:50:06.6273252+02:00"
+    },
+    {
+      "productId": 1869,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-01-28T03:13:28.4146945+02:00"
+    }
+  ]
+}

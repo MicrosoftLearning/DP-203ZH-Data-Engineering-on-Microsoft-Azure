@@ -1,0 +1,20 @@
+{
+  "userId": 8181,
+  "cartId": "4e0cd9f8-3414-40c1-ab38-5044cff26a30",
+  "preferredProducts": [
+    1656,
+    1446
+  ],
+  "productReviews": [
+    {
+      "productId": 2430,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-04-12T22:34:24.2948867+03:00"
+    },
+    {
+      "productId": 632,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-10-23T17:34:01.0281316+03:00"
+    }
+  ]
+}

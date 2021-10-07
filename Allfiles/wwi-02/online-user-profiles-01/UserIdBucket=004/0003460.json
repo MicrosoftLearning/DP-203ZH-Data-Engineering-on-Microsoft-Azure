@@ -1,0 +1,24 @@
+{
+  "userId": 3460,
+  "cartId": "599a7a14-a26a-4c98-b2a0-14ad21f7e41a",
+  "preferredProducts": [
+    1555,
+    4766,
+    2575,
+    4005,
+    3057,
+    2117
+  ],
+  "productReviews": [
+    {
+      "productId": 3605,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-08-07T12:17:50.0147713+03:00"
+    },
+    {
+      "productId": 1156,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-04-01T10:14:25.625329+03:00"
+    }
+  ]
+}

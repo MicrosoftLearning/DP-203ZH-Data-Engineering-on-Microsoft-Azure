@@ -1,0 +1,36 @@
+{
+  "userId": 3299,
+  "cartId": "d4bb3b1d-dbdc-4b73-802d-ca8f386f5273",
+  "preferredProducts": [
+    2087,
+    378,
+    1615
+  ],
+  "productReviews": [
+    {
+      "productId": 4219,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-05-25T05:05:26.2198376+03:00"
+    },
+    {
+      "productId": 4636,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-08-17T04:55:12.8054454+03:00"
+    },
+    {
+      "productId": 3816,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-07-23T20:40:22.5235095+03:00"
+    },
+    {
+      "productId": 2575,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2020-01-17T08:03:28.6406705+02:00"
+    },
+    {
+      "productId": 1338,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-12-27T10:46:42.236362+02:00"
+    }
+  ]
+}

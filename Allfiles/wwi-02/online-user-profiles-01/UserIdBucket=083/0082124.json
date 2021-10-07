@@ -1,0 +1,33 @@
+{
+  "userId": 82124,
+  "cartId": "be3f6cc1-22a1-43e1-98f3-798a0868e4c2",
+  "preferredProducts": [
+    1310,
+    2923,
+    37,
+    113,
+    1411,
+    3747,
+    219,
+    1522,
+    1865,
+    2303
+  ],
+  "productReviews": [
+    {
+      "productId": 2067,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-07-23T10:46:12.7303535+03:00"
+    },
+    {
+      "productId": 4910,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-01-03T04:13:08.3689579+02:00"
+    },
+    {
+      "productId": 1935,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2020-03-08T19:54:42.5281469+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 12868,
+  "cartId": "17198398-58ec-4b9b-925c-d13223244660",
+  "preferredProducts": [
+    2936,
+    4740,
+    61
+  ],
+  "productReviews": [
+    {
+      "productId": 3245,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-02-11T08:01:57.9901075+02:00"
+    },
+    {
+      "productId": 1813,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-06-30T15:10:32.9015621+03:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-09-26T06:55:52.9201141+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-11-14T06:19:55.3585918+02:00"
+    },
+    {
+      "productId": 222,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-06-03T05:52:44.7565366+03:00"
+    }
+  ]
+}

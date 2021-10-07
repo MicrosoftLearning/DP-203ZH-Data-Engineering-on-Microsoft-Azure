@@ -1,0 +1,36 @@
+{
+  "userId": 42722,
+  "cartId": "615818d4-eccf-4d87-8bd4-e48d1bf5264b",
+  "preferredProducts": [
+    3030,
+    3032,
+    2428
+  ],
+  "productReviews": [
+    {
+      "productId": 2765,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-07-01T04:23:53.1213239+03:00"
+    },
+    {
+      "productId": 2147,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-05-09T13:23:06.3881105+03:00"
+    },
+    {
+      "productId": 2937,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-12-22T16:34:37.1668309+02:00"
+    },
+    {
+      "productId": 2679,
+      "reviewText": "this Bedfordshire is slurpee.",
+      "reviewDate": "2018-08-02T19:01:46.625042+03:00"
+    },
+    {
+      "productId": 4510,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-11-15T22:55:27.9874217+02:00"
+    }
+  ]
+}

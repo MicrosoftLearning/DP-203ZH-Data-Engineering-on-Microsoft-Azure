@@ -1,0 +1,31 @@
+{
+  "userId": 43633,
+  "cartId": "5d84eccf-991e-4e40-a2f2-6284e4d45bc1",
+  "preferredProducts": [
+    3188,
+    1297,
+    4248
+  ],
+  "productReviews": [
+    {
+      "productId": 2755,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-12-29T12:02:02.3232395+02:00"
+    },
+    {
+      "productId": 599,
+      "reviewText": "This metrics works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-11-01T17:02:34.8627819+02:00"
+    },
+    {
+      "productId": 361,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2016-06-29T14:55:45.1860929+03:00"
+    },
+    {
+      "productId": 631,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-09-24T08:02:11.9128676+03:00"
+    }
+  ]
+}

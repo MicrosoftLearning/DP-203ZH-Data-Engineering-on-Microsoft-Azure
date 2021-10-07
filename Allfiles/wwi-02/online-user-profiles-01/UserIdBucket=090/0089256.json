@@ -1,0 +1,27 @@
+{
+  "userId": 89256,
+  "cartId": "477dde3a-477f-4a29-aabd-e95a512d1219",
+  "preferredProducts": [
+    1958,
+    2610,
+    4568,
+    3300,
+    2457,
+    1676,
+    968,
+    3398,
+    4990
+  ],
+  "productReviews": [
+    {
+      "productId": 3599,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-09-14T21:32:05.6715155+03:00"
+    },
+    {
+      "productId": 2701,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-08-04T05:03:08.0357119+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 65501,
+  "cartId": "bbfb597e-6f1e-4cd0-b2c1-2ec74dda2a39",
+  "preferredProducts": [
+    1893,
+    4349,
+    3393,
+    2483
+  ],
+  "productReviews": [
+    {
+      "productId": 891,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2020-02-26T00:05:03.204704+02:00"
+    },
+    {
+      "productId": 4371,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-07-20T10:23:33.8350608+03:00"
+    },
+    {
+      "productId": 2160,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-03-30T03:01:57.3329844+03:00"
+    },
+    {
+      "productId": 3586,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-12-16T15:56:21.9941989+02:00"
+    }
+  ]
+}

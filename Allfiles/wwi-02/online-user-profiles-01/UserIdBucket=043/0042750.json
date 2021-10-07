@@ -1,0 +1,31 @@
+{
+  "userId": 42750,
+  "cartId": "61f95f61-d9da-4798-84bc-88242a3d1380",
+  "preferredProducts": [
+    4629,
+    4595,
+    3349
+  ],
+  "productReviews": [
+    {
+      "productId": 3901,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-11-11T16:33:16.7709635+02:00"
+    },
+    {
+      "productId": 1641,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-01-30T03:05:40.2771533+02:00"
+    },
+    {
+      "productId": 1900,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-08-15T06:31:58.6533127+03:00"
+    },
+    {
+      "productId": 3352,
+      "reviewText": "this support is perplexed.",
+      "reviewDate": "2018-09-05T14:19:14.4901164+03:00"
+    }
+  ]
+}

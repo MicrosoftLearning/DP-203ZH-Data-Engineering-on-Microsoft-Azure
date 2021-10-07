@@ -1,0 +1,36 @@
+{
+  "userId": 12211,
+  "cartId": "caa14731-355d-4ad4-866e-710a60fbe01c",
+  "preferredProducts": [
+    3723,
+    191,
+    260,
+    1682,
+    4105,
+    2510,
+    1304,
+    2932
+  ],
+  "productReviews": [
+    {
+      "productId": 3904,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-09-06T14:14:00.0361518+03:00"
+    },
+    {
+      "productId": 170,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-12-15T12:13:42.7700977+02:00"
+    },
+    {
+      "productId": 1964,
+      "reviewText": "This generate works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-01-23T22:13:49.7238415+02:00"
+    },
+    {
+      "productId": 132,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-09-09T16:00:12.79586+03:00"
+    }
+  ]
+}

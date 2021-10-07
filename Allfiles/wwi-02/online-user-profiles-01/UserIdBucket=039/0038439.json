@@ -1,0 +1,30 @@
+{
+  "userId": 38439,
+  "cartId": "0ccbde83-c693-405a-856c-218f67a879e0",
+  "preferredProducts": [
+    3298,
+    88,
+    4986,
+    3569,
+    4478,
+    3096,
+    1137
+  ],
+  "productReviews": [
+    {
+      "productId": 3507,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-01-25T03:35:05.9242532+02:00"
+    },
+    {
+      "productId": 4041,
+      "reviewText": "This payment works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2017-08-28T04:38:39.4110591+03:00"
+    },
+    {
+      "productId": 3674,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-06-13T16:22:11.3801546+03:00"
+    }
+  ]
+}

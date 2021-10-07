@@ -1,0 +1,36 @@
+{
+  "userId": 13,
+  "cartId": "47f0eec6-e5d0-471b-a250-a6dd38802e97",
+  "preferredProducts": [
+    2042,
+    2922,
+    1487,
+    3993,
+    684,
+    2124,
+    2278,
+    685
+  ],
+  "productReviews": [
+    {
+      "productId": 169,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-06-01T13:50:48.3826984+03:00"
+    },
+    {
+      "productId": 4602,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-06-05T22:45:44.0939807+03:00"
+    },
+    {
+      "productId": 1825,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-11-30T23:20:56.7233649+02:00"
+    },
+    {
+      "productId": 3379,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-08-18T11:47:45.7111345+03:00"
+    }
+  ]
+}

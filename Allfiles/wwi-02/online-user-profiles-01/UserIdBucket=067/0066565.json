@@ -1,0 +1,25 @@
+{
+  "userId": 66565,
+  "cartId": "bbc5fce3-535f-471c-82a8-8fc529624981",
+  "preferredProducts": [
+    3825,
+    1536,
+    2911,
+    328,
+    4684,
+    1249,
+    4814
+  ],
+  "productReviews": [
+    {
+      "productId": 3209,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-02-19T08:01:06.0027129+02:00"
+    },
+    {
+      "productId": 4612,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-01-05T01:39:12.3692019+02:00"
+    }
+  ]
+}

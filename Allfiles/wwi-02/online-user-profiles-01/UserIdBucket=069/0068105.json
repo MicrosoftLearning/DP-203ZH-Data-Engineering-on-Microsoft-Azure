@@ -1,0 +1,36 @@
+{
+  "userId": 68105,
+  "cartId": "2c445ecd-9fda-4e58-b4f2-988a66ba0540",
+  "preferredProducts": [
+    1975,
+    407,
+    86,
+    1286,
+    2857,
+    2759,
+    3091,
+    2077
+  ],
+  "productReviews": [
+    {
+      "productId": 1314,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-01-05T16:37:34.38462+02:00"
+    },
+    {
+      "productId": 3190,
+      "reviewText": "this supply-chains is gracious.",
+      "reviewDate": "2016-12-31T04:53:10.6107912+02:00"
+    },
+    {
+      "productId": 4520,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-04-04T09:40:25.3713536+03:00"
+    },
+    {
+      "productId": 3764,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-03-31T17:48:54.3334215+03:00"
+    }
+  ]
+}

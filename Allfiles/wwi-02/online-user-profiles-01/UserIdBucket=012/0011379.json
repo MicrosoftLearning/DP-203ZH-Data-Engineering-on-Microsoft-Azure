@@ -1,0 +1,33 @@
+{
+  "userId": 11379,
+  "cartId": "63d82b87-8fa2-42db-939c-b44eced55fdf",
+  "preferredProducts": [
+    4099,
+    4154,
+    3009,
+    2577,
+    3789,
+    760,
+    3784,
+    3498,
+    953,
+    2076
+  ],
+  "productReviews": [
+    {
+      "productId": 1416,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2016-05-16T09:21:18.6085063+03:00"
+    },
+    {
+      "productId": 1647,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-09-26T14:23:45.0116523+03:00"
+    },
+    {
+      "productId": 4348,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2020-01-29T06:05:24.0981069+02:00"
+    }
+  ]
+}

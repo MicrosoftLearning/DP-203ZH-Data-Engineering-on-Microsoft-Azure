@@ -1,0 +1,26 @@
+{
+  "userId": 2689,
+  "cartId": "8d8ca6ec-e761-4dee-a3e6-5889e816374d",
+  "preferredProducts": [
+    2862,
+    4153,
+    4913
+  ],
+  "productReviews": [
+    {
+      "productId": 1170,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-12-12T17:57:57.1683016+02:00"
+    },
+    {
+      "productId": 2418,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-06-06T18:51:31.2764049+03:00"
+    },
+    {
+      "productId": 2035,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-10-13T20:06:23.006543+03:00"
+    }
+  ]
+}

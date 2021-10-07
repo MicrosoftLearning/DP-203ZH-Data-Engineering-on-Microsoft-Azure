@@ -1,0 +1,31 @@
+{
+  "userId": 99779,
+  "cartId": "5e871362-9439-40fa-b735-4ff8998ab745",
+  "preferredProducts": [
+    4481,
+    4670,
+    1204
+  ],
+  "productReviews": [
+    {
+      "productId": 4451,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-11-02T08:52:23.368047+02:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-10-21T15:06:48.9870645+03:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-05-03T17:47:41.3901184+03:00"
+    },
+    {
+      "productId": 978,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2016-08-05T11:49:07.0479065+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 11892,
+  "cartId": "3be261f3-16f4-4ef4-a573-fd6a754af6ea",
+  "preferredProducts": [
+    880,
+    2587,
+    2929
+  ],
+  "productReviews": [
+    {
+      "productId": 4215,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-02-08T19:28:01.2459581+02:00"
+    },
+    {
+      "productId": 2681,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-22T04:15:32.0259084+03:00"
+    },
+    {
+      "productId": 2485,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-02-03T14:13:48.7150699+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 40991,
+  "cartId": "251c2ab8-3a93-4e0f-b821-655b662c16e5",
+  "preferredProducts": [
+    884,
+    2073,
+    4989,
+    488
+  ],
+  "productReviews": [
+    {
+      "productId": 3123,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-05-08T12:02:44.2001792+03:00"
+    },
+    {
+      "productId": 4914,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-07-13T08:00:03.8181366+03:00"
+    },
+    {
+      "productId": 2930,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-02-05T03:34:47.3497676+02:00"
+    },
+    {
+      "productId": 21,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-12-22T06:44:00.3059402+02:00"
+    },
+    {
+      "productId": 271,
+      "reviewText": "This Wyoming, does exactly what it's suppose to do.",
+      "reviewDate": "2017-03-30T14:12:11.9475405+03:00"
+    }
+  ]
+}

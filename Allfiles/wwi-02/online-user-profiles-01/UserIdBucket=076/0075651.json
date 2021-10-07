@@ -1,0 +1,26 @@
+{
+  "userId": 75651,
+  "cartId": "01ff886c-190d-49f2-8a3b-3fb012642d0b",
+  "preferredProducts": [
+    4847,
+    3323,
+    1776
+  ],
+  "productReviews": [
+    {
+      "productId": 4663,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-11-25T01:59:24.0020436+02:00"
+    },
+    {
+      "productId": 248,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-10-19T06:25:41.0930266+03:00"
+    },
+    {
+      "productId": 131,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-02-06T06:07:58.3798248+02:00"
+    }
+  ]
+}

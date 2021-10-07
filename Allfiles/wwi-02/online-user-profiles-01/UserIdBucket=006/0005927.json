@@ -1,0 +1,27 @@
+{
+  "userId": 5927,
+  "cartId": "a0127220-5891-476e-bafe-1a8d5f84dfd4",
+  "preferredProducts": [
+    4267,
+    4056,
+    4356,
+    3439
+  ],
+  "productReviews": [
+    {
+      "productId": 3224,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-04-21T02:14:34.3862133+03:00"
+    },
+    {
+      "productId": 1936,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-04-26T20:01:33.686966+03:00"
+    },
+    {
+      "productId": 455,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2017-08-26T01:54:26.8010626+03:00"
+    }
+  ]
+}

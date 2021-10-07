@@ -1,0 +1,26 @@
+{
+  "userId": 23835,
+  "cartId": "bbe3d8d9-43b5-4d2f-9bd1-dc3f9bc3b9aa",
+  "preferredProducts": [
+    1173,
+    3052,
+    2984
+  ],
+  "productReviews": [
+    {
+      "productId": 4300,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-02-13T12:46:57.5907914+02:00"
+    },
+    {
+      "productId": 4152,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-04-22T19:24:27.5172919+03:00"
+    },
+    {
+      "productId": 131,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-08-10T23:58:34.083538+03:00"
+    }
+  ]
+}

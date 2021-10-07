@@ -1,0 +1,41 @@
+{
+  "userId": 30184,
+  "cartId": "25b4e724-697a-4922-998a-136eaf43aea1",
+  "preferredProducts": [
+    1200,
+    1568,
+    612,
+    4014,
+    499,
+    4955,
+    2956,
+    4566
+  ],
+  "productReviews": [
+    {
+      "productId": 4105,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-01-20T23:57:29.3358787+02:00"
+    },
+    {
+      "productId": 4626,
+      "reviewText": "this monitor is honest.",
+      "reviewDate": "2017-08-31T00:53:07.2581282+03:00"
+    },
+    {
+      "productId": 771,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-05-27T21:51:50.8438572+03:00"
+    },
+    {
+      "productId": 4301,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-09-03T03:40:55.6936531+03:00"
+    },
+    {
+      "productId": 2506,
+      "reviewText": "This invoice works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-04-13T22:06:11.8461573+03:00"
+    }
+  ]
+}

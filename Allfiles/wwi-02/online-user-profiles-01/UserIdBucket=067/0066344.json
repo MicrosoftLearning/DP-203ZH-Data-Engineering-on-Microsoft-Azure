@@ -1,0 +1,27 @@
+{
+  "userId": 66344,
+  "cartId": "76f2ab26-4636-4261-af6f-800c6ed3899e",
+  "preferredProducts": [
+    2124,
+    3959,
+    4186,
+    169
+  ],
+  "productReviews": [
+    {
+      "productId": 867,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-01-08T02:31:56.2001726+02:00"
+    },
+    {
+      "productId": 2109,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2020-05-03T16:42:26.8058482+03:00"
+    },
+    {
+      "productId": 350,
+      "reviewText": "this Interactions is ratty.",
+      "reviewDate": "2019-07-07T21:51:05.7515596+03:00"
+    }
+  ]
+}

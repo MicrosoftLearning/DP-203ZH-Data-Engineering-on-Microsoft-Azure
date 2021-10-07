@@ -1,0 +1,36 @@
+{
+  "userId": 22545,
+  "cartId": "36499168-e812-43ad-a1fa-84d367f0b48e",
+  "preferredProducts": [
+    842,
+    4212,
+    1857,
+    390,
+    791,
+    1461,
+    1997,
+    3360
+  ],
+  "productReviews": [
+    {
+      "productId": 3612,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-09-04T07:18:48.8054299+03:00"
+    },
+    {
+      "productId": 769,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-12-28T10:11:48.626873+02:00"
+    },
+    {
+      "productId": 1116,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-05-28T22:09:58.2739669+03:00"
+    },
+    {
+      "productId": 765,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-06T00:05:24.4909205+02:00"
+    }
+  ]
+}

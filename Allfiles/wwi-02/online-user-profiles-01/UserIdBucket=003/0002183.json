@@ -1,0 +1,27 @@
+{
+  "userId": 2183,
+  "cartId": "67356141-adf0-406c-980e-f4d03607fa45",
+  "preferredProducts": [
+    1667,
+    2290,
+    4396,
+    942
+  ],
+  "productReviews": [
+    {
+      "productId": 1584,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-12-30T09:45:39.8347367+02:00"
+    },
+    {
+      "productId": 4122,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-04-18T02:49:36.0285045+03:00"
+    },
+    {
+      "productId": 2289,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-01-20T07:28:28.9764645+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 60815,
+  "cartId": "e6bfe026-34ee-476b-bf9e-34685e6501d8",
+  "preferredProducts": [
+    416,
+    4372,
+    3591
+  ],
+  "productReviews": [
+    {
+      "productId": 3098,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-03-21T04:09:58.7806886+02:00"
+    },
+    {
+      "productId": 3674,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-06-16T06:36:09.7079844+03:00"
+    },
+    {
+      "productId": 4762,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-03-02T03:07:16.809516+02:00"
+    },
+    {
+      "productId": 4924,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-01-25T07:49:48.2478973+02:00"
+    }
+  ]
+}

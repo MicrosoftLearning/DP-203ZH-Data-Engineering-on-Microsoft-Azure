@@ -1,0 +1,32 @@
+{
+  "userId": 2310,
+  "cartId": "3fe637e7-f155-496f-9cf2-7a51987efea5",
+  "preferredProducts": [
+    1443,
+    891,
+    3032,
+    4228
+  ],
+  "productReviews": [
+    {
+      "productId": 1034,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-09-24T01:29:31.5998774+03:00"
+    },
+    {
+      "productId": 2660,
+      "reviewText": "this black is gracious.",
+      "reviewDate": "2016-10-08T07:31:16.9656155+03:00"
+    },
+    {
+      "productId": 4245,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-09-07T02:08:05.8077847+03:00"
+    },
+    {
+      "productId": 3622,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-11-04T22:24:45.2340782+02:00"
+    }
+  ]
+}

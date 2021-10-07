@@ -1,0 +1,30 @@
+{
+  "userId": 23884,
+  "cartId": "fe1b9193-38eb-4fae-bec5-91164cfec5f6",
+  "preferredProducts": [
+    1154,
+    1585
+  ],
+  "productReviews": [
+    {
+      "productId": 4159,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-10-09T19:25:42.1128187+03:00"
+    },
+    {
+      "productId": 1974,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-04-24T10:38:02.1680247+03:00"
+    },
+    {
+      "productId": 3148,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-01-13T12:37:47.9003328+02:00"
+    },
+    {
+      "productId": 1606,
+      "reviewText": "This is a really good Granite.",
+      "reviewDate": "2019-01-15T14:48:07.5498185+02:00"
+    }
+  ]
+}

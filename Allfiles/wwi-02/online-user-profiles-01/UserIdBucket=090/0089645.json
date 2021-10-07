@@ -1,0 +1,32 @@
+{
+  "userId": 89645,
+  "cartId": "dce24a13-9621-472a-bdbe-7daed4242370",
+  "preferredProducts": [
+    707,
+    2317,
+    4605,
+    1084,
+    3261,
+    4518,
+    4328,
+    739,
+    2461
+  ],
+  "productReviews": [
+    {
+      "productId": 3221,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-06-11T01:08:50.5897582+03:00"
+    },
+    {
+      "productId": 860,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-07-27T23:21:53.9715013+03:00"
+    },
+    {
+      "productId": 4780,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-12-17T05:42:51.4834656+02:00"
+    }
+  ]
+}

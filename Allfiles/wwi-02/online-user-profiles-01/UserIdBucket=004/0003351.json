@@ -1,0 +1,32 @@
+{
+  "userId": 3351,
+  "cartId": "c78fc6ef-01cb-42c7-93f6-52aee526699a",
+  "preferredProducts": [
+    3973,
+    1471,
+    678,
+    2745,
+    2082,
+    2780,
+    627,
+    459,
+    268
+  ],
+  "productReviews": [
+    {
+      "productId": 1829,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-08-31T02:41:23.7361351+03:00"
+    },
+    {
+      "productId": 3509,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-19T10:15:39.538802+02:00"
+    },
+    {
+      "productId": 136,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-04-10T09:03:21.5172745+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 36880,
+  "cartId": "d0bb573b-9108-486a-a45a-1c367057009c",
+  "preferredProducts": [
+    195,
+    453,
+    2243
+  ],
+  "productReviews": [
+    {
+      "productId": 3756,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-12-12T17:12:20.9337341+02:00"
+    },
+    {
+      "productId": 2852,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-09-02T09:17:57.8077296+03:00"
+    },
+    {
+      "productId": 1392,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-05-01T01:46:50.1192924+03:00"
+    },
+    {
+      "productId": 743,
+      "reviewText": "This project works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2018-10-03T06:00:52.1754343+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 33087,
+  "cartId": "f913a6bb-57d0-4b84-b8b1-0b3df5327ed2",
+  "preferredProducts": [
+    3744,
+    2129,
+    2415,
+    2555,
+    1605,
+    2597,
+    3494,
+    90,
+    1413,
+    4361
+  ],
+  "productReviews": [
+    {
+      "productId": 4539,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-06-06T06:14:50.0608192+03:00"
+    },
+    {
+      "productId": 688,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-06-15T11:37:35.3147199+03:00"
+    },
+    {
+      "productId": 2877,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-04-09T16:57:55.4972641+03:00"
+    }
+  ]
+}

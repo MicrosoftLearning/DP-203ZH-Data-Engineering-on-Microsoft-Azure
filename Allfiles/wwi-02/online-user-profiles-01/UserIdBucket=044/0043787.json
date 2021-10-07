@@ -1,0 +1,31 @@
+{
+  "userId": 43787,
+  "cartId": "d37d9d58-7455-417d-8aa7-85178453cef9",
+  "preferredProducts": [
+    2726,
+    3256,
+    105,
+    1264,
+    2993,
+    3466,
+    4227,
+    591
+  ],
+  "productReviews": [
+    {
+      "productId": 4479,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-08-16T18:47:19.7334565+03:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "This is a really good Australian Dollar.",
+      "reviewDate": "2016-10-21T23:04:19.5150549+03:00"
+    },
+    {
+      "productId": 3748,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-11-21T18:32:24.6311853+02:00"
+    }
+  ]
+}

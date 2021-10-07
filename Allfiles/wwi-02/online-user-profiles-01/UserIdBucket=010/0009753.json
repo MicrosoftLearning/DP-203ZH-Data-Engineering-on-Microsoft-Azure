@@ -1,0 +1,25 @@
+{
+  "userId": 9753,
+  "cartId": "15e13559-ceca-4044-bc73-f88bd9550ea9",
+  "preferredProducts": [
+    3053,
+    4685,
+    106,
+    3295,
+    1477,
+    3757,
+    3907
+  ],
+  "productReviews": [
+    {
+      "productId": 507,
+      "reviewText": "this connect is awesome.",
+      "reviewDate": "2017-04-28T08:23:10.1308216+03:00"
+    },
+    {
+      "productId": 3832,
+      "reviewText": "This SQL works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-10-28T06:51:12.5687262+03:00"
+    }
+  ]
+}

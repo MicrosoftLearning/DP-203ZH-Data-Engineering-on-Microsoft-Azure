@@ -1,0 +1,33 @@
+{
+  "userId": 12394,
+  "cartId": "95b13d4e-4f5e-410f-86da-6b07d9fcd5a0",
+  "preferredProducts": [
+    2567,
+    3399,
+    2004,
+    4481,
+    902,
+    4902,
+    4522,
+    3608,
+    387,
+    2157
+  ],
+  "productReviews": [
+    {
+      "productId": 732,
+      "reviewText": "this Borders is snowy.",
+      "reviewDate": "2018-03-22T17:58:01.0548314+02:00"
+    },
+    {
+      "productId": 1360,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-07-04T14:02:36.427525+03:00"
+    },
+    {
+      "productId": 1859,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-11-28T03:22:47.3079543+02:00"
+    }
+  ]
+}

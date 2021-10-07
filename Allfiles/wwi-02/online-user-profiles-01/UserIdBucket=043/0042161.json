@@ -1,0 +1,28 @@
+{
+  "userId": 42161,
+  "cartId": "442ef01d-ab13-43e8-b1d6-c9274e051f30",
+  "preferredProducts": [
+    1468,
+    2282,
+    891,
+    1259,
+    4803
+  ],
+  "productReviews": [
+    {
+      "productId": 28,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2019-11-03T17:02:49.8714628+02:00"
+    },
+    {
+      "productId": 2254,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-06-01T18:27:19.7867195+03:00"
+    },
+    {
+      "productId": 2044,
+      "reviewText": "This Wooden works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2017-04-15T23:14:46.0382676+03:00"
+    }
+  ]
+}

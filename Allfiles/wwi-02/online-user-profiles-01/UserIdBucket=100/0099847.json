@@ -1,0 +1,27 @@
+{
+  "userId": 99847,
+  "cartId": "e6a79ab3-17cf-43f7-aa60-46e9f7615db1",
+  "preferredProducts": [
+    1201,
+    3358,
+    444,
+    1323
+  ],
+  "productReviews": [
+    {
+      "productId": 3662,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-12-18T11:52:38.0155516+02:00"
+    },
+    {
+      "productId": 1824,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-02-04T07:44:47.4310322+02:00"
+    },
+    {
+      "productId": 1907,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-05-15T23:22:52.4780962+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 24272,
+  "cartId": "3b2ed867-3e38-4e65-b219-80da6443cade",
+  "preferredProducts": [
+    2453
+  ],
+  "productReviews": [
+    {
+      "productId": 1299,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-05-05T18:05:10.0210617+03:00"
+    },
+    {
+      "productId": 3744,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-09-30T02:47:55.4730482+03:00"
+    },
+    {
+      "productId": 4806,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-03-07T10:26:09.092797+02:00"
+    },
+    {
+      "productId": 3893,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-09-29T04:25:46.4480146+03:00"
+    }
+  ]
+}

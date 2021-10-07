@@ -1,0 +1,36 @@
+{
+  "userId": 43253,
+  "cartId": "9adfae37-fc26-4c80-9782-cfe9390370f5",
+  "preferredProducts": [
+    1779,
+    1207,
+    2557,
+    100,
+    3716,
+    3035,
+    710,
+    562
+  ],
+  "productReviews": [
+    {
+      "productId": 3996,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-10-03T15:31:27.1828176+03:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-02-23T12:21:40.4528753+02:00"
+    },
+    {
+      "productId": 3018,
+      "reviewText": "This multi-byte works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2016-05-19T07:09:48.2806985+03:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-07-04T20:57:52.7903125+03:00"
+    }
+  ]
+}

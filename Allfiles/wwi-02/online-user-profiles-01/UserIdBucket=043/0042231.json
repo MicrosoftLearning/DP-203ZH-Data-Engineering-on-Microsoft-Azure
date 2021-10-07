@@ -1,0 +1,25 @@
+{
+  "userId": 42231,
+  "cartId": "8f1b458d-a939-4771-8878-54386d99675f",
+  "preferredProducts": [
+    1775,
+    3508,
+    4013,
+    1879,
+    1730,
+    3844,
+    753
+  ],
+  "productReviews": [
+    {
+      "productId": 3946,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-08-15T23:26:46.5911479+03:00"
+    },
+    {
+      "productId": 143,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-02-15T15:40:29.5404914+02:00"
+    }
+  ]
+}

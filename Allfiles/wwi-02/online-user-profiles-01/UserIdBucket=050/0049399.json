@@ -1,0 +1,35 @@
+{
+  "userId": 49399,
+  "cartId": "ebc7c677-9cff-41cd-9995-22c5be75c1f7",
+  "preferredProducts": [
+    777,
+    2317,
+    987,
+    2262,
+    3571,
+    142,
+    2769
+  ],
+  "productReviews": [
+    {
+      "productId": 3666,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-11-23T04:18:58.9545317+02:00"
+    },
+    {
+      "productId": 3468,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-11-08T12:57:30.0085397+02:00"
+    },
+    {
+      "productId": 4837,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-02-19T08:04:31.1649978+02:00"
+    },
+    {
+      "productId": 3399,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-08-30T03:30:55.713139+03:00"
+    }
+  ]
+}

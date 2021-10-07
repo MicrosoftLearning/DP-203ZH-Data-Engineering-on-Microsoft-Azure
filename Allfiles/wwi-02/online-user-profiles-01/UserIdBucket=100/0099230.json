@@ -1,0 +1,25 @@
+{
+  "userId": 99230,
+  "cartId": "5956dbb5-5901-4f5b-8f66-756c770e90ad",
+  "preferredProducts": [
+    611,
+    4063
+  ],
+  "productReviews": [
+    {
+      "productId": 2917,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-08-21T18:10:23.7219492+03:00"
+    },
+    {
+      "productId": 1731,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-02-20T03:08:49.7457051+02:00"
+    },
+    {
+      "productId": 1515,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-09-04T19:40:53.7741381+03:00"
+    }
+  ]
+}

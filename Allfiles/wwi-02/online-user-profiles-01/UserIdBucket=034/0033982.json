@@ -1,0 +1,29 @@
+{
+  "userId": 33982,
+  "cartId": "78f303ad-bdd2-4e43-a19e-886ce71606cc",
+  "preferredProducts": [
+    1369,
+    4750,
+    2066,
+    2335,
+    2172,
+    1941
+  ],
+  "productReviews": [
+    {
+      "productId": 235,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-01-13T21:33:31.5076234+02:00"
+    },
+    {
+      "productId": 3418,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-11-12T10:31:13.5266563+02:00"
+    },
+    {
+      "productId": 3483,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-03-08T13:59:01.1127523+02:00"
+    }
+  ]
+}

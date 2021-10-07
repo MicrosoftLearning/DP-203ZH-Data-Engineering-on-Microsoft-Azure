@@ -1,0 +1,43 @@
+{
+  "userId": 10323,
+  "cartId": "1821f786-6961-4c1b-86f2-e6df5e809efb",
+  "preferredProducts": [
+    3751,
+    352,
+    4512,
+    4176,
+    1466,
+    1409,
+    3820,
+    2048,
+    450,
+    120
+  ],
+  "productReviews": [
+    {
+      "productId": 4479,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-01-17T22:48:57.6187472+02:00"
+    },
+    {
+      "productId": 1004,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-12-11T05:16:07.311805+02:00"
+    },
+    {
+      "productId": 1889,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-03-02T05:21:31.4633415+02:00"
+    },
+    {
+      "productId": 1055,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-11-10T09:58:46.3511206+02:00"
+    },
+    {
+      "productId": 24,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-05-14T18:11:54.4780004+03:00"
+    }
+  ]
+}

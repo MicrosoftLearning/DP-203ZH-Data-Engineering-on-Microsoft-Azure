@@ -1,0 +1,31 @@
+{
+  "userId": 50578,
+  "cartId": "8737eabf-76e9-44b4-9ec7-c04fcf3638bf",
+  "preferredProducts": [
+    3900,
+    4553,
+    2747
+  ],
+  "productReviews": [
+    {
+      "productId": 2865,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-05-10T00:53:27.2916108+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-05-26T13:33:11.4311145+03:00"
+    },
+    {
+      "productId": 4580,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-12-28T17:30:52.1833043+02:00"
+    },
+    {
+      "productId": 921,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-05-27T05:58:08.2175433+03:00"
+    }
+  ]
+}

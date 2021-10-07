@@ -1,0 +1,29 @@
+{
+  "userId": 26073,
+  "cartId": "a1c396a1-fe17-4bc8-bf35-74680aa2a90d",
+  "preferredProducts": [
+    4995,
+    4781,
+    4167,
+    626,
+    2573,
+    2535
+  ],
+  "productReviews": [
+    {
+      "productId": 2337,
+      "reviewText": "this Zambian Kwacha is nifty.",
+      "reviewDate": "2017-01-17T13:46:25.1533841+02:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "this Grocery & Kids is hyper.",
+      "reviewDate": "2017-01-13T20:57:09.5649924+02:00"
+    },
+    {
+      "productId": 2240,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-01-05T17:19:06.8628306+02:00"
+    }
+  ]
+}

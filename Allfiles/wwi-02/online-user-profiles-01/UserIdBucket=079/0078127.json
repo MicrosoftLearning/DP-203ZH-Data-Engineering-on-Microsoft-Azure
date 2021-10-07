@@ -1,0 +1,25 @@
+{
+  "userId": 78127,
+  "cartId": "36f96e30-7d40-4090-8cbf-f631e7114dfa",
+  "preferredProducts": [
+    1030,
+    4370,
+    1334,
+    4930,
+    2898,
+    2549,
+    4267
+  ],
+  "productReviews": [
+    {
+      "productId": 4590,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-11-22T11:17:32.8141909+02:00"
+    },
+    {
+      "productId": 2013,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-05-24T13:33:28.8727226+03:00"
+    }
+  ]
+}

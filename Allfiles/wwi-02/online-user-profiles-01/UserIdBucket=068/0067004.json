@@ -1,0 +1,31 @@
+{
+  "userId": 67004,
+  "cartId": "c0979c09-8924-4e3e-ba4b-71dc262ce462",
+  "preferredProducts": [
+    1229,
+    2174,
+    4826,
+    2620,
+    1979,
+    4974,
+    4774,
+    1568
+  ],
+  "productReviews": [
+    {
+      "productId": 1823,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2020-01-19T11:44:45.1652175+02:00"
+    },
+    {
+      "productId": 664,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-07-09T04:53:03.1948749+03:00"
+    },
+    {
+      "productId": 2257,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-02-09T13:48:03.4448413+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 89163,
+  "cartId": "db1df363-5ea6-438f-8b28-10974266a7f0",
+  "preferredProducts": [
+    2088,
+    2324,
+    3350
+  ],
+  "productReviews": [
+    {
+      "productId": 900,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-02-02T11:24:25.4579255+02:00"
+    },
+    {
+      "productId": 1276,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-02-06T22:56:00.2101114+02:00"
+    },
+    {
+      "productId": 1488,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-03-18T02:19:49.6427207+02:00"
+    },
+    {
+      "productId": 1536,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-11-05T16:06:06.187037+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 95792,
+  "cartId": "34684a3e-2758-4cd2-b6a2-fd78fcb586c0",
+  "preferredProducts": [
+    448,
+    1306
+  ],
+  "productReviews": [
+    {
+      "productId": 3177,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-03-10T21:00:29.0952171+02:00"
+    },
+    {
+      "productId": 3027,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-09-22T12:16:51.0052755+03:00"
+    },
+    {
+      "productId": 4393,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-05-20T16:02:14.7427949+03:00"
+    }
+  ]
+}

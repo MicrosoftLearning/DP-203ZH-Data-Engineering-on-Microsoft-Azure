@@ -1,0 +1,38 @@
+{
+  "userId": 7689,
+  "cartId": "4ae4a90d-5d4d-4676-bdde-7954044f1585",
+  "preferredProducts": [
+    1172,
+    3876,
+    1866,
+    2220,
+    1780,
+    4627,
+    1635,
+    3598,
+    1699,
+    2010
+  ],
+  "productReviews": [
+    {
+      "productId": 1160,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-08-19T06:45:11.2767771+03:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-03-30T12:37:02.0568055+03:00"
+    },
+    {
+      "productId": 3000,
+      "reviewText": "This Books works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-10-16T10:40:56.5741683+03:00"
+    },
+    {
+      "productId": 3983,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-09-01T21:00:45.3933961+03:00"
+    }
+  ]
+}

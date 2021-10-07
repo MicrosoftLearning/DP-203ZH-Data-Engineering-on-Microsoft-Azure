@@ -1,0 +1,40 @@
+{
+  "userId": 79092,
+  "cartId": "de7c624f-d79f-4ff1-8be4-ca1d7fc40f73",
+  "preferredProducts": [
+    2787,
+    4636,
+    4574,
+    2782,
+    1357,
+    4445,
+    3884
+  ],
+  "productReviews": [
+    {
+      "productId": 237,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-09-21T08:28:53.5201627+03:00"
+    },
+    {
+      "productId": 4911,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-09-03T19:03:02.1547302+03:00"
+    },
+    {
+      "productId": 661,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-09-11T22:15:58.3311369+03:00"
+    },
+    {
+      "productId": 1512,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-08-28T01:55:17.6265465+03:00"
+    },
+    {
+      "productId": 4472,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-11-26T05:27:12.851371+02:00"
+    }
+  ]
+}

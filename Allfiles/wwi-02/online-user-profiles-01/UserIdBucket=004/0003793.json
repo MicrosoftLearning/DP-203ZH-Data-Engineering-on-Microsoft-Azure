@@ -1,0 +1,33 @@
+{
+  "userId": 3793,
+  "cartId": "42db3142-d8f3-4d61-aef0-484a6c4a8ec8",
+  "preferredProducts": [
+    697,
+    2512,
+    4941,
+    3568,
+    2269
+  ],
+  "productReviews": [
+    {
+      "productId": 549,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-01-16T12:59:34.847121+02:00"
+    },
+    {
+      "productId": 1280,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-08-16T04:19:28.7473834+03:00"
+    },
+    {
+      "productId": 2911,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-01-15T07:29:57.356696+02:00"
+    },
+    {
+      "productId": 3097,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-11-17T00:51:16.4748886+02:00"
+    }
+  ]
+}

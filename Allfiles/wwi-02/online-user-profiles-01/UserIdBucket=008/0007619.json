@@ -1,0 +1,38 @@
+{
+  "userId": 7619,
+  "cartId": "ad069170-be8c-40b0-a64c-9cf7845931f7",
+  "preferredProducts": [
+    1424,
+    1904,
+    1891,
+    1949,
+    4821,
+    3512,
+    3066,
+    2636,
+    971,
+    4717
+  ],
+  "productReviews": [
+    {
+      "productId": 1563,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-01-04T09:31:32.9844273+02:00"
+    },
+    {
+      "productId": 4386,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-10-02T15:30:44.3584361+03:00"
+    },
+    {
+      "productId": 2345,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-09-12T20:05:30.4367594+03:00"
+    },
+    {
+      "productId": 3793,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-01-05T13:40:18.3168909+02:00"
+    }
+  ]
+}

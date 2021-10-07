@@ -1,0 +1,38 @@
+{
+  "userId": 6784,
+  "cartId": "834fad9c-5a6a-4fe6-ab7b-be1e19c86cde",
+  "preferredProducts": [
+    1309,
+    3030,
+    1204,
+    2947,
+    1793
+  ],
+  "productReviews": [
+    {
+      "productId": 2275,
+      "reviewText": "this dedicated is revolting.",
+      "reviewDate": "2020-01-01T09:05:15.8767775+02:00"
+    },
+    {
+      "productId": 3614,
+      "reviewText": "this multi-byte is brown.",
+      "reviewDate": "2017-12-19T07:13:38.8316799+02:00"
+    },
+    {
+      "productId": 3462,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-10-04T03:32:18.4576051+03:00"
+    },
+    {
+      "productId": 2775,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-11-11T13:38:12.6760493+02:00"
+    },
+    {
+      "productId": 3750,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2020-03-03T04:14:51.1997935+02:00"
+    }
+  ]
+}

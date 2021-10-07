@@ -1,0 +1,32 @@
+{
+  "userId": 38024,
+  "cartId": "e4678a7c-46e4-438b-ad37-8f33af759aae",
+  "preferredProducts": [
+    3005,
+    2769,
+    4330,
+    2000,
+    3927,
+    3103,
+    3324,
+    327,
+    11
+  ],
+  "productReviews": [
+    {
+      "productId": 3501,
+      "reviewText": "this ivory is hyper.",
+      "reviewDate": "2019-01-20T13:16:09.0465172+02:00"
+    },
+    {
+      "productId": 458,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2020-01-02T17:16:03.3266267+02:00"
+    },
+    {
+      "productId": 1421,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-02-23T22:13:39.2118868+02:00"
+    }
+  ]
+}

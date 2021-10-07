@@ -1,0 +1,27 @@
+{
+  "userId": 18409,
+  "cartId": "be8c90bd-1ef4-4584-89db-15997cf66a57",
+  "preferredProducts": [
+    411,
+    3195,
+    1383,
+    4540
+  ],
+  "productReviews": [
+    {
+      "productId": 3510,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-12-18T15:07:34.6569058+02:00"
+    },
+    {
+      "productId": 932,
+      "reviewText": "this Advanced is smooth.",
+      "reviewDate": "2016-08-24T18:28:19.2746121+03:00"
+    },
+    {
+      "productId": 3857,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-10-23T00:07:46.2432142+03:00"
+    }
+  ]
+}

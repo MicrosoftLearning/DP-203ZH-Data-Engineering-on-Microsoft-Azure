@@ -1,0 +1,35 @@
+{
+  "userId": 78632,
+  "cartId": "f94e4d73-ebc5-41ac-af45-9111265a9542",
+  "preferredProducts": [
+    3947,
+    3119,
+    3826,
+    4556,
+    3404,
+    4379,
+    2403
+  ],
+  "productReviews": [
+    {
+      "productId": 3074,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-10-08T01:54:55.6277402+03:00"
+    },
+    {
+      "productId": 2525,
+      "reviewText": "This solutions works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2016-07-10T19:51:00.6773479+03:00"
+    },
+    {
+      "productId": 118,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-12-22T03:43:57.985527+02:00"
+    },
+    {
+      "productId": 1418,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-01-05T03:38:20.6861324+02:00"
+    }
+  ]
+}

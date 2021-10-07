@@ -1,0 +1,25 @@
+{
+  "userId": 67949,
+  "cartId": "8396bf1e-e50c-4c01-8f25-67c98220ceb6",
+  "preferredProducts": [
+    3487,
+    4101,
+    4322,
+    2115,
+    1592,
+    2749,
+    109
+  ],
+  "productReviews": [
+    {
+      "productId": 999,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-07-28T20:42:12.1018915+03:00"
+    },
+    {
+      "productId": 869,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-10-11T19:20:33.8343606+03:00"
+    }
+  ]
+}

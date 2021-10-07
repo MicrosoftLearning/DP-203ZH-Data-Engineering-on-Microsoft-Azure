@@ -1,0 +1,30 @@
+{
+  "userId": 5889,
+  "cartId": "27022b9c-d0ec-48b0-8913-a1c518c4e0fb",
+  "preferredProducts": [
+    2381,
+    459,
+    1783,
+    4625,
+    2952,
+    3380,
+    3545
+  ],
+  "productReviews": [
+    {
+      "productId": 2261,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-08-29T01:43:24.6011969+03:00"
+    },
+    {
+      "productId": 1179,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-06-17T04:35:29.6558481+03:00"
+    },
+    {
+      "productId": 2902,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-11-29T14:33:20.2899094+02:00"
+    }
+  ]
+}

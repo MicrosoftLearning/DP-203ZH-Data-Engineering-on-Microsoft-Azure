@@ -1,0 +1,30 @@
+{
+  "userId": 34019,
+  "cartId": "a1fca4a2-bf05-4858-ae4e-ff41bd2c9427",
+  "preferredProducts": [
+    616,
+    2117,
+    2453,
+    1130,
+    3132,
+    1132,
+    1586
+  ],
+  "productReviews": [
+    {
+      "productId": 1319,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-06-06T20:33:08.3012381+03:00"
+    },
+    {
+      "productId": 346,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2016-08-10T15:40:59.9148801+03:00"
+    },
+    {
+      "productId": 4313,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-11-15T23:47:49.0935401+02:00"
+    }
+  ]
+}

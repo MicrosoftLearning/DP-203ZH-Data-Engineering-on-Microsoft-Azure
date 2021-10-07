@@ -1,0 +1,30 @@
+{
+  "userId": 6443,
+  "cartId": "2d22113b-764f-4bb8-ba45-e9642ab2152f",
+  "preferredProducts": [
+    1572,
+    1083,
+    2645,
+    4128,
+    3618,
+    4859,
+    427
+  ],
+  "productReviews": [
+    {
+      "productId": 120,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-11-02T17:35:43.8967456+02:00"
+    },
+    {
+      "productId": 4001,
+      "reviewText": "This Louisiana works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2017-11-21T10:16:51.622372+02:00"
+    },
+    {
+      "productId": 145,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-04-12T14:52:38.3040687+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 27060,
+  "cartId": "e7ed64e7-3a46-448d-b068-42a091190ab9",
+  "preferredProducts": [
+    4389,
+    3215,
+    830,
+    3879,
+    224,
+    4716
+  ],
+  "productReviews": [
+    {
+      "productId": 4329,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-05-29T05:58:03.5064177+03:00"
+    },
+    {
+      "productId": 1427,
+      "reviewText": "this Consultant is amiable.",
+      "reviewDate": "2017-09-13T04:32:44.5024063+03:00"
+    },
+    {
+      "productId": 1971,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-11-01T22:29:54.9399741+02:00"
+    }
+  ]
+}

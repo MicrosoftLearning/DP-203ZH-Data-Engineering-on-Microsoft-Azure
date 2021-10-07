@@ -1,0 +1,35 @@
+{
+  "userId": 30460,
+  "cartId": "66a8d326-1a6a-4579-b2a1-1bc657f9cee2",
+  "preferredProducts": [
+    3240,
+    1244,
+    2244,
+    2020,
+    1805,
+    4952,
+    2298
+  ],
+  "productReviews": [
+    {
+      "productId": 390,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-03-07T20:47:24.3585041+02:00"
+    },
+    {
+      "productId": 4756,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-06-29T13:30:30.1932698+03:00"
+    },
+    {
+      "productId": 2468,
+      "reviewText": "this maroon is tasty.",
+      "reviewDate": "2019-02-16T10:37:09.0649344+02:00"
+    },
+    {
+      "productId": 2390,
+      "reviewText": "This is a really good extranet.",
+      "reviewDate": "2019-11-15T15:40:03.6750791+02:00"
+    }
+  ]
+}

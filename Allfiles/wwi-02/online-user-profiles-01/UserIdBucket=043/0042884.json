@@ -1,0 +1,23 @@
+{
+  "userId": 42884,
+  "cartId": "ed8f5bdb-30d4-4609-9340-bfd13a3b9963",
+  "preferredProducts": [
+    1735,
+    3775,
+    1105,
+    4160,
+    4948
+  ],
+  "productReviews": [
+    {
+      "productId": 3465,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-03-28T05:08:07.3900126+03:00"
+    },
+    {
+      "productId": 874,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-11-21T02:01:59.9733034+02:00"
+    }
+  ]
+}

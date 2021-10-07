@@ -1,0 +1,25 @@
+{
+  "userId": 45562,
+  "cartId": "f52145ea-f69b-4d3a-abff-7f632fc2eea1",
+  "preferredProducts": [
+    4001,
+    1021
+  ],
+  "productReviews": [
+    {
+      "productId": 3228,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2020-03-25T23:44:32.9963344+02:00"
+    },
+    {
+      "productId": 3577,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2020-03-06T12:06:12.3853752+02:00"
+    },
+    {
+      "productId": 3858,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-07-03T11:16:35.3031943+03:00"
+    }
+  ]
+}

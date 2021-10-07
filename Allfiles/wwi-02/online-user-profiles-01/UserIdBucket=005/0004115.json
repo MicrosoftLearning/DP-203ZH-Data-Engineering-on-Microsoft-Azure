@@ -1,0 +1,27 @@
+{
+  "userId": 4115,
+  "cartId": "0bee75a5-28c3-4c9b-9e5f-5983300f3e36",
+  "preferredProducts": [
+    2208,
+    3440,
+    4247,
+    378,
+    1550,
+    1807,
+    220,
+    1146,
+    4011
+  ],
+  "productReviews": [
+    {
+      "productId": 4348,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-07-06T03:04:57.6399888+03:00"
+    },
+    {
+      "productId": 874,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-06-11T14:46:46.0831157+03:00"
+    }
+  ]
+}

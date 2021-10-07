@@ -1,0 +1,33 @@
+{
+  "userId": 25032,
+  "cartId": "c5e66c7f-d9b7-40f8-9f2d-a266e0d773ad",
+  "preferredProducts": [
+    2060,
+    1210,
+    4749,
+    829,
+    142
+  ],
+  "productReviews": [
+    {
+      "productId": 1586,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-09-01T13:21:23.7778182+03:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "This Fresh works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-03-24T11:11:31.6756084+02:00"
+    },
+    {
+      "productId": 2230,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-04-04T12:15:09.0100482+03:00"
+    },
+    {
+      "productId": 2101,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-01-27T06:37:47.1073623+02:00"
+    }
+  ]
+}

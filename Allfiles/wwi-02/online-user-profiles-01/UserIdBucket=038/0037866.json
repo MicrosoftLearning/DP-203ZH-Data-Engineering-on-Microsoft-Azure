@@ -1,0 +1,33 @@
+{
+  "userId": 37866,
+  "cartId": "1acecb7f-5c77-497b-be89-1514c1d31331",
+  "preferredProducts": [
+    734,
+    769,
+    3578,
+    2206,
+    4792
+  ],
+  "productReviews": [
+    {
+      "productId": 1805,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-03-17T22:23:23.3607432+02:00"
+    },
+    {
+      "productId": 1992,
+      "reviewText": "This encompassing works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2019-01-20T05:58:13.1360211+02:00"
+    },
+    {
+      "productId": 4123,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2020-04-27T13:46:55.0983687+03:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2020-02-12T10:30:32.6204553+02:00"
+    }
+  ]
+}

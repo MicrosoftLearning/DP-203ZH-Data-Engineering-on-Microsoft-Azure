@@ -1,0 +1,30 @@
+{
+  "userId": 35248,
+  "cartId": "2215063e-c9bc-4ec9-91ca-a11f96bd7cb0",
+  "preferredProducts": [
+    3110,
+    3783,
+    1365,
+    3965,
+    2409,
+    1965,
+    1121
+  ],
+  "productReviews": [
+    {
+      "productId": 4062,
+      "reviewText": "this turn-key is ghetto.",
+      "reviewDate": "2017-02-04T20:26:47.8018299+02:00"
+    },
+    {
+      "productId": 3698,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-03-21T08:40:41.5327931+02:00"
+    },
+    {
+      "productId": 525,
+      "reviewText": "this parse is honest.",
+      "reviewDate": "2016-07-12T01:58:51.5046404+03:00"
+    }
+  ]
+}

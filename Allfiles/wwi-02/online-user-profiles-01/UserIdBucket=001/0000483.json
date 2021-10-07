@@ -1,0 +1,35 @@
+{
+  "userId": 483,
+  "cartId": "3bc4c433-8245-4cd7-8ca6-8b3ba224dbbb",
+  "preferredProducts": [
+    983,
+    2158
+  ],
+  "productReviews": [
+    {
+      "productId": 3583,
+      "reviewText": "this panel is hyper.",
+      "reviewDate": "2016-11-10T19:47:24.4452901+02:00"
+    },
+    {
+      "productId": 1432,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2016-10-15T19:38:20.5868934+03:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-01-13T19:51:52.9731967+02:00"
+    },
+    {
+      "productId": 1377,
+      "reviewText": "This online, does exactly what it's suppose to do.",
+      "reviewDate": "2019-10-10T18:30:12.5910466+03:00"
+    },
+    {
+      "productId": 3813,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-04-10T08:03:08.2415783+03:00"
+    }
+  ]
+}

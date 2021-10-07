@@ -1,0 +1,30 @@
+{
+  "userId": 24544,
+  "cartId": "2b084fb9-78f4-4912-9a09-776b1835676b",
+  "preferredProducts": [
+    3199,
+    4997
+  ],
+  "productReviews": [
+    {
+      "productId": 1514,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-03-01T04:11:29.6431+02:00"
+    },
+    {
+      "productId": 3219,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-07-15T06:13:51.7544854+03:00"
+    },
+    {
+      "productId": 4826,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-12-27T03:59:48.0409635+02:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-09-27T13:07:32.8349609+03:00"
+    }
+  ]
+}

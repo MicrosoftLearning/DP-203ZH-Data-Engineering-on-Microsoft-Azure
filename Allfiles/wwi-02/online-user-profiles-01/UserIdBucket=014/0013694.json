@@ -1,0 +1,37 @@
+{
+  "userId": 13694,
+  "cartId": "29962aa3-1110-42e1-8dee-a0aa6165571a",
+  "preferredProducts": [
+    2742,
+    1615,
+    2486,
+    3058
+  ],
+  "productReviews": [
+    {
+      "productId": 2937,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-10T02:33:30.6981822+02:00"
+    },
+    {
+      "productId": 1850,
+      "reviewText": "This protocol works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2017-09-03T02:55:11.8142918+03:00"
+    },
+    {
+      "productId": 2731,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-05-24T02:27:36.2049711+03:00"
+    },
+    {
+      "productId": 2976,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-12-16T11:51:41.6695301+02:00"
+    },
+    {
+      "productId": 3753,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-01-24T21:21:20.2736653+02:00"
+    }
+  ]
+}

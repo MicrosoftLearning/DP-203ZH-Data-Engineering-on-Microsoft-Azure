@@ -1,0 +1,32 @@
+{
+  "userId": 78695,
+  "cartId": "2a987924-2741-4c5a-8ef1-eae1114f6a68",
+  "preferredProducts": [
+    3156,
+    917,
+    3243,
+    2997
+  ],
+  "productReviews": [
+    {
+      "productId": 55,
+      "reviewText": "this Marketing is perplexed.",
+      "reviewDate": "2019-11-06T12:50:07.0080286+02:00"
+    },
+    {
+      "productId": 405,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-11-16T14:54:32.4485806+02:00"
+    },
+    {
+      "productId": 4766,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2018-08-13T18:26:47.8903955+03:00"
+    },
+    {
+      "productId": 2678,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-01-07T12:19:41.0378689+02:00"
+    }
+  ]
+}

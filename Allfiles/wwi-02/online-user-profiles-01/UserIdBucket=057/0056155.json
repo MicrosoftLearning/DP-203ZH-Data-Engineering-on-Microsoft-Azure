@@ -1,0 +1,39 @@
+{
+  "userId": 56155,
+  "cartId": "db99d478-1deb-4321-96f3-551a5efcc3d9",
+  "preferredProducts": [
+    1782,
+    671,
+    1716,
+    4968,
+    2965,
+    4087
+  ],
+  "productReviews": [
+    {
+      "productId": 3492,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-12-01T21:28:53.790298+02:00"
+    },
+    {
+      "productId": 83,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-08-15T20:50:41.6062412+03:00"
+    },
+    {
+      "productId": 2451,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-12-12T07:16:01.2757387+02:00"
+    },
+    {
+      "productId": 3386,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-02-13T17:04:31.3406825+02:00"
+    },
+    {
+      "productId": 4749,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-12-15T04:14:06.9679712+02:00"
+    }
+  ]
+}

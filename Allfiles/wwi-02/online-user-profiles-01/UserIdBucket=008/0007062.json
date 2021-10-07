@@ -1,0 +1,37 @@
+{
+  "userId": 7062,
+  "cartId": "8d582c3b-2c1e-41a6-a003-8381066f1738",
+  "preferredProducts": [
+    3146,
+    2166,
+    3724,
+    4179,
+    3713,
+    3131,
+    2662,
+    4026,
+    522
+  ],
+  "productReviews": [
+    {
+      "productId": 4419,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-01-29T22:16:20.4584279+02:00"
+    },
+    {
+      "productId": 2083,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-08-10T11:43:00.4248245+03:00"
+    },
+    {
+      "productId": 864,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-08-16T14:41:51.3887566+03:00"
+    },
+    {
+      "productId": 125,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-11-22T08:04:56.1393268+02:00"
+    }
+  ]
+}

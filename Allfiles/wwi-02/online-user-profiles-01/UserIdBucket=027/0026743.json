@@ -1,0 +1,32 @@
+{
+  "userId": 26743,
+  "cartId": "d53a337d-2d3f-40b4-9c38-497f5dfacdf3",
+  "preferredProducts": [
+    4617,
+    4813,
+    4777,
+    1587
+  ],
+  "productReviews": [
+    {
+      "productId": 385,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-11-22T08:49:15.7479147+02:00"
+    },
+    {
+      "productId": 1233,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-06-04T05:53:28.8032368+03:00"
+    },
+    {
+      "productId": 531,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-02-12T07:22:38.7380551+02:00"
+    },
+    {
+      "productId": 438,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-11-27T03:13:18.6918164+02:00"
+    }
+  ]
+}

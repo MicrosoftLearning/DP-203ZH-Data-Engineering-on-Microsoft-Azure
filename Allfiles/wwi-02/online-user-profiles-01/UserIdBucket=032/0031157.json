@@ -1,0 +1,32 @@
+{
+  "userId": 31157,
+  "cartId": "5b623b07-1191-4ff3-a3e0-6dc36006c27c",
+  "preferredProducts": [
+    4124,
+    780,
+    333,
+    1162
+  ],
+  "productReviews": [
+    {
+      "productId": 1759,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-11-25T04:40:03.4785681+02:00"
+    },
+    {
+      "productId": 1230,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-06-08T21:11:34.2141417+03:00"
+    },
+    {
+      "productId": 1004,
+      "reviewText": "this Road is perplexed.",
+      "reviewDate": "2016-11-03T03:33:44.5522226+02:00"
+    },
+    {
+      "productId": 3504,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-09-17T11:54:22.4314772+03:00"
+    }
+  ]
+}

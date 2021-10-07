@@ -1,0 +1,27 @@
+{
+  "userId": 5542,
+  "cartId": "a2a2c79c-9bf6-408d-b701-a58e6589a77d",
+  "preferredProducts": [
+    1161,
+    1093,
+    1488,
+    2143
+  ],
+  "productReviews": [
+    {
+      "productId": 175,
+      "reviewText": "This challenge works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-12-31T07:27:26.7064556+02:00"
+    },
+    {
+      "productId": 1305,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-09-14T12:37:41.1822923+03:00"
+    },
+    {
+      "productId": 4577,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-03-24T07:40:04.8678811+02:00"
+    }
+  ]
+}

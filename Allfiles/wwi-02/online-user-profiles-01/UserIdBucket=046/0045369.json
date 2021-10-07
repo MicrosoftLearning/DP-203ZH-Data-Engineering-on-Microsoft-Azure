@@ -1,0 +1,30 @@
+{
+  "userId": 45369,
+  "cartId": "ae6fe8d6-f4ae-4f36-a2f1-af36d10ade9a",
+  "preferredProducts": [
+    4470,
+    801
+  ],
+  "productReviews": [
+    {
+      "productId": 2710,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-10-21T23:09:09.1023623+03:00"
+    },
+    {
+      "productId": 3390,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2019-07-31T19:50:52.2667993+03:00"
+    },
+    {
+      "productId": 1012,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-09-29T05:50:03.3596481+03:00"
+    },
+    {
+      "productId": 133,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-11-03T12:36:57.1828228+02:00"
+    }
+  ]
+}

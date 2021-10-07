@@ -1,0 +1,30 @@
+{
+  "userId": 56343,
+  "cartId": "9e5854de-30ba-4ebc-b4c3-e70c251163d4",
+  "preferredProducts": [
+    4973,
+    401,
+    1699,
+    3724,
+    4837,
+    2860,
+    4470
+  ],
+  "productReviews": [
+    {
+      "productId": 4717,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-03-17T05:08:09.0348078+02:00"
+    },
+    {
+      "productId": 2163,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-08-10T22:14:29.4992731+03:00"
+    },
+    {
+      "productId": 4373,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-03-28T17:26:11.1392247+03:00"
+    }
+  ]
+}

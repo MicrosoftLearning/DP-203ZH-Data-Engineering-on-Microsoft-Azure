@@ -1,0 +1,33 @@
+{
+  "userId": 44999,
+  "cartId": "7da8dc26-10e7-41be-a1a0-734b2280410a",
+  "preferredProducts": [
+    3,
+    3736,
+    209,
+    2658,
+    3983
+  ],
+  "productReviews": [
+    {
+      "productId": 1018,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-05-07T06:24:32.393335+03:00"
+    },
+    {
+      "productId": 1417,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-04-09T12:34:42.1718306+03:00"
+    },
+    {
+      "productId": 2620,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-04-22T16:26:13.1732608+03:00"
+    },
+    {
+      "productId": 2079,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2016-09-17T19:11:53.1676737+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 45433,
+  "cartId": "aa583026-d7e5-4ce2-9b62-75acb1c13895",
+  "preferredProducts": [
+    3156,
+    2587,
+    614,
+    3414,
+    3241
+  ],
+  "productReviews": [
+    {
+      "productId": 3896,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-04-24T08:58:02.9516535+03:00"
+    },
+    {
+      "productId": 4924,
+      "reviewText": "this Integration is standard.",
+      "reviewDate": "2018-02-02T06:12:15.358737+02:00"
+    },
+    {
+      "productId": 4332,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2020-02-11T13:33:36.9460403+02:00"
+    },
+    {
+      "productId": 3495,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-09-10T18:38:31.7456733+03:00"
+    }
+  ]
+}

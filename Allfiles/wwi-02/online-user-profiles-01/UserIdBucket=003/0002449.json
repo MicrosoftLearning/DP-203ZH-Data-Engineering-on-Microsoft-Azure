@@ -1,0 +1,36 @@
+{
+  "userId": 2449,
+  "cartId": "cc2d4336-76f1-4cea-b53b-b9bd2779500d",
+  "preferredProducts": [
+    241,
+    3056,
+    1069,
+    1134,
+    1212,
+    4644,
+    1137,
+    2415
+  ],
+  "productReviews": [
+    {
+      "productId": 3496,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-08-06T20:28:44.6814793+03:00"
+    },
+    {
+      "productId": 4370,
+      "reviewText": "this Avon is nifty.",
+      "reviewDate": "2020-02-07T00:39:51.5551141+02:00"
+    },
+    {
+      "productId": 4650,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-09-04T10:51:47.9194115+03:00"
+    },
+    {
+      "productId": 943,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-07-31T19:35:14.6541292+03:00"
+    }
+  ]
+}

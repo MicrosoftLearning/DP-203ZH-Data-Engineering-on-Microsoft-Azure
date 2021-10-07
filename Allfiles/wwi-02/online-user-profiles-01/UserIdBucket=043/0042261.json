@@ -1,0 +1,26 @@
+{
+  "userId": 42261,
+  "cartId": "063451a0-0b20-4a12-b859-5e511fd4a39b",
+  "preferredProducts": [
+    4270,
+    1820,
+    117
+  ],
+  "productReviews": [
+    {
+      "productId": 2181,
+      "reviewText": "This web services works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-12-28T22:19:09.0459104+02:00"
+    },
+    {
+      "productId": 4001,
+      "reviewText": "This driver works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2016-11-24T16:35:35.8168999+02:00"
+    },
+    {
+      "productId": 23,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-01-26T10:24:40.1701977+02:00"
+    }
+  ]
+}

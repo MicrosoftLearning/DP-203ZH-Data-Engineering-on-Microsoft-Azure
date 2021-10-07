@@ -1,0 +1,41 @@
+{
+  "userId": 1340,
+  "cartId": "02cd2dbc-ba50-464a-ae6e-2144fa9d6237",
+  "preferredProducts": [
+    2814,
+    4475,
+    5,
+    1169,
+    1429,
+    2815,
+    2857,
+    1102
+  ],
+  "productReviews": [
+    {
+      "productId": 3031,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-05-18T15:23:34.8010131+03:00"
+    },
+    {
+      "productId": 3298,
+      "reviewText": "This interface works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-03-07T15:25:38.3742809+02:00"
+    },
+    {
+      "productId": 993,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-12-23T01:48:51.9102433+02:00"
+    },
+    {
+      "productId": 255,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-03-08T11:34:06.1972107+02:00"
+    },
+    {
+      "productId": 2875,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-08-28T03:49:25.5427141+03:00"
+    }
+  ]
+}

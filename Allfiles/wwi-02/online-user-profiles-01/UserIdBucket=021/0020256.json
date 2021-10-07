@@ -1,0 +1,38 @@
+{
+  "userId": 20256,
+  "cartId": "f156fec8-9662-487a-a675-5b909ce07d4c",
+  "preferredProducts": [
+    1469,
+    2725,
+    3583,
+    2197,
+    735
+  ],
+  "productReviews": [
+    {
+      "productId": 1483,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-12-13T16:07:03.6813733+02:00"
+    },
+    {
+      "productId": 719,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2016-11-04T23:40:53.4699843+02:00"
+    },
+    {
+      "productId": 2099,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-12-04T17:36:43.3974288+02:00"
+    },
+    {
+      "productId": 1522,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-01-30T09:25:43.8798408+02:00"
+    },
+    {
+      "productId": 1026,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-08-14T14:22:33.2692399+03:00"
+    }
+  ]
+}

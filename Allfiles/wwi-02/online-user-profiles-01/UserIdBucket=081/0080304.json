@@ -1,0 +1,32 @@
+{
+  "userId": 80304,
+  "cartId": "b4bbf0bd-5c18-4a30-b594-dfb92b053331",
+  "preferredProducts": [
+    3645,
+    884,
+    4594,
+    4955
+  ],
+  "productReviews": [
+    {
+      "productId": 1777,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-08-13T14:44:12.0633433+03:00"
+    },
+    {
+      "productId": 937,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-12-17T13:22:24.6391767+02:00"
+    },
+    {
+      "productId": 1378,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2018-08-05T00:42:46.8848097+03:00"
+    },
+    {
+      "productId": 1662,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-09-04T17:34:10.806423+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 99864,
+  "cartId": "52e2fdcb-7a27-4dd6-8cc0-181faad14039",
+  "preferredProducts": [
+    987,
+    328
+  ],
+  "productReviews": [
+    {
+      "productId": 1707,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-04-11T12:15:03.6745802+03:00"
+    },
+    {
+      "productId": 847,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-10-19T07:46:05.5972783+03:00"
+    },
+    {
+      "productId": 3072,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-08-31T06:33:22.310666+03:00"
+    },
+    {
+      "productId": 1928,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-07-28T16:59:47.6304184+03:00"
+    }
+  ]
+}

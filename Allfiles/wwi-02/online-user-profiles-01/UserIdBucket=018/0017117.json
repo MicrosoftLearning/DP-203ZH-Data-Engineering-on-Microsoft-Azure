@@ -1,0 +1,34 @@
+{
+  "userId": 17117,
+  "cartId": "af7d25e7-e515-4363-a61b-182c082bb367",
+  "preferredProducts": [
+    558,
+    1846,
+    278,
+    573,
+    829,
+    2077
+  ],
+  "productReviews": [
+    {
+      "productId": 600,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-07-02T07:11:05.5400306+03:00"
+    },
+    {
+      "productId": 2028,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-05-18T15:06:57.5853069+03:00"
+    },
+    {
+      "productId": 2750,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-05-03T03:37:36.7262766+03:00"
+    },
+    {
+      "productId": 2879,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-01-16T13:25:45.8029614+02:00"
+    }
+  ]
+}

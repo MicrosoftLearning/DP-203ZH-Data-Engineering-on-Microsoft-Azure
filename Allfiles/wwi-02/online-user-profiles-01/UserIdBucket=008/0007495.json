@@ -1,0 +1,31 @@
+{
+  "userId": 7495,
+  "cartId": "3ad91112-b1c7-4899-8a1e-1e1bb44b3d53",
+  "preferredProducts": [
+    4192,
+    1076,
+    3647
+  ],
+  "productReviews": [
+    {
+      "productId": 3649,
+      "reviewText": "This Product works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2018-02-17T09:07:06.6309559+02:00"
+    },
+    {
+      "productId": 4679,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-01-26T20:07:09.2150927+02:00"
+    },
+    {
+      "productId": 2357,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-04-04T22:07:00.3101524+03:00"
+    },
+    {
+      "productId": 2419,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-10-24T10:31:44.4369077+03:00"
+    }
+  ]
+}

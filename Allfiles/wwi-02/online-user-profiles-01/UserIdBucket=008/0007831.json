@@ -1,0 +1,40 @@
+{
+  "userId": 7831,
+  "cartId": "12223c83-b1b0-4346-8b86-37217a3b5e00",
+  "preferredProducts": [
+    703,
+    734,
+    4217,
+    1118,
+    1528,
+    3714,
+    390
+  ],
+  "productReviews": [
+    {
+      "productId": 2768,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-02-24T15:21:57.0323675+02:00"
+    },
+    {
+      "productId": 1814,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-05-17T20:26:31.5854863+03:00"
+    },
+    {
+      "productId": 2001,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-04-28T09:07:17.4102675+03:00"
+    },
+    {
+      "productId": 3015,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-07-06T02:02:38.7608497+03:00"
+    },
+    {
+      "productId": 3409,
+      "reviewText": "This Investment Account works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2017-05-02T12:04:11.1433771+03:00"
+    }
+  ]
+}

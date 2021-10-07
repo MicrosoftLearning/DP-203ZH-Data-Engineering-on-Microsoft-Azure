@@ -1,0 +1,27 @@
+{
+  "userId": 78166,
+  "cartId": "3579aeb1-f7fb-443d-94b6-ee97fb29aa6a",
+  "preferredProducts": [
+    626,
+    1366,
+    3725,
+    3970
+  ],
+  "productReviews": [
+    {
+      "productId": 3640,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-08-08T16:03:59.6921063+03:00"
+    },
+    {
+      "productId": 1765,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-06-22T08:10:25.0528622+03:00"
+    },
+    {
+      "productId": 3011,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-02-22T12:41:39.9438773+02:00"
+    }
+  ]
+}

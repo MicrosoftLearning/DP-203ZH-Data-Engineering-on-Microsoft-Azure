@@ -1,0 +1,28 @@
+{
+  "userId": 45672,
+  "cartId": "d7da9d90-e8fd-42a5-ae00-e3a3a7926c6b",
+  "preferredProducts": [
+    3230,
+    2842,
+    4383,
+    855,
+    4436
+  ],
+  "productReviews": [
+    {
+      "productId": 3303,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-11-09T05:41:07.5128061+02:00"
+    },
+    {
+      "productId": 1047,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-03-22T03:22:33.3862721+02:00"
+    },
+    {
+      "productId": 1740,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-02-10T19:25:15.1698816+02:00"
+    }
+  ]
+}

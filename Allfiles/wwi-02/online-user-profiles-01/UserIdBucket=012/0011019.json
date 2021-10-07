@@ -1,0 +1,37 @@
+{
+  "userId": 11019,
+  "cartId": "f6e28f4a-4721-413e-88fa-c8e07de172a0",
+  "preferredProducts": [
+    4043,
+    4563,
+    2960,
+    1751,
+    2248,
+    10,
+    3861,
+    586,
+    3999
+  ],
+  "productReviews": [
+    {
+      "productId": 403,
+      "reviewText": "this multimedia is mellow.",
+      "reviewDate": "2019-11-04T12:34:34.4714976+02:00"
+    },
+    {
+      "productId": 2790,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-10-18T18:23:20.6567518+03:00"
+    },
+    {
+      "productId": 1541,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2016-08-04T11:19:00.556057+03:00"
+    },
+    {
+      "productId": 4697,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-07-06T18:17:59.4362132+03:00"
+    }
+  ]
+}

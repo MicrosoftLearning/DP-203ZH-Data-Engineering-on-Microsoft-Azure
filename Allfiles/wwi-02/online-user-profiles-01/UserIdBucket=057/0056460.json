@@ -1,0 +1,29 @@
+{
+  "userId": 56460,
+  "cartId": "8aba1ab5-992b-4320-b7aa-78dcb2e4d063",
+  "preferredProducts": [
+    160,
+    3645,
+    288,
+    3728,
+    3910,
+    2344
+  ],
+  "productReviews": [
+    {
+      "productId": 1446,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-04-28T21:12:18.6323333+03:00"
+    },
+    {
+      "productId": 4717,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-08-29T17:58:06.5059672+03:00"
+    },
+    {
+      "productId": 1685,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-08-31T16:42:20.3821255+03:00"
+    }
+  ]
+}

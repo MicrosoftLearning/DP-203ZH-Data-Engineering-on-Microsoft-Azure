@@ -1,0 +1,33 @@
+{
+  "userId": 97463,
+  "cartId": "2e1543c5-edb6-4d45-ac41-adf231c88319",
+  "preferredProducts": [
+    2001,
+    1124,
+    873,
+    4019,
+    4060
+  ],
+  "productReviews": [
+    {
+      "productId": 3609,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-09-04T15:16:02.2887408+03:00"
+    },
+    {
+      "productId": 3889,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-07-19T15:55:41.3963589+03:00"
+    },
+    {
+      "productId": 2002,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-06-15T03:43:13.6807489+03:00"
+    },
+    {
+      "productId": 1011,
+      "reviewText": "This Directives works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2018-04-01T02:57:08.9501423+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 1820,
+  "cartId": "c02d35a4-db0d-4b0e-beb3-8c876919c3ef",
+  "preferredProducts": [
+    100,
+    2099,
+    555,
+    3332
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "This turquoise works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2016-06-27T22:13:33.3800388+03:00"
+    },
+    {
+      "productId": 3108,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-12-04T15:50:32.2558305+02:00"
+    },
+    {
+      "productId": 4566,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-05-31T07:11:28.9054924+03:00"
+    }
+  ]
+}

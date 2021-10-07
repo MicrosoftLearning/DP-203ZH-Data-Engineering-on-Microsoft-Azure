@@ -1,0 +1,32 @@
+{
+  "userId": 33793,
+  "cartId": "35eafcee-e642-45f8-8f39-6964d3e4a4b5",
+  "preferredProducts": [
+    2600,
+    4312,
+    3818,
+    2794
+  ],
+  "productReviews": [
+    {
+      "productId": 1520,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-04-06T14:54:19.1568119+03:00"
+    },
+    {
+      "productId": 2981,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-08-24T23:56:43.8360537+03:00"
+    },
+    {
+      "productId": 1832,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-10-22T13:23:27.2962103+03:00"
+    },
+    {
+      "productId": 1959,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-05-28T23:14:32.571948+03:00"
+    }
+  ]
+}

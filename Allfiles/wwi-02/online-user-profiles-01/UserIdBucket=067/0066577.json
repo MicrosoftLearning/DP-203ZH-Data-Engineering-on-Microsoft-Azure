@@ -1,0 +1,33 @@
+{
+  "userId": 66577,
+  "cartId": "f09f60ae-071f-4c40-a12b-129ab5f7b8b3",
+  "preferredProducts": [
+    1037,
+    213,
+    1696,
+    4321,
+    707
+  ],
+  "productReviews": [
+    {
+      "productId": 737,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-07-13T20:29:07.6036293+03:00"
+    },
+    {
+      "productId": 422,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2016-11-13T00:40:32.1156708+02:00"
+    },
+    {
+      "productId": 2342,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-07-02T08:38:33.1836169+03:00"
+    },
+    {
+      "productId": 1352,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2020-05-09T00:36:39.8902322+03:00"
+    }
+  ]
+}

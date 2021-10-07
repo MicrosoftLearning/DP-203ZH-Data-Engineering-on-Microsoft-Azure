@@ -1,0 +1,32 @@
+{
+  "userId": 78020,
+  "cartId": "e54ace5b-6f78-4974-ada1-19bbbaa78fb4",
+  "preferredProducts": [
+    2561,
+    1983,
+    4224,
+    4849
+  ],
+  "productReviews": [
+    {
+      "productId": 4284,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-04-21T01:02:55.329458+03:00"
+    },
+    {
+      "productId": 2357,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-09-25T13:33:33.2406224+03:00"
+    },
+    {
+      "productId": 91,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-10-04T00:14:52.014391+03:00"
+    },
+    {
+      "productId": 1603,
+      "reviewText": "this SAS is awesome.",
+      "reviewDate": "2019-09-25T09:28:03.8827358+03:00"
+    }
+  ]
+}

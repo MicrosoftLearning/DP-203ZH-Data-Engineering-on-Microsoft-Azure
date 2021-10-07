@@ -1,0 +1,30 @@
+{
+  "userId": 77406,
+  "cartId": "b99c7377-d952-417f-b95d-955e7dc6cfa7",
+  "preferredProducts": [
+    533,
+    732,
+    2383,
+    1278,
+    4605,
+    2123,
+    2834
+  ],
+  "productReviews": [
+    {
+      "productId": 1997,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-01-22T10:53:48.9499727+02:00"
+    },
+    {
+      "productId": 1928,
+      "reviewText": "this bricks-and-clicks is snowy.",
+      "reviewDate": "2020-02-08T11:19:53.1668612+02:00"
+    },
+    {
+      "productId": 3985,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-06-08T20:26:30.3281171+03:00"
+    }
+  ]
+}

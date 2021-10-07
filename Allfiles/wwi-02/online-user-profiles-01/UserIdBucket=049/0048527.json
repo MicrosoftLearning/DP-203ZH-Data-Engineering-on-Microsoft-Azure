@@ -1,0 +1,32 @@
+{
+  "userId": 48527,
+  "cartId": "6712bf86-15d1-4bad-9f88-79cc7d8e7202",
+  "preferredProducts": [
+    1795,
+    1070,
+    2021,
+    4007,
+    3626,
+    2087,
+    4379,
+    3512,
+    4339
+  ],
+  "productReviews": [
+    {
+      "productId": 3099,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-03-16T04:48:00.3547649+02:00"
+    },
+    {
+      "productId": 1722,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-12-22T04:59:37.3015086+02:00"
+    },
+    {
+      "productId": 4518,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-08-24T16:05:01.2567374+03:00"
+    }
+  ]
+}

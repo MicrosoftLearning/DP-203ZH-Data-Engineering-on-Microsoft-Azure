@@ -1,0 +1,35 @@
+{
+  "userId": 14400,
+  "cartId": "81d4c8f4-8928-4fad-aa72-8c142f744dc3",
+  "preferredProducts": [
+    4583,
+    3661,
+    701,
+    3916,
+    3700,
+    1909,
+    2807
+  ],
+  "productReviews": [
+    {
+      "productId": 3463,
+      "reviewText": "this local is ratty.",
+      "reviewDate": "2018-09-25T23:18:57.4888224+03:00"
+    },
+    {
+      "productId": 3249,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-09-28T06:30:57.077765+03:00"
+    },
+    {
+      "productId": 1307,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-08-01T10:22:49.860654+03:00"
+    },
+    {
+      "productId": 218,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2020-01-16T15:56:02.1694483+02:00"
+    }
+  ]
+}

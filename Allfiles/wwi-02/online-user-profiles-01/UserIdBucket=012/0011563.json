@@ -1,0 +1,33 @@
+{
+  "userId": 11563,
+  "cartId": "e43c6dea-480b-4aef-b09b-2bc02d154a92",
+  "preferredProducts": [
+    439,
+    2390,
+    3462,
+    1156,
+    1118,
+    4384,
+    2987,
+    4855,
+    3187,
+    4367
+  ],
+  "productReviews": [
+    {
+      "productId": 4198,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-03-11T15:17:44.6766865+02:00"
+    },
+    {
+      "productId": 2531,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-01-07T21:13:21.14972+02:00"
+    },
+    {
+      "productId": 4565,
+      "reviewText": "This Function-based works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-10-28T19:24:12.8084949+02:00"
+    }
+  ]
+}

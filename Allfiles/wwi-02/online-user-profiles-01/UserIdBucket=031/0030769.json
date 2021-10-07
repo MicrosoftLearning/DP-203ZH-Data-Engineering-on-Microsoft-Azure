@@ -1,0 +1,31 @@
+{
+  "userId": 30769,
+  "cartId": "452ac785-2ccb-4a55-b0c5-9cdca966f460",
+  "preferredProducts": [
+    313,
+    1032,
+    1265,
+    3435,
+    1398,
+    2664,
+    1231,
+    2044
+  ],
+  "productReviews": [
+    {
+      "productId": 2369,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2020-01-24T03:27:06.1790011+02:00"
+    },
+    {
+      "productId": 1993,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-03-05T13:06:10.8464987+02:00"
+    },
+    {
+      "productId": 4621,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-07-17T10:57:39.0610902+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 10261,
+  "cartId": "876aab58-ef8e-4924-bfa4-99470ee23343",
+  "preferredProducts": [
+    1640,
+    1860,
+    3375,
+    2443
+  ],
+  "productReviews": [
+    {
+      "productId": 1254,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-08-14T02:11:31.95773+03:00"
+    },
+    {
+      "productId": 2038,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-10-26T04:18:46.5758095+03:00"
+    },
+    {
+      "productId": 2008,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-05-13T05:58:58.9115824+03:00"
+    }
+  ]
+}

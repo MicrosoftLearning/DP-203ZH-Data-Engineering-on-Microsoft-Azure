@@ -1,0 +1,30 @@
+{
+  "userId": 30829,
+  "cartId": "2f441ac6-a49d-466a-b826-65df78edda46",
+  "preferredProducts": [
+    2687,
+    4800,
+    3190,
+    2806,
+    4069,
+    2797,
+    2352
+  ],
+  "productReviews": [
+    {
+      "productId": 1215,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-08-28T17:03:15.9738614+03:00"
+    },
+    {
+      "productId": 4172,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-06-19T22:47:55.4104175+03:00"
+    },
+    {
+      "productId": 2432,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-10-25T13:29:10.4117608+03:00"
+    }
+  ]
+}

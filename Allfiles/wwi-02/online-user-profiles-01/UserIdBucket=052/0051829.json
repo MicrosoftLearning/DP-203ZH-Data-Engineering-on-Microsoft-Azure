@@ -1,0 +1,26 @@
+{
+  "userId": 51829,
+  "cartId": "fc799d57-613c-4c7b-9936-1b4165b4ef47",
+  "preferredProducts": [
+    1510,
+    1114,
+    905,
+    3258,
+    4750,
+    3882,
+    3141,
+    4679
+  ],
+  "productReviews": [
+    {
+      "productId": 1630,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-06-11T09:37:08.0033682+03:00"
+    },
+    {
+      "productId": 1359,
+      "reviewText": "this algorithm is slurpee.",
+      "reviewDate": "2017-11-22T01:29:42.5239297+02:00"
+    }
+  ]
+}

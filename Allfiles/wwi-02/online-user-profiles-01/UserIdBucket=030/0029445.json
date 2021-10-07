@@ -1,0 +1,26 @@
+{
+  "userId": 29445,
+  "cartId": "1118b1ac-2d9f-4182-918a-28a0f6e37607",
+  "preferredProducts": [
+    950,
+    1013,
+    912
+  ],
+  "productReviews": [
+    {
+      "productId": 3571,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-12-16T11:29:34.5529898+02:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-11-24T00:02:28.7586483+02:00"
+    },
+    {
+      "productId": 2351,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-02-23T23:43:17.5097357+02:00"
+    }
+  ]
+}

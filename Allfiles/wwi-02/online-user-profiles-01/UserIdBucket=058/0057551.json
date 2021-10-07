@@ -1,0 +1,31 @@
+{
+  "userId": 57551,
+  "cartId": "12a1100f-df33-4fc6-9e69-fcca6e7cd6ed",
+  "preferredProducts": [
+    992,
+    3678,
+    3123,
+    2905,
+    2337,
+    1677,
+    4762,
+    2477
+  ],
+  "productReviews": [
+    {
+      "productId": 723,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-06-20T00:20:34.3087862+03:00"
+    },
+    {
+      "productId": 2199,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-01-14T23:18:34.1603979+02:00"
+    },
+    {
+      "productId": 2875,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-08-05T18:58:57.378095+03:00"
+    }
+  ]
+}

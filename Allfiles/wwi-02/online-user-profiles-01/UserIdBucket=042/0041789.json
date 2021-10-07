@@ -1,0 +1,27 @@
+{
+  "userId": 41789,
+  "cartId": "84aa4fcc-1006-4e24-8d7d-81c86c5a506e",
+  "preferredProducts": [
+    1994,
+    2117,
+    2247,
+    259,
+    530,
+    4557,
+    1342,
+    2177,
+    3750
+  ],
+  "productReviews": [
+    {
+      "productId": 1187,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-09-22T17:59:18.4360465+03:00"
+    },
+    {
+      "productId": 4490,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-06-27T05:49:05.6241192+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 7909,
+  "cartId": "d5eb15f4-45dc-42df-9541-db621070dc66",
+  "preferredProducts": [
+    1312,
+    1206,
+    3611,
+    2001
+  ],
+  "productReviews": [
+    {
+      "productId": 4118,
+      "reviewText": "this array is brown.",
+      "reviewDate": "2019-11-04T18:22:43.7984629+02:00"
+    },
+    {
+      "productId": 1199,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-09-13T07:26:16.4154347+03:00"
+    },
+    {
+      "productId": 2521,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-01-09T04:19:22.0424633+02:00"
+    },
+    {
+      "productId": 795,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-07-30T08:46:28.2490499+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 96176,
+  "cartId": "a8455d62-d24e-4908-a265-df85e948239e",
+  "preferredProducts": [
+    858,
+    1362,
+    1899,
+    3645,
+    134
+  ],
+  "productReviews": [
+    {
+      "productId": 3287,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-03-29T06:31:35.5012134+03:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-01-31T06:33:34.7621768+02:00"
+    },
+    {
+      "productId": 4149,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2017-08-03T03:59:20.6828597+03:00"
+    },
+    {
+      "productId": 2357,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-03-11T02:06:19.869589+02:00"
+    }
+  ]
+}

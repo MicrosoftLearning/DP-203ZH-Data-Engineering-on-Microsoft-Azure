@@ -1,0 +1,28 @@
+{
+  "userId": 78622,
+  "cartId": "afa2da81-f9db-41e1-b554-51f97f7afca7",
+  "preferredProducts": [
+    1693,
+    4117,
+    1846,
+    1939,
+    4056
+  ],
+  "productReviews": [
+    {
+      "productId": 1382,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-09-03T11:00:41.033621+03:00"
+    },
+    {
+      "productId": 2185,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-03-19T14:20:46.9920528+02:00"
+    },
+    {
+      "productId": 815,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-03-27T19:05:14.4156029+02:00"
+    }
+  ]
+}

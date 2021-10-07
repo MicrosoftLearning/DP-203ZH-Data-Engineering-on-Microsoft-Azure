@@ -1,0 +1,29 @@
+{
+  "userId": 55686,
+  "cartId": "b6d8adcf-206a-4650-997d-ec17e177a265",
+  "preferredProducts": [
+    3222,
+    3664,
+    1695,
+    1990,
+    2360,
+    1414
+  ],
+  "productReviews": [
+    {
+      "productId": 844,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-09-20T11:39:19.3077697+03:00"
+    },
+    {
+      "productId": 3949,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-09-10T09:28:13.5500031+03:00"
+    },
+    {
+      "productId": 2443,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-02-12T22:14:16.9659382+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 33486,
+  "cartId": "d4cd3a87-e125-439f-b24e-5a331fd06af8",
+  "preferredProducts": [
+    1092,
+    264,
+    3345,
+    1053,
+    3262,
+    4157,
+    4434,
+    2503
+  ],
+  "productReviews": [
+    {
+      "productId": 2127,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-02-09T20:29:16.7698675+02:00"
+    },
+    {
+      "productId": 4627,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2016-11-02T05:53:36.2088502+02:00"
+    },
+    {
+      "productId": 3610,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-09-26T05:39:06.2741681+03:00"
+    }
+  ]
+}

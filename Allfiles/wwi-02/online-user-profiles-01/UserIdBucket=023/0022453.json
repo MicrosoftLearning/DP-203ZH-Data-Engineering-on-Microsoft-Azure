@@ -1,0 +1,40 @@
+{
+  "userId": 22453,
+  "cartId": "904cc8d8-4e53-4e80-8e42-e2c936df810c",
+  "preferredProducts": [
+    1276,
+    2824,
+    3701,
+    2734,
+    3497,
+    2006,
+    1666
+  ],
+  "productReviews": [
+    {
+      "productId": 1420,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-04-05T19:02:16.4692276+03:00"
+    },
+    {
+      "productId": 3574,
+      "reviewText": "This SQL works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2016-05-18T10:36:37.0758744+03:00"
+    },
+    {
+      "productId": 4800,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2020-03-01T07:26:06.1262884+02:00"
+    },
+    {
+      "productId": 3044,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-12-15T05:40:47.7277284+02:00"
+    },
+    {
+      "productId": 876,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-05-05T14:28:58.0094883+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 57987,
+  "cartId": "1dfab8d4-3962-4799-a56d-8ec62ee8a785",
+  "preferredProducts": [
+    1205,
+    3962,
+    3235,
+    1233,
+    358,
+    266,
+    954,
+    542,
+    3778
+  ],
+  "productReviews": [
+    {
+      "productId": 754,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-10-20T12:17:06.845485+03:00"
+    },
+    {
+      "productId": 3165,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-03-05T13:46:59.7918354+02:00"
+    },
+    {
+      "productId": 1261,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-10-06T11:21:16.9172718+03:00"
+    }
+  ]
+}

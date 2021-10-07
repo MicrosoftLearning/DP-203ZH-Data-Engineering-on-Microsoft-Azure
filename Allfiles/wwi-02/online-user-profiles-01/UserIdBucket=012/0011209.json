@@ -1,0 +1,34 @@
+{
+  "userId": 11209,
+  "cartId": "2c290576-b0d1-4688-b466-cefdfc01198a",
+  "preferredProducts": [
+    2237,
+    2141,
+    3592,
+    2928,
+    1780,
+    1922
+  ],
+  "productReviews": [
+    {
+      "productId": 3002,
+      "reviewText": "this stable is vertical.",
+      "reviewDate": "2018-07-02T11:50:36.2028078+03:00"
+    },
+    {
+      "productId": 2266,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-02-13T03:55:12.6788177+02:00"
+    },
+    {
+      "productId": 772,
+      "reviewText": "This is a really good Generic.",
+      "reviewDate": "2018-03-18T22:54:01.0522743+02:00"
+    },
+    {
+      "productId": 4616,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-11-25T21:57:30.2140217+02:00"
+    }
+  ]
+}

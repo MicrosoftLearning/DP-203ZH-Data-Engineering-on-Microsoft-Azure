@@ -1,0 +1,30 @@
+{
+  "userId": 42591,
+  "cartId": "162c0c92-ad41-44e7-8d12-b78ebbd78020",
+  "preferredProducts": [
+    3542,
+    122
+  ],
+  "productReviews": [
+    {
+      "productId": 450,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-08-11T19:43:06.0413852+03:00"
+    },
+    {
+      "productId": 4766,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-02-13T18:05:43.7123521+02:00"
+    },
+    {
+      "productId": 4257,
+      "reviewText": "this Fantastic Fresh Towels is tasty.",
+      "reviewDate": "2020-02-25T16:36:17.9070581+02:00"
+    },
+    {
+      "productId": 4148,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-05-22T16:17:22.6768912+03:00"
+    }
+  ]
+}

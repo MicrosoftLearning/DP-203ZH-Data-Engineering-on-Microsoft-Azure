@@ -1,0 +1,32 @@
+{
+  "userId": 62112,
+  "cartId": "8e3c9ce1-c6d5-40c7-bc47-8a3a6404dd4d",
+  "preferredProducts": [
+    3419,
+    1040,
+    4554,
+    2969,
+    1677,
+    1268,
+    1378,
+    1126,
+    4232
+  ],
+  "productReviews": [
+    {
+      "productId": 2699,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-03-07T18:36:11.3065271+02:00"
+    },
+    {
+      "productId": 686,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-07-10T13:22:43.9238487+03:00"
+    },
+    {
+      "productId": 1640,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2020-04-19T16:23:05.7091351+03:00"
+    }
+  ]
+}

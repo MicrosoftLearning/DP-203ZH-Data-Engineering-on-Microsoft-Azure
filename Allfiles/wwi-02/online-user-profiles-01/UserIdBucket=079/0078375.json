@@ -1,0 +1,41 @@
+{
+  "userId": 78375,
+  "cartId": "c8f7f5ff-679d-428c-a290-5bda9f172ff5",
+  "preferredProducts": [
+    2702,
+    3369,
+    89,
+    2288,
+    270,
+    845,
+    2326,
+    2650
+  ],
+  "productReviews": [
+    {
+      "productId": 70,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-06-11T22:59:39.4051303+03:00"
+    },
+    {
+      "productId": 2004,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2016-11-29T09:58:47.340009+02:00"
+    },
+    {
+      "productId": 3010,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-02-13T03:24:11.9378401+02:00"
+    },
+    {
+      "productId": 4327,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2018-04-09T04:39:01.914903+03:00"
+    },
+    {
+      "productId": 3225,
+      "reviewText": "this Buckinghamshire is complimentary.",
+      "reviewDate": "2018-03-15T09:17:46.8330509+02:00"
+    }
+  ]
+}

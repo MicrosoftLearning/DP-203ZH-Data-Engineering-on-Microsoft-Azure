@@ -1,0 +1,39 @@
+{
+  "userId": 70021,
+  "cartId": "7aa5e88c-c0d1-4b8d-8628-786f7220e02e",
+  "preferredProducts": [
+    3197,
+    1567,
+    4658,
+    1751,
+    4368,
+    1357
+  ],
+  "productReviews": [
+    {
+      "productId": 2126,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-09-25T06:40:28.0565534+03:00"
+    },
+    {
+      "productId": 4935,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-04-15T17:48:20.8231343+03:00"
+    },
+    {
+      "productId": 1164,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2018-01-29T16:02:01.4852976+02:00"
+    },
+    {
+      "productId": 1274,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-04-07T05:11:02.505147+03:00"
+    },
+    {
+      "productId": 1903,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-01-13T08:09:15.3460512+02:00"
+    }
+  ]
+}

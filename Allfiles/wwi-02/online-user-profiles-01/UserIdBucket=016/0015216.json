@@ -1,0 +1,28 @@
+{
+  "userId": 15216,
+  "cartId": "a9552116-f518-45f9-81bb-52c20ad02508",
+  "preferredProducts": [
+    2532,
+    3204,
+    4586,
+    4505,
+    2482
+  ],
+  "productReviews": [
+    {
+      "productId": 2752,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-05-05T04:41:26.5597389+03:00"
+    },
+    {
+      "productId": 2371,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-07-20T08:37:28.4129417+03:00"
+    },
+    {
+      "productId": 2584,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-05-02T16:36:30.787897+03:00"
+    }
+  ]
+}

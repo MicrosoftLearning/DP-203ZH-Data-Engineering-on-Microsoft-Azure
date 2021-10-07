@@ -1,0 +1,31 @@
+{
+  "userId": 20827,
+  "cartId": "57a5c375-66a6-484e-9d4b-e6d7ac45ff22",
+  "preferredProducts": [
+    2800,
+    4153,
+    3715,
+    2111,
+    1255,
+    719,
+    1989,
+    4352
+  ],
+  "productReviews": [
+    {
+      "productId": 4102,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-03-18T17:37:08.9450768+02:00"
+    },
+    {
+      "productId": 2293,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-04-13T08:03:54.3777798+03:00"
+    },
+    {
+      "productId": 451,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-01-04T07:08:53.4150386+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 42029,
+  "cartId": "b082bfb2-5828-4e48-86d1-4f4cd1e63aa8",
+  "preferredProducts": [
+    3055,
+    2347,
+    4620,
+    2581,
+    1977,
+    1586
+  ],
+  "productReviews": [
+    {
+      "productId": 4586,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-10-29T16:24:13.5803499+02:00"
+    },
+    {
+      "productId": 2635,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-12-05T16:07:14.7977623+02:00"
+    },
+    {
+      "productId": 2015,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Electronics keeps them away.",
+      "reviewDate": "2016-11-05T17:14:05.382693+02:00"
+    }
+  ]
+}

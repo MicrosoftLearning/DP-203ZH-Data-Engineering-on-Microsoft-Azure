@@ -1,0 +1,30 @@
+{
+  "userId": 57435,
+  "cartId": "50e5dd94-c5df-48a4-8ce9-b0882ad14b8b",
+  "preferredProducts": [
+    885,
+    2018,
+    4785,
+    1250,
+    2210,
+    4516,
+    1432
+  ],
+  "productReviews": [
+    {
+      "productId": 1484,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-10-20T10:02:30.5303484+03:00"
+    },
+    {
+      "productId": 1768,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-02-26T08:36:59.9120381+02:00"
+    },
+    {
+      "productId": 2528,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-01-19T02:23:56.0012569+02:00"
+    }
+  ]
+}

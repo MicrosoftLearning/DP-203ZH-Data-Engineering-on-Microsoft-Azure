@@ -1,0 +1,41 @@
+{
+  "userId": 64467,
+  "cartId": "35e81e04-dadc-4cb4-b464-5fddde10574b",
+  "preferredProducts": [
+    2325,
+    1866,
+    2618,
+    1413,
+    2232,
+    3957,
+    2219,
+    2979
+  ],
+  "productReviews": [
+    {
+      "productId": 2618,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-12-18T02:48:19.0781778+02:00"
+    },
+    {
+      "productId": 3469,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-04-30T00:55:43.8722281+03:00"
+    },
+    {
+      "productId": 4562,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-05-03T11:22:25.4021523+03:00"
+    },
+    {
+      "productId": 4603,
+      "reviewText": "This Hill works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-05-19T14:22:20.5473896+03:00"
+    },
+    {
+      "productId": 116,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-04-19T16:04:42.714886+03:00"
+    }
+  ]
+}

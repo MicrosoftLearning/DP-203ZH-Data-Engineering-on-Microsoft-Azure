@@ -1,0 +1,40 @@
+{
+  "userId": 33565,
+  "cartId": "c2380bf5-9682-45d5-a107-069724e4a071",
+  "preferredProducts": [
+    4422,
+    3367,
+    2515,
+    3389,
+    771,
+    4719,
+    3580
+  ],
+  "productReviews": [
+    {
+      "productId": 2568,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-10-31T13:25:01.6252653+02:00"
+    },
+    {
+      "productId": 1903,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2020-04-20T17:07:42.632912+03:00"
+    },
+    {
+      "productId": 3220,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-04-03T19:20:37.7926568+03:00"
+    },
+    {
+      "productId": 2632,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2016-11-29T06:13:27.8257643+02:00"
+    },
+    {
+      "productId": 2430,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-09-23T13:10:36.0241615+03:00"
+    }
+  ]
+}

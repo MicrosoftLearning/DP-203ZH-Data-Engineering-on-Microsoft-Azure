@@ -1,0 +1,35 @@
+{
+  "userId": 78968,
+  "cartId": "af50717d-99ae-4ad6-ab23-c75111e240e7",
+  "preferredProducts": [
+    3520,
+    1671,
+    847,
+    4898,
+    1038,
+    3679,
+    2467
+  ],
+  "productReviews": [
+    {
+      "productId": 840,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-12-31T07:04:47.1913452+02:00"
+    },
+    {
+      "productId": 553,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-06-03T01:30:55.3239125+03:00"
+    },
+    {
+      "productId": 3937,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2018-08-30T17:03:40.9257626+03:00"
+    },
+    {
+      "productId": 2314,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-12-19T22:14:45.408102+02:00"
+    }
+  ]
+}

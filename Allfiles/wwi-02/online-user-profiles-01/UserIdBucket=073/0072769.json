@@ -1,0 +1,32 @@
+{
+  "userId": 72769,
+  "cartId": "e1ef138e-f18b-47f5-8ca5-a0f49fe76c21",
+  "preferredProducts": [
+    235,
+    3169,
+    2978,
+    3280
+  ],
+  "productReviews": [
+    {
+      "productId": 1748,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-08-20T01:48:52.8501039+03:00"
+    },
+    {
+      "productId": 631,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-11-25T16:38:01.8634468+02:00"
+    },
+    {
+      "productId": 1471,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-06-29T14:55:15.610595+03:00"
+    },
+    {
+      "productId": 4106,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-02-04T03:04:58.1025308+02:00"
+    }
+  ]
+}

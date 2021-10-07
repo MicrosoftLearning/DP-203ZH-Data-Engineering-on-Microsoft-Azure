@@ -1,0 +1,31 @@
+{
+  "userId": 19937,
+  "cartId": "6a457a47-b767-42d2-9dd8-87536376794d",
+  "preferredProducts": [
+    5000,
+    878,
+    662
+  ],
+  "productReviews": [
+    {
+      "productId": 3676,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-07-11T19:27:25.9843963+03:00"
+    },
+    {
+      "productId": 4723,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-09-30T14:24:47.2033107+03:00"
+    },
+    {
+      "productId": 1707,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2016-05-16T08:45:22.80304+03:00"
+    },
+    {
+      "productId": 569,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-05-08T06:20:32.7546201+03:00"
+    }
+  ]
+}

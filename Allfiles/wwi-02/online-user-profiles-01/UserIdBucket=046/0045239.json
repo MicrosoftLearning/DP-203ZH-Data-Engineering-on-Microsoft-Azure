@@ -1,0 +1,31 @@
+{
+  "userId": 45239,
+  "cartId": "2e4fd0be-6d9a-4717-bcf6-76105de97c31",
+  "preferredProducts": [
+    2301,
+    4458,
+    4316,
+    1272,
+    740,
+    3737,
+    3016,
+    225
+  ],
+  "productReviews": [
+    {
+      "productId": 585,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-09-02T03:35:26.3578153+03:00"
+    },
+    {
+      "productId": 1276,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-07-08T09:49:34.0914442+03:00"
+    },
+    {
+      "productId": 3605,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-08-15T14:32:24.9333016+03:00"
+    }
+  ]
+}

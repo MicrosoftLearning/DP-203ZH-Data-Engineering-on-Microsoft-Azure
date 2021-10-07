@@ -1,0 +1,33 @@
+{
+  "userId": 24171,
+  "cartId": "8601d431-c612-4ab0-ace6-2e9b1c4f5fb9",
+  "preferredProducts": [
+    2680,
+    4290,
+    4129,
+    3992,
+    4624,
+    1329,
+    4406,
+    618,
+    3637,
+    626
+  ],
+  "productReviews": [
+    {
+      "productId": 4303,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-07-23T22:29:24.6591489+03:00"
+    },
+    {
+      "productId": 4946,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-01-23T15:58:32.4598235+02:00"
+    },
+    {
+      "productId": 1599,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-08-28T18:35:51.1344878+03:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 47101,
+  "cartId": "4afe3646-becc-4565-9ad3-86ac7d46aa98",
+  "preferredProducts": [
+    4767,
+    4233,
+    2640,
+    3509,
+    2691,
+    2225,
+    4912
+  ],
+  "productReviews": [
+    {
+      "productId": 2057,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-12-20T09:58:24.7491167+02:00"
+    },
+    {
+      "productId": 2392,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-10-18T00:08:39.2848818+03:00"
+    },
+    {
+      "productId": 2084,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2016-06-06T22:57:28.7928195+03:00"
+    },
+    {
+      "productId": 2367,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-10-04T14:37:41.053231+03:00"
+    },
+    {
+      "productId": 4253,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-03-20T14:28:52.152944+02:00"
+    }
+  ]
+}

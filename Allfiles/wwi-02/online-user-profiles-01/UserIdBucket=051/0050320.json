@@ -1,0 +1,38 @@
+{
+  "userId": 50320,
+  "cartId": "c1adb7bf-df68-4774-a1bd-9bfe2f963271",
+  "preferredProducts": [
+    2962,
+    4424,
+    4836,
+    2421,
+    1475
+  ],
+  "productReviews": [
+    {
+      "productId": 614,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-06-09T21:13:34.9226822+03:00"
+    },
+    {
+      "productId": 1364,
+      "reviewText": "This Administrator works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-06-20T08:46:52.1690689+03:00"
+    },
+    {
+      "productId": 594,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-07-12T04:42:55.7625167+03:00"
+    },
+    {
+      "productId": 2439,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-01-06T13:12:24.4381784+02:00"
+    },
+    {
+      "productId": 763,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-03-14T00:52:25.2821229+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 5603,
+  "cartId": "8245984b-ca0c-4429-b07f-29b96eae6db4",
+  "preferredProducts": [
+    3515,
+    4991,
+    1799,
+    536,
+    3398,
+    3299,
+    4294
+  ],
+  "productReviews": [
+    {
+      "productId": 1544,
+      "reviewText": "this Streets is top-notch.",
+      "reviewDate": "2017-08-16T10:08:24.3243989+03:00"
+    },
+    {
+      "productId": 4355,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-12-14T01:13:29.5938322+02:00"
+    },
+    {
+      "productId": 3395,
+      "reviewText": "This Tools, Movies & Shoes works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-06-12T04:31:54.1709547+03:00"
+    }
+  ]
+}

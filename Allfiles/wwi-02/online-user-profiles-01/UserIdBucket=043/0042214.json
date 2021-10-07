@@ -1,0 +1,30 @@
+{
+  "userId": 42214,
+  "cartId": "70db3617-4ca6-45bf-b9a2-4a343380eac1",
+  "preferredProducts": [
+    3903,
+    779
+  ],
+  "productReviews": [
+    {
+      "productId": 2143,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-04-27T03:06:41.3911999+03:00"
+    },
+    {
+      "productId": 4047,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2018-07-19T02:35:28.8636933+03:00"
+    },
+    {
+      "productId": 679,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-12-23T11:03:33.6574455+02:00"
+    },
+    {
+      "productId": 93,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-03-15T21:16:05.761722+02:00"
+    }
+  ]
+}

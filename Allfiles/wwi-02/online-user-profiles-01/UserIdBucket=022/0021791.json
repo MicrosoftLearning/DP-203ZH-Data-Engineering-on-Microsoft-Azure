@@ -1,0 +1,30 @@
+{
+  "userId": 21791,
+  "cartId": "628f8bfd-0612-4398-9028-1406b44d5fb1",
+  "preferredProducts": [
+    1068,
+    4249,
+    159,
+    898,
+    3444,
+    2956,
+    1205
+  ],
+  "productReviews": [
+    {
+      "productId": 3170,
+      "reviewText": "this interface is vertical.",
+      "reviewDate": "2016-05-28T18:06:03.1188748+03:00"
+    },
+    {
+      "productId": 564,
+      "reviewText": "this Soft is awesome.",
+      "reviewDate": "2019-06-17T16:20:49.206728+03:00"
+    },
+    {
+      "productId": 240,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-04-19T10:52:22.3443939+03:00"
+    }
+  ]
+}

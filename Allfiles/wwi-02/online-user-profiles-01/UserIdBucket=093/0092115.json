@@ -1,0 +1,37 @@
+{
+  "userId": 92115,
+  "cartId": "0222d135-ecda-4181-be11-660d908708fb",
+  "preferredProducts": [
+    3724,
+    1482,
+    4896,
+    2255
+  ],
+  "productReviews": [
+    {
+      "productId": 2522,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-05-25T18:02:29.9823519+03:00"
+    },
+    {
+      "productId": 2643,
+      "reviewText": "this XML is brown.",
+      "reviewDate": "2016-07-14T06:12:26.3753619+03:00"
+    },
+    {
+      "productId": 1173,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-07-11T23:20:32.2379097+03:00"
+    },
+    {
+      "productId": 287,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-09-06T16:02:06.9253818+03:00"
+    },
+    {
+      "productId": 574,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2019-04-05T19:11:42.2316636+03:00"
+    }
+  ]
+}

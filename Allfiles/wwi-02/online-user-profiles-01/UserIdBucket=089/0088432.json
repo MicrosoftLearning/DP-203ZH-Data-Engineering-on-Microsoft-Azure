@@ -1,0 +1,38 @@
+{
+  "userId": 88432,
+  "cartId": "b647f78d-c088-4bcd-910d-0dc1b41943d4",
+  "preferredProducts": [
+    614,
+    2740,
+    1583,
+    1057,
+    644,
+    382,
+    4109,
+    1816,
+    3104,
+    3649
+  ],
+  "productReviews": [
+    {
+      "productId": 3859,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2020-04-09T04:05:57.4449981+03:00"
+    },
+    {
+      "productId": 1893,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-01-20T13:52:43.2396235+02:00"
+    },
+    {
+      "productId": 1814,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-05-20T18:14:41.122877+03:00"
+    },
+    {
+      "productId": 1619,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-09-30T13:48:58.357495+03:00"
+    }
+  ]
+}

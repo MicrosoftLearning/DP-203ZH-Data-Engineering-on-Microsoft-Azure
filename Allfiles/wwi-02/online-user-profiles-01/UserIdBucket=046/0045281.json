@@ -1,0 +1,37 @@
+{
+  "userId": 45281,
+  "cartId": "004fe6e6-b076-44e5-9fa5-0f457c337e9f",
+  "preferredProducts": [
+    3122,
+    717,
+    4098,
+    3971,
+    2194,
+    24,
+    2350,
+    3831,
+    3984
+  ],
+  "productReviews": [
+    {
+      "productId": 145,
+      "reviewText": "This invoice works excessively well. It speedily improves my baseball by a lot.",
+      "reviewDate": "2016-08-22T14:15:56.8102735+03:00"
+    },
+    {
+      "productId": 914,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-12-25T22:17:33.7902326+02:00"
+    },
+    {
+      "productId": 2174,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-01-24T20:18:47.6353317+02:00"
+    },
+    {
+      "productId": 1941,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-11-07T18:59:42.1197732+02:00"
+    }
+  ]
+}

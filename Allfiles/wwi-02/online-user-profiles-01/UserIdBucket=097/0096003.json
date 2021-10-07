@@ -1,0 +1,32 @@
+{
+  "userId": 96003,
+  "cartId": "a5ad582b-fa6e-46b3-a5a6-653a78e7ef8f",
+  "preferredProducts": [
+    960,
+    2305,
+    478,
+    4050
+  ],
+  "productReviews": [
+    {
+      "productId": 2255,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-10-25T06:32:54.9609296+03:00"
+    },
+    {
+      "productId": 1219,
+      "reviewText": "This web-enabled works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-12-02T07:21:55.3788436+02:00"
+    },
+    {
+      "productId": 1527,
+      "reviewText": "this matrix is perplexed.",
+      "reviewDate": "2017-06-14T22:04:24.778028+03:00"
+    },
+    {
+      "productId": 2833,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-02-15T04:15:28.0451035+02:00"
+    }
+  ]
+}

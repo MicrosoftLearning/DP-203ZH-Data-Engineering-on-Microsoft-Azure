@@ -1,0 +1,28 @@
+{
+  "userId": 84789,
+  "cartId": "305bdd18-fe21-4506-a980-48c9472735fa",
+  "preferredProducts": [
+    31,
+    566,
+    1839,
+    4917,
+    3333,
+    2999,
+    4951,
+    668,
+    1454,
+    1060
+  ],
+  "productReviews": [
+    {
+      "productId": 4616,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-02-08T06:10:15.1587257+02:00"
+    },
+    {
+      "productId": 410,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-04-01T09:01:37.4187192+03:00"
+    }
+  ]
+}

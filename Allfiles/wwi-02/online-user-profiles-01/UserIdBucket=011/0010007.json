@@ -1,0 +1,38 @@
+{
+  "userId": 10007,
+  "cartId": "d2f730c3-6e43-40af-b4ee-a092ebf05140",
+  "preferredProducts": [
+    1538,
+    1668,
+    2764,
+    3784,
+    4121,
+    1667,
+    2839,
+    119,
+    4796,
+    3516
+  ],
+  "productReviews": [
+    {
+      "productId": 4173,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2020-01-08T02:05:34.0277204+02:00"
+    },
+    {
+      "productId": 3660,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-02-25T12:12:28.6229546+02:00"
+    },
+    {
+      "productId": 1265,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-05-12T04:14:23.381757+03:00"
+    },
+    {
+      "productId": 1883,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-08-02T03:50:52.0945452+03:00"
+    }
+  ]
+}

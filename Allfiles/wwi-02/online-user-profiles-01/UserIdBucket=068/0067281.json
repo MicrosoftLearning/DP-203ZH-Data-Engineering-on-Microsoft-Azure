@@ -1,0 +1,29 @@
+{
+  "userId": 67281,
+  "cartId": "4304fafe-13d1-48df-ac22-61b85578d053",
+  "preferredProducts": [
+    4004,
+    4120,
+    4734,
+    1214,
+    696,
+    4440
+  ],
+  "productReviews": [
+    {
+      "productId": 3325,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-06-16T06:53:17.9682069+03:00"
+    },
+    {
+      "productId": 3109,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-01-21T15:40:35.6005693+02:00"
+    },
+    {
+      "productId": 1412,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-10-23T22:00:31.3509675+03:00"
+    }
+  ]
+}

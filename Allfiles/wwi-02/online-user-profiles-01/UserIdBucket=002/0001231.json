@@ -1,0 +1,25 @@
+{
+  "userId": 1231,
+  "cartId": "ac94799d-ae9a-44a8-9ba9-502e6d704571",
+  "preferredProducts": [
+    4828,
+    2263,
+    4916,
+    661,
+    3197,
+    3016,
+    3104
+  ],
+  "productReviews": [
+    {
+      "productId": 1706,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-09-16T08:24:25.2019468+03:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-07-13T14:29:23.0450123+03:00"
+    }
+  ]
+}

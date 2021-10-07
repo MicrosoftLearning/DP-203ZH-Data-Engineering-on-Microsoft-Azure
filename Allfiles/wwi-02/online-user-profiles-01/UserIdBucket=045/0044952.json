@@ -1,0 +1,25 @@
+{
+  "userId": 44952,
+  "cartId": "3814967d-9a98-4776-b88a-78702767d841",
+  "preferredProducts": [
+    2262,
+    2345
+  ],
+  "productReviews": [
+    {
+      "productId": 3642,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-01-02T07:54:34.0564055+02:00"
+    },
+    {
+      "productId": 3029,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-05-29T15:02:49.2793574+03:00"
+    },
+    {
+      "productId": 4700,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-11-14T04:21:34.6207614+02:00"
+    }
+  ]
+}

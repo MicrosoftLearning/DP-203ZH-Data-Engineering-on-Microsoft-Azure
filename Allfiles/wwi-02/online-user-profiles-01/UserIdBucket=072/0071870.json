@@ -1,0 +1,22 @@
+{
+  "userId": 71870,
+  "cartId": "1db63764-cd74-4f2d-9dbf-0fb1e687b34e",
+  "preferredProducts": [
+    567,
+    1779,
+    2023,
+    3297
+  ],
+  "productReviews": [
+    {
+      "productId": 1306,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-10-09T15:44:52.2124642+03:00"
+    },
+    {
+      "productId": 3999,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-11-28T00:42:41.2838522+02:00"
+    }
+  ]
+}

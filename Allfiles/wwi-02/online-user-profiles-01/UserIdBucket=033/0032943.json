@@ -1,0 +1,33 @@
+{
+  "userId": 32943,
+  "cartId": "84bb9f64-e8a9-4f3b-9465-bd0c0f002272",
+  "preferredProducts": [
+    1034,
+    3467,
+    816,
+    3532,
+    2938,
+    2869,
+    3403,
+    213,
+    506,
+    2583
+  ],
+  "productReviews": [
+    {
+      "productId": 1414,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-12-22T06:54:30.0742842+02:00"
+    },
+    {
+      "productId": 2135,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-01-01T01:50:36.3541986+02:00"
+    },
+    {
+      "productId": 4972,
+      "reviewText": "this Rubber is mellow.",
+      "reviewDate": "2017-05-25T13:55:03.5844751+03:00"
+    }
+  ]
+}

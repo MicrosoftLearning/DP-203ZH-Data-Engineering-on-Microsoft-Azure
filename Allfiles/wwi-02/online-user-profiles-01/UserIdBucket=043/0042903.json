@@ -1,0 +1,23 @@
+{
+  "userId": 42903,
+  "cartId": "92e7bffd-f5ec-4109-92dc-fd9704eb0d25",
+  "preferredProducts": [
+    2568,
+    659,
+    1043,
+    2424,
+    3218
+  ],
+  "productReviews": [
+    {
+      "productId": 19,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-12T04:21:35.5853282+03:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "This streamline works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2020-02-25T11:32:08.9761055+02:00"
+    }
+  ]
+}

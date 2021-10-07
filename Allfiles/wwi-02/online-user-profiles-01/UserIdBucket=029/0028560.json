@@ -1,0 +1,31 @@
+{
+  "userId": 28560,
+  "cartId": "a2bb4b90-9e91-4ab2-a9ac-d00698b6737e",
+  "preferredProducts": [
+    4833,
+    3311,
+    2214,
+    3916,
+    3665,
+    2322,
+    3165,
+    2823
+  ],
+  "productReviews": [
+    {
+      "productId": 435,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2019-09-05T07:43:55.4842477+03:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-01-05T09:00:19.1716083+02:00"
+    },
+    {
+      "productId": 2997,
+      "reviewText": "this mint green is perplexed.",
+      "reviewDate": "2017-11-22T19:28:47.7989188+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 75334,
+  "cartId": "43e6b22a-191c-4c0c-a8e4-0caecc65526c",
+  "preferredProducts": [
+    2518,
+    2058,
+    2003,
+    616,
+    2575,
+    4235,
+    2546
+  ],
+  "productReviews": [
+    {
+      "productId": 3222,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-10-01T01:34:04.5580816+03:00"
+    },
+    {
+      "productId": 177,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-11-19T01:07:45.188826+02:00"
+    }
+  ]
+}

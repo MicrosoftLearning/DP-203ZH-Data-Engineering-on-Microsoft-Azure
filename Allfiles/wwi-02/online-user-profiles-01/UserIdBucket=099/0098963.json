@@ -1,0 +1,38 @@
+{
+  "userId": 98963,
+  "cartId": "c3438b34-c55e-4f47-a908-876a91affde3",
+  "preferredProducts": [
+    1166,
+    1740,
+    1859,
+    1863,
+    2423,
+    3064,
+    1961,
+    2182,
+    2738,
+    2983
+  ],
+  "productReviews": [
+    {
+      "productId": 1670,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-09-02T20:44:54.4417335+03:00"
+    },
+    {
+      "productId": 1819,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-01-20T23:12:17.7470729+02:00"
+    },
+    {
+      "productId": 2179,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-09-10T20:48:18.6323977+03:00"
+    },
+    {
+      "productId": 2855,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-09-27T17:45:00.5483901+03:00"
+    }
+  ]
+}

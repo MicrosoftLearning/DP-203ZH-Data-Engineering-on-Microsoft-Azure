@@ -1,0 +1,41 @@
+{
+  "userId": 9668,
+  "cartId": "705fdafe-9d8a-4e1f-87e6-bd94e856a279",
+  "preferredProducts": [
+    1322,
+    2735,
+    4321,
+    241,
+    1320,
+    678,
+    4102,
+    751
+  ],
+  "productReviews": [
+    {
+      "productId": 2301,
+      "reviewText": "this generate is awesome.",
+      "reviewDate": "2017-06-09T18:46:03.8139837+03:00"
+    },
+    {
+      "productId": 4111,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-07-20T14:46:23.9219239+03:00"
+    },
+    {
+      "productId": 4203,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-07-06T08:30:29.9516743+03:00"
+    },
+    {
+      "productId": 4711,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-01-05T04:11:40.7209153+02:00"
+    },
+    {
+      "productId": 2622,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-10-16T16:56:33.4446985+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 60389,
+  "cartId": "bfe8caba-bc81-4b25-a9bb-20608a56bac7",
+  "preferredProducts": [
+    4166,
+    4839,
+    2385
+  ],
+  "productReviews": [
+    {
+      "productId": 3977,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-07-21T05:44:12.2940517+03:00"
+    },
+    {
+      "productId": 338,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-10-23T21:36:58.1179145+03:00"
+    },
+    {
+      "productId": 4726,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-02-12T17:52:11.2632448+02:00"
+    },
+    {
+      "productId": 662,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-08-29T13:17:37.284119+03:00"
+    }
+  ]
+}

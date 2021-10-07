@@ -1,0 +1,30 @@
+{
+  "userId": 70803,
+  "cartId": "db147c5d-9fcf-427c-82df-bfa0a882c34e",
+  "preferredProducts": [
+    355,
+    1529
+  ],
+  "productReviews": [
+    {
+      "productId": 2935,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-10-24T08:53:19.3902537+03:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-09-09T12:44:52.7856471+03:00"
+    },
+    {
+      "productId": 4655,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-06-17T15:02:35.3584203+03:00"
+    },
+    {
+      "productId": 2917,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-03-30T01:46:53.5572061+02:00"
+    }
+  ]
+}

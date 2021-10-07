@@ -1,0 +1,37 @@
+{
+  "userId": 15103,
+  "cartId": "1d4429b3-137f-4a66-bbff-0814edb1da60",
+  "preferredProducts": [
+    4373,
+    2023,
+    3146,
+    2858,
+    424,
+    2686,
+    1180,
+    2636,
+    675
+  ],
+  "productReviews": [
+    {
+      "productId": 1593,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-07-13T04:20:49.4174309+03:00"
+    },
+    {
+      "productId": 2098,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-09-02T18:28:50.5310369+03:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2020-01-22T10:28:58.3383336+02:00"
+    },
+    {
+      "productId": 4214,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-04-25T07:15:37.3886637+03:00"
+    }
+  ]
+}

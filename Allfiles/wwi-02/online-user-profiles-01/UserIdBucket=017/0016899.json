@@ -1,0 +1,37 @@
+{
+  "userId": 16899,
+  "cartId": "ec29dc4b-8826-4839-b4db-bee9e4816abc",
+  "preferredProducts": [
+    829,
+    2703,
+    1203,
+    3102,
+    1808,
+    1403,
+    3933,
+    3232,
+    3987
+  ],
+  "productReviews": [
+    {
+      "productId": 2022,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-05-08T13:00:53.8402849+03:00"
+    },
+    {
+      "productId": 4982,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-03-07T05:33:37.6581081+02:00"
+    },
+    {
+      "productId": 2088,
+      "reviewText": "this Right-sized is flirty.",
+      "reviewDate": "2018-02-18T07:33:51.4275167+02:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-07-02T02:48:16.9338877+03:00"
+    }
+  ]
+}

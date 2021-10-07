@@ -1,0 +1,31 @@
+{
+  "userId": 321,
+  "cartId": "21b8879a-da83-44a2-9eb1-b37527280a83",
+  "preferredProducts": [
+    2716,
+    4525,
+    1251
+  ],
+  "productReviews": [
+    {
+      "productId": 335,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-09-18T02:25:26.9414261+03:00"
+    },
+    {
+      "productId": 4865,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-09-29T01:28:20.3246969+03:00"
+    },
+    {
+      "productId": 2927,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2020-03-19T22:00:12.826384+02:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-06-08T05:06:39.510105+03:00"
+    }
+  ]
+}

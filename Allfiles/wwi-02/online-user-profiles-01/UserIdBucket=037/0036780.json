@@ -1,0 +1,35 @@
+{
+  "userId": 36780,
+  "cartId": "1f32ab9b-dc94-4275-bba6-082c321a6fec",
+  "preferredProducts": [
+    295,
+    1450,
+    1398,
+    1426,
+    1078,
+    606,
+    1696
+  ],
+  "productReviews": [
+    {
+      "productId": 3209,
+      "reviewText": "this Auto Loan Account is ratty.",
+      "reviewDate": "2019-04-25T12:02:06.3109462+03:00"
+    },
+    {
+      "productId": 2630,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-08-19T13:41:00.6409541+03:00"
+    },
+    {
+      "productId": 2276,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-08-17T19:24:48.8672399+03:00"
+    },
+    {
+      "productId": 1367,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-11-29T11:17:26.2033531+02:00"
+    }
+  ]
+}

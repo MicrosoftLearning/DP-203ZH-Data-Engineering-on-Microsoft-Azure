@@ -1,0 +1,30 @@
+{
+  "userId": 19531,
+  "cartId": "a602541a-7514-4f1a-907c-1b34d83af762",
+  "preferredProducts": [
+    1626,
+    1234
+  ],
+  "productReviews": [
+    {
+      "productId": 1188,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2016-09-13T11:19:36.219989+03:00"
+    },
+    {
+      "productId": 1464,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-09-22T03:55:54.3831317+03:00"
+    },
+    {
+      "productId": 1997,
+      "reviewText": "This copying works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2018-12-29T05:12:52.4480899+02:00"
+    },
+    {
+      "productId": 3264,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-07-30T15:08:37.0847658+03:00"
+    }
+  ]
+}

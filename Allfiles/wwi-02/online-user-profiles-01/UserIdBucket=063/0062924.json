@@ -1,0 +1,30 @@
+{
+  "userId": 62924,
+  "cartId": "8e1e5d6e-49a2-43bb-8b12-4714d76cf8e1",
+  "preferredProducts": [
+    3439,
+    317
+  ],
+  "productReviews": [
+    {
+      "productId": 3982,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-05-02T11:32:30.6069281+03:00"
+    },
+    {
+      "productId": 755,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-02-08T15:22:16.7561954+02:00"
+    },
+    {
+      "productId": 3353,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-07-02T06:24:05.4935945+03:00"
+    },
+    {
+      "productId": 1211,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-09-05T04:07:28.961913+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 6653,
+  "cartId": "c2ea460c-ddbc-4ded-a439-c51d4a29ffa1",
+  "preferredProducts": [
+    3245,
+    990,
+    519,
+    1779,
+    1888,
+    1437,
+    3120
+  ],
+  "productReviews": [
+    {
+      "productId": 4007,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-05-29T22:53:58.4900942+03:00"
+    },
+    {
+      "productId": 4427,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2016-09-01T06:31:54.8477831+03:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-02-22T17:40:28.087923+02:00"
+    },
+    {
+      "productId": 94,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-04-30T01:14:05.7309346+03:00"
+    }
+  ]
+}

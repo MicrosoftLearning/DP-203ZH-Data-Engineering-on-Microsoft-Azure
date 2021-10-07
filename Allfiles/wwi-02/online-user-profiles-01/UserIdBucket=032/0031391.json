@@ -1,0 +1,29 @@
+{
+  "userId": 31391,
+  "cartId": "35d987f9-1eb0-4c6e-8cf5-18dbcef872d8",
+  "preferredProducts": [
+    3722,
+    1169,
+    2390,
+    2858,
+    4158,
+    1806
+  ],
+  "productReviews": [
+    {
+      "productId": 2943,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-09-27T16:15:30.6298656+03:00"
+    },
+    {
+      "productId": 479,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2020-02-12T01:02:22.176028+02:00"
+    },
+    {
+      "productId": 3918,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-07-17T01:36:51.8875188+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 32042,
+  "cartId": "a371a7db-6607-4bfe-9979-9e281a5eb1e3",
+  "preferredProducts": [
+    4795,
+    2730,
+    3466,
+    119,
+    2673,
+    3174
+  ],
+  "productReviews": [
+    {
+      "productId": 2515,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-10-10T08:12:09.2264746+03:00"
+    },
+    {
+      "productId": 4096,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-10-02T05:20:06.4665442+03:00"
+    }
+  ]
+}

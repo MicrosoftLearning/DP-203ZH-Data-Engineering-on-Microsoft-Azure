@@ -1,0 +1,32 @@
+{
+  "userId": 17585,
+  "cartId": "8269bd52-d310-4ecd-8abf-59b9cf473a49",
+  "preferredProducts": [
+    2241,
+    1763,
+    1772,
+    1451
+  ],
+  "productReviews": [
+    {
+      "productId": 3110,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-05-13T09:31:44.2565469+03:00"
+    },
+    {
+      "productId": 4122,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-09-25T03:35:55.8559449+03:00"
+    },
+    {
+      "productId": 3742,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2016-08-09T02:33:21.6175286+03:00"
+    },
+    {
+      "productId": 689,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2016-10-28T23:57:45.9449292+03:00"
+    }
+  ]
+}

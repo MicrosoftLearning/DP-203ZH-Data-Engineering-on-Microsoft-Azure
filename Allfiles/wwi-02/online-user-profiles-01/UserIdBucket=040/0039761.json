@@ -1,0 +1,33 @@
+{
+  "userId": 39761,
+  "cartId": "261b84d4-d6eb-418e-be76-3927bdf932f7",
+  "preferredProducts": [
+    948,
+    4747,
+    825,
+    3748,
+    2945,
+    739,
+    2389,
+    2650,
+    3449,
+    3025
+  ],
+  "productReviews": [
+    {
+      "productId": 1217,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-09-28T21:42:23.2409014+03:00"
+    },
+    {
+      "productId": 2106,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-12-31T04:37:14.4962568+02:00"
+    },
+    {
+      "productId": 2180,
+      "reviewText": "this architectures is amiable.",
+      "reviewDate": "2018-05-27T00:53:59.2237091+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 63585,
+  "cartId": "7fbd1b87-7119-45c3-b493-10b5e935535f",
+  "preferredProducts": [
+    3371,
+    1290,
+    2744,
+    42
+  ],
+  "productReviews": [
+    {
+      "productId": 1971,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-09-16T18:07:29.8870489+03:00"
+    },
+    {
+      "productId": 3896,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-02-19T14:14:33.4272752+02:00"
+    },
+    {
+      "productId": 4938,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-01-17T22:40:01.5276471+02:00"
+    },
+    {
+      "productId": 3494,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-01-13T07:58:01.7807486+02:00"
+    },
+    {
+      "productId": 3585,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2020-01-15T00:01:04.8043145+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 71602,
+  "cartId": "f9fcab12-953d-4ed0-b9e9-0e2db150381d",
+  "preferredProducts": [
+    4123,
+    1662,
+    2079,
+    3812,
+    1614,
+    1051,
+    2518,
+    3171,
+    1387,
+    4594
+  ],
+  "productReviews": [
+    {
+      "productId": 7,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-09-19T01:54:13.3373562+03:00"
+    },
+    {
+      "productId": 1300,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-04-16T19:15:29.8127299+03:00"
+    },
+    {
+      "productId": 3606,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-08-27T07:21:47.353132+03:00"
+    }
+  ]
+}

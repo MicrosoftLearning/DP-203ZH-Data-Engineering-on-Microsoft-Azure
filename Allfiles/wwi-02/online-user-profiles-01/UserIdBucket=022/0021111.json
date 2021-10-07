@@ -1,0 +1,31 @@
+{
+  "userId": 21111,
+  "cartId": "78125e9f-62b9-4135-8515-d8f31e90ef35",
+  "preferredProducts": [
+    2433,
+    1716,
+    1606
+  ],
+  "productReviews": [
+    {
+      "productId": 1500,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-05-25T19:07:56.5498667+03:00"
+    },
+    {
+      "productId": 4496,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-02-27T23:28:56.1750204+02:00"
+    },
+    {
+      "productId": 744,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-08-03T15:29:31.9780611+03:00"
+    },
+    {
+      "productId": 1214,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-09-20T01:23:01.620458+03:00"
+    }
+  ]
+}

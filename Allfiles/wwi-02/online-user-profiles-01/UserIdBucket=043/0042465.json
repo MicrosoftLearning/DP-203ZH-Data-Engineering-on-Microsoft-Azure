@@ -1,0 +1,27 @@
+{
+  "userId": 42465,
+  "cartId": "5d9f2afd-2cca-4058-8bf2-f5a30e86001b",
+  "preferredProducts": [
+    4091,
+    3901,
+    806,
+    2102
+  ],
+  "productReviews": [
+    {
+      "productId": 4015,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-06-24T07:31:39.9701766+03:00"
+    },
+    {
+      "productId": 1093,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-12-08T07:53:10.9550993+02:00"
+    },
+    {
+      "productId": 447,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-04-19T12:10:55.4553779+03:00"
+    }
+  ]
+}

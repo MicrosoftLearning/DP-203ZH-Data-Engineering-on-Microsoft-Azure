@@ -1,0 +1,26 @@
+{
+  "userId": 69364,
+  "cartId": "549fde9e-d232-48a1-b61d-c7e656e0df76",
+  "preferredProducts": [
+    3923,
+    2038,
+    2806
+  ],
+  "productReviews": [
+    {
+      "productId": 2612,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2016-10-30T16:44:56.7612271+02:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-06-14T00:56:14.6682729+03:00"
+    },
+    {
+      "productId": 558,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2016-09-23T01:01:50.3478477+03:00"
+    }
+  ]
+}

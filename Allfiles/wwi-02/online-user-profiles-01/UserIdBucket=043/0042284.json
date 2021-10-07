@@ -1,0 +1,36 @@
+{
+  "userId": 42284,
+  "cartId": "a074038a-edf4-4075-8a28-ecaf15e16dd2",
+  "preferredProducts": [
+    777,
+    1956,
+    1271,
+    2817,
+    1847,
+    3800,
+    2929,
+    846
+  ],
+  "productReviews": [
+    {
+      "productId": 727,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-08-10T02:08:53.3251741+03:00"
+    },
+    {
+      "productId": 2416,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-11-15T18:20:20.2300609+02:00"
+    },
+    {
+      "productId": 3262,
+      "reviewText": "this Intelligent Concrete Chicken is brown.",
+      "reviewDate": "2019-01-19T11:35:45.2616212+02:00"
+    },
+    {
+      "productId": 4687,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-02-19T08:22:10.6517176+02:00"
+    }
+  ]
+}

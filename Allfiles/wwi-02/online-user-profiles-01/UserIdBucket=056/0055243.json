@@ -1,0 +1,31 @@
+{
+  "userId": 55243,
+  "cartId": "a377b640-871b-4c8a-a699-97c2028dcdaa",
+  "preferredProducts": [
+    1382,
+    4827,
+    4686,
+    110,
+    938,
+    1610,
+    3260,
+    1751
+  ],
+  "productReviews": [
+    {
+      "productId": 3469,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-10-10T22:30:43.3142711+03:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-02-03T10:46:54.7304338+02:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2016-07-16T17:48:12.1306196+03:00"
+    }
+  ]
+}

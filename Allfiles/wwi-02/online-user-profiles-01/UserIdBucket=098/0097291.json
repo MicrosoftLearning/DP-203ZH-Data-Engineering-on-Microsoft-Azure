@@ -1,0 +1,37 @@
+{
+  "userId": 97291,
+  "cartId": "c116564d-f3ab-4f57-887a-49e52c229e0f",
+  "preferredProducts": [
+    1857,
+    3243,
+    3549,
+    1059
+  ],
+  "productReviews": [
+    {
+      "productId": 2136,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-10-03T00:14:37.078691+03:00"
+    },
+    {
+      "productId": 1032,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-12-28T23:03:52.7869721+02:00"
+    },
+    {
+      "productId": 3256,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-06-23T20:37:59.8042719+03:00"
+    },
+    {
+      "productId": 3397,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-01-07T01:07:30.3101754+02:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-26T11:13:31.0658188+03:00"
+    }
+  ]
+}

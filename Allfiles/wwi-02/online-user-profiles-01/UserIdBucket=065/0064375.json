@@ -1,0 +1,24 @@
+{
+  "userId": 64375,
+  "cartId": "63986f8d-37e7-40ff-ba0f-7b5040b43b04",
+  "preferredProducts": [
+    3423,
+    3744,
+    856,
+    1176,
+    3764,
+    1025
+  ],
+  "productReviews": [
+    {
+      "productId": 1883,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-01-11T08:49:36.3557957+02:00"
+    },
+    {
+      "productId": 127,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-07-06T09:13:08.4480155+03:00"
+    }
+  ]
+}

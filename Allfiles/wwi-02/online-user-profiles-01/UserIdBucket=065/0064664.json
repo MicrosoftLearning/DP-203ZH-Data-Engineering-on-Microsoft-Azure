@@ -1,0 +1,28 @@
+{
+  "userId": 64664,
+  "cartId": "1c731c30-4268-4144-ab66-52a7aed8cb0e",
+  "preferredProducts": [
+    4908,
+    1898,
+    2591,
+    2316,
+    3168
+  ],
+  "productReviews": [
+    {
+      "productId": 1760,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-05-03T17:48:22.3283069+03:00"
+    },
+    {
+      "productId": 1933,
+      "reviewText": "This Triple-buffered works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-10-06T07:36:58.6835392+03:00"
+    },
+    {
+      "productId": 3502,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-12-21T07:32:26.1723674+02:00"
+    }
+  ]
+}

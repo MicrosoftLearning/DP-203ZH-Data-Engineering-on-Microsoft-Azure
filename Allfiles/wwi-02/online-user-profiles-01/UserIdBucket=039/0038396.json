@@ -1,0 +1,27 @@
+{
+  "userId": 38396,
+  "cartId": "ecc6239a-49e0-4610-b7e4-fc6855c4f75c",
+  "preferredProducts": [
+    1254,
+    2091,
+    4549,
+    261
+  ],
+  "productReviews": [
+    {
+      "productId": 4536,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-07-07T02:28:58.9782774+03:00"
+    },
+    {
+      "productId": 3278,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-11-16T08:27:07.6895004+02:00"
+    },
+    {
+      "productId": 2628,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-03-12T13:22:42.5047641+02:00"
+    }
+  ]
+}

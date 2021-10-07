@@ -1,0 +1,38 @@
+{
+  "userId": 99606,
+  "cartId": "afa01735-2faf-40be-9dce-42ae8a2f32ab",
+  "preferredProducts": [
+    3141,
+    495,
+    2295,
+    4201,
+    3873,
+    862,
+    2738,
+    1969,
+    3976,
+    4117
+  ],
+  "productReviews": [
+    {
+      "productId": 2659,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-09-02T01:21:58.6679899+03:00"
+    },
+    {
+      "productId": 4435,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-11-21T13:48:31.9862195+02:00"
+    },
+    {
+      "productId": 3753,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-03-20T21:52:27.097187+02:00"
+    },
+    {
+      "productId": 2622,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-01-23T12:48:16.7342603+02:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 6483,
+  "cartId": "af8cb1f5-a538-41d9-a895-87ff1a7dce73",
+  "preferredProducts": [
+    1634,
+    2426,
+    1658,
+    4606,
+    75,
+    4321
+  ],
+  "productReviews": [
+    {
+      "productId": 3342,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-10-02T15:13:34.7483296+03:00"
+    },
+    {
+      "productId": 416,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-12-06T18:58:24.4625012+02:00"
+    },
+    {
+      "productId": 4504,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-09-25T06:18:55.2220249+03:00"
+    },
+    {
+      "productId": 3386,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-01-17T21:38:54.8901396+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 67439,
+  "cartId": "f74ce81d-f2b7-4776-8892-7e668cd114b2",
+  "preferredProducts": [
+    1499,
+    1669,
+    505,
+    4015,
+    4781
+  ],
+  "productReviews": [
+    {
+      "productId": 1046,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-11-09T04:48:13.7093977+02:00"
+    },
+    {
+      "productId": 2483,
+      "reviewText": "this withdrawal is light-hearted.",
+      "reviewDate": "2019-10-07T19:04:27.4219632+03:00"
+    },
+    {
+      "productId": 2535,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-02-10T02:15:35.3342962+02:00"
+    },
+    {
+      "productId": 1459,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-12-03T08:46:21.4252022+02:00"
+    }
+  ]
+}

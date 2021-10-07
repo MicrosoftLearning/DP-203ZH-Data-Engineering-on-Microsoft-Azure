@@ -1,0 +1,25 @@
+{
+  "userId": 87189,
+  "cartId": "0903d5b3-59a0-426f-8a23-70cabf999800",
+  "preferredProducts": [
+    2752,
+    1979
+  ],
+  "productReviews": [
+    {
+      "productId": 3209,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-09-19T15:59:26.3990974+03:00"
+    },
+    {
+      "productId": 4286,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-12-10T23:58:11.2843599+02:00"
+    },
+    {
+      "productId": 1059,
+      "reviewText": "this XSS is whole-grain.",
+      "reviewDate": "2016-09-24T12:23:09.9185414+03:00"
+    }
+  ]
+}

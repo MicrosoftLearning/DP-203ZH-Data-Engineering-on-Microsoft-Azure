@@ -1,0 +1,25 @@
+{
+  "userId": 3112,
+  "cartId": "d5920ae0-5bdc-4a8f-bf2b-acc16ccc3b5b",
+  "preferredProducts": [
+    4252,
+    4525
+  ],
+  "productReviews": [
+    {
+      "productId": 1155,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-04-01T01:34:00.3823409+03:00"
+    },
+    {
+      "productId": 4349,
+      "reviewText": "This Identity works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2016-10-24T23:29:40.9531883+03:00"
+    },
+    {
+      "productId": 3308,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-09-19T13:56:00.7779773+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 65857,
+  "cartId": "f5dfb69d-fd0f-4ecf-a732-62ab80a1f22f",
+  "preferredProducts": [
+    925,
+    594,
+    139,
+    1107,
+    1149,
+    4229,
+    3198,
+    4329
+  ],
+  "productReviews": [
+    {
+      "productId": 1761,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-10-07T05:32:22.3739211+03:00"
+    },
+    {
+      "productId": 560,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-08-05T20:40:17.6181289+03:00"
+    },
+    {
+      "productId": 3228,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-09-29T00:02:02.7033558+03:00"
+    }
+  ]
+}

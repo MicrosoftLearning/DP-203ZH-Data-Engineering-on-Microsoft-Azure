@@ -1,0 +1,32 @@
+{
+  "userId": 2634,
+  "cartId": "25205a51-44c2-4de9-97f1-bf20b84a88ff",
+  "preferredProducts": [
+    4081,
+    2899,
+    1961,
+    3824
+  ],
+  "productReviews": [
+    {
+      "productId": 3492,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-09T15:27:33.9269383+03:00"
+    },
+    {
+      "productId": 3761,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-09-08T04:39:39.5779889+03:00"
+    },
+    {
+      "productId": 2176,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-07-27T13:13:02.5152573+03:00"
+    },
+    {
+      "productId": 4182,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2016-11-15T16:50:06.4689681+02:00"
+    }
+  ]
+}

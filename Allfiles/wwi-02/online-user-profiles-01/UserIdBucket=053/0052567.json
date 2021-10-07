@@ -1,0 +1,29 @@
+{
+  "userId": 52567,
+  "cartId": "12e70e1f-8aae-42bf-a86e-c2d4b70c1adc",
+  "preferredProducts": [
+    2459,
+    4108,
+    2270,
+    4245,
+    4960,
+    1305
+  ],
+  "productReviews": [
+    {
+      "productId": 4873,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2019-02-07T23:22:39.5391273+02:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-09-12T02:57:13.207764+03:00"
+    },
+    {
+      "productId": 4094,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-04-04T22:01:57.9665772+03:00"
+    }
+  ]
+}

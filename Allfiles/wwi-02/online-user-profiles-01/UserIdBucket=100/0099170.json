@@ -1,0 +1,35 @@
+{
+  "userId": 99170,
+  "cartId": "02d612e4-2eca-4fd8-9379-cc5c8b346e3c",
+  "preferredProducts": [
+    4545,
+    920
+  ],
+  "productReviews": [
+    {
+      "productId": 3077,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-02-12T14:06:44.3252638+02:00"
+    },
+    {
+      "productId": 4541,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-09-09T22:36:46.3304537+03:00"
+    },
+    {
+      "productId": 1475,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-03-19T17:32:47.220285+02:00"
+    },
+    {
+      "productId": 3345,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-02-29T05:05:53.9662156+02:00"
+    },
+    {
+      "productId": 4606,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-09-09T16:03:50.0528606+03:00"
+    }
+  ]
+}

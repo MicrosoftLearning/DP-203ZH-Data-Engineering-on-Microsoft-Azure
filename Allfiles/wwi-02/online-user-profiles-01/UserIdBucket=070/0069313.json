@@ -1,0 +1,28 @@
+{
+  "userId": 69313,
+  "cartId": "f6bfbe80-8b09-4360-95b7-3c96719135d6",
+  "preferredProducts": [
+    884,
+    648,
+    2021,
+    2906,
+    1456
+  ],
+  "productReviews": [
+    {
+      "productId": 4242,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2016-08-13T09:14:30.4210791+03:00"
+    },
+    {
+      "productId": 3489,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2020-02-24T21:07:18.3506308+02:00"
+    },
+    {
+      "productId": 944,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-02-08T07:03:38.0809816+02:00"
+    }
+  ]
+}

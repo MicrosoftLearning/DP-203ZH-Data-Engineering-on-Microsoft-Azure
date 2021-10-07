@@ -1,0 +1,30 @@
+{
+  "userId": 62519,
+  "cartId": "a6fbfad0-7897-48b9-ad79-9a10cd5f2195",
+  "preferredProducts": [
+    3624,
+    2087
+  ],
+  "productReviews": [
+    {
+      "productId": 1259,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-12-30T12:55:36.4117438+02:00"
+    },
+    {
+      "productId": 4426,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-10-10T21:10:45.4193073+03:00"
+    },
+    {
+      "productId": 4830,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-06-24T17:12:08.0163702+03:00"
+    },
+    {
+      "productId": 3043,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2020-02-08T18:31:38.1839122+02:00"
+    }
+  ]
+}

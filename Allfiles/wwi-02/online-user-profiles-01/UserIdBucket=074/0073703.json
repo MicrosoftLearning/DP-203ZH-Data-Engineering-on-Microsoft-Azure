@@ -1,0 +1,33 @@
+{
+  "userId": 73703,
+  "cartId": "ac2e3215-5bf0-4524-9a74-45d29dd2e570",
+  "preferredProducts": [
+    2774,
+    1420,
+    310,
+    2035,
+    777
+  ],
+  "productReviews": [
+    {
+      "productId": 4063,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-04-22T13:02:30.6695554+03:00"
+    },
+    {
+      "productId": 3716,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-10-14T16:12:51.3626842+03:00"
+    },
+    {
+      "productId": 4134,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-03-21T12:53:31.474105+02:00"
+    },
+    {
+      "productId": 836,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-12-21T15:48:35.4934624+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 5690,
+  "cartId": "3bdcf9a5-d8b8-45fc-86e8-81592e385567",
+  "preferredProducts": [
+    2711,
+    3201,
+    1463,
+    4069,
+    4819,
+    4371,
+    2937,
+    4520,
+    190,
+    4383
+  ],
+  "productReviews": [
+    {
+      "productId": 4541,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-04-04T09:50:20.5875505+03:00"
+    },
+    {
+      "productId": 3956,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2018-11-02T20:32:28.1973089+02:00"
+    },
+    {
+      "productId": 3177,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-10-19T15:04:11.6751704+03:00"
+    },
+    {
+      "productId": 1925,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-08-13T15:36:21.680232+03:00"
+    }
+  ]
+}

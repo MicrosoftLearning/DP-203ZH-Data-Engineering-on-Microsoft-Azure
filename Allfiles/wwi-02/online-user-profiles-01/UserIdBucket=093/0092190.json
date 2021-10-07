@@ -1,0 +1,32 @@
+{
+  "userId": 92190,
+  "cartId": "3249401a-3b71-4d3f-b08f-4768c0b32050",
+  "preferredProducts": [
+    1358,
+    4325,
+    3237,
+    2916
+  ],
+  "productReviews": [
+    {
+      "productId": 1543,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-01-26T04:00:16.5428031+02:00"
+    },
+    {
+      "productId": 4838,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-11-26T07:44:59.7934837+02:00"
+    },
+    {
+      "productId": 678,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-10-16T15:31:33.9641285+03:00"
+    },
+    {
+      "productId": 3606,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2020-04-25T13:31:47.8961244+03:00"
+    }
+  ]
+}

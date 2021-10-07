@@ -1,0 +1,32 @@
+{
+  "userId": 25252,
+  "cartId": "8612418f-0f7f-4bad-a2b4-2d64925d4d62",
+  "preferredProducts": [
+    3474,
+    4301,
+    2280,
+    1577,
+    56,
+    562,
+    3442,
+    4489,
+    747
+  ],
+  "productReviews": [
+    {
+      "productId": 3903,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-04-05T22:31:27.1164461+03:00"
+    },
+    {
+      "productId": 4802,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-01-14T18:21:55.6759073+02:00"
+    },
+    {
+      "productId": 2706,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2020-02-13T13:07:06.3452066+02:00"
+    }
+  ]
+}

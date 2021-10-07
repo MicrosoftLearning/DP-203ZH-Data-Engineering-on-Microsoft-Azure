@@ -1,0 +1,31 @@
+{
+  "userId": 25090,
+  "cartId": "6a2178de-2eea-46ef-addc-467c541fbab6",
+  "preferredProducts": [
+    437,
+    4409,
+    2341,
+    1628,
+    4438,
+    277,
+    2777,
+    1997
+  ],
+  "productReviews": [
+    {
+      "productId": 2142,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-05-16T22:48:16.1233626+03:00"
+    },
+    {
+      "productId": 2591,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-06-08T18:41:36.6756141+03:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2020-03-06T21:27:43.1878482+02:00"
+    }
+  ]
+}

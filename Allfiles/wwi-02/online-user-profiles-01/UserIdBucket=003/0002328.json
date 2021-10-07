@@ -1,0 +1,29 @@
+{
+  "userId": 2328,
+  "cartId": "2db6eb79-8455-4b9d-befa-1576750643f7",
+  "preferredProducts": [
+    4847,
+    1832,
+    342,
+    408,
+    3145,
+    3469
+  ],
+  "productReviews": [
+    {
+      "productId": 1865,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-03-13T00:05:20.3580283+02:00"
+    },
+    {
+      "productId": 3253,
+      "reviewText": "this payment is top-notch.",
+      "reviewDate": "2017-08-03T05:25:19.3495817+03:00"
+    },
+    {
+      "productId": 3556,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-10-05T08:25:01.3663447+03:00"
+    }
+  ]
+}

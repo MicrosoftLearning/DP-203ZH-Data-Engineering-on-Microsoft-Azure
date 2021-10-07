@@ -1,0 +1,32 @@
+{
+  "userId": 13526,
+  "cartId": "ba61a5a8-c025-445a-8100-fb96ead67fdb",
+  "preferredProducts": [
+    3299,
+    3446,
+    4787,
+    4293
+  ],
+  "productReviews": [
+    {
+      "productId": 1072,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-11-22T18:09:49.8880466+02:00"
+    },
+    {
+      "productId": 3131,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-03-03T20:56:40.7811462+02:00"
+    },
+    {
+      "productId": 2445,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-05-22T14:17:25.9805161+03:00"
+    },
+    {
+      "productId": 174,
+      "reviewText": "this Frozen is revolting.",
+      "reviewDate": "2019-01-26T15:44:24.4697409+02:00"
+    }
+  ]
+}

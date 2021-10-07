@@ -1,0 +1,31 @@
+{
+  "userId": 28277,
+  "cartId": "7843e6ed-7e77-4c37-bb58-1aadf347d39d",
+  "preferredProducts": [
+    3682,
+    3963,
+    1693,
+    4088,
+    4409,
+    2448,
+    2433,
+    1304
+  ],
+  "productReviews": [
+    {
+      "productId": 3456,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-12-04T09:07:18.2068942+02:00"
+    },
+    {
+      "productId": 958,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-07-15T06:02:25.7618685+03:00"
+    },
+    {
+      "productId": 1505,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-10-09T18:51:44.0853805+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 30560,
+  "cartId": "b4140319-4906-46a6-8787-c11a0bb9cfd5",
+  "preferredProducts": [
+    1625,
+    1284,
+    4151,
+    1336,
+    3383,
+    3737,
+    1746,
+    636
+  ],
+  "productReviews": [
+    {
+      "productId": 10,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-06-07T02:53:31.3455102+03:00"
+    },
+    {
+      "productId": 4450,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-01-28T18:06:49.8214349+02:00"
+    },
+    {
+      "productId": 2686,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-11-12T14:12:04.3770377+02:00"
+    },
+    {
+      "productId": 1034,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-08-18T02:03:38.5731677+03:00"
+    }
+  ]
+}

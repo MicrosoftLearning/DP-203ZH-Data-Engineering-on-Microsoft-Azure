@@ -1,0 +1,27 @@
+{
+  "userId": 25005,
+  "cartId": "72e0a623-7ce0-47f8-b35e-bfc22c3f5b99",
+  "preferredProducts": [
+    3588,
+    4682,
+    3652,
+    365
+  ],
+  "productReviews": [
+    {
+      "productId": 2014,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-08-16T18:23:15.0371709+03:00"
+    },
+    {
+      "productId": 869,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-26T18:15:28.528489+02:00"
+    },
+    {
+      "productId": 4719,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-06-23T18:58:06.6562185+03:00"
+    }
+  ]
+}

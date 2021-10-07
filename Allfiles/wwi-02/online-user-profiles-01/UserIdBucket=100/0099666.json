@@ -1,0 +1,31 @@
+{
+  "userId": 99666,
+  "cartId": "8272aeb4-3f02-4f51-8052-7e2f683b5d62",
+  "preferredProducts": [
+    729,
+    1050,
+    1918,
+    3102,
+    1146,
+    577,
+    4218,
+    1144
+  ],
+  "productReviews": [
+    {
+      "productId": 3341,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-02-03T16:31:14.5646712+02:00"
+    },
+    {
+      "productId": 4177,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-09-15T05:55:46.9456461+03:00"
+    },
+    {
+      "productId": 3020,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-07-14T11:50:42.9188233+03:00"
+    }
+  ]
+}

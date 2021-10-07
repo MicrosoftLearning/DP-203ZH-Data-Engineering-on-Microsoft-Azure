@@ -1,0 +1,32 @@
+{
+  "userId": 88326,
+  "cartId": "7cba8beb-1422-41b8-9d95-591ab1763d41",
+  "preferredProducts": [
+    1920,
+    44,
+    3554,
+    1264
+  ],
+  "productReviews": [
+    {
+      "productId": 2118,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2016-06-21T02:30:04.7433434+03:00"
+    },
+    {
+      "productId": 3015,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-04-01T06:56:15.6138476+03:00"
+    },
+    {
+      "productId": 734,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-01-19T17:53:46.2157796+02:00"
+    },
+    {
+      "productId": 2857,
+      "reviewText": "this parsing is perplexed.",
+      "reviewDate": "2018-12-20T16:39:20.3103324+02:00"
+    }
+  ]
+}

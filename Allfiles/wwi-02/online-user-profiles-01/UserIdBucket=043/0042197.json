@@ -1,0 +1,27 @@
+{
+  "userId": 42197,
+  "cartId": "b7fb0e23-4317-457b-bca0-94b9d9eb8ae7",
+  "preferredProducts": [
+    4065,
+    3627,
+    2475,
+    2827
+  ],
+  "productReviews": [
+    {
+      "productId": 1053,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-12-11T11:58:17.0094527+02:00"
+    },
+    {
+      "productId": 3496,
+      "reviewText": "this parse is nifty.",
+      "reviewDate": "2016-05-31T10:28:42.7342669+03:00"
+    },
+    {
+      "productId": 3057,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-10-17T16:42:01.8152454+03:00"
+    }
+  ]
+}

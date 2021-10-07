@@ -1,0 +1,31 @@
+{
+  "userId": 32531,
+  "cartId": "42c395f8-4b25-4bb3-877b-8ae34cdd5b08",
+  "preferredProducts": [
+    4232,
+    1864,
+    1436
+  ],
+  "productReviews": [
+    {
+      "productId": 2477,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-05-06T06:56:05.4486067+03:00"
+    },
+    {
+      "productId": 3911,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-07-21T17:19:09.266098+03:00"
+    },
+    {
+      "productId": 2003,
+      "reviewText": "this Metal is mellow.",
+      "reviewDate": "2016-11-06T12:47:45.0725853+02:00"
+    },
+    {
+      "productId": 1533,
+      "reviewText": "this Direct is dominant.",
+      "reviewDate": "2018-07-05T08:56:30.3395115+03:00"
+    }
+  ]
+}

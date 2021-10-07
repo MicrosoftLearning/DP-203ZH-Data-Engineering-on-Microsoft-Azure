@@ -1,0 +1,33 @@
+{
+  "userId": 48127,
+  "cartId": "a7035eb5-b019-45cb-81e9-5e5c02e3adc0",
+  "preferredProducts": [
+    349,
+    3815,
+    2184,
+    3947,
+    2847,
+    1243,
+    4877,
+    3854,
+    4967,
+    1442
+  ],
+  "productReviews": [
+    {
+      "productId": 3180,
+      "reviewText": "this lime is top-notch.",
+      "reviewDate": "2019-09-14T23:00:58.2542218+03:00"
+    },
+    {
+      "productId": 1411,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-04-04T01:29:23.7827149+03:00"
+    },
+    {
+      "productId": 1782,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-01-05T13:46:55.7177295+02:00"
+    }
+  ]
+}

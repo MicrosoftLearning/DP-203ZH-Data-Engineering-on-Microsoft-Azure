@@ -1,0 +1,25 @@
+{
+  "userId": 32137,
+  "cartId": "20e3ab5b-246d-4f73-a79e-860fbce96300",
+  "preferredProducts": [
+    370,
+    4963
+  ],
+  "productReviews": [
+    {
+      "productId": 167,
+      "reviewText": "this Data is awesome.",
+      "reviewDate": "2018-01-02T05:45:10.8705468+02:00"
+    },
+    {
+      "productId": 4593,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2020-03-27T03:35:06.3700345+02:00"
+    },
+    {
+      "productId": 3731,
+      "reviewText": "This Dynamic works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2018-11-19T03:29:16.9470304+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 19096,
+  "cartId": "b234af3d-ae28-42c7-940e-9e6c75d88b06",
+  "preferredProducts": [
+    1496,
+    1752,
+    3525,
+    4362,
+    616,
+    1466,
+    1595,
+    2649
+  ],
+  "productReviews": [
+    {
+      "productId": 78,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-03-04T11:33:30.8448298+02:00"
+    },
+    {
+      "productId": 36,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-09-22T22:04:37.5163108+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-08-09T02:09:43.0833886+03:00"
+    },
+    {
+      "productId": 2636,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-02-03T08:13:06.8970614+02:00"
+    },
+    {
+      "productId": 3079,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-04-12T14:18:36.0546127+03:00"
+    }
+  ]
+}

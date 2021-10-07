@@ -1,0 +1,23 @@
+{
+  "userId": 73430,
+  "cartId": "c20b6cfb-c2b9-46f8-beff-99d1de7325ea",
+  "preferredProducts": [
+    2200,
+    449,
+    4785,
+    1309,
+    4737
+  ],
+  "productReviews": [
+    {
+      "productId": 1204,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-12-15T18:09:24.7929834+02:00"
+    },
+    {
+      "productId": 4071,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-08-04T23:12:28.0614257+03:00"
+    }
+  ]
+}

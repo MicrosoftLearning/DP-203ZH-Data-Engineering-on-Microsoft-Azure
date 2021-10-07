@@ -1,0 +1,32 @@
+{
+  "userId": 4544,
+  "cartId": "5cb56f5d-7d47-4a9c-8a58-e4008030f0ad",
+  "preferredProducts": [
+    497,
+    679,
+    3013,
+    2669
+  ],
+  "productReviews": [
+    {
+      "productId": 1913,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-07-04T01:46:26.8216598+03:00"
+    },
+    {
+      "productId": 4176,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-09-19T13:29:43.7455373+03:00"
+    },
+    {
+      "productId": 2584,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2016-06-10T07:42:39.3737111+03:00"
+    },
+    {
+      "productId": 854,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-03-30T14:16:22.7510019+03:00"
+    }
+  ]
+}

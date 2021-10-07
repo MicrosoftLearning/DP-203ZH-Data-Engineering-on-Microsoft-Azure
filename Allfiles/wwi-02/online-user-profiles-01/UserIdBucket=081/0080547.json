@@ -1,0 +1,30 @@
+{
+  "userId": 80547,
+  "cartId": "c2d7a44e-6e3f-463a-8b9a-3c12a202b915",
+  "preferredProducts": [
+    576,
+    4589,
+    2436,
+    489,
+    2670,
+    4722,
+    4486
+  ],
+  "productReviews": [
+    {
+      "productId": 951,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-07-13T07:44:25.0833759+03:00"
+    },
+    {
+      "productId": 3349,
+      "reviewText": "this invoice is standard.",
+      "reviewDate": "2017-07-29T23:34:10.7002957+03:00"
+    },
+    {
+      "productId": 3637,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-01-26T05:30:43.0983392+02:00"
+    }
+  ]
+}

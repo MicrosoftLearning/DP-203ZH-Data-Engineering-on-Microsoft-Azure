@@ -1,0 +1,30 @@
+{
+  "userId": 24906,
+  "cartId": "41ec2e62-6ea5-4923-be46-00cf90fdc3e7",
+  "preferredProducts": [
+    4155,
+    1761,
+    943,
+    1446,
+    4462,
+    2684,
+    1418
+  ],
+  "productReviews": [
+    {
+      "productId": 2849,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-11-09T04:58:17.4810039+02:00"
+    },
+    {
+      "productId": 2291,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-08-29T07:02:46.9472394+03:00"
+    },
+    {
+      "productId": 2581,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-07-18T11:21:00.1917191+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 72,
+  "cartId": "12cb6844-b09c-4d83-b3a7-256bbfdabec8",
+  "preferredProducts": [
+    3766,
+    1893,
+    4219,
+    3724
+  ],
+  "productReviews": [
+    {
+      "productId": 3275,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-10-21T09:57:03.8670739+03:00"
+    },
+    {
+      "productId": 816,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-01-10T05:56:07.4628136+02:00"
+    },
+    {
+      "productId": 3892,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-11-04T17:13:24.3446117+02:00"
+    }
+  ]
+}

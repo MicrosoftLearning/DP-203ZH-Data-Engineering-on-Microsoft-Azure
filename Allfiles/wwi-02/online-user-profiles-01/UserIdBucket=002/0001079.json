@@ -1,0 +1,29 @@
+{
+  "userId": 1079,
+  "cartId": "6be99a99-fc11-4b10-93f4-6d5aa3edfd7f",
+  "preferredProducts": [
+    2529,
+    792,
+    4792,
+    2039,
+    4350,
+    3526
+  ],
+  "productReviews": [
+    {
+      "productId": 1305,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-11-01T03:22:23.7618659+02:00"
+    },
+    {
+      "productId": 932,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-01-26T04:57:55.1539349+02:00"
+    },
+    {
+      "productId": 1844,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-05-17T16:05:18.5507215+03:00"
+    }
+  ]
+}

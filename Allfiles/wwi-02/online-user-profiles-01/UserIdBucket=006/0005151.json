@@ -1,0 +1,27 @@
+{
+  "userId": 5151,
+  "cartId": "4c124dcc-bc40-4030-b745-4b3824478da3",
+  "preferredProducts": [
+    1384,
+    4657,
+    4326,
+    865,
+    4503,
+    2865,
+    2208,
+    2295,
+    2038
+  ],
+  "productReviews": [
+    {
+      "productId": 1721,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2020-01-05T21:40:58.7880017+02:00"
+    },
+    {
+      "productId": 4121,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-04-30T04:29:43.4793922+03:00"
+    }
+  ]
+}

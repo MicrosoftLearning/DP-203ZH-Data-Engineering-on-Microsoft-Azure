@@ -1,0 +1,38 @@
+{
+  "userId": 90808,
+  "cartId": "5f94b38d-26b4-456a-9d62-77c904148105",
+  "preferredProducts": [
+    3973,
+    381,
+    2844,
+    2551,
+    1650,
+    2200,
+    590,
+    4217,
+    960,
+    1410
+  ],
+  "productReviews": [
+    {
+      "productId": 1933,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-07-09T23:23:44.6144848+03:00"
+    },
+    {
+      "productId": 3525,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-01-10T18:24:54.6133545+02:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2016-06-06T18:35:42.3762922+03:00"
+    },
+    {
+      "productId": 4106,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-10-04T20:49:07.4681443+03:00"
+    }
+  ]
+}

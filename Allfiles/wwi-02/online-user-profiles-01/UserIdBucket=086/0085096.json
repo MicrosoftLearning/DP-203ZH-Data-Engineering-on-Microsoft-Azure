@@ -1,0 +1,33 @@
+{
+  "userId": 85096,
+  "cartId": "270de2df-4933-4cf8-87e4-a4a0b84d0605",
+  "preferredProducts": [
+    328,
+    213,
+    910,
+    4279,
+    4789,
+    4601,
+    3721,
+    333,
+    896,
+    3735
+  ],
+  "productReviews": [
+    {
+      "productId": 113,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-06-26T14:42:47.2143145+03:00"
+    },
+    {
+      "productId": 1812,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-09-14T06:50:06.4218128+03:00"
+    },
+    {
+      "productId": 28,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-07-26T05:36:32.6529506+03:00"
+    }
+  ]
+}

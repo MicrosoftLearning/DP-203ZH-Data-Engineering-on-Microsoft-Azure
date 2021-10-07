@@ -1,0 +1,37 @@
+{
+  "userId": 73123,
+  "cartId": "afa2b6fe-51e0-44ff-b65d-c04443f0b3c9",
+  "preferredProducts": [
+    1030,
+    2781,
+    4945,
+    1704,
+    2845,
+    1370,
+    1233,
+    2611,
+    2574
+  ],
+  "productReviews": [
+    {
+      "productId": 4992,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-01-16T17:09:26.6546337+02:00"
+    },
+    {
+      "productId": 4663,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-03-17T07:36:01.6587423+02:00"
+    },
+    {
+      "productId": 1578,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2017-06-17T05:00:59.3775543+03:00"
+    },
+    {
+      "productId": 2041,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-10-26T04:51:46.5455528+03:00"
+    }
+  ]
+}

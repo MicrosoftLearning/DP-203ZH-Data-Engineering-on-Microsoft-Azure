@@ -1,0 +1,31 @@
+{
+  "userId": 36884,
+  "cartId": "e207e4be-49c5-4749-847f-60883162fb1d",
+  "preferredProducts": [
+    1298,
+    1617,
+    3627
+  ],
+  "productReviews": [
+    {
+      "productId": 1964,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-05-01T02:14:33.3609613+03:00"
+    },
+    {
+      "productId": 4243,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-11-25T08:52:40.1030018+02:00"
+    },
+    {
+      "productId": 1996,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-07-19T16:20:07.8057153+03:00"
+    },
+    {
+      "productId": 4448,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2020-02-07T07:16:28.6809276+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 53967,
+  "cartId": "b75f0220-6023-4243-83f6-caf5dc1f7e09",
+  "preferredProducts": [
+    3239,
+    2754,
+    3559
+  ],
+  "productReviews": [
+    {
+      "productId": 2080,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-12-09T22:10:00.8769105+02:00"
+    },
+    {
+      "productId": 3085,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-06-11T14:51:09.8759014+03:00"
+    },
+    {
+      "productId": 1558,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-07-06T19:17:38.1309745+03:00"
+    },
+    {
+      "productId": 264,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-03-20T00:40:54.2713659+02:00"
+    }
+  ]
+}

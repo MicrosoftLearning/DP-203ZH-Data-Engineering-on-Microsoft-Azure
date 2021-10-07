@@ -1,0 +1,31 @@
+{
+  "userId": 9985,
+  "cartId": "7eccdc54-ebcc-4888-9090-bd0a9e768ecb",
+  "preferredProducts": [
+    2234,
+    4557,
+    2158
+  ],
+  "productReviews": [
+    {
+      "productId": 911,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-04-13T05:03:04.0969928+03:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-07-16T13:31:37.1198141+03:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-07-11T11:25:42.6712312+03:00"
+    },
+    {
+      "productId": 4856,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-05-23T14:21:42.3496362+03:00"
+    }
+  ]
+}

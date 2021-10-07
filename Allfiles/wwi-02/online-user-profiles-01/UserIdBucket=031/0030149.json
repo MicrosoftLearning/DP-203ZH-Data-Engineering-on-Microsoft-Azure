@@ -1,0 +1,26 @@
+{
+  "userId": 30149,
+  "cartId": "639e1abc-8525-4da4-9734-43fafe1ce70b",
+  "preferredProducts": [
+    3124,
+    2338,
+    1722
+  ],
+  "productReviews": [
+    {
+      "productId": 1422,
+      "reviewText": "This Checking Account works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-07-28T12:28:49.1748509+03:00"
+    },
+    {
+      "productId": 2256,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2016-06-19T23:22:47.7302748+03:00"
+    },
+    {
+      "productId": 3120,
+      "reviewText": "This XSS works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2017-08-11T07:09:10.3016277+03:00"
+    }
+  ]
+}

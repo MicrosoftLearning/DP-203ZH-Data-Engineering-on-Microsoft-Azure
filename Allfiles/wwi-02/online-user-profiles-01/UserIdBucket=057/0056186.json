@@ -1,0 +1,38 @@
+{
+  "userId": 56186,
+  "cartId": "d4de9713-8d12-4f7e-8cd4-a3b9f437ab1e",
+  "preferredProducts": [
+    2532,
+    2666,
+    1032,
+    1142,
+    1630,
+    365,
+    2274,
+    2690,
+    1387,
+    2000
+  ],
+  "productReviews": [
+    {
+      "productId": 1095,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-03-30T17:21:14.8310885+03:00"
+    },
+    {
+      "productId": 3932,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-04-13T01:53:00.6727736+03:00"
+    },
+    {
+      "productId": 2563,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-12-17T14:16:40.7933998+02:00"
+    },
+    {
+      "productId": 1298,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2016-10-02T13:31:13.0783639+03:00"
+    }
+  ]
+}

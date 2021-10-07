@@ -1,0 +1,30 @@
+{
+  "userId": 96946,
+  "cartId": "387cb4e4-effe-4c76-b3a5-baa02eff373b",
+  "preferredProducts": [
+    412,
+    3638
+  ],
+  "productReviews": [
+    {
+      "productId": 4989,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-01-13T08:45:06.9870588+02:00"
+    },
+    {
+      "productId": 4360,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-12-30T02:09:04.3161917+02:00"
+    },
+    {
+      "productId": 2407,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-11-17T08:18:09.3397646+02:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-05-23T12:22:01.7405516+03:00"
+    }
+  ]
+}

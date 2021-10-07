@@ -1,0 +1,32 @@
+{
+  "userId": 21000,
+  "cartId": "4f300238-4d05-461c-8104-f6df063c7c85",
+  "preferredProducts": [
+    4855,
+    4064,
+    1055,
+    804,
+    1477,
+    3067,
+    1512,
+    930,
+    2177
+  ],
+  "productReviews": [
+    {
+      "productId": 594,
+      "reviewText": "this virtual is nifty.",
+      "reviewDate": "2019-07-17T00:29:56.3458482+03:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "this web-readiness is honest.",
+      "reviewDate": "2020-02-11T02:27:54.1956243+02:00"
+    },
+    {
+      "productId": 1805,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-10-05T11:02:38.6729833+03:00"
+    }
+  ]
+}

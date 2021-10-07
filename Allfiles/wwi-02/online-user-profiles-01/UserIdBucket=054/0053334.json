@@ -1,0 +1,27 @@
+{
+  "userId": 53334,
+  "cartId": "3bff5600-8d49-4fd4-aa3d-56c382bbb191",
+  "preferredProducts": [
+    186,
+    3091,
+    1895,
+    4515
+  ],
+  "productReviews": [
+    {
+      "productId": 4874,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-01-05T00:21:08.6730904+02:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-04-28T12:03:32.2909613+03:00"
+    },
+    {
+      "productId": 3174,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2016-06-15T03:01:39.1926484+03:00"
+    }
+  ]
+}

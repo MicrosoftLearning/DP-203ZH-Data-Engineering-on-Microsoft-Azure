@@ -1,0 +1,34 @@
+{
+  "userId": 13222,
+  "cartId": "0125fe14-f9f2-46e2-ab9a-a400f07a1999",
+  "preferredProducts": [
+    1170,
+    2985,
+    2601,
+    1546,
+    1479,
+    879
+  ],
+  "productReviews": [
+    {
+      "productId": 4437,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-05-02T19:45:36.9960174+03:00"
+    },
+    {
+      "productId": 3074,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-05-25T20:49:13.4264238+03:00"
+    },
+    {
+      "productId": 3808,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-10-23T10:57:53.5426947+03:00"
+    },
+    {
+      "productId": 3696,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2016-09-23T13:53:13.4174476+03:00"
+    }
+  ]
+}

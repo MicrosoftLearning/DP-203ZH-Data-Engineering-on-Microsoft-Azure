@@ -1,0 +1,28 @@
+{
+  "userId": 42012,
+  "cartId": "c479a584-aee4-4fcb-bc03-fa38ec07eb3f",
+  "preferredProducts": [
+    4758,
+    534,
+    292,
+    115,
+    393,
+    299,
+    4514,
+    4606,
+    895,
+    2895
+  ],
+  "productReviews": [
+    {
+      "productId": 4696,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-05-09T05:36:33.5695343+03:00"
+    },
+    {
+      "productId": 1267,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-05-28T21:02:39.9458261+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 48516,
+  "cartId": "b2396071-bf01-40f5-88db-10f3a3c4c131",
+  "preferredProducts": [
+    4089,
+    1096,
+    718,
+    1205,
+    603,
+    3835,
+    701
+  ],
+  "productReviews": [
+    {
+      "productId": 3395,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-08-17T14:04:48.4571766+03:00"
+    },
+    {
+      "productId": 4364,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-09-18T17:04:25.273974+03:00"
+    },
+    {
+      "productId": 4007,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-11-28T09:23:43.9581916+02:00"
+    },
+    {
+      "productId": 1971,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-03-12T14:48:46.7189256+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 22823,
+  "cartId": "52a0c011-1130-4345-b821-23775d02daaa",
+  "preferredProducts": [
+    4652,
+    4197
+  ],
+  "productReviews": [
+    {
+      "productId": 2689,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2020-04-21T21:35:58.2772669+03:00"
+    },
+    {
+      "productId": 1371,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-12-27T21:52:15.500189+02:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-11-26T21:30:32.7395314+02:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-05-10T05:55:51.9665259+03:00"
+    }
+  ]
+}

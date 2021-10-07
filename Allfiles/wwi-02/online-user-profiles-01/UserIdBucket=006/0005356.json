@@ -1,0 +1,33 @@
+{
+  "userId": 5356,
+  "cartId": "b72b1cd8-1165-45a0-a60c-075cf3c1421b",
+  "preferredProducts": [
+    2208,
+    799,
+    3462,
+    128,
+    1837,
+    4705,
+    2743,
+    303,
+    1118,
+    3517
+  ],
+  "productReviews": [
+    {
+      "productId": 1895,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-05-15T09:17:53.7154011+03:00"
+    },
+    {
+      "productId": 2158,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-12-17T05:42:16.7378613+02:00"
+    },
+    {
+      "productId": 2355,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-01-17T22:52:33.4317656+02:00"
+    }
+  ]
+}

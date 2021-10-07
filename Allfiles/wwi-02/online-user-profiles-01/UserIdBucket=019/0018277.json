@@ -1,0 +1,27 @@
+{
+  "userId": 18277,
+  "cartId": "6b04a6cf-4165-4add-b3b4-032a3b98ca61",
+  "preferredProducts": [
+    945,
+    748,
+    249,
+    3239,
+    1274,
+    76,
+    2675,
+    1628,
+    3118
+  ],
+  "productReviews": [
+    {
+      "productId": 2187,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-05-09T12:18:19.163629+03:00"
+    },
+    {
+      "productId": 4035,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-04-06T18:01:59.272203+03:00"
+    }
+  ]
+}

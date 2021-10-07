@@ -1,0 +1,30 @@
+{
+  "userId": 16919,
+  "cartId": "ca356f7b-cda5-47df-9e0a-a526641b040c",
+  "preferredProducts": [
+    1707,
+    3393,
+    1337,
+    731,
+    2339,
+    1754,
+    290
+  ],
+  "productReviews": [
+    {
+      "productId": 4652,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-07-08T12:18:08.9675094+03:00"
+    },
+    {
+      "productId": 123,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2018-11-11T11:13:28.1628164+02:00"
+    },
+    {
+      "productId": 886,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-11-05T22:04:51.8590334+02:00"
+    }
+  ]
+}

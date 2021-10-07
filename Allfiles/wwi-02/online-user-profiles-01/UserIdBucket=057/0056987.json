@@ -1,0 +1,29 @@
+{
+  "userId": 56987,
+  "cartId": "eaf0d730-fc53-46c3-8018-f2b2fd88d412",
+  "preferredProducts": [
+    1599,
+    4753,
+    4652,
+    4335,
+    2423,
+    1047
+  ],
+  "productReviews": [
+    {
+      "productId": 2713,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-06-03T01:02:08.7080982+03:00"
+    },
+    {
+      "productId": 4829,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-05-11T15:49:07.2004433+03:00"
+    },
+    {
+      "productId": 214,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-05-01T19:48:46.4732137+03:00"
+    }
+  ]
+}

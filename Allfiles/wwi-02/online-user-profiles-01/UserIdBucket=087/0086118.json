@@ -1,0 +1,29 @@
+{
+  "userId": 86118,
+  "cartId": "d4f77f13-446b-4152-a433-3ea8c8a0acde",
+  "preferredProducts": [
+    351,
+    3950,
+    2145,
+    1012,
+    2006,
+    2908
+  ],
+  "productReviews": [
+    {
+      "productId": 365,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-11-09T20:05:04.4826979+02:00"
+    },
+    {
+      "productId": 2973,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-03-03T06:34:56.2354966+02:00"
+    },
+    {
+      "productId": 4341,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-11-03T11:22:32.981746+02:00"
+    }
+  ]
+}

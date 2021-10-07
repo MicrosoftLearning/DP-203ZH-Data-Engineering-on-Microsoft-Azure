@@ -1,0 +1,39 @@
+{
+  "userId": 56999,
+  "cartId": "e53841a2-f89c-41d0-96fb-979f80e57f59",
+  "preferredProducts": [
+    864,
+    4306,
+    1380,
+    98,
+    4845,
+    3209
+  ],
+  "productReviews": [
+    {
+      "productId": 301,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-08-17T23:05:55.570634+03:00"
+    },
+    {
+      "productId": 3400,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-09-20T21:07:09.5079518+03:00"
+    },
+    {
+      "productId": 1876,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-12-09T17:08:49.6840827+02:00"
+    },
+    {
+      "productId": 3491,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-03-19T21:10:45.464386+02:00"
+    },
+    {
+      "productId": 2708,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-08-20T06:58:16.4717935+03:00"
+    }
+  ]
+}

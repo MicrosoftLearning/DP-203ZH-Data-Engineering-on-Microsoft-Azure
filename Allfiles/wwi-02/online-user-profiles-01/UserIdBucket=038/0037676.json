@@ -1,0 +1,31 @@
+{
+  "userId": 37676,
+  "cartId": "22abc6d9-cfca-4812-af0c-fa39d8ef8bcf",
+  "preferredProducts": [
+    4326,
+    3233,
+    4579,
+    4238,
+    2514,
+    1173,
+    4556,
+    2420
+  ],
+  "productReviews": [
+    {
+      "productId": 3610,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-05-12T14:23:48.0225921+03:00"
+    },
+    {
+      "productId": 2778,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-05-03T23:40:56.2264981+03:00"
+    },
+    {
+      "productId": 655,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-12-05T04:12:48.1757312+02:00"
+    }
+  ]
+}

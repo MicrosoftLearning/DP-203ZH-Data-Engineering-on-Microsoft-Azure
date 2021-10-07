@@ -1,0 +1,40 @@
+{
+  "userId": 10635,
+  "cartId": "bef8ccd7-78e0-4daf-93fe-f47cc5e5a271",
+  "preferredProducts": [
+    4229,
+    3876,
+    1466,
+    749,
+    601,
+    3536,
+    2004
+  ],
+  "productReviews": [
+    {
+      "productId": 3090,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-04-25T10:10:47.3377585+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "this New Hampshire is honest.",
+      "reviewDate": "2018-06-15T23:35:34.5805652+03:00"
+    },
+    {
+      "productId": 836,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2020-02-04T18:42:17.2795497+02:00"
+    },
+    {
+      "productId": 1510,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2016-09-26T08:25:58.7879744+03:00"
+    },
+    {
+      "productId": 1027,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-02-14T12:51:00.2075488+02:00"
+    }
+  ]
+}

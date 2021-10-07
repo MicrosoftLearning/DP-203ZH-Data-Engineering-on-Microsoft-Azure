@@ -1,0 +1,26 @@
+{
+  "userId": 20553,
+  "cartId": "963cd511-ff37-4699-a49c-f5a3c21adcdb",
+  "preferredProducts": [
+    2173,
+    3312,
+    4842
+  ],
+  "productReviews": [
+    {
+      "productId": 1355,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-09-29T07:27:58.9209758+03:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "This transmitting works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-01-12T15:53:41.7830158+02:00"
+    },
+    {
+      "productId": 903,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-10-19T23:33:25.451283+03:00"
+    }
+  ]
+}

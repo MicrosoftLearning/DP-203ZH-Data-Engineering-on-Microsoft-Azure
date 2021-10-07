@@ -1,0 +1,40 @@
+{
+  "userId": 8482,
+  "cartId": "5b1fbda1-1306-4771-b322-9db7127c6e9a",
+  "preferredProducts": [
+    3296,
+    2640,
+    628,
+    4717,
+    4316,
+    3084,
+    3052
+  ],
+  "productReviews": [
+    {
+      "productId": 2969,
+      "reviewText": "this Dam is vertical.",
+      "reviewDate": "2018-11-16T09:45:10.6815383+02:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-10-13T12:23:50.3707744+03:00"
+    },
+    {
+      "productId": 571,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2018-07-21T10:16:52.1697718+03:00"
+    },
+    {
+      "productId": 4375,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-12-23T08:29:32.313615+02:00"
+    },
+    {
+      "productId": 2098,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2016-09-07T20:26:22.3359931+03:00"
+    }
+  ]
+}

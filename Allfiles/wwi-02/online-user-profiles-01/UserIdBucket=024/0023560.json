@@ -1,0 +1,37 @@
+{
+  "userId": 23560,
+  "cartId": "000f435e-3072-4b8c-8b05-68568377fda6",
+  "preferredProducts": [
+    2216,
+    3481,
+    475,
+    472
+  ],
+  "productReviews": [
+    {
+      "productId": 2136,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-06-24T00:13:48.7108714+03:00"
+    },
+    {
+      "productId": 693,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-07-12T01:17:51.5854735+03:00"
+    },
+    {
+      "productId": 671,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-09-08T13:51:05.7844173+03:00"
+    },
+    {
+      "productId": 4065,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-12-28T12:39:29.5984674+02:00"
+    },
+    {
+      "productId": 3563,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-01T13:51:28.7893673+03:00"
+    }
+  ]
+}

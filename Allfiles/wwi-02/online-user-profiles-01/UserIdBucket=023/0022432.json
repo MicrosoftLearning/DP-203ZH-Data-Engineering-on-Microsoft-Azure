@@ -1,0 +1,33 @@
+{
+  "userId": 22432,
+  "cartId": "d68bbfc2-c63a-4e73-bb3a-427edd3a75ae",
+  "preferredProducts": [
+    2861,
+    1598,
+    1066,
+    1142,
+    4989,
+    2053,
+    4554,
+    1771,
+    1039,
+    3175
+  ],
+  "productReviews": [
+    {
+      "productId": 4773,
+      "reviewText": "This programming works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2017-04-24T08:43:15.4268556+03:00"
+    },
+    {
+      "productId": 3413,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-09-15T17:02:01.329568+03:00"
+    },
+    {
+      "productId": 1886,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-05-05T23:23:30.8463063+03:00"
+    }
+  ]
+}

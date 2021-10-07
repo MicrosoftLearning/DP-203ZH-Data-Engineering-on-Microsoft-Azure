@@ -1,0 +1,27 @@
+{
+  "userId": 51197,
+  "cartId": "e45e796b-a155-4cf7-a4d7-eee99a63488c",
+  "preferredProducts": [
+    3145,
+    4429,
+    3247,
+    3694
+  ],
+  "productReviews": [
+    {
+      "productId": 2811,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-11-23T23:25:00.6829079+02:00"
+    },
+    {
+      "productId": 3232,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-04-30T05:01:00.0371125+03:00"
+    },
+    {
+      "productId": 3557,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-04-19T08:07:10.4013558+03:00"
+    }
+  ]
+}

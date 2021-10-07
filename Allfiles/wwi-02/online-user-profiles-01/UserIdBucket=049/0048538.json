@@ -1,0 +1,33 @@
+{
+  "userId": 48538,
+  "cartId": "72403b14-b915-46de-9328-711aeeb97564",
+  "preferredProducts": [
+    3875,
+    971,
+    416,
+    3460,
+    1821,
+    2617,
+    438,
+    3135,
+    2362,
+    3472
+  ],
+  "productReviews": [
+    {
+      "productId": 1069,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-01-01T22:13:32.8354753+02:00"
+    },
+    {
+      "productId": 3540,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-09-25T10:28:52.1310602+03:00"
+    },
+    {
+      "productId": 494,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-05-25T08:03:31.2717848+03:00"
+    }
+  ]
+}

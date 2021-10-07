@@ -1,0 +1,30 @@
+{
+  "userId": 50119,
+  "cartId": "336d962a-8439-4954-a4f8-f966ee31c90b",
+  "preferredProducts": [
+    1927,
+    2796,
+    2858,
+    1277,
+    607,
+    3578,
+    3012
+  ],
+  "productReviews": [
+    {
+      "productId": 1337,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-12-04T22:19:00.4465831+02:00"
+    },
+    {
+      "productId": 3137,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-10-22T02:08:06.9015939+03:00"
+    },
+    {
+      "productId": 196,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-05-23T14:00:18.2979237+03:00"
+    }
+  ]
+}

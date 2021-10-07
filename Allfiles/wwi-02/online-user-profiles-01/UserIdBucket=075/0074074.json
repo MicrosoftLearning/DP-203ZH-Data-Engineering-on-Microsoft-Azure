@@ -1,0 +1,38 @@
+{
+  "userId": 74074,
+  "cartId": "8aa6d01a-8083-40f8-8760-0dd33f7b4bbb",
+  "preferredProducts": [
+    190,
+    1730,
+    546,
+    1712,
+    3287,
+    4633,
+    4559,
+    794,
+    4789,
+    1415
+  ],
+  "productReviews": [
+    {
+      "productId": 1019,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-08-14T20:19:43.8801646+03:00"
+    },
+    {
+      "productId": 2886,
+      "reviewText": "this projection is honest.",
+      "reviewDate": "2019-06-06T09:13:51.9722563+03:00"
+    },
+    {
+      "productId": 2946,
+      "reviewText": "This SQL works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-10-15T17:04:47.5286501+03:00"
+    },
+    {
+      "productId": 2167,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-05-17T15:56:30.1495883+03:00"
+    }
+  ]
+}

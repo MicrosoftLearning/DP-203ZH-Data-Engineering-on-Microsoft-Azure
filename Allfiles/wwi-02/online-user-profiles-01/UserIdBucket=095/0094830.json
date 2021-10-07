@@ -1,0 +1,35 @@
+{
+  "userId": 94830,
+  "cartId": "532b2596-82fc-4573-9423-750400c707e0",
+  "preferredProducts": [
+    2564,
+    3746,
+    3819,
+    236,
+    3710,
+    3534,
+    3437
+  ],
+  "productReviews": [
+    {
+      "productId": 1913,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-04-01T15:28:08.4552513+03:00"
+    },
+    {
+      "productId": 3945,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-05-11T16:30:10.8589301+03:00"
+    },
+    {
+      "productId": 890,
+      "reviewText": "This Money Market Account works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-03-14T17:43:57.0390713+02:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-11-01T12:24:47.079649+02:00"
+    }
+  ]
+}

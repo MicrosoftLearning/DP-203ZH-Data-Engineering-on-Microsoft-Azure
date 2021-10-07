@@ -1,0 +1,30 @@
+{
+  "userId": 27480,
+  "cartId": "28faee60-f866-4392-a1bc-021d1eedead7",
+  "preferredProducts": [
+    654,
+    3325
+  ],
+  "productReviews": [
+    {
+      "productId": 640,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-06-15T19:29:16.4115281+03:00"
+    },
+    {
+      "productId": 596,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-04-15T22:32:17.6543749+03:00"
+    },
+    {
+      "productId": 817,
+      "reviewText": "this haptic is complimentary.",
+      "reviewDate": "2018-02-13T15:34:00.6252554+02:00"
+    },
+    {
+      "productId": 2049,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-06-12T06:39:43.7757466+03:00"
+    }
+  ]
+}

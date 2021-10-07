@@ -1,0 +1,29 @@
+{
+  "userId": 16255,
+  "cartId": "aceb71ab-79a1-4aa4-b913-1ff99f514d11",
+  "preferredProducts": [
+    405,
+    4203,
+    325,
+    993,
+    964,
+    327
+  ],
+  "productReviews": [
+    {
+      "productId": 946,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-09-15T20:19:42.3098634+03:00"
+    },
+    {
+      "productId": 3293,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-02-01T10:18:53.6335712+02:00"
+    },
+    {
+      "productId": 796,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-04-11T08:47:53.1700496+03:00"
+    }
+  ]
+}

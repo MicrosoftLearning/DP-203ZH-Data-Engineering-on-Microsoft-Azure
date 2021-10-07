@@ -1,0 +1,32 @@
+{
+  "userId": 33904,
+  "cartId": "f3ad535a-f8ae-4573-9605-74a5b6419ce3",
+  "preferredProducts": [
+    3848,
+    708,
+    4271,
+    1156
+  ],
+  "productReviews": [
+    {
+      "productId": 2366,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-01-03T13:15:18.55094+02:00"
+    },
+    {
+      "productId": 1570,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-10-10T16:53:17.7508655+03:00"
+    },
+    {
+      "productId": 3486,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-08-26T20:32:37.2753931+03:00"
+    },
+    {
+      "productId": 2943,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-05-04T13:16:52.0188867+03:00"
+    }
+  ]
+}

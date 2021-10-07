@@ -1,0 +1,41 @@
+{
+  "userId": 92324,
+  "cartId": "59bbbce2-6570-42bb-ae00-db4bd3e2e00b",
+  "preferredProducts": [
+    3432,
+    4794,
+    3240,
+    774,
+    4522,
+    3510,
+    3795,
+    1971
+  ],
+  "productReviews": [
+    {
+      "productId": 178,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-10-19T16:15:23.051643+03:00"
+    },
+    {
+      "productId": 3754,
+      "reviewText": "this bus is whole-grain.",
+      "reviewDate": "2019-09-25T14:57:44.951829+03:00"
+    },
+    {
+      "productId": 3233,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2017-11-22T08:52:39.7267626+02:00"
+    },
+    {
+      "productId": 1497,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-10-02T16:19:27.2253473+03:00"
+    },
+    {
+      "productId": 2992,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2020-01-30T10:57:13.3163683+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 24227,
+  "cartId": "d5676f47-850f-45b5-8278-134a40bf4ef8",
+  "preferredProducts": [
+    1035,
+    1889,
+    4142,
+    2768,
+    3412,
+    3999,
+    4671
+  ],
+  "productReviews": [
+    {
+      "productId": 4275,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-03-02T09:35:22.6875192+02:00"
+    },
+    {
+      "productId": 2471,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-06-19T03:52:51.1929601+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 11148,
+  "cartId": "e30cec80-6133-4c6d-8df3-69b513cae622",
+  "preferredProducts": [
+    3695,
+    3788,
+    2457,
+    2796,
+    1596,
+    3392
+  ],
+  "productReviews": [
+    {
+      "productId": 2160,
+      "reviewText": "this enterprise is tasty.",
+      "reviewDate": "2017-05-01T08:47:48.6283655+03:00"
+    },
+    {
+      "productId": 3679,
+      "reviewText": "This Engineer works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2019-07-02T12:26:18.5225105+03:00"
+    }
+  ]
+}

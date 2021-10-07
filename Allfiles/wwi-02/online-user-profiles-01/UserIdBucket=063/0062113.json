@@ -1,0 +1,35 @@
+{
+  "userId": 62113,
+  "cartId": "e2571a4a-8a14-44c9-850a-fae1b904783c",
+  "preferredProducts": [
+    1407,
+    1203,
+    2278,
+    4818,
+    388,
+    1405,
+    240
+  ],
+  "productReviews": [
+    {
+      "productId": 3458,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-04-12T02:50:15.1213359+03:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "This application works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-11-28T16:58:15.6912171+02:00"
+    },
+    {
+      "productId": 2314,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-12-14T04:03:26.6839365+02:00"
+    },
+    {
+      "productId": 3099,
+      "reviewText": "this multi-tasking is tasty.",
+      "reviewDate": "2019-04-14T11:31:21.5547571+03:00"
+    }
+  ]
+}

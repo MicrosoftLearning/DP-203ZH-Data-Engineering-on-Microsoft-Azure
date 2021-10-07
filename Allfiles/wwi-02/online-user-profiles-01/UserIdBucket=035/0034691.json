@@ -1,0 +1,39 @@
+{
+  "userId": 34691,
+  "cartId": "5fae4b5c-c04f-46a1-9095-fdf8ad275861",
+  "preferredProducts": [
+    224,
+    990,
+    4545,
+    1932,
+    3649,
+    4200
+  ],
+  "productReviews": [
+    {
+      "productId": 717,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-04-24T22:35:20.399709+03:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-11-12T14:23:05.9475919+02:00"
+    },
+    {
+      "productId": 2660,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-03-22T23:53:55.217927+02:00"
+    },
+    {
+      "productId": 969,
+      "reviewText": "This National, does exactly what it's suppose to do.",
+      "reviewDate": "2018-12-24T18:50:29.6763154+02:00"
+    },
+    {
+      "productId": 3620,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-12-31T12:20:10.5324431+02:00"
+    }
+  ]
+}

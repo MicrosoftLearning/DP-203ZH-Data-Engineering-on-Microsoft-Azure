@@ -1,0 +1,31 @@
+{
+  "userId": 11781,
+  "cartId": "d4d3e47e-691a-4b4e-91ee-ffc329e8f58c",
+  "preferredProducts": [
+    199,
+    2224,
+    391
+  ],
+  "productReviews": [
+    {
+      "productId": 1400,
+      "reviewText": "this connecting is vertical.",
+      "reviewDate": "2019-03-18T04:26:31.9362123+02:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-11-03T06:26:36.6263771+02:00"
+    },
+    {
+      "productId": 943,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-06-10T11:29:16.8052155+03:00"
+    },
+    {
+      "productId": 457,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-02-14T19:34:15.4049602+02:00"
+    }
+  ]
+}

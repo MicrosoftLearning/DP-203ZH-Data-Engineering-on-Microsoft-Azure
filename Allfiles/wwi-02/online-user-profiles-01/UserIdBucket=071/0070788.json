@@ -1,0 +1,36 @@
+{
+  "userId": 70788,
+  "cartId": "902b0775-6f15-40d3-af59-336503f30f33",
+  "preferredProducts": [
+    481,
+    339,
+    4300,
+    3788,
+    1133,
+    4339,
+    2543,
+    612
+  ],
+  "productReviews": [
+    {
+      "productId": 2548,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-04-13T05:45:33.7229904+03:00"
+    },
+    {
+      "productId": 2127,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-09-03T18:41:23.0813186+03:00"
+    },
+    {
+      "productId": 4067,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-05-10T00:20:48.3721181+03:00"
+    },
+    {
+      "productId": 154,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-01-03T19:06:14.6359469+02:00"
+    }
+  ]
+}

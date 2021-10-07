@@ -1,0 +1,32 @@
+{
+  "userId": 17517,
+  "cartId": "7f898131-0710-41fd-9a08-6060d9ee852a",
+  "preferredProducts": [
+    2321,
+    3276,
+    4799,
+    3617
+  ],
+  "productReviews": [
+    {
+      "productId": 1102,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-12-11T16:00:29.947035+02:00"
+    },
+    {
+      "productId": 2992,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-04-06T04:45:26.9105925+03:00"
+    },
+    {
+      "productId": 4858,
+      "reviewText": "this bandwidth is mellow.",
+      "reviewDate": "2017-05-01T01:01:29.6669985+03:00"
+    },
+    {
+      "productId": 1338,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-09-14T03:35:46.0115291+03:00"
+    }
+  ]
+}

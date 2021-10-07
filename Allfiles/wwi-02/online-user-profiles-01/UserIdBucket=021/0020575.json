@@ -1,0 +1,40 @@
+{
+  "userId": 20575,
+  "cartId": "7fd2bc09-8922-4547-9493-9120bdeb234b",
+  "preferredProducts": [
+    4938,
+    720,
+    1982,
+    2119,
+    4796,
+    512,
+    3001
+  ],
+  "productReviews": [
+    {
+      "productId": 1460,
+      "reviewText": "This is a really good web-enabled.",
+      "reviewDate": "2016-07-13T17:00:45.5930549+03:00"
+    },
+    {
+      "productId": 4847,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-05-23T02:14:19.3066297+03:00"
+    },
+    {
+      "productId": 3308,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-02-11T23:37:54.870948+02:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-12-14T16:25:45.8134298+02:00"
+    },
+    {
+      "productId": 2455,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-01-08T03:59:39.9739065+02:00"
+    }
+  ]
+}

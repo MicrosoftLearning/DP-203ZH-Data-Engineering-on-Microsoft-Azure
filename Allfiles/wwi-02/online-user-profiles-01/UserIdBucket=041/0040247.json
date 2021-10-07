@@ -1,0 +1,38 @@
+{
+  "userId": 40247,
+  "cartId": "07e02a5a-3de3-464f-ae3c-d9b27c3b63b0",
+  "preferredProducts": [
+    1429,
+    1958,
+    1678,
+    3159,
+    2526
+  ],
+  "productReviews": [
+    {
+      "productId": 160,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-01-01T16:07:49.4992262+02:00"
+    },
+    {
+      "productId": 1231,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2020-01-17T06:55:46.3210897+02:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-08-05T22:29:17.5404275+03:00"
+    },
+    {
+      "productId": 1353,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-01-28T22:43:16.1477129+02:00"
+    },
+    {
+      "productId": 3093,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-09-04T11:10:10.7746621+03:00"
+    }
+  ]
+}

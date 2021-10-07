@@ -1,0 +1,31 @@
+{
+  "userId": 60342,
+  "cartId": "c3908a3e-9c27-482f-a9a7-df19193076c2",
+  "preferredProducts": [
+    4290,
+    623,
+    3168,
+    2784,
+    1415,
+    4042,
+    3378,
+    2622
+  ],
+  "productReviews": [
+    {
+      "productId": 997,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-08-21T16:36:38.6155414+03:00"
+    },
+    {
+      "productId": 2804,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-05-08T03:53:24.4683871+03:00"
+    },
+    {
+      "productId": 1314,
+      "reviewText": "This impactful works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2017-02-02T18:22:07.1727828+02:00"
+    }
+  ]
+}

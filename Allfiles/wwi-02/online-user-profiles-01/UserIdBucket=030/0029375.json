@@ -1,0 +1,26 @@
+{
+  "userId": 29375,
+  "cartId": "cb0f33d3-e49a-47ae-a001-8be0f3440fad",
+  "preferredProducts": [
+    720,
+    858,
+    456
+  ],
+  "productReviews": [
+    {
+      "productId": 3017,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-04-13T16:55:56.068041+03:00"
+    },
+    {
+      "productId": 4638,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-09-24T04:11:31.3864472+03:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-05-04T03:35:59.8954966+03:00"
+    }
+  ]
+}

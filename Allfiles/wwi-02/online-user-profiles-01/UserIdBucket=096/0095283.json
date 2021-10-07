@@ -1,0 +1,25 @@
+{
+  "userId": 95283,
+  "cartId": "3b5b30e6-528a-4073-a7ec-794d2b2a5123",
+  "preferredProducts": [
+    1121,
+    945
+  ],
+  "productReviews": [
+    {
+      "productId": 1307,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-11-14T01:25:27.7584138+02:00"
+    },
+    {
+      "productId": 2188,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-07-30T09:02:19.073888+03:00"
+    },
+    {
+      "productId": 3661,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-08-15T11:05:22.5600608+03:00"
+    }
+  ]
+}

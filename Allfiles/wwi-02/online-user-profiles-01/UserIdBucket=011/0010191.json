@@ -1,0 +1,38 @@
+{
+  "userId": 10191,
+  "cartId": "23ef92d4-5892-4062-a625-c70d615cf491",
+  "preferredProducts": [
+    2572,
+    2314,
+    3050,
+    2290,
+    1195,
+    1178,
+    2258,
+    641,
+    484,
+    3818
+  ],
+  "productReviews": [
+    {
+      "productId": 154,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-10-16T00:34:47.59236+03:00"
+    },
+    {
+      "productId": 323,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2020-05-06T23:02:47.7734012+03:00"
+    },
+    {
+      "productId": 3977,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-04-20T06:52:13.5975555+03:00"
+    },
+    {
+      "productId": 2487,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-09-05T21:13:56.2124982+03:00"
+    }
+  ]
+}

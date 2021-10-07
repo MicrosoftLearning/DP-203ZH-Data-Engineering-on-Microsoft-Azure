@@ -1,0 +1,38 @@
+{
+  "userId": 17694,
+  "cartId": "26a610c5-b8eb-4b25-9b6c-adc46f048434",
+  "preferredProducts": [
+    554,
+    1293,
+    1779,
+    4822,
+    1973
+  ],
+  "productReviews": [
+    {
+      "productId": 1646,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-10-08T14:07:40.3943786+03:00"
+    },
+    {
+      "productId": 4703,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-02-03T21:45:04.650694+02:00"
+    },
+    {
+      "productId": 310,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-08-29T07:52:14.7787664+03:00"
+    },
+    {
+      "productId": 2627,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-06-20T00:52:51.367109+03:00"
+    },
+    {
+      "productId": 1233,
+      "reviewText": "This JSON works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-01-10T16:18:03.1022509+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 45465,
+  "cartId": "a907bcbc-1baa-4680-aafb-70a1867e0275",
+  "preferredProducts": [
+    3889,
+    2898,
+    4534,
+    3474
+  ],
+  "productReviews": [
+    {
+      "productId": 1572,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-03-27T22:41:36.8022883+03:00"
+    },
+    {
+      "productId": 1252,
+      "reviewText": "this Ergonomic is revolting.",
+      "reviewDate": "2019-06-28T01:38:02.6680795+03:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-03-02T06:50:01.7754514+02:00"
+    }
+  ]
+}

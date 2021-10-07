@@ -1,0 +1,31 @@
+{
+  "userId": 26302,
+  "cartId": "6fcd6d68-a210-4bfd-99ba-ebed02f79e23",
+  "preferredProducts": [
+    925,
+    1456,
+    4317
+  ],
+  "productReviews": [
+    {
+      "productId": 4852,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-06-10T09:53:58.2442215+03:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-05-17T18:10:11.2134037+03:00"
+    },
+    {
+      "productId": 2812,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-12-18T20:45:34.3081665+02:00"
+    },
+    {
+      "productId": 589,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-06-16T13:56:58.6328049+03:00"
+    }
+  ]
+}

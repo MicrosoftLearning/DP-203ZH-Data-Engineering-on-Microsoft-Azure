@@ -1,0 +1,30 @@
+{
+  "userId": 66021,
+  "cartId": "74a3538f-506b-4abd-be24-6c7450ece36b",
+  "preferredProducts": [
+    667,
+    1686,
+    1968,
+    3577,
+    3335,
+    3807,
+    4942
+  ],
+  "productReviews": [
+    {
+      "productId": 135,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-09-16T11:25:18.9069427+03:00"
+    },
+    {
+      "productId": 4309,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-11-22T05:23:20.7035155+02:00"
+    },
+    {
+      "productId": 3645,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-12-17T12:50:50.0283481+02:00"
+    }
+  ]
+}

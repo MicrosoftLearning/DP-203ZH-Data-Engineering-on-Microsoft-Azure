@@ -1,0 +1,34 @@
+{
+  "userId": 10181,
+  "cartId": "b08cacf0-a019-4d27-b8dd-5d7784f3032d",
+  "preferredProducts": [
+    1447,
+    3568,
+    154,
+    911,
+    49,
+    2084
+  ],
+  "productReviews": [
+    {
+      "productId": 1491,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2016-12-20T12:53:38.3398834+02:00"
+    },
+    {
+      "productId": 2391,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-11-20T13:08:47.3709783+02:00"
+    },
+    {
+      "productId": 1113,
+      "reviewText": "This Avon works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2016-08-26T23:14:11.6836157+03:00"
+    },
+    {
+      "productId": 3298,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-02-11T23:58:51.2702531+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 34934,
+  "cartId": "6a7c92b0-f7ac-46d6-a6fe-e53f84b4bf98",
+  "preferredProducts": [
+    2066,
+    4254,
+    1924,
+    4152
+  ],
+  "productReviews": [
+    {
+      "productId": 3476,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-05-15T19:40:37.5790693+03:00"
+    },
+    {
+      "productId": 1170,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-09-20T18:17:47.9659193+03:00"
+    },
+    {
+      "productId": 2265,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-01-21T07:11:41.139355+02:00"
+    },
+    {
+      "productId": 1276,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-08-20T00:29:13.4203953+03:00"
+    }
+  ]
+}

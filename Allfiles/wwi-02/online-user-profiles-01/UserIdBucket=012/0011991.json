@@ -1,0 +1,33 @@
+{
+  "userId": 11991,
+  "cartId": "9243dd45-db31-4e85-8f4c-82e60849afe5",
+  "preferredProducts": [
+    2480,
+    2694,
+    1654,
+    51,
+    3368,
+    3726,
+    4254,
+    3381,
+    4627,
+    3117
+  ],
+  "productReviews": [
+    {
+      "productId": 13,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-11-27T23:00:00.8510738+02:00"
+    },
+    {
+      "productId": 4621,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-05-18T02:00:33.041861+03:00"
+    },
+    {
+      "productId": 305,
+      "reviewText": "this incubate is smooth.",
+      "reviewDate": "2017-11-14T16:28:47.7071426+02:00"
+    }
+  ]
+}

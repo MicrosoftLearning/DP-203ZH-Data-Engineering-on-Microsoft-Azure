@@ -1,0 +1,30 @@
+{
+  "userId": 4088,
+  "cartId": "83b869f5-de45-4518-bf6e-b68bedadd83a",
+  "preferredProducts": [
+    4459,
+    374,
+    1980,
+    4350,
+    1073,
+    3069,
+    2024
+  ],
+  "productReviews": [
+    {
+      "productId": 1123,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-07-01T13:36:43.1327932+03:00"
+    },
+    {
+      "productId": 13,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-03-07T15:54:08.5832772+02:00"
+    },
+    {
+      "productId": 796,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-02-13T14:26:57.336014+02:00"
+    }
+  ]
+}

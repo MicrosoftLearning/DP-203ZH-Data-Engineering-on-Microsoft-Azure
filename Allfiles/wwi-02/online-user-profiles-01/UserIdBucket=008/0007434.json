@@ -1,0 +1,38 @@
+{
+  "userId": 7434,
+  "cartId": "e1d726df-9c5f-4857-8ea4-fd2a79ac6782",
+  "preferredProducts": [
+    3965,
+    4414,
+    3540,
+    2995,
+    1878
+  ],
+  "productReviews": [
+    {
+      "productId": 2957,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-06-25T14:24:45.320752+03:00"
+    },
+    {
+      "productId": 3770,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2020-05-05T13:46:06.7491052+03:00"
+    },
+    {
+      "productId": 2939,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-06-07T08:23:58.702218+03:00"
+    },
+    {
+      "productId": 4426,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-05-29T22:19:32.1955159+03:00"
+    },
+    {
+      "productId": 871,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-02-15T21:55:49.5013238+02:00"
+    }
+  ]
+}

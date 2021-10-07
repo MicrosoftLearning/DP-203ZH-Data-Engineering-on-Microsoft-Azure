@@ -1,0 +1,39 @@
+{
+  "userId": 3257,
+  "cartId": "30129e4e-39be-45a9-8b67-d653e5c71dac",
+  "preferredProducts": [
+    752,
+    2503,
+    3920,
+    3927,
+    3926,
+    1905
+  ],
+  "productReviews": [
+    {
+      "productId": 138,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-06-19T13:49:09.5847743+03:00"
+    },
+    {
+      "productId": 3094,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-04-09T08:44:01.0767224+03:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-10-14T12:51:33.8622339+03:00"
+    },
+    {
+      "productId": 2184,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-10-31T23:28:54.9626591+02:00"
+    },
+    {
+      "productId": 1792,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-03-16T10:14:07.7244559+02:00"
+    }
+  ]
+}

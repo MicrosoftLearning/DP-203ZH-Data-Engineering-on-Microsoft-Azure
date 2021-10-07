@@ -1,0 +1,31 @@
+{
+  "userId": 5123,
+  "cartId": "7a12333e-1a49-4e31-b8ad-7b20bf850b66",
+  "preferredProducts": [
+    1408,
+    3479,
+    4288
+  ],
+  "productReviews": [
+    {
+      "productId": 1730,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2017-03-14T00:02:33.0054656+02:00"
+    },
+    {
+      "productId": 309,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-12-30T03:08:13.5285972+02:00"
+    },
+    {
+      "productId": 2692,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-03-08T22:38:28.2538438+02:00"
+    },
+    {
+      "productId": 4112,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2017-06-07T01:03:10.6372536+03:00"
+    }
+  ]
+}

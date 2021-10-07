@@ -1,0 +1,36 @@
+{
+  "userId": 44141,
+  "cartId": "f4af8b76-2348-4b4b-8d99-d4010707166c",
+  "preferredProducts": [
+    1823,
+    1961,
+    797,
+    2656,
+    1553,
+    4968,
+    3639,
+    1485
+  ],
+  "productReviews": [
+    {
+      "productId": 2546,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-05-14T02:42:42.8987407+03:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2017-06-15T11:40:27.3366358+03:00"
+    },
+    {
+      "productId": 22,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2016-09-03T21:56:17.5204253+03:00"
+    },
+    {
+      "productId": 894,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-03-29T10:09:13.2941934+03:00"
+    }
+  ]
+}

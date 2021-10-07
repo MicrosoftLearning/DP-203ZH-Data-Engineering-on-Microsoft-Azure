@@ -1,0 +1,24 @@
+{
+  "userId": 91270,
+  "cartId": "db3ea8bb-c1b5-42e1-9171-0d211f0a02aa",
+  "preferredProducts": [
+    3964,
+    1584,
+    2353,
+    4507,
+    1341,
+    1881
+  ],
+  "productReviews": [
+    {
+      "productId": 1986,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-09-27T16:48:17.3107753+03:00"
+    },
+    {
+      "productId": 299,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-07-22T21:04:05.732067+03:00"
+    }
+  ]
+}

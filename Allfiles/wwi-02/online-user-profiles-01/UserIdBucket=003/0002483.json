@@ -1,0 +1,31 @@
+{
+  "userId": 2483,
+  "cartId": "274243ed-6fbb-45a9-9f42-991e20d3a6da",
+  "preferredProducts": [
+    584,
+    2338,
+    1166
+  ],
+  "productReviews": [
+    {
+      "productId": 4925,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-01-25T05:01:18.2200296+02:00"
+    },
+    {
+      "productId": 3990,
+      "reviewText": "this TCP is honest.",
+      "reviewDate": "2018-10-31T01:23:33.2649291+02:00"
+    },
+    {
+      "productId": 2661,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-07-10T09:22:17.2132797+03:00"
+    },
+    {
+      "productId": 4572,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-08-13T02:57:52.9592971+03:00"
+    }
+  ]
+}

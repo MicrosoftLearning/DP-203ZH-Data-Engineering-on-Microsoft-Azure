@@ -1,0 +1,35 @@
+{
+  "userId": 10433,
+  "cartId": "e79f2a58-2d7a-44eb-9b75-420d71eaf81f",
+  "preferredProducts": [
+    3385,
+    1694,
+    361,
+    2486,
+    2875,
+    4691,
+    4714
+  ],
+  "productReviews": [
+    {
+      "productId": 2199,
+      "reviewText": "this Investment Account is awesome.",
+      "reviewDate": "2016-12-28T15:05:12.9429136+02:00"
+    },
+    {
+      "productId": 2505,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-01-03T15:32:32.063655+02:00"
+    },
+    {
+      "productId": 284,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-03-07T20:46:20.3180123+02:00"
+    },
+    {
+      "productId": 2563,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-04-07T11:00:27.9693018+03:00"
+    }
+  ]
+}

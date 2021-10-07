@@ -1,0 +1,30 @@
+{
+  "userId": 59258,
+  "cartId": "37057af4-aab3-41ad-92c4-378fe9fc9ad1",
+  "preferredProducts": [
+    4710,
+    3102,
+    545,
+    1301,
+    529,
+    2315,
+    250
+  ],
+  "productReviews": [
+    {
+      "productId": 3912,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-12-10T16:01:50.7134006+02:00"
+    },
+    {
+      "productId": 3811,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-11-24T02:05:11.6169717+02:00"
+    },
+    {
+      "productId": 2128,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2016-12-05T20:21:58.3316839+02:00"
+    }
+  ]
+}

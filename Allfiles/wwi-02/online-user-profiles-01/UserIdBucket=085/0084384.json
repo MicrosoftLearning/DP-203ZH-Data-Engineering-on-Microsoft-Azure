@@ -1,0 +1,30 @@
+{
+  "userId": 84384,
+  "cartId": "bd9549fa-362c-42d9-ac85-ddf9d0b9dae4",
+  "preferredProducts": [
+    3345,
+    138
+  ],
+  "productReviews": [
+    {
+      "productId": 556,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-06-07T16:12:00.4055989+03:00"
+    },
+    {
+      "productId": 4485,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-11-23T03:04:44.5722015+02:00"
+    },
+    {
+      "productId": 3360,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-09-22T21:26:25.5317095+03:00"
+    },
+    {
+      "productId": 1817,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2016-07-28T15:48:36.845304+03:00"
+    }
+  ]
+}

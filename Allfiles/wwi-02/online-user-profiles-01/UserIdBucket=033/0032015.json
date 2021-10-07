@@ -1,0 +1,40 @@
+{
+  "userId": 32015,
+  "cartId": "a73e99db-906d-45c3-a1de-2a90cd99856d",
+  "preferredProducts": [
+    1501,
+    3552,
+    2531,
+    1998,
+    3628,
+    615,
+    3123
+  ],
+  "productReviews": [
+    {
+      "productId": 3512,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-08-28T15:51:03.7917737+03:00"
+    },
+    {
+      "productId": 3006,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-11-26T07:29:57.1524794+02:00"
+    },
+    {
+      "productId": 2198,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-02-15T06:22:47.3167653+02:00"
+    },
+    {
+      "productId": 4988,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-08-15T06:08:42.7219977+03:00"
+    },
+    {
+      "productId": 3314,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-07-15T04:19:24.840972+03:00"
+    }
+  ]
+}

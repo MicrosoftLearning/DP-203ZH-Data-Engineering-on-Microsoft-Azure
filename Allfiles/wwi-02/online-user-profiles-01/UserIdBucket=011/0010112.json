@@ -1,0 +1,28 @@
+{
+  "userId": 10112,
+  "cartId": "0bbfaef2-7ec2-4d0b-ba3e-98a7a3339304",
+  "preferredProducts": [
+    667,
+    1240,
+    3507,
+    2639,
+    3822
+  ],
+  "productReviews": [
+    {
+      "productId": 3940,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-07-27T08:50:50.3495179+03:00"
+    },
+    {
+      "productId": 4875,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-02-23T08:08:38.7511754+02:00"
+    },
+    {
+      "productId": 388,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-06-27T17:06:25.4304483+03:00"
+    }
+  ]
+}

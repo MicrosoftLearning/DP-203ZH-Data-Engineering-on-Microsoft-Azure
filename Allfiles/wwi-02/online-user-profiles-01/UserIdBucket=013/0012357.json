@@ -1,0 +1,25 @@
+{
+  "userId": 12357,
+  "cartId": "635fc147-bb71-48c9-ba6f-f24c43557b4a",
+  "preferredProducts": [
+    4591,
+    4375,
+    4155,
+    842,
+    429,
+    4573,
+    3377
+  ],
+  "productReviews": [
+    {
+      "productId": 3411,
+      "reviewText": "this Bedfordshire is slurpee.",
+      "reviewDate": "2020-02-20T03:46:21.3385663+02:00"
+    },
+    {
+      "productId": 4871,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-01-30T01:51:49.0440838+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 8506,
+  "cartId": "2f1d79fa-5b14-4e7b-951d-8386b3e4451e",
+  "preferredProducts": [
+    2341,
+    2805,
+    1801,
+    2117,
+    3592,
+    3470,
+    2443
+  ],
+  "productReviews": [
+    {
+      "productId": 1419,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2019-08-13T22:47:20.8501635+03:00"
+    },
+    {
+      "productId": 1137,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2016-07-24T19:18:02.3656793+03:00"
+    },
+    {
+      "productId": 2892,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-10-05T01:27:31.0075893+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 4552,
+  "cartId": "64e002f3-ad07-442e-99a4-19f8667f4c7d",
+  "preferredProducts": [
+    4825,
+    4163,
+    4871,
+    2047,
+    1071,
+    2572
+  ],
+  "productReviews": [
+    {
+      "productId": 4841,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-07-17T04:10:12.7413558+03:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "this Intelligent Steel Hat is tasty.",
+      "reviewDate": "2017-09-04T13:12:35.9817245+03:00"
+    },
+    {
+      "productId": 2477,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-07-12T11:55:04.7856726+03:00"
+    }
+  ]
+}

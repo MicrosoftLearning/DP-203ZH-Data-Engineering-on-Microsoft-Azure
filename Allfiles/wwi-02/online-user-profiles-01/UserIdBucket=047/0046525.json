@@ -1,0 +1,21 @@
+{
+  "userId": 46525,
+  "cartId": "e3ae5ba8-8c15-448c-9ccf-250b65efc34b",
+  "preferredProducts": [
+    1281,
+    1234,
+    1484
+  ],
+  "productReviews": [
+    {
+      "productId": 3866,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-06-17T12:28:48.2247313+03:00"
+    },
+    {
+      "productId": 2345,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-12-04T20:57:41.9979011+02:00"
+    }
+  ]
+}

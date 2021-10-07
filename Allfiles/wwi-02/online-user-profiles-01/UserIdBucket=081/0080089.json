@@ -1,0 +1,28 @@
+{
+  "userId": 80089,
+  "cartId": "b0117eeb-bf56-49d8-91ff-06c4df319155",
+  "preferredProducts": [
+    1429,
+    366,
+    2391,
+    867,
+    4836
+  ],
+  "productReviews": [
+    {
+      "productId": 3025,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-07-19T00:45:00.0952622+03:00"
+    },
+    {
+      "productId": 3958,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-12-16T18:26:01.325416+02:00"
+    },
+    {
+      "productId": 3443,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-05-26T07:44:13.5439753+03:00"
+    }
+  ]
+}

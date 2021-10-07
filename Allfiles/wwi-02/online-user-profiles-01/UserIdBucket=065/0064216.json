@@ -1,0 +1,31 @@
+{
+  "userId": 64216,
+  "cartId": "3a91d41e-1236-40e4-b4cf-6f4b0fa838f5",
+  "preferredProducts": [
+    2346,
+    3172,
+    2433,
+    4321,
+    3942,
+    1020,
+    4524,
+    1486
+  ],
+  "productReviews": [
+    {
+      "productId": 3538,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-08-04T05:52:50.8820429+03:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2018-02-08T08:59:17.5583809+02:00"
+    },
+    {
+      "productId": 161,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-02-20T00:01:00.7569199+02:00"
+    }
+  ]
+}

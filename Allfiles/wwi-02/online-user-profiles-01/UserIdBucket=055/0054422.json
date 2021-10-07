@@ -1,0 +1,31 @@
+{
+  "userId": 54422,
+  "cartId": "6582aa6c-d3a0-4a53-8ded-d97aca3a61b7",
+  "preferredProducts": [
+    1928,
+    3760,
+    4335,
+    3367,
+    4469,
+    3498,
+    4442,
+    4238
+  ],
+  "productReviews": [
+    {
+      "productId": 4799,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-09-05T15:31:40.54008+03:00"
+    },
+    {
+      "productId": 1328,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-01-27T00:56:52.3397576+02:00"
+    },
+    {
+      "productId": 3253,
+      "reviewText": "This red works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-02-25T21:13:03.1024771+02:00"
+    }
+  ]
+}

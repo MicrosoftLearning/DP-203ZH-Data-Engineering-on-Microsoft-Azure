@@ -1,0 +1,40 @@
+{
+  "userId": 5535,
+  "cartId": "b1d0bffd-6da3-4dd5-b75d-cf131e611e2d",
+  "preferredProducts": [
+    1974,
+    1539,
+    374,
+    1986,
+    1920,
+    4363,
+    1263
+  ],
+  "productReviews": [
+    {
+      "productId": 2227,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-10-30T06:05:36.9978729+02:00"
+    },
+    {
+      "productId": 3358,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-04-04T20:45:44.9730474+03:00"
+    },
+    {
+      "productId": 3127,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-08-13T00:34:58.6413665+03:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-11-13T11:48:42.2666664+02:00"
+    },
+    {
+      "productId": 3176,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-08-13T01:19:40.9394775+03:00"
+    }
+  ]
+}

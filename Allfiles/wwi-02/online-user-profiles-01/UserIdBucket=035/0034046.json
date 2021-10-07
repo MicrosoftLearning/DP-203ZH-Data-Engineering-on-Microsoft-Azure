@@ -1,0 +1,39 @@
+{
+  "userId": 34046,
+  "cartId": "b5f03383-c040-4055-b1c6-c1900653be2c",
+  "preferredProducts": [
+    518,
+    2499,
+    1392,
+    1597,
+    3403,
+    1153
+  ],
+  "productReviews": [
+    {
+      "productId": 581,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-12-05T17:12:56.2834349+02:00"
+    },
+    {
+      "productId": 3508,
+      "reviewText": "this AI is whole-grain.",
+      "reviewDate": "2020-02-08T09:13:38.3154554+02:00"
+    },
+    {
+      "productId": 304,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-04-02T21:36:58.9782102+03:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-04-15T11:43:36.8068724+03:00"
+    },
+    {
+      "productId": 389,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-05-04T17:32:13.3226028+03:00"
+    }
+  ]
+}

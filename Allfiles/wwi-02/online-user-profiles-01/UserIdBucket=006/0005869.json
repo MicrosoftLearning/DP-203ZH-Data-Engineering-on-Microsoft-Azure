@@ -1,0 +1,37 @@
+{
+  "userId": 5869,
+  "cartId": "af0d9a98-5d10-48b8-b5a8-d08ce120057d",
+  "preferredProducts": [
+    1649,
+    3991,
+    3001,
+    585
+  ],
+  "productReviews": [
+    {
+      "productId": 942,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-08-30T14:30:46.8785804+03:00"
+    },
+    {
+      "productId": 464,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2018-09-20T13:20:29.1690684+03:00"
+    },
+    {
+      "productId": 1424,
+      "reviewText": "this Rustic is ratty.",
+      "reviewDate": "2020-02-28T09:21:37.5264227+02:00"
+    },
+    {
+      "productId": 1680,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-12-20T10:53:53.3892628+02:00"
+    },
+    {
+      "productId": 559,
+      "reviewText": "this lime is snowy.",
+      "reviewDate": "2018-08-18T01:32:24.8829045+03:00"
+    }
+  ]
+}

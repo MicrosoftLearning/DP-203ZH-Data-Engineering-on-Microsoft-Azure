@@ -1,0 +1,33 @@
+{
+  "userId": 74712,
+  "cartId": "d87bbaa9-c281-4b54-89a4-0fe57a3168d9",
+  "preferredProducts": [
+    1099,
+    894,
+    2145,
+    1291,
+    4463
+  ],
+  "productReviews": [
+    {
+      "productId": 222,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-04-30T19:58:14.9020901+03:00"
+    },
+    {
+      "productId": 3148,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-04-27T00:45:19.8587313+03:00"
+    },
+    {
+      "productId": 1669,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-05-23T20:58:16.8420576+03:00"
+    },
+    {
+      "productId": 2366,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-02-16T04:56:53.7640451+02:00"
+    }
+  ]
+}

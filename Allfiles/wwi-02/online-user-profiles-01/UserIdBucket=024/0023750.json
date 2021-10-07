@@ -1,0 +1,38 @@
+{
+  "userId": 23750,
+  "cartId": "497c3afb-d918-4094-bc4b-58870f83b81d",
+  "preferredProducts": [
+    3113,
+    698,
+    1673,
+    4683,
+    105,
+    3882,
+    645,
+    3564,
+    411,
+    1596
+  ],
+  "productReviews": [
+    {
+      "productId": 2083,
+      "reviewText": "this Home is tasty.",
+      "reviewDate": "2017-12-28T18:53:53.1389318+02:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-09-24T19:51:00.4359418+03:00"
+    },
+    {
+      "productId": 2685,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-06-05T01:36:28.2764125+03:00"
+    },
+    {
+      "productId": 3846,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-10-14T21:09:49.065422+03:00"
+    }
+  ]
+}

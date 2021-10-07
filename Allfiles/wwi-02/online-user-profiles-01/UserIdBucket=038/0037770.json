@@ -1,0 +1,38 @@
+{
+  "userId": 37770,
+  "cartId": "d31f7024-6615-422f-b31d-fcd5ad377ded",
+  "preferredProducts": [
+    1273,
+    1039,
+    1500,
+    2476,
+    2431
+  ],
+  "productReviews": [
+    {
+      "productId": 3861,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2018-10-11T22:23:19.2617271+03:00"
+    },
+    {
+      "productId": 4242,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-04-29T08:31:32.0317039+03:00"
+    },
+    {
+      "productId": 2915,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-07-04T01:05:21.9763336+03:00"
+    },
+    {
+      "productId": 2741,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2017-04-07T12:19:12.8139057+03:00"
+    },
+    {
+      "productId": 4426,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-06-22T05:07:59.9735837+03:00"
+    }
+  ]
+}

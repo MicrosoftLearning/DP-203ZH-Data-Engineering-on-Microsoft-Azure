@@ -1,0 +1,33 @@
+{
+  "userId": 38857,
+  "cartId": "2a47615d-9ddc-4576-8e0e-d4793142bfef",
+  "preferredProducts": [
+    2451,
+    365,
+    2732,
+    4563,
+    3571,
+    3249,
+    1865,
+    3112,
+    4239,
+    4364
+  ],
+  "productReviews": [
+    {
+      "productId": 2,
+      "reviewText": "this optical is slurpee.",
+      "reviewDate": "2018-02-28T14:04:22.6967994+02:00"
+    },
+    {
+      "productId": 225,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-05-21T17:17:14.0480564+03:00"
+    },
+    {
+      "productId": 4437,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2020-01-14T10:01:50.9631569+02:00"
+    }
+  ]
+}

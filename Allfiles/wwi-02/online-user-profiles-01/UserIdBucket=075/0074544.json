@@ -1,0 +1,28 @@
+{
+  "userId": 74544,
+  "cartId": "afe72780-2d07-4f62-b0aa-c8fba43fc26a",
+  "preferredProducts": [
+    137,
+    3228,
+    2333,
+    433,
+    1241
+  ],
+  "productReviews": [
+    {
+      "productId": 2114,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-06-25T17:36:00.5988917+03:00"
+    },
+    {
+      "productId": 4034,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-07-02T06:52:18.7155933+03:00"
+    },
+    {
+      "productId": 3945,
+      "reviewText": "this program is ghetto.",
+      "reviewDate": "2019-10-17T02:48:43.8589946+03:00"
+    }
+  ]
+}

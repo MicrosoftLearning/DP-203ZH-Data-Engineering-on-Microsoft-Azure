@@ -1,0 +1,36 @@
+{
+  "userId": 46325,
+  "cartId": "f2c921ef-81b7-410e-997b-e737af59f6b3",
+  "preferredProducts": [
+    4904,
+    2750,
+    1376
+  ],
+  "productReviews": [
+    {
+      "productId": 1790,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-12-08T03:41:49.5916124+02:00"
+    },
+    {
+      "productId": 166,
+      "reviewText": "this XSS is standard.",
+      "reviewDate": "2018-01-11T00:23:43.3149607+02:00"
+    },
+    {
+      "productId": 2211,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2017-09-05T14:15:54.7036317+03:00"
+    },
+    {
+      "productId": 4858,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-11-02T23:13:13.437095+02:00"
+    },
+    {
+      "productId": 3369,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-01-02T04:14:52.2332058+02:00"
+    }
+  ]
+}

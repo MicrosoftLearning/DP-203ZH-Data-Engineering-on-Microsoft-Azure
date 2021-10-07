@@ -1,0 +1,39 @@
+{
+  "userId": 33510,
+  "cartId": "d4ecb0b4-dd82-4510-a6e5-83279cec325f",
+  "preferredProducts": [
+    384,
+    830,
+    3118,
+    3543,
+    2611,
+    4689
+  ],
+  "productReviews": [
+    {
+      "productId": 190,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-03-04T19:53:11.4036677+02:00"
+    },
+    {
+      "productId": 3066,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-01-15T07:00:23.4663822+02:00"
+    },
+    {
+      "productId": 1532,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2020-03-07T20:16:13.8395139+02:00"
+    },
+    {
+      "productId": 4274,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-02-17T12:45:09.0969059+02:00"
+    },
+    {
+      "productId": 2464,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2017-09-11T12:51:10.9882867+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 84590,
+  "cartId": "4c630c9a-dd05-40b3-9556-598cbb6a3e10",
+  "preferredProducts": [
+    3284,
+    2744,
+    3376
+  ],
+  "productReviews": [
+    {
+      "productId": 206,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-07-16T02:55:22.6442899+03:00"
+    },
+    {
+      "productId": 1737,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-10-10T01:35:03.9697304+03:00"
+    },
+    {
+      "productId": 1077,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-02-04T05:01:39.6407881+02:00"
+    }
+  ]
+}

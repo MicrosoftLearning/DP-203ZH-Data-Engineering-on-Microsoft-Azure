@@ -1,0 +1,25 @@
+{
+  "userId": 88465,
+  "cartId": "1f7caf7a-3b0e-44a2-904b-2688530cf821",
+  "preferredProducts": [
+    529,
+    320,
+    2893,
+    3994,
+    4300,
+    4315,
+    4491
+  ],
+  "productReviews": [
+    {
+      "productId": 2785,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-02-16T13:15:42.7706638+02:00"
+    },
+    {
+      "productId": 2241,
+      "reviewText": "This Savings Account works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2016-06-19T08:16:40.8787777+03:00"
+    }
+  ]
+}

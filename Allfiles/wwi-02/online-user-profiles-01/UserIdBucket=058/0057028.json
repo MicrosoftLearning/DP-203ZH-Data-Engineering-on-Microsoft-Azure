@@ -1,0 +1,29 @@
+{
+  "userId": 57028,
+  "cartId": "8846dbfd-15b8-4b5f-bf3b-a9fc65224930",
+  "preferredProducts": [
+    2933,
+    2157,
+    2784,
+    3919,
+    3399,
+    424
+  ],
+  "productReviews": [
+    {
+      "productId": 4297,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-03-16T02:07:14.0562924+02:00"
+    },
+    {
+      "productId": 21,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2017-07-10T19:18:31.9567901+03:00"
+    },
+    {
+      "productId": 4505,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2020-01-10T14:10:33.2274875+02:00"
+    }
+  ]
+}

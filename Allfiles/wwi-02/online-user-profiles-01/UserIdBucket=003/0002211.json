@@ -1,0 +1,42 @@
+{
+  "userId": 2211,
+  "cartId": "0baa9f96-89c1-4acf-8b87-d64a2e964eab",
+  "preferredProducts": [
+    4220,
+    563,
+    2340,
+    2395,
+    849,
+    2458,
+    3384,
+    4859,
+    2682
+  ],
+  "productReviews": [
+    {
+      "productId": 3534,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-03-09T16:00:23.8034584+02:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2020-04-29T16:30:31.8229535+03:00"
+    },
+    {
+      "productId": 2828,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-08-17T14:34:28.9522517+03:00"
+    },
+    {
+      "productId": 1295,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-02-25T16:27:36.911296+02:00"
+    },
+    {
+      "productId": 736,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-05-25T03:23:09.6951591+03:00"
+    }
+  ]
+}

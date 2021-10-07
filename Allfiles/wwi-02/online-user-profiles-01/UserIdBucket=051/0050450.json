@@ -1,0 +1,34 @@
+{
+  "userId": 50450,
+  "cartId": "4e1c43a0-59d1-4bef-af61-d394238086f5",
+  "preferredProducts": [
+    744,
+    300,
+    414,
+    2794,
+    3692,
+    4586
+  ],
+  "productReviews": [
+    {
+      "productId": 3976,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-10-18T17:58:52.5699167+03:00"
+    },
+    {
+      "productId": 2073,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-06-11T23:03:23.8835945+03:00"
+    },
+    {
+      "productId": 2876,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-10-09T20:34:41.5490522+03:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "This program, does exactly what it's suppose to do.",
+      "reviewDate": "2018-02-02T09:36:00.6403289+02:00"
+    }
+  ]
+}

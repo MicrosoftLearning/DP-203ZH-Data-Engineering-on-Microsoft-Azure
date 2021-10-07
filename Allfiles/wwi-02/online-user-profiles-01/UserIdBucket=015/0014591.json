@@ -1,0 +1,38 @@
+{
+  "userId": 14591,
+  "cartId": "cab734d5-461e-4bd5-8d12-89e22f6a1ba0",
+  "preferredProducts": [
+    275,
+    3335,
+    2141,
+    4246,
+    2811,
+    4251,
+    4342,
+    3542,
+    2302,
+    2509
+  ],
+  "productReviews": [
+    {
+      "productId": 4624,
+      "reviewText": "This Soft, does exactly what it's suppose to do.",
+      "reviewDate": "2020-05-08T18:25:09.8332035+03:00"
+    },
+    {
+      "productId": 2254,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-05-18T21:52:25.7084743+03:00"
+    },
+    {
+      "productId": 3765,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-09-14T19:16:11.1371933+03:00"
+    },
+    {
+      "productId": 293,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-07-28T12:57:45.7674442+03:00"
+    }
+  ]
+}

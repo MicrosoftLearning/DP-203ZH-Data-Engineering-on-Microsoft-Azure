@@ -1,0 +1,22 @@
+{
+  "userId": 17378,
+  "cartId": "15e8c33a-574b-4298-9993-f2d9d72c218e",
+  "preferredProducts": [
+    218,
+    2333,
+    4750,
+    4283
+  ],
+  "productReviews": [
+    {
+      "productId": 133,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-07-07T03:15:08.9019412+03:00"
+    },
+    {
+      "productId": 527,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-01-31T10:54:47.7504047+02:00"
+    }
+  ]
+}

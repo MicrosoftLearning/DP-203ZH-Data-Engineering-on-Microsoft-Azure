@@ -1,0 +1,33 @@
+{
+  "userId": 44902,
+  "cartId": "c7c43fa2-3b9d-4329-b05a-2541d7ef35bc",
+  "preferredProducts": [
+    843,
+    900,
+    405,
+    3074,
+    4552,
+    2825,
+    1354,
+    1417,
+    2802,
+    3268
+  ],
+  "productReviews": [
+    {
+      "productId": 3234,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-03-18T07:07:25.9497339+02:00"
+    },
+    {
+      "productId": 3728,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-10-25T17:54:15.8432182+03:00"
+    },
+    {
+      "productId": 2913,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-06-22T14:03:29.2873407+03:00"
+    }
+  ]
+}

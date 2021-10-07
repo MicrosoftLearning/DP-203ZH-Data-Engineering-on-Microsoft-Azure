@@ -1,0 +1,25 @@
+{
+  "userId": 8448,
+  "cartId": "239ae2df-eed9-40d5-a041-e64faaea185a",
+  "preferredProducts": [
+    123,
+    3129,
+    368,
+    2334,
+    2488,
+    3333,
+    2139
+  ],
+  "productReviews": [
+    {
+      "productId": 3647,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-10-22T06:55:18.6465166+03:00"
+    },
+    {
+      "productId": 187,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2020-04-03T21:33:14.0957004+03:00"
+    }
+  ]
+}

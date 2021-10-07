@@ -1,0 +1,30 @@
+{
+  "userId": 1393,
+  "cartId": "ff96689f-7f77-478f-a0a0-0a384cfa2784",
+  "preferredProducts": [
+    4036,
+    4967
+  ],
+  "productReviews": [
+    {
+      "productId": 628,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-07-06T15:30:27.0529061+03:00"
+    },
+    {
+      "productId": 3992,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-07-01T09:02:15.7416996+03:00"
+    },
+    {
+      "productId": 4874,
+      "reviewText": "this Berkshire is snowy.",
+      "reviewDate": "2017-01-13T09:12:10.2137984+02:00"
+    },
+    {
+      "productId": 260,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2017-12-22T03:39:18.7504515+02:00"
+    }
+  ]
+}

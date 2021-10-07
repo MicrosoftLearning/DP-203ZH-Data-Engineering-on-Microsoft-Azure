@@ -1,0 +1,30 @@
+{
+  "userId": 84170,
+  "cartId": "98fc8504-09a0-4eb9-8e9c-a9fc190dab7c",
+  "preferredProducts": [
+    1196,
+    3495,
+    548,
+    3547,
+    678,
+    4130,
+    3209
+  ],
+  "productReviews": [
+    {
+      "productId": 3934,
+      "reviewText": "this Knolls is complimentary.",
+      "reviewDate": "2016-08-05T09:09:53.7229205+03:00"
+    },
+    {
+      "productId": 1463,
+      "reviewText": "this matrix is awesome.",
+      "reviewDate": "2019-04-11T16:06:04.7897546+03:00"
+    },
+    {
+      "productId": 2785,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-04-04T12:56:22.050206+03:00"
+    }
+  ]
+}

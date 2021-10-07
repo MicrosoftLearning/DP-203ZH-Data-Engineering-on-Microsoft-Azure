@@ -1,0 +1,32 @@
+{
+  "userId": 80543,
+  "cartId": "5894b556-275c-4b8a-8938-fa3a06fde2a8",
+  "preferredProducts": [
+    4726,
+    2560,
+    2758,
+    4867
+  ],
+  "productReviews": [
+    {
+      "productId": 3934,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-10-22T07:13:29.685393+03:00"
+    },
+    {
+      "productId": 1487,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-07-28T09:33:37.05528+03:00"
+    },
+    {
+      "productId": 2815,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-11-21T12:17:30.3244693+02:00"
+    },
+    {
+      "productId": 4383,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-05-05T16:06:17.9498408+03:00"
+    }
+  ]
+}

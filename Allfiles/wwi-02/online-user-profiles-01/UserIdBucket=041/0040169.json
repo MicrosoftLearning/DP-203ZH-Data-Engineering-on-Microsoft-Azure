@@ -1,0 +1,23 @@
+{
+  "userId": 40169,
+  "cartId": "2bccc72a-626c-48f0-ae06-68dca4e5346d",
+  "preferredProducts": [
+    1113,
+    3197,
+    4193,
+    172,
+    4612
+  ],
+  "productReviews": [
+    {
+      "productId": 4721,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-07-25T12:52:14.6355953+03:00"
+    },
+    {
+      "productId": 3044,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-02-28T01:41:08.4634488+02:00"
+    }
+  ]
+}

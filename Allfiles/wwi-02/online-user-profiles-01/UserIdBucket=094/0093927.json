@@ -1,0 +1,25 @@
+{
+  "userId": 93927,
+  "cartId": "b5caf95f-686e-47d1-930f-ad1c8f01fe6c",
+  "preferredProducts": [
+    2522,
+    395
+  ],
+  "productReviews": [
+    {
+      "productId": 2000,
+      "reviewText": "this Garden is awesome.",
+      "reviewDate": "2019-08-26T03:14:55.9087005+03:00"
+    },
+    {
+      "productId": 270,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-05-23T03:32:21.2978132+03:00"
+    },
+    {
+      "productId": 1606,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-10-30T09:22:47.7045292+02:00"
+    }
+  ]
+}

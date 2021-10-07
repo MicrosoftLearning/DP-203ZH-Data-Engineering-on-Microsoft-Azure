@@ -1,0 +1,41 @@
+{
+  "userId": 11322,
+  "cartId": "193581ad-1be7-438c-bd32-c4cd128d25cb",
+  "preferredProducts": [
+    403,
+    4132,
+    3426,
+    658,
+    3232,
+    795,
+    3891,
+    4038
+  ],
+  "productReviews": [
+    {
+      "productId": 418,
+      "reviewText": "this Alabama is nifty.",
+      "reviewDate": "2016-12-28T02:14:32.3323257+02:00"
+    },
+    {
+      "productId": 3109,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-01-01T12:13:02.4613305+02:00"
+    },
+    {
+      "productId": 1572,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-04-09T19:20:53.4647769+03:00"
+    },
+    {
+      "productId": 288,
+      "reviewText": "This fuchsia works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-09-15T17:46:57.7770199+03:00"
+    },
+    {
+      "productId": 2442,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-09-05T05:21:45.0195268+03:00"
+    }
+  ]
+}

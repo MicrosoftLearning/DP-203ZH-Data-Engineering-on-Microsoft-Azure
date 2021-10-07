@@ -1,0 +1,24 @@
+{
+  "userId": 11583,
+  "cartId": "a3899906-f65e-4cf1-ae3b-673358e77474",
+  "preferredProducts": [
+    1365,
+    3249,
+    1459,
+    4455,
+    2972,
+    516
+  ],
+  "productReviews": [
+    {
+      "productId": 2731,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-03-13T20:55:34.515363+02:00"
+    },
+    {
+      "productId": 2321,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-03-14T04:58:37.5835297+02:00"
+    }
+  ]
+}

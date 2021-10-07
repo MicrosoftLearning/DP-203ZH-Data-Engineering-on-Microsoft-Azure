@@ -1,0 +1,37 @@
+{
+  "userId": 3269,
+  "cartId": "7946e575-9da7-49c9-9c6c-2595a6e7de80",
+  "preferredProducts": [
+    41,
+    2788,
+    3462,
+    4702
+  ],
+  "productReviews": [
+    {
+      "productId": 2395,
+      "reviewText": "this Utah is complimentary.",
+      "reviewDate": "2018-02-12T06:32:03.9357014+02:00"
+    },
+    {
+      "productId": 3286,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-02-04T17:49:35.6786994+02:00"
+    },
+    {
+      "productId": 484,
+      "reviewText": "This Awesome Rubber Shirt works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-01-07T01:16:12.6261057+02:00"
+    },
+    {
+      "productId": 1400,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2018-09-09T12:51:21.8072611+03:00"
+    },
+    {
+      "productId": 1345,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-04-15T13:48:52.9875806+03:00"
+    }
+  ]
+}

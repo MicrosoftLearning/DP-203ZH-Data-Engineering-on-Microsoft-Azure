@@ -1,0 +1,30 @@
+{
+  "userId": 27702,
+  "cartId": "ba1c0c1a-6b2f-4423-9c89-394de1150519",
+  "preferredProducts": [
+    2586,
+    1836,
+    551,
+    1138,
+    4452,
+    661,
+    2147
+  ],
+  "productReviews": [
+    {
+      "productId": 3177,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-08-15T15:23:41.7341379+03:00"
+    },
+    {
+      "productId": 4588,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-03-05T03:46:52.6024296+02:00"
+    },
+    {
+      "productId": 3809,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-09-04T19:06:45.0231089+03:00"
+    }
+  ]
+}

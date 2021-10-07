@@ -1,0 +1,23 @@
+{
+  "userId": 3548,
+  "cartId": "d45591a5-551f-4327-a2af-0669e1a4ebd8",
+  "preferredProducts": [
+    1517,
+    4492,
+    374,
+    4088,
+    2190
+  ],
+  "productReviews": [
+    {
+      "productId": 2634,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-09-23T05:07:36.9740074+03:00"
+    },
+    {
+      "productId": 3976,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-10-13T23:05:04.7782893+03:00"
+    }
+  ]
+}

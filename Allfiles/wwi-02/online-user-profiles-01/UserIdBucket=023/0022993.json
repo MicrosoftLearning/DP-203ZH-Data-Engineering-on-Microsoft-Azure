@@ -1,0 +1,28 @@
+{
+  "userId": 22993,
+  "cartId": "6bbbcb83-3aeb-40da-8689-782034dd00d6",
+  "preferredProducts": [
+    3905,
+    2216,
+    696,
+    1139,
+    4754
+  ],
+  "productReviews": [
+    {
+      "productId": 1800,
+      "reviewText": "This Fresh works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-08-03T19:12:01.3929327+03:00"
+    },
+    {
+      "productId": 3822,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-09-17T19:02:24.333427+03:00"
+    },
+    {
+      "productId": 1952,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-12-09T05:00:41.196033+02:00"
+    }
+  ]
+}

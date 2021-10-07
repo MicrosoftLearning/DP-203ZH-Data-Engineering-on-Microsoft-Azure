@@ -1,0 +1,27 @@
+{
+  "userId": 55714,
+  "cartId": "9f50c833-7655-449b-a841-0e87cef48361",
+  "preferredProducts": [
+    1966,
+    3125,
+    1546,
+    1704
+  ],
+  "productReviews": [
+    {
+      "productId": 3965,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-06-01T13:16:17.7407303+03:00"
+    },
+    {
+      "productId": 4503,
+      "reviewText": "this Plastic is perplexed.",
+      "reviewDate": "2018-10-04T08:11:04.3878008+03:00"
+    },
+    {
+      "productId": 750,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-12-09T03:10:35.7145936+02:00"
+    }
+  ]
+}

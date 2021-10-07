@@ -1,0 +1,25 @@
+{
+  "userId": 4774,
+  "cartId": "0bd3a237-fc0f-4f2e-94c4-cb58b6c4b52e",
+  "preferredProducts": [
+    4260,
+    3753
+  ],
+  "productReviews": [
+    {
+      "productId": 4398,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-07-03T04:07:30.9731794+03:00"
+    },
+    {
+      "productId": 2535,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2020-03-20T22:16:19.9835628+02:00"
+    },
+    {
+      "productId": 3667,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-08-28T13:39:50.5036867+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 42991,
+  "cartId": "22bdf983-4286-4f58-bc48-ccf1012eaf7e",
+  "preferredProducts": [
+    425,
+    926,
+    2119,
+    1064,
+    2869,
+    2327,
+    4686,
+    1092,
+    2169
+  ],
+  "productReviews": [
+    {
+      "productId": 305,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-07-21T10:48:58.3112909+03:00"
+    },
+    {
+      "productId": 2447,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-09-14T14:03:45.8515557+03:00"
+    }
+  ]
+}

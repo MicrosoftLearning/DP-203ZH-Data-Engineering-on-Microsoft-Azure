@@ -1,0 +1,25 @@
+{
+  "userId": 3503,
+  "cartId": "6ab1175f-c1a2-4214-ad80-822e84a12ca6",
+  "preferredProducts": [
+    2519,
+    3998
+  ],
+  "productReviews": [
+    {
+      "productId": 4323,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2019-11-09T20:03:15.7198338+02:00"
+    },
+    {
+      "productId": 4786,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-03-28T04:49:33.6870573+03:00"
+    },
+    {
+      "productId": 4804,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-02-28T16:07:05.7807636+02:00"
+    }
+  ]
+}

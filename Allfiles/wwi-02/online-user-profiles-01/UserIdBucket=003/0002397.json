@@ -1,0 +1,31 @@
+{
+  "userId": 2397,
+  "cartId": "55ce9f83-6717-4bf1-b7f3-701c2128f552",
+  "preferredProducts": [
+    1857,
+    2089,
+    3362,
+    1778,
+    3374,
+    2032,
+    2894,
+    4775
+  ],
+  "productReviews": [
+    {
+      "productId": 2231,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-10-06T06:05:01.2948367+03:00"
+    },
+    {
+      "productId": 2364,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-01-12T05:07:37.6152747+02:00"
+    },
+    {
+      "productId": 4453,
+      "reviewText": "this Checking Account is papery.",
+      "reviewDate": "2018-01-02T21:24:57.6723403+02:00"
+    }
+  ]
+}

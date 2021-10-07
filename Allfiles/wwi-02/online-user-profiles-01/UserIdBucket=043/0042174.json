@@ -1,0 +1,41 @@
+{
+  "userId": 42174,
+  "cartId": "9ecaf424-8b05-476f-8457-3e7ac20e6bcd",
+  "preferredProducts": [
+    1750,
+    1405,
+    2141,
+    2726,
+    3782,
+    2781,
+    412,
+    3843
+  ],
+  "productReviews": [
+    {
+      "productId": 2823,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2016-10-13T17:42:05.8627708+03:00"
+    },
+    {
+      "productId": 2531,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-09-09T20:56:07.0455929+03:00"
+    },
+    {
+      "productId": 4119,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-03-03T02:46:43.0973498+02:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-12-20T13:02:57.1860198+02:00"
+    },
+    {
+      "productId": 3871,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-11-25T02:16:15.1768383+02:00"
+    }
+  ]
+}

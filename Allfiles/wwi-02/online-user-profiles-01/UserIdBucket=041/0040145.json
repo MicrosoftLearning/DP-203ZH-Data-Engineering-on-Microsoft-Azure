@@ -1,0 +1,31 @@
+{
+  "userId": 40145,
+  "cartId": "a4596345-91d2-4070-8765-9d2ed082155d",
+  "preferredProducts": [
+    348,
+    1949,
+    4058,
+    4858,
+    2281,
+    1182,
+    2644,
+    3638
+  ],
+  "productReviews": [
+    {
+      "productId": 4502,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-07-04T11:14:14.8320434+03:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2020-04-18T18:03:23.719188+03:00"
+    },
+    {
+      "productId": 3239,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-11-18T02:37:51.6650761+02:00"
+    }
+  ]
+}

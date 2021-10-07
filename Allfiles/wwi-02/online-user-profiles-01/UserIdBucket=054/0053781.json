@@ -1,0 +1,38 @@
+{
+  "userId": 53781,
+  "cartId": "52641ac2-4abb-4d0c-9a4e-a4e6f826703d",
+  "preferredProducts": [
+    4309,
+    2844,
+    2398,
+    1207,
+    1648,
+    934,
+    3058,
+    2012,
+    2379,
+    1234
+  ],
+  "productReviews": [
+    {
+      "productId": 2354,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-09-12T06:09:34.0385382+03:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-09-19T14:36:43.3042903+03:00"
+    },
+    {
+      "productId": 3380,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2017-06-30T14:34:16.9377651+03:00"
+    },
+    {
+      "productId": 2810,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2017-06-26T20:51:28.577528+03:00"
+    }
+  ]
+}

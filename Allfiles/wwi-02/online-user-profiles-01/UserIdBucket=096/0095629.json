@@ -1,0 +1,37 @@
+{
+  "userId": 95629,
+  "cartId": "0ace625f-eceb-4f9c-af51-277c64875bcb",
+  "preferredProducts": [
+    2305,
+    1735,
+    2556,
+    3814,
+    3857,
+    1116,
+    2003,
+    77,
+    4391
+  ],
+  "productReviews": [
+    {
+      "productId": 4714,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-02-26T18:16:10.7697215+02:00"
+    },
+    {
+      "productId": 1714,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-03-09T02:32:17.8678298+02:00"
+    },
+    {
+      "productId": 1735,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-02-22T17:50:09.0155396+02:00"
+    },
+    {
+      "productId": 4055,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-01-05T15:29:52.9721782+02:00"
+    }
+  ]
+}

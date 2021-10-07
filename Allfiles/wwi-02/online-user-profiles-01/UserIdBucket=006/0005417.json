@@ -1,0 +1,43 @@
+{
+  "userId": 5417,
+  "cartId": "6b8b2ef3-eeac-48a6-bf95-03e1fc0ab59a",
+  "preferredProducts": [
+    4048,
+    3546,
+    4950,
+    2642,
+    197,
+    4787,
+    4260,
+    4806,
+    756,
+    2181
+  ],
+  "productReviews": [
+    {
+      "productId": 3600,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2020-05-08T04:48:59.9249383+03:00"
+    },
+    {
+      "productId": 4763,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-11-11T18:30:15.4903681+02:00"
+    },
+    {
+      "productId": 2646,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2017-01-24T23:26:15.5662067+02:00"
+    },
+    {
+      "productId": 300,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-10-01T10:00:45.0641021+03:00"
+    },
+    {
+      "productId": 1140,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-05-31T09:37:59.016233+03:00"
+    }
+  ]
+}

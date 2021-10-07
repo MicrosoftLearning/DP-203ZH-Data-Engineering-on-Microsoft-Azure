@@ -1,0 +1,31 @@
+{
+  "userId": 22312,
+  "cartId": "4017b490-3767-4c73-a02c-c24ca6697fd4",
+  "preferredProducts": [
+    2955,
+    2140,
+    1198
+  ],
+  "productReviews": [
+    {
+      "productId": 4854,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-02-02T17:47:24.029094+02:00"
+    },
+    {
+      "productId": 3321,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-03-25T13:14:20.1712034+02:00"
+    },
+    {
+      "productId": 3797,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-10-24T20:56:03.9142544+03:00"
+    },
+    {
+      "productId": 3844,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-03-12T17:52:08.2261726+02:00"
+    }
+  ]
+}

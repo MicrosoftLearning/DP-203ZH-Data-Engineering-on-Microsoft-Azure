@@ -1,0 +1,30 @@
+{
+  "userId": 30160,
+  "cartId": "0a89c833-20fc-4a41-85f1-a5805c969a98",
+  "preferredProducts": [
+    3131,
+    1864,
+    2754,
+    4087,
+    3867,
+    3371,
+    4376
+  ],
+  "productReviews": [
+    {
+      "productId": 543,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-09-29T08:21:37.0867546+03:00"
+    },
+    {
+      "productId": 1121,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-10-07T07:07:22.4012085+03:00"
+    },
+    {
+      "productId": 573,
+      "reviewText": "this Radial is ratty.",
+      "reviewDate": "2017-05-17T07:16:07.4573864+03:00"
+    }
+  ]
+}

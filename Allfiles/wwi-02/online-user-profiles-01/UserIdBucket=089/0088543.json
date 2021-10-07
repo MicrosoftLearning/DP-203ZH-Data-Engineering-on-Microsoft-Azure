@@ -1,0 +1,31 @@
+{
+  "userId": 88543,
+  "cartId": "c08e1974-885c-44d2-bca1-ad79b6c63cc0",
+  "preferredProducts": [
+    1467,
+    2662,
+    3486
+  ],
+  "productReviews": [
+    {
+      "productId": 4351,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-01-13T09:16:21.7892871+02:00"
+    },
+    {
+      "productId": 2723,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-06-22T06:25:44.1950193+03:00"
+    },
+    {
+      "productId": 2292,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-08-10T04:08:32.8753937+03:00"
+    },
+    {
+      "productId": 43,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-06-26T09:35:33.3082304+03:00"
+    }
+  ]
+}

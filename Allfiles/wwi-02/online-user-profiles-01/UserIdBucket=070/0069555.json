@@ -1,0 +1,29 @@
+{
+  "userId": 69555,
+  "cartId": "395db82b-57da-46af-96f6-aa76b7b86b71",
+  "preferredProducts": [
+    2652,
+    4742,
+    3670,
+    2057,
+    4507,
+    4832
+  ],
+  "productReviews": [
+    {
+      "productId": 2203,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-01-01T19:16:49.7550939+02:00"
+    },
+    {
+      "productId": 1233,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-06-23T21:06:03.9366199+03:00"
+    },
+    {
+      "productId": 3432,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-04-05T21:43:33.3350052+03:00"
+    }
+  ]
+}

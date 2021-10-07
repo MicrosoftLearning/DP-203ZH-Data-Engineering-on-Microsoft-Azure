@@ -1,0 +1,26 @@
+{
+  "userId": 20729,
+  "cartId": "42ebee02-3282-4941-abf8-3f1e2acd10c5",
+  "preferredProducts": [
+    2301,
+    2977,
+    2093,
+    3258,
+    2790,
+    2680,
+    2093,
+    4757
+  ],
+  "productReviews": [
+    {
+      "productId": 4786,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-04-13T18:22:08.9000742+03:00"
+    },
+    {
+      "productId": 807,
+      "reviewText": "this matrix is honest.",
+      "reviewDate": "2018-09-25T15:29:09.1701175+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 21286,
+  "cartId": "771ac3db-01d5-404e-af06-476e994042ec",
+  "preferredProducts": [
+    310,
+    1378,
+    4320,
+    4740,
+    2248,
+    4871,
+    4033
+  ],
+  "productReviews": [
+    {
+      "productId": 1039,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-02-21T15:58:17.3154446+02:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-01-29T12:13:13.1943515+02:00"
+    },
+    {
+      "productId": 970,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-11-15T03:13:58.8546858+02:00"
+    }
+  ]
+}

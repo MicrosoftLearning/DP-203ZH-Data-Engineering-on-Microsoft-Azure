@@ -1,0 +1,42 @@
+{
+  "userId": 84462,
+  "cartId": "5fbc7ffd-50d6-4bf4-8562-a9f392c6927e",
+  "preferredProducts": [
+    2892,
+    3830,
+    3593,
+    3153,
+    2389,
+    2680,
+    3534,
+    2917,
+    1164
+  ],
+  "productReviews": [
+    {
+      "productId": 4321,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-10-01T09:36:29.274115+03:00"
+    },
+    {
+      "productId": 502,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-04-10T04:08:02.3857509+03:00"
+    },
+    {
+      "productId": 4087,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-09-21T15:30:11.6842924+03:00"
+    },
+    {
+      "productId": 4798,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-09-17T15:33:33.2308597+03:00"
+    },
+    {
+      "productId": 542,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-10-16T20:07:29.3526227+03:00"
+    }
+  ]
+}

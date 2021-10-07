@@ -1,0 +1,27 @@
+{
+  "userId": 23321,
+  "cartId": "cd3b3d6e-8ae7-44f4-b8b5-4eef94b9aafd",
+  "preferredProducts": [
+    3745,
+    3250,
+    4434,
+    361
+  ],
+  "productReviews": [
+    {
+      "productId": 4707,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-01-15T09:11:36.2048832+02:00"
+    },
+    {
+      "productId": 3872,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-10-31T04:47:21.6302484+02:00"
+    },
+    {
+      "productId": 2234,
+      "reviewText": "This Accountability works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-06-01T20:56:36.6311171+03:00"
+    }
+  ]
+}

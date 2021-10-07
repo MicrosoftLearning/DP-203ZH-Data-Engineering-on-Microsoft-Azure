@@ -1,0 +1,43 @@
+{
+  "userId": 5281,
+  "cartId": "ede55797-58e0-4603-9a00-33cefe2ce968",
+  "preferredProducts": [
+    3449,
+    896,
+    825,
+    4876,
+    3297,
+    635,
+    2932,
+    1850,
+    4260,
+    3305
+  ],
+  "productReviews": [
+    {
+      "productId": 1747,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-01-31T07:22:44.3804855+02:00"
+    },
+    {
+      "productId": 3227,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-11-29T16:20:30.3276876+02:00"
+    },
+    {
+      "productId": 1698,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-06-25T11:18:31.0457982+03:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-08-03T14:44:27.4120981+03:00"
+    },
+    {
+      "productId": 2574,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-10-16T21:19:50.5508275+03:00"
+    }
+  ]
+}

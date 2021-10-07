@@ -1,0 +1,31 @@
+{
+  "userId": 70736,
+  "cartId": "7bb5de02-10e7-409c-aaf7-a2622784e236",
+  "preferredProducts": [
+    4639,
+    3861,
+    3770,
+    148,
+    1475,
+    997,
+    2805,
+    4260
+  ],
+  "productReviews": [
+    {
+      "productId": 3454,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-10-22T23:58:26.5223892+03:00"
+    },
+    {
+      "productId": 381,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-09-06T23:24:19.9357117+03:00"
+    },
+    {
+      "productId": 485,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-01-20T04:15:19.3708646+02:00"
+    }
+  ]
+}

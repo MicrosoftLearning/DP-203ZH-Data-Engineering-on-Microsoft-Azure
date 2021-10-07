@@ -1,0 +1,30 @@
+{
+  "userId": 52428,
+  "cartId": "50000b3a-cdce-4efb-9696-7e0069614496",
+  "preferredProducts": [
+    4807,
+    3196,
+    3061,
+    3587,
+    3748,
+    3286,
+    1312
+  ],
+  "productReviews": [
+    {
+      "productId": 4447,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-06-27T07:45:27.7559128+03:00"
+    },
+    {
+      "productId": 2977,
+      "reviewText": "This SQL works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-11-25T03:56:16.0286225+02:00"
+    },
+    {
+      "productId": 3548,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-07-01T00:54:54.2036408+03:00"
+    }
+  ]
+}

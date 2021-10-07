@@ -1,0 +1,31 @@
+{
+  "userId": 5758,
+  "cartId": "bc46f988-7a15-4d30-8982-6b971cc27246",
+  "preferredProducts": [
+    3987,
+    2495,
+    1457,
+    4450,
+    364,
+    948,
+    1157,
+    2375
+  ],
+  "productReviews": [
+    {
+      "productId": 1494,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-09-16T00:10:44.1074402+03:00"
+    },
+    {
+      "productId": 732,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-02-18T09:18:00.3333867+02:00"
+    },
+    {
+      "productId": 3369,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-06-09T20:10:26.9032598+03:00"
+    }
+  ]
+}

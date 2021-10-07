@@ -1,0 +1,32 @@
+{
+  "userId": 17234,
+  "cartId": "cd8a5442-8cdf-4365-b1f0-7eaa55a4537d",
+  "preferredProducts": [
+    3879,
+    3548,
+    2834,
+    1780,
+    2786,
+    3586,
+    273,
+    2580,
+    2984
+  ],
+  "productReviews": [
+    {
+      "productId": 1818,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-06-08T11:19:50.4731092+03:00"
+    },
+    {
+      "productId": 4290,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-02T01:35:00.6283463+03:00"
+    },
+    {
+      "productId": 4510,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-05-11T15:27:26.263161+03:00"
+    }
+  ]
+}

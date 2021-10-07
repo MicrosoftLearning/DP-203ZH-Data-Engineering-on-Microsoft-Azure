@@ -1,0 +1,38 @@
+{
+  "userId": 80416,
+  "cartId": "f8ddb939-70cb-4f1b-8f05-4c21bdf5599f",
+  "preferredProducts": [
+    4725,
+    2584,
+    4689,
+    3535,
+    179,
+    1292,
+    3790,
+    3829,
+    1566,
+    359
+  ],
+  "productReviews": [
+    {
+      "productId": 1715,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-05-20T19:34:50.1662266+03:00"
+    },
+    {
+      "productId": 3796,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-06-29T07:36:44.9018253+03:00"
+    },
+    {
+      "productId": 4915,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-11-29T10:06:24.6095566+02:00"
+    },
+    {
+      "productId": 4233,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-12-20T08:49:11.5937297+02:00"
+    }
+  ]
+}

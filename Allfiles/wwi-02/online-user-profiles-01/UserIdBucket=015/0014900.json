@@ -1,0 +1,30 @@
+{
+  "userId": 14900,
+  "cartId": "056a06e0-b1ad-4a6a-a41a-c70ce3c4660c",
+  "preferredProducts": [
+    2367,
+    101,
+    4900,
+    2665,
+    1095,
+    279,
+    4442
+  ],
+  "productReviews": [
+    {
+      "productId": 610,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-08-25T02:02:20.3735944+03:00"
+    },
+    {
+      "productId": 3243,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-10-11T12:18:31.4499498+03:00"
+    },
+    {
+      "productId": 4186,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2019-12-28T12:03:43.869614+02:00"
+    }
+  ]
+}

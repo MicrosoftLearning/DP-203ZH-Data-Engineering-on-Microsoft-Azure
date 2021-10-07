@@ -1,0 +1,28 @@
+{
+  "userId": 10202,
+  "cartId": "6802d7dd-f829-4bd9-834e-8f15398b46aa",
+  "preferredProducts": [
+    1235,
+    4912,
+    2673,
+    634,
+    3170,
+    3900,
+    4727,
+    34,
+    109,
+    4572
+  ],
+  "productReviews": [
+    {
+      "productId": 3829,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-08-18T19:19:40.85843+03:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2017-06-14T05:17:46.0605973+03:00"
+    }
+  ]
+}

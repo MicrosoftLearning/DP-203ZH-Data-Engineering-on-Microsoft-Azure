@@ -1,0 +1,31 @@
+{
+  "userId": 4384,
+  "cartId": "1346bfb2-2963-4643-be18-4df44102c909",
+  "preferredProducts": [
+    3361,
+    4332,
+    4235
+  ],
+  "productReviews": [
+    {
+      "productId": 1143,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2016-12-26T15:26:44.7223923+02:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-02-28T05:18:33.6249208+02:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "this HTTP is whole-grain.",
+      "reviewDate": "2017-11-10T13:19:56.3356266+02:00"
+    },
+    {
+      "productId": 4506,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-04-11T21:38:45.8644323+03:00"
+    }
+  ]
+}

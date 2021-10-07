@@ -1,0 +1,26 @@
+{
+  "userId": 4147,
+  "cartId": "6cc28042-1100-4408-a03f-a10dbc5a63c8",
+  "preferredProducts": [
+    1730,
+    3010,
+    1604
+  ],
+  "productReviews": [
+    {
+      "productId": 3399,
+      "reviewText": "this executive is standard.",
+      "reviewDate": "2016-11-06T16:28:22.8862466+02:00"
+    },
+    {
+      "productId": 924,
+      "reviewText": "this Designer is gracious.",
+      "reviewDate": "2018-10-18T14:48:52.4363194+03:00"
+    },
+    {
+      "productId": 2790,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-08-06T15:20:47.0436416+03:00"
+    }
+  ]
+}

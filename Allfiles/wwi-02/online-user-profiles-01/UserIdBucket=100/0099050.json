@@ -1,0 +1,25 @@
+{
+  "userId": 99050,
+  "cartId": "6219a452-3011-4e36-974b-27857e614b3d",
+  "preferredProducts": [
+    3567,
+    783
+  ],
+  "productReviews": [
+    {
+      "productId": 1439,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-03-02T00:20:00.4514707+02:00"
+    },
+    {
+      "productId": 242,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-05-18T10:41:19.1591672+03:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-05-19T17:33:24.9615428+03:00"
+    }
+  ]
+}

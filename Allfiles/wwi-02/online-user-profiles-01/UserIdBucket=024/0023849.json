@@ -1,0 +1,28 @@
+{
+  "userId": 23849,
+  "cartId": "f64382f8-b419-41a2-a3c3-bbea99975871",
+  "preferredProducts": [
+    3374,
+    460,
+    649,
+    67,
+    2627
+  ],
+  "productReviews": [
+    {
+      "productId": 3242,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-02-16T05:12:59.8958726+02:00"
+    },
+    {
+      "productId": 3538,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-03-05T08:33:24.999052+02:00"
+    },
+    {
+      "productId": 4560,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-07-22T16:45:20.6059837+03:00"
+    }
+  ]
+}

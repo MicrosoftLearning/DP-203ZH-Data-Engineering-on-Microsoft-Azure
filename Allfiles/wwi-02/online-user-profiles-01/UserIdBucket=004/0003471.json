@@ -1,0 +1,38 @@
+{
+  "userId": 3471,
+  "cartId": "e45ad304-557c-4123-a694-5545000cdac5",
+  "preferredProducts": [
+    4753,
+    6,
+    914,
+    1335,
+    3009
+  ],
+  "productReviews": [
+    {
+      "productId": 3191,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-02-08T01:18:45.4162341+02:00"
+    },
+    {
+      "productId": 3772,
+      "reviewText": "This Generic Concrete Computer works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-08-14T06:43:10.9726661+03:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2016-07-05T00:05:44.6155031+03:00"
+    },
+    {
+      "productId": 4308,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-08-09T20:12:09.845289+03:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-07-10T15:48:22.070631+03:00"
+    }
+  ]
+}

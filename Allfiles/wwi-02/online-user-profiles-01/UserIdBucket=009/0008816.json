@@ -1,0 +1,40 @@
+{
+  "userId": 8816,
+  "cartId": "07ac1ff1-db1f-4b8e-a69e-d3d49edcd607",
+  "preferredProducts": [
+    462,
+    3408,
+    1077,
+    2076,
+    4651,
+    2007,
+    2515
+  ],
+  "productReviews": [
+    {
+      "productId": 428,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-03-25T10:10:38.9252955+03:00"
+    },
+    {
+      "productId": 561,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-03-07T11:19:04.8138481+02:00"
+    },
+    {
+      "productId": 667,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2019-07-03T12:32:20.3961679+03:00"
+    },
+    {
+      "productId": 1206,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-01-26T18:47:42.7652274+02:00"
+    },
+    {
+      "productId": 2252,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2020-03-04T12:37:52.0458318+02:00"
+    }
+  ]
+}

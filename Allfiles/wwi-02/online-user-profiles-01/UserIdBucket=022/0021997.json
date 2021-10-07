@@ -1,0 +1,30 @@
+{
+  "userId": 21997,
+  "cartId": "16720ed3-6257-473f-8ffa-784a4f50db0a",
+  "preferredProducts": [
+    1175,
+    2013,
+    1359,
+    1141,
+    2413,
+    2976,
+    3118
+  ],
+  "productReviews": [
+    {
+      "productId": 1755,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-03-17T11:28:16.4593888+02:00"
+    },
+    {
+      "productId": 3242,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-10-08T11:02:11.1372499+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-06-28T07:28:48.645554+03:00"
+    }
+  ]
+}

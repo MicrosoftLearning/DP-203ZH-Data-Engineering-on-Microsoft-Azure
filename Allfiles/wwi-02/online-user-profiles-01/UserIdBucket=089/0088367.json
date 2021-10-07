@@ -1,0 +1,24 @@
+{
+  "userId": 88367,
+  "cartId": "6d2d425a-4323-4d7e-b68d-e5eb81d3f98c",
+  "preferredProducts": [
+    2455,
+    3529,
+    360,
+    498,
+    1263,
+    2175
+  ],
+  "productReviews": [
+    {
+      "productId": 1416,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-10-21T19:10:37.1560001+03:00"
+    },
+    {
+      "productId": 386,
+      "reviewText": "This extensible works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2020-01-26T00:52:29.7271173+02:00"
+    }
+  ]
+}

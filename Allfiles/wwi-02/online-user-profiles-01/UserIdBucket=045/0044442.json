@@ -1,0 +1,33 @@
+{
+  "userId": 44442,
+  "cartId": "5e46a159-d68e-4a78-9178-bfe08abe1029",
+  "preferredProducts": [
+    3253,
+    1382,
+    2577,
+    3253,
+    4213,
+    473,
+    138,
+    3417,
+    2526,
+    2245
+  ],
+  "productReviews": [
+    {
+      "productId": 2399,
+      "reviewText": "This multi-byte works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-10-12T14:28:34.8765617+03:00"
+    },
+    {
+      "productId": 3685,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-07-28T22:24:30.8541535+03:00"
+    },
+    {
+      "productId": 2971,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-10-04T10:40:26.9479664+03:00"
+    }
+  ]
+}

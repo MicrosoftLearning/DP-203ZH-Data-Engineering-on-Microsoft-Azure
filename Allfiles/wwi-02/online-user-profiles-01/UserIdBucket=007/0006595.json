@@ -1,0 +1,28 @@
+{
+  "userId": 6595,
+  "cartId": "8c32a203-cd34-4f00-8421-124389442a84",
+  "preferredProducts": [
+    3080,
+    2078,
+    287,
+    2902,
+    4371
+  ],
+  "productReviews": [
+    {
+      "productId": 1029,
+      "reviewText": "this International is revolting.",
+      "reviewDate": "2019-10-18T07:11:26.2807214+03:00"
+    },
+    {
+      "productId": 4651,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-10-15T21:06:20.3130638+03:00"
+    },
+    {
+      "productId": 3539,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-11-17T19:56:18.9171481+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 4616,
+  "cartId": "8987a8b5-160e-4ebb-94e3-a1078ddde336",
+  "preferredProducts": [
+    4410,
+    2514,
+    119
+  ],
+  "productReviews": [
+    {
+      "productId": 1487,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-12-18T06:11:29.7569156+02:00"
+    },
+    {
+      "productId": 295,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2020-01-20T13:47:58.2667555+02:00"
+    },
+    {
+      "productId": 2307,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-07-27T05:02:47.391636+03:00"
+    },
+    {
+      "productId": 1895,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-09-06T20:56:48.9058099+03:00"
+    }
+  ]
+}

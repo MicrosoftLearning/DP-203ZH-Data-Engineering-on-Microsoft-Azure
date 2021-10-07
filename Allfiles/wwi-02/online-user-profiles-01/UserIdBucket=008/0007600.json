@@ -1,0 +1,39 @@
+{
+  "userId": 7600,
+  "cartId": "ae2575f6-b9e4-497e-b554-fa5add762cd6",
+  "preferredProducts": [
+    2017,
+    4718,
+    3831,
+    3077,
+    2570,
+    2522
+  ],
+  "productReviews": [
+    {
+      "productId": 1157,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-08-21T03:23:06.8149052+03:00"
+    },
+    {
+      "productId": 2706,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2017-04-09T21:53:53.7664232+03:00"
+    },
+    {
+      "productId": 647,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-01-28T05:07:57.5904141+02:00"
+    },
+    {
+      "productId": 3260,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-02-15T15:04:15.4467853+02:00"
+    },
+    {
+      "productId": 4111,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-09-02T11:11:10.0573006+03:00"
+    }
+  ]
+}

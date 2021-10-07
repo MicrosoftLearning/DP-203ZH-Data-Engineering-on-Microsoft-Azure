@@ -1,0 +1,36 @@
+{
+  "userId": 61561,
+  "cartId": "b4c54823-a115-43a4-a501-d9c393721cad",
+  "preferredProducts": [
+    881,
+    4436,
+    3249,
+    3870,
+    3005,
+    2274,
+    3330,
+    3969
+  ],
+  "productReviews": [
+    {
+      "productId": 4685,
+      "reviewText": "this policy is slurpee.",
+      "reviewDate": "2019-11-13T00:39:09.4953202+02:00"
+    },
+    {
+      "productId": 3524,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-04-18T05:17:48.3453919+03:00"
+    },
+    {
+      "productId": 3277,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-01-16T12:13:12.8670334+02:00"
+    },
+    {
+      "productId": 2352,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-08-23T07:10:03.0575045+03:00"
+    }
+  ]
+}

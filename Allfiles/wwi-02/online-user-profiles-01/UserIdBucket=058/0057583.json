@@ -1,0 +1,31 @@
+{
+  "userId": 57583,
+  "cartId": "0f42ce06-f08f-4733-8e06-c958a5e3e3f2",
+  "preferredProducts": [
+    2899,
+    950,
+    1607
+  ],
+  "productReviews": [
+    {
+      "productId": 1432,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-05-04T02:06:48.8622784+03:00"
+    },
+    {
+      "productId": 3629,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-08-13T01:04:21.9345534+03:00"
+    },
+    {
+      "productId": 4558,
+      "reviewText": "this aggregate is snowy.",
+      "reviewDate": "2019-06-09T19:29:22.0255462+03:00"
+    },
+    {
+      "productId": 4176,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-12-16T20:31:42.321417+02:00"
+    }
+  ]
+}

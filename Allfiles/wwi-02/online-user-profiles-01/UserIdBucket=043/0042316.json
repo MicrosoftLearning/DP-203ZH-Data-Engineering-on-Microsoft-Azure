@@ -1,0 +1,37 @@
+{
+  "userId": 42316,
+  "cartId": "7622917d-2fdd-4d52-ba21-1dd5fb53c20f",
+  "preferredProducts": [
+    4845,
+    1294,
+    2916,
+    2272
+  ],
+  "productReviews": [
+    {
+      "productId": 1527,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-12-15T06:32:14.4390243+02:00"
+    },
+    {
+      "productId": 2613,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-02-23T12:15:18.3658198+02:00"
+    },
+    {
+      "productId": 1,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-08-30T06:52:21.9086126+03:00"
+    },
+    {
+      "productId": 3246,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-07-28T04:24:44.620303+03:00"
+    },
+    {
+      "productId": 928,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-02-12T20:39:39.0316021+02:00"
+    }
+  ]
+}

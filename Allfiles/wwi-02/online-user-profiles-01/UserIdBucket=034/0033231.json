@@ -1,0 +1,21 @@
+{
+  "userId": 33231,
+  "cartId": "7f330f98-43ec-4ee8-b531-336f671daa07",
+  "preferredProducts": [
+    3038,
+    4885,
+    4552
+  ],
+  "productReviews": [
+    {
+      "productId": 2159,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-09-06T20:07:24.1330973+03:00"
+    },
+    {
+      "productId": 1885,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-11-18T02:22:31.7790748+02:00"
+    }
+  ]
+}

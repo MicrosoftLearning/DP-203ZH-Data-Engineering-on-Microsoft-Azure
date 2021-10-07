@@ -1,0 +1,34 @@
+{
+  "userId": 2424,
+  "cartId": "548ee629-0cc2-43df-9346-7e6e7fb8f1d1",
+  "preferredProducts": [
+    4228
+  ],
+  "productReviews": [
+    {
+      "productId": 4826,
+      "reviewText": "This is a really good Directives.",
+      "reviewDate": "2017-01-01T04:03:50.6197207+02:00"
+    },
+    {
+      "productId": 2948,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-05-24T22:25:56.1976127+03:00"
+    },
+    {
+      "productId": 969,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-08-23T00:53:27.1212516+03:00"
+    },
+    {
+      "productId": 2075,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-03-03T17:30:48.8936208+02:00"
+    },
+    {
+      "productId": 4804,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2020-03-01T09:51:21.053802+02:00"
+    }
+  ]
+}

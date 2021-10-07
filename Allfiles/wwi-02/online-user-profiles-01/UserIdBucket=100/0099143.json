@@ -1,0 +1,38 @@
+{
+  "userId": 99143,
+  "cartId": "4be48a52-1fe9-465f-bf5e-cdda76cf2f65",
+  "preferredProducts": [
+    3280,
+    471,
+    4235,
+    2947,
+    1069,
+    4416,
+    1017,
+    4678,
+    1805,
+    1368
+  ],
+  "productReviews": [
+    {
+      "productId": 2222,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-08-25T06:42:29.309544+03:00"
+    },
+    {
+      "productId": 1140,
+      "reviewText": "This withdrawal works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-05-10T02:57:44.8969122+03:00"
+    },
+    {
+      "productId": 2198,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-08-20T18:04:33.8918667+03:00"
+    },
+    {
+      "productId": 3440,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-10-04T03:45:15.4845169+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 58333,
+  "cartId": "7cabe33d-fbfc-4554-9674-aa00745959e4",
+  "preferredProducts": [
+    3206
+  ],
+  "productReviews": [
+    {
+      "productId": 2397,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-08T22:27:00.0384953+02:00"
+    },
+    {
+      "productId": 2641,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-05-08T12:34:33.3740075+03:00"
+    },
+    {
+      "productId": 2465,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2017-06-13T19:09:07.5131235+03:00"
+    },
+    {
+      "productId": 2261,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-07-08T21:51:47.6473166+03:00"
+    },
+    {
+      "productId": 3891,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-03-21T17:41:54.8431389+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 5550,
+  "cartId": "df5f9665-2813-4ec7-becc-958ef5591a8f",
+  "preferredProducts": [
+    640,
+    2467,
+    2254
+  ],
+  "productReviews": [
+    {
+      "productId": 2025,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-06-06T22:50:19.2704411+03:00"
+    },
+    {
+      "productId": 4406,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-10-10T20:07:36.6640128+03:00"
+    },
+    {
+      "productId": 1605,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-07-29T07:19:20.6205601+03:00"
+    }
+  ]
+}

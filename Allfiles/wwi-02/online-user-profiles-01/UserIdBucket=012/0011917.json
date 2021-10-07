@@ -1,0 +1,36 @@
+{
+  "userId": 11917,
+  "cartId": "7ca5ec0d-d930-4256-92d4-c0075a4ea88e",
+  "preferredProducts": [
+    1295,
+    2146,
+    2050
+  ],
+  "productReviews": [
+    {
+      "productId": 3787,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2018-12-25T01:01:31.0148369+02:00"
+    },
+    {
+      "productId": 76,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-04-04T17:04:30.0137+03:00"
+    },
+    {
+      "productId": 3254,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2016-10-10T22:11:47.503326+03:00"
+    },
+    {
+      "productId": 2985,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-06-24T14:01:23.0761918+03:00"
+    },
+    {
+      "productId": 3538,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-04-10T05:31:25.1011681+03:00"
+    }
+  ]
+}

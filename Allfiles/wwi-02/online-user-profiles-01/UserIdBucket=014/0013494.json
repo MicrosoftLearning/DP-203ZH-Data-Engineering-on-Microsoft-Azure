@@ -1,0 +1,25 @@
+{
+  "userId": 13494,
+  "cartId": "f6b0b0c9-0950-4eb2-b6b5-a14069b3c6df",
+  "preferredProducts": [
+    3822,
+    4994
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "this invoice is whole-grain.",
+      "reviewDate": "2018-12-30T13:00:19.6994409+02:00"
+    },
+    {
+      "productId": 798,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-10-05T04:34:21.2088205+03:00"
+    },
+    {
+      "productId": 608,
+      "reviewText": "This Officer works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-11-20T01:20:15.2475251+02:00"
+    }
+  ]
+}

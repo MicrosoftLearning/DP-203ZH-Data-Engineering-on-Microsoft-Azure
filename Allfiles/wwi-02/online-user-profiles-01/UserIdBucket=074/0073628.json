@@ -1,0 +1,23 @@
+{
+  "userId": 73628,
+  "cartId": "02d5471e-7644-44e1-9216-f85f55bbc5bd",
+  "preferredProducts": [
+    1094,
+    1455,
+    668,
+    817,
+    4361
+  ],
+  "productReviews": [
+    {
+      "productId": 1630,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-07-25T18:41:29.2839373+03:00"
+    },
+    {
+      "productId": 3867,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-01-18T23:39:43.6256569+02:00"
+    }
+  ]
+}

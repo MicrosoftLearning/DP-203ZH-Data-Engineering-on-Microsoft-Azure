@@ -1,0 +1,41 @@
+{
+  "userId": 3389,
+  "cartId": "3b688d54-7ffd-49ed-8b82-e262cb53af07",
+  "preferredProducts": [
+    3721,
+    3720,
+    648,
+    2819,
+    3487,
+    2521,
+    1247,
+    3977
+  ],
+  "productReviews": [
+    {
+      "productId": 4409,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2019-04-09T02:27:03.8369769+03:00"
+    },
+    {
+      "productId": 721,
+      "reviewText": "this Riel is standard.",
+      "reviewDate": "2020-03-15T23:35:29.3931192+02:00"
+    },
+    {
+      "productId": 3481,
+      "reviewText": "This grey works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-02-23T01:28:02.0215585+02:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-10-12T04:30:35.1461833+03:00"
+    },
+    {
+      "productId": 1870,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-05-24T19:54:24.3340345+03:00"
+    }
+  ]
+}

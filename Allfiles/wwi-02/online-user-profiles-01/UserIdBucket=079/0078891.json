@@ -1,0 +1,33 @@
+{
+  "userId": 78891,
+  "cartId": "365bbc55-1d61-49ae-a698-088e9bba3a28",
+  "preferredProducts": [
+    2389,
+    1043,
+    4865,
+    4176,
+    3682,
+    3754,
+    4970,
+    2263,
+    1444,
+    4612
+  ],
+  "productReviews": [
+    {
+      "productId": 1859,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-04-09T15:11:56.4066608+03:00"
+    },
+    {
+      "productId": 4714,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2016-07-01T23:16:47.1485123+03:00"
+    },
+    {
+      "productId": 770,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2020-04-16T03:33:00.8951505+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 19945,
+  "cartId": "96f96b32-d66c-4c18-b258-0a951e7878cd",
+  "preferredProducts": [
+    1000,
+    3971
+  ],
+  "productReviews": [
+    {
+      "productId": 548,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-06-30T12:18:24.0296723+03:00"
+    },
+    {
+      "productId": 53,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-12-16T01:17:59.5635769+02:00"
+    },
+    {
+      "productId": 1503,
+      "reviewText": "this Generic Frozen Car is ghetto.",
+      "reviewDate": "2018-10-02T11:56:13.8374013+03:00"
+    },
+    {
+      "productId": 960,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-07-06T01:42:51.6764006+03:00"
+    },
+    {
+      "productId": 2568,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-09-09T04:22:40.2126531+03:00"
+    }
+  ]
+}

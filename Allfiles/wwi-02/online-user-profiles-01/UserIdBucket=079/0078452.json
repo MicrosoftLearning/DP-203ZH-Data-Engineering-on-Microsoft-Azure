@@ -1,0 +1,25 @@
+{
+  "userId": 78452,
+  "cartId": "e033005e-3bcb-4cac-a57f-f182fc2ae737",
+  "preferredProducts": [
+    4750,
+    940
+  ],
+  "productReviews": [
+    {
+      "productId": 4096,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-04-24T00:52:15.9814078+03:00"
+    },
+    {
+      "productId": 1754,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-05-25T10:41:23.6863049+03:00"
+    },
+    {
+      "productId": 1574,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-02-01T18:19:08.4789744+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 65995,
+  "cartId": "4382c479-bf95-4a8d-af4d-fa8ba742bb05",
+  "preferredProducts": [
+    1317,
+    486,
+    2526,
+    2497,
+    4144,
+    4025,
+    1525,
+    923,
+    1829
+  ],
+  "productReviews": [
+    {
+      "productId": 3441,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2018-08-22T00:45:50.1884701+03:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-02-13T12:47:28.7397654+02:00"
+    },
+    {
+      "productId": 1245,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-07-25T23:42:46.2141147+03:00"
+    },
+    {
+      "productId": 3397,
+      "reviewText": "this Ergonomic Frozen Chair is top-notch.",
+      "reviewDate": "2019-01-09T04:43:59.1221329+02:00"
+    }
+  ]
+}

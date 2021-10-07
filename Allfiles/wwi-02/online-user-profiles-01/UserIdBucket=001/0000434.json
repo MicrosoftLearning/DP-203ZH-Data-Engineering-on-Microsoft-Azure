@@ -1,0 +1,36 @@
+{
+  "userId": 434,
+  "cartId": "e1e8c7a7-8d19-44d2-9ac5-73eca7c85dc3",
+  "preferredProducts": [
+    2001,
+    1915,
+    227
+  ],
+  "productReviews": [
+    {
+      "productId": 1927,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-09-22T18:09:42.8524723+03:00"
+    },
+    {
+      "productId": 2812,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-09-15T23:00:45.0355065+03:00"
+    },
+    {
+      "productId": 3030,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-04-19T08:12:41.3194695+03:00"
+    },
+    {
+      "productId": 3805,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-02-05T23:49:18.6450581+02:00"
+    },
+    {
+      "productId": 1460,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-06-14T16:32:16.2129901+03:00"
+    }
+  ]
+}

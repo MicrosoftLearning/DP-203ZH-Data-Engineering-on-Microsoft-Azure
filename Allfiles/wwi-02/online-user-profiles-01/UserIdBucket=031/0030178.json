@@ -1,0 +1,33 @@
+{
+  "userId": 30178,
+  "cartId": "c9912a1a-e0c7-4712-ba95-aba60e1f13d3",
+  "preferredProducts": [
+    1919,
+    3064,
+    3389,
+    3133,
+    365,
+    1628,
+    1864,
+    2027,
+    3170,
+    1158
+  ],
+  "productReviews": [
+    {
+      "productId": 2265,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-07-06T14:20:14.6042582+03:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-09-02T12:45:54.7579562+03:00"
+    },
+    {
+      "productId": 1033,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-04-17T03:22:19.6594843+03:00"
+    }
+  ]
+}

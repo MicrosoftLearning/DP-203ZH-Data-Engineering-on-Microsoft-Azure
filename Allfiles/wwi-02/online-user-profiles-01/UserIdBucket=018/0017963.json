@@ -1,0 +1,25 @@
+{
+  "userId": 17963,
+  "cartId": "42cefef2-69e9-47d7-94d6-ede782c8dde9",
+  "preferredProducts": [
+    1978,
+    942,
+    1806,
+    45,
+    1361,
+    2293,
+    4167
+  ],
+  "productReviews": [
+    {
+      "productId": 265,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-05-18T10:11:39.9246197+03:00"
+    },
+    {
+      "productId": 3377,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2018-12-12T10:36:48.3003948+02:00"
+    }
+  ]
+}

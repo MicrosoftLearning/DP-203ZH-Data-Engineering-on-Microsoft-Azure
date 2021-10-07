@@ -1,0 +1,41 @@
+{
+  "userId": 4786,
+  "cartId": "5d62a647-9943-4af8-8c54-321f6523551b",
+  "preferredProducts": [
+    533,
+    2616,
+    4605,
+    477,
+    3703,
+    1480,
+    3882,
+    3361
+  ],
+  "productReviews": [
+    {
+      "productId": 3577,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-03-07T09:11:32.7962937+02:00"
+    },
+    {
+      "productId": 133,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-10-12T15:34:01.2649556+03:00"
+    },
+    {
+      "productId": 817,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-20T21:05:30.1228517+03:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-08-17T21:38:25.5047381+03:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-07-12T12:20:19.4497023+03:00"
+    }
+  ]
+}

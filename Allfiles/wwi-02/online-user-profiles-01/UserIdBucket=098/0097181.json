@@ -1,0 +1,29 @@
+{
+  "userId": 97181,
+  "cartId": "d93266a3-47d8-4a42-bfd5-cfa5490b475b",
+  "preferredProducts": [
+    1583,
+    1193,
+    1629,
+    903,
+    2832,
+    2908
+  ],
+  "productReviews": [
+    {
+      "productId": 4995,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-03-14T08:15:16.011337+02:00"
+    },
+    {
+      "productId": 4805,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-12-10T08:36:14.7315003+02:00"
+    },
+    {
+      "productId": 2653,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-09-04T14:14:22.7703342+03:00"
+    }
+  ]
+}

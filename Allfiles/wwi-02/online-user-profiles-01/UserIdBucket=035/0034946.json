@@ -1,0 +1,22 @@
+{
+  "userId": 34946,
+  "cartId": "ddcbda21-29a4-4150-b9ed-c9ef9090c77c",
+  "preferredProducts": [
+    456,
+    680,
+    2455,
+    2514
+  ],
+  "productReviews": [
+    {
+      "productId": 11,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-08-26T20:11:44.7716552+03:00"
+    },
+    {
+      "productId": 344,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-07-24T05:57:19.1537945+03:00"
+    }
+  ]
+}

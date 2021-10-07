@@ -1,0 +1,35 @@
+{
+  "userId": 5897,
+  "cartId": "e7acfc6f-ad5b-4787-aafb-ec41997d9167",
+  "preferredProducts": [
+    634,
+    3185,
+    3895,
+    4333,
+    3605,
+    3595,
+    188
+  ],
+  "productReviews": [
+    {
+      "productId": 3611,
+      "reviewText": "this back-end is gracious.",
+      "reviewDate": "2016-10-18T14:57:20.6894847+03:00"
+    },
+    {
+      "productId": 4911,
+      "reviewText": "this Sleek Metal Hat is perplexed.",
+      "reviewDate": "2018-12-17T16:06:16.3653924+02:00"
+    },
+    {
+      "productId": 317,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-05-16T21:53:02.1380922+03:00"
+    },
+    {
+      "productId": 2080,
+      "reviewText": "This Walk works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-08-05T23:01:32.311261+03:00"
+    }
+  ]
+}

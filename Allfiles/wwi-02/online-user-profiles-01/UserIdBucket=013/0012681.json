@@ -1,0 +1,39 @@
+{
+  "userId": 12681,
+  "cartId": "a26b7955-9f7f-47b6-a547-9103a40be168",
+  "preferredProducts": [
+    3653,
+    3599,
+    4994,
+    2898,
+    2190,
+    173
+  ],
+  "productReviews": [
+    {
+      "productId": 2990,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-05-30T23:44:45.7869213+03:00"
+    },
+    {
+      "productId": 3415,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-02-16T16:22:42.1849404+02:00"
+    },
+    {
+      "productId": 2154,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2018-03-12T11:54:35.7306491+02:00"
+    },
+    {
+      "productId": 2566,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-09-29T01:42:06.2626149+03:00"
+    },
+    {
+      "productId": 3837,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-09-29T01:11:14.1605724+03:00"
+    }
+  ]
+}

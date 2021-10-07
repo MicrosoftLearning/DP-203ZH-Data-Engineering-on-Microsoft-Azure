@@ -1,0 +1,35 @@
+{
+  "userId": 87744,
+  "cartId": "633d28fd-3adb-49cd-aaa6-294724941585",
+  "preferredProducts": [
+    1026,
+    1062
+  ],
+  "productReviews": [
+    {
+      "productId": 1308,
+      "reviewText": "this invoice is top-notch.",
+      "reviewDate": "2020-01-07T08:32:47.0560452+02:00"
+    },
+    {
+      "productId": 1378,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-10-13T12:07:07.7735098+03:00"
+    },
+    {
+      "productId": 3908,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-01-18T14:08:36.3642429+02:00"
+    },
+    {
+      "productId": 1095,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-10-22T02:06:02.5964423+03:00"
+    },
+    {
+      "productId": 4148,
+      "reviewText": "this withdrawal is vertical.",
+      "reviewDate": "2017-01-21T12:45:03.9824645+02:00"
+    }
+  ]
+}

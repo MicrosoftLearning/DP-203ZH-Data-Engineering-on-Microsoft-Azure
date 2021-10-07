@@ -1,0 +1,31 @@
+{
+  "userId": 42635,
+  "cartId": "e9be5dd2-6264-4e06-beff-7ad2ecd3daa7",
+  "preferredProducts": [
+    1362,
+    1416,
+    2828,
+    3964,
+    1941,
+    781,
+    2783,
+    4127
+  ],
+  "productReviews": [
+    {
+      "productId": 4018,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-03-06T00:43:57.4985789+02:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-03-06T07:32:52.1352658+02:00"
+    },
+    {
+      "productId": 1397,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-07-18T04:47:02.903411+03:00"
+    }
+  ]
+}

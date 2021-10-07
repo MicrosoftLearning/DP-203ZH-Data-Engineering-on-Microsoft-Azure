@@ -1,0 +1,30 @@
+{
+  "userId": 868,
+  "cartId": "19d029a5-acc4-430d-84f7-25131b22aefa",
+  "preferredProducts": [
+    3344,
+    3538,
+    3502,
+    1160,
+    1685,
+    3083,
+    4992
+  ],
+  "productReviews": [
+    {
+      "productId": 1942,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-08-15T16:06:32.4204373+03:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-08-19T21:31:52.5115978+03:00"
+    },
+    {
+      "productId": 1094,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2019-06-20T04:57:06.1502574+03:00"
+    }
+  ]
+}

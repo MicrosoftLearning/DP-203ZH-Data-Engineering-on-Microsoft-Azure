@@ -1,0 +1,33 @@
+{
+  "userId": 12369,
+  "cartId": "85fdbe95-21db-4c17-b2a5-547d329191cd",
+  "preferredProducts": [
+    4527,
+    977,
+    93,
+    6,
+    3337
+  ],
+  "productReviews": [
+    {
+      "productId": 34,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-07-20T02:32:09.8111734+03:00"
+    },
+    {
+      "productId": 352,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-02-15T12:34:00.863928+02:00"
+    },
+    {
+      "productId": 130,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-03-27T08:13:09.5685417+02:00"
+    },
+    {
+      "productId": 410,
+      "reviewText": "this transmitter is amiable.",
+      "reviewDate": "2018-11-03T11:31:02.4668614+02:00"
+    }
+  ]
+}

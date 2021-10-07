@@ -1,0 +1,31 @@
+{
+  "userId": 97433,
+  "cartId": "74af4467-4a95-494f-9144-cb4d5904477e",
+  "preferredProducts": [
+    1304,
+    2750,
+    2422,
+    934,
+    2667,
+    1247,
+    1280,
+    520
+  ],
+  "productReviews": [
+    {
+      "productId": 1,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-08-15T03:35:43.1843518+03:00"
+    },
+    {
+      "productId": 4627,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2016-07-06T02:22:17.9283046+03:00"
+    },
+    {
+      "productId": 4220,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-06-05T13:15:15.300622+03:00"
+    }
+  ]
+}

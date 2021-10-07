@@ -1,0 +1,26 @@
+{
+  "userId": 58261,
+  "cartId": "ffa256a6-94b8-4451-9ccc-9ab9b8e0140a",
+  "preferredProducts": [
+    210,
+    254,
+    536,
+    1705,
+    1682,
+    3830,
+    4012,
+    3753
+  ],
+  "productReviews": [
+    {
+      "productId": 3456,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-07-30T12:24:20.9745166+03:00"
+    },
+    {
+      "productId": 750,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-09-14T02:56:23.2529005+03:00"
+    }
+  ]
+}

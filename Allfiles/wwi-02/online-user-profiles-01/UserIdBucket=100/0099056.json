@@ -1,0 +1,33 @@
+{
+  "userId": 99056,
+  "cartId": "0dd74762-f879-4af6-a967-4d5127591574",
+  "preferredProducts": [
+    1144,
+    3001,
+    2448,
+    275,
+    518
+  ],
+  "productReviews": [
+    {
+      "productId": 1839,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-09-18T07:24:59.6806943+03:00"
+    },
+    {
+      "productId": 4602,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-10-22T17:00:46.6984219+03:00"
+    },
+    {
+      "productId": 3723,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-10-21T10:12:28.2388812+03:00"
+    },
+    {
+      "productId": 1555,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-07-12T13:37:51.4127739+03:00"
+    }
+  ]
+}

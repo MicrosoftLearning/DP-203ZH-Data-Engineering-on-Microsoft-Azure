@@ -1,0 +1,35 @@
+{
+  "userId": 23552,
+  "cartId": "3ddd98e7-8c55-4f00-8377-c2d5bd26d536",
+  "preferredProducts": [
+    764,
+    673
+  ],
+  "productReviews": [
+    {
+      "productId": 1545,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-07-30T00:23:18.0159187+03:00"
+    },
+    {
+      "productId": 27,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2020-02-28T05:40:21.8076498+02:00"
+    },
+    {
+      "productId": 1952,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2020-04-08T07:17:12.980334+03:00"
+    },
+    {
+      "productId": 4662,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-04-30T13:25:24.371709+03:00"
+    },
+    {
+      "productId": 1873,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-03-19T13:46:07.9830805+02:00"
+    }
+  ]
+}

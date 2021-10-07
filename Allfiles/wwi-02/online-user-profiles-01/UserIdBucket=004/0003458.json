@@ -1,0 +1,33 @@
+{
+  "userId": 3458,
+  "cartId": "6378a0b6-e506-4038-a5d0-5ce82f3ef6e1",
+  "preferredProducts": [
+    2002,
+    4969,
+    2641,
+    4138,
+    1964
+  ],
+  "productReviews": [
+    {
+      "productId": 1867,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-05-17T06:35:45.8376384+03:00"
+    },
+    {
+      "productId": 311,
+      "reviewText": "This contingency works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-11-25T15:26:42.5677073+02:00"
+    },
+    {
+      "productId": 4593,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-11-23T14:44:01.0039747+02:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-12-15T14:00:29.5871221+02:00"
+    }
+  ]
+}

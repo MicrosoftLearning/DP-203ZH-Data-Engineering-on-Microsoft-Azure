@@ -1,0 +1,31 @@
+{
+  "userId": 42333,
+  "cartId": "cdda77d9-e4a2-4f36-822e-64b90af0449c",
+  "preferredProducts": [
+    3969,
+    1685,
+    3141
+  ],
+  "productReviews": [
+    {
+      "productId": 2837,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2020-02-19T17:54:53.4360023+02:00"
+    },
+    {
+      "productId": 4338,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-03-03T12:44:39.176314+02:00"
+    },
+    {
+      "productId": 4409,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2017-06-25T10:15:46.7507752+03:00"
+    },
+    {
+      "productId": 4069,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-05-05T15:50:37.77917+03:00"
+    }
+  ]
+}

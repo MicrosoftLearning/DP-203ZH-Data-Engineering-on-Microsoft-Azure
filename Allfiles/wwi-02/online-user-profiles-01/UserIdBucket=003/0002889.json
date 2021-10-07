@@ -1,0 +1,24 @@
+{
+  "userId": 2889,
+  "cartId": "9b3e9e66-9d1b-4683-b3f8-2c86bb2e9820",
+  "preferredProducts": [
+    3500,
+    1341,
+    4336,
+    4488,
+    3289,
+    3485
+  ],
+  "productReviews": [
+    {
+      "productId": 2220,
+      "reviewText": "This Plains works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2017-12-12T05:08:27.5310481+02:00"
+    },
+    {
+      "productId": 2982,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2018-02-02T21:05:09.1889132+02:00"
+    }
+  ]
+}

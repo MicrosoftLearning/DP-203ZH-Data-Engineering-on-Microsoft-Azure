@@ -1,0 +1,33 @@
+{
+  "userId": 3309,
+  "cartId": "dd2ceae1-65d9-48c7-a82b-c3fcd6bcc9e0",
+  "preferredProducts": [
+    3326,
+    887,
+    4357,
+    287,
+    125
+  ],
+  "productReviews": [
+    {
+      "productId": 4346,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2019-01-31T09:15:44.1480452+02:00"
+    },
+    {
+      "productId": 4068,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-02-01T12:34:53.4931868+02:00"
+    },
+    {
+      "productId": 304,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-02-22T12:19:47.643386+02:00"
+    },
+    {
+      "productId": 2333,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2016-11-11T11:45:14.3390432+02:00"
+    }
+  ]
+}

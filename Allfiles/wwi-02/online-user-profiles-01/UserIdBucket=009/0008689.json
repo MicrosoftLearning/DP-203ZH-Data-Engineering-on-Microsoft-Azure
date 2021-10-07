@@ -1,0 +1,33 @@
+{
+  "userId": 8689,
+  "cartId": "dbae0a39-6d1f-4ae2-bf8a-8fff82a21161",
+  "preferredProducts": [
+    4467,
+    2493,
+    4301,
+    175,
+    2747
+  ],
+  "productReviews": [
+    {
+      "productId": 4172,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-02-03T03:13:31.4427296+02:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2020-03-11T18:42:35.2948643+02:00"
+    },
+    {
+      "productId": 3399,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-06-06T09:30:26.6651333+03:00"
+    },
+    {
+      "productId": 809,
+      "reviewText": "this fresh-thinking is slurpee.",
+      "reviewDate": "2018-09-21T06:25:05.2958696+03:00"
+    }
+  ]
+}

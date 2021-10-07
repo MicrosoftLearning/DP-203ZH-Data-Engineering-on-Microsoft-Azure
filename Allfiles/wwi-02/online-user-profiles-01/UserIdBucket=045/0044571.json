@@ -1,0 +1,36 @@
+{
+  "userId": 44571,
+  "cartId": "7f525f99-ce58-4da9-8abc-6f25d412e402",
+  "preferredProducts": [
+    1006,
+    1165,
+    1001,
+    775,
+    4019,
+    1434,
+    3968,
+    2791
+  ],
+  "productReviews": [
+    {
+      "productId": 4965,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2020-04-10T20:53:29.7826438+03:00"
+    },
+    {
+      "productId": 780,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-01-10T13:51:34.5438687+02:00"
+    },
+    {
+      "productId": 4884,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-01-21T14:24:28.5021465+02:00"
+    },
+    {
+      "productId": 1388,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-10-24T20:03:43.6714555+03:00"
+    }
+  ]
+}

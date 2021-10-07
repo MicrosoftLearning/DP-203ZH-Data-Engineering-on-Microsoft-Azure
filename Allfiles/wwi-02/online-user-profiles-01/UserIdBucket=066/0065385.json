@@ -1,0 +1,25 @@
+{
+  "userId": 65385,
+  "cartId": "f92f9ae7-7356-4e98-a0cd-633fd8432d7e",
+  "preferredProducts": [
+    4014,
+    931,
+    3804,
+    4264,
+    2495,
+    1003,
+    2588
+  ],
+  "productReviews": [
+    {
+      "productId": 1095,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-03-12T22:43:21.468148+02:00"
+    },
+    {
+      "productId": 4669,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-03-22T06:31:07.974613+02:00"
+    }
+  ]
+}

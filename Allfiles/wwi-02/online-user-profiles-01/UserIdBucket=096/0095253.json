@@ -1,0 +1,29 @@
+{
+  "userId": 95253,
+  "cartId": "1b53df34-32dd-4634-88a8-16015d9282e9",
+  "preferredProducts": [
+    3739,
+    63,
+    4668,
+    3031,
+    3773,
+    1314
+  ],
+  "productReviews": [
+    {
+      "productId": 4480,
+      "reviewText": "This Ergonomic works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-07-14T03:15:48.6081834+03:00"
+    },
+    {
+      "productId": 1522,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2018-06-25T12:29:38.060701+03:00"
+    },
+    {
+      "productId": 2225,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-02-29T14:25:32.4964207+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 17364,
+  "cartId": "fb04947d-53ad-4719-8dc9-524fc602cdb1",
+  "preferredProducts": [
+    1111,
+    2646,
+    4660,
+    3056,
+    1861,
+    3642
+  ],
+  "productReviews": [
+    {
+      "productId": 1607,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-04-13T11:56:10.5707036+03:00"
+    },
+    {
+      "productId": 3998,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-15T18:52:24.1922956+02:00"
+    }
+  ]
+}

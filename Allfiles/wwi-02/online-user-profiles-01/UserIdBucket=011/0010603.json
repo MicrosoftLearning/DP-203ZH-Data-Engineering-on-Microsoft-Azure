@@ -1,0 +1,25 @@
+{
+  "userId": 10603,
+  "cartId": "2aa4d976-3e5b-4a48-9a28-29e67840fc30",
+  "preferredProducts": [
+    2627,
+    181
+  ],
+  "productReviews": [
+    {
+      "productId": 3242,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-01-03T20:37:10.8684518+02:00"
+    },
+    {
+      "productId": 4828,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-11-21T05:33:17.2858365+02:00"
+    },
+    {
+      "productId": 1241,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2019-08-25T11:12:38.4507676+03:00"
+    }
+  ]
+}

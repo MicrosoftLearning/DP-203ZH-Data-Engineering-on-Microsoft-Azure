@@ -1,0 +1,30 @@
+{
+  "userId": 46240,
+  "cartId": "c07ce3fb-1a69-40e4-831f-5087846484e4",
+  "preferredProducts": [
+    257,
+    3486
+  ],
+  "productReviews": [
+    {
+      "productId": 2866,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-02-23T21:16:45.0796131+02:00"
+    },
+    {
+      "productId": 2981,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-06-14T09:18:31.7722062+03:00"
+    },
+    {
+      "productId": 3927,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-02-03T00:56:50.1093993+02:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-04-12T05:56:34.1262084+03:00"
+    }
+  ]
+}

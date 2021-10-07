@@ -1,0 +1,32 @@
+{
+  "userId": 69355,
+  "cartId": "3a3824b8-4551-4405-b172-67c33d92f733",
+  "preferredProducts": [
+    574,
+    1982,
+    4060,
+    2783
+  ],
+  "productReviews": [
+    {
+      "productId": 3199,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-02-18T05:25:25.3167517+02:00"
+    },
+    {
+      "productId": 3277,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-04-06T09:19:40.8095525+03:00"
+    },
+    {
+      "productId": 3104,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-06-17T02:19:18.6635103+03:00"
+    },
+    {
+      "productId": 989,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-10-15T22:34:36.9419835+03:00"
+    }
+  ]
+}

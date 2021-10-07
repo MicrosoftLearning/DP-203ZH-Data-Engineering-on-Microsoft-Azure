@@ -1,0 +1,35 @@
+{
+  "userId": 88347,
+  "cartId": "0aabd03d-721d-4607-974a-de6ce4f319da",
+  "preferredProducts": [
+    2580,
+    2627
+  ],
+  "productReviews": [
+    {
+      "productId": 863,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-05-10T05:59:02.7278022+03:00"
+    },
+    {
+      "productId": 264,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-03-18T16:57:14.8946965+02:00"
+    },
+    {
+      "productId": 4319,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-11-04T13:09:45.6886658+02:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-04-14T22:41:09.2340909+03:00"
+    },
+    {
+      "productId": 3838,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-05-15T06:25:39.2607142+03:00"
+    }
+  ]
+}

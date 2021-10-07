@@ -1,0 +1,33 @@
+{
+  "userId": 2444,
+  "cartId": "f91f669d-3f65-460d-8c5e-1eb3ac66e6aa",
+  "preferredProducts": [
+    1164,
+    21,
+    1215,
+    3478,
+    2766,
+    4440,
+    81,
+    1238,
+    975,
+    4812
+  ],
+  "productReviews": [
+    {
+      "productId": 3032,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2020-01-20T23:33:09.4100739+02:00"
+    },
+    {
+      "productId": 671,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-06-05T01:18:08.5233818+03:00"
+    },
+    {
+      "productId": 2234,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-06-28T22:28:58.0452655+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 92945,
+  "cartId": "0664ae8a-2f74-465c-9c40-5ed789901489",
+  "preferredProducts": [
+    2628,
+    3308,
+    2024
+  ],
+  "productReviews": [
+    {
+      "productId": 4809,
+      "reviewText": "this customer loyalty is awesome.",
+      "reviewDate": "2018-10-29T15:12:18.1234725+02:00"
+    },
+    {
+      "productId": 3065,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-07-18T23:24:03.8630288+03:00"
+    },
+    {
+      "productId": 1068,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-05-06T17:41:56.1507884+03:00"
+    },
+    {
+      "productId": 632,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-03-20T20:01:14.9716403+02:00"
+    }
+  ]
+}

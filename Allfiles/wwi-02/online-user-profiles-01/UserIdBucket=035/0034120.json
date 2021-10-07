@@ -1,0 +1,29 @@
+{
+  "userId": 34120,
+  "cartId": "50e89015-b18a-4949-933b-5ce159251a1a",
+  "preferredProducts": [
+    408,
+    3803,
+    2121,
+    1026,
+    3573,
+    1378
+  ],
+  "productReviews": [
+    {
+      "productId": 3297,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-05-08T04:22:28.3882614+03:00"
+    },
+    {
+      "productId": 84,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-03-17T06:55:14.0836336+02:00"
+    },
+    {
+      "productId": 2258,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-08-17T09:47:13.3001333+03:00"
+    }
+  ]
+}

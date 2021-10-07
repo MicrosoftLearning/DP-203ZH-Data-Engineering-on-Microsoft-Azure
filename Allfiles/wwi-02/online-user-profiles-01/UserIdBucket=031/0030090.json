@@ -1,0 +1,27 @@
+{
+  "userId": 30090,
+  "cartId": "b957ce71-8fca-40c0-80b3-ec46d108a62f",
+  "preferredProducts": [
+    1153,
+    2279,
+    1869,
+    1803
+  ],
+  "productReviews": [
+    {
+      "productId": 124,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-08-27T03:38:08.1014904+03:00"
+    },
+    {
+      "productId": 2903,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-10-15T17:04:43.414482+03:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2016-10-24T22:59:04.4930581+03:00"
+    }
+  ]
+}

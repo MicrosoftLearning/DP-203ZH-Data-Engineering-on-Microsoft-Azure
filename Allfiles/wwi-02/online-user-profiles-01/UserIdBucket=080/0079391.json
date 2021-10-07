@@ -1,0 +1,35 @@
+{
+  "userId": 79391,
+  "cartId": "fdd0abae-0571-47a1-918f-30ab804680f6",
+  "preferredProducts": [
+    2325,
+    615,
+    587,
+    670,
+    937,
+    1337,
+    3025
+  ],
+  "productReviews": [
+    {
+      "productId": 4339,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-04-09T02:39:46.639796+03:00"
+    },
+    {
+      "productId": 1240,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2017-03-31T00:36:02.0214783+03:00"
+    },
+    {
+      "productId": 835,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-04-20T18:35:09.2774826+03:00"
+    },
+    {
+      "productId": 3357,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-10-14T12:22:19.8089073+03:00"
+    }
+  ]
+}

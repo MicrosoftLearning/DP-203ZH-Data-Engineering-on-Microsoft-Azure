@@ -1,0 +1,35 @@
+{
+  "userId": 41168,
+  "cartId": "255af281-733c-4436-810d-0fcb3af682d6",
+  "preferredProducts": [
+    4938,
+    1644,
+    1105,
+    2767,
+    4807,
+    3634,
+    570
+  ],
+  "productReviews": [
+    {
+      "productId": 2468,
+      "reviewText": "this gold is ratty.",
+      "reviewDate": "2017-01-15T03:25:10.920581+02:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-11-21T08:32:39.6653487+02:00"
+    },
+    {
+      "productId": 3301,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-04-02T06:01:24.6340273+03:00"
+    },
+    {
+      "productId": 1124,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-05-08T23:15:15.1200929+03:00"
+    }
+  ]
+}

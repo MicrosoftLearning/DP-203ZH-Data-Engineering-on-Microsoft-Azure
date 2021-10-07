@@ -1,0 +1,30 @@
+{
+  "userId": 59958,
+  "cartId": "e36d080b-e65b-4cff-96b6-52782c59255d",
+  "preferredProducts": [
+    3687,
+    2317
+  ],
+  "productReviews": [
+    {
+      "productId": 4388,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-08-25T22:06:41.9746934+03:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2020-03-05T00:29:25.8399034+02:00"
+    },
+    {
+      "productId": 2656,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-04-14T10:19:53.8634127+03:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-08-05T17:10:25.8931697+03:00"
+    }
+  ]
+}

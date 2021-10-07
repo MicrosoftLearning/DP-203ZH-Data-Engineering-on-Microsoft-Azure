@@ -1,0 +1,35 @@
+{
+  "userId": 56591,
+  "cartId": "b03986a8-d9ea-4f74-9524-ce885dcd0d09",
+  "preferredProducts": [
+    413,
+    4237,
+    4974,
+    228,
+    341,
+    731,
+    1163
+  ],
+  "productReviews": [
+    {
+      "productId": 4785,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-01-26T02:06:01.8187934+02:00"
+    },
+    {
+      "productId": 4596,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2019-06-15T19:48:42.0851937+03:00"
+    },
+    {
+      "productId": 260,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-07-06T17:56:17.8248941+03:00"
+    },
+    {
+      "productId": 1248,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-12-06T10:26:03.6534094+02:00"
+    }
+  ]
+}

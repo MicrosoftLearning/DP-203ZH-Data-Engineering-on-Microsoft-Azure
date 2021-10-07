@@ -1,0 +1,31 @@
+{
+  "userId": 38236,
+  "cartId": "b2fc8349-358e-43aa-bf63-263adb142d71",
+  "preferredProducts": [
+    3723,
+    1336,
+    3870,
+    1932,
+    1604,
+    2849,
+    115,
+    2697
+  ],
+  "productReviews": [
+    {
+      "productId": 785,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-09-16T13:08:16.2208974+03:00"
+    },
+    {
+      "productId": 925,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-04-08T19:57:04.2259644+03:00"
+    },
+    {
+      "productId": 53,
+      "reviewText": "this payment is dominant.",
+      "reviewDate": "2019-02-17T15:03:42.5141506+02:00"
+    }
+  ]
+}

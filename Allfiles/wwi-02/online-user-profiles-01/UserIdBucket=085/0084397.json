@@ -1,0 +1,35 @@
+{
+  "userId": 84397,
+  "cartId": "f9a90f3d-e6d8-4bf8-82b8-7584c1bba877",
+  "preferredProducts": [
+    32,
+    2831,
+    3860,
+    4793,
+    1887,
+    4379,
+    2248
+  ],
+  "productReviews": [
+    {
+      "productId": 4614,
+      "reviewText": "This is a really good extend.",
+      "reviewDate": "2018-05-03T17:58:33.0397677+03:00"
+    },
+    {
+      "productId": 3801,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-18T18:57:15.3111583+02:00"
+    },
+    {
+      "productId": 3349,
+      "reviewText": "this silver is snowy.",
+      "reviewDate": "2017-02-28T10:07:00.0703574+02:00"
+    },
+    {
+      "productId": 3896,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-03-31T17:53:32.3436066+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 13012,
+  "cartId": "9225203d-1287-446a-b1b9-77b5c24c3899",
+  "preferredProducts": [
+    3521,
+    4703,
+    2307,
+    3276,
+    1331
+  ],
+  "productReviews": [
+    {
+      "productId": 3948,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-12-04T10:06:59.2897067+02:00"
+    },
+    {
+      "productId": 1700,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-03-09T10:09:01.3048349+02:00"
+    },
+    {
+      "productId": 749,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-02-03T06:28:33.6994121+02:00"
+    },
+    {
+      "productId": 3100,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-07-26T07:57:27.8518564+03:00"
+    },
+    {
+      "productId": 4145,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2016-06-15T23:50:13.3274545+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 50162,
+  "cartId": "9486f234-0de8-49da-9868-85776fb94fc1",
+  "preferredProducts": [
+    2424,
+    3417,
+    412,
+    789,
+    961,
+    4772,
+    4960,
+    1005,
+    4060
+  ],
+  "productReviews": [
+    {
+      "productId": 2332,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2020-02-13T01:15:03.9376266+02:00"
+    },
+    {
+      "productId": 3782,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-03-22T02:59:39.2197186+02:00"
+    },
+    {
+      "productId": 4983,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-10-18T19:03:44.4245191+03:00"
+    },
+    {
+      "productId": 2355,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-04-29T23:47:39.190876+03:00"
+    }
+  ]
+}

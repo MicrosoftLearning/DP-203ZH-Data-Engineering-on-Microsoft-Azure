@@ -1,0 +1,32 @@
+{
+  "userId": 32254,
+  "cartId": "500dbd94-8e2c-4726-a1f4-3999be7dc0f8",
+  "preferredProducts": [
+    2105,
+    3123,
+    2340,
+    4679,
+    1406,
+    2833,
+    2377,
+    3320,
+    3697
+  ],
+  "productReviews": [
+    {
+      "productId": 3797,
+      "reviewText": "This Colorado works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2017-08-29T14:54:52.4289292+03:00"
+    },
+    {
+      "productId": 1550,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2020-05-02T21:41:13.0385281+03:00"
+    },
+    {
+      "productId": 639,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-08-24T17:31:17.1629653+03:00"
+    }
+  ]
+}

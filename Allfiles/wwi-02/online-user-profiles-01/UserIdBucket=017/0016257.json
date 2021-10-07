@@ -1,0 +1,26 @@
+{
+  "userId": 16257,
+  "cartId": "a06b754a-df01-4c64-8fb2-910c9cbfa35c",
+  "preferredProducts": [
+    3417,
+    4350,
+    1141
+  ],
+  "productReviews": [
+    {
+      "productId": 3700,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-08-09T23:03:42.9945429+03:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-02-08T17:54:08.2440774+02:00"
+    },
+    {
+      "productId": 1584,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-05-29T15:39:13.7989859+03:00"
+    }
+  ]
+}

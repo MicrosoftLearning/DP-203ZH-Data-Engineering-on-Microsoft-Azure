@@ -1,0 +1,36 @@
+{
+  "userId": 86132,
+  "cartId": "dd51f9ac-1669-4a3b-b51e-3f6458c05e4a",
+  "preferredProducts": [
+    1053,
+    1088,
+    2847,
+    4845,
+    1296,
+    1204,
+    148,
+    3521
+  ],
+  "productReviews": [
+    {
+      "productId": 1265,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-04-28T15:37:54.1952746+03:00"
+    },
+    {
+      "productId": 3462,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-02-27T02:30:28.3544012+02:00"
+    },
+    {
+      "productId": 3041,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-25T09:12:21.9181306+02:00"
+    },
+    {
+      "productId": 3044,
+      "reviewText": "this Cambridgeshire is mellow.",
+      "reviewDate": "2018-09-03T01:34:59.6666883+03:00"
+    }
+  ]
+}

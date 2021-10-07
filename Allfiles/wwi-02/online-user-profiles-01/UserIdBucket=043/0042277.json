@@ -1,0 +1,37 @@
+{
+  "userId": 42277,
+  "cartId": "03cb6d62-4a7a-4fa0-a0c5-be43f6a5fdad",
+  "preferredProducts": [
+    2251,
+    3183,
+    4144,
+    3084,
+    4291,
+    2683,
+    3176,
+    1270,
+    3416
+  ],
+  "productReviews": [
+    {
+      "productId": 684,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-09-28T19:26:07.3878686+03:00"
+    },
+    {
+      "productId": 390,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-02-08T20:17:27.946695+02:00"
+    },
+    {
+      "productId": 1007,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2018-03-26T07:28:16.2123375+03:00"
+    },
+    {
+      "productId": 584,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-06-29T09:05:23.1583292+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 34560,
+  "cartId": "74f4fc83-136a-4261-97a1-00b1caf7c2de",
+  "preferredProducts": [
+    3097,
+    4081,
+    1314,
+    1177,
+    2500
+  ],
+  "productReviews": [
+    {
+      "productId": 2470,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-09-05T10:14:19.1240876+03:00"
+    },
+    {
+      "productId": 1875,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-05-31T01:44:05.9168469+03:00"
+    },
+    {
+      "productId": 2458,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-09-13T17:53:45.9190299+03:00"
+    },
+    {
+      "productId": 3567,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-10-07T18:37:00.1404089+03:00"
+    },
+    {
+      "productId": 2433,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-02-01T03:18:35.3861289+02:00"
+    }
+  ]
+}

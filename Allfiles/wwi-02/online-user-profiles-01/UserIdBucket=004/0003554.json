@@ -1,0 +1,38 @@
+{
+  "userId": 3554,
+  "cartId": "42f28b50-d054-4825-91bf-cb324ca8d6c5",
+  "preferredProducts": [
+    387,
+    1385,
+    1948,
+    2725,
+    4064
+  ],
+  "productReviews": [
+    {
+      "productId": 4552,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-10-04T04:46:19.8629705+03:00"
+    },
+    {
+      "productId": 577,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-08-02T02:34:47.9287149+03:00"
+    },
+    {
+      "productId": 3266,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-06-29T06:46:11.8118261+03:00"
+    },
+    {
+      "productId": 1006,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-12-06T12:48:44.6557544+02:00"
+    },
+    {
+      "productId": 4186,
+      "reviewText": "This Manager works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-02-22T09:50:45.7651366+02:00"
+    }
+  ]
+}

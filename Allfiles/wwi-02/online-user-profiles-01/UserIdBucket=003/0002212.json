@@ -1,0 +1,43 @@
+{
+  "userId": 2212,
+  "cartId": "c93cc24e-815e-455c-bddf-a00c7532c81d",
+  "preferredProducts": [
+    2605,
+    2870,
+    3988,
+    1354,
+    2491,
+    4598,
+    2238,
+    1451,
+    3599,
+    106
+  ],
+  "productReviews": [
+    {
+      "productId": 2944,
+      "reviewText": "this invoice is ghetto.",
+      "reviewDate": "2016-06-04T10:25:36.7581231+03:00"
+    },
+    {
+      "productId": 1462,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-07-27T00:14:59.8594298+03:00"
+    },
+    {
+      "productId": 3538,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2020-04-21T21:50:55.8952505+03:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "This Leone works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-06-26T01:13:03.6839562+03:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-03-08T00:34:26.020533+02:00"
+    }
+  ]
+}

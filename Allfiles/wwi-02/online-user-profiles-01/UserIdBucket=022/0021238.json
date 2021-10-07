@@ -1,0 +1,34 @@
+{
+  "userId": 21238,
+  "cartId": "21ce4ed2-79f4-4efa-8e03-f486342d3e5c",
+  "preferredProducts": [
+    2415,
+    3504,
+    915,
+    4709,
+    3338,
+    2881
+  ],
+  "productReviews": [
+    {
+      "productId": 3361,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-09-28T06:02:19.5653759+03:00"
+    },
+    {
+      "productId": 767,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-02-20T14:30:14.4313237+02:00"
+    },
+    {
+      "productId": 963,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-08-06T05:36:32.6433016+03:00"
+    },
+    {
+      "productId": 3256,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-11-10T15:09:24.8594589+02:00"
+    }
+  ]
+}

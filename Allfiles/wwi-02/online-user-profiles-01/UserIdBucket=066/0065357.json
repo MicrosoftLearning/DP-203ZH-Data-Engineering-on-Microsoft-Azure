@@ -1,0 +1,37 @@
+{
+  "userId": 65357,
+  "cartId": "c79e594d-abe2-4953-b477-30cf4ba48139",
+  "preferredProducts": [
+    4315,
+    4280,
+    1182,
+    2238,
+    2999,
+    1561,
+    708,
+    4958,
+    2557
+  ],
+  "productReviews": [
+    {
+      "productId": 1137,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-05-09T11:47:58.3955643+03:00"
+    },
+    {
+      "productId": 3655,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-09-09T03:28:08.2844791+03:00"
+    },
+    {
+      "productId": 2902,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-06-16T10:16:41.1573684+03:00"
+    },
+    {
+      "productId": 346,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-06-10T09:57:39.7372491+03:00"
+    }
+  ]
+}

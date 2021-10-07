@@ -1,0 +1,29 @@
+{
+  "userId": 23738,
+  "cartId": "370fbb16-2476-47a5-a1bc-4b09e4c113a0",
+  "preferredProducts": [
+    1399,
+    3817,
+    947,
+    3124,
+    289,
+    2904
+  ],
+  "productReviews": [
+    {
+      "productId": 992,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-11-19T18:32:46.3392341+02:00"
+    },
+    {
+      "productId": 2962,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-08-19T05:45:33.4353373+03:00"
+    },
+    {
+      "productId": 1956,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-05-10T09:53:38.9735997+03:00"
+    }
+  ]
+}

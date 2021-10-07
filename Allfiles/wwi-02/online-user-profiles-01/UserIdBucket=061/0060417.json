@@ -1,0 +1,32 @@
+{
+  "userId": 60417,
+  "cartId": "36b949ae-e01a-473c-b3d4-be5c826437ca",
+  "preferredProducts": [
+    577,
+    3423,
+    4953,
+    401
+  ],
+  "productReviews": [
+    {
+      "productId": 4868,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-07-26T23:01:48.0392924+03:00"
+    },
+    {
+      "productId": 4198,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-06-23T07:03:30.8912793+03:00"
+    },
+    {
+      "productId": 692,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-06-30T01:50:43.2709661+03:00"
+    },
+    {
+      "productId": 178,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-06-24T16:36:41.5354372+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 37802,
+  "cartId": "b6b75fe7-1e8d-45e3-8655-bcd703279366",
+  "preferredProducts": [
+    2259,
+    2220,
+    3672,
+    106,
+    3479,
+    2688,
+    4458
+  ],
+  "productReviews": [
+    {
+      "productId": 3971,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-12-31T15:40:55.1401256+02:00"
+    },
+    {
+      "productId": 1839,
+      "reviewText": "this emulation is tasty.",
+      "reviewDate": "2019-06-17T04:50:27.4787243+03:00"
+    },
+    {
+      "productId": 4954,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-01-28T00:44:59.5127019+02:00"
+    }
+  ]
+}

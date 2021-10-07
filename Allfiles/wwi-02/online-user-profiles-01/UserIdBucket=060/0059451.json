@@ -1,0 +1,35 @@
+{
+  "userId": 59451,
+  "cartId": "6c158c3f-9bfe-4d63-9205-b726c64a4048",
+  "preferredProducts": [
+    1210,
+    765,
+    1722,
+    2776,
+    2511,
+    4448,
+    34
+  ],
+  "productReviews": [
+    {
+      "productId": 2680,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-04-06T10:13:39.5456887+03:00"
+    },
+    {
+      "productId": 1000,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-11-15T21:00:01.2305559+02:00"
+    },
+    {
+      "productId": 2580,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-12-17T05:15:55.7039452+02:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "this heuristic is papery.",
+      "reviewDate": "2017-01-04T16:33:09.9505138+02:00"
+    }
+  ]
+}

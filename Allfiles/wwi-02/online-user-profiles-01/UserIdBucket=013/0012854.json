@@ -1,0 +1,36 @@
+{
+  "userId": 12854,
+  "cartId": "6e076310-d17b-405c-8ca9-024210e2f92b",
+  "preferredProducts": [
+    1395,
+    1357,
+    2308,
+    4941,
+    4979,
+    2150,
+    717,
+    1379
+  ],
+  "productReviews": [
+    {
+      "productId": 2133,
+      "reviewText": "this multi-byte is ratty.",
+      "reviewDate": "2020-03-30T14:12:15.4992228+03:00"
+    },
+    {
+      "productId": 3092,
+      "reviewText": "this Home Loan Account is ghetto.",
+      "reviewDate": "2019-07-11T13:01:56.8094558+03:00"
+    },
+    {
+      "productId": 4175,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-11-16T06:36:16.6613346+02:00"
+    },
+    {
+      "productId": 2225,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-03-13T11:44:41.278618+02:00"
+    }
+  ]
+}

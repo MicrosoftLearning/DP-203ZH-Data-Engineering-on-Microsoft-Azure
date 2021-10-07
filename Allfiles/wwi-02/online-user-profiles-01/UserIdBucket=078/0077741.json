@@ -1,0 +1,42 @@
+{
+  "userId": 77741,
+  "cartId": "4e7086d7-61a5-42f9-97b2-0250c6fc9c91",
+  "preferredProducts": [
+    1404,
+    574,
+    3824,
+    1030,
+    4531,
+    1834,
+    21,
+    1183,
+    3691
+  ],
+  "productReviews": [
+    {
+      "productId": 1017,
+      "reviewText": "this best-of-breed is top-notch.",
+      "reviewDate": "2018-03-27T06:00:54.4546605+03:00"
+    },
+    {
+      "productId": 3041,
+      "reviewText": "this Generic Soft Pizza is hyper.",
+      "reviewDate": "2019-11-16T12:09:17.9307258+02:00"
+    },
+    {
+      "productId": 979,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-06-08T23:46:05.1195201+03:00"
+    },
+    {
+      "productId": 798,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-01-05T04:44:02.057939+02:00"
+    },
+    {
+      "productId": 417,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-06-10T06:44:08.7620468+03:00"
+    }
+  ]
+}

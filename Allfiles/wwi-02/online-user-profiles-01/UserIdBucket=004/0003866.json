@@ -1,0 +1,29 @@
+{
+  "userId": 3866,
+  "cartId": "f456cab7-ed87-4c28-8b7e-621007e0bdd7",
+  "preferredProducts": [
+    3388,
+    2683,
+    3881,
+    653,
+    4473,
+    738
+  ],
+  "productReviews": [
+    {
+      "productId": 4011,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-12-20T20:10:10.0824196+02:00"
+    },
+    {
+      "productId": 4971,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-02-13T03:00:04.9893572+02:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "this deposit is slurpee.",
+      "reviewDate": "2016-11-11T04:43:50.8636627+02:00"
+    }
+  ]
+}

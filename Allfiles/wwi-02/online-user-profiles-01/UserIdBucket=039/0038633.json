@@ -1,0 +1,29 @@
+{
+  "userId": 38633,
+  "cartId": "2fe9a5c1-2f76-4f9a-ae9c-75fcb73b71a6",
+  "preferredProducts": [
+    1222,
+    1016,
+    2014,
+    4592,
+    1581,
+    1140
+  ],
+  "productReviews": [
+    {
+      "productId": 3467,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-10-06T00:28:58.470681+03:00"
+    },
+    {
+      "productId": 4317,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-08-08T04:31:37.5301718+03:00"
+    },
+    {
+      "productId": 4881,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-11-06T14:54:33.5723649+02:00"
+    }
+  ]
+}

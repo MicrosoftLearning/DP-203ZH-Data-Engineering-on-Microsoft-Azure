@@ -1,0 +1,26 @@
+{
+  "userId": 87460,
+  "cartId": "56bae244-754f-4657-9932-8e1ea3f3d852",
+  "preferredProducts": [
+    4267,
+    4408,
+    2940
+  ],
+  "productReviews": [
+    {
+      "productId": 3974,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-11-27T02:23:58.3700205+02:00"
+    },
+    {
+      "productId": 1570,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-04-18T20:35:31.7837213+03:00"
+    },
+    {
+      "productId": 1172,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-03-16T10:39:34.6820221+02:00"
+    }
+  ]
+}

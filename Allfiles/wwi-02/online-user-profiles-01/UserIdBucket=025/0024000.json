@@ -1,0 +1,35 @@
+{
+  "userId": 24000,
+  "cartId": "d9b61168-20e6-488f-bac2-92b2c094f04e",
+  "preferredProducts": [
+    41,
+    2017,
+    862,
+    226,
+    570,
+    3365,
+    4240
+  ],
+  "productReviews": [
+    {
+      "productId": 2804,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-03-14T23:59:15.8110262+02:00"
+    },
+    {
+      "productId": 3908,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-03-06T20:30:24.0340877+02:00"
+    },
+    {
+      "productId": 4557,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-04-24T09:22:33.983003+03:00"
+    },
+    {
+      "productId": 821,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-05-24T07:39:15.2634979+03:00"
+    }
+  ]
+}

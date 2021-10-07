@@ -1,0 +1,27 @@
+{
+  "userId": 29045,
+  "cartId": "dc04b63c-a3b5-4d78-97a7-abf13842b34d",
+  "preferredProducts": [
+    106,
+    4844,
+    329,
+    527
+  ],
+  "productReviews": [
+    {
+      "productId": 3778,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-06-28T01:28:36.8754033+03:00"
+    },
+    {
+      "productId": 3457,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-07-05T21:56:34.8997768+03:00"
+    },
+    {
+      "productId": 841,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-04-14T13:51:59.3506948+03:00"
+    }
+  ]
+}

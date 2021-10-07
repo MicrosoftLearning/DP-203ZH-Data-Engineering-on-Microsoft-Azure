@@ -1,0 +1,27 @@
+{
+  "userId": 401,
+  "cartId": "16a5a772-2d58-4c42-8174-611a047db634",
+  "preferredProducts": [
+    3262,
+    63,
+    4472,
+    1393,
+    4741,
+    4936,
+    4468,
+    2826,
+    4340
+  ],
+  "productReviews": [
+    {
+      "productId": 830,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-06-07T09:28:14.118155+03:00"
+    },
+    {
+      "productId": 1469,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-09-18T00:50:56.861229+03:00"
+    }
+  ]
+}

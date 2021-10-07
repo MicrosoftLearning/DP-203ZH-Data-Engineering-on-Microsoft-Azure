@@ -1,0 +1,30 @@
+{
+  "userId": 66393,
+  "cartId": "687e57c3-5e74-45f8-9dc8-0c8fcc54570f",
+  "preferredProducts": [
+    1498,
+    738,
+    2232,
+    2853,
+    4888,
+    1390,
+    4449
+  ],
+  "productReviews": [
+    {
+      "productId": 1139,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-11-22T04:06:09.2607464+02:00"
+    },
+    {
+      "productId": 2985,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-02-13T02:16:42.6687299+02:00"
+    },
+    {
+      "productId": 102,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2020-05-10T02:14:24.2026574+03:00"
+    }
+  ]
+}

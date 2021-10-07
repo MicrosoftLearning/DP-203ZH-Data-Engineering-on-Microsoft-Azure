@@ -1,0 +1,31 @@
+{
+  "userId": 65199,
+  "cartId": "1233cc7e-c3a8-40dc-9035-f6919811da61",
+  "preferredProducts": [
+    3197,
+    2740,
+    2744,
+    1675,
+    1674,
+    4702,
+    2272,
+    1840
+  ],
+  "productReviews": [
+    {
+      "productId": 4487,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2020-04-21T04:14:48.4699926+03:00"
+    },
+    {
+      "productId": 4974,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2020-01-03T20:24:50.9066968+02:00"
+    },
+    {
+      "productId": 2290,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-01-21T07:41:25.1662357+02:00"
+    }
+  ]
+}

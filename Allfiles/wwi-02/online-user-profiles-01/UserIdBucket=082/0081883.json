@@ -1,0 +1,32 @@
+{
+  "userId": 81883,
+  "cartId": "e0106134-ac8e-49f8-beae-6a906b387ec1",
+  "preferredProducts": [
+    2390,
+    1037,
+    1667,
+    4367
+  ],
+  "productReviews": [
+    {
+      "productId": 2556,
+      "reviewText": "this Fort is tasty.",
+      "reviewDate": "2018-01-08T20:22:40.5330493+02:00"
+    },
+    {
+      "productId": 1013,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-04-11T18:24:51.1245747+03:00"
+    },
+    {
+      "productId": 809,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2016-06-19T08:16:26.9159663+03:00"
+    },
+    {
+      "productId": 1993,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-04-13T20:10:04.4996382+03:00"
+    }
+  ]
+}

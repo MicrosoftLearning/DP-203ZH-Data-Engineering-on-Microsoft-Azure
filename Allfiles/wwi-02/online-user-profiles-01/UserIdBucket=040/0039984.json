@@ -1,0 +1,33 @@
+{
+  "userId": 39984,
+  "cartId": "10b2ca1e-9f62-42e4-bfc7-ec914cb3ec87",
+  "preferredProducts": [
+    342,
+    2312,
+    1637,
+    4339,
+    3342
+  ],
+  "productReviews": [
+    {
+      "productId": 2535,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-06-22T07:36:36.5610276+03:00"
+    },
+    {
+      "productId": 3213,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2020-04-17T18:59:24.9928355+03:00"
+    },
+    {
+      "productId": 1028,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-12-09T07:04:11.8669013+02:00"
+    },
+    {
+      "productId": 3166,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-08-09T11:25:01.9352335+03:00"
+    }
+  ]
+}

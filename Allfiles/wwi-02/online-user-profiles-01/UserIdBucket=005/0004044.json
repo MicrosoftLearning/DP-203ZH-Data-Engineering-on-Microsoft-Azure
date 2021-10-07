@@ -1,0 +1,33 @@
+{
+  "userId": 4044,
+  "cartId": "fdead978-c562-4c95-985e-97d7d45b8737",
+  "preferredProducts": [
+    4042,
+    2925,
+    2977,
+    1298,
+    167,
+    3329,
+    3291,
+    3837,
+    1535,
+    3262
+  ],
+  "productReviews": [
+    {
+      "productId": 291,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-01-15T02:08:31.0852447+02:00"
+    },
+    {
+      "productId": 3229,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-03-19T15:46:13.8733165+02:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2019-04-13T11:53:27.1603363+03:00"
+    }
+  ]
+}

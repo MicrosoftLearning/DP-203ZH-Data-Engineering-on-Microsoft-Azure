@@ -1,0 +1,27 @@
+{
+  "userId": 73969,
+  "cartId": "e8e67f7c-f75c-47a2-8348-168422fedd5d",
+  "preferredProducts": [
+    977,
+    4399,
+    692,
+    2233
+  ],
+  "productReviews": [
+    {
+      "productId": 1571,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-05-10T05:45:11.0332942+03:00"
+    },
+    {
+      "productId": 2710,
+      "reviewText": "This Loaf works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2020-03-19T16:36:00.9298136+02:00"
+    },
+    {
+      "productId": 1172,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-04-09T04:17:40.2141855+03:00"
+    }
+  ]
+}

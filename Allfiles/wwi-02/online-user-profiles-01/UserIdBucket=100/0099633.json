@@ -1,0 +1,38 @@
+{
+  "userId": 99633,
+  "cartId": "61c44e18-ea97-48ac-8113-10ecd34a2bcd",
+  "preferredProducts": [
+    1794,
+    257,
+    1532,
+    2120,
+    962,
+    137,
+    3495,
+    1449,
+    4517,
+    2180
+  ],
+  "productReviews": [
+    {
+      "productId": 4690,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-12-10T03:52:16.6187474+02:00"
+    },
+    {
+      "productId": 522,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-04-04T04:22:21.4446518+03:00"
+    },
+    {
+      "productId": 290,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-03-20T12:12:40.0010845+02:00"
+    },
+    {
+      "productId": 637,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-07-26T06:05:01.6574271+03:00"
+    }
+  ]
+}

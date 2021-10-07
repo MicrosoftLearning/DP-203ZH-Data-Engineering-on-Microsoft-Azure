@@ -1,0 +1,26 @@
+{
+  "userId": 42429,
+  "cartId": "4058744d-8daf-4aa0-842e-a87052fb8036",
+  "preferredProducts": [
+    1197,
+    1596,
+    4778,
+    1007,
+    4328,
+    3489,
+    789,
+    1605
+  ],
+  "productReviews": [
+    {
+      "productId": 1156,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-07-31T12:18:26.0393342+03:00"
+    },
+    {
+      "productId": 4251,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2016-07-16T14:09:07.0940492+03:00"
+    }
+  ]
+}

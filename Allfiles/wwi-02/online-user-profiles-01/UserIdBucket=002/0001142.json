@@ -1,0 +1,33 @@
+{
+  "userId": 1142,
+  "cartId": "29002894-fb62-468b-b187-0c24282a36dd",
+  "preferredProducts": [
+    1141,
+    3058,
+    823,
+    393,
+    4157
+  ],
+  "productReviews": [
+    {
+      "productId": 371,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-04-27T07:30:08.7525423+03:00"
+    },
+    {
+      "productId": 4732,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-02-18T23:06:07.9365979+02:00"
+    },
+    {
+      "productId": 1671,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-11-14T16:50:25.0406383+02:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-07-07T17:42:19.3715311+03:00"
+    }
+  ]
+}

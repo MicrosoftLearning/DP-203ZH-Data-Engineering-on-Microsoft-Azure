@@ -1,0 +1,27 @@
+{
+  "userId": 65312,
+  "cartId": "a52e9765-0a91-4c52-a001-fc82102e78ab",
+  "preferredProducts": [
+    285,
+    2967,
+    3466,
+    4353,
+    1649,
+    2268,
+    4308,
+    1244,
+    3220
+  ],
+  "productReviews": [
+    {
+      "productId": 2143,
+      "reviewText": "This Lights works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-04-02T19:29:57.6022647+03:00"
+    },
+    {
+      "productId": 2901,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-06-11T16:56:06.8865359+03:00"
+    }
+  ]
+}

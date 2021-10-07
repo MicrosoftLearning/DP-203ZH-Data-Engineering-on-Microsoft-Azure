@@ -1,0 +1,30 @@
+{
+  "userId": 34567,
+  "cartId": "6733e45f-b5db-428b-8657-7f734ab7c9a8",
+  "preferredProducts": [
+    3175,
+    1629,
+    195,
+    2521,
+    4877,
+    2804,
+    1395
+  ],
+  "productReviews": [
+    {
+      "productId": 2698,
+      "reviewText": "This Virginia works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-06-03T22:45:50.4331808+03:00"
+    },
+    {
+      "productId": 4712,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-11-15T13:26:51.6503739+02:00"
+    },
+    {
+      "productId": 4855,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-01-29T19:19:30.6349563+02:00"
+    }
+  ]
+}

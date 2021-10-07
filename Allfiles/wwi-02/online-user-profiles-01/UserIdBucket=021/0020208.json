@@ -1,0 +1,26 @@
+{
+  "userId": 20208,
+  "cartId": "35d1d087-0659-4bbd-b03e-73ac4112da58",
+  "preferredProducts": [
+    1373,
+    3147,
+    3094
+  ],
+  "productReviews": [
+    {
+      "productId": 2489,
+      "reviewText": "This is a really good mission-critical.",
+      "reviewDate": "2017-07-22T14:23:08.9525288+03:00"
+    },
+    {
+      "productId": 3868,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-06-28T07:38:08.0773414+03:00"
+    },
+    {
+      "productId": 4744,
+      "reviewText": "This back-end works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2017-07-17T12:10:40.4762867+03:00"
+    }
+  ]
+}

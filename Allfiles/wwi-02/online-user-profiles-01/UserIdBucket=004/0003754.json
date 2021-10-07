@@ -1,0 +1,27 @@
+{
+  "userId": 3754,
+  "cartId": "683d3799-f26b-4572-95e3-5fa14ecac4ca",
+  "preferredProducts": [
+    2597,
+    2644,
+    2016,
+    3396
+  ],
+  "productReviews": [
+    {
+      "productId": 293,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-08-15T18:34:33.1293786+03:00"
+    },
+    {
+      "productId": 791,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2019-02-18T04:15:30.4626924+02:00"
+    },
+    {
+      "productId": 1561,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-09-28T03:47:56.4040733+03:00"
+    }
+  ]
+}

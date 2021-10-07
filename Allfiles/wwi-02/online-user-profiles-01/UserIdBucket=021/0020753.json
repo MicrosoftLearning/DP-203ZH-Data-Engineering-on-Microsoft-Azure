@@ -1,0 +1,24 @@
+{
+  "userId": 20753,
+  "cartId": "f7f7d168-d7b7-4472-8e7a-53941c68f721",
+  "preferredProducts": [
+    1234,
+    2254,
+    1201,
+    2315,
+    1718,
+    4997
+  ],
+  "productReviews": [
+    {
+      "productId": 4318,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-10-06T04:44:11.8551272+03:00"
+    },
+    {
+      "productId": 1650,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2019-10-03T12:56:33.7809727+03:00"
+    }
+  ]
+}

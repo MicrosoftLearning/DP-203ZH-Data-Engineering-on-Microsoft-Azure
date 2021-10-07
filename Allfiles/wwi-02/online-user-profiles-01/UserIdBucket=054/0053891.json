@@ -1,0 +1,30 @@
+{
+  "userId": 53891,
+  "cartId": "07a7ad99-2511-4d11-8bb2-d5da55dddea6",
+  "preferredProducts": [
+    2182,
+    2876,
+    2332,
+    3808,
+    4710,
+    447,
+    2155
+  ],
+  "productReviews": [
+    {
+      "productId": 744,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-10-22T08:29:58.3372074+03:00"
+    },
+    {
+      "productId": 4018,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-11-04T07:49:49.2402086+02:00"
+    },
+    {
+      "productId": 690,
+      "reviewText": "This Maryland works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2019-12-30T03:25:17.0634509+02:00"
+    }
+  ]
+}

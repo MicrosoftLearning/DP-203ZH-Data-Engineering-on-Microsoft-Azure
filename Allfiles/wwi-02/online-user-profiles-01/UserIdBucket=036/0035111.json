@@ -1,0 +1,33 @@
+{
+  "userId": 35111,
+  "cartId": "6fe1171f-23e6-4b94-9f56-7b8ca2f7002e",
+  "preferredProducts": [
+    4426,
+    4785,
+    3228,
+    3450,
+    3010
+  ],
+  "productReviews": [
+    {
+      "productId": 1218,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-01-26T03:36:15.3326378+02:00"
+    },
+    {
+      "productId": 104,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-06-29T14:54:26.341654+03:00"
+    },
+    {
+      "productId": 3230,
+      "reviewText": "This Sports & Beauty works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2020-03-08T16:15:02.2784205+02:00"
+    },
+    {
+      "productId": 4457,
+      "reviewText": "This extensible, does exactly what it's suppose to do.",
+      "reviewDate": "2017-01-04T07:21:13.5923411+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 34543,
+  "cartId": "7781da9a-e116-4656-957e-85eff0250dab",
+  "preferredProducts": [
+    273,
+    4464,
+    2720,
+    2432,
+    987,
+    401
+  ],
+  "productReviews": [
+    {
+      "productId": 3034,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2016-07-28T07:10:27.5019478+03:00"
+    },
+    {
+      "productId": 4622,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-04-05T12:51:32.255627+03:00"
+    },
+    {
+      "productId": 4367,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-03-27T07:14:18.4645053+02:00"
+    }
+  ]
+}

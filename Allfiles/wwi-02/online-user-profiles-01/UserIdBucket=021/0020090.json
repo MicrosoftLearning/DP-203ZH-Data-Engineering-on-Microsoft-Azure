@@ -1,0 +1,25 @@
+{
+  "userId": 20090,
+  "cartId": "28ed4956-d03a-4015-bb7a-403a39ce3a03",
+  "preferredProducts": [
+    3728,
+    3597
+  ],
+  "productReviews": [
+    {
+      "productId": 1219,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-01-10T03:46:45.4318751+02:00"
+    },
+    {
+      "productId": 4825,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-04-21T02:39:30.3615942+03:00"
+    },
+    {
+      "productId": 2135,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-03-19T09:14:07.3933187+02:00"
+    }
+  ]
+}

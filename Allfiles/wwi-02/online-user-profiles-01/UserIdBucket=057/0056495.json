@@ -1,0 +1,28 @@
+{
+  "userId": 56495,
+  "cartId": "3839f771-a1b6-4cef-8a76-a76d003565ba",
+  "preferredProducts": [
+    233,
+    4287,
+    2391,
+    1702,
+    4361
+  ],
+  "productReviews": [
+    {
+      "productId": 2698,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-05-30T02:46:36.2092981+03:00"
+    },
+    {
+      "productId": 1322,
+      "reviewText": "This Chief works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-12-04T00:39:26.3355435+02:00"
+    },
+    {
+      "productId": 3347,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2017-10-30T04:06:55.7943199+02:00"
+    }
+  ]
+}

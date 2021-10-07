@@ -1,0 +1,25 @@
+{
+  "userId": 99012,
+  "cartId": "9a3945ed-ffc7-4ab7-b003-5403d5672736",
+  "preferredProducts": [
+    4473,
+    133,
+    1580,
+    1838,
+    253,
+    1369,
+    2859
+  ],
+  "productReviews": [
+    {
+      "productId": 3051,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2020-02-14T18:50:55.9591116+02:00"
+    },
+    {
+      "productId": 4650,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-04-23T11:17:13.9031418+03:00"
+    }
+  ]
+}

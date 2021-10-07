@@ -1,0 +1,26 @@
+{
+  "userId": 3600,
+  "cartId": "961f1ade-65e0-4ffb-bf94-fde11350e283",
+  "preferredProducts": [
+    6,
+    2364,
+    3580,
+    221,
+    2436,
+    2297,
+    3817,
+    42
+  ],
+  "productReviews": [
+    {
+      "productId": 2686,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-10-25T10:39:42.8709532+03:00"
+    },
+    {
+      "productId": 1286,
+      "reviewText": "This Division works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-07-15T02:23:38.6249917+03:00"
+    }
+  ]
+}

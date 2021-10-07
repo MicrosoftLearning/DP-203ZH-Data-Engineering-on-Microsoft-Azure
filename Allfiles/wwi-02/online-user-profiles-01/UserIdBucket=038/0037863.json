@@ -1,0 +1,26 @@
+{
+  "userId": 37863,
+  "cartId": "d0c929eb-08c0-4eee-a50c-ecb0b8f3eb1e",
+  "preferredProducts": [
+    4546,
+    1947,
+    4506,
+    4046,
+    4945,
+    4350,
+    4164,
+    1514
+  ],
+  "productReviews": [
+    {
+      "productId": 1523,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-07-10T03:21:29.3405084+03:00"
+    },
+    {
+      "productId": 2460,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-08-16T19:42:31.6215935+03:00"
+    }
+  ]
+}

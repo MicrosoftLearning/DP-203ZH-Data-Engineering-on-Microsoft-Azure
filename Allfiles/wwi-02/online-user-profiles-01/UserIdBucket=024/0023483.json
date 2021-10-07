@@ -1,0 +1,25 @@
+{
+  "userId": 23483,
+  "cartId": "c34062a8-d682-40c8-8536-98030db39629",
+  "preferredProducts": [
+    2220,
+    4365,
+    1297,
+    3157,
+    3633,
+    4284,
+    2412
+  ],
+  "productReviews": [
+    {
+      "productId": 3601,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-01-14T10:07:17.0732834+02:00"
+    },
+    {
+      "productId": 3638,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-10-03T08:49:46.6664142+03:00"
+    }
+  ]
+}

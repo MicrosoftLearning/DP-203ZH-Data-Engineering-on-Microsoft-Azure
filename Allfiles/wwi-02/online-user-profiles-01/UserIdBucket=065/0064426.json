@@ -1,0 +1,31 @@
+{
+  "userId": 64426,
+  "cartId": "8765e45f-a1d1-4e45-9437-0880a2653507",
+  "preferredProducts": [
+    2774,
+    2584,
+    2859
+  ],
+  "productReviews": [
+    {
+      "productId": 3235,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-10-16T15:17:43.5922436+03:00"
+    },
+    {
+      "productId": 4333,
+      "reviewText": "this redefine is awesome.",
+      "reviewDate": "2016-07-17T10:03:10.6332969+03:00"
+    },
+    {
+      "productId": 3967,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-08-01T08:55:58.1232464+03:00"
+    },
+    {
+      "productId": 3343,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-07-03T00:58:38.1150328+03:00"
+    }
+  ]
+}

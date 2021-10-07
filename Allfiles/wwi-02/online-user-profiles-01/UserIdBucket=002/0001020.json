@@ -1,0 +1,39 @@
+{
+  "userId": 1020,
+  "cartId": "df0c3872-546c-40f1-b156-79142d953c47",
+  "preferredProducts": [
+    248,
+    423,
+    2449,
+    690,
+    4016,
+    3896
+  ],
+  "productReviews": [
+    {
+      "productId": 4465,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-08-20T14:27:58.5440267+03:00"
+    },
+    {
+      "productId": 2223,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-12-20T15:22:27.8170823+02:00"
+    },
+    {
+      "productId": 3342,
+      "reviewText": "this Sudan is brown.",
+      "reviewDate": "2018-10-09T00:11:46.1259559+03:00"
+    },
+    {
+      "productId": 4923,
+      "reviewText": "this next-generation is amiable.",
+      "reviewDate": "2019-11-06T11:51:04.4789338+02:00"
+    },
+    {
+      "productId": 289,
+      "reviewText": "this SQL is dominant.",
+      "reviewDate": "2016-06-11T12:44:25.9218852+03:00"
+    }
+  ]
+}

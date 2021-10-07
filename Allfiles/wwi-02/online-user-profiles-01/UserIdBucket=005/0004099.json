@@ -1,0 +1,32 @@
+{
+  "userId": 4099,
+  "cartId": "888cdd46-2cce-49a2-951e-fd02e16cf838",
+  "preferredProducts": [
+    756,
+    3165,
+    4556,
+    4632
+  ],
+  "productReviews": [
+    {
+      "productId": 2256,
+      "reviewText": "this Multi-layered is ghetto.",
+      "reviewDate": "2019-12-07T05:07:47.7054542+02:00"
+    },
+    {
+      "productId": 2831,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-02-05T07:32:01.3928661+02:00"
+    },
+    {
+      "productId": 3566,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-10-24T07:22:31.3914946+03:00"
+    },
+    {
+      "productId": 80,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-12-16T01:59:15.3323428+02:00"
+    }
+  ]
+}

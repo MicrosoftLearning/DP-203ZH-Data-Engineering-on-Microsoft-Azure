@@ -1,0 +1,35 @@
+{
+  "userId": 59693,
+  "cartId": "d987a686-1f03-4dc0-9ce8-26e136a24d3f",
+  "preferredProducts": [
+    4617,
+    514,
+    2604,
+    3500,
+    4059,
+    3915,
+    2117
+  ],
+  "productReviews": [
+    {
+      "productId": 2795,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-01-20T19:40:08.4941932+02:00"
+    },
+    {
+      "productId": 2871,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-04-09T12:21:19.8487431+03:00"
+    },
+    {
+      "productId": 2768,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-10-29T12:26:22.2744248+03:00"
+    },
+    {
+      "productId": 4302,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-10-23T22:02:46.5925903+03:00"
+    }
+  ]
+}

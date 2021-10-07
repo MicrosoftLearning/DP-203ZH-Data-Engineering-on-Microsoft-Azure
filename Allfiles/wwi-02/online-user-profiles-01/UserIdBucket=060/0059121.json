@@ -1,0 +1,36 @@
+{
+  "userId": 59121,
+  "cartId": "3f57bda1-4a35-431f-9042-5decf340ca9a",
+  "preferredProducts": [
+    3288,
+    921,
+    1738,
+    2779,
+    215,
+    2060,
+    2937,
+    4776
+  ],
+  "productReviews": [
+    {
+      "productId": 3798,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-09-07T13:34:59.0494061+03:00"
+    },
+    {
+      "productId": 2261,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-11-14T01:58:56.7276952+02:00"
+    },
+    {
+      "productId": 77,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-07-12T07:42:11.9115125+03:00"
+    },
+    {
+      "productId": 2133,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-06-05T13:18:11.777032+03:00"
+    }
+  ]
+}

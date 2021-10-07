@@ -1,0 +1,33 @@
+{
+  "userId": 50313,
+  "cartId": "da85a6ae-f129-4ce3-ae16-05390a87ba34",
+  "preferredProducts": [
+    4499,
+    2749,
+    4399,
+    1297,
+    4556
+  ],
+  "productReviews": [
+    {
+      "productId": 2732,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2020-05-04T08:36:59.5180873+03:00"
+    },
+    {
+      "productId": 1343,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-03-20T08:56:38.7261882+02:00"
+    },
+    {
+      "productId": 2093,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-03-10T01:15:10.3088972+02:00"
+    },
+    {
+      "productId": 3234,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-03-02T11:57:53.2666837+02:00"
+    }
+  ]
+}

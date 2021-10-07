@@ -1,0 +1,32 @@
+{
+  "userId": 5500,
+  "cartId": "dc77e556-34f5-4904-9c4c-9be28ebdf02a",
+  "preferredProducts": [
+    941,
+    3854,
+    1783,
+    4571
+  ],
+  "productReviews": [
+    {
+      "productId": 850,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-02-16T14:38:33.4038693+02:00"
+    },
+    {
+      "productId": 992,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-08-23T12:33:28.8240228+03:00"
+    },
+    {
+      "productId": 3581,
+      "reviewText": "This grey works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2020-04-11T21:20:14.0033685+03:00"
+    },
+    {
+      "productId": 3340,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-12-31T04:12:48.7200081+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 72927,
+  "cartId": "3bc52ed7-5245-4565-a86d-e83bf85aaf23",
+  "preferredProducts": [
+    3582,
+    3621,
+    3105,
+    1568,
+    3253,
+    1855,
+    2492
+  ],
+  "productReviews": [
+    {
+      "productId": 1786,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-06-24T07:01:29.8389737+03:00"
+    },
+    {
+      "productId": 4654,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-05-22T09:58:43.0042468+03:00"
+    },
+    {
+      "productId": 440,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2020-04-28T10:45:05.3703308+03:00"
+    }
+  ]
+}

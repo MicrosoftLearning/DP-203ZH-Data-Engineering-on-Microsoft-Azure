@@ -1,0 +1,27 @@
+{
+  "userId": 34794,
+  "cartId": "d9fe00bb-c475-4546-933b-9b68a9e4277d",
+  "preferredProducts": [
+    3116,
+    2259,
+    4767,
+    2272
+  ],
+  "productReviews": [
+    {
+      "productId": 1755,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-11-24T22:46:27.5253318+02:00"
+    },
+    {
+      "productId": 1730,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-01-27T13:49:56.8710429+02:00"
+    },
+    {
+      "productId": 1766,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-12-11T10:12:46.8060087+02:00"
+    }
+  ]
+}

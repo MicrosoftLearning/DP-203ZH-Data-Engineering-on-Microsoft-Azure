@@ -1,0 +1,30 @@
+{
+  "userId": 8678,
+  "cartId": "30424247-e496-41c4-bcaf-3c621c5f9c3b",
+  "preferredProducts": [
+    2679,
+    4542,
+    2409,
+    3307,
+    3193,
+    80,
+    497
+  ],
+  "productReviews": [
+    {
+      "productId": 3289,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2019-08-08T21:10:17.9802604+03:00"
+    },
+    {
+      "productId": 3334,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2018-12-24T09:31:52.2113753+02:00"
+    },
+    {
+      "productId": 2425,
+      "reviewText": "this 24 hour is revolting.",
+      "reviewDate": "2019-08-20T08:55:47.3715006+03:00"
+    }
+  ]
+}

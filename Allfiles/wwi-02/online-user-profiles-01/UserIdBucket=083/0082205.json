@@ -1,0 +1,28 @@
+{
+  "userId": 82205,
+  "cartId": "64a50b51-a6d2-49a7-afe2-74fd1f0d0aaa",
+  "preferredProducts": [
+    4234,
+    2155,
+    561,
+    2207,
+    3775
+  ],
+  "productReviews": [
+    {
+      "productId": 4884,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-01-26T22:11:09.6225146+02:00"
+    },
+    {
+      "productId": 2320,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-04-20T16:28:17.5244024+03:00"
+    },
+    {
+      "productId": 2262,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2016-10-20T11:56:40.9877665+03:00"
+    }
+  ]
+}

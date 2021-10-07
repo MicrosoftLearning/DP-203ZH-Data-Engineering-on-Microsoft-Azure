@@ -1,0 +1,31 @@
+{
+  "userId": 6933,
+  "cartId": "3b096e18-8cbb-4339-9227-cc09b7c6abf6",
+  "preferredProducts": [
+    2031,
+    3234,
+    61
+  ],
+  "productReviews": [
+    {
+      "productId": 4786,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-01-25T20:11:56.810967+02:00"
+    },
+    {
+      "productId": 3368,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-10-28T13:37:27.8305151+03:00"
+    },
+    {
+      "productId": 1180,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-01-14T10:23:22.6717902+02:00"
+    },
+    {
+      "productId": 640,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-11-29T14:10:35.7704147+02:00"
+    }
+  ]
+}

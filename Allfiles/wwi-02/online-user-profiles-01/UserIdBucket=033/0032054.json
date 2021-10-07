@@ -1,0 +1,36 @@
+{
+  "userId": 32054,
+  "cartId": "58524d83-390d-4a99-9001-241d606f638a",
+  "preferredProducts": [
+    1112,
+    3078,
+    3681,
+    524,
+    4107,
+    3652,
+    3826,
+    1492
+  ],
+  "productReviews": [
+    {
+      "productId": 3364,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-01-27T06:08:42.8287098+02:00"
+    },
+    {
+      "productId": 390,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2020-03-13T01:10:54.5658294+02:00"
+    },
+    {
+      "productId": 4902,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-06-26T13:16:34.9681102+03:00"
+    },
+    {
+      "productId": 2368,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-01-27T03:56:22.8193527+02:00"
+    }
+  ]
+}

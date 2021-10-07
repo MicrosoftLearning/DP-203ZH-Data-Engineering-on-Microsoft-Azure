@@ -1,0 +1,31 @@
+{
+  "userId": 16674,
+  "cartId": "83374c35-a27b-4de5-935e-29266464a4d9",
+  "preferredProducts": [
+    3886,
+    4436,
+    2124
+  ],
+  "productReviews": [
+    {
+      "productId": 2523,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-01-14T08:54:55.9130788+02:00"
+    },
+    {
+      "productId": 4331,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2018-06-23T23:32:02.7598296+03:00"
+    },
+    {
+      "productId": 3320,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-08-10T13:03:36.1057175+03:00"
+    },
+    {
+      "productId": 2466,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2016-10-02T05:03:08.3398416+03:00"
+    }
+  ]
+}

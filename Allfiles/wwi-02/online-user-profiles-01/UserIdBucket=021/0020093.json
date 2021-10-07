@@ -1,0 +1,28 @@
+{
+  "userId": 20093,
+  "cartId": "e1929fdd-21e1-4c0a-915d-e1eaf0302a9e",
+  "preferredProducts": [
+    3800,
+    723,
+    1165,
+    4038,
+    4823,
+    4425,
+    3153,
+    1257,
+    2804,
+    824
+  ],
+  "productReviews": [
+    {
+      "productId": 3690,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-03-15T15:08:21.4798041+02:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-09-13T12:46:11.5127906+03:00"
+    }
+  ]
+}

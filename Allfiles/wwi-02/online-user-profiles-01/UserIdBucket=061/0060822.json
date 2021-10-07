@@ -1,0 +1,30 @@
+{
+  "userId": 60822,
+  "cartId": "3ce977a6-96d1-4e38-af09-734570e640b8",
+  "preferredProducts": [
+    2115,
+    4068
+  ],
+  "productReviews": [
+    {
+      "productId": 3999,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-06-08T09:55:01.2544917+03:00"
+    },
+    {
+      "productId": 3553,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-10-15T22:29:35.4425096+03:00"
+    },
+    {
+      "productId": 3731,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-04-15T22:30:48.3917888+03:00"
+    },
+    {
+      "productId": 1585,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-07-28T10:28:56.5887583+03:00"
+    }
+  ]
+}

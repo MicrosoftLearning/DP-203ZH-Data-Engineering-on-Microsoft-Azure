@@ -1,0 +1,31 @@
+{
+  "userId": 50148,
+  "cartId": "c5f2d90a-8376-4e9f-af9a-90da1a7b0658",
+  "preferredProducts": [
+    2679,
+    2676,
+    1010
+  ],
+  "productReviews": [
+    {
+      "productId": 3192,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-11-25T06:08:12.7805598+02:00"
+    },
+    {
+      "productId": 4778,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2018-12-04T06:57:21.2514567+02:00"
+    },
+    {
+      "productId": 2995,
+      "reviewText": "this Small Soft Cheese is dominant.",
+      "reviewDate": "2018-01-15T23:44:29.2949612+02:00"
+    },
+    {
+      "productId": 1230,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-02-21T18:26:38.6341677+02:00"
+    }
+  ]
+}

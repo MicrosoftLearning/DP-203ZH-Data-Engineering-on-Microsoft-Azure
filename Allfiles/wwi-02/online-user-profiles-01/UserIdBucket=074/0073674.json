@@ -1,0 +1,28 @@
+{
+  "userId": 73674,
+  "cartId": "431cac5e-f4d3-4a88-834b-88e7c8929ee8",
+  "preferredProducts": [
+    639,
+    1526,
+    3791,
+    77,
+    1243
+  ],
+  "productReviews": [
+    {
+      "productId": 927,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-02-08T23:18:19.7563199+02:00"
+    },
+    {
+      "productId": 4615,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-04-17T11:05:57.8333587+03:00"
+    },
+    {
+      "productId": 3999,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-07-10T16:36:31.3931851+03:00"
+    }
+  ]
+}

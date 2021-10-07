@@ -1,0 +1,26 @@
+{
+  "userId": 10022,
+  "cartId": "2342482d-85e0-4b80-ad01-082ec2fe78cb",
+  "preferredProducts": [
+    2510,
+    4283,
+    2072,
+    2433,
+    4347,
+    1598,
+    1053,
+    3564
+  ],
+  "productReviews": [
+    {
+      "productId": 4725,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-11-07T18:18:20.0747415+02:00"
+    },
+    {
+      "productId": 3698,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-03-31T08:18:08.5498147+03:00"
+    }
+  ]
+}

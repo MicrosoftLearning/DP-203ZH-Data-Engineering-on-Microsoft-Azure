@@ -1,0 +1,35 @@
+{
+  "userId": 80644,
+  "cartId": "98e60c23-3c82-45d6-86fa-5a9c61b14324",
+  "preferredProducts": [
+    864,
+    1539,
+    1425,
+    4325,
+    393,
+    4514,
+    2745
+  ],
+  "productReviews": [
+    {
+      "productId": 4511,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-01-08T15:46:19.8295295+02:00"
+    },
+    {
+      "productId": 1941,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-05-28T22:10:21.3937305+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-05-02T02:11:57.0085775+03:00"
+    },
+    {
+      "productId": 351,
+      "reviewText": "this Regional is gracious.",
+      "reviewDate": "2019-08-19T05:20:27.9179456+03:00"
+    }
+  ]
+}

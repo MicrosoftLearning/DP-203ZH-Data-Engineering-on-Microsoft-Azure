@@ -1,0 +1,37 @@
+{
+  "userId": 84000,
+  "cartId": "9de1b9e5-41c2-48fe-aaa3-7e0b8bcf2290",
+  "preferredProducts": [
+    2032,
+    4712,
+    1694,
+    15,
+    3192,
+    2624,
+    3094,
+    2789,
+    2742
+  ],
+  "productReviews": [
+    {
+      "productId": 4890,
+      "reviewText": "This is a really good Checking Account.",
+      "reviewDate": "2020-02-22T20:39:33.5634376+02:00"
+    },
+    {
+      "productId": 4285,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-03-01T12:40:08.3017571+02:00"
+    },
+    {
+      "productId": 3289,
+      "reviewText": "This platforms works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2016-12-20T00:19:23.7005645+02:00"
+    },
+    {
+      "productId": 3636,
+      "reviewText": "this Granite is mellow.",
+      "reviewDate": "2016-11-22T10:56:22.5333973+02:00"
+    }
+  ]
+}

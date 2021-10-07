@@ -1,0 +1,42 @@
+{
+  "userId": 9126,
+  "cartId": "19bef418-3316-4675-aefc-614ba4e51d6a",
+  "preferredProducts": [
+    805,
+    938,
+    2268,
+    4977,
+    3235,
+    273,
+    3311,
+    4719,
+    3507
+  ],
+  "productReviews": [
+    {
+      "productId": 2547,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-11-10T13:57:23.6151879+02:00"
+    },
+    {
+      "productId": 2377,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2017-07-24T23:55:18.1778089+03:00"
+    },
+    {
+      "productId": 1495,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-10-06T14:11:56.1735708+03:00"
+    },
+    {
+      "productId": 2142,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-08-01T08:24:55.0629664+03:00"
+    },
+    {
+      "productId": 2816,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-06-03T18:24:03.5049396+03:00"
+    }
+  ]
+}

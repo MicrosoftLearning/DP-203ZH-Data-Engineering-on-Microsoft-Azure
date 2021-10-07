@@ -1,0 +1,30 @@
+{
+  "userId": 42756,
+  "cartId": "cc9742ff-18f1-4f14-90df-890eb4e1a388",
+  "preferredProducts": [
+    4921,
+    4692,
+    4610,
+    2881,
+    69,
+    1462,
+    1704
+  ],
+  "productReviews": [
+    {
+      "productId": 3728,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-01-26T06:06:31.7053719+02:00"
+    },
+    {
+      "productId": 1006,
+      "reviewText": "This Hawaii works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2018-05-18T09:59:36.8720563+03:00"
+    },
+    {
+      "productId": 3909,
+      "reviewText": "this Practical Frozen Table is standard.",
+      "reviewDate": "2017-05-16T04:01:02.906105+03:00"
+    }
+  ]
+}

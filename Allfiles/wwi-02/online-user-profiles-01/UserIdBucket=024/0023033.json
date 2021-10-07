@@ -1,0 +1,37 @@
+{
+  "userId": 23033,
+  "cartId": "c1d91f8e-af75-4c60-92c4-e5a18a176443",
+  "preferredProducts": [
+    1819,
+    3451,
+    1080,
+    1129
+  ],
+  "productReviews": [
+    {
+      "productId": 2564,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-12-11T04:25:56.3878897+02:00"
+    },
+    {
+      "productId": 4154,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-12-13T19:55:14.2704451+02:00"
+    },
+    {
+      "productId": 1125,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-05-05T00:45:47.8552765+03:00"
+    },
+    {
+      "productId": 3054,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-12-19T16:46:42.5854733+02:00"
+    },
+    {
+      "productId": 1323,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2020-01-23T12:05:27.4595387+02:00"
+    }
+  ]
+}

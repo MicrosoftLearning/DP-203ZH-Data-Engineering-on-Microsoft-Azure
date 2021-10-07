@@ -1,0 +1,36 @@
+{
+  "userId": 50145,
+  "cartId": "55111fe4-63cf-4cc1-adf8-48c9e3aa79be",
+  "preferredProducts": [
+    4615,
+    1053,
+    1056,
+    1240,
+    451,
+    4147,
+    3809,
+    285
+  ],
+  "productReviews": [
+    {
+      "productId": 2855,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2020-05-06T20:58:09.5554285+03:00"
+    },
+    {
+      "productId": 1112,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-06-28T04:51:20.0642295+03:00"
+    },
+    {
+      "productId": 3629,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-09-10T09:17:29.452619+03:00"
+    },
+    {
+      "productId": 4701,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-12-30T08:10:33.6765348+02:00"
+    }
+  ]
+}

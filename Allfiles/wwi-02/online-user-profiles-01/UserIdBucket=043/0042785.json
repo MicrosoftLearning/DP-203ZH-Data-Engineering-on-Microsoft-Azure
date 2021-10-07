@@ -1,0 +1,25 @@
+{
+  "userId": 42785,
+  "cartId": "641947d1-3369-44d4-bc47-a10e447e5d2a",
+  "preferredProducts": [
+    3266,
+    1485,
+    1989,
+    4135,
+    3664,
+    1534,
+    2230
+  ],
+  "productReviews": [
+    {
+      "productId": 799,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-12-18T19:26:51.1109584+02:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "this Common is smooth.",
+      "reviewDate": "2017-05-09T15:57:48.4815913+03:00"
+    }
+  ]
+}

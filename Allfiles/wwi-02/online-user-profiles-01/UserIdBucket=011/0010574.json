@@ -1,0 +1,28 @@
+{
+  "userId": 10574,
+  "cartId": "fa12c42b-0fb0-4389-be47-b1b058e869c0",
+  "preferredProducts": [
+    3188,
+    1692,
+    1599,
+    3,
+    1012
+  ],
+  "productReviews": [
+    {
+      "productId": 1310,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-05-26T22:52:29.1541985+03:00"
+    },
+    {
+      "productId": 3048,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2018-05-22T01:59:31.2686858+03:00"
+    },
+    {
+      "productId": 204,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-11-27T16:16:44.9814479+02:00"
+    }
+  ]
+}

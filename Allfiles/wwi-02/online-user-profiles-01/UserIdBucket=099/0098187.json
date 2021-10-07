@@ -1,0 +1,23 @@
+{
+  "userId": 98187,
+  "cartId": "1cffee53-03dc-4cd3-9883-9219415747c5",
+  "preferredProducts": [
+    4078,
+    3330,
+    2447,
+    3714,
+    933
+  ],
+  "productReviews": [
+    {
+      "productId": 558,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-07-18T03:07:29.3342596+03:00"
+    },
+    {
+      "productId": 3891,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-12-24T02:58:22.0488451+02:00"
+    }
+  ]
+}

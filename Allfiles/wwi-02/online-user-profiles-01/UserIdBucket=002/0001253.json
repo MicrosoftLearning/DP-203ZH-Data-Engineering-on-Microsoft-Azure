@@ -1,0 +1,25 @@
+{
+  "userId": 1253,
+  "cartId": "f99264d0-58b6-4fb3-bce2-980210f17079",
+  "preferredProducts": [
+    17,
+    565,
+    2049,
+    2769,
+    2402,
+    3828,
+    3462
+  ],
+  "productReviews": [
+    {
+      "productId": 2712,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-18T18:07:06.4005098+02:00"
+    },
+    {
+      "productId": 612,
+      "reviewText": "this Land is revolting.",
+      "reviewDate": "2018-02-27T14:37:54.9066126+02:00"
+    }
+  ]
+}

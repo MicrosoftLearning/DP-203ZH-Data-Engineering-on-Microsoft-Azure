@@ -1,0 +1,31 @@
+{
+  "userId": 48066,
+  "cartId": "5f5186da-5297-496e-ac37-c886d5e5ff16",
+  "preferredProducts": [
+    3636,
+    2249,
+    2565
+  ],
+  "productReviews": [
+    {
+      "productId": 132,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2019-10-15T02:38:33.8554701+03:00"
+    },
+    {
+      "productId": 3777,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-04-15T09:29:47.5483412+03:00"
+    },
+    {
+      "productId": 2576,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2018-10-21T10:48:30.3884714+03:00"
+    },
+    {
+      "productId": 3459,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-09-19T02:27:24.0251692+03:00"
+    }
+  ]
+}

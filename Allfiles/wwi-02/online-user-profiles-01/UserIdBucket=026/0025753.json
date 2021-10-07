@@ -1,0 +1,36 @@
+{
+  "userId": 25753,
+  "cartId": "f5e5b303-5594-4f66-a3d6-9228d69ed5c3",
+  "preferredProducts": [
+    4391,
+    3187,
+    137
+  ],
+  "productReviews": [
+    {
+      "productId": 641,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-04-16T04:53:50.0885143+03:00"
+    },
+    {
+      "productId": 4636,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-07-07T09:51:33.022303+03:00"
+    },
+    {
+      "productId": 4761,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-08-17T10:04:35.1296325+03:00"
+    },
+    {
+      "productId": 3645,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-01-24T02:39:31.0552366+02:00"
+    },
+    {
+      "productId": 2684,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2016-11-17T21:17:59.7900826+02:00"
+    }
+  ]
+}

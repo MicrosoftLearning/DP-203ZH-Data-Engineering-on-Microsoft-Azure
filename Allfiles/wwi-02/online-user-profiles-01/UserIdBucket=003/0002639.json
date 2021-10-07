@@ -1,0 +1,27 @@
+{
+  "userId": 2639,
+  "cartId": "c12dc193-c84f-4485-a9dc-6c4347d73661",
+  "preferredProducts": [
+    2991,
+    4372,
+    4543,
+    3099
+  ],
+  "productReviews": [
+    {
+      "productId": 171,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-03-17T16:21:01.5205138+02:00"
+    },
+    {
+      "productId": 752,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-09-27T18:38:37.846575+03:00"
+    },
+    {
+      "productId": 4388,
+      "reviewText": "this Auto Loan Account is ratty.",
+      "reviewDate": "2017-04-01T17:35:16.6367376+03:00"
+    }
+  ]
+}

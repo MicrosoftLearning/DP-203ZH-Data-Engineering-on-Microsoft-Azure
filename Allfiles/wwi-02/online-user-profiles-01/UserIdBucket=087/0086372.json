@@ -1,0 +1,33 @@
+{
+  "userId": 86372,
+  "cartId": "4df143b0-11e6-4137-b369-c0411e282b52",
+  "preferredProducts": [
+    413,
+    2683,
+    2641,
+    4426,
+    1616,
+    721,
+    3384,
+    1471,
+    4109,
+    3538
+  ],
+  "productReviews": [
+    {
+      "productId": 2441,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-06-25T23:10:59.3701625+03:00"
+    },
+    {
+      "productId": 3518,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2018-09-03T11:30:31.7401386+03:00"
+    },
+    {
+      "productId": 681,
+      "reviewText": "this PNG is honest.",
+      "reviewDate": "2018-11-13T04:33:23.3775561+02:00"
+    }
+  ]
+}

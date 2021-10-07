@@ -1,0 +1,27 @@
+{
+  "userId": 4406,
+  "cartId": "238ed40a-7b07-4d2f-9270-7cd49e17acc8",
+  "preferredProducts": [
+    3013,
+    4968,
+    4588,
+    442,
+    260,
+    2378,
+    4354,
+    2824,
+    1923
+  ],
+  "productReviews": [
+    {
+      "productId": 1480,
+      "reviewText": "this Future is nifty.",
+      "reviewDate": "2019-01-31T22:49:19.233681+02:00"
+    },
+    {
+      "productId": 1559,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-06-08T21:52:42.5146917+03:00"
+    }
+  ]
+}

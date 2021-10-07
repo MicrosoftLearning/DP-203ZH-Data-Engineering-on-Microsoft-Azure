@@ -1,0 +1,31 @@
+{
+  "userId": 99782,
+  "cartId": "529a1807-ab3c-4048-860c-5faae0ee4c92",
+  "preferredProducts": [
+    4393,
+    4554,
+    2466
+  ],
+  "productReviews": [
+    {
+      "productId": 790,
+      "reviewText": "this Developer is ratty.",
+      "reviewDate": "2016-08-30T00:15:50.2462403+03:00"
+    },
+    {
+      "productId": 124,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-07-20T14:34:59.4534076+03:00"
+    },
+    {
+      "productId": 1339,
+      "reviewText": "This solid state works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-08-09T00:40:05.031962+03:00"
+    },
+    {
+      "productId": 2131,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2019-09-20T18:39:18.7081663+03:00"
+    }
+  ]
+}

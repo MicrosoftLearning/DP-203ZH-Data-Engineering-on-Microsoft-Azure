@@ -1,0 +1,39 @@
+{
+  "userId": 70482,
+  "cartId": "4a326d0f-90ac-4c93-b829-33154dc2d264",
+  "preferredProducts": [
+    3425,
+    595,
+    2648,
+    4566,
+    1372,
+    4581
+  ],
+  "productReviews": [
+    {
+      "productId": 400,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-02-17T17:43:08.1429127+02:00"
+    },
+    {
+      "productId": 3504,
+      "reviewText": "This Internal works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-01-01T17:57:17.056686+02:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-03-29T03:00:30.7337473+02:00"
+    },
+    {
+      "productId": 4373,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-03-20T19:45:18.8552131+02:00"
+    },
+    {
+      "productId": 4144,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-10-22T23:57:18.6272518+03:00"
+    }
+  ]
+}

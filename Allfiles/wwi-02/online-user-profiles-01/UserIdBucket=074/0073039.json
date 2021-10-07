@@ -1,0 +1,38 @@
+{
+  "userId": 73039,
+  "cartId": "87c875f7-a6d9-42f8-9d94-b1c3fdab5b37",
+  "preferredProducts": [
+    2665,
+    4906,
+    4481,
+    2529,
+    3591,
+    1248,
+    627,
+    3266,
+    2201,
+    3106
+  ],
+  "productReviews": [
+    {
+      "productId": 3150,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-06-21T04:11:41.3158482+03:00"
+    },
+    {
+      "productId": 2042,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2019-05-05T05:50:56.1485814+03:00"
+    },
+    {
+      "productId": 2958,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-11-10T13:59:33.5603323+02:00"
+    },
+    {
+      "productId": 2412,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-12-05T02:56:12.3950304+02:00"
+    }
+  ]
+}

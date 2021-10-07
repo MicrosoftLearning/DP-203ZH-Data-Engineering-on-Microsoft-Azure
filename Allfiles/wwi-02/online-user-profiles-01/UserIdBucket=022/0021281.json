@@ -1,0 +1,33 @@
+{
+  "userId": 21281,
+  "cartId": "da5d44d0-abdd-4256-9b2c-6d4da738287d",
+  "preferredProducts": [
+    2965,
+    4222,
+    2758,
+    1293,
+    3454,
+    4286,
+    1110,
+    2248,
+    3609,
+    1178
+  ],
+  "productReviews": [
+    {
+      "productId": 1257,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-03-16T17:06:52.5968115+02:00"
+    },
+    {
+      "productId": 366,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2018-09-10T06:22:00.4266255+03:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-06-03T23:04:49.5540883+03:00"
+    }
+  ]
+}

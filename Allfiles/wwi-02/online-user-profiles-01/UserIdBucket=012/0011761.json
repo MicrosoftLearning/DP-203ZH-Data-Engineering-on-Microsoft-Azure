@@ -1,0 +1,30 @@
+{
+  "userId": 11761,
+  "cartId": "43e6b2dc-e829-4cf9-975a-ae528be32d46",
+  "preferredProducts": [
+    4027,
+    828
+  ],
+  "productReviews": [
+    {
+      "productId": 3028,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-07-31T20:14:46.2226948+03:00"
+    },
+    {
+      "productId": 356,
+      "reviewText": "this XSS is vertical.",
+      "reviewDate": "2018-11-24T18:23:47.8487169+02:00"
+    },
+    {
+      "productId": 1835,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-08-26T04:40:58.638426+03:00"
+    },
+    {
+      "productId": 4796,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2016-12-21T18:23:45.1548734+02:00"
+    }
+  ]
+}

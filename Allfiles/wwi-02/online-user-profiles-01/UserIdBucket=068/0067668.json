@@ -1,0 +1,27 @@
+{
+  "userId": 67668,
+  "cartId": "89e94ff2-ac89-425b-ae5f-22e8e7219b45",
+  "preferredProducts": [
+    2040,
+    4718,
+    3065,
+    1404,
+    2573,
+    4698,
+    2523,
+    3668,
+    4233
+  ],
+  "productReviews": [
+    {
+      "productId": 359,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2019-02-12T06:58:42.5469223+02:00"
+    },
+    {
+      "productId": 2025,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-03-13T18:11:31.4243428+02:00"
+    }
+  ]
+}

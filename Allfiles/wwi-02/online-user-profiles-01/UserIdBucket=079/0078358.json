@@ -1,0 +1,32 @@
+{
+  "userId": 78358,
+  "cartId": "6eb603d8-58d5-4a99-b9bc-34788633410f",
+  "preferredProducts": [
+    258,
+    4468,
+    4037,
+    2771,
+    3166,
+    4292,
+    2383,
+    2725,
+    4833
+  ],
+  "productReviews": [
+    {
+      "productId": 1191,
+      "reviewText": "this Architect is hyper.",
+      "reviewDate": "2020-04-15T13:20:19.3673652+03:00"
+    },
+    {
+      "productId": 1461,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-05-06T19:44:49.3057542+03:00"
+    },
+    {
+      "productId": 3239,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2020-01-30T21:57:42.2938592+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 88162,
+  "cartId": "13870cab-5ca9-4ded-b187-662b710921bb",
+  "preferredProducts": [
+    1732,
+    4142,
+    4051,
+    4584,
+    4021,
+    3955,
+    3844
+  ],
+  "productReviews": [
+    {
+      "productId": 37,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-11-18T06:31:24.35596+02:00"
+    },
+    {
+      "productId": 1429,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2017-07-22T20:33:23.8050877+03:00"
+    },
+    {
+      "productId": 2489,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2016-08-01T20:57:07.1866693+03:00"
+    }
+  ]
+}

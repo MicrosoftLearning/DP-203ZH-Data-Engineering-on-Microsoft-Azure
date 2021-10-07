@@ -1,0 +1,30 @@
+{
+  "userId": 5011,
+  "cartId": "3b07afea-187a-4b0e-92a6-79e42a4d80be",
+  "preferredProducts": [
+    2929,
+    928
+  ],
+  "productReviews": [
+    {
+      "productId": 3111,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2019-04-27T00:44:40.1179719+03:00"
+    },
+    {
+      "productId": 3985,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-10-16T18:41:13.1413495+03:00"
+    },
+    {
+      "productId": 2852,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2017-02-23T08:45:42.2129827+02:00"
+    },
+    {
+      "productId": 624,
+      "reviewText": "This Handmade works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2016-11-18T00:17:25.3325782+02:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "userId": 23410,
+  "cartId": "50aac1c2-7338-4d55-9e15-d01b3605af51",
+  "preferredProducts": [
+    1603,
+    1228,
+    2719,
+    4161,
+    2655,
+    879,
+    2468
+  ],
+  "productReviews": [
+    {
+      "productId": 2535,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-06-02T11:14:30.887101+03:00"
+    },
+    {
+      "productId": 1031,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-10-22T07:32:59.1201301+03:00"
+    },
+    {
+      "productId": 2565,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-12-13T13:12:12.5722472+02:00"
+    },
+    {
+      "productId": 4958,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-05-27T08:05:19.6225473+03:00"
+    },
+    {
+      "productId": 4131,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-01-18T04:39:23.2443457+02:00"
+    }
+  ]
+}

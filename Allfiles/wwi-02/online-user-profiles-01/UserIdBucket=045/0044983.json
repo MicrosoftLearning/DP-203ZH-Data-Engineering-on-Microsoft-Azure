@@ -1,0 +1,27 @@
+{
+  "userId": 44983,
+  "cartId": "72b968f3-a845-4c37-9c05-17a7b39dba3e",
+  "preferredProducts": [
+    1408,
+    4283,
+    2010,
+    2063
+  ],
+  "productReviews": [
+    {
+      "productId": 2185,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-05-22T08:13:21.1827845+03:00"
+    },
+    {
+      "productId": 4007,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-06-25T03:18:20.8409391+03:00"
+    },
+    {
+      "productId": 4613,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-03-02T21:23:52.8681014+02:00"
+    }
+  ]
+}

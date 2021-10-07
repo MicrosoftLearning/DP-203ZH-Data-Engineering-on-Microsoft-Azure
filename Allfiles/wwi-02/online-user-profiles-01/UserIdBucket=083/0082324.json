@@ -1,0 +1,26 @@
+{
+  "userId": 82324,
+  "cartId": "d49fddb4-475d-4ee1-a2cc-5f21b6dddf24",
+  "preferredProducts": [
+    314,
+    236,
+    1538
+  ],
+  "productReviews": [
+    {
+      "productId": 2580,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-05-18T02:37:50.0074496+03:00"
+    },
+    {
+      "productId": 1448,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-05-28T13:58:27.2579481+03:00"
+    },
+    {
+      "productId": 3749,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2019-02-08T23:18:18.6482474+02:00"
+    }
+  ]
+}

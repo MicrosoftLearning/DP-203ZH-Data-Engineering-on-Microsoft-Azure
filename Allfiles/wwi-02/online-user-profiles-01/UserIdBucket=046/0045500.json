@@ -1,0 +1,29 @@
+{
+  "userId": 45500,
+  "cartId": "5e40245c-a96c-459a-822c-0cdeaa8cd2ac",
+  "preferredProducts": [
+    498,
+    4506,
+    3126,
+    4639,
+    239,
+    1876
+  ],
+  "productReviews": [
+    {
+      "productId": 3713,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-11-30T11:32:02.5841612+02:00"
+    },
+    {
+      "productId": 748,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-08-25T12:52:14.1159075+03:00"
+    },
+    {
+      "productId": 1146,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-07-27T10:22:11.1064012+03:00"
+    }
+  ]
+}

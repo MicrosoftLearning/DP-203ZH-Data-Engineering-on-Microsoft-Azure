@@ -1,0 +1,25 @@
+{
+  "userId": 86637,
+  "cartId": "df4bdf67-9d21-4ea4-b0df-f43ba214f7b0",
+  "preferredProducts": [
+    1670,
+    3951,
+    1521,
+    2451,
+    4871,
+    679,
+    4408
+  ],
+  "productReviews": [
+    {
+      "productId": 2177,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2020-01-22T13:13:33.8416465+02:00"
+    },
+    {
+      "productId": 524,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-03-10T15:53:44.8949904+02:00"
+    }
+  ]
+}

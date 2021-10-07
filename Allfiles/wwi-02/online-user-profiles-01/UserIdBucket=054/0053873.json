@@ -1,0 +1,38 @@
+{
+  "userId": 53873,
+  "cartId": "94bc23ae-98b5-44f1-85ce-6616f26437f9",
+  "preferredProducts": [
+    4015,
+    3541,
+    3299,
+    3779,
+    2019
+  ],
+  "productReviews": [
+    {
+      "productId": 3042,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-12-12T19:35:35.5676797+02:00"
+    },
+    {
+      "productId": 2274,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-12-19T15:18:38.0519937+02:00"
+    },
+    {
+      "productId": 13,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-10-22T11:03:30.5606113+03:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "This SQL works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-02-15T22:54:22.3003722+02:00"
+    },
+    {
+      "productId": 1331,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-04-08T13:52:01.9399893+03:00"
+    }
+  ]
+}

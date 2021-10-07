@@ -1,0 +1,32 @@
+{
+  "userId": 21830,
+  "cartId": "8290f27f-8aea-41fe-90ca-e0f003cc9aa7",
+  "preferredProducts": [
+    10,
+    2600,
+    4909,
+    4648
+  ],
+  "productReviews": [
+    {
+      "productId": 2825,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-10-24T23:25:30.8166503+03:00"
+    },
+    {
+      "productId": 4269,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2020-04-24T18:16:50.1447575+03:00"
+    },
+    {
+      "productId": 1110,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-06-05T18:36:55.5150511+03:00"
+    },
+    {
+      "productId": 3705,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-11-03T08:59:56.2382403+02:00"
+    }
+  ]
+}

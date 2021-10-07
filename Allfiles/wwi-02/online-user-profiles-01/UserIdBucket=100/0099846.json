@@ -1,0 +1,32 @@
+{
+  "userId": 99846,
+  "cartId": "a262ed08-c737-414c-ac60-52a81f8a11a7",
+  "preferredProducts": [
+    4626,
+    4072,
+    1376,
+    4783,
+    3104,
+    819,
+    4833,
+    506,
+    103
+  ],
+  "productReviews": [
+    {
+      "productId": 3564,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-11-21T08:46:14.2775067+02:00"
+    },
+    {
+      "productId": 3848,
+      "reviewText": "This payment, does exactly what it's suppose to do.",
+      "reviewDate": "2017-03-14T07:40:28.1736732+02:00"
+    },
+    {
+      "productId": 656,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-07-05T23:35:46.5777519+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 79228,
+  "cartId": "4f9eeb01-5078-4d0c-b253-b156df351153",
+  "preferredProducts": [
+    3899,
+    3765,
+    491,
+    1367,
+    4436
+  ],
+  "productReviews": [
+    {
+      "productId": 2407,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-10-28T10:59:48.7621231+03:00"
+    },
+    {
+      "productId": 4544,
+      "reviewText": "this Harbors is standard.",
+      "reviewDate": "2018-01-30T23:36:09.4424639+02:00"
+    },
+    {
+      "productId": 985,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-08-11T21:32:02.0419432+03:00"
+    },
+    {
+      "productId": 4771,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-09-25T19:28:46.0627085+03:00"
+    }
+  ]
+}

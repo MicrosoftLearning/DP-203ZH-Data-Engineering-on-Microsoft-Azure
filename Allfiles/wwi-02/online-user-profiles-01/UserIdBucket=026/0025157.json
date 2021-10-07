@@ -1,0 +1,32 @@
+{
+  "userId": 25157,
+  "cartId": "b36b879f-6e60-4854-b42a-b6fa37d0baad",
+  "preferredProducts": [
+    4443,
+    739,
+    75,
+    3442
+  ],
+  "productReviews": [
+    {
+      "productId": 958,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-04-03T08:30:28.3224529+03:00"
+    },
+    {
+      "productId": 2138,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2017-08-15T23:47:04.4190747+03:00"
+    },
+    {
+      "productId": 1884,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-08-27T13:04:13.2867304+03:00"
+    },
+    {
+      "productId": 2563,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-05-23T06:07:48.0189033+03:00"
+    }
+  ]
+}

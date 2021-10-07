@@ -1,0 +1,41 @@
+{
+  "userId": 98464,
+  "cartId": "f970448b-7007-4096-8e82-9ac4342861d7",
+  "preferredProducts": [
+    1266,
+    3747,
+    3791,
+    1595,
+    2057,
+    1099,
+    2734,
+    4657
+  ],
+  "productReviews": [
+    {
+      "productId": 72,
+      "reviewText": "this Handcrafted Soft Table is awesome.",
+      "reviewDate": "2017-11-23T00:00:58.2725905+02:00"
+    },
+    {
+      "productId": 4359,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2018-09-17T00:11:09.967154+03:00"
+    },
+    {
+      "productId": 4943,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-01-28T19:48:12.1888062+02:00"
+    },
+    {
+      "productId": 3427,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-07-26T23:44:12.011753+03:00"
+    },
+    {
+      "productId": 3052,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-02-05T00:10:13.0712062+02:00"
+    }
+  ]
+}

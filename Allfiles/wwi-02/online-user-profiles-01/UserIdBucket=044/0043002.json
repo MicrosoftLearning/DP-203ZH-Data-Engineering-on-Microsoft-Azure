@@ -1,0 +1,27 @@
+{
+  "userId": 43002,
+  "cartId": "4bc54b6e-5e0d-4686-b882-b305af542a9d",
+  "preferredProducts": [
+    275,
+    870,
+    136,
+    338
+  ],
+  "productReviews": [
+    {
+      "productId": 3772,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-02-06T10:53:10.7166389+02:00"
+    },
+    {
+      "productId": 1484,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-10-31T20:53:17.7163753+02:00"
+    },
+    {
+      "productId": 3568,
+      "reviewText": "this Music, Electronics & Jewelery is whole-grain.",
+      "reviewDate": "2019-10-06T11:43:19.8809022+03:00"
+    }
+  ]
+}

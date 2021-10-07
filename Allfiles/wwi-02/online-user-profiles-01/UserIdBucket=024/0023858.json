@@ -1,0 +1,29 @@
+{
+  "userId": 23858,
+  "cartId": "2dd7d7fe-af3c-4152-9949-3ccf053d44b2",
+  "preferredProducts": [
+    152,
+    2213,
+    2089,
+    1865,
+    4412,
+    2187
+  ],
+  "productReviews": [
+    {
+      "productId": 4091,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-06-23T00:49:55.4280319+03:00"
+    },
+    {
+      "productId": 2538,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2020-02-20T23:47:05.4619683+02:00"
+    },
+    {
+      "productId": 3255,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2018-10-21T05:18:32.5167765+03:00"
+    }
+  ]
+}

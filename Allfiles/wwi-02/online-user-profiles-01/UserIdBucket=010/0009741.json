@@ -1,0 +1,43 @@
+{
+  "userId": 9741,
+  "cartId": "1216e670-b597-476f-9f35-98d05de07352",
+  "preferredProducts": [
+    1956,
+    3476,
+    2163,
+    1313,
+    2427,
+    4858,
+    1539,
+    3415,
+    2549,
+    4789
+  ],
+  "productReviews": [
+    {
+      "productId": 1099,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-03-03T07:37:54.9056234+02:00"
+    },
+    {
+      "productId": 4832,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-01-09T09:04:12.1118677+02:00"
+    },
+    {
+      "productId": 140,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-12-31T09:12:00.6166744+02:00"
+    },
+    {
+      "productId": 4549,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2016-07-20T04:03:13.5230342+03:00"
+    },
+    {
+      "productId": 3892,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-10-04T13:26:31.5469327+03:00"
+    }
+  ]
+}

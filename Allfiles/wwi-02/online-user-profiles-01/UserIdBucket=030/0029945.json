@@ -1,0 +1,31 @@
+{
+  "userId": 29945,
+  "cartId": "68f1922f-839e-40ff-adc9-09089a543041",
+  "preferredProducts": [
+    1429,
+    1251,
+    1857,
+    4411,
+    566,
+    530,
+    1020,
+    4336
+  ],
+  "productReviews": [
+    {
+      "productId": 4820,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-05-05T04:52:04.940325+03:00"
+    },
+    {
+      "productId": 1150,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-08-28T19:28:29.5553718+03:00"
+    },
+    {
+      "productId": 4496,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2020-05-08T23:05:58.2330262+03:00"
+    }
+  ]
+}

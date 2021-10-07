@@ -1,0 +1,30 @@
+{
+  "userId": 53225,
+  "cartId": "fb4cf5f6-92d3-4467-b975-575f2b73cff7",
+  "preferredProducts": [
+    1412,
+    4618,
+    3590,
+    3451,
+    3797,
+    1568,
+    1535
+  ],
+  "productReviews": [
+    {
+      "productId": 2382,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-02-27T08:25:58.7570112+02:00"
+    },
+    {
+      "productId": 4211,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-09-29T05:20:13.8604337+03:00"
+    },
+    {
+      "productId": 3414,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2020-04-23T12:35:47.2237492+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 65681,
+  "cartId": "53be3f85-4f24-47bf-85e3-9de4b59463f7",
+  "preferredProducts": [
+    1524,
+    1035,
+    3815,
+    4572,
+    3366,
+    1294,
+    684,
+    4989,
+    3886,
+    4587
+  ],
+  "productReviews": [
+    {
+      "productId": 4492,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-05-04T17:48:26.4719644+03:00"
+    },
+    {
+      "productId": 4153,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-08-09T11:22:08.9546719+03:00"
+    },
+    {
+      "productId": 4025,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-12-19T17:11:18.0548165+02:00"
+    },
+    {
+      "productId": 535,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-02-16T06:18:30.1613159+02:00"
+    }
+  ]
+}

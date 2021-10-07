@@ -1,0 +1,31 @@
+{
+  "userId": 27348,
+  "cartId": "1cb500f7-a99d-4d0e-9349-bbaa1fbba117",
+  "preferredProducts": [
+    1906,
+    3926,
+    4829
+  ],
+  "productReviews": [
+    {
+      "productId": 333,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-03-07T00:20:26.8112696+02:00"
+    },
+    {
+      "productId": 3270,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-01-07T07:51:29.0569403+02:00"
+    },
+    {
+      "productId": 2059,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-11-13T04:11:13.3333679+02:00"
+    },
+    {
+      "productId": 4815,
+      "reviewText": "This Springs works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2019-09-16T08:17:41.5196715+03:00"
+    }
+  ]
+}

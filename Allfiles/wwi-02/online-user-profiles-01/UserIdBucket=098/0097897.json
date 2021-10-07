@@ -1,0 +1,33 @@
+{
+  "userId": 97897,
+  "cartId": "903aacfd-86ee-448a-bade-35dccf9e1e3c",
+  "preferredProducts": [
+    1940,
+    463,
+    1618,
+    1768,
+    1051
+  ],
+  "productReviews": [
+    {
+      "productId": 4684,
+      "reviewText": "this payment is vertical.",
+      "reviewDate": "2016-07-02T12:53:09.1340912+03:00"
+    },
+    {
+      "productId": 3855,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-01-02T00:25:30.4521963+02:00"
+    },
+    {
+      "productId": 718,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2016-09-15T20:15:58.5212119+03:00"
+    },
+    {
+      "productId": 2592,
+      "reviewText": "this Curve is hyper.",
+      "reviewDate": "2016-12-21T11:50:42.7453414+02:00"
+    }
+  ]
+}

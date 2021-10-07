@@ -1,0 +1,40 @@
+{
+  "userId": 34190,
+  "cartId": "9de6f6cf-b7fe-4150-8877-051611f3359a",
+  "preferredProducts": [
+    4426,
+    1264,
+    2154,
+    1889,
+    2067,
+    3153,
+    1779
+  ],
+  "productReviews": [
+    {
+      "productId": 4820,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-02-22T10:02:26.2712467+02:00"
+    },
+    {
+      "productId": 2010,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-04-01T16:52:41.6490768+03:00"
+    },
+    {
+      "productId": 4922,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-04-08T23:49:27.1903937+03:00"
+    },
+    {
+      "productId": 1375,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-09-08T20:12:05.8916242+03:00"
+    },
+    {
+      "productId": 690,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-05-13T09:57:33.912112+03:00"
+    }
+  ]
+}

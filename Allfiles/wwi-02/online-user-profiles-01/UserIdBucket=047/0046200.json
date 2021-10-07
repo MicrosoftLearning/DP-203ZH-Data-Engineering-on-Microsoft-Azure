@@ -1,0 +1,31 @@
+{
+  "userId": 46200,
+  "cartId": "a62b6156-ff0b-47fe-930b-f0ad79427474",
+  "preferredProducts": [
+    13,
+    3121,
+    298
+  ],
+  "productReviews": [
+    {
+      "productId": 318,
+      "reviewText": "this hacking is slurpee.",
+      "reviewDate": "2019-08-10T21:19:32.6395196+03:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-06-24T10:42:53.2409956+03:00"
+    },
+    {
+      "productId": 826,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-09-17T16:34:05.7308947+03:00"
+    },
+    {
+      "productId": 1267,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-04-03T12:03:37.9249687+03:00"
+    }
+  ]
+}

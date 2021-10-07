@@ -1,0 +1,23 @@
+{
+  "userId": 32025,
+  "cartId": "5ac2a207-d9f2-4585-b2f9-acd4ab911dfa",
+  "preferredProducts": [
+    2717,
+    1691,
+    3953,
+    4497,
+    3726
+  ],
+  "productReviews": [
+    {
+      "productId": 952,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-06-09T07:51:35.0473475+03:00"
+    },
+    {
+      "productId": 504,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-10-11T19:13:23.5548341+03:00"
+    }
+  ]
+}

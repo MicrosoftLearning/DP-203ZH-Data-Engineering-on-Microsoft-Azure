@@ -1,0 +1,39 @@
+{
+  "userId": 15285,
+  "cartId": "f8e2a375-9bbf-49fe-b56c-1ca66d61647c",
+  "preferredProducts": [
+    2813,
+    3483,
+    2284,
+    1256,
+    4760,
+    4358
+  ],
+  "productReviews": [
+    {
+      "productId": 993,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-11-29T16:55:17.9625196+02:00"
+    },
+    {
+      "productId": 3622,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-01-15T00:04:45.1707151+02:00"
+    },
+    {
+      "productId": 4729,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-03-18T22:00:48.5061257+02:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2016-08-04T23:06:17.7311274+03:00"
+    },
+    {
+      "productId": 1058,
+      "reviewText": "This Kiribati works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-08-23T23:14:23.2710847+03:00"
+    }
+  ]
+}

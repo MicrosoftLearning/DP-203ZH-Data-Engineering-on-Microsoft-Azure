@@ -1,0 +1,31 @@
+{
+  "userId": 25025,
+  "cartId": "615aceb2-afaf-4f06-8206-600857f8bdc4",
+  "preferredProducts": [
+    759,
+    2180,
+    1158
+  ],
+  "productReviews": [
+    {
+      "productId": 958,
+      "reviewText": "this Brand is light-hearted.",
+      "reviewDate": "2016-05-28T04:03:29.2906046+03:00"
+    },
+    {
+      "productId": 820,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-08-09T23:35:53.1801531+03:00"
+    },
+    {
+      "productId": 4704,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-11-23T05:08:07.4868494+02:00"
+    },
+    {
+      "productId": 311,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2016-11-16T08:26:52.2161017+02:00"
+    }
+  ]
+}

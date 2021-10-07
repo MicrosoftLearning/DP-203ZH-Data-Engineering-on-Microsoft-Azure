@@ -1,0 +1,32 @@
+{
+  "userId": 2864,
+  "cartId": "c9096d8b-1625-4127-abfd-202bb5327c2b",
+  "preferredProducts": [
+    1829,
+    4055,
+    3889,
+    985,
+    1059,
+    1539,
+    1546,
+    3890,
+    3759
+  ],
+  "productReviews": [
+    {
+      "productId": 2906,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-03-23T23:35:05.4842877+02:00"
+    },
+    {
+      "productId": 4262,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-12-10T09:07:45.9996093+02:00"
+    },
+    {
+      "productId": 1934,
+      "reviewText": "this Orchestrator is snowy.",
+      "reviewDate": "2019-09-13T06:03:47.6204136+03:00"
+    }
+  ]
+}

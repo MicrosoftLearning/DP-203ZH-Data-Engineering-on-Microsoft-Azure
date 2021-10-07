@@ -1,0 +1,27 @@
+{
+  "userId": 11594,
+  "cartId": "9e313d7b-b6d5-4907-8e9a-7e17dfd4c171",
+  "preferredProducts": [
+    4443,
+    3497,
+    1319,
+    4159
+  ],
+  "productReviews": [
+    {
+      "productId": 1370,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2017-02-21T11:13:21.9198724+02:00"
+    },
+    {
+      "productId": 3044,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-02-08T16:05:42.5943915+02:00"
+    },
+    {
+      "productId": 3679,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-03-29T02:32:35.0796809+03:00"
+    }
+  ]
+}

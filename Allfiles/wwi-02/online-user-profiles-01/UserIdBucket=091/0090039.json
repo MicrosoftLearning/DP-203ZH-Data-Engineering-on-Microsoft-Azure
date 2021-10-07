@@ -1,0 +1,24 @@
+{
+  "userId": 90039,
+  "cartId": "8401e7ea-9b88-46f7-ab1f-247c720c9ee3",
+  "preferredProducts": [
+    142,
+    447,
+    3087,
+    3127,
+    2793,
+    1490
+  ],
+  "productReviews": [
+    {
+      "productId": 2120,
+      "reviewText": "this Tasty Soft Pizza is snowy.",
+      "reviewDate": "2020-04-06T02:55:15.912017+03:00"
+    },
+    {
+      "productId": 4591,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-05-17T04:06:43.523696+03:00"
+    }
+  ]
+}

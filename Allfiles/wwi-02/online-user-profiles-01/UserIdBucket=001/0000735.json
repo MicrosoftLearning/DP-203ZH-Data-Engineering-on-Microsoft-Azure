@@ -1,0 +1,34 @@
+{
+  "userId": 735,
+  "cartId": "cb78a7fa-af02-4d10-adbd-10d7c9242087",
+  "preferredProducts": [
+    3541,
+    4183,
+    922,
+    1171,
+    4850,
+    4235
+  ],
+  "productReviews": [
+    {
+      "productId": 1965,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-11-24T08:26:49.4070823+02:00"
+    },
+    {
+      "productId": 3272,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2019-12-09T15:31:07.8935172+02:00"
+    },
+    {
+      "productId": 1874,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-01-29T15:14:20.0065728+02:00"
+    },
+    {
+      "productId": 3230,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-09-16T18:37:08.2490498+03:00"
+    }
+  ]
+}

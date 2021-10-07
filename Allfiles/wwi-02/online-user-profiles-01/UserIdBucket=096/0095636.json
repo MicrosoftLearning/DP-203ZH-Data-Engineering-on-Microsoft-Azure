@@ -1,0 +1,28 @@
+{
+  "userId": 95636,
+  "cartId": "c6c40b98-2ab8-4022-8d37-ecc48640cbdd",
+  "preferredProducts": [
+    1515,
+    2104,
+    2060,
+    2040,
+    4927
+  ],
+  "productReviews": [
+    {
+      "productId": 3092,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-12-29T11:32:48.0811327+02:00"
+    },
+    {
+      "productId": 18,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-06-10T19:59:32.9940487+03:00"
+    },
+    {
+      "productId": 2206,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-07-28T15:05:24.576715+03:00"
+    }
+  ]
+}

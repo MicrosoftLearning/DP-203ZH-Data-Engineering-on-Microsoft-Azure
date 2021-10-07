@@ -1,0 +1,33 @@
+{
+  "userId": 22042,
+  "cartId": "8ffe2fd3-e930-49e4-bdfe-3df0ed9a0f7e",
+  "preferredProducts": [
+    891,
+    1258,
+    320,
+    2987,
+    4161,
+    1934,
+    3769,
+    4323,
+    771,
+    3556
+  ],
+  "productReviews": [
+    {
+      "productId": 106,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-12-02T06:39:46.6952994+02:00"
+    },
+    {
+      "productId": 829,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2020-01-03T14:07:43.5639005+02:00"
+    },
+    {
+      "productId": 490,
+      "reviewText": "This Customer works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-10-25T15:35:36.8325228+03:00"
+    }
+  ]
+}

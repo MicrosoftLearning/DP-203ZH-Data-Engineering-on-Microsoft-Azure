@@ -1,0 +1,28 @@
+{
+  "userId": 25573,
+  "cartId": "87f6f881-694e-4343-b82c-536812aaeec1",
+  "preferredProducts": [
+    2113,
+    2559,
+    660,
+    4390,
+    1344
+  ],
+  "productReviews": [
+    {
+      "productId": 3909,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2020-03-25T20:29:46.4306473+02:00"
+    },
+    {
+      "productId": 2449,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-03-01T17:06:51.8991064+02:00"
+    },
+    {
+      "productId": 3960,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2019-10-06T13:20:32.0978061+03:00"
+    }
+  ]
+}

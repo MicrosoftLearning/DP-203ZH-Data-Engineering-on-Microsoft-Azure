@@ -1,0 +1,33 @@
+{
+  "userId": 12755,
+  "cartId": "8c7a9d48-0275-4d78-8b4a-ddf78efb8a26",
+  "preferredProducts": [
+    4070,
+    4348,
+    1573,
+    501,
+    1444
+  ],
+  "productReviews": [
+    {
+      "productId": 1426,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-01-04T09:17:15.5591006+02:00"
+    },
+    {
+      "productId": 1407,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-08-20T19:50:11.7164889+03:00"
+    },
+    {
+      "productId": 1965,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2019-08-25T01:48:14.3422478+03:00"
+    },
+    {
+      "productId": 2205,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-03-02T02:34:33.0724634+02:00"
+    }
+  ]
+}

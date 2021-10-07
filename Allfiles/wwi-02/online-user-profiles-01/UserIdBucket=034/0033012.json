@@ -1,0 +1,35 @@
+{
+  "userId": 33012,
+  "cartId": "7b9e5e7b-cba8-488f-80a6-6280b38274f9",
+  "preferredProducts": [
+    201,
+    3465,
+    4826,
+    3361,
+    717,
+    589,
+    2384
+  ],
+  "productReviews": [
+    {
+      "productId": 2334,
+      "reviewText": "This orchid works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-01-21T12:41:04.6871823+02:00"
+    },
+    {
+      "productId": 255,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-05-03T10:35:14.3924731+03:00"
+    },
+    {
+      "productId": 957,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-07-09T15:00:28.8503993+03:00"
+    },
+    {
+      "productId": 3273,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-04-21T12:50:04.016277+03:00"
+    }
+  ]
+}

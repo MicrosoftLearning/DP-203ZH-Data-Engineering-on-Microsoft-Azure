@@ -1,0 +1,33 @@
+{
+  "userId": 30335,
+  "cartId": "5e8fcbc6-7aeb-4d64-8bfc-fcde7b901ca8",
+  "preferredProducts": [
+    3532,
+    455,
+    916,
+    3349,
+    4342,
+    1566,
+    2821,
+    3104,
+    125,
+    3879
+  ],
+  "productReviews": [
+    {
+      "productId": 1486,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-07-26T08:23:19.9727943+03:00"
+    },
+    {
+      "productId": 4593,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-08-18T21:04:06.3690505+03:00"
+    },
+    {
+      "productId": 3909,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2017-12-08T16:45:52.3166559+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 87647,
+  "cartId": "994bf472-1274-46ed-9854-febdb50fc624",
+  "preferredProducts": [
+    2993,
+    1709,
+    2250,
+    792,
+    3985,
+    3475,
+    1292
+  ],
+  "productReviews": [
+    {
+      "productId": 2137,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-07-18T08:47:04.9808256+03:00"
+    },
+    {
+      "productId": 3390,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-07-22T04:09:02.1364939+03:00"
+    },
+    {
+      "productId": 1770,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-09-05T16:19:32.2787047+03:00"
+    }
+  ]
+}

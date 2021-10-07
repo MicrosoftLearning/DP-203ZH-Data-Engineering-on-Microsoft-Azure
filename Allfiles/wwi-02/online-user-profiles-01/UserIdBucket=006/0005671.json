@@ -1,0 +1,32 @@
+{
+  "userId": 5671,
+  "cartId": "5e57c940-3606-4d4c-9d4f-71e94a446dae",
+  "preferredProducts": [
+    4167,
+    2185,
+    1280,
+    1068
+  ],
+  "productReviews": [
+    {
+      "productId": 1316,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2019-06-29T10:52:20.6067058+03:00"
+    },
+    {
+      "productId": 3675,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-04-23T14:43:24.6037433+03:00"
+    },
+    {
+      "productId": 2750,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-01-24T18:56:46.1830375+02:00"
+    },
+    {
+      "productId": 591,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-10-15T08:35:51.5613566+03:00"
+    }
+  ]
+}

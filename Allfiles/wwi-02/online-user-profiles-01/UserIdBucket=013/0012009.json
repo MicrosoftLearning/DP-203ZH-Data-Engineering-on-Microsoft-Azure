@@ -1,0 +1,24 @@
+{
+  "userId": 12009,
+  "cartId": "003cd820-070d-4bab-9e45-46cb9b838762",
+  "preferredProducts": [
+    2729,
+    2224,
+    3430,
+    4397,
+    3097,
+    1222
+  ],
+  "productReviews": [
+    {
+      "productId": 408,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2017-07-24T09:59:10.5897826+03:00"
+    },
+    {
+      "productId": 1020,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-11-27T12:25:43.1036418+02:00"
+    }
+  ]
+}

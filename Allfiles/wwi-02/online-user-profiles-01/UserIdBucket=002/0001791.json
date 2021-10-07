@@ -1,0 +1,39 @@
+{
+  "userId": 1791,
+  "cartId": "d8f6cfa8-8332-440d-a169-220c6cabb861",
+  "preferredProducts": [
+    1446,
+    235,
+    3400,
+    3010,
+    4033,
+    157
+  ],
+  "productReviews": [
+    {
+      "productId": 2541,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-06-29T02:22:02.7966018+03:00"
+    },
+    {
+      "productId": 3727,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-09-09T01:32:03.7943119+03:00"
+    },
+    {
+      "productId": 545,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-07-13T11:50:49.5267862+03:00"
+    },
+    {
+      "productId": 1503,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2019-02-16T07:17:36.5543987+02:00"
+    },
+    {
+      "productId": 2323,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-05-24T09:48:05.5173943+03:00"
+    }
+  ]
+}

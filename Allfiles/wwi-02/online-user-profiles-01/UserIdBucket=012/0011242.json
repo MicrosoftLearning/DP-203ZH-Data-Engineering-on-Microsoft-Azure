@@ -1,0 +1,24 @@
+{
+  "userId": 11242,
+  "cartId": "812a5216-b3b8-4dcc-8038-738b5f0a3ae1",
+  "preferredProducts": [
+    4533,
+    2908,
+    3439,
+    1862,
+    849,
+    1635
+  ],
+  "productReviews": [
+    {
+      "productId": 1243,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-04-19T10:21:52.5729303+03:00"
+    },
+    {
+      "productId": 2314,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-06-16T13:27:53.8939009+03:00"
+    }
+  ]
+}

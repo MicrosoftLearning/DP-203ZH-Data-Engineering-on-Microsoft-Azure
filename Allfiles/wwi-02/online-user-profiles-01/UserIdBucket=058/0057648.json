@@ -1,0 +1,34 @@
+{
+  "userId": 57648,
+  "cartId": "8b5bfaa0-19f1-4fa0-b62e-32993bbdd07f",
+  "preferredProducts": [
+    4350,
+    1337,
+    4269,
+    2908,
+    1677,
+    814
+  ],
+  "productReviews": [
+    {
+      "productId": 967,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-05-30T22:22:10.2411893+03:00"
+    },
+    {
+      "productId": 2683,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-05-19T21:41:26.8072578+03:00"
+    },
+    {
+      "productId": 4597,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-06-25T13:08:35.4757447+03:00"
+    },
+    {
+      "productId": 666,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2018-09-06T10:10:38.0151307+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 98128,
+  "cartId": "c9af34cf-2b29-46b6-b898-79e71ec2bd62",
+  "preferredProducts": [
+    3150,
+    1698,
+    877,
+    4544,
+    1951
+  ],
+  "productReviews": [
+    {
+      "productId": 853,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-09-17T12:10:24.4060907+03:00"
+    },
+    {
+      "productId": 1377,
+      "reviewText": "This throughput works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2020-02-21T20:56:32.3977951+02:00"
+    },
+    {
+      "productId": 1832,
+      "reviewText": "this AI is tasty.",
+      "reviewDate": "2016-08-01T14:39:42.3402224+03:00"
+    }
+  ]
+}

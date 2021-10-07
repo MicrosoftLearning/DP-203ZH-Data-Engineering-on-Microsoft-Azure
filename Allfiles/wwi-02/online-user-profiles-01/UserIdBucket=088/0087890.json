@@ -1,0 +1,33 @@
+{
+  "userId": 87890,
+  "cartId": "8aecd7e3-da0f-496a-b072-335c48e94621",
+  "preferredProducts": [
+    66,
+    2319,
+    275,
+    4493,
+    555
+  ],
+  "productReviews": [
+    {
+      "productId": 1091,
+      "reviewText": "this Cape Verde Escudo is flirty.",
+      "reviewDate": "2018-12-15T22:54:38.795684+02:00"
+    },
+    {
+      "productId": 2224,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-10-17T02:37:44.8982306+03:00"
+    },
+    {
+      "productId": 1966,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2018-01-24T01:06:34.9660026+02:00"
+    },
+    {
+      "productId": 242,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2020-04-19T05:35:08.3283521+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 18718,
+  "cartId": "0f573721-2db1-4518-8f09-6377cfd7432f",
+  "preferredProducts": [
+    2391,
+    2320,
+    1603,
+    802,
+    1422,
+    1176
+  ],
+  "productReviews": [
+    {
+      "productId": 4483,
+      "reviewText": "this program is ratty.",
+      "reviewDate": "2019-12-16T06:59:17.655153+02:00"
+    },
+    {
+      "productId": 2240,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-11-04T04:44:57.5677573+02:00"
+    },
+    {
+      "productId": 110,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2020-05-09T09:00:53.8568345+03:00"
+    }
+  ]
+}

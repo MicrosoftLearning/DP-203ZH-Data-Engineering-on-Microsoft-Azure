@@ -1,0 +1,31 @@
+{
+  "userId": 23325,
+  "cartId": "a2474654-2a75-4f4e-bb9b-2e84a26bc7a5",
+  "preferredProducts": [
+    4681,
+    2395,
+    4382,
+    982,
+    632,
+    2786,
+    507,
+    1977
+  ],
+  "productReviews": [
+    {
+      "productId": 3084,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-12-17T04:57:00.0480358+02:00"
+    },
+    {
+      "productId": 2903,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-01-19T17:07:43.1281043+02:00"
+    },
+    {
+      "productId": 365,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-06-07T16:03:50.1221422+03:00"
+    }
+  ]
+}

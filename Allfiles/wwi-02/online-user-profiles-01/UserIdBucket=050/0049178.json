@@ -1,0 +1,35 @@
+{
+  "userId": 49178,
+  "cartId": "81e91b3c-c40e-4ed9-8197-206b8dc783ac",
+  "preferredProducts": [
+    1526,
+    1160,
+    3024,
+    2182,
+    4709,
+    949,
+    3142
+  ],
+  "productReviews": [
+    {
+      "productId": 909,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-02-27T14:34:37.6758503+02:00"
+    },
+    {
+      "productId": 506,
+      "reviewText": "this Sleek Frozen Pizza is vertical.",
+      "reviewDate": "2020-03-14T00:26:34.2351938+02:00"
+    },
+    {
+      "productId": 3348,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-07-08T16:17:50.9719084+03:00"
+    },
+    {
+      "productId": 2541,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-09-18T23:18:28.6295605+03:00"
+    }
+  ]
+}

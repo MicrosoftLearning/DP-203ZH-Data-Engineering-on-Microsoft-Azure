@@ -1,0 +1,31 @@
+{
+  "userId": 54377,
+  "cartId": "c594c4e4-2fa4-448b-8c7e-3ef3b728a123",
+  "preferredProducts": [
+    2584,
+    2643,
+    3132
+  ],
+  "productReviews": [
+    {
+      "productId": 3064,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-06-24T03:14:56.4312757+03:00"
+    },
+    {
+      "productId": 4823,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-08-01T04:42:11.3140514+03:00"
+    },
+    {
+      "productId": 2835,
+      "reviewText": "This Directives works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-10-30T02:18:12.0893985+02:00"
+    },
+    {
+      "productId": 179,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-05-06T23:29:32.3551171+03:00"
+    }
+  ]
+}

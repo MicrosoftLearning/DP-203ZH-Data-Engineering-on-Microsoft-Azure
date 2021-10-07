@@ -1,0 +1,25 @@
+{
+  "userId": 80028,
+  "cartId": "cf797bfd-a4e0-4d2f-8951-7caab270c8f8",
+  "preferredProducts": [
+    1419,
+    114
+  ],
+  "productReviews": [
+    {
+      "productId": 2589,
+      "reviewText": "This is a really good Engineer.",
+      "reviewDate": "2017-04-09T22:21:00.4299342+03:00"
+    },
+    {
+      "productId": 719,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-09-04T11:24:39.558839+03:00"
+    },
+    {
+      "productId": 1199,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2020-02-17T12:54:50.5243873+02:00"
+    }
+  ]
+}

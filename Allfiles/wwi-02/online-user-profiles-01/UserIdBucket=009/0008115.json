@@ -1,0 +1,38 @@
+{
+  "userId": 8115,
+  "cartId": "d624e09c-16e0-4b20-ab5c-2fcb15aebdd3",
+  "preferredProducts": [
+    105,
+    4372,
+    4466,
+    2207,
+    3966
+  ],
+  "productReviews": [
+    {
+      "productId": 479,
+      "reviewText": "this Avon is brown.",
+      "reviewDate": "2017-12-15T07:22:21.4589537+02:00"
+    },
+    {
+      "productId": 4531,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2016-06-18T00:47:26.1916588+03:00"
+    },
+    {
+      "productId": 4429,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-10-28T21:38:53.5161835+02:00"
+    },
+    {
+      "productId": 2735,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2016-06-28T20:22:56.1949772+03:00"
+    },
+    {
+      "productId": 4759,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-09-30T07:48:13.7416006+03:00"
+    }
+  ]
+}

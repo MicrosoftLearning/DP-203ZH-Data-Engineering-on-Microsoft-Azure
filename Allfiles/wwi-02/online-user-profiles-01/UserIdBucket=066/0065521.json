@@ -1,0 +1,30 @@
+{
+  "userId": 65521,
+  "cartId": "b7dc6a4c-7c90-4834-8b4e-4e4591320bd5",
+  "preferredProducts": [
+    2235,
+    4293
+  ],
+  "productReviews": [
+    {
+      "productId": 303,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2020-02-17T12:30:07.9252025+02:00"
+    },
+    {
+      "productId": 2666,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-01-17T23:36:08.4062535+02:00"
+    },
+    {
+      "productId": 2148,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-06-29T11:00:59.2490621+03:00"
+    },
+    {
+      "productId": 1198,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-09-12T03:13:42.9772308+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 15419,
+  "cartId": "91b220a0-2531-455b-afa3-9842bf002ae1",
+  "preferredProducts": [
+    3868,
+    803,
+    2939,
+    4990,
+    3308
+  ],
+  "productReviews": [
+    {
+      "productId": 3839,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-06-12T04:58:47.9283043+03:00"
+    },
+    {
+      "productId": 2105,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-01-18T02:13:57.4281842+02:00"
+    },
+    {
+      "productId": 3502,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-02-03T01:49:07.3508168+02:00"
+    },
+    {
+      "productId": 3021,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-07-14T02:46:51.3404008+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 44538,
+  "cartId": "8c757167-72ff-408e-a6b3-a563a6d4e1c2",
+  "preferredProducts": [
+    1202,
+    4189
+  ],
+  "productReviews": [
+    {
+      "productId": 3470,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-05-17T08:04:19.9431804+03:00"
+    },
+    {
+      "productId": 2570,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-11-10T23:38:06.5813479+02:00"
+    },
+    {
+      "productId": 1672,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-02-08T04:02:52.421165+02:00"
+    },
+    {
+      "productId": 672,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-04-26T02:52:57.9774523+03:00"
+    },
+    {
+      "productId": 1486,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-12-30T01:43:33.1840318+02:00"
+    }
+  ]
+}

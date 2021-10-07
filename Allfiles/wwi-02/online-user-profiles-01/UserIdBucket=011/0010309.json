@@ -1,0 +1,38 @@
+{
+  "userId": 10309,
+  "cartId": "e49eb560-fba3-49f6-b0de-785f859e61cf",
+  "preferredProducts": [
+    4672,
+    4782,
+    4183,
+    3779,
+    4350,
+    1687,
+    1816,
+    2311,
+    314,
+    1681
+  ],
+  "productReviews": [
+    {
+      "productId": 64,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-02-11T00:33:18.6515159+02:00"
+    },
+    {
+      "productId": 1877,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-02-19T07:55:05.2043639+02:00"
+    },
+    {
+      "productId": 232,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-01-11T09:46:48.7074593+02:00"
+    },
+    {
+      "productId": 3243,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-02-11T01:19:23.0610809+02:00"
+    }
+  ]
+}

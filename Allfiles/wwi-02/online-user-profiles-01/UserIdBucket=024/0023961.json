@@ -1,0 +1,37 @@
+{
+  "userId": 23961,
+  "cartId": "6f8260c0-1453-4a5e-9ca0-097600a22b97",
+  "preferredProducts": [
+    3889,
+    478,
+    4492,
+    2994,
+    2035,
+    2986,
+    2485,
+    1741,
+    3176
+  ],
+  "productReviews": [
+    {
+      "productId": 2658,
+      "reviewText": "this leading-edge is nifty.",
+      "reviewDate": "2016-12-07T10:16:42.4381716+02:00"
+    },
+    {
+      "productId": 2089,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2019-10-06T13:14:49.9218903+03:00"
+    },
+    {
+      "productId": 3197,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-09-24T12:40:32.2113915+03:00"
+    },
+    {
+      "productId": 1316,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-04-06T11:36:10.0490794+03:00"
+    }
+  ]
+}

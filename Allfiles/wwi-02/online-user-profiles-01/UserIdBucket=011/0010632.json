@@ -1,0 +1,41 @@
+{
+  "userId": 10632,
+  "cartId": "d79c88d1-50e6-4510-bdec-e8756e3141f9",
+  "preferredProducts": [
+    1441,
+    3535,
+    2247,
+    3894,
+    4548,
+    4268,
+    2796,
+    1736
+  ],
+  "productReviews": [
+    {
+      "productId": 2999,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-09-22T09:41:30.4830493+03:00"
+    },
+    {
+      "productId": 276,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-09-15T20:00:11.9588621+03:00"
+    },
+    {
+      "productId": 4750,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-06-27T05:15:11.9360961+03:00"
+    },
+    {
+      "productId": 2018,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-02-28T04:43:52.6280853+02:00"
+    },
+    {
+      "productId": 4895,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-10-19T18:39:55.3225128+03:00"
+    }
+  ]
+}

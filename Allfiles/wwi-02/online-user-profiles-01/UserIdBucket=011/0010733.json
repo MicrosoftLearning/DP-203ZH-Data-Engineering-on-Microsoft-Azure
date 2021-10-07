@@ -1,0 +1,24 @@
+{
+  "userId": 10733,
+  "cartId": "060ff7be-74c6-479d-a042-e7db549ae578",
+  "preferredProducts": [
+    462,
+    4360,
+    4125,
+    417,
+    3286,
+    3005
+  ],
+  "productReviews": [
+    {
+      "productId": 3878,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-07-23T04:53:26.1060817+03:00"
+    },
+    {
+      "productId": 2534,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-02-09T16:45:34.2919033+02:00"
+    }
+  ]
+}

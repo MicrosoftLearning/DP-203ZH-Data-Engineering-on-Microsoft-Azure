@@ -1,0 +1,26 @@
+{
+  "userId": 1000,
+  "cartId": "7098cc61-3676-46a4-bcdf-360f7ab405b0",
+  "preferredProducts": [
+    1753,
+    4362,
+    989
+  ],
+  "productReviews": [
+    {
+      "productId": 3148,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-12-31T07:37:24.5161294+02:00"
+    },
+    {
+      "productId": 612,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-12-16T02:00:39.4829478+02:00"
+    },
+    {
+      "productId": 4946,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-03-09T19:41:37.1459098+02:00"
+    }
+  ]
+}

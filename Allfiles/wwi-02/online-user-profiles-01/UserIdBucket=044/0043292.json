@@ -1,0 +1,32 @@
+{
+  "userId": 43292,
+  "cartId": "d438f120-a2e4-4d41-8003-c6632b04f0c7",
+  "preferredProducts": [
+    3573,
+    1202,
+    4055,
+    3205
+  ],
+  "productReviews": [
+    {
+      "productId": 2471,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-04-07T20:51:51.8638245+03:00"
+    },
+    {
+      "productId": 1704,
+      "reviewText": "This connecting works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-08-15T22:01:51.3529921+03:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-01-06T12:16:09.1345013+02:00"
+    },
+    {
+      "productId": 1906,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-10-26T20:25:30.9101285+03:00"
+    }
+  ]
+}

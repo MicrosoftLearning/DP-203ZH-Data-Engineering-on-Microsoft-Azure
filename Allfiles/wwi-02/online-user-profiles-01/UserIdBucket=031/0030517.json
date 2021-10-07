@@ -1,0 +1,25 @@
+{
+  "userId": 30517,
+  "cartId": "17e45b23-f510-4be5-86a8-1f8d33ee0b2c",
+  "preferredProducts": [
+    1098,
+    3402,
+    2919,
+    1390,
+    2153,
+    47,
+    2400
+  ],
+  "productReviews": [
+    {
+      "productId": 808,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-03-28T02:12:22.1999045+02:00"
+    },
+    {
+      "productId": 4943,
+      "reviewText": "This neural works considerably well. It mildly improves my basketball by a lot.",
+      "reviewDate": "2017-07-05T04:25:10.0816643+03:00"
+    }
+  ]
+}

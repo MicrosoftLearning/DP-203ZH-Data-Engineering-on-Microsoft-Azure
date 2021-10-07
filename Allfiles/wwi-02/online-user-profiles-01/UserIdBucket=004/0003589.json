@@ -1,0 +1,29 @@
+{
+  "userId": 3589,
+  "cartId": "1ff7c34b-3560-4a6a-9702-0a9855b7933b",
+  "preferredProducts": [
+    2666,
+    959,
+    3889,
+    865,
+    1946,
+    2085
+  ],
+  "productReviews": [
+    {
+      "productId": 4028,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-08-07T01:38:19.6288959+03:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2020-01-04T12:35:42.6383985+02:00"
+    },
+    {
+      "productId": 4503,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2016-08-01T04:49:44.6315556+03:00"
+    }
+  ]
+}

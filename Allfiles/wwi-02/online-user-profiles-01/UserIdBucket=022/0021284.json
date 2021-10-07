@@ -1,0 +1,36 @@
+{
+  "userId": 21284,
+  "cartId": "1e0c2393-e08c-4d3e-86a3-2cfb897aec65",
+  "preferredProducts": [
+    2627,
+    4078,
+    2956,
+    3284,
+    3224,
+    4353,
+    825,
+    4051
+  ],
+  "productReviews": [
+    {
+      "productId": 3282,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-05-17T23:49:05.0313956+03:00"
+    },
+    {
+      "productId": 2286,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-09-25T20:48:00.9209137+03:00"
+    },
+    {
+      "productId": 2500,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2020-02-19T06:01:54.9862174+02:00"
+    },
+    {
+      "productId": 1616,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-05-04T01:40:41.8689926+03:00"
+    }
+  ]
+}

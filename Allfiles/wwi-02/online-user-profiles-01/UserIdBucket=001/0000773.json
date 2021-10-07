@@ -1,0 +1,35 @@
+{
+  "userId": 773,
+  "cartId": "18ba0f25-40c4-404b-bb79-c822c8e0a12e",
+  "preferredProducts": [
+    928,
+    1525
+  ],
+  "productReviews": [
+    {
+      "productId": 4255,
+      "reviewText": "this approach is tasty.",
+      "reviewDate": "2018-11-15T17:19:18.2268426+02:00"
+    },
+    {
+      "productId": 1145,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-04-03T19:33:31.5633447+03:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-02-18T08:29:47.662385+02:00"
+    },
+    {
+      "productId": 4125,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-02-21T14:44:29.739937+02:00"
+    },
+    {
+      "productId": 2407,
+      "reviewText": "this firewall is nifty.",
+      "reviewDate": "2017-05-26T14:53:25.8644526+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 47636,
+  "cartId": "92f1a6ac-732f-482d-a3b2-1b2e5e86a15f",
+  "preferredProducts": [
+    1132,
+    480,
+    3533,
+    371,
+    3618,
+    232,
+    250,
+    2905
+  ],
+  "productReviews": [
+    {
+      "productId": 1115,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-04-02T06:18:27.5095795+03:00"
+    },
+    {
+      "productId": 2792,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-12-08T15:58:36.1267539+02:00"
+    },
+    {
+      "productId": 4307,
+      "reviewText": "This portals works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-10-27T15:17:46.2584514+03:00"
+    },
+    {
+      "productId": 4761,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2018-02-12T01:09:27.4352538+02:00"
+    }
+  ]
+}

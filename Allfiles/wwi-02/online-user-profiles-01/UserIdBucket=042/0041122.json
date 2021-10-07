@@ -1,0 +1,36 @@
+{
+  "userId": 41122,
+  "cartId": "05e01cf2-cde6-4d8c-b05f-ec3b0863ed7e",
+  "preferredProducts": [
+    2352,
+    1312,
+    231
+  ],
+  "productReviews": [
+    {
+      "productId": 3198,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-05-23T08:33:34.689049+03:00"
+    },
+    {
+      "productId": 606,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-05-17T19:34:22.5402938+03:00"
+    },
+    {
+      "productId": 126,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-07-20T14:21:41.5721633+03:00"
+    },
+    {
+      "productId": 4336,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-12-08T16:39:51.0739391+02:00"
+    },
+    {
+      "productId": 3109,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-12-30T03:03:43.1301898+02:00"
+    }
+  ]
+}

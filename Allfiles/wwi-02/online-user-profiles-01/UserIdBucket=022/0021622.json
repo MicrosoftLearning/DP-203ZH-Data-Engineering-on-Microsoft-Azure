@@ -1,0 +1,40 @@
+{
+  "userId": 21622,
+  "cartId": "45c8db57-9bfc-40ae-bfb2-171dc74858f1",
+  "preferredProducts": [
+    4294,
+    1901,
+    3909,
+    2573,
+    3624,
+    2047,
+    3997
+  ],
+  "productReviews": [
+    {
+      "productId": 51,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2018-11-14T11:28:08.2400978+02:00"
+    },
+    {
+      "productId": 1995,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-29T19:34:10.1315135+03:00"
+    },
+    {
+      "productId": 4007,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-07-19T23:35:24.624649+03:00"
+    },
+    {
+      "productId": 4403,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-08-28T10:01:49.6827247+03:00"
+    },
+    {
+      "productId": 2346,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-06-27T22:39:08.3809664+03:00"
+    }
+  ]
+}

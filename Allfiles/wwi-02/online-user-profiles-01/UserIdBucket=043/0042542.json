@@ -1,0 +1,22 @@
+{
+  "userId": 42542,
+  "cartId": "1225b94c-38f5-47d4-80ae-2f10041a74de",
+  "preferredProducts": [
+    318,
+    4144,
+    159,
+    4265
+  ],
+  "productReviews": [
+    {
+      "productId": 4492,
+      "reviewText": "This array works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-12-20T05:48:03.2378376+02:00"
+    },
+    {
+      "productId": 1627,
+      "reviewText": "this Massachusetts is perplexed.",
+      "reviewDate": "2017-05-12T15:08:30.0903939+03:00"
+    }
+  ]
+}

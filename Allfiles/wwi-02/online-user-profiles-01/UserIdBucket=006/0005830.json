@@ -1,0 +1,27 @@
+{
+  "userId": 5830,
+  "cartId": "e2549817-cf72-40bf-8e87-df284175ac3c",
+  "preferredProducts": [
+    2468,
+    663,
+    883,
+    2426
+  ],
+  "productReviews": [
+    {
+      "productId": 2759,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-09-05T15:15:55.6403088+03:00"
+    },
+    {
+      "productId": 1849,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-07-07T09:24:29.8915096+03:00"
+    },
+    {
+      "productId": 329,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-11-05T09:47:23.5423651+02:00"
+    }
+  ]
+}

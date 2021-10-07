@@ -1,0 +1,22 @@
+{
+  "userId": 35321,
+  "cartId": "b1c97e94-94f3-4db5-8148-616ce04c3310",
+  "preferredProducts": [
+    1273,
+    3693,
+    4690,
+    1989
+  ],
+  "productReviews": [
+    {
+      "productId": 1463,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-04-18T22:19:37.8244936+03:00"
+    },
+    {
+      "productId": 890,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-07-01T10:10:26.9942446+03:00"
+    }
+  ]
+}

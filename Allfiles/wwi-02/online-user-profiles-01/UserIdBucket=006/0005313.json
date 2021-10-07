@@ -1,0 +1,32 @@
+{
+  "userId": 5313,
+  "cartId": "5059bbab-165b-4465-99da-665736983c02",
+  "preferredProducts": [
+    3567,
+    4338,
+    4069,
+    759
+  ],
+  "productReviews": [
+    {
+      "productId": 2893,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2020-01-13T23:07:36.4892974+02:00"
+    },
+    {
+      "productId": 2283,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-01-28T02:05:34.8101122+02:00"
+    },
+    {
+      "productId": 1663,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-09-17T19:07:00.5696205+03:00"
+    },
+    {
+      "productId": 2085,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-11-09T20:09:35.1576683+02:00"
+    }
+  ]
+}

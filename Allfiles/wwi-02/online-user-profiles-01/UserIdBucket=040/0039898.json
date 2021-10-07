@@ -1,0 +1,32 @@
+{
+  "userId": 39898,
+  "cartId": "ef6888f9-aed0-4f24-bcc3-f3f38cb53ecb",
+  "preferredProducts": [
+    3909,
+    3684,
+    879,
+    4279
+  ],
+  "productReviews": [
+    {
+      "productId": 2044,
+      "reviewText": "this Licensed is brown.",
+      "reviewDate": "2016-09-29T07:36:15.5166713+03:00"
+    },
+    {
+      "productId": 655,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2020-04-27T05:48:20.3322042+03:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2018-10-11T19:56:19.7033319+03:00"
+    },
+    {
+      "productId": 442,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-07-16T12:35:53.9183127+03:00"
+    }
+  ]
+}

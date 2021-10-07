@@ -1,0 +1,32 @@
+{
+  "userId": 99952,
+  "cartId": "8db3de11-7c98-42a5-bc98-f6901026f21b",
+  "preferredProducts": [
+    1226,
+    3906,
+    2713,
+    2823
+  ],
+  "productReviews": [
+    {
+      "productId": 2622,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-03-25T16:49:42.5483911+03:00"
+    },
+    {
+      "productId": 531,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-03-17T17:45:12.937213+02:00"
+    },
+    {
+      "productId": 4923,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2020-03-13T09:32:23.6277422+02:00"
+    },
+    {
+      "productId": 97,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-12-30T12:27:59.6511705+02:00"
+    }
+  ]
+}

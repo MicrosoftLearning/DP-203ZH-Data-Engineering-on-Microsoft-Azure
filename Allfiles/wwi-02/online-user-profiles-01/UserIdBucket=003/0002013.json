@@ -1,0 +1,37 @@
+{
+  "userId": 2013,
+  "cartId": "334d0541-dd76-4c01-8c67-fb039ca3de94",
+  "preferredProducts": [
+    3660,
+    1627,
+    2183,
+    2201,
+    2204,
+    890,
+    4787,
+    2354,
+    2992
+  ],
+  "productReviews": [
+    {
+      "productId": 630,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-11-13T21:42:06.0212489+02:00"
+    },
+    {
+      "productId": 2423,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-09-02T19:34:09.9152337+03:00"
+    },
+    {
+      "productId": 433,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-05-26T16:00:28.1445036+03:00"
+    },
+    {
+      "productId": 3866,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-02-16T18:29:53.6634936+02:00"
+    }
+  ]
+}

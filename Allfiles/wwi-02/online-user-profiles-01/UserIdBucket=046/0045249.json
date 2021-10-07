@@ -1,0 +1,33 @@
+{
+  "userId": 45249,
+  "cartId": "42e3ccff-4c80-4184-9a89-98865bc71100",
+  "preferredProducts": [
+    4477,
+    4890,
+    1081,
+    2286,
+    1864,
+    2062,
+    2736,
+    4665,
+    2266,
+    389
+  ],
+  "productReviews": [
+    {
+      "productId": 3847,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-06-28T10:11:31.3069322+03:00"
+    },
+    {
+      "productId": 1012,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-12-30T10:56:47.9952539+02:00"
+    },
+    {
+      "productId": 2909,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-12-26T06:05:28.6280592+02:00"
+    }
+  ]
+}

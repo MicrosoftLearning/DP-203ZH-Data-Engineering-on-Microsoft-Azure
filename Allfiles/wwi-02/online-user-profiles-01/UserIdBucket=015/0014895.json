@@ -1,0 +1,28 @@
+{
+  "userId": 14895,
+  "cartId": "a906466d-8c78-442f-8788-5298e04a514b",
+  "preferredProducts": [
+    3985,
+    2819,
+    1158,
+    3902,
+    105
+  ],
+  "productReviews": [
+    {
+      "productId": 1001,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-02-17T18:24:50.62422+02:00"
+    },
+    {
+      "productId": 848,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-07-10T05:07:02.563665+03:00"
+    },
+    {
+      "productId": 1080,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-08-08T08:26:48.95064+03:00"
+    }
+  ]
+}

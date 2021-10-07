@@ -1,0 +1,31 @@
+{
+  "userId": 9603,
+  "cartId": "f871120d-1ede-4a81-a68d-1959692f18f6",
+  "preferredProducts": [
+    4980,
+    4556,
+    3320
+  ],
+  "productReviews": [
+    {
+      "productId": 1812,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-10-01T11:25:50.8873624+03:00"
+    },
+    {
+      "productId": 1749,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-03-27T22:56:25.9017516+03:00"
+    },
+    {
+      "productId": 4512,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-12-25T17:43:21.2626992+02:00"
+    },
+    {
+      "productId": 3653,
+      "reviewText": "This Research works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2019-10-28T01:09:10.3090609+02:00"
+    }
+  ]
+}

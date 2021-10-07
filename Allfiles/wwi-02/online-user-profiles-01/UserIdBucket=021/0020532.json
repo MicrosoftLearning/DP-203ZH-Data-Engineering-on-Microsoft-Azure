@@ -1,0 +1,32 @@
+{
+  "userId": 20532,
+  "cartId": "1ff31fd6-1225-423c-bb50-dfce386bc78e",
+  "preferredProducts": [
+    1864,
+    1558,
+    3538,
+    3676
+  ],
+  "productReviews": [
+    {
+      "productId": 3504,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2016-09-10T18:06:11.8953304+03:00"
+    },
+    {
+      "productId": 1548,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-02-27T19:06:43.7815799+02:00"
+    },
+    {
+      "productId": 4123,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2016-12-24T21:15:05.2041875+02:00"
+    },
+    {
+      "productId": 4820,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-06-26T09:03:11.1003386+03:00"
+    }
+  ]
+}

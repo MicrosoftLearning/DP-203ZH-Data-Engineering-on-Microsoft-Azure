@@ -1,0 +1,37 @@
+{
+  "userId": 85293,
+  "cartId": "c8d66bcb-6dd6-43cc-874b-3ba78583001a",
+  "preferredProducts": [
+    64,
+    2038,
+    4445,
+    2252,
+    4444,
+    2788,
+    45,
+    2072,
+    2766
+  ],
+  "productReviews": [
+    {
+      "productId": 4011,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-08-31T10:14:35.5633265+03:00"
+    },
+    {
+      "productId": 3392,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-11-25T17:10:41.0079524+02:00"
+    },
+    {
+      "productId": 291,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-01-02T06:54:47.9658881+02:00"
+    },
+    {
+      "productId": 3681,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-11-13T23:13:49.1003705+02:00"
+    }
+  ]
+}

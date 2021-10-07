@@ -1,0 +1,30 @@
+{
+  "userId": 10188,
+  "cartId": "27296a8a-25cc-4525-aa9b-116be169b758",
+  "preferredProducts": [
+    2749,
+    2231
+  ],
+  "productReviews": [
+    {
+      "productId": 1493,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2019-06-25T15:04:05.5987278+03:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-08-10T14:58:49.1035333+03:00"
+    },
+    {
+      "productId": 1021,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-10-22T17:15:32.8567494+03:00"
+    },
+    {
+      "productId": 1840,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-02-16T00:33:57.5911331+02:00"
+    }
+  ]
+}

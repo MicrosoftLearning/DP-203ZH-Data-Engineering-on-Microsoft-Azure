@@ -1,0 +1,30 @@
+{
+  "userId": 95745,
+  "cartId": "89377ae3-63ab-4c38-8185-22979b1263a4",
+  "preferredProducts": [
+    715,
+    140
+  ],
+  "productReviews": [
+    {
+      "productId": 1645,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-10-04T05:51:11.4331176+03:00"
+    },
+    {
+      "productId": 1153,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Program keeps them away.",
+      "reviewDate": "2019-02-23T13:32:32.4982176+02:00"
+    },
+    {
+      "productId": 2603,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-04-07T04:28:46.7103773+03:00"
+    },
+    {
+      "productId": 5,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-05-10T14:55:54.093555+03:00"
+    }
+  ]
+}

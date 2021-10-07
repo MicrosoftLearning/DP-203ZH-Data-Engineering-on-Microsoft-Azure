@@ -1,0 +1,31 @@
+{
+  "userId": 65389,
+  "cartId": "3c0b5557-08f5-43c6-a231-17a227beef0b",
+  "preferredProducts": [
+    2894,
+    3083,
+    2561
+  ],
+  "productReviews": [
+    {
+      "productId": 3145,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2020-04-19T08:31:05.7319127+03:00"
+    },
+    {
+      "productId": 1880,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-03-18T12:51:36.0456684+02:00"
+    },
+    {
+      "productId": 699,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-08T08:31:23.2010421+02:00"
+    },
+    {
+      "productId": 4523,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-02-03T13:07:35.2065211+02:00"
+    }
+  ]
+}

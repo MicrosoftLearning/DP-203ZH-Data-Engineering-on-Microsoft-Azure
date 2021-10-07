@@ -1,0 +1,25 @@
+{
+  "userId": 20275,
+  "cartId": "23874cde-4161-40ab-aa16-7f9de6506daf",
+  "preferredProducts": [
+    1909,
+    716
+  ],
+  "productReviews": [
+    {
+      "productId": 3728,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-07-15T03:13:05.523075+03:00"
+    },
+    {
+      "productId": 990,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-06-10T17:44:18.5678412+03:00"
+    },
+    {
+      "productId": 540,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-03-06T02:33:56.3776307+02:00"
+    }
+  ]
+}

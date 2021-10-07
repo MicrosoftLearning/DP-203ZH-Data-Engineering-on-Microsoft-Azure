@@ -1,0 +1,34 @@
+{
+  "userId": 95323,
+  "cartId": "986b4225-5d0b-42a0-a7f7-eaa70646cbc8",
+  "preferredProducts": [
+    20,
+    618,
+    2517,
+    2507,
+    1814,
+    1624
+  ],
+  "productReviews": [
+    {
+      "productId": 3500,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2020-01-16T20:29:31.5090354+02:00"
+    },
+    {
+      "productId": 2330,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2018-07-28T02:23:39.183105+03:00"
+    },
+    {
+      "productId": 555,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-06-13T18:51:05.8328514+03:00"
+    },
+    {
+      "productId": 4277,
+      "reviewText": "this Florida is tasty.",
+      "reviewDate": "2019-05-03T13:19:54.7514247+03:00"
+    }
+  ]
+}

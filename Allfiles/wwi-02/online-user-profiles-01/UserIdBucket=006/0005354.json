@@ -1,0 +1,27 @@
+{
+  "userId": 5354,
+  "cartId": "9b76fb57-31e5-4938-bb3f-513db53fdb42",
+  "preferredProducts": [
+    2218,
+    2287,
+    141,
+    2709
+  ],
+  "productReviews": [
+    {
+      "productId": 2950,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2016-09-21T05:51:28.6166595+03:00"
+    },
+    {
+      "productId": 230,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-11-13T17:28:05.8233355+02:00"
+    },
+    {
+      "productId": 290,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-09-23T06:11:10.663334+03:00"
+    }
+  ]
+}

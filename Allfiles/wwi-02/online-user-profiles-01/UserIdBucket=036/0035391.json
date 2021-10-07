@@ -1,0 +1,27 @@
+{
+  "userId": 35391,
+  "cartId": "5a4205a1-582c-4c4a-8967-907b7406a44d",
+  "preferredProducts": [
+    844,
+    171,
+    1399,
+    2944
+  ],
+  "productReviews": [
+    {
+      "productId": 2711,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-06-09T06:03:06.7210175+03:00"
+    },
+    {
+      "productId": 2360,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-04-05T04:24:17.0588783+03:00"
+    },
+    {
+      "productId": 2304,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-05-01T01:59:01.0526434+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 78669,
+  "cartId": "0d32efb3-a8c8-4582-ae4c-23646cb7b52d",
+  "preferredProducts": [
+    847,
+    2693,
+    330,
+    1803,
+    1216
+  ],
+  "productReviews": [
+    {
+      "productId": 2631,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-05-05T18:17:18.6627943+03:00"
+    },
+    {
+      "productId": 793,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-10-18T23:07:25.1588216+03:00"
+    },
+    {
+      "productId": 1900,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-02-24T05:23:24.0765257+02:00"
+    },
+    {
+      "productId": 44,
+      "reviewText": "this generate is complimentary.",
+      "reviewDate": "2020-04-30T00:41:11.7042731+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 23826,
+  "cartId": "e1721db1-6574-4dc8-8eb9-db58a02e92dd",
+  "preferredProducts": [
+    4020,
+    3953,
+    4598,
+    4465,
+    3984,
+    214,
+    2197,
+    2982
+  ],
+  "productReviews": [
+    {
+      "productId": 858,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-05-27T19:42:26.3134436+03:00"
+    },
+    {
+      "productId": 1688,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-02-11T20:30:38.8315889+02:00"
+    },
+    {
+      "productId": 1222,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-06-17T11:26:44.433173+03:00"
+    },
+    {
+      "productId": 4540,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-03-20T02:09:57.8618345+02:00"
+    }
+  ]
+}

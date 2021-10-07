@@ -1,0 +1,30 @@
+{
+  "userId": 39890,
+  "cartId": "241fe036-e2fc-4613-8f1b-9c12523dbda4",
+  "preferredProducts": [
+    2535,
+    1908,
+    1698,
+    1368,
+    2560,
+    3429,
+    4949
+  ],
+  "productReviews": [
+    {
+      "productId": 3863,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-03-08T13:48:28.5610079+02:00"
+    },
+    {
+      "productId": 3492,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-09-06T00:26:26.0958437+03:00"
+    },
+    {
+      "productId": 595,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-09-25T00:34:50.6969324+03:00"
+    }
+  ]
+}

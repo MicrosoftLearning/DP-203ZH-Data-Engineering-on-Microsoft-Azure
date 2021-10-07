@@ -1,0 +1,35 @@
+{
+  "userId": 77456,
+  "cartId": "bf09b814-7e45-4e38-aaa9-7949c0f251c4",
+  "preferredProducts": [
+    1546,
+    4533,
+    2692,
+    4374,
+    4819,
+    2390,
+    1718
+  ],
+  "productReviews": [
+    {
+      "productId": 3962,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2019-07-25T00:42:12.6132588+03:00"
+    },
+    {
+      "productId": 439,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-06-03T05:32:58.7168775+03:00"
+    },
+    {
+      "productId": 2266,
+      "reviewText": "This is a really good analyzer.",
+      "reviewDate": "2016-08-05T06:48:58.9559988+03:00"
+    },
+    {
+      "productId": 3918,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-01-19T12:39:20.8497525+02:00"
+    }
+  ]
+}

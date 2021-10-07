@@ -1,0 +1,27 @@
+{
+  "userId": 22093,
+  "cartId": "408a645a-7aed-46d9-99d8-46c5c14ce7f7",
+  "preferredProducts": [
+    1733,
+    2361,
+    3848,
+    631
+  ],
+  "productReviews": [
+    {
+      "productId": 1194,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-12-30T04:16:19.6933621+02:00"
+    },
+    {
+      "productId": 4223,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-01-27T06:59:54.2381325+02:00"
+    },
+    {
+      "productId": 2752,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-02-21T17:49:57.4109079+02:00"
+    }
+  ]
+}

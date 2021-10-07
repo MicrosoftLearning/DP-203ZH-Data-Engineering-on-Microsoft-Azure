@@ -1,0 +1,33 @@
+{
+  "userId": 60009,
+  "cartId": "f568f3b4-93bd-44e7-ae88-efd93d06775b",
+  "preferredProducts": [
+    4815,
+    2402,
+    2285,
+    1769,
+    960
+  ],
+  "productReviews": [
+    {
+      "productId": 4576,
+      "reviewText": "this navigate is ratty.",
+      "reviewDate": "2018-01-28T10:35:30.7673971+02:00"
+    },
+    {
+      "productId": 3288,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-10-15T04:23:27.5042259+03:00"
+    },
+    {
+      "productId": 3767,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-11-22T06:30:15.669084+02:00"
+    },
+    {
+      "productId": 3270,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-09-19T16:25:46.5032214+03:00"
+    }
+  ]
+}

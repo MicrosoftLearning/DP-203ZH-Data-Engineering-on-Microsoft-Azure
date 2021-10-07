@@ -1,0 +1,31 @@
+{
+  "userId": 20322,
+  "cartId": "f136cf19-40ea-4a25-83e6-b44e9b4623d2",
+  "preferredProducts": [
+    3142,
+    1076,
+    1446
+  ],
+  "productReviews": [
+    {
+      "productId": 3166,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-11-17T16:32:22.3745922+02:00"
+    },
+    {
+      "productId": 3165,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-11-20T10:00:36.2607709+02:00"
+    },
+    {
+      "productId": 1748,
+      "reviewText": "this Infrastructure is mellow.",
+      "reviewDate": "2019-09-20T07:55:29.60706+03:00"
+    },
+    {
+      "productId": 2085,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2019-06-01T18:13:50.8565353+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 80496,
+  "cartId": "92c86c55-1ae0-4bfc-b5fe-be0200068910",
+  "preferredProducts": [
+    260,
+    1175,
+    3010,
+    169,
+    17
+  ],
+  "productReviews": [
+    {
+      "productId": 2077,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-07-31T09:04:05.92877+03:00"
+    },
+    {
+      "productId": 3336,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-07-07T21:14:07.5798928+03:00"
+    },
+    {
+      "productId": 4958,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-08-05T02:50:24.2645951+03:00"
+    },
+    {
+      "productId": 1720,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-12T14:57:22.7050774+02:00"
+    }
+  ]
+}

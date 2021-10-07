@@ -1,0 +1,42 @@
+{
+  "userId": 90204,
+  "cartId": "8b93c083-b6be-4cd9-b977-987ab3498a18",
+  "preferredProducts": [
+    4563,
+    52,
+    992,
+    3128,
+    4321,
+    3785,
+    1250,
+    3611,
+    2675
+  ],
+  "productReviews": [
+    {
+      "productId": 2423,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-06-29T22:07:48.9255243+03:00"
+    },
+    {
+      "productId": 1865,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-04-18T03:30:59.6336977+03:00"
+    },
+    {
+      "productId": 319,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-02-16T06:49:18.1428967+02:00"
+    },
+    {
+      "productId": 801,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-11-28T23:04:37.8985372+02:00"
+    },
+    {
+      "productId": 1592,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-02-21T10:08:40.8433817+02:00"
+    }
+  ]
+}

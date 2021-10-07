@@ -1,0 +1,32 @@
+{
+  "userId": 12618,
+  "cartId": "4ddd013a-0eb1-414a-a565-bf5f5a857fe9",
+  "preferredProducts": [
+    4098,
+    4451,
+    354,
+    1182
+  ],
+  "productReviews": [
+    {
+      "productId": 764,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-10-04T21:09:18.958399+03:00"
+    },
+    {
+      "productId": 1508,
+      "reviewText": "this Heard Island and McDonald Islands is papery.",
+      "reviewDate": "2017-03-26T00:19:22.7592067+02:00"
+    },
+    {
+      "productId": 3531,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2018-02-17T08:33:15.0613462+02:00"
+    },
+    {
+      "productId": 28,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-12-27T03:32:18.718001+02:00"
+    }
+  ]
+}

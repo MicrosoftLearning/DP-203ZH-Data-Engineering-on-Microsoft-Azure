@@ -1,0 +1,32 @@
+{
+  "userId": 27295,
+  "cartId": "a3c1f2b5-c2c2-4f98-868d-4da03845acfe",
+  "preferredProducts": [
+    2589,
+    533,
+    4338,
+    2896,
+    3513,
+    4949,
+    3585,
+    737,
+    4850
+  ],
+  "productReviews": [
+    {
+      "productId": 888,
+      "reviewText": "this navigate is tasty.",
+      "reviewDate": "2019-08-28T00:30:16.5467093+03:00"
+    },
+    {
+      "productId": 332,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-10-29T09:00:47.957813+02:00"
+    },
+    {
+      "productId": 4936,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-01-15T04:42:47.102772+02:00"
+    }
+  ]
+}

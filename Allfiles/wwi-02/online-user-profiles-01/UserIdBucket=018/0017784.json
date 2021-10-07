@@ -1,0 +1,28 @@
+{
+  "userId": 17784,
+  "cartId": "ef582c14-52f0-426e-8032-ca5a0ac0be81",
+  "preferredProducts": [
+    2012,
+    2649,
+    2517,
+    2376,
+    382,
+    1495,
+    2129,
+    3471,
+    3765,
+    532
+  ],
+  "productReviews": [
+    {
+      "productId": 2419,
+      "reviewText": "this SMS is nifty.",
+      "reviewDate": "2017-02-15T01:08:42.2406979+02:00"
+    },
+    {
+      "productId": 2433,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-08-07T20:08:39.8390938+03:00"
+    }
+  ]
+}

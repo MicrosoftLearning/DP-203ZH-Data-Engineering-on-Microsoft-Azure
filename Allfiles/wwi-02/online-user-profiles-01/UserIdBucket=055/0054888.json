@@ -1,0 +1,35 @@
+{
+  "userId": 54888,
+  "cartId": "2b7bdd14-5457-4605-8ef7-18ec92e03df6",
+  "preferredProducts": [
+    490,
+    3227,
+    2240,
+    4538,
+    3657,
+    3159,
+    3129
+  ],
+  "productReviews": [
+    {
+      "productId": 3170,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-12-21T04:33:54.8869597+02:00"
+    },
+    {
+      "productId": 3496,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-06-08T17:53:28.359551+03:00"
+    },
+    {
+      "productId": 1025,
+      "reviewText": "this Berkshire is flirty.",
+      "reviewDate": "2017-07-24T13:50:07.4756789+03:00"
+    },
+    {
+      "productId": 3756,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2020-02-27T22:45:53.3566204+02:00"
+    }
+  ]
+}

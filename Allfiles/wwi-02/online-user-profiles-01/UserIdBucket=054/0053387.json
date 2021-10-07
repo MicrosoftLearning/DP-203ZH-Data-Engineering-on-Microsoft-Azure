@@ -1,0 +1,30 @@
+{
+  "userId": 53387,
+  "cartId": "c5d22893-39fd-48b5-b012-a70d3830ef10",
+  "preferredProducts": [
+    4521,
+    4937
+  ],
+  "productReviews": [
+    {
+      "productId": 3630,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-08-20T09:42:32.1471885+03:00"
+    },
+    {
+      "productId": 3603,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-08-30T03:12:56.7320335+03:00"
+    },
+    {
+      "productId": 527,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2018-05-08T03:16:57.9953426+03:00"
+    },
+    {
+      "productId": 2351,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-02-27T06:08:31.3845772+02:00"
+    }
+  ]
+}

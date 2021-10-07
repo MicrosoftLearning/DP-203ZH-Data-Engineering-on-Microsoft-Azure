@@ -1,0 +1,32 @@
+{
+  "userId": 31827,
+  "cartId": "5e921ffb-6722-4b34-a09e-7f706bb1ea7d",
+  "preferredProducts": [
+    3951,
+    4950,
+    557,
+    1616,
+    2966,
+    3211,
+    3923,
+    2817,
+    2039
+  ],
+  "productReviews": [
+    {
+      "productId": 3630,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-25T04:01:34.1953657+02:00"
+    },
+    {
+      "productId": 4400,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-01-08T07:00:48.9949345+02:00"
+    },
+    {
+      "productId": 3886,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-06-10T04:39:36.6704642+03:00"
+    }
+  ]
+}

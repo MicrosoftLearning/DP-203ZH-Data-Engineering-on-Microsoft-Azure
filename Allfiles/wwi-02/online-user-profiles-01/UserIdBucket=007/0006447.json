@@ -1,0 +1,31 @@
+{
+  "userId": 6447,
+  "cartId": "c04603c6-549c-4771-b113-5a6d1db9a627",
+  "preferredProducts": [
+    2106,
+    2452,
+    3218
+  ],
+  "productReviews": [
+    {
+      "productId": 301,
+      "reviewText": "this Trail is top-notch.",
+      "reviewDate": "2019-12-08T19:13:35.7565288+02:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-07-09T07:10:55.4835245+03:00"
+    },
+    {
+      "productId": 4540,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2020-04-26T08:36:10.7538735+03:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-06-10T07:54:54.7330266+03:00"
+    }
+  ]
+}

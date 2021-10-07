@@ -1,0 +1,37 @@
+{
+  "userId": 12577,
+  "cartId": "02efe834-5dc8-4cd3-b108-ea5dd17ee456",
+  "preferredProducts": [
+    4734,
+    4335,
+    4808,
+    4495
+  ],
+  "productReviews": [
+    {
+      "productId": 1208,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-05-16T12:09:58.0711791+03:00"
+    },
+    {
+      "productId": 1779,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-03-28T00:17:19.1133964+02:00"
+    },
+    {
+      "productId": 1553,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-02-10T01:28:33.3821101+02:00"
+    },
+    {
+      "productId": 3104,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2016-06-18T14:42:40.1531869+03:00"
+    },
+    {
+      "productId": 3537,
+      "reviewText": "this FTP is tasty.",
+      "reviewDate": "2019-11-26T20:19:59.1348319+02:00"
+    }
+  ]
+}

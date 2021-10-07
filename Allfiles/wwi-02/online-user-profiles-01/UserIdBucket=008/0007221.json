@@ -1,0 +1,38 @@
+{
+  "userId": 7221,
+  "cartId": "f68f1163-f422-46da-a0db-e6a6cb23303b",
+  "preferredProducts": [
+    4113,
+    3274,
+    4348,
+    2923,
+    687,
+    68,
+    1335,
+    1816,
+    4846,
+    1076
+  ],
+  "productReviews": [
+    {
+      "productId": 830,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-07-07T08:09:33.6710619+03:00"
+    },
+    {
+      "productId": 4762,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-12-07T12:25:06.4834736+02:00"
+    },
+    {
+      "productId": 648,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2016-06-16T21:44:51.5661819+03:00"
+    },
+    {
+      "productId": 4115,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-06-09T10:26:30.4592339+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 3321,
+  "cartId": "c384b3b6-366b-4241-b304-605d822b6084",
+  "preferredProducts": [
+    907,
+    2537,
+    3518
+  ],
+  "productReviews": [
+    {
+      "productId": 2060,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-03-09T16:38:07.4175277+02:00"
+    },
+    {
+      "productId": 3318,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2020-03-27T10:14:59.4283962+02:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-05-11T15:00:55.5386108+03:00"
+    }
+  ]
+}

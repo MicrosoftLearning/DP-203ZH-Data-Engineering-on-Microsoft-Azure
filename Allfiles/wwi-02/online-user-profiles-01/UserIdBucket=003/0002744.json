@@ -1,0 +1,32 @@
+{
+  "userId": 2744,
+  "cartId": "ebbb9bc4-15f8-435c-ab09-de0a35d35748",
+  "preferredProducts": [
+    3873,
+    2255,
+    3976,
+    4843
+  ],
+  "productReviews": [
+    {
+      "productId": 739,
+      "reviewText": "this Springs is slurpee.",
+      "reviewDate": "2017-09-14T05:06:30.2918132+03:00"
+    },
+    {
+      "productId": 3107,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-09-24T23:45:54.1484748+03:00"
+    },
+    {
+      "productId": 463,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-07-12T09:35:51.5536809+03:00"
+    },
+    {
+      "productId": 2524,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-02-14T18:19:13.9186788+02:00"
+    }
+  ]
+}

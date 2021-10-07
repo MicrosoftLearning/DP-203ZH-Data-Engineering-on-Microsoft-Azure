@@ -1,0 +1,31 @@
+{
+  "userId": 4940,
+  "cartId": "c640079e-2fc2-40d7-b1c8-73ea7e6f792a",
+  "preferredProducts": [
+    1887,
+    3846,
+    649,
+    1219,
+    3594,
+    3215,
+    164,
+    4807
+  ],
+  "productReviews": [
+    {
+      "productId": 4453,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-10-27T11:29:48.084561+03:00"
+    },
+    {
+      "productId": 3094,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-04-27T02:37:37.9729832+03:00"
+    },
+    {
+      "productId": 3616,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-13T02:29:57.9535144+03:00"
+    }
+  ]
+}

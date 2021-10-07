@@ -1,0 +1,42 @@
+{
+  "userId": 767,
+  "cartId": "cd1fe5fd-8a3a-4abb-9c27-ab7ee61d1497",
+  "preferredProducts": [
+    3235,
+    1813,
+    1169,
+    4652,
+    2275,
+    2649,
+    46,
+    2961,
+    1641
+  ],
+  "productReviews": [
+    {
+      "productId": 4096,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-12-04T03:45:46.4118283+02:00"
+    },
+    {
+      "productId": 3348,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-05-18T22:32:04.9105459+03:00"
+    },
+    {
+      "productId": 4343,
+      "reviewText": "this Isle is flirty.",
+      "reviewDate": "2016-10-12T14:19:09.4895038+03:00"
+    },
+    {
+      "productId": 1830,
+      "reviewText": "this interface is flirty.",
+      "reviewDate": "2019-07-05T14:22:43.7136953+03:00"
+    },
+    {
+      "productId": 4188,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-04-04T14:50:30.7999695+03:00"
+    }
+  ]
+}

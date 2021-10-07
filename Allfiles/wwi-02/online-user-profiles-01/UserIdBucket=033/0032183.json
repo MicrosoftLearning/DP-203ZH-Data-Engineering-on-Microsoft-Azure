@@ -1,0 +1,33 @@
+{
+  "userId": 32183,
+  "cartId": "d97b3e80-88dc-4c62-9231-a317783f84c0",
+  "preferredProducts": [
+    2777,
+    2925,
+    1054,
+    3767,
+    599
+  ],
+  "productReviews": [
+    {
+      "productId": 2469,
+      "reviewText": "this Platinum is flirty.",
+      "reviewDate": "2020-02-11T23:18:34.8699639+02:00"
+    },
+    {
+      "productId": 3029,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-03-05T20:15:07.7120911+02:00"
+    },
+    {
+      "productId": 3620,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-01-22T18:34:27.6467251+02:00"
+    },
+    {
+      "productId": 2347,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-07-19T14:00:05.9507764+03:00"
+    }
+  ]
+}

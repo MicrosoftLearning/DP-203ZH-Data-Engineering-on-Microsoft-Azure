@@ -1,0 +1,24 @@
+{
+  "userId": 57842,
+  "cartId": "6db185da-3afc-45fe-8234-aa7e712ecff5",
+  "preferredProducts": [
+    4547,
+    1418,
+    3395,
+    2447,
+    930,
+    3256
+  ],
+  "productReviews": [
+    {
+      "productId": 345,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-09-27T00:48:05.5904267+03:00"
+    },
+    {
+      "productId": 610,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-10-21T23:16:32.7439842+03:00"
+    }
+  ]
+}

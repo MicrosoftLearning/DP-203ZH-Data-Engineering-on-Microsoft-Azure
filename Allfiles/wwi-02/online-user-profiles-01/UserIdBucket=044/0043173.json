@@ -1,0 +1,24 @@
+{
+  "userId": 43173,
+  "cartId": "95345c04-dc9b-434e-8901-734189360238",
+  "preferredProducts": [
+    417,
+    1323,
+    2810,
+    661,
+    1685,
+    1293
+  ],
+  "productReviews": [
+    {
+      "productId": 4295,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-05-10T19:07:21.6389047+03:00"
+    },
+    {
+      "productId": 4286,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-05-13T23:42:06.0905789+03:00"
+    }
+  ]
+}

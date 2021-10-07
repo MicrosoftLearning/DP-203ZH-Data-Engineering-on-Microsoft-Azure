@@ -1,0 +1,29 @@
+{
+  "userId": 42441,
+  "cartId": "11d8acf6-a31b-41ef-b34e-5d6acd6146db",
+  "preferredProducts": [
+    400,
+    3629,
+    369,
+    2617,
+    1185,
+    3273
+  ],
+  "productReviews": [
+    {
+      "productId": 2477,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-04-16T18:57:09.4940112+03:00"
+    },
+    {
+      "productId": 807,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2016-05-16T21:58:04.6755016+03:00"
+    },
+    {
+      "productId": 714,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-01-05T00:50:16.1049678+02:00"
+    }
+  ]
+}

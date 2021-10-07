@@ -1,0 +1,30 @@
+{
+  "userId": 81947,
+  "cartId": "620fe265-1567-459a-a78f-17a375572612",
+  "preferredProducts": [
+    1198,
+    1647,
+    2943,
+    741,
+    4514,
+    4093,
+    4154
+  ],
+  "productReviews": [
+    {
+      "productId": 2867,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-08-02T21:01:28.3475767+03:00"
+    },
+    {
+      "productId": 4815,
+      "reviewText": "this application is top-notch.",
+      "reviewDate": "2018-01-28T09:48:33.5347762+02:00"
+    },
+    {
+      "productId": 1612,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-04-24T04:58:40.5545595+03:00"
+    }
+  ]
+}

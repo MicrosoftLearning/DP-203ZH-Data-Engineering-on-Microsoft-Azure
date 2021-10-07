@@ -1,0 +1,32 @@
+{
+  "userId": 30897,
+  "cartId": "dab8f9c2-5918-4f81-8e9c-fae36ae31b07",
+  "preferredProducts": [
+    3834,
+    2975,
+    677,
+    18,
+    212,
+    3264,
+    1550,
+    1984,
+    1845
+  ],
+  "productReviews": [
+    {
+      "productId": 154,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2019-11-23T01:08:32.7597038+02:00"
+    },
+    {
+      "productId": 1390,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-08-19T18:09:44.9651156+03:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-03-05T20:07:48.7213485+02:00"
+    }
+  ]
+}

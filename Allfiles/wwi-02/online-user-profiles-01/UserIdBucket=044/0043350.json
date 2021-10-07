@@ -1,0 +1,36 @@
+{
+  "userId": 43350,
+  "cartId": "9d48390a-c08d-4e26-a2cd-fbc7d79edcbd",
+  "preferredProducts": [
+    3194,
+    3418,
+    2069,
+    1998,
+    472,
+    4026,
+    3881,
+    2713
+  ],
+  "productReviews": [
+    {
+      "productId": 2160,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2017-10-12T12:16:09.1948207+03:00"
+    },
+    {
+      "productId": 1574,
+      "reviewText": "this Customer is slurpee.",
+      "reviewDate": "2019-06-07T21:54:48.2952773+03:00"
+    },
+    {
+      "productId": 2930,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-06-02T22:37:02.0426513+03:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-09-06T01:54:36.9615535+03:00"
+    }
+  ]
+}

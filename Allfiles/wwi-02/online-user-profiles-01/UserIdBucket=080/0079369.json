@@ -1,0 +1,30 @@
+{
+  "userId": 79369,
+  "cartId": "37077849-f21f-4543-8878-bfd2066a67b2",
+  "preferredProducts": [
+    1532,
+    1124,
+    1911,
+    4577,
+    3343,
+    401,
+    2034
+  ],
+  "productReviews": [
+    {
+      "productId": 549,
+      "reviewText": "this Rustic is nifty.",
+      "reviewDate": "2017-11-20T22:54:55.6929111+02:00"
+    },
+    {
+      "productId": 651,
+      "reviewText": "this Organic is tasty.",
+      "reviewDate": "2019-09-26T01:50:59.3602334+03:00"
+    },
+    {
+      "productId": 4576,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-03-06T10:32:08.4332801+02:00"
+    }
+  ]
+}

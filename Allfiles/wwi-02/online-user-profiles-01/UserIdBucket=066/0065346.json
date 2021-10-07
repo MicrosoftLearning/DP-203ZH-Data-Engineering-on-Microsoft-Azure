@@ -1,0 +1,28 @@
+{
+  "userId": 65346,
+  "cartId": "56aa319d-e356-4116-8434-2da9494efeac",
+  "preferredProducts": [
+    190,
+    136,
+    1425,
+    4431,
+    3342
+  ],
+  "productReviews": [
+    {
+      "productId": 4867,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-04-29T04:26:32.3790204+03:00"
+    },
+    {
+      "productId": 4954,
+      "reviewText": "This Ergonomic Rubber Ball works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2018-05-31T15:10:51.6821873+03:00"
+    },
+    {
+      "productId": 4367,
+      "reviewText": "This olive works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2016-12-29T02:48:55.9050025+02:00"
+    }
+  ]
+}

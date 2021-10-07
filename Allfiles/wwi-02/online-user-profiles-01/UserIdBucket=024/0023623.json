@@ -1,0 +1,38 @@
+{
+  "userId": 23623,
+  "cartId": "709dbbec-c1ac-426a-91a6-6d329607a01e",
+  "preferredProducts": [
+    2653,
+    675,
+    509,
+    1108,
+    2308
+  ],
+  "productReviews": [
+    {
+      "productId": 18,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-02-20T00:03:29.4546741+02:00"
+    },
+    {
+      "productId": 4451,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-01-21T12:22:58.5555157+02:00"
+    },
+    {
+      "productId": 3609,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2020-01-29T22:21:50.365429+02:00"
+    },
+    {
+      "productId": 2784,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-04-16T17:35:33.0320419+03:00"
+    },
+    {
+      "productId": 3446,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-01-09T03:17:58.2350332+02:00"
+    }
+  ]
+}

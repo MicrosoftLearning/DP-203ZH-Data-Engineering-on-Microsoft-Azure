@@ -1,0 +1,30 @@
+{
+  "userId": 34482,
+  "cartId": "c2ac472a-51bc-42a1-9da2-25528564b436",
+  "preferredProducts": [
+    2413,
+    1872,
+    74,
+    260,
+    2170,
+    928,
+    3374
+  ],
+  "productReviews": [
+    {
+      "productId": 800,
+      "reviewText": "this definition is papery.",
+      "reviewDate": "2016-07-20T23:33:43.9037175+03:00"
+    },
+    {
+      "productId": 3184,
+      "reviewText": "This Checking Account works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-01-05T05:32:34.6186595+02:00"
+    },
+    {
+      "productId": 333,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-09-17T18:55:42.2926189+03:00"
+    }
+  ]
+}

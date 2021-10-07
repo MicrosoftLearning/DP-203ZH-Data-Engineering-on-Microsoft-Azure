@@ -1,0 +1,43 @@
+{
+  "userId": 10302,
+  "cartId": "a4f8ce3a-6c68-4181-9cc0-c67a60c19587",
+  "preferredProducts": [
+    2148,
+    4455,
+    1352,
+    333,
+    2376,
+    957,
+    1768,
+    2704,
+    4852,
+    504
+  ],
+  "productReviews": [
+    {
+      "productId": 1001,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-02-13T22:09:44.0774071+02:00"
+    },
+    {
+      "productId": 2414,
+      "reviewText": "This Wyoming works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-05-23T11:07:10.6530453+03:00"
+    },
+    {
+      "productId": 3441,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-07-09T19:20:27.5092297+03:00"
+    },
+    {
+      "productId": 4991,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-04-18T02:17:51.8697377+03:00"
+    },
+    {
+      "productId": 957,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-07-02T20:51:05.218854+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 27829,
+  "cartId": "ecccae46-8c12-4658-955e-4c1c02bcb2ed",
+  "preferredProducts": [
+    3163,
+    3085,
+    1348,
+    4323,
+    2903,
+    2530,
+    2040,
+    3300,
+    307,
+    3827
+  ],
+  "productReviews": [
+    {
+      "productId": 1681,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2020-04-28T07:01:15.4520538+03:00"
+    },
+    {
+      "productId": 2104,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2020-04-22T11:55:46.1197845+03:00"
+    },
+    {
+      "productId": 340,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2016-11-28T08:13:14.8899267+02:00"
+    }
+  ]
+}

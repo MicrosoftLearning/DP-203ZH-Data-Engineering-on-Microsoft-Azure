@@ -1,0 +1,30 @@
+{
+  "userId": 769,
+  "cartId": "23fa8d6a-934d-4fd1-a453-c7ac0a00d443",
+  "preferredProducts": [
+    2867,
+    3766,
+    4409,
+    2838,
+    2252,
+    3965,
+    2795
+  ],
+  "productReviews": [
+    {
+      "productId": 1900,
+      "reviewText": "this maximized is ratty.",
+      "reviewDate": "2019-09-28T13:36:14.0456243+03:00"
+    },
+    {
+      "productId": 1165,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2017-05-14T18:47:14.5205446+03:00"
+    },
+    {
+      "productId": 1123,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-05-18T18:57:36.2339356+03:00"
+    }
+  ]
+}

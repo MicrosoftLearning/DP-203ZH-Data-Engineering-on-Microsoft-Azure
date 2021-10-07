@@ -1,0 +1,28 @@
+{
+  "userId": 36486,
+  "cartId": "36cf1ee8-aea3-403f-b6ad-8f98e23c035d",
+  "preferredProducts": [
+    54,
+    2120,
+    2880,
+    1219,
+    996
+  ],
+  "productReviews": [
+    {
+      "productId": 3450,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-03-23T07:37:22.5332675+02:00"
+    },
+    {
+      "productId": 359,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-02-25T00:26:07.0745491+02:00"
+    },
+    {
+      "productId": 882,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-10-23T01:49:53.3106634+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 12053,
+  "cartId": "324ac883-7c6b-4e31-aa5b-8224af53e1f6",
+  "preferredProducts": [
+    102,
+    4188,
+    943,
+    2081,
+    3307,
+    3179,
+    3289,
+    4451
+  ],
+  "productReviews": [
+    {
+      "productId": 3082,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-03-23T21:46:07.3195469+02:00"
+    },
+    {
+      "productId": 3158,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2019-11-17T05:45:01.9447231+02:00"
+    }
+  ]
+}

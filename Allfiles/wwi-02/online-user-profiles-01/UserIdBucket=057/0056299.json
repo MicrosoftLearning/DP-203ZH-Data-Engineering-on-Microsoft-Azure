@@ -1,0 +1,23 @@
+{
+  "userId": 56299,
+  "cartId": "730d5d3d-a9dc-432d-81a0-6fc37f64bf3e",
+  "preferredProducts": [
+    3036,
+    2632,
+    1807,
+    4392,
+    2092
+  ],
+  "productReviews": [
+    {
+      "productId": 2068,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-05-07T09:34:40.4084759+03:00"
+    },
+    {
+      "productId": 4835,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-10-03T05:15:15.2261185+03:00"
+    }
+  ]
+}

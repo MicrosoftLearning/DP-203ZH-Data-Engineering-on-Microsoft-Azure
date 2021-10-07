@@ -1,0 +1,35 @@
+{
+  "userId": 10823,
+  "cartId": "355939bb-1dcd-448b-bb9c-e47d7225c45b",
+  "preferredProducts": [
+    3579,
+    2841
+  ],
+  "productReviews": [
+    {
+      "productId": 3315,
+      "reviewText": "this Kids is top-notch.",
+      "reviewDate": "2016-05-22T01:01:35.541779+03:00"
+    },
+    {
+      "productId": 4699,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-01-18T05:38:32.7001471+02:00"
+    },
+    {
+      "productId": 4507,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2018-12-03T17:14:02.3104023+02:00"
+    },
+    {
+      "productId": 3805,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2018-09-29T15:42:53.7821481+03:00"
+    },
+    {
+      "productId": 4210,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2017-01-02T04:38:07.8276489+02:00"
+    }
+  ]
+}

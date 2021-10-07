@@ -1,0 +1,37 @@
+{
+  "userId": 66845,
+  "cartId": "192aa0f9-97ec-4d4d-b02a-34c85f058d64",
+  "preferredProducts": [
+    1210,
+    655,
+    2673,
+    2185,
+    2440,
+    1290,
+    672,
+    3176,
+    3886
+  ],
+  "productReviews": [
+    {
+      "productId": 4934,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-12-19T05:28:12.2970193+02:00"
+    },
+    {
+      "productId": 2114,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-02-25T10:06:41.4217082+02:00"
+    },
+    {
+      "productId": 927,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-08-18T12:16:40.7074027+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-09-17T08:12:47.3655308+03:00"
+    }
+  ]
+}

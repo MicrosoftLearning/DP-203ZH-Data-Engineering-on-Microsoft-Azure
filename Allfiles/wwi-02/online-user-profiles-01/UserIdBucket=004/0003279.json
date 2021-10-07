@@ -1,0 +1,33 @@
+{
+  "userId": 3279,
+  "cartId": "f4b1b341-433d-4fc3-9775-e91192616a54",
+  "preferredProducts": [
+    770,
+    3358,
+    3369,
+    2165,
+    796
+  ],
+  "productReviews": [
+    {
+      "productId": 2367,
+      "reviewText": "This is a really good Via.",
+      "reviewDate": "2019-11-03T16:27:24.324265+02:00"
+    },
+    {
+      "productId": 231,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2019-09-22T05:09:55.2296038+03:00"
+    },
+    {
+      "productId": 891,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-03-06T15:23:49.9193981+02:00"
+    },
+    {
+      "productId": 1176,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-08-17T14:22:26.7380505+03:00"
+    }
+  ]
+}

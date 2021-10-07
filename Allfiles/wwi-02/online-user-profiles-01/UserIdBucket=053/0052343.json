@@ -1,0 +1,28 @@
+{
+  "userId": 52343,
+  "cartId": "621eb025-279e-43db-ba44-f7736dfbdd6a",
+  "preferredProducts": [
+    4624,
+    325,
+    402,
+    3734,
+    3902
+  ],
+  "productReviews": [
+    {
+      "productId": 4711,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-08-18T09:29:52.4286015+03:00"
+    },
+    {
+      "productId": 2933,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-02-07T13:59:13.6119911+02:00"
+    },
+    {
+      "productId": 3138,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-02-17T12:49:48.0368406+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 42592,
+  "cartId": "e44a2a14-ef1b-4383-b748-ce3f67693a53",
+  "preferredProducts": [
+    2935,
+    1756,
+    4786
+  ],
+  "productReviews": [
+    {
+      "productId": 2398,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2017-09-29T09:26:12.6093266+03:00"
+    },
+    {
+      "productId": 4350,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-10-18T07:21:16.0524904+03:00"
+    },
+    {
+      "productId": 4722,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2018-02-13T06:05:14.7416489+02:00"
+    }
+  ]
+}

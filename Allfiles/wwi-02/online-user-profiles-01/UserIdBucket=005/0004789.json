@@ -1,0 +1,31 @@
+{
+  "userId": 4789,
+  "cartId": "5185a101-16bc-430a-9c8d-d62138b43331",
+  "preferredProducts": [
+    2143,
+    4532,
+    843,
+    71,
+    4021,
+    173,
+    1697,
+    2244
+  ],
+  "productReviews": [
+    {
+      "productId": 1506,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-06-07T02:18:33.4586496+03:00"
+    },
+    {
+      "productId": 446,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-02-22T16:32:38.1692866+02:00"
+    },
+    {
+      "productId": 4055,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-04-24T23:07:39.2501187+03:00"
+    }
+  ]
+}

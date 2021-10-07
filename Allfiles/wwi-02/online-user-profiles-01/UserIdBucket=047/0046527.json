@@ -1,0 +1,28 @@
+{
+  "userId": 46527,
+  "cartId": "b409e353-d3da-42e1-a383-57777b1e7a0d",
+  "preferredProducts": [
+    2548,
+    1328,
+    768,
+    119,
+    4917
+  ],
+  "productReviews": [
+    {
+      "productId": 873,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-07-17T23:40:04.8024181+03:00"
+    },
+    {
+      "productId": 761,
+      "reviewText": "this open-source is gracious.",
+      "reviewDate": "2019-12-10T10:28:36.3165931+02:00"
+    },
+    {
+      "productId": 2800,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-01-28T14:32:28.3194766+02:00"
+    }
+  ]
+}

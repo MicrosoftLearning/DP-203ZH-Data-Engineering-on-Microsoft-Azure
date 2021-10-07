@@ -1,0 +1,31 @@
+{
+  "userId": 14015,
+  "cartId": "89fda092-4ec8-414a-8aa5-c91d798a97a1",
+  "preferredProducts": [
+    2114,
+    1072,
+    139,
+    1167,
+    4895,
+    4989,
+    1525,
+    1060
+  ],
+  "productReviews": [
+    {
+      "productId": 2673,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2016-06-24T10:00:27.223399+03:00"
+    },
+    {
+      "productId": 1220,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-18T08:49:03.4906568+02:00"
+    },
+    {
+      "productId": 1620,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-01-16T01:59:37.3900607+02:00"
+    }
+  ]
+}

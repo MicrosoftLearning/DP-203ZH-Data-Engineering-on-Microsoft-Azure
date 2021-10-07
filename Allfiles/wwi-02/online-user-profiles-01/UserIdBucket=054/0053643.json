@@ -1,0 +1,31 @@
+{
+  "userId": 53643,
+  "cartId": "53ac0de5-0d42-410e-954c-bba9dfd9b161",
+  "preferredProducts": [
+    323,
+    2427,
+    3043,
+    4137,
+    4499,
+    2133,
+    567,
+    820
+  ],
+  "productReviews": [
+    {
+      "productId": 689,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-08-25T11:11:21.3536514+03:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-08-29T15:58:16.3631756+03:00"
+    },
+    {
+      "productId": 4338,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2018-10-06T02:27:30.4682133+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 8520,
+  "cartId": "cd986347-2c32-44fb-98cd-02bd4d49fc1b",
+  "preferredProducts": [
+    1570,
+    1496,
+    4487,
+    3567,
+    2243,
+    590,
+    3988
+  ],
+  "productReviews": [
+    {
+      "productId": 2282,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-02-01T00:55:03.3770976+02:00"
+    },
+    {
+      "productId": 2539,
+      "reviewText": "This multi-byte works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-09-02T21:08:22.1512965+03:00"
+    },
+    {
+      "productId": 3641,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2018-06-25T11:01:10.5928651+03:00"
+    },
+    {
+      "productId": 4003,
+      "reviewText": "this Generic Granite Fish is tasty.",
+      "reviewDate": "2017-02-07T02:21:17.1045556+02:00"
+    }
+  ]
+}

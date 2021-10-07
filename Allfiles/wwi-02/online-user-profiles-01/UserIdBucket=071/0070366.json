@@ -1,0 +1,37 @@
+{
+  "userId": 70366,
+  "cartId": "61ed25e3-1067-4bf6-ad13-6b0e68d73a30",
+  "preferredProducts": [
+    2985,
+    3457,
+    4318,
+    1503
+  ],
+  "productReviews": [
+    {
+      "productId": 1759,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-11-04T14:24:33.1785233+02:00"
+    },
+    {
+      "productId": 563,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-12-28T08:06:53.2783395+02:00"
+    },
+    {
+      "productId": 2370,
+      "reviewText": "this invoice is flirty.",
+      "reviewDate": "2019-01-01T15:39:43.0994407+02:00"
+    },
+    {
+      "productId": 2225,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-07-05T01:11:13.4139736+03:00"
+    },
+    {
+      "productId": 1518,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2017-06-27T18:14:40.162908+03:00"
+    }
+  ]
+}

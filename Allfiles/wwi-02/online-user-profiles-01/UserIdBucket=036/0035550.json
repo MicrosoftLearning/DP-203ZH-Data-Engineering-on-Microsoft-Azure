@@ -1,0 +1,35 @@
+{
+  "userId": 35550,
+  "cartId": "5a28ff45-a85f-4624-bbcb-9eb98523c95a",
+  "preferredProducts": [
+    2004,
+    2552,
+    2374,
+    3894,
+    3456,
+    2617,
+    2233
+  ],
+  "productReviews": [
+    {
+      "productId": 3698,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-03-14T03:20:30.3162678+02:00"
+    },
+    {
+      "productId": 3746,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2019-02-09T22:10:25.9206975+02:00"
+    },
+    {
+      "productId": 851,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-08-11T15:05:52.1011048+03:00"
+    },
+    {
+      "productId": 2225,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2017-03-08T15:58:48.6229692+02:00"
+    }
+  ]
+}

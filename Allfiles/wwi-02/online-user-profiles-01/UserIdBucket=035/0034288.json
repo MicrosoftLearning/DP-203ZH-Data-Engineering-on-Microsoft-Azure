@@ -1,0 +1,25 @@
+{
+  "userId": 34288,
+  "cartId": "9338bdcf-098f-4697-9d80-aef139ba3875",
+  "preferredProducts": [
+    4685,
+    2445,
+    3132,
+    2575,
+    4124,
+    1401,
+    3230
+  ],
+  "productReviews": [
+    {
+      "productId": 1142,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-12-15T12:04:41.3529302+02:00"
+    },
+    {
+      "productId": 1549,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-12-29T00:10:02.8210228+02:00"
+    }
+  ]
+}

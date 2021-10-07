@@ -1,0 +1,26 @@
+{
+  "userId": 635,
+  "cartId": "66ae4546-ab9c-4f84-8b6b-01ef9baac574",
+  "preferredProducts": [
+    1086,
+    1080,
+    1425
+  ],
+  "productReviews": [
+    {
+      "productId": 2069,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-02-26T06:08:30.1088952+02:00"
+    },
+    {
+      "productId": 2936,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-09-20T14:01:53.2692817+03:00"
+    },
+    {
+      "productId": 3718,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-09-08T20:12:18.3955382+03:00"
+    }
+  ]
+}

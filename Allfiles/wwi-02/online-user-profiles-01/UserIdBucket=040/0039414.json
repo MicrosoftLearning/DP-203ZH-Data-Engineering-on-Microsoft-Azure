@@ -1,0 +1,25 @@
+{
+  "userId": 39414,
+  "cartId": "282f7544-b965-44c3-959b-b236622e1bdd",
+  "preferredProducts": [
+    3172,
+    853
+  ],
+  "productReviews": [
+    {
+      "productId": 4567,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-06-11T07:50:25.6790824+03:00"
+    },
+    {
+      "productId": 2649,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-04-17T18:40:19.5617213+03:00"
+    },
+    {
+      "productId": 1261,
+      "reviewText": "this Sleek Concrete Car is ratty.",
+      "reviewDate": "2019-09-06T23:21:27.4845239+03:00"
+    }
+  ]
+}

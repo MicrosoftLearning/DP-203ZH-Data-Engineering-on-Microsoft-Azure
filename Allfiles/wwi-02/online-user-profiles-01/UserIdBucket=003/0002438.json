@@ -1,0 +1,30 @@
+{
+  "userId": 2438,
+  "cartId": "9c1313f5-c6ed-4e5f-b3e9-355c60f07d80",
+  "preferredProducts": [
+    2142,
+    3802,
+    4508,
+    4542,
+    1359,
+    4415,
+    2073
+  ],
+  "productReviews": [
+    {
+      "productId": 4222,
+      "reviewText": "This Rustic works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2017-09-04T21:42:22.4452873+03:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-06-07T17:31:00.7293063+03:00"
+    },
+    {
+      "productId": 1693,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-07-22T13:55:51.4926269+03:00"
+    }
+  ]
+}

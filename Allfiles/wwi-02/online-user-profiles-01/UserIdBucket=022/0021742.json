@@ -1,0 +1,27 @@
+{
+  "userId": 21742,
+  "cartId": "3e484ea0-4394-4e7b-98f5-e817239e7538",
+  "preferredProducts": [
+    813,
+    1531,
+    82,
+    557
+  ],
+  "productReviews": [
+    {
+      "productId": 2452,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-11-03T02:57:25.5001976+02:00"
+    },
+    {
+      "productId": 2450,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-05-29T10:35:32.2070179+03:00"
+    },
+    {
+      "productId": 972,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-07-26T02:10:36.5626076+03:00"
+    }
+  ]
+}

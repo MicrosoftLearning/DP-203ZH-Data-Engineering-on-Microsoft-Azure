@@ -1,0 +1,37 @@
+{
+  "userId": 78561,
+  "cartId": "0a1512f3-2497-4fd2-b9f4-50590820222a",
+  "preferredProducts": [
+    4493,
+    202,
+    2690,
+    992,
+    1430,
+    3340,
+    1658,
+    1666,
+    4176
+  ],
+  "productReviews": [
+    {
+      "productId": 345,
+      "reviewText": "this plum is awesome.",
+      "reviewDate": "2017-09-17T22:34:17.6202433+03:00"
+    },
+    {
+      "productId": 1506,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-10-04T09:57:54.9978329+03:00"
+    },
+    {
+      "productId": 4754,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-02-07T12:11:49.1191795+02:00"
+    },
+    {
+      "productId": 3991,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-06-17T14:05:33.1788122+03:00"
+    }
+  ]
+}

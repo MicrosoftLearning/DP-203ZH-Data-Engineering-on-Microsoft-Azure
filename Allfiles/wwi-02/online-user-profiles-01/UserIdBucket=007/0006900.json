@@ -1,0 +1,42 @@
+{
+  "userId": 6900,
+  "cartId": "5b75da6c-4991-4a32-93df-e4d94dddce64",
+  "preferredProducts": [
+    4320,
+    3541,
+    1819,
+    1480,
+    1562,
+    2333,
+    3359,
+    2745,
+    2119
+  ],
+  "productReviews": [
+    {
+      "productId": 2820,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-08-13T08:40:15.8657953+03:00"
+    },
+    {
+      "productId": 1286,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-06-15T05:17:30.7909216+03:00"
+    },
+    {
+      "productId": 2566,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2017-11-03T22:49:10.9621932+02:00"
+    },
+    {
+      "productId": 739,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-01-17T16:52:22.5193847+02:00"
+    },
+    {
+      "productId": 3985,
+      "reviewText": "this engineer is papery.",
+      "reviewDate": "2016-08-06T21:27:18.8157957+03:00"
+    }
+  ]
+}

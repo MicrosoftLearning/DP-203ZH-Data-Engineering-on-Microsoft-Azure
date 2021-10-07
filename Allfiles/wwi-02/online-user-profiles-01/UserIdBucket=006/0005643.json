@@ -1,0 +1,30 @@
+{
+  "userId": 5643,
+  "cartId": "db7a34c4-1f6d-4d71-9272-c81067949ef1",
+  "preferredProducts": [
+    3671,
+    934
+  ],
+  "productReviews": [
+    {
+      "productId": 420,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-10-13T17:36:40.385151+03:00"
+    },
+    {
+      "productId": 1800,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-10-05T21:36:30.5009211+03:00"
+    },
+    {
+      "productId": 2586,
+      "reviewText": "this backing up is nifty.",
+      "reviewDate": "2017-03-31T06:00:56.755401+03:00"
+    },
+    {
+      "productId": 597,
+      "reviewText": "This bluetooth works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-11-12T14:31:53.2562454+02:00"
+    }
+  ]
+}

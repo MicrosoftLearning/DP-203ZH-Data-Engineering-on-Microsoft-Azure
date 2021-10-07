@@ -1,0 +1,26 @@
+{
+  "userId": 13502,
+  "cartId": "4decce5a-d127-4135-a021-83f3ab4349fd",
+  "preferredProducts": [
+    2208,
+    2099,
+    2810
+  ],
+  "productReviews": [
+    {
+      "productId": 3603,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-07-06T18:54:19.1193764+03:00"
+    },
+    {
+      "productId": 4926,
+      "reviewText": "This is a really good compressing.",
+      "reviewDate": "2018-05-18T08:42:55.7630018+03:00"
+    },
+    {
+      "productId": 3817,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-06-14T19:43:48.3125419+03:00"
+    }
+  ]
+}

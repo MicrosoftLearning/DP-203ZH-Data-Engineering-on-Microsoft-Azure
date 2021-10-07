@@ -1,0 +1,32 @@
+{
+  "userId": 70215,
+  "cartId": "c6ccd553-8206-491f-b443-73443c98bcc5",
+  "preferredProducts": [
+    2513,
+    4570,
+    3444,
+    1449
+  ],
+  "productReviews": [
+    {
+      "productId": 1040,
+      "reviewText": "this Spurs is vertical.",
+      "reviewDate": "2020-04-09T18:21:16.2418898+03:00"
+    },
+    {
+      "productId": 3240,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-10-10T04:12:07.9475146+03:00"
+    },
+    {
+      "productId": 1483,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-01-11T02:10:32.8376972+02:00"
+    },
+    {
+      "productId": 2821,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2019-12-13T23:21:01.1632362+02:00"
+    }
+  ]
+}

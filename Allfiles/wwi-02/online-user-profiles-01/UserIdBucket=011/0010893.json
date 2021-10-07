@@ -1,0 +1,31 @@
+{
+  "userId": 10893,
+  "cartId": "f68095c5-4125-46a8-8de9-ca39a076c85f",
+  "preferredProducts": [
+    1355,
+    4322,
+    1652,
+    2453,
+    4033,
+    2360,
+    3207,
+    3115
+  ],
+  "productReviews": [
+    {
+      "productId": 3798,
+      "reviewText": "This Brook, does exactly what it's suppose to do.",
+      "reviewDate": "2016-10-30T17:14:58.7296471+02:00"
+    },
+    {
+      "productId": 4448,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2019-05-10T04:05:31.2943033+03:00"
+    },
+    {
+      "productId": 2103,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-04-11T03:24:47.8431851+03:00"
+    }
+  ]
+}

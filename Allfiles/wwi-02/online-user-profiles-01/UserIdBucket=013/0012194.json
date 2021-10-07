@@ -1,0 +1,25 @@
+{
+  "userId": 12194,
+  "cartId": "e1c5da98-1c14-4f62-b2ec-896d1c5f1845",
+  "preferredProducts": [
+    1065,
+    3023,
+    757,
+    4359,
+    1154,
+    1412,
+    1295
+  ],
+  "productReviews": [
+    {
+      "productId": 3220,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2019-11-22T05:23:38.6577572+02:00"
+    },
+    {
+      "productId": 1863,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-09-24T04:42:25.4850252+03:00"
+    }
+  ]
+}

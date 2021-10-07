@@ -1,0 +1,30 @@
+{
+  "userId": 1957,
+  "cartId": "95ef027b-bc3f-45aa-82c9-505d98551f3a",
+  "preferredProducts": [
+    2135,
+    3101
+  ],
+  "productReviews": [
+    {
+      "productId": 4578,
+      "reviewText": "this Garden is smooth.",
+      "reviewDate": "2018-11-24T11:04:44.4150417+02:00"
+    },
+    {
+      "productId": 3480,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2020-01-05T18:21:30.4297512+02:00"
+    },
+    {
+      "productId": 4562,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-02-17T11:31:23.6904318+02:00"
+    },
+    {
+      "productId": 4964,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-06-27T03:23:45.4060302+03:00"
+    }
+  ]
+}

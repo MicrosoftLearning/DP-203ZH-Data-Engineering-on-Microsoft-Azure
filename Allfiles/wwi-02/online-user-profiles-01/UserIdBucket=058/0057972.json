@@ -1,0 +1,23 @@
+{
+  "userId": 57972,
+  "cartId": "e84f20b9-cb97-4f2c-b2de-b78d7c7a7325",
+  "preferredProducts": [
+    380,
+    480,
+    1322,
+    2228,
+    4729
+  ],
+  "productReviews": [
+    {
+      "productId": 3251,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-08-13T22:11:59.1009693+03:00"
+    },
+    {
+      "productId": 4221,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-05-23T00:56:21.7731963+03:00"
+    }
+  ]
+}

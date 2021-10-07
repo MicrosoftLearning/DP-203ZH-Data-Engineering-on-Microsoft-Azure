@@ -1,0 +1,32 @@
+{
+  "userId": 806,
+  "cartId": "c7194fd2-d37c-4390-9ca8-a56af116b707",
+  "preferredProducts": [
+    1337,
+    1441,
+    2301,
+    3526
+  ],
+  "productReviews": [
+    {
+      "productId": 4833,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-07-06T06:30:33.7445314+03:00"
+    },
+    {
+      "productId": 2861,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2019-09-17T06:56:50.6142855+03:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "this Forward is ratty.",
+      "reviewDate": "2016-10-12T08:26:00.6906037+03:00"
+    },
+    {
+      "productId": 52,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-11-11T16:50:19.2178676+02:00"
+    }
+  ]
+}

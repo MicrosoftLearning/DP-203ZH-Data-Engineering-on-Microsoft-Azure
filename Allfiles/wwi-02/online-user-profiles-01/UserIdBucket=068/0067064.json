@@ -1,0 +1,33 @@
+{
+  "userId": 67064,
+  "cartId": "6e4ecde8-dcc4-4075-bdac-13298f8115dc",
+  "preferredProducts": [
+    1514,
+    4437,
+    3284,
+    2352,
+    2603,
+    3211,
+    3917,
+    4630,
+    1215,
+    508
+  ],
+  "productReviews": [
+    {
+      "productId": 617,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-12-09T03:29:01.1061677+02:00"
+    },
+    {
+      "productId": 4141,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-03-20T23:15:21.7639801+02:00"
+    },
+    {
+      "productId": 2607,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-08-10T14:39:04.4507202+03:00"
+    }
+  ]
+}

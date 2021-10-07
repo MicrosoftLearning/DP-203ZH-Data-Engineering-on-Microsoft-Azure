@@ -1,0 +1,33 @@
+{
+  "userId": 67235,
+  "cartId": "8a28906d-3b61-48a0-b88b-575f04ba73dc",
+  "preferredProducts": [
+    3606,
+    2278,
+    189,
+    4357,
+    3977,
+    3693,
+    2312,
+    3307,
+    4093,
+    3163
+  ],
+  "productReviews": [
+    {
+      "productId": 960,
+      "reviewText": "this Radial is dominant.",
+      "reviewDate": "2019-12-19T12:29:56.7904415+02:00"
+    },
+    {
+      "productId": 956,
+      "reviewText": "This Generic, does exactly what it's suppose to do.",
+      "reviewDate": "2016-06-03T14:01:48.0093644+03:00"
+    },
+    {
+      "productId": 4964,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2017-05-05T04:07:18.1340278+03:00"
+    }
+  ]
+}

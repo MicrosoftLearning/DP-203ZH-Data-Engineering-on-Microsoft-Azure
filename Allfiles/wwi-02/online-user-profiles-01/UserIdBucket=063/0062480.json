@@ -1,0 +1,24 @@
+{
+  "userId": 62480,
+  "cartId": "7b6f1e26-e70f-416c-9349-5cb9c7401e22",
+  "preferredProducts": [
+    2495,
+    1436,
+    4475,
+    3240,
+    3533,
+    4856
+  ],
+  "productReviews": [
+    {
+      "productId": 3900,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-07-12T15:37:17.6833066+03:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "this 24/365 is standard.",
+      "reviewDate": "2016-12-04T14:56:53.8218693+02:00"
+    }
+  ]
+}

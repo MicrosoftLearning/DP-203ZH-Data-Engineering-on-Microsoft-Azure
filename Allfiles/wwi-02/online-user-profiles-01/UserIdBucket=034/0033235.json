@@ -1,0 +1,40 @@
+{
+  "userId": 33235,
+  "cartId": "276c00f8-4444-4467-b2ed-912ed951012f",
+  "preferredProducts": [
+    299,
+    2836,
+    3639,
+    1786,
+    2263,
+    3977,
+    2897
+  ],
+  "productReviews": [
+    {
+      "productId": 197,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-07-22T18:20:53.8930961+03:00"
+    },
+    {
+      "productId": 216,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-11-06T08:13:45.7120406+02:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2016-08-15T11:59:16.3906202+03:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2020-01-11T00:24:26.6708449+02:00"
+    },
+    {
+      "productId": 1965,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-11-21T04:58:49.7599534+02:00"
+    }
+  ]
+}

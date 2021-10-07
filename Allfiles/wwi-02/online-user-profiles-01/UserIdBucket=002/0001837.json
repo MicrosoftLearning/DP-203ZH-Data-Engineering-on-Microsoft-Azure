@@ -1,0 +1,33 @@
+{
+  "userId": 1837,
+  "cartId": "263eae61-d9a2-4da6-a96f-5b78eef9158a",
+  "preferredProducts": [
+    4857,
+    1585,
+    1614,
+    3059,
+    4348
+  ],
+  "productReviews": [
+    {
+      "productId": 1028,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-05-22T09:59:39.3769831+03:00"
+    },
+    {
+      "productId": 142,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-10-08T05:32:27.9835968+03:00"
+    },
+    {
+      "productId": 3730,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-07-29T10:38:54.6875004+03:00"
+    },
+    {
+      "productId": 82,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-08-20T03:36:16.3661748+03:00"
+    }
+  ]
+}

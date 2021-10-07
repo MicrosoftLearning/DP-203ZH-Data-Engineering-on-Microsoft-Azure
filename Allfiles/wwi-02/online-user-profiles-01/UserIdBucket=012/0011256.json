@@ -1,0 +1,28 @@
+{
+  "userId": 11256,
+  "cartId": "df1aba12-5b90-44fd-8688-669b0cbc1db5",
+  "preferredProducts": [
+    369,
+    3008,
+    1850,
+    935,
+    905
+  ],
+  "productReviews": [
+    {
+      "productId": 3557,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-03-09T07:03:55.2500834+02:00"
+    },
+    {
+      "productId": 3733,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-09-14T15:00:06.1531534+03:00"
+    },
+    {
+      "productId": 1605,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-04-06T16:31:50.572671+03:00"
+    }
+  ]
+}

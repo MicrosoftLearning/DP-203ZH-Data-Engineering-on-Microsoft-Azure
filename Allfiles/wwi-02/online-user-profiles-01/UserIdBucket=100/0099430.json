@@ -1,0 +1,35 @@
+{
+  "userId": 99430,
+  "cartId": "2fdecd43-31e4-4a52-9c29-88fcc34f1a09",
+  "preferredProducts": [
+    2568,
+    4569
+  ],
+  "productReviews": [
+    {
+      "productId": 1089,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-08-24T10:26:47.3864842+03:00"
+    },
+    {
+      "productId": 2981,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-01-05T23:32:07.5278724+02:00"
+    },
+    {
+      "productId": 4294,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-04-13T15:19:08.9520672+03:00"
+    },
+    {
+      "productId": 3473,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-06-03T08:27:14.2033526+03:00"
+    },
+    {
+      "productId": 3904,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-06-11T22:16:57.8567075+03:00"
+    }
+  ]
+}

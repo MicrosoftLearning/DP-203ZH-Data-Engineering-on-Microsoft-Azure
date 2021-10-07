@@ -1,0 +1,25 @@
+{
+  "userId": 23542,
+  "cartId": "c39935ec-0882-4717-9722-32646d2a0aa1",
+  "preferredProducts": [
+    3027,
+    1066
+  ],
+  "productReviews": [
+    {
+      "productId": 219,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-04-23T17:47:03.3134967+03:00"
+    },
+    {
+      "productId": 2873,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-02-19T18:11:49.5793965+02:00"
+    },
+    {
+      "productId": 1921,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-06-22T16:59:50.7993643+03:00"
+    }
+  ]
+}

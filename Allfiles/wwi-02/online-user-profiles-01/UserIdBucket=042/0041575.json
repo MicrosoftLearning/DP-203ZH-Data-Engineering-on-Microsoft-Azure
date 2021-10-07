@@ -1,0 +1,27 @@
+{
+  "userId": 41575,
+  "cartId": "7dda3386-2cf8-4aa6-abf7-0025b2aebed1",
+  "preferredProducts": [
+    1646,
+    106,
+    4045,
+    785
+  ],
+  "productReviews": [
+    {
+      "productId": 87,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-02-01T04:28:15.4518576+02:00"
+    },
+    {
+      "productId": 3156,
+      "reviewText": "This Guarani works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-09-22T01:24:07.1925749+03:00"
+    },
+    {
+      "productId": 4428,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-10-04T16:19:06.9824851+03:00"
+    }
+  ]
+}

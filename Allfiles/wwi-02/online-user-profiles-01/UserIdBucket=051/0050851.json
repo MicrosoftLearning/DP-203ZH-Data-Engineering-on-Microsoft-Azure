@@ -1,0 +1,31 @@
+{
+  "userId": 50851,
+  "cartId": "a1fbd8ef-94f0-4959-acb4-d8e02d2c8866",
+  "preferredProducts": [
+    1337,
+    3388,
+    2666,
+    2937,
+    1087,
+    2439,
+    4693,
+    3187
+  ],
+  "productReviews": [
+    {
+      "productId": 2182,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2018-12-16T14:46:55.0479045+02:00"
+    },
+    {
+      "productId": 155,
+      "reviewText": "This Berkshire works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2019-09-05T06:38:18.752765+03:00"
+    },
+    {
+      "productId": 1678,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-03-11T19:07:47.100028+02:00"
+    }
+  ]
+}

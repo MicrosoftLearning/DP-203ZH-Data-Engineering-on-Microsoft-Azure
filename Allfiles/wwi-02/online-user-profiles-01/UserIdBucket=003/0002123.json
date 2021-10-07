@@ -1,0 +1,31 @@
+{
+  "userId": 2123,
+  "cartId": "c30f23d7-e5a1-49a0-a11d-ec2cde2deba2",
+  "preferredProducts": [
+    882,
+    837,
+    2970,
+    4112,
+    2703,
+    1663,
+    1857,
+    1352
+  ],
+  "productReviews": [
+    {
+      "productId": 103,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-09-17T03:37:49.0289164+03:00"
+    },
+    {
+      "productId": 1303,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2019-06-28T05:13:48.0027197+03:00"
+    },
+    {
+      "productId": 2095,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-08-27T13:28:10.8370564+03:00"
+    }
+  ]
+}

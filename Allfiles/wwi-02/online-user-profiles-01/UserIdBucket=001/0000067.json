@@ -1,0 +1,32 @@
+{
+  "userId": 67,
+  "cartId": "b1e6b875-2297-495b-ae1a-ab6fc8edc62d",
+  "preferredProducts": [
+    2444,
+    459,
+    1071,
+    1458,
+    4114,
+    1111,
+    484,
+    4038,
+    2715
+  ],
+  "productReviews": [
+    {
+      "productId": 2831,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-05-08T06:35:36.3447135+03:00"
+    },
+    {
+      "productId": 2517,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2020-01-24T14:40:16.6028595+02:00"
+    },
+    {
+      "productId": 792,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-04-26T19:20:18.2192415+03:00"
+    }
+  ]
+}

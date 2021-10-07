@@ -1,0 +1,30 @@
+{
+  "userId": 7232,
+  "cartId": "afd62cc7-b39f-4352-8d43-2841586c2b74",
+  "preferredProducts": [
+    3051,
+    2396,
+    1106,
+    4918,
+    1052,
+    4830,
+    3077
+  ],
+  "productReviews": [
+    {
+      "productId": 1542,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-03-21T20:54:52.4261531+02:00"
+    },
+    {
+      "productId": 728,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-09-04T05:19:25.5488747+03:00"
+    },
+    {
+      "productId": 1324,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2020-01-18T17:44:01.0320239+02:00"
+    }
+  ]
+}

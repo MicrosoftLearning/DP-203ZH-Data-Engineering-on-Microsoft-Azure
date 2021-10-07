@@ -1,0 +1,30 @@
+{
+  "userId": 47504,
+  "cartId": "8de83af7-6da0-4ada-9434-bcbab26baca4",
+  "preferredProducts": [
+    1047,
+    2855,
+    1339,
+    3858,
+    644,
+    3561,
+    3638
+  ],
+  "productReviews": [
+    {
+      "productId": 655,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2016-11-20T16:03:48.302717+02:00"
+    },
+    {
+      "productId": 1324,
+      "reviewText": "This Agent works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2019-03-19T11:22:42.4040993+02:00"
+    },
+    {
+      "productId": 4241,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-12-20T14:15:50.968199+02:00"
+    }
+  ]
+}

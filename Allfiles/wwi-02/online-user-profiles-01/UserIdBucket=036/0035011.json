@@ -1,0 +1,34 @@
+{
+  "userId": 35011,
+  "cartId": "cc7cfdc6-cb1b-432f-8eb2-297c590fe58c",
+  "preferredProducts": [
+    948,
+    1284,
+    3259,
+    220,
+    2794,
+    2379
+  ],
+  "productReviews": [
+    {
+      "productId": 2452,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-07-23T03:12:23.662351+03:00"
+    },
+    {
+      "productId": 4619,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-01-07T10:34:55.3957644+02:00"
+    },
+    {
+      "productId": 1188,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-08-28T11:13:01.518003+03:00"
+    },
+    {
+      "productId": 4642,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-03-12T03:24:23.7242187+02:00"
+    }
+  ]
+}

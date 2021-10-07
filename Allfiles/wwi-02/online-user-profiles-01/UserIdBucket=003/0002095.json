@@ -1,0 +1,25 @@
+{
+  "userId": 2095,
+  "cartId": "8abce545-c2b5-449f-b162-c77c8f14dc51",
+  "preferredProducts": [
+    1671,
+    716
+  ],
+  "productReviews": [
+    {
+      "productId": 4370,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2017-03-12T17:04:57.2067633+02:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-06-19T00:04:26.1940465+03:00"
+    },
+    {
+      "productId": 870,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-07-20T18:30:00.2315917+03:00"
+    }
+  ]
+}

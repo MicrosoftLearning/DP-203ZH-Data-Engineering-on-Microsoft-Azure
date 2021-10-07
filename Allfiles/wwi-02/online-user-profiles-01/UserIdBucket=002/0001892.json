@@ -1,0 +1,27 @@
+{
+  "userId": 1892,
+  "cartId": "e9fa43bb-e1aa-4254-9144-6eee50e5c0c8",
+  "preferredProducts": [
+    1859,
+    1959,
+    4171,
+    2705,
+    49,
+    1717,
+    480,
+    3261,
+    4928
+  ],
+  "productReviews": [
+    {
+      "productId": 4361,
+      "reviewText": "this Technician is standard.",
+      "reviewDate": "2017-03-11T21:47:46.5852376+02:00"
+    },
+    {
+      "productId": 383,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-12-28T12:43:27.5968164+02:00"
+    }
+  ]
+}

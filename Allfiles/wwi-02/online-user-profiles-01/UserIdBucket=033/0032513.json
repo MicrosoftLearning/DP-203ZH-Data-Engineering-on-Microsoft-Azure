@@ -1,0 +1,38 @@
+{
+  "userId": 32513,
+  "cartId": "ec6f2af4-3033-4fc6-a41e-d31b0cc22a40",
+  "preferredProducts": [
+    4808,
+    2732,
+    4486,
+    4988,
+    381,
+    2746,
+    4329,
+    1805,
+    1885,
+    2383
+  ],
+  "productReviews": [
+    {
+      "productId": 1702,
+      "reviewText": "this JSON is smooth.",
+      "reviewDate": "2019-02-01T08:10:46.4852434+02:00"
+    },
+    {
+      "productId": 1269,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-12-20T20:08:08.0959476+02:00"
+    },
+    {
+      "productId": 3891,
+      "reviewText": "heard about this on powerviolence radio, decided to give it a try.",
+      "reviewDate": "2017-04-05T09:22:50.9178462+03:00"
+    },
+    {
+      "productId": 4866,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-12-29T00:29:16.1082271+02:00"
+    }
+  ]
+}

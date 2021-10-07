@@ -1,0 +1,25 @@
+{
+  "userId": 65292,
+  "cartId": "3a565800-b27e-4d0b-b860-f948d8709fd2",
+  "preferredProducts": [
+    4999,
+    19
+  ],
+  "productReviews": [
+    {
+      "productId": 1011,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-10-23T22:53:07.8537132+03:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-12-24T08:45:58.6846638+02:00"
+    },
+    {
+      "productId": 1209,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-05-28T08:52:12.2441396+03:00"
+    }
+  ]
+}

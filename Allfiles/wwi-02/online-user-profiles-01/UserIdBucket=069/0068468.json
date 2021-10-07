@@ -1,0 +1,25 @@
+{
+  "userId": 68468,
+  "cartId": "b46ae376-b86f-4a8b-8ae3-941165abb658",
+  "preferredProducts": [
+    1482,
+    1372
+  ],
+  "productReviews": [
+    {
+      "productId": 4084,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-03-14T11:08:51.5984871+02:00"
+    },
+    {
+      "productId": 438,
+      "reviewText": "this Spurs is awesome.",
+      "reviewDate": "2019-09-03T09:04:12.4808197+03:00"
+    },
+    {
+      "productId": 3888,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-10-03T22:53:06.531384+03:00"
+    }
+  ]
+}

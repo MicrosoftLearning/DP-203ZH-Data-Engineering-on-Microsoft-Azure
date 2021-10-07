@@ -1,0 +1,31 @@
+{
+  "userId": 45586,
+  "cartId": "eb5f810c-fd3d-4c62-a292-818825be651a",
+  "preferredProducts": [
+    4497,
+    4383,
+    1590,
+    666,
+    2552,
+    1096,
+    4185,
+    962
+  ],
+  "productReviews": [
+    {
+      "productId": 2698,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-09-22T10:02:27.6320648+03:00"
+    },
+    {
+      "productId": 2168,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-05-14T22:04:40.7036381+03:00"
+    },
+    {
+      "productId": 3666,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2020-05-03T20:21:21.0072728+03:00"
+    }
+  ]
+}

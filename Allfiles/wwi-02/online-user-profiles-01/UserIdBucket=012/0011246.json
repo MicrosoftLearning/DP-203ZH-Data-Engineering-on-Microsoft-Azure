@@ -1,0 +1,38 @@
+{
+  "userId": 11246,
+  "cartId": "fc2eeb77-437c-4b36-bd3c-748392fbadca",
+  "preferredProducts": [
+    2623,
+    3198,
+    3071,
+    2640,
+    420,
+    4857,
+    1958,
+    3017,
+    4096,
+    2116
+  ],
+  "productReviews": [
+    {
+      "productId": 1468,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2019-12-04T22:28:36.6244718+02:00"
+    },
+    {
+      "productId": 660,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-07-05T03:57:17.4741518+03:00"
+    },
+    {
+      "productId": 4060,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-05-10T06:43:48.6183982+03:00"
+    },
+    {
+      "productId": 4829,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-01-18T15:54:13.1062005+02:00"
+    }
+  ]
+}

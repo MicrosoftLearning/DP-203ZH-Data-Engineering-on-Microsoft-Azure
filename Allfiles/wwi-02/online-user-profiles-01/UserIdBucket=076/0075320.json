@@ -1,0 +1,37 @@
+{
+  "userId": 75320,
+  "cartId": "1337afa9-4061-4ced-82ce-76bad5a5e44f",
+  "preferredProducts": [
+    3298,
+    3896,
+    3156,
+    1411
+  ],
+  "productReviews": [
+    {
+      "productId": 3452,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2020-04-21T08:35:11.1392082+03:00"
+    },
+    {
+      "productId": 3069,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2017-03-10T22:51:37.0426974+02:00"
+    },
+    {
+      "productId": 1668,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2017-06-28T22:14:15.7782527+03:00"
+    },
+    {
+      "productId": 4157,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-12-05T15:34:45.5738403+02:00"
+    },
+    {
+      "productId": 4982,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-11-12T20:21:46.0561061+02:00"
+    }
+  ]
+}

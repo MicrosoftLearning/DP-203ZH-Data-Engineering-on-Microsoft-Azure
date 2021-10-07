@@ -1,0 +1,36 @@
+{
+  "userId": 68549,
+  "cartId": "8ae6a090-d267-4ef7-b135-186391f62779",
+  "preferredProducts": [
+    114,
+    1332,
+    2690
+  ],
+  "productReviews": [
+    {
+      "productId": 4578,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-08-16T12:02:04.1493971+03:00"
+    },
+    {
+      "productId": 1330,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2019-02-06T10:10:23.2555932+02:00"
+    },
+    {
+      "productId": 935,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-14T21:17:41.5513401+03:00"
+    },
+    {
+      "productId": 3596,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-01-22T07:37:29.7772103+02:00"
+    },
+    {
+      "productId": 2198,
+      "reviewText": "this haptic is revolting.",
+      "reviewDate": "2017-06-25T03:05:46.0907038+03:00"
+    }
+  ]
+}

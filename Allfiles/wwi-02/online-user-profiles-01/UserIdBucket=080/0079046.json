@@ -1,0 +1,40 @@
+{
+  "userId": 79046,
+  "cartId": "4bfbcf5f-9898-4d4f-b591-458426bde8dc",
+  "preferredProducts": [
+    3001,
+    426,
+    3384,
+    1376,
+    1411,
+    2732,
+    2841
+  ],
+  "productReviews": [
+    {
+      "productId": 1789,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-10-13T11:33:55.9244322+03:00"
+    },
+    {
+      "productId": 3687,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-12-15T14:20:35.4162296+02:00"
+    },
+    {
+      "productId": 2853,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-12-12T12:07:49.3331071+02:00"
+    },
+    {
+      "productId": 2395,
+      "reviewText": "this COM is whole-grain.",
+      "reviewDate": "2020-02-17T11:10:41.170989+02:00"
+    },
+    {
+      "productId": 1165,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-05-21T17:17:17.2410841+03:00"
+    }
+  ]
+}

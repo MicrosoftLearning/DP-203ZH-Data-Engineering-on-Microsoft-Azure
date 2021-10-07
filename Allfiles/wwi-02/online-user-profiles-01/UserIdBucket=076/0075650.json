@@ -1,0 +1,27 @@
+{
+  "userId": 75650,
+  "cartId": "e0a4bcb3-47da-4ae9-aa3b-22873f474e0b",
+  "preferredProducts": [
+    777,
+    2946,
+    4616,
+    1142
+  ],
+  "productReviews": [
+    {
+      "productId": 200,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-03-14T00:21:06.6160615+02:00"
+    },
+    {
+      "productId": 2004,
+      "reviewText": "This dynamic works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-10-15T10:53:35.6067127+03:00"
+    },
+    {
+      "productId": 1016,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-11-06T07:51:01.2652432+02:00"
+    }
+  ]
+}

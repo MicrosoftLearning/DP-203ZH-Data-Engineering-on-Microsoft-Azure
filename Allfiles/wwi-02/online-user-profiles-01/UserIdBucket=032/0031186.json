@@ -1,0 +1,30 @@
+{
+  "userId": 31186,
+  "cartId": "e2cf15b3-d48c-4b5f-8dbc-cabab72b4ab4",
+  "preferredProducts": [
+    3033,
+    706,
+    3214,
+    2695,
+    4538,
+    1026,
+    2658
+  ],
+  "productReviews": [
+    {
+      "productId": 539,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-01-23T22:33:17.5337361+02:00"
+    },
+    {
+      "productId": 1476,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-07-08T15:18:54.5926321+03:00"
+    },
+    {
+      "productId": 3132,
+      "reviewText": "This pixel works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-05-26T21:53:09.3961868+03:00"
+    }
+  ]
+}

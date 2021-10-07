@@ -1,0 +1,28 @@
+{
+  "userId": 10420,
+  "cartId": "a322ae10-e799-41bc-82a5-df75ae3acc26",
+  "preferredProducts": [
+    2163,
+    4168,
+    2802,
+    4895,
+    1205,
+    2836,
+    4444,
+    2484,
+    1930,
+    4868
+  ],
+  "productReviews": [
+    {
+      "productId": 95,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-12-31T05:58:23.6397673+02:00"
+    },
+    {
+      "productId": 3513,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-09-03T20:11:09.0665217+03:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 10671,
+  "cartId": "f4deb11d-852f-4743-b6b0-73fe09253e66",
+  "preferredProducts": [
+    2217,
+    2549,
+    1219,
+    1429,
+    2407,
+    1632,
+    4515,
+    812,
+    733
+  ],
+  "productReviews": [
+    {
+      "productId": 4879,
+      "reviewText": "this Louisiana is whole-grain.",
+      "reviewDate": "2018-10-13T09:54:33.2184195+03:00"
+    },
+    {
+      "productId": 3631,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-09-09T13:13:44.5064628+03:00"
+    },
+    {
+      "productId": 4099,
+      "reviewText": "This Danish Krone works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-11-02T06:17:04.1012054+02:00"
+    },
+    {
+      "productId": 1149,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-09-22T06:15:01.6998225+03:00"
+    },
+    {
+      "productId": 355,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2016-12-17T15:11:53.7356618+02:00"
+    }
+  ]
+}

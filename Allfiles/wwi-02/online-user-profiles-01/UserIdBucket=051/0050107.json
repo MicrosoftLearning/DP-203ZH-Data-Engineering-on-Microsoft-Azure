@@ -1,0 +1,41 @@
+{
+  "userId": 50107,
+  "cartId": "18ef0987-366a-4812-b7c9-5e0f06085d8a",
+  "preferredProducts": [
+    206,
+    590,
+    780,
+    4889,
+    3942,
+    2710,
+    3073,
+    4692
+  ],
+  "productReviews": [
+    {
+      "productId": 3600,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-02-25T07:03:10.1314644+02:00"
+    },
+    {
+      "productId": 4023,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2020-02-28T06:15:38.7438454+02:00"
+    },
+    {
+      "productId": 210,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2020-04-18T05:02:33.5682785+03:00"
+    },
+    {
+      "productId": 3848,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-06-12T11:34:59.0436813+03:00"
+    },
+    {
+      "productId": 1229,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-11-17T19:52:06.5526435+02:00"
+    }
+  ]
+}

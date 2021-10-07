@@ -1,0 +1,36 @@
+{
+  "userId": 2279,
+  "cartId": "3586b3d1-45df-46d3-9d16-f16b8f99f54a",
+  "preferredProducts": [
+    1198,
+    1107,
+    3314,
+    3532,
+    1329,
+    613,
+    126,
+    2135
+  ],
+  "productReviews": [
+    {
+      "productId": 3763,
+      "reviewText": "this Hawaii is tasty.",
+      "reviewDate": "2019-06-22T08:27:12.4890159+03:00"
+    },
+    {
+      "productId": 3959,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-03-29T09:53:47.7182661+03:00"
+    },
+    {
+      "productId": 2881,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-07-15T10:03:52.4285696+03:00"
+    },
+    {
+      "productId": 4472,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2019-10-12T18:13:33.1422495+03:00"
+    }
+  ]
+}

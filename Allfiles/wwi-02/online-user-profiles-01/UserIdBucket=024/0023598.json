@@ -1,0 +1,23 @@
+{
+  "userId": 23598,
+  "cartId": "7c1a84ab-844f-4ca8-a3fa-51376873e3f3",
+  "preferredProducts": [
+    1527,
+    2873,
+    4490,
+    3967,
+    389
+  ],
+  "productReviews": [
+    {
+      "productId": 3475,
+      "reviewText": "this Wooden is whole-grain.",
+      "reviewDate": "2017-03-22T16:09:56.1907889+02:00"
+    },
+    {
+      "productId": 1200,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-04-06T13:12:33.6835196+03:00"
+    }
+  ]
+}

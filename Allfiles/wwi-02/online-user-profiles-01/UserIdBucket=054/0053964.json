@@ -1,0 +1,31 @@
+{
+  "userId": 53964,
+  "cartId": "f95ac94f-ecf5-4ebc-9f60-c407b7ca4f19",
+  "preferredProducts": [
+    765,
+    4846,
+    4545
+  ],
+  "productReviews": [
+    {
+      "productId": 103,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-11-07T23:58:11.9452042+02:00"
+    },
+    {
+      "productId": 4839,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-04-17T02:56:05.0290785+03:00"
+    },
+    {
+      "productId": 3799,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-04-16T18:07:54.9486159+03:00"
+    },
+    {
+      "productId": 666,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-07-07T08:29:50.8592821+03:00"
+    }
+  ]
+}

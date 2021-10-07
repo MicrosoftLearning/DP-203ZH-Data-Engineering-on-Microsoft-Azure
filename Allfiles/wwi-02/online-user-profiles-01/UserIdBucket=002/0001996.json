@@ -1,0 +1,43 @@
+{
+  "userId": 1996,
+  "cartId": "59bfa4c5-37e8-430c-b0c1-9a58db079c7b",
+  "preferredProducts": [
+    3654,
+    4440,
+    2844,
+    4919,
+    4824,
+    2499,
+    4457,
+    1315,
+    3102,
+    2318
+  ],
+  "productReviews": [
+    {
+      "productId": 2022,
+      "reviewText": "this RSS is hyper.",
+      "reviewDate": "2020-01-26T17:17:47.9719641+02:00"
+    },
+    {
+      "productId": 3257,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-01-13T11:28:28.3781437+02:00"
+    },
+    {
+      "productId": 3777,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2020-01-02T09:32:05.8304611+02:00"
+    },
+    {
+      "productId": 1418,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-09-04T03:02:31.3561507+03:00"
+    },
+    {
+      "productId": 3667,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-07-13T10:06:24.5316324+03:00"
+    }
+  ]
+}

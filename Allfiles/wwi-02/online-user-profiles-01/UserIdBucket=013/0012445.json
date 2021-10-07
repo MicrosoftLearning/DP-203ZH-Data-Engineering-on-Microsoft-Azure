@@ -1,0 +1,28 @@
+{
+  "userId": 12445,
+  "cartId": "43fd9ca5-4654-4ea5-9405-07a6e2ba8423",
+  "preferredProducts": [
+    3700,
+    4055,
+    1139,
+    4441,
+    2454
+  ],
+  "productReviews": [
+    {
+      "productId": 336,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-12-26T11:37:37.6953659+02:00"
+    },
+    {
+      "productId": 4833,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2016-06-24T09:31:07.036401+03:00"
+    },
+    {
+      "productId": 4015,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-12-22T17:12:17.6100477+02:00"
+    }
+  ]
+}

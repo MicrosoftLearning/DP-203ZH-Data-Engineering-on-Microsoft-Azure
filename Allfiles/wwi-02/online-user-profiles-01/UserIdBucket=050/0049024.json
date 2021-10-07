@@ -1,0 +1,24 @@
+{
+  "userId": 49024,
+  "cartId": "dc07d620-a4be-4a79-bca4-51424ab915be",
+  "preferredProducts": [
+    2456
+  ],
+  "productReviews": [
+    {
+      "productId": 2250,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-01-01T10:49:15.6668119+02:00"
+    },
+    {
+      "productId": 3765,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2019-08-18T20:31:57.2018109+03:00"
+    },
+    {
+      "productId": 3925,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-01-10T14:24:13.5414738+02:00"
+    }
+  ]
+}

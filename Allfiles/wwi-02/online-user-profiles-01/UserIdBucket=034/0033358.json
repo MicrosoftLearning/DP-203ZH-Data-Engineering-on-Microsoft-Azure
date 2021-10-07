@@ -1,0 +1,27 @@
+{
+  "userId": 33358,
+  "cartId": "91f3f09c-da09-4bbc-96ae-0f2c594dc54d",
+  "preferredProducts": [
+    1619,
+    783,
+    2397,
+    1693
+  ],
+  "productReviews": [
+    {
+      "productId": 4010,
+      "reviewText": "this Avon is brown.",
+      "reviewDate": "2017-04-26T20:21:55.9003302+03:00"
+    },
+    {
+      "productId": 1840,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2018-09-08T15:46:03.0357786+03:00"
+    },
+    {
+      "productId": 3819,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-02-03T13:58:37.4059647+02:00"
+    }
+  ]
+}

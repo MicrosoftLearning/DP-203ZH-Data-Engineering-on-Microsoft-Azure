@@ -1,0 +1,29 @@
+{
+  "userId": 6375,
+  "cartId": "ea59489e-d1e9-43c0-931f-dadaa59344e3",
+  "preferredProducts": [
+    2791,
+    1854,
+    1437,
+    4085,
+    4050,
+    805
+  ],
+  "productReviews": [
+    {
+      "productId": 1834,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2016-11-18T13:16:10.4049053+02:00"
+    },
+    {
+      "productId": 4124,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-03-16T19:23:07.5913579+02:00"
+    },
+    {
+      "productId": 3908,
+      "reviewText": "this parsing is gracious.",
+      "reviewDate": "2016-05-14T21:16:26.4403866+03:00"
+    }
+  ]
+}

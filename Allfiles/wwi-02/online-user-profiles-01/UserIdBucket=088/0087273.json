@@ -1,0 +1,35 @@
+{
+  "userId": 87273,
+  "cartId": "6bcdb6d5-d7b4-4fc9-8a7c-70e5f51f1663",
+  "preferredProducts": [
+    3096,
+    3488,
+    395,
+    4420,
+    1385,
+    419,
+    3604
+  ],
+  "productReviews": [
+    {
+      "productId": 2000,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-05-16T07:33:46.9574634+03:00"
+    },
+    {
+      "productId": 4653,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-12-10T02:04:08.2290155+02:00"
+    },
+    {
+      "productId": 1342,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2017-08-24T05:17:14.2221057+03:00"
+    },
+    {
+      "productId": 1215,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-03-17T03:20:43.8022883+02:00"
+    }
+  ]
+}

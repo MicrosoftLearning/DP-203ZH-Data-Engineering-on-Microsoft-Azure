@@ -1,0 +1,31 @@
+{
+  "userId": 55493,
+  "cartId": "fc943e23-cb38-444f-b858-b92549a82a45",
+  "preferredProducts": [
+    1130,
+    4899,
+    1046,
+    2490,
+    4448,
+    2242,
+    553,
+    3760
+  ],
+  "productReviews": [
+    {
+      "productId": 764,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-03-03T07:01:11.3953942+02:00"
+    },
+    {
+      "productId": 1298,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2019-11-05T18:59:41.8373895+02:00"
+    },
+    {
+      "productId": 3645,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-10-23T02:42:32.5179969+03:00"
+    }
+  ]
+}

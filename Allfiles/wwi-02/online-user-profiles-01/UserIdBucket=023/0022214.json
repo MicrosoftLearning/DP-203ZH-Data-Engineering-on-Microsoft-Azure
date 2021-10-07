@@ -1,0 +1,26 @@
+{
+  "userId": 22214,
+  "cartId": "0fcb8319-f74d-44f7-95e4-b7d70f9beb01",
+  "preferredProducts": [
+    4877,
+    1599,
+    4544,
+    2746,
+    3557,
+    4240,
+    3261,
+    2103
+  ],
+  "productReviews": [
+    {
+      "productId": 4426,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-16T15:57:20.6070574+02:00"
+    },
+    {
+      "productId": 1946,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-02-24T03:15:59.4204668+02:00"
+    }
+  ]
+}

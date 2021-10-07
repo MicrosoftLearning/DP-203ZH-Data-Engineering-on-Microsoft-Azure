@@ -1,0 +1,32 @@
+{
+  "userId": 30296,
+  "cartId": "2ca9194c-6ea1-44bb-ad01-0d772cc0d36a",
+  "preferredProducts": [
+    4552,
+    3508,
+    3492,
+    764,
+    4975,
+    1416,
+    1819,
+    1604,
+    1103
+  ],
+  "productReviews": [
+    {
+      "productId": 3371,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-10-15T12:40:36.9123061+03:00"
+    },
+    {
+      "productId": 721,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-04-21T17:34:04.1521707+03:00"
+    },
+    {
+      "productId": 3730,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-11-27T22:21:13.9464409+02:00"
+    }
+  ]
+}

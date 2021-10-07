@@ -1,0 +1,33 @@
+{
+  "userId": 42802,
+  "cartId": "37e29488-0a66-4a6c-9e10-7b189185e9f8",
+  "preferredProducts": [
+    3314,
+    2496,
+    3655,
+    2887,
+    2747,
+    259,
+    1683,
+    2159,
+    3972,
+    311
+  ],
+  "productReviews": [
+    {
+      "productId": 200,
+      "reviewText": "This SAS works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-07-17T18:53:02.4690764+03:00"
+    },
+    {
+      "productId": 3220,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2018-07-29T03:09:37.1677209+03:00"
+    },
+    {
+      "productId": 893,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-07-27T10:35:24.7869731+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 33165,
+  "cartId": "68f0c52c-510d-4796-b5b4-59c2aa6ec1ed",
+  "preferredProducts": [
+    2435,
+    3351,
+    2934,
+    408,
+    1602,
+    312,
+    4500,
+    1168
+  ],
+  "productReviews": [
+    {
+      "productId": 4196,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-12-02T21:11:06.7022064+02:00"
+    },
+    {
+      "productId": 2564,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-09-09T12:54:49.4454095+03:00"
+    },
+    {
+      "productId": 2130,
+      "reviewText": "this virtual is whole-grain.",
+      "reviewDate": "2020-03-08T15:43:14.1389504+02:00"
+    },
+    {
+      "productId": 2338,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-09-05T14:14:56.8642837+03:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2018-07-12T01:53:34.4995467+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 50094,
+  "cartId": "def95725-5f8e-448d-af9b-abbe428bbe04",
+  "preferredProducts": [
+    3994,
+    3215,
+    1494,
+    2306,
+    4475,
+    2723
+  ],
+  "productReviews": [
+    {
+      "productId": 3134,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-03-15T04:44:37.4563398+02:00"
+    },
+    {
+      "productId": 1806,
+      "reviewText": "This navigating works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-12-03T10:46:45.6982775+02:00"
+    },
+    {
+      "productId": 684,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-12-07T18:14:55.1946496+02:00"
+    },
+    {
+      "productId": 2963,
+      "reviewText": "This homogeneous works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2016-07-18T23:08:44.0839143+03:00"
+    }
+  ]
+}

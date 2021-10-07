@@ -1,0 +1,32 @@
+{
+  "userId": 3690,
+  "cartId": "52065cb7-7db5-4d07-86e0-de9df0de4da6",
+  "preferredProducts": [
+    4519,
+    1075,
+    4786,
+    1109,
+    631,
+    3779,
+    1828,
+    2790,
+    2530
+  ],
+  "productReviews": [
+    {
+      "productId": 2201,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2019-12-19T10:53:42.6352943+02:00"
+    },
+    {
+      "productId": 653,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-01-17T12:17:03.9834759+02:00"
+    },
+    {
+      "productId": 1183,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-07-14T08:19:44.0770495+03:00"
+    }
+  ]
+}

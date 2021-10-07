@@ -1,0 +1,38 @@
+{
+  "userId": 2038,
+  "cartId": "c6ab0fe4-ecc9-46b4-8367-bb1144cc5e41",
+  "preferredProducts": [
+    12,
+    1947,
+    3914,
+    3982,
+    171,
+    3946,
+    4308,
+    4025,
+    638,
+    4973
+  ],
+  "productReviews": [
+    {
+      "productId": 877,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-04-02T04:41:51.7959013+03:00"
+    },
+    {
+      "productId": 4566,
+      "reviewText": "This vortals works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2020-02-25T22:20:32.2743742+02:00"
+    },
+    {
+      "productId": 2733,
+      "reviewText": "this RAM is flirty.",
+      "reviewDate": "2019-01-02T15:15:08.2547729+02:00"
+    },
+    {
+      "productId": 2786,
+      "reviewText": "works okay.",
+      "reviewDate": "2019-02-08T00:23:59.6723298+02:00"
+    }
+  ]
+}

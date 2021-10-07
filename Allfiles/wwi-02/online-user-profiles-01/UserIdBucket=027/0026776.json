@@ -1,0 +1,30 @@
+{
+  "userId": 26776,
+  "cartId": "e66c4975-0cc0-480f-8b76-2166e73fc0c3",
+  "preferredProducts": [
+    696,
+    2658
+  ],
+  "productReviews": [
+    {
+      "productId": 666,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-03-26T20:01:38.849259+03:00"
+    },
+    {
+      "productId": 1045,
+      "reviewText": "this Moroccan Dirham is flirty.",
+      "reviewDate": "2019-07-13T18:31:39.1739113+03:00"
+    },
+    {
+      "productId": 720,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-04-05T01:59:37.2235543+03:00"
+    },
+    {
+      "productId": 2444,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-24T16:10:57.3443892+02:00"
+    }
+  ]
+}

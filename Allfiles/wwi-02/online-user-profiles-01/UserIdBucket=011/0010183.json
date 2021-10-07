@@ -1,0 +1,31 @@
+{
+  "userId": 10183,
+  "cartId": "0d38fd1d-54e1-4087-a282-16463fa4b2d1",
+  "preferredProducts": [
+    1436,
+    2087,
+    875,
+    1055,
+    1829,
+    2474,
+    4661,
+    130
+  ],
+  "productReviews": [
+    {
+      "productId": 312,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2018-02-02T10:16:00.1171838+02:00"
+    },
+    {
+      "productId": 2790,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2019-08-22T09:14:19.7748418+03:00"
+    },
+    {
+      "productId": 4278,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-06-13T21:20:13.3657468+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 24129,
+  "cartId": "08ba17ac-1744-4c32-b503-13ba3e160c9c",
+  "preferredProducts": [
+    2223,
+    885,
+    3457,
+    1114,
+    1382,
+    2393,
+    625
+  ],
+  "productReviews": [
+    {
+      "productId": 719,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2020-02-12T22:15:09.3662956+02:00"
+    },
+    {
+      "productId": 820,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-02-18T17:36:29.5500273+02:00"
+    },
+    {
+      "productId": 2174,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-10-01T05:00:26.4655084+03:00"
+    }
+  ]
+}

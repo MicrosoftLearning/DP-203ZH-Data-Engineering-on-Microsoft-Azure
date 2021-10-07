@@ -1,0 +1,24 @@
+{
+  "userId": 42298,
+  "cartId": "f213fbe0-60b7-4dd6-aec9-1737248e2724",
+  "preferredProducts": [
+    4551,
+    97,
+    1687,
+    2500,
+    2693,
+    1233
+  ],
+  "productReviews": [
+    {
+      "productId": 2182,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-01-04T04:56:58.3467757+02:00"
+    },
+    {
+      "productId": 538,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2016-10-24T19:45:45.8539803+03:00"
+    }
+  ]
+}

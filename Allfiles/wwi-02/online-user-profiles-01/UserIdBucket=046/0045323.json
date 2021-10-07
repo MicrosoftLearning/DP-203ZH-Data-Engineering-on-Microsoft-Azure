@@ -1,0 +1,32 @@
+{
+  "userId": 45323,
+  "cartId": "969f3a03-bcea-4225-a391-96d9befe4b6d",
+  "preferredProducts": [
+    3615,
+    682,
+    3108,
+    500
+  ],
+  "productReviews": [
+    {
+      "productId": 4911,
+      "reviewText": "this generate is top-notch.",
+      "reviewDate": "2016-10-04T13:16:47.6346078+03:00"
+    },
+    {
+      "productId": 2699,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-10-12T03:09:24.4707207+03:00"
+    },
+    {
+      "productId": 4346,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-02-01T17:46:39.2246139+02:00"
+    },
+    {
+      "productId": 3325,
+      "reviewText": "This Sleek Soft Gloves works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-05-16T03:19:28.9800731+03:00"
+    }
+  ]
+}

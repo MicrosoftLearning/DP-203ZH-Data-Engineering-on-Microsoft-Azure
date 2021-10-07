@@ -1,0 +1,29 @@
+{
+  "userId": 17561,
+  "cartId": "79d1910c-b01d-4c98-835f-e7c22ea5d0a5",
+  "preferredProducts": [
+    3483,
+    823,
+    1483,
+    37,
+    490,
+    4604
+  ],
+  "productReviews": [
+    {
+      "productId": 1722,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-05-25T00:13:42.9836794+03:00"
+    },
+    {
+      "productId": 4123,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-02-17T00:05:49.9459795+02:00"
+    },
+    {
+      "productId": 4979,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-10-04T20:53:45.6478779+03:00"
+    }
+  ]
+}

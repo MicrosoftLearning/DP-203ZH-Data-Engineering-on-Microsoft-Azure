@@ -1,0 +1,30 @@
+{
+  "userId": 3546,
+  "cartId": "3eeaa915-d89c-4bd3-9f18-29b42a063ab8",
+  "preferredProducts": [
+    3239,
+    2794,
+    379,
+    1267,
+    4312,
+    191,
+    605
+  ],
+  "productReviews": [
+    {
+      "productId": 3644,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-09-27T06:33:49.8697938+03:00"
+    },
+    {
+      "productId": 3785,
+      "reviewText": "This transition works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-12-18T17:04:01.8047077+02:00"
+    },
+    {
+      "productId": 45,
+      "reviewText": "this stable is brown.",
+      "reviewDate": "2018-01-01T13:51:26.0869378+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 4705,
+  "cartId": "2111afa6-f98b-45fc-990c-1db38791d14b",
+  "preferredProducts": [
+    4634
+  ],
+  "productReviews": [
+    {
+      "productId": 1543,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-01-03T20:48:02.0144717+02:00"
+    },
+    {
+      "productId": 4114,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-11-10T17:47:47.4362803+02:00"
+    },
+    {
+      "productId": 4404,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-08-09T17:15:44.3305601+03:00"
+    },
+    {
+      "productId": 1773,
+      "reviewText": "This cross-platform works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2018-03-09T02:53:10.1752071+02:00"
+    }
+  ]
+}

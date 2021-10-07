@@ -1,0 +1,36 @@
+{
+  "userId": 6858,
+  "cartId": "2e3a1e6a-df76-448a-9212-88f14ea48d61",
+  "preferredProducts": [
+    1779,
+    4842,
+    3774,
+    3390,
+    1702,
+    1173,
+    4082,
+    1161
+  ],
+  "productReviews": [
+    {
+      "productId": 3291,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-09-15T18:38:05.8354189+03:00"
+    },
+    {
+      "productId": 4987,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-10-03T13:58:30.8281169+03:00"
+    },
+    {
+      "productId": 3528,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-11-12T03:37:35.1145485+02:00"
+    },
+    {
+      "productId": 1569,
+      "reviewText": "This is a really good context-sensitive.",
+      "reviewDate": "2018-02-01T11:22:57.1367212+02:00"
+    }
+  ]
+}

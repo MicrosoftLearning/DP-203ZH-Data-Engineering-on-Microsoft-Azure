@@ -1,0 +1,39 @@
+{
+  "userId": 24064,
+  "cartId": "332b5c30-e9e1-4934-a98e-064affc0cdea",
+  "preferredProducts": [
+    3265,
+    4874,
+    3327,
+    3390,
+    1958,
+    4836
+  ],
+  "productReviews": [
+    {
+      "productId": 72,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-11-10T23:42:35.8453881+02:00"
+    },
+    {
+      "productId": 3685,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-05-18T19:43:30.6082185+03:00"
+    },
+    {
+      "productId": 3653,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-02-01T21:18:30.0282113+02:00"
+    },
+    {
+      "productId": 1949,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-06-21T18:45:53.2359952+03:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-12-03T05:45:58.1110384+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 1002,
+  "cartId": "a9d5a93b-bee5-4753-b797-70a747ff22e6",
+  "preferredProducts": [
+    2002,
+    2631,
+    1632,
+    4205,
+    2866,
+    665,
+    3310,
+    2986,
+    1886
+  ],
+  "productReviews": [
+    {
+      "productId": 764,
+      "reviewText": "this Ergonomic is flirty.",
+      "reviewDate": "2020-04-27T03:00:15.0554568+03:00"
+    },
+    {
+      "productId": 4046,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-01-30T23:03:41.7668454+02:00"
+    },
+    {
+      "productId": 1549,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2019-01-07T14:43:52.7243482+02:00"
+    },
+    {
+      "productId": 2948,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2020-03-19T15:29:33.4927517+02:00"
+    }
+  ]
+}

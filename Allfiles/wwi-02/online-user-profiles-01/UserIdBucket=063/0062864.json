@@ -1,0 +1,28 @@
+{
+  "userId": 62864,
+  "cartId": "1c54020d-f3b5-45b3-a8b6-941c5985fa0d",
+  "preferredProducts": [
+    3091,
+    2655,
+    1501,
+    1968,
+    4284
+  ],
+  "productReviews": [
+    {
+      "productId": 214,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-07-15T02:10:49.0717419+03:00"
+    },
+    {
+      "productId": 2700,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-10-30T08:47:37.139246+02:00"
+    },
+    {
+      "productId": 325,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2016-06-26T00:59:58.5374146+03:00"
+    }
+  ]
+}

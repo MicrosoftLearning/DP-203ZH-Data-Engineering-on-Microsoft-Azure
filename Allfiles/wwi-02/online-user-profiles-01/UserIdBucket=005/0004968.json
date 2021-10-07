@@ -1,0 +1,41 @@
+{
+  "userId": 4968,
+  "cartId": "1254b1ea-4554-4e5d-931e-66a1eec105b3",
+  "preferredProducts": [
+    1246,
+    3057,
+    4108,
+    4304,
+    3395,
+    785,
+    4983,
+    2559
+  ],
+  "productReviews": [
+    {
+      "productId": 352,
+      "reviewText": "this Generic Fresh Bacon is nifty.",
+      "reviewDate": "2017-06-07T09:28:19.0361641+03:00"
+    },
+    {
+      "productId": 2598,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-01-31T03:25:37.3761671+02:00"
+    },
+    {
+      "productId": 2746,
+      "reviewText": "This China works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2016-06-30T01:35:27.5943962+03:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-12-09T03:37:46.1829217+02:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-07-14T15:32:42.1983935+03:00"
+    }
+  ]
+}

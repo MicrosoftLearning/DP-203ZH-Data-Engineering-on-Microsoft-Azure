@@ -1,0 +1,33 @@
+{
+  "userId": 87440,
+  "cartId": "71306f02-ae2e-4bea-bc4f-7f5f0d05f89b",
+  "preferredProducts": [
+    3119,
+    4298,
+    448,
+    3180,
+    3134
+  ],
+  "productReviews": [
+    {
+      "productId": 4235,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-05-12T04:01:14.827697+03:00"
+    },
+    {
+      "productId": 3868,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2016-10-13T19:29:18.3817467+03:00"
+    },
+    {
+      "productId": 3983,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-07-27T04:33:02.7082965+03:00"
+    },
+    {
+      "productId": 2954,
+      "reviewText": "My neighbor Frona has one of these. She works as a gambler and she says it looks bearded.",
+      "reviewDate": "2017-10-17T02:33:34.5605734+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 2109,
+  "cartId": "71da9e88-7ab5-4cf0-ac5c-c959730a36f6",
+  "preferredProducts": [
+    2836,
+    4744
+  ],
+  "productReviews": [
+    {
+      "productId": 3938,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-11-29T11:08:37.5907998+02:00"
+    },
+    {
+      "productId": 4459,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2019-01-26T07:02:00.3580485+02:00"
+    },
+    {
+      "productId": 1735,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-09-29T03:36:17.2145779+03:00"
+    },
+    {
+      "productId": 4199,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-02-19T23:05:47.4599164+02:00"
+    }
+  ]
+}

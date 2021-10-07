@@ -1,0 +1,42 @@
+{
+  "userId": 73577,
+  "cartId": "1da69e81-2431-4dd6-9fd2-406b781536fb",
+  "preferredProducts": [
+    3588,
+    1646,
+    1455,
+    1067,
+    347,
+    2054,
+    1686,
+    4783,
+    2289
+  ],
+  "productReviews": [
+    {
+      "productId": 537,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-04-28T02:08:19.0384948+03:00"
+    },
+    {
+      "productId": 1950,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2016-06-17T08:04:11.2259006+03:00"
+    },
+    {
+      "productId": 1775,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2017-02-01T12:10:39.0952075+02:00"
+    },
+    {
+      "productId": 4599,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-08-22T22:51:44.2708603+03:00"
+    },
+    {
+      "productId": 3425,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-02-22T02:01:09.1841989+02:00"
+    }
+  ]
+}

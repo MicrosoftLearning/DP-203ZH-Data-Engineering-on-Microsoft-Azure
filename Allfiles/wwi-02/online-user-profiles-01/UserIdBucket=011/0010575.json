@@ -1,0 +1,30 @@
+{
+  "userId": 10575,
+  "cartId": "0c285b23-d194-4894-8fb5-187394b8d62d",
+  "preferredProducts": [
+    1562,
+    197
+  ],
+  "productReviews": [
+    {
+      "productId": 3214,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-05-15T10:25:23.794028+03:00"
+    },
+    {
+      "productId": 891,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-04-24T12:32:08.8001045+03:00"
+    },
+    {
+      "productId": 3105,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-10-09T06:46:36.4647948+03:00"
+    },
+    {
+      "productId": 4691,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-11-22T06:20:03.7239703+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 84257,
+  "cartId": "9ae75d16-4ed6-41f5-b0e5-777756577193",
+  "preferredProducts": [
+    2291,
+    3142
+  ],
+  "productReviews": [
+    {
+      "productId": 4639,
+      "reviewText": "this XSS is mellow.",
+      "reviewDate": "2017-07-23T00:16:51.1695559+03:00"
+    },
+    {
+      "productId": 3134,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-03-21T09:06:42.189979+02:00"
+    },
+    {
+      "productId": 747,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-02-12T10:07:39.4365772+02:00"
+    }
+  ]
+}

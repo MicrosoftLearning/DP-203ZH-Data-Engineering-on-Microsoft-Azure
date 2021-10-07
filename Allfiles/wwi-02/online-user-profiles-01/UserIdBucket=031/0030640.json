@@ -1,0 +1,37 @@
+{
+  "userId": 30640,
+  "cartId": "f0965960-a4c2-4694-9760-a3ff174deacb",
+  "preferredProducts": [
+    697,
+    1048,
+    1730,
+    2274
+  ],
+  "productReviews": [
+    {
+      "productId": 4693,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-09-07T10:29:46.3026789+03:00"
+    },
+    {
+      "productId": 926,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-09-06T18:15:30.3962064+03:00"
+    },
+    {
+      "productId": 554,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-04-13T14:43:52.0050931+03:00"
+    },
+    {
+      "productId": 1199,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-07-23T00:49:41.4367993+03:00"
+    },
+    {
+      "productId": 42,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-09-08T17:01:15.4360285+03:00"
+    }
+  ]
+}

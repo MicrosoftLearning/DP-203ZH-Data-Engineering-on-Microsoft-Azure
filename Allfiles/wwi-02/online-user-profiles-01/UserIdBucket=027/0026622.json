@@ -1,0 +1,25 @@
+{
+  "userId": 26622,
+  "cartId": "4de2edce-db2d-4f51-b50d-ba59fd5747f5",
+  "preferredProducts": [
+    427,
+    3011
+  ],
+  "productReviews": [
+    {
+      "productId": 3510,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-04-06T05:10:38.3530872+03:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-03-02T20:38:09.3695505+02:00"
+    },
+    {
+      "productId": 2433,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2018-01-06T18:12:17.6806687+02:00"
+    }
+  ]
+}

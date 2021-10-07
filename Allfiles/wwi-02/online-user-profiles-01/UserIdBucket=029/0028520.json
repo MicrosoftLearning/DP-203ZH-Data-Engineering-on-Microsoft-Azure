@@ -1,0 +1,27 @@
+{
+  "userId": 28520,
+  "cartId": "fc1e1323-fc2e-4fee-b83a-8105402fd19f",
+  "preferredProducts": [
+    4263,
+    2255,
+    3018,
+    2020
+  ],
+  "productReviews": [
+    {
+      "productId": 1304,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-04-23T06:01:40.8570131+03:00"
+    },
+    {
+      "productId": 4306,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2017-08-15T11:23:21.480322+03:00"
+    },
+    {
+      "productId": 3507,
+      "reviewText": "This Executive works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-04-15T21:33:24.6401623+03:00"
+    }
+  ]
+}

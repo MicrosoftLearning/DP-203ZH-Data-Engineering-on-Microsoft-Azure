@@ -1,0 +1,26 @@
+{
+  "userId": 50067,
+  "cartId": "1c06777d-56a2-46ed-9956-e8aa7a4c4bce",
+  "preferredProducts": [
+    3395,
+    708,
+    4380,
+    832,
+    1241,
+    4142,
+    1831,
+    4949
+  ],
+  "productReviews": [
+    {
+      "productId": 4276,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-08-14T20:14:23.9123751+03:00"
+    },
+    {
+      "productId": 1510,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2017-02-18T12:58:53.7768544+02:00"
+    }
+  ]
+}

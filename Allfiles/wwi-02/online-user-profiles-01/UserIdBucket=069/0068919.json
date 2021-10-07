@@ -1,0 +1,29 @@
+{
+  "userId": 68919,
+  "cartId": "4cccff37-069e-4fc6-b5fa-ba8e751ee6ee",
+  "preferredProducts": [
+    4740,
+    111,
+    2261,
+    1593,
+    1865,
+    3819
+  ],
+  "productReviews": [
+    {
+      "productId": 4465,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2017-06-09T16:08:14.8012954+03:00"
+    },
+    {
+      "productId": 1583,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-02-23T22:19:28.2160913+02:00"
+    },
+    {
+      "productId": 2145,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-01-21T20:14:37.8546671+02:00"
+    }
+  ]
+}

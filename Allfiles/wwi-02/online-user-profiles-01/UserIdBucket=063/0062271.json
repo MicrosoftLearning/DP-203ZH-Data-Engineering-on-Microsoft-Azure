@@ -1,0 +1,35 @@
+{
+  "userId": 62271,
+  "cartId": "57436ec5-8a2f-47a5-938d-81a83b30f0e1",
+  "preferredProducts": [
+    705,
+    4799,
+    1460,
+    2573,
+    945,
+    2923,
+    2577
+  ],
+  "productReviews": [
+    {
+      "productId": 1383,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2018-07-11T01:47:13.3737844+03:00"
+    },
+    {
+      "productId": 4401,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-07-14T18:42:04.7545547+03:00"
+    },
+    {
+      "productId": 1440,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2018-06-22T16:38:00.2034665+03:00"
+    },
+    {
+      "productId": 3500,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-12-12T15:52:52.9920428+02:00"
+    }
+  ]
+}

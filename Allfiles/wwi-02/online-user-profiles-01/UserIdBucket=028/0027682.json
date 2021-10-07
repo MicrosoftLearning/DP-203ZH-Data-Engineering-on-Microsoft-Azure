@@ -1,0 +1,28 @@
+{
+  "userId": 27682,
+  "cartId": "01dfe9af-3810-4cb5-9352-21a3a8deb1f9",
+  "preferredProducts": [
+    2857,
+    2974,
+    4830,
+    399,
+    4401
+  ],
+  "productReviews": [
+    {
+      "productId": 1895,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-04-03T10:32:15.890012+03:00"
+    },
+    {
+      "productId": 2543,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2016-06-27T16:55:11.6322354+03:00"
+    },
+    {
+      "productId": 2739,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-12-10T16:49:04.9177918+02:00"
+    }
+  ]
+}

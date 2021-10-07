@@ -1,0 +1,28 @@
+{
+  "userId": 97600,
+  "cartId": "b9232b56-ca48-4ba9-96e0-7885cfbd7999",
+  "preferredProducts": [
+    118,
+    2333,
+    1119,
+    3456,
+    1295,
+    2351,
+    1804,
+    2564,
+    3253,
+    2324
+  ],
+  "productReviews": [
+    {
+      "productId": 476,
+      "reviewText": "this Customer is light-hearted.",
+      "reviewDate": "2017-10-10T21:19:28.422909+03:00"
+    },
+    {
+      "productId": 1348,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-03-04T17:11:55.1662396+02:00"
+    }
+  ]
+}

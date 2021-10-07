@@ -1,0 +1,26 @@
+{
+  "userId": 36333,
+  "cartId": "855945b5-b9ab-49df-ad25-9db9aa949633",
+  "preferredProducts": [
+    760,
+    2152,
+    2266
+  ],
+  "productReviews": [
+    {
+      "productId": 2017,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-10-11T22:57:56.602145+03:00"
+    },
+    {
+      "productId": 3128,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-10-20T20:01:17.2804131+03:00"
+    },
+    {
+      "productId": 11,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2020-01-12T15:50:55.3113979+02:00"
+    }
+  ]
+}

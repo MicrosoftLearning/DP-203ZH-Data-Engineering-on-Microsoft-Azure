@@ -1,0 +1,37 @@
+{
+  "userId": 82231,
+  "cartId": "2c15dfe6-8999-411d-905b-62e3e0d50eb9",
+  "preferredProducts": [
+    2015,
+    2657,
+    4549,
+    4574,
+    1546,
+    2984,
+    2664,
+    3753,
+    2549
+  ],
+  "productReviews": [
+    {
+      "productId": 3487,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-12-21T04:35:34.3173099+02:00"
+    },
+    {
+      "productId": 4497,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2020-04-15T21:41:26.2195352+03:00"
+    },
+    {
+      "productId": 3624,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-04-22T13:26:40.8325211+03:00"
+    },
+    {
+      "productId": 4369,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2018-04-19T09:23:33.1298268+03:00"
+    }
+  ]
+}

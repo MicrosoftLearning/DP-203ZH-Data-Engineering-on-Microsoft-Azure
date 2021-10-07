@@ -1,0 +1,33 @@
+{
+  "userId": 45389,
+  "cartId": "8bc9dc3b-af28-4935-9a77-d61cd5c8451c",
+  "preferredProducts": [
+    1912,
+    4072,
+    3547,
+    1450,
+    1216,
+    4463,
+    1696,
+    3408,
+    1741,
+    2509
+  ],
+  "productReviews": [
+    {
+      "productId": 333,
+      "reviewText": "this Computers is smooth.",
+      "reviewDate": "2018-11-11T05:21:56.1627217+02:00"
+    },
+    {
+      "productId": 3787,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2020-01-30T16:24:42.9208213+02:00"
+    },
+    {
+      "productId": 2266,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-08-16T01:04:14.7037244+03:00"
+    }
+  ]
+}

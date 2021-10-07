@@ -1,0 +1,36 @@
+{
+  "userId": 89503,
+  "cartId": "02b59094-d081-4493-9e82-786d774c755d",
+  "preferredProducts": [
+    916,
+    320,
+    4814
+  ],
+  "productReviews": [
+    {
+      "productId": 2001,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-12-24T08:00:04.5864327+02:00"
+    },
+    {
+      "productId": 467,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-03-29T12:18:19.7034088+03:00"
+    },
+    {
+      "productId": 772,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-09-02T17:56:06.1609491+03:00"
+    },
+    {
+      "productId": 294,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-12-23T06:47:09.6895194+02:00"
+    },
+    {
+      "productId": 754,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-06-14T10:18:47.5778865+03:00"
+    }
+  ]
+}

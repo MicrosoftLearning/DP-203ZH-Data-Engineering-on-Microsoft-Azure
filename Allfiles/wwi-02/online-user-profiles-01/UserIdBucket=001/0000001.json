@@ -1,0 +1,41 @@
+{
+  "userId": 1,
+  "cartId": "0bfe6a2a-a558-46a9-9cb2-9e61baf2a4c3",
+  "preferredProducts": [
+    985,
+    3185,
+    1934,
+    859,
+    140,
+    4812,
+    1972,
+    492
+  ],
+  "productReviews": [
+    {
+      "productId": 2864,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2016-08-13T06:19:57.6999907+03:00"
+    },
+    {
+      "productId": 3286,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-01-10T15:16:27.4501361+02:00"
+    },
+    {
+      "productId": 4953,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-08-07T03:28:39.6312825+03:00"
+    },
+    {
+      "productId": 3687,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-10-12T22:29:02.4613754+03:00"
+    },
+    {
+      "productId": 3397,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-06-03T11:08:44.3293784+03:00"
+    }
+  ]
+}

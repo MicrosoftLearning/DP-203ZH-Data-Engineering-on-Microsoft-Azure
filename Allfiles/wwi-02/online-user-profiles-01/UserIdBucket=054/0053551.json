@@ -1,0 +1,26 @@
+{
+  "userId": 53551,
+  "cartId": "e3c4cfe7-b5a5-4182-9f5b-e19d9adf24ec",
+  "preferredProducts": [
+    1375,
+    3667,
+    1623
+  ],
+  "productReviews": [
+    {
+      "productId": 4607,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-09-22T20:24:15.1822638+03:00"
+    },
+    {
+      "productId": 3664,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-02-11T02:32:11.1472401+02:00"
+    },
+    {
+      "productId": 2223,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-09-04T10:04:59.9625648+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 82360,
+  "cartId": "2df2c52d-94af-4621-b6de-830342a2991b",
+  "preferredProducts": [
+    1373,
+    2689,
+    532
+  ],
+  "productReviews": [
+    {
+      "productId": 931,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-09-19T20:02:43.6767947+03:00"
+    },
+    {
+      "productId": 1493,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-06-03T01:57:42.7431844+03:00"
+    },
+    {
+      "productId": 3308,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2020-03-20T22:43:41.702562+02:00"
+    }
+  ]
+}

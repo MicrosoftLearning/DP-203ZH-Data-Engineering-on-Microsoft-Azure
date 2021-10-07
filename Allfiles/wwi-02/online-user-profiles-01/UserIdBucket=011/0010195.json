@@ -1,0 +1,31 @@
+{
+  "userId": 10195,
+  "cartId": "821e1699-0ad6-4f17-9517-d11fd16c24f1",
+  "preferredProducts": [
+    170,
+    700,
+    4252,
+    3549,
+    4505,
+    94,
+    620,
+    2444
+  ],
+  "productReviews": [
+    {
+      "productId": 3169,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2020-01-20T07:58:55.916631+02:00"
+    },
+    {
+      "productId": 1876,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-07-28T06:56:07.1871273+03:00"
+    },
+    {
+      "productId": 2181,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-11-19T01:37:41.6225968+02:00"
+    }
+  ]
+}

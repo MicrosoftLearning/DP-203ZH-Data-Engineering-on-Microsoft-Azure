@@ -1,0 +1,29 @@
+{
+  "userId": 84400,
+  "cartId": "9f40babd-9c20-4153-9782-4ecd16995433",
+  "preferredProducts": [
+    407,
+    1050,
+    4801,
+    1618,
+    4384,
+    2816
+  ],
+  "productReviews": [
+    {
+      "productId": 2140,
+      "reviewText": "this payment is papery.",
+      "reviewDate": "2019-09-07T06:25:20.9402112+03:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-05-21T19:26:48.8522465+03:00"
+    },
+    {
+      "productId": 4489,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-12-12T07:30:05.2356754+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 34996,
+  "cartId": "8919a1a9-4d6f-4a2a-ba94-0e78d9393050",
+  "preferredProducts": [
+    3793,
+    1959,
+    4625,
+    2983,
+    924,
+    2272,
+    230
+  ],
+  "productReviews": [
+    {
+      "productId": 3652,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-08-14T11:34:02.0802146+03:00"
+    },
+    {
+      "productId": 994,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-01-11T21:29:23.3953611+02:00"
+    }
+  ]
+}

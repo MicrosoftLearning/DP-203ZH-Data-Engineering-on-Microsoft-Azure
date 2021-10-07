@@ -1,0 +1,30 @@
+{
+  "userId": 25999,
+  "cartId": "558bdfa1-68ee-445d-ab7a-440458508789",
+  "preferredProducts": [
+    1251,
+    4786
+  ],
+  "productReviews": [
+    {
+      "productId": 1586,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2016-06-06T02:13:41.3105508+03:00"
+    },
+    {
+      "productId": 3817,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-05-17T00:00:44.9560752+03:00"
+    },
+    {
+      "productId": 4266,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-11-23T03:55:55.0546463+02:00"
+    },
+    {
+      "productId": 2528,
+      "reviewText": "talk about contempt!!!",
+      "reviewDate": "2019-05-28T08:12:58.6363777+03:00"
+    }
+  ]
+}

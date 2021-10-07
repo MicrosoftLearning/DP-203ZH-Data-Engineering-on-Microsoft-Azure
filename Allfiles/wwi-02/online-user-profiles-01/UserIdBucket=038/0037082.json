@@ -1,0 +1,28 @@
+{
+  "userId": 37082,
+  "cartId": "fe51831f-220a-4f37-8634-6db705eee7aa",
+  "preferredProducts": [
+    371,
+    4404,
+    2266,
+    668,
+    937
+  ],
+  "productReviews": [
+    {
+      "productId": 4443,
+      "reviewText": "This mobile, does exactly what it's suppose to do.",
+      "reviewDate": "2019-11-03T18:51:49.3913675+02:00"
+    },
+    {
+      "productId": 1305,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-04-09T23:18:33.9131035+03:00"
+    },
+    {
+      "productId": 1855,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-01-27T02:15:59.4396388+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 90275,
+  "cartId": "4e750d69-f992-4653-9d34-37280ccb6c9c",
+  "preferredProducts": [
+    3191,
+    3885,
+    3736,
+    3462
+  ],
+  "productReviews": [
+    {
+      "productId": 243,
+      "reviewText": "this Handmade is flirty.",
+      "reviewDate": "2017-11-16T07:55:52.6602278+02:00"
+    },
+    {
+      "productId": 2274,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-07-10T21:43:14.0143561+03:00"
+    },
+    {
+      "productId": 1508,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-07-05T11:52:30.8864809+03:00"
+    }
+  ]
+}

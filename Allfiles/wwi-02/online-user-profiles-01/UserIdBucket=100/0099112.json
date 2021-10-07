@@ -1,0 +1,40 @@
+{
+  "userId": 99112,
+  "cartId": "9a8b57c2-32c5-490c-a6ed-073cfc517e01",
+  "preferredProducts": [
+    1191,
+    2362,
+    3278,
+    2838,
+    789,
+    4607,
+    4224
+  ],
+  "productReviews": [
+    {
+      "productId": 2019,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2017-02-21T21:53:36.4723731+02:00"
+    },
+    {
+      "productId": 1881,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2017-11-10T15:28:37.8990055+02:00"
+    },
+    {
+      "productId": 2716,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-12-28T22:27:16.7256403+02:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-09-03T21:37:48.9304338+03:00"
+    },
+    {
+      "productId": 3847,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-09-10T07:41:02.5218267+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 90447,
+  "cartId": "5ecaf04c-8219-4e8e-a34e-94d14ce2daec",
+  "preferredProducts": [
+    3772,
+    2466,
+    118,
+    4334,
+    721,
+    73,
+    3581,
+    3089,
+    213
+  ],
+  "productReviews": [
+    {
+      "productId": 3011,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-02-08T13:03:09.3145609+02:00"
+    },
+    {
+      "productId": 3746,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-10-19T05:24:18.4663053+03:00"
+    }
+  ]
+}

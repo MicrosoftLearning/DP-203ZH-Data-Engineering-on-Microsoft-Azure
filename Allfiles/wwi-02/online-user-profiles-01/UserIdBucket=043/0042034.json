@@ -1,0 +1,36 @@
+{
+  "userId": 42034,
+  "cartId": "b56bd294-0b42-462e-b3fe-a906391598d0",
+  "preferredProducts": [
+    2397,
+    1167,
+    1428
+  ],
+  "productReviews": [
+    {
+      "productId": 3312,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2020-02-23T22:07:22.1544611+02:00"
+    },
+    {
+      "productId": 4658,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-02-16T21:41:40.5772316+02:00"
+    },
+    {
+      "productId": 415,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-06-30T10:16:34.7627982+03:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-06-22T01:03:49.7187356+03:00"
+    },
+    {
+      "productId": 2110,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2017-04-21T03:18:42.8563419+03:00"
+    }
+  ]
+}

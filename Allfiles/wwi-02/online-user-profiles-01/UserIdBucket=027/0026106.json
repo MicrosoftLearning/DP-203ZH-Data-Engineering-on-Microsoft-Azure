@@ -1,0 +1,31 @@
+{
+  "userId": 26106,
+  "cartId": "20249b44-0801-49dc-8d94-c9182bea409a",
+  "preferredProducts": [
+    4396,
+    2560,
+    837,
+    4138,
+    799,
+    1364,
+    417,
+    1353
+  ],
+  "productReviews": [
+    {
+      "productId": 3583,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-12-22T23:05:39.0843905+02:00"
+    },
+    {
+      "productId": 2456,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2018-04-08T17:26:16.9110355+03:00"
+    },
+    {
+      "productId": 2079,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-06-21T14:42:10.1116594+03:00"
+    }
+  ]
+}

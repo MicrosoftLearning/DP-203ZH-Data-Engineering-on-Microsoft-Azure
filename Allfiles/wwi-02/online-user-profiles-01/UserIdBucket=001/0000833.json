@@ -1,0 +1,32 @@
+{
+  "userId": 833,
+  "cartId": "fbc2605e-2a23-43a6-8146-c9ac29863b6c",
+  "preferredProducts": [
+    957,
+    3140,
+    1087,
+    66
+  ],
+  "productReviews": [
+    {
+      "productId": 3108,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-10-01T15:26:58.8616642+03:00"
+    },
+    {
+      "productId": 2919,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2018-09-08T06:02:22.7911739+03:00"
+    },
+    {
+      "productId": 1631,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2018-10-19T19:45:51.3400226+03:00"
+    },
+    {
+      "productId": 3151,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-10-13T02:59:37.2276392+03:00"
+    }
+  ]
+}

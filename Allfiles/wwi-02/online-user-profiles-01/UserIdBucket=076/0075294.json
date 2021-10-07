@@ -1,0 +1,27 @@
+{
+  "userId": 75294,
+  "cartId": "16af6af9-7364-455e-8415-a79ba9e9c45a",
+  "preferredProducts": [
+    3038,
+    3638,
+    2100,
+    2816,
+    4703,
+    527,
+    1284,
+    2495,
+    742
+  ],
+  "productReviews": [
+    {
+      "productId": 2631,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-09-12T07:16:52.6358441+03:00"
+    },
+    {
+      "productId": 84,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-12-16T11:51:33.8664891+02:00"
+    }
+  ]
+}

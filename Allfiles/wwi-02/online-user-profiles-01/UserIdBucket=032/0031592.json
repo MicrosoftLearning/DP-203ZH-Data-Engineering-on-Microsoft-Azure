@@ -1,0 +1,35 @@
+{
+  "userId": 31592,
+  "cartId": "df447b82-4e6c-4276-8f56-c147a38ef61c",
+  "preferredProducts": [
+    4754,
+    3070,
+    4749,
+    3522,
+    1280,
+    2089,
+    3221
+  ],
+  "productReviews": [
+    {
+      "productId": 3409,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-12-16T14:09:32.677132+02:00"
+    },
+    {
+      "productId": 4273,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-07-28T22:37:49.9301693+03:00"
+    },
+    {
+      "productId": 2240,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-08-12T05:06:26.6751321+03:00"
+    },
+    {
+      "productId": 4205,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-03-23T09:44:15.757091+02:00"
+    }
+  ]
+}

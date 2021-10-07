@@ -1,0 +1,28 @@
+{
+  "userId": 256,
+  "cartId": "e09256f2-b1e2-4a3a-849b-c7d9bfc4189e",
+  "preferredProducts": [
+    2567,
+    3662,
+    574,
+    2602,
+    4922
+  ],
+  "productReviews": [
+    {
+      "productId": 562,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2016-10-13T23:04:05.779065+03:00"
+    },
+    {
+      "productId": 3777,
+      "reviewText": "this Program is top-notch.",
+      "reviewDate": "2019-05-03T18:30:51.8175757+03:00"
+    },
+    {
+      "productId": 3406,
+      "reviewText": "This Tunnel works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2017-01-12T14:59:09.388745+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 9497,
+  "cartId": "d6f5ce01-c4ff-40a7-adbe-f8f098a607a2",
+  "preferredProducts": [
+    2669,
+    326,
+    4975,
+    2255,
+    1944,
+    2964,
+    990
+  ],
+  "productReviews": [
+    {
+      "productId": 152,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-12-21T09:30:22.8456715+02:00"
+    },
+    {
+      "productId": 2842,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-08-16T12:14:55.1096777+03:00"
+    },
+    {
+      "productId": 3711,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-02-26T22:47:12.7800487+02:00"
+    },
+    {
+      "productId": 2473,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-08-10T17:42:31.7016133+03:00"
+    }
+  ]
+}

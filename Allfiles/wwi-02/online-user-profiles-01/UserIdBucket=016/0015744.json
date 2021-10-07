@@ -1,0 +1,31 @@
+{
+  "userId": 15744,
+  "cartId": "232876a6-d68c-41cc-994e-d958696beeeb",
+  "preferredProducts": [
+    4337,
+    3606,
+    929
+  ],
+  "productReviews": [
+    {
+      "productId": 178,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-03-24T06:37:58.8290721+02:00"
+    },
+    {
+      "productId": 3929,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-12-06T02:17:48.8234421+02:00"
+    },
+    {
+      "productId": 4751,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-05-10T12:26:46.9559578+03:00"
+    },
+    {
+      "productId": 1813,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2017-12-14T14:51:37.5672856+02:00"
+    }
+  ]
+}

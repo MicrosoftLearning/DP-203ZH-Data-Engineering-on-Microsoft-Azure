@@ -1,0 +1,31 @@
+{
+  "userId": 42815,
+  "cartId": "77148e2d-418b-4de8-93fe-60bd4ca78329",
+  "preferredProducts": [
+    1134,
+    2521,
+    4140
+  ],
+  "productReviews": [
+    {
+      "productId": 163,
+      "reviewText": "this forecast is flirty.",
+      "reviewDate": "2020-04-03T22:53:29.8152145+03:00"
+    },
+    {
+      "productId": 318,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2017-02-06T21:24:58.3092116+02:00"
+    },
+    {
+      "productId": 1572,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-07-13T01:39:18.8761788+03:00"
+    },
+    {
+      "productId": 870,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-08-20T07:58:54.987419+03:00"
+    }
+  ]
+}

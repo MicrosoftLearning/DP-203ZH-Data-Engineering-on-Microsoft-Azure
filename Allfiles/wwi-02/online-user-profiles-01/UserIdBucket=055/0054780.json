@@ -1,0 +1,35 @@
+{
+  "userId": 54780,
+  "cartId": "af73c91c-2cc4-44c2-b803-b18a3b0d513b",
+  "preferredProducts": [
+    2608,
+    302
+  ],
+  "productReviews": [
+    {
+      "productId": 1234,
+      "reviewText": "i use it this time when i'm in my port-a-potty.",
+      "reviewDate": "2018-11-12T08:23:37.8345034+02:00"
+    },
+    {
+      "productId": 4399,
+      "reviewText": "this invoice is top-notch.",
+      "reviewDate": "2019-07-13T20:48:46.0176188+03:00"
+    },
+    {
+      "productId": 1147,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-03-16T20:07:27.4311452+02:00"
+    },
+    {
+      "productId": 3050,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2020-02-21T05:48:03.8898057+02:00"
+    },
+    {
+      "productId": 3307,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-05-28T07:36:49.7058333+03:00"
+    }
+  ]
+}

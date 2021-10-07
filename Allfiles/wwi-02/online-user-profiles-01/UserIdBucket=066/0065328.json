@@ -1,0 +1,37 @@
+{
+  "userId": 65328,
+  "cartId": "d4a88b60-72a5-444a-9d66-d881bbb0f835",
+  "preferredProducts": [
+    848,
+    4452,
+    144,
+    4031
+  ],
+  "productReviews": [
+    {
+      "productId": 4416,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-11-08T03:44:33.6931743+02:00"
+    },
+    {
+      "productId": 2738,
+      "reviewText": "this orange is smooth.",
+      "reviewDate": "2020-04-07T09:30:21.1930133+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-07-29T16:34:50.5789214+03:00"
+    },
+    {
+      "productId": 1799,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-01-08T15:53:48.0996964+02:00"
+    },
+    {
+      "productId": 4641,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-11-23T05:35:49.540993+02:00"
+    }
+  ]
+}

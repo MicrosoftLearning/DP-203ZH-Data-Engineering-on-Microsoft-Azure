@@ -1,0 +1,33 @@
+{
+  "userId": 89451,
+  "cartId": "2b2cddb9-f2e1-4fab-b97d-208a7784d99c",
+  "preferredProducts": [
+    2677,
+    3656,
+    1678,
+    1471,
+    1607,
+    1142,
+    2519,
+    1832,
+    3792,
+    76
+  ],
+  "productReviews": [
+    {
+      "productId": 1355,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-11-21T06:28:29.2014757+02:00"
+    },
+    {
+      "productId": 4913,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-09-22T18:49:55.9112473+03:00"
+    },
+    {
+      "productId": 1686,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2019-11-14T06:47:12.7634938+02:00"
+    }
+  ]
+}

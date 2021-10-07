@@ -1,0 +1,30 @@
+{
+  "userId": 57472,
+  "cartId": "31e1b2cd-48ec-446e-8598-96601a6a0661",
+  "preferredProducts": [
+    354,
+    1564,
+    838,
+    2175,
+    638,
+    1173,
+    3545
+  ],
+  "productReviews": [
+    {
+      "productId": 4691,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-04-14T01:01:16.1839553+03:00"
+    },
+    {
+      "productId": 4352,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2020-02-03T18:24:37.166551+02:00"
+    },
+    {
+      "productId": 2721,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-09-09T13:28:51.8185029+03:00"
+    }
+  ]
+}

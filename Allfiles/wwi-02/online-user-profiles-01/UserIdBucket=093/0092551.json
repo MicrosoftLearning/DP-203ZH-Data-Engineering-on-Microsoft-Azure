@@ -1,0 +1,27 @@
+{
+  "userId": 92551,
+  "cartId": "b0e11f36-6c99-4734-b1de-68ec32f26f76",
+  "preferredProducts": [
+    1047,
+    3616,
+    3485,
+    2672
+  ],
+  "productReviews": [
+    {
+      "productId": 306,
+      "reviewText": "this maroon is snowy.",
+      "reviewDate": "2018-01-23T21:04:10.1227164+02:00"
+    },
+    {
+      "productId": 241,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2017-12-29T17:12:45.3318049+02:00"
+    },
+    {
+      "productId": 1582,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2020-02-25T06:01:09.3258991+02:00"
+    }
+  ]
+}

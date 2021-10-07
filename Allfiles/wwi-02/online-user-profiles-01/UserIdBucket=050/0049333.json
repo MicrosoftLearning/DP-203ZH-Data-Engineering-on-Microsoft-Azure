@@ -1,0 +1,33 @@
+{
+  "userId": 49333,
+  "cartId": "a477c197-482b-49e5-b61a-b79fa9c092b7",
+  "preferredProducts": [
+    783,
+    2768,
+    3260,
+    2128,
+    4688,
+    4190,
+    812,
+    4461,
+    2730,
+    2446
+  ],
+  "productReviews": [
+    {
+      "productId": 4971,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-07-23T12:30:31.6681753+03:00"
+    },
+    {
+      "productId": 2892,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-03-14T09:32:41.8708936+02:00"
+    },
+    {
+      "productId": 1361,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-04-11T07:00:50.1383796+03:00"
+    }
+  ]
+}

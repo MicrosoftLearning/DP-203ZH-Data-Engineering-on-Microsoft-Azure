@@ -1,0 +1,27 @@
+{
+  "userId": 90935,
+  "cartId": "b884d06e-e882-4934-a542-a4356623d602",
+  "preferredProducts": [
+    756,
+    3433,
+    2800,
+    1564
+  ],
+  "productReviews": [
+    {
+      "productId": 1590,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-04-22T00:53:37.2791797+03:00"
+    },
+    {
+      "productId": 4589,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2020-04-23T02:15:41.4008688+03:00"
+    },
+    {
+      "productId": 3233,
+      "reviewText": "This Mount, does exactly what it's suppose to do.",
+      "reviewDate": "2020-04-28T15:08:49.4574706+03:00"
+    }
+  ]
+}

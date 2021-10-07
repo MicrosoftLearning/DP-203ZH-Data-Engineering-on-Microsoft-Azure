@@ -1,0 +1,26 @@
+{
+  "userId": 3812,
+  "cartId": "d1e1ea67-279d-4137-9276-8b252fc952d5",
+  "preferredProducts": [
+    3588,
+    2240,
+    1986,
+    4704,
+    1714,
+    3185,
+    2708,
+    2003
+  ],
+  "productReviews": [
+    {
+      "productId": 1779,
+      "reviewText": "this Object-based is ghetto.",
+      "reviewDate": "2017-04-19T06:33:02.7163104+03:00"
+    },
+    {
+      "productId": 1775,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-04-25T23:34:06.4945328+03:00"
+    }
+  ]
+}

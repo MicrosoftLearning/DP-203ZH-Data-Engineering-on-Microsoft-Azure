@@ -1,0 +1,28 @@
+{
+  "userId": 55785,
+  "cartId": "85d68f1c-5be7-4022-b767-beb5d2ec0df3",
+  "preferredProducts": [
+    785,
+    1470,
+    2692,
+    4234,
+    927,
+    80,
+    204,
+    532,
+    1178,
+    2598
+  ],
+  "productReviews": [
+    {
+      "productId": 3403,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-07-17T06:15:43.8236734+03:00"
+    },
+    {
+      "productId": 1519,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-10-01T00:11:38.43824+03:00"
+    }
+  ]
+}

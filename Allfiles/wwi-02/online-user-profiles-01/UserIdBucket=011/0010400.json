@@ -1,0 +1,43 @@
+{
+  "userId": 10400,
+  "cartId": "f5f2a39e-93a8-488e-9c17-e9d507919530",
+  "preferredProducts": [
+    3073,
+    1491,
+    4113,
+    588,
+    2806,
+    239,
+    1537,
+    3324,
+    402,
+    236
+  ],
+  "productReviews": [
+    {
+      "productId": 248,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-09-22T10:23:30.115849+03:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-01-06T11:26:40.6127654+02:00"
+    },
+    {
+      "productId": 2526,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-10-25T09:59:32.6705366+03:00"
+    },
+    {
+      "productId": 2139,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-08-05T15:06:19.9268134+03:00"
+    },
+    {
+      "productId": 2542,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2016-08-05T02:10:06.1480238+03:00"
+    }
+  ]
+}

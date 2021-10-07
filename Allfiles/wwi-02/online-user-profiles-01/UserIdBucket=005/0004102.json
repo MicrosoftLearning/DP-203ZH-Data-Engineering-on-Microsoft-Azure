@@ -1,0 +1,33 @@
+{
+  "userId": 4102,
+  "cartId": "28ad551d-359f-4413-be55-440fe45c49b5",
+  "preferredProducts": [
+    2297,
+    3368,
+    1194,
+    1536,
+    3277
+  ],
+  "productReviews": [
+    {
+      "productId": 4238,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2017-05-21T08:19:18.4627021+03:00"
+    },
+    {
+      "productId": 734,
+      "reviewText": "this SSL is nifty.",
+      "reviewDate": "2020-01-07T17:41:45.3612417+02:00"
+    },
+    {
+      "productId": 485,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-02-02T16:30:37.316239+02:00"
+    },
+    {
+      "productId": 1747,
+      "reviewText": "this Corporate is amiable.",
+      "reviewDate": "2018-12-05T00:08:52.9239882+02:00"
+    }
+  ]
+}

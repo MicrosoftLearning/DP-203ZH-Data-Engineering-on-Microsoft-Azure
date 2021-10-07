@@ -1,0 +1,31 @@
+{
+  "userId": 76000,
+  "cartId": "6a8f97b8-6573-479c-8b2e-ee48d2a354fb",
+  "preferredProducts": [
+    3014,
+    3864,
+    2831,
+    1352,
+    3289,
+    273,
+    4737,
+    1502
+  ],
+  "productReviews": [
+    {
+      "productId": 4525,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-01-14T01:14:26.9050391+02:00"
+    },
+    {
+      "productId": 4499,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2020-04-15T05:09:03.3611116+03:00"
+    },
+    {
+      "productId": 4556,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-10-07T17:44:32.6912877+03:00"
+    }
+  ]
+}

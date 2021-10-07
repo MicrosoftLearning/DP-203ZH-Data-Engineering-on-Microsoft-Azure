@@ -1,0 +1,32 @@
+{
+  "userId": 3775,
+  "cartId": "11407b84-fce1-48bc-be5d-920407f61338",
+  "preferredProducts": [
+    1146,
+    2523,
+    1394,
+    1179
+  ],
+  "productReviews": [
+    {
+      "productId": 3293,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2019-04-03T05:04:32.279074+03:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-03-25T02:30:52.953827+02:00"
+    },
+    {
+      "productId": 3957,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-09-12T02:32:22.8442877+03:00"
+    },
+    {
+      "productId": 607,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-02-25T07:34:51.8245576+02:00"
+    }
+  ]
+}

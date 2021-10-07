@@ -1,0 +1,32 @@
+{
+  "userId": 18060,
+  "cartId": "f29a98b7-1419-44a1-bb85-8e74a44e81c6",
+  "preferredProducts": [
+    2411,
+    3656,
+    666,
+    2653,
+    2414,
+    4856,
+    4178,
+    4219,
+    1299
+  ],
+  "productReviews": [
+    {
+      "productId": 4612,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-08-20T04:17:20.1919487+03:00"
+    },
+    {
+      "productId": 3769,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-04-28T22:45:50.7957077+03:00"
+    },
+    {
+      "productId": 3015,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-05-10T17:47:18.045106+03:00"
+    }
+  ]
+}

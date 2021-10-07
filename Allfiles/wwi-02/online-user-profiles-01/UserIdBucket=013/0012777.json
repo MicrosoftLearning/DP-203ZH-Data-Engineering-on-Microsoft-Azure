@@ -1,0 +1,26 @@
+{
+  "userId": 12777,
+  "cartId": "95fdf2ae-ae68-43dc-9ddb-fb9fd49facb4",
+  "preferredProducts": [
+    3287,
+    3198,
+    2988
+  ],
+  "productReviews": [
+    {
+      "productId": 4946,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-12-24T06:01:37.3893558+02:00"
+    },
+    {
+      "productId": 1877,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-07-29T13:26:42.6332629+03:00"
+    },
+    {
+      "productId": 2642,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-08-14T15:46:54.0747512+03:00"
+    }
+  ]
+}

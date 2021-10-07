@@ -1,0 +1,36 @@
+{
+  "userId": 8507,
+  "cartId": "a05dd062-901c-408f-9f50-f91518487efd",
+  "preferredProducts": [
+    4301,
+    2563,
+    4358
+  ],
+  "productReviews": [
+    {
+      "productId": 2423,
+      "reviewText": "this XSS is amiable.",
+      "reviewDate": "2018-11-18T01:30:22.3457275+02:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-10-19T03:01:02.2612725+03:00"
+    },
+    {
+      "productId": 4685,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-03-31T14:03:38.0737807+03:00"
+    },
+    {
+      "productId": 2953,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-10-07T09:38:48.8786502+03:00"
+    },
+    {
+      "productId": 4456,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2017-10-06T08:35:02.9713417+03:00"
+    }
+  ]
+}

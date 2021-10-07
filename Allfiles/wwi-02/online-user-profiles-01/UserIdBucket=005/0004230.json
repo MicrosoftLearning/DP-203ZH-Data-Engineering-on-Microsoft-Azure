@@ -1,0 +1,28 @@
+{
+  "userId": 4230,
+  "cartId": "5ba61313-15ae-4b85-a12e-7355933dc3c2",
+  "preferredProducts": [
+    2321,
+    3782,
+    2036,
+    4692,
+    3221,
+    4201,
+    3726,
+    3521,
+    2214,
+    1775
+  ],
+  "productReviews": [
+    {
+      "productId": 3552,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-05-25T11:42:16.5821217+03:00"
+    },
+    {
+      "productId": 2498,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-02-02T07:00:04.3745633+02:00"
+    }
+  ]
+}

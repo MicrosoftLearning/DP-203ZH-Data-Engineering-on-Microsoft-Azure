@@ -1,0 +1,36 @@
+{
+  "userId": 66884,
+  "cartId": "7259a0db-0690-4361-b235-6f31e05f11b0",
+  "preferredProducts": [
+    4654,
+    132,
+    2059,
+    2562,
+    2979,
+    1926,
+    356,
+    987
+  ],
+  "productReviews": [
+    {
+      "productId": 3691,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-10-11T11:51:50.1968736+03:00"
+    },
+    {
+      "productId": 303,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-12-23T11:07:47.7518314+02:00"
+    },
+    {
+      "productId": 4605,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-02-13T12:21:32.3050686+02:00"
+    },
+    {
+      "productId": 2049,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2016-12-02T09:47:55.2541971+02:00"
+    }
+  ]
+}

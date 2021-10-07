@@ -1,0 +1,27 @@
+{
+  "userId": 3524,
+  "cartId": "950f15a2-d4ae-41a3-aa6e-1c7d806524e0",
+  "preferredProducts": [
+    3660,
+    711,
+    1376,
+    1156
+  ],
+  "productReviews": [
+    {
+      "productId": 2907,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-09-27T21:02:59.0456698+03:00"
+    },
+    {
+      "productId": 2842,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-02-22T03:04:12.5205282+02:00"
+    },
+    {
+      "productId": 3441,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2017-04-09T12:06:27.9045701+03:00"
+    }
+  ]
+}

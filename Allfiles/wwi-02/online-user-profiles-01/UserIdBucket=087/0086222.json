@@ -1,0 +1,32 @@
+{
+  "userId": 86222,
+  "cartId": "d264e476-4348-43ea-b76a-751d36a58a67",
+  "preferredProducts": [
+    1080,
+    4148,
+    3659,
+    4377,
+    248,
+    648,
+    1309,
+    1920,
+    3416
+  ],
+  "productReviews": [
+    {
+      "productId": 4865,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-12-30T10:18:26.0454236+02:00"
+    },
+    {
+      "productId": 182,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-10-10T08:54:07.3083993+03:00"
+    },
+    {
+      "productId": 1163,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-08-03T06:21:35.1962762+03:00"
+    }
+  ]
+}

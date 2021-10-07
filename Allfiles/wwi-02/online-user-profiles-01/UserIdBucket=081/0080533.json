@@ -1,0 +1,33 @@
+{
+  "userId": 80533,
+  "cartId": "d61a52bc-6c09-48f7-ac6c-163f7989e1cd",
+  "preferredProducts": [
+    1256,
+    3857,
+    3528,
+    3787,
+    398
+  ],
+  "productReviews": [
+    {
+      "productId": 1780,
+      "reviewText": "this array is light-hearted.",
+      "reviewDate": "2017-11-12T03:08:24.7410417+02:00"
+    },
+    {
+      "productId": 4625,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2020-04-13T10:26:27.4994866+03:00"
+    },
+    {
+      "productId": 4270,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2018-12-20T04:20:21.7258053+02:00"
+    },
+    {
+      "productId": 1217,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2018-11-21T21:55:12.5139482+02:00"
+    }
+  ]
+}

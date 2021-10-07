@@ -1,0 +1,35 @@
+{
+  "userId": 44489,
+  "cartId": "91d60fbd-636b-4293-bf73-d720e004b78c",
+  "preferredProducts": [
+    1042,
+    335,
+    3990,
+    3516,
+    3313,
+    2323,
+    4460
+  ],
+  "productReviews": [
+    {
+      "productId": 3942,
+      "reviewText": "this Kip is gracious.",
+      "reviewDate": "2019-11-29T12:35:17.8357426+02:00"
+    },
+    {
+      "productId": 3180,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-10-10T13:05:30.6116795+03:00"
+    },
+    {
+      "productId": 522,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-04-23T19:29:54.4738403+03:00"
+    },
+    {
+      "productId": 3130,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-10-23T10:48:50.0425259+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 1962,
+  "cartId": "7f80bff9-b41b-4bf5-a67b-32defa2da7ed",
+  "preferredProducts": [
+    4479,
+    2022,
+    1352,
+    1907,
+    4473,
+    3889,
+    4519
+  ],
+  "productReviews": [
+    {
+      "productId": 1128,
+      "reviewText": "this Cape is gracious.",
+      "reviewDate": "2017-09-30T03:54:51.7980452+03:00"
+    },
+    {
+      "productId": 3443,
+      "reviewText": "this solid state is nifty.",
+      "reviewDate": "2016-08-15T19:52:14.4013469+03:00"
+    },
+    {
+      "productId": 138,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-07-12T00:53:15.9064922+03:00"
+    },
+    {
+      "productId": 3018,
+      "reviewText": "This Handmade Frozen Cheese works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2018-01-25T13:00:56.4368274+02:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 21120,
+  "cartId": "a11f54a9-64ab-4c26-9c6f-6398d56c0940",
+  "preferredProducts": [
+    434,
+    1564,
+    2463,
+    732,
+    4146,
+    1510,
+    1287,
+    23,
+    2470
+  ],
+  "productReviews": [
+    {
+      "productId": 3912,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-01-28T14:26:01.4201721+02:00"
+    },
+    {
+      "productId": 4335,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-09-02T04:38:14.9814356+03:00"
+    },
+    {
+      "productId": 1253,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-05-19T10:46:05.4267899+03:00"
+    },
+    {
+      "productId": 2642,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-01-19T11:56:26.2580551+02:00"
+    }
+  ]
+}

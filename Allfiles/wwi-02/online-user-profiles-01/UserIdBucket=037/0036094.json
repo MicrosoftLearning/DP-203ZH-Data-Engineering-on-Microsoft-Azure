@@ -1,0 +1,28 @@
+{
+  "userId": 36094,
+  "cartId": "5d62c565-1908-4836-8d88-a99ceae88985",
+  "preferredProducts": [
+    2096,
+    3565,
+    102,
+    2073,
+    1276
+  ],
+  "productReviews": [
+    {
+      "productId": 2238,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-03-24T04:58:58.0539003+02:00"
+    },
+    {
+      "productId": 1571,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-11-06T21:49:23.9615574+02:00"
+    },
+    {
+      "productId": 4334,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-05-25T11:49:07.4502407+03:00"
+    }
+  ]
+}

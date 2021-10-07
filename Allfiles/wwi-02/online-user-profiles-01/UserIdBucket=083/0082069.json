@@ -1,0 +1,28 @@
+{
+  "userId": 82069,
+  "cartId": "8007b7ae-fd6b-46dd-bef0-0069e2888fc4",
+  "preferredProducts": [
+    123,
+    1018,
+    2197,
+    4526,
+    601
+  ],
+  "productReviews": [
+    {
+      "productId": 578,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2016-12-16T05:40:06.9475414+02:00"
+    },
+    {
+      "productId": 3995,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2018-10-19T18:55:43.2531609+03:00"
+    },
+    {
+      "productId": 1844,
+      "reviewText": "This Savings Account works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-10-10T23:04:33.5515911+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 29919,
+  "cartId": "de1bcc0e-cfdd-418e-a01d-7ab3d6dadbd2",
+  "preferredProducts": [
+    4020,
+    4913,
+    4589,
+    4823,
+    4751,
+    4111,
+    1806
+  ],
+  "productReviews": [
+    {
+      "productId": 234,
+      "reviewText": "The box this comes in is 3 kilometer by 5 foot and weights 16 megaton!!!",
+      "reviewDate": "2020-03-07T14:26:16.6325018+02:00"
+    },
+    {
+      "productId": 2971,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2016-12-06T07:57:01.8121252+02:00"
+    },
+    {
+      "productId": 1038,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-01-07T08:20:53.3986113+02:00"
+    }
+  ]
+}

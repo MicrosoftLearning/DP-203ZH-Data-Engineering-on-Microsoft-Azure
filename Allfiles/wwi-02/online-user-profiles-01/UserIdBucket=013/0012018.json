@@ -1,0 +1,29 @@
+{
+  "userId": 12018,
+  "cartId": "a8b89ee7-e177-4467-b97b-003e76585551",
+  "preferredProducts": [
+    3298,
+    4185,
+    4686,
+    4210,
+    3095,
+    221
+  ],
+  "productReviews": [
+    {
+      "productId": 2215,
+      "reviewText": "this Plains is brown.",
+      "reviewDate": "2017-07-15T08:48:49.0378685+03:00"
+    },
+    {
+      "productId": 2087,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-12-17T09:24:46.6101612+02:00"
+    },
+    {
+      "productId": 4222,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-11-15T02:22:52.3328935+02:00"
+    }
+  ]
+}

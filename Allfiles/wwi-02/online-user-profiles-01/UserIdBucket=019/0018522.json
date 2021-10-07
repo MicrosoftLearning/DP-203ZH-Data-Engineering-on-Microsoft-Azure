@@ -1,0 +1,23 @@
+{
+  "userId": 18522,
+  "cartId": "d8a9415e-1a4e-4e78-98c5-5f20e3f7fad9",
+  "preferredProducts": [
+    4783,
+    4615,
+    3112,
+    3018,
+    2242
+  ],
+  "productReviews": [
+    {
+      "productId": 955,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-04-11T07:33:50.9696154+03:00"
+    },
+    {
+      "productId": 580,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-02-14T08:40:24.7494595+02:00"
+    }
+  ]
+}

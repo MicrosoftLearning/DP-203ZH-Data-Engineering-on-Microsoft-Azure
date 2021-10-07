@@ -1,0 +1,40 @@
+{
+  "userId": 91479,
+  "cartId": "eca90aa8-a887-44e0-8105-bd108721ff72",
+  "preferredProducts": [
+    3434,
+    64,
+    3246,
+    863,
+    1376,
+    3881,
+    445
+  ],
+  "productReviews": [
+    {
+      "productId": 4959,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-10-14T13:29:28.1941819+03:00"
+    },
+    {
+      "productId": 1648,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-01-14T17:57:52.8701516+02:00"
+    },
+    {
+      "productId": 4887,
+      "reviewText": "This is a really good Consultant.",
+      "reviewDate": "2018-07-27T21:38:35.1064422+03:00"
+    },
+    {
+      "productId": 2080,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-07-31T06:05:20.0248646+03:00"
+    },
+    {
+      "productId": 2265,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-02-25T00:10:41.4777124+02:00"
+    }
+  ]
+}

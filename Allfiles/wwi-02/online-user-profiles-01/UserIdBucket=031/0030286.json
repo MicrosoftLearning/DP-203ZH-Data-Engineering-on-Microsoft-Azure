@@ -1,0 +1,41 @@
+{
+  "userId": 30286,
+  "cartId": "af5cc560-2874-452e-bfde-55f28587f6cb",
+  "preferredProducts": [
+    4524,
+    3916,
+    1200,
+    2024,
+    3553,
+    1420,
+    1775,
+    1570
+  ],
+  "productReviews": [
+    {
+      "productId": 1750,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-08-19T13:15:54.823693+03:00"
+    },
+    {
+      "productId": 1956,
+      "reviewText": "This HDD works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-11-23T22:08:46.7498533+02:00"
+    },
+    {
+      "productId": 1368,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-08-23T05:45:37.781522+03:00"
+    },
+    {
+      "productId": 1161,
+      "reviewText": "This COM works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-12-26T08:52:53.5915272+02:00"
+    },
+    {
+      "productId": 3149,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-08-04T01:57:26.8085171+03:00"
+    }
+  ]
+}

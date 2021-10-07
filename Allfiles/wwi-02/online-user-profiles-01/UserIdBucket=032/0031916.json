@@ -1,0 +1,36 @@
+{
+  "userId": 31916,
+  "cartId": "9784f76a-b144-4c81-93df-4b96b8b706c6",
+  "preferredProducts": [
+    3205,
+    4200,
+    1913,
+    1444,
+    3243,
+    200,
+    2950,
+    3205
+  ],
+  "productReviews": [
+    {
+      "productId": 1135,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2017-01-05T21:01:06.9065542+02:00"
+    },
+    {
+      "productId": 1501,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-08-15T11:59:48.3545314+03:00"
+    },
+    {
+      "productId": 2217,
+      "reviewText": "This portal works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-10-23T11:32:16.0942135+03:00"
+    },
+    {
+      "productId": 1701,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-05-29T05:34:14.009037+03:00"
+    }
+  ]
+}

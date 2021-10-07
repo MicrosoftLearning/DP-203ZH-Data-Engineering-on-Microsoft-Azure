@@ -1,0 +1,30 @@
+{
+  "userId": 6880,
+  "cartId": "f77e2ba8-3836-45b5-9a72-d11d3dc96456",
+  "preferredProducts": [
+    3436,
+    2722,
+    3225,
+    216,
+    2427,
+    2819,
+    1408
+  ],
+  "productReviews": [
+    {
+      "productId": 1007,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2020-03-04T23:57:54.0925086+02:00"
+    },
+    {
+      "productId": 4801,
+      "reviewText": "i use it for 10 weeks when i'm in my sauna.",
+      "reviewDate": "2018-03-19T21:44:00.7227761+02:00"
+    },
+    {
+      "productId": 1001,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-07-30T20:45:00.506092+03:00"
+    }
+  ]
+}

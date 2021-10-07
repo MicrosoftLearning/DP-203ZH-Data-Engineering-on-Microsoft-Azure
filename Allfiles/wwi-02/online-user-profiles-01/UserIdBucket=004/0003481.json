@@ -1,0 +1,25 @@
+{
+  "userId": 3481,
+  "cartId": "656ee8c7-786e-4c56-a8b7-700561c39328",
+  "preferredProducts": [
+    3325,
+    1471,
+    1022,
+    3184,
+    4218,
+    1588,
+    1502
+  ],
+  "productReviews": [
+    {
+      "productId": 3461,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2017-04-16T03:49:23.0199359+03:00"
+    },
+    {
+      "productId": 340,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-11-07T23:55:19.4508068+02:00"
+    }
+  ]
+}

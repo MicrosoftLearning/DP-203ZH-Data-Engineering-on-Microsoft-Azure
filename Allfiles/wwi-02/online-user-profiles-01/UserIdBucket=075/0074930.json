@@ -1,0 +1,32 @@
+{
+  "userId": 74930,
+  "cartId": "1914b8ab-6c20-443d-8042-40fcab543bbe",
+  "preferredProducts": [
+    85,
+    4975,
+    437,
+    595,
+    3075,
+    1959,
+    3784,
+    4717,
+    2532
+  ],
+  "productReviews": [
+    {
+      "productId": 1060,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-02-13T18:28:42.6650558+02:00"
+    },
+    {
+      "productId": 3146,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2017-11-20T07:37:18.994438+02:00"
+    },
+    {
+      "productId": 1329,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2020-01-25T20:49:15.896013+02:00"
+    }
+  ]
+}

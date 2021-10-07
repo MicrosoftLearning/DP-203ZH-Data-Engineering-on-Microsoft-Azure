@@ -1,0 +1,28 @@
+{
+  "userId": 23211,
+  "cartId": "e6fd2265-5e40-48ef-b6a0-6b71473e3dc8",
+  "preferredProducts": [
+    4756,
+    891,
+    1634,
+    1706,
+    4848
+  ],
+  "productReviews": [
+    {
+      "productId": 867,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-02-04T06:06:03.2729686+02:00"
+    },
+    {
+      "productId": 37,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2020-01-06T17:35:30.9418224+02:00"
+    },
+    {
+      "productId": 3774,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-08-24T11:55:28.340235+03:00"
+    }
+  ]
+}

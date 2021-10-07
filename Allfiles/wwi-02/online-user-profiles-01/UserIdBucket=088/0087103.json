@@ -1,0 +1,32 @@
+{
+  "userId": 87103,
+  "cartId": "5fce9621-6dd1-4426-ba51-952db78727d1",
+  "preferredProducts": [
+    2321,
+    2346,
+    4658,
+    1212,
+    2424,
+    1792,
+    892,
+    4239,
+    2759
+  ],
+  "productReviews": [
+    {
+      "productId": 1017,
+      "reviewText": "this e-markets is complimentary.",
+      "reviewDate": "2019-05-11T07:50:54.1492725+03:00"
+    },
+    {
+      "productId": 1689,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-11-04T03:01:55.884436+02:00"
+    },
+    {
+      "productId": 4459,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2020-02-03T06:46:30.0794365+02:00"
+    }
+  ]
+}

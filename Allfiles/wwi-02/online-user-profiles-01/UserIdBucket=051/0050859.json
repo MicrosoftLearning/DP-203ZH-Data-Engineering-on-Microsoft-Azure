@@ -1,0 +1,43 @@
+{
+  "userId": 50859,
+  "cartId": "3bebeeb2-313a-4ff8-9822-a6a9f61e312a",
+  "preferredProducts": [
+    3004,
+    4019,
+    2720,
+    3204,
+    1885,
+    1431,
+    315,
+    2653,
+    4182,
+    141
+  ],
+  "productReviews": [
+    {
+      "productId": 1821,
+      "reviewText": "this Streets is snowy.",
+      "reviewDate": "2017-01-02T04:02:47.2019758+02:00"
+    },
+    {
+      "productId": 640,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-10-26T19:40:15.7488715+03:00"
+    },
+    {
+      "productId": 501,
+      "reviewText": "This is a really good Manors.",
+      "reviewDate": "2018-08-13T23:49:55.6289328+03:00"
+    },
+    {
+      "productId": 318,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-10-10T16:45:11.8828618+03:00"
+    },
+    {
+      "productId": 1169,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2016-10-04T13:15:21.8382132+03:00"
+    }
+  ]
+}

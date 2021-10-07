@@ -1,0 +1,35 @@
+{
+  "userId": 27110,
+  "cartId": "a9d0cbf4-337a-4158-9e44-2f3af84edb17",
+  "preferredProducts": [
+    2184,
+    4872,
+    2463,
+    1282,
+    1980,
+    2384,
+    1211
+  ],
+  "productReviews": [
+    {
+      "productId": 4115,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2018-08-07T07:00:06.0076958+03:00"
+    },
+    {
+      "productId": 4597,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-12-20T14:25:17.3346057+02:00"
+    },
+    {
+      "productId": 2103,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-04-23T14:08:18.7868855+03:00"
+    },
+    {
+      "productId": 2578,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-11-04T02:22:19.6953788+02:00"
+    }
+  ]
+}

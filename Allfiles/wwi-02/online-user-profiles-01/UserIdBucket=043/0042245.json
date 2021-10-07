@@ -1,0 +1,23 @@
+{
+  "userId": 42245,
+  "cartId": "3832c4ee-c276-40ec-a6ad-7de746ab333e",
+  "preferredProducts": [
+    4949,
+    3007,
+    3188,
+    4485,
+    4077
+  ],
+  "productReviews": [
+    {
+      "productId": 2955,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-05-01T19:55:56.6088133+03:00"
+    },
+    {
+      "productId": 3200,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-04-05T07:00:03.8946156+03:00"
+    }
+  ]
+}

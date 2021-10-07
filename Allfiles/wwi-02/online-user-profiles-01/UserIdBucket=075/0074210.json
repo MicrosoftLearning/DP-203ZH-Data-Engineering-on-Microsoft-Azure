@@ -1,0 +1,32 @@
+{
+  "userId": 74210,
+  "cartId": "c88bae09-75f3-4575-ac07-9729602b270a",
+  "preferredProducts": [
+    1556,
+    1843,
+    1374,
+    391
+  ],
+  "productReviews": [
+    {
+      "productId": 2564,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-05-14T14:42:54.1830542+03:00"
+    },
+    {
+      "productId": 4029,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-08-30T13:10:22.719954+03:00"
+    },
+    {
+      "productId": 1398,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-12-18T23:46:31.46322+02:00"
+    },
+    {
+      "productId": 3161,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-07-21T17:01:22.168512+03:00"
+    }
+  ]
+}

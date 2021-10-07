@@ -1,0 +1,29 @@
+{
+  "userId": 5920,
+  "cartId": "be6e2619-ddae-4a8e-a0af-229386b614cd",
+  "preferredProducts": [
+    1093,
+    1295,
+    4374,
+    4821,
+    1779,
+    4813
+  ],
+  "productReviews": [
+    {
+      "productId": 917,
+      "reviewText": "this CSS is light-hearted.",
+      "reviewDate": "2019-10-15T07:16:41.7604112+03:00"
+    },
+    {
+      "productId": 3008,
+      "reviewText": "This Product works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2017-10-10T18:08:37.524494+03:00"
+    },
+    {
+      "productId": 157,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2016-09-20T02:20:14.3433557+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 12183,
+  "cartId": "420fa804-7659-4811-9b76-2f506374a9e2",
+  "preferredProducts": [
+    1586,
+    2354,
+    3423,
+    3461,
+    524,
+    1433
+  ],
+  "productReviews": [
+    {
+      "productId": 3720,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2018-07-21T23:01:28.9555925+03:00"
+    },
+    {
+      "productId": 2977,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-08-09T09:10:34.7593633+03:00"
+    },
+    {
+      "productId": 3538,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2020-03-26T14:38:22.8625132+02:00"
+    }
+  ]
+}

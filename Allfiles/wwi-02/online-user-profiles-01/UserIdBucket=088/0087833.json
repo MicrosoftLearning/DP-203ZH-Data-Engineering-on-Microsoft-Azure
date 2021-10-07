@@ -1,0 +1,26 @@
+{
+  "userId": 87833,
+  "cartId": "273153e9-49f5-40d6-97b4-c3ec9a29c962",
+  "preferredProducts": [
+    3749,
+    2317,
+    2591
+  ],
+  "productReviews": [
+    {
+      "productId": 4479,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-07-07T11:21:51.3249222+03:00"
+    },
+    {
+      "productId": 3698,
+      "reviewText": "This input works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2019-01-22T03:38:45.2686358+02:00"
+    },
+    {
+      "productId": 1558,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-05-17T09:19:05.069699+03:00"
+    }
+  ]
+}

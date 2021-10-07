@@ -1,0 +1,26 @@
+{
+  "userId": 44500,
+  "cartId": "81b245fd-56eb-429e-b72e-48b89bf7b1db",
+  "preferredProducts": [
+    3549,
+    446,
+    4265
+  ],
+  "productReviews": [
+    {
+      "productId": 3123,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2016-07-20T16:34:00.463543+03:00"
+    },
+    {
+      "productId": 2728,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-04-19T13:40:09.8424338+03:00"
+    },
+    {
+      "productId": 3634,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-11-03T07:50:11.8561811+02:00"
+    }
+  ]
+}

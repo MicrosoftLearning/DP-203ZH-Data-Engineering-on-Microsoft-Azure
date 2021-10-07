@@ -1,0 +1,30 @@
+{
+  "userId": 21326,
+  "cartId": "45353c0e-d94b-49be-8693-d3d61c52abb5",
+  "preferredProducts": [
+    2053,
+    188,
+    379,
+    2782,
+    4905,
+    539,
+    921
+  ],
+  "productReviews": [
+    {
+      "productId": 4816,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2017-01-25T09:23:13.0040754+02:00"
+    },
+    {
+      "productId": 3789,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-04-22T09:55:55.2019762+03:00"
+    },
+    {
+      "productId": 618,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-01-28T14:24:35.5079919+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 79282,
+  "cartId": "9bc6a227-3fa2-4aa1-9a46-0b677d92c0cb",
+  "preferredProducts": [
+    500,
+    100,
+    3234,
+    2036,
+    2231,
+    2288,
+    2133,
+    4484
+  ],
+  "productReviews": [
+    {
+      "productId": 916,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-10-01T11:18:16.9620936+03:00"
+    },
+    {
+      "productId": 2810,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2018-08-30T14:10:10.4733408+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 88512,
+  "cartId": "43b30bdb-9c1f-4bdf-b174-3c421f65e02c",
+  "preferredProducts": [
+    2563,
+    1842,
+    4011,
+    4646,
+    1520,
+    1747,
+    2608,
+    1954
+  ],
+  "productReviews": [
+    {
+      "productId": 952,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-07-02T05:25:10.484192+03:00"
+    },
+    {
+      "productId": 2032,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-09-16T02:33:12.131557+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 20671,
+  "cartId": "246d6c35-c24b-4605-b78f-736b996682c4",
+  "preferredProducts": [
+    512,
+    2109,
+    1079,
+    4286,
+    4611,
+    4610,
+    4619
+  ],
+  "productReviews": [
+    {
+      "productId": 2992,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-10-10T06:33:25.564897+03:00"
+    },
+    {
+      "productId": 3935,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2018-07-11T20:45:58.615213+03:00"
+    },
+    {
+      "productId": 1076,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-02-11T08:39:58.633041+02:00"
+    }
+  ]
+}

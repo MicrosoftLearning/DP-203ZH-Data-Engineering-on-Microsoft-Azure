@@ -1,0 +1,32 @@
+{
+  "userId": 79544,
+  "cartId": "0bb2fc5a-4434-4549-b80c-45d1e63aa4c6",
+  "preferredProducts": [
+    3231,
+    28,
+    2467,
+    2876
+  ],
+  "productReviews": [
+    {
+      "productId": 3132,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-10-18T11:43:15.1667956+03:00"
+    },
+    {
+      "productId": 3361,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-01-28T18:48:51.3558847+02:00"
+    },
+    {
+      "productId": 1448,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2020-01-20T10:12:54.8807727+02:00"
+    },
+    {
+      "productId": 2091,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-04-17T21:16:19.6942261+03:00"
+    }
+  ]
+}

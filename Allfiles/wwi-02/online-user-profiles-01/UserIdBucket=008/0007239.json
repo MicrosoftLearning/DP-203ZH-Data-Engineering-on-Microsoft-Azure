@@ -1,0 +1,29 @@
+{
+  "userId": 7239,
+  "cartId": "04ddce99-07c5-484d-ae8a-9e0e9871da1e",
+  "preferredProducts": [
+    1272,
+    426,
+    2076,
+    457,
+    4600,
+    2241
+  ],
+  "productReviews": [
+    {
+      "productId": 4347,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-09-05T20:42:36.8658128+03:00"
+    },
+    {
+      "productId": 27,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2019-11-12T06:38:34.0921126+02:00"
+    },
+    {
+      "productId": 1204,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-10-18T00:41:36.4646026+03:00"
+    }
+  ]
+}

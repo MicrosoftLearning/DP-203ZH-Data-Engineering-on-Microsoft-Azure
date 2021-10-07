@@ -1,0 +1,29 @@
+{
+  "userId": 90086,
+  "cartId": "b1162848-7e1a-4a72-82aa-96b0afd5df76",
+  "preferredProducts": [
+    3487,
+    596,
+    3732,
+    1769,
+    2906,
+    1184
+  ],
+  "productReviews": [
+    {
+      "productId": 1797,
+      "reviewText": "this protocol is tasty.",
+      "reviewDate": "2016-05-10T23:58:04.4170776+03:00"
+    },
+    {
+      "productId": 3745,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-07-24T07:33:38.0387632+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-05-14T08:28:53.5329639+03:00"
+    }
+  ]
+}

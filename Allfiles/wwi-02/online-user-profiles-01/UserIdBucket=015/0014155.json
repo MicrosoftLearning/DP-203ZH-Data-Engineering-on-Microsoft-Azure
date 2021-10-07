@@ -1,0 +1,33 @@
+{
+  "userId": 14155,
+  "cartId": "bba4a5b3-d7ef-4ed0-8c39-2addf3b6bc1d",
+  "preferredProducts": [
+    4110,
+    715,
+    1027,
+    1700,
+    548,
+    4798,
+    2697,
+    920,
+    4311,
+    2884
+  ],
+  "productReviews": [
+    {
+      "productId": 1467,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-01-09T12:02:01.1189315+02:00"
+    },
+    {
+      "productId": 1357,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-08-27T06:47:23.4414436+03:00"
+    },
+    {
+      "productId": 552,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-02-28T04:01:11.3731827+02:00"
+    }
+  ]
+}

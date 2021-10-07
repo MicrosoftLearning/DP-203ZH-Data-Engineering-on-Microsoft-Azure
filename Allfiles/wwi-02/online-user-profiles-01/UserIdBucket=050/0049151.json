@@ -1,0 +1,33 @@
+{
+  "userId": 49151,
+  "cartId": "99f50508-d66c-409f-a596-aa2312924850",
+  "preferredProducts": [
+    1030,
+    3170,
+    4254,
+    3951,
+    1963
+  ],
+  "productReviews": [
+    {
+      "productId": 3257,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-11-27T14:43:02.3832378+02:00"
+    },
+    {
+      "productId": 4875,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2020-01-08T14:03:31.0070943+02:00"
+    },
+    {
+      "productId": 4719,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-08-04T11:54:56.4861537+03:00"
+    },
+    {
+      "productId": 4452,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-11-14T10:40:21.9831661+02:00"
+    }
+  ]
+}

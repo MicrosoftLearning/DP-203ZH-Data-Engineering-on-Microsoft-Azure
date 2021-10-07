@@ -1,0 +1,25 @@
+{
+  "userId": 26075,
+  "cartId": "89478b80-fa62-482c-b1ea-b5d014f21913",
+  "preferredProducts": [
+    2307,
+    2606
+  ],
+  "productReviews": [
+    {
+      "productId": 1886,
+      "reviewText": "this back-end is awesome.",
+      "reviewDate": "2016-08-17T16:56:53.5644876+03:00"
+    },
+    {
+      "productId": 5000,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2016-07-09T00:46:19.7008615+03:00"
+    },
+    {
+      "productId": 321,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-05-29T06:08:59.667685+03:00"
+    }
+  ]
+}

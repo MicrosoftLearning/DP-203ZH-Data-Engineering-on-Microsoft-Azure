@@ -1,0 +1,30 @@
+{
+  "userId": 99545,
+  "cartId": "d7fd1f32-cbc3-452c-be83-f12c0a685448",
+  "preferredProducts": [
+    4714,
+    2311,
+    3836,
+    1585,
+    3524,
+    2868,
+    4132
+  ],
+  "productReviews": [
+    {
+      "productId": 765,
+      "reviewText": "this SMS is complimentary.",
+      "reviewDate": "2019-01-18T16:43:28.1926884+02:00"
+    },
+    {
+      "productId": 3904,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-02-08T00:41:02.6417211+02:00"
+    },
+    {
+      "productId": 4596,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-11-03T03:43:06.9294173+02:00"
+    }
+  ]
+}

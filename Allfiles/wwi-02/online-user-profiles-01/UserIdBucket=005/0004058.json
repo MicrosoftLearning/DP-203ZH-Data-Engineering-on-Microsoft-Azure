@@ -1,0 +1,30 @@
+{
+  "userId": 4058,
+  "cartId": "109b9ab1-e6e5-4dfa-ab6d-3503de4a0c77",
+  "preferredProducts": [
+    1667,
+    4052
+  ],
+  "productReviews": [
+    {
+      "productId": 2061,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-10-02T01:41:00.8926269+03:00"
+    },
+    {
+      "productId": 3769,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2019-08-22T05:21:21.9300462+03:00"
+    },
+    {
+      "productId": 3057,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-05-18T09:47:51.5515974+03:00"
+    },
+    {
+      "productId": 3558,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-08-20T12:17:33.3168107+03:00"
+    }
+  ]
+}

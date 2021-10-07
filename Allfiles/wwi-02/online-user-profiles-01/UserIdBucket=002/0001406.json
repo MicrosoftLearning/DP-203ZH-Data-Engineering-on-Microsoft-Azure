@@ -1,0 +1,36 @@
+{
+  "userId": 1406,
+  "cartId": "74eac5c5-2a3b-4c17-9acc-3f4be5dcfac9",
+  "preferredProducts": [
+    3647,
+    3810,
+    1021,
+    983,
+    1751,
+    3461,
+    3425,
+    168
+  ],
+  "productReviews": [
+    {
+      "productId": 4536,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-03-09T16:09:53.2566261+02:00"
+    },
+    {
+      "productId": 4681,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2016-05-26T22:06:14.7430423+03:00"
+    },
+    {
+      "productId": 4723,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-12-16T06:29:46.6243758+02:00"
+    },
+    {
+      "productId": 4790,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2016-11-17T09:13:40.2679267+02:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 19600,
+  "cartId": "e3b7df37-311a-478d-a2e6-684c1c44ff17",
+  "preferredProducts": [
+    112,
+    1489,
+    1234,
+    1828,
+    2470,
+    3757
+  ],
+  "productReviews": [
+    {
+      "productId": 1351,
+      "reviewText": "this deposit is snowy.",
+      "reviewDate": "2017-03-21T11:55:15.0370697+02:00"
+    },
+    {
+      "productId": 1369,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2020-02-15T03:39:44.6465291+02:00"
+    }
+  ]
+}

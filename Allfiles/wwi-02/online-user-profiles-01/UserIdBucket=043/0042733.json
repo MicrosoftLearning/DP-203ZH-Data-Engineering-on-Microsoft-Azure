@@ -1,0 +1,38 @@
+{
+  "userId": 42733,
+  "cartId": "2420e9c8-fc81-452e-8a08-d27cfe077248",
+  "preferredProducts": [
+    3342,
+    3567,
+    4016,
+    3246,
+    1778
+  ],
+  "productReviews": [
+    {
+      "productId": 3939,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-09-11T08:20:29.4915823+03:00"
+    },
+    {
+      "productId": 278,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-07-11T14:08:59.9176777+03:00"
+    },
+    {
+      "productId": 4132,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-09-01T12:40:13.0240301+03:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-11-25T18:39:53.7523734+02:00"
+    },
+    {
+      "productId": 3418,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-03-28T22:27:40.0595491+03:00"
+    }
+  ]
+}

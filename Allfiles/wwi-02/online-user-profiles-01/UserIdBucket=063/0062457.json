@@ -1,0 +1,40 @@
+{
+  "userId": 62457,
+  "cartId": "0d58f9a8-37e5-4083-a823-7b87b7b31e50",
+  "preferredProducts": [
+    4306,
+    2453,
+    3780,
+    1203,
+    1463,
+    1082,
+    3313
+  ],
+  "productReviews": [
+    {
+      "productId": 2778,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2017-09-28T06:41:37.0776969+03:00"
+    },
+    {
+      "productId": 3111,
+      "reviewText": "This open architecture works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-08-05T21:22:30.557737+03:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2020-01-03T07:10:42.4055198+02:00"
+    },
+    {
+      "productId": 4598,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-04-10T21:28:00.4449937+03:00"
+    },
+    {
+      "productId": 187,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-08-25T00:24:29.8273551+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 93999,
+  "cartId": "0644123b-22e8-4cab-b274-622338af2ac4",
+  "preferredProducts": [
+    3802,
+    789,
+    258,
+    2598,
+    4640,
+    74,
+    62,
+    4438
+  ],
+  "productReviews": [
+    {
+      "productId": 4623,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-07-27T13:55:44.173157+03:00"
+    },
+    {
+      "productId": 1163,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-01-03T19:56:53.4421241+02:00"
+    },
+    {
+      "productId": 3687,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-10-23T06:31:26.1779032+03:00"
+    },
+    {
+      "productId": 1822,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-02-09T12:19:33.6192792+02:00"
+    }
+  ]
+}

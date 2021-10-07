@@ -1,0 +1,40 @@
+{
+  "userId": 9225,
+  "cartId": "074dc9e0-3e19-428a-ac0c-07cea192e255",
+  "preferredProducts": [
+    541,
+    778,
+    4108,
+    1493,
+    2649,
+    4215,
+    4181
+  ],
+  "productReviews": [
+    {
+      "productId": 1935,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2018-04-29T18:46:49.1323843+03:00"
+    },
+    {
+      "productId": 4510,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-09-16T01:56:33.4262278+03:00"
+    },
+    {
+      "productId": 4005,
+      "reviewText": "this invoice is flirty.",
+      "reviewDate": "2017-04-09T16:26:47.1850092+03:00"
+    },
+    {
+      "productId": 159,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2018-02-17T23:01:26.3207179+02:00"
+    },
+    {
+      "productId": 262,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-11-15T07:04:06.7180695+02:00"
+    }
+  ]
+}

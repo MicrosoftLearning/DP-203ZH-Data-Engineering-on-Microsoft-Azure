@@ -1,0 +1,27 @@
+{
+  "userId": 73249,
+  "cartId": "078c4bf0-4a6a-4989-b338-1b29e954b389",
+  "preferredProducts": [
+    665,
+    350,
+    152,
+    2763
+  ],
+  "productReviews": [
+    {
+      "productId": 2672,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-07-18T22:13:15.4633867+03:00"
+    },
+    {
+      "productId": 1023,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-08-06T02:17:34.6007055+03:00"
+    },
+    {
+      "productId": 2228,
+      "reviewText": "this International is nifty.",
+      "reviewDate": "2018-11-06T10:56:00.8526411+02:00"
+    }
+  ]
+}

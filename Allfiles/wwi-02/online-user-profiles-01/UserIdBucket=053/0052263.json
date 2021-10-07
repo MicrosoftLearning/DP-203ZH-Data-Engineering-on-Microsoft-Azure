@@ -1,0 +1,30 @@
+{
+  "userId": 52263,
+  "cartId": "5a6fee31-8374-4a3b-9b1d-d336b2aaf284",
+  "preferredProducts": [
+    1539,
+    3448,
+    792,
+    3717,
+    3463,
+    4155,
+    2290
+  ],
+  "productReviews": [
+    {
+      "productId": 196,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-04-06T17:56:20.1020312+03:00"
+    },
+    {
+      "productId": 3845,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2016-11-04T22:41:33.4225466+02:00"
+    },
+    {
+      "productId": 2221,
+      "reviewText": "this Rubber is whole-grain.",
+      "reviewDate": "2016-07-24T14:30:41.8194989+03:00"
+    }
+  ]
+}

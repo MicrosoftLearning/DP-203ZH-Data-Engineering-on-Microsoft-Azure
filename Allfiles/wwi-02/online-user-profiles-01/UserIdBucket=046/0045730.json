@@ -1,0 +1,37 @@
+{
+  "userId": 45730,
+  "cartId": "c5aa922d-0fda-47bd-8be4-36fca0d28e9d",
+  "preferredProducts": [
+    940,
+    3593,
+    4707,
+    1655,
+    2050,
+    2184,
+    4723,
+    1487,
+    4360
+  ],
+  "productReviews": [
+    {
+      "productId": 1976,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2018-12-26T07:21:33.7523894+02:00"
+    },
+    {
+      "productId": 834,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-08-02T02:08:44.815005+03:00"
+    },
+    {
+      "productId": 4392,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-08-11T06:22:32.2240328+03:00"
+    },
+    {
+      "productId": 899,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-06-19T06:18:34.4131042+03:00"
+    }
+  ]
+}

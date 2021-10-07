@@ -1,0 +1,27 @@
+{
+  "userId": 93450,
+  "cartId": "af838005-fd54-4628-9989-6b53d033b711",
+  "preferredProducts": [
+    1289,
+    2936,
+    889,
+    80
+  ],
+  "productReviews": [
+    {
+      "productId": 1116,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-05-05T02:56:35.2333392+03:00"
+    },
+    {
+      "productId": 2687,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-12-29T18:41:52.5070314+02:00"
+    },
+    {
+      "productId": 3237,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-04-23T20:53:27.2980929+03:00"
+    }
+  ]
+}

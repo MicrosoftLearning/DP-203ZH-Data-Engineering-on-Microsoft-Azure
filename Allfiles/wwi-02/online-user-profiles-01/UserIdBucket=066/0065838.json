@@ -1,0 +1,24 @@
+{
+  "userId": 65838,
+  "cartId": "12147554-a455-491d-a46b-72c2f4dfd88e",
+  "preferredProducts": [
+    2455,
+    3688,
+    2971,
+    3720,
+    1174,
+    2348
+  ],
+  "productReviews": [
+    {
+      "productId": 2102,
+      "reviewText": "this matrix is standard.",
+      "reviewDate": "2018-06-10T03:23:03.2346825+03:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-06-24T05:43:19.6026015+03:00"
+    }
+  ]
+}

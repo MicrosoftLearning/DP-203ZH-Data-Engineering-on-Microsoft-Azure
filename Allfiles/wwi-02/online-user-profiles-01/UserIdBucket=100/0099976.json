@@ -1,0 +1,25 @@
+{
+  "userId": 99976,
+  "cartId": "6d242149-7c9f-47b1-9777-920a65045cc3",
+  "preferredProducts": [
+    3303,
+    1914,
+    4131,
+    1653,
+    4382,
+    4628,
+    1043
+  ],
+  "productReviews": [
+    {
+      "productId": 2632,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-05-11T20:43:48.8543706+03:00"
+    },
+    {
+      "productId": 2385,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-06-21T12:03:20.7083201+03:00"
+    }
+  ]
+}

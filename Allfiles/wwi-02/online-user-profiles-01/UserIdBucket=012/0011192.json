@@ -1,0 +1,24 @@
+{
+  "userId": 11192,
+  "cartId": "c347d05e-3866-4177-9e0d-41d273bac96f",
+  "preferredProducts": [
+    4967,
+    3700,
+    1534,
+    3349,
+    2750,
+    1643
+  ],
+  "productReviews": [
+    {
+      "productId": 617,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2020-02-08T05:01:49.2411883+02:00"
+    },
+    {
+      "productId": 1994,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-11-14T21:39:12.6166098+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 82611,
+  "cartId": "4b5e42d7-3f47-4dcd-bff3-0a859deaa2a9",
+  "preferredProducts": [
+    3670,
+    1164,
+    1329,
+    4799
+  ],
+  "productReviews": [
+    {
+      "productId": 722,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-03-26T12:19:54.1480428+02:00"
+    },
+    {
+      "productId": 4173,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-06-24T19:44:16.8949345+03:00"
+    },
+    {
+      "productId": 3910,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-02-13T15:02:52.0098511+02:00"
+    },
+    {
+      "productId": 3294,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-07-14T07:13:09.9203379+03:00"
+    }
+  ]
+}

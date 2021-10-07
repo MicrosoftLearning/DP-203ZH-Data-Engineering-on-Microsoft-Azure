@@ -1,0 +1,31 @@
+{
+  "userId": 69499,
+  "cartId": "57f45721-f1be-4e18-bc54-805f54f1ab0f",
+  "preferredProducts": [
+    1108,
+    12,
+    4036
+  ],
+  "productReviews": [
+    {
+      "productId": 435,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-08-17T01:47:31.7320903+03:00"
+    },
+    {
+      "productId": 679,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-12-10T04:59:43.5734455+02:00"
+    },
+    {
+      "productId": 4643,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-02-08T05:20:58.1994064+02:00"
+    },
+    {
+      "productId": 4004,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-12-18T17:11:12.9047966+02:00"
+    }
+  ]
+}

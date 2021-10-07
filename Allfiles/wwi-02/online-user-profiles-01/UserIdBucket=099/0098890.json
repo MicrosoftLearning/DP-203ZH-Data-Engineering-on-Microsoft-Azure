@@ -1,0 +1,31 @@
+{
+  "userId": 98890,
+  "cartId": "0b686b12-92d9-4e17-b4fe-494a1f568877",
+  "preferredProducts": [
+    11,
+    1656,
+    2754
+  ],
+  "productReviews": [
+    {
+      "productId": 1115,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-02-02T02:42:18.4981053+02:00"
+    },
+    {
+      "productId": 110,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-12-07T13:58:13.2562762+02:00"
+    },
+    {
+      "productId": 2444,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2019-10-26T10:47:38.9104901+03:00"
+    },
+    {
+      "productId": 1519,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-03-08T13:17:11.0659751+02:00"
+    }
+  ]
+}

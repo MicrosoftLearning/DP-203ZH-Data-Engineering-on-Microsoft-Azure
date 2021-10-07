@@ -1,0 +1,32 @@
+{
+  "userId": 6728,
+  "cartId": "80cba0a1-6eea-4b60-9970-d85c1742b9db",
+  "preferredProducts": [
+    2467,
+    842,
+    2194,
+    560,
+    849,
+    640,
+    2910,
+    3135,
+    2498
+  ],
+  "productReviews": [
+    {
+      "productId": 1950,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-10-29T09:44:48.2464246+02:00"
+    },
+    {
+      "productId": 1961,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2016-10-03T15:29:07.0782228+03:00"
+    },
+    {
+      "productId": 3662,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2017-03-22T08:07:32.0580552+02:00"
+    }
+  ]
+}

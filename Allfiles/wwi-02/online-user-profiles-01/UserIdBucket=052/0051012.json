@@ -1,0 +1,31 @@
+{
+  "userId": 51012,
+  "cartId": "6a44fb27-367d-4199-9456-3cc9d722fce5",
+  "preferredProducts": [
+    1433,
+    2682,
+    3990,
+    619,
+    1204,
+    4337,
+    4278,
+    4206
+  ],
+  "productReviews": [
+    {
+      "productId": 3873,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-03-02T18:34:17.1640695+02:00"
+    },
+    {
+      "productId": 1634,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-10-24T08:05:03.1373361+03:00"
+    },
+    {
+      "productId": 1539,
+      "reviewText": "i use it for 10 weeks when i'm in my jail.",
+      "reviewDate": "2018-07-01T07:36:51.5016133+03:00"
+    }
+  ]
+}

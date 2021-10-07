@@ -1,0 +1,34 @@
+{
+  "userId": 88090,
+  "cartId": "da6fb964-cedf-4766-ae73-20f1d6db0942",
+  "preferredProducts": [
+    3333,
+    1786,
+    71,
+    320,
+    4003,
+    3541
+  ],
+  "productReviews": [
+    {
+      "productId": 3222,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-09-20T22:10:32.1846252+03:00"
+    },
+    {
+      "productId": 1787,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2018-03-30T01:07:35.2035491+03:00"
+    },
+    {
+      "productId": 2576,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2017-08-31T06:18:21.3299856+03:00"
+    },
+    {
+      "productId": 1653,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-11-23T03:35:58.6614464+02:00"
+    }
+  ]
+}

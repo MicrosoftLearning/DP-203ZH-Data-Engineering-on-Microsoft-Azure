@@ -1,0 +1,31 @@
+{
+  "userId": 34592,
+  "cartId": "7d2e4feb-2cb9-4a50-9f25-1abc9748dfd5",
+  "preferredProducts": [
+    3670,
+    2320,
+    1085,
+    1431,
+    3251,
+    2551,
+    3743,
+    978
+  ],
+  "productReviews": [
+    {
+      "productId": 2885,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-01-14T12:22:17.8536344+02:00"
+    },
+    {
+      "productId": 75,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-03-29T06:55:46.1269545+03:00"
+    },
+    {
+      "productId": 451,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2020-04-02T14:21:52.0239172+03:00"
+    }
+  ]
+}

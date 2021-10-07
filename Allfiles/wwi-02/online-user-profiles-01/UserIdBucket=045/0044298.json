@@ -1,0 +1,43 @@
+{
+  "userId": 44298,
+  "cartId": "e559ea1f-c006-4c95-892b-64471a6cb778",
+  "preferredProducts": [
+    2749,
+    2412,
+    3455,
+    250,
+    2173,
+    4763,
+    3015,
+    4404,
+    1481,
+    3443
+  ],
+  "productReviews": [
+    {
+      "productId": 2545,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2017-07-29T20:35:45.7524961+03:00"
+    },
+    {
+      "productId": 2547,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-11-16T01:13:12.2741687+02:00"
+    },
+    {
+      "productId": 2363,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-07-05T08:52:43.0888762+03:00"
+    },
+    {
+      "productId": 4169,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-04-24T15:58:34.994151+03:00"
+    },
+    {
+      "productId": 4174,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2018-04-30T00:42:18.0201073+03:00"
+    }
+  ]
+}

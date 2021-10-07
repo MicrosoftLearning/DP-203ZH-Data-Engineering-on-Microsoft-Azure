@@ -1,0 +1,37 @@
+{
+  "userId": 98762,
+  "cartId": "a6ab1b94-c5d2-4223-8b14-21d0f5ecff53",
+  "preferredProducts": [
+    2246,
+    2692,
+    3545,
+    1265
+  ],
+  "productReviews": [
+    {
+      "productId": 457,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-03-09T16:30:57.0007553+02:00"
+    },
+    {
+      "productId": 1935,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2019-04-13T00:45:09.3570247+03:00"
+    },
+    {
+      "productId": 971,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-12-30T09:40:15.7960526+02:00"
+    },
+    {
+      "productId": 4876,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-08-29T00:25:13.7458561+03:00"
+    },
+    {
+      "productId": 2571,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-11-07T18:35:56.3520204+02:00"
+    }
+  ]
+}

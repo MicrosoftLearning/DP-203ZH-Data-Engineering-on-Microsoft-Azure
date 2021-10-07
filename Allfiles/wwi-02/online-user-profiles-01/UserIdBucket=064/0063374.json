@@ -1,0 +1,33 @@
+{
+  "userId": 63374,
+  "cartId": "0522ffd1-b5d5-480c-8867-f1e52b300fab",
+  "preferredProducts": [
+    4532,
+    2808,
+    1329,
+    3282,
+    3815
+  ],
+  "productReviews": [
+    {
+      "productId": 4695,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-12-19T13:10:49.4185558+02:00"
+    },
+    {
+      "productId": 2543,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2018-08-31T00:24:41.2737087+03:00"
+    },
+    {
+      "productId": 3888,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-11-10T19:00:14.9412686+02:00"
+    },
+    {
+      "productId": 2060,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-06-07T07:00:45.6718028+03:00"
+    }
+  ]
+}

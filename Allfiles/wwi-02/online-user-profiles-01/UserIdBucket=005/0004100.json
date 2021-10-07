@@ -1,0 +1,41 @@
+{
+  "userId": 4100,
+  "cartId": "b5dac275-7d2d-4cc9-948f-2de6f709b427",
+  "preferredProducts": [
+    2212,
+    2908,
+    316,
+    4154,
+    627,
+    3911,
+    609,
+    1659
+  ],
+  "productReviews": [
+    {
+      "productId": 2093,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-03-27T02:34:06.4764336+02:00"
+    },
+    {
+      "productId": 4584,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2016-06-16T14:58:37.7184152+03:00"
+    },
+    {
+      "productId": 1180,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2017-06-10T04:35:52.8858673+03:00"
+    },
+    {
+      "productId": 2221,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-05-29T17:29:28.30812+03:00"
+    },
+    {
+      "productId": 4528,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-12-29T20:11:33.9750812+02:00"
+    }
+  ]
+}

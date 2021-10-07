@@ -1,0 +1,31 @@
+{
+  "userId": 23573,
+  "cartId": "6a66bce5-4074-45db-8a1d-0a1eb83a344e",
+  "preferredProducts": [
+    2439,
+    3802,
+    3673
+  ],
+  "productReviews": [
+    {
+      "productId": 2283,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-07-15T20:56:22.2444694+03:00"
+    },
+    {
+      "productId": 3895,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-11-07T15:50:38.1138398+02:00"
+    },
+    {
+      "productId": 1610,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-12-07T15:52:44.2731686+02:00"
+    },
+    {
+      "productId": 2433,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-05-08T03:00:14.7488551+03:00"
+    }
+  ]
+}

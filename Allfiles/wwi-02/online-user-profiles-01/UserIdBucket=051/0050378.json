@@ -1,0 +1,26 @@
+{
+  "userId": 50378,
+  "cartId": "d67c4dbc-6203-45f8-8fe5-f37220502203",
+  "preferredProducts": [
+    2891,
+    1911,
+    4383,
+    2539,
+    835,
+    1927,
+    108,
+    1863
+  ],
+  "productReviews": [
+    {
+      "productId": 2324,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-01-22T00:23:25.1086083+02:00"
+    },
+    {
+      "productId": 54,
+      "reviewText": "This Isle works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-08-24T01:49:13.0968548+03:00"
+    }
+  ]
+}

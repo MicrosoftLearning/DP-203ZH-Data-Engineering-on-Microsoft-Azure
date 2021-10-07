@@ -1,0 +1,37 @@
+{
+  "userId": 42186,
+  "cartId": "34d98008-71fa-46fb-b77c-9db4a30583d1",
+  "preferredProducts": [
+    2641,
+    274,
+    2814,
+    2247,
+    2593,
+    3570,
+    1865,
+    3436,
+    2520
+  ],
+  "productReviews": [
+    {
+      "productId": 1188,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-08-30T12:04:44.961994+03:00"
+    },
+    {
+      "productId": 1436,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-10-02T14:42:32.318057+03:00"
+    },
+    {
+      "productId": 102,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2016-07-06T05:02:40.7266129+03:00"
+    },
+    {
+      "productId": 208,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-08-19T07:45:09.6245371+03:00"
+    }
+  ]
+}

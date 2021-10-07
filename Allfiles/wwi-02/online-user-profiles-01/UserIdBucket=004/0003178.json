@@ -1,0 +1,30 @@
+{
+  "userId": 3178,
+  "cartId": "2b978d8d-4844-4bd0-b297-069244f06650",
+  "preferredProducts": [
+    3752,
+    4464
+  ],
+  "productReviews": [
+    {
+      "productId": 2765,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-10-29T15:05:22.6008285+03:00"
+    },
+    {
+      "productId": 4274,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-11-20T23:22:20.564406+02:00"
+    },
+    {
+      "productId": 2447,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-09-26T11:01:27.1997918+03:00"
+    },
+    {
+      "productId": 2984,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-04-04T13:42:22.6097943+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 42994,
+  "cartId": "ae8b872b-85a1-4ff8-9118-4d9c4b5c923f",
+  "preferredProducts": [
+    4188,
+    4227,
+    2572,
+    2814,
+    4514,
+    231,
+    1353
+  ],
+  "productReviews": [
+    {
+      "productId": 2235,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-12-28T18:25:43.0883178+02:00"
+    },
+    {
+      "productId": 4413,
+      "reviewText": "This FTP works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-10-09T11:41:38.2960448+03:00"
+    },
+    {
+      "productId": 1206,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-12-25T14:46:14.643503+02:00"
+    }
+  ]
+}

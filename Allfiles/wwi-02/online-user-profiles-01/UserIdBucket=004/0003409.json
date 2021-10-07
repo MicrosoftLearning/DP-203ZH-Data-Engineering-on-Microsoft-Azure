@@ -1,0 +1,35 @@
+{
+  "userId": 3409,
+  "cartId": "baa0e06d-568b-448b-b138-1844f0b11fb8",
+  "preferredProducts": [
+    2967,
+    4204,
+    1670,
+    3732,
+    4532,
+    1337,
+    2002
+  ],
+  "productReviews": [
+    {
+      "productId": 1166,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-01-26T20:18:06.4530825+02:00"
+    },
+    {
+      "productId": 2733,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2016-12-12T06:48:16.8610641+02:00"
+    },
+    {
+      "productId": 3027,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-12-12T06:47:51.1202299+02:00"
+    },
+    {
+      "productId": 392,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-02-23T08:41:20.5760798+02:00"
+    }
+  ]
+}

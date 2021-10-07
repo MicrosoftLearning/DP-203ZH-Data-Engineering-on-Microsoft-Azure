@@ -1,0 +1,41 @@
+{
+  "userId": 10305,
+  "cartId": "f03a245d-7411-4958-9cb3-cb3b30dcb97b",
+  "preferredProducts": [
+    2511,
+    4644,
+    927,
+    2351,
+    2018,
+    4750,
+    3138,
+    755
+  ],
+  "productReviews": [
+    {
+      "productId": 3302,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-11-02T07:15:19.9078102+02:00"
+    },
+    {
+      "productId": 3645,
+      "reviewText": "this New Zealand is tasty.",
+      "reviewDate": "2018-11-23T17:12:36.049208+02:00"
+    },
+    {
+      "productId": 4400,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-07-11T21:17:59.9388583+03:00"
+    },
+    {
+      "productId": 1192,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-10-01T12:49:32.655802+03:00"
+    },
+    {
+      "productId": 4183,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-06-27T16:20:24.2065404+03:00"
+    }
+  ]
+}

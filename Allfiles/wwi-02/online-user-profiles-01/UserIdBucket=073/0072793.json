@@ -1,0 +1,32 @@
+{
+  "userId": 72793,
+  "cartId": "f0f383c0-3c90-4e2b-af12-72b5017d8f6a",
+  "preferredProducts": [
+    953,
+    2348,
+    1726,
+    3389,
+    2542,
+    365,
+    1467,
+    2903,
+    98
+  ],
+  "productReviews": [
+    {
+      "productId": 1873,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-12-10T06:12:10.8624245+02:00"
+    },
+    {
+      "productId": 599,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-01-20T23:01:29.040147+02:00"
+    },
+    {
+      "productId": 915,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-06-01T19:23:56.7687162+03:00"
+    }
+  ]
+}

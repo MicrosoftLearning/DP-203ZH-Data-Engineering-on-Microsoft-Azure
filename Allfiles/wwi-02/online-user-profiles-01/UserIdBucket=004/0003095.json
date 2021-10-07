@@ -1,0 +1,43 @@
+{
+  "userId": 3095,
+  "cartId": "2bafdfb4-363b-4987-8ed3-81ce22a3f664",
+  "preferredProducts": [
+    1148,
+    2170,
+    3294,
+    1930,
+    2964,
+    519,
+    4159,
+    1095,
+    4932,
+    2288
+  ],
+  "productReviews": [
+    {
+      "productId": 1569,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-01-15T22:52:37.554568+02:00"
+    },
+    {
+      "productId": 3365,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2016-11-21T08:40:52.9663242+02:00"
+    },
+    {
+      "productId": 4768,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2018-08-31T21:12:20.6622864+03:00"
+    },
+    {
+      "productId": 259,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-06-08T13:49:12.1897572+03:00"
+    },
+    {
+      "productId": 1059,
+      "reviewText": "this Handcrafted Fresh Bacon is flirty.",
+      "reviewDate": "2019-08-15T01:56:30.506454+03:00"
+    }
+  ]
+}

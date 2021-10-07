@@ -1,0 +1,36 @@
+{
+  "userId": 48727,
+  "cartId": "a3d083d4-a5e0-46ee-b9a9-3ca1ae04eabf",
+  "preferredProducts": [
+    2861,
+    148,
+    3210
+  ],
+  "productReviews": [
+    {
+      "productId": 1792,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2017-08-28T03:24:43.3239895+03:00"
+    },
+    {
+      "productId": 377,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-03-08T18:18:53.3393985+02:00"
+    },
+    {
+      "productId": 2342,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-10-15T09:29:44.7939101+03:00"
+    },
+    {
+      "productId": 2061,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-12-14T01:54:01.3316711+02:00"
+    },
+    {
+      "productId": 3296,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2017-05-28T17:20:54.0003217+03:00"
+    }
+  ]
+}

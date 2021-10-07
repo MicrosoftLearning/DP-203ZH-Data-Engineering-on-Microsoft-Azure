@@ -1,0 +1,28 @@
+{
+  "userId": 65060,
+  "cartId": "6cc6318c-5199-4aba-962d-52b8d25c35c9",
+  "preferredProducts": [
+    375,
+    4503,
+    658,
+    495,
+    4058
+  ],
+  "productReviews": [
+    {
+      "productId": 2792,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-06-30T05:04:46.0618256+03:00"
+    },
+    {
+      "productId": 1551,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-12-12T17:49:06.481951+02:00"
+    },
+    {
+      "productId": 736,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-01-08T23:21:50.0707227+02:00"
+    }
+  ]
+}

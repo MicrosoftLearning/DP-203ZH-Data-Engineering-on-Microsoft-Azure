@@ -1,0 +1,42 @@
+{
+  "userId": 23217,
+  "cartId": "f4a7f699-0881-43d9-9c3e-f4db4230eae2",
+  "preferredProducts": [
+    1107,
+    4942,
+    4716,
+    1643,
+    1254,
+    4318,
+    853,
+    833,
+    1444
+  ],
+  "productReviews": [
+    {
+      "productId": 4478,
+      "reviewText": "this Engineer is honest.",
+      "reviewDate": "2017-01-30T13:26:16.2452531+02:00"
+    },
+    {
+      "productId": 1811,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-08-26T14:34:08.5306501+03:00"
+    },
+    {
+      "productId": 2730,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2016-08-03T10:11:59.3278182+03:00"
+    },
+    {
+      "productId": 1613,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2016-12-12T18:28:35.7642068+02:00"
+    },
+    {
+      "productId": 975,
+      "reviewText": "this Skyway is dominant.",
+      "reviewDate": "2017-10-12T23:31:32.8868271+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 68797,
+  "cartId": "543fa1cb-b788-487e-b41d-1c069c2b2079",
+  "preferredProducts": [
+    3449,
+    2660,
+    2232,
+    3123,
+    3593,
+    2022
+  ],
+  "productReviews": [
+    {
+      "productId": 2155,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-11-05T07:09:59.2507725+02:00"
+    },
+    {
+      "productId": 1398,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-09-15T12:26:31.0979767+03:00"
+    },
+    {
+      "productId": 3857,
+      "reviewText": "This Buckinghamshire works so well. It hungrily improves my basketball by a lot.",
+      "reviewDate": "2019-02-16T10:56:12.7201294+02:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 24364,
+  "cartId": "0f060b7d-4b29-49e0-bf52-e2445d8cf2b3",
+  "preferredProducts": [
+    1033,
+    1318,
+    200,
+    1524,
+    3900,
+    547,
+    1673
+  ],
+  "productReviews": [
+    {
+      "productId": 4075,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-12-19T20:43:32.4721806+02:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-01-22T06:44:14.9912536+02:00"
+    },
+    {
+      "productId": 2023,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-01-13T18:45:00.1074273+02:00"
+    },
+    {
+      "productId": 130,
+      "reviewText": "this Steel is flirty.",
+      "reviewDate": "2018-12-29T06:29:27.6676078+02:00"
+    }
+  ]
+}

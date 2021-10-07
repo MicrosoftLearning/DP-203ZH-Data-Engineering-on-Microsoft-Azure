@@ -1,0 +1,31 @@
+{
+  "userId": 43655,
+  "cartId": "03d4ff1e-eb26-441e-ad5f-c7aa6765fe86",
+  "preferredProducts": [
+    105,
+    4218,
+    2450,
+    1748,
+    2996,
+    4874,
+    1520,
+    4845
+  ],
+  "productReviews": [
+    {
+      "productId": 4569,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-12-21T12:35:17.7922633+02:00"
+    },
+    {
+      "productId": 4326,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-07-16T08:59:34.2171349+03:00"
+    },
+    {
+      "productId": 3979,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-01-12T07:43:54.1167973+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 6036,
+  "cartId": "9c28622e-27de-4986-8da2-8ffcc33339b8",
+  "preferredProducts": [
+    3693,
+    1857,
+    2268
+  ],
+  "productReviews": [
+    {
+      "productId": 4316,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-02-02T12:43:28.5122268+02:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-03-20T14:40:40.1599436+02:00"
+    },
+    {
+      "productId": 3817,
+      "reviewText": "this bricks-and-clicks is brown.",
+      "reviewDate": "2017-09-18T16:33:56.4780295+03:00"
+    },
+    {
+      "productId": 502,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-12-12T08:13:16.640676+02:00"
+    }
+  ]
+}

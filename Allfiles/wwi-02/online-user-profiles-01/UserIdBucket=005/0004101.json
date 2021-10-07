@@ -1,0 +1,29 @@
+{
+  "userId": 4101,
+  "cartId": "11a02a6e-c9e0-4713-9cf6-a7a90e3e614b",
+  "preferredProducts": [
+    80,
+    3,
+    142,
+    4511,
+    3391,
+    4200
+  ],
+  "productReviews": [
+    {
+      "productId": 3267,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-03-22T04:06:49.8531639+02:00"
+    },
+    {
+      "productId": 2412,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2020-05-05T07:50:49.5805692+03:00"
+    },
+    {
+      "productId": 4964,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2019-07-28T14:55:46.5772305+03:00"
+    }
+  ]
+}

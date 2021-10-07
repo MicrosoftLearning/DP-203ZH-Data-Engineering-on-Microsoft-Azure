@@ -1,0 +1,24 @@
+{
+  "userId": 42702,
+  "cartId": "6b989799-80c7-48af-bf84-48186088db77",
+  "preferredProducts": [
+    4764,
+    1684,
+    3835,
+    441,
+    3949,
+    4796
+  ],
+  "productReviews": [
+    {
+      "productId": 2249,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-12-24T22:07:55.8686294+02:00"
+    },
+    {
+      "productId": 3213,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-07-28T05:51:04.6145197+03:00"
+    }
+  ]
+}

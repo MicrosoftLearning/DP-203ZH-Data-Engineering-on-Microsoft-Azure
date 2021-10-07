@@ -1,0 +1,31 @@
+{
+  "userId": 90813,
+  "cartId": "49b9f1e5-e5a7-4cf8-aaf0-c78959669ab3",
+  "preferredProducts": [
+    1881,
+    1691,
+    2219,
+    4390,
+    2207,
+    4394,
+    3238,
+    1163
+  ],
+  "productReviews": [
+    {
+      "productId": 1520,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-10-12T05:28:15.7657392+03:00"
+    },
+    {
+      "productId": 36,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-03-03T14:16:44.5532602+02:00"
+    },
+    {
+      "productId": 884,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-03-18T14:52:42.3843722+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 41305,
+  "cartId": "b620b154-1049-4b5c-873e-1d369814bcd0",
+  "preferredProducts": [
+    2007,
+    1557,
+    427,
+    3201,
+    3152
+  ],
+  "productReviews": [
+    {
+      "productId": 4836,
+      "reviewText": "this generate is tasty.",
+      "reviewDate": "2017-04-05T14:38:40.8456021+03:00"
+    },
+    {
+      "productId": 1846,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-11-24T09:24:10.5004793+02:00"
+    },
+    {
+      "productId": 674,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-05-15T02:28:47.8677189+03:00"
+    },
+    {
+      "productId": 421,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-08-13T19:07:12.0653766+03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 45221,
+  "cartId": "a0af3aa1-ce7f-4216-a00c-ca6057c1cd0f",
+  "preferredProducts": [
+    1123,
+    4532,
+    2672,
+    1922,
+    2322,
+    277,
+    3913,
+    1754,
+    579,
+    4852
+  ],
+  "productReviews": [
+    {
+      "productId": 2737,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-08-15T22:58:57.9435426+03:00"
+    },
+    {
+      "productId": 3380,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2018-08-15T08:30:28.2481895+03:00"
+    },
+    {
+      "productId": 4569,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-01-17T07:30:26.218565+02:00"
+    },
+    {
+      "productId": 4613,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-04-06T05:24:18.2917644+03:00"
+    }
+  ]
+}

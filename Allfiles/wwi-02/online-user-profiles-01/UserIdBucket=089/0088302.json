@@ -1,0 +1,30 @@
+{
+  "userId": 88302,
+  "cartId": "2787c82e-c84c-400d-b1c5-a0e1d7ac745e",
+  "preferredProducts": [
+    79,
+    4730,
+    2675,
+    1933,
+    2724,
+    1520,
+    2996
+  ],
+  "productReviews": [
+    {
+      "productId": 1008,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-09-03T00:04:47.6302835+03:00"
+    },
+    {
+      "productId": 168,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-03-07T20:47:28.9198878+02:00"
+    },
+    {
+      "productId": 1777,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2017-02-14T22:21:42.8322961+02:00"
+    }
+  ]
+}

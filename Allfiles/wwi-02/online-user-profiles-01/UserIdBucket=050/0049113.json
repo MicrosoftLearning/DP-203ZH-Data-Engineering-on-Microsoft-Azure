@@ -1,0 +1,36 @@
+{
+  "userId": 49113,
+  "cartId": "67b54fac-50d7-49da-9e41-e90d70c8c184",
+  "preferredProducts": [
+    504,
+    2101,
+    694,
+    2088,
+    2364,
+    59,
+    933,
+    134
+  ],
+  "productReviews": [
+    {
+      "productId": 4667,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2019-04-12T13:02:54.3797437+03:00"
+    },
+    {
+      "productId": 4761,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-07-01T01:43:09.461122+03:00"
+    },
+    {
+      "productId": 796,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-09-08T08:58:42.341402+03:00"
+    },
+    {
+      "productId": 2364,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-02-04T20:33:32.1272474+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 22105,
+  "cartId": "c904bbe1-ced5-4945-8625-7f4b4aed517c",
+  "preferredProducts": [
+    1508,
+    2579,
+    327,
+    2145,
+    4315,
+    243,
+    4170,
+    4015,
+    4022,
+    505
+  ],
+  "productReviews": [
+    {
+      "productId": 912,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-08-06T11:32:58.6404669+03:00"
+    },
+    {
+      "productId": 2160,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-11-09T10:02:32.2149089+02:00"
+    },
+    {
+      "productId": 2690,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-04-08T20:43:02.12437+03:00"
+    }
+  ]
+}

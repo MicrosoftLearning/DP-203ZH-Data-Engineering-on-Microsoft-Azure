@@ -1,0 +1,27 @@
+{
+  "userId": 37244,
+  "cartId": "89bc5fa2-20fe-45db-8af7-e63933e7efa0",
+  "preferredProducts": [
+    2681,
+    2313,
+    3951,
+    3469
+  ],
+  "productReviews": [
+    {
+      "productId": 4257,
+      "reviewText": "This XSS works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2018-12-10T13:54:28.7621094+02:00"
+    },
+    {
+      "productId": 3339,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-11-01T15:20:58.1993149+02:00"
+    },
+    {
+      "productId": 2980,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-07-30T22:37:46.2057186+03:00"
+    }
+  ]
+}

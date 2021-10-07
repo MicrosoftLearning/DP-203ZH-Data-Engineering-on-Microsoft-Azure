@@ -1,0 +1,28 @@
+{
+  "userId": 20528,
+  "cartId": "7a1535c9-3ffc-4b2a-af53-439c4db6848b",
+  "preferredProducts": [
+    4954,
+    4699,
+    3527,
+    1878,
+    375,
+    3602,
+    4095,
+    4045,
+    4617,
+    2406
+  ],
+  "productReviews": [
+    {
+      "productId": 2526,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-07-03T02:58:30.0190596+03:00"
+    },
+    {
+      "productId": 141,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2018-02-23T09:41:42.8043057+02:00"
+    }
+  ]
+}

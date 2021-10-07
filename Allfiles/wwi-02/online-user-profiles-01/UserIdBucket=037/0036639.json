@@ -1,0 +1,35 @@
+{
+  "userId": 36639,
+  "cartId": "eb94935f-4350-4b97-88db-630cc54aacb2",
+  "preferredProducts": [
+    4176,
+    3782
+  ],
+  "productReviews": [
+    {
+      "productId": 1726,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-04-29T18:35:16.929941+03:00"
+    },
+    {
+      "productId": 2103,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-02-09T12:31:56.4817832+02:00"
+    },
+    {
+      "productId": 1056,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2019-03-29T22:20:19.9309132+02:00"
+    },
+    {
+      "productId": 1674,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-05-16T06:07:08.9626747+03:00"
+    },
+    {
+      "productId": 3559,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-06-27T21:03:30.3724182+03:00"
+    }
+  ]
+}

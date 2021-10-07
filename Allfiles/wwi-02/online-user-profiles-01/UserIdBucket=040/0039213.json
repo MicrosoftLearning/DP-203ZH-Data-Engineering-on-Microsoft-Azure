@@ -1,0 +1,37 @@
+{
+  "userId": 39213,
+  "cartId": "8ecf15f4-ed51-460d-93e4-d6eeb5149c56",
+  "preferredProducts": [
+    3024,
+    4847,
+    420,
+    3332,
+    3452,
+    805,
+    541,
+    1599,
+    4887
+  ],
+  "productReviews": [
+    {
+      "productId": 1506,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2019-10-20T21:45:53.759798+03:00"
+    },
+    {
+      "productId": 2257,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-07-06T01:28:41.1104407+03:00"
+    },
+    {
+      "productId": 3121,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-04-04T02:20:24.1046785+03:00"
+    },
+    {
+      "productId": 1642,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-06-01T11:00:45.5808931+03:00"
+    }
+  ]
+}

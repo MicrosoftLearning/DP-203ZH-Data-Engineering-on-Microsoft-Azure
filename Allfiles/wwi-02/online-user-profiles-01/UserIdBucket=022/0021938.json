@@ -1,0 +1,31 @@
+{
+  "userId": 21938,
+  "cartId": "1e36b190-3d27-488d-8e04-46493aa71fa4",
+  "preferredProducts": [
+    2319,
+    3451,
+    3262,
+    1590,
+    1858,
+    803,
+    2966,
+    2546
+  ],
+  "productReviews": [
+    {
+      "productId": 3257,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2020-01-16T00:00:46.1458491+02:00"
+    },
+    {
+      "productId": 3171,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-04-22T14:22:18.2027043+03:00"
+    },
+    {
+      "productId": 2071,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2016-10-16T06:35:12.992484+03:00"
+    }
+  ]
+}

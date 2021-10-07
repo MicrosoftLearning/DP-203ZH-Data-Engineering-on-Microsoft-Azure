@@ -1,0 +1,31 @@
+{
+  "userId": 15626,
+  "cartId": "7768177f-1a6f-46c6-b124-baf0764e0b88",
+  "preferredProducts": [
+    56,
+    2903,
+    4372,
+    1025,
+    174,
+    3468,
+    2231,
+    2072
+  ],
+  "productReviews": [
+    {
+      "productId": 1342,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-09-10T20:16:59.7476055+03:00"
+    },
+    {
+      "productId": 565,
+      "reviewText": "This bleeding-edge works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-02-25T04:26:44.4125407+02:00"
+    },
+    {
+      "productId": 422,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-11-20T08:53:19.8798456+02:00"
+    }
+  ]
+}

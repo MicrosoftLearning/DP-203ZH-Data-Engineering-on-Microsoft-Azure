@@ -1,0 +1,29 @@
+{
+  "userId": 87661,
+  "cartId": "3282bef8-8ca9-4459-aabc-0a375d6f6b7d",
+  "preferredProducts": [
+    1451,
+    2793,
+    4423,
+    942,
+    1926,
+    1560
+  ],
+  "productReviews": [
+    {
+      "productId": 511,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-03-08T21:25:25.7155363+02:00"
+    },
+    {
+      "productId": 510,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2017-07-23T03:23:42.4117948+03:00"
+    },
+    {
+      "productId": 1162,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2016-07-13T05:47:25.1230287+03:00"
+    }
+  ]
+}

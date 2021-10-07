@@ -1,0 +1,28 @@
+{
+  "userId": 18021,
+  "cartId": "d3146d2f-31b2-4940-9378-62a433115cf7",
+  "preferredProducts": [
+    2400,
+    1002,
+    767,
+    2319,
+    3971
+  ],
+  "productReviews": [
+    {
+      "productId": 1421,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-03-24T09:05:17.0521419+02:00"
+    },
+    {
+      "productId": 1733,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-05-23T17:58:51.5223711+03:00"
+    },
+    {
+      "productId": 279,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2016-12-21T08:57:17.4806647+02:00"
+    }
+  ]
+}

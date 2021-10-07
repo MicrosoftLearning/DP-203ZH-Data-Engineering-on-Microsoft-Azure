@@ -1,0 +1,33 @@
+{
+  "userId": 10397,
+  "cartId": "dc87cbd7-114c-4ccc-929c-afbe11f61efd",
+  "preferredProducts": [
+    1215,
+    2104,
+    769,
+    2062,
+    4816,
+    4571,
+    1840,
+    510,
+    4837,
+    2675
+  ],
+  "productReviews": [
+    {
+      "productId": 2664,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2016-05-28T05:18:33.8307286+03:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-01-08T18:40:19.1095721+02:00"
+    },
+    {
+      "productId": 2696,
+      "reviewText": "this streamline is whole-grain.",
+      "reviewDate": "2016-06-29T14:35:55.3929295+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 99365,
+  "cartId": "b0f10b53-83bc-40ed-99f7-de47e7e642e2",
+  "preferredProducts": [
+    4718,
+    2185,
+    950,
+    390
+  ],
+  "productReviews": [
+    {
+      "productId": 3265,
+      "reviewText": "this input is honest.",
+      "reviewDate": "2017-02-26T22:05:13.0359047+02:00"
+    },
+    {
+      "productId": 4410,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-03-31T07:19:45.956521+03:00"
+    },
+    {
+      "productId": 3219,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-09-05T18:34:45.0265547+03:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "userId": 56726,
+  "cartId": "61658f7c-6af9-4be0-8d8d-8d5aa72158d1",
+  "preferredProducts": [
+    4027,
+    1898,
+    2847,
+    1990,
+    4498,
+    1970
+  ],
+  "productReviews": [
+    {
+      "productId": 633,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-05-30T09:31:12.8862652+03:00"
+    },
+    {
+      "productId": 2372,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-08-18T08:26:24.2040841+03:00"
+    },
+    {
+      "productId": 1085,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2018-09-26T21:45:42.2765109+03:00"
+    },
+    {
+      "productId": 1990,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-05-22T13:10:53.6071872+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 42310,
+  "cartId": "77924f39-fde4-41a3-ab87-cd4cbc3963a4",
+  "preferredProducts": [
+    3992,
+    2649,
+    1470,
+    468,
+    2409,
+    561,
+    386,
+    4412,
+    67
+  ],
+  "productReviews": [
+    {
+      "productId": 4516,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-12-03T16:00:40.8254734+02:00"
+    },
+    {
+      "productId": 75,
+      "reviewText": "This Principal, does exactly what it's suppose to do.",
+      "reviewDate": "2020-01-06T04:14:33.456794+02:00"
+    },
+    {
+      "productId": 4424,
+      "reviewText": "This South Carolina works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2018-02-27T21:52:30.6947806+02:00"
+    }
+  ]
+}

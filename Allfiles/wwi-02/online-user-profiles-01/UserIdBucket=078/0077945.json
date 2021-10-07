@@ -1,0 +1,35 @@
+{
+  "userId": 77945,
+  "cartId": "ee6d59de-b457-4ee7-8db3-47303d8c4b9e",
+  "preferredProducts": [
+    457,
+    4089,
+    3940,
+    2383,
+    542,
+    2772,
+    1923
+  ],
+  "productReviews": [
+    {
+      "productId": 1348,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-12-27T11:52:43.2049318+02:00"
+    },
+    {
+      "productId": 3897,
+      "reviewText": "This quantifying works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-05-16T13:20:11.6381125+03:00"
+    },
+    {
+      "productId": 2249,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2018-06-12T22:06:08.2114013+03:00"
+    },
+    {
+      "productId": 2508,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-10-12T22:44:31.4887655+03:00"
+    }
+  ]
+}

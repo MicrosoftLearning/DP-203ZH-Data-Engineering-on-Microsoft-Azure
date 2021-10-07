@@ -1,0 +1,38 @@
+{
+  "userId": 56642,
+  "cartId": "de42960c-4820-43a1-96f0-854d8059d36a",
+  "preferredProducts": [
+    4997,
+    3900,
+    2559,
+    4343,
+    3497,
+    1514,
+    3281,
+    1872,
+    2292,
+    3224
+  ],
+  "productReviews": [
+    {
+      "productId": 2769,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-09-03T03:00:20.0510752+03:00"
+    },
+    {
+      "productId": 1342,
+      "reviewText": "talk about pleasure.",
+      "reviewDate": "2018-10-24T04:29:28.9983445+03:00"
+    },
+    {
+      "productId": 4018,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-11-20T04:42:02.6396876+02:00"
+    },
+    {
+      "productId": 1806,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-07-24T08:06:21.3566326+03:00"
+    }
+  ]
+}

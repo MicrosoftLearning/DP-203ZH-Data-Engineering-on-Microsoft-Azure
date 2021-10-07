@@ -1,0 +1,30 @@
+{
+  "userId": 8305,
+  "cartId": "7ae4090f-db74-46c5-84bd-9cbce5d36cb3",
+  "preferredProducts": [
+    3146,
+    454,
+    4775,
+    3911,
+    971,
+    1491,
+    2562
+  ],
+  "productReviews": [
+    {
+      "productId": 3680,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-05-13T00:32:19.2331281+03:00"
+    },
+    {
+      "productId": 2578,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-08-30T21:21:17.5995461+03:00"
+    },
+    {
+      "productId": 1656,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-03-27T04:36:02.7578017+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 5473,
+  "cartId": "63a34128-289c-4dd2-ba82-7e7b38204afd",
+  "preferredProducts": [
+    1217,
+    4362,
+    3322,
+    834,
+    68,
+    4465,
+    2456
+  ],
+  "productReviews": [
+    {
+      "productId": 2106,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2017-05-05T11:10:29.5909415+03:00"
+    },
+    {
+      "productId": 702,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2018-03-23T19:07:17.3876069+02:00"
+    }
+  ]
+}

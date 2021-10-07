@@ -1,0 +1,27 @@
+{
+  "userId": 11898,
+  "cartId": "78934e0c-7dbd-4373-8619-fa8278ab9dda",
+  "preferredProducts": [
+    3811,
+    3200,
+    141,
+    4275
+  ],
+  "productReviews": [
+    {
+      "productId": 2999,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-02-04T12:00:45.2985059+02:00"
+    },
+    {
+      "productId": 1424,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2018-05-21T06:08:25.6655029+03:00"
+    },
+    {
+      "productId": 3542,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2017-08-20T06:00:51.164454+03:00"
+    }
+  ]
+}

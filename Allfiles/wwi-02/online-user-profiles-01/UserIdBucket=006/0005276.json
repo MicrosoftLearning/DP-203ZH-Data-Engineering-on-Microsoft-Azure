@@ -1,0 +1,42 @@
+{
+  "userId": 5276,
+  "cartId": "f4e33730-6a7f-4521-9561-68df6fa63013",
+  "preferredProducts": [
+    1240,
+    2541,
+    1280,
+    4995,
+    4009,
+    2286,
+    1098,
+    2844,
+    2341
+  ],
+  "productReviews": [
+    {
+      "productId": 1401,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2017-09-13T18:15:04.3915342+03:00"
+    },
+    {
+      "productId": 701,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-09-11T22:39:57.7646518+03:00"
+    },
+    {
+      "productId": 656,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-09-06T14:02:55.4248408+03:00"
+    },
+    {
+      "productId": 2599,
+      "reviewText": "This gold works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-12-03T18:29:03.5625804+02:00"
+    },
+    {
+      "productId": 3565,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2020-04-25T15:31:47.3008975+03:00"
+    }
+  ]
+}

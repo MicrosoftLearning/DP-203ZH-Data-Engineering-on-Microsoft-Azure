@@ -1,0 +1,33 @@
+{
+  "userId": 23147,
+  "cartId": "b2ce7be4-feed-45b4-95dd-d8ff21305cf2",
+  "preferredProducts": [
+    4785,
+    1138,
+    3805,
+    613,
+    1828,
+    3397,
+    4334,
+    3407,
+    2603,
+    4686
+  ],
+  "productReviews": [
+    {
+      "productId": 151,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-11-20T23:01:07.535295+02:00"
+    },
+    {
+      "productId": 2770,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-06-15T17:36:26.7120522+03:00"
+    },
+    {
+      "productId": 2861,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-03-29T04:46:43.8425565+03:00"
+    }
+  ]
+}

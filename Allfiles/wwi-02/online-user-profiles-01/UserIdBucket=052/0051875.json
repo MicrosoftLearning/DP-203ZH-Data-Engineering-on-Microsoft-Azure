@@ -1,0 +1,35 @@
+{
+  "userId": 51875,
+  "cartId": "6f688454-e37b-4bae-a10a-19dba8950044",
+  "preferredProducts": [
+    865,
+    399
+  ],
+  "productReviews": [
+    {
+      "productId": 1092,
+      "reviewText": "This is a really good 1080p.",
+      "reviewDate": "2020-03-30T20:43:55.769859+03:00"
+    },
+    {
+      "productId": 2479,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2018-04-30T04:12:34.4416259+03:00"
+    },
+    {
+      "productId": 4860,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-03-04T09:28:46.7179449+02:00"
+    },
+    {
+      "productId": 539,
+      "reviewText": "It only works when I'm Heard Island and McDonald Islands.",
+      "reviewDate": "2017-04-04T01:58:08.5247843+03:00"
+    },
+    {
+      "productId": 81,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-08-23T09:31:19.9149525+03:00"
+    }
+  ]
+}

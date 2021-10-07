@@ -1,0 +1,29 @@
+{
+  "userId": 28810,
+  "cartId": "960257fe-88c2-402f-9365-eac6ad4287c8",
+  "preferredProducts": [
+    2242,
+    392,
+    3540,
+    3234,
+    4221,
+    3593
+  ],
+  "productReviews": [
+    {
+      "productId": 1999,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-05-04T16:35:43.8277699+03:00"
+    },
+    {
+      "productId": 4817,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-02-15T12:52:44.8137723+02:00"
+    },
+    {
+      "productId": 1073,
+      "reviewText": "SoCal cockroaches are unwelcome, crafty, and tenacious. This withdrawal keeps them away.",
+      "reviewDate": "2019-03-09T03:35:28.8021614+02:00"
+    }
+  ]
+}

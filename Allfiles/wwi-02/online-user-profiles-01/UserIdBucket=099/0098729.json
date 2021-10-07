@@ -1,0 +1,27 @@
+{
+  "userId": 98729,
+  "cartId": "b9fb4aa7-df05-4443-ab50-04b23d2217bd",
+  "preferredProducts": [
+    420,
+    1133,
+    20,
+    4173
+  ],
+  "productReviews": [
+    {
+      "productId": 634,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-12-02T18:59:50.7025709+02:00"
+    },
+    {
+      "productId": 4807,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-05-28T00:52:22.1842455+03:00"
+    },
+    {
+      "productId": 342,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-01-05T09:36:44.5875391+02:00"
+    }
+  ]
+}

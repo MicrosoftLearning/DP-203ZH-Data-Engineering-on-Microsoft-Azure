@@ -1,0 +1,25 @@
+{
+  "userId": 40342,
+  "cartId": "2b9a186d-fbb5-400b-bbfb-918a559db030",
+  "preferredProducts": [
+    4488,
+    2775
+  ],
+  "productReviews": [
+    {
+      "productId": 4626,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-08-03T10:57:29.6010417+03:00"
+    },
+    {
+      "productId": 735,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-08-24T01:59:37.634501+03:00"
+    },
+    {
+      "productId": 2919,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-11-27T00:07:44.6615056+02:00"
+    }
+  ]
+}

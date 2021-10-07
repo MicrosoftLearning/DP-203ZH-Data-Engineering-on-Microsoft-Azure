@@ -1,0 +1,23 @@
+{
+  "userId": 98535,
+  "cartId": "b0c6d839-0a74-40d5-abbd-62968a92de75",
+  "preferredProducts": [
+    236,
+    1995,
+    4391,
+    234,
+    3814
+  ],
+  "productReviews": [
+    {
+      "productId": 3801,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-03-14T17:21:05.2455141+02:00"
+    },
+    {
+      "productId": 529,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2018-08-20T04:31:10.8989575+03:00"
+    }
+  ]
+}

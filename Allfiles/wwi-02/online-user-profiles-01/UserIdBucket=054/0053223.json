@@ -1,0 +1,32 @@
+{
+  "userId": 53223,
+  "cartId": "91126403-9f43-4e6f-a290-c2242a86222a",
+  "preferredProducts": [
+    3145,
+    3516,
+    1635,
+    1991
+  ],
+  "productReviews": [
+    {
+      "productId": 2475,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2016-07-14T10:15:28.7586159+03:00"
+    },
+    {
+      "productId": 4582,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-04-12T08:23:33.2373004+03:00"
+    },
+    {
+      "productId": 1175,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-01-10T22:09:31.8098389+02:00"
+    },
+    {
+      "productId": 565,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-02-19T22:25:53.5675434+02:00"
+    }
+  ]
+}

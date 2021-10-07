@@ -1,0 +1,30 @@
+{
+  "userId": 82987,
+  "cartId": "33b6ab1b-b9e6-48bd-afd6-040515973c2f",
+  "preferredProducts": [
+    4567,
+    638,
+    3691,
+    278,
+    1327,
+    2445,
+    541
+  ],
+  "productReviews": [
+    {
+      "productId": 1338,
+      "reviewText": "this mission-critical is brown.",
+      "reviewDate": "2017-08-18T20:00:41.2254924+03:00"
+    },
+    {
+      "productId": 3783,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2016-11-02T10:35:13.6193266+02:00"
+    },
+    {
+      "productId": 4196,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2020-04-11T09:11:56.4389899+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 65380,
+  "cartId": "e91d69cd-552f-4890-826d-00e609c8ec7d",
+  "preferredProducts": [
+    2524,
+    2595,
+    4591
+  ],
+  "productReviews": [
+    {
+      "productId": 1135,
+      "reviewText": "this synthesizing is top-notch.",
+      "reviewDate": "2017-04-12T11:31:30.4586575+03:00"
+    },
+    {
+      "productId": 3666,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-11-28T13:06:38.2681444+02:00"
+    },
+    {
+      "productId": 1695,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-09-20T13:31:00.1968513+03:00"
+    },
+    {
+      "productId": 255,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-07-21T18:34:38.7547358+03:00"
+    },
+    {
+      "productId": 3087,
+      "reviewText": "This Berkshire, does exactly what it's suppose to do.",
+      "reviewDate": "2018-01-06T15:44:38.569104+02:00"
+    }
+  ]
+}

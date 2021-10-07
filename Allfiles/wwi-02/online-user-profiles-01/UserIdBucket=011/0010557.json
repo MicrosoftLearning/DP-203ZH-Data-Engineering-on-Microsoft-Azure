@@ -1,0 +1,34 @@
+{
+  "userId": 10557,
+  "cartId": "bdcc60fb-36e2-4701-8d42-cc42c862464c",
+  "preferredProducts": [
+    4223,
+    3891,
+    2025,
+    900,
+    3632,
+    2008
+  ],
+  "productReviews": [
+    {
+      "productId": 4106,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-10-14T22:09:48.5841274+03:00"
+    },
+    {
+      "productId": 1433,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-11-18T02:43:45.6271376+02:00"
+    },
+    {
+      "productId": 3459,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-02-27T11:49:27.4313005+02:00"
+    },
+    {
+      "productId": 947,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-09-30T05:07:38.0920187+03:00"
+    }
+  ]
+}

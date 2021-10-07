@@ -1,0 +1,28 @@
+{
+  "userId": 42208,
+  "cartId": "3f7e46d2-3931-415f-af1d-653accc41a98",
+  "preferredProducts": [
+    3614,
+    3405,
+    2515,
+    4550,
+    1119,
+    1911,
+    4384,
+    1735,
+    3104,
+    4416
+  ],
+  "productReviews": [
+    {
+      "productId": 2329,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-11-01T01:47:29.0227542+02:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-09-24T21:27:32.717874+03:00"
+    }
+  ]
+}

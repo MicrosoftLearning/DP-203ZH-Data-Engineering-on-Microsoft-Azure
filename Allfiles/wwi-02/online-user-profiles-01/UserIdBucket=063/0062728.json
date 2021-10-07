@@ -1,0 +1,24 @@
+{
+  "userId": 62728,
+  "cartId": "fe1b7b12-02c5-4f66-bdaf-cb927175776c",
+  "preferredProducts": [
+    2034,
+    4349,
+    682,
+    2337,
+    1233,
+    3613
+  ],
+  "productReviews": [
+    {
+      "productId": 318,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-04-17T07:13:58.7685319+03:00"
+    },
+    {
+      "productId": 254,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-04-12T15:58:10.4115581+03:00"
+    }
+  ]
+}

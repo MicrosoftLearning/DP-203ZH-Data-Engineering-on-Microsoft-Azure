@@ -1,0 +1,36 @@
+{
+  "userId": 64990,
+  "cartId": "15845d99-0c34-4f3c-8e49-92201e512208",
+  "preferredProducts": [
+    4062,
+    2691,
+    2306,
+    4326,
+    1114,
+    1588,
+    3628,
+    3318
+  ],
+  "productReviews": [
+    {
+      "productId": 1822,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-05-09T08:56:51.6233063+03:00"
+    },
+    {
+      "productId": 2869,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-11-30T04:09:45.2868095+02:00"
+    },
+    {
+      "productId": 1910,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-09-28T17:01:51.9036709+03:00"
+    },
+    {
+      "productId": 1004,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2019-04-28T08:10:05.9244751+03:00"
+    }
+  ]
+}

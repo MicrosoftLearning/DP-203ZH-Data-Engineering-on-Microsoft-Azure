@@ -1,0 +1,27 @@
+{
+  "userId": 76011,
+  "cartId": "ee0640ea-f6af-47dc-a7bf-9c24dbccad96",
+  "preferredProducts": [
+    4708,
+    3929,
+    2637,
+    2361
+  ],
+  "productReviews": [
+    {
+      "productId": 2992,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-02-26T10:36:04.9705915+02:00"
+    },
+    {
+      "productId": 1907,
+      "reviewText": "This leading-edge works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-07-05T12:09:25.2442695+03:00"
+    },
+    {
+      "productId": 3412,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-11-29T10:01:14.3573597+02:00"
+    }
+  ]
+}

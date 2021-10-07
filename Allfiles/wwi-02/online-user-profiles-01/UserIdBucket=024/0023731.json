@@ -1,0 +1,32 @@
+{
+  "userId": 23731,
+  "cartId": "a7aca52f-dc71-4a1b-bfb7-58211163a107",
+  "preferredProducts": [
+    3497,
+    3627,
+    2646,
+    1406,
+    874,
+    802,
+    1905,
+    159,
+    4246
+  ],
+  "productReviews": [
+    {
+      "productId": 1364,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2020-03-02T22:29:25.0007004+02:00"
+    },
+    {
+      "productId": 714,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-07-31T15:47:19.6764212+03:00"
+    },
+    {
+      "productId": 4330,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-03-12T23:17:31.3405881+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 42938,
+  "cartId": "4e1b8e98-4f1c-424e-bc95-518fd05a325d",
+  "preferredProducts": [
+    4934,
+    4654,
+    1343,
+    3456,
+    3248,
+    2105,
+    1083,
+    3842
+  ],
+  "productReviews": [
+    {
+      "productId": 2796,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-03-21T19:51:04.5802051+02:00"
+    },
+    {
+      "productId": 4895,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-12-04T07:12:20.3850369+02:00"
+    },
+    {
+      "productId": 4381,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-08-06T11:15:15.4746896+03:00"
+    },
+    {
+      "productId": 4304,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2020-02-08T10:58:35.4224387+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 67106,
+  "cartId": "0c42898a-022e-4bfc-9cc7-40eaa221a97a",
+  "preferredProducts": [
+    2468,
+    4851,
+    3771,
+    406,
+    3911,
+    4404,
+    4668,
+    202,
+    97,
+    661
+  ],
+  "productReviews": [
+    {
+      "productId": 4325,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-12-18T21:40:14.1735651+02:00"
+    },
+    {
+      "productId": 674,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-11-05T02:59:56.9908421+02:00"
+    },
+    {
+      "productId": 2322,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-01-10T13:42:23.2020251+02:00"
+    }
+  ]
+}

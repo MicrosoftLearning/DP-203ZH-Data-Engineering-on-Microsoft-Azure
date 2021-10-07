@@ -1,0 +1,26 @@
+{
+  "userId": 7777,
+  "cartId": "25be881f-1dea-4d85-96e8-20542abf7567",
+  "preferredProducts": [
+    2515,
+    3368,
+    2818
+  ],
+  "productReviews": [
+    {
+      "productId": 377,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-11-01T18:09:05.1610409+02:00"
+    },
+    {
+      "productId": 2862,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2020-01-17T15:27:08.6955016+02:00"
+    },
+    {
+      "productId": 1906,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2017-06-07T21:25:06.9366496+03:00"
+    }
+  ]
+}

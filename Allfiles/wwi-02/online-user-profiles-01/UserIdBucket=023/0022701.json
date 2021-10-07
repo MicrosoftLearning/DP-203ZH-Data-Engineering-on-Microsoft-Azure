@@ -1,0 +1,24 @@
+{
+  "userId": 22701,
+  "cartId": "8182d857-094e-48a3-b05b-cc9779215478",
+  "preferredProducts": [
+    4773,
+    1294,
+    42,
+    1807,
+    3634,
+    2976
+  ],
+  "productReviews": [
+    {
+      "productId": 1330,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-03-13T07:12:11.7011944+02:00"
+    },
+    {
+      "productId": 3421,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-07-01T22:58:07.6538894+03:00"
+    }
+  ]
+}

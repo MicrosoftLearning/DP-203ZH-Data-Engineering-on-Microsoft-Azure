@@ -1,0 +1,30 @@
+{
+  "userId": 1372,
+  "cartId": "e3a41389-a56e-4168-974d-e17c90ed31dc",
+  "preferredProducts": [
+    2299,
+    1554,
+    2857,
+    3230,
+    1130,
+    4761,
+    2033
+  ],
+  "productReviews": [
+    {
+      "productId": 3597,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-04-26T17:20:12.6635051+03:00"
+    },
+    {
+      "productId": 704,
+      "reviewText": "This Unbranded Metal Shoes works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-06-04T09:59:14.0715609+03:00"
+    },
+    {
+      "productId": 4251,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-01-18T08:55:38.4705765+02:00"
+    }
+  ]
+}

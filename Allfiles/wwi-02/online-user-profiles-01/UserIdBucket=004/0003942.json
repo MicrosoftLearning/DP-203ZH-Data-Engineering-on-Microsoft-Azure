@@ -1,0 +1,33 @@
+{
+  "userId": 3942,
+  "cartId": "6354ca11-8af8-4ecc-9afb-c6ec98f094e0",
+  "preferredProducts": [
+    2150,
+    3534,
+    2705,
+    4750,
+    417,
+    570,
+    3985,
+    2076,
+    1522,
+    245
+  ],
+  "productReviews": [
+    {
+      "productId": 149,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2018-01-17T09:44:25.6168619+02:00"
+    },
+    {
+      "productId": 3508,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-07-27T21:52:43.1826331+03:00"
+    },
+    {
+      "productId": 934,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2018-06-17T08:45:46.3438543+03:00"
+    }
+  ]
+}

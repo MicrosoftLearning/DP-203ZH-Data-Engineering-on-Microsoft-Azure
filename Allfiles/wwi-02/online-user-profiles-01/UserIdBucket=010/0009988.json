@@ -1,0 +1,27 @@
+{
+  "userId": 9988,
+  "cartId": "5dcd35ba-2a14-4fc2-8d15-78ae4114b1bd",
+  "preferredProducts": [
+    2442,
+    2430,
+    4556,
+    4348
+  ],
+  "productReviews": [
+    {
+      "productId": 4769,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2016-06-14T10:19:14.721703+03:00"
+    },
+    {
+      "productId": 4165,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2020-01-17T22:54:02.2901762+02:00"
+    },
+    {
+      "productId": 4221,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2017-08-28T07:23:31.8159957+03:00"
+    }
+  ]
+}

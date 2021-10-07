@@ -1,0 +1,32 @@
+{
+  "userId": 23398,
+  "cartId": "6b091b21-72fc-4815-9907-cd59a118bb6f",
+  "preferredProducts": [
+    987,
+    545,
+    1357,
+    2578,
+    3623,
+    3152,
+    939,
+    1669,
+    2477
+  ],
+  "productReviews": [
+    {
+      "productId": 2196,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-06-11T08:15:21.8915936+03:00"
+    },
+    {
+      "productId": 4853,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-08-23T14:40:01.2488726+03:00"
+    },
+    {
+      "productId": 1188,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2018-01-31T12:20:17.5949289+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 26172,
+  "cartId": "dbe41de4-c78d-419c-afd9-74d323c5a209",
+  "preferredProducts": [
+    3215,
+    2410,
+    828,
+    1153
+  ],
+  "productReviews": [
+    {
+      "productId": 660,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-01-12T16:27:40.3817079+02:00"
+    },
+    {
+      "productId": 1931,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-10-09T07:21:26.8380428+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-03-15T09:05:40.4844762+02:00"
+    },
+    {
+      "productId": 705,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-01-03T01:06:28.6817364+02:00"
+    }
+  ]
+}

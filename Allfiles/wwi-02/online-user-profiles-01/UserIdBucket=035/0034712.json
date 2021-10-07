@@ -1,0 +1,40 @@
+{
+  "userId": 34712,
+  "cartId": "86212f4a-32d8-40d1-bf81-18114a705b63",
+  "preferredProducts": [
+    4608,
+    945,
+    484,
+    3776,
+    392,
+    4617,
+    2333
+  ],
+  "productReviews": [
+    {
+      "productId": 3779,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2020-02-03T11:32:17.4247653+02:00"
+    },
+    {
+      "productId": 4348,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-06-16T09:20:58.1359059+03:00"
+    },
+    {
+      "productId": 2528,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-08-23T14:28:50.3256855+03:00"
+    },
+    {
+      "productId": 4999,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-03-10T16:57:24.0560998+02:00"
+    },
+    {
+      "productId": 3647,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2017-01-16T05:59:10.487922+02:00"
+    }
+  ]
+}

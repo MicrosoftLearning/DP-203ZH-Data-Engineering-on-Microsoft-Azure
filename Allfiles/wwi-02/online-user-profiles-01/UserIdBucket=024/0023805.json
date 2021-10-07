@@ -1,0 +1,32 @@
+{
+  "userId": 23805,
+  "cartId": "a27045de-25fb-424a-95e7-1c5c4c842244",
+  "preferredProducts": [
+    4947,
+    2155,
+    1497,
+    1096
+  ],
+  "productReviews": [
+    {
+      "productId": 1797,
+      "reviewText": "this Program is hyper.",
+      "reviewDate": "2018-06-26T01:01:53.3271432+03:00"
+    },
+    {
+      "productId": 4894,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2018-12-28T01:31:16.5726665+02:00"
+    },
+    {
+      "productId": 304,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-12-17T05:09:28.9128874+02:00"
+    },
+    {
+      "productId": 2907,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-05-02T08:07:04.5247835+03:00"
+    }
+  ]
+}

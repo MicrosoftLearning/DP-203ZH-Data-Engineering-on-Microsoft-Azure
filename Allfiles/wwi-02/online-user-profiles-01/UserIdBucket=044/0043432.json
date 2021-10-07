@@ -1,0 +1,30 @@
+{
+  "userId": 43432,
+  "cartId": "d38e4333-5167-4ce1-8609-8c42605069d8",
+  "preferredProducts": [
+    2121,
+    4774,
+    1483,
+    3108,
+    4968,
+    1523,
+    1964
+  ],
+  "productReviews": [
+    {
+      "productId": 1756,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-11-21T07:56:20.5653458+02:00"
+    },
+    {
+      "productId": 1849,
+      "reviewText": "This Small Metal Soap works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2016-08-09T22:21:48.0401216+03:00"
+    },
+    {
+      "productId": 2727,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-11-03T23:27:43.2199808+02:00"
+    }
+  ]
+}

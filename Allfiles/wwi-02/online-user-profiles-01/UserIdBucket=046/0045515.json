@@ -1,0 +1,23 @@
+{
+  "userId": 45515,
+  "cartId": "64b5f51b-6c7e-4234-98a5-e1878dfa902a",
+  "preferredProducts": [
+    2357,
+    1566,
+    1969,
+    3077,
+    1037
+  ],
+  "productReviews": [
+    {
+      "productId": 2834,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2016-08-20T15:56:27.8381847+03:00"
+    },
+    {
+      "productId": 2350,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-08-15T08:03:45.5662739+03:00"
+    }
+  ]
+}

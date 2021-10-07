@@ -1,0 +1,33 @@
+{
+  "userId": 33807,
+  "cartId": "a66d9b82-12cb-4f20-940f-fb35851ec9f0",
+  "preferredProducts": [
+    1890,
+    4214,
+    4268,
+    1038,
+    3802
+  ],
+  "productReviews": [
+    {
+      "productId": 4792,
+      "reviewText": "this index is ratty.",
+      "reviewDate": "2017-04-30T01:58:38.4804776+03:00"
+    },
+    {
+      "productId": 872,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-10-19T07:47:24.2912428+03:00"
+    },
+    {
+      "productId": 78,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2019-05-01T22:27:55.1724865+03:00"
+    },
+    {
+      "productId": 3918,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-02-14T10:08:42.1707609+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 5866,
+  "cartId": "1c08e3bc-8c2f-4aaf-af17-de0092332241",
+  "preferredProducts": [
+    527,
+    1281
+  ],
+  "productReviews": [
+    {
+      "productId": 4574,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-10-17T12:51:46.8765123+03:00"
+    },
+    {
+      "productId": 383,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2016-12-12T22:35:51.5551339+02:00"
+    },
+    {
+      "productId": 1415,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2017-09-25T04:11:20.1981303+03:00"
+    }
+  ]
+}

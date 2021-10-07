@@ -1,0 +1,33 @@
+{
+  "userId": 71552,
+  "cartId": "a00ddfbc-b850-4994-bb2d-7347bc45d432",
+  "preferredProducts": [
+    5,
+    1919,
+    2852,
+    754,
+    980
+  ],
+  "productReviews": [
+    {
+      "productId": 3899,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-09-12T01:08:02.4280702+03:00"
+    },
+    {
+      "productId": 4730,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-10-21T21:42:13.4861949+03:00"
+    },
+    {
+      "productId": 2225,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2019-06-14T10:26:28.1608254+03:00"
+    },
+    {
+      "productId": 3826,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-04-07T08:28:35.2360827+03:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "userId": 78131,
+  "cartId": "350747fc-656e-4272-8b0a-4050830272ec",
+  "preferredProducts": [
+    811,
+    2420,
+    239,
+    4492,
+    1216,
+    2816,
+    4981
+  ],
+  "productReviews": [
+    {
+      "productId": 316,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-12-03T06:16:16.536872+02:00"
+    },
+    {
+      "productId": 2914,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2017-02-14T12:25:06.0369744+02:00"
+    },
+    {
+      "productId": 3079,
+      "reviewText": "this incremental is awesome.",
+      "reviewDate": "2017-04-15T12:03:31.0472594+03:00"
+    },
+    {
+      "productId": 578,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-04-15T00:06:51.1334237+03:00"
+    }
+  ]
+}

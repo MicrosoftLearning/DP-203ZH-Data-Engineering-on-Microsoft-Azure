@@ -1,0 +1,25 @@
+{
+  "userId": 34361,
+  "cartId": "3821b029-a882-42fd-8eb4-a3bf4a807ddc",
+  "preferredProducts": [
+    3648,
+    2455,
+    1744,
+    1834,
+    2164,
+    1054,
+    1835
+  ],
+  "productReviews": [
+    {
+      "productId": 3936,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-10-28T20:57:21.6743758+02:00"
+    },
+    {
+      "productId": 4361,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-02-11T19:00:48.1404783+02:00"
+    }
+  ]
+}

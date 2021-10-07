@@ -1,0 +1,33 @@
+{
+  "userId": 4108,
+  "cartId": "11323488-b687-4f1a-a536-6f95347b37c4",
+  "preferredProducts": [
+    1717,
+    1858,
+    14,
+    2312,
+    3908,
+    2829,
+    2064,
+    2406,
+    786,
+    160
+  ],
+  "productReviews": [
+    {
+      "productId": 2665,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-08-18T11:00:10.3319331+03:00"
+    },
+    {
+      "productId": 4417,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-10-22T13:23:13.9011601+03:00"
+    },
+    {
+      "productId": 3852,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2020-04-01T03:58:22.1235617+03:00"
+    }
+  ]
+}

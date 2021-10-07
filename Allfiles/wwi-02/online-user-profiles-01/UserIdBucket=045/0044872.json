@@ -1,0 +1,24 @@
+{
+  "userId": 44872,
+  "cartId": "9bf837a1-d78c-4399-9d1b-413edcfaafaa",
+  "preferredProducts": [
+    3040,
+    3479,
+    1708,
+    2060,
+    1932,
+    3884
+  ],
+  "productReviews": [
+    {
+      "productId": 751,
+      "reviewText": "this indigo is papery.",
+      "reviewDate": "2017-11-27T13:23:48.4667566+02:00"
+    },
+    {
+      "productId": 4968,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-01-11T14:44:14.5209793+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 49832,
+  "cartId": "1786499e-d00b-48d5-a462-7e5a739ac36f",
+  "preferredProducts": [
+    4166,
+    1149,
+    1090,
+    4325
+  ],
+  "productReviews": [
+    {
+      "productId": 2756,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-01-25T09:11:23.1957472+02:00"
+    },
+    {
+      "productId": 1993,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-06-30T11:19:55.1517586+03:00"
+    },
+    {
+      "productId": 2322,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-08-29T03:20:00.535091+03:00"
+    }
+  ]
+}

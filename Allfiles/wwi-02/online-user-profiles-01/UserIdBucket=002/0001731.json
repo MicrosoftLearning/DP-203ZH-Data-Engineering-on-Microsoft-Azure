@@ -1,0 +1,25 @@
+{
+  "userId": 1731,
+  "cartId": "aa5f6f41-fda5-4aaa-bd04-8774a9293e85",
+  "preferredProducts": [
+    3789,
+    3813,
+    2404,
+    3867,
+    1442,
+    3713,
+    3252
+  ],
+  "productReviews": [
+    {
+      "productId": 713,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-03-15T08:28:30.7098465+02:00"
+    },
+    {
+      "productId": 170,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-08-17T16:33:39.015755+03:00"
+    }
+  ]
+}

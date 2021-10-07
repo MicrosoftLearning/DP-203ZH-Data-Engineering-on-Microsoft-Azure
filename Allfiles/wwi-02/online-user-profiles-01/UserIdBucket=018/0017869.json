@@ -1,0 +1,42 @@
+{
+  "userId": 17869,
+  "cartId": "dbfc8c11-c877-4c7a-a81b-b8aff2bc5c28",
+  "preferredProducts": [
+    620,
+    1373,
+    2995,
+    954,
+    650,
+    4975,
+    858,
+    4530,
+    1734
+  ],
+  "productReviews": [
+    {
+      "productId": 4790,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-22T06:51:02.710575+02:00"
+    },
+    {
+      "productId": 1975,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-07-31T00:25:02.7918975+03:00"
+    },
+    {
+      "productId": 3784,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-08-07T01:37:41.8200799+03:00"
+    },
+    {
+      "productId": 3018,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-08-19T10:36:35.2269372+03:00"
+    },
+    {
+      "productId": 90,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2016-07-31T07:14:19.2736901+03:00"
+    }
+  ]
+}

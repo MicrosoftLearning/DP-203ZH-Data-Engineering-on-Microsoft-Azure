@@ -1,0 +1,33 @@
+{
+  "userId": 1163,
+  "cartId": "64e2086e-2ea0-452f-a27b-0213e5137720",
+  "preferredProducts": [
+    387,
+    4401,
+    430,
+    4204,
+    3974
+  ],
+  "productReviews": [
+    {
+      "productId": 3887,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2017-11-28T13:04:37.0897838+02:00"
+    },
+    {
+      "productId": 1248,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2020-02-26T16:33:06.3311388+02:00"
+    },
+    {
+      "productId": 3337,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2020-01-19T01:58:10.7219107+02:00"
+    },
+    {
+      "productId": 3082,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-04-04T09:15:52.1361112+03:00"
+    }
+  ]
+}

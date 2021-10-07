@@ -1,0 +1,41 @@
+{
+  "userId": 22019,
+  "cartId": "aaf5b583-5104-497a-9e64-78167c60349f",
+  "preferredProducts": [
+    926,
+    279,
+    3760,
+    513,
+    2637,
+    2251,
+    1184,
+    4922
+  ],
+  "productReviews": [
+    {
+      "productId": 2136,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-06-18T15:32:33.3066903+03:00"
+    },
+    {
+      "productId": 4713,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2019-08-05T08:51:12.8210493+03:00"
+    },
+    {
+      "productId": 3288,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2020-03-04T19:24:42.5361265+02:00"
+    },
+    {
+      "productId": 2014,
+      "reviewText": "This grid-enabled works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2019-08-11T07:20:00.2468737+03:00"
+    },
+    {
+      "productId": 2614,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2017-01-12T09:37:10.8180094+02:00"
+    }
+  ]
+}

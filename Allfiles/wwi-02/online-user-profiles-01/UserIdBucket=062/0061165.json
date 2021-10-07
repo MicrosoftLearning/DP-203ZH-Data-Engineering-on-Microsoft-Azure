@@ -1,0 +1,27 @@
+{
+  "userId": 61165,
+  "cartId": "e9c4428e-b307-46de-91a2-5d9952f23ed8",
+  "preferredProducts": [
+    1488,
+    1235,
+    1463,
+    3642
+  ],
+  "productReviews": [
+    {
+      "productId": 1200,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-01-01T16:42:18.6221715+02:00"
+    },
+    {
+      "productId": 4356,
+      "reviewText": "this Chief is whole-grain.",
+      "reviewDate": "2019-12-23T03:28:30.5764498+02:00"
+    },
+    {
+      "productId": 158,
+      "reviewText": "This Inlet works extremely well. It wetly improves my tennis by a lot.",
+      "reviewDate": "2018-11-29T07:55:39.4257495+02:00"
+    }
+  ]
+}

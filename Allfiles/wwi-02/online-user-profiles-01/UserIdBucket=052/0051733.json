@@ -1,0 +1,33 @@
+{
+  "userId": 51733,
+  "cartId": "e06e7b73-a536-441e-9386-15bd4e1a43dc",
+  "preferredProducts": [
+    3357,
+    1292,
+    2214,
+    3518,
+    1995
+  ],
+  "productReviews": [
+    {
+      "productId": 4557,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-06-27T19:26:09.6104362+03:00"
+    },
+    {
+      "productId": 34,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-05-11T20:54:18.4801301+03:00"
+    },
+    {
+      "productId": 3745,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-08-12T20:32:55.4937299+03:00"
+    },
+    {
+      "productId": 1507,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2020-04-13T14:08:10.1237461+03:00"
+    }
+  ]
+}

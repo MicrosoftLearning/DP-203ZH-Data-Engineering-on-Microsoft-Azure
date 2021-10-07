@@ -1,0 +1,25 @@
+{
+  "userId": 11394,
+  "cartId": "2878880f-c823-4ca5-8e40-cd8856f4acbf",
+  "preferredProducts": [
+    2581,
+    4650
+  ],
+  "productReviews": [
+    {
+      "productId": 1670,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2019-03-23T04:45:05.4023077+02:00"
+    },
+    {
+      "productId": 3423,
+      "reviewText": "This Wooden works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2019-01-26T16:01:10.2606047+02:00"
+    },
+    {
+      "productId": 4536,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2019-05-04T13:31:19.7112225+03:00"
+    }
+  ]
+}

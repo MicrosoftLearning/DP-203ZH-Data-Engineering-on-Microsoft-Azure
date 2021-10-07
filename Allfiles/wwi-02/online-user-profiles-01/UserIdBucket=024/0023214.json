@@ -1,0 +1,43 @@
+{
+  "userId": 23214,
+  "cartId": "a5b5c343-cb8c-46eb-a09f-6f869b007751",
+  "preferredProducts": [
+    1923,
+    3290,
+    1710,
+    2578,
+    1311,
+    3364,
+    4168,
+    225,
+    4707,
+    4793
+  ],
+  "productReviews": [
+    {
+      "productId": 1294,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-07-09T18:26:24.7204011+03:00"
+    },
+    {
+      "productId": 4625,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2019-01-10T20:00:42.5766272+02:00"
+    },
+    {
+      "productId": 4473,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-06-27T11:21:40.0989063+03:00"
+    },
+    {
+      "productId": 3612,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2019-02-23T15:22:56.996454+02:00"
+    },
+    {
+      "productId": 100,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-11-02T15:59:57.0988803+02:00"
+    }
+  ]
+}

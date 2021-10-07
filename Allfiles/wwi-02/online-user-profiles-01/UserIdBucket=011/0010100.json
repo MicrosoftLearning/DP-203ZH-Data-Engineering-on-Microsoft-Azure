@@ -1,0 +1,41 @@
+{
+  "userId": 10100,
+  "cartId": "783a7ff8-6e81-4a5e-8115-33eaf4949ae9",
+  "preferredProducts": [
+    4965,
+    3066,
+    3135,
+    125,
+    2465,
+    1982,
+    3487,
+    4248
+  ],
+  "productReviews": [
+    {
+      "productId": 1747,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-05-02T16:34:34.8356713+03:00"
+    },
+    {
+      "productId": 476,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-12-09T16:53:54.7062355+02:00"
+    },
+    {
+      "productId": 430,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-02-04T12:20:08.5333693+02:00"
+    },
+    {
+      "productId": 838,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-04-09T23:57:27.4681551+03:00"
+    },
+    {
+      "productId": 4508,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2020-01-01T16:42:31.6536029+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 29799,
+  "cartId": "91c7b65d-ad4b-44c7-9225-f0f7f49a5d9d",
+  "preferredProducts": [
+    1263,
+    4955,
+    3566,
+    223
+  ],
+  "productReviews": [
+    {
+      "productId": 3441,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-10-05T16:10:56.3613587+03:00"
+    },
+    {
+      "productId": 2222,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-09-12T12:47:09.2485245+03:00"
+    },
+    {
+      "productId": 4283,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2019-03-16T05:24:23.6328016+02:00"
+    }
+  ]
+}

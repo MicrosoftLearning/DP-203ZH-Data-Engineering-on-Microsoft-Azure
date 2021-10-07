@@ -1,0 +1,33 @@
+{
+  "userId": 43384,
+  "cartId": "569beb6e-108b-41f2-8a0a-26d6266a0c1c",
+  "preferredProducts": [
+    4343,
+    876,
+    1751,
+    2077,
+    193,
+    4096,
+    2839,
+    726,
+    2036,
+    2319
+  ],
+  "productReviews": [
+    {
+      "productId": 1694,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-09-04T12:01:24.9405517+03:00"
+    },
+    {
+      "productId": 2439,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-10-02T01:32:17.3143909+03:00"
+    },
+    {
+      "productId": 2016,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-05-06T23:17:15.8386381+03:00"
+    }
+  ]
+}

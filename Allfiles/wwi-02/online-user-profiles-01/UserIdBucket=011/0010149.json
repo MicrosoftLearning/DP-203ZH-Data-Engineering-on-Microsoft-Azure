@@ -1,0 +1,32 @@
+{
+  "userId": 10149,
+  "cartId": "dbd982ff-9775-4d8d-afad-c56e3bda7cd9",
+  "preferredProducts": [
+    1963,
+    1180,
+    4438,
+    3169,
+    4968,
+    2115,
+    4791,
+    4840,
+    2357
+  ],
+  "productReviews": [
+    {
+      "productId": 4082,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-03-19T19:41:54.542634+02:00"
+    },
+    {
+      "productId": 1704,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2018-08-19T21:28:54.3875012+03:00"
+    },
+    {
+      "productId": 2361,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2018-03-25T14:54:23.8414134+03:00"
+    }
+  ]
+}

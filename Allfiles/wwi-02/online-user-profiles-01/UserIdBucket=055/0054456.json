@@ -1,0 +1,28 @@
+{
+  "userId": 54456,
+  "cartId": "a213c56a-dde9-470d-8015-454b99ac0c50",
+  "preferredProducts": [
+    3328,
+    2403,
+    3597,
+    391,
+    1342,
+    3377,
+    2898,
+    312,
+    1971,
+    2273
+  ],
+  "productReviews": [
+    {
+      "productId": 3518,
+      "reviewText": "This is a really good Berkshire.",
+      "reviewDate": "2018-01-03T09:43:55.8552768+02:00"
+    },
+    {
+      "productId": 3902,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-07-02T03:50:58.6297704+03:00"
+    }
+  ]
+}

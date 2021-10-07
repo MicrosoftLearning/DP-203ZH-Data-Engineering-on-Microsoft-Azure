@@ -1,0 +1,37 @@
+{
+  "userId": 5700,
+  "cartId": "65f8f23b-5274-42bb-ad4b-ea14d9ecedba",
+  "preferredProducts": [
+    2396,
+    28,
+    4086,
+    3238,
+    3837,
+    4620,
+    4596,
+    2665,
+    4802
+  ],
+  "productReviews": [
+    {
+      "productId": 3267,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2017-10-11T09:30:24.2202867+03:00"
+    },
+    {
+      "productId": 1776,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-05-13T01:49:50.7320714+03:00"
+    },
+    {
+      "productId": 3467,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2017-03-05T10:24:33.9434544+02:00"
+    },
+    {
+      "productId": 1002,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-09-01T19:31:45.1658797+03:00"
+    }
+  ]
+}

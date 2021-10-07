@@ -1,0 +1,32 @@
+{
+  "userId": 9505,
+  "cartId": "6524bc87-38e9-4a79-b15c-f831124424ed",
+  "preferredProducts": [
+    2346,
+    776,
+    4780,
+    1671,
+    4834,
+    3634,
+    321,
+    2845,
+    4373
+  ],
+  "productReviews": [
+    {
+      "productId": 1105,
+      "reviewText": "this bleeding-edge is ratty.",
+      "reviewDate": "2018-12-15T15:31:30.2355987+02:00"
+    },
+    {
+      "productId": 3565,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-08-19T04:14:30.535496+03:00"
+    },
+    {
+      "productId": 321,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-04-24T05:19:46.1950537+03:00"
+    }
+  ]
+}

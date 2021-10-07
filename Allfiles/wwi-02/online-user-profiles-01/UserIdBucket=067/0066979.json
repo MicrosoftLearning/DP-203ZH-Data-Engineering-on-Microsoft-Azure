@@ -1,0 +1,22 @@
+{
+  "userId": 66979,
+  "cartId": "b3b6a491-5c04-461c-bdd4-b51c5ffcdf0e",
+  "preferredProducts": [
+    2093,
+    3590,
+    2567,
+    1557
+  ],
+  "productReviews": [
+    {
+      "productId": 3456,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2017-08-27T07:20:14.868012+03:00"
+    },
+    {
+      "productId": 3050,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-01-13T04:13:51.3679833+02:00"
+    }
+  ]
+}

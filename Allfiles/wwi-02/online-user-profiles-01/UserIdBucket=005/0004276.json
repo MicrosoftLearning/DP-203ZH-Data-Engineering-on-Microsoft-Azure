@@ -1,0 +1,31 @@
+{
+  "userId": 4276,
+  "cartId": "0984b042-f426-4976-817e-779eb3ced775",
+  "preferredProducts": [
+    2391,
+    1502,
+    2049
+  ],
+  "productReviews": [
+    {
+      "productId": 743,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-12-22T02:59:58.0655427+02:00"
+    },
+    {
+      "productId": 682,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2016-05-16T00:27:36.4196007+03:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2019-08-21T19:26:14.9248387+03:00"
+    },
+    {
+      "productId": 4525,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2017-07-17T10:22:14.9903407+03:00"
+    }
+  ]
+}

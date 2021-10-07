@@ -1,0 +1,32 @@
+{
+  "userId": 9081,
+  "cartId": "67ffac73-c5e2-4843-b790-c6dbcee7bf74",
+  "preferredProducts": [
+    2618,
+    404,
+    3392,
+    392,
+    2725,
+    2844,
+    2103,
+    468,
+    3419
+  ],
+  "productReviews": [
+    {
+      "productId": 3469,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2016-06-04T05:15:15.0829796+03:00"
+    },
+    {
+      "productId": 3805,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-10-10T07:11:53.6561741+03:00"
+    },
+    {
+      "productId": 134,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-04-29T13:47:05.7479728+03:00"
+    }
+  ]
+}

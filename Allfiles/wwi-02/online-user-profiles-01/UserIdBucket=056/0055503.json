@@ -1,0 +1,38 @@
+{
+  "userId": 55503,
+  "cartId": "e1358db9-c04b-4c67-a381-e261a21a9c79",
+  "preferredProducts": [
+    3303,
+    3444,
+    2491,
+    2197,
+    606,
+    4149,
+    471,
+    4778,
+    3694,
+    2836
+  ],
+  "productReviews": [
+    {
+      "productId": 4505,
+      "reviewText": "this Generic Wooden Computer is revolting.",
+      "reviewDate": "2016-08-29T10:21:59.666331+03:00"
+    },
+    {
+      "productId": 1674,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-06-28T10:41:27.5877164+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2019-04-29T08:26:39.6474805+03:00"
+    },
+    {
+      "productId": 2173,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2019-07-03T08:21:06.823378+03:00"
+    }
+  ]
+}

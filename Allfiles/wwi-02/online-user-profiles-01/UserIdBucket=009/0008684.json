@@ -1,0 +1,36 @@
+{
+  "userId": 8684,
+  "cartId": "03efe924-620a-4273-a53d-0dda4b7f2374",
+  "preferredProducts": [
+    253,
+    910,
+    4249,
+    4700,
+    3775,
+    4673,
+    4834,
+    4463
+  ],
+  "productReviews": [
+    {
+      "productId": 1027,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-07-06T12:38:15.0183673+03:00"
+    },
+    {
+      "productId": 2318,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2017-06-30T06:45:08.9985995+03:00"
+    },
+    {
+      "productId": 4647,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-05-30T15:37:14.4468589+03:00"
+    },
+    {
+      "productId": 4426,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2018-02-03T20:28:44.1689035+02:00"
+    }
+  ]
+}

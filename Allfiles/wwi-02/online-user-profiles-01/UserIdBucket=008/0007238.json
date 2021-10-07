@@ -1,0 +1,28 @@
+{
+  "userId": 7238,
+  "cartId": "d462ab60-be2b-42a8-a236-bb505f75d9f9",
+  "preferredProducts": [
+    1174,
+    3116,
+    2047,
+    4727,
+    4114
+  ],
+  "productReviews": [
+    {
+      "productId": 108,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-11-09T17:36:06.1610236+02:00"
+    },
+    {
+      "productId": 923,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2019-03-13T19:39:32.3443243+02:00"
+    },
+    {
+      "productId": 222,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2019-09-29T09:37:43.4349565+03:00"
+    }
+  ]
+}

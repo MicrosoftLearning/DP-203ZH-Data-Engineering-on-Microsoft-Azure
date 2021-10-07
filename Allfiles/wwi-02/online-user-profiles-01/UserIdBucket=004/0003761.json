@@ -1,0 +1,28 @@
+{
+  "userId": 3761,
+  "cartId": "b6d7e88e-4746-44ff-86a8-a495e42e3c8f",
+  "preferredProducts": [
+    2238,
+    1233,
+    4904,
+    452,
+    4270
+  ],
+  "productReviews": [
+    {
+      "productId": 2007,
+      "reviewText": "this Oklahoma is nifty.",
+      "reviewDate": "2019-01-20T04:49:07.3764155+02:00"
+    },
+    {
+      "productId": 1066,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-01-03T04:11:45.9907134+02:00"
+    },
+    {
+      "productId": 3838,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-01-05T12:17:07.5733492+02:00"
+    }
+  ]
+}

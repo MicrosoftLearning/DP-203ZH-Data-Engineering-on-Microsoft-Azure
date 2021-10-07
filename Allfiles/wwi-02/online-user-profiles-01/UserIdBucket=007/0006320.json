@@ -1,0 +1,27 @@
+{
+  "userId": 6320,
+  "cartId": "7be2e337-9058-4672-bae0-f6d2bfc127de",
+  "preferredProducts": [
+    4244,
+    640,
+    2737,
+    3108
+  ],
+  "productReviews": [
+    {
+      "productId": 4241,
+      "reviewText": "this Chief is vertical.",
+      "reviewDate": "2019-11-16T06:31:12.6026307+02:00"
+    },
+    {
+      "productId": 1428,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-10-21T19:55:36.7114262+03:00"
+    },
+    {
+      "productId": 2956,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-10-04T18:28:05.309495+03:00"
+    }
+  ]
+}

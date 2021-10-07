@@ -1,0 +1,30 @@
+{
+  "userId": 84771,
+  "cartId": "8c52acf0-1760-425a-990c-ae90ade8a29e",
+  "preferredProducts": [
+    1246,
+    2234
+  ],
+  "productReviews": [
+    {
+      "productId": 407,
+      "reviewText": "this Dong is vertical.",
+      "reviewDate": "2018-02-17T02:35:56.1307823+02:00"
+    },
+    {
+      "productId": 745,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2019-10-07T00:44:43.0238385+03:00"
+    },
+    {
+      "productId": 3211,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-10-27T22:26:19.8429649+03:00"
+    },
+    {
+      "productId": 3758,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-12-12T03:40:33.2220265+02:00"
+    }
+  ]
+}

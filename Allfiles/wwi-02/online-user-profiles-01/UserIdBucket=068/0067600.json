@@ -1,0 +1,32 @@
+{
+  "userId": 67600,
+  "cartId": "8f931148-d50d-4004-9bf0-1ae220871967",
+  "preferredProducts": [
+    2819,
+    2365,
+    3779,
+    2260,
+    1453,
+    2518,
+    1021,
+    1655,
+    3633
+  ],
+  "productReviews": [
+    {
+      "productId": 4227,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-10-17T11:21:19.1278715+03:00"
+    },
+    {
+      "productId": 3793,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2016-08-11T02:51:27.6217425+03:00"
+    },
+    {
+      "productId": 6,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-11-12T03:54:24.1764065+02:00"
+    }
+  ]
+}

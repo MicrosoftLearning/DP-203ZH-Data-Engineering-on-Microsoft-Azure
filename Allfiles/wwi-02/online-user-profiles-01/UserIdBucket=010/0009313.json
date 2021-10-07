@@ -1,0 +1,33 @@
+{
+  "userId": 9313,
+  "cartId": "75e8c1bd-bdb6-46ce-bdee-19c88d4d385d",
+  "preferredProducts": [
+    536,
+    4928,
+    3387,
+    1238,
+    1091,
+    2098,
+    2299,
+    1685,
+    575,
+    2708
+  ],
+  "productReviews": [
+    {
+      "productId": 4791,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-12-29T19:06:31.4523484+02:00"
+    },
+    {
+      "productId": 1839,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2016-05-27T11:05:03.7867454+03:00"
+    },
+    {
+      "productId": 3019,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2016-08-14T16:59:17.8905068+03:00"
+    }
+  ]
+}

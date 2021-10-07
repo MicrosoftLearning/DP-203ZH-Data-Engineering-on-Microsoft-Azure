@@ -1,0 +1,35 @@
+{
+  "userId": 33663,
+  "cartId": "bc43238b-bfd6-4932-96d0-6ede53909ee3",
+  "preferredProducts": [
+    805,
+    883,
+    1966,
+    4122,
+    1925,
+    4688,
+    343
+  ],
+  "productReviews": [
+    {
+      "productId": 987,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2018-10-08T00:13:10.1920578+03:00"
+    },
+    {
+      "productId": 4852,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-06-23T12:34:16.8030384+03:00"
+    },
+    {
+      "productId": 2265,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-04-04T18:28:23.2394097+03:00"
+    },
+    {
+      "productId": 239,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-11-30T01:34:36.9108912+02:00"
+    }
+  ]
+}

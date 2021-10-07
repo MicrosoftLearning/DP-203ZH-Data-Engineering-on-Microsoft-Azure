@@ -1,0 +1,31 @@
+{
+  "userId": 24614,
+  "cartId": "4dbaada9-9566-4b34-a279-7222ab2e47dd",
+  "preferredProducts": [
+    279,
+    1122,
+    1881
+  ],
+  "productReviews": [
+    {
+      "productId": 3165,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2018-01-03T14:34:07.0049617+02:00"
+    },
+    {
+      "productId": 2227,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-08-17T07:57:32.0446257+03:00"
+    },
+    {
+      "productId": 1548,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-11-02T17:25:14.7150487+02:00"
+    },
+    {
+      "productId": 1163,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-07-22T10:07:24.7301111+03:00"
+    }
+  ]
+}

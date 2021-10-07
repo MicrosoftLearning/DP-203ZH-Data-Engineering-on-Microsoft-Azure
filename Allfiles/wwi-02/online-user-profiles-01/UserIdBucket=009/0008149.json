@@ -1,0 +1,37 @@
+{
+  "userId": 8149,
+  "cartId": "ec8b9fba-efc8-4c92-b911-a98ae3c62fe2",
+  "preferredProducts": [
+    1766,
+    1148,
+    2089,
+    1890
+  ],
+  "productReviews": [
+    {
+      "productId": 4116,
+      "reviewText": "this Product is complimentary.",
+      "reviewDate": "2019-07-31T02:23:55.4415765+03:00"
+    },
+    {
+      "productId": 3451,
+      "reviewText": "this Tactics is complimentary.",
+      "reviewDate": "2018-03-13T09:59:21.3955313+02:00"
+    },
+    {
+      "productId": 4877,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-02-02T16:08:13.3819567+02:00"
+    },
+    {
+      "productId": 164,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-02-06T21:45:24.130695+02:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2017-11-10T03:58:14.2831859+02:00"
+    }
+  ]
+}

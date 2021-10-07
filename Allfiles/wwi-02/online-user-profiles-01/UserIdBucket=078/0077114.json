@@ -1,0 +1,27 @@
+{
+  "userId": 77114,
+  "cartId": "55d6e60b-194d-4349-9e13-2b2d20e6b6b7",
+  "preferredProducts": [
+    3953,
+    2615,
+    2805,
+    4085
+  ],
+  "productReviews": [
+    {
+      "productId": 150,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2017-06-12T04:18:45.0428803+03:00"
+    },
+    {
+      "productId": 3479,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-09-10T01:14:00.9389771+03:00"
+    },
+    {
+      "productId": 583,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-07-27T05:41:59.62112+03:00"
+    }
+  ]
+}

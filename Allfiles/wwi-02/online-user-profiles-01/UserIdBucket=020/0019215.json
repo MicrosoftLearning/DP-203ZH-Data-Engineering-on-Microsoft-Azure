@@ -1,0 +1,33 @@
+{
+  "userId": 19215,
+  "cartId": "25beae2d-be54-4894-be63-a71506009991",
+  "preferredProducts": [
+    3802,
+    2413,
+    1857,
+    4409,
+    2596,
+    4091,
+    1876,
+    1935,
+    3107,
+    4397
+  ],
+  "productReviews": [
+    {
+      "productId": 2213,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2020-03-25T11:29:20.0934648+02:00"
+    },
+    {
+      "productId": 811,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-09-09T16:23:08.0910447+03:00"
+    },
+    {
+      "productId": 2865,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-11-17T12:08:37.0047712+02:00"
+    }
+  ]
+}

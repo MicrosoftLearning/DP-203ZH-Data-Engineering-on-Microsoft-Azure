@@ -1,0 +1,41 @@
+{
+  "userId": 20039,
+  "cartId": "a8b0d6ae-83d2-4f92-994f-e932544acc05",
+  "preferredProducts": [
+    4878,
+    4801,
+    1555,
+    2095,
+    2629,
+    2232,
+    1375,
+    995
+  ],
+  "productReviews": [
+    {
+      "productId": 766,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-03-09T02:16:02.8449342+02:00"
+    },
+    {
+      "productId": 1999,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-10-10T10:16:14.3572405+03:00"
+    },
+    {
+      "productId": 4440,
+      "reviewText": "The box this comes in is 3 yard by 6 yard and weights 19 pound!!!",
+      "reviewDate": "2017-10-13T08:37:04.5422798+03:00"
+    },
+    {
+      "productId": 2319,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-08-05T03:59:50.7424566+03:00"
+    },
+    {
+      "productId": 2454,
+      "reviewText": "this Assistant is perplexed.",
+      "reviewDate": "2019-11-09T00:59:07.9349621+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 42559,
+  "cartId": "d6686391-c76d-421f-b43c-b744a0cfc350",
+  "preferredProducts": [
+    3083,
+    1261,
+    562,
+    1881,
+    4846,
+    2023,
+    81,
+    362
+  ],
+  "productReviews": [
+    {
+      "productId": 955,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-11-26T03:49:31.7749675+02:00"
+    },
+    {
+      "productId": 459,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2017-04-15T15:27:16.376408+03:00"
+    },
+    {
+      "productId": 299,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-09-29T17:21:35.1833885+03:00"
+    },
+    {
+      "productId": 2888,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-02-24T03:14:29.3858652+02:00"
+    }
+  ]
+}

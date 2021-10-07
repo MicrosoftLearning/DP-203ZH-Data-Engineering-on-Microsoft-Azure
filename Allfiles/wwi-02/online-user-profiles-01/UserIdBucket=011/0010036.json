@@ -1,0 +1,24 @@
+{
+  "userId": 10036,
+  "cartId": "4bdcc80a-93e6-4681-9463-b63fe2dac2d0",
+  "preferredProducts": [
+    1554,
+    1103,
+    2636,
+    2982,
+    3351,
+    1492
+  ],
+  "productReviews": [
+    {
+      "productId": 2959,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2016-12-04T03:39:14.159857+02:00"
+    },
+    {
+      "productId": 536,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-05-10T19:14:53.3447118+03:00"
+    }
+  ]
+}

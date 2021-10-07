@@ -1,0 +1,27 @@
+{
+  "userId": 3846,
+  "cartId": "e3b0e83a-9d69-4f4e-bdbd-bf5d3d68eff4",
+  "preferredProducts": [
+    3935,
+    150,
+    2895,
+    3855
+  ],
+  "productReviews": [
+    {
+      "productId": 275,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-07-05T03:32:32.2818148+03:00"
+    },
+    {
+      "productId": 4362,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2018-03-10T11:02:19.6462169+02:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2017-11-30T16:27:10.4051252+02:00"
+    }
+  ]
+}

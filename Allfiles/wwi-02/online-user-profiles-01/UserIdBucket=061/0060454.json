@@ -1,0 +1,42 @@
+{
+  "userId": 60454,
+  "cartId": "365d359d-b8da-4f6f-b139-99da61dbde81",
+  "preferredProducts": [
+    4484,
+    1510,
+    4228,
+    3363,
+    786,
+    1089,
+    747,
+    1445,
+    3239
+  ],
+  "productReviews": [
+    {
+      "productId": 3151,
+      "reviewText": "this Integration is slurpee.",
+      "reviewDate": "2018-07-08T02:50:49.246488+03:00"
+    },
+    {
+      "productId": 1463,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2016-07-05T08:52:44.1337156+03:00"
+    },
+    {
+      "productId": 3975,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-09-02T08:43:09.5318066+03:00"
+    },
+    {
+      "productId": 4485,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-05-03T02:18:51.7613517+03:00"
+    },
+    {
+      "productId": 3669,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-02-18T05:04:09.1349654+02:00"
+    }
+  ]
+}

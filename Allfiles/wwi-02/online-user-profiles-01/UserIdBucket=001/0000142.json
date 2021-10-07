@@ -1,0 +1,37 @@
+{
+  "userId": 142,
+  "cartId": "6751ee82-3d9e-4d1f-b9b6-04e85bd9faa5",
+  "preferredProducts": [
+    896,
+    3981,
+    2984,
+    4106,
+    895,
+    3069,
+    2829,
+    3357,
+    96
+  ],
+  "productReviews": [
+    {
+      "productId": 1102,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-12-05T13:24:03.3977774+02:00"
+    },
+    {
+      "productId": 823,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-11-29T18:57:00.5964668+02:00"
+    },
+    {
+      "productId": 479,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2017-07-26T21:34:18.2637042+03:00"
+    },
+    {
+      "productId": 2113,
+      "reviewText": "this ROI is vertical.",
+      "reviewDate": "2017-09-27T09:01:25.5264489+03:00"
+    }
+  ]
+}

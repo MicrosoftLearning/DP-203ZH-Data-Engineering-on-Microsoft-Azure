@@ -1,0 +1,28 @@
+{
+  "userId": 2009,
+  "cartId": "86664f6a-18c1-44ab-b341-969fcdba4496",
+  "preferredProducts": [
+    399,
+    2571,
+    2569,
+    3895,
+    748,
+    1943,
+    4519,
+    4532,
+    1600,
+    3713
+  ],
+  "productReviews": [
+    {
+      "productId": 3886,
+      "reviewText": "this parse is light-hearted.",
+      "reviewDate": "2016-12-26T15:53:48.3728067+02:00"
+    },
+    {
+      "productId": 4433,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-05-13T00:56:23.9517903+03:00"
+    }
+  ]
+}

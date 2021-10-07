@@ -1,0 +1,26 @@
+{
+  "userId": 64070,
+  "cartId": "86d5e45b-7a55-4c39-9310-4f0475bb7c4d",
+  "preferredProducts": [
+    243,
+    2221,
+    1477
+  ],
+  "productReviews": [
+    {
+      "productId": 1933,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-06-05T19:17:19.735811+03:00"
+    },
+    {
+      "productId": 4355,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-11-21T02:42:11.4420698+02:00"
+    },
+    {
+      "productId": 158,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-02-16T09:20:23.5902231+02:00"
+    }
+  ]
+}

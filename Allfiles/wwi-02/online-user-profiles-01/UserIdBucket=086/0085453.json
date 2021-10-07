@@ -1,0 +1,42 @@
+{
+  "userId": 85453,
+  "cartId": "4d53429f-5fc4-4cbf-b4e9-6c36cac0721f",
+  "preferredProducts": [
+    2267,
+    2828,
+    2507,
+    4645,
+    215,
+    829,
+    552,
+    4256,
+    2218
+  ],
+  "productReviews": [
+    {
+      "productId": 388,
+      "reviewText": "I tried to nail it but got strawberry all over it.",
+      "reviewDate": "2020-05-06T05:22:04.0550621+03:00"
+    },
+    {
+      "productId": 3623,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-05-19T13:42:02.2045458+03:00"
+    },
+    {
+      "productId": 3191,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-10-31T18:30:59.0982504+02:00"
+    },
+    {
+      "productId": 2589,
+      "reviewText": "This XSS works considerably well. It recklessly improves my basketball by a lot.",
+      "reviewDate": "2017-03-10T04:10:33.359501+02:00"
+    },
+    {
+      "productId": 3306,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-06-19T05:58:09.9603341+03:00"
+    }
+  ]
+}

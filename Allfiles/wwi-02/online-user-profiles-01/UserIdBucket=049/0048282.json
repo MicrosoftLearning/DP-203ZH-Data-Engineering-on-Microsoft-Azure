@@ -1,0 +1,35 @@
+{
+  "userId": 48282,
+  "cartId": "8f696db5-a5f9-4cd0-b647-5b7635c19404",
+  "preferredProducts": [
+    1207,
+    1410,
+    1235,
+    3164,
+    2094,
+    4361,
+    1732
+  ],
+  "productReviews": [
+    {
+      "productId": 3079,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-08-07T18:42:03.1031287+03:00"
+    },
+    {
+      "productId": 3133,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-06-29T03:12:08.8162445+03:00"
+    },
+    {
+      "productId": 1982,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-03-20T20:01:59.3520459+02:00"
+    },
+    {
+      "productId": 1104,
+      "reviewText": "This District works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-09-30T12:30:51.2350503+03:00"
+    }
+  ]
+}

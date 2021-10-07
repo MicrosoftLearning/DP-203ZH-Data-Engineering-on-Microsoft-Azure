@@ -1,0 +1,28 @@
+{
+  "userId": 65456,
+  "cartId": "615c3ad0-139f-46a0-9399-591695f906c4",
+  "preferredProducts": [
+    82,
+    2744,
+    4673,
+    2787,
+    1041
+  ],
+  "productReviews": [
+    {
+      "productId": 326,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-01-12T18:08:00.5911718+02:00"
+    },
+    {
+      "productId": 2602,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2016-06-08T00:55:42.6608529+03:00"
+    },
+    {
+      "productId": 1610,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2019-08-31T04:21:57.4152305+03:00"
+    }
+  ]
+}

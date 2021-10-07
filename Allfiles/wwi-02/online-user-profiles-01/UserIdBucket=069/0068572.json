@@ -1,0 +1,35 @@
+{
+  "userId": 68572,
+  "cartId": "b31adf9b-6b3e-44e2-b1e7-25f61519c825",
+  "preferredProducts": [
+    2444,
+    3020,
+    3486,
+    448,
+    82,
+    3988,
+    4005
+  ],
+  "productReviews": [
+    {
+      "productId": 2893,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-05-14T17:35:26.3787642+03:00"
+    },
+    {
+      "productId": 1081,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-03-04T21:23:23.9278351+02:00"
+    },
+    {
+      "productId": 2506,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-06-24T04:46:04.1369577+03:00"
+    },
+    {
+      "productId": 221,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2016-10-28T12:07:05.1193015+03:00"
+    }
+  ]
+}

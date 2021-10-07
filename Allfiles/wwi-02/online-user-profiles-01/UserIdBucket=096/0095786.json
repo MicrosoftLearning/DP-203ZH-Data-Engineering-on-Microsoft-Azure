@@ -1,0 +1,26 @@
+{
+  "userId": 95786,
+  "cartId": "2fdd32db-962b-4084-a03f-1a0c67bf3a74",
+  "preferredProducts": [
+    1320,
+    4263,
+    1897
+  ],
+  "productReviews": [
+    {
+      "productId": 3126,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2020-02-13T16:36:06.1289001+02:00"
+    },
+    {
+      "productId": 1512,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-11-07T00:54:56.5279564+02:00"
+    },
+    {
+      "productId": 4831,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-01-21T19:20:27.5300677+02:00"
+    }
+  ]
+}

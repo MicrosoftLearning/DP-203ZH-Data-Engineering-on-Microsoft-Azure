@@ -1,0 +1,36 @@
+{
+  "userId": 86582,
+  "cartId": "5e72508a-11b4-4355-98d9-befed3de4218",
+  "preferredProducts": [
+    1224,
+    3203,
+    4211,
+    903,
+    1686,
+    3219,
+    1073,
+    1803
+  ],
+  "productReviews": [
+    {
+      "productId": 1874,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-11-23T15:55:15.5250023+02:00"
+    },
+    {
+      "productId": 1098,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-05-08T19:57:37.1929157+03:00"
+    },
+    {
+      "productId": 3165,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-02-11T21:24:48.6036531+02:00"
+    },
+    {
+      "productId": 3954,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-03-27T06:36:17.7000348+03:00"
+    }
+  ]
+}

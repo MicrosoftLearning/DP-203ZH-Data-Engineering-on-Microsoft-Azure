@@ -1,0 +1,30 @@
+{
+  "userId": 1819,
+  "cartId": "8c3cd60e-4a85-4299-863d-034576e62994",
+  "preferredProducts": [
+    19,
+    3885,
+    4846,
+    4614,
+    2500,
+    4811,
+    3101
+  ],
+  "productReviews": [
+    {
+      "productId": 2732,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-10-10T13:15:34.0084683+03:00"
+    },
+    {
+      "productId": 670,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-03-13T14:03:18.8767063+02:00"
+    },
+    {
+      "productId": 3773,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2017-08-09T03:46:18.9561883+03:00"
+    }
+  ]
+}

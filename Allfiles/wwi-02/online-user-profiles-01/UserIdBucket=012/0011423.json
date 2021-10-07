@@ -1,0 +1,36 @@
+{
+  "userId": 11423,
+  "cartId": "a7a5b635-3416-453e-b99c-8f253aaa8931",
+  "preferredProducts": [
+    1805,
+    2526,
+    65,
+    43,
+    1146,
+    1073,
+    382,
+    1232
+  ],
+  "productReviews": [
+    {
+      "productId": 2992,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-03-31T15:40:58.403062+03:00"
+    },
+    {
+      "productId": 85,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-09-13T03:05:54.4945704+03:00"
+    },
+    {
+      "productId": 4634,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2017-05-22T03:27:08.394363+03:00"
+    },
+    {
+      "productId": 4126,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-06-23T03:58:09.5819783+03:00"
+    }
+  ]
+}

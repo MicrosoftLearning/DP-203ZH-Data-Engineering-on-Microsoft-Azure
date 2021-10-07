@@ -1,0 +1,32 @@
+{
+  "userId": 67456,
+  "cartId": "340121aa-dea0-451a-964d-f259d95f30c7",
+  "preferredProducts": [
+    65,
+    4638,
+    3884,
+    3364,
+    746,
+    4394,
+    4052,
+    1462,
+    2211
+  ],
+  "productReviews": [
+    {
+      "productId": 2039,
+      "reviewText": "this Sleek is hyper.",
+      "reviewDate": "2018-05-07T10:53:37.8159273+03:00"
+    },
+    {
+      "productId": 3316,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-01-18T20:06:02.3134588+02:00"
+    },
+    {
+      "productId": 1210,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2017-08-25T07:31:59.3157874+03:00"
+    }
+  ]
+}

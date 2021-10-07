@@ -1,0 +1,30 @@
+{
+  "userId": 29448,
+  "cartId": "33aa3316-6c66-462e-9765-41d34f22f045",
+  "preferredProducts": [
+    1207,
+    479
+  ],
+  "productReviews": [
+    {
+      "productId": 223,
+      "reviewText": "this indigo is awesome.",
+      "reviewDate": "2017-06-15T07:32:59.8147739+03:00"
+    },
+    {
+      "productId": 1124,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-12-15T03:56:44.8366716+02:00"
+    },
+    {
+      "productId": 4207,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-09-13T12:18:28.6618172+03:00"
+    },
+    {
+      "productId": 1662,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2020-03-18T10:09:35.6331525+02:00"
+    }
+  ]
+}

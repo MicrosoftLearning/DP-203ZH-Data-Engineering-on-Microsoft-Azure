@@ -1,0 +1,29 @@
+{
+  "userId": 80526,
+  "cartId": "e058967c-ed25-4667-9f6b-5052624726da",
+  "preferredProducts": [
+    92
+  ],
+  "productReviews": [
+    {
+      "productId": 3581,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-01-11T18:01:24.9884225+02:00"
+    },
+    {
+      "productId": 3177,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-05-23T18:29:30.6244348+03:00"
+    },
+    {
+      "productId": 4011,
+      "reviewText": "This Proactive works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-07-29T09:46:17.2125683+03:00"
+    },
+    {
+      "productId": 3984,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-04-21T00:32:11.4883178+03:00"
+    }
+  ]
+}

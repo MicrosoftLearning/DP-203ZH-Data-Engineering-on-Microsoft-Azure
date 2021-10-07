@@ -1,0 +1,37 @@
+{
+  "userId": 93123,
+  "cartId": "3c3461e8-5c9e-4e46-8faf-a049ae8b1d2d",
+  "preferredProducts": [
+    1668,
+    2102,
+    2331,
+    4361
+  ],
+  "productReviews": [
+    {
+      "productId": 4127,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-12-05T01:22:23.8935821+02:00"
+    },
+    {
+      "productId": 4819,
+      "reviewText": "This green, does exactly what it's suppose to do.",
+      "reviewDate": "2019-02-13T08:08:48.302038+02:00"
+    },
+    {
+      "productId": 2942,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-03-16T09:35:41.7367314+02:00"
+    },
+    {
+      "productId": 1337,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-10-14T01:25:26.1480932+03:00"
+    },
+    {
+      "productId": 4287,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-08-02T00:26:43.4688708+03:00"
+    }
+  ]
+}

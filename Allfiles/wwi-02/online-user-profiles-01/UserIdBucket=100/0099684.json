@@ -1,0 +1,33 @@
+{
+  "userId": 99684,
+  "cartId": "545fba1d-e1bd-4b9c-aaed-5c444d046e99",
+  "preferredProducts": [
+    2017,
+    1000,
+    1043,
+    150,
+    3323
+  ],
+  "productReviews": [
+    {
+      "productId": 2597,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2016-05-23T11:37:10.4916752+03:00"
+    },
+    {
+      "productId": 533,
+      "reviewText": "This indexing works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2019-10-08T03:10:10.8331332+03:00"
+    },
+    {
+      "productId": 2446,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-02-21T07:42:04.9767262+02:00"
+    },
+    {
+      "productId": 4299,
+      "reviewText": "It only works when I'm Nepal.",
+      "reviewDate": "2018-06-19T02:07:02.740312+03:00"
+    }
+  ]
+}

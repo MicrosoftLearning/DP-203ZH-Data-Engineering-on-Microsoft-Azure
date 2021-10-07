@@ -1,0 +1,37 @@
+{
+  "userId": 70876,
+  "cartId": "9f36649c-e95c-4d44-a0c1-cf6d171bba31",
+  "preferredProducts": [
+    679,
+    766,
+    2568,
+    1957,
+    4830,
+    2573,
+    878,
+    3882,
+    2108
+  ],
+  "productReviews": [
+    {
+      "productId": 1175,
+      "reviewText": "this AGP is smooth.",
+      "reviewDate": "2019-11-19T04:26:24.6856685+02:00"
+    },
+    {
+      "productId": 3368,
+      "reviewText": "This is a really good reboot.",
+      "reviewDate": "2016-07-25T20:19:52.2899567+03:00"
+    },
+    {
+      "productId": 2046,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-09-26T19:00:55.8140617+03:00"
+    },
+    {
+      "productId": 4101,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-06-04T14:06:36.5754628+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 23866,
+  "cartId": "d0fcb5a1-b912-4638-b5bb-519642569423",
+  "preferredProducts": [
+    3739,
+    2059,
+    4250,
+    2471
+  ],
+  "productReviews": [
+    {
+      "productId": 446,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-07-17T06:39:40.4150159+03:00"
+    },
+    {
+      "productId": 3861,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2017-11-17T09:35:00.8589218+02:00"
+    },
+    {
+      "productId": 2762,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2019-01-04T00:51:10.093044+02:00"
+    },
+    {
+      "productId": 4908,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2017-11-28T18:16:38.8929706+02:00"
+    }
+  ]
+}

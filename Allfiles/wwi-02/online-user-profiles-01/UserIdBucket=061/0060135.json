@@ -1,0 +1,39 @@
+{
+  "userId": 60135,
+  "cartId": "adbfa20a-97a4-4ae5-b4b5-573a20110cb2",
+  "preferredProducts": [
+    3350,
+    1203,
+    323,
+    3225,
+    3400,
+    3918
+  ],
+  "productReviews": [
+    {
+      "productId": 1259,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2020-01-24T12:58:38.8962707+02:00"
+    },
+    {
+      "productId": 2715,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2019-05-04T18:24:36.4283916+03:00"
+    },
+    {
+      "productId": 11,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-01-30T16:22:49.7504622+02:00"
+    },
+    {
+      "productId": 1957,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-01-30T12:41:41.9886682+02:00"
+    },
+    {
+      "productId": 3911,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-01-24T19:13:16.1690342+02:00"
+    }
+  ]
+}

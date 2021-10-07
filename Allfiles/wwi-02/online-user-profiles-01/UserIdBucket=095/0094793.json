@@ -1,0 +1,30 @@
+{
+  "userId": 94793,
+  "cartId": "e0f1ce6a-f918-424d-9b19-49a84636e124",
+  "preferredProducts": [
+    4855,
+    718,
+    2688,
+    1620,
+    2031,
+    734,
+    2767
+  ],
+  "productReviews": [
+    {
+      "productId": 3405,
+      "reviewText": "this back-end is revolting.",
+      "reviewDate": "2016-12-25T07:47:51.5691887+02:00"
+    },
+    {
+      "productId": 1353,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2018-01-07T15:28:51.3459173+02:00"
+    },
+    {
+      "productId": 1711,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-12-06T16:57:58.4033024+02:00"
+    }
+  ]
+}

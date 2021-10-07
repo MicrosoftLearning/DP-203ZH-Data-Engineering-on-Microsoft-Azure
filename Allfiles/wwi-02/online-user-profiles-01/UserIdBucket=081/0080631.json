@@ -1,0 +1,31 @@
+{
+  "userId": 80631,
+  "cartId": "d4495963-f522-4188-866c-0244dd0fa10b",
+  "preferredProducts": [
+    4650,
+    1930,
+    1048,
+    479,
+    4923,
+    3971,
+    2068,
+    2915
+  ],
+  "productReviews": [
+    {
+      "productId": 1596,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2018-11-30T01:17:42.061415+02:00"
+    },
+    {
+      "productId": 2950,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-08-14T20:39:55.5229263+03:00"
+    },
+    {
+      "productId": 153,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2018-01-16T19:15:52.3903543+02:00"
+    }
+  ]
+}

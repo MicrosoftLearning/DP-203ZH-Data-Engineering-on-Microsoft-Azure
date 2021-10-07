@@ -1,0 +1,30 @@
+{
+  "userId": 49256,
+  "cartId": "7dd89481-bf1c-448b-a8b4-9be7967fb4f0",
+  "preferredProducts": [
+    4056,
+    625,
+    1249,
+    3053,
+    4845,
+    4089,
+    126
+  ],
+  "productReviews": [
+    {
+      "productId": 1709,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2016-09-16T14:23:23.7763443+03:00"
+    },
+    {
+      "productId": 3949,
+      "reviewText": "this Intelligent Fresh Computer is nifty.",
+      "reviewDate": "2016-09-07T02:02:44.1085015+03:00"
+    },
+    {
+      "productId": 1763,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-07-15T00:18:45.8521788+03:00"
+    }
+  ]
+}

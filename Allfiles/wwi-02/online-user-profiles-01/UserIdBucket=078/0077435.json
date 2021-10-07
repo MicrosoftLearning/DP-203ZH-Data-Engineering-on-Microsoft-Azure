@@ -1,0 +1,32 @@
+{
+  "userId": 77435,
+  "cartId": "a6e2fa8b-207b-41a6-8b38-af96132912b9",
+  "preferredProducts": [
+    875,
+    4112,
+    338,
+    2862
+  ],
+  "productReviews": [
+    {
+      "productId": 3331,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-01-29T09:04:29.2206059+02:00"
+    },
+    {
+      "productId": 4902,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-07-14T00:33:21.9405621+03:00"
+    },
+    {
+      "productId": 42,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2017-01-30T02:08:27.4576842+02:00"
+    },
+    {
+      "productId": 491,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2017-08-19T16:17:12.7384011+03:00"
+    }
+  ]
+}

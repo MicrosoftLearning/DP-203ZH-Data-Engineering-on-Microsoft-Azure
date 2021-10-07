@@ -1,0 +1,26 @@
+{
+  "userId": 90700,
+  "cartId": "cea378a1-9071-4b0d-94ed-98d3c1686f10",
+  "preferredProducts": [
+    1676,
+    1908,
+    1889
+  ],
+  "productReviews": [
+    {
+      "productId": 3308,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2018-05-04T15:17:08.5242312+03:00"
+    },
+    {
+      "productId": 2962,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-05-27T21:01:45.6437646+03:00"
+    },
+    {
+      "productId": 4396,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2019-08-10T07:19:26.0655431+03:00"
+    }
+  ]
+}

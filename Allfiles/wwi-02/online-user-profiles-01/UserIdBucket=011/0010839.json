@@ -1,0 +1,29 @@
+{
+  "userId": 10839,
+  "cartId": "2a247e4b-7bf0-4054-84ce-8c3dc8a86e22",
+  "preferredProducts": [
+    4461,
+    3535,
+    3863,
+    3040,
+    3684,
+    2036
+  ],
+  "productReviews": [
+    {
+      "productId": 3191,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-12-22T22:06:21.6090796+02:00"
+    },
+    {
+      "productId": 4231,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-07-24T16:30:56.7134922+03:00"
+    },
+    {
+      "productId": 3892,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-01-05T20:23:37.9917894+02:00"
+    }
+  ]
+}

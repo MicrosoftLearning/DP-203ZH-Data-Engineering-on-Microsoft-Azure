@@ -1,0 +1,27 @@
+{
+  "userId": 43695,
+  "cartId": "f23442c8-f9a4-4fdd-b17d-e318acd89259",
+  "preferredProducts": [
+    92,
+    4413,
+    495,
+    1423,
+    3623,
+    4636,
+    2016,
+    4169,
+    3187
+  ],
+  "productReviews": [
+    {
+      "productId": 2841,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2019-03-24T03:39:13.9171819+02:00"
+    },
+    {
+      "productId": 1646,
+      "reviewText": "this indigo is vertical.",
+      "reviewDate": "2016-10-16T10:11:11.7196766+03:00"
+    }
+  ]
+}

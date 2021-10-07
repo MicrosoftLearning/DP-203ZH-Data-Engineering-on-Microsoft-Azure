@@ -1,0 +1,34 @@
+{
+  "userId": 10165,
+  "cartId": "58ecd3e1-12c9-4102-81ec-f4755b8b1dd2",
+  "preferredProducts": [
+    1219,
+    1409,
+    1037,
+    1014,
+    4562,
+    3845
+  ],
+  "productReviews": [
+    {
+      "productId": 1382,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-05-04T12:47:20.4014176+03:00"
+    },
+    {
+      "productId": 992,
+      "reviewText": "this hard drive is honest.",
+      "reviewDate": "2019-10-30T00:18:53.3367479+02:00"
+    },
+    {
+      "productId": 2519,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-06-20T23:53:20.183736+03:00"
+    },
+    {
+      "productId": 1327,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-05-29T01:57:35.6995689+03:00"
+    }
+  ]
+}

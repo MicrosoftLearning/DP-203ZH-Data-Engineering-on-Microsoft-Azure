@@ -1,0 +1,30 @@
+{
+  "userId": 51292,
+  "cartId": "0cf7b2bd-ee12-4ba4-a934-6d9565e83794",
+  "preferredProducts": [
+    2948,
+    541,
+    1777,
+    3001,
+    1532,
+    1861,
+    917
+  ],
+  "productReviews": [
+    {
+      "productId": 2321,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-12-01T16:59:59.1715489+02:00"
+    },
+    {
+      "productId": 3243,
+      "reviewText": "this Ergonomic is complimentary.",
+      "reviewDate": "2016-06-27T22:38:21.7820661+03:00"
+    },
+    {
+      "productId": 4009,
+      "reviewText": "This Progressive works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-09-21T13:18:22.7949547+03:00"
+    }
+  ]
+}

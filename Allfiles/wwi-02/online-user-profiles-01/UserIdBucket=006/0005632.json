@@ -1,0 +1,30 @@
+{
+  "userId": 5632,
+  "cartId": "53888c70-441e-47bf-b970-9344d9da18b1",
+  "preferredProducts": [
+    68,
+    2367,
+    3416,
+    2299,
+    2688,
+    3332,
+    1228
+  ],
+  "productReviews": [
+    {
+      "productId": 1389,
+      "reviewText": "this Inlet is revolting.",
+      "reviewDate": "2019-10-30T22:27:02.1721947+02:00"
+    },
+    {
+      "productId": 1815,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-01-20T09:52:32.8450985+02:00"
+    },
+    {
+      "productId": 3948,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2019-04-05T12:27:02.1793021+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 75637,
+  "cartId": "1671c7ea-815a-4460-a3b0-0983ee98970f",
+  "preferredProducts": [
+    1037,
+    595,
+    862,
+    3370,
+    4741
+  ],
+  "productReviews": [
+    {
+      "productId": 4665,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2016-07-26T07:25:56.1798827+03:00"
+    },
+    {
+      "productId": 3333,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2016-08-02T10:32:06.3687634+03:00"
+    }
+  ]
+}

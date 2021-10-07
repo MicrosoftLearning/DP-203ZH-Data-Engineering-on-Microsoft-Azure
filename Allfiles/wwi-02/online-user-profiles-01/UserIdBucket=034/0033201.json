@@ -1,0 +1,32 @@
+{
+  "userId": 33201,
+  "cartId": "3fad604b-5698-4687-9ae8-e0af1b2c397a",
+  "preferredProducts": [
+    3456,
+    57,
+    2817,
+    733
+  ],
+  "productReviews": [
+    {
+      "productId": 857,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2019-07-21T09:02:53.3288599+03:00"
+    },
+    {
+      "productId": 1171,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-03-07T07:49:13.0840819+02:00"
+    },
+    {
+      "productId": 1299,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-08-15T23:04:58.8532773+03:00"
+    },
+    {
+      "productId": 2150,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-09-05T08:05:56.9581103+03:00"
+    }
+  ]
+}

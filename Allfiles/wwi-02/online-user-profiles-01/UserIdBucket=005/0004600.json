@@ -1,0 +1,37 @@
+{
+  "userId": 4600,
+  "cartId": "6b121868-777b-441c-a4e8-070f56443541",
+  "preferredProducts": [
+    1987,
+    4145,
+    2198,
+    3223
+  ],
+  "productReviews": [
+    {
+      "productId": 3708,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2020-04-04T05:57:07.5895598+03:00"
+    },
+    {
+      "productId": 3488,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-03-30T01:00:19.670281+02:00"
+    },
+    {
+      "productId": 4583,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-03-08T01:24:15.159746+02:00"
+    },
+    {
+      "productId": 2227,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-03-18T13:16:07.1641069+02:00"
+    },
+    {
+      "productId": 1591,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-10-11T12:30:12.7750698+03:00"
+    }
+  ]
+}

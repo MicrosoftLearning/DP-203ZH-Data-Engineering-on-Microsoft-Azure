@@ -1,0 +1,30 @@
+{
+  "userId": 96178,
+  "cartId": "140b79b7-09cd-4c7f-9354-a61882bce9ce",
+  "preferredProducts": [
+    307,
+    2989,
+    3752,
+    3108,
+    2512,
+    4049,
+    80
+  ],
+  "productReviews": [
+    {
+      "productId": 3823,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2016-09-05T09:50:55.8696924+03:00"
+    },
+    {
+      "productId": 975,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2017-06-03T20:00:56.5282425+03:00"
+    },
+    {
+      "productId": 2716,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-06-17T10:35:46.292929+03:00"
+    }
+  ]
+}

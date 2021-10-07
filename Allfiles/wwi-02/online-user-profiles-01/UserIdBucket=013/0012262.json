@@ -1,0 +1,39 @@
+{
+  "userId": 12262,
+  "cartId": "e8bdd637-82ae-4972-a184-92aeac9a77f5",
+  "preferredProducts": [
+    2368,
+    4592,
+    1208,
+    3612,
+    910,
+    831
+  ],
+  "productReviews": [
+    {
+      "productId": 3352,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-02-25T13:23:21.551487+02:00"
+    },
+    {
+      "productId": 4265,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-10-27T17:36:18.2869303+03:00"
+    },
+    {
+      "productId": 904,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-08-25T03:25:42.9928572+03:00"
+    },
+    {
+      "productId": 4240,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-04-17T17:18:28.8046676+03:00"
+    },
+    {
+      "productId": 2786,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2017-11-10T17:18:46.1940352+02:00"
+    }
+  ]
+}

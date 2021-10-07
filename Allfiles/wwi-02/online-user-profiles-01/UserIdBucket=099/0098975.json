@@ -1,0 +1,36 @@
+{
+  "userId": 98975,
+  "cartId": "64cc5a25-d386-486a-90da-9a3b405f9096",
+  "preferredProducts": [
+    2013,
+    1604,
+    3549
+  ],
+  "productReviews": [
+    {
+      "productId": 950,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-08-12T14:00:32.5709755+03:00"
+    },
+    {
+      "productId": 2450,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-05-13T06:42:48.5593463+03:00"
+    },
+    {
+      "productId": 4072,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-10-12T06:20:46.0083652+03:00"
+    },
+    {
+      "productId": 4229,
+      "reviewText": "this Chief is whole-grain.",
+      "reviewDate": "2019-09-15T01:14:11.2102462+03:00"
+    },
+    {
+      "productId": 2690,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2019-02-25T02:22:18.6117792+02:00"
+    }
+  ]
+}

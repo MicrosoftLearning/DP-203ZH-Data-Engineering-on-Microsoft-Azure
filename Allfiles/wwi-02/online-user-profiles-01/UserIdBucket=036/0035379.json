@@ -1,0 +1,39 @@
+{
+  "userId": 35379,
+  "cartId": "6f5f42fe-a167-488b-aa44-49be68f8f422",
+  "preferredProducts": [
+    1391,
+    21,
+    4510,
+    316,
+    1059,
+    42
+  ],
+  "productReviews": [
+    {
+      "productId": 625,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-08-21T01:39:52.0493725+03:00"
+    },
+    {
+      "productId": 2763,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-01-17T23:02:13.4260903+02:00"
+    },
+    {
+      "productId": 1173,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2018-05-20T13:30:36.0644125+03:00"
+    },
+    {
+      "productId": 770,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-10-31T18:11:12.4462872+02:00"
+    },
+    {
+      "productId": 871,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2020-04-22T18:10:28.3228527+03:00"
+    }
+  ]
+}

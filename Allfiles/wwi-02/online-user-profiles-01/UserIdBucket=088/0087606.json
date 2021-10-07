@@ -1,0 +1,31 @@
+{
+  "userId": 87606,
+  "cartId": "11af3096-09e9-45ab-bff4-53e5fa61db82",
+  "preferredProducts": [
+    1820,
+    164,
+    3464
+  ],
+  "productReviews": [
+    {
+      "productId": 4812,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-05-11T17:32:46.1429442+03:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-08-13T19:08:21.2412039+03:00"
+    },
+    {
+      "productId": 484,
+      "reviewText": "this Brooks is dominant.",
+      "reviewDate": "2016-11-16T12:41:43.1446166+02:00"
+    },
+    {
+      "productId": 3172,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-09-15T17:49:36.2164707+03:00"
+    }
+  ]
+}

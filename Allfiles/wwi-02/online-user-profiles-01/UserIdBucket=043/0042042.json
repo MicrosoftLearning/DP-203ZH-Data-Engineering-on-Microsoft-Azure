@@ -1,0 +1,32 @@
+{
+  "userId": 42042,
+  "cartId": "7343e9cc-ae53-490d-9844-4e9bb4be8e56",
+  "preferredProducts": [
+    1252,
+    3115,
+    2631,
+    1438,
+    1883,
+    4590,
+    3424,
+    417,
+    2985
+  ],
+  "productReviews": [
+    {
+      "productId": 19,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-06-09T20:47:49.6850608+03:00"
+    },
+    {
+      "productId": 1938,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-04-01T07:58:19.2162303+03:00"
+    },
+    {
+      "productId": 3328,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-01-08T23:36:09.8645763+02:00"
+    }
+  ]
+}

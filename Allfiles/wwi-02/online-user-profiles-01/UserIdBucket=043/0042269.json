@@ -1,0 +1,28 @@
+{
+  "userId": 42269,
+  "cartId": "694e9ec8-1494-4285-9980-353de2ebad22",
+  "preferredProducts": [
+    518,
+    2045,
+    3232,
+    4662,
+    1489,
+    4641,
+    4873,
+    4263,
+    3465,
+    3027
+  ],
+  "productReviews": [
+    {
+      "productId": 1378,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-07-25T21:01:18.3237419+03:00"
+    },
+    {
+      "productId": 1013,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-03-15T09:09:20.8723941+02:00"
+    }
+  ]
+}

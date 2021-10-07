@@ -1,0 +1,34 @@
+{
+  "userId": 40533,
+  "cartId": "22b5e5e8-fec9-4862-afc0-d9e6c28b19ba",
+  "preferredProducts": [
+    3284,
+    4855,
+    430,
+    675,
+    4021,
+    3210
+  ],
+  "productReviews": [
+    {
+      "productId": 1690,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2016-05-22T11:50:02.7147887+03:00"
+    },
+    {
+      "productId": 2402,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-12-01T11:31:41.0176577+02:00"
+    },
+    {
+      "productId": 1083,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2020-04-30T14:14:25.7931453+03:00"
+    },
+    {
+      "productId": 2542,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-12-25T21:04:31.8607821+02:00"
+    }
+  ]
+}

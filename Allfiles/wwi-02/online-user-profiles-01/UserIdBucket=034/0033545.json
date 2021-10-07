@@ -1,0 +1,26 @@
+{
+  "userId": 33545,
+  "cartId": "2c0d5067-4098-44f6-b830-02b917438b04",
+  "preferredProducts": [
+    354,
+    3971,
+    1646
+  ],
+  "productReviews": [
+    {
+      "productId": 4180,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-24T05:52:12.8634231+03:00"
+    },
+    {
+      "productId": 4716,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2020-02-22T21:16:18.9181361+02:00"
+    },
+    {
+      "productId": 4263,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2017-04-24T15:09:18.617854+03:00"
+    }
+  ]
+}

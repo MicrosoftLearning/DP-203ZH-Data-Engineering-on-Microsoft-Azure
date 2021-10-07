@@ -1,0 +1,32 @@
+{
+  "userId": 56888,
+  "cartId": "7402b2a3-80e6-4ff6-badd-ae0f233b6e5b",
+  "preferredProducts": [
+    1853,
+    1141,
+    4130,
+    2899,
+    2011,
+    2507,
+    624,
+    3584,
+    1269
+  ],
+  "productReviews": [
+    {
+      "productId": 3357,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-11-12T18:55:34.4858351+02:00"
+    },
+    {
+      "productId": 2906,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-03-12T05:16:52.2842661+02:00"
+    },
+    {
+      "productId": 2751,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2017-09-09T22:57:55.1024159+03:00"
+    }
+  ]
+}

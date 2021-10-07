@@ -1,0 +1,32 @@
+{
+  "userId": 14146,
+  "cartId": "906ef715-6507-4571-9961-bfef37328ab4",
+  "preferredProducts": [
+    2664,
+    832,
+    1161,
+    4293
+  ],
+  "productReviews": [
+    {
+      "productId": 2010,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2016-08-04T15:54:30.0641581+03:00"
+    },
+    {
+      "productId": 1455,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2018-05-30T07:54:58.9137093+03:00"
+    },
+    {
+      "productId": 3757,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-12-04T00:41:52.849462+02:00"
+    },
+    {
+      "productId": 2399,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2017-03-07T04:53:08.3093638+02:00"
+    }
+  ]
+}

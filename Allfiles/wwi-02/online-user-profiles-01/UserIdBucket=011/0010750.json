@@ -1,0 +1,39 @@
+{
+  "userId": 10750,
+  "cartId": "5a273563-8445-469e-8d01-e4464c01f288",
+  "preferredProducts": [
+    3444,
+    1002,
+    2397,
+    2443,
+    82,
+    1139
+  ],
+  "productReviews": [
+    {
+      "productId": 760,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2018-04-28T14:03:24.5802864+03:00"
+    },
+    {
+      "productId": 4195,
+      "reviewText": "This Internal works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2016-06-30T13:37:08.4980894+03:00"
+    },
+    {
+      "productId": 4633,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2020-02-07T07:28:40.320354+02:00"
+    },
+    {
+      "productId": 2706,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2018-01-18T13:55:41.7911544+02:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-10-03T09:00:01.6673767+03:00"
+    }
+  ]
+}

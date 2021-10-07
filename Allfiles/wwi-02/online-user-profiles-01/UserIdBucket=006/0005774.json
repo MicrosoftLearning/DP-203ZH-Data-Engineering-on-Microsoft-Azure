@@ -1,0 +1,25 @@
+{
+  "userId": 5774,
+  "cartId": "78cdda8e-9617-41c0-9017-d07dec8e0e8c",
+  "preferredProducts": [
+    3041,
+    3267,
+    1856,
+    3070,
+    1303,
+    1546,
+    4971
+  ],
+  "productReviews": [
+    {
+      "productId": 21,
+      "reviewText": "This Balanced works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-12-08T16:42:36.0123068+02:00"
+    },
+    {
+      "productId": 2979,
+      "reviewText": "this interface is papery.",
+      "reviewDate": "2018-06-21T23:11:01.6340586+03:00"
+    }
+  ]
+}

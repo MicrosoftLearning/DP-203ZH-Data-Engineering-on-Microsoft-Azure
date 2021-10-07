@@ -1,0 +1,28 @@
+{
+  "userId": 99822,
+  "cartId": "bee62157-30f0-4303-83fa-a7695eef5c8f",
+  "preferredProducts": [
+    1245,
+    1961,
+    1784,
+    200,
+    3924
+  ],
+  "productReviews": [
+    {
+      "productId": 588,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-06-11T19:01:25.4918969+03:00"
+    },
+    {
+      "productId": 227,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-05-28T02:44:18.4487405+03:00"
+    },
+    {
+      "productId": 1015,
+      "reviewText": "this Turnpike is whole-grain.",
+      "reviewDate": "2017-12-06T11:16:20.7981515+02:00"
+    }
+  ]
+}

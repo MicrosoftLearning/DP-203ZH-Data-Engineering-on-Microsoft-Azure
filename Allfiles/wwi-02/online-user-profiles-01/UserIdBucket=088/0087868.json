@@ -1,0 +1,27 @@
+{
+  "userId": 87868,
+  "cartId": "05a133a5-f38f-442d-b32b-f341c2e21429",
+  "preferredProducts": [
+    2202,
+    1242,
+    4904,
+    1683
+  ],
+  "productReviews": [
+    {
+      "productId": 1325,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-10-01T11:11:24.3384215+03:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2017-05-02T20:00:55.2669797+03:00"
+    },
+    {
+      "productId": 2765,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2016-05-12T15:50:20.0188154+03:00"
+    }
+  ]
+}

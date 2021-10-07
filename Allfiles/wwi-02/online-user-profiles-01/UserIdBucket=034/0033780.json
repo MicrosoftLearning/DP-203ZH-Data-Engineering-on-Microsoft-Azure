@@ -1,0 +1,23 @@
+{
+  "userId": 33780,
+  "cartId": "194ac11f-7153-41fe-8035-f021feedc15d",
+  "preferredProducts": [
+    4333,
+    1667,
+    3798,
+    1551,
+    1921
+  ],
+  "productReviews": [
+    {
+      "productId": 1024,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-03-06T15:46:07.7255139+02:00"
+    },
+    {
+      "productId": 290,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2020-03-24T11:12:55.631325+02:00"
+    }
+  ]
+}

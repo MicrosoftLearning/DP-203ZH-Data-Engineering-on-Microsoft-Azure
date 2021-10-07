@@ -1,0 +1,28 @@
+{
+  "userId": 90522,
+  "cartId": "21833bc6-05bb-48ac-8d21-df483e9f6266",
+  "preferredProducts": [
+    2551,
+    1053,
+    422,
+    1233,
+    3794
+  ],
+  "productReviews": [
+    {
+      "productId": 3265,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2016-06-08T02:03:59.3030374+03:00"
+    },
+    {
+      "productId": 4786,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-11-06T02:12:29.8304897+02:00"
+    },
+    {
+      "productId": 235,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-01-09T03:26:55.2352034+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 45711,
+  "cartId": "160d9266-f689-4cb6-9171-081804e0f011",
+  "preferredProducts": [
+    3041,
+    419,
+    1923,
+    3474,
+    468,
+    312,
+    932,
+    4567,
+    2493,
+    158
+  ],
+  "productReviews": [
+    {
+      "productId": 1973,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2016-11-21T18:38:34.9179115+02:00"
+    },
+    {
+      "productId": 4225,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-05-18T15:28:18.8533049+03:00"
+    },
+    {
+      "productId": 4293,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-06-14T09:02:53.6945255+03:00"
+    }
+  ]
+}

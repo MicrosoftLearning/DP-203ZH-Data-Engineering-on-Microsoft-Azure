@@ -1,0 +1,37 @@
+{
+  "userId": 65735,
+  "cartId": "c758dafd-4f87-4595-a61a-7e5764ec83aa",
+  "preferredProducts": [
+    2188,
+    2279,
+    3871,
+    1223,
+    198,
+    1102,
+    4405,
+    4349,
+    2764
+  ],
+  "productReviews": [
+    {
+      "productId": 623,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-02-16T21:21:33.8060456+02:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-04-04T02:38:51.083293+03:00"
+    },
+    {
+      "productId": 4483,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-02-09T02:40:39.6846791+02:00"
+    },
+    {
+      "productId": 156,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-01-03T07:05:10.1101367+02:00"
+    }
+  ]
+}

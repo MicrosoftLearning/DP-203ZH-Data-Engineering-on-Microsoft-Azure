@@ -1,0 +1,30 @@
+{
+  "userId": 88314,
+  "cartId": "f4a917ac-815f-45fd-a9d9-2364c8efa0ae",
+  "preferredProducts": [
+    4707,
+    4990,
+    1303,
+    1405,
+    362,
+    1787,
+    3957
+  ],
+  "productReviews": [
+    {
+      "productId": 1578,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2019-01-02T03:22:10.0352209+02:00"
+    },
+    {
+      "productId": 2863,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2019-04-26T03:37:56.1027713+03:00"
+    },
+    {
+      "productId": 2761,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2018-06-28T19:54:48.2712671+03:00"
+    }
+  ]
+}

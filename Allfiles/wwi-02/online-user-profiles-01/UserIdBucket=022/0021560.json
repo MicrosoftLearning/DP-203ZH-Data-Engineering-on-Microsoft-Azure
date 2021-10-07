@@ -1,0 +1,28 @@
+{
+  "userId": 21560,
+  "cartId": "670e75d0-2cfa-4b91-90bf-0225b7950b3e",
+  "preferredProducts": [
+    1212,
+    1461,
+    3058,
+    3285,
+    1568
+  ],
+  "productReviews": [
+    {
+      "productId": 314,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-01-21T16:39:40.5767513+02:00"
+    },
+    {
+      "productId": 617,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-10-04T23:06:51.195289+03:00"
+    },
+    {
+      "productId": 1915,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-06-05T06:45:37.8434255+03:00"
+    }
+  ]
+}

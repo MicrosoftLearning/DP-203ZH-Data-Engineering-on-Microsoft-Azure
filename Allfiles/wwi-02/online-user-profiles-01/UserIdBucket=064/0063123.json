@@ -1,0 +1,26 @@
+{
+  "userId": 63123,
+  "cartId": "c326d70e-49d9-411f-be67-2d4b63b86a5e",
+  "preferredProducts": [
+    1322,
+    3741,
+    3357
+  ],
+  "productReviews": [
+    {
+      "productId": 4598,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-10-13T15:51:21.3933637+03:00"
+    },
+    {
+      "productId": 1468,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2016-05-10T08:29:28.4541239+03:00"
+    },
+    {
+      "productId": 3765,
+      "reviewText": "This Corporate works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-12-31T14:01:05.7286717+02:00"
+    }
+  ]
+}

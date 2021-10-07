@@ -1,0 +1,31 @@
+{
+  "userId": 6175,
+  "cartId": "8c704d02-f32a-497f-ae0a-562468be1841",
+  "preferredProducts": [
+    2906,
+    3182,
+    1794,
+    1450,
+    742,
+    3350,
+    1721,
+    3125
+  ],
+  "productReviews": [
+    {
+      "productId": 1144,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-11-28T06:42:41.5491885+02:00"
+    },
+    {
+      "productId": 2285,
+      "reviewText": "i use it from now on when i'm in my safehouse.",
+      "reviewDate": "2019-08-08T00:03:02.6794532+03:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-12-19T04:43:46.8093063+02:00"
+    }
+  ]
+}

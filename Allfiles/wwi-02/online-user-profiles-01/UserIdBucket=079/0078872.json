@@ -1,0 +1,42 @@
+{
+  "userId": 78872,
+  "cartId": "1e5e5a50-baad-4506-bb8b-09d27f43ed9b",
+  "preferredProducts": [
+    1448,
+    3071,
+    4032,
+    1164,
+    3531,
+    4647,
+    2497,
+    2803,
+    4869
+  ],
+  "productReviews": [
+    {
+      "productId": 2584,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-05-23T04:48:14.0358282+03:00"
+    },
+    {
+      "productId": 4530,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2016-12-20T21:45:18.0909472+02:00"
+    },
+    {
+      "productId": 2895,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-10-17T13:06:57.6470758+03:00"
+    },
+    {
+      "productId": 1720,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2016-10-31T03:15:45.3119689+02:00"
+    },
+    {
+      "productId": 4944,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2018-07-02T21:46:39.4660997+03:00"
+    }
+  ]
+}

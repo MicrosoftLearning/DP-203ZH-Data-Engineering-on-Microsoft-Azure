@@ -1,0 +1,32 @@
+{
+  "userId": 16204,
+  "cartId": "d7c5ae97-3bed-4fe5-8b1b-1387588bc0e0",
+  "preferredProducts": [
+    2435,
+    3283,
+    3734,
+    904,
+    3886,
+    2860,
+    2476,
+    4609,
+    4824
+  ],
+  "productReviews": [
+    {
+      "productId": 2011,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-03-18T18:16:17.1788376+02:00"
+    },
+    {
+      "productId": 1536,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2020-05-08T13:52:51.3106829+03:00"
+    },
+    {
+      "productId": 1511,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-03-19T17:41:54.0280655+02:00"
+    }
+  ]
+}

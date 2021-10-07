@@ -1,0 +1,33 @@
+{
+  "userId": 20166,
+  "cartId": "6beac852-9b03-4bab-ac8d-d42f5fd726fe",
+  "preferredProducts": [
+    1518,
+    475,
+    2981,
+    3677,
+    4518
+  ],
+  "productReviews": [
+    {
+      "productId": 2791,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-04-03T08:04:20.3865284+03:00"
+    },
+    {
+      "productId": 4920,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-05-31T12:50:43.9786743+03:00"
+    },
+    {
+      "productId": 2508,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-11-05T05:39:56.7431621+02:00"
+    },
+    {
+      "productId": 3795,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-08-18T04:36:50.4146781+03:00"
+    }
+  ]
+}

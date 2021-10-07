@@ -1,0 +1,33 @@
+{
+  "userId": 73552,
+  "cartId": "fa3c62bc-b605-4bd4-a4ef-f897e53fc280",
+  "preferredProducts": [
+    1697,
+    4006,
+    917,
+    1051,
+    2564,
+    271,
+    2210,
+    2648,
+    1266,
+    2076
+  ],
+  "productReviews": [
+    {
+      "productId": 3225,
+      "reviewText": "this Awesome Fresh Pizza is slurpee.",
+      "reviewDate": "2016-06-15T16:28:26.5182795+03:00"
+    },
+    {
+      "productId": 3076,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-08-10T22:32:02.6042739+03:00"
+    },
+    {
+      "productId": 3808,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2019-03-23T17:37:49.6988528+02:00"
+    }
+  ]
+}

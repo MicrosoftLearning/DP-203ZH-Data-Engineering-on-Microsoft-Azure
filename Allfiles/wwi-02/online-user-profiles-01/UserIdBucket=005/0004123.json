@@ -1,0 +1,30 @@
+{
+  "userId": 4123,
+  "cartId": "668c5bdc-1d9e-4760-9213-f407939ecabf",
+  "preferredProducts": [
+    3406,
+    3932,
+    2060,
+    4711,
+    2335,
+    2655,
+    3831
+  ],
+  "productReviews": [
+    {
+      "productId": 3855,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2019-09-20T15:21:46.2546652+03:00"
+    },
+    {
+      "productId": 2622,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-12-25T14:35:07.3497615+02:00"
+    },
+    {
+      "productId": 2459,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-08-31T03:18:48.4332563+03:00"
+    }
+  ]
+}

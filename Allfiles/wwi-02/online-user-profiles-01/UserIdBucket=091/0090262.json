@@ -1,0 +1,35 @@
+{
+  "userId": 90262,
+  "cartId": "67cd1933-902a-4342-b47c-44086f6b899f",
+  "preferredProducts": [
+    1336,
+    4204,
+    3225,
+    4452,
+    3748,
+    3678,
+    4137
+  ],
+  "productReviews": [
+    {
+      "productId": 3402,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-03-09T18:21:01.880311+02:00"
+    },
+    {
+      "productId": 3223,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2018-09-07T00:37:26.8356107+03:00"
+    },
+    {
+      "productId": 284,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2016-06-08T10:42:22.9852494+03:00"
+    },
+    {
+      "productId": 4421,
+      "reviewText": "This calculate works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2020-05-05T13:11:01.2525536+03:00"
+    }
+  ]
+}

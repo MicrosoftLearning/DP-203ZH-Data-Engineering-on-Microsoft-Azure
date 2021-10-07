@@ -1,0 +1,31 @@
+{
+  "userId": 59412,
+  "cartId": "f3ffbb63-ed37-4369-a106-ad2cbe1519d4",
+  "preferredProducts": [
+    3170,
+    2004,
+    1497,
+    4621,
+    1438,
+    2902,
+    4146,
+    656
+  ],
+  "productReviews": [
+    {
+      "productId": 286,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-12-31T12:06:53.9821306+02:00"
+    },
+    {
+      "productId": 3490,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2016-07-04T12:13:47.3633688+03:00"
+    },
+    {
+      "productId": 931,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2020-01-26T01:10:33.403258+02:00"
+    }
+  ]
+}

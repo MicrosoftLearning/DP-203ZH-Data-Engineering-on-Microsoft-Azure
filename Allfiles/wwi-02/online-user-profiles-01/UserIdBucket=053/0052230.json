@@ -1,0 +1,42 @@
+{
+  "userId": 52230,
+  "cartId": "1ee9dd7d-361e-4210-98fe-545c9283b1bc",
+  "preferredProducts": [
+    828,
+    2583,
+    4210,
+    3286,
+    5,
+    2286,
+    3468,
+    1970,
+    1967
+  ],
+  "productReviews": [
+    {
+      "productId": 902,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-03-11T23:51:47.4944333+02:00"
+    },
+    {
+      "productId": 2252,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2016-06-11T22:32:54.5027336+03:00"
+    },
+    {
+      "productId": 66,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-01-03T10:08:51.4949343+02:00"
+    },
+    {
+      "productId": 1712,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-03-06T09:15:12.0716051+02:00"
+    },
+    {
+      "productId": 887,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2018-03-05T06:32:50.0134015+02:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 5569,
+  "cartId": "5de20363-1570-45f5-9e00-74ab690cd987",
+  "preferredProducts": [
+    4114,
+    2694,
+    4490,
+    1940,
+    3979,
+    771,
+    2256,
+    1764
+  ],
+  "productReviews": [
+    {
+      "productId": 478,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-03-23T06:19:38.294468+02:00"
+    },
+    {
+      "productId": 699,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-07-12T02:14:09.4744208+03:00"
+    },
+    {
+      "productId": 4324,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2019-11-19T06:50:38.992014+02:00"
+    },
+    {
+      "productId": 3718,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-11-03T08:46:46.9716717+02:00"
+    },
+    {
+      "productId": 859,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-09-23T20:50:31.170348+03:00"
+    }
+  ]
+}

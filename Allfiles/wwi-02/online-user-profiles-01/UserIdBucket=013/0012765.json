@@ -1,0 +1,36 @@
+{
+  "userId": 12765,
+  "cartId": "41dd9eaf-1796-4042-a024-ddc75bf0c2e0",
+  "preferredProducts": [
+    1009,
+    2302,
+    4958,
+    2295,
+    1421,
+    3276,
+    105,
+    2356
+  ],
+  "productReviews": [
+    {
+      "productId": 4928,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2020-05-01T21:38:04.9409872+03:00"
+    },
+    {
+      "productId": 4686,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2017-07-05T09:22:36.762548+03:00"
+    },
+    {
+      "productId": 3701,
+      "reviewText": "My neighbor Montserrat has one of these. She works as a circus performer and she says it looks shriveled.",
+      "reviewDate": "2019-05-18T10:33:32.375521+03:00"
+    },
+    {
+      "productId": 4260,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-03-10T09:16:07.2288427+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 63578,
+  "cartId": "e327f497-c3b0-4d08-89ea-315ca7773b1d",
+  "preferredProducts": [
+    3518,
+    4072,
+    4387,
+    575
+  ],
+  "productReviews": [
+    {
+      "productId": 181,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2019-06-27T04:55:00.4457439+03:00"
+    },
+    {
+      "productId": 3219,
+      "reviewText": "this redundant is nifty.",
+      "reviewDate": "2019-11-05T11:48:32.2275886+02:00"
+    },
+    {
+      "productId": 2422,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-11-30T09:33:50.9394653+02:00"
+    }
+  ]
+}

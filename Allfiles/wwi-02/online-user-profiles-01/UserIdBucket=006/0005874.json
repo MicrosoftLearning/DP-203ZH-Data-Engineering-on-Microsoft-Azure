@@ -1,0 +1,32 @@
+{
+  "userId": 5874,
+  "cartId": "a3564e60-8fcb-40f8-b6d3-8b1e16be58f9",
+  "preferredProducts": [
+    3710,
+    1627,
+    3333,
+    2293
+  ],
+  "productReviews": [
+    {
+      "productId": 1572,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-09-28T18:41:53.4351617+03:00"
+    },
+    {
+      "productId": 885,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-03-14T02:09:27.2735565+02:00"
+    },
+    {
+      "productId": 937,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-04-27T13:45:56.8195138+03:00"
+    },
+    {
+      "productId": 2893,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-02-09T01:36:39.8795294+02:00"
+    }
+  ]
+}

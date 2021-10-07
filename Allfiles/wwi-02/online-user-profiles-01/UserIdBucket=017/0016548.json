@@ -1,0 +1,37 @@
+{
+  "userId": 16548,
+  "cartId": "d3dd53d9-3952-4eed-bda0-e39c87092e3a",
+  "preferredProducts": [
+    556,
+    1685,
+    722,
+    341,
+    2918,
+    2287,
+    4864,
+    3700,
+    4068
+  ],
+  "productReviews": [
+    {
+      "productId": 2675,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-09-19T15:01:56.8699639+03:00"
+    },
+    {
+      "productId": 2816,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2019-01-12T02:30:01.9169523+02:00"
+    },
+    {
+      "productId": 36,
+      "reviewText": "This Gorgeous Granite Soap works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-11-25T23:37:46.1524132+02:00"
+    },
+    {
+      "productId": 3784,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-10-26T03:17:03.3858269+03:00"
+    }
+  ]
+}

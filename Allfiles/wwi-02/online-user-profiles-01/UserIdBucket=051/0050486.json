@@ -1,0 +1,29 @@
+{
+  "userId": 50486,
+  "cartId": "eb916d01-0301-46f7-b02a-cd2f61b64634",
+  "preferredProducts": [
+    3151,
+    4287,
+    1236,
+    599,
+    4187,
+    4144
+  ],
+  "productReviews": [
+    {
+      "productId": 4197,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-07-13T17:23:21.6894457+03:00"
+    },
+    {
+      "productId": 2138,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-10-19T00:20:24.7856455+03:00"
+    },
+    {
+      "productId": 4280,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2019-11-26T02:04:35.5724309+02:00"
+    }
+  ]
+}

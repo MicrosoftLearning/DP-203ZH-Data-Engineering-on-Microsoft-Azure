@@ -1,0 +1,35 @@
+{
+  "userId": 16739,
+  "cartId": "0e71e699-d811-49dd-b5d3-0e1226b3d1f9",
+  "preferredProducts": [
+    2589,
+    1703,
+    3044,
+    2080,
+    1697,
+    3923,
+    1959
+  ],
+  "productReviews": [
+    {
+      "productId": 4033,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-03-11T23:18:46.2999146+02:00"
+    },
+    {
+      "productId": 1597,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2016-06-30T08:00:24.2100436+03:00"
+    },
+    {
+      "productId": 3808,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2017-02-18T23:20:21.1161535+02:00"
+    },
+    {
+      "productId": 3174,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-05-06T11:46:35.4198083+03:00"
+    }
+  ]
+}

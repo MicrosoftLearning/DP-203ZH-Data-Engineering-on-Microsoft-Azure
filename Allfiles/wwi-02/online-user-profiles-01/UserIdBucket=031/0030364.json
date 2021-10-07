@@ -1,0 +1,36 @@
+{
+  "userId": 30364,
+  "cartId": "b79cd8ce-16d5-4fdc-a414-a874e00b62f7",
+  "preferredProducts": [
+    638,
+    297,
+    2439
+  ],
+  "productReviews": [
+    {
+      "productId": 4793,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2018-01-28T15:07:00.3525869+02:00"
+    },
+    {
+      "productId": 4239,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-04-25T02:07:56.1886245+03:00"
+    },
+    {
+      "productId": 2870,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2018-06-16T13:12:22.0620556+03:00"
+    },
+    {
+      "productId": 2717,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-04-01T18:28:34.1549793+03:00"
+    },
+    {
+      "productId": 1235,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2018-01-23T05:09:46.1195322+02:00"
+    }
+  ]
+}

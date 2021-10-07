@@ -1,0 +1,42 @@
+{
+  "userId": 23520,
+  "cartId": "bb60b1d1-38f1-468e-a0be-729e08a7cde0",
+  "preferredProducts": [
+    3101,
+    4536,
+    4314,
+    1378,
+    2381,
+    3530,
+    3602,
+    1813,
+    3566
+  ],
+  "productReviews": [
+    {
+      "productId": 268,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-10-26T02:06:11.489705+03:00"
+    },
+    {
+      "productId": 1925,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-12-03T09:14:50.8048986+02:00"
+    },
+    {
+      "productId": 2180,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-12-19T14:29:06.5403345+02:00"
+    },
+    {
+      "productId": 4471,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2018-01-28T04:01:24.4338398+02:00"
+    },
+    {
+      "productId": 2764,
+      "reviewText": "this Executive is dominant.",
+      "reviewDate": "2016-10-02T19:49:13.530721+03:00"
+    }
+  ]
+}

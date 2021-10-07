@@ -1,0 +1,30 @@
+{
+  "userId": 10428,
+  "cartId": "9f5d8696-188e-4267-8707-56c926af8343",
+  "preferredProducts": [
+    2901,
+    4945,
+    1310,
+    4873,
+    731,
+    2894,
+    3548
+  ],
+  "productReviews": [
+    {
+      "productId": 1038,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2016-09-09T01:43:42.9283401+03:00"
+    },
+    {
+      "productId": 2474,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-01-04T04:05:12.2538639+02:00"
+    },
+    {
+      "productId": 535,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-09-29T19:55:29.3997899+03:00"
+    }
+  ]
+}

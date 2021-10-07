@@ -1,0 +1,32 @@
+{
+  "userId": 74114,
+  "cartId": "fd822123-d139-422a-8d5c-cc6abca5eeb6",
+  "preferredProducts": [
+    3548,
+    2239,
+    3149,
+    303
+  ],
+  "productReviews": [
+    {
+      "productId": 4481,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-08-25T08:27:00.6682282+03:00"
+    },
+    {
+      "productId": 4162,
+      "reviewText": "this programming is flirty.",
+      "reviewDate": "2018-01-21T22:42:59.0628747+02:00"
+    },
+    {
+      "productId": 4052,
+      "reviewText": "this alarm is standard.",
+      "reviewDate": "2017-03-08T07:08:22.1261432+02:00"
+    },
+    {
+      "productId": 2098,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-12-12T12:29:40.4995196+02:00"
+    }
+  ]
+}

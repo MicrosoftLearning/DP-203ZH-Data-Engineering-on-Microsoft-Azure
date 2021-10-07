@@ -1,0 +1,31 @@
+{
+  "userId": 42734,
+  "cartId": "b10afae8-dbf4-40be-aa8f-dc9c0dc8f0ec",
+  "preferredProducts": [
+    2945,
+    3537,
+    3008
+  ],
+  "productReviews": [
+    {
+      "productId": 4416,
+      "reviewText": "this harness is hyper.",
+      "reviewDate": "2017-09-11T11:39:44.5375321+03:00"
+    },
+    {
+      "productId": 1969,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-04-24T07:53:31.8243503+03:00"
+    },
+    {
+      "productId": 4830,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2017-01-21T21:25:45.5387185+02:00"
+    },
+    {
+      "productId": 807,
+      "reviewText": "this Thailand is tasty.",
+      "reviewDate": "2019-08-14T13:07:05.962107+03:00"
+    }
+  ]
+}

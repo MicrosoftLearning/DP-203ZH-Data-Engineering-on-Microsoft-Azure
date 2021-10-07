@@ -1,0 +1,33 @@
+{
+  "userId": 52941,
+  "cartId": "ada28cd3-d14d-445a-91f9-e9423a2465be",
+  "preferredProducts": [
+    3932,
+    2363,
+    590,
+    51,
+    753,
+    1808,
+    3981,
+    3874,
+    1118,
+    1335
+  ],
+  "productReviews": [
+    {
+      "productId": 1971,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2019-10-22T17:12:25.4848035+03:00"
+    },
+    {
+      "productId": 4856,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-11-30T19:13:32.2093149+02:00"
+    },
+    {
+      "productId": 4243,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-01-07T05:07:57.0751112+02:00"
+    }
+  ]
+}

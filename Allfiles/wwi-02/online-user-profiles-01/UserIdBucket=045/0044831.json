@@ -1,0 +1,32 @@
+{
+  "userId": 44831,
+  "cartId": "a94b1a31-8661-4bc7-aa1e-3c52edc6ae24",
+  "preferredProducts": [
+    3084,
+    3143,
+    3660,
+    4222
+  ],
+  "productReviews": [
+    {
+      "productId": 3810,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-02-23T12:01:47.8914872+02:00"
+    },
+    {
+      "productId": 3040,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-11-15T00:06:23.6508719+02:00"
+    },
+    {
+      "productId": 4804,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-07-08T23:45:02.7953797+03:00"
+    },
+    {
+      "productId": 3048,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-05-07T05:12:01.1912152+03:00"
+    }
+  ]
+}

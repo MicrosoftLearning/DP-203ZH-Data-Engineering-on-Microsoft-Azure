@@ -1,0 +1,33 @@
+{
+  "userId": 1746,
+  "cartId": "5d0cec1e-7579-4dd3-8462-4dc90b117543",
+  "preferredProducts": [
+    4830,
+    3353,
+    3635,
+    1110,
+    2221
+  ],
+  "productReviews": [
+    {
+      "productId": 1084,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-04-10T13:02:21.7386157+03:00"
+    },
+    {
+      "productId": 2459,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-09-03T05:00:35.0909366+03:00"
+    },
+    {
+      "productId": 1793,
+      "reviewText": "this invoice is revolting.",
+      "reviewDate": "2018-09-21T18:02:01.5584342+03:00"
+    },
+    {
+      "productId": 1563,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2017-08-05T00:46:49.0693991+03:00"
+    }
+  ]
+}

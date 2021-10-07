@@ -1,0 +1,25 @@
+{
+  "userId": 43139,
+  "cartId": "5dcfc962-2590-43d0-b8b0-50b0c66098ba",
+  "preferredProducts": [
+    4874,
+    1256
+  ],
+  "productReviews": [
+    {
+      "productId": 2136,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-05-08T03:09:22.1771207+03:00"
+    },
+    {
+      "productId": 2424,
+      "reviewText": "this Practical is mellow.",
+      "reviewDate": "2019-08-08T00:13:20.1525502+03:00"
+    },
+    {
+      "productId": 989,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-09-20T06:01:46.9461051+03:00"
+    }
+  ]
+}

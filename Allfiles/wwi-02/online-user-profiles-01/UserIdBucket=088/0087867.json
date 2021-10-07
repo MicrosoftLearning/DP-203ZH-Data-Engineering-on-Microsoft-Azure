@@ -1,0 +1,33 @@
+{
+  "userId": 87867,
+  "cartId": "f2e94d73-d8a4-4af8-a3a8-b3a435704f2e",
+  "preferredProducts": [
+    3912,
+    1926,
+    3911,
+    2293,
+    3561,
+    942,
+    781,
+    2567,
+    1067,
+    2798
+  ],
+  "productReviews": [
+    {
+      "productId": 255,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-04-01T17:22:29.2121402+03:00"
+    },
+    {
+      "productId": 3725,
+      "reviewText": "This Russian Ruble works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-07-04T04:20:48.7586103+03:00"
+    },
+    {
+      "productId": 1885,
+      "reviewText": "This JBOD works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-09-17T12:42:11.8154929+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 50250,
+  "cartId": "a5d622c4-39a0-4416-9507-89efd0c439a1",
+  "preferredProducts": [
+    296,
+    4044,
+    3312,
+    3072
+  ],
+  "productReviews": [
+    {
+      "productId": 2812,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2017-11-24T21:22:45.5183304+02:00"
+    },
+    {
+      "productId": 2946,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-06-08T19:55:16.631246+03:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2018-10-30T06:03:03.725403+02:00"
+    }
+  ]
+}

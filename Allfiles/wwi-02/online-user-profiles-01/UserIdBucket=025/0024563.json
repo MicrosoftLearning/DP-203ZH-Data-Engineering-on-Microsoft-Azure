@@ -1,0 +1,26 @@
+{
+  "userId": 24563,
+  "cartId": "d1ac9473-c4aa-442c-8cb2-026bc1415d0b",
+  "preferredProducts": [
+    1236,
+    685,
+    780
+  ],
+  "productReviews": [
+    {
+      "productId": 2817,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-11-16T18:33:56.5702702+02:00"
+    },
+    {
+      "productId": 3422,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-01-10T17:32:05.3964852+02:00"
+    },
+    {
+      "productId": 2440,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2018-03-12T18:35:04.4990684+02:00"
+    }
+  ]
+}

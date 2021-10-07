@@ -1,0 +1,30 @@
+{
+  "userId": 92824,
+  "cartId": "4180e365-9bcd-4a9f-96fd-5a347ce9a3d2",
+  "preferredProducts": [
+    2314,
+    3356,
+    2854,
+    3109,
+    2984,
+    4830,
+    4897
+  ],
+  "productReviews": [
+    {
+      "productId": 155,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-01-28T21:56:01.9760786+02:00"
+    },
+    {
+      "productId": 3600,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-04-16T06:53:33.1993614+03:00"
+    },
+    {
+      "productId": 402,
+      "reviewText": "this Universal is complimentary.",
+      "reviewDate": "2019-06-08T23:28:10.1908088+03:00"
+    }
+  ]
+}

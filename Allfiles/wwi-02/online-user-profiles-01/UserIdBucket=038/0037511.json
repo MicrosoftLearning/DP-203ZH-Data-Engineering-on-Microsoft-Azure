@@ -1,0 +1,40 @@
+{
+  "userId": 37511,
+  "cartId": "45c79176-e89e-44e9-88fc-f4b7993fcba5",
+  "preferredProducts": [
+    1002,
+    692,
+    2771,
+    3126,
+    2976,
+    511,
+    3662
+  ],
+  "productReviews": [
+    {
+      "productId": 2241,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-07-16T17:29:11.814906+03:00"
+    },
+    {
+      "productId": 4874,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-06-01T10:41:57.527002+03:00"
+    },
+    {
+      "productId": 4065,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-11-18T03:25:12.2739605+02:00"
+    },
+    {
+      "productId": 539,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-08-24T00:25:13.0578606+03:00"
+    },
+    {
+      "productId": 4821,
+      "reviewText": "this grey is top-notch.",
+      "reviewDate": "2018-03-10T12:16:02.9468046+02:00"
+    }
+  ]
+}

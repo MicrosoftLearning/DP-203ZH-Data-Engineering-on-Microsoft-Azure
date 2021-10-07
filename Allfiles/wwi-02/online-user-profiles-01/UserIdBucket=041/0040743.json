@@ -1,0 +1,27 @@
+{
+  "userId": 40743,
+  "cartId": "5ed9d2dc-b22e-4a6a-96b5-74c97c6fd399",
+  "preferredProducts": [
+    119,
+    664,
+    2114,
+    3725
+  ],
+  "productReviews": [
+    {
+      "productId": 4974,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-02-28T09:08:57.2153025+02:00"
+    },
+    {
+      "productId": 3037,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-03-29T16:23:58.5940464+03:00"
+    },
+    {
+      "productId": 263,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2017-05-05T07:18:53.4605105+03:00"
+    }
+  ]
+}

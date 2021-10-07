@@ -1,0 +1,31 @@
+{
+  "userId": 21389,
+  "cartId": "fd3c4e0b-8c3f-42f5-86a5-7b7e0bd1ef02",
+  "preferredProducts": [
+    1791,
+    2183,
+    4838,
+    1900,
+    4126,
+    322,
+    1860,
+    1626
+  ],
+  "productReviews": [
+    {
+      "productId": 2767,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2018-11-16T06:38:46.1261931+02:00"
+    },
+    {
+      "productId": 2945,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2020-03-24T06:52:43.780964+02:00"
+    },
+    {
+      "productId": 1765,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-03-30T15:22:37.2848058+03:00"
+    }
+  ]
+}

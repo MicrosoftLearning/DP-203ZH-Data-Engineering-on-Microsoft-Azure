@@ -1,0 +1,27 @@
+{
+  "userId": 3085,
+  "cartId": "3a998204-ce26-459f-9555-97f6cb00bc41",
+  "preferredProducts": [
+    3080,
+    831,
+    859,
+    4821
+  ],
+  "productReviews": [
+    {
+      "productId": 4145,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-07-11T17:12:34.1307606+03:00"
+    },
+    {
+      "productId": 3850,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2017-02-23T15:21:37.176339+02:00"
+    },
+    {
+      "productId": 4244,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2019-03-29T06:44:05.9356228+02:00"
+    }
+  ]
+}

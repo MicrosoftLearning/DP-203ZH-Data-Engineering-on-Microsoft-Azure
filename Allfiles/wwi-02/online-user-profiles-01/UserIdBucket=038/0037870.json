@@ -1,0 +1,31 @@
+{
+  "userId": 37870,
+  "cartId": "14c53a54-64b9-4633-a2f2-43ece152dce2",
+  "preferredProducts": [
+    3910,
+    4150,
+    2598
+  ],
+  "productReviews": [
+    {
+      "productId": 703,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2016-08-19T09:26:43.2788429+03:00"
+    },
+    {
+      "productId": 4016,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-06-27T14:42:03.1613513+03:00"
+    },
+    {
+      "productId": 4650,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-08-14T17:27:02.4910083+03:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "This content works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2020-03-14T01:06:24.9518231+02:00"
+    }
+  ]
+}

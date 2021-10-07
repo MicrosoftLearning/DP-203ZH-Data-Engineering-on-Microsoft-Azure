@@ -1,0 +1,29 @@
+{
+  "userId": 98237,
+  "cartId": "93eb1d16-658d-450d-85ba-98e698aab20d",
+  "preferredProducts": [
+    3642,
+    3729,
+    257,
+    2025,
+    213,
+    1567
+  ],
+  "productReviews": [
+    {
+      "productId": 1631,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-08-22T02:28:46.1428623+03:00"
+    },
+    {
+      "productId": 2776,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2018-02-25T06:13:18.4495238+02:00"
+    },
+    {
+      "productId": 3741,
+      "reviewText": "This Practical works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2018-08-17T18:55:10.3340529+03:00"
+    }
+  ]
+}

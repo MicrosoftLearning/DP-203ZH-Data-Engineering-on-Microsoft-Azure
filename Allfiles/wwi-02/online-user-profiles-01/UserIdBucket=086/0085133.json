@@ -1,0 +1,35 @@
+{
+  "userId": 85133,
+  "cartId": "b81c421e-95e0-43e1-a29e-f962bb383eac",
+  "preferredProducts": [
+    4047,
+    3908
+  ],
+  "productReviews": [
+    {
+      "productId": 3673,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2017-01-13T14:27:16.292602+02:00"
+    },
+    {
+      "productId": 1241,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2019-03-16T20:52:37.8179033+02:00"
+    },
+    {
+      "productId": 3163,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-07-28T15:30:13.8787228+03:00"
+    },
+    {
+      "productId": 2698,
+      "reviewText": "this SQL is perplexed.",
+      "reviewDate": "2019-03-02T04:14:43.3752365+02:00"
+    },
+    {
+      "productId": 2990,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-06-24T13:54:18.7209331+03:00"
+    }
+  ]
+}

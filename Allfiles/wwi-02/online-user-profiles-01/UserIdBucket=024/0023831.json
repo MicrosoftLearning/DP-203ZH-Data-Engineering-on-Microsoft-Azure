@@ -1,0 +1,25 @@
+{
+  "userId": 23831,
+  "cartId": "0a8abd3c-89ea-49c9-b7a8-c89c0bb40225",
+  "preferredProducts": [
+    4667,
+    3605
+  ],
+  "productReviews": [
+    {
+      "productId": 1887,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2019-03-20T08:37:05.7935794+02:00"
+    },
+    {
+      "productId": 3271,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2019-08-11T09:16:11.8124909+03:00"
+    },
+    {
+      "productId": 3382,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2019-03-24T00:35:13.7395012+02:00"
+    }
+  ]
+}

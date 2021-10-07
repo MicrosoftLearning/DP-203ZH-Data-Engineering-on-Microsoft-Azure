@@ -1,0 +1,33 @@
+{
+  "userId": 58561,
+  "cartId": "16abec9b-22ff-4591-a4ee-8677f97bae01",
+  "preferredProducts": [
+    4413,
+    2379,
+    331,
+    4199,
+    1823,
+    1105,
+    1394,
+    1581,
+    4343,
+    452
+  ],
+  "productReviews": [
+    {
+      "productId": 4120,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-11T03:50:44.5554837+03:00"
+    },
+    {
+      "productId": 1650,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2018-10-21T00:36:57.9600498+03:00"
+    },
+    {
+      "productId": 2943,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2020-05-01T10:20:19.0413136+03:00"
+    }
+  ]
+}

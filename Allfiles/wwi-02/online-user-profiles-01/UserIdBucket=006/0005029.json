@@ -1,0 +1,36 @@
+{
+  "userId": 5029,
+  "cartId": "34ceb21a-e06f-408a-9f88-4c933795e3ab",
+  "preferredProducts": [
+    3196,
+    3836,
+    2442,
+    1148,
+    4220,
+    1360,
+    2964,
+    4128
+  ],
+  "productReviews": [
+    {
+      "productId": 1668,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2016-11-02T02:45:46.8298957+02:00"
+    },
+    {
+      "productId": 1314,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2019-03-24T07:00:05.1632461+02:00"
+    },
+    {
+      "productId": 2077,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2019-12-14T05:54:37.2191528+02:00"
+    },
+    {
+      "productId": 4268,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2016-08-10T08:04:25.6149448+03:00"
+    }
+  ]
+}

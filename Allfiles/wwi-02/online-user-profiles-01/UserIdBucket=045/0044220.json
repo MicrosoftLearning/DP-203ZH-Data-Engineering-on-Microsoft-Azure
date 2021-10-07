@@ -1,0 +1,34 @@
+{
+  "userId": 44220,
+  "cartId": "2b559ccc-f344-400e-bae5-8f9ca2d3ee9c",
+  "preferredProducts": [
+    3324,
+    2,
+    4571,
+    2401,
+    3870,
+    2798
+  ],
+  "productReviews": [
+    {
+      "productId": 1191,
+      "reviewText": "this productize is light-hearted.",
+      "reviewDate": "2017-08-19T08:39:04.8121833+03:00"
+    },
+    {
+      "productId": 1348,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2017-12-14T18:28:36.4881862+02:00"
+    },
+    {
+      "productId": 707,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2020-04-03T07:28:23.7033566+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2018-11-13T04:22:04.7656809+02:00"
+    }
+  ]
+}

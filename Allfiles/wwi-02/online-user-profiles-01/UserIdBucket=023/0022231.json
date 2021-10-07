@@ -1,0 +1,29 @@
+{
+  "userId": 22231,
+  "cartId": "3c36ea82-be99-4a21-aec3-6fc2cfd2e8f7",
+  "preferredProducts": [
+    250,
+    3993,
+    4089,
+    4082,
+    3614,
+    1630
+  ],
+  "productReviews": [
+    {
+      "productId": 4664,
+      "reviewText": "works okay.",
+      "reviewDate": "2017-09-18T00:25:21.3708329+03:00"
+    },
+    {
+      "productId": 4455,
+      "reviewText": "this auxiliary is smooth.",
+      "reviewDate": "2019-01-25T10:57:19.4218472+02:00"
+    },
+    {
+      "productId": 2209,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-05-30T13:28:11.7510689+03:00"
+    }
+  ]
+}

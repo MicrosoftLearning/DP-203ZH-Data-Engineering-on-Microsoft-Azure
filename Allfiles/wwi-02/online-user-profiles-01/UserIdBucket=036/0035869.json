@@ -1,0 +1,30 @@
+{
+  "userId": 35869,
+  "cartId": "f7499e13-029c-4d5c-9c3a-30a53b720e1d",
+  "preferredProducts": [
+    4733,
+    1319
+  ],
+  "productReviews": [
+    {
+      "productId": 3779,
+      "reviewText": "this Singapore Dollar is snowy.",
+      "reviewDate": "2018-08-13T14:37:19.4983336+03:00"
+    },
+    {
+      "productId": 2210,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2018-06-09T12:13:25.5754266+03:00"
+    },
+    {
+      "productId": 4902,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2017-10-10T13:39:49.2901913+03:00"
+    },
+    {
+      "productId": 3162,
+      "reviewText": "This XSS works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2018-02-21T12:25:13.2598366+02:00"
+    }
+  ]
+}

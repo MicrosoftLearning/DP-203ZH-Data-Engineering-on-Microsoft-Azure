@@ -1,0 +1,32 @@
+{
+  "userId": 92388,
+  "cartId": "a8b49506-bcfa-461a-9939-15b1f9a0260f",
+  "preferredProducts": [
+    1233,
+    4582,
+    2841,
+    1543
+  ],
+  "productReviews": [
+    {
+      "productId": 1738,
+      "reviewText": "this front-end is tasty.",
+      "reviewDate": "2019-05-12T18:56:12.6709477+03:00"
+    },
+    {
+      "productId": 4934,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2020-03-25T01:34:28.2165955+02:00"
+    },
+    {
+      "productId": 3135,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-06-09T18:20:39.1161311+03:00"
+    },
+    {
+      "productId": 3323,
+      "reviewText": "This Center works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-04-19T16:47:01.113814+03:00"
+    }
+  ]
+}

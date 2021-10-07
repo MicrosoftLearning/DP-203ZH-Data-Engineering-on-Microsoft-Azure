@@ -1,0 +1,30 @@
+{
+  "userId": 25123,
+  "cartId": "6fff71a8-2f94-4238-a70a-157068d44085",
+  "preferredProducts": [
+    2639,
+    4850,
+    3570,
+    4777,
+    734,
+    2212,
+    1369
+  ],
+  "productReviews": [
+    {
+      "productId": 2072,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2016-10-19T15:10:20.6778591+03:00"
+    },
+    {
+      "productId": 4770,
+      "reviewText": "heard about this on dance-rock radio, decided to give it a try.",
+      "reviewDate": "2019-07-17T13:41:27.6440706+03:00"
+    },
+    {
+      "productId": 3125,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-06-24T07:41:35.7969088+03:00"
+    }
+  ]
+}

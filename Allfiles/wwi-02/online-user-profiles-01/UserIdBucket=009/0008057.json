@@ -1,0 +1,38 @@
+{
+  "userId": 8057,
+  "cartId": "cf53a9f9-be2d-4d5f-aab6-58c9a34cc567",
+  "preferredProducts": [
+    1860,
+    1592,
+    2493,
+    4780,
+    1395
+  ],
+  "productReviews": [
+    {
+      "productId": 2345,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-07-27T22:50:47.1004518+03:00"
+    },
+    {
+      "productId": 2035,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2020-05-09T20:36:27.4377968+03:00"
+    },
+    {
+      "productId": 212,
+      "reviewText": "i use it barely when i'm in my store.",
+      "reviewDate": "2016-10-08T19:05:04.7853844+03:00"
+    },
+    {
+      "productId": 137,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-08-02T20:07:03.3503734+03:00"
+    },
+    {
+      "productId": 2384,
+      "reviewText": "It only works when I'm Mauritania.",
+      "reviewDate": "2018-08-30T09:13:32.9474283+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 29556,
+  "cartId": "f0fc9f30-2f87-4132-a389-3b7702ee19f9",
+  "preferredProducts": [
+    690,
+    1095,
+    2312,
+    1098,
+    1322,
+    4345,
+    252,
+    4352
+  ],
+  "productReviews": [
+    {
+      "productId": 3178,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2020-02-03T10:29:26.0302677+02:00"
+    },
+    {
+      "productId": 4197,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-07-10T05:26:27.1956603+03:00"
+    },
+    {
+      "productId": 1701,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-05-04T10:30:23.0056721+03:00"
+    }
+  ]
+}

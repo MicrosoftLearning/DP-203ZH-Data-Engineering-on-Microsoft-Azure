@@ -1,0 +1,37 @@
+{
+  "userId": 30601,
+  "cartId": "2cf2e049-a4ba-410e-bb7a-5ccb4f824dd1",
+  "preferredProducts": [
+    153,
+    4814,
+    3114,
+    1217,
+    4086,
+    3532,
+    2699,
+    4240,
+    4133
+  ],
+  "productReviews": [
+    {
+      "productId": 3334,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-05-06T19:20:09.0741186+03:00"
+    },
+    {
+      "productId": 3561,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2019-12-01T01:07:00.7085077+02:00"
+    },
+    {
+      "productId": 1241,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-08-02T13:57:44.0546884+03:00"
+    },
+    {
+      "productId": 3551,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-09-16T19:09:07.0713258+03:00"
+    }
+  ]
+}

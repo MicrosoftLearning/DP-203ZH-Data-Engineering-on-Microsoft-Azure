@@ -1,0 +1,25 @@
+{
+  "userId": 18242,
+  "cartId": "0429d38f-8c41-4e4d-9faa-508c126efdd2",
+  "preferredProducts": [
+    4156,
+    1776
+  ],
+  "productReviews": [
+    {
+      "productId": 475,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-07-06T07:43:11.6282279+03:00"
+    },
+    {
+      "productId": 4489,
+      "reviewText": "This SAS, does exactly what it's suppose to do.",
+      "reviewDate": "2019-08-17T22:37:19.4671451+03:00"
+    },
+    {
+      "productId": 4045,
+      "reviewText": "I saw one of these in Haiti and I bought one.",
+      "reviewDate": "2017-10-31T14:35:39.6067898+02:00"
+    }
+  ]
+}

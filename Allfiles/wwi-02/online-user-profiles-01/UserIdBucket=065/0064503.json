@@ -1,0 +1,23 @@
+{
+  "userId": 64503,
+  "cartId": "8161664f-8ddf-4058-9251-d87023e57cfe",
+  "preferredProducts": [
+    505,
+    3765,
+    218,
+    2810,
+    2029
+  ],
+  "productReviews": [
+    {
+      "productId": 2544,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-01-20T19:01:17.4619153+02:00"
+    },
+    {
+      "productId": 153,
+      "reviewText": "This payment works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2019-10-23T04:31:43.2196084+03:00"
+    }
+  ]
+}

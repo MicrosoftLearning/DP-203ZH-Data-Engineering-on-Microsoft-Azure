@@ -1,0 +1,39 @@
+{
+  "userId": 93445,
+  "cartId": "44bd9b44-9b21-43d1-a5cc-5f642b0ad194",
+  "preferredProducts": [
+    1785,
+    1449,
+    3897,
+    1246,
+    1033,
+    4760
+  ],
+  "productReviews": [
+    {
+      "productId": 1295,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-11-24T12:43:24.8677654+02:00"
+    },
+    {
+      "productId": 3304,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2017-08-21T01:20:11.4972472+03:00"
+    },
+    {
+      "productId": 3873,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-08-29T19:20:14.9536299+03:00"
+    },
+    {
+      "productId": 4195,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-02-26T16:15:59.1888143+02:00"
+    },
+    {
+      "productId": 380,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2017-08-26T11:18:25.0987689+03:00"
+    }
+  ]
+}

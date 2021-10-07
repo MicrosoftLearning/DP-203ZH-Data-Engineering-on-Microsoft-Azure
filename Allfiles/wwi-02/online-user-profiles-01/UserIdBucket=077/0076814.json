@@ -1,0 +1,33 @@
+{
+  "userId": 76814,
+  "cartId": "1b731acc-329c-44bc-8d20-a4d607e8ead7",
+  "preferredProducts": [
+    3874,
+    3722,
+    3412,
+    233,
+    3585
+  ],
+  "productReviews": [
+    {
+      "productId": 1694,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2019-10-11T20:23:10.0859658+03:00"
+    },
+    {
+      "productId": 3430,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2019-01-20T08:29:18.7921429+02:00"
+    },
+    {
+      "productId": 2606,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2020-01-23T02:43:00.8465803+02:00"
+    },
+    {
+      "productId": 3244,
+      "reviewText": "My neighbor Isabela has one of these. She works as a taxidermist and she says it looks monochromatic.",
+      "reviewDate": "2018-03-25T10:35:24.6764462+03:00"
+    }
+  ]
+}

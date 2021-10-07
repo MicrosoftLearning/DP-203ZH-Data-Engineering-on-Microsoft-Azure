@@ -1,0 +1,32 @@
+{
+  "userId": 33334,
+  "cartId": "aa040fa3-c751-493b-83a3-fa4bd8e0038c",
+  "preferredProducts": [
+    388,
+    2207,
+    385,
+    467
+  ],
+  "productReviews": [
+    {
+      "productId": 2312,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2017-06-05T04:39:35.4773047+03:00"
+    },
+    {
+      "productId": 4297,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-06-28T18:52:11.8129401+03:00"
+    },
+    {
+      "productId": 654,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-04-05T07:40:22.3851757+03:00"
+    },
+    {
+      "productId": 4286,
+      "reviewText": "This Steel works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-02-05T20:23:16.358887+02:00"
+    }
+  ]
+}

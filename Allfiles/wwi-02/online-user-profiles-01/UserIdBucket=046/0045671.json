@@ -1,0 +1,27 @@
+{
+  "userId": 45671,
+  "cartId": "ba3d1ccc-d14f-44f8-9820-f1ad5529dc3a",
+  "preferredProducts": [
+    1421,
+    4803,
+    2309,
+    3464,
+    4665,
+    3667,
+    1537,
+    3692,
+    1820
+  ],
+  "productReviews": [
+    {
+      "productId": 338,
+      "reviewText": "this indexing is tasty.",
+      "reviewDate": "2017-12-25T15:38:39.4877372+02:00"
+    },
+    {
+      "productId": 1941,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2016-05-18T12:33:12.8893536+03:00"
+    }
+  ]
+}

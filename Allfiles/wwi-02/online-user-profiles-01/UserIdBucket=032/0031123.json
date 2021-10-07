@@ -1,0 +1,30 @@
+{
+  "userId": 31123,
+  "cartId": "136f4477-f809-43ad-926a-7346647f2295",
+  "preferredProducts": [
+    3625,
+    2792,
+    3646,
+    1455,
+    4431,
+    2238,
+    4765
+  ],
+  "productReviews": [
+    {
+      "productId": 3074,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2020-05-06T18:43:26.3000558+03:00"
+    },
+    {
+      "productId": 3384,
+      "reviewText": "This Palau works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2017-10-28T23:25:36.7562258+03:00"
+    },
+    {
+      "productId": 2813,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-07-16T13:33:56.734766+03:00"
+    }
+  ]
+}

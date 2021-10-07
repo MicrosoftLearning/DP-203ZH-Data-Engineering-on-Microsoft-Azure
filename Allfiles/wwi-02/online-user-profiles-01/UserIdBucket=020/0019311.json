@@ -1,0 +1,35 @@
+{
+  "userId": 19311,
+  "cartId": "4b9f6283-5513-483f-894b-d694794758f7",
+  "preferredProducts": [
+    4918,
+    1927,
+    298,
+    4415,
+    2168,
+    1129,
+    3152
+  ],
+  "productReviews": [
+    {
+      "productId": 2500,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-10-16T17:49:20.4949893+03:00"
+    },
+    {
+      "productId": 3922,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2020-03-23T22:29:53.7969838+02:00"
+    },
+    {
+      "productId": 3719,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-05-27T11:13:04.7549137+03:00"
+    },
+    {
+      "productId": 689,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2019-01-22T15:28:09.801348+02:00"
+    }
+  ]
+}

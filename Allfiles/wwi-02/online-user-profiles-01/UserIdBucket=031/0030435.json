@@ -1,0 +1,34 @@
+{
+  "userId": 30435,
+  "cartId": "99b38925-602d-459e-8c75-d49b85285a23",
+  "preferredProducts": [
+    3935,
+    470,
+    2730,
+    3876,
+    416,
+    4503
+  ],
+  "productReviews": [
+    {
+      "productId": 1845,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-11-20T13:14:21.21129+02:00"
+    },
+    {
+      "productId": 770,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2017-03-09T04:44:50.7167097+02:00"
+    },
+    {
+      "productId": 4422,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2020-02-27T02:36:32.9002051+02:00"
+    },
+    {
+      "productId": 1529,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2019-12-12T11:57:57.2185042+02:00"
+    }
+  ]
+}

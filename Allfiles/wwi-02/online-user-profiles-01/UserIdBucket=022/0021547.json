@@ -1,0 +1,33 @@
+{
+  "userId": 21547,
+  "cartId": "2e6a8a56-c482-4532-9ed9-61701686405d",
+  "preferredProducts": [
+    3740,
+    3119,
+    465,
+    4503,
+    1468,
+    307,
+    197,
+    4482,
+    1839,
+    4989
+  ],
+  "productReviews": [
+    {
+      "productId": 2808,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-07-13T01:51:18.1873599+03:00"
+    },
+    {
+      "productId": 1122,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2019-02-28T06:25:06.5384056+02:00"
+    },
+    {
+      "productId": 4578,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2019-12-29T06:16:56.1735005+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 50151,
+  "cartId": "9f65f33e-a34a-43ee-9f75-ba9727c1f5d3",
+  "preferredProducts": [
+    1911,
+    4530,
+    3889,
+    2200,
+    2117,
+    3464,
+    1775
+  ],
+  "productReviews": [
+    {
+      "productId": 4943,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2016-10-01T21:43:46.3238607+03:00"
+    },
+    {
+      "productId": 3652,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2018-08-09T01:06:50.0710312+03:00"
+    },
+    {
+      "productId": 70,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-11-01T17:07:17.9551052+02:00"
+    }
+  ]
+}

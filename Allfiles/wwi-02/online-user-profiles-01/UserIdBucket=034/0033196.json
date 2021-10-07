@@ -1,0 +1,33 @@
+{
+  "userId": 33196,
+  "cartId": "1c765cf6-1fd7-46d3-bb82-27c010f17b7a",
+  "preferredProducts": [
+    3750,
+    3933,
+    3559,
+    674,
+    3320
+  ],
+  "productReviews": [
+    {
+      "productId": 1336,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2016-09-09T11:39:30.6161115+03:00"
+    },
+    {
+      "productId": 3106,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-07-08T01:09:42.0079599+03:00"
+    },
+    {
+      "productId": 275,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-05-31T09:45:04.3570104+03:00"
+    },
+    {
+      "productId": 125,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-12-11T11:28:32.9216505+02:00"
+    }
+  ]
+}

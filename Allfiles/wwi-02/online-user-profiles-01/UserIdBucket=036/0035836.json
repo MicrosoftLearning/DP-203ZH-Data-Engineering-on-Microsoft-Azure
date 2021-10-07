@@ -1,0 +1,30 @@
+{
+  "userId": 35836,
+  "cartId": "14f8f512-3a36-4d69-aadc-8be88be79e83",
+  "preferredProducts": [
+    997,
+    1675
+  ],
+  "productReviews": [
+    {
+      "productId": 331,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2017-09-05T20:33:56.9036363+03:00"
+    },
+    {
+      "productId": 4167,
+      "reviewText": "this web-readiness is complimentary.",
+      "reviewDate": "2016-09-09T03:10:52.3554965+03:00"
+    },
+    {
+      "productId": 3665,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-05-16T12:22:40.4759556+03:00"
+    },
+    {
+      "productId": 4303,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-06-30T07:18:36.0222233+03:00"
+    }
+  ]
+}

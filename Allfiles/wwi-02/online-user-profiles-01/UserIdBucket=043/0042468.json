@@ -1,0 +1,37 @@
+{
+  "userId": 42468,
+  "cartId": "c303f1f1-433a-4600-b669-b176dc142fe9",
+  "preferredProducts": [
+    1218,
+    3273,
+    897,
+    3710
+  ],
+  "productReviews": [
+    {
+      "productId": 4828,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2018-01-15T04:38:29.6788109+02:00"
+    },
+    {
+      "productId": 131,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-05-23T04:15:48.1213321+03:00"
+    },
+    {
+      "productId": 269,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2020-01-17T23:29:31.1199073+02:00"
+    },
+    {
+      "productId": 2675,
+      "reviewText": "This application works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2016-06-01T20:53:42.4769095+03:00"
+    },
+    {
+      "productId": 3727,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2016-08-19T08:48:09.2387065+03:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 80999,
+  "cartId": "f31cc2a1-3010-43e3-967e-3b4405e6729a",
+  "preferredProducts": [
+    2033,
+    1857,
+    2913
+  ],
+  "productReviews": [
+    {
+      "productId": 3135,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-10-03T10:39:46.9369507+03:00"
+    },
+    {
+      "productId": 3540,
+      "reviewText": "This Skyway works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2020-05-08T04:04:46.0438606+03:00"
+    },
+    {
+      "productId": 511,
+      "reviewText": "works okay.",
+      "reviewDate": "2018-08-04T10:10:33.4466597+03:00"
+    }
+  ]
+}

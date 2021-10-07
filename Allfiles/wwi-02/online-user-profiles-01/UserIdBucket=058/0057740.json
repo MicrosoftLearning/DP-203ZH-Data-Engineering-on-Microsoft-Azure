@@ -1,0 +1,30 @@
+{
+  "userId": 57740,
+  "cartId": "18b9f7a8-5a4a-4fde-8da1-d45102210011",
+  "preferredProducts": [
+    3247,
+    1500
+  ],
+  "productReviews": [
+    {
+      "productId": 3032,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2019-05-09T18:27:08.46606+03:00"
+    },
+    {
+      "productId": 3757,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-01-09T06:30:01.2236365+02:00"
+    },
+    {
+      "productId": 1019,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2016-10-20T09:13:14.2257913+03:00"
+    },
+    {
+      "productId": 1036,
+      "reviewText": "this Steel is papery.",
+      "reviewDate": "2017-07-10T17:12:24.1216937+03:00"
+    }
+  ]
+}

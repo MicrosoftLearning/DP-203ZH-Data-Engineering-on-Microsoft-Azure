@@ -1,0 +1,34 @@
+{
+  "userId": 63080,
+  "cartId": "129a2c75-ba09-4fa5-b27e-efc1728bfe74",
+  "preferredProducts": [
+    1900,
+    680,
+    3813,
+    188,
+    4840,
+    3543
+  ],
+  "productReviews": [
+    {
+      "productId": 4058,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-03-05T10:43:02.5273939+02:00"
+    },
+    {
+      "productId": 124,
+      "reviewText": "this primary is top-notch.",
+      "reviewDate": "2020-02-03T01:01:40.1835425+02:00"
+    },
+    {
+      "productId": 4206,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-07-02T03:56:39.7592298+03:00"
+    },
+    {
+      "productId": 2518,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-01-14T00:56:52.9207344+02:00"
+    }
+  ]
+}

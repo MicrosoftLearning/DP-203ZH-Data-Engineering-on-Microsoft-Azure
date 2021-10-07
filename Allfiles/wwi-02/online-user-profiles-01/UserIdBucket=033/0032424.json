@@ -1,0 +1,36 @@
+{
+  "userId": 32424,
+  "cartId": "5764512a-4734-4739-804c-7b15a2ebd7c4",
+  "preferredProducts": [
+    4504,
+    2102,
+    1133
+  ],
+  "productReviews": [
+    {
+      "productId": 1293,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-07-04T12:49:52.6332559+03:00"
+    },
+    {
+      "productId": 2165,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2016-10-03T22:30:32.6346491+03:00"
+    },
+    {
+      "productId": 1004,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-04-09T03:15:05.0023686+03:00"
+    },
+    {
+      "productId": 1488,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-02-02T00:44:52.0509331+02:00"
+    },
+    {
+      "productId": 2328,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-01-28T21:34:55.3977278+02:00"
+    }
+  ]
+}

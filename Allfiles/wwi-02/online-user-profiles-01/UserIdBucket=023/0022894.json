@@ -1,0 +1,36 @@
+{
+  "userId": 22894,
+  "cartId": "a835d1bd-11b4-4afd-98d6-2a0a8eb3b9e9",
+  "preferredProducts": [
+    1975,
+    2035,
+    364,
+    2246,
+    622,
+    352,
+    4330,
+    3644
+  ],
+  "productReviews": [
+    {
+      "productId": 3170,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2019-02-12T03:20:32.9576371+02:00"
+    },
+    {
+      "productId": 673,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2016-06-11T21:30:44.0542234+03:00"
+    },
+    {
+      "productId": 236,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2020-01-08T03:28:53.4776893+02:00"
+    },
+    {
+      "productId": 1780,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2016-07-09T21:06:33.4925943+03:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "userId": 51334,
+  "cartId": "ddefc2a0-d5e0-42e3-a77d-c1373d293bee",
+  "preferredProducts": [
+    3925,
+    468,
+    902,
+    4489,
+    2690,
+    1928,
+    2805,
+    434,
+    617
+  ],
+  "productReviews": [
+    {
+      "productId": 1120,
+      "reviewText": "this Rubber is hyper.",
+      "reviewDate": "2018-07-29T12:38:59.4888378+03:00"
+    },
+    {
+      "productId": 3569,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-02-08T10:37:35.0606066+02:00"
+    },
+    {
+      "productId": 4843,
+      "reviewText": "this Sharable is perplexed.",
+      "reviewDate": "2019-09-10T00:27:25.9545549+03:00"
+    },
+    {
+      "productId": 4946,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-09-30T09:36:08.266086+03:00"
+    },
+    {
+      "productId": 53,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-09-17T16:37:19.9052491+03:00"
+    }
+  ]
+}

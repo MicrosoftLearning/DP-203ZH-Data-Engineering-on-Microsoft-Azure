@@ -1,0 +1,37 @@
+{
+  "userId": 18065,
+  "cartId": "632f0253-8267-4437-b9ed-dcb4a139d8b0",
+  "preferredProducts": [
+    195,
+    3602,
+    4815,
+    2814,
+    202,
+    83,
+    2001,
+    1153,
+    418
+  ],
+  "productReviews": [
+    {
+      "productId": 451,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2020-02-10T08:55:42.7607538+02:00"
+    },
+    {
+      "productId": 3788,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2019-10-11T07:55:50.2482811+03:00"
+    },
+    {
+      "productId": 3547,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2020-01-04T23:19:15.4935547+02:00"
+    },
+    {
+      "productId": 4605,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2018-02-02T15:34:49.3268488+02:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 65194,
+  "cartId": "8274576c-4e79-47ae-91e3-ea92e072e29e",
+  "preferredProducts": [
+    3155,
+    3694,
+    473,
+    3490,
+    3491,
+    316,
+    4456,
+    1149,
+    2817
+  ],
+  "productReviews": [
+    {
+      "productId": 1480,
+      "reviewText": "this Euro is ratty.",
+      "reviewDate": "2020-01-18T19:38:51.0290666+02:00"
+    },
+    {
+      "productId": 2531,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2019-11-26T07:32:35.2446785+02:00"
+    },
+    {
+      "productId": 1165,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2016-06-10T09:52:55.8422638+03:00"
+    }
+  ]
+}

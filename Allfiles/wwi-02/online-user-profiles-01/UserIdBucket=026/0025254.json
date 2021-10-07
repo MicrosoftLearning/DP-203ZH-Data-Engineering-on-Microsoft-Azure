@@ -1,0 +1,27 @@
+{
+  "userId": 25254,
+  "cartId": "faa7d029-e875-40b8-b6d9-bf08877c89fe",
+  "preferredProducts": [
+    2720,
+    4903,
+    1877,
+    2288
+  ],
+  "productReviews": [
+    {
+      "productId": 3409,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2020-04-22T14:00:12.8496501+03:00"
+    },
+    {
+      "productId": 4021,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2019-06-09T02:42:02.0052931+03:00"
+    },
+    {
+      "productId": 3996,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2020-03-06T01:58:42.3448844+02:00"
+    }
+  ]
+}

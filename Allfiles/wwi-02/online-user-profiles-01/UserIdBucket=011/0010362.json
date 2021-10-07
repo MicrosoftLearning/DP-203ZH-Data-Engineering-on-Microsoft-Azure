@@ -1,0 +1,33 @@
+{
+  "userId": 10362,
+  "cartId": "61d31b61-4e85-4050-9462-e3a8aba725da",
+  "preferredProducts": [
+    3157,
+    1911,
+    4112,
+    3222,
+    824
+  ],
+  "productReviews": [
+    {
+      "productId": 3692,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-06-29T23:31:51.4373562+03:00"
+    },
+    {
+      "productId": 3534,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2019-05-23T06:40:42.9680308+03:00"
+    },
+    {
+      "productId": 1370,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-08-13T11:55:37.9504933+03:00"
+    },
+    {
+      "productId": 1472,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2016-12-11T12:50:04.2194448+02:00"
+    }
+  ]
+}

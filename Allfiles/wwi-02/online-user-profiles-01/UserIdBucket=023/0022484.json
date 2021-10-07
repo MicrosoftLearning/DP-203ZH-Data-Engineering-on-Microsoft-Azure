@@ -1,0 +1,28 @@
+{
+  "userId": 22484,
+  "cartId": "7bb2b9fe-eacf-434b-8c57-3e2b46047ba3",
+  "preferredProducts": [
+    233,
+    3870,
+    2521,
+    4109,
+    1482
+  ],
+  "productReviews": [
+    {
+      "productId": 647,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2017-01-09T22:41:41.9368447+02:00"
+    },
+    {
+      "productId": 1821,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2019-09-19T21:59:39.6784025+03:00"
+    },
+    {
+      "productId": 2902,
+      "reviewText": "heard about this on alternative dance radio, decided to give it a try.",
+      "reviewDate": "2016-11-25T11:04:47.6544151+02:00"
+    }
+  ]
+}

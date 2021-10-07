@@ -1,0 +1,32 @@
+{
+  "userId": 1550,
+  "cartId": "e1395573-a740-4277-bcb7-599d6491f8a0",
+  "preferredProducts": [
+    2766,
+    3996,
+    4307,
+    2453,
+    1111,
+    2934,
+    3588,
+    2166,
+    2974
+  ],
+  "productReviews": [
+    {
+      "productId": 2453,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-02-01T13:09:42.2640395+02:00"
+    },
+    {
+      "productId": 2001,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2018-09-27T22:15:05.8965093+03:00"
+    },
+    {
+      "productId": 657,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2019-09-20T20:28:26.5984119+03:00"
+    }
+  ]
+}

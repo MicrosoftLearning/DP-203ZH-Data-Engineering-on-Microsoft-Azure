@@ -1,0 +1,37 @@
+{
+  "userId": 15,
+  "cartId": "be0caca1-608d-4dcc-9743-2df3c3454b05",
+  "preferredProducts": [
+    481,
+    2202,
+    1233,
+    4064,
+    2907,
+    4220,
+    4583,
+    165,
+    416
+  ],
+  "productReviews": [
+    {
+      "productId": 1025,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2017-11-17T06:52:19.9814535+02:00"
+    },
+    {
+      "productId": 2984,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-02-24T12:34:33.3994167+02:00"
+    },
+    {
+      "productId": 1166,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2020-03-30T13:31:14.0147324+03:00"
+    },
+    {
+      "productId": 1417,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-05-21T19:46:02.5813205+03:00"
+    }
+  ]
+}

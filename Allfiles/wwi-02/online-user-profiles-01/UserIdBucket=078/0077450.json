@@ -1,0 +1,32 @@
+{
+  "userId": 77450,
+  "cartId": "af866181-da19-4d38-903f-4df7c282f041",
+  "preferredProducts": [
+    1345,
+    1568,
+    3022,
+    1116
+  ],
+  "productReviews": [
+    {
+      "productId": 4160,
+      "reviewText": "this middleware is top-notch.",
+      "reviewDate": "2018-04-23T05:54:26.3828509+03:00"
+    },
+    {
+      "productId": 1279,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2019-04-17T19:48:53.4175752+03:00"
+    },
+    {
+      "productId": 3346,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-12-11T17:34:08.1996712+02:00"
+    },
+    {
+      "productId": 166,
+      "reviewText": "This compressing works quite well. It professionally improves my soccer by a lot.",
+      "reviewDate": "2016-07-04T22:51:53.4560388+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 93726,
+  "cartId": "ee2bf2e3-8adc-47e5-a006-cef7459c72cf",
+  "preferredProducts": [
+    865,
+    3689,
+    4346,
+    4138,
+    2770
+  ],
+  "productReviews": [
+    {
+      "productId": 2010,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-03-19T00:30:08.7657609+02:00"
+    },
+    {
+      "productId": 4528,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-02-17T20:30:43.570055+02:00"
+    },
+    {
+      "productId": 4560,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2018-11-25T17:04:43.3983501+02:00"
+    }
+  ]
+}

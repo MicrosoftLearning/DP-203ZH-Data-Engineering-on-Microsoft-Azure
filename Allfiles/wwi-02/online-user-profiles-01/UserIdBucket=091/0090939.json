@@ -1,0 +1,33 @@
+{
+  "userId": 90939,
+  "cartId": "2dde1bc5-25b3-4309-ada3-0eaaab07e870",
+  "preferredProducts": [
+    2648,
+    4596,
+    925,
+    4704,
+    437,
+    1821,
+    4980,
+    1143,
+    4375,
+    1163
+  ],
+  "productReviews": [
+    {
+      "productId": 4430,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-12-10T00:21:10.3837049+02:00"
+    },
+    {
+      "productId": 771,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-05-18T14:40:50.1339426+03:00"
+    },
+    {
+      "productId": 4789,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-07-20T17:20:56.5384936+03:00"
+    }
+  ]
+}

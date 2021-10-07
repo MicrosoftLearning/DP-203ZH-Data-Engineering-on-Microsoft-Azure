@@ -1,0 +1,40 @@
+{
+  "userId": 26756,
+  "cartId": "707aa4d4-ef43-4f55-ae82-71351699d0cd",
+  "preferredProducts": [
+    717,
+    3553,
+    3176,
+    1738,
+    261,
+    960,
+    2275
+  ],
+  "productReviews": [
+    {
+      "productId": 2800,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-02-07T12:07:44.558266+02:00"
+    },
+    {
+      "productId": 2117,
+      "reviewText": "this firewall is awesome.",
+      "reviewDate": "2019-06-11T23:45:31.2272011+03:00"
+    },
+    {
+      "productId": 4101,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-06-05T09:25:32.8035729+03:00"
+    },
+    {
+      "productId": 4076,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-02-02T09:33:09.7350638+02:00"
+    },
+    {
+      "productId": 4158,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-02-03T02:53:54.1999666+02:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 78944,
+  "cartId": "00bf128b-ebdf-40d3-89d9-55fe8c3c6fff",
+  "preferredProducts": [
+    4910,
+    4423,
+    1062,
+    1094
+  ],
+  "productReviews": [
+    {
+      "productId": 1769,
+      "reviewText": "This Synchronised works very well. It romantically improves my football by a lot.",
+      "reviewDate": "2017-04-13T07:17:22.3365831+03:00"
+    },
+    {
+      "productId": 4312,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-01-12T09:55:36.4351329+02:00"
+    },
+    {
+      "productId": 3771,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-12-10T20:22:35.9925609+02:00"
+    }
+  ]
+}

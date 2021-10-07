@@ -1,0 +1,33 @@
+{
+  "userId": 2704,
+  "cartId": "4df5e155-781d-4f0a-bac7-dca5d7a9e999",
+  "preferredProducts": [
+    666,
+    3785,
+    3703,
+    3407,
+    3612
+  ],
+  "productReviews": [
+    {
+      "productId": 2315,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2018-10-24T09:47:28.6638364+03:00"
+    },
+    {
+      "productId": 1008,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2019-03-13T13:20:14.591871+02:00"
+    },
+    {
+      "productId": 60,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2016-12-13T16:41:02.0674996+02:00"
+    },
+    {
+      "productId": 1490,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2019-06-09T20:01:15.8204947+03:00"
+    }
+  ]
+}

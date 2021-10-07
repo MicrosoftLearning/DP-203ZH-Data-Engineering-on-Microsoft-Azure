@@ -1,0 +1,32 @@
+{
+  "userId": 32432,
+  "cartId": "dd4c2b17-ebf5-4862-b3a1-f2f288a6400c",
+  "preferredProducts": [
+    3105,
+    4978,
+    1974,
+    543,
+    4979,
+    3731,
+    1385,
+    484,
+    2898
+  ],
+  "productReviews": [
+    {
+      "productId": 1691,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-07-18T14:12:10.1780174+03:00"
+    },
+    {
+      "productId": 1342,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2018-05-19T00:02:45.2291336+03:00"
+    },
+    {
+      "productId": 2340,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-12-08T14:02:54.4008807+02:00"
+    }
+  ]
+}

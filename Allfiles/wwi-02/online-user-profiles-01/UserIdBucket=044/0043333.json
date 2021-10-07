@@ -1,0 +1,26 @@
+{
+  "userId": 43333,
+  "cartId": "1c455823-7278-4c26-b497-3458e3c94684",
+  "preferredProducts": [
+    2589,
+    998,
+    1284
+  ],
+  "productReviews": [
+    {
+      "productId": 3173,
+      "reviewText": "This Plain works considerably well. It secretly improves my basketball by a lot.",
+      "reviewDate": "2019-12-14T07:57:00.7699333+02:00"
+    },
+    {
+      "productId": 335,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-10-26T05:18:36.6486876+03:00"
+    },
+    {
+      "productId": 2765,
+      "reviewText": "this Optimization is nifty.",
+      "reviewDate": "2016-07-03T23:24:34.8068673+03:00"
+    }
+  ]
+}

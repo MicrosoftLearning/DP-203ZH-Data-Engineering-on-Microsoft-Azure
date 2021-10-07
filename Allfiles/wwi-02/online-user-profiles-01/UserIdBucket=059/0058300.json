@@ -1,0 +1,24 @@
+{
+  "userId": 58300,
+  "cartId": "5342e575-853a-4fc7-ab86-d4b6cc95bced",
+  "preferredProducts": [
+    3874
+  ],
+  "productReviews": [
+    {
+      "productId": 648,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2017-10-03T12:55:33.1499978+03:00"
+    },
+    {
+      "productId": 2823,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2016-06-15T11:53:44.2670866+03:00"
+    },
+    {
+      "productId": 4975,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-10-06T08:14:44.6670705+03:00"
+    }
+  ]
+}

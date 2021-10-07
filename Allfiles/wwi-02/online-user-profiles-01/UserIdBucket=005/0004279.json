@@ -1,0 +1,25 @@
+{
+  "userId": 4279,
+  "cartId": "f0fe8a05-9b9e-4555-a543-d6d7622ab11e",
+  "preferredProducts": [
+    3681,
+    4866
+  ],
+  "productReviews": [
+    {
+      "productId": 3324,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-02-06T07:26:17.8005668+02:00"
+    },
+    {
+      "productId": 1007,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2017-11-02T23:56:52.6203715+02:00"
+    },
+    {
+      "productId": 447,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2016-06-18T20:14:03.0914804+03:00"
+    }
+  ]
+}

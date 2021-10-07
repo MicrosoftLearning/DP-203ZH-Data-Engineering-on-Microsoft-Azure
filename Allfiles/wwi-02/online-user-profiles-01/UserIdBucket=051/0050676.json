@@ -1,0 +1,28 @@
+{
+  "userId": 50676,
+  "cartId": "2510cb08-9256-4388-b072-184875545cfa",
+  "preferredProducts": [
+    1891,
+    3357,
+    4597,
+    3658,
+    1104
+  ],
+  "productReviews": [
+    {
+      "productId": 3240,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2018-11-22T18:09:55.7558809+02:00"
+    },
+    {
+      "productId": 3677,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-06-05T00:13:22.284576+03:00"
+    },
+    {
+      "productId": 2340,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2020-05-09T06:25:01.4369464+03:00"
+    }
+  ]
+}

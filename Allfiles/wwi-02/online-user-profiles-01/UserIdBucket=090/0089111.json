@@ -1,0 +1,29 @@
+{
+  "userId": 89111,
+  "cartId": "79c15cc0-d8a6-4444-8e0f-b4093baf7ce2",
+  "preferredProducts": [
+    1703,
+    2349,
+    3028,
+    4676,
+    2238,
+    1056
+  ],
+  "productReviews": [
+    {
+      "productId": 2334,
+      "reviewText": "this networks is mellow.",
+      "reviewDate": "2018-08-17T16:00:57.9965355+03:00"
+    },
+    {
+      "productId": 3640,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-06-02T12:19:46.5145603+03:00"
+    },
+    {
+      "productId": 1363,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2019-07-29T18:58:14.5761252+03:00"
+    }
+  ]
+}

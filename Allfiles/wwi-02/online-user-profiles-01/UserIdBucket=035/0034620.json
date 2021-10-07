@@ -1,0 +1,41 @@
+{
+  "userId": 34620,
+  "cartId": "2c08f2d8-d157-4c43-a08e-773ff75a3208",
+  "preferredProducts": [
+    7,
+    3142,
+    2124,
+    3747,
+    187,
+    4356,
+    4961,
+    4903
+  ],
+  "productReviews": [
+    {
+      "productId": 110,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2018-07-11T01:53:21.6517588+03:00"
+    },
+    {
+      "productId": 4883,
+      "reviewText": "this mesh is top-notch.",
+      "reviewDate": "2016-12-22T23:55:28.4223416+02:00"
+    },
+    {
+      "productId": 3175,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-10-26T11:06:14.5900715+03:00"
+    },
+    {
+      "productId": 4813,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-10-25T14:42:44.5861497+03:00"
+    },
+    {
+      "productId": 4104,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2019-09-12T10:32:31.7994294+03:00"
+    }
+  ]
+}

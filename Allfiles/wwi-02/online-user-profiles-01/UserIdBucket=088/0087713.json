@@ -1,0 +1,27 @@
+{
+  "userId": 87713,
+  "cartId": "1a1ebc6c-f8f1-45d2-8874-291e114b17fc",
+  "preferredProducts": [
+    3269,
+    1056,
+    2722,
+    3242
+  ],
+  "productReviews": [
+    {
+      "productId": 1420,
+      "reviewText": "This white works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-02-22T23:45:37.7989266+02:00"
+    },
+    {
+      "productId": 408,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2018-06-18T05:54:51.6705751+03:00"
+    },
+    {
+      "productId": 724,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-06-08T16:00:30.5190386+03:00"
+    }
+  ]
+}

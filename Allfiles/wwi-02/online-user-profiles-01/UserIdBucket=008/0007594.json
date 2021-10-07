@@ -1,0 +1,36 @@
+{
+  "userId": 7594,
+  "cartId": "27ed8765-b80f-4718-a7e2-68d97af07436",
+  "preferredProducts": [
+    3937,
+    2367,
+    1220,
+    1601,
+    1318,
+    4095,
+    725,
+    473
+  ],
+  "productReviews": [
+    {
+      "productId": 4255,
+      "reviewText": "this Infrastructure is mellow.",
+      "reviewDate": "2017-01-18T03:09:28.020557+02:00"
+    },
+    {
+      "productId": 3515,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2018-09-15T01:11:07.5440938+03:00"
+    },
+    {
+      "productId": 2344,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2018-02-12T01:42:27.9587237+02:00"
+    },
+    {
+      "productId": 1988,
+      "reviewText": "This Ethiopian Birr works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2017-06-03T04:00:42.7771868+03:00"
+    }
+  ]
+}

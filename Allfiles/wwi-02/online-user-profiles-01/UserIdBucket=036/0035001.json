@@ -1,0 +1,33 @@
+{
+  "userId": 35001,
+  "cartId": "486d4015-c3fd-417d-bfac-22bcb38e11a7",
+  "preferredProducts": [
+    3321,
+    4058,
+    4396,
+    1480,
+    3211,
+    1260,
+    4455,
+    2913,
+    4527,
+    2861
+  ],
+  "productReviews": [
+    {
+      "productId": 1017,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2020-02-15T07:29:59.3534789+02:00"
+    },
+    {
+      "productId": 3023,
+      "reviewText": "this reinvent is ratty.",
+      "reviewDate": "2016-11-03T12:06:20.2788856+02:00"
+    },
+    {
+      "productId": 2019,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2016-09-14T13:35:22.167818+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 21404,
+  "cartId": "3cafc386-07f3-4b9e-adcb-baaa484fe622",
+  "preferredProducts": [
+    1738,
+    100,
+    613,
+    1162,
+    4536
+  ],
+  "productReviews": [
+    {
+      "productId": 2035,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-03-16T06:47:58.3031096+02:00"
+    },
+    {
+      "productId": 3609,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2017-08-10T15:26:52.8862159+03:00"
+    },
+    {
+      "productId": 1391,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2017-10-16T01:45:31.0437529+03:00"
+    }
+  ]
+}

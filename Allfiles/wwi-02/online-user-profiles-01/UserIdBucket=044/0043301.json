@@ -1,0 +1,29 @@
+{
+  "userId": 43301,
+  "cartId": "f55b7e5a-e23a-4fc5-acc5-82b5486ebcff",
+  "preferredProducts": [
+    3749,
+    1953,
+    2651,
+    1512,
+    1110,
+    3446
+  ],
+  "productReviews": [
+    {
+      "productId": 679,
+      "reviewText": "this back up is snowy.",
+      "reviewDate": "2018-04-25T07:10:41.543804+03:00"
+    },
+    {
+      "productId": 4070,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2020-02-07T18:54:56.9994054+02:00"
+    },
+    {
+      "productId": 3542,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2017-08-09T05:08:39.5438557+03:00"
+    }
+  ]
+}

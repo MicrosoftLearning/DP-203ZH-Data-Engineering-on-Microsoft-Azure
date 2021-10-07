@@ -1,0 +1,39 @@
+{
+  "userId": 42729,
+  "cartId": "735208eb-44d4-452f-bd2b-b7ff1c897e81",
+  "preferredProducts": [
+    4826,
+    2327,
+    2913,
+    4779,
+    957,
+    2089
+  ],
+  "productReviews": [
+    {
+      "productId": 3096,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-02-12T01:53:09.8803802+02:00"
+    },
+    {
+      "productId": 1076,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2016-09-21T08:40:14.7264338+03:00"
+    },
+    {
+      "productId": 2136,
+      "reviewText": "this copying is top-notch.",
+      "reviewDate": "2018-08-29T00:49:57.1552009+03:00"
+    },
+    {
+      "productId": 1526,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-03-01T17:08:37.011472+02:00"
+    },
+    {
+      "productId": 2079,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2020-04-17T20:53:59.2166898+03:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 42947,
+  "cartId": "afff3349-44c1-4d8d-a7e6-79e53a2a8524",
+  "preferredProducts": [
+    1663,
+    4724,
+    3604,
+    2992,
+    1723,
+    3700
+  ],
+  "productReviews": [
+    {
+      "productId": 2929,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2019-02-18T06:11:23.1264968+02:00"
+    },
+    {
+      "productId": 3494,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2019-03-27T08:48:02.1703585+02:00"
+    },
+    {
+      "productId": 217,
+      "reviewText": "This Practical Fresh Ball works certainly well. It accidentally improves my baseball by a lot.",
+      "reviewDate": "2017-12-27T05:55:09.3315912+02:00"
+    }
+  ]
+}

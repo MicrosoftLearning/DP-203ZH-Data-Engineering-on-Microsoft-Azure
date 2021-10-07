@@ -1,0 +1,35 @@
+{
+  "userId": 8800,
+  "cartId": "b4049dd8-352a-4303-9bdd-bf2aaf2973fe",
+  "preferredProducts": [
+    4355,
+    605
+  ],
+  "productReviews": [
+    {
+      "productId": 2322,
+      "reviewText": "works okay.",
+      "reviewDate": "2020-04-27T09:11:04.6662602+03:00"
+    },
+    {
+      "productId": 1393,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2018-12-02T08:49:34.3461382+02:00"
+    },
+    {
+      "productId": 952,
+      "reviewText": "This intranet works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2020-04-16T17:55:38.0936119+03:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2016-12-18T08:12:53.6649016+02:00"
+    },
+    {
+      "productId": 2420,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-10-31T08:35:15.3841619+02:00"
+    }
+  ]
+}

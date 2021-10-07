@@ -1,0 +1,31 @@
+{
+  "userId": 308,
+  "cartId": "37b2f1bf-ddb0-48f6-b195-f2430c722729",
+  "preferredProducts": [
+    801,
+    1103,
+    2842,
+    3167,
+    971,
+    2105,
+    3706,
+    4107
+  ],
+  "productReviews": [
+    {
+      "productId": 2252,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2019-10-21T07:47:47.459659+03:00"
+    },
+    {
+      "productId": 2650,
+      "reviewText": "i use it centenially when i'm in my greenhouse.",
+      "reviewDate": "2017-01-28T23:01:07.4199397+02:00"
+    },
+    {
+      "productId": 384,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2016-06-02T17:44:08.2831478+03:00"
+    }
+  ]
+}

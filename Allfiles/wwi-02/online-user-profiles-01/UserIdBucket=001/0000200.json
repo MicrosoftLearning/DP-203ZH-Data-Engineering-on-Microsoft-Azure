@@ -1,0 +1,36 @@
+{
+  "userId": 200,
+  "cartId": "08527865-8f95-4616-b47c-70067db6428d",
+  "preferredProducts": [
+    144,
+    215,
+    1752
+  ],
+  "productReviews": [
+    {
+      "productId": 4685,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2019-09-23T10:24:36.144393+03:00"
+    },
+    {
+      "productId": 2460,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2017-04-01T03:54:45.6190829+03:00"
+    },
+    {
+      "productId": 4910,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2016-07-10T09:52:01.6619492+03:00"
+    },
+    {
+      "productId": 2426,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2017-05-11T16:07:14.1221508+03:00"
+    },
+    {
+      "productId": 1570,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2018-04-13T20:37:40.210816+03:00"
+    }
+  ]
+}

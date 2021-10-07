@@ -1,0 +1,38 @@
+{
+  "userId": 2062,
+  "cartId": "2c879c2b-a764-4d55-9b2a-aaa1af3b4d8a",
+  "preferredProducts": [
+    350,
+    1161,
+    809,
+    533,
+    933,
+    3425,
+    1712,
+    1525,
+    1833,
+    2518
+  ],
+  "productReviews": [
+    {
+      "productId": 485,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-12-05T21:56:24.9446383+02:00"
+    },
+    {
+      "productId": 1211,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2020-03-31T02:41:58.9632869+03:00"
+    },
+    {
+      "productId": 4826,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2017-09-03T03:00:11.0731585+03:00"
+    },
+    {
+      "productId": 2424,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2017-02-13T03:33:05.8995456+02:00"
+    }
+  ]
+}

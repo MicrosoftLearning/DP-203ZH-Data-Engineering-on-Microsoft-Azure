@@ -1,0 +1,39 @@
+{
+  "userId": 8314,
+  "cartId": "7496cb19-f170-4efe-9888-643a41c3e7cf",
+  "preferredProducts": [
+    3617,
+    2506,
+    3348,
+    1542,
+    1713,
+    3190
+  ],
+  "productReviews": [
+    {
+      "productId": 2135,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2016-08-25T05:42:29.8971655+03:00"
+    },
+    {
+      "productId": 1474,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2017-01-09T12:20:18.6798906+02:00"
+    },
+    {
+      "productId": 4487,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-06-16T19:53:41.0042179+03:00"
+    },
+    {
+      "productId": 3899,
+      "reviewText": "this encryption is dominant.",
+      "reviewDate": "2018-10-01T10:18:05.6550951+03:00"
+    },
+    {
+      "productId": 1050,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-08-31T10:54:44.1777146+03:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 73086,
+  "cartId": "5c578aaf-8813-4e26-897e-90c586fd15cd",
+  "preferredProducts": [
+    4989,
+    915,
+    3306,
+    3556,
+    1228,
+    1432,
+    637,
+    96
+  ],
+  "productReviews": [
+    {
+      "productId": 888,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-01-08T09:14:50.5464963+02:00"
+    },
+    {
+      "productId": 2127,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2017-02-04T21:37:25.7141513+02:00"
+    },
+    {
+      "productId": 4651,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2017-09-22T22:15:16.2262655+03:00"
+    }
+  ]
+}

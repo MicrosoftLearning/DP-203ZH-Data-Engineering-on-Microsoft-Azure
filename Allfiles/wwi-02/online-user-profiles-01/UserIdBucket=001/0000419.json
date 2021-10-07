@@ -1,0 +1,27 @@
+{
+  "userId": 419,
+  "cartId": "abf3974e-562f-479a-911b-5f62bbc1520a",
+  "preferredProducts": [
+    4102,
+    3444,
+    3254,
+    4495
+  ],
+  "productReviews": [
+    {
+      "productId": 2879,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2020-02-14T03:57:33.5846916+02:00"
+    },
+    {
+      "productId": 4193,
+      "reviewText": "This robust works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2017-08-27T01:24:47.1565606+03:00"
+    },
+    {
+      "productId": 2368,
+      "reviewText": "heard about this on mbube radio, decided to give it a try.",
+      "reviewDate": "2019-11-26T14:11:15.2797878+02:00"
+    }
+  ]
+}

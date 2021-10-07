@@ -1,0 +1,31 @@
+{
+  "userId": 34880,
+  "cartId": "65e048e8-66fc-4b3d-82c9-f167469143f8",
+  "preferredProducts": [
+    1325,
+    2925,
+    542,
+    1220,
+    4161,
+    3570,
+    1507,
+    4450
+  ],
+  "productReviews": [
+    {
+      "productId": 3284,
+      "reviewText": "The box this comes in is 5 inch by 6 mile and weights 15 ton!!",
+      "reviewDate": "2016-05-15T22:43:33.3641866+03:00"
+    },
+    {
+      "productId": 2967,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-01-06T04:37:47.8830503+02:00"
+    },
+    {
+      "productId": 3890,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2019-08-15T07:33:56.4983951+03:00"
+    }
+  ]
+}

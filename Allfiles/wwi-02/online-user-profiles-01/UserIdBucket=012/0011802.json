@@ -1,0 +1,30 @@
+{
+  "userId": 11802,
+  "cartId": "38d72dcf-2d76-41ca-9592-6ab1ecc22050",
+  "preferredProducts": [
+    3484,
+    3051,
+    1411,
+    2983,
+    1341,
+    157,
+    2594
+  ],
+  "productReviews": [
+    {
+      "productId": 12,
+      "reviewText": "this reboot is revolting.",
+      "reviewDate": "2019-07-11T10:20:06.0883176+03:00"
+    },
+    {
+      "productId": 4930,
+      "reviewText": "i use it daily when i'm in my courthouse.",
+      "reviewDate": "2018-01-23T08:52:40.8243184+02:00"
+    },
+    {
+      "productId": 1772,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2017-06-27T13:12:48.7897614+03:00"
+    }
+  ]
+}

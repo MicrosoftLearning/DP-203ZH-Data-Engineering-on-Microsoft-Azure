@@ -1,0 +1,23 @@
+{
+  "userId": 47347,
+  "cartId": "6e655c8f-a4ef-4271-affd-9d16a44c12ca",
+  "preferredProducts": [
+    1006,
+    3717,
+    4135,
+    2388,
+    4659
+  ],
+  "productReviews": [
+    {
+      "productId": 181,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2016-06-13T10:52:07.9968528+03:00"
+    },
+    {
+      "productId": 1601,
+      "reviewText": "This Awesome works really well. It sympathetically improves my baseball by a lot.",
+      "reviewDate": "2019-04-09T13:48:07.946912+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 12712,
+  "cartId": "fbf8f925-cdb0-48be-85a9-60dd682a936f",
+  "preferredProducts": [
+    901,
+    4578,
+    2882,
+    2098,
+    110,
+    3492,
+    3487,
+    2171,
+    4741
+  ],
+  "productReviews": [
+    {
+      "productId": 1231,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2017-08-08T03:10:37.816631+03:00"
+    },
+    {
+      "productId": 3702,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2018-01-30T19:01:29.8979325+02:00"
+    },
+    {
+      "productId": 2080,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-08-02T20:33:02.3080344+03:00"
+    }
+  ]
+}

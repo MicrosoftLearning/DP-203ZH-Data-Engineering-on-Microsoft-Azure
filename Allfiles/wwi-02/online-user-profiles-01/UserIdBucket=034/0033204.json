@@ -1,0 +1,36 @@
+{
+  "userId": 33204,
+  "cartId": "72bde1ad-cb9c-4d92-b39b-0cb75040b67f",
+  "preferredProducts": [
+    2265,
+    3495,
+    1873,
+    92,
+    3436,
+    1026,
+    138,
+    2827
+  ],
+  "productReviews": [
+    {
+      "productId": 2276,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-08-19T16:29:36.886287+03:00"
+    },
+    {
+      "productId": 4438,
+      "reviewText": "this content is revolting.",
+      "reviewDate": "2019-03-10T09:32:21.0906382+02:00"
+    },
+    {
+      "productId": 2340,
+      "reviewText": "one of my hobbies is guitar. and when i'm playing guitar this works great.",
+      "reviewDate": "2019-11-25T12:48:04.1303127+02:00"
+    },
+    {
+      "productId": 1836,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-12-13T20:11:15.7265087+02:00"
+    }
+  ]
+}

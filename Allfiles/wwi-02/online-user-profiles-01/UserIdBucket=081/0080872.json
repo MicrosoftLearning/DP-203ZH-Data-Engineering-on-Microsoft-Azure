@@ -1,0 +1,43 @@
+{
+  "userId": 80872,
+  "cartId": "a3d112d9-9afb-4338-8015-bfa9394eaea7",
+  "preferredProducts": [
+    3214,
+    1492,
+    2529,
+    3659,
+    4124,
+    4465,
+    2270,
+    100,
+    1858,
+    3349
+  ],
+  "productReviews": [
+    {
+      "productId": 3930,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2020-03-11T15:42:14.9942992+02:00"
+    },
+    {
+      "productId": 1788,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-07-02T23:22:39.042273+03:00"
+    },
+    {
+      "productId": 4271,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2018-10-13T18:40:38.760478+03:00"
+    },
+    {
+      "productId": 1912,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2018-08-28T03:13:48.7538592+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2018-01-17T00:30:03.2207099+02:00"
+    }
+  ]
+}

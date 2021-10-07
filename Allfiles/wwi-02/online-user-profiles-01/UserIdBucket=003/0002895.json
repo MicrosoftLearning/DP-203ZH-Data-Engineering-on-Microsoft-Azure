@@ -1,0 +1,35 @@
+{
+  "userId": 2895,
+  "cartId": "311d8e61-99df-4960-ba6d-98ffac9649d0",
+  "preferredProducts": [
+    3596,
+    1480,
+    1746,
+    3502,
+    965,
+    543,
+    3631
+  ],
+  "productReviews": [
+    {
+      "productId": 1037,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-01-31T20:32:49.1434678+02:00"
+    },
+    {
+      "productId": 747,
+      "reviewText": "this New York is mellow.",
+      "reviewDate": "2018-03-06T06:21:15.0452135+02:00"
+    },
+    {
+      "productId": 133,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-06-24T06:21:24.1964438+03:00"
+    },
+    {
+      "productId": 1207,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2018-05-24T16:57:13.0418474+03:00"
+    }
+  ]
+}

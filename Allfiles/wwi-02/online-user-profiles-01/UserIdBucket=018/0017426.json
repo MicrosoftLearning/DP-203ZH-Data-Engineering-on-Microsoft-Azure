@@ -1,0 +1,32 @@
+{
+  "userId": 17426,
+  "cartId": "9fdc113c-c841-4b15-8ea9-6814a9ad07b1",
+  "preferredProducts": [
+    2007,
+    3601,
+    1206,
+    3688
+  ],
+  "productReviews": [
+    {
+      "productId": 1317,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2017-09-10T02:42:04.8308738+03:00"
+    },
+    {
+      "productId": 3397,
+      "reviewText": "this Mountains is slurpee.",
+      "reviewDate": "2016-09-28T15:29:35.5343708+03:00"
+    },
+    {
+      "productId": 4758,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-06-03T09:36:02.7555253+03:00"
+    },
+    {
+      "productId": 4087,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2019-02-10T04:15:30.307112+02:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": 16215,
+  "cartId": "61026029-c9a3-481c-905b-2c7eaf104fc5",
+  "preferredProducts": [
+    3930,
+    2852,
+    1286
+  ],
+  "productReviews": [
+    {
+      "productId": 4286,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-05-06T14:09:24.2904769+03:00"
+    },
+    {
+      "productId": 3919,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-07-28T11:33:58.1839175+03:00"
+    },
+    {
+      "productId": 702,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2018-06-15T03:43:26.5195785+03:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 42732,
+  "cartId": "5bf4fb21-86a6-4032-bdf0-47a110f1866e",
+  "preferredProducts": [
+    1892,
+    3037,
+    877,
+    2971,
+    4306
+  ],
+  "productReviews": [
+    {
+      "productId": 3215,
+      "reviewText": "I tried to annihilate it but got bonbon all over it.",
+      "reviewDate": "2020-03-25T20:26:09.7403603+02:00"
+    },
+    {
+      "productId": 2751,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2020-02-28T16:53:25.9220452+02:00"
+    },
+    {
+      "productId": 3612,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2016-06-26T15:53:13.9504895+03:00"
+    },
+    {
+      "productId": 138,
+      "reviewText": "This Plastic works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2017-04-18T15:19:08.0503905+03:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "userId": 50361,
+  "cartId": "6a8514d9-210c-4347-a326-d4a3679b61ee",
+  "preferredProducts": [
+    2593,
+    312,
+    688,
+    2542
+  ],
+  "productReviews": [
+    {
+      "productId": 3393,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-04-30T14:00:55.5686141+03:00"
+    },
+    {
+      "productId": 4048,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2018-10-17T17:47:26.846269+03:00"
+    },
+    {
+      "productId": 4635,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-07-23T04:33:14.8273888+03:00"
+    }
+  ]
+}

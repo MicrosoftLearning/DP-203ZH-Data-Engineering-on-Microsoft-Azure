@@ -1,0 +1,31 @@
+{
+  "userId": 55156,
+  "cartId": "980b889e-8bd5-406b-8b9e-60b5899d8fb6",
+  "preferredProducts": [
+    3081,
+    1044,
+    566
+  ],
+  "productReviews": [
+    {
+      "productId": 350,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-10-24T21:44:46.7168782+03:00"
+    },
+    {
+      "productId": 3750,
+      "reviewText": "The box this comes in is 3 kilometer by 5 inch and weights 13 ton.",
+      "reviewDate": "2019-05-01T18:08:57.7167557+03:00"
+    },
+    {
+      "productId": 1880,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-03-25T02:35:42.1072826+02:00"
+    },
+    {
+      "productId": 1501,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2017-01-06T09:29:05.6583838+02:00"
+    }
+  ]
+}

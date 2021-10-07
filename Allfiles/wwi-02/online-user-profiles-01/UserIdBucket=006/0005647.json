@@ -1,0 +1,30 @@
+{
+  "userId": 5647,
+  "cartId": "6be40513-6cdd-447a-99f8-13da10ba15da",
+  "preferredProducts": [
+    1055,
+    345,
+    1569,
+    3668,
+    834,
+    3760,
+    4920
+  ],
+  "productReviews": [
+    {
+      "productId": 410,
+      "reviewText": "this user-centric is mellow.",
+      "reviewDate": "2017-07-28T21:18:28.7740873+03:00"
+    },
+    {
+      "productId": 4219,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2017-06-20T13:35:06.0764696+03:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "this matrix is hyper.",
+      "reviewDate": "2016-08-28T19:58:36.6695667+03:00"
+    }
+  ]
+}

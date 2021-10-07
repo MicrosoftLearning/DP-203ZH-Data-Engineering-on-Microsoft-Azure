@@ -1,0 +1,41 @@
+{
+  "userId": 62771,
+  "cartId": "7e9f1c4c-ebfb-4b06-859c-49916f700c21",
+  "preferredProducts": [
+    2658,
+    73,
+    1086,
+    3212,
+    3406,
+    4542,
+    1968,
+    2851
+  ],
+  "productReviews": [
+    {
+      "productId": 3173,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-08-01T03:45:15.9041658+03:00"
+    },
+    {
+      "productId": 2270,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2016-05-29T02:13:17.1671384+03:00"
+    },
+    {
+      "productId": 3102,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-02-17T18:36:52.0775262+02:00"
+    },
+    {
+      "productId": 537,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2016-06-18T01:17:40.3701954+03:00"
+    },
+    {
+      "productId": 754,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2018-12-11T03:07:11.561596+02:00"
+    }
+  ]
+}

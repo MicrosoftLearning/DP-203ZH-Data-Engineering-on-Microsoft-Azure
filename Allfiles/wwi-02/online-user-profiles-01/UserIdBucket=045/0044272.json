@@ -1,0 +1,30 @@
+{
+  "userId": 44272,
+  "cartId": "e4787daa-7db9-4cac-80b8-615ae7d87c10",
+  "preferredProducts": [
+    1139,
+    3493
+  ],
+  "productReviews": [
+    {
+      "productId": 4123,
+      "reviewText": "this multi-state is ghetto.",
+      "reviewDate": "2017-07-30T08:10:01.8101803+03:00"
+    },
+    {
+      "productId": 4354,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2017-01-23T06:17:52.7401881+02:00"
+    },
+    {
+      "productId": 4257,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2016-05-19T07:33:33.4619733+03:00"
+    },
+    {
+      "productId": 4882,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2017-11-20T16:39:58.0196717+02:00"
+    }
+  ]
+}

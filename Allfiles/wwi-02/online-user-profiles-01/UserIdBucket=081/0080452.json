@@ -1,0 +1,33 @@
+{
+  "userId": 80452,
+  "cartId": "bc9251c6-2d90-4033-9244-034b6cca3095",
+  "preferredProducts": [
+    4309,
+    4801,
+    1190,
+    709,
+    3721
+  ],
+  "productReviews": [
+    {
+      "productId": 2681,
+      "reviewText": "The box this comes in is 5 foot by 6 inch and weights 17 pound!!!",
+      "reviewDate": "2017-05-26T15:39:29.1535048+03:00"
+    },
+    {
+      "productId": 4799,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2018-06-23T04:49:42.4320719+03:00"
+    },
+    {
+      "productId": 330,
+      "reviewText": "The box this comes in is 4 yard by 5 inch and weights 12 pound!",
+      "reviewDate": "2017-07-03T04:49:41.4419001+03:00"
+    },
+    {
+      "productId": 3086,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2018-05-21T12:21:36.5049399+03:00"
+    }
+  ]
+}

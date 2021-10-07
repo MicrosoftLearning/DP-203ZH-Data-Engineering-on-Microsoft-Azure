@@ -1,0 +1,33 @@
+{
+  "userId": 20997,
+  "cartId": "401ea456-a3eb-48bd-be15-bebd3942815a",
+  "preferredProducts": [
+    1054,
+    2686,
+    2579,
+    3644,
+    809
+  ],
+  "productReviews": [
+    {
+      "productId": 1640,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-04-11T20:29:15.0866147+03:00"
+    },
+    {
+      "productId": 3929,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2020-01-04T06:04:29.1389039+02:00"
+    },
+    {
+      "productId": 2118,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2017-05-11T06:50:52.9872582+03:00"
+    },
+    {
+      "productId": 4084,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-01-11T21:55:34.6569342+02:00"
+    }
+  ]
+}

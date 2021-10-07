@@ -1,0 +1,28 @@
+{
+  "userId": 20252,
+  "cartId": "33ab2d8c-281f-43ef-9e95-16d13af8ad1b",
+  "preferredProducts": [
+    935,
+    2503,
+    1982,
+    2351,
+    4689
+  ],
+  "productReviews": [
+    {
+      "productId": 2534,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-02-11T06:48:29.8213915+02:00"
+    },
+    {
+      "productId": 4506,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-05-11T01:14:16.9770004+03:00"
+    },
+    {
+      "productId": 657,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2016-07-24T12:08:01.5782268+03:00"
+    }
+  ]
+}

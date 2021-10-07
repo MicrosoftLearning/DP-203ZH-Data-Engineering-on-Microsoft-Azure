@@ -1,0 +1,37 @@
+{
+  "userId": 518,
+  "cartId": "1344a888-d6be-44a0-a9d5-d4b96adff4a1",
+  "preferredProducts": [
+    525,
+    2445,
+    684,
+    1024
+  ],
+  "productReviews": [
+    {
+      "productId": 1440,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2018-08-20T18:17:23.0180887+03:00"
+    },
+    {
+      "productId": 684,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2016-11-19T12:32:13.9905242+02:00"
+    },
+    {
+      "productId": 2692,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-06-28T15:41:00.9933072+03:00"
+    },
+    {
+      "productId": 3619,
+      "reviewText": "heard about this on jump-up radio, decided to give it a try.",
+      "reviewDate": "2019-09-15T10:34:23.5781432+03:00"
+    },
+    {
+      "productId": 3498,
+      "reviewText": "talk about contempt!",
+      "reviewDate": "2016-09-22T14:53:10.1107789+03:00"
+    }
+  ]
+}

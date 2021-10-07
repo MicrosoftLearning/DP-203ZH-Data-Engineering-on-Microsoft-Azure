@@ -1,0 +1,33 @@
+{
+  "userId": 84454,
+  "cartId": "0d6508da-de12-4ba8-a578-1384302b9050",
+  "preferredProducts": [
+    3116,
+    1725,
+    3374,
+    901,
+    3502,
+    2055,
+    2065,
+    3534,
+    3294,
+    1874
+  ],
+  "productReviews": [
+    {
+      "productId": 1713,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-03-14T09:25:57.0740149+02:00"
+    },
+    {
+      "productId": 2058,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2018-01-25T08:11:42.3947079+02:00"
+    },
+    {
+      "productId": 930,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2019-03-03T17:51:40.0914388+02:00"
+    }
+  ]
+}

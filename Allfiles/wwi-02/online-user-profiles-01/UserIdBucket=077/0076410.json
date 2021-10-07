@@ -1,0 +1,32 @@
+{
+  "userId": 76410,
+  "cartId": "ea7696bf-c268-4579-81f9-a55a2688c198",
+  "preferredProducts": [
+    3219,
+    452,
+    1642,
+    3479
+  ],
+  "productReviews": [
+    {
+      "productId": 3013,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2019-07-12T11:11:16.7784611+03:00"
+    },
+    {
+      "productId": 2878,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2018-09-15T05:55:23.9402897+03:00"
+    },
+    {
+      "productId": 4186,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-12-29T22:13:40.8054544+02:00"
+    },
+    {
+      "productId": 3772,
+      "reviewText": "It only works when I'm Bahrain.",
+      "reviewDate": "2019-05-10T12:19:39.2092278+03:00"
+    }
+  ]
+}

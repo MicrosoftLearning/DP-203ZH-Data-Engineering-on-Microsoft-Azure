@@ -1,0 +1,35 @@
+{
+  "userId": 87245,
+  "cartId": "14b0751e-6ae8-4557-abd9-c1c53dbdc46a",
+  "preferredProducts": [
+    2185,
+    4745,
+    2626,
+    1384,
+    2729,
+    3541,
+    1094
+  ],
+  "productReviews": [
+    {
+      "productId": 48,
+      "reviewText": "I saw one of these in South Korea and I bought one.",
+      "reviewDate": "2020-04-20T02:38:59.503503+03:00"
+    },
+    {
+      "productId": 1766,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2017-03-18T17:31:18.715049+02:00"
+    },
+    {
+      "productId": 4826,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-04-10T16:01:57.8675676+03:00"
+    },
+    {
+      "productId": 3862,
+      "reviewText": "i use it once in a while when i'm in my ring.",
+      "reviewDate": "2019-01-14T16:52:00.0824287+02:00"
+    }
+  ]
+}

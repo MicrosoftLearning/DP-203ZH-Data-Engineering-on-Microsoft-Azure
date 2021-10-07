@@ -1,0 +1,32 @@
+{
+  "userId": 32031,
+  "cartId": "897b3fb1-829d-4634-8097-b5fbf69a79ce",
+  "preferredProducts": [
+    1679,
+    3830,
+    1643,
+    2801
+  ],
+  "productReviews": [
+    {
+      "productId": 3524,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2018-06-24T20:59:35.5206666+03:00"
+    },
+    {
+      "productId": 1477,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2017-10-16T19:44:59.1143869+03:00"
+    },
+    {
+      "productId": 1833,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2017-06-15T18:30:29.7391147+03:00"
+    },
+    {
+      "productId": 4781,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2017-02-14T01:34:30.3809405+02:00"
+    }
+  ]
+}

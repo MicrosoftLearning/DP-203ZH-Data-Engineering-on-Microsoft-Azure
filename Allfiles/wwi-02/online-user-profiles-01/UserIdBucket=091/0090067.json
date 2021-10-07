@@ -1,0 +1,28 @@
+{
+  "userId": 90067,
+  "cartId": "2d2bdf8a-35e3-4939-9a3a-dbef4be08408",
+  "preferredProducts": [
+    1658,
+    1595,
+    3140,
+    2633,
+    1818
+  ],
+  "productReviews": [
+    {
+      "productId": 2551,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2016-10-25T20:20:23.6889984+03:00"
+    },
+    {
+      "productId": 2817,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-08-24T19:03:24.8142001+03:00"
+    },
+    {
+      "productId": 4385,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-04-14T12:28:40.3370648+03:00"
+    }
+  ]
+}

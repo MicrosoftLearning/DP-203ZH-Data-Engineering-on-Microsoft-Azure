@@ -1,0 +1,34 @@
+{
+  "userId": 88087,
+  "cartId": "900299db-b997-48f7-bbc4-07684a4672aa",
+  "preferredProducts": [
+    777,
+    408,
+    4154,
+    140,
+    4745,
+    1425
+  ],
+  "productReviews": [
+    {
+      "productId": 288,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2017-10-11T13:49:39.9078463+03:00"
+    },
+    {
+      "productId": 401,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-02-02T16:12:46.808174+02:00"
+    },
+    {
+      "productId": 2913,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2019-10-04T15:23:28.6722591+03:00"
+    },
+    {
+      "productId": 4865,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-10-24T04:19:56.1339337+03:00"
+    }
+  ]
+}

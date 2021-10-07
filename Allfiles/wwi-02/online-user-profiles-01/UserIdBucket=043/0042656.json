@@ -1,0 +1,29 @@
+{
+  "userId": 42656,
+  "cartId": "04ed42ae-2209-4a1d-93b4-efbc16abf918",
+  "preferredProducts": [
+    4582,
+    3646,
+    4880,
+    603,
+    2638,
+    4502
+  ],
+  "productReviews": [
+    {
+      "productId": 2106,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2019-11-30T05:59:46.8348122+02:00"
+    },
+    {
+      "productId": 4532,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2017-03-05T04:40:33.2658656+02:00"
+    },
+    {
+      "productId": 3265,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-04-24T11:13:20.1728961+03:00"
+    }
+  ]
+}

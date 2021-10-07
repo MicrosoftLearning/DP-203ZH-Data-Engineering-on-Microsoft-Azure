@@ -1,0 +1,25 @@
+{
+  "userId": 10213,
+  "cartId": "e95d4ec5-4941-43ce-ba96-2d13e5162f79",
+  "preferredProducts": [
+    854,
+    864
+  ],
+  "productReviews": [
+    {
+      "productId": 123,
+      "reviewText": "This Macao works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2018-01-05T09:27:10.7897953+02:00"
+    },
+    {
+      "productId": 884,
+      "reviewText": "talk about hatred.",
+      "reviewDate": "2018-08-31T17:11:12.3611564+03:00"
+    },
+    {
+      "productId": 3504,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-02-17T23:36:15.9874549+02:00"
+    }
+  ]
+}

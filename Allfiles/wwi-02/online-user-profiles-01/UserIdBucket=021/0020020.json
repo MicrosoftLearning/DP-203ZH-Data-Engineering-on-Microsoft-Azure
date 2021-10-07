@@ -1,0 +1,28 @@
+{
+  "userId": 20020,
+  "cartId": "d61760c8-dbd1-4487-bdab-42bfc773abf7",
+  "preferredProducts": [
+    3799,
+    4103,
+    1650,
+    2416,
+    4923,
+    1622,
+    171,
+    4916,
+    4972,
+    2251
+  ],
+  "productReviews": [
+    {
+      "productId": 3694,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2017-12-13T10:18:55.7089664+02:00"
+    },
+    {
+      "productId": 3540,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-05-29T13:39:15.6623378+03:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "userId": 2177,
+  "cartId": "2ad0a6ba-4297-4328-b3eb-17a0715a1f74",
+  "preferredProducts": [
+    4061,
+    3920,
+    4163,
+    2059,
+    1890
+  ],
+  "productReviews": [
+    {
+      "productId": 152,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-03-03T00:47:43.5355134+02:00"
+    },
+    {
+      "productId": 4163,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2019-10-25T21:44:40.1122565+03:00"
+    }
+  ]
+}

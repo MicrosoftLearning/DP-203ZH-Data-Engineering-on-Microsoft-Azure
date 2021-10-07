@@ -1,0 +1,35 @@
+{
+  "userId": 7276,
+  "cartId": "e94badc2-d607-4e3a-8f34-3caa90235582",
+  "preferredProducts": [
+    4254,
+    1106,
+    636,
+    3345,
+    206,
+    1801,
+    518
+  ],
+  "productReviews": [
+    {
+      "productId": 1578,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2018-03-17T04:23:24.8694524+02:00"
+    },
+    {
+      "productId": 3089,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-03-28T19:42:38.5440657+03:00"
+    },
+    {
+      "productId": 3647,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2016-10-09T13:05:52.446912+03:00"
+    },
+    {
+      "productId": 966,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-05-03T17:24:23.218476+03:00"
+    }
+  ]
+}

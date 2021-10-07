@@ -1,0 +1,31 @@
+{
+  "userId": 8085,
+  "cartId": "3a6b593d-a728-4792-8f32-21195faf4593",
+  "preferredProducts": [
+    4155,
+    659,
+    1092,
+    4055,
+    2052,
+    1278,
+    887,
+    4403
+  ],
+  "productReviews": [
+    {
+      "productId": 160,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-09-11T23:17:19.7694437+03:00"
+    },
+    {
+      "productId": 1051,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-07-05T19:33:15.2778541+03:00"
+    },
+    {
+      "productId": 2134,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2020-01-23T20:55:11.1098975+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 93500,
+  "cartId": "412e4cfe-d5dd-4ba4-ab73-f0d39cf34af3",
+  "preferredProducts": [
+    4360,
+    4045,
+    2728,
+    3536,
+    473
+  ],
+  "productReviews": [
+    {
+      "productId": 652,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2019-07-11T17:27:02.2618601+03:00"
+    },
+    {
+      "productId": 251,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-02-28T21:30:19.5978757+02:00"
+    },
+    {
+      "productId": 1925,
+      "reviewText": "this Solutions is ratty.",
+      "reviewDate": "2016-06-01T03:38:07.2728819+03:00"
+    },
+    {
+      "productId": 1418,
+      "reviewText": "i use it until further notice when i'm in my nightclub.",
+      "reviewDate": "2016-12-23T14:22:28.9906184+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 8275,
+  "cartId": "73bcbd4c-ee4a-4e20-8ebc-8db6449ae451",
+  "preferredProducts": [
+    3904,
+    4151,
+    3654
+  ],
+  "productReviews": [
+    {
+      "productId": 1173,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-08-22T20:23:11.3892321+03:00"
+    },
+    {
+      "productId": 3186,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2019-07-16T19:02:15.9102497+03:00"
+    },
+    {
+      "productId": 1939,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2019-10-05T17:25:18.5511005+03:00"
+    },
+    {
+      "productId": 4106,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2019-10-21T14:13:21.3032141+03:00"
+    }
+  ]
+}

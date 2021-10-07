@@ -1,0 +1,27 @@
+{
+  "userId": 30303,
+  "cartId": "ea9eb023-cd82-432f-8e31-c5aa3a351370",
+  "preferredProducts": [
+    3936,
+    2731,
+    4795,
+    3998
+  ],
+  "productReviews": [
+    {
+      "productId": 856,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2016-07-23T21:40:13.5668503+03:00"
+    },
+    {
+      "productId": 4570,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2016-10-06T13:33:34.4382036+03:00"
+    },
+    {
+      "productId": 3815,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2020-04-16T18:56:46.7823575+03:00"
+    }
+  ]
+}

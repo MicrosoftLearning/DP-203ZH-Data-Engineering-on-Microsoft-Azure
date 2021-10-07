@@ -1,0 +1,37 @@
+{
+  "userId": 79586,
+  "cartId": "394a979d-941e-424b-8430-ec2301790a0e",
+  "preferredProducts": [
+    4909,
+    480,
+    364,
+    1347,
+    4525,
+    3512,
+    1674,
+    2126,
+    4495
+  ],
+  "productReviews": [
+    {
+      "productId": 3441,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2016-12-23T06:16:29.4330867+02:00"
+    },
+    {
+      "productId": 581,
+      "reviewText": "It only works when I'm Niger.",
+      "reviewDate": "2017-07-13T03:50:32.558649+03:00"
+    },
+    {
+      "productId": 3719,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2016-10-12T20:43:15.1832832+03:00"
+    },
+    {
+      "productId": 3074,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2019-07-30T06:45:12.0308071+03:00"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "userId": 88140,
+  "cartId": "7bb448c8-b1da-4be7-b07e-6b081ccd397c",
+  "preferredProducts": [
+    4999,
+    3868,
+    2869,
+    932,
+    3524,
+    294
+  ],
+  "productReviews": [
+    {
+      "productId": 798,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2017-10-30T07:53:08.56073+02:00"
+    },
+    {
+      "productId": 4201,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2019-08-13T12:21:29.4924455+03:00"
+    }
+  ]
+}

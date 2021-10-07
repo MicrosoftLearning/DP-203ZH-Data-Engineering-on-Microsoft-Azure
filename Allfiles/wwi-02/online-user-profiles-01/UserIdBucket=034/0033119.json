@@ -1,0 +1,35 @@
+{
+  "userId": 33119,
+  "cartId": "0f32f802-e98b-4b96-bdcc-a12260cfea96",
+  "preferredProducts": [
+    4256,
+    3134
+  ],
+  "productReviews": [
+    {
+      "productId": 552,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-03-07T11:25:42.9029589+02:00"
+    },
+    {
+      "productId": 3817,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2020-02-28T15:48:33.8289845+02:00"
+    },
+    {
+      "productId": 2479,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2018-04-06T14:17:36.6775359+03:00"
+    },
+    {
+      "productId": 1075,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-06-06T22:30:01.3202795+03:00"
+    },
+    {
+      "productId": 2218,
+      "reviewText": "talk about boredom!!!",
+      "reviewDate": "2017-07-12T14:08:50.1296847+03:00"
+    }
+  ]
+}

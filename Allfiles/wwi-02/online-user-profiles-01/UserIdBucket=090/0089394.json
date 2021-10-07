@@ -1,0 +1,33 @@
+{
+  "userId": 89394,
+  "cartId": "46e54463-d65d-4da5-8b7e-b7f4447b6d3c",
+  "preferredProducts": [
+    3885,
+    155,
+    4689,
+    979,
+    405
+  ],
+  "productReviews": [
+    {
+      "productId": 1240,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-02-16T14:23:45.9888371+02:00"
+    },
+    {
+      "productId": 620,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2020-02-02T21:52:51.5498076+02:00"
+    },
+    {
+      "productId": 1809,
+      "reviewText": "This invoice works so well. It delightedly improves my football by a lot.",
+      "reviewDate": "2018-09-25T21:58:50.6358578+03:00"
+    },
+    {
+      "productId": 308,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-02-05T12:37:46.8044792+02:00"
+    }
+  ]
+}

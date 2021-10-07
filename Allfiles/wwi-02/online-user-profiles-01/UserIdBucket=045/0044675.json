@@ -1,0 +1,31 @@
+{
+  "userId": 44675,
+  "cartId": "726cb08f-62bd-4cd7-ad57-ca4c913e27a7",
+  "preferredProducts": [
+    1073,
+    2372,
+    4349,
+    721,
+    2910,
+    3865,
+    2198,
+    787
+  ],
+  "productReviews": [
+    {
+      "productId": 2425,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-04-08T21:39:30.1613153+03:00"
+    },
+    {
+      "productId": 3418,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2018-02-22T05:12:10.2918732+02:00"
+    },
+    {
+      "productId": 2928,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2019-11-09T12:13:37.1108766+02:00"
+    }
+  ]
+}

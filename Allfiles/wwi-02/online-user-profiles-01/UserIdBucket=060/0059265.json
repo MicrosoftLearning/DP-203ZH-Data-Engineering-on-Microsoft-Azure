@@ -1,0 +1,30 @@
+{
+  "userId": 59265,
+  "cartId": "e67f34e0-808e-4771-9a04-a680352dd4f5",
+  "preferredProducts": [
+    1957,
+    3379
+  ],
+  "productReviews": [
+    {
+      "productId": 1348,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-02-09T20:01:41.2524805+02:00"
+    },
+    {
+      "productId": 880,
+      "reviewText": "I saw one of these in Saint Lucia and I bought one.",
+      "reviewDate": "2019-09-27T07:36:12.3752656+03:00"
+    },
+    {
+      "productId": 1739,
+      "reviewText": "this magenta is hyper.",
+      "reviewDate": "2019-10-31T07:14:21.7884914+02:00"
+    },
+    {
+      "productId": 3811,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2019-01-15T00:22:58.5501665+02:00"
+    }
+  ]
+}

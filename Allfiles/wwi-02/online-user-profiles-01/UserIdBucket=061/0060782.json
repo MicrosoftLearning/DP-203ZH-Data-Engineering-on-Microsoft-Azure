@@ -1,0 +1,32 @@
+{
+  "userId": 60782,
+  "cartId": "2c9a63cb-4930-4afa-810b-eff03e1488a4",
+  "preferredProducts": [
+    2985,
+    688,
+    1720,
+    614
+  ],
+  "productReviews": [
+    {
+      "productId": 504,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2017-11-21T00:02:49.2864005+02:00"
+    },
+    {
+      "productId": 2829,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-10-21T09:59:07.6648415+03:00"
+    },
+    {
+      "productId": 700,
+      "reviewText": "one of my hobbies is sailing. and when i'm sailing this works great.",
+      "reviewDate": "2016-12-28T07:16:07.3068258+02:00"
+    },
+    {
+      "productId": 2112,
+      "reviewText": "this back-end is dominant.",
+      "reviewDate": "2020-01-12T00:09:48.5339154+02:00"
+    }
+  ]
+}

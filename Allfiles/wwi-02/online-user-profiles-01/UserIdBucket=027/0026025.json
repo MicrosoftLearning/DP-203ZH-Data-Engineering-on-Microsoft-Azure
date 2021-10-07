@@ -1,0 +1,31 @@
+{
+  "userId": 26025,
+  "cartId": "5914b894-00e3-491d-8352-101a8247ebac",
+  "preferredProducts": [
+    1800,
+    3189,
+    3382
+  ],
+  "productReviews": [
+    {
+      "productId": 915,
+      "reviewText": "This Tokelau works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-06-01T16:53:08.2949865+03:00"
+    },
+    {
+      "productId": 2868,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-12-02T07:21:34.6211266+02:00"
+    },
+    {
+      "productId": 3895,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2020-01-05T01:58:35.131065+02:00"
+    },
+    {
+      "productId": 561,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2018-10-15T20:00:45.3338927+03:00"
+    }
+  ]
+}

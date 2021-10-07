@@ -1,0 +1,33 @@
+{
+  "userId": 1702,
+  "cartId": "76c3d091-6b01-4569-bea8-235872a76482",
+  "preferredProducts": [
+    3143,
+    4332,
+    4394,
+    4867,
+    4879,
+    1071,
+    4551,
+    2058,
+    3571,
+    3812
+  ],
+  "productReviews": [
+    {
+      "productId": 1208,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-05-03T20:19:37.4325592+03:00"
+    },
+    {
+      "productId": 1949,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2016-12-31T22:24:50.1482936+02:00"
+    },
+    {
+      "productId": 2875,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2016-12-05T05:37:53.8294623+02:00"
+    }
+  ]
+}

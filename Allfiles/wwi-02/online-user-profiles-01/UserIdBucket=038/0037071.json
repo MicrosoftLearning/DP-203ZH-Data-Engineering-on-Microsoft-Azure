@@ -1,0 +1,39 @@
+{
+  "userId": 37071,
+  "cartId": "cc7e1439-3fe1-4d07-a26f-9440f73e8559",
+  "preferredProducts": [
+    2525,
+    3575,
+    3427,
+    1102,
+    3706,
+    1432
+  ],
+  "productReviews": [
+    {
+      "productId": 3292,
+      "reviewText": "This bus works so well. It imperfectly improves my baseball by a lot.",
+      "reviewDate": "2017-01-20T03:51:20.5228298+02:00"
+    },
+    {
+      "productId": 4665,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2019-12-23T05:51:48.8708804+02:00"
+    },
+    {
+      "productId": 1274,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-03-19T09:20:04.5166913+02:00"
+    },
+    {
+      "productId": 3209,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2017-10-23T06:15:55.5571462+03:00"
+    },
+    {
+      "productId": 1324,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2018-04-18T17:33:24.856177+03:00"
+    }
+  ]
+}

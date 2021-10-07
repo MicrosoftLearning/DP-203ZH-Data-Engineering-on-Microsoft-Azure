@@ -1,0 +1,38 @@
+{
+  "userId": 30199,
+  "cartId": "1d093972-ca45-4cce-b798-7d4cbcd6ede0",
+  "preferredProducts": [
+    3147,
+    4174,
+    4074,
+    2824,
+    4588
+  ],
+  "productReviews": [
+    {
+      "productId": 567,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-02-25T16:17:50.4807098+02:00"
+    },
+    {
+      "productId": 451,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2019-01-27T02:01:53.6099896+02:00"
+    },
+    {
+      "productId": 861,
+      "reviewText": "heard about this on bouyon radio, decided to give it a try.",
+      "reviewDate": "2018-10-17T14:37:21.8504534+03:00"
+    },
+    {
+      "productId": 3923,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2016-07-30T09:10:06.2282497+03:00"
+    },
+    {
+      "productId": 3095,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-11-08T13:01:14.7164643+02:00"
+    }
+  ]
+}

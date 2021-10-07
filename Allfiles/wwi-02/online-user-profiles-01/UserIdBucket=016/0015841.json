@@ -1,0 +1,28 @@
+{
+  "userId": 15841,
+  "cartId": "f3d2cafc-29b1-47de-9373-a6d1737f588d",
+  "preferredProducts": [
+    3999,
+    4861,
+    1316,
+    472,
+    792
+  ],
+  "productReviews": [
+    {
+      "productId": 2477,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-04-17T16:42:16.2823564+03:00"
+    },
+    {
+      "productId": 1337,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-03-24T22:59:46.3184843+02:00"
+    },
+    {
+      "productId": 3056,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2017-02-05T19:56:05.7385485+02:00"
+    }
+  ]
+}

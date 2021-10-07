@@ -1,0 +1,32 @@
+{
+  "userId": 7744,
+  "cartId": "e97ab265-c091-4267-85a8-5771b5f4efb9",
+  "preferredProducts": [
+    3926,
+    1473,
+    97,
+    4072
+  ],
+  "productReviews": [
+    {
+      "productId": 1425,
+      "reviewText": "talk about sadness!",
+      "reviewDate": "2016-12-18T03:42:56.8302395+02:00"
+    },
+    {
+      "productId": 2727,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2017-11-21T02:14:59.1230047+02:00"
+    },
+    {
+      "productId": 4639,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-05-09T22:16:45.2316726+03:00"
+    },
+    {
+      "productId": 2785,
+      "reviewText": "This connecting works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2017-06-02T10:48:56.3195931+03:00"
+    }
+  ]
+}

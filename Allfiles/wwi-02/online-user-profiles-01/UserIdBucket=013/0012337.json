@@ -1,0 +1,27 @@
+{
+  "userId": 12337,
+  "cartId": "be54fffa-a03c-43c1-9474-7734bcb5f2ca",
+  "preferredProducts": [
+    1664,
+    3641,
+    4636,
+    773
+  ],
+  "productReviews": [
+    {
+      "productId": 495,
+      "reviewText": "one of my hobbies is toy collecting. and when i'm collecting toys this works great.",
+      "reviewDate": "2016-07-30T15:45:48.8983478+03:00"
+    },
+    {
+      "productId": 2837,
+      "reviewText": "This overriding works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2016-11-24T00:38:08.1657255+02:00"
+    },
+    {
+      "productId": 1134,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-11-26T15:09:47.4984951+02:00"
+    }
+  ]
+}

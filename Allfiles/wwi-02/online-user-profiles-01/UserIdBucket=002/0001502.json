@@ -1,0 +1,26 @@
+{
+  "userId": 1502,
+  "cartId": "ff42e25d-ca7b-4ea9-94e5-84b360b674f3",
+  "preferredProducts": [
+    4609,
+    2119,
+    335
+  ],
+  "productReviews": [
+    {
+      "productId": 783,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-12-08T01:16:37.7935761+02:00"
+    },
+    {
+      "productId": 2994,
+      "reviewText": "one of my hobbies is skateboarding. and when i'm skateboarding this works great.",
+      "reviewDate": "2018-11-01T04:33:18.6235362+02:00"
+    },
+    {
+      "productId": 2338,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2017-04-07T03:36:16.4686559+03:00"
+    }
+  ]
+}

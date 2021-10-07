@@ -1,0 +1,30 @@
+{
+  "userId": 19898,
+  "cartId": "3a2c3561-e5dd-4b28-a12b-4fc34b59d283",
+  "preferredProducts": [
+    751,
+    1335,
+    3195,
+    3453,
+    2774,
+    4657,
+    2072
+  ],
+  "productReviews": [
+    {
+      "productId": 1792,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2018-10-03T07:27:49.0218194+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-03-26T03:39:57.4316855+02:00"
+    },
+    {
+      "productId": 4892,
+      "reviewText": "this withdrawal is honest.",
+      "reviewDate": "2016-11-05T18:34:47.1249283+02:00"
+    }
+  ]
+}

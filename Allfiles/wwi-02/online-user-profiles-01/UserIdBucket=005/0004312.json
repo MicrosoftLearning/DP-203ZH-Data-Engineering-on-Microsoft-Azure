@@ -1,0 +1,32 @@
+{
+  "userId": 4312,
+  "cartId": "8ea11828-2d29-41d7-9db1-09185ca8d7fb",
+  "preferredProducts": [
+    1739,
+    4174,
+    2916,
+    4413,
+    949,
+    2084,
+    3607,
+    983,
+    2434
+  ],
+  "productReviews": [
+    {
+      "productId": 4432,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-01-20T23:07:05.896951+02:00"
+    },
+    {
+      "productId": 1324,
+      "reviewText": "this International is standard.",
+      "reviewDate": "2019-04-06T21:53:58.940669+03:00"
+    },
+    {
+      "productId": 3792,
+      "reviewText": "This strategic works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2016-11-25T15:27:05.4462152+02:00"
+    }
+  ]
+}

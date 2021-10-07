@@ -1,0 +1,23 @@
+{
+  "userId": 49626,
+  "cartId": "5b0d747d-7f2d-4b65-80e6-160479ba26e9",
+  "preferredProducts": [
+    1190,
+    1417,
+    4653,
+    3362,
+    1749
+  ],
+  "productReviews": [
+    {
+      "productId": 1882,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-08-05T21:26:15.2893871+03:00"
+    },
+    {
+      "productId": 2379,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-07-11T10:14:46.9322885+03:00"
+    }
+  ]
+}

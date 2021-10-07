@@ -1,0 +1,30 @@
+{
+  "userId": 69282,
+  "cartId": "23be3ea1-262c-4598-b5dc-ae5c60192875",
+  "preferredProducts": [
+    4932,
+    2456,
+    345,
+    4006,
+    3884,
+    2692,
+    615
+  ],
+  "productReviews": [
+    {
+      "productId": 3769,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2017-09-15T05:54:37.9545767+03:00"
+    },
+    {
+      "productId": 4555,
+      "reviewText": "This red works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2017-06-06T00:43:50.0574959+03:00"
+    },
+    {
+      "productId": 3842,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-04-10T21:30:47.2856377+03:00"
+    }
+  ]
+}

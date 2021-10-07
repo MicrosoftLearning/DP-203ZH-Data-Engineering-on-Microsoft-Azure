@@ -1,0 +1,26 @@
+{
+  "userId": 54883,
+  "cartId": "2a29b710-9d28-4211-ba48-bed9fe9c4db5",
+  "preferredProducts": [
+    3447,
+    4014,
+    4970,
+    59,
+    3152,
+    2033,
+    2156,
+    4277
+  ],
+  "productReviews": [
+    {
+      "productId": 4066,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2020-01-01T02:15:19.829044+02:00"
+    },
+    {
+      "productId": 3164,
+      "reviewText": "this Park is standard.",
+      "reviewDate": "2019-01-07T09:44:49.4281853+02:00"
+    }
+  ]
+}

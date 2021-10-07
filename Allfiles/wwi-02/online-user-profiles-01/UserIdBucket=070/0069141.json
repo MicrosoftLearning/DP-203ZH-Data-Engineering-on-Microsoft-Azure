@@ -1,0 +1,30 @@
+{
+  "userId": 69141,
+  "cartId": "12397d6a-4718-44d3-b72d-5a36833bb271",
+  "preferredProducts": [
+    2474,
+    1001,
+    446,
+    1657,
+    2069,
+    3344,
+    3735
+  ],
+  "productReviews": [
+    {
+      "productId": 1777,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2020-04-16T04:56:32.8162866+03:00"
+    },
+    {
+      "productId": 4049,
+      "reviewText": "this Avon is honest.",
+      "reviewDate": "2016-09-07T09:39:09.2849806+03:00"
+    },
+    {
+      "productId": 4694,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2019-01-26T11:11:02.9362714+02:00"
+    }
+  ]
+}

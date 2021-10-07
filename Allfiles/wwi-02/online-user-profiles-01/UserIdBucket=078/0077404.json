@@ -1,0 +1,30 @@
+{
+  "userId": 77404,
+  "cartId": "694a529a-5680-4292-a340-301dad9cbe6a",
+  "preferredProducts": [
+    4911,
+    2707
+  ],
+  "productReviews": [
+    {
+      "productId": 700,
+      "reviewText": "This interface works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2018-10-21T02:12:20.9407485+03:00"
+    },
+    {
+      "productId": 4118,
+      "reviewText": "My neighbor Germaine has one of these. She works as a salesman and she says it looks red.",
+      "reviewDate": "2018-06-18T18:24:54.5713696+03:00"
+    },
+    {
+      "productId": 1043,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2017-08-06T07:30:43.975602+03:00"
+    },
+    {
+      "productId": 4307,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2019-03-14T03:54:56.7073832+02:00"
+    }
+  ]
+}

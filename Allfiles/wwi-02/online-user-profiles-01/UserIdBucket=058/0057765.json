@@ -1,0 +1,42 @@
+{
+  "userId": 57765,
+  "cartId": "61be3dae-3ff1-4250-8dd7-3ca48556dbc2",
+  "preferredProducts": [
+    809,
+    1404,
+    2163,
+    4903,
+    550,
+    1865,
+    2541,
+    2654,
+    927
+  ],
+  "productReviews": [
+    {
+      "productId": 397,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-01-18T16:23:04.0476284+02:00"
+    },
+    {
+      "productId": 3038,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-10-01T03:01:40.5061708+03:00"
+    },
+    {
+      "productId": 3575,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-07-07T16:07:02.6031303+03:00"
+    },
+    {
+      "productId": 4211,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2017-03-25T07:21:40.6132023+02:00"
+    },
+    {
+      "productId": 3649,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-03-05T13:33:41.7839575+02:00"
+    }
+  ]
+}

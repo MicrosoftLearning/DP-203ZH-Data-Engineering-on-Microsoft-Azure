@@ -1,0 +1,36 @@
+{
+  "userId": 4012,
+  "cartId": "5252b263-a4bd-43af-ad6b-3328dd83c50c",
+  "preferredProducts": [
+    1330,
+    3200,
+    4930,
+    3510,
+    3510,
+    333,
+    2391,
+    2198
+  ],
+  "productReviews": [
+    {
+      "productId": 3242,
+      "reviewText": "this Forge is top-notch.",
+      "reviewDate": "2018-02-18T18:20:23.973977+02:00"
+    },
+    {
+      "productId": 1793,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-11-08T04:50:33.3991502+02:00"
+    },
+    {
+      "productId": 1642,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-01-13T00:11:51.9428726+02:00"
+    },
+    {
+      "productId": 2518,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-11-04T22:31:45.7787898+02:00"
+    }
+  ]
+}

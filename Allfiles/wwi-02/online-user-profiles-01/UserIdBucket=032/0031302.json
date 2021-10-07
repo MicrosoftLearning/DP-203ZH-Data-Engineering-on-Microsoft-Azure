@@ -1,0 +1,29 @@
+{
+  "userId": 31302,
+  "cartId": "6bef8c50-f62f-438d-a153-0d594f5e8df7",
+  "preferredProducts": [
+    4711,
+    3632,
+    1342,
+    2548,
+    3700,
+    496
+  ],
+  "productReviews": [
+    {
+      "productId": 2408,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-12-19T12:51:13.1025761+02:00"
+    },
+    {
+      "productId": 3665,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2019-10-25T02:29:17.4087294+03:00"
+    },
+    {
+      "productId": 4213,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-05-14T17:08:31.9957574+03:00"
+    }
+  ]
+}

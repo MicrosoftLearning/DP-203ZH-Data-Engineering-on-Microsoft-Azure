@@ -1,0 +1,28 @@
+{
+  "userId": 50901,
+  "cartId": "ae29992a-5340-4bf2-a423-507557569076",
+  "preferredProducts": [
+    4848,
+    757,
+    3734,
+    2688,
+    103
+  ],
+  "productReviews": [
+    {
+      "productId": 4011,
+      "reviewText": "The box this comes in is 4 meter by 5 foot and weights 18 kilogram.",
+      "reviewDate": "2020-02-13T10:45:35.6452611+02:00"
+    },
+    {
+      "productId": 3290,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2017-06-06T08:52:09.8059436+03:00"
+    },
+    {
+      "productId": 1582,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2020-04-19T11:19:12.9611926+03:00"
+    }
+  ]
+}

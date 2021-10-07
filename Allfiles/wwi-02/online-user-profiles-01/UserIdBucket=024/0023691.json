@@ -1,0 +1,27 @@
+{
+  "userId": 23691,
+  "cartId": "a6fa63c8-77d2-4ef1-85bc-a392c54969fa",
+  "preferredProducts": [
+    4400,
+    1578,
+    2000,
+    647
+  ],
+  "productReviews": [
+    {
+      "productId": 2703,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-12-01T10:21:08.178983+02:00"
+    },
+    {
+      "productId": 4214,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2016-12-07T18:57:06.4915139+02:00"
+    },
+    {
+      "productId": 630,
+      "reviewText": "This Connecticut works outstandingly well. It beautifully improves my basketball by a lot.",
+      "reviewDate": "2016-08-18T06:03:15.5557717+03:00"
+    }
+  ]
+}

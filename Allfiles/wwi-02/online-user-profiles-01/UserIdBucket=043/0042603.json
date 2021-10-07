@@ -1,0 +1,34 @@
+{
+  "userId": 42603,
+  "cartId": "4bc75204-4037-45bd-97d2-0abf7f406009",
+  "preferredProducts": [
+    2461,
+    832,
+    4873,
+    759,
+    4183,
+    2465
+  ],
+  "productReviews": [
+    {
+      "productId": 3759,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2020-04-21T02:58:37.830574+03:00"
+    },
+    {
+      "productId": 949,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-12-24T05:02:42.7256316+02:00"
+    },
+    {
+      "productId": 1272,
+      "reviewText": "talk about pleasure!",
+      "reviewDate": "2020-05-09T23:53:22.1515458+03:00"
+    },
+    {
+      "productId": 2687,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2018-11-25T23:55:25.9470145+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 30402,
+  "cartId": "cdda58b1-c340-4e57-9dac-5b8c5797db47",
+  "preferredProducts": [
+    1748,
+    2065,
+    567,
+    2560,
+    1375,
+    468,
+    4250
+  ],
+  "productReviews": [
+    {
+      "productId": 1520,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-10-04T07:16:56.8416763+03:00"
+    },
+    {
+      "productId": 3857,
+      "reviewText": "talk about interest!!",
+      "reviewDate": "2020-01-25T12:34:25.2900968+02:00"
+    },
+    {
+      "productId": 2671,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2020-01-13T21:47:25.3800327+02:00"
+    }
+  ]
+}

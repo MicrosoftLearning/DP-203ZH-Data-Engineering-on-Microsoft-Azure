@@ -1,0 +1,30 @@
+{
+  "userId": 9200,
+  "cartId": "2abfe29f-6903-4588-9d2d-3493d5984bb2",
+  "preferredProducts": [
+    2936,
+    2430
+  ],
+  "productReviews": [
+    {
+      "productId": 857,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2020-01-12T10:11:42.5725228+02:00"
+    },
+    {
+      "productId": 3703,
+      "reviewText": "this compelling is honest.",
+      "reviewDate": "2016-12-19T15:05:13.5769564+02:00"
+    },
+    {
+      "productId": 2278,
+      "reviewText": "heard about this on melodic death metal radio, decided to give it a try.",
+      "reviewDate": "2019-01-16T23:23:50.2139002+02:00"
+    },
+    {
+      "productId": 3090,
+      "reviewText": "My neighbor Forest has one of these. She works as a gardener and she says it looks nude.",
+      "reviewDate": "2020-04-25T08:12:11.469577+03:00"
+    }
+  ]
+}

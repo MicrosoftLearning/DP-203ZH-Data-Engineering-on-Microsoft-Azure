@@ -1,0 +1,33 @@
+{
+  "userId": 11183,
+  "cartId": "b8fd2521-741a-4c3e-b69e-7cf5316078d1",
+  "preferredProducts": [
+    4950,
+    205,
+    4375,
+    4986,
+    3511,
+    4631,
+    4636,
+    760,
+    2099,
+    575
+  ],
+  "productReviews": [
+    {
+      "productId": 3002,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2019-02-24T04:38:41.9005659+02:00"
+    },
+    {
+      "productId": 2651,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2017-09-10T03:03:52.1436748+03:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2018-03-17T02:18:05.955596+02:00"
+    }
+  ]
+}

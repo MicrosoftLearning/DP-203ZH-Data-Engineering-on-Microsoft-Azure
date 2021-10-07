@@ -1,0 +1,37 @@
+{
+  "userId": 48373,
+  "cartId": "a047cae7-a4e4-476c-8422-5ca6c74a8c55",
+  "preferredProducts": [
+    3033,
+    128,
+    3137,
+    2258
+  ],
+  "productReviews": [
+    {
+      "productId": 10,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-06-06T00:54:12.5869871+03:00"
+    },
+    {
+      "productId": 2689,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-01-04T03:10:35.2781183+02:00"
+    },
+    {
+      "productId": 2455,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-11-27T07:21:44.3576495+02:00"
+    },
+    {
+      "productId": 2892,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2016-09-24T00:21:28.4518468+03:00"
+    },
+    {
+      "productId": 3830,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2018-08-18T17:51:26.4720355+03:00"
+    }
+  ]
+}

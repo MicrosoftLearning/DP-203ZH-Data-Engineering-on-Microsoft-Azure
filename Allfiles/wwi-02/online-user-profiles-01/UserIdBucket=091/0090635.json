@@ -1,0 +1,27 @@
+{
+  "userId": 90635,
+  "cartId": "d8188efe-cd18-45d8-b36d-5d9558bffce8",
+  "preferredProducts": [
+    349,
+    1440,
+    4611,
+    2888,
+    1778,
+    3946,
+    3537,
+    132,
+    1038
+  ],
+  "productReviews": [
+    {
+      "productId": 4643,
+      "reviewText": "this XSS is brown.",
+      "reviewDate": "2016-11-09T01:29:51.101455+02:00"
+    },
+    {
+      "productId": 4824,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2020-02-02T07:53:23.7680403+02:00"
+    }
+  ]
+}

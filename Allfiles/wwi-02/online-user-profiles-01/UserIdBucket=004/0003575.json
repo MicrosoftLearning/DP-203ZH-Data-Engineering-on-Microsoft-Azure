@@ -1,0 +1,37 @@
+{
+  "userId": 3575,
+  "cartId": "0c815c81-aea5-48a4-9d89-9010dae08a09",
+  "preferredProducts": [
+    1728,
+    2147,
+    1315,
+    3622,
+    4476,
+    3354,
+    2925,
+    3899,
+    697
+  ],
+  "productReviews": [
+    {
+      "productId": 3722,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2018-03-29T19:07:52.6893299+03:00"
+    },
+    {
+      "productId": 808,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-12-21T14:50:59.9604979+02:00"
+    },
+    {
+      "productId": 1550,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2016-12-26T18:49:37.8024216+02:00"
+    },
+    {
+      "productId": 999,
+      "reviewText": "My co-worker Linnie has one of these. He says it looks wide.",
+      "reviewDate": "2020-02-19T00:09:24.550628+02:00"
+    }
+  ]
+}

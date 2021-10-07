@@ -1,0 +1,31 @@
+{
+  "userId": 21810,
+  "cartId": "dc05bd59-c6e3-4026-9245-79b06f901e88",
+  "preferredProducts": [
+    3448,
+    3092,
+    4306,
+    4463,
+    2126,
+    2319,
+    3184,
+    2498
+  ],
+  "productReviews": [
+    {
+      "productId": 1331,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-07-25T02:42:46.6478217+03:00"
+    },
+    {
+      "productId": 1577,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-08-24T16:47:54.7893972+03:00"
+    },
+    {
+      "productId": 1130,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2020-01-04T15:08:13.0450579+02:00"
+    }
+  ]
+}

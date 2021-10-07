@@ -1,0 +1,33 @@
+{
+  "userId": 33957,
+  "cartId": "2a9c7b96-2d70-49d7-98fc-9ba213bdf654",
+  "preferredProducts": [
+    2572,
+    2120,
+    4009,
+    1947,
+    3313
+  ],
+  "productReviews": [
+    {
+      "productId": 506,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2018-11-01T08:17:09.3059515+02:00"
+    },
+    {
+      "productId": 2662,
+      "reviewText": "talk about irritation.",
+      "reviewDate": "2018-03-13T20:59:36.4599806+02:00"
+    },
+    {
+      "productId": 2340,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2017-07-26T18:28:43.6060852+03:00"
+    },
+    {
+      "productId": 4299,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2016-09-19T01:10:21.8594172+03:00"
+    }
+  ]
+}

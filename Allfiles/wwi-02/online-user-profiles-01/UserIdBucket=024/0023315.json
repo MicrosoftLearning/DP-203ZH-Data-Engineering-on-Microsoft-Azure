@@ -1,0 +1,27 @@
+{
+  "userId": 23315,
+  "cartId": "f7f40f80-febb-4c57-82b9-c27add954195",
+  "preferredProducts": [
+    2123,
+    419,
+    4884,
+    1081
+  ],
+  "productReviews": [
+    {
+      "productId": 399,
+      "reviewText": "My baboon loves to play with it.",
+      "reviewDate": "2019-05-28T18:10:21.3370464+03:00"
+    },
+    {
+      "productId": 4682,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-05-27T06:19:38.2002381+03:00"
+    },
+    {
+      "productId": 3042,
+      "reviewText": "My co-worker Bryton has one of these. He says it looks ragged.",
+      "reviewDate": "2018-10-31T13:06:55.6711231+02:00"
+    }
+  ]
+}

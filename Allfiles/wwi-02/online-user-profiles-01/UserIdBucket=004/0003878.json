@@ -1,0 +1,30 @@
+{
+  "userId": 3878,
+  "cartId": "2ce6c571-4028-4f2d-aed7-0a97a18bcfeb",
+  "preferredProducts": [
+    3328,
+    1151,
+    2874,
+    2876,
+    2169,
+    4282,
+    4476
+  ],
+  "productReviews": [
+    {
+      "productId": 3538,
+      "reviewText": "My neighbor Julisa has one of these. She works as a bartender and she says it looks crooked.",
+      "reviewDate": "2019-05-29T16:20:30.4631952+03:00"
+    },
+    {
+      "productId": 4479,
+      "reviewText": "I saw one of these in Spratly Islands and I bought one.",
+      "reviewDate": "2019-04-29T10:07:46.4658785+03:00"
+    },
+    {
+      "productId": 3236,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2017-04-13T11:38:58.0854122+03:00"
+    }
+  ]
+}

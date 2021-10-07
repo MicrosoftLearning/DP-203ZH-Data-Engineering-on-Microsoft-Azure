@@ -1,0 +1,35 @@
+{
+  "userId": 65630,
+  "cartId": "9245162b-d424-419e-b050-20ebd0077208",
+  "preferredProducts": [
+    285,
+    542,
+    670,
+    1849,
+    2771,
+    4922,
+    106
+  ],
+  "productReviews": [
+    {
+      "productId": 1100,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2017-02-25T19:46:16.7601702+02:00"
+    },
+    {
+      "productId": 140,
+      "reviewText": "This Home, Music & Sports works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2016-12-18T09:58:34.2092429+02:00"
+    },
+    {
+      "productId": 4823,
+      "reviewText": "this Hawaii is slurpee.",
+      "reviewDate": "2018-03-26T11:45:18.8520843+03:00"
+    },
+    {
+      "productId": 1328,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-01-23T07:27:34.7195034+02:00"
+    }
+  ]
+}

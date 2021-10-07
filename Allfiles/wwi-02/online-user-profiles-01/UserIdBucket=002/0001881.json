@@ -1,0 +1,32 @@
+{
+  "userId": 1881,
+  "cartId": "6f9d7fe7-93d6-4c02-ae53-d8f17d496563",
+  "preferredProducts": [
+    53,
+    4556,
+    4167,
+    2337,
+    352,
+    3247,
+    1297,
+    4799,
+    4306
+  ],
+  "productReviews": [
+    {
+      "productId": 2350,
+      "reviewText": "this Fundamental is ghetto.",
+      "reviewDate": "2018-07-24T01:35:49.3732363+03:00"
+    },
+    {
+      "productId": 3424,
+      "reviewText": "The box this comes in is 3 centimeter by 5 kilometer and weights 13 ounce!!",
+      "reviewDate": "2017-06-15T08:11:31.7217267+03:00"
+    },
+    {
+      "productId": 1435,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-02-01T23:05:42.3228097+02:00"
+    }
+  ]
+}

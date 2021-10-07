@@ -1,0 +1,38 @@
+{
+  "userId": 7790,
+  "cartId": "77399622-49e2-487e-b122-6eabdc0619af",
+  "preferredProducts": [
+    4789,
+    1011,
+    203,
+    3410,
+    500
+  ],
+  "productReviews": [
+    {
+      "productId": 4027,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2018-07-14T00:37:48.3312693+03:00"
+    },
+    {
+      "productId": 2671,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-03-31T22:40:20.4927762+03:00"
+    },
+    {
+      "productId": 288,
+      "reviewText": "This invoice works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-09-15T19:45:21.8881213+03:00"
+    },
+    {
+      "productId": 951,
+      "reviewText": "It only works when I'm Samoa.",
+      "reviewDate": "2017-01-01T12:08:47.5075519+02:00"
+    },
+    {
+      "productId": 2227,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-11-21T07:52:43.416472+02:00"
+    }
+  ]
+}

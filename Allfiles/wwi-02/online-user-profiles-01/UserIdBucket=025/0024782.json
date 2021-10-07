@@ -1,0 +1,35 @@
+{
+  "userId": 24782,
+  "cartId": "8e5888ea-ffa8-4c07-a799-61c0a03054fa",
+  "preferredProducts": [
+    4632,
+    3028,
+    2365,
+    2111,
+    2898,
+    1323,
+    2069
+  ],
+  "productReviews": [
+    {
+      "productId": 210,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2018-06-21T00:56:12.9426219+03:00"
+    },
+    {
+      "productId": 2878,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-02-19T15:56:53.5844439+02:00"
+    },
+    {
+      "productId": 3111,
+      "reviewText": "talk about sadness.",
+      "reviewDate": "2017-11-16T17:01:30.7882454+02:00"
+    },
+    {
+      "productId": 3489,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2017-05-03T19:33:47.6651497+03:00"
+    }
+  ]
+}

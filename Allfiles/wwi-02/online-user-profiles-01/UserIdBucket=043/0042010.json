@@ -1,0 +1,41 @@
+{
+  "userId": 42010,
+  "cartId": "22b1c2c9-d1d3-403e-8213-29527418dc5b",
+  "preferredProducts": [
+    4149,
+    404,
+    1242,
+    1820,
+    1171,
+    3232,
+    1341,
+    627
+  ],
+  "productReviews": [
+    {
+      "productId": 585,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2018-08-12T11:34:37.3214617+03:00"
+    },
+    {
+      "productId": 2910,
+      "reviewText": "this Soft is honest.",
+      "reviewDate": "2020-04-23T14:56:14.9612711+03:00"
+    },
+    {
+      "productId": 2935,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-03-31T08:00:45.0696477+03:00"
+    },
+    {
+      "productId": 2751,
+      "reviewText": "This Manager works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2017-03-05T14:36:33.9606484+02:00"
+    },
+    {
+      "productId": 3428,
+      "reviewText": "This Arkansas, does exactly what it's suppose to do.",
+      "reviewDate": "2016-10-21T11:46:49.7804007+03:00"
+    }
+  ]
+}

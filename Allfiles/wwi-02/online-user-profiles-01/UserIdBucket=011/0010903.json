@@ -1,0 +1,42 @@
+{
+  "userId": 10903,
+  "cartId": "295036e2-b2eb-4b8a-914e-ca91e2822b7e",
+  "preferredProducts": [
+    457,
+    1844,
+    4073,
+    3317,
+    2379,
+    1841,
+    1367,
+    2064,
+    4629
+  ],
+  "productReviews": [
+    {
+      "productId": 4845,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2019-09-04T13:07:43.6895696+03:00"
+    },
+    {
+      "productId": 3788,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-10-17T00:24:26.0323992+03:00"
+    },
+    {
+      "productId": 3046,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2016-10-24T00:54:45.4768178+03:00"
+    },
+    {
+      "productId": 2596,
+      "reviewText": "heard about this on instrumental country radio, decided to give it a try.",
+      "reviewDate": "2019-05-07T00:12:37.0465625+03:00"
+    },
+    {
+      "productId": 3581,
+      "reviewText": "talk about optimism!!!",
+      "reviewDate": "2018-07-18T12:54:48.323905+03:00"
+    }
+  ]
+}

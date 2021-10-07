@@ -1,0 +1,24 @@
+{
+  "userId": 34911,
+  "cartId": "3e6b0d7b-1f7f-4c57-9ff2-ed8c7113d91b",
+  "preferredProducts": [
+    473,
+    1102,
+    3721,
+    3655,
+    1924,
+    605
+  ],
+  "productReviews": [
+    {
+      "productId": 3882,
+      "reviewText": "My co-worker Cato has one of these. He says it looks sopping.",
+      "reviewDate": "2018-12-13T13:37:59.1995302+02:00"
+    },
+    {
+      "productId": 3128,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2017-05-29T22:48:05.8882272+03:00"
+    }
+  ]
+}

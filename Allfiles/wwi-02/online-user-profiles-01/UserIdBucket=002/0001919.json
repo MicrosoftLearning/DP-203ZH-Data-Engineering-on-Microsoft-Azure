@@ -1,0 +1,43 @@
+{
+  "userId": 1919,
+  "cartId": "0131bf11-96e5-468b-b0e2-2f590cda4da4",
+  "preferredProducts": [
+    3817,
+    3932,
+    634,
+    508,
+    2792,
+    2391,
+    2213,
+    3928,
+    2838,
+    615
+  ],
+  "productReviews": [
+    {
+      "productId": 3354,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2020-02-03T03:17:48.8843088+02:00"
+    },
+    {
+      "productId": 231,
+      "reviewText": "heard about this on timba radio, decided to give it a try.",
+      "reviewDate": "2018-07-06T03:09:26.7029028+03:00"
+    },
+    {
+      "productId": 2604,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-11-29T05:28:48.6081895+02:00"
+    },
+    {
+      "productId": 4269,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2019-08-12T14:39:42.6849263+03:00"
+    },
+    {
+      "productId": 3624,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-09-01T21:12:49.2085453+03:00"
+    }
+  ]
+}

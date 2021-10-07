@@ -1,0 +1,32 @@
+{
+  "userId": 43037,
+  "cartId": "3a91d5ba-f34d-4049-a3bb-569f03036916",
+  "preferredProducts": [
+    2431,
+    2981,
+    1686,
+    91,
+    1634,
+    2255,
+    1676,
+    3105,
+    1739
+  ],
+  "productReviews": [
+    {
+      "productId": 4090,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-12-11T10:17:12.1325425+02:00"
+    },
+    {
+      "productId": 625,
+      "reviewText": "I saw one of these in Sao Tome and Principe and I bought one.",
+      "reviewDate": "2020-04-04T05:15:08.7657415+03:00"
+    },
+    {
+      "productId": 3723,
+      "reviewText": "heard about this on folktronica radio, decided to give it a try.",
+      "reviewDate": "2019-02-23T02:07:25.1674984+02:00"
+    }
+  ]
+}

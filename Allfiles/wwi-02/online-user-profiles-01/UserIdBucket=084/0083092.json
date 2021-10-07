@@ -1,0 +1,28 @@
+{
+  "userId": 83092,
+  "cartId": "21f5621f-48c2-409d-a1c3-5cfe9c14d59a",
+  "preferredProducts": [
+    4721,
+    4185,
+    3357,
+    1725,
+    1363
+  ],
+  "productReviews": [
+    {
+      "productId": 261,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2020-03-22T06:17:55.6025538+02:00"
+    },
+    {
+      "productId": 729,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-01-20T01:03:18.7640088+02:00"
+    },
+    {
+      "productId": 57,
+      "reviewText": "talk about contentment!!!",
+      "reviewDate": "2019-10-16T22:04:55.4586355+03:00"
+    }
+  ]
+}

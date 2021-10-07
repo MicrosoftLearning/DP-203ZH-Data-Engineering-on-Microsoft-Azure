@@ -1,0 +1,27 @@
+{
+  "userId": 42132,
+  "cartId": "bfa2c6b9-c25a-4c22-b38b-41b864642430",
+  "preferredProducts": [
+    304,
+    3058,
+    2510,
+    322
+  ],
+  "productReviews": [
+    {
+      "productId": 4871,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-06-13T15:35:48.66466+03:00"
+    },
+    {
+      "productId": 420,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-07-23T06:09:26.5020947+03:00"
+    },
+    {
+      "productId": 3283,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2019-02-21T00:23:27.8278823+02:00"
+    }
+  ]
+}

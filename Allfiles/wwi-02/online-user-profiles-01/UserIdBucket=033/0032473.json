@@ -1,0 +1,43 @@
+{
+  "userId": 32473,
+  "cartId": "474e60ee-5de1-4071-948b-8178d6bcf3ee",
+  "preferredProducts": [
+    4986,
+    689,
+    670,
+    3185,
+    3371,
+    4004,
+    3939,
+    755,
+    2294,
+    2205
+  ],
+  "productReviews": [
+    {
+      "productId": 1258,
+      "reviewText": "this cyan is complimentary.",
+      "reviewDate": "2017-06-25T08:38:06.9528241+03:00"
+    },
+    {
+      "productId": 2990,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-03-21T20:47:08.5464936+02:00"
+    },
+    {
+      "productId": 3406,
+      "reviewText": "talk about hatred!!!",
+      "reviewDate": "2016-06-25T12:15:03.6038616+03:00"
+    },
+    {
+      "productId": 1004,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-05-28T16:44:12.5348672+03:00"
+    },
+    {
+      "productId": 1620,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-06-25T21:27:13.6704517+03:00"
+    }
+  ]
+}

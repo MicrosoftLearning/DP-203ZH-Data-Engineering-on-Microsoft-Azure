@@ -1,0 +1,26 @@
+{
+  "userId": 9925,
+  "cartId": "3534830f-54ac-4f47-b73f-cbdc89fa421a",
+  "preferredProducts": [
+    1125,
+    3545,
+    4941,
+    4219,
+    2113,
+    3657,
+    4206,
+    69
+  ],
+  "productReviews": [
+    {
+      "productId": 2384,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-12-12T09:12:24.8582631+02:00"
+    },
+    {
+      "productId": 1493,
+      "reviewText": "My terrier loves to play with it.",
+      "reviewDate": "2018-01-18T03:27:08.16404+02:00"
+    }
+  ]
+}

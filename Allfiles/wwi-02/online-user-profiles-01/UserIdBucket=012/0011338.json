@@ -1,0 +1,35 @@
+{
+  "userId": 11338,
+  "cartId": "59a45108-1358-49ef-af2e-dac5532d7396",
+  "preferredProducts": [
+    2040,
+    4831,
+    2159,
+    3527,
+    2975,
+    1065,
+    2263
+  ],
+  "productReviews": [
+    {
+      "productId": 4091,
+      "reviewText": "this turn-key is smooth.",
+      "reviewDate": "2019-08-01T14:15:04.8900487+03:00"
+    },
+    {
+      "productId": 4943,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-07-08T18:26:15.0063198+03:00"
+    },
+    {
+      "productId": 986,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2018-10-04T22:29:20.9392855+03:00"
+    },
+    {
+      "productId": 1954,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-03-27T06:22:04.1542782+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 85809,
+  "cartId": "9e0bb024-b049-48b0-b30f-21740894bead",
+  "preferredProducts": [
+    3966,
+    399,
+    4089,
+    1343
+  ],
+  "productReviews": [
+    {
+      "productId": 325,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2018-05-31T02:50:12.7007464+03:00"
+    },
+    {
+      "productId": 228,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2018-04-06T17:03:09.1963189+03:00"
+    },
+    {
+      "productId": 2302,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2016-09-05T15:36:30.0590004+03:00"
+    },
+    {
+      "productId": 99,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 15 gram!!!",
+      "reviewDate": "2018-12-12T12:54:40.1362888+02:00"
+    }
+  ]
+}

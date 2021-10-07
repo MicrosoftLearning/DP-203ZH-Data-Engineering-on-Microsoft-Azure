@@ -1,0 +1,28 @@
+{
+  "userId": 98818,
+  "cartId": "fe8515d6-13ee-4786-8809-a6b58f919c20",
+  "preferredProducts": [
+    2345,
+    3590,
+    420,
+    167,
+    71
+  ],
+  "productReviews": [
+    {
+      "productId": 3626,
+      "reviewText": "My co-worker Archer has one of these. He says it looks crooked.",
+      "reviewDate": "2018-03-31T06:32:12.4530069+03:00"
+    },
+    {
+      "productId": 1054,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2020-05-04T00:07:00.5654535+03:00"
+    },
+    {
+      "productId": 506,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2016-10-18T09:08:29.7334085+03:00"
+    }
+  ]
+}

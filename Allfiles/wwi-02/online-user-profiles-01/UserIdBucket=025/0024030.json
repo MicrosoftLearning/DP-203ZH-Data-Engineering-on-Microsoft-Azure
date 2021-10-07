@@ -1,0 +1,37 @@
+{
+  "userId": 24030,
+  "cartId": "4d05e71f-3dc3-4761-a907-1c0b83f9aa9a",
+  "preferredProducts": [
+    3275,
+    3510,
+    4276,
+    1113,
+    1814,
+    4531,
+    3599,
+    1989,
+    664
+  ],
+  "productReviews": [
+    {
+      "productId": 1986,
+      "reviewText": "It only works when I'm Rwanda.",
+      "reviewDate": "2017-11-04T04:55:03.989632+02:00"
+    },
+    {
+      "productId": 1197,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-11-04T02:52:35.8467944+02:00"
+    },
+    {
+      "productId": 4685,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2019-08-01T21:39:55.6918983+03:00"
+    },
+    {
+      "productId": 710,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2020-04-14T19:43:10.7936701+03:00"
+    }
+  ]
+}

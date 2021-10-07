@@ -1,0 +1,30 @@
+{
+  "userId": 11877,
+  "cartId": "13b22e54-109c-4a86-8f8a-0d87e722f10a",
+  "preferredProducts": [
+    1007,
+    90,
+    2579,
+    1458,
+    3569,
+    2887,
+    2230
+  ],
+  "productReviews": [
+    {
+      "productId": 3087,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2019-10-04T10:09:57.4764797+03:00"
+    },
+    {
+      "productId": 3224,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2016-06-06T12:30:14.1376575+03:00"
+    },
+    {
+      "productId": 1684,
+      "reviewText": "This Nepalese Rupee works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-08-15T07:02:07.0830203+03:00"
+    }
+  ]
+}

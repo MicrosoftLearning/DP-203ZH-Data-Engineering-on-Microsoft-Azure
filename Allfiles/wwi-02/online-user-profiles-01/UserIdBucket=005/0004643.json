@@ -1,0 +1,31 @@
+{
+  "userId": 4643,
+  "cartId": "05d8f32c-a572-4c47-81af-f8111bffb4c9",
+  "preferredProducts": [
+    1565,
+    3866,
+    3787
+  ],
+  "productReviews": [
+    {
+      "productId": 3852,
+      "reviewText": "this Points is awesome.",
+      "reviewDate": "2018-10-31T18:53:06.2115631+02:00"
+    },
+    {
+      "productId": 904,
+      "reviewText": "It only works when I'm Guernsey.",
+      "reviewDate": "2017-09-14T15:23:49.9506836+03:00"
+    },
+    {
+      "productId": 4099,
+      "reviewText": "this synthesize is perplexed.",
+      "reviewDate": "2016-11-07T00:39:15.7869599+02:00"
+    },
+    {
+      "productId": 2392,
+      "reviewText": "It only works when I'm Malaysia.",
+      "reviewDate": "2017-08-19T00:18:14.5447992+03:00"
+    }
+  ]
+}

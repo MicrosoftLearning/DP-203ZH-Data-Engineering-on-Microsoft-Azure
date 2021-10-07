@@ -1,0 +1,30 @@
+{
+  "userId": 6270,
+  "cartId": "f73370ed-7c23-40d5-83ab-3024cf65691e",
+  "preferredProducts": [
+    1411,
+    1081
+  ],
+  "productReviews": [
+    {
+      "productId": 2271,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-08-24T21:01:40.1567108+03:00"
+    },
+    {
+      "productId": 3878,
+      "reviewText": "this Summit is vertical.",
+      "reviewDate": "2018-09-15T04:57:11.048892+03:00"
+    },
+    {
+      "productId": 2923,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2016-06-11T13:18:10.0021427+03:00"
+    },
+    {
+      "productId": 4033,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-04-10T00:14:08.4603786+03:00"
+    }
+  ]
+}

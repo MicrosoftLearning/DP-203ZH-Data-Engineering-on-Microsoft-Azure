@@ -1,0 +1,32 @@
+{
+  "userId": 43571,
+  "cartId": "43f2542b-608d-4065-bb8e-9cf60a23cbf6",
+  "preferredProducts": [
+    2355,
+    2502,
+    4654,
+    2099
+  ],
+  "productReviews": [
+    {
+      "productId": 1942,
+      "reviewText": "I saw one of these in French Southern and Antarctic Lands and I bought one.",
+      "reviewDate": "2016-09-01T00:10:45.442365+03:00"
+    },
+    {
+      "productId": 2511,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2016-09-17T21:56:45.5702666+03:00"
+    },
+    {
+      "productId": 1420,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-05-08T02:50:50.9798992+03:00"
+    },
+    {
+      "productId": 197,
+      "reviewText": "The box this comes in is 5 light-year by 6 foot and weights 17 megaton!!!",
+      "reviewDate": "2020-02-25T14:01:51.3698741+02:00"
+    }
+  ]
+}

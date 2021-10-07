@@ -1,0 +1,27 @@
+{
+  "userId": 29008,
+  "cartId": "4eea5961-f39b-45be-8e74-f5782d884c5d",
+  "preferredProducts": [
+    4828,
+    2157,
+    619,
+    1303
+  ],
+  "productReviews": [
+    {
+      "productId": 3488,
+      "reviewText": "this Soft is nifty.",
+      "reviewDate": "2016-06-06T22:57:17.2179268+03:00"
+    },
+    {
+      "productId": 4211,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2017-07-11T17:34:05.5339305+03:00"
+    },
+    {
+      "productId": 67,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2016-07-26T10:44:58.6282824+03:00"
+    }
+  ]
+}

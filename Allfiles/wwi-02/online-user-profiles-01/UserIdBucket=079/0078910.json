@@ -1,0 +1,21 @@
+{
+  "userId": 78910,
+  "cartId": "e531342b-0bc6-465d-82e7-d70073623c08",
+  "preferredProducts": [
+    3423,
+    317,
+    1761
+  ],
+  "productReviews": [
+    {
+      "productId": 1828,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2017-10-11T23:22:21.7354878+03:00"
+    },
+    {
+      "productId": 1874,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2019-11-29T13:31:55.4701034+02:00"
+    }
+  ]
+}

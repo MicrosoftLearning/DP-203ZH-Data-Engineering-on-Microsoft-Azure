@@ -1,0 +1,31 @@
+{
+  "userId": 16389,
+  "cartId": "0acb467b-49de-4251-8d9e-551ed05995b1",
+  "preferredProducts": [
+    1535,
+    2925,
+    1297
+  ],
+  "productReviews": [
+    {
+      "productId": 2546,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-10-10T02:29:10.6197697+03:00"
+    },
+    {
+      "productId": 828,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2018-03-18T02:37:31.611553+02:00"
+    },
+    {
+      "productId": 3497,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-04-16T02:08:49.3183047+03:00"
+    },
+    {
+      "productId": 2164,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2017-06-01T12:38:25.4052418+03:00"
+    }
+  ]
+}

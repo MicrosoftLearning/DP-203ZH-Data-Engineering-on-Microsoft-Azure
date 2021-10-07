@@ -1,0 +1,39 @@
+{
+  "userId": 4765,
+  "cartId": "e92b573b-f253-476e-9e05-3aefe3abeb8d",
+  "preferredProducts": [
+    4509,
+    228,
+    1504,
+    1257,
+    4621,
+    1989
+  ],
+  "productReviews": [
+    {
+      "productId": 1976,
+      "reviewText": "My co-worker Skylar has one of these. He says it looks sweaty.",
+      "reviewDate": "2017-01-06T14:27:12.0355958+02:00"
+    },
+    {
+      "productId": 2777,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2018-10-22T23:19:18.1832807+03:00"
+    },
+    {
+      "productId": 2686,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-01-04T08:23:43.9365564+02:00"
+    },
+    {
+      "productId": 1540,
+      "reviewText": "heard about this on wonky radio, decided to give it a try.",
+      "reviewDate": "2019-08-25T11:06:22.0787283+03:00"
+    },
+    {
+      "productId": 3627,
+      "reviewText": "this Checking Account is awesome.",
+      "reviewDate": "2017-11-30T19:23:31.1100709+02:00"
+    }
+  ]
+}

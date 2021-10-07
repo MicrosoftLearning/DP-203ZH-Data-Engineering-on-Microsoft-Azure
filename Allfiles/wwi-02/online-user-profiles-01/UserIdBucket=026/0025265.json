@@ -1,0 +1,27 @@
+{
+  "userId": 25265,
+  "cartId": "d482d4ae-b659-4320-9804-5ec7bee92d49",
+  "preferredProducts": [
+    367,
+    667,
+    1651,
+    1772
+  ],
+  "productReviews": [
+    {
+      "productId": 4100,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2016-07-01T15:37:12.5110038+03:00"
+    },
+    {
+      "productId": 2253,
+      "reviewText": "I saw one of these in Nauru and I bought one.",
+      "reviewDate": "2019-11-30T00:16:49.9461011+02:00"
+    },
+    {
+      "productId": 1619,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2019-01-25T02:46:35.6517451+02:00"
+    }
+  ]
+}

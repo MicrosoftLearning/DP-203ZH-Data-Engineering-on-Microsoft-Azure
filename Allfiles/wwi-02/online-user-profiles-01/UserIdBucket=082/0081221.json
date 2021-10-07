@@ -1,0 +1,40 @@
+{
+  "userId": 81221,
+  "cartId": "9b15bc68-7533-45ba-983f-c27e0d288d27",
+  "preferredProducts": [
+    4432,
+    1983,
+    3154,
+    1958,
+    2185,
+    4570,
+    2219
+  ],
+  "productReviews": [
+    {
+      "productId": 473,
+      "reviewText": "This is a really good hack.",
+      "reviewDate": "2018-01-15T11:44:24.4888895+02:00"
+    },
+    {
+      "productId": 4910,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2018-03-20T06:32:23.9405396+02:00"
+    },
+    {
+      "productId": 1760,
+      "reviewText": "this Mauritius Rupee is flirty.",
+      "reviewDate": "2018-01-11T19:36:46.4886351+02:00"
+    },
+    {
+      "productId": 2816,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2020-01-24T19:45:27.6314174+02:00"
+    },
+    {
+      "productId": 428,
+      "reviewText": "It only works when I'm Martinique.",
+      "reviewDate": "2019-12-16T03:30:03.1564374+02:00"
+    }
+  ]
+}

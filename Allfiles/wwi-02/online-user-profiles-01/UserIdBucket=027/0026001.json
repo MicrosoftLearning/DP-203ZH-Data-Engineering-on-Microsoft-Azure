@@ -1,0 +1,33 @@
+{
+  "userId": 26001,
+  "cartId": "150bee31-cc72-4f2d-a27b-a3947a1f0949",
+  "preferredProducts": [
+    1916,
+    1686,
+    2275,
+    1295,
+    3533
+  ],
+  "productReviews": [
+    {
+      "productId": 2721,
+      "reviewText": "It only works when I'm Azerbaijan.",
+      "reviewDate": "2017-12-17T16:55:33.8882244+02:00"
+    },
+    {
+      "productId": 2640,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-11-30T04:55:10.8746597+02:00"
+    },
+    {
+      "productId": 2040,
+      "reviewText": "This invoice works certainly well. It energetically improves my golf by a lot.",
+      "reviewDate": "2016-09-17T10:58:46.603257+03:00"
+    },
+    {
+      "productId": 4723,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-11-17T12:25:30.0827286+02:00"
+    }
+  ]
+}

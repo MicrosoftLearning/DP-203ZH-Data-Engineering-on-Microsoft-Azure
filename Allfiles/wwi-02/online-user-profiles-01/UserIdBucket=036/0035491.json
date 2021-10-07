@@ -1,0 +1,30 @@
+{
+  "userId": 35491,
+  "cartId": "8064c206-8593-458a-8894-adff1c060553",
+  "preferredProducts": [
+    1256,
+    4674
+  ],
+  "productReviews": [
+    {
+      "productId": 3014,
+      "reviewText": "This is a really good backing up.",
+      "reviewDate": "2019-05-14T06:21:06.8095003+03:00"
+    },
+    {
+      "productId": 2192,
+      "reviewText": "heard about this on gypsy jazz radio, decided to give it a try.",
+      "reviewDate": "2017-09-07T19:56:42.8005475+03:00"
+    },
+    {
+      "productId": 1973,
+      "reviewText": "This Handmade, does exactly what it's suppose to do.",
+      "reviewDate": "2018-09-22T20:26:48.1081204+03:00"
+    },
+    {
+      "productId": 443,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2016-07-01T00:27:36.0257009+03:00"
+    }
+  ]
+}

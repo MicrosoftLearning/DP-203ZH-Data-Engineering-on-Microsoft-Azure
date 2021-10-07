@@ -1,0 +1,32 @@
+{
+  "userId": 85159,
+  "cartId": "a2546f9c-73a1-4a4b-a98f-c626a2bf7eb5",
+  "preferredProducts": [
+    4302,
+    3979,
+    174,
+    4081
+  ],
+  "productReviews": [
+    {
+      "productId": 4957,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-12-04T11:02:32.6201371+02:00"
+    },
+    {
+      "productId": 1617,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2016-09-05T03:03:47.9244486+03:00"
+    },
+    {
+      "productId": 941,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2018-09-20T17:09:44.5702844+03:00"
+    },
+    {
+      "productId": 1009,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-08-18T13:59:36.1609147+03:00"
+    }
+  ]
+}

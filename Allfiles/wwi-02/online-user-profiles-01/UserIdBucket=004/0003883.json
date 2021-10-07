@@ -1,0 +1,33 @@
+{
+  "userId": 3883,
+  "cartId": "a9e183b7-d171-4fed-a7cc-4b7792c23466",
+  "preferredProducts": [
+    3506,
+    2648,
+    2495,
+    2508,
+    2561,
+    4227,
+    4439,
+    4779,
+    3390,
+    4208
+  ],
+  "productReviews": [
+    {
+      "productId": 4040,
+      "reviewText": "one of my hobbies is mushroom cultivation. and when i'm cultivating mushrooms this works great.",
+      "reviewDate": "2017-09-01T03:00:08.9991128+03:00"
+    },
+    {
+      "productId": 4923,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-12-25T01:49:29.0996488+02:00"
+    },
+    {
+      "productId": 4326,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+      "reviewDate": "2019-09-19T12:05:32.8500918+03:00"
+    }
+  ]
+}

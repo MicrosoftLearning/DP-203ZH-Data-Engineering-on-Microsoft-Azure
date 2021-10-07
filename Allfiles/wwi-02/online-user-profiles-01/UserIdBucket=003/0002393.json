@@ -1,0 +1,28 @@
+{
+  "userId": 2393,
+  "cartId": "0b08ce07-e276-4991-bdb6-0b5ccfdda944",
+  "preferredProducts": [
+    4411,
+    88,
+    3338,
+    1776,
+    1119
+  ],
+  "productReviews": [
+    {
+      "productId": 503,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2016-06-26T13:41:52.3095944+03:00"
+    },
+    {
+      "productId": 640,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2017-06-07T14:51:16.7912643+03:00"
+    },
+    {
+      "productId": 2900,
+      "reviewText": "i use it hardly when i'm in my prison.",
+      "reviewDate": "2017-02-03T07:27:23.3901923+02:00"
+    }
+  ]
+}

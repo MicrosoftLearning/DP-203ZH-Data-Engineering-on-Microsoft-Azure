@@ -1,0 +1,28 @@
+{
+  "userId": 22339,
+  "cartId": "7472c72f-d14d-4240-91a1-485433b4a49a",
+  "preferredProducts": [
+    2127,
+    2123,
+    4975,
+    1690,
+    3729,
+    2980,
+    656,
+    3206,
+    2060,
+    3573
+  ],
+  "productReviews": [
+    {
+      "productId": 4604,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-06-21T06:21:06.9693127+03:00"
+    },
+    {
+      "productId": 1487,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-01-29T02:15:07.6722221+02:00"
+    }
+  ]
+}

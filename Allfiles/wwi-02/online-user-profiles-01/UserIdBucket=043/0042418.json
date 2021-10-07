@@ -1,0 +1,31 @@
+{
+  "userId": 42418,
+  "cartId": "437a46d0-96c6-41e2-be66-0ede4c0b0859",
+  "preferredProducts": [
+    2956,
+    1364,
+    429,
+    1084,
+    1689,
+    4142,
+    3206,
+    1151
+  ],
+  "productReviews": [
+    {
+      "productId": 4008,
+      "reviewText": "I tried to electrocute it but got sweetmeat all over it.",
+      "reviewDate": "2019-06-14T14:08:32.369632+03:00"
+    },
+    {
+      "productId": 1180,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-11-28T12:21:42.1165788+02:00"
+    },
+    {
+      "productId": 2966,
+      "reviewText": "My vulture loves to play with it.",
+      "reviewDate": "2019-08-19T18:56:17.7874166+03:00"
+    }
+  ]
+}

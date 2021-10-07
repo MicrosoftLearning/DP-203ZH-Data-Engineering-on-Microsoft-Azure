@@ -1,0 +1,32 @@
+{
+  "userId": 31568,
+  "cartId": "a889ece3-9e83-4c37-b0b3-a2f457f232b8",
+  "preferredProducts": [
+    4078,
+    4496,
+    1111,
+    3174
+  ],
+  "productReviews": [
+    {
+      "productId": 4220,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2018-11-07T23:09:37.0059865+02:00"
+    },
+    {
+      "productId": 2845,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-06-27T03:03:26.3550951+03:00"
+    },
+    {
+      "productId": 1247,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2017-10-19T18:19:17.4400091+03:00"
+    },
+    {
+      "productId": 3950,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2019-10-05T15:51:20.1571191+03:00"
+    }
+  ]
+}

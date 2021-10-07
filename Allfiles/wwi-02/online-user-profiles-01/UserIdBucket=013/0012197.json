@@ -1,0 +1,31 @@
+{
+  "userId": 12197,
+  "cartId": "bcbabb39-03e0-4757-8488-3202d45494cc",
+  "preferredProducts": [
+    2085,
+    3252,
+    510,
+    4615,
+    2712,
+    1423,
+    1431,
+    438
+  ],
+  "productReviews": [
+    {
+      "productId": 2809,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2018-11-28T08:58:04.603664+02:00"
+    },
+    {
+      "productId": 1852,
+      "reviewText": "I saw one of these in Libya and I bought one.",
+      "reviewDate": "2020-05-06T18:15:20.87424+03:00"
+    },
+    {
+      "productId": 3303,
+      "reviewText": "I tried to slay it but got truffle all over it.",
+      "reviewDate": "2016-11-07T17:55:39.9753181+02:00"
+    }
+  ]
+}

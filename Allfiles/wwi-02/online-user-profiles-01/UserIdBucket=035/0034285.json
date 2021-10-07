@@ -1,0 +1,30 @@
+{
+  "userId": 34285,
+  "cartId": "bfe7fbb8-7b15-4a76-8c6b-50c2dcac1c9a",
+  "preferredProducts": [
+    1163,
+    4379,
+    770,
+    3135,
+    4407,
+    1207,
+    4124
+  ],
+  "productReviews": [
+    {
+      "productId": 739,
+      "reviewText": "This Awesome Wooden Bacon works very well. It persistently improves my soccer by a lot.",
+      "reviewDate": "2016-07-20T21:32:26.0913541+03:00"
+    },
+    {
+      "productId": 4951,
+      "reviewText": "My tiger loves to play with it.",
+      "reviewDate": "2018-02-04T17:41:24.3975694+02:00"
+    },
+    {
+      "productId": 3878,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-06-28T07:12:10.2078047+03:00"
+    }
+  ]
+}

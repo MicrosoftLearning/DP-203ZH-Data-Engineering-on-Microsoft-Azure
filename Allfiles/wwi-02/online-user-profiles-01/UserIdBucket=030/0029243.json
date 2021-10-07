@@ -1,0 +1,29 @@
+{
+  "userId": 29243,
+  "cartId": "d0421e25-5148-4e02-9a60-491ec0e5dff0",
+  "preferredProducts": [
+    3172,
+    3654,
+    4898,
+    1426,
+    820,
+    544
+  ],
+  "productReviews": [
+    {
+      "productId": 1491,
+      "reviewText": "My porcupine loves to play with it.",
+      "reviewDate": "2017-03-09T08:23:35.6816032+02:00"
+    },
+    {
+      "productId": 657,
+      "reviewText": "I tried to cremate it but got Turkish Delight all over it.",
+      "reviewDate": "2016-11-11T17:22:35.1219513+02:00"
+    },
+    {
+      "productId": 1223,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-08-17T19:26:28.4330824+03:00"
+    }
+  ]
+}

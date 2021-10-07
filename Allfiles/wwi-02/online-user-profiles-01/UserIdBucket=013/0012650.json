@@ -1,0 +1,30 @@
+{
+  "userId": 12650,
+  "cartId": "a6dbd9a3-2ba0-4a24-af1e-f20bca996b22",
+  "preferredProducts": [
+    1117,
+    2952,
+    26,
+    1134,
+    1981,
+    1668,
+    3464
+  ],
+  "productReviews": [
+    {
+      "productId": 1952,
+      "reviewText": "i use it on Mondays when i'm in my fort.",
+      "reviewDate": "2019-12-08T00:26:09.0829235+02:00"
+    },
+    {
+      "productId": 2986,
+      "reviewText": "My peacock loves to play with it.",
+      "reviewDate": "2019-06-24T08:39:03.8341478+03:00"
+    },
+    {
+      "productId": 1092,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2018-12-29T00:26:22.9095073+02:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "userId": 18897,
+  "cartId": "cac0e5f6-3090-4b87-bfb5-709b9aebd7d9",
+  "preferredProducts": [
+    523,
+    2340,
+    756,
+    1435,
+    1375,
+    2068,
+    2778,
+    4202,
+    3859,
+    4205
+  ],
+  "productReviews": [
+    {
+      "productId": 1259,
+      "reviewText": "This invoice works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-01-27T16:30:38.4118536+02:00"
+    },
+    {
+      "productId": 1180,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-03-08T12:43:37.9490626+02:00"
+    },
+    {
+      "productId": 4432,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2018-03-05T00:46:03.5020286+02:00"
+    }
+  ]
+}

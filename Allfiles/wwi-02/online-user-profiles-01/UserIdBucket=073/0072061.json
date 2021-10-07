@@ -1,0 +1,36 @@
+{
+  "userId": 72061,
+  "cartId": "ee3bc5f1-14b0-42a2-8412-b48358adcc2b",
+  "preferredProducts": [
+    4457,
+    1676,
+    4238,
+    1524,
+    2721,
+    425,
+    4872,
+    2634
+  ],
+  "productReviews": [
+    {
+      "productId": 3264,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2019-04-01T22:14:54.9438409+03:00"
+    },
+    {
+      "productId": 3470,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-12-03T06:21:21.3486628+02:00"
+    },
+    {
+      "productId": 4547,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-04-25T23:56:52.0584972+03:00"
+    },
+    {
+      "productId": 2304,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2019-11-04T11:40:51.5868443+02:00"
+    }
+  ]
+}

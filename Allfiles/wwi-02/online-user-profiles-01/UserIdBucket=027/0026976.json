@@ -1,0 +1,38 @@
+{
+  "userId": 26976,
+  "cartId": "7e5806ad-a80c-42df-8d60-ed9e2b71f824",
+  "preferredProducts": [
+    1305,
+    2932,
+    676,
+    4821,
+    1618
+  ],
+  "productReviews": [
+    {
+      "productId": 399,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-06-28T08:17:26.2102476+03:00"
+    },
+    {
+      "productId": 1977,
+      "reviewText": "I tried to maul it but got onion all over it.",
+      "reviewDate": "2018-12-16T20:48:15.2572609+02:00"
+    },
+    {
+      "productId": 2175,
+      "reviewText": "I tried to scratch it but got cheeseburger all over it.",
+      "reviewDate": "2018-01-10T20:31:20.6704112+02:00"
+    },
+    {
+      "productId": 2741,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-02-19T05:21:44.2719531+02:00"
+    },
+    {
+      "productId": 614,
+      "reviewText": "i use it never again when i'm in my station.",
+      "reviewDate": "2017-12-18T22:04:40.3060389+02:00"
+    }
+  ]
+}

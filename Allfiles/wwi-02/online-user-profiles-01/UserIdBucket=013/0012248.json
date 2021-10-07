@@ -1,0 +1,37 @@
+{
+  "userId": 12248,
+  "cartId": "5f7c9c7c-98fa-4481-87aa-c78a0d2f8a22",
+  "preferredProducts": [
+    4972,
+    2150,
+    3528,
+    1699,
+    2382,
+    4285,
+    4612,
+    3333,
+    1317
+  ],
+  "productReviews": [
+    {
+      "productId": 1424,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2018-08-20T14:55:28.8011759+03:00"
+    },
+    {
+      "productId": 2906,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2020-01-18T17:15:11.4256091+02:00"
+    },
+    {
+      "productId": 2347,
+      "reviewText": "heard about this on new jersey hip hop radio, decided to give it a try.",
+      "reviewDate": "2018-07-09T05:38:32.1316153+03:00"
+    },
+    {
+      "productId": 2675,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-04-22T16:40:48.7843382+03:00"
+    }
+  ]
+}

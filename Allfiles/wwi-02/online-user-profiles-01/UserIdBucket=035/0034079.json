@@ -1,0 +1,32 @@
+{
+  "userId": 34079,
+  "cartId": "87e23862-1051-43cf-b054-8677f1cabc11",
+  "preferredProducts": [
+    4894,
+    4415,
+    4220,
+    2633,
+    2541,
+    853,
+    1798,
+    1459,
+    3027
+  ],
+  "productReviews": [
+    {
+      "productId": 4571,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-09-22T21:14:40.6724622+03:00"
+    },
+    {
+      "productId": 745,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2016-08-16T15:28:53.1287505+03:00"
+    },
+    {
+      "productId": 2093,
+      "reviewText": "This Islands works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2017-10-05T02:38:19.0011991+03:00"
+    }
+  ]
+}

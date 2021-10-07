@@ -1,0 +1,33 @@
+{
+  "userId": 45606,
+  "cartId": "450ff994-474f-4c85-8909-9761ef0d0d4d",
+  "preferredProducts": [
+    2012,
+    806,
+    1265,
+    3433,
+    2538
+  ],
+  "productReviews": [
+    {
+      "productId": 2274,
+      "reviewText": "I tried to pepper it but got prune all over it.",
+      "reviewDate": "2017-04-01T18:53:29.1128847+03:00"
+    },
+    {
+      "productId": 2744,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2017-03-19T14:45:35.9036825+02:00"
+    },
+    {
+      "productId": 902,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2016-09-17T11:07:11.6508976+03:00"
+    },
+    {
+      "productId": 3952,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2017-01-22T04:03:57.2552185+02:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 4145,
+  "cartId": "20bbc774-a39e-4101-8447-e68551d81a01",
+  "preferredProducts": [
+    2559,
+    734,
+    681,
+    2622,
+    4783,
+    3905,
+    4911,
+    4852
+  ],
+  "productReviews": [
+    {
+      "productId": 3594,
+      "reviewText": "My co-worker Nile has one of these. He says it looks crooked.",
+      "reviewDate": "2019-04-23T20:39:30.5344677+03:00"
+    },
+    {
+      "productId": 3695,
+      "reviewText": "I saw one of these in Barbados and I bought one.",
+      "reviewDate": "2020-02-01T23:04:01.4196557+02:00"
+    },
+    {
+      "productId": 3793,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-05-26T07:58:39.7984447+03:00"
+    },
+    {
+      "productId": 1178,
+      "reviewText": "this Multi-tiered is ratty.",
+      "reviewDate": "2016-08-14T06:11:57.0857585+03:00"
+    }
+  ]
+}

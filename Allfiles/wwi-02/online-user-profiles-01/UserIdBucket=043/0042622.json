@@ -1,0 +1,32 @@
+{
+  "userId": 42622,
+  "cartId": "3c6fb9fc-be16-4c02-9187-63ca067fbf21",
+  "preferredProducts": [
+    4051,
+    1397,
+    4107,
+    3632,
+    4410,
+    1092,
+    568,
+    2987,
+    2989
+  ],
+  "productReviews": [
+    {
+      "productId": 704,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2017-10-03T10:09:37.0063354+03:00"
+    },
+    {
+      "productId": 4599,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-08-28T10:09:22.3619623+03:00"
+    },
+    {
+      "productId": 2932,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-06-11T15:35:08.3614073+03:00"
+    }
+  ]
+}

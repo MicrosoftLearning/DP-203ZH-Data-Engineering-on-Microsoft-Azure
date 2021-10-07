@@ -1,0 +1,37 @@
+{
+  "userId": 83497,
+  "cartId": "7b1f00f3-9aad-471a-a089-568586ddddf7",
+  "preferredProducts": [
+    368,
+    4456,
+    4537,
+    2157
+  ],
+  "productReviews": [
+    {
+      "productId": 542,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2018-04-22T04:44:11.7342994+03:00"
+    },
+    {
+      "productId": 4528,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-05-25T17:28:10.3360299+03:00"
+    },
+    {
+      "productId": 1791,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-06-07T14:42:07.0113536+03:00"
+    },
+    {
+      "productId": 4323,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2018-05-22T20:53:32.7120531+03:00"
+    },
+    {
+      "productId": 2418,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2017-03-09T13:00:20.6669289+02:00"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "userId": 24697,
+  "cartId": "1647674f-f301-481c-a647-21badaae2e4f",
+  "preferredProducts": [
+    355,
+    1990,
+    230,
+    1074,
+    2848,
+    308,
+    4410,
+    1251
+  ],
+  "productReviews": [
+    {
+      "productId": 2983,
+      "reviewText": "this Developer is mellow.",
+      "reviewDate": "2019-12-03T01:21:01.4855711+02:00"
+    },
+    {
+      "productId": 2996,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2019-11-28T13:04:22.9215945+02:00"
+    },
+    {
+      "productId": 2129,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2016-06-22T11:59:58.4019418+03:00"
+    }
+  ]
+}

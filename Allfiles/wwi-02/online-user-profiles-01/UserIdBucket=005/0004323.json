@@ -1,0 +1,23 @@
+{
+  "userId": 4323,
+  "cartId": "6a1732da-84b5-45b4-8152-b9cf69144ecc",
+  "preferredProducts": [
+    3900,
+    189,
+    1589,
+    4728,
+    2358
+  ],
+  "productReviews": [
+    {
+      "productId": 2399,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-01-08T11:15:26.1518548+02:00"
+    },
+    {
+      "productId": 3174,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2017-06-13T10:19:50.6071715+03:00"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "userId": 53805,
+  "cartId": "a80d6e80-f39e-4525-af4c-a531d5aa5893",
+  "preferredProducts": [
+    4423,
+    3360,
+    1344,
+    3799,
+    4002,
+    3950,
+    4674,
+    4071
+  ],
+  "productReviews": [
+    {
+      "productId": 1523,
+      "reviewText": "this indexing is ghetto.",
+      "reviewDate": "2019-10-03T18:11:43.9829164+03:00"
+    },
+    {
+      "productId": 2219,
+      "reviewText": "works okay.",
+      "reviewDate": "2016-11-22T05:32:18.3996908+02:00"
+    },
+    {
+      "productId": 4274,
+      "reviewText": "heard about this on chicha radio, decided to give it a try.",
+      "reviewDate": "2020-01-30T20:20:28.9101852+02:00"
+    },
+    {
+      "productId": 805,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2020-01-02T18:05:14.9847723+02:00"
+    }
+  ]
+}

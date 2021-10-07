@@ -1,0 +1,35 @@
+{
+  "userId": 4090,
+  "cartId": "8910fcd0-64ad-4f02-830c-2eb0434d4c53",
+  "preferredProducts": [
+    2040,
+    4340
+  ],
+  "productReviews": [
+    {
+      "productId": 3166,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-01-14T05:56:23.5612715+02:00"
+    },
+    {
+      "productId": 2995,
+      "reviewText": "I tried to shatter it but got potato all over it.",
+      "reviewDate": "2019-05-25T10:41:07.8303051+03:00"
+    },
+    {
+      "productId": 1843,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-05-03T23:38:15.1088647+03:00"
+    },
+    {
+      "productId": 2806,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-05-24T11:29:18.7408063+03:00"
+    },
+    {
+      "productId": 4833,
+      "reviewText": "My demon loves to play with it.",
+      "reviewDate": "2019-02-05T16:50:58.1495962+02:00"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "userId": 89189,
+  "cartId": "68c49ad0-bfbb-45cf-93e3-b1c7382d3663",
+  "preferredProducts": [
+    2941,
+    4959
+  ],
+  "productReviews": [
+    {
+      "productId": 233,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2016-10-20T18:47:12.6994265+03:00"
+    },
+    {
+      "productId": 376,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-11-16T11:20:11.0845354+02:00"
+    },
+    {
+      "productId": 4038,
+      "reviewText": "It only works when I'm Norway.",
+      "reviewDate": "2017-07-14T19:33:54.2009266+03:00"
+    }
+  ]
+}

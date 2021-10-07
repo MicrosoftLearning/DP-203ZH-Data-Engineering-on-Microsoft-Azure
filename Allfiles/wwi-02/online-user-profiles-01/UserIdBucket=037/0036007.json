@@ -1,0 +1,33 @@
+{
+  "userId": 36007,
+  "cartId": "de2e9136-2483-41d8-afd1-76b1c846e300",
+  "preferredProducts": [
+    811,
+    1732,
+    1643,
+    187,
+    1281
+  ],
+  "productReviews": [
+    {
+      "productId": 4583,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-11-18T03:26:05.2459831+02:00"
+    },
+    {
+      "productId": 4163,
+      "reviewText": "My neighbor Honora has one of these. She works as a reporter and she says it looks enormous.",
+      "reviewDate": "2017-10-14T23:11:30.8034307+03:00"
+    },
+    {
+      "productId": 3379,
+      "reviewText": "i use it never when i'm in my hotel.",
+      "reviewDate": "2017-11-27T21:15:50.534054+02:00"
+    },
+    {
+      "productId": 3576,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2016-12-22T02:59:47.5175644+02:00"
+    }
+  ]
+}

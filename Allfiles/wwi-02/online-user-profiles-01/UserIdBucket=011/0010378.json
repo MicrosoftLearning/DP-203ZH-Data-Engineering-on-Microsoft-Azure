@@ -1,0 +1,41 @@
+{
+  "userId": 10378,
+  "cartId": "0a773691-a6ea-43d0-8f1c-be91531e9456",
+  "preferredProducts": [
+    1828,
+    4649,
+    4958,
+    2976,
+    3898,
+    4612,
+    2635,
+    3057
+  ],
+  "productReviews": [
+    {
+      "productId": 4016,
+      "reviewText": "this Steel is nifty.",
+      "reviewDate": "2017-04-09T09:58:58.4067083+03:00"
+    },
+    {
+      "productId": 1053,
+      "reviewText": "heard about this on hip-hop music radio, decided to give it a try.",
+      "reviewDate": "2017-11-17T06:07:29.3991292+02:00"
+    },
+    {
+      "productId": 368,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2017-01-20T04:12:30.3156488+02:00"
+    },
+    {
+      "productId": 1099,
+      "reviewText": "i use it once a week when i'm in my firetruck.",
+      "reviewDate": "2019-08-04T16:35:50.2716281+03:00"
+    },
+    {
+      "productId": 2877,
+      "reviewText": "heard about this on ndombolo radio, decided to give it a try.",
+      "reviewDate": "2016-06-27T02:44:14.6412994+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 18567,
+  "cartId": "58f1550b-5e46-47c9-b6cb-b082482c3187",
+  "preferredProducts": [
+    966,
+    1627
+  ],
+  "productReviews": [
+    {
+      "productId": 472,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2017-09-19T20:03:51.3897053+03:00"
+    },
+    {
+      "productId": 419,
+      "reviewText": "heard about this on original pilipino music radio, decided to give it a try.",
+      "reviewDate": "2019-01-05T02:14:33.5843115+02:00"
+    },
+    {
+      "productId": 340,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-03-12T22:24:28.2665519+02:00"
+    },
+    {
+      "productId": 4682,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2018-08-26T00:29:44.0694854+03:00"
+    }
+  ]
+}

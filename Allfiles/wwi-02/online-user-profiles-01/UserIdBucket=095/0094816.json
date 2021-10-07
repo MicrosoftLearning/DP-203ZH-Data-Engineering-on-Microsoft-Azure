@@ -1,0 +1,35 @@
+{
+  "userId": 94816,
+  "cartId": "c5880a5b-54a9-4a52-86bb-bb811c160d65",
+  "preferredProducts": [
+    4383,
+    429,
+    2776,
+    2094,
+    1851,
+    1364,
+    1413
+  ],
+  "productReviews": [
+    {
+      "productId": 1289,
+      "reviewText": "this virtual is tasty.",
+      "reviewDate": "2020-01-13T21:00:51.6036294+02:00"
+    },
+    {
+      "productId": 4221,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2016-05-28T16:04:23.8871554+03:00"
+    },
+    {
+      "productId": 4610,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-01-09T17:12:35.7629343+02:00"
+    },
+    {
+      "productId": 3212,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2017-11-18T12:09:05.0992027+02:00"
+    }
+  ]
+}

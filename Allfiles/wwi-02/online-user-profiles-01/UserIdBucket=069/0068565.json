@@ -1,0 +1,33 @@
+{
+  "userId": 68565,
+  "cartId": "ef282f11-b96f-4919-99e9-1fcc3d5bc909",
+  "preferredProducts": [
+    1046,
+    1635,
+    3735,
+    3245,
+    1373,
+    2060,
+    2689,
+    3093,
+    3628,
+    1843
+  ],
+  "productReviews": [
+    {
+      "productId": 1733,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2018-06-24T05:36:11.8620651+03:00"
+    },
+    {
+      "productId": 4250,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-03-16T08:34:39.1893987+02:00"
+    },
+    {
+      "productId": 4855,
+      "reviewText": "I tried to manhandle it but got bun all over it.",
+      "reviewDate": "2018-04-22T04:01:14.5069886+03:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "userId": 23689,
+  "cartId": "7d7c7d27-8eda-463b-9335-ab4de935e13a",
+  "preferredProducts": [
+    4401,
+    3956,
+    4847,
+    3690,
+    2525,
+    802,
+    804,
+    2224
+  ],
+  "productReviews": [
+    {
+      "productId": 138,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2017-10-27T05:58:59.2377336+03:00"
+    },
+    {
+      "productId": 4067,
+      "reviewText": "this Gardens is awesome.",
+      "reviewDate": "2017-02-28T14:42:58.6966038+02:00"
+    },
+    {
+      "productId": 2560,
+      "reviewText": "I tried to maim it but got nectarine all over it.",
+      "reviewDate": "2018-11-26T04:42:31.3471672+02:00"
+    },
+    {
+      "productId": 1512,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2016-12-04T19:41:32.8257261+02:00"
+    },
+    {
+      "productId": 2070,
+      "reviewText": "My co-worker Erick has one of these. He says it looks fluffy.",
+      "reviewDate": "2018-02-27T14:37:56.729477+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 42849,
+  "cartId": "681343f8-8afb-4d85-bf19-449e1624165b",
+  "preferredProducts": [
+    1237,
+    2492,
+    2891,
+    2830,
+    2083,
+    1047,
+    583,
+    472,
+    4070,
+    3821
+  ],
+  "productReviews": [
+    {
+      "productId": 511,
+      "reviewText": "My neighbor Eller has one of these. She works as a butler and she says it looks smoky.",
+      "reviewDate": "2018-12-03T23:57:14.7349269+02:00"
+    },
+    {
+      "productId": 4175,
+      "reviewText": "one of my hobbies is skydiving. and when i'm skydiving this works great.",
+      "reviewDate": "2019-05-19T12:18:53.3370259+03:00"
+    },
+    {
+      "productId": 2571,
+      "reviewText": "This Sleek works excessively well. It mortally improves my golf by a lot.",
+      "reviewDate": "2016-09-14T09:08:26.4457975+03:00"
+    },
+    {
+      "productId": 4601,
+      "reviewText": "My neighbor Lonnie has one of these. She works as a hobbit and she says it looks microscopic.",
+      "reviewDate": "2019-11-03T01:13:36.9339715+02:00"
+    }
+  ]
+}

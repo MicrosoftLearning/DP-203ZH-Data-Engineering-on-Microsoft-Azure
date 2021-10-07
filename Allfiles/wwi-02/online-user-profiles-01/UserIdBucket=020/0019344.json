@@ -1,0 +1,30 @@
+{
+  "userId": 19344,
+  "cartId": "6f8637ec-d481-47b6-8a0e-cb65317d16ef",
+  "preferredProducts": [
+    2342,
+    600,
+    684,
+    1233,
+    3095,
+    1578,
+    2192
+  ],
+  "productReviews": [
+    {
+      "productId": 239,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2018-09-18T21:08:38.1808344+03:00"
+    },
+    {
+      "productId": 608,
+      "reviewText": "My neighbor Lori has one of these. She works as a taxidermist and she says it looks whopping.",
+      "reviewDate": "2019-03-16T19:10:58.6736067+02:00"
+    },
+    {
+      "productId": 339,
+      "reviewText": "I tried to impale it but got fudge all over it.",
+      "reviewDate": "2016-06-21T01:30:03.8235143+03:00"
+    }
+  ]
+}

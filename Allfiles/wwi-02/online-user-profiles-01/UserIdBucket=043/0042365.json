@@ -1,0 +1,37 @@
+{
+  "userId": 42365,
+  "cartId": "14417be7-7518-4e0b-8b19-ac95c4143b3a",
+  "preferredProducts": [
+    1111,
+    2098,
+    1685,
+    1757,
+    2456,
+    1928,
+    378,
+    3483,
+    4077
+  ],
+  "productReviews": [
+    {
+      "productId": 3150,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2019-07-15T15:37:43.7541507+03:00"
+    },
+    {
+      "productId": 2447,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2016-12-15T23:20:45.8995591+02:00"
+    },
+    {
+      "productId": 625,
+      "reviewText": "this frictionless is light-hearted.",
+      "reviewDate": "2017-11-28T04:29:04.9472499+02:00"
+    },
+    {
+      "productId": 3217,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2016-12-21T00:50:00.681427+02:00"
+    }
+  ]
+}

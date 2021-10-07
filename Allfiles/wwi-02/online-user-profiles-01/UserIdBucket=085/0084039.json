@@ -1,0 +1,28 @@
+{
+  "userId": 84039,
+  "cartId": "c7b64764-78b6-4b9c-88ad-a0b493530888",
+  "preferredProducts": [
+    2211,
+    4298,
+    833,
+    1465,
+    3291
+  ],
+  "productReviews": [
+    {
+      "productId": 4135,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-07-06T06:04:19.2471879+03:00"
+    },
+    {
+      "productId": 910,
+      "reviewText": "this International is snowy.",
+      "reviewDate": "2018-11-10T15:47:25.0375765+02:00"
+    },
+    {
+      "productId": 3299,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-02-21T01:44:33.4389567+02:00"
+    }
+  ]
+}

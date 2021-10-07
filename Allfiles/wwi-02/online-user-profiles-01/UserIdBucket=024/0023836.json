@@ -1,0 +1,39 @@
+{
+  "userId": 23836,
+  "cartId": "1b016552-bcdb-4aaf-b648-fb50b3ecfa0f",
+  "preferredProducts": [
+    4813,
+    2656,
+    4275,
+    3124,
+    4255,
+    2753
+  ],
+  "productReviews": [
+    {
+      "productId": 126,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-03-04T00:33:00.8843751+02:00"
+    },
+    {
+      "productId": 1113,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-04-17T05:09:28.1259816+03:00"
+    },
+    {
+      "productId": 237,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2016-09-07T07:54:29.0242077+03:00"
+    },
+    {
+      "productId": 3285,
+      "reviewText": "My neighbor Karly has one of these. She works as a gambler and she says it looks tall.",
+      "reviewDate": "2017-01-18T01:08:24.7199385+02:00"
+    },
+    {
+      "productId": 4870,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2018-02-03T22:55:49.9834497+02:00"
+    }
+  ]
+}

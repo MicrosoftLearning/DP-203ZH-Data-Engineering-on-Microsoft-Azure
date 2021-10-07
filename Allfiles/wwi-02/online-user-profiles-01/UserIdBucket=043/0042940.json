@@ -1,0 +1,22 @@
+{
+  "userId": 42940,
+  "cartId": "3048ad62-ffcd-4b3b-a02a-1d98f11b1b1b",
+  "preferredProducts": [
+    2976,
+    3742,
+    2684,
+    4233
+  ],
+  "productReviews": [
+    {
+      "productId": 64,
+      "reviewText": "I saw one of these in Tanzania and I bought one.",
+      "reviewDate": "2017-03-31T19:42:53.218809+03:00"
+    },
+    {
+      "productId": 1003,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-09-04T15:49:04.3591612+03:00"
+    }
+  ]
+}

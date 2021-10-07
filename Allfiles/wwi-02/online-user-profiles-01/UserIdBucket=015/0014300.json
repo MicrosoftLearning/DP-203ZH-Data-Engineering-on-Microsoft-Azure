@@ -1,0 +1,40 @@
+{
+  "userId": 14300,
+  "cartId": "19ac5599-bc2d-4f8c-b7e8-4b6d4c8e1209",
+  "preferredProducts": [
+    3583,
+    2404,
+    2374,
+    3216,
+    2730,
+    3126,
+    709
+  ],
+  "productReviews": [
+    {
+      "productId": 4000,
+      "reviewText": "My co-worker Ali has one of these. He says it looks towering.",
+      "reviewDate": "2019-08-29T12:20:58.9230194+03:00"
+    },
+    {
+      "productId": 3633,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2017-02-25T13:20:10.7542841+02:00"
+    },
+    {
+      "productId": 1791,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2017-02-03T11:17:06.8435852+02:00"
+    },
+    {
+      "productId": 4780,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2019-05-14T03:49:40.145305+03:00"
+    },
+    {
+      "productId": 532,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-12-15T08:02:00.3993442+02:00"
+    }
+  ]
+}

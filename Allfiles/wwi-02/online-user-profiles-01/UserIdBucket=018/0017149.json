@@ -1,0 +1,30 @@
+{
+  "userId": 17149,
+  "cartId": "6a3d5b81-feb2-4975-88c1-1e4fa3896883",
+  "preferredProducts": [
+    4121,
+    2922
+  ],
+  "productReviews": [
+    {
+      "productId": 2462,
+      "reviewText": "one of my hobbies is drawing. and when i'm drawing this works great.",
+      "reviewDate": "2018-05-01T00:39:11.8196969+03:00"
+    },
+    {
+      "productId": 4594,
+      "reviewText": "My neighbor Alida has one of these. She works as a gambler and she says it looks spotless.",
+      "reviewDate": "2017-10-06T10:40:38.4005737+03:00"
+    },
+    {
+      "productId": 3164,
+      "reviewText": "My raven loves to play with it.",
+      "reviewDate": "2018-12-03T22:00:48.7415838+02:00"
+    },
+    {
+      "productId": 778,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2020-03-30T21:44:29.0134067+03:00"
+    }
+  ]
+}

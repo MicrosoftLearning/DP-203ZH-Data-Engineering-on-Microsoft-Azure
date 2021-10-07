@@ -1,0 +1,39 @@
+{
+  "userId": 99876,
+  "cartId": "f175ed10-29f7-434b-9e26-f69eff67ef74",
+  "preferredProducts": [
+    516,
+    95,
+    4492,
+    2081,
+    4304,
+    4398
+  ],
+  "productReviews": [
+    {
+      "productId": 1183,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-09-06T03:12:18.6111585+03:00"
+    },
+    {
+      "productId": 980,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-02-27T04:50:28.235311+02:00"
+    },
+    {
+      "productId": 1158,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2019-05-06T08:03:40.4485246+03:00"
+    },
+    {
+      "productId": 2362,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2017-04-22T08:38:37.7731814+03:00"
+    },
+    {
+      "productId": 4553,
+      "reviewText": "My co-worker Atha has one of these. He says it looks narrow.",
+      "reviewDate": "2018-09-12T06:52:59.5335308+03:00"
+    }
+  ]
+}

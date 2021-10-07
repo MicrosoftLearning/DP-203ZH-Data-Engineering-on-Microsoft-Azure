@@ -1,0 +1,40 @@
+{
+  "userId": 27123,
+  "cartId": "f160660b-a46a-450b-a209-47517265d8b6",
+  "preferredProducts": [
+    3484,
+    4952,
+    1933,
+    1479,
+    2225,
+    1737,
+    1064
+  ],
+  "productReviews": [
+    {
+      "productId": 803,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2017-07-09T02:10:40.7522861+03:00"
+    },
+    {
+      "productId": 2332,
+      "reviewText": "i use it daily when i'm in my outhouse.",
+      "reviewDate": "2017-06-01T08:20:59.7076719+03:00"
+    },
+    {
+      "productId": 2398,
+      "reviewText": "this GB is light-hearted.",
+      "reviewDate": "2017-10-07T02:26:32.7425519+03:00"
+    },
+    {
+      "productId": 1709,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-05-15T09:27:55.3203395+03:00"
+    },
+    {
+      "productId": 1869,
+      "reviewText": "I tried to decapitate it but got coconut all over it.",
+      "reviewDate": "2018-07-12T19:23:06.5234418+03:00"
+    }
+  ]
+}

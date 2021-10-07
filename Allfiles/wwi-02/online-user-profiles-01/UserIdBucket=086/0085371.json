@@ -1,0 +1,32 @@
+{
+  "userId": 85371,
+  "cartId": "9151dc2c-3805-4961-a8a7-e1c667f004c4",
+  "preferredProducts": [
+    498,
+    1025,
+    2982,
+    1783
+  ],
+  "productReviews": [
+    {
+      "productId": 4623,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2016-12-22T20:41:27.3348546+02:00"
+    },
+    {
+      "productId": 1659,
+      "reviewText": "This Wooden works certainly well. It excitedly improves my football by a lot.",
+      "reviewDate": "2018-01-22T09:46:06.3086343+02:00"
+    },
+    {
+      "productId": 4829,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2016-11-09T19:31:32.2386328+02:00"
+    },
+    {
+      "productId": 2247,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-03-26T18:27:25.4562174+03:00"
+    }
+  ]
+}

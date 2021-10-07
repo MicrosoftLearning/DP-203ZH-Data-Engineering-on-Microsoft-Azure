@@ -1,0 +1,31 @@
+{
+  "userId": 40245,
+  "cartId": "c51264ce-0896-48ea-a323-2caf2ab62fe5",
+  "preferredProducts": [
+    4806,
+    1234,
+    2277,
+    2454,
+    1735,
+    2880,
+    2542,
+    2409
+  ],
+  "productReviews": [
+    {
+      "productId": 1983,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-02-06T05:57:22.4674688+02:00"
+    },
+    {
+      "productId": 562,
+      "reviewText": "talk about fury.",
+      "reviewDate": "2019-02-14T09:56:20.1996881+02:00"
+    },
+    {
+      "productId": 62,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-03-04T15:25:29.871723+02:00"
+    }
+  ]
+}

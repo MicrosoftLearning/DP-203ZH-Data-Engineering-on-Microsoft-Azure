@@ -1,0 +1,43 @@
+{
+  "userId": 20069,
+  "cartId": "1e9f92fb-6fe2-4ed0-815d-0e51392d45ee",
+  "preferredProducts": [
+    1839,
+    3726,
+    140,
+    2754,
+    4080,
+    4039,
+    2003,
+    4863,
+    3125,
+    1348
+  ],
+  "productReviews": [
+    {
+      "productId": 4654,
+      "reviewText": "heard about this on brazilian radio, decided to give it a try.",
+      "reviewDate": "2016-07-14T15:35:33.4465785+03:00"
+    },
+    {
+      "productId": 2688,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2019-05-19T13:58:50.4597388+03:00"
+    },
+    {
+      "productId": 4746,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2020-02-03T19:52:59.2646372+02:00"
+    },
+    {
+      "productId": 4738,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2017-07-18T21:54:19.4748827+03:00"
+    },
+    {
+      "productId": 2470,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2018-08-16T17:03:03.1976344+03:00"
+    }
+  ]
+}

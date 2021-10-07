@@ -1,0 +1,41 @@
+{
+  "userId": 99000,
+  "cartId": "e98dec2e-f069-4c0e-8a32-dea630dffb3f",
+  "preferredProducts": [
+    3109,
+    3407,
+    4979,
+    3924,
+    1894,
+    4323,
+    1229,
+    3446
+  ],
+  "productReviews": [
+    {
+      "productId": 102,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2017-05-31T18:37:17.4765374+03:00"
+    },
+    {
+      "productId": 3840,
+      "reviewText": "this exploit is hyper.",
+      "reviewDate": "2016-08-05T12:21:01.7278569+03:00"
+    },
+    {
+      "productId": 641,
+      "reviewText": "this reinvent is honest.",
+      "reviewDate": "2017-04-20T13:38:26.7088236+03:00"
+    },
+    {
+      "productId": 4318,
+      "reviewText": "I saw one of these in Grenada and I bought one.",
+      "reviewDate": "2018-05-18T03:09:56.1732189+03:00"
+    },
+    {
+      "productId": 1847,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-03-02T18:39:06.8077272+02:00"
+    }
+  ]
+}

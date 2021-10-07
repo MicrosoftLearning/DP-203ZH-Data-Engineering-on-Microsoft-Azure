@@ -1,0 +1,40 @@
+{
+  "userId": 42467,
+  "cartId": "08c17797-daeb-431a-8e00-93131d9a14da",
+  "preferredProducts": [
+    4027,
+    2597,
+    1761,
+    1367,
+    2615,
+    1494,
+    1206
+  ],
+  "productReviews": [
+    {
+      "productId": 640,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-03-25T14:25:53.427687+02:00"
+    },
+    {
+      "productId": 4390,
+      "reviewText": "this Mill is vertical.",
+      "reviewDate": "2017-07-07T17:43:09.748576+03:00"
+    },
+    {
+      "productId": 3124,
+      "reviewText": "It only works when I'm Singapore.",
+      "reviewDate": "2017-09-22T04:06:55.1239549+03:00"
+    },
+    {
+      "productId": 3197,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-06-24T17:57:29.8589457+03:00"
+    },
+    {
+      "productId": 3029,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2018-12-10T18:58:32.7063533+02:00"
+    }
+  ]
+}

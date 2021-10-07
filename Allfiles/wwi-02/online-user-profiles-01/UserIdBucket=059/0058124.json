@@ -1,0 +1,32 @@
+{
+  "userId": 58124,
+  "cartId": "dcda5238-897b-4efe-be0c-5671728f359a",
+  "preferredProducts": [
+    2225,
+    1252,
+    2055,
+    3996,
+    4127,
+    1217,
+    2493,
+    4475,
+    2813
+  ],
+  "productReviews": [
+    {
+      "productId": 2935,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2019-11-17T13:55:48.0086304+02:00"
+    },
+    {
+      "productId": 3812,
+      "reviewText": "My co-worker Tyron has one of these. He says it looks stout.",
+      "reviewDate": "2016-10-19T20:22:57.1605826+03:00"
+    },
+    {
+      "productId": 1334,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2018-10-19T15:16:57.5496862+03:00"
+    }
+  ]
+}

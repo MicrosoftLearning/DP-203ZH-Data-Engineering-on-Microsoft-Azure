@@ -1,0 +1,33 @@
+{
+  "userId": 46864,
+  "cartId": "05f4ebb1-32a0-45df-9c5a-69a1a689dddc",
+  "preferredProducts": [
+    3186,
+    3439,
+    3898,
+    1828,
+    4839
+  ],
+  "productReviews": [
+    {
+      "productId": 804,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2018-07-26T07:30:14.113289+03:00"
+    },
+    {
+      "productId": 3071,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2017-06-04T15:19:15.4452849+03:00"
+    },
+    {
+      "productId": 1024,
+      "reviewText": "This Practical Plastic Table works outstandingly well. It grudgingly improves my baseball by a lot.",
+      "reviewDate": "2019-12-06T17:57:58.1266591+02:00"
+    },
+    {
+      "productId": 1476,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2019-09-20T18:56:00.9672426+03:00"
+    }
+  ]
+}

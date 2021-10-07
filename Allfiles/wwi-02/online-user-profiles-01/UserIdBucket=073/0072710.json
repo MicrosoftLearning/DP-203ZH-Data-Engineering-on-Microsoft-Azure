@@ -1,0 +1,33 @@
+{
+  "userId": 72710,
+  "cartId": "931d1993-22fc-4595-92be-65ba00fcc271",
+  "preferredProducts": [
+    1,
+    2612,
+    2684,
+    3942,
+    4455
+  ],
+  "productReviews": [
+    {
+      "productId": 4760,
+      "reviewText": "one of my hobbies is baking. and when i'm baking this works great.",
+      "reviewDate": "2018-01-19T22:18:08.1939517+02:00"
+    },
+    {
+      "productId": 4262,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-10-10T11:16:17.0880386+03:00"
+    },
+    {
+      "productId": 1349,
+      "reviewText": "I tried to behead it but got truffle all over it.",
+      "reviewDate": "2016-08-28T12:54:28.7224735+03:00"
+    },
+    {
+      "productId": 1554,
+      "reviewText": "My co-worker Matthew has one of these. He says it looks gigantic.",
+      "reviewDate": "2016-09-20T21:51:22.2421918+03:00"
+    }
+  ]
+}

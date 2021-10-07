@@ -1,0 +1,38 @@
+{
+  "userId": 75150,
+  "cartId": "b9c9f3d5-82fb-4f25-b7ac-68964d46aa59",
+  "preferredProducts": [
+    4546,
+    1457,
+    2761,
+    3195,
+    854,
+    4457,
+    4628,
+    4603,
+    4862,
+    2237
+  ],
+  "productReviews": [
+    {
+      "productId": 4000,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2018-02-23T18:06:21.8012252+02:00"
+    },
+    {
+      "productId": 4358,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2018-12-13T01:05:56.8366518+02:00"
+    },
+    {
+      "productId": 2003,
+      "reviewText": "This Rustic works too well. It buoyantly improves my football by a lot.",
+      "reviewDate": "2019-05-11T11:37:35.0592742+03:00"
+    },
+    {
+      "productId": 2769,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-05-29T04:29:56.8484069+03:00"
+    }
+  ]
+}

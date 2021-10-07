@@ -1,0 +1,38 @@
+{
+  "userId": 42707,
+  "cartId": "eb74a878-07be-4317-b432-b3f82aefe0d3",
+  "preferredProducts": [
+    3169,
+    2120,
+    4834,
+    2552,
+    1557,
+    288,
+    4261,
+    3743,
+    1842,
+    2669
+  ],
+  "productReviews": [
+    {
+      "productId": 712,
+      "reviewText": "My neighbor Zoa has one of these. She works as a scribe and she says it looks wide.",
+      "reviewDate": "2016-10-01T05:10:38.6886849+03:00"
+    },
+    {
+      "productId": 2040,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2019-07-20T11:17:57.5859855+03:00"
+    },
+    {
+      "productId": 2276,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2019-06-02T17:36:42.0242394+03:00"
+    },
+    {
+      "productId": 1729,
+      "reviewText": "I tried to nab it but got biscuit all over it.",
+      "reviewDate": "2018-10-30T04:57:47.9998266+02:00"
+    }
+  ]
+}

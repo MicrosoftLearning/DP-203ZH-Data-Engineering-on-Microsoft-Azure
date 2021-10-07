@@ -1,0 +1,29 @@
+{
+  "userId": 10278,
+  "cartId": "1d4969d8-26ca-4230-8572-6da9a9bfce2e",
+  "preferredProducts": [
+    1501,
+    3387,
+    83,
+    1873,
+    3871,
+    4932
+  ],
+  "productReviews": [
+    {
+      "productId": 1032,
+      "reviewText": "The box this comes in is 3 light-year by 5 meter and weights 10 ounce!",
+      "reviewDate": "2016-08-17T01:49:56.7885118+03:00"
+    },
+    {
+      "productId": 724,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-06-04T07:57:02.1875603+03:00"
+    },
+    {
+      "productId": 1076,
+      "reviewText": "one of my hobbies is spearfishing. and when i'm spearfishing this works great.",
+      "reviewDate": "2017-05-16T12:23:10.2860766+03:00"
+    }
+  ]
+}

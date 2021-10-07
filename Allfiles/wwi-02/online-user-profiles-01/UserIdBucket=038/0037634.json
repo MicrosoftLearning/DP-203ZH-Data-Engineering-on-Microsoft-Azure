@@ -1,0 +1,33 @@
+{
+  "userId": 37634,
+  "cartId": "549cba99-d53b-49b3-b315-999d6304ce1d",
+  "preferredProducts": [
+    4744,
+    4045,
+    3790,
+    1605,
+    2524
+  ],
+  "productReviews": [
+    {
+      "productId": 3683,
+      "reviewText": "My ant loves to play with it.",
+      "reviewDate": "2019-11-22T07:13:22.4248302+02:00"
+    },
+    {
+      "productId": 3855,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2018-04-19T13:45:48.2871185+03:00"
+    },
+    {
+      "productId": 3599,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2017-03-12T01:55:05.1098721+02:00"
+    },
+    {
+      "productId": 4978,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2019-08-29T13:48:40.5838781+03:00"
+    }
+  ]
+}

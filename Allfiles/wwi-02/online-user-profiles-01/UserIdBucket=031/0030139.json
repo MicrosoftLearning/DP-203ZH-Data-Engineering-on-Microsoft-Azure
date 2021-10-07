@@ -1,0 +1,31 @@
+{
+  "userId": 30139,
+  "cartId": "1a3d1337-88fb-453c-a7e5-5169b3c55023",
+  "preferredProducts": [
+    2706,
+    3735,
+    3925,
+    789,
+    4928,
+    1900,
+    1679,
+    2238
+  ],
+  "productReviews": [
+    {
+      "productId": 1033,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2018-06-25T21:36:41.6736105+03:00"
+    },
+    {
+      "productId": 596,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2018-06-19T13:34:18.4942073+03:00"
+    },
+    {
+      "productId": 3746,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2017-09-03T14:32:38.5601224+03:00"
+    }
+  ]
+}

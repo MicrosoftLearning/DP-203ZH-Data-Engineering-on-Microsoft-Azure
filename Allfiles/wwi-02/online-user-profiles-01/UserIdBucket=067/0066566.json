@@ -1,0 +1,25 @@
+{
+  "userId": 66566,
+  "cartId": "4a1bae05-5699-48b4-800b-9c1ef1f59181",
+  "preferredProducts": [
+    760,
+    4065
+  ],
+  "productReviews": [
+    {
+      "productId": 1475,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2017-12-31T11:19:40.9882329+02:00"
+    },
+    {
+      "productId": 2591,
+      "reviewText": "It only works when I'm New Caledonia.",
+      "reviewDate": "2019-03-25T03:40:33.6727552+02:00"
+    },
+    {
+      "productId": 3746,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2017-01-04T19:33:35.7529746+02:00"
+    }
+  ]
+}

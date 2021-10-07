@@ -1,0 +1,29 @@
+{
+  "userId": 10934,
+  "cartId": "1d224b74-f2c2-4c0a-9f17-b129a745e604",
+  "preferredProducts": [
+    4304,
+    4979,
+    1705,
+    207,
+    2943,
+    4964
+  ],
+  "productReviews": [
+    {
+      "productId": 1924,
+      "reviewText": "I saw one of these in Saint Pierre and Miquelon and I bought one.",
+      "reviewDate": "2018-05-24T08:59:36.9515888+03:00"
+    },
+    {
+      "productId": 1352,
+      "reviewText": "This programming works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2016-10-14T09:44:00.5459213+03:00"
+    },
+    {
+      "productId": 4696,
+      "reviewText": "talk about remorse!!!",
+      "reviewDate": "2017-10-22T16:30:56.7639755+03:00"
+    }
+  ]
+}

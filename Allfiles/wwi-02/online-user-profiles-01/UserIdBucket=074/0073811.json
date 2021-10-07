@@ -1,0 +1,31 @@
+{
+  "userId": 73811,
+  "cartId": "bbbb19c9-72f2-4cd7-a212-4bcc4f24246b",
+  "preferredProducts": [
+    662,
+    395,
+    421
+  ],
+  "productReviews": [
+    {
+      "productId": 1580,
+      "reviewText": "I saw one of these in Finland and I bought one.",
+      "reviewDate": "2017-02-28T00:05:11.7063771+02:00"
+    },
+    {
+      "productId": 689,
+      "reviewText": "I tried to nab it but got salad all over it.",
+      "reviewDate": "2019-10-28T02:28:29.2071319+02:00"
+    },
+    {
+      "productId": 103,
+      "reviewText": "heard about this on songo radio, decided to give it a try.",
+      "reviewDate": "2016-08-07T15:06:19.634795+03:00"
+    },
+    {
+      "productId": 196,
+      "reviewText": "one of my hobbies is cooking. and when i'm cooking this works great.",
+      "reviewDate": "2018-10-07T02:07:36.8305494+03:00"
+    }
+  ]
+}

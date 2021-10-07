@@ -1,0 +1,37 @@
+{
+  "userId": 70511,
+  "cartId": "ec4d78b4-9ae7-419c-87c9-1c5e516070f8",
+  "preferredProducts": [
+    808,
+    388,
+    4239,
+    3179,
+    2347,
+    2182,
+    4129,
+    214,
+    1130
+  ],
+  "productReviews": [
+    {
+      "productId": 1976,
+      "reviewText": "My locust loves to play with it.",
+      "reviewDate": "2016-07-30T15:04:55.8320466+03:00"
+    },
+    {
+      "productId": 3238,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2016-09-30T06:24:48.7476371+03:00"
+    },
+    {
+      "productId": 4944,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2018-10-16T21:05:00.1608334+03:00"
+    },
+    {
+      "productId": 3154,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-06-28T19:37:01.1677408+03:00"
+    }
+  ]
+}

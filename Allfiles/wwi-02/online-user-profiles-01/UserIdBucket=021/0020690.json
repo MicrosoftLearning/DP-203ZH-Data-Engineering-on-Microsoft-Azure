@@ -1,0 +1,38 @@
+{
+  "userId": 20690,
+  "cartId": "75a92499-4655-4625-a01f-c5c7dd6c512d",
+  "preferredProducts": [
+    2321,
+    2191,
+    2484,
+    1501,
+    1119,
+    2872,
+    8,
+    3961,
+    3086,
+    155
+  ],
+  "productReviews": [
+    {
+      "productId": 9,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-11-05T07:28:13.1955893+02:00"
+    },
+    {
+      "productId": 854,
+      "reviewText": "My neighbor Betha has one of these. She works as a teacher and she says it looks wide.",
+      "reviewDate": "2017-04-30T20:52:23.1266236+03:00"
+    },
+    {
+      "productId": 3143,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2017-10-21T12:23:29.2440728+03:00"
+    },
+    {
+      "productId": 404,
+      "reviewText": "I tried to attack it but got meatball all over it.",
+      "reviewDate": "2017-04-23T06:43:42.491076+03:00"
+    }
+  ]
+}

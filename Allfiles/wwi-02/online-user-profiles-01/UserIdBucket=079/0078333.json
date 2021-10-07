@@ -1,0 +1,27 @@
+{
+  "userId": 78333,
+  "cartId": "958ce783-49d6-4694-a206-6dce9dca1722",
+  "preferredProducts": [
+    3141,
+    941,
+    4366,
+    4736
+  ],
+  "productReviews": [
+    {
+      "productId": 404,
+      "reviewText": "one of my hobbies is hiking. and when i'm hiking this works great.",
+      "reviewDate": "2019-03-21T10:00:21.087377+02:00"
+    },
+    {
+      "productId": 2050,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2018-03-03T07:30:32.0453373+02:00"
+    },
+    {
+      "productId": 4264,
+      "reviewText": "this Tasty Steel Pizza is gracious.",
+      "reviewDate": "2019-12-11T20:08:53.3216746+02:00"
+    }
+  ]
+}

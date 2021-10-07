@@ -1,0 +1,31 @@
+{
+  "userId": 42765,
+  "cartId": "7afdcd63-93de-443d-8c65-2faee95afa17",
+  "preferredProducts": [
+    1955,
+    916,
+    1617,
+    2496,
+    4523,
+    2405,
+    1324,
+    2217
+  ],
+  "productReviews": [
+    {
+      "productId": 2595,
+      "reviewText": "The box this comes in is 3 meter by 6 yard and weights 12 pound.",
+      "reviewDate": "2017-07-11T04:50:35.5718483+03:00"
+    },
+    {
+      "productId": 632,
+      "reviewText": "I saw one of these in Bhutan and I bought one.",
+      "reviewDate": "2019-04-22T07:15:28.142014+03:00"
+    },
+    {
+      "productId": 1448,
+      "reviewText": "My beagle loves to play with it.",
+      "reviewDate": "2018-02-14T20:21:06.8809252+02:00"
+    }
+  ]
+}

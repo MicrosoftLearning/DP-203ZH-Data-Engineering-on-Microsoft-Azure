@@ -1,0 +1,30 @@
+{
+  "userId": 34573,
+  "cartId": "16b4e9f7-4e78-4b20-80ce-266eedbf2d03",
+  "preferredProducts": [
+    2142,
+    3554
+  ],
+  "productReviews": [
+    {
+      "productId": 988,
+      "reviewText": "I tried to grab it but got bonbon all over it.",
+      "reviewDate": "2017-08-29T05:26:10.2418467+03:00"
+    },
+    {
+      "productId": 3278,
+      "reviewText": "This morph works quite well. It romantically improves my golf by a lot.",
+      "reviewDate": "2020-03-18T07:49:07.8708118+02:00"
+    },
+    {
+      "productId": 2395,
+      "reviewText": "I saw one of these in New Zealand and I bought one.",
+      "reviewDate": "2019-12-14T14:39:21.2869539+02:00"
+    },
+    {
+      "productId": 2114,
+      "reviewText": "It only works when I'm Wake Island.",
+      "reviewDate": "2017-01-18T23:07:53.4920625+02:00"
+    }
+  ]
+}

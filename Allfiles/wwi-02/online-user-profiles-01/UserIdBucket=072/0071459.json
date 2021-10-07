@@ -1,0 +1,33 @@
+{
+  "userId": 71459,
+  "cartId": "c23a7b9f-0019-400f-bf89-1ace9e0ce88e",
+  "preferredProducts": [
+    1446,
+    1798,
+    3306,
+    1410,
+    151,
+    321,
+    1769,
+    3197,
+    1998,
+    2733
+  ],
+  "productReviews": [
+    {
+      "productId": 1070,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2017-11-25T00:25:15.4664552+02:00"
+    },
+    {
+      "productId": 1392,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2017-09-19T07:21:42.3420941+03:00"
+    },
+    {
+      "productId": 1463,
+      "reviewText": "I saw one of these in Canada and I bought one.",
+      "reviewDate": "2019-09-11T10:19:27.2204504+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 50422,
+  "cartId": "6b3cfb8e-3061-479b-a581-4bcde34e4d1d",
+  "preferredProducts": [
+    4989,
+    2409,
+    4796,
+    1271,
+    997,
+    1257,
+    876
+  ],
+  "productReviews": [
+    {
+      "productId": 1904,
+      "reviewText": "I saw one of these in Vanuatu and I bought one.",
+      "reviewDate": "2016-07-29T06:36:37.4978559+03:00"
+    },
+    {
+      "productId": 1886,
+      "reviewText": "talk about bliss!!",
+      "reviewDate": "2018-04-25T00:57:51.5339266+03:00"
+    },
+    {
+      "productId": 1000,
+      "reviewText": "one of my hobbies is programming. and when i'm programming this works great.",
+      "reviewDate": "2016-10-25T19:16:48.3448565+03:00"
+    }
+  ]
+}

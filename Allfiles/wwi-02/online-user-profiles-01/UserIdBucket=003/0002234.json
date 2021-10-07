@@ -1,0 +1,23 @@
+{
+  "userId": 2234,
+  "cartId": "eb030b6a-aa66-4f0b-a725-2bcdc6dd87b4",
+  "preferredProducts": [
+    2228,
+    3635,
+    2326,
+    3271,
+    2772
+  ],
+  "productReviews": [
+    {
+      "productId": 4185,
+      "reviewText": "The box this comes in is 5 yard by 6 centimeter and weights 18 gram!!",
+      "reviewDate": "2017-04-30T17:38:35.3977338+03:00"
+    },
+    {
+      "productId": 4659,
+      "reviewText": "this Cedi is papery.",
+      "reviewDate": "2017-05-26T11:08:01.9397299+03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "userId": 1660,
+  "cartId": "f0b4d98f-054e-462b-a882-f5d95dbd9f93",
+  "preferredProducts": [
+    835,
+    2235,
+    4080,
+    2376,
+    3880,
+    1369,
+    4031,
+    2247,
+    2621
+  ],
+  "productReviews": [
+    {
+      "productId": 3715,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2020-03-29T04:16:10.5343304+03:00"
+    },
+    {
+      "productId": 3471,
+      "reviewText": "this Agent is smooth.",
+      "reviewDate": "2017-09-27T17:18:27.8385808+03:00"
+    },
+    {
+      "productId": 2784,
+      "reviewText": "I tried to kidnap it but got apricot all over it.",
+      "reviewDate": "2020-05-03T20:59:50.0547409+03:00"
+    },
+    {
+      "productId": 333,
+      "reviewText": "It only works when I'm Bolivia.",
+      "reviewDate": "2017-06-14T09:54:35.9941341+03:00"
+    }
+  ]
+}

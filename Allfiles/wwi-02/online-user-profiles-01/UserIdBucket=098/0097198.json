@@ -1,0 +1,32 @@
+{
+  "userId": 97198,
+  "cartId": "396f97ab-d92a-4c71-ae3b-3d8719106f04",
+  "preferredProducts": [
+    1007,
+    3487,
+    3497,
+    3159
+  ],
+  "productReviews": [
+    {
+      "productId": 3585,
+      "reviewText": "this parsing is awesome.",
+      "reviewDate": "2018-05-18T12:43:11.1895523+03:00"
+    },
+    {
+      "productId": 2441,
+      "reviewText": "This payment works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2018-06-04T21:41:10.3489973+03:00"
+    },
+    {
+      "productId": 4049,
+      "reviewText": "The box this comes in is 3 inch by 6 centimeter and weights 15 ounce!",
+      "reviewDate": "2020-04-13T21:23:46.3223964+03:00"
+    },
+    {
+      "productId": 915,
+      "reviewText": "The box this comes in is 4 mile by 5 yard and weights 18 pound!!",
+      "reviewDate": "2018-06-06T12:13:27.6966108+03:00"
+    }
+  ]
+}

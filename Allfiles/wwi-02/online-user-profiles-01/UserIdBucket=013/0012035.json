@@ -1,0 +1,35 @@
+{
+  "userId": 12035,
+  "cartId": "85560c89-8a7f-4e2d-be76-1d89065823b8",
+  "preferredProducts": [
+    4347,
+    3384,
+    4826,
+    3942,
+    4191,
+    3828,
+    2715
+  ],
+  "productReviews": [
+    {
+      "productId": 800,
+      "reviewText": "This Rapids works very well. It harmonically improves my tennis by a lot.",
+      "reviewDate": "2016-05-21T23:59:28.8848531+03:00"
+    },
+    {
+      "productId": 402,
+      "reviewText": "one of my hobbies is theater. and when i'm acting this works great.",
+      "reviewDate": "2019-10-13T21:56:08.469438+03:00"
+    },
+    {
+      "productId": 3284,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2016-11-27T16:57:44.3503716+02:00"
+    },
+    {
+      "productId": 2603,
+      "reviewText": "talk about anticipation!",
+      "reviewDate": "2017-01-16T02:15:29.0943625+02:00"
+    }
+  ]
+}

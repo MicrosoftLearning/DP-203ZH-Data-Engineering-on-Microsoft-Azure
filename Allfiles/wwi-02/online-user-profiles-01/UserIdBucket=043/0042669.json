@@ -1,0 +1,35 @@
+{
+  "userId": 42669,
+  "cartId": "27e836ec-5fca-4e3c-a583-7dd9b22693bf",
+  "preferredProducts": [
+    2150,
+    1585
+  ],
+  "productReviews": [
+    {
+      "productId": 3770,
+      "reviewText": "My neighbor Georgine has one of these. She works as a fireman and she says it looks colorful.",
+      "reviewDate": "2018-05-23T05:33:59.3909597+03:00"
+    },
+    {
+      "productId": 4671,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2018-01-27T21:37:29.5927804+02:00"
+    },
+    {
+      "productId": 1367,
+      "reviewText": "talk about shame.",
+      "reviewDate": "2020-04-06T10:09:23.9341835+03:00"
+    },
+    {
+      "productId": 1919,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2019-02-26T02:19:01.2804968+02:00"
+    },
+    {
+      "productId": 52,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2020-05-02T19:12:32.6890486+03:00"
+    }
+  ]
+}

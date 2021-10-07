@@ -1,0 +1,42 @@
+{
+  "userId": 10046,
+  "cartId": "0b485ca0-5b7d-4d78-a8e1-cbe1fd16ed0c",
+  "preferredProducts": [
+    327,
+    2764,
+    2376,
+    1140,
+    1608,
+    1663,
+    3553,
+    1444,
+    2398
+  ],
+  "productReviews": [
+    {
+      "productId": 410,
+      "reviewText": "My neighbor Albertina has one of these. She works as a gardener and she says it looks humongous.",
+      "reviewDate": "2017-06-09T16:28:20.5267994+03:00"
+    },
+    {
+      "productId": 2123,
+      "reviewText": "i use it usually when i'm in my alley.",
+      "reviewDate": "2019-09-11T04:50:27.1350042+03:00"
+    },
+    {
+      "productId": 2495,
+      "reviewText": "The box this comes in is 3 meter by 5 foot and weights 11 kilogram.",
+      "reviewDate": "2020-02-11T23:20:56.8032078+02:00"
+    },
+    {
+      "productId": 4010,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2018-12-23T00:04:25.104784+02:00"
+    },
+    {
+      "productId": 596,
+      "reviewText": "My co-worker Alek has one of these. He says it looks white.",
+      "reviewDate": "2019-04-29T00:53:07.8567909+03:00"
+    }
+  ]
+}

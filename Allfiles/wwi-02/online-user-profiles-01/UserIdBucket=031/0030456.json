@@ -1,0 +1,36 @@
+{
+  "userId": 30456,
+  "cartId": "f2baba0a-3616-44c5-a391-be61868236f8",
+  "preferredProducts": [
+    201,
+    2257,
+    2516,
+    2449,
+    3516,
+    2738,
+    3756,
+    4877
+  ],
+  "productReviews": [
+    {
+      "productId": 4728,
+      "reviewText": "The box this comes in is 4 kilometer by 5 mile and weights 17 gram.",
+      "reviewDate": "2018-07-05T18:06:15.2177985+03:00"
+    },
+    {
+      "productId": 2726,
+      "reviewText": "I saw one of these in Macau and I bought one.",
+      "reviewDate": "2020-01-14T05:25:21.3659589+02:00"
+    },
+    {
+      "productId": 2861,
+      "reviewText": "i use it occasionally when i'm in my outhouse.",
+      "reviewDate": "2018-09-27T09:12:59.1880854+03:00"
+    },
+    {
+      "productId": 3366,
+      "reviewText": "It only works when I'm Chad.",
+      "reviewDate": "2018-07-15T13:08:12.8344966+03:00"
+    }
+  ]
+}

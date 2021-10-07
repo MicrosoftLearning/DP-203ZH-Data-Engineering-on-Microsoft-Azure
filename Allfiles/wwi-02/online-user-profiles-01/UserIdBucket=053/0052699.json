@@ -1,0 +1,28 @@
+{
+  "userId": 52699,
+  "cartId": "f30a6c02-9b32-4e04-a5ff-68956a7281b3",
+  "preferredProducts": [
+    1458,
+    708,
+    4769,
+    1032,
+    1621
+  ],
+  "productReviews": [
+    {
+      "productId": 3135,
+      "reviewText": "this indexing is ratty.",
+      "reviewDate": "2017-02-11T16:12:20.45488+02:00"
+    },
+    {
+      "productId": 3388,
+      "reviewText": "one of my hobbies is scuba diving. and when i'm scuba diving this works great.",
+      "reviewDate": "2019-07-13T10:19:38.0583856+03:00"
+    },
+    {
+      "productId": 1509,
+      "reviewText": "This payment works really well. It wildly improves my baseball by a lot.",
+      "reviewDate": "2019-09-21T08:58:15.1893576+03:00"
+    }
+  ]
+}

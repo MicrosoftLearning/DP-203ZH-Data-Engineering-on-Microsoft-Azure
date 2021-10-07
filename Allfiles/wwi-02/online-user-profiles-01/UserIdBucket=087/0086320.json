@@ -1,0 +1,34 @@
+{
+  "userId": 86320,
+  "cartId": "a82fa83b-e328-4cbd-8566-d5f949f4cfc3",
+  "preferredProducts": [
+    4205,
+    4189,
+    2798,
+    4594,
+    692,
+    1773
+  ],
+  "productReviews": [
+    {
+      "productId": 227,
+      "reviewText": "This Loaf works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2019-06-19T16:43:45.4192197+03:00"
+    },
+    {
+      "productId": 2607,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2017-11-21T08:29:55.7466988+02:00"
+    },
+    {
+      "productId": 2501,
+      "reviewText": "one of my hobbies is gaming. and when i'm gaming this works great.",
+      "reviewDate": "2020-03-17T09:05:21.3870347+02:00"
+    },
+    {
+      "productId": 4602,
+      "reviewText": "It only works when I'm Finland.",
+      "reviewDate": "2018-07-09T12:08:55.3225552+03:00"
+    }
+  ]
+}

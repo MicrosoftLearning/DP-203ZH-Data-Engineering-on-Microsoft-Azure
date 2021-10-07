@@ -1,0 +1,39 @@
+{
+  "userId": 98099,
+  "cartId": "87886969-e943-4aea-afbc-8558ca615743",
+  "preferredProducts": [
+    3140,
+    3045,
+    3403,
+    2746,
+    1289,
+    2103
+  ],
+  "productReviews": [
+    {
+      "productId": 820,
+      "reviewText": "I tried to shred it but got watermelon all over it.",
+      "reviewDate": "2020-02-06T04:53:54.8659406+02:00"
+    },
+    {
+      "productId": 1759,
+      "reviewText": "I tried to vomit it but got bonbon all over it.",
+      "reviewDate": "2018-11-29T22:11:01.2295684+02:00"
+    },
+    {
+      "productId": 1970,
+      "reviewText": "i use it profusely when i'm in my garage.",
+      "reviewDate": "2016-11-26T15:01:17.6214731+02:00"
+    },
+    {
+      "productId": 2720,
+      "reviewText": "i use it every Tuesday when i'm in my homeless shelter.",
+      "reviewDate": "2016-07-09T02:44:00.2606372+03:00"
+    },
+    {
+      "productId": 1014,
+      "reviewText": "I saw this on TV and wanted to give it a try.",
+      "reviewDate": "2017-09-15T22:48:25.4299189+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 37304,
+  "cartId": "58515fdc-7346-45d1-a4ed-29534649a273",
+  "preferredProducts": [
+    639,
+    3888
+  ],
+  "productReviews": [
+    {
+      "productId": 890,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2020-03-25T16:52:25.4975873+02:00"
+    },
+    {
+      "productId": 757,
+      "reviewText": "My scarab beetle loves to play with it.",
+      "reviewDate": "2018-06-22T06:00:35.5729551+03:00"
+    },
+    {
+      "productId": 4809,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2018-07-16T06:08:35.119307+03:00"
+    },
+    {
+      "productId": 2805,
+      "reviewText": "heard about this on compas radio, decided to give it a try.",
+      "reviewDate": "2018-05-16T19:23:25.6044822+03:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "userId": 25680,
+  "cartId": "a497d193-103d-45f7-92e6-efc38486812a",
+  "preferredProducts": [
+    1620,
+    1550,
+    2881,
+    2136,
+    897,
+    2270,
+    3377,
+    4686,
+    3581
+  ],
+  "productReviews": [
+    {
+      "productId": 2006,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2019-08-12T16:54:55.7122976+03:00"
+    },
+    {
+      "productId": 3713,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2016-05-29T19:02:17.1645236+03:00"
+    },
+    {
+      "productId": 2150,
+      "reviewText": "My tyrannosaurus rex loves to play with it.",
+      "reviewDate": "2019-05-09T01:45:41.2837813+03:00"
+    }
+  ]
+}

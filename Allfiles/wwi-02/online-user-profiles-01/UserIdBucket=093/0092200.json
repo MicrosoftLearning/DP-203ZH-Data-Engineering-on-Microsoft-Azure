@@ -1,0 +1,28 @@
+{
+  "userId": 92200,
+  "cartId": "b259f273-8ebd-4536-be1e-183bf28dad02",
+  "preferredProducts": [
+    3840,
+    4886,
+    2958,
+    1542,
+    3985
+  ],
+  "productReviews": [
+    {
+      "productId": 3811,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2018-06-19T00:42:52.3371107+03:00"
+    },
+    {
+      "productId": 4594,
+      "reviewText": "i use it never when i'm in my nightclub.",
+      "reviewDate": "2019-11-15T15:13:57.8554234+02:00"
+    },
+    {
+      "productId": 4064,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2017-07-22T00:06:38.7384917+03:00"
+    }
+  ]
+}

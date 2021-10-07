@@ -1,0 +1,40 @@
+{
+  "userId": 6848,
+  "cartId": "feb8db3e-9253-4c6f-a996-69f47daf8db5",
+  "preferredProducts": [
+    3169,
+    2825,
+    4056,
+    3997,
+    4533,
+    733,
+    4578
+  ],
+  "productReviews": [
+    {
+      "productId": 3022,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2019-04-29T20:27:12.3692331+03:00"
+    },
+    {
+      "productId": 2026,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-12-17T16:42:37.4588625+02:00"
+    },
+    {
+      "productId": 1181,
+      "reviewText": "this violet is nifty.",
+      "reviewDate": "2019-09-10T10:30:29.0361316+03:00"
+    },
+    {
+      "productId": 2074,
+      "reviewText": "This Plastic works too well. It nonchalantly improves my baseball by a lot.",
+      "reviewDate": "2017-12-06T00:32:31.8949698+02:00"
+    },
+    {
+      "productId": 3114,
+      "reviewText": "It only works when I'm Juan de Nova Island.",
+      "reviewDate": "2020-02-29T17:03:09.8853802+02:00"
+    }
+  ]
+}

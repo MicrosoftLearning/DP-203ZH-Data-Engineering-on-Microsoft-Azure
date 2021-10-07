@@ -1,0 +1,31 @@
+{
+  "userId": 27261,
+  "cartId": "f3d1bf31-40b3-49e2-bf33-aff347476ff1",
+  "preferredProducts": [
+    3640,
+    1213,
+    3223
+  ],
+  "productReviews": [
+    {
+      "productId": 4878,
+      "reviewText": "one of my hobbies is piano. and when i'm playing piano this works great.",
+      "reviewDate": "2018-07-22T07:02:16.7232498+03:00"
+    },
+    {
+      "productId": 1987,
+      "reviewText": "My jaguar loves to play with it.",
+      "reviewDate": "2018-12-10T20:30:56.7542535+02:00"
+    },
+    {
+      "productId": 3877,
+      "reviewText": "I tried to hang it but got jelly bean all over it.",
+      "reviewDate": "2019-09-02T22:11:30.5690074+03:00"
+    },
+    {
+      "productId": 740,
+      "reviewText": "My neighbor Lular has one of these. She works as a cake decorator and she says it looks ragged.",
+      "reviewDate": "2016-11-02T10:03:47.0127898+02:00"
+    }
+  ]
+}

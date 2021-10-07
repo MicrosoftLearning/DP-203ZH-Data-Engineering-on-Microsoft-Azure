@@ -1,0 +1,35 @@
+{
+  "userId": 35462,
+  "cartId": "2cbc8707-1c59-4f14-8f53-9652fba904fd",
+  "preferredProducts": [
+    4350,
+    4874,
+    2671,
+    3112,
+    226,
+    2547,
+    1636
+  ],
+  "productReviews": [
+    {
+      "productId": 3383,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2018-02-28T19:01:19.04002+02:00"
+    },
+    {
+      "productId": 3851,
+      "reviewText": "this Mandatory is nifty.",
+      "reviewDate": "2018-05-20T14:46:12.7876005+03:00"
+    },
+    {
+      "productId": 4155,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-11-03T07:53:48.8195425+02:00"
+    },
+    {
+      "productId": 1846,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2018-07-19T22:12:43.937793+03:00"
+    }
+  ]
+}

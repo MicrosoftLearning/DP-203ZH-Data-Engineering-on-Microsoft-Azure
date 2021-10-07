@@ -1,0 +1,33 @@
+{
+  "userId": 49749,
+  "cartId": "f6cbe657-67a2-4319-ba88-a08d30a63138",
+  "preferredProducts": [
+    544,
+    1955,
+    4404,
+    3731,
+    983
+  ],
+  "productReviews": [
+    {
+      "productId": 2564,
+      "reviewText": "The box this comes in is 4 mile by 5 inch and weights 19 megaton!",
+      "reviewDate": "2016-05-11T18:09:53.5313139+03:00"
+    },
+    {
+      "productId": 4086,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2017-06-06T02:39:57.6065025+03:00"
+    },
+    {
+      "productId": 4225,
+      "reviewText": "The box this comes in is 4 light-year by 5 inch and weights 11 megaton!!",
+      "reviewDate": "2020-02-04T11:09:36.6780343+02:00"
+    },
+    {
+      "productId": 1253,
+      "reviewText": "The box this comes in is 3 yard by 6 light-year and weights 11 megaton!!",
+      "reviewDate": "2017-07-12T03:22:41.9612199+03:00"
+    }
+  ]
+}

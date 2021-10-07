@@ -1,0 +1,38 @@
+{
+  "userId": 7801,
+  "cartId": "70ff1456-d9c7-45e4-a8e8-76581ffbbc7d",
+  "preferredProducts": [
+    2025,
+    2624,
+    616,
+    2690,
+    3480
+  ],
+  "productReviews": [
+    {
+      "productId": 1708,
+      "reviewText": "this plum is ghetto.",
+      "reviewDate": "2018-01-14T13:58:15.7329123+02:00"
+    },
+    {
+      "productId": 3641,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2019-06-22T22:31:35.0141669+03:00"
+    },
+    {
+      "productId": 2771,
+      "reviewText": "My neighbor Fannie has one of these. She works as a teacher and she says it looks spiky.",
+      "reviewDate": "2019-02-16T18:31:22.2723048+02:00"
+    },
+    {
+      "productId": 660,
+      "reviewText": "This Georgia works quite well. It pointedly improves my golf by a lot.",
+      "reviewDate": "2018-02-11T18:56:30.9871597+02:00"
+    },
+    {
+      "productId": 3460,
+      "reviewText": "My neighbor Elisha has one of these. She works as a fortune teller and she says it looks floppy.",
+      "reviewDate": "2017-12-02T05:04:16.9660917+02:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "userId": 12420,
+  "cartId": "4e512825-6d03-4661-ad3d-1c542a19cc25",
+  "preferredProducts": [
+    554,
+    405,
+    422,
+    1964,
+    1637
+  ],
+  "productReviews": [
+    {
+      "productId": 2031,
+      "reviewText": "I tried to pinch it but got peanut all over it.",
+      "reviewDate": "2016-10-31T13:29:08.1168881+02:00"
+    },
+    {
+      "productId": 2692,
+      "reviewText": "The box this comes in is 5 kilometer by 6 meter and weights 20 ounce!",
+      "reviewDate": "2019-05-12T16:35:36.9001901+03:00"
+    },
+    {
+      "productId": 3207,
+      "reviewText": "My co-worker Mitchell has one of these. He says it looks dry.",
+      "reviewDate": "2019-05-07T02:00:04.271251+03:00"
+    },
+    {
+      "productId": 3697,
+      "reviewText": "The box this comes in is 5 kilometer by 5 inch and weights 13 kilogram!!!",
+      "reviewDate": "2017-07-24T17:42:14.9544356+03:00"
+    },
+    {
+      "productId": 1042,
+      "reviewText": "My goldfinch loves to play with it.",
+      "reviewDate": "2018-12-11T04:11:38.3252443+02:00"
+    }
+  ]
+}

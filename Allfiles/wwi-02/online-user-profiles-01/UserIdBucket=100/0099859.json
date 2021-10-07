@@ -1,0 +1,32 @@
+{
+  "userId": 99859,
+  "cartId": "e207d2e3-42c8-4054-8b7f-9f0a6357c4f0",
+  "preferredProducts": [
+    1561,
+    1776,
+    72,
+    1077
+  ],
+  "productReviews": [
+    {
+      "productId": 346,
+      "reviewText": "My co-worker Delton has one of these. He says it looks slender.",
+      "reviewDate": "2018-05-10T04:50:42.5762075+03:00"
+    },
+    {
+      "productId": 2143,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2017-07-27T12:56:31.1561831+03:00"
+    },
+    {
+      "productId": 856,
+      "reviewText": "My neighbor Ardeth has one of these. She works as a gasman and she says it looks fuzzy.",
+      "reviewDate": "2019-10-24T16:11:43.8878337+03:00"
+    },
+    {
+      "productId": 2735,
+      "reviewText": "My co-worker Aurthur has one of these. He says it looks white.",
+      "reviewDate": "2018-06-14T12:10:53.0754057+03:00"
+    }
+  ]
+}

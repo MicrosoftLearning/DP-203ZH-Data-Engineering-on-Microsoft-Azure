@@ -1,0 +1,32 @@
+{
+  "userId": 10258,
+  "cartId": "d62ce26f-97ee-467c-8cc4-f292f5073bf0",
+  "preferredProducts": [
+    3288,
+    4708,
+    4883,
+    3924
+  ],
+  "productReviews": [
+    {
+      "productId": 434,
+      "reviewText": "heard about this on balearic beat radio, decided to give it a try.",
+      "reviewDate": "2020-01-02T13:53:34.4097165+02:00"
+    },
+    {
+      "productId": 291,
+      "reviewText": "heard about this on rebetiko radio, decided to give it a try.",
+      "reviewDate": "2017-04-03T02:23:13.366146+03:00"
+    },
+    {
+      "productId": 3294,
+      "reviewText": "I saw one of these in Comoros and I bought one.",
+      "reviewDate": "2019-08-17T01:24:06.5295451+03:00"
+    },
+    {
+      "productId": 4849,
+      "reviewText": "I saw one of these in Juan de Nova Island and I bought one.",
+      "reviewDate": "2016-12-30T07:48:06.024274+02:00"
+    }
+  ]
+}

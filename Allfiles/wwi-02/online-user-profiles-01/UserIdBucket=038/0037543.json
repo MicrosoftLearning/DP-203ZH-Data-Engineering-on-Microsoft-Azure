@@ -1,0 +1,28 @@
+{
+  "userId": 37543,
+  "cartId": "067ddf66-f17a-4619-88fd-4634e8b00f52",
+  "preferredProducts": [
+    2273,
+    4859,
+    4534,
+    3009,
+    2259
+  ],
+  "productReviews": [
+    {
+      "productId": 447,
+      "reviewText": "My co-worker Namon has one of these. He says it looks funny-looking.",
+      "reviewDate": "2020-04-10T19:35:02.4495977+03:00"
+    },
+    {
+      "productId": 281,
+      "reviewText": "heard about this on smooth jazz radio, decided to give it a try.",
+      "reviewDate": "2019-03-05T04:57:18.3275324+02:00"
+    },
+    {
+      "productId": 4685,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2019-08-29T03:40:22.382999+03:00"
+    }
+  ]
+}

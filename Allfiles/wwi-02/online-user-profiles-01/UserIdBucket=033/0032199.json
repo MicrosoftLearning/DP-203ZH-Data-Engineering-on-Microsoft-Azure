@@ -1,0 +1,32 @@
+{
+  "userId": 32199,
+  "cartId": "a42435b7-a333-4134-95b1-6b73cc5c45bd",
+  "preferredProducts": [
+    4895,
+    3311,
+    668,
+    4226,
+    1596,
+    2792,
+    1005,
+    1210,
+    3226
+  ],
+  "productReviews": [
+    {
+      "productId": 253,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2019-07-31T13:02:36.9356177+03:00"
+    },
+    {
+      "productId": 2465,
+      "reviewText": "I saw one of these in Kazakhstan and I bought one.",
+      "reviewDate": "2019-11-23T05:10:29.8800545+02:00"
+    },
+    {
+      "productId": 4580,
+      "reviewText": "i use it every Tuesday when i'm in my store.",
+      "reviewDate": "2019-02-08T00:54:14.9365304+02:00"
+    }
+  ]
+}

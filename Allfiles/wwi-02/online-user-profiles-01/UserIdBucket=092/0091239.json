@@ -1,0 +1,31 @@
+{
+  "userId": 91239,
+  "cartId": "c31a70ce-ac14-413e-b4c7-90c95c48dfb4",
+  "preferredProducts": [
+    569,
+    3962,
+    4366,
+    4558,
+    685,
+    3069,
+    4403,
+    2761
+  ],
+  "productReviews": [
+    {
+      "productId": 2590,
+      "reviewText": "I saw one of these in Algeria and I bought one.",
+      "reviewDate": "2019-10-12T14:18:32.7350555+03:00"
+    },
+    {
+      "productId": 4598,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2020-04-11T14:16:31.7296086+03:00"
+    },
+    {
+      "productId": 2062,
+      "reviewText": "My co-worker Fate has one of these. He says it looks tall.",
+      "reviewDate": "2020-05-07T16:27:03.7959277+03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "userId": 12187,
+  "cartId": "769d9357-e2ae-40c4-bed6-386624defb47",
+  "preferredProducts": [
+    836,
+    2037,
+    961,
+    3864,
+    1881
+  ],
+  "productReviews": [
+    {
+      "productId": 508,
+      "reviewText": "My bass loves to play with it.",
+      "reviewDate": "2016-08-09T17:14:09.1404937+03:00"
+    },
+    {
+      "productId": 3823,
+      "reviewText": "My co-worker Rey has one of these. He says it looks uneven.",
+      "reviewDate": "2019-03-25T10:35:35.1605713+02:00"
+    },
+    {
+      "productId": 4415,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2019-01-26T10:34:30.6786238+02:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 93428,
+  "cartId": "35dff741-91c6-4265-b9e5-cf7f5a231708",
+  "preferredProducts": [
+    4489,
+    1325
+  ],
+  "productReviews": [
+    {
+      "productId": 266,
+      "reviewText": "My velociraptor loves to play with it.",
+      "reviewDate": "2016-11-13T05:52:14.8345667+02:00"
+    },
+    {
+      "productId": 12,
+      "reviewText": "My Shih-Tzu loves to play with it.",
+      "reviewDate": "2017-03-04T08:48:28.9512845+02:00"
+    },
+    {
+      "productId": 2507,
+      "reviewText": "My neighbor Krista has one of these. She works as a salesman and she says it looks soapy.",
+      "reviewDate": "2017-03-22T11:37:29.8956838+02:00"
+    },
+    {
+      "productId": 1050,
+      "reviewText": "My macaroni penguin loves to play with it.",
+      "reviewDate": "2018-06-06T15:01:25.4696942+03:00"
+    }
+  ]
+}

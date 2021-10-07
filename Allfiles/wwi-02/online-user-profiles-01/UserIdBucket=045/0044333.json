@@ -1,0 +1,36 @@
+{
+  "userId": 44333,
+  "cartId": "af172d42-427c-4fde-a470-14e957322177",
+  "preferredProducts": [
+    4617,
+    1515,
+    730
+  ],
+  "productReviews": [
+    {
+      "productId": 1795,
+      "reviewText": "this Harbors is honest.",
+      "reviewDate": "2018-03-26T17:53:36.3142176+03:00"
+    },
+    {
+      "productId": 1333,
+      "reviewText": "one of my hobbies is web-browsing. and when i'm browsing the web this works great.",
+      "reviewDate": "2018-05-15T23:21:43.7972366+03:00"
+    },
+    {
+      "productId": 1725,
+      "reviewText": "heard about this on Kansas City jazz radio, decided to give it a try.",
+      "reviewDate": "2020-03-27T09:21:05.7566944+02:00"
+    },
+    {
+      "productId": 4840,
+      "reviewText": "My hummingbird loves to play with it.",
+      "reviewDate": "2017-08-08T21:30:54.1543786+03:00"
+    },
+    {
+      "productId": 2050,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2020-04-17T12:42:25.6181305+03:00"
+    }
+  ]
+}

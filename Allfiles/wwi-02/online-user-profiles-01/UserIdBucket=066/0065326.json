@@ -1,0 +1,33 @@
+{
+  "userId": 65326,
+  "cartId": "b70aba38-e1ad-4df0-ab15-08eb84e49da4",
+  "preferredProducts": [
+    4772,
+    3560,
+    3266,
+    786,
+    28
+  ],
+  "productReviews": [
+    {
+      "productId": 2763,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2017-12-07T22:40:33.4815148+02:00"
+    },
+    {
+      "productId": 4440,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-01-18T04:41:15.9134064+02:00"
+    },
+    {
+      "productId": 219,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2019-04-13T04:27:36.5641657+03:00"
+    },
+    {
+      "productId": 4931,
+      "reviewText": "The box this comes in is 4 yard by 5 kilometer and weights 11 pound!",
+      "reviewDate": "2017-11-29T20:20:14.8991609+02:00"
+    }
+  ]
+}

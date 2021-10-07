@@ -1,0 +1,25 @@
+{
+  "userId": 14152,
+  "cartId": "28dc4ef3-3aef-401a-b5f3-b687c25b5002",
+  "preferredProducts": [
+    80,
+    1980,
+    2460,
+    4865,
+    3359,
+    2351,
+    3235
+  ],
+  "productReviews": [
+    {
+      "productId": 4519,
+      "reviewText": "this Avon is brown.",
+      "reviewDate": "2017-10-29T23:44:35.6412954+02:00"
+    },
+    {
+      "productId": 2847,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2016-07-16T19:19:36.7035921+03:00"
+    }
+  ]
+}

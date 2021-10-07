@@ -1,0 +1,33 @@
+{
+  "userId": 42002,
+  "cartId": "cb44aab6-bbf1-44f0-ad5b-bac9ede74836",
+  "preferredProducts": [
+    3782,
+    1029,
+    4092,
+    2001,
+    4110
+  ],
+  "productReviews": [
+    {
+      "productId": 1769,
+      "reviewText": "I tried to strangle it but got hazelnut all over it.",
+      "reviewDate": "2019-06-20T11:21:29.6057023+03:00"
+    },
+    {
+      "productId": 4014,
+      "reviewText": "I saw one of these in Cote d'Ivoire and I bought one.",
+      "reviewDate": "2018-11-07T11:39:43.5053995+02:00"
+    },
+    {
+      "productId": 4779,
+      "reviewText": "This initiatives works certainly well. It perfectly improves my tennis by a lot.",
+      "reviewDate": "2019-11-11T08:14:35.408007+02:00"
+    },
+    {
+      "productId": 166,
+      "reviewText": "My gentoo penguin loves to play with it.",
+      "reviewDate": "2019-12-27T14:21:06.4322137+02:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "userId": 29657,
+  "cartId": "eae34149-462e-4369-a85e-d06600386bb4",
+  "preferredProducts": [
+    1323,
+    4753,
+    448,
+    435,
+    2347,
+    4222
+  ],
+  "productReviews": [
+    {
+      "productId": 982,
+      "reviewText": "My co-worker Mohamed has one of these. He says it looks brown.",
+      "reviewDate": "2018-10-31T03:02:05.0678807+02:00"
+    },
+    {
+      "productId": 4848,
+      "reviewText": "talk about sadness!!",
+      "reviewDate": "2016-07-31T04:10:32.8051764+03:00"
+    },
+    {
+      "productId": 1884,
+      "reviewText": "I tried to belly-flop it but got Turkish Delight all over it.",
+      "reviewDate": "2017-04-14T19:11:23.0332566+03:00"
+    }
+  ]
+}

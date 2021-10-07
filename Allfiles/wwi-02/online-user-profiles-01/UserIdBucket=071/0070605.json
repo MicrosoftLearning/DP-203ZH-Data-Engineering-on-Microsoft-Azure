@@ -1,0 +1,33 @@
+{
+  "userId": 70605,
+  "cartId": "db09b3f5-3cdb-476e-8295-06479e971b13",
+  "preferredProducts": [
+    1417,
+    1511,
+    512,
+    4267,
+    1816,
+    2724,
+    1689,
+    1694,
+    4328,
+    2021
+  ],
+  "productReviews": [
+    {
+      "productId": 4762,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2017-01-21T05:21:13.366214+02:00"
+    },
+    {
+      "productId": 844,
+      "reviewText": "i use it every Tuesday when i'm in my pub.",
+      "reviewDate": "2018-01-03T07:51:54.4373261+02:00"
+    },
+    {
+      "productId": 2125,
+      "reviewText": "i use it until further notice when i'm in my station.",
+      "reviewDate": "2018-07-08T20:27:07.6818542+03:00"
+    }
+  ]
+}

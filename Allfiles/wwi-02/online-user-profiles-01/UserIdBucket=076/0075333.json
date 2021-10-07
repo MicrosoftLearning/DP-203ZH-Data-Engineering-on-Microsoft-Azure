@@ -1,0 +1,35 @@
+{
+  "userId": 75333,
+  "cartId": "4a5791b1-34d1-422b-bc34-03e27e844035",
+  "preferredProducts": [
+    940,
+    4252
+  ],
+  "productReviews": [
+    {
+      "productId": 1120,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2019-08-15T20:01:33.334218+03:00"
+    },
+    {
+      "productId": 4940,
+      "reviewText": "It only works when I'm Kuwait.",
+      "reviewDate": "2019-09-09T23:55:35.6572084+03:00"
+    },
+    {
+      "productId": 1401,
+      "reviewText": "My penguin loves to play with it.",
+      "reviewDate": "2019-12-14T09:29:07.3790108+02:00"
+    },
+    {
+      "productId": 4383,
+      "reviewText": "this azure is ratty.",
+      "reviewDate": "2017-09-18T21:52:39.762806+03:00"
+    },
+    {
+      "productId": 2401,
+      "reviewText": "this interface is mellow.",
+      "reviewDate": "2017-05-27T11:18:31.4914387+03:00"
+    }
+  ]
+}

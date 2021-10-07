@@ -1,0 +1,39 @@
+{
+  "userId": 7132,
+  "cartId": "818253d2-918c-4e14-bd81-db94223c48a4",
+  "preferredProducts": [
+    2173,
+    1212,
+    752,
+    1618,
+    437,
+    1065
+  ],
+  "productReviews": [
+    {
+      "productId": 4361,
+      "reviewText": "I saw one of these in Moldova and I bought one.",
+      "reviewDate": "2018-01-15T06:33:28.3687174+02:00"
+    },
+    {
+      "productId": 1083,
+      "reviewText": "I saw one of these in The Gambia and I bought one.",
+      "reviewDate": "2018-08-31T09:10:55.6344456+03:00"
+    },
+    {
+      "productId": 4511,
+      "reviewText": "talk about surprise!!!",
+      "reviewDate": "2017-02-20T20:01:17.6557967+02:00"
+    },
+    {
+      "productId": 3333,
+      "reviewText": "My co-worker Merwin has one of these. He says it looks bubbly.",
+      "reviewDate": "2019-01-11T05:22:05.4469194+02:00"
+    },
+    {
+      "productId": 3658,
+      "reviewText": "My neighbor Victoria has one of these. She works as a professor and she says it looks menthol.",
+      "reviewDate": "2019-07-01T15:52:56.7698772+03:00"
+    }
+  ]
+}

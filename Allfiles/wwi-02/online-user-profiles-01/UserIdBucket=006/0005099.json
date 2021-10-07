@@ -1,0 +1,31 @@
+{
+  "userId": 5099,
+  "cartId": "4e15a102-8399-4589-89cf-452a27f485ff",
+  "preferredProducts": [
+    1469,
+    3314,
+    1486
+  ],
+  "productReviews": [
+    {
+      "productId": 4350,
+      "reviewText": "one of my hobbies is poetry. and when i'm writing poems this works great.",
+      "reviewDate": "2018-02-12T23:46:05.1948807+02:00"
+    },
+    {
+      "productId": 3310,
+      "reviewText": "My neighbor Allean has one of these. She works as a sky diver and she says it looks weedy.",
+      "reviewDate": "2017-12-04T16:47:15.2719609+02:00"
+    },
+    {
+      "productId": 1007,
+      "reviewText": "My dog loves to play with it.",
+      "reviewDate": "2019-01-02T01:40:42.4200393+02:00"
+    },
+    {
+      "productId": 2782,
+      "reviewText": "My neighbor Georgie has one of these. She works as a busboy and she says it looks brown.",
+      "reviewDate": "2019-04-30T23:51:19.7206124+03:00"
+    }
+  ]
+}

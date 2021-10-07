@@ -1,0 +1,31 @@
+{
+  "userId": 92249,
+  "cartId": "dcf9b539-4465-47d7-a423-1390ede410a4",
+  "preferredProducts": [
+    555,
+    4341,
+    419
+  ],
+  "productReviews": [
+    {
+      "productId": 2979,
+      "reviewText": "It only works when I'm Argentina.",
+      "reviewDate": "2016-07-17T13:05:37.6293272+03:00"
+    },
+    {
+      "productId": 754,
+      "reviewText": "My co-worker Houston has one of these. He says it looks invisible.",
+      "reviewDate": "2016-10-16T11:28:31.3071229+03:00"
+    },
+    {
+      "productId": 307,
+      "reviewText": "this hack is papery.",
+      "reviewDate": "2019-07-29T20:05:27.9839663+03:00"
+    },
+    {
+      "productId": 2323,
+      "reviewText": "My neighbor Aldona has one of these. She works as a butler and she says it looks humongous.",
+      "reviewDate": "2019-05-19T23:35:04.7910381+03:00"
+    }
+  ]
+}

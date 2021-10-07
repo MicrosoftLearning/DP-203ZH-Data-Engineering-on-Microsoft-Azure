@@ -1,0 +1,33 @@
+{
+  "userId": 29207,
+  "cartId": "e10d6272-8ee3-4abc-bbbd-98652a137148",
+  "preferredProducts": [
+    4166,
+    1982,
+    1623,
+    2009,
+    1980,
+    3888,
+    739,
+    4960,
+    3918,
+    2535
+  ],
+  "productReviews": [
+    {
+      "productId": 1705,
+      "reviewText": "My co-worker Knute has one of these. He says it looks smoky.",
+      "reviewDate": "2019-06-06T23:08:51.1362369+03:00"
+    },
+    {
+      "productId": 987,
+      "reviewText": "My chicken loves to play with it.",
+      "reviewDate": "2017-10-05T02:07:41.0357342+03:00"
+    },
+    {
+      "productId": 4808,
+      "reviewText": "this Squares is complimentary.",
+      "reviewDate": "2018-06-02T15:45:36.5797144+03:00"
+    }
+  ]
+}

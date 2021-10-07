@@ -1,0 +1,26 @@
+{
+  "userId": 53733,
+  "cartId": "d3f8045e-86ad-442c-a662-706e280e128b",
+  "preferredProducts": [
+    325,
+    709,
+    4122,
+    822,
+    3389,
+    2815,
+    3088,
+    2658
+  ],
+  "productReviews": [
+    {
+      "productId": 582,
+      "reviewText": "My co-worker Reed has one of these. He says it looks microscopic.",
+      "reviewDate": "2018-10-19T12:28:04.2164765+03:00"
+    },
+    {
+      "productId": 1458,
+      "reviewText": "It only works when I'm South Korea.",
+      "reviewDate": "2018-05-13T02:06:49.0379643+03:00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "userId": 86102,
+  "cartId": "976bd336-55a0-423e-940d-b4ddaf31b17d",
+  "preferredProducts": [
+    4185,
+    1115,
+    2012,
+    3320,
+    595,
+    1279,
+    1110
+  ],
+  "productReviews": [
+    {
+      "productId": 3798,
+      "reviewText": "The box this comes in is 5 kilometer by 6 yard and weights 18 gram.",
+      "reviewDate": "2019-02-22T07:44:44.1626068+02:00"
+    },
+    {
+      "productId": 984,
+      "reviewText": "one of my hobbies is antique-shopping. and when i'm antique-shopping this works great.",
+      "reviewDate": "2017-10-13T02:56:13.9086001+03:00"
+    },
+    {
+      "productId": 1901,
+      "reviewText": "My co-worker Luka has one of these. He says it looks purple.",
+      "reviewDate": "2019-07-24T20:11:29.9096347+03:00"
+    }
+  ]
+}

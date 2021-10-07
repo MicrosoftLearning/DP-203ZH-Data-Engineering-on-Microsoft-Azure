@@ -1,0 +1,35 @@
+{
+  "userId": 23358,
+  "cartId": "6bdad276-b886-4ec4-864f-2fd34be44764",
+  "preferredProducts": [
+    1874,
+    3952,
+    74,
+    2781,
+    3041,
+    1776,
+    1164
+  ],
+  "productReviews": [
+    {
+      "productId": 626,
+      "reviewText": "It only works when I'm Niue.",
+      "reviewDate": "2018-04-07T03:14:57.8634764+03:00"
+    },
+    {
+      "productId": 2552,
+      "reviewText": "It only works when I'm Cook Islands.",
+      "reviewDate": "2019-02-03T17:42:06.7336675+02:00"
+    },
+    {
+      "productId": 1136,
+      "reviewText": "My co-worker Kazuo has one of these. He says it looks transparent.",
+      "reviewDate": "2017-01-28T11:47:53.4262886+02:00"
+    },
+    {
+      "productId": 1122,
+      "reviewText": "i use it biweekly when i'm in my greenhouse.",
+      "reviewDate": "2017-12-09T12:40:29.8144843+02:00"
+    }
+  ]
+}
