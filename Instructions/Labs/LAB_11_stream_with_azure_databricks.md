@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '使用事件中心和 Azure Databricks 创建流式处理解决方案'
     module: '模块 11'
