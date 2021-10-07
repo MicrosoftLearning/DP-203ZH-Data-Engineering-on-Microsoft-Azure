@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '将笔记本中的数据与 Azure 数据工厂或 Azure Synapse 管道集成'
     module: '模块 7'
