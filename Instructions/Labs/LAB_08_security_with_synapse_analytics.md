@@ -211,7 +211,7 @@ Azure Synapse Analytics (ASA) 是一个强大的解决方案，可以为它创�
 完成以下步骤，释放不再需要的资源。
 
 1. 在 Synapse Studio 中，选择“**管理**”中心。
-2. 在左侧菜单中，选择**“SQL 池**”。将鼠标悬停在“**SQLPool01**”专用 SQL 池上，并选择 **||**。
+2. 在左侧菜单中，选择“**SQL 池**”。将鼠标悬停在“**SQLPool01**”专用 SQL 池上，并选择 **||**。
 
     ![突出显示了专用 SQL 池上的“暂停”按钮。](images/pause-dedicated-sql-pool.png "Pause")
 
