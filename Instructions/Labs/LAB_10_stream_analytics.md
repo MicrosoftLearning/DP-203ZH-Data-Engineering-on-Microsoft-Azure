@@ -27,8 +27,6 @@ lab:
 
 [有保证的事件交付](https://docs.microsoft.com/stream-analytics-query/event-delivery-guarantees-azure-stream-analytics)和企业级 SLA，提供 99.9% 的可用性，确保 Azure 流分析适用于任务关键型工作负载。自动检查点支持容错操作，以及快速重启且不会丢失数据。
 
-借助 Azure 流分析，你可以使用 Power BI 快速构建实时仪表板，以获得实时命令和控制视图。[实时仪表板](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-power-bi-dashboard)有助于将实时数据转换为可操作且富有洞察力的视觉对象，并帮助你专注于你认为最重要的内容。
-
 ### Azure 事件中心
 
 [Azure 事件中心](https://docs.microsoft.com/azure/event-hubs/event-hubs-about)是每秒可引入数百万个事件的大数据管道。它使用 HTTPS、AMQP、AMQP over websockets 和 Kafka 等标准协议促进遥测和事件流数据的捕获、保留和重放。数据可以来自多个并发源，并且多达 20 个使用者组允许应用程序按照自己的节奏独立读取整个事件中心。
@@ -58,7 +56,7 @@ Contoso Auto 正在收集车辆遥测数据，并希望使用事件中心快速�
 
 ## 练习 1 - 配置服务
 
-Azure 事件中心是一种大数据流式处理平台和事件引入服务，每秒能够接收和处理数百万个事件。我们正在使用它来临时存储已经过处理并准备发送到实时仪表板的车辆遥测数据。数据流入事件中心后，Azure 流分析将查询数据、应用聚合和标记异常，然后将其发送到 Azure Synapse Analytics 和 Power BI。
+Azure 事件中心是一种大数据流式处理平台和事件引入服务，每秒能够接收和处理数百万个事件。我们正在使用它来临时存储已经过处理并准备发送到实时仪表板的车辆遥测数据。数据流入事件中心后，Azure 流分析将查询数据、应用聚合和标记异常，然后将其发送到 Azure Synapse Analytics。
 
 ### 任务 1：配置事件中心
 
@@ -157,7 +155,7 @@ Azure Synapse 是一个端到端的分析平台，它在一个单一的集成环
 
 Azure 流分析是一个事件处理引擎，你可以使用它来检查从设备流式传输的大量数据。传入数据可以来自设备、传感器、网站、社交媒体订阅源、应用程序等。它还支持从数据流中提取信息，识别模式和关系。然后，你可以使用这些模式触发下游其他操作，例如创建警报、将信息提供给报告工具，或将其存储以供以后使用。
 
-在此任务中，你将配置流分析，以使用你创建的事件中心作为源，查询和分析该数据，然后将其发送到 Power BI，以向 Azure Synapse Analytics 报告聚合数据。
+在此任务中，你将配置流分析，以使用你创建的事件中心作为源，查询和分析该数据。
 
 1. 在 Azure 门户的“**data-engineering-synapse-*xxxxxxx***”资源组中，选择“**as*xxxxxxx***”流分析作业。
 
