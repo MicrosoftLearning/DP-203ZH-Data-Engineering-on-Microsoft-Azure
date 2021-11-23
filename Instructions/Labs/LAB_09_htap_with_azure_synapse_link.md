@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '使用 Azure Synapse Link 支持混合事务分析处理 (HTAP)'
     module: '模块 9'
@@ -25,11 +25,10 @@ lab:
 >       - **Cosmos DB 帐户名**：asacosmosdb*xxxxxxx*
 >       - **数据库名称**：CustomerProfile
 > 2. 在“**数据**”中心，创建以下“**集成数据集**”：
->       - **源**：Azure Data Lake Storage Gen2
->       - **格式**：JSON
+>       - **源**：Azure Cosmos DB (SQL API)
 >       - **名称**：asal400_customerprofile_cosmosdb
->       - **链接服务**：asadatalake*xxxxxxx*
->       - **文件路径**：wwi-02/online-user-profiles-02
+>       - **链接服务**：asacosmosdb01
+>       - **集合**： OnlineUserProfile01
 >       - **导入架构**：从连接/存储
 
 ## 练习 1 – 使用 Azure Cosmos DB 配置 Azure Synapse Link

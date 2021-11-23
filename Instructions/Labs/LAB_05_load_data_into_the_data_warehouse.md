@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '将数据引入和加载到数据仓库中'
     module: '模块 5'
@@ -286,7 +286,7 @@ WWI 有一个每晚固定流程，即从合作伙伴分析系统中引入区域�
     GO
     ```
 
-    请注意 FIELDTERMINATO` 和 ROWTERMINATOR 属性，它们使代码能够正确分析文件。
+    请注意 FIELDTERMINATOR` 和 ROWTERMINATOR 属性，它们使代码能够正确分析文件。
 
 2. 运行该脚本。
 
@@ -418,7 +418,7 @@ Tailwind Traders 需要将大量销售数据引入数据仓库。他们需要一
 
     ![图中突出显示了“管理”菜单项。](images/manage-hub.png "Manage hub")
 
-4. 在左侧菜单中选择“**链接服务**”，然后选择 **sqlpool01_import01** 链接服务（如果未列出，请使用左上角的 **&#8635;** 按钮刷新视图）。
+4. 在左侧菜单中选择“**链接服务**”，然后选择 **sqlpool01_import01** 链接服务（如果未列出，请使用右上角的 **&#8635;** 按钮刷新视图）。
 
     ![链接服务已显示。](images/linked-services.png "Linked services")
 
