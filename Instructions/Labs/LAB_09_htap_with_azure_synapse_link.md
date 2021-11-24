@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '使用 Azure Synapse Link 支持混合事务分析处理 (HTAP)'
     module: '模块 9'
