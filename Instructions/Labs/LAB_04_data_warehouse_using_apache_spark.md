@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '使用 Apache Spark 探索、转换数据并将数据加载到数据仓库中'
     module: '模块 4'
