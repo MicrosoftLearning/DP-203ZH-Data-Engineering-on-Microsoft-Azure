@@ -413,7 +413,7 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
 ### 任务 4：配置数据湖安全性 - 访问控制列表 (ACL)
 
-1. 在左侧菜单中，选择“**存储浏览器(预览)**”。展开“**Blob 容器**”并选择“**wwi-02**”容器。打开 **sale-small** 文件夹，右键单击 **Year=2019** 文件夹，然后选择“**管理 ACL**”。
+1. 在左侧菜单中，选择“**存储资源管理器(预览)**”。展开“**容器**”并选择“**wwi-02**”容器。打开“**sale-small**”文件夹，右键单击“**Year=2019**”文件夹，然后选择“**管理访问权限..**”。
 
     ![已突出显示 2019 文件夹且选中“管理访问权限”。](images/manage-access-2019.png "Storage Explorer")
 
@@ -439,7 +439,7 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
 ### 任务 5：测试权限
 
-1. 在 Synapse Studio 中的“**数据**”中心的“**已链接**”选项卡上，选择“**Azure Data Lake Storage Gen2/asaworkspacexxxxxxx/wwi02**”容器，然后在“**sale-small/Year=2019/Quarter=Q4/Month=12/Day=20191231**”文件夹中，右键单击“**sale-small-20191231-snappy.parquet**”文件，依次选择“**新建 SQL 脚本**”和“**选择前 100 行**”。
+1. 在 Synapse Studio 中的“**数据**”中心的“**已链接**”选项卡上，选择“**Azure Data Lake Storage Gen2/asaworkspace*xxxxxxx*/wwi02**”容器，然后在“*sale-small/Year=2016/Quarter=Q4/Month=12/Day=20161231*”文件夹中，右键单击“**sale-small-20161231-snappy.parquet**”文件，依次选择“**新建 SQL 脚本**”和“**选择前 100 行**”。
 
     ![显示了“数据”中心并突出显示了这些选项。](images/data-hub-parquet-select-rows.png "Select TOP 100 rows")
 
@@ -457,7 +457,7 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
     我们来试一试。
 
-3. 在“**wwi-02**”窗格中，右键单击“**sale-small-20191231-snappy.parquet**”文件，依次选择“**新建笔记本**”和“**加载到 DataFrame**”。
+3. 在“**wwi-02**”窗格中，右键单击“**sale-small-20161231-snappy.parquet**”文件，依次选择“**新建笔记本**”和“**加载到 DataFrame**”。
 
     ![显示了“数据”中心并突出显示了这些选项。](images/data-hub-parquet-new-notebook.png "New notebook")
 
@@ -472,7 +472,7 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 7. 输入以下代码，将“*SUFFIX*”替换为数据湖资源的唯一后缀（可以从上面的单元格 1 中复制此后缀）：
 
     ```python
-    df.write.parquet('abfss://wwi-02@asadatalakeSUFFIX.dfs.core.windows.net/sale-small/Year=2019/Quarter=Q4/Month=12/Day=20191231/sale-small-20191231-snappy-test.parquet')
+    df.write.parquet('abfss://wwi-02@asadatalakeSUFFIX.dfs.core.windows.net/sale-small/Year=2016/Quarter=Q4/Month=12/Day=20161231/sale-small-20161231-snappy-test.parquet')
     ```
 
 8. 运行刚添加的新单元格。输出中应会显示 **403 错误**。
@@ -518,6 +518,6 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
     现在我们来验证文件是否成功写入数据湖。
 
-19. 在 Synapse Studio 中的“**数据**”中心的“**已链接**”选项卡上，选择“**Azure Data Lake Storage Gen2/asaworkspacexxxxxxx/wwi02**”容器，然后浏览到“**sale-small/Year=2019/Quarter=Q4/Month=12/Day=20191231**”文件夹，以验证新文件是否已添加到该文件夹。
+19. 在 Synapse Studio 中的“**数据**”中心的“**已链接**”选项卡上，选择“**Azure Data Lake Storage Gen2/asaworkspace*xxxxxxx*/wwi02**”容器，然后浏览到“*sale-small/Year=2016/Quarter=Q4/Month=12/Day=20161231*”文件夹，以验证新文件是否已添加到该文件夹。
 
     ![已显示测试 Parquet 文件。](images/test-parquet-file.png "Test parquet file")
