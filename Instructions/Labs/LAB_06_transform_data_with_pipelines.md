@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '使用 Azure 数据工厂或 Azure Synapse 管道转换数据'
     module: '模块 6'
