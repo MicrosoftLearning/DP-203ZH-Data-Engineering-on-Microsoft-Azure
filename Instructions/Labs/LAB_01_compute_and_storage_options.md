@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '探索用于数据工程工作负载的计算和存储选项'
     module: '模块 1'
@@ -85,7 +85,7 @@ lab:
 
 此外，用户可以使用 Hyperspace 在运行查询之前将他们的原始计划与更新之后依赖索引的计划进行比较。
 
-1. 打开 Synapse Studio (`https://web.azuresynapse.net`)，如果出现提示，请选择 Azure Active Directory 租户、订阅和 Azure Synapse Analytics 工作区。
+1. 打开 Synapse Studio (`https://web.azuresynapse.net`)，如果出现提示，请选择 Azure Active Directory 租户、订阅和 Azure Synapse Analytics 工作区。如果提示“我们使用可选 Cookie 来增强体验。”，请选择“接受”。
 
 2. 选择“**开发**”中心。
 

@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '使用 Azure Synapse Link 支持混合事务分析处理 (HTAP)'
     module: '模块 9'
@@ -354,7 +354,7 @@ Tailwind Traders 希望使用 T-SQL 浏览 Azure Cosmos DB 分析存储。理想
 
     ![“数据”中心。](images/data-hub.png "Data hub")
 
-8. 选择“**工作区**”选项卡并展开“**数据库**”组。展开 **Profiles** 按需 SQL 数据库（如果没有在列表中看到它，请刷新“**数据库**”列表）。展开“**视图**”，然后右键单击“**UserProfileHTA**”视图，选择“**新建 SQL 脚本**”，然后“**选择前 100 行**”。
+8. 选择“**工作区**”选项卡并展开“**SQL 数据库**”组。展开 Profiles 按需 SQL 数据库（如果没有在列表中看到它，请刷新“**数据库**”列表）。展开“**视图**”，然后右键单击“**UserProfileHTA**”视图，选择“**新建 SQL 脚本**”，然后“**选择前 100 行**”。
 
     ![“选择前 100 行”查询选项已突出显示。](images/new-select-query.png "New select query")
 

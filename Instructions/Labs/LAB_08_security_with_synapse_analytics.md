@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '使用 Azure Synapse Analytics 实现端到端安全性'
     module: '模块 8'

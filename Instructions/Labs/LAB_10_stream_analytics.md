@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '使用流分析进行实时流处理'
     module: '模块 10'
@@ -26,8 +26,6 @@ lab:
 使用 Azure 流分析，几秒钟就可以轻松入门，因为无需担心基础结构，也无需管理服务器、虚拟机或群集。对于任何作业，你都可以立即将[处理能力](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-streaming-unit-consumption)从一个流单元扩展到数百个流单元。你只需为每个作业使用的处理资源付费。
 
 [有保证的事件交付](https://docs.microsoft.com/stream-analytics-query/event-delivery-guarantees-azure-stream-analytics)和企业级 SLA，提供 99.9% 的可用性，确保 Azure 流分析适用于任务关键型工作负载。自动检查点支持容错操作，以及快速重启且不会丢失数据。
-
-借助 Azure 流分析，你可以使用 Power BI 快速构建实时仪表板，以获得实时命令和控制视图。[实时仪表板](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-power-bi-dashboard)有助于将实时数据转换为可操作且富有洞察力的视觉对象，并帮助你专注于你认为最重要的内容。
 
 ### Azure 事件中心
 
@@ -130,7 +128,7 @@ Azure Synapse 是一个端到端的分析平台，它在一个单一的集成环
 
     ![图中突出显示了“数据”中心。](images/data-hub.png "Data hub")
 
-2. 选择“**工作区**”选项卡，展开“**数据库**”并右键单击“**SQLPool01**”。然后选择“**新建 SQL 脚本**”，并选择“**空脚本**”。
+2. 选择“**工作区**”选项卡，展开“**SQL 数据库组**”并右键单击“**SQLPool01**”。然后选择“**新建 SQL 脚本**”，并选择“**空脚本**”。
 
     ![“新建 SQL 脚本”选项已在 SQLPool01 上下文菜单中突出显示。](images/synapse-new-script.png "New SQL script")
 
