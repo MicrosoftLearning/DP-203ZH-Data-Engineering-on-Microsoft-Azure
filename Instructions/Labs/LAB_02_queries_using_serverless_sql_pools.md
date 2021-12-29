@@ -87,8 +87,8 @@ lab:
 在需要查询 Parquet 文件时，我们可以创建外部表，而不是每次都创建带有 OPENROWSET 和根 2019 文件夹路径的脚本。
 
 1. 在 Synapse Studio 中，返回到“**wwi-02**”选项卡，此选项卡应仍显示“*sale-small/Year=2019/Quarter=Q4/Month=12/Day=20191231*”文件夹的内容。
-2. 右键单击“**sale-small-20191231-snappy.parquet**”文件，依次选择“**新建 SQL 脚本**”和“**创建外部表**”。
-3. 确保已为“**SQL 池**”选择“**内置**”。然后，在“**选择数据库**”下，选择“**+ 新建**”，并创建名为`demo`的数据库。对于“**外部表名称**”，输入`All2019Sales`。最后，在“**创建外部表**”下，确保已选择“**使用 SQL 脚本**”，然后选择“**创建**”以生成 SQL 脚本。
+2. 右键单击“**sale-small-20191231-snappy.parquet**”文件，依次选择“**新建 SQL 脚本**”和“**创建外部表**”。在“**新建外部表**”对话框中，单击“**继续**”。
+3. 确保已为“**SQL 池**”选择“**内置**”。接着，在“**选择数据库**”下选择“**+ 新建**”，并创建名为`demo`的数据库，然后单击“**创建**”。对于“外部表名称”，输入`All2019Sales`。最后，在“**创建外部表**”下，确保已选择“**使用 SQL 脚本**”，然后选择“**打开脚本**”以生成 SQL 脚本。
 
     ![“创建外部表”表单已显示。](images/create-external-table-form.png "Create external table")
 
@@ -101,7 +101,7 @@ lab:
     - **3)** CREATE EXTERNAL TABLE WITH 语句指定文件位置，并引用上述创建的新外部文件格式和数据源。
     - **4)** 最后，我们从 `2019Sales` 外部表中选择前 100 个结果。
     
-4. 在 CREATE EXTERNAL TABLE 语句的“**[TransactionId] varchar(8000)**”行中，添加 `COLLATE Latin1_General_100_BIN2_UTF8`，并将“*LOCATION*”值替换为 `sale-small/Year=2019/*/*/*/*.parquet`，使语句类似以下内容（唯一资源 SUFFIX 除外）：
+4. 在 CREATE EXTERNAL TABLE 语句的“**[TransactionId] varchar(8000)**”行中，将 8000 更改为 4000 并添加 `COLLATE Latin1_General_100_BIN2_UTF8`，同时将“**LOCATION**”值替换为 `sale-small/Year=2019/*/*/*/*.parquet`，使语句如下所示（唯一资源 SUFFIX 除外）：
 
 ```sql
 CREATE EXTERNAL TABLE All2019Sales (
@@ -323,8 +323,6 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
 4. 选择“**+ 新建组**”。
 
-    ![“新建组”按钮。](images/new-group.png "New group")
-
 5. 确保已选择“**安全**”组类型，并为“**组名称**”输入 `tailwind-history-owners-SUFFIX`（其中“*suffix*”是你的唯一资源后缀），然后选择“**创建**”。
 
     ![已按照描述配置表单。](images/new-group-history-owners.png "New Group")
@@ -345,15 +343,11 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
     ![已显示该组并突出显示“添加成员”。](images/tailwind-readers.png "tailwind-readers group")
 
-3. 添加你针对实验室所登录的用户帐户，然后选择“**选择**”。
-
-    ![图中显示了表单。](images/add-members.png "Add members")
+3. 搜索你针对实验室登录的用户帐户，然后选择“**选择**”。
 
 4. 打开“**tailwind-2019-writers**”组。
 
 5. 选择左侧的“**成员**”，然后选择“**+ 添加成员**”。
-
-    ![已显示该组并突出显示“添加成员”。](images/tailwind-2019-writers.png "tailwind-2019-writers group")
 
 6. 搜索 `tailwind`，选择“**tailwind-current-writers**”组，然后选择“**选择**”。
 
@@ -385,9 +379,7 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
     ![“添加角色分配”已突出显示。](images/add-role-assignment.png "Add role assignment")
 
-6. 对于“**角色**”，请选择“**存储 Blob 数据读取者**”。搜索`tailwind-readers`，然后在结果中选择“**tailwind-readers**”组。然后选择“**保存**”。
-
-    ![表单已按照描述显示。](images/add-tailwind-readers.png "Add role assignment")
+6. 在“**角色**”屏幕中，搜索并选择“**存储 Blob 数据读取者**”，然后单击“**下一步**”。在“**成员**”屏幕中，单击“**+ 选择成员**”，然后搜索`tailwind-readers`并在结果中选择“**tailwind-readers**”组。然后单击“**选择**”。接下来，单击“**查看 + 分配**”，再次单击“**查看 + 分配**”。
 
     由于你的用户帐户已添加到该组中，因此你拥有对该帐户的 blob 容器中所有文件的读取访问权限。Tailwind Traders 需要将所有用户添加到“**tailwind-readers**”安全组。
 
@@ -395,17 +387,15 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
     ![“添加角色分配”已突出显示。](images/add-role-assignment.png "Add role assignment")
 
-8. 对于“**角色**”，请选择“**存储 Blob 数据所有者**”。搜索 `tailwind`，然后在结果中选择“**tailwind-history-owners**”组。然后选择“**保存**”。
+8. 对于“**角色**”，搜索“**存储 Blob 数据所有者**”，然后选择“**下一步**”。
 
-    ![表单已按照描述显示。](images/add-tailwind-history-owners.png "Add role assignment")
+9. 在“**成员**”屏幕中，单击“**+ 选择成员**”，然后搜索`tailwind`并在结果中选择“**tailwind-history-owners**”组。然后单击“**查看 + 分配**”，并再次单击“**查看 + 分配**”。
 
     “**tailwind-history-owners**”安全组现已分配至包含数据湖的 Azure 存储帐户的 Azure 存储内置 RBAC 角色**存储 Blob 数据所有者**。这让添加到该角色的 Azure AD 用户和服务主体能修改所有数据。
 
     Tailwind Traders 需要将有权修改所有历史数据的用户安全主体添加到“**tailwind-history-owners**”安全组。
 
-9. 在存储帐户的“**访问控制(IAM)**”列表中，选择“**存储 Blob 数据所有者**”角色下自己的 Azure 用户帐户，然后选择“**删除**”。
-
-    ![“访问控制”设置已显示。](images/storage-access-control-updated.png "Access Control updated")
+10. 在存储帐户的“**访问控制(IAM)**”列表中，选择“**存储 Blob 数据所有者**”角色下自己的 Azure 用户帐户，然后选择“**删除**”。
 
     请注意，“**tailwind-history-owners**”组分配至“**存储 Blob 数据所有者**”组，而“**tailwind-readers**”分配至“**存储 Blob 数据读取者**”组。
 
@@ -417,13 +407,11 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
     ![已突出显示 2019 文件夹且选中“管理访问权限”。](images/manage-access-2019.png "Storage Explorer")
 
-2. 将从“**tailwind-2019-writers**”安全组复制的**对象 ID** 值粘贴到“**添加用户、组或服务主体**”文本框中，然后选择“**添加**”。
+2. 在“**管理 ACL**”屏幕上的“**访问权限**”屏幕中，单击“**+ 添加主体**”，将从“**tailwind-2019-writers**”安全组复制的“**对象 ID**”值粘贴到“**添加主体**”搜索框中，单击“**tailwind-2019-writers-suffix**”，然后选中“**选择**”。
 
-    ![对象 ID 值已粘贴至字段中。](images/manage-access-2019-object-id.png "Manage Access")
+3. 现在，你应会看到在“管理 ACL”对话框中选中了“**tailwind-2019-writers**”组。选中“**读取**”、“**写入**”和“**执行**”复选框，然后选择“**保存**”。
 
-3. 现在，你应该看到在“管理访问权限”对话框中选中了“**tailwind-2019-writers**”组。勾选“**访问**”和“**默认**”复选框以及它们各自的“**读取**”、“**写入**”和“**执行**”复选框，然后选择“**保存**”。
-
-    ![已按照描述配置权限。](images/manage-access-2019-permissions.png "Manage Access")
+4. 在“**管理 ACL**”屏幕上的“**默认权限**”屏幕中，单击“**+ 添加主体**”，将从“**tailwind-2019-writers**”安全组复制的“**对象 ID**”值粘贴到“**添加主体**”搜索框中，单击“**tailwind-2019-writers-suffix**”，然后选中“**选择**”。
 
     现在，安全 ACL 已被设置为允许任何添加到“**tailwind-current**”安全组的用户通过“**tailwind-2019-writers**”组写入“**Year=2019**”文件夹。这些用户只能管理当前（本例中为 2019）的销售文件。
 
@@ -472,7 +460,7 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 7. 输入以下代码，将“*SUFFIX*”替换为数据湖资源的唯一后缀（可以从上面的单元格 1 中复制此后缀）：
 
     ```python
-    df.write.parquet('abfss://wwi-02@asadatalakeSUFFIX.dfs.core.windows.net/sale-small/Year=2016/Quarter=Q4/Month=12/Day=20161231/sale-small-20161231-snappy-test.parquet')
+    df.write.parquet('abfss://wwi-02@asadatalakeSUFFIX.dfs.core.windows.net/sale-small/Year=2019/Quarter=Q4/Month=12/Day=20191231/sale-small-20191231-snappy-test.parquet')
     ```
 
 8. 运行刚添加的新单元格。输出中应会显示 **403 错误**。
@@ -485,23 +473,13 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
 
 10. 在“主页”页面的门户菜单中，选择“**Azure Active Directory**”。
 
-    ![突出显示了该菜单项。](images/azure-ad-menu.png "Azure Active Directory")
-
 11. 在左侧菜单中选择“**组**”。
-
-    ![“组”已突出显示。](images/aad-groups-link.png "Azure Active Directory")
 
 12. 在搜索框中键入 `tailwind`，然后在结果中选择“**tailwind-history-owners**”组。
 
-    ![tailwind 组已显示。](images/tailwind-groups.png "All groups")
-
 13. 选择左侧的“**成员**”，然后选择“**+ 添加成员**”。
 
-    ![已显示该组并突出显示“添加成员”。](images/tailwind-history-owners.png "tailwind-history-owners group")
-
 14. 添加你针对实验室所登录的用户帐户，然后选择“**选择**”。
-
-    ![图中显示了表单。](images/add-members.png "Add members")
 
 15. 在新选项卡中，浏览到 Azure Synapse Studio (<https://web.azuresynapse.net/>)。然后在“**开发**”选项卡上，展开“**笔记本**”，并重新打开之前发布的笔记本。
 
@@ -514,6 +492,7 @@ Tailwind Traders 希望强制要求对销售数据的任何修改只能在本年
     > **备注**：如果这次出现相同的错误，请**停止笔记本上的 Spark 会话**，然后依次选择“**全部发布**”和“发布”。发布更改后，选择页面右上角的用户配置文件并**注销**。成功注销后，**关闭浏览器选项卡**，然后重启 Synapse Studio (<https://web.azuresynapse.net/>)，重新打开笔记本并重新运行该单元格。因为必须刷新安全令牌才能进行身份验证更改，所以可能需要这样做。
 
 17. 使用笔记本右上角的“**停止会话**”按钮来停止笔记本会话。
+
 18. 如果希望保存更改，请发布笔记本。然后将其关闭。
 
     现在我们来验证文件是否成功写入数据湖。

@@ -371,7 +371,7 @@ Azure Cosmos DB 是可以在映射数据流中使用的一种数据源。Tailwin
 
     ![图中显示了按照说明配置派生列的设置。](images/data-flow-campaign-analysis-derived-column-settings.png "Derived column's settings")
 
-    定义的表达式将连接和清理“**RevenuePart1**”值和“**Revenue**”值以及“**RevelueTargetPart1**”值和“**RevenueTarget**”值。
+    定义的表达式将连接和清理“**RevenuePart1**”值和“**Revenue**”值以及“**RevenueTargetPart1**”值和“**RevenueTarget**”值。
 
 13. 选择“**ConvertColumnTypesAndValues**”步骤右侧的“**+**”，然后在上下文菜单中选择“**选择**”架构修饰符。
 
@@ -442,7 +442,7 @@ Azure Cosmos DB 是可以在映射数据流中使用的一种数据源。Tailwin
 
     ![选择数据流。](images/pipeline-campaign-analysis-data-flow-settings-tab.png "Settings")
 
-8. 选择“**全部发布**”，以保存新管道。
+8. 选择“**全部发布**”以保存新管道，然后选择“**发布**”。
 
     ![图中突出显示了“全部发布”。](images/publish-all-1.png "Publish all")
 
@@ -474,7 +474,7 @@ Azure Cosmos DB 是可以在映射数据流中使用的一种数据源。Tailwin
 
 2. 展开“**工作区**”部分下面的“**SqlPool01**”数据库，然后展开“**表**”（可能需要刷新才能看到新表）。
 
-3. 右键单击“**wwi.CampaignAnalytics**”表，然后选择“**新建 SQL 脚本**”和“**选择前 1000 行**”。 
+3. 右键单击“**wwi.CampaignAnalytics**”表，然后选择“**新建 SQL 脚本**”和“**选择前 100 行**”。 
 
     ![图中突出显示了“选择前 1000 行”菜单项。](images/select-top-1000-rows-campaign-analytics.png "Select TOP 1000 rows")
 

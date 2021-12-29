@@ -27,8 +27,6 @@ lab:
 
 [有保证的事件交付](https://docs.microsoft.com/stream-analytics-query/event-delivery-guarantees-azure-stream-analytics)和企业级 SLA，提供 99.9% 的可用性，确保 Azure 流分析适用于任务关键型工作负载。自动检查点支持容错操作，以及快速重启且不会丢失数据。
 
-借助 Azure 流分析，你可以使用 Power BI 快速构建实时仪表板，以获得实时命令和控制视图。[实时仪表板](https://docs.microsoft.com/azure/stream-analytics/stream-analytics-power-bi-dashboard)有助于将实时数据转换为可操作且富有洞察力的视觉对象，并帮助你专注于你认为最重要的内容。
-
 ### Azure 事件中心
 
 [Azure 事件中心](https://docs.microsoft.com/azure/event-hubs/event-hubs-about)是每秒可引入数百万个事件的大数据管道。它使用 HTTPS、AMQP、AMQP over websockets 和 Kafka 等标准协议促进遥测和事件流数据的捕获、保留和重放。数据可以来自多个并发源，并且多达 20 个使用者组允许应用程序按照自己的节奏独立读取整个事件中心。
@@ -130,7 +128,7 @@ Azure Synapse 是一个端到端的分析平台，它在一个单一的集成环
 
     ![图中突出显示了“数据”中心。](images/data-hub.png "Data hub")
 
-2. 选择“**工作区**”选项卡，展开“**数据库**”并右键单击“**SQLPool01**”。然后选择“**新建 SQL 脚本**”，并选择“**空脚本**”。
+2. 选择“**工作区**”选项卡，展开“**SQL 数据库组**”并右键单击“**SQLPool01**”。然后选择“**新建 SQL 脚本**”，并选择“**空脚本**”。
 
     ![“新建 SQL 脚本”选项已在 SQLPool01 上下文菜单中突出显示。](images/synapse-new-script.png "New SQL script")
 
